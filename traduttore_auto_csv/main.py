@@ -15,52 +15,28 @@ def traduci_testo_csv(input_file, output_file, source_lang='en', target_lang='it
         writer = csv.writer(outfile, delimiter='\t')
 
         for row in reader:
-            if not row:
-                writer.writerow([])  # Mantieni righe vuote
+            if not row: 
+                writer.writerow([])
                 continue
             
             righe_originali += 1
             translated_row = []
-            original_row = []  # Per memorizzare i valori originali separati
-            
-            # Variabile per gestire i casi di testo diviso su più colonne
-            combined_text = ''
-            combined_original = []
-
+            original_row = [] 
             for value in row:
                 if value.isdigit() or re.match(r'^[\W_]+$', value) or "\\u" in value: 
-                    if combined_text:  # Se c'era un testo combinato, traduciamolo e aggiungiamolo
-                        try:
-                            translated_text = translator.translate(combined_text).replace("\n", "\\n").replace("<Corsivo>", "<Italic>").replace("</Corsivo>", "</Italic>")
-                            translated_row.append(translated_text)
-                            original_row.append(' '.join(combined_original))  # Unisce le frasi originali
-                        except Exception as e:
-                            print(f"Errore nella traduzione di '{combined_text}': {e}")
-                            translated_row.append(combined_text)
-                            original_row.append(' '.join(combined_original))
-                        
-                        # Reset per la prossima sequenza di testo
-                        combined_text = ''
-                        combined_original = []
-
                     translated_row.append(value)
                     original_row.append(value)
                 else:
-                    # Se non è un numero o un carattere speciale, combinare il testo
-                    combined_text += ' ' + value if combined_text else value
-                    combined_original.append(value)
-            
-            # Gestisci l'ultimo caso in cui c'è testo combinato ma non è stato tradotto
-            if combined_text:
-                try:
-                    translated_text = translator.translate(combined_text).replace("\n", "\\n").replace("<Corsivo>", "<Italic>").replace("</Corsivo>", "</Italic>")
-                    translated_row.append(translated_text)
-                    original_row.append(' '.join(combined_original))
-                except Exception as e:
-                    print(f"Errore nella traduzione di '{combined_text}': {e}")
-                    translated_row.append(combined_text)
-                    original_row.append(' '.join(combined_original))
-            
+                    try:
+                        text = value.replace("\\n", "\n")
+                        translated_text = translator.translate(text).replace("\n", "\\n").replace("<Corsivo>", "<Italic>").replace("</Corsivo>", "</Italic>")
+                        translated_row.append(translated_text)
+                        original_row.append(text)
+                    except Exception as e:
+                        print(f"Errore nella traduzione di '{value}': {e}")
+                        translated_row.append(value) 
+                        original_row.append(value)
+
             print(f"\033[33mOriginale: {', '.join(original_row)}\033[0m")
             print(f"\033[32mTradotto: {', '.join(translated_row)}\033[0m")
             
