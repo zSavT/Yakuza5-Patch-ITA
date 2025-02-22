@@ -14,7 +14,7 @@ Analizzando i file, mi sono occorto che principalmente il gioco utilizza file  _
     - [x] Tradotto ma da rivisionare
 - Yakuza 5\data\2d
     - All'interno sono presenti la maggior parte delle grafiche del gioco.
-    - [ ] Parzialmente tradotto 
+    - [ ] Tradotto
 
 ## TO DO
 
