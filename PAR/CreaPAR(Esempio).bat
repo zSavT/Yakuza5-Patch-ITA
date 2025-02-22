@@ -1,0 +1,1 @@
+.\ParTool.exe create tradotto subtitle.par -c 1
