@@ -11,7 +11,7 @@ Analizzando i file, mi sono occorto che principalmente il gioco utilizza file  _
 
 - Yakuza 5\data\auth\subtitle.par
     - All'interno sono presenti tutti i testi per le cutscene presenti nel gioco.
-    - [ ] Tradotto 
+    - [x] Tradotto ma da rivisionare
 - Yakuza 5\data\2d
     - All'interno sono presenti la maggior parte delle grafiche del gioco.
     - [ ] Parzialmente tradotto 
