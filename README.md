@@ -1,5 +1,5 @@
-# Yakuza4-Patch-ITA
-![GitHub contributors](https://img.shields.io/github/contributors/zSavT/Yakuza4-Patch-ITA)
+# Yakuza5-Patch-ITA
+![GitHub contributors](https://img.shields.io/github/contributors/zSavT/Yakuza5-Patch-ITA)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/verio12)
 
 
@@ -9,16 +9,16 @@ Analizzando i file, mi sono occorto che principalmente il gioco utilizza file  _
 ## Struttura dei file (Noti al momento)
 
 
-- Yakuza 4\data\auth\subtitle.par
+- Yakuza 5\data\auth\subtitle.par
     - All'interno sono presenti tutti i testi per le cutscene presenti nel gioco.
     - [x] Tradotto 
-- Yakuza 4\data\hact\subtitle.par
+- Yakuza 5\data\hact\subtitle.par
     - All'interno sono presenti tutti i testi non presenti nelle cutscene o nei classi box di dialogo o menu.
     - [x] Tradotto 
-- Yakuza 4\data\2d\cse_en.pa
+- Yakuza 5\data\2d\cse_en.pa
     - All'interno sono presenti la maggior parte delle grafiche del gioco, in particolare quelle per l'immagine di introduzione dei capitoli e degli obbiettivi.
     - [ ] Parzialmente tradotto 
-- Yakuza 4\data\2d
+- Yakuza 5\data\2d
     - All'interno sono presenti la maggior parte delle grafiche del gioco.
     - [ ] Parzialmente tradotto 
 
