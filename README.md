@@ -16,6 +16,16 @@ Analizzando i file, mi sono occorto che principalmente il gioco utilizza file  _
     - All'interno sono presenti la maggior parte delle grafiche del gioco.
     - [ ] Tradotto
 
+# Funzionamento script
+
+Lo script utilizza le api di Gemini 2.0 per poter funzionare. Le API al momento sono utilizzabili gratuitamente (per ora). La chiave si può ottenere da [qui](https://aistudio.google.com/apikey).<br>
+Bisogna inserire la chiave all'interno del file "_traduttore_auto_csv/api_key.txt_" oppure lanciando lo script python tramite il flag "_--api [CHIAVE_API]_".
+Ovviamente bisogna sostituire "_CHIAVE API_" con la propria chiave.
+
+```
+python .\main.py --api [CHIAVE_API]
+```
+
 ## TO DO
 
 - [x] Codifica e decodifica dei file PAR
