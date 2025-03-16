@@ -23,7 +23,7 @@ jobs:
         pip install -r requirements.txt || true 
     
     - name: Run Python script
-      run: test/test.py
+      run: python test/test.py
       
     - name: Configure git
       run: |
