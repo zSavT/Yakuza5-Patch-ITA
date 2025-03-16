@@ -2,7 +2,7 @@
 
 def main():
     input_file = "input.txt"
-    output_file = "output.txt"
+    output_file = "output.csv"
 
     # Legge l'input file (contenuto ignorato per questo test)
     try:
