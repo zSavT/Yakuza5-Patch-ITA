@@ -1,23 +1,13 @@
-# path/to/your_script.py
+import datetime
 
 def main():
-    input_file = "input.txt"
-    output_file = "output.csv"
+    output_file = "test/output.txt"
 
-    # Legge l'input file (contenuto ignorato per questo test)
-    try:
-        with open(input_file, "r") as f:
-            content = f.read()
-            print(f"Letto contenuto da {input_file}:")
-            print(content)
-    except FileNotFoundError:
-        print(f"{input_file} non trovato. Crealo con del testo di prova.")
-        return
-
-    # Scrive il file di output con la parola 'test'
+    # Scrive la data e ora correnti nel file, così cambia ad ogni run
     with open(output_file, "w") as f:
-        f.write("test\n")
-        print(f"Scritto 'test' in {output_file}")
+        current_time = datetime.datetime.now().isoformat()
+        f.write(f"Updated at: {current_time}\n")
+        print(f"Wrote to {output_file}: Updated at {current_time}")
 
 if __name__ == "__main__":
     main()
