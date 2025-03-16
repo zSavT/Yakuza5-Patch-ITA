@@ -46,8 +46,9 @@ jobs:
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v6
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: "Auto: updated files via Python script"
         title: "Automated Update: Files modified by script"
         body: "This PR contains the result of the automated script."
-        head: ${{ env.BRANCH_NAME }}
+        branch: auto-update-${{ github.run_number }}
         base: main
+        delete-branch: true
