@@ -1,0 +1,49 @@
+name: Run Python Script and Create PR
+
+on:
+  workflow_dispatch:
+
+jobs:
+  run-script-and-pr:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        ref: main 
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.13'
+    
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt || true 
+    
+    - name: Run Python script
+      run: test/test.py
+      
+    - name: Configure git
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+    
+    - name: Create new branch
+      run: |
+        BRANCH_NAME="auto-update-$(date +%s)"
+        git checkout -b $BRANCH_NAME
+        git add .
+        git commit -m "Auto: updated files via Python script"
+        git push origin $BRANCH_NAME
+        echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
+    
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v6
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        title: "Automated Update: Files modified by script"
+        body: "This PR contains the result of the automated script."
+        head: ${{ env.BRANCH_NAME }}
+        base: main
