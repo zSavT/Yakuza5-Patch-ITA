@@ -118,7 +118,7 @@ def traduci_tutti_csv_in_cartella(cartella, output_cartella):
     print(output_cartella)
 
 if __name__ == "__main__":
-    cartella = "input"
+    cartella = "traduttore_auto_csv/input"
     output_cartella = os.path.join(cartella, "tradotto")
 
     traduci_tutti_csv_in_cartella(cartella, output_cartella)
