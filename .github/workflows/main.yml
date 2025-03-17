@@ -27,7 +27,7 @@ jobs:
         pip install -r requirements.txt || true 
     
     - name: Run Python script
-      run: python test/test.py --api ${{ secrets.API }}
+      run: python traduttore_auto_csv/main.py --api ${{ secrets.API }}
       
     - name: Configure git
       run: |
