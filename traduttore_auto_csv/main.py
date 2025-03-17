@@ -114,6 +114,8 @@ def traduci_tutti_csv_in_cartella(cartella, output_cartella):
     hours, rem = divmod(elapsed_time, 3600)
     minutes, seconds = divmod(rem, 60)
     print(f"⏳ Tempo totale di esecuzione: {int(hours)}h {int(minutes)}m {int(seconds)}s")
+    print(cartella)
+    print(output_cartella)
 
 if __name__ == "__main__":
     cartella = "input"
