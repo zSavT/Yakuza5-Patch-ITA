@@ -9,23 +9,28 @@ import sys
 
 def get_api_key():
     parser = argparse.ArgumentParser(description="Script per tradurre file CSV utilizzando Google Gemini.")
-    parser.add_argument("--api", type=str, help="Specifica la chiave API per Google Gemini. In alternativa, creare un file 'api_key.txt' nella stessa cartella contenente la chiave API.")
+    parser.add_argument("--api", type=str, help="Specifica la chiave API per Google Gemini. In alternativa, creare un file 'api_key.txt'.")
+    parser.add_argument("--oneThread", action="store_true", help="Disabilita l'animazione di caricamento.")
+    parser.add_argument("--input", type=str, default="input", help="Specifica la cartella di input contenente i file CSV da tradurre. Default: 'input'")
     args = parser.parse_args()
     
-    if args.api:
-        print("✅ API key fornita tramite flag --api")
-        return args.api
-    
+    return args
+
+args = get_api_key()
+
+if args.api:
+    print("✅ API key fornita tramite flag --api")
+    api_key = args.api
+else:
     api_key_file = "api_key.txt"
     if os.path.exists(api_key_file):
         with open(api_key_file, "r") as f:
             print("✅ API key caricata con successo dal file api_key.txt")
-            return f.read().strip()
-    
-    print("❌ Errore: Chiave API non trovata. Creare un file 'api_key.txt' nella stessa cartella dello script con la chiave API o specificarla con il flag --api.")
-    raise ValueError("Chiave API non trovata.")
+            api_key = f.read().strip()
+    else:
+        print("❌ Errore: Chiave API non trovata. Creare un file 'api_key.txt' nella stessa cartella dello script con la chiave API o specificarla con il flag --api.")
+        raise ValueError("Chiave API non trovata.")
 
-api_key = get_api_key()
 genai.configure(api_key=api_key)
 model = genai.GenerativeModel('gemini-2.0-flash')
 
@@ -38,11 +43,15 @@ def animazione_caricamento(stop_event):
         time.sleep(0.2)
     sys.stdout.write("\r")
 
-def traduci_testo_csv(input_file, output_file):
+def traduci_testo_csv(input_file, output_file, disabilita_animazione):
     from threading import Thread, Event
+
     stop_event = Event()
-    loader_thread = Thread(target=animazione_caricamento, args=(stop_event,))
-    loader_thread.start()
+    if not disabilita_animazione:
+        loader_thread = Thread(target=animazione_caricamento, args=(stop_event,))
+        loader_thread.start()
+    else:
+        loader_thread = None
 
     righe_originali = 0
     righe_tradotte = 0
@@ -66,7 +75,7 @@ def traduci_testo_csv(input_file, output_file):
                 else:
                     while True:  # CICLO INFINITO FINCHÉ NON RIESCE
                         try:
-                            prompt = f"""Ti passerò del testo proveniente da un file csv del gioco Yakuza 4 contenente i dialoghi del gioco e devi tradurmi il testo in italiano considerando le tematiche e linguaggio del gioco, ma solo il testo, i restanti codici html, numeri, 
+                            prompt = f"""Ti passerò del testo proveniente da un file csv del gioco Yakuza 5 contenente i dialoghi del gioco e devi tradurmi il testo in italiano considerando le tematiche e linguaggio del gioco, ma solo il testo, i restanti codici html, numeri, 
                             devono rimanere invariati. Limitati a rispondere solamente con la traduzione, senza aggiungere tuoi commenti personali. 
                             Se ti chiedo di tradurre \"Thanks\", non devi ringraziarmi, ma tradurre e basta. Ora ti mando il testo da tradurre: {value}"""
 
@@ -85,16 +94,17 @@ def traduci_testo_csv(input_file, output_file):
                             print("⏳ Riprovo tra 20 secondi...")
                             time.sleep(20)
 
-
             writer.writerow(translated_row)
             righe_tradotte += 1
 
     stop_event.set()
-    loader_thread.join()
+    if loader_thread:
+        loader_thread.join()
+
     print(f"✅ Numero di righe originali: {righe_originali}")
     print(f"✅ Numero di righe tradotte: {righe_tradotte}\n")
 
-def traduci_tutti_csv_in_cartella(cartella, output_cartella):
+def traduci_tutti_csv_in_cartella(cartella, output_cartella, disabilita_animazione):
     start_time = time.time()
 
     if not os.path.exists(output_cartella):
@@ -106,7 +116,7 @@ def traduci_tutti_csv_in_cartella(cartella, output_cartella):
             output_file = os.path.join(output_cartella, filename)
 
             print(f"📂 Traducendo {filename}...")
-            traduci_testo_csv(input_file, output_file)
+            traduci_testo_csv(input_file, output_file, disabilita_animazione)
             print(f"✅ File tradotto salvato come: {output_file}")
 
     end_time = time.time()
@@ -118,8 +128,15 @@ def traduci_tutti_csv_in_cartella(cartella, output_cartella):
     print(output_cartella)
 
 if __name__ == "__main__":
-    cartella = "traduttore_auto_csv/input"
+    cartella = args.input
     output_cartella = os.path.join(cartella, "tradotto")
 
-    traduci_tutti_csv_in_cartella(cartella, output_cartella)
+    # Controllo sicurezza: cartella esiste?
+    if not os.path.exists(cartella):
+        print(f"❌ Errore: La cartella di input '{cartella}' non esiste.")
+        sys.exit(1)
+
+    print(f"📁 Cartella di input selezionata: {cartella}")
+    traduci_tutti_csv_in_cartella(cartella, output_cartella, args.oneThread)
     print("🎉 Traduzione completata per tutti i file CSV.")
+
