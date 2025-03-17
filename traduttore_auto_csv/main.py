@@ -8,12 +8,12 @@ import itertools
 import sys
 
 def get_api_key():
+    print("Avvio script...")
     parser = argparse.ArgumentParser(description="Script per tradurre file CSV utilizzando Google Gemini.")
     parser.add_argument("--api", type=str, help="Specifica la chiave API per Google Gemini. In alternativa, creare un file 'api_key.txt'.")
     parser.add_argument("--oneThread", action="store_true", help="Disabilita l'animazione di caricamento.")
     parser.add_argument("--input", type=str, default="traduttore_auto_csv/input", help="Specifica la cartella di input contenente i file CSV da tradurre. Default: 'input'")
     args = parser.parse_args()
-    print(args)
     
     return args
 
