@@ -64,22 +64,27 @@ def traduci_testo_csv(input_file, output_file):
                 if value == '' or value.isdigit() or re.match(r'^[\W_]+$', value) or "\\u" in value or value == " ":
                     pass
                 else:
-                    try:
-                        prompt = f"""Ti passerò del testo proveniente da un file csv del gioco Yakuza 5 e devi tradurmi il testo in italiano considerando le tematiche e linguaggio del gioco, ma solo il testo, i restanti codici html, numeri, 
-                        devono rimanere invariati. Limitati a rispondere solamente con la traduzione, senza aggiungere tuoi commenti personali. 
-                        Se ti chiedo di tradurre \"Thanks\", non devi ringraziarmi, ma tradurre e basta. Non aggiungere il carattere di fine stringa. Ora ti mando il testo da tradurre: {value}"""
+                    while True:  # CICLO INFINITO FINCHÉ NON RIESCE
+                        try:
+                            prompt = f"""Ti passerò del testo proveniente da un file csv del gioco Yakuza 4 contenente i dialoghi del gioco e devi tradurmi il testo in italiano considerando le tematiche e linguaggio del gioco, ma solo il testo, i restanti codici html, numeri, 
+                            devono rimanere invariati. Limitati a rispondere solamente con la traduzione, senza aggiungere tuoi commenti personali. 
+                            Se ti chiedo di tradurre \"Thanks\", non devi ringraziarmi, ma tradurre e basta. Ora ti mando il testo da tradurre: {value}"""
 
-                        time.sleep(60)
-                        response = model.generate_content(prompt)
-                        translated_text = response.text.strip()
-                        translated_text = translated_text.replace("<Corsivo>", "<Italic>").replace("</Corsivo>", "</Italic>")
+                            time.sleep(2)  # Delay tra richieste (puoi anche alzarlo se serve)
+                            response = model.generate_content(prompt)
+                            translated_text = response.text.strip()
+                            translated_text = translated_text.replace("<Corsivo>", "<Italic>").replace("</Corsivo>", "</Italic>")
 
-                        translated_row[2] = translated_text
-                        print(f"\n🇬🇧 Testo originale: {value}")
-                        print(f"🇮🇹 Testo tradotto: {translated_text}")
-                        print(f"Lista token traduzione: {translated_row}")
-                    except Exception as e:
-                        print(f"❌ Errore nella traduzione di '{value}': {e}")
+                            translated_row[2] = translated_text
+                            print(f"\n🇬🇧 Testo originale: {value}")
+                            print(f"🇮🇹 Testo tradotto: {translated_text}")
+                            print(f"Lista token traduzione: {translated_row}")
+                            break  # SE TUTTO VA BENE, ESCI DAL WHILE
+                        except Exception as e:
+                            print(f"❌ Errore nella traduzione di '{value}': {e}")
+                            print("⏳ Riprovo tra 20 secondi...")
+                            time.sleep(20)
+
 
             writer.writerow(translated_row)
             righe_tradotte += 1
