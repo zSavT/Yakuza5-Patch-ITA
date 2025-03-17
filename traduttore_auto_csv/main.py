@@ -8,7 +8,6 @@ import itertools
 import sys
 
 def get_api_key():
-    print("Avvio script...")
     parser = argparse.ArgumentParser(description="Script per tradurre file CSV utilizzando Google Gemini.")
     parser.add_argument("--api", type=str, help="Specifica la chiave API per Google Gemini. In alternativa, creare un file 'api_key.txt'.")
     parser.add_argument("--oneThread", action="store_true", help="Disabilita l'animazione di caricamento.")
@@ -46,7 +45,6 @@ def animazione_caricamento(stop_event):
 
 def traduci_testo_csv(input_file, output_file, disabilita_animazione):
     from threading import Thread, Event
-    print(disabilita_animazione)
     stop_event = Event()
     if not disabilita_animazione:
         loader_thread = Thread(target=animazione_caricamento, args=(stop_event,))
@@ -131,7 +129,6 @@ def traduci_tutti_csv_in_cartella(cartella, output_cartella, disabilita_animazio
 if __name__ == "__main__":
     cartella = args.input
     output_cartella = os.path.join(cartella, "tradotto")
-    print("Arg:", args)
     # Controllo sicurezza: cartella esiste?
     if not os.path.exists(cartella):
         print(f"❌ Errore: La cartella di input '{cartella}' non esiste.")
