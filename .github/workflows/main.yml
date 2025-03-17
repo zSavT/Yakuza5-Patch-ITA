@@ -28,27 +28,32 @@ jobs:
     
     - name: Run Python script
       run: python traduttore_auto_csv/main.py --api ${{ secrets.API }} --oneThread --input traduttore_auto_csv/input
+      continue-on-error: true  
       
     - name: Configure git
+      if: always() 
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
     
     - name: Create new branch
+      if: always()
       run: |
         BRANCH_NAME="auto-update-$(date +%s)"
         git checkout -b $BRANCH_NAME
         git add .
-        git commit -m "Auto: updated files via Python script"
+        # Commit solo se ci sono cambiamenti
+        git diff --cached --quiet || git commit -m "Auto: updated files via Python script"
         git push origin $BRANCH_NAME
         echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
     
     - name: Create Pull Request
+      if: always()
       uses: peter-evans/create-pull-request@v6
       with:
         commit-message: "Auto: updated files via Python script"
         title: "Traduzione"
-        body: "This PR contains the result of the automated script."
+        body: "This PR contains the (possibly partial) result of the automated script."
         branch: auto-update-${{ github.run_number }}
         base: main
         delete-branch: true
