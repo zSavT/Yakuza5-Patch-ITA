@@ -1,4 +1,4 @@
-name: Run Python Script and Create PR
+name: Avvia Python Script
 
 on:
   workflow_dispatch:
@@ -24,10 +24,10 @@ jobs:
     
     - name: Install dependencies
       run: |
-        pip install -r requirements.txt || true 
+        pip install -r traduttore_auto_csv/requirements.txt || true 
     
     - name: Run Python script
-      run: python test/test.py
+      run: python traduttore_auto_csv/main.py --api ${{ secrets.API }}
       
     - name: Configure git
       run: |
@@ -47,7 +47,7 @@ jobs:
       uses: peter-evans/create-pull-request@v6
       with:
         commit-message: "Auto: updated files via Python script"
-        title: "Automated Update: Files modified by script"
+        title: "Traduzione"
         body: "This PR contains the result of the automated script."
         branch: auto-update-${{ github.run_number }}
         base: main
