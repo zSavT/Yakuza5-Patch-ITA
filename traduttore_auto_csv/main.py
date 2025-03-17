@@ -45,7 +45,7 @@ def animazione_caricamento(stop_event):
 
 def traduci_testo_csv(input_file, output_file, disabilita_animazione):
     from threading import Thread, Event
-
+    print(disabilita_animazione)
     stop_event = Event()
     if not disabilita_animazione:
         loader_thread = Thread(target=animazione_caricamento, args=(stop_event,))
