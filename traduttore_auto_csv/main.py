@@ -130,7 +130,7 @@ def traduci_tutti_csv_in_cartella(cartella, output_cartella, disabilita_animazio
 if __name__ == "__main__":
     cartella = args.input
     output_cartella = os.path.join(cartella, "tradotto")
-
+    print("Arg:", args)
     # Controllo sicurezza: cartella esiste?
     if not os.path.exists(cartella):
         print(f"❌ Errore: La cartella di input '{cartella}' non esiste.")
