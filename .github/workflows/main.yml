@@ -27,7 +27,7 @@ jobs:
         pip install -r traduttore_auto_csv/requirements.txt || true 
     
     - name: Run Python script
-      run: python traduttore_auto_csv/main.py --api ${{ secrets.API }} --oneThread
+      run: python traduttore_auto_csv/main.py --oneThread --api ${{ secrets.API }}
       continue-on-error: true  
       
     - name: Configure git
