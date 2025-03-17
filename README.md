@@ -30,7 +30,11 @@ Ovviamente bisogna sostituire "_CHIAVE API_" con la propria chiave.
 ```
 python .\main.py --api [CHIAVE_API]
 ```
-
+Altri flag utilizzabili sono 
+```py
+--input [CARTELLA_INPUT] # Sono presenti tutti 
+--oneThread # Non crea il thread secondario per la stampa del messaggio "Traducendo..."
+```
 ## TO DO
 
 - [x] Codifica e decodifica dei file PAR
