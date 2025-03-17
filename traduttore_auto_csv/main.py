@@ -13,6 +13,7 @@ def get_api_key():
     parser.add_argument("--oneThread", action="store_true", help="Disabilita l'animazione di caricamento.")
     parser.add_argument("--input", type=str, default="traduttore_auto_csv/input", help="Specifica la cartella di input contenente i file CSV da tradurre. Default: 'input'")
     args = parser.parse_args()
+    print(args)
     
     return args
 
