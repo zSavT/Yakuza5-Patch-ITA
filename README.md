@@ -1,4 +1,9 @@
 # Yakuza5-Patch-ITA
+<p align="center">
+  <img src="img/LogoYakuza5.png" /><br>
+    Progetto per la traduzione del gioco Yakuza 5 REMASTEERED in italiano.
+</p>
+
 ![GitHub contributors](https://img.shields.io/github/contributors/zSavT/Yakuza5-Patch-ITA)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/verio12)
 
