@@ -23,23 +23,60 @@ Analizzando i file, mi sono occorto che principalmente il gioco utilizza file  _
 
 # Funzionamento script
 
-Lo script utilizza le api di Gemini 2.0 per poter funzionare. Le API al momento sono utilizzabili gratuitamente (per ora). La chiave si può ottenere da [qui](https://aistudio.google.com/apikey).<br>
+Lo script utilizza le api di Gemini 2.0 per poter funzionare. Le API al momento sono utilizzabili gratuitamente (per ora). La chiave si può ottenere da [qui](https://aistudio.google.com/apikey).<br> i file csv presenti nella cartella "_input_". Output dell'operazione è salvato nella cartella "_tradotto_".
 Bisogna inserire la chiave all'interno del file "_traduttore_auto_csv/api_key.txt_" oppure lanciando lo script python tramite il flag "_--api [CHIAVE_API]_".
 Ovviamente bisogna sostituire "_CHIAVE API_" con la propria chiave.
 
 ```
 python .\main.py --api [CHIAVE_API]
 ```
-Altri flag utilizzabili sono 
+Altri flag utilizzabili sono:
 ```py
 --input [CARTELLA_INPUT] # Sono presenti tutti 
 --oneThread # Non crea il thread secondario per la stampa del messaggio "Traducendo..."
 ```
+
+## Struttura file CSV
+
+I file csv del gioco hanno il seguente formato:
+
+```sql
+INTEGER INTEGER TEXT
+```
+Esempio
+```py
+293	326	Answer me.	53	　	60ｆ以下です	 
+2058	2177	You seem real tense.\nSomething happen?
+```
+
+La codifica dei file csv è "__UTF-16__".
 ## TO DO
 
 - [x] Codifica e decodifica dei file PAR
 - [ ] Codifica e decodifica dei file BIN (Controllando questa [repo](https://github.com/SlowpokeVG/Yakuza-2007.03.19-bin-file-exporter-importer), i file relativi a Yakuza 4 non sembrano compatibili, testando con altri giochi della serie si)
 
+# Altre patch della serie
+
+Lista dei progetti di patch in italiano per i giochi della serie:
+- [Yakuza 0](https://letraduzionidirulesless.wordpress.com/yakuza0-2/)
+    - Come indicato nell'introduzione, la patch di Yakuza 0 è l'unica completa al 100% (o quasi).
+- [Yakuza Kiwami 1 e 2](https://vittolarosa93.wixsite.com/kiwamivideo)
+    - L'autore ha rilasciato sul sito delle patch parziali dei giochi/video dimostrativi.
+- [Yakuza 3 Remastered](https://vittolarosa93.wixsite.com/kiwamivideo)
+    - L'autore ha rilasciato sul sito delle patch parziali del gioco/video dimostrativo.
+- [Yakuza 4 Remastered](https://github.com/zSavT/Yakuza4-Patch-ITA)
+    - Un'altra patch realizzata da me per la serie Yakuza è quella di Yakuza 5, il funzionamento ed il materiale tradotto è il medesimo.
+- Yakuza 5 Remastered
+    - Questo progetto
+
+__N.B.__<br>
+Chi ha realizzato la patch per Yakuza 1 - 2 - 3, sta lavorando anche ad una patch totale per Yakuza 4 - 5 - 6.
+Gli autori sono liberi di attingere da questa progetto, previo avviso.
+
 ## Dipendenza
 
 Per la codifica e la decodifica dei file _PAR_ del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/Kaplas80/ParManager.git) da Kaplas80.
+
+
+# Altri progetti di traduzione miei
+[Valkyria Chronicles Patch ITA](https://github.com/zSavT/Valkyria-Chronicles-Patch-ITA)
