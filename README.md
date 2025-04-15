@@ -75,7 +75,8 @@ La codifica dei file csv è "__UTF-16__".
 ## TO DO
 
 - [x] Codifica e decodifica dei file PAR
-- [ ] Codifica e decodifica dei file BIN (Controllando questa [repo](https://github.com/SlowpokeVG/Yakuza-2007.03.19-bin-file-exporter-importer), i file relativi a Yakuza 4 non sembrano compatibili, testando con altri giochi della serie si)
+- [ ] Codifica e decodifica dei file BIN 2007.03.19
+- [ ] Modifica al Font
 
 # Altre patch della serie
 
@@ -90,14 +91,17 @@ Lista dei progetti di patch in italiano per i giochi della serie:
     - Un'altra patch realizzata da me per la serie Yakuza è quella di Yakuza 5, il funzionamento ed il materiale tradotto è il medesimo.
 - Yakuza 5 Remastered
     - Questo progetto
+- [Yakuza 6](https://www.nexusmods.com/yakuza6/mods/220)
+    - Un ragazzo ha tradotto i sottotitoli delle cutscene e alcuni menu
 
 __N.B.__<br>
 Chi ha realizzato la patch per Yakuza 1 - 2 - 3, sta lavorando anche ad una patch totale per Yakuza 4 - 5 - 6.
 Gli autori sono liberi di attingere da questa progetto, previo avviso.
 
-## Dipendenza
+## Dipendenza e ringraziamenti
 
-Per la codifica e la decodifica dei file _PAR_ del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/Kaplas80/ParManager.git) da Kaplas80.
+- Per la codifica e la decodifica dei file _PAR_ del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/Kaplas80/ParManager.git) da Kaplas80.<br>
+- Per la codifica e la decodifica dei file BIN 2007.03.19 del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/SlowpokeVG/Yakuza-2007.03.19-bin-file-exporter-importer) da SlowpokeVG.
 
 
 # Altri progetti di traduzione miei
