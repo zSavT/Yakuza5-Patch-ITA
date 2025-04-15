@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 
 # -----------------------------------------------------------------------------
-# Installer Patch ITA Yakuza 4 Remastered
+# Installer Patch ITA Yakuza 5 Remastered
 # Autore: SavT
-# Versione: v0.0.4
+# Versione: v0.0.1
 # -----------------------------------------------------------------------------
 
 # --- Import Moduli Standard ---
@@ -53,7 +53,7 @@ def resource_path(relative_path):
 #DEFAULT_AES_KEY = "^#Nxu9cNV2722HA&jw4H3j7sXnt&#Xbb".encode('utf-8')
 CHIAVE = "chiave.txt"
 # Nome suggerito per la cartella di installazione
-DEFAULT_FOLDER_NAME = "Yakuza 4"
+DEFAULT_FOLDER_NAME = "Yakuza 5"
 # Nome del file per i log di errore
 LOG_FILE = "install_log.txt"
 # Nome del file contenente la patch criptata
@@ -67,7 +67,7 @@ YT_ICON = resource_path("assets/youtube.png")
 GH_ICON = resource_path("assets/github.png")
 WEB_ICON = resource_path("assets/web.png")
 # Informazioni sulla versione e crediti
-VERSIONE = "v0.0.4" # Versione aggiornata
+VERSIONE = "v0.0.1" # Versione aggiornata
 CREDITI = "Patch By SavT"
 # Testo della licenza d'uso
 LICENZA = """1) La presente patch va utilizzata esclusivamente sul  gioco originale legittimamente detenuto per il quale è stata creata.
@@ -88,7 +88,7 @@ All game rights, intellectual property, logo/names and movies/images are propert
 """
 # URL per i link esterni
 YT_URL = "https://www.youtube.com/@SavT999" # Esempio, sostituire con URL reale
-GH_URL = "https://github.com/zSavT/Yakuza4-Patch-ITA"
+GH_URL = "https://github.com/zSavT/Yakuza5-Patch-ITA"
 WEB_URL = "https://savtchannel.altervista.org/" # URL da aprire al completamento
 DONAZIONI = "https://www.paypal.com/paypalme/verio12"
 
@@ -570,7 +570,7 @@ class WelcomeScreen(QWidget):
             else: image_label.setText("Immagine non trovata")
         except Exception as e: image_label.setText(f"Err img: {e}")
         # Titolo e Descrizione
-        title = QLabel("Installer Patch ITA per Yakuza 4 Remastered"); title.setObjectName("TitleLabel"); title.setAlignment(Qt.AlignmentFlag.AlignCenter); title.setWordWrap(True)
+        title = QLabel("Installer Patch ITA per Yakuza 5 Remastered"); title.setObjectName("TitleLabel"); title.setAlignment(Qt.AlignmentFlag.AlignCenter); title.setWordWrap(True)
         desc = QLabel("Questo programma installerà la traduzione italiana amatoriale."); desc.setObjectName("SubtitleLabel"); desc.setAlignment(Qt.AlignmentFlag.AlignCenter); desc.setWordWrap(True)
         # Pulsanti navigazione
         btn_layout = QHBoxLayout(); self.cancel_btn = QPushButton("Esci"); self.cancel_btn.setObjectName("CancelButton")
@@ -698,9 +698,9 @@ class InstallScreen(QWidget):
         title = QLabel("Selezione Cartella di Installazione"); title.setObjectName("TitleLabel"); title.setAlignment(Qt.AlignmentFlag.AlignCenter)
         title_layout.addStretch(1); title_layout.addWidget(title_icon_label, 0, Qt.AlignmentFlag.AlignVCenter); title_layout.addWidget(title, 0, Qt.AlignmentFlag.AlignVCenter); title_layout.addStretch(1)
         # Etichetta percorso
-        path_label = QLabel("Installa la patch nella cartella principale di Yakuza 4:"); path_label.setObjectName("SubtitleLabel")
+        path_label = QLabel("Installa la patch nella cartella principale di Yakuza 5:"); path_label.setObjectName("SubtitleLabel")
         # Input percorso e bottone sfoglia
-        self.path_input = QLineEdit(); self.path_input.setPlaceholderText("Es: C:/.../Steam/steamapps/common/Yakuza 4")
+        self.path_input = QLineEdit(); self.path_input.setPlaceholderText("Es: C:/.../Steam/steamapps/common/Yakuza 5")
         self.browse_btn = QPushButton(); self.browse_btn.setObjectName("BrowseButton")
         try: icon = self.style().standardIcon(QStyle.StandardPixmap.SP_DirOpenIcon); self.browse_btn.setIcon(icon); self.browse_btn.setIconSize(QSize(18, 18))
         except Exception as e: self.browse_btn.setText("...")
@@ -755,7 +755,7 @@ class InstallScreen(QWidget):
         current_path = self.path_input.text(); start_dir = current_path
         if not os.path.isdir(current_path): start_dir = os.path.dirname(current_path)
         if not os.path.isdir(start_dir): start_dir = os.path.expanduser("~")
-        folder = QFileDialog.getExistingDirectory(self, "Seleziona la cartella principale di Yakuza 4 Remastered", start_dir)
+        folder = QFileDialog.getExistingDirectory(self, "Seleziona la cartella principale di Yakuza 5 Remastered", start_dir)
         if folder: self.path_input.setText(folder.replace("\\", "/"))
 
     def update_icon_position(self, value):
@@ -787,7 +787,7 @@ class InstallerWizard(QWidget):
         # Impostazioni finestra principale
         try: self.setWindowIcon(QIcon(LOGO_ICO))
         except Exception as e: print(f"Error setting window icon: {e}")
-        self.setWindowTitle(f"Installer Patch ITA Yakuza 4 Remastered ({VERSIONE})")
+        self.setWindowTitle(f"Installer Patch ITA Yakuza 5 Remastered ({VERSIONE})")
         self.setMinimumSize(640, 520) # Dimensioni minime
 
         # Contenitore principale per applicare stile sfondo globale
@@ -896,9 +896,9 @@ class InstallerWizard(QWidget):
         if not dest_path: QMessageBox.warning(self,"Percorso Mancante","Specifica cartella."); return
         abs_path=os.path.abspath(dest_path); base_dir=os.path.dirname(abs_path)
         if not os.path.isdir(base_dir): QMessageBox.warning(self,"Percorso Non Valido",f"Percorso base '{base_dir}' non valido."); return
-        # Controllo semplice presenza file/cartelle comuni Yakuza 4
+        # Controllo semplice presenza file/cartelle comuni Yakuza 5
         common_files=['Yakuza4.exe','data','_CommonRedist']; found=[f for f in common_files if os.path.exists(os.path.join(dest_path,f))]; warn_msg=""; icon=self.style().standardIcon(QStyle.StandardPixmap.SP_MessageBoxQuestion); icon_pixmap=icon.pixmap(QSize(48,48));
-        if not found and os.path.exists(dest_path): warn_msg="<b>Attenzione:</b> La cartella non sembra contenere Yakuza 4."; warn_icon=self.style().standardIcon(QStyle.StandardPixmap.SP_MessageBoxWarning); icon_pixmap=warn_icon.pixmap(QSize(48,48))
+        if not found and os.path.exists(dest_path): warn_msg="<b>Attenzione:</b> La cartella non sembra contenere Yakuza 5."; warn_icon=self.style().standardIcon(QStyle.StandardPixmap.SP_MessageBoxWarning); icon_pixmap=warn_icon.pixmap(QSize(48,48))
         elif not os.path.exists(dest_path): warn_msg=f"Nota: La cartella '{os.path.basename(dest_path)}' verrà creata."
         # Usa dialogo personalizzato
         dialog=CustomConfirmDialog(parent=self,title="Conferma Installazione",text=f"Installare in:<br><br><b>{dest_path}</b>",informative_text="Procedere?",warning_text=warn_msg,icon_pixmap=icon_pixmap)
