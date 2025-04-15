@@ -13,13 +13,35 @@ Analizzando i file, mi sono occorto che principalmente il gioco utilizza file  _
 
 ## Struttura dei file (Noti al momento)
 
+Qui sotto è riportata la struttura dei file modificabili, con descrizione breve del file e l'avanzamento della traduzione/valutazione se tradurre o meno il file.
 
-- Yakuza 5\data\auth\subtitle.par
+- Yakuza 5\main\data\auth\subtitle.par
     - All'interno sono presenti tutti i testi per le cutscene presenti nel gioco.
     - [x] Tradotto ma da rivisionare
-- Yakuza 5\data\2d
-    - All'interno sono presenti la maggior parte delle grafiche del gioco.
+- Yakuza 5\main\data\2dpar\sprite_en.par
+    - All'interno sono presenti alcuni sprite per delle azioni di gioco
+    - [ ] Da valutare se tradurre
+- Yakuza 5\main\data\2dpar\ui_en.par
+    - All'interno sono presenti alcuni sprite, in tantissimi sotto par, per le interazioni di alcuni oggetti in game (Come ATM, taxi ecc...)
+    - [ ] Da valutare se tradurre
+- Yakuza 5\main\data\auth_telop\auth_telop_en.par
+    - All'interno sono presenti alcuni sprite di caption del gioco.
     - [ ] Tradotto
+- Yakuza 5\main\data\bootpar\boot_en.par
+   - All'interno sono presenti alcuni file bin per i tips e spiegazioni del gioco
+   - [ ] Tradotto
+- Yakuza 5\main\data\fontpar\font_hd_en.par
+   - All'interno sono presenti i dati per il font utilizzato del gioco
+   - [ ] Tradotto
+- Yakuza 5\main\data\minigame_en
+   - All'interno sono presenti vari dati relativi ai minigiochi (Con anche le caption per le canzoni del karaoke)
+   - [ ] Da valutare se tradurre
+- Yakuza 5\main\data\pausepar
+   - All'interno sono presenti tantissimi sprite relativi alle caption del gioco, ai menu ecc...
+   - [ ] Tradotto
+- Yakuza 5\main\data\staypar\stay_en.par\stay_en
+   - All'interno sono presenti vari file bin con informazioni varie per mosse ed altro
+   - [ ] Da valutare se tradurre
 
 # Funzionamento script
 
