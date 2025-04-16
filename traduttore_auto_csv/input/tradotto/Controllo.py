@@ -5,7 +5,7 @@ import re
 def trova_testi_lunghi(cartella_corrente):
     """
     Trova i testi più lunghi di 80 caratteri nei file CSV UTF-16 della cartella,
-    escludendo quelli con il carattere di nuova riga (anche concatenato).
+    escludendo quelli con zero o più di due caratteri di nuova riga.
 
     Args:
         cartella_corrente (str): Il percorso della cartella da analizzare.
@@ -28,8 +28,10 @@ def trova_testi_lunghi(cartella_corrente):
                             testo = riga[2]
                             # Rimuovi eventuali tag HTML e spazi extra
                             testo_pulito = ''.join(c for c in testo if c not in '<>').strip()
-                            # Controlla se il testo è più lungo di 80 caratteri e non contiene '\n'
-                            if len(testo_pulito) > 80 and re.search(r'\n', testo_pulito) is None:
+                            # Conta il numero di caratteri di nuova riga
+                            numero_newline = testo_pulito.count('\n')
+                            # Controlla se il testo è più lungo di 80 caratteri e ha esattamente 1 o 2 '\n'
+                            if len(testo_pulito) > 80 and (numero_newline == 1 or numero_newline == 2):
                                 testi_lunghi.append(f"{nome_file}: {testo_pulito}")
             except UnicodeError:
                 print(f"Errore di codifica nel file: {nome_file}. Saltando.")
