@@ -13,13 +13,35 @@ Analizzando i file, mi sono occorto che principalmente il gioco utilizza file  _
 
 ## Struttura dei file (Noti al momento)
 
+Qui sotto è riportata la struttura dei file modificabili, con descrizione breve del file e l'avanzamento della traduzione/valutazione se tradurre o meno il file.
 
-- Yakuza 5\data\auth\subtitle.par
+- Yakuza 5\main\data\auth\subtitle.par
     - All'interno sono presenti tutti i testi per le cutscene presenti nel gioco.
     - [x] Tradotto ma da rivisionare
-- Yakuza 5\data\2d
-    - All'interno sono presenti la maggior parte delle grafiche del gioco.
+- Yakuza 5\main\data\2dpar\sprite_en.par
+    - All'interno sono presenti alcuni sprite per delle azioni di gioco
+    - [ ] Da valutare se tradurre
+- Yakuza 5\main\data\2dpar\ui_en.par
+    - All'interno sono presenti alcuni sprite, in tantissimi sotto par, per le interazioni di alcuni oggetti in game (Come ATM, taxi ecc...)
+    - [ ] Da valutare se tradurre
+- Yakuza 5\main\data\auth_telop\auth_telop_en.par
+    - All'interno sono presenti alcuni sprite di caption del gioco.
     - [ ] Tradotto
+- Yakuza 5\main\data\bootpar\boot_en.par
+   - All'interno sono presenti alcuni file bin per i tips e spiegazioni del gioco
+   - [ ] Tradotto
+- Yakuza 5\main\data\fontpar\font_hd_en.par
+   - All'interno sono presenti i dati per il font utilizzato del gioco
+   - [ ] Tradotto
+- Yakuza 5\main\data\minigame_en
+   - All'interno sono presenti vari dati relativi ai minigiochi (Con anche le caption per le canzoni del karaoke)
+   - [ ] Da valutare se tradurre
+- Yakuza 5\main\data\pausepar
+   - All'interno sono presenti tantissimi sprite relativi alle caption del gioco, ai menu ecc...
+   - [ ] Tradotto
+- Yakuza 5\main\data\staypar\stay_en.par\stay_en
+   - All'interno sono presenti vari file bin con informazioni varie per mosse ed altro
+   - [ ] Da valutare se tradurre
 
 # Funzionamento script
 
@@ -53,7 +75,8 @@ La codifica dei file csv è "__UTF-16__".
 ## TO DO
 
 - [x] Codifica e decodifica dei file PAR
-- [ ] Codifica e decodifica dei file BIN (Controllando questa [repo](https://github.com/SlowpokeVG/Yakuza-2007.03.19-bin-file-exporter-importer), i file relativi a Yakuza 4 non sembrano compatibili, testando con altri giochi della serie si)
+- [ ] Codifica e decodifica dei file BIN 2007.03.19
+- [ ] Modifica al Font
 
 # Altre patch della serie
 
@@ -68,14 +91,17 @@ Lista dei progetti di patch in italiano per i giochi della serie:
     - Un'altra patch realizzata da me per la serie Yakuza è quella di Yakuza 5, il funzionamento ed il materiale tradotto è il medesimo.
 - Yakuza 5 Remastered
     - Questo progetto
+- [Yakuza 6](https://www.nexusmods.com/yakuza6/mods/220)
+    - Un ragazzo ha tradotto i sottotitoli delle cutscene e alcuni menu
 
 __N.B.__<br>
 Chi ha realizzato la patch per Yakuza 1 - 2 - 3, sta lavorando anche ad una patch totale per Yakuza 4 - 5 - 6.
 Gli autori sono liberi di attingere da questa progetto, previo avviso.
 
-## Dipendenza
+## Dipendenza e ringraziamenti
 
-Per la codifica e la decodifica dei file _PAR_ del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/Kaplas80/ParManager.git) da Kaplas80.
+- Per la codifica e la decodifica dei file _PAR_ del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/Kaplas80/ParManager.git) da Kaplas80.<br>
+- Per la codifica e la decodifica dei file BIN 2007.03.19 del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/SlowpokeVG/Yakuza-2007.03.19-bin-file-exporter-importer) da SlowpokeVG.
 
 
 # Altri progetti di traduzione miei
