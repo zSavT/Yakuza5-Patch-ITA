@@ -29,9 +29,9 @@ def trova_testi_lunghi(cartella_corrente):
                             # Rimuovi eventuali tag HTML e spazi extra
                             testo_pulito = ''.join(c for c in testo if c not in '<>').strip()
                             # Conta il numero di caratteri di nuova riga
-                            numero_newline = testo_pulito.count('\n')
+                            numero_newline = testo_pulito.__contains__('\n')
                             # Controlla se il testo è più lungo di 80 caratteri e ha esattamente 1 o 2 '\n'
-                            if len(testo_pulito) > 80 and (numero_newline == 1 or numero_newline == 2):
+                            if len(testo_pulito) > 82 and numero_newline == 0:
                                 testi_lunghi.append(f"{nome_file}: {testo_pulito}")
             except UnicodeError:
                 print(f"Errore di codifica nel file: {nome_file}. Saltando.")
