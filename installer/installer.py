@@ -53,7 +53,7 @@ def resource_path(relative_path):
 #DEFAULT_AES_KEY = "^#Nxu9cNV2722HA&jw4H3j7sXnt&#Xbb".encode('utf-8')
 CHIAVE = "chiave.txt"
 # Nome suggerito per la cartella di installazione
-DEFAULT_FOLDER_NAME = "Yakuza 5"
+DEFAULT_FOLDER_NAME = "Yakuza 5/main"
 # Nome del file per i log di errore
 LOG_FILE = "install_log.txt"
 # Nome del file contenente la patch criptata
@@ -700,7 +700,7 @@ class InstallScreen(QWidget):
         # Etichetta percorso
         path_label = QLabel("Installa la patch nella cartella principale di Yakuza 5:"); path_label.setObjectName("SubtitleLabel")
         # Input percorso e bottone sfoglia
-        self.path_input = QLineEdit(); self.path_input.setPlaceholderText("Es: C:/.../Steam/steamapps/common/Yakuza 5")
+        self.path_input = QLineEdit(); self.path_input.setPlaceholderText("Es: C:/.../Steam/steamapps/common/Yakuza 5/main")
         self.browse_btn = QPushButton(); self.browse_btn.setObjectName("BrowseButton")
         try: icon = self.style().standardIcon(QStyle.StandardPixmap.SP_DirOpenIcon); self.browse_btn.setIcon(icon); self.browse_btn.setIconSize(QSize(18, 18))
         except Exception as e: self.browse_btn.setText("...")
@@ -897,7 +897,7 @@ class InstallerWizard(QWidget):
         abs_path=os.path.abspath(dest_path); base_dir=os.path.dirname(abs_path)
         if not os.path.isdir(base_dir): QMessageBox.warning(self,"Percorso Non Valido",f"Percorso base '{base_dir}' non valido."); return
         # Controllo semplice presenza file/cartelle comuni Yakuza 5
-        common_files=['Yakuza4.exe','data','_CommonRedist']; found=[f for f in common_files if os.path.exists(os.path.join(dest_path,f))]; warn_msg=""; icon=self.style().standardIcon(QStyle.StandardPixmap.SP_MessageBoxQuestion); icon_pixmap=icon.pixmap(QSize(48,48));
+        common_files=['Yakuza5.exe','data','_CommonRedist']; found=[f for f in common_files if os.path.exists(os.path.join(dest_path,f))]; warn_msg=""; icon=self.style().standardIcon(QStyle.StandardPixmap.SP_MessageBoxQuestion); icon_pixmap=icon.pixmap(QSize(48,48));
         if not found and os.path.exists(dest_path): warn_msg="<b>Attenzione:</b> La cartella non sembra contenere Yakuza 5."; warn_icon=self.style().standardIcon(QStyle.StandardPixmap.SP_MessageBoxWarning); icon_pixmap=warn_icon.pixmap(QSize(48,48))
         elif not os.path.exists(dest_path): warn_msg=f"Nota: La cartella '{os.path.basename(dest_path)}' verrà creata."
         # Usa dialogo personalizzato
