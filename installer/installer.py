@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 # Installer Patch ITA Yakuza 5 Remastered
 # Autore: SavT
-# Versione: v0.0.1
+# Versione: v0.0.2
 # -----------------------------------------------------------------------------
 
 # --- Import Moduli Standard ---
@@ -12,23 +12,26 @@ import os
 import platform
 import webbrowser
 import traceback
+import shutil
+import datetime
 
 # --- Import Moduli Terze Parti ---
-import pyzipper # Per gestire archivi zip criptati con AES
+import pyzipper
 
 # --- Import Moduli PyQt6 ---
 from PyQt6.QtWidgets import (
     QApplication, QWidget, QLabel, QPushButton, QVBoxLayout, QFrame,
     QStackedWidget, QFileDialog, QTextEdit, QLineEdit, QMessageBox,
     QProgressBar, QHBoxLayout, QDialog, QDialogButtonBox, QInputDialog,
-    QStyle # Per icone standard
+    QStyle,
+    QCheckBox
 )
 from PyQt6.QtGui import (
     QPixmap, QFont, QIcon, QCursor, QPalette, QColor, QFontDatabase,
-    QPainter # Non usato attivamente ma importato
+    QPainter
 )
 from PyQt6.QtCore import (
-    Qt, QThread, pyqtSignal, QSize, QPoint, QTimer # Aggiunto QTimer
+    Qt, QThread, pyqtSignal, QSize, QPoint, QTimer
 )
 
 
@@ -40,56 +43,42 @@ def resource_path(relative_path):
     con PyInstaller.
     """
     try:
-        # PyInstaller crea una cartella temporanea e la memorizza in sys._MEIPASS
         base_path = sys._MEIPASS
     except Exception:
-        # Se non è impacchettato, usa il percorso dello script
         base_path = os.path.abspath(".")
     return os.path.join(base_path, relative_path)
 
 # --- Costanti Globali ---
-# Chiave AES predefinita per decriptare il pacchetto patch.pkg
-# NOTA: Questa è hardcoded! Considerare alternative più sicure se necessario.
-#DEFAULT_AES_KEY = "^#Nxu9cNV2722HA&jw4H3j7sXnt&#Xbb".encode('utf-8')
 CHIAVE = "chiave.txt"
-# Nome suggerito per la cartella di installazione
 DEFAULT_FOLDER_NAME = "Yakuza 5/main"
-# Nome del file per i log di errore
 LOG_FILE = "install_log.txt"
-# Nome del file contenente la patch criptata
 PACKAGE_FILE = "patch.pkg"
-# Percorsi relativi ai file asset (icone, immagini)
-# Vengono risolti usando resource_path per compatibilità con PyInstaller
 IMG_FILE = resource_path("assets/img.png")
 LOGO_ICO = resource_path("assets/Logo.ico")
 HEAD_ICON_PATH = resource_path("assets/head_icon.png")
 YT_ICON = resource_path("assets/youtube.png")
 GH_ICON = resource_path("assets/github.png")
 WEB_ICON = resource_path("assets/web.png")
-# Informazioni sulla versione e crediti
-VERSIONE = "v0.0.1" # Versione aggiornata
+VERSIONE = "v0.0.2"
 CREDITI = "Patch By SavT"
-# Testo della licenza d'uso
 LICENZA = """1) La presente patch va utilizzata esclusivamente sul  gioco originale legittimamente detenuto per il quale è stata creata.
 2) Questa patch è stata creata senza fini di lucro.
 3) È assolutamente vietato vendere o cedere a terzi a qualsiasi titolo il gioco già patchato;
-   i trasgressori potranno essere puniti, ai sensi dell'art. 171bis, legge sul diritto d'autore, con la reclusione da 6 mesi a 3 anni.
+i trasgressori potranno essere puniti, ai sensi dell'art. 171bis, legge sul diritto d'autore, con la reclusione da 6 mesi a 3 anni.
 4) Si declina la responsabilità derivante dall'uso scorretto di questo programma da parte di terzi.
 5) Questa patch non contiene porzioni di codice del programma del gioco;
-   gli elementi che la formano non sono dotati di autonomia funzionale.
+gli elementi che la formano non sono dotati di autonomia funzionale.
 6) Per la creazione di tale patch non è stato necessario violare sistemi di protezione informatica,
    né dalla sua applicazione viene messa in atto tale condotta.
 7) La patch è un prodotto amatoriale, pertanto l'autore declina la responsabilità di possibili malfunzionamenti;
-   l'utilizzo della stessa è da intendersi a vostro rischio e pericolo.
+l'utilizzo della stessa è da intendersi a vostro rischio e pericolo.
 8) Si ricorda infine che i diritti sul gioco (software) appartengono ai rispettivi proprietari.
-
 This patch does not contain copyrighted material, has no functional autonomy, and you must have your original own copy to apply it.
 All game rights, intellectual property, logo/names and movies/images are property of Sega Corporation.
 """
-# URL per i link esterni
-YT_URL = "https://www.youtube.com/@SavT999" # Esempio, sostituire con URL reale
+YT_URL = "https://www.youtube.com/@SavT999"
 GH_URL = "https://github.com/zSavT/Yakuza5-Patch-ITA"
-WEB_URL = "https://savtchannel.altervista.org/" # URL da aprire al completamento
+WEB_URL = "https://savtchannel.altervista.org/"
 DONAZIONI = "https://www.paypal.com/paypalme/verio12"
 
 # --- Stylesheet (Tema stile Yakuza Stats Menu) ---
@@ -135,19 +124,15 @@ QPushButton:disabled { background-color: #15181e; color: #404850; border-color: 
 /* Pulsanti Primari (Azione Principale: Next, Install, Accept, OK) */
 QPushButton#NextButton, QPushButton#InstallButton, QPushButton#AcceptButton {
     background-color: qlineargradient(x1:0, y1:0, x2:1, y2:0, stop:0 #e04020, stop:0.7 #ff8030, stop:1 #ff9a40); /* Gradiente Rosso-Arancio */
-    color: #ffffff; border: 1px solid #b03018; font-weight: bold;
-}
+    color: #ffffff; border: 1px solid #b03018; font-weight: bold; }
 QPushButton#NextButton:hover, QPushButton#InstallButton:hover, QPushButton#AcceptButton:hover {
     background-color: qlineargradient(x1:0, y1:0, x2:1, y2:0, stop:0 #f05030, stop:0.7 #ff9040, stop:1 #ffae50); /* Gradiente più chiaro */
-    border: 1px solid #d04020; color: #ffffff;
-}
+    border: 1px solid #d04020; color: #ffffff; }
 QPushButton#NextButton:pressed, QPushButton#InstallButton:pressed, QPushButton#AcceptButton:pressed {
     background-color: qlineargradient(x1:0, y1:0, x2:1, y2:0, stop:0 #c03010, stop:0.7 #e07020, stop:1 #e08a30); /* Gradiente più scuro */
-    border: 1px solid #a02810;
-}
+    border: 1px solid #a02810; }
 QPushButton#NextButton:disabled, QPushButton#InstallButton:disabled, QPushButton#AcceptButton:disabled {
-    background-color: #502818; color: #805040; border-color: #402010;
-}
+    background-color: #502818; color: #805040; border-color: #402010; }
 
 /* Pulsanti Secondari (Annulla, Riprova, Esci, No) */
 QPushButton#CancelButton, QPushButton#RetryButton {
@@ -197,6 +182,18 @@ QMessageBox, QInputDialog { background-color: #181a22; border: 1px solid #383c48
 QMessageBox QLabel, QInputDialog QLabel { color: #e8e8e8; background-color: transparent; font-size: 10pt; min-width: 250px; }
 /* Nota: I pulsanti interni usano lo stile generico QPushButton definito sopra */
 
+/* MODIFICA: Stile per Checkbox */
+QCheckBox { spacing: 5px; /* Spazio tra box e testo */ }
+QCheckBox::indicator { width: 16px; height: 16px; border: 1px solid #383c48; border-radius: 0px; background-color: #15181e; }
+QCheckBox::indicator:hover { border: 1px solid #00e0ff; }
+QCheckBox::indicator:checked {
+    background-color: #e04020; /* Colore check arancio/rosso */
+    border: 1px solid #00e0ff; /* MODIFICA: Bordo CIANO acceso quando selezionato */
+    image: url(assets/v.png);           /* MODIFICA: Assicura che il segno di spunta di default sia nascosto */
+}
+QCheckBox::indicator:checked:hover { background-color: #f05030; border: 1px solid #d04020; }
+QCheckBox::indicator:disabled { background-color: #15181e; border: 1px solid #282c38; }
+
 /* Barre di Scorrimento */
 QScrollBar:vertical   { border: none; background: #101218; width: 8px; margin: 0px; }
 QScrollBar::handle:vertical { background: #383c48; min-height: 25px; border-radius: 0px; }
@@ -211,10 +208,8 @@ QScrollBar::add-page:horizontal, QScrollBar::sub-page:horizontal { background: n
 def leggi_chiave(nome_file):
     """
     Legge una chiave di decriptazione da un file.
-
     Args:
         nome_file (str): Il nome del file da cui leggere la chiave.
-
     Returns:
         str: La chiave di decriptazione letta dal file, o None se si verificano errori.
     """
@@ -250,28 +245,31 @@ def leggi_chiave(nome_file):
 class InstallWorker(QThread):
     """
     Thread separato per eseguire l'estrazione dell'archivio patch.pkg
-    per non bloccare l'interfaccia utente principale.
+    e opzionalmente il backup dei file originali.
 
     Segnali:
         progress(int): Emette la percentuale di progresso (0-100).
         finished(bool, str): Emette al termine. True/False per successo/fallimento,
                              e una stringa con il messaggio di stato.
+        backup_status(str): Emette messaggi sullo stato del processo di backup.
     """
     progress = pyqtSignal(int)
     finished = pyqtSignal(bool, str)
+    backup_status = pyqtSignal(str)
 
-    def __init__(self, dest_path, aes_key):
+    def __init__(self, dest_path, aes_key, do_backup):
         """
         Inizializza il worker.
-
         Args:
-            dest_path (str): Percorso della cartella di destinazione per l'estrazione.
+            dest_path (str): Percorso della cartella di destinazione.
             aes_key (bytes): Chiave AES per decriptare l'archivio.
+            do_backup (bool): Se True, esegue il backup prima dell'estrazione.
         """
         super().__init__()
         self.dest_path = dest_path
         self.aes_key = aes_key
-        self._is_interruption_requested = False # Flag per gestire l'annullamento
+        self.do_backup = do_backup
+        self._is_interruption_requested = False
 
     def requestInterruption(self):
         """Richiede l'interruzione del processo di estrazione."""
@@ -282,26 +280,64 @@ class InstallWorker(QThread):
         return self._is_interruption_requested
 
     def run(self):
-        """Esegue il processo di estrazione nel thread."""
+        """Esegue il processo di backup (se richiesto) e estrazione nel thread."""
         try:
             package_path = resource_path(PACKAGE_FILE)
-            # Verifica preliminare esistenza file
             if not os.path.exists(package_path):
                 raise FileNotFoundError(f"File della patch non trovato: {PACKAGE_FILE}")
 
-            # Apre l'archivio AES Zip
             with pyzipper.AESZipFile(package_path) as zf:
-                zf.setpassword(self.aes_key) # Imposta la password di decriptazione
+                zf.setpassword(self.aes_key)
+                file_infos = zf.infolist()
+                total_files = len(file_infos)
 
-                namelist = zf.namelist()
-                total_files = len(namelist)
+                # --- Logica di Backup ---
+                if self.do_backup:
+                    self.backup_status.emit("Avvio backup file originali...")
+                    backup_folder_name = f"_backup_patch_ita_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}"
+                    backup_base_path = os.path.join(self.dest_path, backup_folder_name)
+                    backup_count = 0
+                    try:
+                        os.makedirs(backup_base_path, exist_ok=True)
+                        print(f"Creata cartella backup: {backup_base_path}")
+
+                        for file_info in file_infos:
+                            if self.isInterruptionRequested():
+                                self.finished.emit(False, "Backup annullato dall'utente.")
+                                return
+
+                            if not file_info.is_dir():
+                                source_file_path = os.path.join(self.dest_path, file_info.filename)
+                                if os.path.isfile(source_file_path):
+                                    backup_file_path = os.path.join(backup_base_path, file_info.filename)
+                                    backup_file_dir = os.path.dirname(backup_file_path)
+                                    os.makedirs(backup_file_dir, exist_ok=True)
+                                    print(f"Backing up: {source_file_path} -> {backup_file_path}")
+                                    shutil.copy2(source_file_path, backup_file_path)
+                                    backup_count += 1
+
+                        if backup_count > 0:
+                            self.backup_status.emit(f"Backup di {backup_count} file completato in '{backup_folder_name}'.")
+                            print(f"Backup completato: {backup_count} file.")
+                        else:
+                            self.backup_status.emit("Nessun file originale trovato da backuppare.")
+                            print("Nessun file da backuppare.")
+
+                    except (shutil.Error, OSError, IOError) as backup_error:
+                        error_msg = f"Errore durante il backup:\n{backup_error}"
+                        print(f"Errore backup: {error_msg}")
+                        with open(LOG_FILE, 'a', encoding='utf-8') as f: f.write(error_msg + "\n")
+                        self.finished.emit(False, error_msg + "\nL'installazione è stata interrotta.")
+                        return
+                # --- Fine Logica di Backup ---
+
+
+                # --- Logica di Estrazione ---
                 if total_files == 0:
                     self.finished.emit(True, "Installazione completata (archivio vuoto).")
                     return
 
-                # Itera sui file nell'archivio
-                for i, file_info in enumerate(zf.infolist()):
-                    # Controlla se l'utente ha annullato
+                for i, file_info in enumerate(file_infos):
                     if self.isInterruptionRequested():
                         self.finished.emit(False, "Installazione annullata dall'utente.")
                         return
@@ -309,63 +345,52 @@ class InstallWorker(QThread):
                     file = file_info.filename
                     target_path = os.path.join(self.dest_path, file)
 
-                    # Se è una directory, la crea e continua
-                    if file.endswith('/') or file.endswith('\\'):
+                    if file_info.is_dir():
                         os.makedirs(target_path, exist_ok=True)
-                        self.progress.emit(int(((i + 1) / total_files) * 100)) # Aggiorna progresso
+                        self.progress.emit(int(((i + 1) / total_files) * 100))
                         continue
 
-                    # Assicura che la directory di destinazione del file esista
                     os.makedirs(os.path.dirname(target_path), exist_ok=True)
 
-                    # Estrae il file leggendo/scrivendo a chunk per permettere interruzione
                     try:
                         with zf.open(file_info) as source, open(target_path, "wb") as target:
-                            chunk_size = 1024 * 512 # Legge chunk da 512KB
+                            chunk_size = 1024 * 512
                             while True:
-                                # Controlla annullamento durante la scrittura del chunk
                                 if self.isInterruptionRequested():
-                                     try:
-                                         target.close() # Chiude il file parziale
-                                         os.remove(target_path) # Tenta di rimuoverlo
-                                     except OSError: pass # Ignora errori rimozione
-                                     self.finished.emit(False, "Installazione annullata dall'utente.")
-                                     return
+                                    try:
+                                        target.close()
+                                        os.remove(target_path)
+                                    except OSError: pass
+                                    self.finished.emit(False, "Installazione annullata dall'utente.")
+                                    return
                                 chunk = source.read(chunk_size)
-                                if not chunk: break # Fine del file sorgente
+                                if not chunk: break
                                 target.write(chunk)
                     except Exception as write_error:
-                         # Gestisce errori specifici durante la scrittura
                          raise IOError(f"Errore scrittura file {target_path}: {write_error}") from write_error
 
-                    # Aggiorna il progresso basato sul numero di file estratti
                     self.progress.emit(int(((i + 1) / total_files) * 100))
 
-            # Se il ciclo termina senza interruzioni, l'installazione è completata
             if not self.isInterruptionRequested():
                 self.finished.emit(True, "Installazione completata con successo!")
 
         # --- Gestione Errori Specifici ---
         except FileNotFoundError as e:
-             # File patch.pkg non trovato
              with open(LOG_FILE, 'a', encoding='utf-8') as f: f.write(f"Errore FileNotFoundError: {str(e)}\n")
              self.finished.emit(False, str(e))
         except (pyzipper.BadZipFile, RuntimeError) as e:
-            # Errore comune per chiave AES errata o file zip corrotto/non valido
             error_msg = f"Errore: {PACKAGE_FILE} è corrotto, la chiave AES usata non è valida o file zip non valido."
             with open(LOG_FILE, 'a', encoding='utf-8') as f: f.write(f"{error_msg} Dettaglio: {type(e).__name__}: {str(e)}\n")
-            self.finished.emit(False, error_msg) # Emette messaggio specifico per questo errore
+            self.finished.emit(False, error_msg)
         except IOError as e:
-            # Errore durante lettura/scrittura file (permessi, spazio disco, ecc.)
             error_msg = f"Errore di I/O durante l'estrazione:\n{str(e)}"
             with open(LOG_FILE, 'a', encoding='utf-8') as f: f.write(error_msg + "\n")
             self.finished.emit(False, error_msg + "\nVerifica permessi e spazio disco.")
         except Exception as e:
-            # Qualsiasi altro errore imprevisto
             error_msg = f"Errore imprevisto durante l'estrazione:\n{type(e).__name__}: {str(e)}"
             with open(LOG_FILE, 'a', encoding='utf-8') as f:
                 f.write(error_msg + "\n")
-                traceback.print_exc(file=f) # Logga lo stack trace completo per debug
+                traceback.print_exc(file=f)
             self.finished.emit(False, error_msg)
 
 
@@ -378,94 +403,84 @@ class CustomConfirmDialog(QDialog):
     def __init__(self, parent=None, title="Conferma", text="", informative_text="", warning_text="", icon_pixmap=None):
         super().__init__(parent)
         self.setWindowTitle(title)
-        self.setModal(True) # Blocca interazione con finestra genitore
-        self.setObjectName("CustomConfirmDialog") # ID per QSS
+        self.setModal(True)
+        self.setObjectName("CustomConfirmDialog")
 
         main_layout = QVBoxLayout(self)
         main_layout.setContentsMargins(20, 20, 20, 15)
         main_layout.setSpacing(15)
 
-        # Layout orizzontale per icona e testo
         content_layout = QHBoxLayout()
         content_layout.setSpacing(20)
 
         if icon_pixmap:
             icon_label = QLabel()
-            # Scala icona mantenendo proporzioni e usando trasformazione Smooth
             icon_label.setPixmap(icon_pixmap.scaled(48, 48, Qt.AspectRatioMode.KeepAspectRatio, Qt.TransformationMode.SmoothTransformation))
             icon_label.setAlignment(Qt.AlignmentFlag.AlignTop | Qt.AlignmentFlag.AlignHCenter)
-            content_layout.addWidget(icon_label, 0) # L'icona non si espande
+            content_layout.addWidget(icon_label, 0)
 
-        # Layout verticale per i testi
         text_layout = QVBoxLayout()
         text_layout.setSpacing(8)
         self.main_text_label = QLabel(text)
-        self.main_text_label.setObjectName("DialogMainText") # ID per QSS
-        self.main_text_label.setWordWrap(True) # Testo a capo automatico
+        self.main_text_label.setObjectName("DialogMainText")
+        self.main_text_label.setWordWrap(True)
         text_layout.addWidget(self.main_text_label)
 
         if informative_text:
             self.info_text_label = QLabel(informative_text)
-            self.info_text_label.setObjectName("DialogInfoText") # ID per QSS
+            self.info_text_label.setObjectName("DialogInfoText")
             self.info_text_label.setWordWrap(True)
             text_layout.addWidget(self.info_text_label)
 
-        # Contenitore per il testo di warning (aggiunto dinamicamente se serve)
         self.warning_label_container = QWidget()
         self.warning_layout = QVBoxLayout(self.warning_label_container)
         self.warning_layout.setContentsMargins(0,0,0,0)
         text_layout.addWidget(self.warning_label_container)
 
-        content_layout.addLayout(text_layout, 1) # Il testo si espande
+        content_layout.addLayout(text_layout, 1)
         main_layout.addLayout(content_layout)
 
-        # Pulsanti standard Yes/No
         button_box = QDialogButtonBox(QDialogButtonBox.StandardButton.Yes | QDialogButtonBox.StandardButton.No)
-        button_box.accepted.connect(self.accept) # Segnale standard per OK/Yes
-        button_box.rejected.connect(self.reject) # Segnale standard per Annulla/No
+        button_box.accepted.connect(self.accept)
+        button_box.rejected.connect(self.reject)
 
-        # Applica stile e testo ai pulsanti
         yes_button = button_box.button(QDialogButtonBox.StandardButton.Yes)
         if yes_button:
             yes_button.setText("Sì")
-            yes_button.setObjectName("AcceptButton") # Stile primario
-            yes_button.setDefault(True) # Default con Invio
+            yes_button.setObjectName("AcceptButton")
+            yes_button.setDefault(True)
 
         no_button = button_box.button(QDialogButtonBox.StandardButton.No)
         if no_button:
             no_button.setText("No")
-            no_button.setObjectName("CancelButton") # Stile secondario
+            no_button.setObjectName("CancelButton")
 
-        # Layout per centrare i pulsanti
         btn_layout = QHBoxLayout()
         btn_layout.addStretch()
         btn_layout.addWidget(button_box)
         btn_layout.addStretch()
         main_layout.addLayout(btn_layout)
 
-        self.setMinimumWidth(450) # Larghezza minima
-        self.adjustSize() # Adatta altezza iniziale al contenuto
+        self.setMinimumWidth(450)
+        self.adjustSize()
 
-        # Applica warning iniziale se fornito
         if warning_text:
             self.setWarningText(warning_text)
 
     def setWarningText(self, text):
         """Aggiunge o rimuove dinamicamente il testo di warning."""
-         # Rimuovi label precedente (se esiste)
         for i in reversed(range(self.warning_layout.count())):
             widget = self.warning_layout.itemAt(i).widget()
             if widget is not None: widget.deleteLater()
-         # Aggiungi nuova label se testo non vuoto
         if text:
             warning_text_label = QLabel(text)
-            warning_text_label.setObjectName("DialogWarningText") # ID per QSS
+            warning_text_label.setObjectName("DialogWarningText")
             warning_text_label.setWordWrap(True)
             self.warning_layout.addWidget(warning_text_label)
             self.warning_label_container.setVisible(True)
-        else: # Nascondi se testo vuoto
+        else:
             self.warning_label_container.setVisible(False)
-        self.adjustSize() # Riadatta altezza finestra
+        self.adjustSize()
 
 
 # --- Classe Dialogo Completamento Personalizzato ---
@@ -476,10 +491,10 @@ class CompletionDialog(QDialog):
     """
     def __init__(self, parent=None, title="Completato", text="", url_to_open=None):
         super().__init__(parent)
-        self.url_to_open = url_to_open # Memorizza URL
+        self.url_to_open = url_to_open
         self.setWindowTitle(title)
         self.setModal(True)
-        self.setObjectName("CompletionDialog") # ID per QSS
+        self.setObjectName("CompletionDialog")
 
         main_layout = QVBoxLayout(self)
         main_layout.setContentsMargins(20, 20, 20, 15)
@@ -488,16 +503,14 @@ class CompletionDialog(QDialog):
         content_layout = QHBoxLayout()
         content_layout.setSpacing(15)
 
-        # Icona Informazione
         icon_label = QLabel()
         try:
             icon = self.style().standardIcon(QStyle.StandardPixmap.SP_MessageBoxInformation)
-            icon_label.setPixmap(icon.pixmap(QSize(32, 32))) # Icona leggermente più piccola
+            icon_label.setPixmap(icon.pixmap(QSize(32, 32)))
         except Exception: pass
         icon_label.setAlignment(Qt.AlignmentFlag.AlignTop | Qt.AlignmentFlag.AlignHCenter)
         content_layout.addWidget(icon_label, 0)
 
-        # Testo messaggio
         self.main_text_label = QLabel(text)
         self.main_text_label.setObjectName("DialogMainText")
         self.main_text_label.setWordWrap(True)
@@ -506,16 +519,15 @@ class CompletionDialog(QDialog):
 
         main_layout.addLayout(content_layout)
 
-        # Pulsante OK
         button_box = QDialogButtonBox(QDialogButtonBox.StandardButton.Ok)
         ok_button = button_box.button(QDialogButtonBox.StandardButton.Ok)
         if ok_button:
             ok_button.setText("OK")
-            ok_button.setObjectName("AcceptButton") # Stile primario
+            ok_button.setObjectName("AcceptButton")
             ok_button.setDefault(True)
-            ok_button.clicked.connect(self.accept_and_open_url) # Connessione azione
+            ok_button.clicked.connect(self.accept_and_open_url)
         else:
-            button_box.accepted.connect(self.accept_and_open_url) # Fallback
+            button_box.accepted.connect(self.accept_and_open_url)
 
         btn_layout = QHBoxLayout()
         btn_layout.addStretch()
@@ -523,29 +535,23 @@ class CompletionDialog(QDialog):
         btn_layout.addStretch()
         main_layout.addLayout(btn_layout)
 
-        self.adjustSize() # Adatta altezza
-        self.setMaximumWidth(450) # Limita larghezza
+        self.adjustSize()
+        self.setMaximumWidth(450)
 
     def accept_and_open_url(self):
-        """Slot chiamato quando si preme OK. Apre l'URL e chiude il dialogo."""
+        """Slot chiamato quando si preme OK.
+        Apre l'URL e chiude il dialogo."""
         url = self.url_to_open
-        # Chiudi il dialogo immediatamente
         self.accept()
-        # Apri URL (se specificato)
         if url:
-            print(f"Opening URL: {url}") # Log
+            print(f"Opening URL: {url}")
             try:
                 webbrowser.open(url)
-                # --- Avvia Timer per chiudere l'app dopo 2 secondi ---
                 QTimer.singleShot(2000, QApplication.instance().quit)
             except Exception as e:
                 print(f"Error opening URL {url}: {e}")
-                # Se l'URL non si apre, non chiudere l'app automaticamente
         else:
-             # Se non c'è URL, chiudi comunque l'app dopo il delay? O no?
-             # Decidiamo di non chiuderla se non c'è URL da aprire.
-             # QTimer.singleShot(2000, QApplication.instance().quit) # Opzionale
-             pass
+             QTimer.singleShot(2000, QApplication.instance().quit)
 
 
 # --- Classi Schermate del Wizard ---
@@ -555,7 +561,6 @@ class WelcomeScreen(QWidget):
     def __init__(self):
         super().__init__()
         layout = QVBoxLayout(self); layout.setContentsMargins(30, 20, 30, 20); layout.setSpacing(15)
-        # Barra link social/web
         top_bar = QHBoxLayout(); top_bar.setSpacing(10); top_bar.addStretch()
         for icon_path, url, tip in zip([YT_ICON, GH_ICON, WEB_ICON], [YT_URL, GH_URL, WEB_URL], ["YouTube", "GitHub", "Sito Web"]):
             try:
@@ -563,16 +568,13 @@ class WelcomeScreen(QWidget):
                 btn = QPushButton(); btn.setObjectName("LinkButton"); btn.setCursor(QCursor(Qt.CursorShape.PointingHandCursor)); btn.setFlat(True); btn.setIcon(QIcon(icon_path)); btn.setIconSize(QSize(28, 28)); btn.setFixedSize(QSize(32, 32)); btn.setToolTip(tip); btn.clicked.connect(lambda _, link=url: webbrowser.open(link)); top_bar.addWidget(btn)
             except Exception as e: print(f"Err icon {icon_path}: {e}")
         layout.addLayout(top_bar); layout.addSpacing(10)
-        # Immagine principale
         image_label = QLabel(); image_label.setAlignment(Qt.AlignmentFlag.AlignCenter)
         try:
             if os.path.exists(IMG_FILE): image_label.setPixmap(QPixmap(IMG_FILE).scaled(300, 180, Qt.AspectRatioMode.KeepAspectRatio, Qt.TransformationMode.SmoothTransformation))
             else: image_label.setText("Immagine non trovata")
         except Exception as e: image_label.setText(f"Err img: {e}")
-        # Titolo e Descrizione
         title = QLabel("Installer Patch ITA per Yakuza 5 Remastered"); title.setObjectName("TitleLabel"); title.setAlignment(Qt.AlignmentFlag.AlignCenter); title.setWordWrap(True)
         desc = QLabel("Questo programma installerà la traduzione italiana amatoriale."); desc.setObjectName("SubtitleLabel"); desc.setAlignment(Qt.AlignmentFlag.AlignCenter); desc.setWordWrap(True)
-        # Pulsanti navigazione
         btn_layout = QHBoxLayout(); self.cancel_btn = QPushButton("Esci"); self.cancel_btn.setObjectName("CancelButton")
         try: self.cancel_btn.setIcon(self.style().standardIcon(QStyle.StandardPixmap.SP_DialogCancelButton))
         except Exception: pass
@@ -580,41 +582,33 @@ class WelcomeScreen(QWidget):
         try: self.next_btn.setIcon(self.style().standardIcon(QStyle.StandardPixmap.SP_ArrowRight))
         except Exception: pass
         btn_layout.addWidget(self.cancel_btn); btn_layout.addStretch(); btn_layout.addWidget(self.next_btn)
-        # Info versione/autore in basso
         bottom_info_layout = QHBoxLayout(); version_label = QLabel(f"Versione Patch: {VERSIONE}"); version_label.setObjectName("VersionLabel"); version_label.setAlignment(Qt.AlignmentFlag.AlignLeft | Qt.AlignmentFlag.AlignVCenter); autore_label = QLabel(CREDITI); autore_label.setObjectName("AuthorLabel"); autore_label.setAlignment(Qt.AlignmentFlag.AlignRight | Qt.AlignmentFlag.AlignVCenter); bottom_info_layout.addWidget(version_label); bottom_info_layout.addStretch(1); bottom_info_layout.addWidget(autore_label)
-        # Assemblaggio layout
         layout.addWidget(image_label); layout.addWidget(title); layout.addWidget(desc); layout.addStretch(); layout.addLayout(btn_layout); layout.addSpacing(5); layout.addLayout(bottom_info_layout)
 
 class PackageCheckScreen(QWidget):
     """Schermata per controllare l'esistenza e la validità del file patch.pkg."""
     def __init__(self, parent_wizard):
         super().__init__()
-        self.parent_wizard = parent_wizard # Riferimento al wizard per accedere alla chiave AES
+        self.parent_wizard = parent_wizard
         layout = QVBoxLayout(self); layout.setContentsMargins(30, 20, 30, 20); layout.setSpacing(15)
-        # Titolo
         title = QLabel("Controllo File Patch"); title.setObjectName("TitleLabel"); title.setAlignment(Qt.AlignmentFlag.AlignCenter)
-        # Etichetta stato controllo
         self.status_label = QLabel("Verifico..."); self.status_label.setObjectName("StatusLabel"); self.status_label.setAlignment(Qt.AlignmentFlag.AlignCenter); self.status_label.setWordWrap(True)
-        # --- Widget per Input Chiave (Nascosto inizialmente) ---
-        self.key_input_widget = QWidget() # Contenitore per mostrare/nascondere
+        self.key_input_widget = QWidget()
         self.key_input_layout = QVBoxLayout(self.key_input_widget)
         self.key_input_layout.setContentsMargins(0, 10, 0, 5); self.key_input_layout.setSpacing(5)
         key_input_label = QLabel("Chiave AES non valida. Inserisci una chiave alternativa:")
         key_input_label.setObjectName("KeyInputLabel"); key_input_label.setAlignment(Qt.AlignmentFlag.AlignCenter)
         self.key_input_field = QLineEdit(); self.key_input_field.setObjectName("KeyInputField")
-        self.key_input_field.setEchoMode(QLineEdit.EchoMode.Password) # Maschera input
+        self.key_input_field.setEchoMode(QLineEdit.EchoMode.Password)
         self.key_input_field.setPlaceholderText("Inserisci chiave e premi Riprova (o lascia vuoto per default)")
-        self.key_input_field.returnPressed.connect(self.check_package) # Invio = Riprova
+        self.key_input_field.returnPressed.connect(self.check_package)
         self.key_input_layout.addWidget(key_input_label); self.key_input_layout.addWidget(self.key_input_field)
-        self.key_input_widget.setVisible(False) # Nascosto all'inizio
-        # --- Fine Widget Input Chiave ---
-        # Pulsante Riprova
+        self.key_input_widget.setVisible(False)
         self.retry_btn = QPushButton("Riprova Controllo"); self.retry_btn.setObjectName("RetryButton")
         self.retry_btn.clicked.connect(self.check_package); self.retry_btn.setVisible(False)
         try: self.retry_btn.setIcon(self.style().standardIcon(QStyle.StandardPixmap.SP_BrowserReload))
         except Exception: pass
         retry_layout = QHBoxLayout(); retry_layout.addStretch(); retry_layout.addWidget(self.retry_btn); retry_layout.addStretch()
-        # Pulsanti navigazione
         btn_layout = QHBoxLayout(); self.cancel_btn = QPushButton("Esci"); self.cancel_btn.setObjectName("CancelButton")
         try: self.cancel_btn.setIcon(self.style().standardIcon(QStyle.StandardPixmap.SP_DialogCancelButton))
         except Exception: pass
@@ -622,12 +616,10 @@ class PackageCheckScreen(QWidget):
         try: self.next_btn.setIcon(self.style().standardIcon(QStyle.StandardPixmap.SP_ArrowRight))
         except Exception: pass
         btn_layout.addWidget(self.cancel_btn); btn_layout.addStretch(); btn_layout.addWidget(self.next_btn)
-        # Assemblaggio Layout
         layout.addWidget(title); layout.addSpacing(20); layout.addWidget(self.status_label); layout.addWidget(self.key_input_widget); layout.addSpacing(10); layout.addLayout(retry_layout); layout.addStretch(); layout.addLayout(btn_layout)
 
     def check_package(self):
         """Esegue il controllo del file patch.pkg usando la chiave AES corrente."""
-        # Legge e aggiorna chiave se campo visibile (quando utente clicca Riprova)
         if self.key_input_widget.isVisible():
             new_key_text = self.key_input_field.text(); key_changed = False
             if new_key_text:
@@ -637,20 +629,23 @@ class PackageCheckScreen(QWidget):
                         self.parent_wizard.current_aes_key = new_key_bytes; print("Chiave AES aggiornata (da input)."); key_changed = True
                 except Exception as e: QMessageBox.warning(self, "Errore Chiave", f"Chiave non valida: {e}"); print(f"Err key enc: {e}")
             else:
-                 if self.parent_wizard.current_aes_key != leggi_chiave(resource_path(CHIAVE)):
-                     self.parent_wizard.current_aes_key = leggi_chiave(resource_path(CHIAVE)); print("Chiave AES reimpostata (da input vuoto)."); key_changed = True
-            # Pulisce campo se chiave cambiata, per prossimo tentativo
-            # if key_changed: self.key_input_field.clear() # Forse meglio non pulirlo? Utente vede cosa ha messo.
+                 chiave_default = leggi_chiave(resource_path(CHIAVE))
+                 if self.parent_wizard.current_aes_key != chiave_default:
+                     self.parent_wizard.current_aes_key = chiave_default
+                     print("Chiave AES reimpostata (da input vuoto)."); key_changed = True
 
-        # Usa la chiave corrente (potenzialmente aggiornata)
         aes_key_to_use = self.parent_wizard.current_aes_key
         package_path = resource_path(PACKAGE_FILE)
 
-        # Nascondi campo input chiave e mostra "Verifico..."
         self.key_input_widget.setVisible(False)
-        self.retry_btn.setVisible(False) # Nascondi Riprova durante il check
+        self.retry_btn.setVisible(False)
         self.status_label.setText("Verifico...")
-        QApplication.processEvents() # Aggiorna UI
+        QApplication.processEvents()
+
+        if not aes_key_to_use:
+            self.status_label.setText(f"<font color='#ff8080'>❌ Errore: Chiave AES non disponibile.</font><br><font color='#bbccd0' size='-1'>Impossibile leggere {CHIAVE} e nessuna chiave inserita.</font>")
+            self.next_btn.setEnabled(False); self.retry_btn.setVisible(True); self.key_input_widget.setVisible(True); self.key_input_field.setFocus()
+            return
 
         if os.path.isfile(package_path):
             try:
@@ -690,23 +685,35 @@ class LicenseScreen(QWidget):
 class InstallScreen(QWidget):
     """Schermata per selezionare la cartella e avviare l'installazione."""
     def __init__(self):
-        super().__init__(); self.layout = QVBoxLayout(self); self.layout.setContentsMargins(30, 20, 30, 20); self.layout.setSpacing(15)
+        super().__init__()
+        self.layout = QVBoxLayout(self); self.layout.setContentsMargins(30, 20, 30, 20); self.layout.setSpacing(15)
+
         # Titolo con icona
         title_layout = QHBoxLayout(); title_layout.setSpacing(10); title_icon_label = QLabel()
-        try: icon = self.style().standardIcon(QStyle.StandardPixmap.SP_ComputerIcon); title_icon_label.setPixmap(icon.pixmap(QSize(32, 32)))
+        try:
+            icon = self.style().standardIcon(QStyle.StandardPixmap.SP_ComputerIcon); title_icon_label.setPixmap(icon.pixmap(QSize(32, 32)))
         except Exception as e: print(f"Err title icon: {e}")
         title = QLabel("Selezione Cartella di Installazione"); title.setObjectName("TitleLabel"); title.setAlignment(Qt.AlignmentFlag.AlignCenter)
         title_layout.addStretch(1); title_layout.addWidget(title_icon_label, 0, Qt.AlignmentFlag.AlignVCenter); title_layout.addWidget(title, 0, Qt.AlignmentFlag.AlignVCenter); title_layout.addStretch(1)
+
         # Etichetta percorso
         path_label = QLabel("Installa la patch nella cartella principale di Yakuza 5:"); path_label.setObjectName("SubtitleLabel")
+
         # Input percorso e bottone sfoglia
-        self.path_input = QLineEdit(); self.path_input.setPlaceholderText("Es: C:/.../Steam/steamapps/common/Yakuza 5/main")
+        self.path_input = QLineEdit(); self.path_input.setPlaceholderText("Es: C:/.../Steam/steamapps/common/Yakuza 5")
         self.browse_btn = QPushButton(); self.browse_btn.setObjectName("BrowseButton")
-        try: icon = self.style().standardIcon(QStyle.StandardPixmap.SP_DirOpenIcon); self.browse_btn.setIcon(icon); self.browse_btn.setIconSize(QSize(18, 18))
-        except Exception as e: self.browse_btn.setText("...")
+        try:
+            icon = self.style().standardIcon(QStyle.StandardPixmap.SP_DirOpenIcon); self.browse_btn.setIcon(icon); self.browse_btn.setIconSize(QSize(18, 18))
+        except Exception as e: self.browse_btn.setText("...") # Fallback testo
         self.browse_btn.setFixedSize(34, 34); self.browse_btn.setToolTip("Sfoglia cartelle"); self.browse_btn.clicked.connect(self.select_folder)
         path_layout = QHBoxLayout(); path_layout.addWidget(path_label); path_layout.addStretch()
         path_input_layout = QHBoxLayout(); path_input_layout.addWidget(self.path_input, 1); path_input_layout.addSpacing(5); path_input_layout.addWidget(self.browse_btn)
+
+        # MODIFICA: Aggiunta Checkbox per il Backup
+        self.backup_checkbox = QCheckBox("Crea backup dei file originali prima dell'installazione")
+        self.backup_checkbox.setChecked(True) # Imposta come selezionato di default (opzionale)
+        self.backup_checkbox.setToolTip("Se selezionato, i file che verranno sovrascritti dalla patch\nsaranno prima copiati in una sottocartella '_backup_patch_ita_...'")
+
         # Pulsanti Install/Cancel
         self.install_btn = QPushButton("Installa Patch"); self.install_btn.setObjectName("InstallButton"); self.install_btn.setDefault(True)
         try: self.install_btn.setIcon(self.style().standardIcon(QStyle.StandardPixmap.SP_DialogSaveButton))
@@ -714,9 +721,11 @@ class InstallScreen(QWidget):
         self.cancel_btn = QPushButton("Annulla"); self.cancel_btn.setObjectName("CancelButton")
         try: self.cancel_btn.setIcon(self.style().standardIcon(QStyle.StandardPixmap.SP_DialogCancelButton))
         except Exception as e: print(f"Err cancel icon: {e}")
+
         # Barra progresso e stato
         self.progress_bar = QProgressBar(); self.progress_bar.setValue(0); self.progress_bar.setTextVisible(False)
         self.status_label = QLabel("Pronto per l'installazione."); self.status_label.setObjectName("StatusLabel"); self.status_label.setAlignment(Qt.AlignmentFlag.AlignCenter)
+
         # Icona animata (testa) sulla barra progresso
         self.head_icon = QLabel(self); self.head_icon.setObjectName("HeadIcon")
         try:
@@ -725,51 +734,136 @@ class InstallScreen(QWidget):
             self.head_icon.setFixedSize(24, 24); self.head_icon.setAlignment(Qt.AlignmentFlag.AlignCenter); self.head_icon.hide()
             self.head_icon.setAttribute(Qt.WidgetAttribute.WA_TransparentForMouseEvents); self.progress_bar.valueChanged.connect(self.update_icon_position)
         except Exception as e: print(f"Err head icon: {e}")
+
         # Layout pulsanti inferiori
         btn_layout = QHBoxLayout(); btn_layout.addWidget(self.cancel_btn); btn_layout.addStretch(); btn_layout.addWidget(self.install_btn)
+
         # Assemblaggio layout schermata
-        self.layout.addLayout(title_layout); self.layout.addLayout(path_layout); self.layout.addLayout(path_input_layout); self.layout.addSpacing(20)
-        self.layout.addWidget(self.progress_bar); self.layout.addWidget(self.status_label); self.layout.addStretch(); self.layout.addLayout(btn_layout)
+        self.layout.addLayout(title_layout)
+        self.layout.addLayout(path_layout)
+        self.layout.addLayout(path_input_layout)
+        self.layout.addSpacing(10) # Spazio prima del checkbox
+        self.layout.addWidget(self.backup_checkbox) # MODIFICA: Aggiunto checkbox al layout
+        self.layout.addSpacing(20) # Spazio dopo il checkbox
+        self.layout.addWidget(self.progress_bar)
+        self.layout.addWidget(self.status_label)
+        self.layout.addStretch()
+        self.layout.addLayout(btn_layout)
+
         self.set_default_path() # Imposta percorso iniziale
 
     def set_default_path(self):
         """Tenta di determinare e impostare il percorso di installazione predefinito."""
         default_path = ""; base = os.path.expanduser("~")
         try:
-            if platform.system() == "Windows": potential_bases = [os.path.join(os.environ.get("ProgramFiles(x86)", "C:/Program Files (x86)"), "Steam/steamapps/common"), os.path.join(os.environ.get("ProgramFiles", "C:/Program Files"), "Steam/steamapps/common")]
-            elif platform.system() == "Linux": potential_bases = ["/home/deck/.local/share/Steam/steamapps/common", os.path.expanduser("~/.steam/steam/steamapps/common"), os.path.expanduser("~/.local/share/Steam/steamapps/common"), os.path.expanduser("~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common")]
-            else: potential_bases = []
+            if platform.system() == "Windows":
+                potential_bases = [
+                    os.path.join(os.environ.get("ProgramFiles(x86)", "C:/Program Files (x86)"), "Steam/steamapps/common"),
+                    os.path.join(os.environ.get("ProgramFiles", "C:/Program Files"), "Steam/steamapps/common")
+                ]
+                # Aggiungi ricerca in altri drive comuni se possibile
+                import string
+                available_drives = ['%s:' % d for d in string.ascii_uppercase if os.path.exists('%s:' % d)]
+                for drive in available_drives:
+                    if drive.lower() != 'c:':
+                         potential_bases.append(os.path.join(drive, "Program Files (x86)/Steam/steamapps/common"))
+                         potential_bases.append(os.path.join(drive, "Program Files/Steam/steamapps/common"))
+                         potential_bases.append(os.path.join(drive, "SteamLibrary/steamapps/common")) # Librerie Steam alternative
+
+            elif platform.system() == "Linux":
+                potential_bases = [
+                    os.path.expanduser("~/.steam/steam/steamapps/common"),
+                    os.path.expanduser("~/.local/share/Steam/steamapps/common"),
+                    os.path.expanduser("~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common"), # Flatpak
+                    "/home/deck/.local/share/Steam/steamapps/common" # Steam Deck specifico
+                ]
+                # Cerca altre librerie Steam in ~/.steam/steam/steamapps/libraryfolders.vdf? (più complesso)
+            else: # macOS o altri
+                potential_bases = [
+                    os.path.expanduser("~/Library/Application Support/Steam/steamapps/common")
+                ]
+
             found_base = None
-            for spath in potential_bases:
-                if os.path.isdir(os.path.join(spath, DEFAULT_FOLDER_NAME)): found_base = spath; break
+            target_game_folder = os.path.join(DEFAULT_FOLDER_NAME) # Solo il nome della cartella gioco
+
+            # 1. Cerca la cartella esatta del gioco
+            for base_path in potential_bases:
+                if os.path.isdir(os.path.join(base_path, target_game_folder)):
+                    found_base = base_path
+                    break
+
+            # 2. Se non trovata, cerca almeno la cartella 'common' genitore
             if not found_base:
-                 for spath in potential_bases:
-                     if os.path.isdir(spath): found_base = spath; break
+                 for base_path in potential_bases:
+                     if os.path.isdir(base_path):
+                         found_base = base_path
+                         break
+
+            # Usa la base trovata o il default dell'utente
             base = found_base if found_base else base
-            default_path = os.path.join(base, DEFAULT_FOLDER_NAME)
-        except Exception as e: print(f"Error determining default path: {e}"); default_path = os.path.join(base, DEFAULT_FOLDER_NAME)
-        self.path_input.setText(default_path.replace("\\", "/")) # Usa slash per consistenza
+
+            # Costruisci il path finale
+            default_path = os.path.join(base, target_game_folder)
+
+        except Exception as e:
+            print(f"Error determining default path: {e}")
+            # Fallback al path utente + nome gioco
+            default_path = os.path.join(os.path.expanduser("~"), DEFAULT_FOLDER_NAME)
+
+        # Normalizza e imposta
+        self.path_input.setText(os.path.normpath(default_path).replace("\\", "/")) # Usa slash per consistenza
+
 
     def select_folder(self):
         """Apre un dialogo per selezionare la cartella di installazione."""
         current_path = self.path_input.text(); start_dir = current_path
+        # Tenta di usare la directory genitore se il path corrente non è una dir valida
         if not os.path.isdir(current_path): start_dir = os.path.dirname(current_path)
+        # Se anche il genitore non è valido, usa la home
         if not os.path.isdir(start_dir): start_dir = os.path.expanduser("~")
+        # Apri il dialogo
         folder = QFileDialog.getExistingDirectory(self, "Seleziona la cartella principale di Yakuza 5 Remastered", start_dir)
-        if folder: self.path_input.setText(folder.replace("\\", "/"))
+        if folder: self.path_input.setText(folder.replace("\\", "/")) # Usa slash per consistenza
 
     def update_icon_position(self, value):
         """Aggiorna la posizione dell'icona 'testa' sulla barra di progresso."""
         try:
+            # Mostra/nascondi icona ai bordi
             if value > 1 and value < 100: self.head_icon.show()
             else: self.head_icon.hide()
+
             if not self.progress_bar.isVisible() or self.progress_bar.width() <= 0: return
-            bar_rect=self.progress_bar.geometry(); bar_x=self.progress_bar.mapToParent(self.progress_bar.rect().topLeft()).x(); bar_y=self.progress_bar.mapToParent(self.progress_bar.rect().topLeft()).y(); bar_w=bar_rect.width(); icon_w=self.head_icon.width(); icon_h=self.head_icon.height(); eff_w=bar_w-0; ratio=max(0,min(1,value/100.0)); y=bar_y+(bar_rect.height()-icon_h)//2; x=bar_x+0+int(eff_w*ratio)-icon_w//2; x=max(bar_x+0,min(x,bar_x+bar_w-icon_w-0)); self.head_icon.move(x,y); self.head_icon.raise_()
-        except Exception as e: print(f"Err icon pos: {e}"); self.head_icon.hide()
+
+            bar_rect = self.progress_bar.geometry()
+            # Mappa le coordinate della barra al genitore (InstallScreen)
+            bar_top_left_in_parent = self.progress_bar.mapToParent(self.progress_bar.rect().topLeft())
+            bar_x = bar_top_left_in_parent.x()
+            bar_y = bar_top_left_in_parent.y()
+            bar_w = bar_rect.width()
+            icon_w = self.head_icon.width()
+            icon_h = self.head_icon.height()
+
+            # Calcola la posizione X dell'icona in base al valore percentuale
+            padding = 0
+            effective_bar_width = bar_w - (2 * padding)
+            ratio = max(0, min(1, value / 100.0)) # Clamp ratio [0, 1]
+            x = bar_x + padding + int(effective_bar_width * ratio) - (icon_w // 2)
+            x = max(bar_x + padding, min(x, bar_x + bar_w - icon_w - padding))
+
+            # Calcola la posizione Y per centrare verticalmente l'icona nella barra
+            y = bar_y + (bar_rect.height() - icon_h) // 2
+
+            # Muovi l'icona
+            self.head_icon.move(x, y)
+            self.head_icon.raise_()
+        except Exception as e:
+            print(f"Err icon pos: {e}")
+            self.head_icon.hide()
 
     def resizeEvent(self, event):
         """Gestisce l'evento di ridimensionamento per riposizionare l'icona."""
-        super().resizeEvent(event); self.update_icon_position(self.progress_bar.value())
+        super().resizeEvent(event)
+        self.update_icon_position(self.progress_bar.value())
 
 
 # --- Classe Wizard Principale ---
@@ -780,17 +874,17 @@ class InstallerWizard(QWidget):
     """
     def __init__(self):
         super().__init__()
-        self.install_worker = None # Riferimento al thread worker (None se non attivo)
-        self.current_aes_key = leggi_chiave(resource_path(CHIAVE)) # Chiave AES attualmente in uso
-        self.setObjectName("InstallerWizard") # ID per QSS
+        self.install_worker = None
+        self.current_aes_key = leggi_chiave(resource_path(CHIAVE))
+        self.setObjectName("InstallerWizard")
 
         # Impostazioni finestra principale
         try: self.setWindowIcon(QIcon(LOGO_ICO))
         except Exception as e: print(f"Error setting window icon: {e}")
         self.setWindowTitle(f"Installer Patch ITA Yakuza 5 Remastered ({VERSIONE})")
-        self.setMinimumSize(640, 520) # Dimensioni minime
+        self.setMinimumSize(640, 520)
 
-        # Contenitore principale per applicare stile sfondo globale
+        # Contenitore principale
         container = QWidget(self)
         self.main_layout = QVBoxLayout(self)
         self.main_layout.setContentsMargins(0, 0, 0, 0)
@@ -799,206 +893,250 @@ class InstallerWizard(QWidget):
         # Layout interno al container
         container_layout = QVBoxLayout(container)
         container_layout.setContentsMargins(0, 0, 0, 0)
-        self.stack = QStackedWidget() # Widget che contiene le diverse schermate
+        self.stack = QStackedWidget()
         container_layout.addWidget(self.stack)
 
-        # Creazione istanze delle schermate
+        # Creazione istanze schermate
         self.welcome = WelcomeScreen()
-        self.check_pkg = PackageCheckScreen(self) # Passa riferimento al wizard
+        self.check_pkg = PackageCheckScreen(self)
         self.license = LicenseScreen()
         self.install = InstallScreen()
 
-        # Aggiunta schermate allo QStackedWidget
+        # Aggiunta schermate
         self.stack.addWidget(self.welcome)
         self.stack.addWidget(self.check_pkg)
         self.stack.addWidget(self.license)
         self.stack.addWidget(self.install)
 
-        # --- Pulsante Nascosto per Chiave AES ---
-        self.hidden_key_button = QPushButton(self) # Figlio diretto della finestra wizard
-        self.hidden_key_button.setObjectName("HiddenKeyButton") # ID per QSS
-        self.hidden_key_button.setFixedSize(10, 10) # Molto piccolo
+        # Pulsante Nascosto
+        self.hidden_key_button = QPushButton(self)
+        self.hidden_key_button.setObjectName("HiddenKeyButton")
+        self.hidden_key_button.setFixedSize(10, 10)
         self.hidden_key_button.setFlat(True)
         self.hidden_key_button.setToolTip("Inserisci chiave AES personalizzata")
-        self.hidden_key_button.setStyleSheet("background-color:transparent;border:none;") # Trasparente
-        self.hidden_key_button.clicked.connect(self.show_custom_key_dialog) # Connessione allo slot
-        self.hidden_key_button.raise_() # Assicura sia sopra gli altri widget
-        # --- Fine Pulsante Nascosto ---
+        self.hidden_key_button.setStyleSheet("background-color:transparent;border:none;")
+        self.hidden_key_button.clicked.connect(self.show_custom_key_dialog)
+        self.hidden_key_button.raise_()
 
-        # Connessioni segnali/slot per la navigazione tra schermate
+        # Connessioni navigazione
         self.welcome.next_btn.clicked.connect(self.go_to_check)
         self.check_pkg.next_btn.clicked.connect(lambda: self.stack.setCurrentWidget(self.license))
         self.license.next_btn.clicked.connect(lambda: self.stack.setCurrentWidget(self.install))
         self.install.install_btn.clicked.connect(self.confirm_installation)
 
-        # Connessioni pulsanti Esci/Annulla
+        # Connessioni Esci/Annulla
         self.welcome.cancel_btn.clicked.connect(self.close)
         self.check_pkg.cancel_btn.clicked.connect(self.close)
         self.license.cancel_btn.clicked.connect(self.close)
-        self.install.cancel_btn.clicked.connect(self.handle_cancel_install) # Gestione specifica
+        self.install.cancel_btn.clicked.connect(self.handle_cancel_install)
 
-        # Posiziona inizialmente il bottone nascosto
         self.position_hidden_button()
 
     def position_hidden_button(self):
         """Posiziona il bottone nascosto nell'angolo in alto a destra."""
-        margin = 5 # Margine dai bordi
+        margin = 5
         button_size = self.hidden_key_button.size()
         x = self.width() - button_size.width() - margin
         y = margin
         self.hidden_key_button.move(x, y)
 
     def resizeEvent(self, event):
-        """Riposiziona il bottone nascosto quando la finestra viene ridimensionata."""
+        """Riposiziona il bottone nascosto e aggiorna icona progresso."""
         super().resizeEvent(event)
         self.position_hidden_button()
+        if self.stack.currentWidget() == self.install:
+            self.install.update_icon_position(self.install.progress_bar.value())
 
     def show_custom_key_dialog(self):
-        """
-        Mostra un QInputDialog per permettere all'utente di inserire
-        manualmente una chiave AES personalizzata (triggerato dal bottone nascosto).
-        Aggiorna self.current_aes_key.
-        """
-        current_key_str="";
-        try: current_key_str=self.current_aes_key.decode('utf-8',errors='ignore')
+        """Mostra dialogo per inserire chiave AES manuale."""
+        current_key_str = "";
+        try:
+             if self.current_aes_key:
+                 current_key_str = self.current_aes_key.decode('utf-8', errors='ignore')
         except Exception: pass
 
         text, ok = QInputDialog.getText(self, "Chiave AES Personalizzata",
                                         "Inserisci la chiave AES (stringa):",
                                         QLineEdit.EchoMode.Password, current_key_str)
         key_changed = False
-        if ok and text: # Se utente preme OK e inserisce testo
+        if ok and text:
             try:
                 new_key_bytes = text.encode('utf-8')
                 if new_key_bytes != self.current_aes_key:
                     self.current_aes_key = new_key_bytes
-                    print("Chiave AES aggiornata.")
+                    print("Chiave AES aggiornata (manuale).")
                     key_changed = True
-            except Exception as e: QMessageBox.warning(self,"Errore Chiave",f"Errore: {e}"); print(f"Err key enc: {e}")
-        elif ok and not text: # Se utente preme OK ma non inserisce testo -> default
-             if self.current_aes_key != leggi_chiave(resource_path(CHIAVE)):
-                 self.current_aes_key = leggi_chiave(resource_path(CHIAVE))
-                 print("Chiave AES reimpostata al default.")
+            except Exception as e: QMessageBox.warning(self,"Errore Chiave",f"Errore codifica chiave: {e}"); print(f"Err key enc: {e}")
+        elif ok and not text:
+             chiave_default = leggi_chiave(resource_path(CHIAVE))
+             if self.current_aes_key != chiave_default:
+                 self.current_aes_key = chiave_default
+                 print("Chiave AES reimpostata al default (manuale).")
                  key_changed = True
-        # Se la chiave è cambiata E siamo sulla schermata check, riesegui check
+
         if key_changed and self.stack.currentWidget() == self.check_pkg:
              print("Rieseguo check dopo cambio chiave manuale.")
              self.check_pkg.check_package()
 
     def go_to_check(self):
-        """Passa alla schermata di controllo del pacchetto ed esegue il check."""
-        self.check_pkg.check_package() # Esegui il check quando si arriva alla schermata
+        """Passa alla schermata check ed esegue il controllo."""
+        self.check_pkg.check_package()
         self.stack.setCurrentWidget(self.check_pkg)
 
     def confirm_installation(self):
-        """Mostra un dialogo di conferma prima di avviare l'installazione."""
-        dest_path=self.install.path_input.text();
-        if not dest_path: QMessageBox.warning(self,"Percorso Mancante","Specifica cartella."); return
-        abs_path=os.path.abspath(dest_path); base_dir=os.path.dirname(abs_path)
-        if not os.path.isdir(base_dir): QMessageBox.warning(self,"Percorso Non Valido",f"Percorso base '{base_dir}' non valido."); return
-        # Controllo semplice presenza file/cartelle comuni Yakuza 5
-        common_files=['Yakuza5.exe','data','_CommonRedist']; found=[f for f in common_files if os.path.exists(os.path.join(dest_path,f))]; warn_msg=""; icon=self.style().standardIcon(QStyle.StandardPixmap.SP_MessageBoxQuestion); icon_pixmap=icon.pixmap(QSize(48,48));
-        if not found and os.path.exists(dest_path): warn_msg="<b>Attenzione:</b> La cartella non sembra contenere Yakuza 5."; warn_icon=self.style().standardIcon(QStyle.StandardPixmap.SP_MessageBoxWarning); icon_pixmap=warn_icon.pixmap(QSize(48,48))
-        elif not os.path.exists(dest_path): warn_msg=f"Nota: La cartella '{os.path.basename(dest_path)}' verrà creata."
-        # Usa dialogo personalizzato
-        dialog=CustomConfirmDialog(parent=self,title="Conferma Installazione",text=f"Installare in:<br><br><b>{dest_path}</b>",informative_text="Procedere?",warning_text=warn_msg,icon_pixmap=icon_pixmap)
-        if dialog.exec()==QDialog.DialogCode.Accepted: self.perform_installation(dest_path)
+        """Mostra conferma prima di installare."""
+        dest_path = self.install.path_input.text()
+        if not dest_path:
+            QMessageBox.warning(self, "Percorso Mancante", "Specifica la cartella di installazione.")
+            return
 
-    def perform_installation(self, dest_path):
-        """Avvia il processo di installazione nel thread separato."""
-        if self.install_worker and self.install_worker.isRunning(): return # Evita avvii multipli
-        # Verifica/Crea cartella destinazione
-        try: os.makedirs(dest_path, exist_ok=True)
-        except OSError as e: QMessageBox.critical(self,"Errore Cartella",f"Impossibile creare/accedere:\n{dest_path}\nErrore: {e}"); return
-        # Disabilita controlli UI
-        self.install.install_btn.setEnabled(False); self.install.cancel_btn.setText("Annulla"); self.install.cancel_btn.setObjectName("CancelButton")
-        self.install.path_input.setEnabled(False); self.install.browse_btn.setEnabled(False); self.install.status_label.setText("Installazione..."); self.install.progress_bar.setValue(0)
-        # Crea e avvia il worker
-        self.install_worker=InstallWorker(dest_path,self.current_aes_key) # Passa chiave corrente
+        do_backup = self.install.backup_checkbox.isChecked()
+        dest_path = os.path.normpath(dest_path)
+        abs_path = os.path.abspath(dest_path)
+        base_dir = os.path.dirname(abs_path)
+
+        if not os.path.isdir(base_dir):
+            QMessageBox.warning(self, "Percorso Non Valido", f"La directory base '{base_dir}' non esiste o non è valida.")
+            return
+
+        common_files = ['Yakuza4.exe', 'data', '_CommonRedist']
+        found = [f for f in common_files if os.path.exists(os.path.join(dest_path, f))]
+        warn_msg = ""
+        icon = self.style().standardIcon(QStyle.StandardPixmap.SP_MessageBoxQuestion)
+        icon_pixmap = icon.pixmap(QSize(48, 48))
+
+        if not found and os.path.isdir(dest_path):
+            warn_msg = "<b>Attenzione:</b> La cartella selezionata esiste ma non sembra contenere Yakuza 5."
+            warn_icon = self.style().standardIcon(QStyle.StandardPixmap.SP_MessageBoxWarning)
+            icon_pixmap = warn_icon.pixmap(QSize(48, 48))
+        elif not os.path.exists(dest_path):
+            warn_msg = f"Nota: La cartella '{os.path.basename(dest_path)}' verrà creata."
+
+        dialog = CustomConfirmDialog(
+            parent=self, title="Conferma Installazione",
+            text=f"Installare la patch in:<br><br><b>{dest_path}</b>",
+            informative_text="Procedere con l'operazione?",
+            warning_text=warn_msg, icon_pixmap=icon_pixmap
+        )
+        if dialog.exec() == QDialog.DialogCode.Accepted:
+            self.perform_installation(dest_path, do_backup)
+
+    def perform_installation(self, dest_path, do_backup):
+        """Avvia l'installazione nel thread."""
+        if self.install_worker and self.install_worker.isRunning(): return
+
+        if not self.current_aes_key:
+            QMessageBox.critical(self, "Errore Chiave AES", f"Impossibile procedere: chiave AES non valida o non trovata ({CHIAVE}).")
+            return
+
+        try:
+            os.makedirs(dest_path, exist_ok=True)
+        except OSError as e:
+            QMessageBox.critical(self, "Errore Cartella", f"Impossibile creare o accedere alla cartella di destinazione:\n{dest_path}\nErrore: {e}")
+            return
+
+        # Disabilita UI
+        self.install.install_btn.setEnabled(False)
+        self.install.cancel_btn.setText("Annulla"); self.install.cancel_btn.setObjectName("CancelButton")
+        self.install.path_input.setEnabled(False); self.install.browse_btn.setEnabled(False)
+        self.install.backup_checkbox.setEnabled(False)
+        self.install.status_label.setText("Avvio preparazione operazione...")
+        self.install.progress_bar.setValue(0)
+        self.install.head_icon.hide()
+
+        # Avvia worker
+        self.install_worker = InstallWorker(dest_path, self.current_aes_key, do_backup)
         self.install_worker.progress.connect(self.update_progress)
         self.install_worker.finished.connect(self.on_finished)
+        self.install_worker.backup_status.connect(self.update_backup_status)
         self.install_worker.start()
 
+    def update_backup_status(self, message):
+        """Aggiorna status label per backup."""
+        self.install.status_label.setText(message)
+        QApplication.processEvents()
+
     def update_progress(self, value):
-        """Aggiorna la barra di progresso e l'etichetta di stato."""
-        self.install.progress_bar.setValue(value); self.install.status_label.setText(f"Installazione... {value}%")
+        """Aggiorna barra e status label per installazione."""
+        self.install.progress_bar.setValue(value)
+        if value > 0 and value < 100:
+            self.install.status_label.setText(f"Installazione in corso... {value}%")
+        self.install.update_icon_position(value)
+
 
     def on_finished(self, success, message):
-        """
-        Slot chiamato al termine del thread di installazione.
-        Mostra messaggi di successo o errore.
-        Gestisce specificamente l'errore di chiave AES errata suggerendo cambio chiave.
-        """
-        # Riabilita controlli UI
+        """Chiamato al termine del worker."""
+        # Riabilita UI
         self.install.install_btn.setEnabled(True)
-        self.install.cancel_btn.setText("Chiudi") # Pulsante ora serve per chiudere
-        self.install.cancel_btn.setObjectName("CancelButton") # Mantieni stile per coerenza?
-        self.install.path_input.setEnabled(True)
-        self.install.browse_btn.setEnabled(True)
-        self.install_worker = None # Rimuovi riferimento al worker terminato
+        self.install.cancel_btn.setText("Chiudi"); self.install.cancel_btn.setObjectName("CancelButton")
+        self.install.cancel_btn.setEnabled(True)
+        self.install.path_input.setEnabled(True); self.install.browse_btn.setEnabled(True)
+        self.install.backup_checkbox.setEnabled(True)
+        self.install.head_icon.hide()
+
+        self.install_worker = None
 
         # Gestione Risultati
         if success:
             self.install.progress_bar.setValue(100)
-            self.install.status_label.setText("Completato con successo.")
-            # Mostra dialogo di completamento personalizzato
-            completion_dialog = CompletionDialog(parent=self, title="Installazione Completata",
-                                                 text=message, url_to_open=DONAZIONI)
-            completion_dialog.exec() # Mostra dialogo modale
-        else: # Se installazione fallita
-            # Log messaggio per debug
+            self.install.status_label.setText(message)
+            completion_dialog = CompletionDialog(
+                parent=self, title="Installazione Completata",
+                text="Operazione completata con successo.",
+                url_to_open=DONAZIONI
+            )
+            completion_dialog.exec()
+        else: # Fallimento
             print(f"DEBUG: on_finished received error message: '{message}'")
+            self.install.progress_bar.setValue(0)
 
-            if message == "Installazione annullata dall'utente.":
-                 self.install.status_label.setText("Installazione annullata.")
-                 self.install.progress_bar.setValue(0)
-            # Controllo specifico per errore chiave/corruzione DOPO tentativo installazione
+            # Gestione messaggi specifici di errore
+            if message == "Installazione annullata dall'utente." or message == "Backup annullato dall'utente.":
+                 self.install.status_label.setText("Operazione annullata.")
             elif "chiave AES usata non è valida" in message or "archivio è corrotto" in message or "file zip non valido" in message:
                  self.install.status_label.setText("Errore: Chiave AES / Archivio.")
-                 self.install.progress_bar.setValue(0)
-                 # Mostra messaggio specifico con suggerimento bottone nascosto
                  QMessageBox.warning(self, "Errore Chiave AES o Archivio",
                                     f"Si è verificato un errore durante l'estrazione:\n{message}\n\n"
                                     "La chiave AES fornita non è corretta o il file patch.pkg è corrotto.\n\n"
                                     "Puoi provare a inserire una chiave diversa usando il piccolo pulsante "
                                     "trasparente in alto a destra, quindi riprova l'installazione. "
                                     "Se il problema persiste, verifica l'integrità del file patch.pkg.")
-            # Altri errori generici
-            else:
-                self.install.status_label.setText("Errore durante l'installazione.")
-                self.install.progress_bar.setValue(0)
-                QMessageBox.critical(self, "Errore di Installazione",
-                                     f"Si è verificato un errore imprevisto:\n{message}\n\n"
+            elif "Errore durante il backup" in message:
+                 self.install.status_label.setText("Errore durante il backup.")
+                 QMessageBox.critical(self, "Errore di Backup", message)
+            else: # Altri errori
+                self.install.status_label.setText("Errore durante l'operazione.")
+                QMessageBox.critical(self, "Errore",
+                                     f"Si è verificato un errore:\n{message}\n\n"
                                      f"Controlla il file '{LOG_FILE}' per maggiori dettagli tecnici.")
 
     def handle_cancel_install(self):
-        """Gestisce il click sul pulsante Annulla/Chiudi nella schermata di installazione."""
-        if self.install_worker and self.install_worker.isRunning(): # Se installazione in corso
-             # Chiedi conferma per annullare
-             msg_box=QMessageBox(self); msg_box.setWindowTitle("Annulla"); msg_box.setText("Interrompere installazione?"); msg_box.setIcon(QMessageBox.Icon.Question); msg_box.setStandardButtons(QMessageBox.StandardButton.Yes|QMessageBox.StandardButton.No); msg_box.setDefaultButton(QMessageBox.StandardButton.No); yes_b=msg_box.button(QMessageBox.StandardButton.Yes); yes_b.setObjectName("CancelButton"); no_b=msg_box.button(QMessageBox.StandardButton.No); no_b.setObjectName("AcceptButton");
+        """Gestisce click su Annulla/Chiudi."""
+        if self.install_worker and self.install_worker.isRunning():
+             msg_box=QMessageBox(self); msg_box.setWindowTitle("Annulla Operazione"); msg_box.setText("Interrompere l'operazione in corso?"); msg_box.setIcon(QMessageBox.Icon.Question); msg_box.setStandardButtons(QMessageBox.StandardButton.Yes|QMessageBox.StandardButton.No); msg_box.setDefaultButton(QMessageBox.StandardButton.No); yes_b=msg_box.button(QMessageBox.StandardButton.Yes); yes_b.setObjectName("CancelButton"); no_b=msg_box.button(QMessageBox.StandardButton.No); no_b.setObjectName("AcceptButton");
              if msg_box.exec()==QMessageBox.StandardButton.Yes:
-                 self.install_worker.requestInterruption() # Richiedi interruzione al worker
-                 self.install.status_label.setText("Annullamento..."); self.install.cancel_btn.setEnabled(False) # Disabilita bottone temporaneamente
-        else: # Se installazione non in corso, il pulsante è "Chiudi"
-             self.close() # Chiude la finestra principale
+                 self.install_worker.requestInterruption()
+                 self.install.status_label.setText("Annullamento in corso...");
+                 self.install.cancel_btn.setEnabled(False)
+        else:
+             self.close()
 
     def closeEvent(self, event):
-        """Gestisce l'evento di chiusura della finestra principale."""
-        # Se l'installazione è in corso, chiede conferma prima di chiudere
+        """Gestisce chiusura finestra."""
         if self.install_worker and self.install_worker.isRunning():
-             msg_box=QMessageBox(self); msg_box.setWindowTitle("In Corso"); msg_box.setText("Installazione in corso. Interrompere e uscire?"); msg_box.setIcon(QMessageBox.Icon.Warning); msg_box.setStandardButtons(QMessageBox.StandardButton.Yes|QMessageBox.StandardButton.No); msg_box.setDefaultButton(QMessageBox.StandardButton.No); yes_b=msg_box.button(QMessageBox.StandardButton.Yes); yes_b.setObjectName("CancelButton"); no_b=msg_box.button(QMessageBox.StandardButton.No); no_b.setObjectName("AcceptButton");
-             if msg_box.exec()==QMessageBox.StandardButton.Yes:
-                 self.install_worker.requestInterruption() # Richiedi interruzione
-                 event.accept() # Permetti chiusura finestra
-             else:
-                 event.ignore() # Ignora evento chiusura
+            msg_box=QMessageBox(self); msg_box.setWindowTitle("Operazione In Corso"); msg_box.setText("Operazione in corso. Interrompere e uscire?"); msg_box.setIcon(QMessageBox.Icon.Warning); msg_box.setStandardButtons(QMessageBox.StandardButton.Yes|QMessageBox.StandardButton.No); msg_box.setDefaultButton(QMessageBox.StandardButton.No); yes_b=msg_box.button(QMessageBox.StandardButton.Yes); yes_b.setObjectName("CancelButton"); no_b=msg_box.button(QMessageBox.StandardButton.No); no_b.setObjectName("AcceptButton");
+            if msg_box.exec()==QMessageBox.StandardButton.Yes:
+                 self.install_worker.requestInterruption()
+                 event.accept()
+            else:
+                 event.ignore()
         else:
-             event.accept() # Permetti chiusura normale
+             event.accept()
 
 
 # --- Blocco Principale di Avvio Applicazione ---
 if __name__ == "__main__":
-    # Abilita High DPI Scaling per migliore resa su schermi ad alta risoluzione
+    # Abilita High DPI Scaling (metodo originale con hasattr per compatibilità)
     if hasattr(Qt.ApplicationAttribute, 'AA_EnableHighDpiScaling'):
         QApplication.setAttribute(Qt.ApplicationAttribute.AA_EnableHighDpiScaling, True)
     if hasattr(Qt.ApplicationAttribute, 'AA_UseHighDpiPixmaps'):
@@ -1006,14 +1144,12 @@ if __name__ == "__main__":
 
     # Crea l'applicazione Qt
     app = QApplication(sys.argv)
-    # Imposta lo stile "Fusion" (raccomandato per QSS cross-platform)
     app.setStyle("Fusion")
-    # Applica lo stylesheet personalizzato all'intera applicazione
     app.setStyleSheet(YAKUZA_STYLESHEET)
 
-    # Crea e mostra la finestra principale del wizard
+    # Crea e mostra il wizard
     wizard = InstallerWizard()
     wizard.show()
 
-    # Avvia il loop degli eventi dell'applicazione
+    # Avvia loop eventi
     sys.exit(app.exec())
