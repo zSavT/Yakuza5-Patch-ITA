@@ -1,0 +1,12 @@
+{
+  "0": {
+    "ID\u0000string]": "live_test",
+    "ポップアップ\u0000string]": "test",
+    "サウンドID\u0000string]": "voice::eID_fighter_attack_s"
+  },
+  "types": {
+    "ID\u0000string]": "string",
+    "ポップアップ\u0000string]": "string",
+    "サウンドID\u0000string]": "string"
+  }
+}

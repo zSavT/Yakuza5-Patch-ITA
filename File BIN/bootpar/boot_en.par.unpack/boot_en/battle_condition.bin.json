@@ -1,0 +1,47 @@
+{
+  "0": {
+    "ID": "battle_start",
+    "スコア": "1000",
+    "条件": "battle_start != 0"
+  },
+  "1": {
+    "ID": "battle_end",
+    "スコア": "2000",
+    "条件": "battle_end != 0"
+  },
+  "2": {
+    "ID": "battle_win",
+    "スコア": "3000",
+    "条件": "battle_win != 0"
+  },
+  "3": {
+    "ID": "battle_lose",
+    "スコア": "4000",
+    "条件": "battle_lose != 0"
+  },
+  "4": {
+    "ID": "player_down",
+    "スコア": "2",
+    "条件": "player_down>=100"
+  },
+  "5": {
+    "ID": "enemy_down",
+    "スコア": "1",
+    "条件": "enemy_down>=100"
+  },
+  "6": {
+    "ID": "kiryu_down",
+    "スコア": "3",
+    "条件": "player_id==\"kiryu\" && player_down>=100"
+  },
+  "7": {
+    "ID": "after_hact",
+    "スコア": "4",
+    "条件": "after_hact>=100 && player_id==\"kiryu\" "
+  },
+  "types": {
+    "ID": "string",
+    "スコア": "string",
+    "条件": "string"
+  }
+}

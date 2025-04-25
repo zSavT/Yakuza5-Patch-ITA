@@ -1,0 +1,758 @@
+{
+  "0": {
+    "CATEGORY": "Terrain Moves",
+    "NAME": "Wall Crush",
+    "SCENARIO_STATUS": "8109000a",
+    "EXPLANATION": "Smash an opponent against a wall.\nThe most basic of basic Heat Actions."
+  },
+  "1": {
+    "CATEGORY": "",
+    "NAME": "Back Crush",
+    "SCENARIO_STATUS": "8109000b",
+    "EXPLANATION": "Crush an opponent from behind."
+  },
+  "2": {
+    "CATEGORY": "",
+    "NAME": "Head Crush",
+    "SCENARIO_STATUS": "8109000e",
+    "EXPLANATION": "Smash an opponent's head against an object."
+  },
+  "3": {
+    "CATEGORY": "",
+    "NAME": "Essence of Pole Crush",
+    "SCENARIO_STATUS": "81090010",
+    "EXPLANATION": "Use a nearby pole to crush an unsuspecting\nopponent."
+  },
+  "4": {
+    "CATEGORY": "",
+    "NAME": "Essence of Butt Breaking",
+    "SCENARIO_STATUS": "81090011",
+    "EXPLANATION": "A fierce attack that destroys an opponent's\ntailbone."
+  },
+  "5": {
+    "CATEGORY": "",
+    "NAME": "Essence of Back Breaking",
+    "SCENARIO_STATUS": "81090012",
+    "EXPLANATION": "Drop an opponent on a protruding object.\nIt's a real brain buster."
+  },
+  "6": {
+    "CATEGORY": "",
+    "NAME": "Essence of Throwing",
+    "SCENARIO_STATUS": "81090070",
+    "EXPLANATION": "Quickly eliminate an opponent by throwing them\noff of a high place."
+  },
+  "7": {
+    "CATEGORY": "",
+    "NAME": "Komaki Bowl Crusher",
+    "SCENARIO_STATUS": "8109000f",
+    "EXPLANATION": "An ancient attack that splits open an enemy's\nhead using their own body weight. Learn from\nthe past to protect the future."
+  },
+  "8": {
+    "CATEGORY": "",
+    "NAME": "Wall Smash",
+    "SCENARIO_STATUS": "81090064",
+    "EXPLANATION": "This deadly move will let you kick your opponent into\nthe wall repeatedly."
+  },
+  "9": {
+    "CATEGORY": "",
+    "NAME": "Guard Rail Crush",
+    "SCENARIO_STATUS": "81090000",
+    "EXPLANATION": "Kick and smash your opponent into a guard rail\nafter throwing him with this relentless move."
+  },
+  "10": {
+    "CATEGORY": "",
+    "NAME": "Pole Crush",
+    "SCENARIO_STATUS": "81090001",
+    "EXPLANATION": "Use a pole to crash down on an enemy with your\nknees from a high altitude."
+  },
+  "11": {
+    "CATEGORY": "",
+    "NAME": "Essence of Wall Throwing",
+    "SCENARIO_STATUS": "81090006",
+    "EXPLANATION": "Lift up an enemy and give him a giant heave into\nthe wall. A move for Saejima only."
+  },
+  "12": {
+    "CATEGORY": "",
+    "NAME": "Essence of Fence Bashing",
+    "SCENARIO_STATUS": "8109000c",
+    "EXPLANATION": "Fling your opponent into a chain-link fence,\nand then fling yourself into your opponent."
+  },
+  "13": {
+    "CATEGORY": "",
+    "NAME": "Essence of Fence Smashing",
+    "SCENARIO_STATUS": "8109000d",
+    "EXPLANATION": "Smash an opponent against a fence and grate\ntheir head with it. Take a little off the top."
+  },
+  "14": {
+    "CATEGORY": "",
+    "NAME": "Essence of Bell Ringing",
+    "SCENARIO_STATUS": "8109005b",
+    "EXPLANATION": "Pick up an enemy and slam him into the wall.\nThis is sure to terrify your opponent."
+  },
+  "15": {
+    "CATEGORY": "",
+    "NAME": "Essence of Wall Plastering",
+    "SCENARIO_STATUS": "8109006b",
+    "EXPLANATION": "Tackle an enemy near a wall and slam them against it."
+  },
+  "16": {
+    "CATEGORY": "",
+    "NAME": "Essence of Wall Pummel",
+    "SCENARIO_STATUS": "8109006c",
+    "EXPLANATION": "Knock down your enemy with a vicious strike after he is defenselessly plastered against a wall."
+  },
+  "17": {
+    "CATEGORY": "",
+    "NAME": "Essence of Snowman",
+    "SCENARIO_STATUS": "8109003a",
+    "EXPLANATION": "Put an enemy on ice and turn them into a snowman. You'll need a carrot and a wooden carving."
+  },
+  "18": {
+    "CATEGORY": "",
+    "NAME": "Essence of Door Slamming",
+    "SCENARIO_STATUS": "8109003b",
+    "EXPLANATION": "A brutal attack in which you slam your enemy's head in a car door with all your might."
+  },
+  "19": {
+    "CATEGORY": "Barehanded",
+    "NAME": "Essence of Triangle Jump",
+    "SCENARIO_STATUS": "81090002",
+    "EXPLANATION": "Mow down your enemies with a trinity of strikes."
+  },
+  "20": {
+    "CATEGORY": "",
+    "NAME": "Essence of Comebacks",
+    "SCENARIO_STATUS": "81090003",
+    "EXPLANATION": "When you are in danger after your guard is broken, turn the tables with a backspin kick."
+  },
+  "21": {
+    "CATEGORY": "",
+    "NAME": "Essence of Clotheslining",
+    "SCENARIO_STATUS": "81090004",
+    "EXPLANATION": "Grab the legs of an enemy to give him a brutal\nclothesline and a nice view of the sky."
+  },
+  "22": {
+    "CATEGORY": "",
+    "NAME": "Essence of Smashing",
+    "SCENARIO_STATUS": "81090005",
+    "EXPLANATION": "Catch your opponents on guard! Sweep out the feet of guarding enemies to watch them crumble."
+  },
+  "23": {
+    "CATEGORY": "",
+    "NAME": "Cyclops Roll",
+    "SCENARIO_STATUS": "81090029",
+    "EXPLANATION": "Grab your opponent by the feet and ruthlessly\nplow them into a surface."
+  },
+  "24": {
+    "CATEGORY": "",
+    "NAME": "Hellish Swing",
+    "SCENARIO_STATUS": "8109002a",
+    "EXPLANATION": "Show your devilish side by picking up an enemy\nand swinging them into a wall. "
+  },
+  "25": {
+    "CATEGORY": "",
+    "NAME": "Heavenly Swing",
+    "SCENARIO_STATUS": "8109002b",
+    "EXPLANATION": "Pick up a foe and swing them into a pole.\nMaybe catching a glimpse of heaven will help them\nrealize the error of their ways."
+  },
+  "26": {
+    "CATEGORY": "",
+    "NAME": "Essence of Swinging",
+    "SCENARIO_STATUS": "8109002d",
+    "EXPLANATION": "Swing a foe around and use them as a weapon.\nThose involved catch a glimpse into hell."
+  },
+  "27": {
+    "CATEGORY": "",
+    "NAME": "Essence of Might",
+    "SCENARIO_STATUS": "8109002e",
+    "EXPLANATION": "Grab an opponent and smash them into the\nground. Put all your strength, spirit, and weight\ninto a single devastating blow!"
+  },
+  "28": {
+    "CATEGORY": "",
+    "NAME": "Essence of Reversal",
+    "SCENARIO_STATUS": "8109002f",
+    "EXPLANATION": "Surprise an opponent while you're knocked down\nby breaking their shins."
+  },
+  "29": {
+    "CATEGORY": "",
+    "NAME": "Essence of Smoking",
+    "SCENARIO_STATUS": "81090030",
+    "EXPLANATION": "A secret street fighting technique. Skillfully\nuse a lit cigarette to create an opening."
+  },
+  "30": {
+    "CATEGORY": "",
+    "NAME": "Essence of Terror",
+    "SCENARIO_STATUS": "81090031",
+    "EXPLANATION": "Strike down your opponents with frightful\nspeed."
+  },
+  "31": {
+    "CATEGORY": "",
+    "NAME": "Essence of Hurling",
+    "SCENARIO_STATUS": "81090032",
+    "EXPLANATION": "Show an enemy grabbing you that they should to keep their hands to themselves by piledriving them."
+  },
+  "32": {
+    "CATEGORY": "",
+    "NAME": "Komaki Fist Reversal",
+    "SCENARIO_STATUS": "81090033",
+    "EXPLANATION": "Perform a powerful counter move against an enemy's attack. The move differs by direction."
+  },
+  "33": {
+    "CATEGORY": "",
+    "NAME": "Essence of Puppetry",
+    "SCENARIO_STATUS": "81090037",
+    "EXPLANATION": "Grab an enemy's head and swing him around like a weapon, bludgeoning other enemies all around."
+  },
+  "34": {
+    "CATEGORY": "",
+    "NAME": "Alpha Drive",
+    "SCENARIO_STATUS": "8109003d",
+    "EXPLANATION": "Deliver a powerful strike to an airborne enemy, then slam him to the ground."
+  },
+  "35": {
+    "CATEGORY": "",
+    "NAME": "Beta Drive",
+    "SCENARIO_STATUS": "8109003e",
+    "EXPLANATION": "Launch your enemy back into the air after slamming him down with Alpha Drive."
+  },
+  "36": {
+    "CATEGORY": "",
+    "NAME": "Gamma Drive",
+    "SCENARIO_STATUS": "8109003f",
+    "EXPLANATION": "After Beta Drive, violently kick your enemy away while he is still in the air."
+  },
+  "37": {
+    "CATEGORY": "",
+    "NAME": "Essence of Heaving",
+    "SCENARIO_STATUS": "81090042",
+    "EXPLANATION": "Pass between your enemy's legs after My Meteor Tackle then, send him flying."
+  },
+  "38": {
+    "CATEGORY": "",
+    "NAME": "Essence of Circle Throw",
+    "SCENARIO_STATUS": "81090044",
+    "EXPLANATION": "Take your enemy in your arms and throw him over your head."
+  },
+  "39": {
+    "CATEGORY": "",
+    "NAME": "Essence of Knee Slam",
+    "SCENARIO_STATUS": "81090045",
+    "EXPLANATION": "Viciously slam your knee into your enemy's vitals."
+  },
+  "40": {
+    "CATEGORY": "",
+    "NAME": "Essence of Merciless Throwing",
+    "SCENARIO_STATUS": "81090009",
+    "EXPLANATION": "Pull a fallen enemy up off the ground and mercilessly slam him back down. Time is money."
+  },
+  "41": {
+    "CATEGORY": "",
+    "NAME": "Essence of the Dragon",
+    "SCENARIO_STATUS": "81090048",
+    "EXPLANATION": "Unleash after Dragon Spirit to mow down surrounding enemies all at once."
+  },
+  "42": {
+    "CATEGORY": "",
+    "NAME": "Essence of Backup Busting",
+    "SCENARIO_STATUS": "8109004a",
+    "EXPLANATION": "Attack an enemy calling for backup, then smash his phone. No one's coming to save him now."
+  },
+  "43": {
+    "CATEGORY": "",
+    "NAME": "Double Juggle",
+    "SCENARIO_STATUS": "8109004b",
+    "EXPLANATION": "Send one enemy into the air, and while he is helpless, slam another nearby enemy into him."
+  },
+  "44": {
+    "CATEGORY": "",
+    "NAME": "Essence of Self-Destruction",
+    "SCENARIO_STATUS": "81090057",
+    "EXPLANATION": "Deliver a vicious attack by using an enemy's own large weapon against him."
+  },
+  "45": {
+    "CATEGORY": "",
+    "NAME": "Komaki Swordless Rebirth",
+    "SCENARIO_STATUS": "81090058",
+    "EXPLANATION": "Deliver a powerful counterattack against an enemy's sword attack."
+  },
+  "46": {
+    "CATEGORY": "",
+    "NAME": "Essence of Combo Stomp",
+    "SCENARIO_STATUS": "8109005a",
+    "EXPLANATION": "After an ally smashes the back of your opponent's head into the ground with a powerbomb, cave in their face with a stomp."
+  },
+  "47": {
+    "CATEGORY": "",
+    "NAME": "Essence of Falling Knee",
+    "SCENARIO_STATUS": "8109005d",
+    "EXPLANATION": "A secret technique where you jump and knee the face of an enemy that was picked up and thrown."
+  },
+  "48": {
+    "CATEGORY": "",
+    "NAME": "Essence of Team Ascent",
+    "SCENARIO_STATUS": "81090063",
+    "EXPLANATION": "Work with an ally to deliver a vicious blow."
+  },
+  "49": {
+    "CATEGORY": "",
+    "NAME": "Essence of Loin Reaving",
+    "SCENARIO_STATUS": "81090065",
+    "EXPLANATION": "Turn your back on your enemy, then deliver a debilitating kick when he least expects it."
+  },
+  "50": {
+    "CATEGORY": "",
+    "NAME": "Essence of Seizing",
+    "SCENARIO_STATUS": "8109006f",
+    "EXPLANATION": "Deliver a vicious strike, then steal your enemy's weapon. Does not work against certain weapons."
+  },
+  "51": {
+    "CATEGORY": "Finishing Moves",
+    "NAME": "Essence of Slamming",
+    "SCENARIO_STATUS": "81090013",
+    "EXPLANATION": "Take out two birds with one stone by dropping\none enemy onto another who's lying on the\nground."
+  },
+  "52": {
+    "CATEGORY": "",
+    "NAME": "Essence of Face Grating",
+    "SCENARIO_STATUS": "81090038",
+    "EXPLANATION": "Deal massive damage to an enemy by grating his face against the ground."
+  },
+  "53": {
+    "CATEGORY": "",
+    "NAME": "Essence of Iron Grip",
+    "SCENARIO_STATUS": "81090043",
+    "EXPLANATION": "Forcibly pull a fallen enemy to his feet, then slam him against a wall."
+  },
+  "54": {
+    "CATEGORY": "",
+    "NAME": "Essence of Finishing",
+    "SCENARIO_STATUS": "81090052",
+    "EXPLANATION": "Deliver a vicious attack to a fallen enemy. Acquire new finishing moves the more you use it."
+  },
+  "55": {
+    "CATEGORY": "",
+    "NAME": "Essence of Ruthlessness",
+    "SCENARIO_STATUS": "8109005c",
+    "EXPLANATION": "Deliver a vicious punch to the face of a fallen enemy."
+  },
+  "56": {
+    "CATEGORY": "",
+    "NAME": "Essence of Finishing Stomp",
+    "SCENARIO_STATUS": "81090014",
+    "EXPLANATION": "No need to damage your weapons this time.\nJust stomp on your opponent."
+  },
+  "57": {
+    "CATEGORY": "",
+    "NAME": "Essence of Mounting",
+    "SCENARIO_STATUS": "8109005e",
+    "EXPLANATION": "Turn the tables by tackling the opponent and punching them while they're down. A vicious attack for a cornered attacker."
+  },
+  "58": {
+    "CATEGORY": "",
+    "NAME": "Essence of Finishing Knee",
+    "SCENARIO_STATUS": "81090066",
+    "EXPLANATION": "A vicious drop to the face of a fallen enemy."
+  },
+  "59": {
+    "CATEGORY": "",
+    "NAME": "Essence of Finishing Kick",
+    "SCENARIO_STATUS": "81090015",
+    "EXPLANATION": "Keep your weapons pristine and send your\nenemy flying with a well-placed kick. Make them\nwish you had used a weapon."
+  },
+  "60": {
+    "CATEGORY": "",
+    "NAME": "Essence of the Shachihoko",
+    "SCENARIO_STATUS": "81090069",
+    "EXPLANATION": "Stretch the enemy into a shape of a shachihoko, then grab him to deliver another strike."
+  },
+  "61": {
+    "CATEGORY": "",
+    "NAME": "Essence of Armbarring",
+    "SCENARIO_STATUS": "81090034",
+    "EXPLANATION": "Use your mastery of wrestling to perform one grappling move after another."
+  },
+  "62": {
+    "CATEGORY": "",
+    "NAME": "Essence of Head Press",
+    "SCENARIO_STATUS": "81090035",
+    "EXPLANATION": "Knee and headbutt a rising opponent to break his nose."
+  },
+  "63": {
+    "CATEGORY": "",
+    "NAME": "Essence of Pressure Finish",
+    "SCENARIO_STATUS": "81090053",
+    "EXPLANATION": "A devastating attack. Just when the enemy\nthinks you're finished, come down upon them with\nall your might."
+  },
+  "64": {
+    "CATEGORY": "",
+    "NAME": "Essence of Finishing Knuckle",
+    "SCENARIO_STATUS": "8109005f",
+    "EXPLANATION": "Deliver a vicious punch to the face of a fallen enemy."
+  },
+  "65": {
+    "CATEGORY": "",
+    "NAME": "Essence of Finishing Hammer",
+    "SCENARIO_STATUS": "81090060",
+    "EXPLANATION": "Bring the hammer down on your foe. Literally."
+  },
+  "66": {
+    "CATEGORY": "",
+    "NAME": "Essence of Weapon Finish",
+    "SCENARIO_STATUS": "81090071",
+    "EXPLANATION": "A simple and popular attack. Throw an object\nonto a downed enemy, putting the force of your\nbody and soul behind it."
+  },
+  "67": {
+    "CATEGORY": "Weapon Moves",
+    "NAME": "Essence of Heavy Weapons",
+    "SCENARIO_STATUS": "81090007",
+    "EXPLANATION": "Slam a gigantic weapon into your enemy then strike him again as only the powerfully built Saejima could."
+  },
+  "68": {
+    "CATEGORY": "",
+    "NAME": "Essence of Tonfa Beating",
+    "SCENARIO_STATUS": "81090008",
+    "EXPLANATION": "Mercilessly beat your enemy with a tonfa and deliver massive damage with each strike."
+  },
+  "69": {
+    "CATEGORY": "",
+    "NAME": "Essence of Brick Breaking",
+    "SCENARIO_STATUS": "81090016",
+    "EXPLANATION": "Force something on an opponent's head and spin it. Then break them \nwith a knife hand strike as though they were a pile of bricks."
+  },
+  "70": {
+    "CATEGORY": "",
+    "NAME": "Essence of Signage",
+    "SCENARIO_STATUS": "81090017",
+    "EXPLANATION": "Slam the enemy with a signboard, then come down on it with all your weight."
+  },
+  "71": {
+    "CATEGORY": "",
+    "NAME": "Essence of Beatdown",
+    "SCENARIO_STATUS": "8109007d",
+    "EXPLANATION": "Pummel an enemy with a one-handed weapon, then deliver one mighty blow."
+  },
+  "72": {
+    "CATEGORY": "",
+    "NAME": "Heavy Maul: Fly Swatter",
+    "SCENARIO_STATUS": "81090018",
+    "EXPLANATION": "Combine an ancient sword technique with the weight of a hammer. Swat down your foes as though they were but flies."
+  },
+  "73": {
+    "CATEGORY": "",
+    "NAME": "Dual Short Sword: Sly Wolf",
+    "SCENARIO_STATUS": "81090019",
+    "EXPLANATION": "This ancient sword technique is reminiscent of a wolf's swift and accurate strike."
+  },
+  "74": {
+    "CATEGORY": "",
+    "NAME": "Essence of Dagger",
+    "SCENARIO_STATUS": "8109001a",
+    "EXPLANATION": "Charge an enemy with a short-bladed weapon and use your momentum to deliver a punishing strike."
+  },
+  "75": {
+    "CATEGORY": "",
+    "NAME": "Essence of Stabbing",
+    "SCENARIO_STATUS": "8109001b",
+    "EXPLANATION": "Pin your opponent's hand to the wall with a dagger."
+  },
+  "76": {
+    "CATEGORY": "",
+    "NAME": "Essence of Nunchaku",
+    "SCENARIO_STATUS": "8109001c",
+    "EXPLANATION": "A graceful, majestic strike that uses nunchaku\nto their utmost potential."
+  },
+  "77": {
+    "CATEGORY": "",
+    "NAME": "Essence of Batting",
+    "SCENARIO_STATUS": "8109001d",
+    "EXPLANATION": "Send enemies out of the park with a powerful swing."
+  },
+  "78": {
+    "CATEGORY": "",
+    "NAME": "Essence of Tonfas",
+    "SCENARIO_STATUS": "8109001e",
+    "EXPLANATION": "An attack utilizing basic tonfa techniques."
+  },
+  "79": {
+    "CATEGORY": "",
+    "NAME": "Essence of Guzzling",
+    "SCENARIO_STATUS": "8109001f",
+    "EXPLANATION": "Force a mystery liquid down an enemy's throat.\nDoes more psychological damage than physical.\n...Probably."
+  },
+  "80": {
+    "CATEGORY": "",
+    "NAME": "Essence of Swordplay",
+    "SCENARIO_STATUS": "81090020",
+    "EXPLANATION": "Shove the enemy away, then deliver three sword slashes."
+  },
+  "81": {
+    "CATEGORY": "",
+    "NAME": "Essence of Stun Gun",
+    "SCENARIO_STATUS": "81090021",
+    "EXPLANATION": "Charge your stun gun with electrified passion,\npowering it up beyond its physical limits.\nTranscends modern understanding of physics."
+  },
+  "82": {
+    "CATEGORY": "",
+    "NAME": "Essence of Bowling",
+    "SCENARIO_STATUS": "81090022",
+    "EXPLANATION": "Get a strike on your opponent's shins and\nbowl them into the gutter. Spare no mercy."
+  },
+  "83": {
+    "CATEGORY": "",
+    "NAME": "Essence of Salting",
+    "SCENARIO_STATUS": "81090023",
+    "EXPLANATION": "Rub salt into an enemy's eyes. Show your enemies what it truly means to be salty. Even works on those wearing glasses!"
+  },
+  "84": {
+    "CATEGORY": "",
+    "NAME": "Essence of Syringe",
+    "SCENARIO_STATUS": "81090024",
+    "EXPLANATION": "Inject a mysterious syringe into an opponent's\nposterior. Hopefully it isn't too dangerous."
+  },
+  "85": {
+    "CATEGORY": "",
+    "NAME": "Essence of Golfing",
+    "SCENARIO_STATUS": "81090025",
+    "EXPLANATION": "Send an opponent flying down range. Not a\nfair way to play, but a nice shot nonetheless."
+  },
+  "86": {
+    "CATEGORY": "",
+    "NAME": "Essence of Grilling",
+    "SCENARIO_STATUS": "81090026",
+    "EXPLANATION": "Grill an enemy's face with a gas burner. As simple as throwing a pie, and more painful than you can imagine."
+  },
+  "87": {
+    "CATEGORY": "",
+    "NAME": "Essence of Pliers",
+    "SCENARIO_STATUS": "81090027",
+    "EXPLANATION": "Give your opponent a free tooth extraction or manicure, street style."
+  },
+  "88": {
+    "CATEGORY": "",
+    "NAME": "Essence of Umbrella",
+    "SCENARIO_STATUS": "81090028",
+    "EXPLANATION": "Use an umbrella's hooked handle to reel an enemy in and then cast them out."
+  },
+  "89": {
+    "CATEGORY": "",
+    "NAME": "Essence of Bike Riding",
+    "SCENARIO_STATUS": "81090036",
+    "EXPLANATION": "Ram a bike into your enemy putting all your weight behind it."
+  },
+  "90": {
+    "CATEGORY": "",
+    "NAME": "Essence of Superglue",
+    "SCENARIO_STATUS": "81090039",
+    "EXPLANATION": "Glue two enemies together with superglue, then watch them struggle before viciously tearing them apart."
+  },
+  "91": {
+    "CATEGORY": "",
+    "NAME": "Essence of Fireworks",
+    "SCENARIO_STATUS": "8109003c",
+    "EXPLANATION": "Launch a skyrocket at your enemy."
+  },
+  "92": {
+    "CATEGORY": "",
+    "NAME": "Essence of Weapon Draw",
+    "SCENARIO_STATUS": "81090040",
+    "EXPLANATION": "Draw a weapon and deliver a lightning-quick strike."
+  },
+  "93": {
+    "CATEGORY": "",
+    "NAME": "Essence of Umbrella Spin",
+    "SCENARIO_STATUS": "81090041",
+    "EXPLANATION": "Spin an umbrella and deliver combos, ending with a final, devastating strike."
+  },
+  "94": {
+    "CATEGORY": "",
+    "NAME": "Essence of Furious Frenzy",
+    "SCENARIO_STATUS": "81090046",
+    "EXPLANATION": "Strike enemies over and over with flashy pole work."
+  },
+  "95": {
+    "CATEGORY": "",
+    "NAME": "Essence of Crazy Slashing",
+    "SCENARIO_STATUS": "81090047",
+    "EXPLANATION": "Deliver swift combos with a short-bladed weapon."
+  },
+  "96": {
+    "CATEGORY": "",
+    "NAME": "Essence of Iron Hammer",
+    "SCENARIO_STATUS": "81090049",
+    "EXPLANATION": "Deliver a devastating blow with a giant piece of equipment ripped out of the ground."
+  },
+  "97": {
+    "CATEGORY": "",
+    "NAME": "Essence of Lotus Staff",
+    "SCENARIO_STATUS": "81090054",
+    "EXPLANATION": "A basic attack passed down through the Lotus\nSchool. Trips the opponent, and then deals\nadditional attacks."
+  },
+  "98": {
+    "CATEGORY": "",
+    "NAME": "Essence of Kali Sticks",
+    "SCENARIO_STATUS": "81090055",
+    "EXPLANATION": "Use your Kali Sticks to rain blow after blow upon your opponent, rendering them helpless."
+  },
+  "99": {
+    "CATEGORY": "",
+    "NAME": "Blade Finisher: Heavens Converge",
+    "SCENARIO_STATUS": "81090056",
+    "EXPLANATION": "An ancient sword technique. Epitomizes the ferocity of a unique double-bladed style."
+  },
+  "100": {
+    "CATEGORY": "",
+    "NAME": "Komaki Firearm Flip",
+    "SCENARIO_STATUS": "81090059",
+    "EXPLANATION": "Stop enemies with firearms from shooting, then deliver a vicious strike."
+  },
+  "101": {
+    "CATEGORY": "",
+    "NAME": "Hidden Blade: Raging Bull",
+    "SCENARIO_STATUS": "81090061",
+    "EXPLANATION": "An ancient sword technique. Charge forward like a powerful bull."
+  },
+  "102": {
+    "CATEGORY": "",
+    "NAME": "Essence of Hammer",
+    "SCENARIO_STATUS": "81090062",
+    "EXPLANATION": "Use the weight of the hammer to pound enemies\ninto the ground with a series of powerful\nblows."
+  },
+  "103": {
+    "CATEGORY": "",
+    "NAME": "Kali Abuser",
+    "SCENARIO_STATUS": "81090067",
+    "EXPLANATION": "Use your Kali Sticks to rain blow after blow upon your opponent, rendering them helpless."
+  },
+  "104": {
+    "CATEGORY": "",
+    "NAME": "Essence of Bo Coiling",
+    "SCENARIO_STATUS": "81090068",
+    "EXPLANATION": "Immobilize your enemy with a pole weapon, then use the leverage you have to hurl him away."
+  },
+  "105": {
+    "CATEGORY": "",
+    "NAME": "Essence of Furious Thrusts",
+    "SCENARIO_STATUS": "8109006a",
+    "EXPLANATION": "Torment your enemy with a series of thrusts, then finish him off with one more violent thrust."
+  },
+  "106": {
+    "CATEGORY": "",
+    "NAME": "Essence of Sweeping",
+    "SCENARIO_STATUS": "8109006d",
+    "EXPLANATION": "Lift enemies up from between their legs and\nslam them onto the ground."
+  },
+  "107": {
+    "CATEGORY": "",
+    "NAME": "Essence of Brass Knuckles",
+    "SCENARIO_STATUS": "8109006e",
+    "EXPLANATION": "A relentless three-punch combo using brass knuckles.\nYou can use this when Saejima has brass knuckles equipped."
+  },
+  "108": {
+    "CATEGORY": "",
+    "NAME": "Essence of Crushing",
+    "SCENARIO_STATUS": "81090072",
+    "EXPLANATION": "Rattle an enemy's brains with a blow to the\nhead, then finish him with a final blow."
+  },
+  "109": {
+    "CATEGORY": "",
+    "NAME": "Essence of Momentum",
+    "SCENARIO_STATUS": "81090073",
+    "EXPLANATION": "Drop something heavy on an enemy's head.\nSometimes simple is best."
+  },
+  "110": {
+    "CATEGORY": "",
+    "NAME": "Essence of Spear Throwing",
+    "SCENARIO_STATUS": "81090074",
+    "EXPLANATION": "Violently hurl a long pole like a javelin at a distant enemy."
+  },
+  "111": {
+    "CATEGORY": "",
+    "NAME": "Essence of Pole Vaulting",
+    "SCENARIO_STATUS": "81090075",
+    "EXPLANATION": "Use a long pole to launch your body high in the air and deliver a vicious attack."
+  },
+  "112": {
+    "CATEGORY": "",
+    "NAME": "Essence of Cyclone Slash",
+    "SCENARIO_STATUS": "81090076",
+    "EXPLANATION": "Leap from one enemy while attacking the rest with a sword."
+  },
+  "113": {
+    "CATEGORY": "Climax Heat",
+    "NAME": "Essence of the Dragon King",
+    "SCENARIO_STATUS": "81090077",
+    "EXPLANATION": "Climax Heat\nBuild up power before delivering a savage kick."
+  },
+  "114": {
+    "CATEGORY": "",
+    "NAME": "Essence of Drunken Thrust",
+    "SCENARIO_STATUS": "8109004c",
+    "EXPLANATION": "Climax Heat\nThrust your body into your enemy for major damage."
+  },
+  "115": {
+    "CATEGORY": "",
+    "NAME": "Ultimate Essence",
+    "SCENARIO_STATUS": "8109004e",
+    "EXPLANATION": "Climax Heat\nPerform the ultimate reversal move while on death's door."
+  },
+  "116": {
+    "CATEGORY": "",
+    "NAME": "Tiger Essence of Shockwave",
+    "SCENARIO_STATUS": "81090078",
+    "EXPLANATION": "Climax Heat\nPound the ground with built-up power to send enemies flying."
+  },
+  "117": {
+    "CATEGORY": "",
+    "NAME": "Tiger Essence of Braining",
+    "SCENARIO_STATUS": "8109004d",
+    "EXPLANATION": "Climax Heat\nLift up an enemy you have grabbed, then slam him down."
+  },
+  "118": {
+    "CATEGORY": "",
+    "NAME": "Tiger Essence of Blitzing",
+    "SCENARIO_STATUS": "8109004f",
+    "EXPLANATION": "Climax Heat\nCharge forward and send your enemy flying. "
+  },
+  "119": {
+    "CATEGORY": "",
+    "NAME": "Killer Kick Combo",
+    "SCENARIO_STATUS": "81090079",
+    "EXPLANATION": "Climax Heat\nDeliver a combo of assorted kicks."
+  },
+  "120": {
+    "CATEGORY": "",
+    "NAME": "Meteor Strike",
+    "SCENARIO_STATUS": "81090050",
+    "EXPLANATION": "Climax Heat\nDeliver a devastating attack as you come hurtling down."
+  },
+  "121": {
+    "CATEGORY": "",
+    "NAME": "Final Drive",
+    "SCENARIO_STATUS": "8109007b",
+    "EXPLANATION": "Climax Heat\nViolently slam an airborne enemy down to the ground."
+  },
+  "122": {
+    "CATEGORY": "",
+    "NAME": "My Dragging Essence",
+    "SCENARIO_STATUS": "8109007a",
+    "EXPLANATION": "Climax Heat\nDrag your enemy around on the pavement. Road rash is no joke."
+  },
+  "123": {
+    "CATEGORY": "",
+    "NAME": "My Whirlwind Essence",
+    "SCENARIO_STATUS": "8109007c",
+    "EXPLANATION": "Climax Heat\nMow down enemies with a long pole."
+  },
+  "124": {
+    "CATEGORY": "",
+    "NAME": "My Bashing Combo Essence",
+    "SCENARIO_STATUS": "81090051",
+    "EXPLANATION": "Climax Heat\nThrow your weapon at the enemy, catch it as it bounces, and repeat."
+  },
+  "types": {
+    "CATEGORY": "string_idx",
+    "NAME": "string",
+    "SCENARIO_STATUS": "special_scenariostatus",
+    "EXPLANATION": "string"
+  }
+}
