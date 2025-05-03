@@ -1,0 +1,67 @@
+name: Errore nella traduzione
+description: Crea una segnalazione per una errata traduzione/adattamento del gioco
+title: "[Errore Traduzione] - "
+labels: Traduzione errata
+assignees: zSavT
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Grazie per aver segnalato un errore di traduzione! Per favore, compila i campi seguenti.
+
+  - type: textarea
+    id: descrizione-errore
+    attributes:
+      label: Descrizione dell'errore
+      description: |
+        Riporta qui sotto il testo originale dove è presente l'errore (o descrivi la situazione).
+        **Importante:** Allega uno screenshot dell'errore usando l'area 'Attach files' qui sotto (puoi trascinare il file).
+      placeholder: "Esempio: Nella schermata del menu principale, il pulsante 'Options' è tradotto come..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposta-correzione
+    attributes:
+      label: Proposta di correzione
+      description: Riporta qui sotto la proposta di traduzione corretta da dover inserire.
+      placeholder: "Esempio: Il testo corretto dovrebbe essere 'Opzioni'."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: tipo-contesto
+    attributes:
+      label: Contesto dell'errore
+      description: Scegli dove hai trovato l'errore di traduzione.
+      options:
+        - Menu Principale
+        - Interfaccia di Gioco (HUD)
+        - Dialoghi / Sottotitoli
+        - Descrizione Oggetti / Abilità
+        - Altro (specifica nelle Info Extra)
+    validations:
+      required: true
+
+  - type: textarea
+    id: save-file
+    attributes:
+      label: Allega file salvataggio della porzione del gioco dove è presente l'errore.
+      description: Allega il file del salvataggio del gioco, per permettermi di analizzare più facilmente l'errore. I salvataggi del gioco sono presenti in "steamapps\common\Valkyria Chronicles\savedata".
+      placeholder: "Allega file..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: info-extra
+    attributes:
+      label: Info extra
+      description: Inserisci qui sotto eventuali informazioni utili (es. versione del gioco, contesto specifico se hai scelto 'Altro' nel menu a tendina, ecc.).
+      placeholder: "Versione gioco 1.2.3, errore presente dopo l'ultimo aggiornamento..."
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        **Allegati:** Ricorda di allegare screenshot o altri file utili trascinandoli nell'area sottostante o cliccando su 'Attach files'.
