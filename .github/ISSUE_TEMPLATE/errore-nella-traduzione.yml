@@ -47,7 +47,7 @@ body:
     id: save-file
     attributes:
       label: Allega file salvataggio della porzione del gioco dove è presente l'errore.
-      description: Allega il file del salvataggio del gioco, per permettermi di analizzare più facilmente l'errore. I salvataggi del gioco sono presenti in "steamapps\common\Valkyria Chronicles\savedata".
+      description: Allega il file del salvataggio del gioco, per permettermi di analizzare più facilmente l'errore. I salvataggi del gioco sono presenti in "C:\Program Files (x86)\Steam\userdata\Steam User ID Number\1105510\remote".
       placeholder: "Allega file..."
     validations:
       required: false
