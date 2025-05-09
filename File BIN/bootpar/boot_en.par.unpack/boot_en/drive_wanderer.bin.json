@@ -1,0 +1,80 @@
+{
+  "0": {
+    "CARS_NUM": 2,
+    "SPEED_MIN": 30,
+    "SPEED_MAX": 30,
+    "NEW_POINT_STEP": 25,
+    "NEW_RANGE_IGNORE": 15,
+    "NEW_RANGE_MIN": 70,
+    "NEW_RANGE_MAX": 120,
+    "DEL_RANGE": 130,
+    "FREE_CARS_NUM": 0
+  },
+  "1": {
+    "CARS_NUM": 13,
+    "SPEED_MIN": 15,
+    "SPEED_MAX": 50,
+    "NEW_POINT_STEP": 25,
+    "NEW_RANGE_IGNORE": 15,
+    "NEW_RANGE_MIN": 70,
+    "NEW_RANGE_MAX": 120,
+    "DEL_RANGE": 130,
+    "FREE_CARS_NUM": 2
+  },
+  "2": {
+    "CARS_NUM": 10,
+    "SPEED_MIN": 15,
+    "SPEED_MAX": 50,
+    "NEW_POINT_STEP": 25,
+    "NEW_RANGE_IGNORE": 15,
+    "NEW_RANGE_MIN": 60,
+    "NEW_RANGE_MAX": 90,
+    "DEL_RANGE": 100,
+    "FREE_CARS_NUM": 2
+  },
+  "3": {
+    "CARS_NUM": 10,
+    "SPEED_MIN": 15,
+    "SPEED_MAX": 50,
+    "NEW_POINT_STEP": 25,
+    "NEW_RANGE_IGNORE": 15,
+    "NEW_RANGE_MIN": 60,
+    "NEW_RANGE_MAX": 90,
+    "DEL_RANGE": 100,
+    "FREE_CARS_NUM": 2
+  },
+  "4": {
+    "CARS_NUM": 13,
+    "SPEED_MIN": 20,
+    "SPEED_MAX": 50,
+    "NEW_POINT_STEP": 25,
+    "NEW_RANGE_IGNORE": 15,
+    "NEW_RANGE_MIN": 70,
+    "NEW_RANGE_MAX": 120,
+    "DEL_RANGE": 130,
+    "FREE_CARS_NUM": 2
+  },
+  "5": {
+    "CARS_NUM": 6,
+    "SPEED_MIN": 80,
+    "SPEED_MAX": 100,
+    "NEW_POINT_STEP": 25,
+    "NEW_RANGE_IGNORE": 20,
+    "NEW_RANGE_MIN": 150,
+    "NEW_RANGE_MAX": 200,
+    "DEL_RANGE": 400,
+    "FREE_CARS_NUM": 0
+  },
+  "types": {
+    "STAGE": "comment",
+    "CARS_NUM": "special_value",
+    "SPEED_MIN": "special_value",
+    "SPEED_MAX": "special_value",
+    "NEW_POINT_STEP": "special_value",
+    "NEW_RANGE_IGNORE": "special_value",
+    "NEW_RANGE_MIN": "special_value",
+    "NEW_RANGE_MAX": "special_value",
+    "DEL_RANGE": "special_value",
+    "FREE_CARS_NUM": "special_value"
+  }
+}

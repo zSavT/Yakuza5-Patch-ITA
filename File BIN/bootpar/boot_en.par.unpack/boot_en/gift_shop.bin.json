@@ -1,0 +1,98 @@
+{
+  "0": {
+    "ITEMID": 413,
+    "HINT": "A famous local specialty that goes great with rice. Features a standard level of spiciness."
+  },
+  "1": {
+    "ITEMID": 414,
+    "HINT": "A famous local specialty that goes great with rice. Features a milder level of spiciness."
+  },
+  "2": {
+    "ITEMID": 415,
+    "HINT": "A famous local specialty that goes great with rice. Features a higher level of spiciness."
+  },
+  "3": {
+    "ITEMID": 416,
+    "HINT": "A famous local specialty that goes great with rice. It's as spicy as the original recipe."
+  },
+  "4": {
+    "ITEMID": 417,
+    "HINT": "These Japanese sweets are an exquisite union of sweet red bean filling in a soft, delicate, mochi-like shell."
+  },
+  "5": {
+    "ITEMID": 418,
+    "HINT": "The fluffy white casing and egg yolk and bean paste filling have made these sweets a popular treat for over a hundred years."
+  },
+  "6": {
+    "ITEMID": 419,
+    "HINT": "This silly rice cracker is designed to look like a mask. Includes a real mask in the box!"
+  },
+  "7": {
+    "ITEMID": 420,
+    "HINT": "Pickled greens covered with special spicy fish roe. This famous local specialty goes great with rice."
+  },
+  "8": {
+    "ITEMID": 421,
+    "HINT": "This crunchy snack is a delicious combination of sweet and salty flavors."
+  },
+  "9": {
+    "ITEMID": 422,
+    "HINT": "These cookies are Hokkaido's most famous regional snack. People love their satisfying crunch."
+  },
+  "10": {
+    "ITEMID": 423,
+    "HINT": "This candy is made from freeze-dried corn coated in chocolate."
+  },
+  "11": {
+    "ITEMID": 424,
+    "HINT": "These cookies may seem plain, but they're addictively delicious, owing to the original recipe that we still follow today."
+  },
+  "12": {
+    "ITEMID": 425,
+    "HINT": "People love the crunchiness of these curry-flavored rice crackers."
+  },
+  "13": {
+    "ITEMID": 426,
+    "HINT": "These rice crackers have been infused with the savory taste of karaage chicken."
+  },
+  "14": {
+    "ITEMID": 427,
+    "HINT": "Now you can easily enjoy Yamamotoya Honten's irresistible miso udon stew at home."
+  },
+  "15": {
+    "ITEMID": 428,
+    "HINT": "Made with plenty of sweet bean paste. Its gentle sweetness makes it Ryoguchiya Korekiyo's most popular dessert."
+  },
+  "16": {
+    "ITEMID": 429,
+    "HINT": "Whole shrimp are used to make these tasty, savory rice crackers."
+  },
+  "17": {
+    "ITEMID": 430,
+    "HINT": "People love the distinctive texture of these local sweets. They come in a variety of flavors, like sakura cherry and green tea."
+  },
+  "18": {
+    "ITEMID": 431,
+    "HINT": "This savory snack preserves the original product's soft texture and special sauce flavor."
+  },
+  "19": {
+    "ITEMID": 432,
+    "HINT": "This famous local specialty comes in a familiar red package. Each one is handmade to ensure its delicious taste."
+  },
+  "20": {
+    "ITEMID": 433,
+    "HINT": "These savory little balls are baked up using special ingredients and finished off with a secret sauce."
+  },
+  "21": {
+    "ITEMID": 434,
+    "HINT": "The savory flavor of sauce and mayo on these round bundles of goodness jump-starts any appetite. "
+  },
+  "22": {
+    "ITEMID": 435,
+    "HINT": "This is the region's most famous dish turned into a handy snack. Its sauce-and-dashi flavor is irresistible."
+  },
+  "types": {
+    "ITEMID": "itemid",
+    "HINT": "string"
+  }
+}

@@ -1,0 +1,2194 @@
+{
+  "0": {
+    "TITLE": "Yakuza 5 Demo Version",
+    "SCENARIO": "000001cc",
+    "EXPLANATION": "This is a demo of the story mode. Head to the place on the map marked in pink to move the story forward.",
+    "SCENARIO_STATUS": "81cc0000fffffffe81cc0001",
+    "FINISH_FLAG": ""
+  },
+  "1": {
+    "TITLE": "Yakuza 5 Demo Version",
+    "SCENARIO": "000001cc",
+    "EXPLANATION": "This is a demo of the adventure mode. You are free to explore the city.",
+    "SCENARIO_STATUS": "81cc0000fffffffe81cc0002",
+    "FINISH_FLAG": ""
+  },
+  "2": {
+    "TITLE": "Part 1, Chapter 1: The Wanderer",
+    "SCENARIO": "00000008",
+    "EXPLANATION": "I'd better buy a gift before I head to Tenjin Transportation. I wonder what'd work?",
+    "SCENARIO_STATUS": "80080000fffffffe0008000b",
+    "FINISH_FLAG": ""
+  },
+  "3": {
+    "TITLE": "",
+    "SCENARIO": "00000008",
+    "EXPLANATION": "Tenjin Transportation is on West Gion Street if I remember right.",
+    "SCENARIO_STATUS": "8008000bfffffffe00080011",
+    "FINISH_FLAG": ""
+  },
+  "4": {
+    "TITLE": "",
+    "SCENARIO": "00000008",
+    "EXPLANATION": "I should get a gift before I go apologize to Tenjin Transportation... I wouldn't want to appear rude. They're on West Gion Street.",
+    "SCENARIO_STATUS": "8008000bfffffffe00080011fffffffe80080035",
+    "FINISH_FLAG": ""
+  },
+  "5": {
+    "TITLE": "",
+    "SCENARIO": "00000008",
+    "EXPLANATION": "I should send that money at the convenience store first.",
+    "SCENARIO_STATUS": "80080011fffffffe00080015",
+    "FINISH_FLAG": ""
+  },
+  "6": {
+    "TITLE": "",
+    "SCENARIO": "00000008",
+    "EXPLANATION": "I'd better hurry to where the chief is waiting. We agreed to meet at Ose Bridge.",
+    "SCENARIO_STATUS": "80080015fffffffe00080019",
+    "FINISH_FLAG": ""
+  },
+  "7": {
+    "TITLE": "",
+    "SCENARIO": "00000008",
+    "EXPLANATION": "I guess I don't have much choice. It could be a long night of drinking ahead.",
+    "SCENARIO_STATUS": "8008001cfffffffe0008001f",
+    "FINISH_FLAG": ""
+  },
+  "8": {
+    "TITLE": "",
+    "SCENARIO": "00000008",
+    "EXPLANATION": "It seems there are idiots like this in every town. They'll change their tune once I'm through with them.",
+    "SCENARIO_STATUS": "8008001ffffffffe00080020",
+    "FINISH_FLAG": ""
+  },
+  "9": {
+    "TITLE": "",
+    "SCENARIO": "00000008",
+    "EXPLANATION": "Off to the next place with the chief, I guess. I wonder what was with those guys.",
+    "SCENARIO_STATUS": "80080020fffffffe00080027",
+    "FINISH_FLAG": ""
+  },
+  "10": {
+    "TITLE": "",
+    "SCENARIO": "00000008",
+    "EXPLANATION": "Looks like I'm going to have to beat some sense into them.",
+    "SCENARIO_STATUS": "80080027fffffffe00080029",
+    "FINISH_FLAG": ""
+  },
+  "11": {
+    "TITLE": "",
+    "SCENARIO": "00000008",
+    "EXPLANATION": "I've got work again tomorrow. I'd better head back to my apartment and get some rest.",
+    "SCENARIO_STATUS": "80080029fffffffe0008002d",
+    "FINISH_FLAG": ""
+  },
+  "12": {
+    "TITLE": "",
+    "SCENARIO": "00000008",
+    "EXPLANATION": "Sosuke Komaki... I guess I'll play along.",
+    "SCENARIO_STATUS": "8008002dfffffffe0008002e",
+    "FINISH_FLAG": ""
+  },
+  "13": {
+    "TITLE": "",
+    "SCENARIO": "00000008",
+    "EXPLANATION": "It's getting late. Time to head back to my apartment.",
+    "SCENARIO_STATUS": "8008002efffffffe00080031",
+    "FINISH_FLAG": ""
+  },
+  "14": {
+    "TITLE": "",
+    "SCENARIO": "00000008",
+    "EXPLANATION": "I think I'll take a little look around before I head back for some sleep.",
+    "SCENARIO_STATUS": "80080031fffffffe00080034",
+    "FINISH_FLAG": ""
+  },
+  "15": {
+    "TITLE": "Part 1, Chapter 2: Uninvited Guest",
+    "SCENARIO": "00000008",
+    "EXPLANATION": "Part 1, Chapter 1 Complete\nOn to Part 1, Chapter 2",
+    "SCENARIO_STATUS": "80080034fffffffe00090000",
+    "FINISH_FLAG": ""
+  },
+  "16": {
+    "TITLE": "",
+    "SCENARIO": "00000009",
+    "EXPLANATION": "I've got work. I'd better show up to the office.",
+    "SCENARIO_STATUS": "80090000fffffffe0009000a",
+    "FINISH_FLAG": ""
+  },
+  "17": {
+    "TITLE": "",
+    "SCENARIO": "00000009",
+    "EXPLANATION": "So the Devil Killers are out to get me, huh... Just what I needed.",
+    "SCENARIO_STATUS": "8009000afffffffe0009000b",
+    "FINISH_FLAG": ""
+  },
+  "18": {
+    "TITLE": "",
+    "SCENARIO": "00000009",
+    "EXPLANATION": "I'm running late, so I should head to the office quickly.",
+    "SCENARIO_STATUS": "8009000bfffffffe0009000d",
+    "FINISH_FLAG": ""
+  },
+  "19": {
+    "TITLE": "",
+    "SCENARIO": "00000009",
+    "EXPLANATION": "I think we had a job come in. I'd better ask Hirakawa-san about today's bookings.",
+    "SCENARIO_STATUS": "8009000dfffffffe00780009",
+    "FINISH_FLAG": ""
+  },
+  "20": {
+    "TITLE": "",
+    "SCENARIO": "00000009",
+    "EXPLANATION": "I can handle a little more work today. I'll see if Hirakawa-san has any jobs for me.",
+    "SCENARIO_STATUS": "80780009fffffffe00090010",
+    "FINISH_FLAG": ""
+  },
+  "21": {
+    "TITLE": "",
+    "SCENARIO": "00000009",
+    "EXPLANATION": "We had a pickup request come in. I guess I should talk to Hirakawa-san once I'm ready.",
+    "SCENARIO_STATUS": "80090010fffffffe00090018",
+    "FINISH_FLAG": ""
+  },
+  "22": {
+    "TITLE": "",
+    "SCENARIO": "00000009",
+    "EXPLANATION": "Daigo's missing? What exactly is going on here?",
+    "SCENARIO_STATUS": "80090018fffffffe0009001e",
+    "FINISH_FLAG": ""
+  },
+  "23": {
+    "TITLE": "Part 1, Chapter 3: The Plot Unfolds",
+    "SCENARIO": "00000009",
+    "EXPLANATION": "Part 1, Chapter 2 Complete\nOn to Part 1, Chapter 3",
+    "SCENARIO_STATUS": "8009001efffffffe000a0000",
+    "FINISH_FLAG": ""
+  },
+  "24": {
+    "TITLE": "",
+    "SCENARIO": "0000000a",
+    "EXPLANATION": "I have to get to Nagasu Taxi.",
+    "SCENARIO_STATUS": "800a0000fffffffe000a0009",
+    "FINISH_FLAG": ""
+  },
+  "25": {
+    "TITLE": "",
+    "SCENARIO": "0000000a",
+    "EXPLANATION": "I think I'll walk around a bit for now.",
+    "SCENARIO_STATUS": "800a0009fffffffe000a000d",
+    "FINISH_FLAG": ""
+  },
+  "26": {
+    "TITLE": "",
+    "SCENARIO": "0000000a",
+    "EXPLANATION": "Well, I guess I'll head home once I run out of things to do.",
+    "SCENARIO_STATUS": "800a000dfffffffe000a0013",
+    "FINISH_FLAG": ""
+  },
+  "27": {
+    "TITLE": "",
+    "SCENARIO": "0000000a",
+    "EXPLANATION": "I'm pretty tired again today. I need an early night.",
+    "SCENARIO_STATUS": "800a0013fffffffe000a0015",
+    "FINISH_FLAG": ""
+  },
+  "28": {
+    "TITLE": "",
+    "SCENARIO": "0000000a",
+    "EXPLANATION": "I have to get to Nagasu Taxi.",
+    "SCENARIO_STATUS": "800a0015fffffffe000a0020",
+    "FINISH_FLAG": ""
+  },
+  "29": {
+    "TITLE": "",
+    "SCENARIO": "0000000a",
+    "EXPLANATION": "I'll go get the chief at the diner near North Chikuzengawa Street.",
+    "SCENARIO_STATUS": "800a0020fffffffe000a0025",
+    "FINISH_FLAG": ""
+  },
+  "30": {
+    "TITLE": "",
+    "SCENARIO": "0000000a",
+    "EXPLANATION": "It sounds like Watase of the Omi Alliance is at Olivier. I need to get there before Morinaga and settle things.",
+    "SCENARIO_STATUS": "800a0025fffffffe000a0028",
+    "FINISH_FLAG": ""
+  },
+  "31": {
+    "TITLE": "",
+    "SCENARIO": "0000000a",
+    "EXPLANATION": "Looks like I'll have to take these guys on to get some answers.",
+    "SCENARIO_STATUS": "800a0028fffffffe000a002e",
+    "FINISH_FLAG": ""
+  },
+  "32": {
+    "TITLE": "",
+    "SCENARIO": "0000000a",
+    "EXPLANATION": "Morinaga and Aizawa are waiting for me outside Olivier. Once I'm done here, I'll go talk with them.",
+    "SCENARIO_STATUS": "800a002efffffffe000a0032",
+    "FINISH_FLAG": ""
+  },
+  "33": {
+    "TITLE": "",
+    "SCENARIO": "0000000a",
+    "EXPLANATION": "I have to get to the top floor somehow!",
+    "SCENARIO_STATUS": "800a0032fffffffe000a0036",
+    "FINISH_FLAG": ""
+  },
+  "34": {
+    "TITLE": "",
+    "SCENARIO": "0000000a",
+    "EXPLANATION": "No use trying to explain. I'll have to let my fists do the talking.",
+    "SCENARIO_STATUS": "800a0036fffffffe000a0038",
+    "FINISH_FLAG": ""
+  },
+  "35": {
+    "TITLE": "",
+    "SCENARIO": "0000000a",
+    "EXPLANATION": "I have to get to the exit quickly!",
+    "SCENARIO_STATUS": "800a0038fffffffe000a003a",
+    "FINISH_FLAG": ""
+  },
+  "36": {
+    "TITLE": "Part 1, Chapter 4: Destinations",
+    "SCENARIO": "0000000a",
+    "EXPLANATION": "Part 1, Chapter 3 Complete\nOn to Part 1, Chapter 4",
+    "SCENARIO_STATUS": "800a003afffffffe000b0000",
+    "FINISH_FLAG": ""
+  },
+  "37": {
+    "TITLE": "",
+    "SCENARIO": "0000000b",
+    "EXPLANATION": "The Yahata Family men wear red tracksuits. I'll round some up and get them to spill Yahata's whereabouts.",
+    "SCENARIO_STATUS": "800b0000fffffffe000b000c",
+    "FINISH_FLAG": ""
+  },
+  "38": {
+    "TITLE": "",
+    "SCENARIO": "0000000b",
+    "EXPLANATION": "I guess getting them to tell me where Yahata is won't be that easy...",
+    "SCENARIO_STATUS": "800b000cfffffffe000b000d",
+    "FINISH_FLAG": ""
+  },
+  "39": {
+    "TITLE": "",
+    "SCENARIO": "0000000b",
+    "EXPLANATION": "Let's see if anyone else wearing a red tracksuit knows where Yahata is holed up.",
+    "SCENARIO_STATUS": "800b000dfffffffe000b0012",
+    "FINISH_FLAG": ""
+  },
+  "40": {
+    "TITLE": "",
+    "SCENARIO": "0000000b",
+    "EXPLANATION": "They're pretty tight-lipped when it comes to their captain. At least they're doing their job.",
+    "SCENARIO_STATUS": "800b000ffffffffe000b0010",
+    "FINISH_FLAG": ""
+  },
+  "41": {
+    "TITLE": "",
+    "SCENARIO": "0000000b",
+    "EXPLANATION": "So Yahata is in some kind of hideout. I have to take this guy down and find out where it is.",
+    "SCENARIO_STATUS": "800b0012fffffffe000b0019",
+    "FINISH_FLAG": ""
+  },
+  "42": {
+    "TITLE": "",
+    "SCENARIO": "0000000b",
+    "EXPLANATION": "He said Yahata's hideout is about halfway down Suzukake Lane. I'd better hurry.",
+    "SCENARIO_STATUS": "800b0019fffffffe000b001a",
+    "FINISH_FLAG": ""
+  },
+  "43": {
+    "TITLE": "",
+    "SCENARIO": "0000000b",
+    "EXPLANATION": "I have to find Yahata and talk him around.",
+    "SCENARIO_STATUS": "800b001afffffffe000b0021",
+    "FINISH_FLAG": ""
+  },
+  "44": {
+    "TITLE": "",
+    "SCENARIO": "0000000b",
+    "EXPLANATION": "I have to go see Nakajima-san.",
+    "SCENARIO_STATUS": "800b0021fffffffe000b0024",
+    "FINISH_FLAG": ""
+  },
+  "45": {
+    "TITLE": "",
+    "SCENARIO": "0000000b",
+    "EXPLANATION": "If there's anything else I need to take care of, I'd better do it now.",
+    "SCENARIO_STATUS": "800b0024fffffffe000b0028",
+    "FINISH_FLAG": ""
+  },
+  "46": {
+    "TITLE": "",
+    "SCENARIO": "0000000b",
+    "EXPLANATION": "Time to put an end to all this.",
+    "SCENARIO_STATUS": "800b0028fffffffe000b002e",
+    "FINISH_FLAG": ""
+  },
+  "47": {
+    "TITLE": "Part 2, Chapter 1: Ends of the Earth",
+    "SCENARIO": "0000000b",
+    "EXPLANATION": "Part 1: Kazuma Kiryu Complete\nOn to Part 2: Taiga Saejima",
+    "SCENARIO_STATUS": "800b002efffffffe000c0000",
+    "FINISH_FLAG": ""
+  },
+  "48": {
+    "TITLE": "Part 2, Chapter 1: Ends of the Earth",
+    "SCENARIO": "0000000c",
+    "EXPLANATION": "My last night out. Guess I'll take a look around town.",
+    "SCENARIO_STATUS": "800c0000fffffffe000c0008",
+    "FINISH_FLAG": ""
+  },
+  "49": {
+    "TITLE": "",
+    "SCENARIO": "0000000c",
+    "EXPLANATION": "Better do the rounds and say my goodbyes. May as well start at New Serena.",
+    "SCENARIO_STATUS": "800c0008fffffffe000c000a",
+    "FINISH_FLAG": ""
+  },
+  "50": {
+    "TITLE": "",
+    "SCENARIO": "0000000c",
+    "EXPLANATION": "Guess that's out of the way. Once I'm ready, next stop's the batting center.",
+    "SCENARIO_STATUS": "800c000afffffffe000c000c",
+    "FINISH_FLAG": ""
+  },
+  "51": {
+    "TITLE": "",
+    "SCENARIO": "0000000c",
+    "EXPLANATION": "Guess this is Majima's way of whippin' me into shape. Time to do my thing.",
+    "SCENARIO_STATUS": "800c000cfffffffe000c000f",
+    "FINISH_FLAG": ""
+  },
+  "52": {
+    "TITLE": "",
+    "SCENARIO": "0000000c",
+    "EXPLANATION": "Still got time, so guess I'll see how everyone's doing.",
+    "SCENARIO_STATUS": "800c000ffffffffe000c0017",
+    "FINISH_FLAG": ""
+  },
+  "53": {
+    "TITLE": "",
+    "SCENARIO": "0000000c",
+    "EXPLANATION": "Looks like Baba-chan could use some advice.",
+    "SCENARIO_STATUS": "800c0017fffffffe000c001e",
+    "FINISH_FLAG": ""
+  },
+  "54": {
+    "TITLE": "",
+    "SCENARIO": "0000000c",
+    "EXPLANATION": "Guess I'm starting with some cabaret club on Lavender Street.",
+    "SCENARIO_STATUS": "800c001efffffffe000c0026",
+    "FINISH_FLAG": ""
+  },
+  "55": {
+    "TITLE": "",
+    "SCENARIO": "0000000c",
+    "EXPLANATION": "Where to go... Gindaco Highball Tavern, Hanako, or Matsuo Lamb Barbeque?",
+    "SCENARIO_STATUS": "800c0026fffffffe000c002a",
+    "FINISH_FLAG": ""
+  },
+  "56": {
+    "TITLE": "",
+    "SCENARIO": "0000000c",
+    "EXPLANATION": "Imaginary battles don't feel right... Might as well make it a good fight, though.",
+    "SCENARIO_STATUS": "800c002afffffffe000c002c",
+    "FINISH_FLAG": ""
+  },
+  "57": {
+    "TITLE": "",
+    "SCENARIO": "0000000c",
+    "EXPLANATION": "Where'd Baba-chan get to? Better ask if anyone's seen him.",
+    "SCENARIO_STATUS": "800c002cfffffffe000c0034",
+    "FINISH_FLAG": ""
+  },
+  "58": {
+    "TITLE": "",
+    "SCENARIO": "0000000c",
+    "EXPLANATION": "What went down in the storeroom?",
+    "SCENARIO_STATUS": "800c0034fffffffe000c003d",
+    "FINISH_FLAG": ""
+  },
+  "59": {
+    "TITLE": "",
+    "SCENARIO": "0000000c",
+    "EXPLANATION": "Gotta find proof to clear Baba-chan's name.",
+    "SCENARIO_STATUS": "800c003dfffffffe000c004e",
+    "FINISH_FLAG": ""
+  },
+  "60": {
+    "TITLE": "",
+    "SCENARIO": "0000000c",
+    "EXPLANATION": "So it was Kugihara who pinned this on Baba-chan.",
+    "SCENARIO_STATUS": "800c004efffffffe000c004f",
+    "FINISH_FLAG": ""
+  },
+  "61": {
+    "TITLE": "",
+    "SCENARIO": "0000000c",
+    "EXPLANATION": "Nobody does that to Baba-chan and gets away with it!",
+    "SCENARIO_STATUS": "800c004ffffffffe000c0052",
+    "FINISH_FLAG": ""
+  },
+  "62": {
+    "TITLE": "Part 2, Chapter 2: The Way of Resolve",
+    "SCENARIO": "0000000c",
+    "EXPLANATION": "Part 2, Chapter 1 Complete\nOn to Part 2, Chapter 2",
+    "SCENARIO_STATUS": "800c0052fffffffe000d0000",
+    "FINISH_FLAG": ""
+  },
+  "63": {
+    "TITLE": "",
+    "SCENARIO": "0000000d",
+    "EXPLANATION": "Think I'm better off doin' what he says for now. He said he'd tell me the rest in the storeroom.",
+    "SCENARIO_STATUS": "800c0000fffffffe000d000b",
+    "FINISH_FLAG": ""
+  },
+  "64": {
+    "TITLE": "",
+    "SCENARIO": "0000000d",
+    "EXPLANATION": "So this time it's a bar on Lavender Street. I think the place was called Ambitious.",
+    "SCENARIO_STATUS": "800d000bfffffffe000d0011",
+    "FINISH_FLAG": ""
+  },
+  "65": {
+    "TITLE": "",
+    "SCENARIO": "0000000d",
+    "EXPLANATION": "Next I have to head to Ramen Village on East Nakatsuki Street.",
+    "SCENARIO_STATUS": "800d0011fffffffe000d0016",
+    "FINISH_FLAG": ""
+  },
+  "66": {
+    "TITLE": "",
+    "SCENARIO": "0000000d",
+    "EXPLANATION": "A mafia battle? Seriously? Ah well, guess it's all fun and games. I'll pummel 'em to pieces.",
+    "SCENARIO_STATUS": "800d0016fffffffe000d0019",
+    "FINISH_FLAG": ""
+  },
+  "67": {
+    "TITLE": "",
+    "SCENARIO": "0000000d",
+    "EXPLANATION": "Gotta take out these guys and get through the southwest gate!",
+    "SCENARIO_STATUS": "800d0019fffffffe000d0024",
+    "FINISH_FLAG": ""
+  },
+  "68": {
+    "TITLE": "",
+    "SCENARIO": "0000000d",
+    "EXPLANATION": "Ain't my time to bite the dust just yet. There're still things I gotta do!",
+    "SCENARIO_STATUS": "800d0024fffffffe000d0026",
+    "FINISH_FLAG": ""
+  },
+  "69": {
+    "TITLE": "Part 2, Chapter 3: Frozen Roar",
+    "SCENARIO": "0000000d",
+    "EXPLANATION": "Part 2, Chapter 2 Complete\nOn to Part 2, Chapter 3",
+    "SCENARIO_STATUS": "800d0026fffffffe000e0000",
+    "FINISH_FLAG": ""
+  },
+  "70": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "Can't just sit here. Better go check things out.",
+    "SCENARIO_STATUS": "800e0000fffffffe00800005",
+    "FINISH_FLAG": ""
+  },
+  "71": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "I'll ask around if anyone can spare some food.",
+    "SCENARIO_STATUS": "80800005fffffffe00800007",
+    "FINISH_FLAG": ""
+  },
+  "72": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "Sakurai-han can tell me how to get up the mountain.",
+    "SCENARIO_STATUS": "80800007fffffffe00800008",
+    "FINISH_FLAG": ""
+  },
+  "73": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "I'll let Sakurai-han know when I'm ready to start searchin' for Baba-chan.",
+    "SCENARIO_STATUS": "80800008fffffffe00800009",
+    "FINISH_FLAG": ""
+  },
+  "74": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "Gotta find Baba-chan quick. He better still be okay!",
+    "SCENARIO_STATUS": "80800009fffffffe000e000b",
+    "FINISH_FLAG": ""
+  },
+  "75": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "Better tell Okudera-han that Baba-chan is awake.",
+    "SCENARIO_STATUS": "800e000bfffffffe00810000",
+    "FINISH_FLAG": ""
+  },
+  "76": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "Nishina-han's wife gave me some deer meat. I'll go ask Sakurai-han if he has any hunting gear to spare.",
+    "SCENARIO_STATUS": "80810000fffffffe00810001",
+    "FINISH_FLAG": ""
+  },
+  "77": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "I need a gun. Maybe Nishina-han has a spare.",
+    "SCENARIO_STATUS": "80810001fffffffe00810002",
+    "FINISH_FLAG": ""
+  },
+  "78": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "No dice, huh? Guess I'd better head back to see Sakurai-han.",
+    "SCENARIO_STATUS": "80810002fffffffe00810005",
+    "FINISH_FLAG": ""
+  },
+  "79": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "Ready to go hunting at last. I'll let Sakurai-han know.",
+    "SCENARIO_STATUS": "80810005fffffffe00810007",
+    "FINISH_FLAG": ""
+  },
+  "80": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "Better follow the river so I don't get lost.",
+    "SCENARIO_STATUS": "80810007fffffffe00810008",
+    "FINISH_FLAG": ""
+  },
+  "81": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "Gotta listen to Okudera-han and learn this stuff quick.",
+    "SCENARIO_STATUS": "80810008fffffffe0081000f",
+    "FINISH_FLAG": ""
+  },
+  "82": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "There's supposed to be a hunting hut out there. That's the first stop.",
+    "SCENARIO_STATUS": "8081000ffffffffe00810010",
+    "FINISH_FLAG": ""
+  },
+  "83": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "Gotta actually catch something first. I'll stick with Okudera-han.",
+    "SCENARIO_STATUS": "80810010fffffffe00810011",
+    "FINISH_FLAG": ""
+  },
+  "84": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "I'll stay quiet and follow these tracks.",
+    "SCENARIO_STATUS": "80810011fffffffe00810012",
+    "FINISH_FLAG": ""
+  },
+  "85": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "A deer. I'll crouch down and get close, then kill it before it notices me.",
+    "SCENARIO_STATUS": "80810012fffffffe00810014",
+    "FINISH_FLAG": ""
+  },
+  "86": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "Better head over to the deer I killed and recover the meat.",
+    "SCENARIO_STATUS": "80810014fffffffe00810015",
+    "FINISH_FLAG": ""
+  },
+  "87": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "I'll head back to the village once I get the hang of things.",
+    "SCENARIO_STATUS": "80810015fffffffe00810018",
+    "FINISH_FLAG": ""
+  },
+  "88": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "Time to give Nishina-han's wife that deer meat.",
+    "SCENARIO_STATUS": "80810018fffffffe0081001b",
+    "FINISH_FLAG": ""
+  },
+  "89": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "I handed in my gun, so there's nothin' else to do now. I'll go see Okudera-han.",
+    "SCENARIO_STATUS": "8081001bfffffffe00820000",
+    "FINISH_FLAG": ""
+  },
+  "90": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "Today we're catching rabbits, he said. I'll head back to Okudera-han when I'm ready.",
+    "SCENARIO_STATUS": "80820000fffffffe00820001",
+    "FINISH_FLAG": ""
+  },
+  "91": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "A trader, huh? That might help me out. Let's meet this guy.",
+    "SCENARIO_STATUS": "80820001fffffffe00820004",
+    "FINISH_FLAG": ""
+  },
+  "92": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "We're hunting rabbits this time. Gotta do my best so I can get Baba-chan back on his feet quick.",
+    "SCENARIO_STATUS": "80820004fffffffe00820006",
+    "FINISH_FLAG": ""
+  },
+  "93": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "I have to set snares at the trap sites.",
+    "SCENARIO_STATUS": "80820006fffffffe00820007",
+    "FINISH_FLAG": ""
+  },
+  "94": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "Might as well find other sites to set traps while I wait for prey to get caught.",
+    "SCENARIO_STATUS": "80820007fffffffe0082000e",
+    "FINISH_FLAG": ""
+  },
+  "95": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "That oughta be enough traps for now. I'll go check on 'em in a while.",
+    "SCENARIO_STATUS": "8082000efffffffe00820011",
+    "FINISH_FLAG": ""
+  },
+  "96": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "Better not try to take it on. I'll focus on scarin' it off like Okudera-han said.",
+    "SCENARIO_STATUS": "80820011fffffffe00820013",
+    "FINISH_FLAG": ""
+  },
+  "97": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "Let's see if the road into town's clear yet.",
+    "SCENARIO_STATUS": "80820016",
+    "FINISH_FLAG": ""
+  },
+  "98": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "Looks like the road into town is open. I'll go tell Okudera-han and Baba-chan.",
+    "SCENARIO_STATUS": "80820018fffffffd80820019fffffffd8082001a",
+    "FINISH_FLAG": ""
+  },
+  "99": {
+    "TITLE": "",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "Gotta tell Okudera-han once I'm ready, then head into Tsukimino quick.",
+    "SCENARIO_STATUS": "800e000cfffffffe000e000f",
+    "FINISH_FLAG": ""
+  },
+  "100": {
+    "TITLE": "Part 2, Chapter 4: Reckless Encounter",
+    "SCENARIO": "0000000e",
+    "EXPLANATION": "Part 2, Chapter 3 Complete\nOn to Part 2, Chapter 4",
+    "SCENARIO_STATUS": "800e000ffffffffe000f0000",
+    "FINISH_FLAG": ""
+  },
+  "101": {
+    "TITLE": "",
+    "SCENARIO": "0000000f",
+    "EXPLANATION": "Baba-chan knows this place better than me, so I'll follow his lead.",
+    "SCENARIO_STATUS": "800f0000fffffffe000f0007",
+    "FINISH_FLAG": ""
+  },
+  "102": {
+    "TITLE": "",
+    "SCENARIO": "0000000f",
+    "EXPLANATION": "Baba-chan said the hideout was opposite the Don Quijote on Central Station Boulevard.",
+    "SCENARIO_STATUS": "800f0007fffffffe000f0008",
+    "FINISH_FLAG": ""
+  },
+  "103": {
+    "TITLE": "",
+    "SCENARIO": "0000000f",
+    "EXPLANATION": "I'll try that Ambitious place first. Word is Kitakata members go there a lot.",
+    "SCENARIO_STATUS": "800f0008fffffffe000f000c",
+    "FINISH_FLAG": ""
+  },
+  "104": {
+    "TITLE": "",
+    "SCENARIO": "0000000f",
+    "EXPLANATION": "I can't get into that casino Baba-chan told me about. What gives?",
+    "SCENARIO_STATUS": "800f000cfffffffe000f000d",
+    "FINISH_FLAG": ""
+  },
+  "105": {
+    "TITLE": "",
+    "SCENARIO": "0000000f",
+    "EXPLANATION": "Apparently a guy at Ambitious has info on the casino.",
+    "SCENARIO_STATUS": "800f000dfffffffe000f0010",
+    "FINISH_FLAG": ""
+  },
+  "106": {
+    "TITLE": "",
+    "SCENARIO": "0000000f",
+    "EXPLANATION": "Guess I better find that homeless guy Kiyotaka first. A place out of the wind and rain... I think there was a covered shopping area 'round somewhere.",
+    "SCENARIO_STATUS": "800f0010fffffffe000f0016",
+    "FINISH_FLAG": ""
+  },
+  "107": {
+    "TITLE": "",
+    "SCENARIO": "0000000f",
+    "EXPLANATION": "How am I supposed to know how many homeless are here? Guess I'll ask around.",
+    "SCENARIO_STATUS": "800f0016fffffffe000f0018",
+    "FINISH_FLAG": ""
+  },
+  "108": {
+    "TITLE": "",
+    "SCENARIO": "0000000f",
+    "EXPLANATION": "No idea how many homeless there are, but maybe some booze'll buy me info.",
+    "SCENARIO_STATUS": "800f0014fffffffe000f0018",
+    "FINISH_FLAG": ""
+  },
+  "109": {
+    "TITLE": "",
+    "SCENARIO": "0000000f",
+    "EXPLANATION": "Gotta go find this Kiyotaka guy and get info on the casino.",
+    "SCENARIO_STATUS": "800f0015fffffffe000f0018",
+    "FINISH_FLAG": ""
+  },
+  "110": {
+    "TITLE": "",
+    "SCENARIO": "0000000f",
+    "EXPLANATION": "Got to find the place in the photo. Guess I'll try lookin' where this phone box is.",
+    "SCENARIO_STATUS": "800f0018fffffffe000f0019",
+    "FINISH_FLAG": ""
+  },
+  "111": {
+    "TITLE": "",
+    "SCENARIO": "0000000f",
+    "EXPLANATION": "So the password is \"seven scattered losing tickets\"? Guess I'll head to that lottery booth.",
+    "SCENARIO_STATUS": "800f0019fffffffe000f001a",
+    "FINISH_FLAG": ""
+  },
+  "112": {
+    "TITLE": "",
+    "SCENARIO": "0000000f",
+    "EXPLANATION": "This oughta get me into the casino at Ambitious. I'll go try it now.",
+    "SCENARIO_STATUS": "800f001afffffffe000f001c",
+    "FINISH_FLAG": ""
+  },
+  "113": {
+    "TITLE": "",
+    "SCENARIO": "0000000f",
+    "EXPLANATION": "Looks like I'll have to beat the answers outta these guys!",
+    "SCENARIO_STATUS": "800f001cfffffffe000f001e",
+    "FINISH_FLAG": ""
+  },
+  "114": {
+    "TITLE": "",
+    "SCENARIO": "0000000f",
+    "EXPLANATION": "Time to head back to Polaris and have a chat with Baba-chan.",
+    "SCENARIO_STATUS": "800f001efffffffe000f0020",
+    "FINISH_FLAG": ""
+  },
+  "115": {
+    "TITLE": "",
+    "SCENARIO": "0000000f",
+    "EXPLANATION": "Now's my chance to tie up any loose ends. Once I'm spent, I'll rest up at Polaris so I'm fresh for tomorrow.",
+    "SCENARIO_STATUS": "800f0020fffffffe000f0022",
+    "FINISH_FLAG": ""
+  },
+  "116": {
+    "TITLE": "",
+    "SCENARIO": "0000000f",
+    "EXPLANATION": "Better go do some recon at Main Street Park. Gotta check out as much as I can.",
+    "SCENARIO_STATUS": "800f0022fffffffe000f0028",
+    "FINISH_FLAG": ""
+  },
+  "117": {
+    "TITLE": "",
+    "SCENARIO": "0000000f",
+    "EXPLANATION": "Think I've seen enough. I'll make for Polaris and meet up with Baba-chan.",
+    "SCENARIO_STATUS": "800f0028fffffffe000f0029",
+    "FINISH_FLAG": ""
+  },
+  "118": {
+    "TITLE": "",
+    "SCENARIO": "0000000f",
+    "EXPLANATION": "Tomorrow's the day of the ceremony. Gotta finish anything that needs doing, then I'll get some shut-eye at Polaris.",
+    "SCENARIO_STATUS": "800f0029fffffffe000f002a",
+    "FINISH_FLAG": ""
+  },
+  "119": {
+    "TITLE": "",
+    "SCENARIO": "0000000f",
+    "EXPLANATION": "Time for action. I'll let Baba-chan know when I'm good to go.",
+    "SCENARIO_STATUS": "800f002afffffffe000f002d",
+    "FINISH_FLAG": ""
+  },
+  "120": {
+    "TITLE": "",
+    "SCENARIO": "0000000f",
+    "EXPLANATION": "Shoulda known meetin' Kitakata wouldn't be that easy. Gotta get to Baba-chan again quick.",
+    "SCENARIO_STATUS": "800f002dfffffffe000f0030",
+    "FINISH_FLAG": ""
+  },
+  "121": {
+    "TITLE": "",
+    "SCENARIO": "0000000f",
+    "EXPLANATION": "No time to waste. Gotta take these guys out quick!",
+    "SCENARIO_STATUS": "800f0030fffffffe000f003a",
+    "FINISH_FLAG": ""
+  },
+  "122": {
+    "TITLE": "",
+    "SCENARIO": "0000000f",
+    "EXPLANATION": "Why, Baba-chan!? Gotta catch him and get some answers!",
+    "SCENARIO_STATUS": "800f003afffffffe000f0040",
+    "FINISH_FLAG": ""
+  },
+  "123": {
+    "TITLE": "",
+    "SCENARIO": "0000000f",
+    "EXPLANATION": "Think it's time I taught you what livin' is all about, Baba-chan!",
+    "SCENARIO_STATUS": "800f0040fffffffe000f0044",
+    "FINISH_FLAG": ""
+  },
+  "124": {
+    "TITLE": "Part 3, Chapter 1: Backstage Dreams",
+    "SCENARIO": "0000000f",
+    "EXPLANATION": "Part 2: Taiga Saejima complete\nOn to Part 3: Shun Akiyama / Haruka Sawamura",
+    "SCENARIO_STATUS": "800f0044fffffffe00100000",
+    "FINISH_FLAG": ""
+  },
+  "125": {
+    "TITLE": "Part 3, Chapter 1: Backstage Dreams",
+    "SCENARIO": "00000010",
+    "EXPLANATION": "I'm not done with my lessons. I have to go see Ogita-san.",
+    "SCENARIO_STATUS": "80100000fffffffe0010000e",
+    "FINISH_FLAG": ""
+  },
+  "126": {
+    "TITLE": "",
+    "SCENARIO": "00000010",
+    "EXPLANATION": "Another long day. I should go home and get ready for tomorrow.",
+    "SCENARIO_STATUS": "8010000efffffffe00100010",
+    "FINISH_FLAG": ""
+  },
+  "127": {
+    "TITLE": "",
+    "SCENARIO": "00000010",
+    "EXPLANATION": "Horie-san is waiting for me in front of the elevator. Once I'm ready, we should go back together.",
+    "SCENARIO_STATUS": "80100010fffffffe00100011",
+    "FINISH_FLAG": ""
+  },
+  "128": {
+    "TITLE": "",
+    "SCENARIO": "00000010",
+    "EXPLANATION": "The Princess League starts tomorrow. I need to get a good sleep tonight.",
+    "SCENARIO_STATUS": "80100012fffffffe00100014",
+    "FINISH_FLAG": ""
+  },
+  "129": {
+    "TITLE": "",
+    "SCENARIO": "00000010",
+    "EXPLANATION": "I have to go to the office. It's another busy day!",
+    "SCENARIO_STATUS": "80100014fffffffe0010001a",
+    "FINISH_FLAG": ""
+  },
+  "130": {
+    "TITLE": "",
+    "SCENARIO": "00000010",
+    "EXPLANATION": "I'll be late to the office if I don't hurry. That dance battle was fun, though.",
+    "SCENARIO_STATUS": "8010001afffffffe0010001b",
+    "FINISH_FLAG": ""
+  },
+  "131": {
+    "TITLE": "",
+    "SCENARIO": "00000010",
+    "EXPLANATION": "I'd better check today's schedule on the board in the office.",
+    "SCENARIO_STATUS": "8010001bfffffffe00100022",
+    "FINISH_FLAG": ""
+  },
+  "132": {
+    "TITLE": "",
+    "SCENARIO": "00000010",
+    "EXPLANATION": "The Princess League Finals are about to begin. I should check the schedule again once I'm ready.",
+    "SCENARIO_STATUS": "80100022fffffffe00100024",
+    "FINISH_FLAG": ""
+  },
+  "133": {
+    "TITLE": "",
+    "SCENARIO": "00000010",
+    "EXPLANATION": "I'd better say hello to Manda-san, the producer. We'll be starting soon, so he should be around here somewhere.",
+    "SCENARIO_STATUS": "80100024fffffffe00100035",
+    "FINISH_FLAG": ""
+  },
+  "134": {
+    "TITLE": "",
+    "SCENARIO": "00000010",
+    "EXPLANATION": "I should head back to Sotenbori. Once I get back to the office, I have to start preparing for the next round.",
+    "SCENARIO_STATUS": "80100035fffffffe00100037",
+    "FINISH_FLAG": ""
+  },
+  "135": {
+    "TITLE": "",
+    "SCENARIO": "00000010",
+    "EXPLANATION": "I think I'll go back to the office once I'm done here. It's time to start training for the second round.",
+    "SCENARIO_STATUS": "80100037fffffffe00100039",
+    "FINISH_FLAG": ""
+  },
+  "136": {
+    "TITLE": "",
+    "SCENARIO": "00000010",
+    "EXPLANATION": "Yamaura-san is waiting. I should hurry to the studio.",
+    "SCENARIO_STATUS": "80100039fffffffe0010003c",
+    "FINISH_FLAG": ""
+  },
+  "137": {
+    "TITLE": "",
+    "SCENARIO": "00000010",
+    "EXPLANATION": "Ogita-san said he'd be at the office. I should go ask about my next lesson.",
+    "SCENARIO_STATUS": "8010003cfffffffe0010003e",
+    "FINISH_FLAG": ""
+  },
+  "138": {
+    "TITLE": "",
+    "SCENARIO": "00000010",
+    "EXPLANATION": "It sounds like Ogita-san is in Park-san's office. I should go ask about my next lesson.",
+    "SCENARIO_STATUS": "8010003efffffffe00100040",
+    "FINISH_FLAG": ""
+  },
+  "139": {
+    "TITLE": "",
+    "SCENARIO": "00000010",
+    "EXPLANATION": "I have to find Christina!",
+    "SCENARIO_STATUS": "80100040fffffffe00100051",
+    "FINISH_FLAG": ""
+  },
+  "140": {
+    "TITLE": "",
+    "SCENARIO": "00000010",
+    "EXPLANATION": "I wonder what the next job is. I think I'll talk with Horie-san at the office and find Park-san.",
+    "SCENARIO_STATUS": "80100051fffffffe00100055",
+    "FINISH_FLAG": ""
+  },
+  "141": {
+    "TITLE": "",
+    "SCENARIO": "00000010",
+    "EXPLANATION": "Once I'm ready to go to Soten TV, I should meet up with Horie-san at the taxi stand.",
+    "SCENARIO_STATUS": "80100055fffffffe00100059",
+    "FINISH_FLAG": ""
+  },
+  "142": {
+    "TITLE": "",
+    "SCENARIO": "00000010",
+    "EXPLANATION": "I have to apologize to Manda-san for what happened today. Where could he be?",
+    "SCENARIO_STATUS": "80100059fffffffe0010005c",
+    "FINISH_FLAG": ""
+  },
+  "143": {
+    "TITLE": "",
+    "SCENARIO": "00000010",
+    "EXPLANATION": "That came out of nowhere. I'd better pull myself together and go apologize to Manda-san.",
+    "SCENARIO_STATUS": "8010005cfffffffe0010005e",
+    "FINISH_FLAG": ""
+  },
+  "144": {
+    "TITLE": "",
+    "SCENARIO": "00000010",
+    "EXPLANATION": "It's been a tough day. I should go and rest up for tomorrow.",
+    "SCENARIO_STATUS": "8010005efffffffe00100060",
+    "FINISH_FLAG": ""
+  },
+  "145": {
+    "TITLE": "Part 3, Chapter 2: Hope Lives On",
+    "SCENARIO": "00000010",
+    "EXPLANATION": "Part 3, Chapter 1 Complete\nOn to Part 3, Chapter 2",
+    "SCENARIO_STATUS": "80100060fffffffe00110000",
+    "FINISH_FLAG": ""
+  },
+  "146": {
+    "TITLE": "",
+    "SCENARIO": "00000011",
+    "EXPLANATION": "My lessons with Christina start today. I should go in to the office.",
+    "SCENARIO_STATUS": "80110000fffffffe00110004",
+    "FINISH_FLAG": ""
+  },
+  "147": {
+    "TITLE": "",
+    "SCENARIO": "00000011",
+    "EXPLANATION": "Christina is waiting for me. I have to hurry to the studio.",
+    "SCENARIO_STATUS": "80110004fffffffe00110005",
+    "FINISH_FLAG": ""
+  },
+  "148": {
+    "TITLE": "",
+    "SCENARIO": "00000011",
+    "EXPLANATION": "I've got to start my lessons. I should go and see Christina.",
+    "SCENARIO_STATUS": "80110005fffffffe00110008",
+    "FINISH_FLAG": ""
+  },
+  "149": {
+    "TITLE": "",
+    "SCENARIO": "00000011",
+    "EXPLANATION": "I have to meet up with Horie-san. He said he was out in front of Don Quijote.",
+    "SCENARIO_STATUS": "80110009fffffffe00110010",
+    "FINISH_FLAG": ""
+  },
+  "150": {
+    "TITLE": "",
+    "SCENARIO": "00000011",
+    "EXPLANATION": "I'm looking forward to going shopping with Park-san. Time to head back to the office.",
+    "SCENARIO_STATUS": "80110010fffffffe00110014",
+    "FINISH_FLAG": ""
+  },
+  "151": {
+    "TITLE": "",
+    "SCENARIO": "00000011",
+    "EXPLANATION": "I wonder if Park-san is back yet. I'll try her office.",
+    "SCENARIO_STATUS": "80110014fffffffe00110018",
+    "FINISH_FLAG": ""
+  },
+  "152": {
+    "TITLE": "",
+    "SCENARIO": "00000011",
+    "EXPLANATION": "Park-san is waiting in her office. I'll go see her once I'm ready.",
+    "SCENARIO_STATUS": "80110018fffffffe00110019",
+    "FINISH_FLAG": ""
+  },
+  "153": {
+    "TITLE": "",
+    "SCENARIO": "00000011",
+    "EXPLANATION": "I feel so lucky that I get to go shopping with Park-san like this.",
+    "SCENARIO_STATUS": "80110019fffffffe0011002e",
+    "FINISH_FLAG": ""
+  },
+  "154": {
+    "TITLE": "",
+    "SCENARIO": "00000011",
+    "EXPLANATION": "Today was really fun. I should go get some sleep so I'm fresh for tomorrow.",
+    "SCENARIO_STATUS": "8011002efffffffe00110031",
+    "FINISH_FLAG": ""
+  },
+  "155": {
+    "TITLE": "",
+    "SCENARIO": "00000011",
+    "EXPLANATION": "Horie-san was really flustered. I'd better hurry to the office!",
+    "SCENARIO_STATUS": "80110031fffffffe00110034",
+    "FINISH_FLAG": ""
+  },
+  "156": {
+    "TITLE": "Part 3, Chapter 3: Closing In",
+    "SCENARIO": "00000011",
+    "EXPLANATION": "Part 3, Chapter 2 Complete\nOn to Part 3, Chapter 3",
+    "SCENARIO_STATUS": "80110034fffffffe00120000",
+    "FINISH_FLAG": ""
+  },
+  "157": {
+    "TITLE": "",
+    "SCENARIO": "00000012",
+    "EXPLANATION": "This is the last thing I need right now. Oh well, guess I have to get this over with.",
+    "SCENARIO_STATUS": "80120000fffffffe00120009",
+    "FINISH_FLAG": ""
+  },
+  "158": {
+    "TITLE": "",
+    "SCENARIO": "00000012",
+    "EXPLANATION": "Park-san committed suicide!? I can't believe it... I have to get over to Dyna Chair quick.",
+    "SCENARIO_STATUS": "80120009fffffffe0012000d",
+    "FINISH_FLAG": ""
+  },
+  "159": {
+    "TITLE": "",
+    "SCENARIO": "00000012",
+    "EXPLANATION": "So the new girl here was the last to see her. The studio was on the fourth floor if I remember right.",
+    "SCENARIO_STATUS": "8012000dfffffffe0012000f",
+    "FINISH_FLAG": ""
+  },
+  "160": {
+    "TITLE": "",
+    "SCENARIO": "00000012",
+    "EXPLANATION": "Let's start by checking the roof. There could be a clue there.",
+    "SCENARIO_STATUS": "8012000ffffffffe0012001a",
+    "FINISH_FLAG": ""
+  },
+  "161": {
+    "TITLE": "",
+    "SCENARIO": "00000012",
+    "EXPLANATION": "I've got time on my hands, so I should get anything else I wanted to do out of the way.",
+    "SCENARIO_STATUS": "8012001afffffffe0012001efffffffe80000007",
+    "FINISH_FLAG": ""
+  },
+  "162": {
+    "TITLE": "",
+    "SCENARIO": "00000012",
+    "EXPLANATION": "I'm free for a little while, so it's a good time to get some stuff done.",
+    "SCENARIO_STATUS": "8012001afffffffe0012001efffffffe8000000a",
+    "FINISH_FLAG": ""
+  },
+  "163": {
+    "TITLE": "",
+    "SCENARIO": "00000012",
+    "EXPLANATION": "Haruka-chan is waiting. I'd better head to Dyna Chair.",
+    "SCENARIO_STATUS": "8012001efffffffe00120025fffffffe80000007",
+    "FINISH_FLAG": ""
+  },
+  "164": {
+    "TITLE": "",
+    "SCENARIO": "00000012",
+    "EXPLANATION": "Akiyama-san is waiting. I should go into the office.",
+    "SCENARIO_STATUS": "8012001efffffffe00120025fffffffe8000000a",
+    "FINISH_FLAG": ""
+  },
+  "165": {
+    "TITLE": "",
+    "SCENARIO": "00000012",
+    "EXPLANATION": "I guess Park-san's office is the best place to look for a note, huh?",
+    "SCENARIO_STATUS": "80120025fffffffe0012002a",
+    "FINISH_FLAG": ""
+  },
+  "166": {
+    "TITLE": "",
+    "SCENARIO": "00000012",
+    "EXPLANATION": "Huh? I'd better check the emergency exit.",
+    "SCENARIO_STATUS": "8012002afffffffe0012002c",
+    "FINISH_FLAG": ""
+  },
+  "167": {
+    "TITLE": "",
+    "SCENARIO": "00000012",
+    "EXPLANATION": "What's this guy done to Horie-chan!? Looks like I'll have to beat some answers out of him.",
+    "SCENARIO_STATUS": "8012002cfffffffe0012002e",
+    "FINISH_FLAG": ""
+  },
+  "168": {
+    "TITLE": "",
+    "SCENARIO": "00000012",
+    "EXPLANATION": "Damn, this guy's a monster. But I don't plan on giving up just yet.",
+    "SCENARIO_STATUS": "8012002efffffffe00120030",
+    "FINISH_FLAG": ""
+  },
+  "169": {
+    "TITLE": "Part 3, Chapter 4: Beyond the Dream",
+    "SCENARIO": "00000012",
+    "EXPLANATION": "Part 3, Chapter 3 Complete\nOn to Part 3, Chapter 4",
+    "SCENARIO_STATUS": "80120030fffffffe00130000",
+    "FINISH_FLAG": ""
+  },
+  "170": {
+    "TITLE": "",
+    "SCENARIO": "00000013",
+    "EXPLANATION": "It's the Princess League today. Once I'm ready, I'll check in with the office.",
+    "SCENARIO_STATUS": "80130000fffffffe00130006fffffffe8000000a",
+    "FINISH_FLAG": ""
+  },
+  "171": {
+    "TITLE": "",
+    "SCENARIO": "00000013",
+    "EXPLANATION": "Looks like I have some time to myself. Once I run out of things to do, I guess I'll go see how Haruka-chan is doing.",
+    "SCENARIO_STATUS": "80130000fffffffe00130009fffffffe80000007",
+    "FINISH_FLAG": ""
+  },
+  "172": {
+    "TITLE": "",
+    "SCENARIO": "00000013",
+    "EXPLANATION": "When I'm ready, I'll talk to Yamaura-san and go to the second round of the Princess League.",
+    "SCENARIO_STATUS": "80130006fffffffe00130017",
+    "FINISH_FLAG": ""
+  },
+  "173": {
+    "TITLE": "",
+    "SCENARIO": "00000013",
+    "EXPLANATION": "Akiyama-san is waiting for me outside the office. He said he had something to tell Yamaura-san and me. I wonder what it could be?",
+    "SCENARIO_STATUS": "80130017fffffffe0013001a",
+    "FINISH_FLAG": ""
+  },
+  "174": {
+    "TITLE": "",
+    "SCENARIO": "00000013",
+    "EXPLANATION": "The Crest Bar is in Hoganji Yokocho. I'll go check it out.",
+    "SCENARIO_STATUS": "8013001afffffffe0013001c",
+    "FINISH_FLAG": ""
+  },
+  "175": {
+    "TITLE": "",
+    "SCENARIO": "00000013",
+    "EXPLANATION": "I get the feeling they know something. I'll wait and see what they do.",
+    "SCENARIO_STATUS": "8013001cfffffffe0013001e",
+    "FINISH_FLAG": ""
+  },
+  "176": {
+    "TITLE": "",
+    "SCENARIO": "00000013",
+    "EXPLANATION": "I guess I'll head to the Shofukucho parking lot. I'd better be on my guard.",
+    "SCENARIO_STATUS": "8013001efffffffe00130020",
+    "FINISH_FLAG": ""
+  },
+  "177": {
+    "TITLE": "",
+    "SCENARIO": "00000013",
+    "EXPLANATION": "Looks like I'll have to apply some pressure to get answers here. Oh well, here goes.",
+    "SCENARIO_STATUS": "80130020fffffffe00130023",
+    "FINISH_FLAG": ""
+  },
+  "178": {
+    "TITLE": "",
+    "SCENARIO": "00000013",
+    "EXPLANATION": "Akiyama-san said he'd be waiting at the Crest Bar in Hoganji Yokocho.",
+    "SCENARIO_STATUS": "80130023fffffffe0013002a",
+    "FINISH_FLAG": ""
+  },
+  "179": {
+    "TITLE": "",
+    "SCENARIO": "00000013",
+    "EXPLANATION": "Tomorrow is the final round of the Princess League. I have to make sure I get a good sleep tonight.",
+    "SCENARIO_STATUS": "8013002afffffffe0013002bfffffffe8000000a",
+    "FINISH_FLAG": ""
+  },
+  "180": {
+    "TITLE": "",
+    "SCENARIO": "00000013",
+    "EXPLANATION": "I guess I'll see what I can dredge up at Osaka Talent tomorrow. I'll stay at Sky Finance tonight.",
+    "SCENARIO_STATUS": "8013002afffffffe0013002bfffffffe80000007",
+    "FINISH_FLAG": ""
+  },
+  "181": {
+    "TITLE": "",
+    "SCENARIO": "00000013",
+    "EXPLANATION": "Okay, time to pay Osaka Talent a visit. I guess I'll need a taxi.",
+    "SCENARIO_STATUS": "8013002bfffffffe00130032",
+    "FINISH_FLAG": ""
+  },
+  "182": {
+    "TITLE": "",
+    "SCENARIO": "00000013",
+    "EXPLANATION": "Yamaura-san is waiting at the studio. I have to train for the final round.",
+    "SCENARIO_STATUS": "80130032fffffffe00130036",
+    "FINISH_FLAG": ""
+  },
+  "183": {
+    "TITLE": "",
+    "SCENARIO": "00000013",
+    "EXPLANATION": "Time to check in with Yamaura-san at the office, then head to the final round of the Princess League!",
+    "SCENARIO_STATUS": "80130036fffffffe00130048",
+    "FINISH_FLAG": ""
+  },
+  "184": {
+    "TITLE": "",
+    "SCENARIO": "00000013",
+    "EXPLANATION": "Who was that guy on the phone? He said he'd be waiting at Sky Finance.",
+    "SCENARIO_STATUS": "80130048fffffffe0013004c",
+    "FINISH_FLAG": ""
+  },
+  "185": {
+    "TITLE": "",
+    "SCENARIO": "00000013",
+    "EXPLANATION": "Perfect timing. Let's get some info on Ousaka Enterprises!",
+    "SCENARIO_STATUS": "8013004cfffffffe0013004d",
+    "FINISH_FLAG": ""
+  },
+  "186": {
+    "TITLE": "",
+    "SCENARIO": "00000013",
+    "EXPLANATION": "I guess I'll take a taxi to Ousaka Enterprises. I'd better make sure I'm ready. You can't be too careful.",
+    "SCENARIO_STATUS": "8013004dfffffffe00130054",
+    "FINISH_FLAG": ""
+  },
+  "187": {
+    "TITLE": "",
+    "SCENARIO": "00000013",
+    "EXPLANATION": "I'm not letting up until I get answers out of that Kanai!",
+    "SCENARIO_STATUS": "80130054fffffffe00130059",
+    "FINISH_FLAG": ""
+  },
+  "188": {
+    "TITLE": "",
+    "SCENARIO": "00000013",
+    "EXPLANATION": "Damn it! So now they've dragged Haruka-chan into this. I have to fight my way through!",
+    "SCENARIO_STATUS": "80130059fffffffe0013005c",
+    "FINISH_FLAG": ""
+  },
+  "189": {
+    "TITLE": "",
+    "SCENARIO": "00000013",
+    "EXPLANATION": "I've got to help Haruka-chan! I'd better see what's up at Dyna Chair before I go anywhere, though.",
+    "SCENARIO_STATUS": "8013005cfffffffe00130062",
+    "FINISH_FLAG": ""
+  },
+  "190": {
+    "TITLE": "",
+    "SCENARIO": "00000013",
+    "EXPLANATION": "If she went to Shin-Osaka Station, she must have taken a taxi. I'll ask around at the taxi stands.",
+    "SCENARIO_STATUS": "80130062fffffffe00130067",
+    "FINISH_FLAG": ""
+  },
+  "191": {
+    "TITLE": "",
+    "SCENARIO": "00000013",
+    "EXPLANATION": "It looks like she did head to Shin-Osaka Station. I'd better get ready and take a taxi there, too.",
+    "SCENARIO_STATUS": "80130067fffffffe00130069",
+    "FINISH_FLAG": ""
+  },
+  "192": {
+    "TITLE": "",
+    "SCENARIO": "00000013",
+    "EXPLANATION": "This looks pretty grim. But if that guy thinks he can get away with this, he's got another thing coming!",
+    "SCENARIO_STATUS": "80130069fffffffe0013006e",
+    "FINISH_FLAG": ""
+  },
+  "193": {
+    "TITLE": "Part 4, Chapter 1: Abandoned Glory",
+    "SCENARIO": "00000013",
+    "EXPLANATION": "Part 3: Shun Akiyama / Haruka Sawamura complete\nOn to Part 4: Tatsuo Shinada",
+    "SCENARIO_STATUS": "8013006efffffffe00140000",
+    "FINISH_FLAG": ""
+  },
+  "194": {
+    "TITLE": "Part 4, Chapter 1: Abandoned Glory",
+    "SCENARIO": "00000014",
+    "EXPLANATION": "Damn, I'm late for my interview! I'd better head to Club Futo Momo now. It's on Icho Street, so it's a bit of a walk.",
+    "SCENARIO_STATUS": "80140000fffffffe0014000d",
+    "FINISH_FLAG": ""
+  },
+  "195": {
+    "TITLE": "",
+    "SCENARIO": "00000014",
+    "EXPLANATION": "Sounds like Milky-chan's brother is in a jam. I guess I'll check out Kubota Security on the corner of Icho Street.",
+    "SCENARIO_STATUS": "8014000dfffffffe00140010",
+    "FINISH_FLAG": ""
+  },
+  "196": {
+    "TITLE": "",
+    "SCENARIO": "00000014",
+    "EXPLANATION": "No need to hold back with these guys. They're getting what's coming to them.",
+    "SCENARIO_STATUS": "80140010fffffffe00140013",
+    "FINISH_FLAG": ""
+  },
+  "197": {
+    "TITLE": "",
+    "SCENARIO": "00000014",
+    "EXPLANATION": "I can finally get back to that interview. Time to head back to Club Futo Momo.",
+    "SCENARIO_STATUS": "80140013fffffffe00140019",
+    "FINISH_FLAG": ""
+  },
+  "198": {
+    "TITLE": "",
+    "SCENARIO": "00000014",
+    "EXPLANATION": "That wraps up my article on Milky-chan. Now I just have to get it in to the publisher.",
+    "SCENARIO_STATUS": "80140019fffffffe00140020",
+    "FINISH_FLAG": ""
+  },
+  "199": {
+    "TITLE": "",
+    "SCENARIO": "00000014",
+    "EXPLANATION": "I guess the batting center's my only hope now.",
+    "SCENARIO_STATUS": "80140020fffffffe00140027",
+    "FINISH_FLAG": ""
+  },
+  "200": {
+    "TITLE": "",
+    "SCENARIO": "00000014",
+    "EXPLANATION": "What's with this guy? Oh well, it's probably easier to shut him up than talk him down.",
+    "SCENARIO_STATUS": "80140027fffffffe00140029",
+    "FINISH_FLAG": ""
+  },
+  "201": {
+    "TITLE": "",
+    "SCENARIO": "00000014",
+    "EXPLANATION": "Anyway, the batting center's still my only hope.",
+    "SCENARIO_STATUS": "80140029fffffffe0014002e",
+    "FINISH_FLAG": ""
+  },
+  "202": {
+    "TITLE": "",
+    "SCENARIO": "00000014",
+    "EXPLANATION": "Damn... There goes my money. Well, no point standing around.",
+    "SCENARIO_STATUS": "8014002efffffffe0014002f",
+    "FINISH_FLAG": ""
+  },
+  "203": {
+    "TITLE": "",
+    "SCENARIO": "00000014",
+    "EXPLANATION": "I need to get to Ushijima-san's place on Kumano Boulevard. I can smell the miso stew already.",
+    "SCENARIO_STATUS": "8014002ffffffffe00140031",
+    "FINISH_FLAG": ""
+  },
+  "204": {
+    "TITLE": "",
+    "SCENARIO": "00000014",
+    "EXPLANATION": "Today was a bummer. I guess I'll head home.",
+    "SCENARIO_STATUS": "80140031fffffffe00140033",
+    "FINISH_FLAG": ""
+  },
+  "205": {
+    "TITLE": "",
+    "SCENARIO": "00000014",
+    "EXPLANATION": "Is he seriously still going on about that time at bat? Guess I gotta make this quick.",
+    "SCENARIO_STATUS": "80140033fffffffe00140035",
+    "FINISH_FLAG": ""
+  },
+  "206": {
+    "TITLE": "",
+    "SCENARIO": "00000014",
+    "EXPLANATION": "Today was a bummer. I guess I'll head home.",
+    "SCENARIO_STATUS": "80140035fffffffe00140037",
+    "FINISH_FLAG": ""
+  },
+  "207": {
+    "TITLE": "Part 4, Chapter 2: Confronting the Past",
+    "SCENARIO": "00000014",
+    "EXPLANATION": "Part 4, Chapter 1 Complete\nOn to Part 4, Chapter 2",
+    "SCENARIO_STATUS": "80140037fffffffe00150000",
+    "FINISH_FLAG": ""
+  },
+  "208": {
+    "TITLE": "",
+    "SCENARIO": "00000015",
+    "EXPLANATION": "Geez, I'd rather just forget about the past. I need to go out and get my mind off this.",
+    "SCENARIO_STATUS": "80150000fffffffe00150009",
+    "FINISH_FLAG": ""
+  },
+  "209": {
+    "TITLE": "",
+    "SCENARIO": "00000015",
+    "EXPLANATION": "Someday I'll beat Shirakawa... For now, I just need to go out and get my mind off things.",
+    "SCENARIO_STATUS": "80150009fffffffe00f80000",
+    "FINISH_FLAG": ""
+  },
+  "210": {
+    "TITLE": "",
+    "SCENARIO": "00000015",
+    "EXPLANATION": "I've still got Coach Igarashi's training. I'll head to the bar once I finish my fishing. I guess I'll keep looking around town for now.",
+    "SCENARIO_STATUS": "80f80000fffffffe0015000b",
+    "FINISH_FLAG": ""
+  },
+  "211": {
+    "TITLE": "",
+    "SCENARIO": "00000015",
+    "EXPLANATION": "Fujita-san is the new manager for the Gigants? I'd better check the TV and see if it's true.",
+    "SCENARIO_STATUS": "8015000bfffffffe0015000c",
+    "FINISH_FLAG": ""
+  },
+  "212": {
+    "TITLE": "",
+    "SCENARIO": "00000015",
+    "EXPLANATION": "Damn it. Today has been the worst.",
+    "SCENARIO_STATUS": "8015000cfffffffe0015000d",
+    "FINISH_FLAG": ""
+  },
+  "213": {
+    "TITLE": "",
+    "SCENARIO": "00000015",
+    "EXPLANATION": "Milky-chan said she'd be waiting for me on the roof of Club Futo Momo.",
+    "SCENARIO_STATUS": "8015000dfffffffe0015000f",
+    "FINISH_FLAG": ""
+  },
+  "214": {
+    "TITLE": "",
+    "SCENARIO": "00000015",
+    "EXPLANATION": "I'd better get back to reality, too. Time to head home.",
+    "SCENARIO_STATUS": "8015000ffffffffe00150012",
+    "FINISH_FLAG": ""
+  },
+  "215": {
+    "TITLE": "",
+    "SCENARIO": "00000015",
+    "EXPLANATION": "The folks at Nightlife Magazine have something for me. I might as well head there now.",
+    "SCENARIO_STATUS": "80150012fffffffe00150013",
+    "FINISH_FLAG": ""
+  },
+  "216": {
+    "TITLE": "",
+    "SCENARIO": "00000015",
+    "EXPLANATION": "I'm exhausted. I need to go home and sleep.",
+    "SCENARIO_STATUS": "80150013fffffffe00150014",
+    "FINISH_FLAG": ""
+  },
+  "217": {
+    "TITLE": "",
+    "SCENARIO": "00000015",
+    "EXPLANATION": "Uno-san would know about what happened back then, and his place isn't that far. It's the Uno Acupuncture Clinic on Obiita Street.",
+    "SCENARIO_STATUS": "80150014fffffffe00150018",
+    "FINISH_FLAG": ""
+  },
+  "218": {
+    "TITLE": "",
+    "SCENARIO": "00000015",
+    "EXPLANATION": "Uno-san likes new girls at massage parlors. I should go to an info booth and find out which places have new staff.",
+    "SCENARIO_STATUS": "80150018fffffffe00150019",
+    "FINISH_FLAG": ""
+  },
+  "219": {
+    "TITLE": "",
+    "SCENARIO": "00000015",
+    "EXPLANATION": "Uno-san likes new girls at massage parlors. There are a couple of places with new staff. I'm looking for Boom and Bust as well as Resort Boing.",
+    "SCENARIO_STATUS": "80150019fffffffe0015001bfffffffe0015001a",
+    "FINISH_FLAG": ""
+  },
+  "220": {
+    "TITLE": "",
+    "SCENARIO": "00000015",
+    "EXPLANATION": "Uno likes new girls at massage parlors. There are a couple of places that have taken on new staff lately. I'll try Boom and Bust.",
+    "SCENARIO_STATUS": "80150019fffffffe8015001afffffffe0015001b",
+    "FINISH_FLAG": ""
+  },
+  "221": {
+    "TITLE": "",
+    "SCENARIO": "00000015",
+    "EXPLANATION": "Uno-san likes new girls at massage parlors. I should ask at the info booth across the street from Boom and Bust to find out where Uno-san is.",
+    "SCENARIO_STATUS": "80150019fffffffe8015001bfffffffe0015001a",
+    "FINISH_FLAG": ""
+  },
+  "222": {
+    "TITLE": "",
+    "SCENARIO": "00000015",
+    "EXPLANATION": "Uno-san likes new girls at massage parlors. I should ask at the info booth across the street from Boom and Bust to find out where Uno-san is.",
+    "SCENARIO_STATUS": "8015001bfffffffe8015001afffffffe0015001c",
+    "FINISH_FLAG": ""
+  },
+  "223": {
+    "TITLE": "",
+    "SCENARIO": "00000015",
+    "EXPLANATION": "Uno-san likes new girls at massage parlors. There are a couple of places that have taken on new staff lately. I'll check out Operation Panties as well as Rubbe and Tucke's.",
+    "SCENARIO_STATUS": "8015001cfffffffe0015001dfffffffe0015001e",
+    "FINISH_FLAG": ""
+  },
+  "224": {
+    "TITLE": "",
+    "SCENARIO": "00000015",
+    "EXPLANATION": "Uno-san likes new girls at massage parlors. There are a couple of places that have taken on new staff lately. I'll try Rubbe and Tucke's.",
+    "SCENARIO_STATUS": "8015001cfffffffe8015001dfffffffe0015001e",
+    "FINISH_FLAG": ""
+  },
+  "225": {
+    "TITLE": "",
+    "SCENARIO": "00000015",
+    "EXPLANATION": "Uno-san seemed pretty happy about earning more money to play around with. Okay, time to head back to his clinic.",
+    "SCENARIO_STATUS": "8015001efffffffe00150029",
+    "FINISH_FLAG": ""
+  },
+  "226": {
+    "TITLE": "",
+    "SCENARIO": "00000015",
+    "EXPLANATION": "Looks like I need to find out what Manabe-san was up to back then. I guess I'll take a taxi to Manabe-san's place, Yakiniku Ittoukai.",
+    "SCENARIO_STATUS": "80150029fffffffe0015002f",
+    "FINISH_FLAG": ""
+  },
+  "227": {
+    "TITLE": "",
+    "SCENARIO": "00000015",
+    "EXPLANATION": "Looks like Uno-san was telling the truth. There was game fixing going on. I'd better go tell him.",
+    "SCENARIO_STATUS": "8015002ffffffffe00150031",
+    "FINISH_FLAG": ""
+  },
+  "228": {
+    "TITLE": "",
+    "SCENARIO": "00000015",
+    "EXPLANATION": "Was he trying to kill us? I'd better catch him and find out.",
+    "SCENARIO_STATUS": "80150031fffffffe00150032",
+    "FINISH_FLAG": ""
+  },
+  "229": {
+    "TITLE": "",
+    "SCENARIO": "00000015",
+    "EXPLANATION": "Why would Sakai-san do that? I'd better get out of here in one piece if I want to find out.",
+    "SCENARIO_STATUS": "80150032fffffffe00150037",
+    "FINISH_FLAG": ""
+  },
+  "230": {
+    "TITLE": "Part 4, Chapter 3: The Price of Truth",
+    "SCENARIO": "00000015",
+    "EXPLANATION": "Part 4, Chapter 2 Complete\nOn to Part 4, Chapter 3",
+    "SCENARIO_STATUS": "80150037fffffffe00160000",
+    "FINISH_FLAG": ""
+  },
+  "231": {
+    "TITLE": "",
+    "SCENARIO": "00000016",
+    "EXPLANATION": "So something changed this town 15 years ago. I'll head to Ushijima-san's place on Kumano Boulevard to get some answers.",
+    "SCENARIO_STATUS": "80160000fffffffe0016000c",
+    "FINISH_FLAG": ""
+  },
+  "232": {
+    "TITLE": "",
+    "SCENARIO": "00000016",
+    "EXPLANATION": "Milky-chan's brother is in trouble? I need to get a taxi to Warehouse 62 at the Port of Nagoya, and fast!",
+    "SCENARIO_STATUS": "8016000cfffffffe0016000f",
+    "FINISH_FLAG": ""
+  },
+  "233": {
+    "TITLE": "",
+    "SCENARIO": "00000016",
+    "EXPLANATION": "I gotta help Uno-san before I go to the Port of Nagoya. Gotta go to his acupuncture clinic.",
+    "SCENARIO_STATUS": "8016000ffffffffe00160010",
+    "FINISH_FLAG": ""
+  },
+  "234": {
+    "TITLE": "",
+    "SCENARIO": "00000016",
+    "EXPLANATION": "I'll leave Uno-san in Takasugi-san's hands, then head to Warehouse 62 at the Port of Nagoya by taxi.",
+    "SCENARIO_STATUS": "80160010fffffffe00160012",
+    "FINISH_FLAG": ""
+  },
+  "235": {
+    "TITLE": "",
+    "SCENARIO": "00000016",
+    "EXPLANATION": "Milky-chan mentioned Warehouse 62 on the phone. I gotta find it and slip inside.",
+    "SCENARIO_STATUS": "80160012fffffffe00160018",
+    "FINISH_FLAG": ""
+  },
+  "236": {
+    "TITLE": "",
+    "SCENARIO": "00000016",
+    "EXPLANATION": "I don't want to go down like this... Gotta find a way through.",
+    "SCENARIO_STATUS": "80160018fffffffe00160019",
+    "FINISH_FLAG": ""
+  },
+  "237": {
+    "TITLE": "",
+    "SCENARIO": "00000016",
+    "EXPLANATION": "I don't want to go down like this... Gotta find a way through.",
+    "SCENARIO_STATUS": "80160019fffffffe0016001a",
+    "FINISH_FLAG": ""
+  },
+  "238": {
+    "TITLE": "",
+    "SCENARIO": "00000016",
+    "EXPLANATION": "I don't want to go down like this... Gotta find a way through.",
+    "SCENARIO_STATUS": "8016001afffffffe0016001b",
+    "FINISH_FLAG": ""
+  },
+  "239": {
+    "TITLE": "",
+    "SCENARIO": "00000016",
+    "EXPLANATION": "I don't want to go down like this... Gotta find a way through.",
+    "SCENARIO_STATUS": "8016001bfffffffe0016001d",
+    "FINISH_FLAG": ""
+  },
+  "240": {
+    "TITLE": "",
+    "SCENARIO": "00000016",
+    "EXPLANATION": "Sorry, Manabe-san, there's no way I'm giving up now.",
+    "SCENARIO_STATUS": "8016001dfffffffe00160020",
+    "FINISH_FLAG": ""
+  },
+  "241": {
+    "TITLE": "Part 4, Chapter 4: Fleeting Triumph",
+    "SCENARIO": "00000016",
+    "EXPLANATION": "Part 4, Chapter 3 Complete\nOn to Part 4, Chapter 4",
+    "SCENARIO_STATUS": "80160020fffffffe00170000",
+    "FINISH_FLAG": ""
+  },
+  "242": {
+    "TITLE": "",
+    "SCENARIO": "00000017",
+    "EXPLANATION": "It'll be a while before that guy in the mask shows up. I guess I'll kill some time.",
+    "SCENARIO_STATUS": "80170000fffffffe00170005",
+    "FINISH_FLAG": ""
+  },
+  "243": {
+    "TITLE": "",
+    "SCENARIO": "00000017",
+    "EXPLANATION": "That masked guy is at my place already. I'd better head back quick.",
+    "SCENARIO_STATUS": "80170005fffffffe00170007",
+    "FINISH_FLAG": ""
+  },
+  "244": {
+    "TITLE": "",
+    "SCENARIO": "00000017",
+    "EXPLANATION": "If I can't take down Dojima-kun, I don't deserve to join him in Tokyo. I'd better give this everything I've got.",
+    "SCENARIO_STATUS": "80170007fffffffe0017000b",
+    "FINISH_FLAG": ""
+  },
+  "245": {
+    "TITLE": "",
+    "SCENARIO": "00000017",
+    "EXPLANATION": "I don't have to head to Tokyo just yet. This is a good time to tie up any loose ends.",
+    "SCENARIO_STATUS": "8017000bfffffffe0017000f",
+    "FINISH_FLAG": ""
+  },
+  "246": {
+    "TITLE": "",
+    "SCENARIO": "00000017",
+    "EXPLANATION": "If I want to uncover everything that happened 15 years ago, I can't afford to lose here.",
+    "SCENARIO_STATUS": "8017000ffffffffe00170019",
+    "FINISH_FLAG": ""
+  },
+  "247": {
+    "TITLE": "Finale, Chapter 1: A Legend Returns",
+    "SCENARIO": "00000017",
+    "EXPLANATION": "Part 4: Tatsuo Shinada complete\nOn to the Finale",
+    "SCENARIO_STATUS": "80170019fffffffe00180000",
+    "FINISH_FLAG": ""
+  },
+  "248": {
+    "TITLE": "Finale, Chapter 1: A Legend Returns",
+    "SCENARIO": "00000018",
+    "EXPLANATION": "I guess New Serena is my first stop. I hope the mama is there.",
+    "SCENARIO_STATUS": "80180000fffffffe00180008",
+    "FINISH_FLAG": ""
+  },
+  "249": {
+    "TITLE": "",
+    "SCENARIO": "00000018",
+    "EXPLANATION": "I'll head over to Stardust. Kazuki or Yuya might know something.",
+    "SCENARIO_STATUS": "80180008fffffffe0018000c",
+    "FINISH_FLAG": ""
+  },
+  "250": {
+    "TITLE": "",
+    "SCENARIO": "00000018",
+    "EXPLANATION": "Time to lure them to the vacant lot opposite Public Park 3.",
+    "SCENARIO_STATUS": "8018000cfffffffe0018000f",
+    "FINISH_FLAG": ""
+  },
+  "251": {
+    "TITLE": "",
+    "SCENARIO": "00000018",
+    "EXPLANATION": "I can't lose here. This guy has information I need.",
+    "SCENARIO_STATUS": "8018000ffffffffe00180010",
+    "FINISH_FLAG": ""
+  },
+  "252": {
+    "TITLE": "",
+    "SCENARIO": "00000018",
+    "EXPLANATION": "I'll go to New Serena and see what Baba has to say.",
+    "SCENARIO_STATUS": "80180010fffffffe00180012",
+    "FINISH_FLAG": ""
+  },
+  "253": {
+    "TITLE": "",
+    "SCENARIO": "00000018",
+    "EXPLANATION": "Baba is waiting outside New Serena. Once I'm done here, I'd better go hear him out.",
+    "SCENARIO_STATUS": "80180012fffffffe00180015",
+    "FINISH_FLAG": ""
+  },
+  "254": {
+    "TITLE": "",
+    "SCENARIO": "00000018",
+    "EXPLANATION": "Purgatory's my best bet for trackin' down Morinaga. Should be able to get there through the manhole in Children's Park.",
+    "SCENARIO_STATUS": "80180015fffffffe0018001a",
+    "FINISH_FLAG": ""
+  },
+  "255": {
+    "TITLE": "",
+    "SCENARIO": "00000018",
+    "EXPLANATION": "I can get to Purgatory through the sewers below the manhole in Children's Park.",
+    "SCENARIO_STATUS": "8018001afffffffe0018001b",
+    "FINISH_FLAG": ""
+  },
+  "256": {
+    "TITLE": "",
+    "SCENARIO": "00000018",
+    "EXPLANATION": "Purgatory hasn't changed a bit. The Florist should still be through the big doors at the end.",
+    "SCENARIO_STATUS": "8018001bfffffffe0018001c",
+    "FINISH_FLAG": ""
+  },
+  "257": {
+    "TITLE": "",
+    "SCENARIO": "00000018",
+    "EXPLANATION": "He said to come to the Underground Coliseum. I think it was in the middle of Purgatory, right? Better get a move on.",
+    "SCENARIO_STATUS": "8018001cfffffffe0018001d",
+    "FINISH_FLAG": ""
+  },
+  "258": {
+    "TITLE": "",
+    "SCENARIO": "00000018",
+    "EXPLANATION": "This guy needs a tune-up. Time to take the gloves off and show him what really matters.",
+    "SCENARIO_STATUS": "8018001dfffffffe00180023",
+    "FINISH_FLAG": ""
+  },
+  "259": {
+    "TITLE": "Finale, Chapter 2: A Hidden Past",
+    "SCENARIO": "00000018",
+    "EXPLANATION": "Finale Chapter 1 Complete\nOn to Finale Chapter 2",
+    "SCENARIO_STATUS": "80180023fffffffe00190000",
+    "FINISH_FLAG": ""
+  },
+  "260": {
+    "TITLE": "",
+    "SCENARIO": "00000019",
+    "EXPLANATION": "I guess I'll have to head back to Sky Finance and regroup.",
+    "SCENARIO_STATUS": "80190000fffffffe0019000e",
+    "FINISH_FLAG": ""
+  },
+  "261": {
+    "TITLE": "",
+    "SCENARIO": "00000019",
+    "EXPLANATION": "I'll have to see if the homeless around here can help me track down this event planner.",
+    "SCENARIO_STATUS": "8019000efffffffe00190012",
+    "FINISH_FLAG": ""
+  },
+  "262": {
+    "TITLE": "",
+    "SCENARIO": "00000019",
+    "EXPLANATION": "I have to find this event planner first. I guess I'll start by asking the homeless guys Akiyama-san mentioned.",
+    "SCENARIO_STATUS": "8019000efffffffe00190012fffffffe80000009",
+    "FINISH_FLAG": ""
+  },
+  "263": {
+    "TITLE": "",
+    "SCENARIO": "00000019",
+    "EXPLANATION": "I should stop by a convenience store and pick up some liquor as a gift.",
+    "SCENARIO_STATUS": "80190012fffffffe00190013",
+    "FINISH_FLAG": ""
+  },
+  "264": {
+    "TITLE": "",
+    "SCENARIO": "00000019",
+    "EXPLANATION": "I was supposed to stop by a convenience store and get some liquor as a gift.",
+    "SCENARIO_STATUS": "80190012fffffffe00190013fffffffe80000009",
+    "FINISH_FLAG": ""
+  },
+  "265": {
+    "TITLE": "",
+    "SCENARIO": "00000019",
+    "EXPLANATION": "The Hotel District is probably a good place to look. If I wander around, I'll probably run into someone.",
+    "SCENARIO_STATUS": "80190013fffffffe00190014",
+    "FINISH_FLAG": ""
+  },
+  "266": {
+    "TITLE": "",
+    "SCENARIO": "00000019",
+    "EXPLANATION": "Apparently a lot of homeless folks hang out around the Hotel District. That's where I should look.",
+    "SCENARIO_STATUS": "80190013fffffffe00190014fffffffe80000009",
+    "FINISH_FLAG": ""
+  },
+  "267": {
+    "TITLE": "",
+    "SCENARIO": "00000019",
+    "EXPLANATION": "I guess I'll wait until I hear something.",
+    "SCENARIO_STATUS": "80190014fffffffe00190015",
+    "FINISH_FLAG": ""
+  },
+  "268": {
+    "TITLE": "",
+    "SCENARIO": "00000019",
+    "EXPLANATION": "Looks like I'll have to wait until I hear back.",
+    "SCENARIO_STATUS": "80190014fffffffe00190015fffffffe80000009",
+    "FINISH_FLAG": ""
+  },
+  "269": {
+    "TITLE": "",
+    "SCENARIO": "00000019",
+    "EXPLANATION": "The building next to MEB on Shichifuku Street, huh? Let's take a look.",
+    "SCENARIO_STATUS": "80190015fffffffe00190018",
+    "FINISH_FLAG": ""
+  },
+  "270": {
+    "TITLE": "",
+    "SCENARIO": "00000019",
+    "EXPLANATION": "It was the building next to MEB on Shichifuku Street. I'll head there now.",
+    "SCENARIO_STATUS": "80190015fffffffe00190018fffffffe80000009",
+    "FINISH_FLAG": ""
+  },
+  "271": {
+    "TITLE": "",
+    "SCENARIO": "00000019",
+    "EXPLANATION": "What's up with these guys? Well, this is the building where MAO Inc. is, all right.",
+    "SCENARIO_STATUS": "80190018fffffffe0019001c",
+    "FINISH_FLAG": ""
+  },
+  "272": {
+    "TITLE": "",
+    "SCENARIO": "00000019",
+    "EXPLANATION": "What's going on here? In any case, this is the building where MAO Inc. is!",
+    "SCENARIO_STATUS": "80190018fffffffe0019001cfffffffe80000009",
+    "FINISH_FLAG": ""
+  },
+  "273": {
+    "TITLE": "Finale, Chapter 3: The Survivors",
+    "SCENARIO": "00000019",
+    "EXPLANATION": "Finale Chapter 2 Complete\nOn to Finale Chapter 3",
+    "SCENARIO_STATUS": "8019001cfffffffe001a0000",
+    "FINISH_FLAG": ""
+  },
+  "274": {
+    "TITLE": "",
+    "SCENARIO": "0000001a",
+    "EXPLANATION": "Katsuya is in Kamurocho Hills. Once everything's in order, it's time to make a move.",
+    "SCENARIO_STATUS": "801a0000fffffffe001a0009fffffffe80000006",
+    "FINISH_FLAG": ""
+  },
+  "275": {
+    "TITLE": "",
+    "SCENARIO": "0000001a",
+    "EXPLANATION": "That Katsuya guy is in Kamurocho Hills. Better get ready, then get going.",
+    "SCENARIO_STATUS": "801a0000fffffffe001a0009fffffffe80000008",
+    "FINISH_FLAG": ""
+  },
+  "276": {
+    "TITLE": "",
+    "SCENARIO": "0000001a",
+    "EXPLANATION": "I've got to fight my way through to get to Katsuya.",
+    "SCENARIO_STATUS": "801a0009fffffffe001a000ffffffffe80000006",
+    "FINISH_FLAG": ""
+  },
+  "277": {
+    "TITLE": "",
+    "SCENARIO": "0000001a",
+    "EXPLANATION": "I've gotta break through to get to Katsuya. Failure isn't an option.",
+    "SCENARIO_STATUS": "801a0009fffffffe001a000ffffffffe80000008",
+    "FINISH_FLAG": ""
+  },
+  "278": {
+    "TITLE": "",
+    "SCENARIO": "0000001a",
+    "EXPLANATION": "Looks like I have to get through this to find out what I need to know.",
+    "SCENARIO_STATUS": "801a0010fffffffe001a0012",
+    "FINISH_FLAG": ""
+  },
+  "279": {
+    "TITLE": "",
+    "SCENARIO": "0000001a",
+    "EXPLANATION": "It ain't my day to die! I'm not goin' down 'til I get to the truth!",
+    "SCENARIO_STATUS": "801a0012fffffffe001a0014",
+    "FINISH_FLAG": ""
+  },
+  "280": {
+    "TITLE": "",
+    "SCENARIO": "0000001a",
+    "EXPLANATION": "Never thought I'd have to go up against Saejima, but I'm not pulling any punches!",
+    "SCENARIO_STATUS": "801a0015fffffffe001a001d",
+    "FINISH_FLAG": ""
+  },
+  "281": {
+    "TITLE": "",
+    "SCENARIO": "0000001a",
+    "EXPLANATION": "Goin' up against Kiryu wasn't in the plan, but this's gonna be a hell of a fight!",
+    "SCENARIO_STATUS": "801a0016fffffffe001a001d",
+    "FINISH_FLAG": ""
+  },
+  "282": {
+    "TITLE": "Finale, Chapter 4: Crossroads",
+    "SCENARIO": "0000001a",
+    "EXPLANATION": "Finale Chapter 3 Complete\nOn to Finale Chapter 4",
+    "SCENARIO_STATUS": "801a001dfffffffe001b0000",
+    "FINISH_FLAG": ""
+  },
+  "283": {
+    "TITLE": "",
+    "SCENARIO": "0000001b",
+    "EXPLANATION": "He said he'd be waiting at Public Park 3. I wonder what the message is?",
+    "SCENARIO_STATUS": "801b0000fffffffe001b000d",
+    "FINISH_FLAG": ""
+  },
+  "284": {
+    "TITLE": "",
+    "SCENARIO": "0000001b",
+    "EXPLANATION": "Once I go back to training, I won't have another chance to get away before the concert. I should take care of anything else now.",
+    "SCENARIO_STATUS": "801b000dfffffffe001b000f",
+    "FINISH_FLAG": ""
+  },
+  "285": {
+    "TITLE": "",
+    "SCENARIO": "0000001b",
+    "EXPLANATION": "So Kiryu went up to the roof? Gotta catch up and talk.",
+    "SCENARIO_STATUS": "801b000ffffffffe001b0019",
+    "FINISH_FLAG": ""
+  },
+  "286": {
+    "TITLE": "",
+    "SCENARIO": "0000001b",
+    "EXPLANATION": "Guess I made everyone worry. I should head back to New Serena.",
+    "SCENARIO_STATUS": "801b0019fffffffe001b001d",
+    "FINISH_FLAG": ""
+  },
+  "287": {
+    "TITLE": "Finale, Final Chapter: Dreams Fulfilled",
+    "SCENARIO": "0000001b",
+    "EXPLANATION": "Finale Chapter 4 complete\nOn to Finale Final Chapter",
+    "SCENARIO_STATUS": "801b001dfffffffe001c0000",
+    "FINISH_FLAG": ""
+  },
+  "288": {
+    "TITLE": "",
+    "SCENARIO": "0000001c",
+    "EXPLANATION": "I better finish up anything else I have left to do before tomorrow evening.",
+    "SCENARIO_STATUS": "801c0000fffffffe001c0004fffffffe80000006",
+    "FINISH_FLAG": ""
+  },
+  "289": {
+    "TITLE": "",
+    "SCENARIO": "0000001c",
+    "EXPLANATION": "Better tie up any loose ends before tomorrow evening.",
+    "SCENARIO_STATUS": "801c0000fffffffe001c0004fffffffe80000008",
+    "FINISH_FLAG": ""
+  },
+  "290": {
+    "TITLE": "",
+    "SCENARIO": "0000001c",
+    "EXPLANATION": "Didn't I have some unfinished business? I'd better get it done before tomorrow evening.",
+    "SCENARIO_STATUS": "801c0000fffffffe001c0004fffffffe80000007",
+    "FINISH_FLAG": ""
+  },
+  "291": {
+    "TITLE": "",
+    "SCENARIO": "0000001c",
+    "EXPLANATION": "I've got until tomorrow night. If there's anything left to do, I'd better do it now.",
+    "SCENARIO_STATUS": "801c0000fffffffe001c0004fffffffe80000009",
+    "FINISH_FLAG": ""
+  },
+  "292": {
+    "TITLE": "",
+    "SCENARIO": "0000001c",
+    "EXPLANATION": "I better finish up anything else I have left to do before this evening.",
+    "SCENARIO_STATUS": "801c0004fffffffe001c0005fffffffe80000006",
+    "FINISH_FLAG": ""
+  },
+  "293": {
+    "TITLE": "",
+    "SCENARIO": "0000001c",
+    "EXPLANATION": "Better tie up any loose ends before this evening.",
+    "SCENARIO_STATUS": "801c0004fffffffe001c0005fffffffe80000008",
+    "FINISH_FLAG": ""
+  },
+  "294": {
+    "TITLE": "",
+    "SCENARIO": "0000001c",
+    "EXPLANATION": "I'd better get any unfinished business done before this evening.",
+    "SCENARIO_STATUS": "801c0004fffffffe001c0005fffffffe80000007",
+    "FINISH_FLAG": ""
+  },
+  "295": {
+    "TITLE": "",
+    "SCENARIO": "0000001c",
+    "EXPLANATION": "Tonight's the night. If there's anything left to do, I'd better do it now.",
+    "SCENARIO_STATUS": "801c0004fffffffe001c0005fffffffe80000009",
+    "FINISH_FLAG": ""
+  },
+  "296": {
+    "TITLE": "",
+    "SCENARIO": "0000001c",
+    "EXPLANATION": "I should join everyone back at New Serena once I'm ready.",
+    "SCENARIO_STATUS": "801c0005fffffffe001c0006fffffffe80000006",
+    "FINISH_FLAG": ""
+  },
+  "297": {
+    "TITLE": "",
+    "SCENARIO": "0000001c",
+    "EXPLANATION": "Guess I'll join everyone back at New Serena when I'm finished getting ready.",
+    "SCENARIO_STATUS": "801c0005fffffffe001c0006fffffffe80000008",
+    "FINISH_FLAG": ""
+  },
+  "298": {
+    "TITLE": "",
+    "SCENARIO": "0000001c",
+    "EXPLANATION": "I'll join everyone back at New Serena once I'm ready.",
+    "SCENARIO_STATUS": "801c0005fffffffe001c0006fffffffe80000007",
+    "FINISH_FLAG": ""
+  },
+  "299": {
+    "TITLE": "",
+    "SCENARIO": "0000001c",
+    "EXPLANATION": "I better join everyone back at New Serena when I'm ready.",
+    "SCENARIO_STATUS": "801c0005fffffffe001c0006fffffffe80000009",
+    "FINISH_FLAG": ""
+  },
+  "300": {
+    "TITLE": "",
+    "SCENARIO": "0000001c",
+    "EXPLANATION": "I'm not letting anyone stop me here!",
+    "SCENARIO_STATUS": "801c0006fffffffe001c000cfffffffe80000006",
+    "FINISH_FLAG": ""
+  },
+  "301": {
+    "TITLE": "",
+    "SCENARIO": "0000001c",
+    "EXPLANATION": "No way I'm going out like this!",
+    "SCENARIO_STATUS": "801c0006fffffffe001c000cfffffffe80000007",
+    "FINISH_FLAG": ""
+  },
+  "302": {
+    "TITLE": "",
+    "SCENARIO": "0000001c",
+    "EXPLANATION": "I'm not letting anything stand in my way. They're going down!",
+    "SCENARIO_STATUS": "801c000cfffffffe001c0012fffffffe80000008",
+    "FINISH_FLAG": ""
+  },
+  "303": {
+    "TITLE": "",
+    "SCENARIO": "0000001c",
+    "EXPLANATION": "Damn, where'd they all come from!? Time to give these guys a thrashing!",
+    "SCENARIO_STATUS": "801c000cfffffffe001c0012fffffffe80000009",
+    "FINISH_FLAG": ""
+  },
+  "304": {
+    "TITLE": "",
+    "SCENARIO": "0000001c",
+    "EXPLANATION": "One-on-one with my sworn brother... Gotta give this everything I got!",
+    "SCENARIO_STATUS": "801c0012fffffffe001c0015",
+    "FINISH_FLAG": ""
+  },
+  "305": {
+    "TITLE": "",
+    "SCENARIO": "0000001c",
+    "EXPLANATION": "Let's see if I can knock some sense into you with my fists!",
+    "SCENARIO_STATUS": "801c0015fffffffe001c001a",
+    "FINISH_FLAG": ""
+  },
+  "306": {
+    "TITLE": "",
+    "SCENARIO": "0000001c",
+    "EXPLANATION": "They keep on coming... But there's no way I'm giving up!",
+    "SCENARIO_STATUS": "801c001afffffffe001c001efffffffe80000006",
+    "FINISH_FLAG": ""
+  },
+  "307": {
+    "TITLE": "",
+    "SCENARIO": "0000001c",
+    "EXPLANATION": "There's no end to them. I'm not throwing in the towel though!",
+    "SCENARIO_STATUS": "801c001afffffffe001c001efffffffe80000007",
+    "FINISH_FLAG": ""
+  },
+  "308": {
+    "TITLE": "",
+    "SCENARIO": "0000001c",
+    "EXPLANATION": "This won't end until I settle things with him. This time, I'll put him down for good!",
+    "SCENARIO_STATUS": "801c001efffffffe001c0020",
+    "FINISH_FLAG": ""
+  },
+  "309": {
+    "TITLE": "",
+    "SCENARIO": "0000001c",
+    "EXPLANATION": "This place is a mess. I'd better look inside.",
+    "SCENARIO_STATUS": "801c0020fffffffe001c0026",
+    "FINISH_FLAG": ""
+  },
+  "310": {
+    "TITLE": "",
+    "SCENARIO": "0000001c",
+    "EXPLANATION": "Masato Aizawa. Let's settle this once and for all, just you and me!",
+    "SCENARIO_STATUS": "801c0026fffffffe001c002c",
+    "FINISH_FLAG": ""
+  },
+  "311": {
+    "TITLE": "縲-The End-",
+    "SCENARIO": "ffffffff",
+    "EXPLANATION": "You have completed Yakuza 5. Congratulations!",
+    "SCENARIO_STATUS": "80000000",
+    "FINISH_FLAG": ""
+  },
+  "types": {
+    "TITLE": "string_tbl",
+    "SCENARIO": "special_scenariocategory",
+    "EXPLANATION": "string",
+    "TABAKO_EXPLANATION": "string_idx",
+    "SCENARIO_STATUS": "special_scenariostatus",
+    "FINISH_FLAG": "string_tbl"
+  }
+}

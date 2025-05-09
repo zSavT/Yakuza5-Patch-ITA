@@ -1,0 +1,112 @@
+{
+  "0": {
+    "NAME": "DIFFICULT_EASY_DAMAGE_RATIO",
+    "PARAM": 50,
+    "STRING": ""
+  },
+  "1": {
+    "NAME": "DIFFICULT_HARD_DAMAGE_RATIO",
+    "PARAM": 120,
+    "STRING": ""
+  },
+  "2": {
+    "NAME": "DIFFICULT_EXHARD_DAMAGE_RATIO",
+    "PARAM": 140,
+    "STRING": ""
+  },
+  "3": {
+    "NAME": "DAMAGE_SUBHEAT_RATIO",
+    "PARAM": 20,
+    "STRING": ""
+  },
+  "4": {
+    "NAME": "DAMAGE_ADDHEAT_RATIO",
+    "PARAM": 20,
+    "STRING": ""
+  },
+  "5": {
+    "NAME": "SNOWMOBILE_PERS_BASE",
+    "PARAM": 40,
+    "STRING": ""
+  },
+  "6": {
+    "NAME": "SNOWMOBILE_PERS_SPEED_RATIO",
+    "PARAM": 50,
+    "STRING": ""
+  },
+  "7": {
+    "NAME": "SNOWMOBILE_PERS_SPEED_LIMIT",
+    "PARAM": 35,
+    "STRING": ""
+  },
+  "8": {
+    "NAME": "SNOWMOBILE_PERS_SPEED_MAX",
+    "PARAM": 80,
+    "STRING": ""
+  },
+  "9": {
+    "NAME": "SNOWMOBILE_CAMDIST_BASE",
+    "PARAM": 600,
+    "STRING": ""
+  },
+  "10": {
+    "NAME": "SNOWMOBILE_CAMDIST_MAX",
+    "PARAM": 120,
+    "STRING": ""
+  },
+  "11": {
+    "NAME": "ADV_MOVE_SPEEDUP_SPRING",
+    "PARAM": 10,
+    "STRING": ""
+  },
+  "12": {
+    "NAME": "ADV_MOVE_SPEEDDOWN_SPRING",
+    "PARAM": 40,
+    "STRING": ""
+  },
+  "13": {
+    "NAME": "SNOWMOBILE_LIGHT_INTENSITY",
+    "PARAM": 20,
+    "STRING": ""
+  },
+  "14": {
+    "NAME": "SNOWMOBILE_LIGHT_RANGE",
+    "PARAM": 15,
+    "STRING": ""
+  },
+  "15": {
+    "NAME": "SNOWMOBILE_LIGHT_OFFSET_Y",
+    "PARAM": 10,
+    "STRING": ""
+  },
+  "16": {
+    "NAME": "STANDUP_COUNT",
+    "PARAM": 5,
+    "STRING": ""
+  },
+  "17": {
+    "NAME": "SPMODE_HEAT_DOWN_KIRYU",
+    "PARAM": 30,
+    "STRING": ""
+  },
+  "18": {
+    "NAME": "SPMODE_HEAT_DOWN_AKIYAMA",
+    "PARAM": 60,
+    "STRING": ""
+  },
+  "19": {
+    "NAME": "SPMODE_HEAT_DOWN_SHINADA",
+    "PARAM": 60,
+    "STRING": ""
+  },
+  "20": {
+    "NAME": "SPMODE_HEAT_DOWN_SHINADA_UP",
+    "PARAM": 45,
+    "STRING": ""
+  },
+  "types": {
+    "NAME": "string",
+    "PARAM": "special_value",
+    "STRING": "string"
+  }
+}

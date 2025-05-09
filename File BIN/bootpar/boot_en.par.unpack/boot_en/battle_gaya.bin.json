@@ -1,0 +1,32 @@
+{
+  "0": {
+    "ID": "praise",
+    "BattleCondition": "player_down",
+    "GayaVoiceLabel": "btl_praise"
+  },
+  "1": {
+    "ID": "booing",
+    "BattleCondition": "enemy_down",
+    "GayaVoiceLabel": "btl_booing"
+  },
+  "2": {
+    "ID": "surprise",
+    "BattleCondition": "enemy_down",
+    "GayaVoiceLabel": "btl_surprise"
+  },
+  "3": {
+    "ID": "worry",
+    "BattleCondition": "enemy_down",
+    "GayaVoiceLabel": "btl_worry"
+  },
+  "4": {
+    "ID": "speech",
+    "BattleCondition": "enemy_down",
+    "GayaVoiceLabel": "btl_speech"
+  },
+  "types": {
+    "ID": "string",
+    "BattleCondition": "string_tbl",
+    "GayaVoiceLabel": "string"
+  }
+}
