@@ -1,3 +1,6 @@
 [submodule "PAR"]
 	path = PAR
 	url = https://github.com/Kaplas80/ParManager
+[submodule "traduttore_auto_csv/Alumen"]
+	path = traduttore_auto_csv/Alumen
+	url = https://github.com/zSavT/Alumen.git
