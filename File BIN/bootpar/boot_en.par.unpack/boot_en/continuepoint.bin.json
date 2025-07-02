@@ -1,0 +1,58 @@
+{
+  "0": {
+    "CHAPTER": "繝�繧ｹ繝�",
+    "SCENARIO": "縺ｦ縺吶→繧上ｓ縺�繧峨�ｼ驛ｨ螻�(縺励☆縺ｦ繧�ｼ�",
+    "NAME": "Test  "
+  },
+  "1": {
+    "CHAPTER": "隨ｬ荳驛ｨ繝ｻ荳臥ｫ�",
+    "SCENARIO": "繧ｪ繝ｪ繝薙お蠎怜燕",
+    "NAME": "Load Last Nagasugai Save  "
+  },
+  "2": {
+    "CHAPTER": "隨ｬ荳驛ｨ繝ｻ蝗帷ｫ�",
+    "SCENARIO": "蜈ｫ蟷｡縺ｮ驛ｨ荳毅TL_03蠕�",
+    "NAME": "Load Last Nagasugai Save  "
+  },
+  "3": {
+    "CHAPTER": "隨ｬ荳驛ｨ繝ｻ蝗帷ｫ�",
+    "SCENARIO": "繧｢繧ｸ繝医〒蜈ｫ蟷｡縺ｨ莨夊ｩｱ",
+    "NAME": "Load Last Nagasugai Save  "
+  },
+  "4": {
+    "CHAPTER": "隨ｬ莠碁Κ繝ｻ蝗帷ｫ�",
+    "SCENARIO": "蛹玲婿邨�邨�蜩｡BTL蠕�",
+    "NAME": "Load Last Tsukimino Save  "
+  },
+  "5": {
+    "CHAPTER": "隨ｬ荳蛾Κ繝ｻ蝗帷ｫ�",
+    "SCENARIO": "騾｢蝮り�域･ｭ縺ｸ蜷代°縺�",
+    "NAME": "Load Last Sotenbori Save  "
+  },
+  "6": {
+    "CHAPTER": "隨ｬ荳蛾Κ繝ｻ蝗帷ｫ�",
+    "SCENARIO": "譁ｰ螟ｧ髦ｪ縺ｸ蜷代°縺�",
+    "NAME": "Load Last Sotenbori Save  "
+  },
+  "7": {
+    "CHAPTER": "隨ｬ蝗幃Κ繝ｻ荳臥ｫ�",
+    "SCENARIO": "迚帛ｳｶ縺ｧ莨夊ｩｱ蠕�",
+    "NAME": "Load Last Kineicho Save  "
+  },
+  "8": {
+    "CHAPTER": "隨ｬ莠秘Κ繝ｻ荳臥ｫ�",
+    "SCENARIO": "繧ｻ繝ｬ繝翫°繧臥･槫ｮ､繝偵Ν繧ｺ縺ｸ",
+    "NAME": "Load Last Kamurocho Save  "
+  },
+  "9": {
+    "CHAPTER": "隨ｬ莠秘Κ繝ｻ譛邨らｫ�",
+    "SCENARIO": "繝ｩ繧ｹ繝�ADV",
+    "NAME": "Load Last New Serena Save  "
+  },
+  "types": {
+    "CHAPTER": "string_idx",
+    "SCENARIO": "string_idx",
+    "NAME": "string_idx",
+    "COMMENT": "comment"
+  }
+}

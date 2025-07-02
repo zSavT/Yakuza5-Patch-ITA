@@ -1,0 +1,39 @@
+{
+  "0": {
+    "ID\u0000string]": "rival0_hello",
+    "ポップアップ\u0000string]": "hello"
+  },
+  "1": {
+    "ID\u0000string]": "rival0_goodbye",
+    "ポップアップ\u0000string]": "さようなら"
+  },
+  "2": {
+    "ID\u0000string]": "rival0_start",
+    "ポップアップ\u0000string]": "頑張ります"
+  },
+  "3": {
+    "ID\u0000string]": "rival0_win",
+    "ポップアップ\u0000string]": "勝ちました"
+  },
+  "4": {
+    "ID\u0000string]": "rival0_lose",
+    "ポップアップ\u0000string]": "負けました"
+  },
+  "5": {
+    "ID\u0000string]": "rival0_dealer_throw",
+    "ポップアップ\u0000string]": "dealer_throw"
+  },
+  "6": {
+    "ID\u0000string]": "rival0_bet",
+    "ポップアップ\u0000string]": "bet"
+  },
+  "7": {
+    "ID\u0000string]": "rival0_bet_finish",
+    "ポップアップ\u0000string]": "bet_finish"
+  },
+  "types": {
+    "ID\u0000string]": "string",
+    "ポップアップ\u0000string]": "string",
+    "サウンドID\u0000string]": "string_idx"
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "0": {
+    "ROBJID": "REHSP0010",
+    "LEVEL": 1,
+    "LIMIT_ANGLE": 180,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 40,
+    "SCENE_ID": "",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "1": {
+    "ROBJID": "REHSP0015",
+    "LEVEL": 1,
+    "LIMIT_ANGLE": 180,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 40,
+    "SCENE_ID": "",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "2": {
+    "ROBJID": "REHSP0016",
+    "LEVEL": 1,
+    "LIMIT_ANGLE": 180,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 40,
+    "SCENE_ID": "",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "3": {
+    "ROBJID": "REHSP0030",
+    "LEVEL": 3,
+    "LIMIT_ANGLE": 180,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 40,
+    "SCENE_ID": "",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "4": {
+    "ROBJID": "REHSP0040",
+    "LEVEL": 1,
+    "LIMIT_ANGLE": 180,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 40,
+    "SCENE_ID": "",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "5": {
+    "ROBJID": "REHSP0045",
+    "LEVEL": 1,
+    "LIMIT_ANGLE": 180,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 40,
+    "SCENE_ID": "",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "6": {
+    "ROBJID": "REHSP0060",
+    "LEVEL": 1,
+    "LIMIT_ANGLE": 180,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 40,
+    "SCENE_ID": "",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "7": {
+    "ROBJID": "REHSP0070",
+    "LEVEL": 1,
+    "LIMIT_ANGLE": 180,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 40,
+    "SCENE_ID": "",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "8": {
+    "ROBJID": "REHSP0080",
+    "LEVEL": 1,
+    "LIMIT_ANGLE": 360,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 40,
+    "SCENE_ID": "",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "9": {
+    "ROBJID": "REHSP0082",
+    "LEVEL": 1,
+    "LIMIT_ANGLE": 360,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 40,
+    "SCENE_ID": "",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "10": {
+    "ROBJID": "REHSP0090",
+    "LEVEL": 1,
+    "LIMIT_ANGLE": 180,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 40,
+    "SCENE_ID": "",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "11": {
+    "ROBJID": "WEHSP0000",
+    "LEVEL": 2,
+    "LIMIT_ANGLE": 360,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 40,
+    "SCENE_ID": "cam1",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "12": {
+    "ROBJID": "WEHSP0020",
+    "LEVEL": 2,
+    "LIMIT_ANGLE": 360,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 40,
+    "SCENE_ID": "",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "13": {
+    "ROBJID": "WEHSP0050",
+    "LEVEL": 1,
+    "LIMIT_ANGLE": 360,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 40,
+    "SCENE_ID": "cam2",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "14": {
+    "ROBJID": "WETHR0010",
+    "LEVEL": 2,
+    "LIMIT_ANGLE": 360,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 40,
+    "SCENE_ID": "",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "15": {
+    "ROBJID": "WETHR0020",
+    "LEVEL": 2,
+    "LIMIT_ANGLE": 360,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 40,
+    "SCENE_ID": "",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "16": {
+    "ROBJID": "WETHR0030",
+    "LEVEL": 2,
+    "LIMIT_ANGLE": 360,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 40,
+    "SCENE_ID": "",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "17": {
+    "ROBJID": "WETHR0040",
+    "LEVEL": 2,
+    "LIMIT_ANGLE": 360,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 40,
+    "SCENE_ID": "",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "18": {
+    "ROBJID": "WETHR0070",
+    "LEVEL": 1,
+    "LIMIT_ANGLE": 360,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 40,
+    "SCENE_ID": "cam2",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "19": {
+    "ROBJID": "CRUSHER",
+    "LEVEL": 1,
+    "LIMIT_ANGLE": 180,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 10,
+    "SCENE_ID": "cam0",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "20": {
+    "ROBJID": "JUMPER",
+    "LEVEL": 1,
+    "LIMIT_ANGLE": 180,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 10,
+    "SCENE_ID": "cam0",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "21": {
+    "ROBJID": "DEFENDER",
+    "LEVEL": 3,
+    "LIMIT_ANGLE": 180,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 10,
+    "SCENE_ID": "cam0",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "22": {
+    "ROBJID": "DEMON",
+    "LEVEL": 3,
+    "LIMIT_ANGLE": 180,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 10,
+    "SCENE_ID": "cam0",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "23": {
+    "ROBJID": "NIKAIDO2",
+    "LEVEL": 1,
+    "LIMIT_ANGLE": 360,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 100,
+    "SCENE_ID": "E0530_NK2_SNP2_SHIRAHADORI",
+    "SCENARIO_FLAG": "ffffffff"
+  },
+  "24": {
+    "ROBJID": "ZOMBIE_THR",
+    "LEVEL": 2,
+    "LIMIT_ANGLE": 360,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 40,
+    "SCENE_ID": "",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "25": {
+    "ROBJID": "2-Oct",
+    "LEVEL": 1,
+    "LIMIT_ANGLE": 360,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 40,
+    "SCENE_ID": "E0290_OCT_SNP",
+    "SCENARIO_FLAG": "ffffffff"
+  },
+  "26": {
+    "ROBJID": "CRUSHER",
+    "LEVEL": 100,
+    "LIMIT_ANGLE": 0,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 0,
+    "SCENE_ID": "",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "27": {
+    "ROBJID": "JUMPER",
+    "LEVEL": 100,
+    "LIMIT_ANGLE": 0,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 0,
+    "SCENE_ID": "",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "28": {
+    "ROBJID": "DEFENDER",
+    "LEVEL": 100,
+    "LIMIT_ANGLE": 0,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 0,
+    "SCENE_ID": "",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "29": {
+    "ROBJID": "DEMON",
+    "LEVEL": 100,
+    "LIMIT_ANGLE": 0,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 0,
+    "SCENE_ID": "",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "30": {
+    "ROBJID": "SCENE",
+    "LEVEL": 0,
+    "LIMIT_ANGLE": 0,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 0,
+    "SCENE_ID": "SXXXX_TOUTEKI_NPC",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "31": {
+    "ROBJID": "SCENE",
+    "LEVEL": 0,
+    "LIMIT_ANGLE": 0,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 0,
+    "SCENE_ID": "S1450_CAR_EXP_A",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "32": {
+    "ROBJID": "SCENE",
+    "LEVEL": 0,
+    "LIMIT_ANGLE": 0,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 0,
+    "SCENE_ID": "S1451_CAR_EXP_B",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "33": {
+    "ROBJID": "SCENE",
+    "LEVEL": 0,
+    "LIMIT_ANGLE": 0,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 0,
+    "SCENE_ID": "S1452_CAR_EXP_C",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "34": {
+    "ROBJID": "SCENE",
+    "LEVEL": 0,
+    "LIMIT_ANGLE": 0,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 0,
+    "SCENE_ID": "S1453_CAR_EXP_D",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "35": {
+    "ROBJID": "SCENE",
+    "LEVEL": 0,
+    "LIMIT_ANGLE": 0,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 0,
+    "SCENE_ID": "S1454_CAR_EXP_E",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "36": {
+    "ROBJID": "SCENE",
+    "LEVEL": 0,
+    "LIMIT_ANGLE": 0,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 0,
+    "SCENE_ID": "SXXXX_360",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "37": {
+    "ROBJID": "SCENE",
+    "LEVEL": 0,
+    "LIMIT_ANGLE": 0,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 0,
+    "SCENE_ID": "SXXXX_NPC_01",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "38": {
+    "ROBJID": "URAGAN",
+    "LEVEL": 1,
+    "LIMIT_ANGLE": 180,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 40,
+    "SCENE_ID": "",
+    "SCENARIO_FLAG": "ffffffff"
+  },
+  "39": {
+    "ROBJID": "WECHI5001",
+    "LEVEL": 3,
+    "LIMIT_ANGLE": 360,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 40,
+    "SCENE_ID": "",
+    "SCENARIO_FLAG": "ffffffff"
+  },
+  "40": {
+    "ROBJID": "AMON",
+    "LEVEL": 3,
+    "LIMIT_ANGLE": 120,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 60,
+    "SCENE_ID": "cam0",
+    "SCENARIO_FLAG": "ffffffff"
+  },
+  "41": {
+    "ROBJID": "AMON_ZOMBIE",
+    "LEVEL": 3,
+    "LIMIT_ANGLE": 120,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 60,
+    "SCENE_ID": "cam0",
+    "SCENARIO_FLAG": "ffffffff"
+  },
+  "42": {
+    "ROBJID": "WENAS8100",
+    "LEVEL": 2,
+    "LIMIT_ANGLE": 360,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 40,
+    "SCENE_ID": "",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "43": {
+    "ROBJID": "WENAS8110",
+    "LEVEL": 2,
+    "LIMIT_ANGLE": 360,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 40,
+    "SCENE_ID": "",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "44": {
+    "ROBJID": "ZOMBIE_THR",
+    "LEVEL": 100,
+    "LIMIT_ANGLE": 0,
+    "LIMIT_DIST_MIN": 0,
+    "LIMIT_DIST_MAX": 0,
+    "SCENE_ID": "",
+    "SCENARIO_FLAG": "01080000"
+  },
+  "types": {
+    "ROBJID": "string",
+    "LEVEL": "special_value",
+    "LIMIT_ANGLE": "special_value",
+    "LIMIT_DIST_MIN": "special_value",
+    "LIMIT_DIST_MAX": "special_value",
+    "SCENE_ID": "string",
+    "SCENARIO_FLAG": "special_scenariocompare"
+  }
+}
