@@ -1,0 +1,680 @@
+{
+  "0": {
+    "SCENARIO_STATUS": "80000000",
+    "WHO": "譯千函",
+    "CONDITION": "豁ｩ縺�",
+    "VALUE": "0"
+  },
+  "1": {
+    "SCENARIO_STATUS": "80000000",
+    "WHO": "譯千函",
+    "CONDITION": "襍ｰ繧�",
+    "VALUE": "-3"
+  },
+  "2": {
+    "SCENARIO_STATUS": "80000000",
+    "WHO": "譯千函",
+    "CONDITION": "繝繝�繧ｷ繝･",
+    "VALUE": "-7"
+  },
+  "3": {
+    "SCENARIO_STATUS": "80000000",
+    "WHO": "譯千函",
+    "CONDITION": "陦晉ｪ√ム繝�繧ｷ繝･",
+    "VALUE": "-3000"
+  },
+  "4": {
+    "SCENARIO_STATUS": "80000000",
+    "WHO": "譯千函",
+    "CONDITION": "陦晉ｪ∬ｵｰ繧�",
+    "VALUE": "0"
+  },
+  "5": {
+    "SCENARIO_STATUS": "80000000",
+    "WHO": "譯千函",
+    "CONDITION": "陦晉ｪ∵ｭｩ縺�",
+    "VALUE": "0"
+  },
+  "6": {
+    "SCENARIO_STATUS": "80000000",
+    "WHO": "譯千函",
+    "CONDITION": "繧ｸ繝｣繝ｳ繝怜､ｱ謨�",
+    "VALUE": "-1500"
+  },
+  "7": {
+    "SCENARIO_STATUS": "80000000",
+    "WHO": "譯千函",
+    "CONDITION": "髮｢繧後☆縺�",
+    "VALUE": "-100000"
+  },
+  "8": {
+    "SCENARIO_STATUS": "80000000",
+    "WHO": "謨ｵ",
+    "CONDITION": "豁ｩ縺�",
+    "VALUE": "0"
+  },
+  "9": {
+    "SCENARIO_STATUS": "80000000",
+    "WHO": "謨ｵ",
+    "CONDITION": "襍ｰ繧�",
+    "VALUE": "0"
+  },
+  "10": {
+    "SCENARIO_STATUS": "80000000",
+    "WHO": "謨ｵ",
+    "CONDITION": "繝繝�繧ｷ繝･",
+    "VALUE": "0"
+  },
+  "11": {
+    "SCENARIO_STATUS": "80000000",
+    "WHO": "謨ｵ",
+    "CONDITION": "陦晉ｪ√ム繝�繧ｷ繝･",
+    "VALUE": "-5000"
+  },
+  "12": {
+    "SCENARIO_STATUS": "80000000",
+    "WHO": "謨ｵ",
+    "CONDITION": "陦晉ｪ∬ｵｰ繧�",
+    "VALUE": "0"
+  },
+  "13": {
+    "SCENARIO_STATUS": "80000000",
+    "WHO": "謨ｵ",
+    "CONDITION": "陦晉ｪ∵ｭｩ縺�",
+    "VALUE": "0"
+  },
+  "14": {
+    "SCENARIO_STATUS": "810f0000fffffffe010f0001",
+    "WHO": "譯千函",
+    "CONDITION": "豁ｩ縺�",
+    "VALUE": "0"
+  },
+  "15": {
+    "SCENARIO_STATUS": "810f0000fffffffe010f0001",
+    "WHO": "譯千函",
+    "CONDITION": "襍ｰ繧�",
+    "VALUE": "-3"
+  },
+  "16": {
+    "SCENARIO_STATUS": "810f0000fffffffe010f0001",
+    "WHO": "譯千函",
+    "CONDITION": "繝繝�繧ｷ繝･",
+    "VALUE": "-7"
+  },
+  "17": {
+    "SCENARIO_STATUS": "810f0000fffffffe010f0001",
+    "WHO": "譯千函",
+    "CONDITION": "陦晉ｪ√ム繝�繧ｷ繝･",
+    "VALUE": "-3000"
+  },
+  "18": {
+    "SCENARIO_STATUS": "810f0000fffffffe010f0001",
+    "WHO": "譯千函",
+    "CONDITION": "陦晉ｪ∬ｵｰ繧�",
+    "VALUE": "0"
+  },
+  "19": {
+    "SCENARIO_STATUS": "810f0000fffffffe010f0001",
+    "WHO": "譯千函",
+    "CONDITION": "陦晉ｪ∵ｭｩ縺�",
+    "VALUE": "0"
+  },
+  "20": {
+    "SCENARIO_STATUS": "810f0000fffffffe010f0001",
+    "WHO": "譯千函",
+    "CONDITION": "繧ｸ繝｣繝ｳ繝怜､ｱ謨�",
+    "VALUE": "-1500"
+  },
+  "21": {
+    "SCENARIO_STATUS": "810f0000fffffffe010f0001",
+    "WHO": "譯千函",
+    "CONDITION": "髮｢繧後☆縺�",
+    "VALUE": "-100000"
+  },
+  "22": {
+    "SCENARIO_STATUS": "810f0000fffffffe010f0001",
+    "WHO": "謨ｵ",
+    "CONDITION": "豁ｩ縺�",
+    "VALUE": "0"
+  },
+  "23": {
+    "SCENARIO_STATUS": "810f0000fffffffe010f0001",
+    "WHO": "謨ｵ",
+    "CONDITION": "襍ｰ繧�",
+    "VALUE": "0"
+  },
+  "24": {
+    "SCENARIO_STATUS": "810f0000fffffffe010f0001",
+    "WHO": "謨ｵ",
+    "CONDITION": "繝繝�繧ｷ繝･",
+    "VALUE": "0"
+  },
+  "25": {
+    "SCENARIO_STATUS": "810f0000fffffffe010f0001",
+    "WHO": "謨ｵ",
+    "CONDITION": "陦晉ｪ√ム繝�繧ｷ繝･",
+    "VALUE": "-5000"
+  },
+  "26": {
+    "SCENARIO_STATUS": "810f0000fffffffe010f0001",
+    "WHO": "謨ｵ",
+    "CONDITION": "陦晉ｪ∬ｵｰ繧�",
+    "VALUE": "0"
+  },
+  "27": {
+    "SCENARIO_STATUS": "810f0000fffffffe010f0001",
+    "WHO": "謨ｵ",
+    "CONDITION": "陦晉ｪ∵ｭｩ縺�",
+    "VALUE": "0"
+  },
+  "28": {
+    "SCENARIO_STATUS": "800b0014fffffffe000b0018",
+    "WHO": "譯千函",
+    "CONDITION": "豁ｩ縺�",
+    "VALUE": "0"
+  },
+  "29": {
+    "SCENARIO_STATUS": "800b0014fffffffe000b0018",
+    "WHO": "譯千函",
+    "CONDITION": "襍ｰ繧�",
+    "VALUE": "-3"
+  },
+  "30": {
+    "SCENARIO_STATUS": "800b0014fffffffe000b0018",
+    "WHO": "譯千函",
+    "CONDITION": "繝繝�繧ｷ繝･",
+    "VALUE": "-7"
+  },
+  "31": {
+    "SCENARIO_STATUS": "800b0014fffffffe000b0018",
+    "WHO": "譯千函",
+    "CONDITION": "陦晉ｪ√ム繝�繧ｷ繝･",
+    "VALUE": "-3000"
+  },
+  "32": {
+    "SCENARIO_STATUS": "800b0014fffffffe000b0018",
+    "WHO": "譯千函",
+    "CONDITION": "陦晉ｪ∬ｵｰ繧�",
+    "VALUE": "0"
+  },
+  "33": {
+    "SCENARIO_STATUS": "800b0014fffffffe000b0018",
+    "WHO": "譯千函",
+    "CONDITION": "陦晉ｪ∵ｭｩ縺�",
+    "VALUE": "0"
+  },
+  "34": {
+    "SCENARIO_STATUS": "800b0014fffffffe000b0018",
+    "WHO": "譯千函",
+    "CONDITION": "繧ｸ繝｣繝ｳ繝怜､ｱ謨�",
+    "VALUE": "-1500"
+  },
+  "35": {
+    "SCENARIO_STATUS": "800b0014fffffffe000b0018",
+    "WHO": "譯千函",
+    "CONDITION": "髮｢繧後☆縺�",
+    "VALUE": "-100000"
+  },
+  "36": {
+    "SCENARIO_STATUS": "800b0014fffffffe000b0018",
+    "WHO": "謨ｵ",
+    "CONDITION": "豁ｩ縺�",
+    "VALUE": "0"
+  },
+  "37": {
+    "SCENARIO_STATUS": "800b0014fffffffe000b0018",
+    "WHO": "謨ｵ",
+    "CONDITION": "襍ｰ繧�",
+    "VALUE": "0"
+  },
+  "38": {
+    "SCENARIO_STATUS": "800b0014fffffffe000b0018",
+    "WHO": "謨ｵ",
+    "CONDITION": "繝繝�繧ｷ繝･",
+    "VALUE": "0"
+  },
+  "39": {
+    "SCENARIO_STATUS": "800b0014fffffffe000b0018",
+    "WHO": "謨ｵ",
+    "CONDITION": "陦晉ｪ√ム繝�繧ｷ繝･",
+    "VALUE": "-5000"
+  },
+  "40": {
+    "SCENARIO_STATUS": "800b0014fffffffe000b0018",
+    "WHO": "謨ｵ",
+    "CONDITION": "陦晉ｪ∬ｵｰ繧�",
+    "VALUE": "0"
+  },
+  "41": {
+    "SCENARIO_STATUS": "800b0014fffffffe000b0018",
+    "WHO": "謨ｵ",
+    "CONDITION": "陦晉ｪ∵ｭｩ縺�",
+    "VALUE": "0"
+  },
+  "42": {
+    "SCENARIO_STATUS": "800f003afffffffe000f003d",
+    "WHO": "譯千函",
+    "CONDITION": "豁ｩ縺�",
+    "VALUE": "0"
+  },
+  "43": {
+    "SCENARIO_STATUS": "800f003afffffffe000f003d",
+    "WHO": "譯千函",
+    "CONDITION": "襍ｰ繧�",
+    "VALUE": "-3"
+  },
+  "44": {
+    "SCENARIO_STATUS": "800f003afffffffe000f003d",
+    "WHO": "譯千函",
+    "CONDITION": "繝繝�繧ｷ繝･",
+    "VALUE": "-7"
+  },
+  "45": {
+    "SCENARIO_STATUS": "800f003afffffffe000f003d",
+    "WHO": "譯千函",
+    "CONDITION": "陦晉ｪ√ム繝�繧ｷ繝･",
+    "VALUE": "-3000"
+  },
+  "46": {
+    "SCENARIO_STATUS": "800f003afffffffe000f003d",
+    "WHO": "譯千函",
+    "CONDITION": "陦晉ｪ∬ｵｰ繧�",
+    "VALUE": "0"
+  },
+  "47": {
+    "SCENARIO_STATUS": "800f003afffffffe000f003d",
+    "WHO": "譯千函",
+    "CONDITION": "陦晉ｪ∵ｭｩ縺�",
+    "VALUE": "0"
+  },
+  "48": {
+    "SCENARIO_STATUS": "800f003afffffffe000f003d",
+    "WHO": "譯千函",
+    "CONDITION": "繧ｸ繝｣繝ｳ繝怜､ｱ謨�",
+    "VALUE": "-1500"
+  },
+  "49": {
+    "SCENARIO_STATUS": "800f003afffffffe000f003d",
+    "WHO": "譯千函",
+    "CONDITION": "髮｢繧後☆縺�",
+    "VALUE": "-100000"
+  },
+  "50": {
+    "SCENARIO_STATUS": "800f003afffffffe000f003d",
+    "WHO": "謨ｵ",
+    "CONDITION": "豁ｩ縺�",
+    "VALUE": "0"
+  },
+  "51": {
+    "SCENARIO_STATUS": "800f003afffffffe000f003d",
+    "WHO": "謨ｵ",
+    "CONDITION": "襍ｰ繧�",
+    "VALUE": "0"
+  },
+  "52": {
+    "SCENARIO_STATUS": "800f003afffffffe000f003d",
+    "WHO": "謨ｵ",
+    "CONDITION": "繝繝�繧ｷ繝･",
+    "VALUE": "0"
+  },
+  "53": {
+    "SCENARIO_STATUS": "800f003afffffffe000f003d",
+    "WHO": "謨ｵ",
+    "CONDITION": "陦晉ｪ√ム繝�繧ｷ繝･",
+    "VALUE": "-5000"
+  },
+  "54": {
+    "SCENARIO_STATUS": "800f003afffffffe000f003d",
+    "WHO": "謨ｵ",
+    "CONDITION": "陦晉ｪ∬ｵｰ繧�",
+    "VALUE": "0"
+  },
+  "55": {
+    "SCENARIO_STATUS": "800f003afffffffe000f003d",
+    "WHO": "謨ｵ",
+    "CONDITION": "陦晉ｪ∵ｭｩ縺�",
+    "VALUE": "0"
+  },
+  "56": {
+    "SCENARIO_STATUS": "80150031fffffffe00150032",
+    "WHO": "譯千函",
+    "CONDITION": "豁ｩ縺�",
+    "VALUE": "0"
+  },
+  "57": {
+    "SCENARIO_STATUS": "80150031fffffffe00150032",
+    "WHO": "譯千函",
+    "CONDITION": "襍ｰ繧�",
+    "VALUE": "-3"
+  },
+  "58": {
+    "SCENARIO_STATUS": "80150031fffffffe00150032",
+    "WHO": "譯千函",
+    "CONDITION": "繝繝�繧ｷ繝･",
+    "VALUE": "-7"
+  },
+  "59": {
+    "SCENARIO_STATUS": "80150031fffffffe00150032",
+    "WHO": "譯千函",
+    "CONDITION": "陦晉ｪ√ム繝�繧ｷ繝･",
+    "VALUE": "-3000"
+  },
+  "60": {
+    "SCENARIO_STATUS": "80150031fffffffe00150032",
+    "WHO": "譯千函",
+    "CONDITION": "陦晉ｪ∬ｵｰ繧�",
+    "VALUE": "0"
+  },
+  "61": {
+    "SCENARIO_STATUS": "80150031fffffffe00150032",
+    "WHO": "譯千函",
+    "CONDITION": "陦晉ｪ∵ｭｩ縺�",
+    "VALUE": "0"
+  },
+  "62": {
+    "SCENARIO_STATUS": "80150031fffffffe00150032",
+    "WHO": "譯千函",
+    "CONDITION": "繧ｸ繝｣繝ｳ繝怜､ｱ謨�",
+    "VALUE": "-1500"
+  },
+  "63": {
+    "SCENARIO_STATUS": "80150031fffffffe00150032",
+    "WHO": "譯千函",
+    "CONDITION": "髮｢繧後☆縺�",
+    "VALUE": "-100000"
+  },
+  "64": {
+    "SCENARIO_STATUS": "80150031fffffffe00150032",
+    "WHO": "謨ｵ",
+    "CONDITION": "豁ｩ縺�",
+    "VALUE": "0"
+  },
+  "65": {
+    "SCENARIO_STATUS": "80150031fffffffe00150032",
+    "WHO": "謨ｵ",
+    "CONDITION": "襍ｰ繧�",
+    "VALUE": "0"
+  },
+  "66": {
+    "SCENARIO_STATUS": "80150031fffffffe00150032",
+    "WHO": "謨ｵ",
+    "CONDITION": "繝繝�繧ｷ繝･",
+    "VALUE": "0"
+  },
+  "67": {
+    "SCENARIO_STATUS": "80150031fffffffe00150032",
+    "WHO": "謨ｵ",
+    "CONDITION": "陦晉ｪ√ム繝�繧ｷ繝･",
+    "VALUE": "-5000"
+  },
+  "68": {
+    "SCENARIO_STATUS": "80150031fffffffe00150032",
+    "WHO": "謨ｵ",
+    "CONDITION": "陦晉ｪ∬ｵｰ繧�",
+    "VALUE": "0"
+  },
+  "69": {
+    "SCENARIO_STATUS": "80150031fffffffe00150032",
+    "WHO": "謨ｵ",
+    "CONDITION": "陦晉ｪ∵ｭｩ縺�",
+    "VALUE": "0"
+  },
+  "70": {
+    "SCENARIO_STATUS": "8016001afffffffe0016001b",
+    "WHO": "譯千函",
+    "CONDITION": "豁ｩ縺�",
+    "VALUE": "0"
+  },
+  "71": {
+    "SCENARIO_STATUS": "8016001afffffffe0016001b",
+    "WHO": "譯千函",
+    "CONDITION": "襍ｰ繧�",
+    "VALUE": "-3"
+  },
+  "72": {
+    "SCENARIO_STATUS": "8016001afffffffe0016001b",
+    "WHO": "譯千函",
+    "CONDITION": "繝繝�繧ｷ繝･",
+    "VALUE": "-7"
+  },
+  "73": {
+    "SCENARIO_STATUS": "8016001afffffffe0016001b",
+    "WHO": "譯千函",
+    "CONDITION": "陦晉ｪ√ム繝�繧ｷ繝･",
+    "VALUE": "-3000"
+  },
+  "74": {
+    "SCENARIO_STATUS": "8016001afffffffe0016001b",
+    "WHO": "譯千函",
+    "CONDITION": "陦晉ｪ∬ｵｰ繧�",
+    "VALUE": "0"
+  },
+  "75": {
+    "SCENARIO_STATUS": "8016001afffffffe0016001b",
+    "WHO": "譯千函",
+    "CONDITION": "陦晉ｪ∵ｭｩ縺�",
+    "VALUE": "0"
+  },
+  "76": {
+    "SCENARIO_STATUS": "8016001afffffffe0016001b",
+    "WHO": "譯千函",
+    "CONDITION": "繧ｸ繝｣繝ｳ繝怜､ｱ謨�",
+    "VALUE": "-1500"
+  },
+  "77": {
+    "SCENARIO_STATUS": "8016001afffffffe0016001b",
+    "WHO": "譯千函",
+    "CONDITION": "髮｢繧後☆縺�",
+    "VALUE": "-100000"
+  },
+  "78": {
+    "SCENARIO_STATUS": "8016001afffffffe0016001b",
+    "WHO": "謨ｵ",
+    "CONDITION": "豁ｩ縺�",
+    "VALUE": "0"
+  },
+  "79": {
+    "SCENARIO_STATUS": "8016001afffffffe0016001b",
+    "WHO": "謨ｵ",
+    "CONDITION": "襍ｰ繧�",
+    "VALUE": "0"
+  },
+  "80": {
+    "SCENARIO_STATUS": "8016001afffffffe0016001b",
+    "WHO": "謨ｵ",
+    "CONDITION": "繝繝�繧ｷ繝･",
+    "VALUE": "0"
+  },
+  "81": {
+    "SCENARIO_STATUS": "8016001afffffffe0016001b",
+    "WHO": "謨ｵ",
+    "CONDITION": "陦晉ｪ√ム繝�繧ｷ繝･",
+    "VALUE": "-5000"
+  },
+  "82": {
+    "SCENARIO_STATUS": "8016001afffffffe0016001b",
+    "WHO": "謨ｵ",
+    "CONDITION": "陦晉ｪ∬ｵｰ繧�",
+    "VALUE": "0"
+  },
+  "83": {
+    "SCENARIO_STATUS": "8016001afffffffe0016001b",
+    "WHO": "謨ｵ",
+    "CONDITION": "陦晉ｪ∵ｭｩ縺�",
+    "VALUE": "0"
+  },
+  "84": {
+    "SCENARIO_STATUS": "80770038fffffffe00770039",
+    "WHO": "譯千函",
+    "CONDITION": "豁ｩ縺�",
+    "VALUE": "0"
+  },
+  "85": {
+    "SCENARIO_STATUS": "80770038fffffffe00770039",
+    "WHO": "譯千函",
+    "CONDITION": "襍ｰ繧�",
+    "VALUE": "-3"
+  },
+  "86": {
+    "SCENARIO_STATUS": "80770038fffffffe00770039",
+    "WHO": "譯千函",
+    "CONDITION": "繝繝�繧ｷ繝･",
+    "VALUE": "-7"
+  },
+  "87": {
+    "SCENARIO_STATUS": "80770038fffffffe00770039",
+    "WHO": "譯千函",
+    "CONDITION": "陦晉ｪ√ム繝�繧ｷ繝･",
+    "VALUE": "-3000"
+  },
+  "88": {
+    "SCENARIO_STATUS": "80770038fffffffe00770039",
+    "WHO": "譯千函",
+    "CONDITION": "陦晉ｪ∬ｵｰ繧�",
+    "VALUE": "0"
+  },
+  "89": {
+    "SCENARIO_STATUS": "80770038fffffffe00770039",
+    "WHO": "譯千函",
+    "CONDITION": "陦晉ｪ∵ｭｩ縺�",
+    "VALUE": "0"
+  },
+  "90": {
+    "SCENARIO_STATUS": "80770038fffffffe00770039",
+    "WHO": "譯千函",
+    "CONDITION": "繧ｸ繝｣繝ｳ繝怜､ｱ謨�",
+    "VALUE": "-1500"
+  },
+  "91": {
+    "SCENARIO_STATUS": "80770038fffffffe00770039",
+    "WHO": "譯千函",
+    "CONDITION": "髮｢繧後☆縺�",
+    "VALUE": "-100000"
+  },
+  "92": {
+    "SCENARIO_STATUS": "80770038fffffffe00770039",
+    "WHO": "謨ｵ",
+    "CONDITION": "豁ｩ縺�",
+    "VALUE": "0"
+  },
+  "93": {
+    "SCENARIO_STATUS": "80770038fffffffe00770039",
+    "WHO": "謨ｵ",
+    "CONDITION": "襍ｰ繧�",
+    "VALUE": "0"
+  },
+  "94": {
+    "SCENARIO_STATUS": "80770038fffffffe00770039",
+    "WHO": "謨ｵ",
+    "CONDITION": "繝繝�繧ｷ繝･",
+    "VALUE": "0"
+  },
+  "95": {
+    "SCENARIO_STATUS": "80770038fffffffe00770039",
+    "WHO": "謨ｵ",
+    "CONDITION": "陦晉ｪ√ム繝�繧ｷ繝･",
+    "VALUE": "-5000"
+  },
+  "96": {
+    "SCENARIO_STATUS": "80770038fffffffe00770039",
+    "WHO": "謨ｵ",
+    "CONDITION": "陦晉ｪ∬ｵｰ繧�",
+    "VALUE": "0"
+  },
+  "97": {
+    "SCENARIO_STATUS": "80770038fffffffe00770039",
+    "WHO": "謨ｵ",
+    "CONDITION": "陦晉ｪ∵ｭｩ縺�",
+    "VALUE": "0"
+  },
+  "98": {
+    "SCENARIO_STATUS": "810f0003fffffffe010f0004",
+    "WHO": "譯千函",
+    "CONDITION": "豁ｩ縺�",
+    "VALUE": "0"
+  },
+  "99": {
+    "SCENARIO_STATUS": "810f0003fffffffe010f0004",
+    "WHO": "譯千函",
+    "CONDITION": "襍ｰ繧�",
+    "VALUE": "-3"
+  },
+  "100": {
+    "SCENARIO_STATUS": "810f0003fffffffe010f0004",
+    "WHO": "譯千函",
+    "CONDITION": "繝繝�繧ｷ繝･",
+    "VALUE": "-7"
+  },
+  "101": {
+    "SCENARIO_STATUS": "810f0003fffffffe010f0004",
+    "WHO": "譯千函",
+    "CONDITION": "陦晉ｪ√ム繝�繧ｷ繝･",
+    "VALUE": "-3000"
+  },
+  "102": {
+    "SCENARIO_STATUS": "810f0003fffffffe010f0004",
+    "WHO": "譯千函",
+    "CONDITION": "陦晉ｪ∬ｵｰ繧�",
+    "VALUE": "0"
+  },
+  "103": {
+    "SCENARIO_STATUS": "810f0003fffffffe010f0004",
+    "WHO": "譯千函",
+    "CONDITION": "陦晉ｪ∵ｭｩ縺�",
+    "VALUE": "0"
+  },
+  "104": {
+    "SCENARIO_STATUS": "810f0003fffffffe010f0004",
+    "WHO": "譯千函",
+    "CONDITION": "繧ｸ繝｣繝ｳ繝怜､ｱ謨�",
+    "VALUE": "-1500"
+  },
+  "105": {
+    "SCENARIO_STATUS": "810f0003fffffffe010f0004",
+    "WHO": "譯千函",
+    "CONDITION": "髮｢繧後☆縺�",
+    "VALUE": "-100000"
+  },
+  "106": {
+    "SCENARIO_STATUS": "810f0003fffffffe010f0004",
+    "WHO": "謨ｵ",
+    "CONDITION": "豁ｩ縺�",
+    "VALUE": "0"
+  },
+  "107": {
+    "SCENARIO_STATUS": "810f0003fffffffe010f0004",
+    "WHO": "謨ｵ",
+    "CONDITION": "襍ｰ繧�",
+    "VALUE": "0"
+  },
+  "108": {
+    "SCENARIO_STATUS": "810f0003fffffffe010f0004",
+    "WHO": "謨ｵ",
+    "CONDITION": "繝繝�繧ｷ繝･",
+    "VALUE": "0"
+  },
+  "109": {
+    "SCENARIO_STATUS": "810f0003fffffffe010f0004",
+    "WHO": "謨ｵ",
+    "CONDITION": "陦晉ｪ√ム繝�繧ｷ繝･",
+    "VALUE": "-5000"
+  },
+  "110": {
+    "SCENARIO_STATUS": "810f0003fffffffe010f0004",
+    "WHO": "謨ｵ",
+    "CONDITION": "陦晉ｪ∬ｵｰ繧�",
+    "VALUE": "0"
+  },
+  "111": {
+    "SCENARIO_STATUS": "810f0003fffffffe010f0004",
+    "WHO": "謨ｵ",
+    "CONDITION": "陦晉ｪ∵ｭｩ縺�",
+    "VALUE": "0"
+  },
+  "types": {
+    "SCENARIO_STATUS": "special_scenariostatus",
+    "WHO": "string_tbl",
+    "CONDITION": "string_tbl",
+    "VALUE": "string"
+  }
+}

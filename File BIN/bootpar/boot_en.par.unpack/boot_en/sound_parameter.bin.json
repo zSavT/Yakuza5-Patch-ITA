@@ -1,0 +1,107 @@
+{
+  "0": {
+    "KEY\u0000string]": "GAYA_KAMURO_CMN",
+    "VALUE\u0000string]": "0"
+  },
+  "1": {
+    "KEY\u0000string]": "GAYA_KAMURO_KNT",
+    "VALUE\u0000string]": "100"
+  },
+  "2": {
+    "KEY\u0000string]": "GAYA_KAMURO_HKT",
+    "VALUE\u0000string]": "0"
+  },
+  "3": {
+    "KEY\u0000string]": "GAYA_KAMURO_NGY",
+    "VALUE\u0000string]": "0"
+  },
+  "4": {
+    "KEY\u0000string]": "GAYA_KAMURO_OSK",
+    "VALUE\u0000string]": "0"
+  },
+  "5": {
+    "KEY\u0000string]": "GAYA_OSAKA_CMN",
+    "VALUE\u0000string]": "0"
+  },
+  "6": {
+    "KEY\u0000string]": "GAYA_OSAKA_KNT",
+    "VALUE\u0000string]": "0"
+  },
+  "7": {
+    "KEY\u0000string]": "GAYA_OSAKA_HKT",
+    "VALUE\u0000string]": "0"
+  },
+  "8": {
+    "KEY\u0000string]": "GAYA_OSAKA_NGY",
+    "VALUE\u0000string]": "0"
+  },
+  "9": {
+    "KEY\u0000string]": "GAYA_OSAKA_OSK",
+    "VALUE\u0000string]": "100"
+  },
+  "10": {
+    "KEY\u0000string]": "GAYA_FUKUOKA_CMN",
+    "VALUE\u0000string]": "0"
+  },
+  "11": {
+    "KEY\u0000string]": "GAYA_FUKUOKA_KNT",
+    "VALUE\u0000string]": "0"
+  },
+  "12": {
+    "KEY\u0000string]": "GAYA_FUKUOKA_HKT",
+    "VALUE\u0000string]": "100"
+  },
+  "13": {
+    "KEY\u0000string]": "GAYA_FUKUOKA_NGY",
+    "VALUE\u0000string]": "0"
+  },
+  "14": {
+    "KEY\u0000string]": "GAYA_FUKUOKA_OSK",
+    "VALUE\u0000string]": "0"
+  },
+  "15": {
+    "KEY\u0000string]": "GAYA_NAGOYA_CMN",
+    "VALUE\u0000string]": "0"
+  },
+  "16": {
+    "KEY\u0000string]": "GAYA_NAGOYA_KNT",
+    "VALUE\u0000string]": "0"
+  },
+  "17": {
+    "KEY\u0000string]": "GAYA_NAGOYA_HKT",
+    "VALUE\u0000string]": "0"
+  },
+  "18": {
+    "KEY\u0000string]": "GAYA_NAGOYA_NGY",
+    "VALUE\u0000string]": "100"
+  },
+  "19": {
+    "KEY\u0000string]": "GAYA_NAGOYA_OSK",
+    "VALUE\u0000string]": "0"
+  },
+  "20": {
+    "KEY\u0000string]": "GAYA_SAPPORO_CMN",
+    "VALUE\u0000string]": "0"
+  },
+  "21": {
+    "KEY\u0000string]": "GAYA_SAPPORO_KNT",
+    "VALUE\u0000string]": "100"
+  },
+  "22": {
+    "KEY\u0000string]": "GAYA_SAPPORO_HKT",
+    "VALUE\u0000string]": "0"
+  },
+  "23": {
+    "KEY\u0000string]": "GAYA_SAPPORO_NGY",
+    "VALUE\u0000string]": "0"
+  },
+  "24": {
+    "KEY\u0000string]": "GAYA_SAPPORO_OSK",
+    "VALUE\u0000string]": "0"
+  },
+  "types": {
+    "KEY\u0000string]": "string",
+    "VALUE\u0000string]": "string_tbl",
+    "コメント\u0000comment]": "comment"
+  }
+}
