@@ -157,6 +157,7 @@ Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha 
 
 - [x] Codifica e decodifica dei file PAR
 - [ ] Codifica e decodifica dei file BIN 2007.03.19
+- [ ] Modifica delle Texture
 - [ ] Modifica al Font
 # Altre patch della serie
 
