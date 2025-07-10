@@ -1,14 +1,14 @@
 {
     "0": {
         "ID": "none",
-        "NAME": "縲€",
+        "NAME": "縲",
         "CATEGORY_RECOVER": "",
         "CATEGORY_EQUIP": "",
         "CATEGORY_ETC": "",
         "SERIES_NUMBER": "",
         "IN_SERIES_NUMBER": "",
         "HIRAGANA": "縲",
-        "EXPLANATION": "縲€",
+        "EXPLANATION": "縲",
         "BUY": "",
         "SELL": "",
         "UNIT": "  ",
@@ -53,7 +53,7 @@
         "SERIES_NUMBER": "",
         "IN_SERIES_NUMBER": "",
         "HIRAGANA": "縲",
-        "EXPLANATION": "縲€",
+        "EXPLANATION": "縲",
         "BUY": "0",
         "SELL": "",
         "UNIT": "縲",
@@ -91,7 +91,7 @@
     },
     "2": {
         "ID": "toughness_lite",
-        "NAME": "Resistenza Leggera",
+        "NAME": "Toughness Leggera",
         "CATEGORY_RECOVER": "笳�",
         "CATEGORY_EQUIP": "",
         "CATEGORY_ETC": "",
@@ -136,7 +136,7 @@
     },
     "3": {
         "ID": "toughnessz",
-        "NAME": "Resilienza Z",
+        "NAME": "Toughness Z",
         "CATEGORY_RECOVER": "笳�",
         "CATEGORY_EQUIP": "",
         "CATEGORY_ETC": "",
@@ -181,7 +181,7 @@
     },
     "4": {
         "ID": "toughnesszz",
-        "NAME": "Robustezza ZZ",
+        "NAME": "Toughness ZZ",
         "CATEGORY_RECOVER": "笳�",
         "CATEGORY_EQUIP": "",
         "CATEGORY_ETC": "",
@@ -226,7 +226,7 @@
     },
     "5": {
         "ID": "toughnessemp",
-        "NAME": "Imperatore della Robustezza",
+        "NAME": "Imperatore della Toughness",
         "CATEGORY_RECOVER": "笳�",
         "CATEGORY_EQUIP": "",
         "CATEGORY_ETC": "",
@@ -271,7 +271,7 @@
     },
     "6": {
         "ID": "toughnessinfinity",
-        "NAME": "Resistenza Infinita",
+        "NAME": "Toughness Infinita",
         "CATEGORY_RECOVER": "笳�",
         "CATEGORY_EQUIP": "",
         "CATEGORY_ETC": "",
