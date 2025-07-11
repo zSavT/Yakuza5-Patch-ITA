@@ -1,0 +1,758 @@
+{
+    "0": {
+        "CATEGORY": "Terrain Moves",
+        "NAME": "Schianto al Muro",
+        "SCENARIO_STATUS": "8109000a",
+        "EXPLANATION": "Schianta un avversario contro un muro.\nL'Azione Heat più elementare in assoluto."
+    },
+    "1": {
+        "CATEGORY": "",
+        "NAME": "Schianto alla Schiena",
+        "SCENARIO_STATUS": "8109000b",
+        "EXPLANATION": "Schiaccia un avversario da dietro."
+    },
+    "2": {
+        "CATEGORY": "",
+        "NAME": "Schiacciatesta",
+        "SCENARIO_STATUS": "8109000e",
+        "EXPLANATION": "Sbatti la testa di un avversario contro un oggetto."
+    },
+    "3": {
+        "CATEGORY": "",
+        "NAME": "Essenza di Frantumazione del Palo",
+        "SCENARIO_STATUS": "81090010",
+        "EXPLANATION": "Usa un palo nelle vicinanze per schiacciare un avversario ignaro."
+    },
+    "4": {
+        "CATEGORY": "",
+        "NAME": "Essenza dello Spaccaculo",
+        "SCENARIO_STATUS": "81090011",
+        "EXPLANATION": "Un attacco feroce che distrugge il coccige dell'avversario."
+    },
+    "5": {
+        "CATEGORY": "",
+        "NAME": "Essenza Spaccaschiena",
+        "SCENARIO_STATUS": "81090012",
+        "EXPLANATION": "Scaraventa un avversario su un oggetto sporgente.\nÈ un vero spaccacervelli."
+    },
+    "6": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Lancio",
+        "SCENARIO_STATUS": "81090070",
+        "EXPLANATION": "Elimina rapidamente un avversario scaraventandolo giù da un luogo elevato."
+    },
+    "7": {
+        "CATEGORY": "",
+        "NAME": "Schiacciatore di Bocce Komaki",
+        "SCENARIO_STATUS": "8109000f",
+        "EXPLANATION": "Un antico attacco che spacca in due la testa di un nemico usando il suo stesso peso corporeo. Impara dal passato per proteggere il futuro."
+    },
+    "8": {
+        "CATEGORY": "",
+        "NAME": "Schianto Muro",
+        "SCENARIO_STATUS": "81090064",
+        "EXPLANATION": "Questa mossa letale ti permetterà di calciare ripetutamente il tuo avversario contro il muro."
+    },
+    "9": {
+        "CATEGORY": "",
+        "NAME": "Schianto al Guard Rail",
+        "SCENARIO_STATUS": "81090000",
+        "EXPLANATION": "Calcia e schianta il tuo avversario contro un guard rail dopo averlo lanciato con questa mossa implacabile."
+    },
+    "10": {
+        "CATEGORY": "",
+        "NAME": "Schianto del Palo",
+        "SCENARIO_STATUS": "81090001",
+        "EXPLANATION": "Usa un palo per schiantarti su un nemico con le ginocchia da un'altezza elevata."
+    },
+    "11": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Lancio al Muro",
+        "SCENARIO_STATUS": "81090006",
+        "EXPLANATION": "Solleva un nemico e scaraventagli con violenza contro il muro. Una mossa solo per Saejima."
+    },
+    "12": {
+        "CATEGORY": "",
+        "NAME": "Essenza dello Sfascio di Recinzioni",
+        "SCENARIO_STATUS": "8109000c",
+        "EXPLANATION": "Scaraventa il tuo avversario contro una recinzione a rete metallica,\ne poi scaraventati contro il tuo avversario."
+    },
+    "13": {
+        "CATEGORY": "",
+        "NAME": "Essenza dello Spaccare la Recinzione",
+        "SCENARIO_STATUS": "8109000d",
+        "EXPLANATION": "Scaraventa un avversario contro una recinzione e grattagli la testa con essa. Togli un po' dalla cima."
+    },
+    "14": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Rintocco",
+        "SCENARIO_STATUS": "8109005b",
+        "EXPLANATION": "Afferra un nemico e sbattilo contro il muro.\nQuesto di sicuro terrorizzerà il tuo avversario."
+    },
+    "15": {
+        "CATEGORY": "",
+        "NAME": "Essenza dell'Intonacatura Muraria",
+        "SCENARIO_STATUS": "8109006b",
+        "EXPLANATION": "Placca un nemico vicino a un muro e sbattilo contro."
+    },
+    "16": {
+        "CATEGORY": "",
+        "NAME": "Essenza di Martellamento al Muro",
+        "SCENARIO_STATUS": "8109006c",
+        "EXPLANATION": "Atterra il tuo nemico con un colpo brutale dopo che è stato schiantato indifeso contro un muro."
+    },
+    "17": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Pupazzo di Neve",
+        "SCENARIO_STATUS": "8109003a",
+        "EXPLANATION": "Congela un nemico e trasformalo in un pupazzo di neve. Avrai bisogno di una carota e di un intaglio di legno."
+    },
+    "18": {
+        "CATEGORY": "",
+        "NAME": "Essenza dello sbattere la porta",
+        "SCENARIO_STATUS": "8109003b",
+        "EXPLANATION": "Un attacco brutale in cui sbatti la testa del tuo nemico nello sportello di un'auto con tutta la tua forza."
+    },
+    "19": {
+        "CATEGORY": "Barehanded",
+        "NAME": "Essenza di Salto Triangolare",
+        "SCENARIO_STATUS": "81090002",
+        "EXPLANATION": "Falcia i tuoi nemici con una trinità di colpi."
+    },
+    "20": {
+        "CATEGORY": "",
+        "NAME": "Essenza delle Rimonte",
+        "SCENARIO_STATUS": "81090003",
+        "EXPLANATION": "Quando sei in pericolo dopo una rottura della guardia, ribalta la situazione con un calcio girato."
+    },
+    "21": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Lariat",
+        "SCENARIO_STATUS": "81090004",
+        "EXPLANATION": "Afferra le gambe di un nemico per dargli una brutale clothesline e una bella vista del cielo."
+    },
+    "22": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Fracassare",
+        "SCENARIO_STATUS": "81090005",
+        "EXPLANATION": "Cogli i tuoi avversari alla sprovvista! Sferra uno sgambetto ai nemici in guardia per vederli crollare."
+    },
+    "23": {
+        "CATEGORY": "",
+        "NAME": "Rotolata del Ciclope",
+        "SCENARIO_STATUS": "81090029",
+        "EXPLANATION": "Afferra l'avversario per i piedi e spietatamente lo conficca in una superficie."
+    },
+    "24": {
+        "CATEGORY": "",
+        "NAME": "Swing Infernale",
+        "SCENARIO_STATUS": "8109002a",
+        "EXPLANATION": "Mostra il tuo lato diabolico afferrando un nemico e sbattendolo contro un muro."
+    },
+    "25": {
+        "CATEGORY": "",
+        "NAME": "Colpo Celestiale",
+        "SCENARIO_STATUS": "8109002b",
+        "EXPLANATION": "Afferra un nemico e sbattilo contro un palo.\nForse intravedere il paradiso li aiuterà a\ncapire l'errore delle loro azioni."
+    },
+    "26": {
+        "CATEGORY": "",
+        "NAME": "Essenza dell'Oscillazione",
+        "SCENARIO_STATUS": "8109002d",
+        "EXPLANATION": "Fai roteare un nemico e usalo come arma.\nI coinvolti hanno un assaggio dell'inferno."
+    },
+    "27": {
+        "CATEGORY": "",
+        "NAME": "Essenza della Forza",
+        "SCENARIO_STATUS": "8109002e",
+        "EXPLANATION": "Afferra un avversario e schiantalo a terra. Metti tutta la tua forza, spirito e peso in un singolo colpo devastante!"
+    },
+    "28": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Contrattacco",
+        "SCENARIO_STATUS": "8109002f",
+        "EXPLANATION": "Sorprendi un avversario mentre sei a terra rompendogli gli stinchi."
+    },
+    "29": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Fumo",
+        "SCENARIO_STATUS": "81090030",
+        "EXPLANATION": "Una tecnica segreta di lotta di strada. Utilizza abilmente una sigaretta accesa per creare un'apertura."
+    },
+    "30": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Terrore",
+        "SCENARIO_STATUS": "81090031",
+        "EXPLANATION": "Abbatti i tuoi avversari con velocità spaventosa."
+    },
+    "31": {
+        "CATEGORY": "",
+        "NAME": "Essenza dello Scagliamento",
+        "SCENARIO_STATUS": "81090032",
+        "EXPLANATION": "Mostra a un nemico che ti sta afferrando che dovrebbe tenere le mani a posto colpendolo con una piledriver."
+    },
+    "32": {
+        "CATEGORY": "",
+        "NAME": "Contromossa del Pugno di Komaki",
+        "SCENARIO_STATUS": "81090033",
+        "EXPLANATION": "Esegui una potente contromossa contro l'attacco di un nemico. La mossa varia a seconda della direzione."
+    },
+    "33": {
+        "CATEGORY": "",
+        "NAME": "Essenza della Burattineria",
+        "SCENARIO_STATUS": "81090037",
+        "EXPLANATION": "Afferra la testa di un nemico e usalo come arma, facendolo roteare per percuotere gli altri nemici tutt'intorno."
+    },
+    "34": {
+        "CATEGORY": "",
+        "NAME": "Spinta Alfa",
+        "SCENARIO_STATUS": "8109003d",
+        "EXPLANATION": "Sferra un potente colpo a un nemico in aria, quindi scaraventalo a terra."
+    },
+    "35": {
+        "CATEGORY": "",
+        "NAME": "Beta Drive",
+        "SCENARIO_STATUS": "8109003e",
+        "EXPLANATION": "Rispedisci il tuo nemico in aria dopo averlo sbattuto a terra con Alpha Drive."
+    },
+    "36": {
+        "CATEGORY": "",
+        "NAME": "Impulso Gamma",
+        "SCENARIO_STATUS": "8109003f",
+        "EXPLANATION": "Dopo Beta Drive, calcia violentemente via il tuo nemico mentre è ancora in aria."
+    },
+    "37": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Conato",
+        "SCENARIO_STATUS": "81090042",
+        "EXPLANATION": "Passa tra le gambe del tuo nemico dopo My Meteor Tackle, poi mandalo in volo."
+    },
+    "38": {
+        "CATEGORY": "",
+        "NAME": "Essenza di Proiezione Circolare",
+        "SCENARIO_STATUS": "81090044",
+        "EXPLANATION": "Prendi il tuo nemico tra le tue braccia e lancialo sopra la tua testa."
+    },
+    "39": {
+        "CATEGORY": "",
+        "NAME": "Essenza della Ginocchiata",
+        "SCENARIO_STATUS": "81090045",
+        "EXPLANATION": "Sferra ferocemente una ginocchiata ai punti vitali del tuo nemico."
+    },
+    "40": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Lancio Spietato",
+        "SCENARIO_STATUS": "81090009",
+        "EXPLANATION": "Afferra un nemico caduto e tiralo su da terra, e sbattilo giù senza pietà. Il tempo è denaro."
+    },
+    "41": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Drago",
+        "SCENARIO_STATUS": "81090048",
+        "EXPLANATION": "Sferra dopo Spirito del Drago per falciare tutti i nemici circostanti in una volta sola."
+    },
+    "42": {
+        "CATEGORY": "",
+        "NAME": "Essenza di Sfondamento Rinforzi",
+        "SCENARIO_STATUS": "8109004a",
+        "EXPLANATION": "Attacca un nemico che chiama rinforzi, poi spacca il suo telefono. Nessuno verrà a salvarlo ora."
+    },
+    "43": {
+        "CATEGORY": "",
+        "NAME": "Doppia Giocoleria",
+        "SCENARIO_STATUS": "8109004b",
+        "EXPLANATION": "Manda un nemico in aria e, mentre è indifeso, sbatti un altro nemico vicino contro di lui."
+    },
+    "44": {
+        "CATEGORY": "",
+        "NAME": "Essenza di Auto-distruzione",
+        "SCENARIO_STATUS": "81090057",
+        "EXPLANATION": "Sferra un attacco brutale utilizzando la stessa arma grande di un nemico contro di lui."
+    },
+    "45": {
+        "CATEGORY": "",
+        "NAME": "Komaki Rinascita Senza Spada",
+        "SCENARIO_STATUS": "81090058",
+        "EXPLANATION": "Sferra un potente contrattacco contro un attacco di spada nemico."
+    },
+    "46": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Pestone Combinato",
+        "SCENARIO_STATUS": "8109005a",
+        "EXPLANATION": "Dopo che un alleato spacca la nuca del tuo avversario a terra con una powerbomb, sfonda loro la faccia con un pestone."
+    },
+    "47": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Ginocchio Cadente",
+        "SCENARIO_STATUS": "8109005d",
+        "EXPLANATION": "Una tecnica segreta in cui salti e dai una ginocchiata in faccia a un nemico che è stato raccolto e lanciato."
+    },
+    "48": {
+        "CATEGORY": "",
+        "NAME": "Essenza dell'Ascesa di Squadra",
+        "SCENARIO_STATUS": "81090063",
+        "EXPLANATION": "Collabora con un alleato per sferrare un colpo feroce."
+    },
+    "49": {
+        "CATEGORY": "",
+        "NAME": "Essenza dello Squarcio ai Lombardi",
+        "SCENARIO_STATUS": "81090065",
+        "EXPLANATION": "Volta le spalle al tuo nemico, poi sferra un calcio debilitante quando meno se lo aspetta."
+    },
+    "50": {
+        "CATEGORY": "",
+        "NAME": "Essenza dell'Impadronirsi",
+        "SCENARIO_STATUS": "8109006f",
+        "EXPLANATION": "Sferra un colpo micidiale, poi ruba l'arma del tuo nemico. Non funziona contro determinate armi."
+    },
+    "51": {
+        "CATEGORY": "Finishing Moves",
+        "NAME": "Essenza dello Schianto",
+        "SCENARIO_STATUS": "81090013",
+        "EXPLANATION": "Prendi due piccioni con una fava facendo cadere un nemico su un altro che è a terra."
+    },
+    "52": {
+        "CATEGORY": "",
+        "NAME": "Essenza dello Sfregamento del Viso",
+        "SCENARIO_STATUS": "81090038",
+        "EXPLANATION": "Infliggi un danno massiccio a un nemico sfregandogli la faccia contro il terreno."
+    },
+    "53": {
+        "CATEGORY": "",
+        "NAME": "Essenza della Presa di Ferro",
+        "SCENARIO_STATUS": "81090043",
+        "EXPLANATION": "Tirare con forza un nemico caduto per rimetterlo in piedi, quindi sbatterlo contro un muro."
+    },
+    "54": {
+        "CATEGORY": "",
+        "NAME": "Essenza della Finalizzazione",
+        "SCENARIO_STATUS": "81090052",
+        "EXPLANATION": "Sferra un attacco feroce a un nemico a terra. Acquisisci nuove mosse finali più lo usi."
+    },
+    "55": {
+        "CATEGORY": "",
+        "NAME": "Essenza della Spietatezza",
+        "SCENARIO_STATUS": "8109005c",
+        "EXPLANATION": "Sferra un pugno brutale in faccia a un nemico a terra."
+    },
+    "56": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Pestone Finale",
+        "SCENARIO_STATUS": "81090014",
+        "EXPLANATION": "Non c'è bisogno di danneggiare le tue armi questa volta.\nBasta calpestare il tuo avversario."
+    },
+    "57": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Balzo",
+        "SCENARIO_STATUS": "8109005e",
+        "EXPLANATION": "Ribalta le carte in tavola placcando l'avversario e colpendolo con pugni mentre è a terra. Un attacco brutale per un aggressore messo all'angolo."
+    },
+    "58": {
+        "CATEGORY": "",
+        "NAME": "Essenza di Ginocchiata Definitiva",
+        "SCENARIO_STATUS": "81090066",
+        "EXPLANATION": "Un violento colpo al volto di un nemico a terra."
+    },
+    "59": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Calcio Finale",
+        "SCENARIO_STATUS": "81090015",
+        "EXPLANATION": "Mantieni le tue armi in perfetto stato e fai volare il tuo nemico con un calcio ben assestato. Fagli desiderare che tu avessi usato un'arma."
+    },
+    "60": {
+        "CATEGORY": "",
+        "NAME": "Essenza dello Shachihoko",
+        "SCENARIO_STATUS": "81090069",
+        "EXPLANATION": "Deforma il nemico a forma di shachihoko, poi afferralo per sferrare un altro colpo."
+    },
+    "61": {
+        "CATEGORY": "",
+        "NAME": "Essenza della Chiave al Braccio",
+        "SCENARIO_STATUS": "81090034",
+        "EXPLANATION": "Usa la tua maestria nel wrestling per eseguire una presa dopo l'altra."
+    },
+    "62": {
+        "CATEGORY": "",
+        "NAME": "Essenza della Schiacciata di Testa",
+        "SCENARIO_STATUS": "81090035",
+        "EXPLANATION": "Ginocchiata e testata a un avversario che si sta rialzando per rompergli il naso."
+    },
+    "63": {
+        "CATEGORY": "",
+        "NAME": "Essenza della Finitura Pressante",
+        "SCENARIO_STATUS": "81090053",
+        "EXPLANATION": "Un attacco devastante. Proprio quando il nemico pensa che tu sia finito, abbattiti su di loro con tutta la tua forza."
+    },
+    "64": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Pugno Finale",
+        "SCENARIO_STATUS": "8109005f",
+        "EXPLANATION": "Sferra un pugno violento al volto di un nemico caduto."
+    },
+    "65": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Martello Finale",
+        "SCENARIO_STATUS": "81090060",
+        "EXPLANATION": "Fai calare il martello sul tuo nemico. Letteralmente."
+    },
+    "66": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Finale con Arma",
+        "SCENARIO_STATUS": "81090071",
+        "EXPLANATION": "Un attacco semplice e popolare. Lancia un oggetto su un nemico a terra, mettendoci tutta la forza del tuo corpo e della tua anima."
+    },
+    "67": {
+        "CATEGORY": "Weapon Moves",
+        "NAME": "Essenza delle Armi Pesanti",
+        "SCENARIO_STATUS": "81090007",
+        "EXPLANATION": "Sbatti un'arma gigantesca contro il tuo nemico, poi colpiscilo di nuovo come solo il possente Saejima potrebbe fare."
+    },
+    "68": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Pestaggio con Tonfa",
+        "SCENARIO_STATUS": "81090008",
+        "EXPLANATION": "Picchia senza pietà il tuo nemico con una tonfa e infliggi danni massicci ad ogni colpo."
+    },
+    "69": {
+        "CATEGORY": "",
+        "NAME": "Essenza della Rottura dei Mattoni",
+        "SCENARIO_STATUS": "81090016",
+        "EXPLANATION": "Forza qualcosa sulla testa di un avversario e fallo girare. Poi spezzalo con un colpo a mano a coltello come se fosse un mucchio di mattoni."
+    },
+    "70": {
+        "CATEGORY": "",
+        "NAME": "Essenza delle Insegne",
+        "SCENARIO_STATUS": "81090017",
+        "EXPLANATION": "Schianta il nemico con un'insegna, poi piombagli addosso con tutto il tuo peso."
+    },
+    "71": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Pestaggio",
+        "SCENARIO_STATUS": "8109007d",
+        "EXPLANATION": "Martella un nemico con un'arma a una mano, poi assesta un potente colpo."
+    },
+    "72": {
+        "CATEGORY": "",
+        "NAME": "Maglio Pesante: Schiacciamosche",
+        "SCENARIO_STATUS": "81090018",
+        "EXPLANATION": "Combina un'antica tecnica di spada con il peso di un martello. Schiaccia i tuoi nemici come se fossero delle semplici mosche."
+    },
+    "73": {
+        "CATEGORY": "",
+        "NAME": "Doppia Spada Corta: Lupo Astuto",
+        "SCENARIO_STATUS": "81090019",
+        "EXPLANATION": "Questa antica tecnica di spada ricorda il colpo rapido e preciso di un lupo."
+    },
+    "74": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Pugnale",
+        "SCENARIO_STATUS": "8109001a",
+        "EXPLANATION": "Carica un nemico con un'arma a lama corta e usa il tuo slancio per sferrare un colpo punitivo."
+    },
+    "75": {
+        "CATEGORY": "",
+        "NAME": "Essenza di Accoltellamento",
+        "SCENARIO_STATUS": "8109001b",
+        "EXPLANATION": "Inchioda la mano del tuo avversario al muro con un pugnale."
+    },
+    "76": {
+        "CATEGORY": "",
+        "NAME": "Essenza di Nunchaku",
+        "SCENARIO_STATUS": "8109001c",
+        "EXPLANATION": "Un colpo elegante e maestoso che sfrutta i nunchaku al massimo del loro potenziale."
+    },
+    "77": {
+        "CATEGORY": "",
+        "NAME": "Essenza della Battuta",
+        "SCENARIO_STATUS": "8109001d",
+        "EXPLANATION": "Manda i nemici fuori dal parco con una potente sventola."
+    },
+    "78": {
+        "CATEGORY": "",
+        "NAME": "Essenza dei Tonfa",
+        "SCENARIO_STATUS": "8109001e",
+        "EXPLANATION": "Un attacco che utilizza tecniche basilari di tonfa."
+    },
+    "79": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Tracannare",
+        "SCENARIO_STATUS": "8109001f",
+        "EXPLANATION": "Far ingoiare un liquido misterioso a un nemico.\nCausa più danni psicologici che fisici.\n...Probabilmente."
+    },
+    "80": {
+        "CATEGORY": "",
+        "NAME": "Essenza della Spada",
+        "SCENARIO_STATUS": "81090020",
+        "EXPLANATION": "Spingi via il nemico, poi sferra tre fendenti di spada."
+    },
+    "81": {
+        "CATEGORY": "",
+        "NAME": "Essenza di Taser",
+        "SCENARIO_STATUS": "81090021",
+        "EXPLANATION": "Carica la tua pistola stordente con passione elettrificata, potenziandola oltre i suoi limiti fisici. Trascende la moderna comprensione della fisica."
+    },
+    "82": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Bowling",
+        "SCENARIO_STATUS": "81090022",
+        "EXPLANATION": "Sferra un colpo sugli stinchi del tuo avversario e buttali nella canalina. Non risparmiare pietà."
+    },
+    "83": {
+        "CATEGORY": "",
+        "NAME": "Essenza della Salatura",
+        "SCENARIO_STATUS": "81090023",
+        "EXPLANATION": "Strofinare sale negli occhi di un nemico. Mostra ai tuoi nemici cosa significa davvero bruciare. Funziona anche su quelli che indossano gli occhiali!"
+    },
+    "84": {
+        "CATEGORY": "",
+        "NAME": "Essenza della Siringa",
+        "SCENARIO_STATUS": "81090024",
+        "EXPLANATION": "Iniettare una siringa misteriosa nella parte posteriore di un avversario. Si spera non sia troppo pericoloso."
+    },
+    "85": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Golf",
+        "SCENARIO_STATUS": "81090025",
+        "EXPLANATION": "Far volare un avversario lontano. Non è un modo leale di giocare, ma è comunque un bel colpo."
+    },
+    "86": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Grigliare",
+        "SCENARIO_STATUS": "81090026",
+        "EXPLANATION": "Brucia la faccia di un nemico con un bruciatore a gas. Semplice come lanciare una torta, e più doloroso di quanto tu possa immaginare."
+    },
+    "87": {
+        "CATEGORY": "",
+        "NAME": "Essenza delle Pinze",
+        "SCENARIO_STATUS": "81090027",
+        "EXPLANATION": "Dai al tuo avversario un'estrazione dentale o una manicure gratuita, stile di strada."
+    },
+    "88": {
+        "CATEGORY": "",
+        "NAME": "Essenza dell'Ombrello",
+        "SCENARIO_STATUS": "81090028",
+        "EXPLANATION": "Usa il manico ricurvo di un ombrello per agganciare un nemico e poi scagliarlo via."
+    },
+    "89": {
+        "CATEGORY": "",
+        "NAME": "Essenza della Corsa in Bici",
+        "SCENARIO_STATUS": "81090036",
+        "EXPLANATION": "Schianta una bici contro il tuo nemico, mettendoci tutto il tuo peso."
+    },
+    "90": {
+        "CATEGORY": "",
+        "NAME": "Essenza di Supercolla",
+        "SCENARIO_STATUS": "81090039",
+        "EXPLANATION": "Incolla due nemici con la supercolla, poi guardali lottare prima di strapparli via con violenza."
+    },
+    "91": {
+        "CATEGORY": "",
+        "NAME": "Essenza dei Fuochi d'Artificio",
+        "SCENARIO_STATUS": "8109003c",
+        "EXPLANATION": "Lancia un razzo contro il tuo nemico."
+    },
+    "92": {
+        "CATEGORY": "",
+        "NAME": "Essenza di Estrazione dell'Arma",
+        "SCENARIO_STATUS": "81090040",
+        "EXPLANATION": "Sfodera un'arma e sferra un colpo fulmineo."
+    },
+    "93": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Giro dell'Ombrello",
+        "SCENARIO_STATUS": "81090041",
+        "EXPLANATION": "Gira un ombrello e sferra combo, terminando con un colpo finale e devastante."
+    },
+    "94": {
+        "CATEGORY": "",
+        "NAME": "Essenza della Furente Frenesia",
+        "SCENARIO_STATUS": "81090046",
+        "EXPLANATION": "Colpisci i nemici ripetutamente con spettacolari manovre con il palo."
+    },
+    "95": {
+        "CATEGORY": "",
+        "NAME": "Essenza dello Squartamento Folle",
+        "SCENARIO_STATUS": "81090047",
+        "EXPLANATION": "Sferra combo veloci con un'arma a lama corta."
+    },
+    "96": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Martello di Ferro",
+        "SCENARIO_STATUS": "81090049",
+        "EXPLANATION": "Sferra un colpo devastante con un enorme oggetto divelto dal suolo."
+    },
+    "97": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Bastone di Loto",
+        "SCENARIO_STATUS": "81090054",
+        "EXPLANATION": "Un attacco di base tramandato dalla Scuola del Loto. Fa inciampare l'avversario e poi infligge attacchi aggiuntivi."
+    },
+    "98": {
+        "CATEGORY": "",
+        "NAME": "Essenza dei Bastoni Kali",
+        "SCENARIO_STATUS": "81090055",
+        "EXPLANATION": "Usa le tue Kali Sticks per tempestare di colpi il tuo avversario, rendendolo indifeso."
+    },
+    "99": {
+        "CATEGORY": "",
+        "NAME": "Colpo Finale con Lama: I Cieli Convergono",
+        "SCENARIO_STATUS": "81090056",
+        "EXPLANATION": "Un'antica tecnica di spada. Incarna la ferocia di uno stile unico a doppia lama."
+    },
+    "100": {
+        "CATEGORY": "",
+        "NAME": "Komaki Rotazione Arma da Fuoco",
+        "SCENARIO_STATUS": "81090059",
+        "EXPLANATION": "Impedisci ai nemici armati di armi da fuoco di sparare, quindi sferra un colpo micidiale."
+    },
+    "101": {
+        "CATEGORY": "",
+        "NAME": "Lama Nascosta: Toro Scatenato",
+        "SCENARIO_STATUS": "81090061",
+        "EXPLANATION": "Un'antica tecnica di spada. Carica in avanti come un toro possente."
+    },
+    "102": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Martello",
+        "SCENARIO_STATUS": "81090062",
+        "EXPLANATION": "Usa il peso del martello per schiantare i nemici a terra con una serie di potenti colpi."
+    },
+    "103": {
+        "CATEGORY": "",
+        "NAME": "Abusatore di Kali",
+        "SCENARIO_STATUS": "81090067",
+        "EXPLANATION": "Usa i tuoi bastoni da Kali per far piovere colpo dopo colpo sul tuo avversario, rendendolo indifeso."
+    },
+    "104": {
+        "CATEGORY": "",
+        "NAME": "Essenza della Spirale del Bo",
+        "SCENARIO_STATUS": "81090068",
+        "EXPLANATION": "Immobilizza il nemico con un'arma ad asta, quindi sfrutta la leva che hai per scaraventarlo via."
+    },
+    "105": {
+        "CATEGORY": "",
+        "NAME": "Essenza di Affondi Furiosi",
+        "SCENARIO_STATUS": "8109006a",
+        "EXPLANATION": "Tormenta il tuo nemico con una serie di affondi, poi finiscilo con un altro violento affondo."
+    },
+    "106": {
+        "CATEGORY": "",
+        "NAME": "Essenza della Spazzata",
+        "SCENARIO_STATUS": "8109006d",
+        "EXPLANATION": "Solleva i nemici da in mezzo alle loro gambe e scaraventali a terra."
+    },
+    "107": {
+        "CATEGORY": "",
+        "NAME": "Essenza dei Tirapugni",
+        "SCENARIO_STATUS": "8109006e",
+        "EXPLANATION": "Una combinazione implacabile di tre pugni con i tirapugni.\nPuoi usarla quando Saejima ha i tirapugni equipaggiati."
+    },
+    "108": {
+        "CATEGORY": "",
+        "NAME": "Essenza dello Schiacciamento",
+        "SCENARIO_STATUS": "81090072",
+        "EXPLANATION": "Scuoti il cervello di un nemico con un colpo alla testa, poi finiscilo con un colpo finale."
+    },
+    "109": {
+        "CATEGORY": "",
+        "NAME": "Essenza dello Slancio",
+        "SCENARIO_STATUS": "81090073",
+        "EXPLANATION": "Fai cadere qualcosa di pesante sulla testa di un nemico.\nA volte il semplice è meglio."
+    },
+    "110": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Lancio della Lancia",
+        "SCENARIO_STATUS": "81090074",
+        "EXPLANATION": "Scaglia violentemente un lungo palo come un giavellotto contro un nemico distante."
+    },
+    "111": {
+        "CATEGORY": "",
+        "NAME": "Essenza di Salto con l'Asta",
+        "SCENARIO_STATUS": "81090075",
+        "EXPLANATION": "Usa un lungo palo per lanciarti in alto nell'aria e sferrare un attacco feroce."
+    },
+    "112": {
+        "CATEGORY": "",
+        "NAME": "Essenza del Fendente Ciclonico",
+        "SCENARIO_STATUS": "81090076",
+        "EXPLANATION": "Saltare da un nemico mentre si attaccano gli altri con una spada."
+    },
+    "113": {
+        "CATEGORY": "Climax Heat",
+        "NAME": "Essenza del Re Drago",
+        "SCENARIO_STATUS": "81090077",
+        "EXPLANATION": "Climax Heat\nAccumula potenza prima di sferrare un calcio selvaggio."
+    },
+    "114": {
+        "CATEGORY": "",
+        "NAME": "Essenza dell'Affondo Ubriaco",
+        "SCENARIO_STATUS": "8109004c",
+        "EXPLANATION": "Climax Heat\nScagliati contro il nemico per infliggere danni ingenti."
+    },
+    "115": {
+        "CATEGORY": "",
+        "NAME": "Essenza Suprema",
+        "SCENARIO_STATUS": "8109004e",
+        "EXPLANATION": "Climax Heat\nEsegui la mossa di ribaltamento definitiva quando sei sull'orlo della morte."
+    },
+    "116": {
+        "CATEGORY": "",
+        "NAME": "Essenza di Tigre dell'Onda d'Urto",
+        "SCENARIO_STATUS": "81090078",
+        "EXPLANATION": "Calore Climax\nSbatti il terreno con la potenza accumulata per scagliare i nemici in aria."
+    },
+    "117": {
+        "CATEGORY": "",
+        "NAME": "Essenza della Tigre: Colpo Cerebrale",
+        "SCENARIO_STATUS": "8109004d",
+        "EXPLANATION": "Climax Heat\nSolleva un nemico che hai afferrato, poi sbattilo a terra."
+    },
+    "118": {
+        "CATEGORY": "",
+        "NAME": "Essenza Tigre del Blitz",
+        "SCENARIO_STATUS": "8109004f",
+        "EXPLANATION": "Calore Climax\nCarica in avanti e fai volare via il tuo nemico."
+    },
+    "119": {
+        "CATEGORY": "",
+        "NAME": "Combo di Calci Micidiale",
+        "SCENARIO_STATUS": "81090079",
+        "EXPLANATION": "Climax Heat\nSferra una combo di calci assortiti."
+    },
+    "120": {
+        "CATEGORY": "",
+        "NAME": "Colpo Meteorico",
+        "SCENARIO_STATUS": "81090050",
+        "EXPLANATION": "Calore Climax\nSferra un attacco devastante mentre ti lanci in picchiata."
+    },
+    "121": {
+        "CATEGORY": "",
+        "NAME": "Spinta Finale",
+        "SCENARIO_STATUS": "8109007b",
+        "EXPLANATION": "Calore Climax\nSbatti violentemente un nemico a mezz'aria al suolo."
+    },
+    "122": {
+        "CATEGORY": "",
+        "NAME": "Mia Essenza Trascinante",
+        "SCENARIO_STATUS": "8109007a",
+        "EXPLANATION": "Calore Climax\nTrascina il tuo nemico sull'asfalto. Le abrasioni da asfalto non sono uno scherzo."
+    },
+    "123": {
+        "CATEGORY": "",
+        "NAME": "Mia Essenza del Vortice",
+        "SCENARIO_STATUS": "8109007c",
+        "EXPLANATION": "Calore Climax\nFalcia i nemici con un lungo palo."
+    },
+    "124": {
+        "CATEGORY": "",
+        "NAME": "La mia Essenza della Combo di Mazzate",
+        "SCENARIO_STATUS": "81090051",
+        "EXPLANATION": "Climax Heat\nLancia la tua arma contro il nemico, afferrala mentre rimbalza e ripeti."
+    },
+    "types": {
+        "CATEGORY": "string_idx",
+        "NAME": "stringa",
+        "SCENARIO_STATUS": "special_scenariostatus",
+        "EXPLANATION": "stringa"
+    }
+}

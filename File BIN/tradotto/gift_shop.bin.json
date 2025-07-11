@@ -1,0 +1,98 @@
+{
+    "0": {
+        "ITEMID": 413,
+        "HINT": "Una famosa specialità locale che sta benissimo con il riso. Presenta un livello di piccantezza standard."
+    },
+    "1": {
+        "ITEMID": 414,
+        "HINT": "Una famosa specialità locale che si abbina benissimo con il riso. Presenta un livello di piccantezza più delicato."
+    },
+    "2": {
+        "ITEMID": 415,
+        "HINT": "Una famosa specialità locale che si abbina benissimo al riso. Caratterizzata da un livello di piccantezza più elevato."
+    },
+    "3": {
+        "ITEMID": 416,
+        "HINT": "Una famosa specialità locale che si abbina benissimo con il riso. È piccante quanto la ricetta originale."
+    },
+    "4": {
+        "ITEMID": 417,
+        "HINT": "Questi dolci giapponesi sono una squisita unione di ripieno dolce di fagioli rossi in un guscio morbido, delicato, simile al mochi."
+    },
+    "5": {
+        "ITEMID": 418,
+        "HINT": "Il soffice rivestimento bianco e il ripieno di tuorlo d'uovo e pasta di fagioli hanno reso questi dolci una delizia popolare per oltre cento anni."
+    },
+    "6": {
+        "ITEMID": 419,
+        "HINT": "Questo buffo cracker di riso è progettato per assomigliare a una maschera. Include una vera maschera nella scatola!"
+    },
+    "7": {
+        "ITEMID": 420,
+        "HINT": "Verdure sottaceto ricoperte di speciale uova di pesce piccanti. Questa famosa specialità locale si abbina perfettamente al riso."
+    },
+    "8": {
+        "ITEMID": 421,
+        "HINT": "Questo snack croccante è una deliziosa combinazione di sapori dolci e salati."
+    },
+    "9": {
+        "ITEMID": 422,
+        "HINT": "Questi biscotti sono lo snack regionale più famoso di Hokkaido. La gente ama la loro croccantezza soddisfacente."
+    },
+    "10": {
+        "ITEMID": 423,
+        "HINT": "Questa caramella è fatta di mais liofilizzato ricoperto di cioccolato."
+    },
+    "11": {
+        "ITEMID": 424,
+        "HINT": "Questi biscotti potranno sembrare semplici, ma sono deliziosamente irresistibili, grazie alla ricetta originale che seguiamo ancora oggi."
+    },
+    "12": {
+        "ITEMID": 425,
+        "HINT": "La gente ama la croccantezza di queste gallette di riso al gusto di curry."
+    },
+    "13": {
+        "ITEMID": 426,
+        "HINT": "Questi cracker di riso sono stati infusi con il gusto saporito del pollo karaage."
+    },
+    "14": {
+        "ITEMID": 427,
+        "HINT": "Ora puoi gustare facilmente l'irresistibile stufato di udon al miso di Yamamotoya Honten a casa."
+    },
+    "15": {
+        "ITEMID": 428,
+        "HINT": "Preparato con abbondante pasta di fagioli dolci. La sua dolcezza delicata lo rende il dolce più popolare di Ryoguchiya Korekiyo."
+    },
+    "16": {
+        "ITEMID": 429,
+        "HINT": "Gamberetti interi vengono usati per fare questi gustosi e saporiti cracker di riso."
+    },
+    "17": {
+        "ITEMID": 430,
+        "HINT": "La gente ama la consistenza distintiva di questi dolci locali. Sono disponibili in una varietà di gusti, come sakura e tè verde."
+    },
+    "18": {
+        "ITEMID": 431,
+        "HINT": "Questo snack salato conserva la morbida consistenza e il sapore della salsa speciale del prodotto originale."
+    },
+    "19": {
+        "ITEMID": 432,
+        "HINT": "Questa famosa specialità locale si presenta in una familiare confezione rossa. Ognuno è fatto a mano per garantirne il gusto delizioso."
+    },
+    "20": {
+        "ITEMID": 433,
+        "HINT": "Queste saporite piccole palline sono preparate con ingredienti speciali e rifinite con una salsa segreta."
+    },
+    "21": {
+        "ITEMID": 434,
+        "HINT": "Il sapore saporito di salsa e maionese su queste rotonde palline di bontà risveglia qualsiasi appetito."
+    },
+    "22": {
+        "ITEMID": 435,
+        "HINT": "Questo è il piatto più famoso della regione trasformato in uno snack pratico. Il suo sapore di salsa e dashi è irresistibile."
+    },
+    "types": {
+        "ITEMID": "itemid",
+        "HINT": "stringa"
+    }
+}

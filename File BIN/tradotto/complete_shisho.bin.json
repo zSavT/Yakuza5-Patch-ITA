@@ -1,0 +1,416 @@
+{
+    "0": {
+        "CATEGORY": "Tatsuya",
+        "NAME": "Kiryu in allenamento",
+        "SCENARIO_STATUS": "8119000d",
+        "EXPLANATION": "Tatsuya ha iniziato a mostrare a Kiryu cosa significa essere un buongustaio."
+    },
+    "1": {
+        "CATEGORY": "Tatsuya",
+        "NAME": "Gourmet Kiryu",
+        "SCENARIO_STATUS": "8119000e",
+        "EXPLANATION": "Tatsuya ha mostrato a Kiryu cosa serve per essere un maestro gourmet."
+    },
+    "2": {
+        "CATEGORY": "Tatsuya",
+        "NAME": "Re Gourmet Kiryu",
+        "SCENARIO_STATUS": "8119000f",
+        "EXPLANATION": "Tatsuya ha mostrato a Kiryu cosa serve per essere un re dei buongustai."
+    },
+    "3": {
+        "CATEGORY": "Tatsuya",
+        "NAME": "Nuovo Piatto (Kiryu)",
+        "SCENARIO_STATUS": "8119000c",
+        "EXPLANATION": "Kiryu può ora ordinare il nuovo piatto di Tatsuya alla bancarella di cibo Senbo a Nagasugai."
+    },
+    "4": {
+        "CATEGORY": "Tatsuya",
+        "NAME": "Saejima in Allenamento",
+        "SCENARIO_STATUS": "8119001d",
+        "EXPLANATION": "Tatsuya ha iniziato a mostrare a Saejima cosa significa essere un buongustaio."
+    },
+    "5": {
+        "CATEGORY": "Tatsuya",
+        "NAME": "Gourmet Saejima",
+        "SCENARIO_STATUS": "8119001e",
+        "EXPLANATION": "Tatsuya ha mostrato a Saejima cosa ci vuole per essere un maestro gourmet."
+    },
+    "6": {
+        "CATEGORY": "Tatsuya",
+        "NAME": "Re Gourmet Saejima",
+        "SCENARIO_STATUS": "8119001f",
+        "EXPLANATION": "Tatsuya ha mostrato a Saejima cosa serve per essere un re dei gourmet."
+    },
+    "7": {
+        "CATEGORY": "Tatsuya",
+        "NAME": "Nuovo Piatto (Saejima)",
+        "SCENARIO_STATUS": "8119001c",
+        "EXPLANATION": "Saejima ora può ordinare il nuovo piatto di Tatsuya al Café Alps a Tsukimino."
+    },
+    "8": {
+        "CATEGORY": "Tatsuya",
+        "NAME": "Haruka in allenamento",
+        "SCENARIO_STATUS": "8119002d",
+        "EXPLANATION": "Tatsuya ha iniziato a mostrare a Haruka cosa significhi essere un gourmet."
+    },
+    "9": {
+        "CATEGORY": "Tatsuya",
+        "NAME": "Gourmet Haruka",
+        "SCENARIO_STATUS": "8119002e",
+        "EXPLANATION": "Tatsuya ha mostrato a Haruka cosa ci vuole per essere un maestro gourmet."
+    },
+    "10": {
+        "CATEGORY": "Tatsuya",
+        "NAME": "Regina Gourmet Haruka",
+        "SCENARIO_STATUS": "8119002f",
+        "EXPLANATION": "Tatsuya ha mostrato a Haruka cosa ci vuole per essere una regina dei gourmet."
+    },
+    "11": {
+        "CATEGORY": "Tatsuya",
+        "NAME": "Nuovo Piatto (Haruka)",
+        "SCENARIO_STATUS": "8119002c",
+        "EXPLANATION": "Haruka può ora ordinare il nuovo piatto di Tatsuya al Montblanc Coffee a Sotenbori."
+    },
+    "12": {
+        "CATEGORY": "Tatsuya",
+        "NAME": "Akiyama in Allenamento",
+        "SCENARIO_STATUS": "8119003d",
+        "EXPLANATION": "Tatsuya ha iniziato a mostrare ad Akiyama cosa significa essere un gourmet."
+    },
+    "13": {
+        "CATEGORY": "Tatsuya",
+        "NAME": "Gourmet Akiyama",
+        "SCENARIO_STATUS": "8119003e",
+        "EXPLANATION": "Tatsuya ha mostrato ad Akiyama cosa serve per essere un maestro gourmet."
+    },
+    "14": {
+        "CATEGORY": "Tatsuya",
+        "NAME": "Re Gourmet Akiyama",
+        "SCENARIO_STATUS": "8119003f",
+        "EXPLANATION": "Tatsuya ha mostrato ad Akiyama ciò che serve per essere un re dei buongustai."
+    },
+    "15": {
+        "CATEGORY": "Tatsuya",
+        "NAME": "Nuovo Piatto (Akiyama)",
+        "SCENARIO_STATUS": "8119003c",
+        "EXPLANATION": "Akiyama può ora ordinare il nuovo piatto di Tatsuya al Kanrai a Kamurocho."
+    },
+    "16": {
+        "CATEGORY": "Tatsuya",
+        "NAME": "Shinada in allenamento",
+        "SCENARIO_STATUS": "8119004d",
+        "EXPLANATION": "Tatsuya ha iniziato a mostrare a Shinada cosa significhi essere un gourmet."
+    },
+    "17": {
+        "CATEGORY": "Tatsuya",
+        "NAME": "Gourmet Shinada",
+        "SCENARIO_STATUS": "8119004e",
+        "EXPLANATION": "Tatsuya ha mostrato a Shinada cosa ci vuole per essere un maestro gourmet."
+    },
+    "18": {
+        "CATEGORY": "Tatsuya",
+        "NAME": "Re del Gourmet Shinada",
+        "SCENARIO_STATUS": "8119004f",
+        "EXPLANATION": "Tatsuya ha mostrato a Shinada cosa ci vuole per essere un re dei buongustai."
+    },
+    "19": {
+        "CATEGORY": "Tatsuya",
+        "NAME": "Nuovo Piatto (Shinada)",
+        "SCENARIO_STATUS": "8119004c",
+        "EXPLANATION": "Shinada ora può ordinare il nuovo piatto di Tatsuya al Café Alps a Kineicho."
+    },
+    "20": {
+        "CATEGORY": "Minamida",
+        "NAME": "Battaglia Stradale di Nagasugai",
+        "SCENARIO_STATUS": "8116009f",
+        "EXPLANATION": "Hai completato la Battaglia Stradale di Nagasugai."
+    },
+    "21": {
+        "CATEGORY": "Minamida",
+        "NAME": "Battaglia Stradale di Tsukimino",
+        "SCENARIO_STATUS": "811600a0",
+        "EXPLANATION": "Hai completato la Battaglia della Strada di Tsukimino."
+    },
+    "22": {
+        "CATEGORY": "Minamida",
+        "NAME": "Battaglia Stradale di Sotenbori: Haruka Sotenbori",
+        "SCENARIO_STATUS": "811600a1",
+        "EXPLANATION": "Hai completato la Battaglia su Strada di Sotenbori di Haruka."
+    },
+    "23": {
+        "CATEGORY": "Minamida",
+        "NAME": "Battaglia Stradale di Sotenbori: Akiyama Sotenbori",
+        "SCENARIO_STATUS": "811600a2",
+        "EXPLANATION": "Hai completato la Sotenbori Road Battle di Akiyama."
+    },
+    "24": {
+        "CATEGORY": "Minamida",
+        "NAME": "Battaglia Stradale di Kineicho",
+        "SCENARIO_STATUS": "811600a3",
+        "EXPLANATION": "Hai completato la Battaglia Stradale di Kineicho."
+    },
+    "25": {
+        "CATEGORY": "Minamida",
+        "NAME": "Battaglia Stradale di Kamurocho",
+        "SCENARIO_STATUS": "811600a4",
+        "EXPLANATION": "Hai completato la Battaglia Stradale di Kamurocho."
+    },
+    "26": {
+        "CATEGORY": "Minamida",
+        "NAME": "Flashback di Yahata",
+        "SCENARIO_STATUS": "811600a5",
+        "EXPLANATION": "Hai completato la Battaglia Flashback di Yahata."
+    },
+    "27": {
+        "CATEGORY": "Minamida",
+        "NAME": "Flashback di Kugihara",
+        "SCENARIO_STATUS": "811600a6",
+        "EXPLANATION": "Hai completato la Battaglia Flashback di Kugihara."
+    },
+    "28": {
+        "CATEGORY": "Minamida",
+        "NAME": "Ricordo di Ogita",
+        "SCENARIO_STATUS": "811600a7",
+        "EXPLANATION": "Hai completato la Battaglia Flashback di Ogita."
+    },
+    "29": {
+        "CATEGORY": "Minamida",
+        "NAME": "Flashback di Daigo",
+        "SCENARIO_STATUS": "811600a8",
+        "EXPLANATION": "Hai completato la Battaglia Flashback di Daigo."
+    },
+    "30": {
+        "CATEGORY": "Sosuke",
+        "NAME": "Rotolo della Raffica",
+        "SCENARIO_STATUS": "81110008",
+        "EXPLANATION": "Hai completato l'addestramento della Pergamena della Burrasca."
+    },
+    "31": {
+        "CATEGORY": "Sosuke",
+        "NAME": "Pergamena del Miraggio di Calore",
+        "SCENARIO_STATUS": "8111000c",
+        "EXPLANATION": "Hai completato l'addestramento della Pergamena del Miraggio Caldo."
+    },
+    "32": {
+        "CATEGORY": "Sosuke",
+        "NAME": "Rotolo dell'Acqua Fluente",
+        "SCENARIO_STATUS": "81110010",
+        "EXPLANATION": "Hai completato l'addestramento della Pergamena dell'Acqua Corrente."
+    },
+    "33": {
+        "CATEGORY": "Sosuke",
+        "NAME": "Rotolo della Tana della Tigre",
+        "SCENARIO_STATUS": "81110017",
+        "EXPLANATION": "Hai completato l'addestramento della Pergamena della Tana della Tigre."
+    },
+    "34": {
+        "CATEGORY": "Sosuke",
+        "NAME": "Pergamena Suprema",
+        "SCENARIO_STATUS": "8111001b",
+        "EXPLANATION": "Hai completato l'addestramento della Pergamena Suprema."
+    },
+    "35": {
+        "CATEGORY": "Tendo",
+        "NAME": "Saggezza dell'Anima",
+        "SCENARIO_STATUS": "8112000c",
+        "EXPLANATION": "Hai completato Saggezza dell'Anima."
+    },
+    "36": {
+        "CATEGORY": "Tendo",
+        "NAME": "Saggezza delle Scogliere",
+        "SCENARIO_STATUS": "81120010",
+        "EXPLANATION": "Hai completato Saggezza delle Scogliere."
+    },
+    "37": {
+        "CATEGORY": "Tendo",
+        "NAME": "Saggezza delle Fiamme",
+        "SCENARIO_STATUS": "81120014",
+        "EXPLANATION": "Hai completato Saggezza delle Fiamme."
+    },
+    "38": {
+        "CATEGORY": "Tendo",
+        "NAME": "Saggezza della Terra",
+        "SCENARIO_STATUS": "81120018",
+        "EXPLANATION": "Hai completato Saggezza della Terra."
+    },
+    "39": {
+        "CATEGORY": "Tendo",
+        "NAME": "Saggezza del Cielo",
+        "SCENARIO_STATUS": "8112001c",
+        "EXPLANATION": "Hai completato Saggezza del Cielo."
+    },
+    "40": {
+        "CATEGORY": "Tendo",
+        "NAME": "Saggezza della Verità",
+        "SCENARIO_STATUS": "81120020",
+        "EXPLANATION": "Hai completato Saggezza della Verità."
+    },
+    "41": {
+        "CATEGORY": "Saigo",
+        "NAME": "Corsa Suicida",
+        "SCENARIO_STATUS": "81130009",
+        "EXPLANATION": "Hai completato Suicidal Running."
+    },
+    "42": {
+        "CATEGORY": "Saigo",
+        "NAME": "Sparatoria Suicida",
+        "SCENARIO_STATUS": "8113000e",
+        "EXPLANATION": "Hai completato Sparatoria Suicida."
+    },
+    "43": {
+        "CATEGORY": "Saigo",
+        "NAME": "Combattimento Suicida",
+        "SCENARIO_STATUS": "81130012",
+        "EXPLANATION": "Hai completato Combattimento Suicida."
+    },
+    "44": {
+        "CATEGORY": "Saigo",
+        "NAME": "Vero Suicidio: Corsa",
+        "SCENARIO_STATUS": "81130018",
+        "EXPLANATION": "Hai completato la Vera Corsa Suicida."
+    },
+    "45": {
+        "CATEGORY": "Saigo",
+        "NAME": "Vero Sparo Suicida",
+        "SCENARIO_STATUS": "8113001c",
+        "EXPLANATION": "Hai completato Vero Tiro Suicida."
+    },
+    "46": {
+        "CATEGORY": "Saigo",
+        "NAME": "Vero Combattimento Suicida",
+        "SCENARIO_STATUS": "81130020",
+        "EXPLANATION": "Hai completato il Vero Combattimento Suicida."
+    },
+    "47": {
+        "CATEGORY": "Ayanokoji",
+        "NAME": "Sentiero per la Virilità 1",
+        "SCENARIO_STATUS": "81140015",
+        "EXPLANATION": "Hai completato Sentiero verso la virilità (Passo 1)."
+    },
+    "48": {
+        "CATEGORY": "Ayanokoji",
+        "NAME": "Sentiero dell'Uomo 2",
+        "SCENARIO_STATUS": "8114001f",
+        "EXPLANATION": "Hai completato Percorso dell'Uomo (Fase 2)."
+    },
+    "49": {
+        "CATEGORY": "Ayanokoji",
+        "NAME": "Cammino verso la Virilità 3",
+        "SCENARIO_STATUS": "8114002a",
+        "EXPLANATION": "Hai completato il Sentiero verso la Virilità (Passo 3)."
+    },
+    "50": {
+        "CATEGORY": "Ayanokoji",
+        "NAME": "Via per la Virilità 4",
+        "SCENARIO_STATUS": "81140035",
+        "EXPLANATION": "Hai completato il Sentiero verso la Virilità (Passo 4)."
+    },
+    "51": {
+        "CATEGORY": "Ayanokoji",
+        "NAME": "Percorso alla Virilità 5",
+        "SCENARIO_STATUS": "8114003f",
+        "EXPLANATION": "Hai completato il Percorso verso la Mascolinità (Passo 5)."
+    },
+    "52": {
+        "CATEGORY": "Ayanokoji",
+        "NAME": "Percorso verso la Virilità F",
+        "SCENARIO_STATUS": "81140053",
+        "EXPLANATION": "Hai completato Percorso verso la Virilità (Finale)."
+    },
+    "53": {
+        "CATEGORY": "Yoko",
+        "NAME": "Segreto per la Buona Salute",
+        "SCENARIO_STATUS": "81150005",
+        "EXPLANATION": "Hai completato Il Segreto per la Buona Salute."
+    },
+    "54": {
+        "CATEGORY": "Yoko",
+        "NAME": "Segreto per la Cura del Corpo",
+        "SCENARIO_STATUS": "8115000c",
+        "EXPLANATION": "Hai completato Il Segreto per la Cura del Corpo."
+    },
+    "55": {
+        "CATEGORY": "Yoko",
+        "NAME": "Come apparire favoloso",
+        "SCENARIO_STATUS": "81150012",
+        "EXPLANATION": "Hai completato Come apparire favoloso."
+    },
+    "56": {
+        "CATEGORY": "Yoko",
+        "NAME": "Segreto per Capelli Magnifici",
+        "SCENARIO_STATUS": "81150016",
+        "EXPLANATION": "Hai completato Il Segreto per Capelli Magnifici."
+    },
+    "57": {
+        "CATEGORY": "Yoko",
+        "NAME": "Credi in te stesso",
+        "SCENARIO_STATUS": "8115001d",
+        "EXPLANATION": "Hai completato Credi in te stesso."
+    },
+    "58": {
+        "CATEGORY": "Yoko",
+        "NAME": "Continua a sognare",
+        "SCENARIO_STATUS": "81150027",
+        "EXPLANATION": "Hai completato Dream On."
+    },
+    "59": {
+        "CATEGORY": "Igarashi",
+        "NAME": "Allenamento Occhio Calore",
+        "SCENARIO_STATUS": "80f80022",
+        "EXPLANATION": "Hai completato l'addestramento di pesca fluviale."
+    },
+    "60": {
+        "CATEGORY": "Igarashi",
+        "NAME": "Allenamento Cursore Oscillazione",
+        "SCENARIO_STATUS": "80f80023",
+        "EXPLANATION": "Hai completato il corso per principianti al centro battuta."
+    },
+    "61": {
+        "CATEGORY": "Igarashi",
+        "NAME": "Allenamento di pugni pesanti",
+        "SCENARIO_STATUS": "80f80024",
+        "EXPLANATION": "Hai completato l'allenamento del corso intermedio al centro di battuta."
+    },
+    "62": {
+        "CATEGORY": "Igarashi",
+        "NAME": "Allenamento dell'Occhio di Battuta",
+        "SCENARIO_STATUS": "80f80025",
+        "EXPLANATION": "Hai completato l'allenamento di biliardo."
+    },
+    "63": {
+        "CATEGORY": "Igarashi",
+        "NAME": "Allenamento d'impatto",
+        "SCENARIO_STATUS": "80f80026",
+        "EXPLANATION": "Hai completato l'allenamento di karaoke."
+    },
+    "64": {
+        "CATEGORY": "Igarashi",
+        "NAME": "Allenamento Scorretto",
+        "SCENARIO_STATUS": "80f80027",
+        "EXPLANATION": "Hai completato l'addestramento UFO Catcher."
+    },
+    "65": {
+        "CATEGORY": "Igarashi",
+        "NAME": "Allenamento Occhio di Calore 2",
+        "SCENARIO_STATUS": "80f80029",
+        "EXPLANATION": "Hai completato l'allenamento nutrizionale livello 1."
+    },
+    "66": {
+        "CATEGORY": "Igarashi",
+        "NAME": "Allenamento Occhio di Calore 3",
+        "SCENARIO_STATUS": "80f8002a",
+        "EXPLANATION": "Hai completato l'allenamento nutrizionale livello 2."
+    },
+    "67": {
+        "CATEGORY": "Igarashi",
+        "NAME": "Allenamento Sguardo di Calore F",
+        "SCENARIO_STATUS": "80f8002b",
+        "EXPLANATION": "Hai completato l'addestramento alla pesca del marlin."
+    },
+    "types": {
+        "CATEGORY": "string_idx",
+        "NAME": "string_idx",
+        "SCENARIO_STATUS": "special_scenariostatus",
+        "EXPLANATION": "stringa"
+    }
+}
