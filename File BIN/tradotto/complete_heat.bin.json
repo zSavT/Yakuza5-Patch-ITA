@@ -751,8 +751,8 @@
     },
     "types": {
         "CATEGORY": "string_idx",
-        "NAME": "stringa",
+        "NAME": "string",
         "SCENARIO_STATUS": "special_scenariostatus",
-        "EXPLANATION": "stringa"
+        "EXPLANATION": "string"
     }
 }

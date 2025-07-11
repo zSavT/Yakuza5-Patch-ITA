@@ -1666,7 +1666,7 @@
         "FINISH_SCENARIO_STATE": "special_scenariocompare",
         "CAPTION_NAME": "string",
         "EMBLEM_NAME": "string",
-        "SUBTITLE": "stringa",
+        "SUBTITLE": "string",
         "PLAY_SCENE": "string",
         "BLUR_START": "special_value",
         "BLUR_END": "special_value"

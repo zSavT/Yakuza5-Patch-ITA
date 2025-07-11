@@ -127,7 +127,7 @@
     },
     "types": {
         "PATTERN": "value",
-        "NAME": "stringa",
+        "NAME": "string",
         "MIN_SIZE": "value",
         "MAX_SIZE": "value",
         "RATIO": "value"

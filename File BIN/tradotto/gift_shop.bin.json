@@ -93,6 +93,6 @@
     },
     "types": {
         "ITEMID": "itemid",
-        "HINT": "stringa"
+        "HINT": "string"
     }
 }

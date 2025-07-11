@@ -411,6 +411,6 @@
         "CATEGORY": "string_idx",
         "NAME": "string_idx",
         "SCENARIO_STATUS": "special_scenariostatus",
-        "EXPLANATION": "stringa"
+        "EXPLANATION": "string"
     }
 }

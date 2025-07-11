@@ -750,9 +750,9 @@
     "types": {
         "CATEGORY": "string",
         "ID": "special_value",
-        "NAME": "stringa",
+        "NAME": "string",
         "PRICE": "value",
-        "DESC": "Stringa",
+        "DESC": "string",
         "DRIVER_RANK": "special_value",
         "MAX_SPEED": "special_value",
         "TURBO_MAX_SPEED": "special_value",

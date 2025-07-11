@@ -2603,7 +2603,7 @@
         "TITLE": "string_tbl",
         "PLACE": "string_tbl",
         "SCENARIO": "special_scenariocategory",
-        "EXPLANATION": "stringa",
+        "EXPLANATION": "string",
         "TABAKO_EXPLANATION": "string_idx",
         "SCENARIO_STATUS": "special_scenariostatus",
         "FINISH_FLAG": "string_tbl"
