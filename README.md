@@ -72,17 +72,25 @@ Ovviamente, le parentesi quadre non devono essere incluse nel comando.
 
 # Funzionamento script sottotitoli
 
-Lo script utilizza le api di Gemini 2.0 per poter funzionare. Le API al momento sono utilizzabili gratuitamente (per ora). La chiave si può ottenere da [qui](https://aistudio.google.com/apikey).<br> i file csv presenti nella cartella "_input_". Output dell'operazione è salvato nella cartella "_tradotto_".
-Bisogna inserire la chiave all'interno del file "_traduttore_auto_csv/api_key.txt_" oppure lanciando lo script python tramite il flag "_--api [CHIAVE_API]_".
-Ovviamente bisogna sostituire "_CHIAVE API_" con la propria chiave.
+Lo script utilizzato per la pre-traduzione dei testi è [Alumen](https://github.com/zSavT/Alumen.git) che utilizza le api di Gemini 2.5 per poter funzionare. Maggiori informazioni sono presenti nella repository del tool.
 
+## Struttura file CSV
+
+I file csv del gioco hanno il seguente formato:
+
+```sql
+INTEGER INTEGER TEXT
 ```
-python .\main.py --api [CHIAVE_API]
-```
-Altri flag utilizzabili sono:
+Esempio
 ```py
---input [CARTELLA_INPUT] # Sono presenti tutti 
---oneThread # Non crea il thread secondario per la stampa del messaggio "Traducendo..."
+293	326	Answer me.
+2058	2177	You seem real tense.\nSomething happen?
+```
+
+La codifica dei file csv è "__UTF-16__".
+La lunghezza massima di caratteri visualizzabili in una cutscene è "__99__". Le virgolette si inseriscono con una tripla di virgolette.
+```py
+"""Ciao"""
 ```
 
 # Funzionamento estrazione BIN 2007.03.19
@@ -98,6 +106,10 @@ Esempio di importazione:
 20070319importer.exe [nome file json]
 ```
 
+# Funzionamento estrazione MSG
+
+Per i file MSG, si utilizza il programma realizzato da ma [BZ](https://brazilalliance.com.br/).
+
 # Funzionamento installer
 
 Per poter creare correttamente l'installer bisogna prima di tutto utilizzare ```packager.py``` per poter generare il file criptato della cartella "_data_". Lo script è guidato e bisogna solo indicare il percorso della cartella con le modifiche della Patch ed il nome del file pkg criptato. Nel file "chiave.txt" bisogna inserire la chiave di criptazione scelta.
@@ -110,7 +122,7 @@ Per poter generare l'eseguibile dello script bisogna utilizzare la libreria "__p
 
 Per generare l'eseguibile dell'installer per Windows, bisogna utilizzare il seguente comando:
 ```ps
-pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "chiave.txt:." installer.py
+pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "patch_ai.pkg:."--add-data "chiave.txt:." installer.py
 ```
 Nella cartella "_dist_", è presente l'eseguibile.
 ### Linux (Steam Deck)
@@ -143,7 +155,7 @@ Successivamente bisogna installare tutte le librerie utilizzate, presenti nel fi
 
 Successivamente bisogna avviare il comando per la creazione del file eseguibile:
 ```ps
-pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "chiave.txt:." installer.py
+pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "patch_ai.pkg:." --add-data "chiave.txt:." installer.py
 ```
 
 Una volta terminato, si può disattivare l'ambiente con il commando:
@@ -157,33 +169,44 @@ Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha 
 
 - [x] Codifica e decodifica dei file PAR
 - [x] Codifica e decodifica dei file BIN 2007.03.19
-- [ ] Modifica delle Texture
-- [ ] Modifica al Font
+- [x] Codifica e decodifica dei restanti file BIN
+- [x] Codifica e decodifica dei file MSG
+- [x] Modifica al Font
+
 # Altre patch della serie
 
 Lista dei progetti di patch in italiano per i giochi della serie:
 - [Yakuza 0](https://letraduzionidirulesless.wordpress.com/yakuza0-2/)
     - Come indicato nell'introduzione, la patch di Yakuza 0 è l'unica completa al 100% (o quasi).
+    - La versione Director's Cut, presenta la lingua italiana.
 - [Yakuza Kiwami 1 e 2](https://vittolarosa93.wixsite.com/kiwamivideo)
     - L'autore ha rilasciato sul sito delle patch parziali dei giochi/video dimostrativi.
+    - Verrà pubblicata prossimamente una patch ufficiale con al suo interno anche la traduzione in italiano.
 - [Yakuza 3 Remastered](https://vittolarosa93.wixsite.com/kiwamivideo)
     - L'autore ha rilasciato sul sito delle patch parziali del gioco/video dimostrativo.
-- [Yakuza 4 Remastered](https://github.com/zSavT/Yakuza4-Patch-ITA)
-    - Un'altra patch realizzata da me per la serie Yakuza è quella di Yakuza 5, il funzionamento ed il materiale tradotto è il medesimo.
-- Yakuza 5 Remastered
+    - Il remake del gioco (e non la remastered) sarà localizzato in italiano.
+- Yakuza 4 Remastered
     - Questo progetto
+- [Yakuza 5 Remastered](https://github.com/zSavT/Yakuza5-Patch-ITA)
+    - Un'altra patch realizzata da me per la serie Yakuza è quella di Yakuza 5, il funzionamento ed il materiale tradotto è il medesimo.
 - [Yakuza 6](https://www.nexusmods.com/yakuza6/mods/220)
     - Un ragazzo ha tradotto i sottotitoli delle cutscene e alcuni menu
 
-__N.B.__<br>
-Chi ha realizzato la patch per Yakuza 1 - 2 - 3, sta lavorando anche ad una patch totale per Yakuza 4 - 5 - 6.
-Gli autori sono liberi di attingere da questa progetto, previo avviso.
 
 ## Dipendenza e ringraziamenti
+Si ringrazia
 
 - Per la codifica e la decodifica dei file _PAR_ del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/Kaplas80/ParManager.git) da Kaplas80.<br>
 - Per la codifica e la decodifica dei file BIN 2007.03.19 del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/SlowpokeVG/Yakuza-2007.03.19-bin-file-exporter-importer) da SlowpokeVG.
+- Per la modifica dei font, è stata realizzata partendo dalla mod 4K dei font reperibile da [qui](https://www.nexusmods.com/yakuza4remastered/mods/14) realizzata da Chalkint.
+- Per la codifica dei file _MSG_, _BIN_ del gioco, si utilizza il programma sviluppato da [BZ](https://brazilalliance.com.br/).
 
+## Copyright
+This patch does not contain copyrighted material, has no functional autonomy, and you must have your original own copy to apply it.
+All game rights, intellectual property, logo/names and movies/images are property of Sega Corporation.
 
-# Altri progetti di traduzione miei
+# Altri progetti di traduzione realizzati da me
 [Valkyria Chronicles Patch ITA](https://github.com/zSavT/Valkyria-Chronicles-Patch-ITA)
+
+
+[Digimon Story Cyber Sleuth: Complete Edition](https://github.com/zSavT/Digimon-Story-Cyber-Sleuth-Patch-ITA.git)
