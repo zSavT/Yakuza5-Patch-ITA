@@ -1,0 +1,749 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "34392"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "34396"
+msgid "Trendy High Schooler"
+msgstr ""
+
+msgctxt "34400"
+msgid "Starry-eyed High Schooler"
+msgstr ""
+
+msgctxt "34404"
+msgid "How is school lately?"
+msgstr ""
+
+msgctxt "34408"
+msgid "You two seem close."
+msgstr ""
+
+msgctxt "34412"
+msgid "What were your names again?"
+msgstr ""
+
+msgctxt "34416"
+msgid "Madoka"
+msgstr ""
+
+msgctxt "34420"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "34424"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "34428"
+msgid "Hiromi"
+msgstr ""
+
+msgctxt "34432"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "34436"
+msgid "ArmsID"
+msgstr ""
+
+msgctxt "34440"
+msgid "F_YNG_TLK_sitchr_kamae"
+msgstr ""
+
+msgctxt "34444"
+msgid "F_YNG_TLK_sitchr_no"
+msgstr ""
+
+msgctxt "34448"
+msgid "F_YNG_TLK_sitchr_smile"
+msgstr ""
+
+msgctxt "34452"
+msgid "F_YNG_TLK_sitchr_think"
+msgstr ""
+
+msgctxt "34456"
+msgid "F_YNG_TLK_sitchr_yes"
+msgstr ""
+
+msgctxt "34460"
+msgid "Kani-chan"
+msgstr ""
+
+msgctxt "34464"
+msgid "Mapplouge"
+msgstr ""
+
+msgctxt "34468"
+msgid "Appleton"
+msgstr ""
+
+msgctxt "34472"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "34476"
+msgid "F_YNG_TLK_sitchr_quest"
+msgstr ""
+
+msgctxt "34480"
+msgid "F_YNG_TLK_sitchr_kansin"
+msgstr ""
+
+msgctxt "34484"
+msgid "To study and learn about relationships."
+msgstr ""
+
+msgctxt "34488"
+msgid "To spend time with friends of the same age."
+msgstr ""
+
+msgctxt "34492"
+msgid "To be honest, I don't know."
+msgstr ""
+
+msgctxt "34496"
+msgid "Romance isn't a priority right now."
+msgstr ""
+
+msgctxt "34500"
+msgid "I want to concentrate on my career."
+msgstr ""
+
+msgctxt "34504"
+msgid "I'm too young for a boyfriend."
+msgstr ""
+
+msgctxt "34508"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "76_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "88_Trendy High Schooler"
+msgid "......"
+msgstr ""
+
+msgctxt "100_Starry-eyed High Schooler"
+msgid "......"
+msgstr ""
+
+msgctxt "112_Haruka"
+msgid "(I guess I should get them talking. What should I talk about?)"
+msgstr ""
+
+msgctxt "124_Haruka"
+msgid "So, um, how's school?"
+msgstr ""
+
+msgctxt "136_Trendy High Schooler"
+msgid "What do you mean, how's school?"
+msgstr ""
+
+msgctxt "148_Haruka"
+msgid "Uh, well, I haven't been able to attend very much lately."
+msgstr ""
+
+msgctxt "160_Starry-eyed High Schooler"
+msgid "Well, nothin's really happenin'. It's gonna be winter break soon."
+msgstr ""
+
+msgctxt "172_Trendy High Schooler"
+msgid ""
+"Huh? Nothin's happenin'? That's not true, Madoka. Yamamoto asked you out, "
+"didn't he?"
+msgstr ""
+
+msgctxt "184_Madoka"
+msgid "Well that's not even important! I got a boyfriend already, anyway."
+msgstr ""
+
+msgctxt "196_Haruka"
+msgid "(Okay, this girl's named Madoka. I better not forget.)"
+msgstr ""
+
+msgctxt "208_Madoka"
+msgid ""
+"You say that, Hiromi, but you're turnin' things up with Shino-senpai. "
+"You're textin' him all day long."
+msgstr ""
+
+msgctxt "220_Hiromi"
+msgid "Pfft. I don't even text him that much."
+msgstr ""
+
+msgctxt "232_Haruka"
+msgid ""
+"(This girl's Hiromi. I'm sure glad I didn't have to ask my classmates what "
+"their names are.)"
+msgstr ""
+
+msgctxt "244_Haruka"
+msgid "Um, you two are pretty close, huh?"
+msgstr ""
+
+msgctxt "256_Trendy High Schooler"
+msgid "Well, yeah, we grew up together."
+msgstr ""
+
+msgctxt "268_Haruka"
+msgid ""
+"Oh, that must be nice. I moved here from Okinawa, so most of my childhood "
+"friends are still over there..."
+msgstr ""
+
+msgctxt "280_Starry-eyed High Schooler"
+msgid ""
+"I dunno, I'm super jealous you got to live in Okinawa. It's so nice over "
+"there."
+msgstr ""
+
+msgctxt "292_Trendy High Schooler"
+msgid "Just get your boyfriend to take you to Okinawa, Madoka."
+msgstr ""
+
+msgctxt "304_Madoka"
+msgid "Uh, how rich do you think he is? That ain't happenin'."
+msgstr ""
+
+msgctxt "316_Haruka"
+msgid "(Okay, this girl's named Madoka. I better not forget.)"
+msgstr ""
+
+msgctxt "328_Madoka"
+msgid ""
+"Heh, you could always ask Shino-senpai, Hiromi. Just tell him you wanna go "
+"to Okinawa. See if he'll put up."
+msgstr ""
+
+msgctxt "340_Hiromi"
+msgid "Please, like that's gonna happen."
+msgstr ""
+
+msgctxt "352_Haruka"
+msgid ""
+"(This girl's Hiromi. I'm sure glad I didn't have to ask my classmates what "
+"their names are.)"
+msgstr ""
+
+msgctxt "364_Haruka"
+msgid "Uh, um, I'm sorry, what were your names again?"
+msgstr ""
+
+msgctxt "376_Trendy High Schooler"
+msgid "Huh? Haruka-chan, ya don't remember our names?"
+msgstr ""
+
+msgctxt "388_Starry-eyed High Schooler"
+msgid "No way! Seriously!?"
+msgstr ""
+
+msgctxt "400_Haruka"
+msgid ""
+"I'm so sorry! I haven't made friends in class, and I haven't been able to "
+"attend school very much..."
+msgstr ""
+
+msgctxt "412_Trendy High Schooler"
+msgid "Sure, I guess, but still..."
+msgstr ""
+
+msgctxt "424_Starry-eyed High Schooler"
+msgid "Huh. Well, I'm Madoka."
+msgstr ""
+
+msgctxt "436_Trendy High Schooler"
+msgid "And I'm Hiromi. Don't forget again, okay?"
+msgstr ""
+
+msgctxt "448_Haruka"
+msgid "I'm really sorry!"
+msgstr ""
+
+msgctxt "460_Haruka"
+msgid ""
+"(I should have been more subtle about getting their names. Now they're mad "
+"at me...)"
+msgstr ""
+
+msgctxt "520_Madoka"
+msgid ""
+"So, ya know how skin dries out in the winter? That's why you gotta take "
+"care of your lips. Keep 'em plushy and kissable."
+msgstr ""
+
+msgctxt "532_Madoka"
+msgid ""
+"It's no biggie during school, but you don't wanna be on a hot date and "
+"puckerin' up with bone-dry lips. You want 'em cute and tempting, yeah?"
+msgstr ""
+
+msgctxt "544_Hiromi"
+msgid "Oh, no doubt, no doubt. You agree, don'tcha, Haruka-chan?"
+msgstr ""
+
+msgctxt "556_Haruka"
+msgid "Oh, uh, yeah. My lips get chapped all the time."
+msgstr ""
+
+msgctxt "568_Madoka"
+msgid ""
+"Yeah, but ya know how there's all kinds of lipstick? You gotta choose "
+"wisely. You know Kani-chan? She uses Bentendo's Marouge."
+msgstr ""
+
+msgctxt "580_Hiromi"
+msgid "You saw that on TV, didn't ya? Is that why you're all about Marouge lately?"
+msgstr ""
+
+msgctxt "592_Madoka"
+msgid "Hiromi, you use Appleton, right?"
+msgstr ""
+
+msgctxt "604_Hiromi"
+msgid ""
+"Yeah, Appleton's the bomb. It's super glossy, so it makes my lips all shiny "
+"and perfect."
+msgstr ""
+
+msgctxt "616_Haruka"
+msgid ""
+"(They're throwing around all these brand names I've never heard of. I wish "
+"I knew what they were talking about...)"
+msgstr ""
+
+msgctxt "628_Hiromi"
+msgid "Hey, Haruka-chan, what do you use on your lips?"
+msgstr ""
+
+msgctxt "640_Haruka"
+msgid "Huh? You mean like uh, lipstick? Uhh..."
+msgstr ""
+
+msgctxt "652_Haruka"
+msgid "(I have to keep up with them. What should I say I use?)"
+msgstr ""
+
+msgctxt "664_Haruka"
+msgid "Kani-chan, I think?"
+msgstr ""
+
+msgctxt "676_Madoka"
+msgid "Wait, what? Kani-chan? She doesn't have her own line yet."
+msgstr ""
+
+msgctxt "688_Hiromi"
+msgid ""
+"Do ya even know who Kani-chan is? She's a pretty famous model. But forget "
+"that, I wanna know what kind of lipstick you're usin'."
+msgstr ""
+
+msgctxt "700_Haruka"
+msgid "Oh. That's right."
+msgstr ""
+
+msgctxt "712_Madoka"
+msgid "Are ya really listenin' to us, Haruka-chan?"
+msgstr ""
+
+msgctxt "724_Hiromi"
+msgid "Ya seem kinda distracted."
+msgstr ""
+
+msgctxt "736_Haruka"
+msgid "Sorry."
+msgstr ""
+
+msgctxt "748_Haruka"
+msgid ""
+"(I screwed up. I didn't think having a simple conversation would be this "
+"hard!)"
+msgstr ""
+
+msgctxt "760_Haruka"
+msgid "Mapplouge, I think?"
+msgstr ""
+
+msgctxt "772_Madoka"
+msgid "Mapplouge? The heck is that? Some weird combination of Marouge and Appleton?"
+msgstr ""
+
+msgctxt "784_Hiromi"
+msgid ""
+"Wait a sec. Are you just makin' stuff up 'cause you don't know much about "
+"makeup, Haruka-chan?"
+msgstr ""
+
+msgctxt "796_Madoka"
+msgid "You're a pop idol, aren't you? I figured you'd know this kinda stuff!"
+msgstr ""
+
+msgctxt "808_Haruka"
+msgid "I'm sorry, I really don't know all that much about it..."
+msgstr ""
+
+msgctxt "820_Haruka"
+msgid ""
+"(That didn't go very well... I never thought having a simple conversation "
+"would be this hard.)"
+msgstr ""
+
+msgctxt "832_Haruka"
+msgid "I use Appleton."
+msgstr ""
+
+msgctxt "844_Hiromi"
+msgid "Oh, really? That's the same as me!"
+msgstr ""
+
+msgctxt "856_Haruka"
+msgid "Yeah, cool, huh?"
+msgstr ""
+
+msgctxt "868_Haruka"
+msgid "(I had to lie, but no harm in a little white lie, right?)"
+msgstr ""
+
+msgctxt "880_Madoka"
+msgid ""
+"Oh, but Marouge is good, too! You should definitely give it a try sometime, "
+"okay?"
+msgstr ""
+
+msgctxt "892_Haruka"
+msgid "Sure, sounds great. I'll put Marouge on my list."
+msgstr ""
+
+msgctxt "904_Hiromi"
+msgid ""
+"You don't even have to, though. Appleton's the best. Ya can't go changing "
+"it, 'cause we're Appleton Girls!"
+msgstr ""
+
+msgctxt "916_Haruka"
+msgid "(I think that went well. Maybe we can be friends after all!)"
+msgstr ""
+
+msgctxt "976_Madoka"
+msgid ""
+"So anyway, Haruka-chan, I know you're busy, but what about school? Are ya "
+"planning on going to college or anything?"
+msgstr ""
+
+msgctxt "988_Haruka"
+msgid ""
+"Hmm. I don't know. I haven't really thought about it. There's just so much "
+"to do with work."
+msgstr ""
+
+msgctxt "1000_Madoka"
+msgid "Oh. So you might not have to deal with entrance exams or any of that?"
+msgstr ""
+
+msgctxt "1012_Haruka"
+msgid "Uh, no, maybe not..."
+msgstr ""
+
+msgctxt "1024_Hiromi"
+msgid ""
+"Must be nice. Wait, though, if you're not gonna take entrance exams, what's "
+"the point of goin' to school at all?"
+msgstr ""
+
+msgctxt "1036_Madoka"
+msgid ""
+"Geez, Hiromi, that was kinda mean, you know? I mean, it's not like "
+"Haruka-chan doesn't wanna go to school or anything, right?"
+msgstr ""
+
+msgctxt "1048_Haruka"
+msgid "Right! I like going to school!"
+msgstr ""
+
+msgctxt "1060_Hiromi"
+msgid ""
+"Well, okay, but I'm still kinda confused. Why do ya even bother with "
+"school, Haruka-chan?"
+msgstr ""
+
+msgctxt "1072_Haruka"
+msgid ""
+"I think high school is a place where I can study and learn about things. It "
+"lets me learn about people, too."
+msgstr ""
+
+msgctxt "1084_Hiromi"
+msgid "Oh, I getcha. I bet you wish you could come to school more often then, huh?"
+msgstr ""
+
+msgctxt "1096_Madoka"
+msgid ""
+"See, I told ya. It's not like Haruka-chan doesn't wanna come to school. "
+"Right, Haruka-chan?"
+msgstr ""
+
+msgctxt "1108_Haruka"
+msgid ""
+"Yeah. I wish I could spend time with people my own age, whether it's in "
+"class or just hanging out during lunch. That way, I could get away from the "
+"work side of the world."
+msgstr ""
+
+msgctxt "1120_Hiromi"
+msgid ""
+"Oh, yeah. I bet in the idol world, everyone your age is competing for sales "
+"and attention. Can't really make friends with them, then, huh?"
+msgstr ""
+
+msgctxt "1132_Madoka"
+msgid ""
+"And you could really relax with some people outside of the business at "
+"school."
+msgstr ""
+
+msgctxt "1144_Haruka"
+msgid "I guess. To be honest, I really don't know..."
+msgstr ""
+
+msgctxt "1156_Hiromi"
+msgid "Oh. Really?"
+msgstr ""
+
+msgctxt "1168_Madoka"
+msgid "We shouldn'ta asked that, huh?"
+msgstr ""
+
+msgctxt "1180_Haruka"
+msgid "No, no, it's okay."
+msgstr ""
+
+msgctxt "1192_Hiromi"
+msgid "Um, Haruka-chan, please don't quit school, okay?"
+msgstr ""
+
+msgctxt "1204_Madoka"
+msgid ""
+"Oh, sheesh, Hiromi! You coulda been a bit more thoughtful. Sorry 'bout "
+"that, Haruka-chan."
+msgstr ""
+
+msgctxt "1216_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "1228_Haruka"
+msgid "It's just that I haven't made many friends yet at school."
+msgstr ""
+
+msgctxt "1240_Madoka"
+msgid "Really? We can be your friends, if ya like?"
+msgstr ""
+
+msgctxt "1252_Hiromi"
+msgid "It'd be so cool to be friends with a celebrity! I can totally brag about it."
+msgstr ""
+
+msgctxt "1264_Madoka"
+msgid ""
+"Ooh, yeah, Haruka-chan, can I tell my friends about ya? And how we're "
+"friends?"
+msgstr ""
+
+msgctxt "1276_Haruka"
+msgid "Uh, well, sure. Of course."
+msgstr ""
+
+msgctxt "1288_Haruka"
+msgid ""
+"(They just want to know me as a celebrity. I wonder if I can ever be just a "
+"regular friend...)"
+msgstr ""
+
+msgctxt "1348_Madoka"
+msgid ""
+"It must be so cool to be a pop star, Haruka-chan. You get to meet all sorts "
+"of celebrities all the time, don'tcha?"
+msgstr ""
+
+msgctxt "1360_Hiromi"
+msgid ""
+"Yeah, Haruka-chan, didn't I see ya on TV together with Nonomiya-kun the "
+"other night?"
+msgstr ""
+
+msgctxt "1372_Madoka"
+msgid ""
+"No way, really? I'm a huge fan of his! Did ya get to talk with him, "
+"Haruka-chan? What was he like?"
+msgstr ""
+
+msgctxt "1384_Haruka"
+msgid "(Nonomiya-kun? I don't remember him.)"
+msgstr ""
+
+msgctxt "1396_Haruka"
+msgid ""
+"No. I didn't talk to him at all. I don't really have any friends in the "
+"celebrity world..."
+msgstr ""
+
+msgctxt "1408_Madoka"
+msgid ""
+"Sure, maybe not yet. But if you play your cards right, maybe you could even "
+"date Nonomiya-kun someday!"
+msgstr ""
+
+msgctxt "1420_Hiromi"
+msgid "Don't like guy celebrities hit ya up for your number or email?"
+msgstr ""
+
+msgctxt "1432_Madoka"
+msgid "Is it true your manager won't let you date anyone? Doesn't that suck?"
+msgstr ""
+
+msgctxt "1444_Haruka"
+msgid "No, there's nothing like that..."
+msgstr ""
+
+msgctxt "1456_Hiromi"
+msgid "So you've got a boyfriend, then?"
+msgstr ""
+
+msgctxt "1468_Haruka"
+msgid "No, I don't."
+msgstr ""
+
+msgctxt "1480_Hiromi"
+msgid ""
+"Why not? It's no fun not havin' a guy around. Why don't ya find yourself a "
+"boyfriend?"
+msgstr ""
+
+msgctxt "1492_Haruka"
+msgid ""
+"Well, because, uh, romance isn't really a priority for me right now. It's "
+"not all that important, anyway."
+msgstr ""
+
+msgctxt "1504_Madoka"
+msgid "Huh? Is that some kinda dig at us?"
+msgstr ""
+
+msgctxt "1516_Haruka"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "1528_Hiromi"
+msgid ""
+"We got boyfriends. Ya got somethin' against us thinkin' romance is "
+"important?"
+msgstr ""
+
+msgctxt "1540_Haruka"
+msgid "That isn't what I meant!"
+msgstr ""
+
+msgctxt "1552_Madoka"
+msgid "Well, then, what didja mean?"
+msgstr ""
+
+msgctxt "1564_Hiromi"
+msgid "Gee, Haruka-chan, you're not as nice as how ya present yourself on TV."
+msgstr ""
+
+msgctxt "1576_Haruka"
+msgid "(Oh, no... This is really not the way to make friends, is it?)"
+msgstr ""
+
+msgctxt "1588_Haruka"
+msgid ""
+"Right now, I want to concentrate on my career. I don't have time to get a "
+"boyfriend."
+msgstr ""
+
+msgctxt "1600_Madoka"
+msgid "I guess so. You're still tryin' to make it. Can't afford a scandal now, huh?"
+msgstr ""
+
+msgctxt "1612_Hiromi"
+msgid ""
+"And when you're a star, they put ya on a diet so ya can't eat what ya want, "
+"right?"
+msgstr ""
+
+msgctxt "1624_Madoka"
+msgid ""
+"Yeah? When ya put it that way, maybe this bein' a star thing ain't all that "
+"fun."
+msgstr ""
+
+msgctxt "1636_Haruka"
+msgid ""
+"Oh, no, work is fun. It does feel great when you have all those people "
+"cheering you on."
+msgstr ""
+
+msgctxt "1648_Madoka"
+msgid "Oh, but your fans. Aren't they mostly like, creepy otaku guys?"
+msgstr ""
+
+msgctxt "1660_Haruka"
+msgid "That doesn't really bother me..."
+msgstr ""
+
+msgctxt "1672_Hiromi"
+msgid ""
+"That's enough, Madoka! I'm your fan, Haruka-chan. You're gonna keep at it, "
+"right?"
+msgstr ""
+
+msgctxt "1684_Haruka"
+msgid "Oh, uh, yeah! Thanks."
+msgstr ""
+
+msgctxt "1696_Haruka"
+msgid "I just think I'm a little young for a serious boyfriend."
+msgstr ""
+
+msgctxt "1708_Hiromi"
+msgid "That ain't true. Why, Madoka here had a guy back in middle school!"
+msgstr ""
+
+msgctxt "1720_Madoka"
+msgid "Hey! Don't go spillin' my whole story like that!"
+msgstr ""
+
+msgctxt "1732_Hiromi"
+msgid "Wait, wait, so ya mean ya haven't had your first kiss yet?"
+msgstr ""
+
+msgctxt "1744_Haruka"
+msgid "Huh? Uh, er, um..."
+msgstr ""
+
+msgctxt "1756_Madoka"
+msgid "Whoa! Not yet!? No way, no way, no way!"
+msgstr ""
+
+msgctxt "1768_Hiromi"
+msgid "No friggin' way! You're kiddin', right?"
+msgstr ""
+
+msgctxt "1780_Haruka"
+msgid "(Ugh... I want to go home!)"
+msgstr ""

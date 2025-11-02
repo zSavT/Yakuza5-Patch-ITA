@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "116"
+msgid "What would you like to read?"
+msgstr ""
+
+msgctxt "6448"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6452"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "6456"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "6460"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "6464"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "6468"
+msgid "A-bout!"
+msgstr ""
+
+msgctxt "6472"
+msgid "Ahiru no Sora"
+msgstr ""
+
+msgctxt "6476"
+msgid "Baby Steps"
+msgstr ""
+
+msgctxt "6480"
+msgid "Be Dash!"
+msgstr ""
+
+msgctxt "6484"
+msgid "BLACK OUT"
+msgstr ""
+
+msgctxt "6488"
+msgid "Choujin Gakuen"
+msgstr ""
+
+msgctxt "6492"
+msgid "Countrouble"
+msgstr ""
+
+msgctxt "6496"
+msgid "FAIRY TAIL"
+msgstr ""
+
+msgctxt "6500"
+msgid "GE: Good Ending"
+msgstr ""
+
+msgctxt "6504"
+msgid "Hajime no Ippo"
+msgstr ""
+
+msgctxt "6508"
+msgid "A Town Where You Live"
+msgstr ""
+
+msgctxt "6512"
+msgid "Kurono Royale"
+msgstr ""
+
+msgctxt "6516"
+msgid "Sherlock Bones"
+msgstr ""
+
+msgctxt "6520"
+msgid "Attack on Titan"
+msgstr ""
+
+msgctxt "6524"
+msgid "My Wife is Wagatsuma-san"
+msgstr ""
+
+msgctxt "6528"
+msgid "Yamada-Kun and the Seven Witches"
+msgstr ""
+
+msgctxt "6532"
+msgid "Animal Land"
+msgstr ""
+
+msgctxt "6536"
+msgid "Cage of Eden"
+msgstr ""
+
+msgctxt "6540"
+msgid "Initial D"
+msgstr ""
+
+msgctxt "6544"
+msgid "Tobaku Datenroku Kaiji Kazuya-hen"
+msgstr ""
+
+msgctxt "6548"
+msgid "GHOST IN THE SHELL"
+msgstr ""
+
+msgctxt "6552"
+msgid "Minami-ke"
+msgstr ""
+
+msgctxt "6556"
+msgid "PONCHO"
+msgstr ""
+
+msgctxt "6560"
+msgid "Sengoku"
+msgstr ""
+
+msgctxt "6564"
+msgid "Suna no Eikan"
+msgstr ""
+
+msgctxt "6568"
+msgid "None"
+msgstr ""
+
+msgctxt "6572"
+msgid "A-BOUT\\a_bout"
+msgstr ""
+
+msgctxt "6576"
+msgid "ahiru_no_sora\\ahiru_no_sora"
+msgstr ""
+
+msgctxt "6580"
+msgid "babysteps\\babysteps"
+msgstr ""
+
+msgctxt "6584"
+msgid "BEDASH\\BEDASH"
+msgstr ""
+
+msgctxt "6588"
+msgid "BLACKOUT\\BLACKOUT"
+msgstr ""
+
+msgctxt "6592"
+msgid "choujingakuen\\choujingakuen"
+msgstr ""
+
+msgctxt "6596"
+msgid "countrouble\\countrouble"
+msgstr ""
+
+msgctxt "6600"
+msgid "doubutsu_no_kuni\\doubutsu_no_kuni"
+msgstr ""
+
+msgctxt "6604"
+msgid "eden_no_ori\\eden_no_ori"
+msgstr ""
+
+msgctxt "6608"
+msgid "FAIRYTAIL\\FAIRYTAIL"
+msgstr ""
+
+msgctxt "6612"
+msgid "GE\\GE"
+msgstr ""
+
+msgctxt "6616"
+msgid "hajime_no_ippo\\hajime_no_ippo"
+msgstr ""
+
+msgctxt "6620"
+msgid "kimi_no_irumachi\\kimi_no_irumachi"
+msgstr ""
+
+msgctxt "6624"
+msgid "kurono\\kurono"
+msgstr ""
+
+msgctxt "6628"
+msgid "sherdock\\sherdock"
+msgstr ""
+
+msgctxt "6632"
+msgid "shingeki_no_kyojin\\shingeki_no_kyojin"
+msgstr ""
+
+msgctxt "6636"
+msgid "wagatsumasan\\wagatsumasan"
+msgstr ""
+
+msgctxt "6640"
+msgid "yamadakun\\yamadakun"
+msgstr ""
+
+msgctxt "6644"
+msgid "ym_InitialD\\ym_InitialD"
+msgstr ""
+
+msgctxt "6648"
+msgid "ym_kaiji\\ym_kaiji"
+msgstr ""
+
+msgctxt "6652"
+msgid "ym_koukaku\\ym_koukaku"
+msgstr ""
+
+msgctxt "6656"
+msgid "ym_minamike\\ym_minamike"
+msgstr ""
+
+msgctxt "6660"
+msgid "ym_poncho\\ym_poncho"
+msgstr ""
+
+msgctxt "6664"
+msgid "ym_sengoku\\ym_sengoku"
+msgstr ""
+
+msgctxt "6668"
+msgid "ym_sunanoeikan\\ym_sunanoeikan"
+msgstr ""
+
+msgctxt "56_Kiryu"
+msgid ""
+"(Comics, huh. Which one should I read?)\r\n"
+"　 "
+msgstr ""
+
+msgctxt "68_Akiyama"
+msgid ""
+"(Comics... What should I read?)\r\n"
+"　 "
+msgstr ""
+
+msgctxt "80_Saejima"
+msgid ""
+"(Comics, eh? Which one's good?)\r\n"
+"　 "
+msgstr ""
+
+msgctxt "92_Shinada"
+msgid ""
+"(Hey, comics! I guess I'll read some.)\r\n"
+"　 "
+msgstr ""
+
+msgctxt "104_Haruka"
+msgid ""
+"(Oh, comics. Which one should I read?)\r\n"
+"　  "
+msgstr ""
+
+msgctxt "740_Kiryu"
+msgid "(I'll stop here.)  "
+msgstr ""
+
+msgctxt "752_Akiyama"
+msgid "(I'll stop here.)  "
+msgstr ""
+
+msgctxt "764_Saejima"
+msgid "(I'm done.)"
+msgstr ""
+
+msgctxt "776_Shinada"
+msgid "(I'll stop here.)  "
+msgstr ""
+
+msgctxt "788_Haruka"
+msgid "(I'll come back later.)"
+msgstr ""

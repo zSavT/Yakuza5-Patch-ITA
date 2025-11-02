@@ -1,0 +1,636 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "296"
+msgid "You got <Color:8>Staminan Royale<Color:Default>."
+msgstr ""
+
+msgctxt "320"
+msgid "You got <Color:8>Red Jewel<Color:Default>."
+msgstr ""
+
+msgctxt "524"
+msgid "You got 3,300 experience points."
+msgstr ""
+
+msgctxt "27536"
+msgid "Sugihara"
+msgstr ""
+
+msgctxt "27540"
+msgid "Maya"
+msgstr ""
+
+msgctxt "27544"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "27548"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "27552"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "27556"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "27560"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "27564"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "27568"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "27572"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "27576"
+msgid "?"
+msgstr ""
+
+msgctxt "27580"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "27584"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "27588"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "27592"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "27596"
+msgid "SD05_F_NML_TLK_stand_funya"
+msgstr ""
+
+msgctxt "27600"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "27604"
+msgid "Girl"
+msgstr ""
+
+msgctxt "27608"
+msgid "M_NML_REA_korobu_br"
+msgstr ""
+
+msgctxt "27612"
+msgid "M_NML_REA_korobu_downl_lp"
+msgstr ""
+
+msgctxt "27616"
+msgid "F_NML_TLK_damage_kamae"
+msgstr ""
+
+msgctxt "27620"
+msgid "F_NML_TLK_damage_sorry"
+msgstr ""
+
+msgctxt "27624"
+msgid "F_nml_stand"
+msgstr ""
+
+msgctxt "27628"
+msgid "Yamaura"
+msgstr ""
+
+msgctxt "92_Sugihara"
+msgid ""
+"Wait, what!? All these guys... By yourself? Screw this, I'm\r\n"
+"outta here!"
+msgstr ""
+
+msgctxt "116_Sugihara"
+msgid "You're amazing, Akiyama-san."
+msgstr ""
+
+msgctxt "128_Akiyama"
+msgid "Heh. You all right?"
+msgstr ""
+
+msgctxt "140_Maya"
+msgid "I'm so glad you were my manager today, Akiyama-san."
+msgstr ""
+
+msgctxt "152_Maya"
+msgid "But now this really is the end, isn't it?"
+msgstr ""
+
+msgctxt "164_Akiyama"
+msgid "Yeah. That's how it goes."
+msgstr ""
+
+msgctxt "176_Maya"
+msgid ""
+"I get to meet all kinds of people in this job, but things\r\n"
+"tend to move so quickly, I usually never see them again."
+msgstr ""
+
+msgctxt "200_Sugihara"
+msgid ""
+"Thank you so much for everything today, Akiyama-san. I have\r\n"
+"to admit there were some awkward moments here and there,\r\n"
+"but... I really had a great time!"
+msgstr ""
+
+msgctxt "212_Akiyama"
+msgid "Haha... A manager's job isn't easy. I know that now."
+msgstr ""
+
+msgctxt "224_Sugihara"
+msgid ""
+"Thank you so much for everything today, Akiyama-san. Thanks\r\n"
+"to you, I was able to focus on my work."
+msgstr ""
+
+msgctxt "236_Akiyama"
+msgid "That right? Glad to hear it."
+msgstr ""
+
+msgctxt "248_Maya"
+msgid ""
+"I'm usually very guarded around people, so I was worried\r\n"
+"about not having my usual manager to steer me today."
+msgstr ""
+
+msgctxt "260_Maya"
+msgid "But I'm very glad I got you instead, Akiyama-san."
+msgstr ""
+
+msgctxt "272_Maya"
+msgid "So, um... If you don't mind, may I give you these?"
+msgstr ""
+
+msgctxt "344_Sugihara"
+msgid ""
+"I'm still poor, so that's about all I could give you to show\r\n"
+"my gratitude. Sorry it's not much."
+msgstr ""
+
+msgctxt "356_Akiyama"
+msgid "No, no, you made my day. Thank you."
+msgstr ""
+
+msgctxt "368_Sugihara"
+msgid ""
+"Thank you again, Akiyama-san. I'm pretty high-maintenance,\r\n"
+"aren't I? I'm painfully aware of it..."
+msgstr ""
+
+msgctxt "380_Akiyama"
+msgid ""
+"Yeah, well, it definitely made the manager job a lot more\r\n"
+"interesting. I'm sure your regular manager feels the same."
+msgstr ""
+
+msgctxt "392_Maya"
+msgid "You really think so?"
+msgstr ""
+
+msgctxt "404_Akiyama"
+msgid ""
+"Well, I was your manager for the day. I'd like to think I've\r\n"
+"earned at least that much trust."
+msgstr ""
+
+msgctxt "416_Maya"
+msgid "Hahaha... You have."
+msgstr ""
+
+msgctxt "428_Maya"
+msgid "Okay, Akiyama-san. Thank you so much for today! Goodbye!"
+msgstr ""
+
+msgctxt "452_Sugihara"
+msgid "(Keep at it, Maya-chan.)"
+msgstr ""
+
+msgctxt "548_Sugihara"
+msgid "Okay, I better get going."
+msgstr ""
+
+msgctxt "560_Maya"
+msgid "Akiyama-san..."
+msgstr ""
+
+msgctxt "572_Akiyama"
+msgid ""
+"Hang in there, Maya-chan. I'll be cheering for you from the\r\n"
+"other side of the TV. Take care."
+msgstr ""
+
+msgctxt "584_?"
+msgid "Not so fast!"
+msgstr ""
+
+msgctxt "596_Akiyama"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "608_Maya"
+msgid "Sugihara-san!?"
+msgstr ""
+
+msgctxt "620_Sugihara"
+msgid ""
+"Ya think you can just stroll away after dissin' me to my\r\n"
+"face? You little punk, I'll show ya what I'm about."
+msgstr ""
+
+msgctxt "632_Akiyama"
+msgid "Really? You know, for a big star, you're amazingly petty."
+msgstr ""
+
+msgctxt "644_Sugihara"
+msgid ""
+"Everything I wanted, I took and made it mine. You wanna make\r\n"
+"it big, you gotta be determined to take whatever ya want."
+msgstr ""
+
+msgctxt "656_Akiyama"
+msgid ""
+"Heh, you'd make for a pretty good speaker if your head\r\n"
+"weren't so far up your ass."
+msgstr ""
+
+msgctxt "668_Maya"
+msgid "Akiyama-san, what should we do?"
+msgstr ""
+
+msgctxt "680_Akiyama"
+msgid ""
+"No problem. Keeping talent safe is part of a manager's job.\r\n"
+"Maya-chan, may I ask you to step back a little?"
+msgstr ""
+
+msgctxt "692_Maya"
+msgid "...Sure."
+msgstr ""
+
+msgctxt "704_Sugihara"
+msgid ""
+"I'll show ya! Get him, boys! He'll be singin' a different tune once we rip "
+"his arm off!"
+msgstr ""
+
+msgctxt "740_Sugihara"
+msgid "Well, this is it. Dyna Chair."
+msgstr ""
+
+msgctxt "752_Maya"
+msgid "Oh, could you wait a moment, please?"
+msgstr ""
+
+msgctxt "764_Akiyama"
+msgid "Hm? Everything all right?"
+msgstr ""
+
+msgctxt "776_Maya"
+msgid ""
+"During interviews like this, I always get my manager to\r\n"
+"guide me with cue cards."
+msgstr ""
+
+msgctxt "788_Akiyama"
+msgid "Cue cards? So you can read off them?"
+msgstr ""
+
+msgctxt "800_Maya"
+msgid ""
+"Yes. I'm supposed to be a naturally perky and quirky\r\n"
+"character, but if I don't watch it, I go back to being my\r\n"
+"usual, ordinary self."
+msgstr ""
+
+msgctxt "812_Maya"
+msgid "To avoid that, I have my manager guide me with cue cards."
+msgstr ""
+
+msgctxt "824_Maya"
+msgid "Could you please do that for me today, Akiyama-san?"
+msgstr ""
+
+msgctxt "836_Akiyama"
+msgid ""
+"Uh, sure, that's fine. But I'm going to need you to\r\n"
+"elaborate. What exactly does a naturally perky and quirky\r\n"
+"character look like?"
+msgstr ""
+
+msgctxt "848_Maya"
+msgid ""
+"The basic premise is that I'm a princess from the Strawberry\r\n"
+"Kingdom who's secretly visiting Japan."
+msgstr ""
+
+msgctxt "860_Akiyama"
+msgid "...You're what?"
+msgstr ""
+
+msgctxt "872_Maya"
+msgid ""
+"Also, to indicate emotion, Maya always changes the final\r\n"
+"word of a sentence. If she's happy, Maya says, \"Paloomp.\""
+msgstr ""
+
+msgctxt "884_Maya"
+msgid ""
+"If Maya is angry, she adds, \"Pon.\" Like, \"Maya is not happy,\r\n"
+"pon!\" If she is confused, she strikes a pose and says, \"Foonyapar.\""
+msgstr ""
+
+msgctxt "896_Akiyama"
+msgid "Foonyapar?"
+msgstr ""
+
+msgctxt "908_Maya"
+msgid "No, no, you need to strike a pose. Like this."
+msgstr ""
+
+msgctxt "920_Maya"
+msgid "Foonyapar."
+msgstr ""
+
+msgctxt "932_Akiyama"
+msgid "You're braver than most, you know that?"
+msgstr ""
+
+msgctxt "944_Maya"
+msgid ""
+"Yes... Honestly, it's something I would rather not do.\r\n"
+"Whenever I see myself doing it on TV, well... It's kind of\r\n"
+"hard to live with."
+msgstr ""
+
+msgctxt "956_Maya"
+msgid ""
+"But if the manager isn't quick enough with a cue card, I\r\n"
+"have to say something to avoid any awkward silence."
+msgstr ""
+
+msgctxt "968_Akiyama"
+msgid ""
+"Ah, that's why you need the cue cards. Well, to be honest with you, I'm not "
+"too confident about doing that."
+msgstr ""
+
+msgctxt "980_Maya"
+msgid ""
+"Oh, please! I really need it! If I break character, my boss\r\n"
+"will kill me!"
+msgstr ""
+
+msgctxt "992_Akiyama"
+msgid "Hmm... I'll do the best I can."
+msgstr ""
+
+msgctxt "1040_Sugihara"
+msgid "Eek!"
+msgstr ""
+
+msgctxt "1052_Akiyama"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "1124_Sugihara"
+msgid ""
+"Oww... I'm so sorry! I wasn't paying attention! Are you\r\n"
+"okay!?"
+msgstr ""
+
+msgctxt "1136_Akiyama"
+msgid ""
+"Oh, yeah, I'm fine. What about you? Are you all right?\r\n"
+"Looks like you took the worst of it."
+msgstr ""
+
+msgctxt "1148_Girl"
+msgid "Yes, I'm fine. It's just that I'm in bit of a hurry..."
+msgstr ""
+
+msgctxt "1160_Akiyama"
+msgid "Oh, sure, go ahead. You don't have to worry about me."
+msgstr ""
+
+msgctxt "1172_Girl"
+msgid "I'm so sorry! I have to go!"
+msgstr ""
+
+msgctxt "1196_Sugihara"
+msgid "(There's a girl in a hurry. Wonder what's going on?)"
+msgstr ""
+
+msgctxt "1232_Akiyama"
+msgid "Hello."
+msgstr ""
+
+msgctxt "1244_Sugihara"
+msgid ""
+"Hey, it's Yamaura. Akiyama-san, I was wondering, are you\r\n"
+"free right now?"
+msgstr ""
+
+msgctxt "1256_Akiyama"
+msgid "I should be. What's up?"
+msgstr ""
+
+msgctxt "1268_Sugihara"
+msgid ""
+"Sorry to drop this on you all of a sudden, but do you think\r\n"
+"you could head over to Ashitaba Park?"
+msgstr ""
+
+msgctxt "1280_Akiyama"
+msgid "Why?"
+msgstr ""
+
+msgctxt "1292_Sugihara"
+msgid ""
+"A talent－a girl－got lost, so I told her to go there and\r\n"
+"wait."
+msgstr ""
+
+msgctxt "1304_Sugihara"
+msgid ""
+"Her name's Strawberry Maya. Her agency's pushing her real\r\n"
+"hard right now. Ya know her?"
+msgstr ""
+
+msgctxt "1316_Akiyama"
+msgid "Can't say I do."
+msgstr ""
+
+msgctxt "1328_Sugihara"
+msgid "Yeah, that's understandable. Her agency's pretty small."
+msgstr ""
+
+msgctxt "1340_Sugihara"
+msgid ""
+"It's totally on me, but it completely slipped my mind that\r\n"
+"we're supposed to be lookin' after her just for today."
+msgstr ""
+
+msgctxt "1352_Sugihara"
+msgid "See, her manager's getting married today."
+msgstr ""
+
+msgctxt "1364_Sugihara"
+msgid ""
+"And since our agencies are pretty tight with one another, we\r\n"
+"agreed to look after Maya for the day."
+msgstr ""
+
+msgctxt "1376_Sugihara"
+msgid ""
+"Stupid me－I forgot all about it, and our schedule's booked\r\n"
+"solid."
+msgstr ""
+
+msgctxt "1388_Akiyama"
+msgid "And? You want me to pick up the slack?"
+msgstr ""
+
+msgctxt "1400_Sugihara"
+msgid ""
+"Bingo! Glad we're on the same page! There's really no one\r\n"
+"else we can turn to."
+msgstr ""
+
+msgctxt "1412_Sugihara"
+msgid ""
+"I mean, you run your own company, right? Surely you can be\r\n"
+"a talent manager for a day?"
+msgstr ""
+
+msgctxt "1424_Akiyama"
+msgid ""
+"Well, actually, I let my secretary handle that kind of\r\n"
+"stuff. In fact, she handles pretty much everything."
+msgstr ""
+
+msgctxt "1436_Sugihara"
+msgid ""
+"It'll be okay! If anyone can do it, you can. I'm counting on\r\n"
+"you, Akiyama-san!"
+msgstr ""
+
+msgctxt "1448_Akiyama"
+msgid ""
+"I don't know... What does being a talent manager entail\r\n"
+"anyway?"
+msgstr ""
+
+msgctxt "1460_Sugihara"
+msgid ""
+"Maya's schedule's already set for the day. You're pretty\r\n"
+"much just her chaperone."
+msgstr ""
+
+msgctxt "1472_Sugihara"
+msgid ""
+"Oh, also, Maya's being promoted as a \"naturally perky,\r\n"
+"quirky girl,\" so try to keep her in character."
+msgstr ""
+
+msgctxt "1484_Akiyama"
+msgid "Hm? She's what now?"
+msgstr ""
+
+msgctxt "1496_Sugihara"
+msgid ""
+"Maya's actually really timid and proper and the like, but\r\n"
+"they're pushing her as a silly character."
+msgstr ""
+
+msgctxt "1508_Akiyama"
+msgid ""
+"Why would they make a girl like that adopt that kind of\r\n"
+"persona?"
+msgstr ""
+
+msgctxt "1520_Sugihara"
+msgid "I dunno. It wasn't my call."
+msgstr ""
+
+msgctxt "1532_Sugihara"
+msgid ""
+"Please, Akiyama-san, can you do this for me? I could really\r\n"
+"use your help."
+msgstr ""
+
+msgctxt "1544_Akiyama"
+msgid "All right. You owe me one, Yamaura-san."
+msgstr ""
+
+msgctxt "1556_Sugihara"
+msgid "Ah, you're a life saver! Thank you kindly!"
+msgstr ""
+
+msgctxt "1568_Sugihara"
+msgid "Okay, I'll explain Maya's schedule. Listen closely now."
+msgstr ""
+
+msgctxt "1580_Sugihara"
+msgid ""
+"First, meet with Maya at Ashitaba Park and bring her to\r\n"
+"Dyna Chair for a magazine interview."
+msgstr ""
+
+msgctxt "1592_Sugihara"
+msgid ""
+"Next, take her to Soten TV for a Love to See You Smile\r\n"
+"studio taping."
+msgstr ""
+
+msgctxt "1604_Sugihara"
+msgid ""
+"And, finally, she's to appear on Sotenbori Love Check Quiz, also at Soten "
+"TV."
+msgstr ""
+
+msgctxt "1616_Sugihara"
+msgid "You get all that? Don't forget the order now."
+msgstr ""
+
+msgctxt "1628_Akiyama"
+msgid ""
+"Magazine interview, Love to See You Smile, then Sotenbori\r\n"
+"Love Check Quiz. Right?"
+msgstr ""
+
+msgctxt "1640_Sugihara"
+msgid ""
+"Perfect! I knew I could count on you. You got this,\r\n"
+"Akiyama-san. Talk to you later!"
+msgstr ""
+
+msgctxt "1664_Sugihara"
+msgid ""
+"(Okay... First, I have to find our Strawberry Maya at\r\n"
+"Ashitaba Park.)"
+msgstr ""

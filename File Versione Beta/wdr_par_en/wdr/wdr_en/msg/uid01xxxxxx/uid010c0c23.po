@@ -1,0 +1,582 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "160"
+msgid "You got <Color:8>PrintCircle Book<Color:Default>."
+msgstr ""
+
+msgctxt "304"
+msgid "You got <Color:8>PrintCircle Book<Color:Default>."
+msgstr ""
+
+msgctxt "436"
+msgid "You got <Color:8>PrintCircle Book<Color:Default>."
+msgstr ""
+
+msgctxt "1660"
+msgid "You got <Color:8>PrintCircle Book<Color:Default>."
+msgstr ""
+
+msgctxt "38544"
+msgid "Player"
+msgstr ""
+
+msgctxt "38548"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "38552"
+msgid "PrintCircle Book"
+msgstr ""
+
+msgctxt "38556"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "38560"
+msgid "Take Photos"
+msgstr ""
+
+msgctxt "38564"
+msgid "Don't Take Photos"
+msgstr ""
+
+msgctxt "38568"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "38572"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "38576"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "38580"
+msgid "Hinata"
+msgstr ""
+
+msgctxt "38584"
+msgid "Riku"
+msgstr ""
+
+msgctxt "38588"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "38592"
+msgid "dummy"
+msgstr ""
+
+msgctxt "38596"
+msgid "Honoka"
+msgstr ""
+
+msgctxt "38600"
+msgid "Kaguya"
+msgstr ""
+
+msgctxt "38604"
+msgid "Shion"
+msgstr ""
+
+msgctxt "38608"
+msgid "Invite Someone"
+msgstr ""
+
+msgctxt "38612"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "38616"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "38620"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "38624"
+msgid "Nobody"
+msgstr ""
+
+msgctxt "124_Player"
+msgid "(This was fun. Maybe I'll do something else now.)"
+msgstr ""
+
+msgctxt "148_Player"
+msgid "A photo booth, huh? And I just so happen to have a photo book with me."
+msgstr ""
+
+msgctxt "184_Player"
+msgid ""
+"You can paste up to 4 photos in your photo book. If you wish to add more, "
+"you will need to replace an existing photo."
+msgstr ""
+
+msgctxt "196_Player"
+msgid "Uncle Kaz! Let's try out that photo booth!"
+msgstr ""
+
+msgctxt "208_Player"
+msgid ""
+"(A photo booth, huh? 400 yen for a session. Maybe I should get some "
+"pictures taken?)"
+msgstr ""
+
+msgctxt "232_Player"
+msgid "(I don't have the money.)"
+msgstr ""
+
+msgctxt "244_Player"
+msgid "(Maybe not.)"
+msgstr ""
+
+msgctxt "256_Player"
+msgid "(Sure, let's give it a go.)"
+msgstr ""
+
+msgctxt "292_Player"
+msgid "A photo booth, huh? And I just so happen to have a photo book with me."
+msgstr ""
+
+msgctxt "328_Player"
+msgid ""
+"You can paste up to 4 photos in your photo book. If you wish to add more, "
+"you will need to replace an existing photo."
+msgstr ""
+
+msgctxt "340_Player"
+msgid ""
+"(A photo booth, huh? 400 yen for a session. Maybe Haruka and I should give "
+"it a try?)"
+msgstr ""
+
+msgctxt "364_Player"
+msgid "(I don't have the money.)"
+msgstr ""
+
+msgctxt "376_Player"
+msgid "(Maybe not.)"
+msgstr ""
+
+msgctxt "388_Player"
+msgid "(Sure, let's give it a go.)"
+msgstr ""
+
+msgctxt "424_Player"
+msgid "A photo booth, huh? And I just so happen to have a photo book with me."
+msgstr ""
+
+msgctxt "460_Player"
+msgid ""
+"You can paste up to 4 photos in your photo book. If you wish to add more, "
+"you will need to replace an existing photo."
+msgstr ""
+
+msgctxt "472_Player"
+msgid "Let's take some pictures! Oooh, with the heart frame!"
+msgstr ""
+
+msgctxt "484_Player"
+msgid ""
+"(A photo booth, huh? 400 yen for a session. Maybe I should get some "
+"pictures taken?)"
+msgstr ""
+
+msgctxt "508_Player"
+msgid "(I don't have the money.)"
+msgstr ""
+
+msgctxt "520_Player"
+msgid "(Maybe not.)"
+msgstr ""
+
+msgctxt "532_Player"
+msgid "(Sure, let's give it a go.)"
+msgstr ""
+
+msgctxt "580_Riku"
+msgid "Those pics came out wicked good!"
+msgstr ""
+
+msgctxt "592_Riku"
+msgid "Hmm. These didn't turn out so hot, huh?"
+msgstr ""
+
+msgctxt "604_Riku"
+msgid "What did y'even call me out for? You jerk!"
+msgstr ""
+
+msgctxt "664_Riku"
+msgid ""
+"That was wicked fun! I'm headin' back to Hakata now! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "712_Riku"
+msgid ""
+"That was wicked fun! Call me again, okay? "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "772_Honoka"
+msgid "Hey, these came out pretty good!"
+msgstr ""
+
+msgctxt "784_Honoka"
+msgid "Aw, these didn't turn out so great."
+msgstr ""
+
+msgctxt "796_Honoka"
+msgid "Really!? Why'd ya even call me out?"
+msgstr ""
+
+msgctxt "856_Honoka"
+msgid ""
+"That was a lotta fun! I'm gonna head back to Osaka now. "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "904_Honoka"
+msgid ""
+"That was a lotta fun! Gimme a call again, okay? "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "964_Kaguya"
+msgid "Oh, those came out nice!"
+msgstr ""
+
+msgctxt "976_Kaguya"
+msgid "These didn't come out all that well."
+msgstr ""
+
+msgctxt "988_Kaguya"
+msgid ""
+"What? You called me out here and now we're not even going to take pictures? "
+"I should have just stayed in bed!"
+msgstr ""
+
+msgctxt "1048_Kaguya"
+msgid ""
+"That was a lot of fun! I need to head back home now, though. "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1096_Kaguya"
+msgid ""
+"That was a lot of fun! Please give me a call again sometime! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1156_Shion"
+msgid "Those turned out lovely!"
+msgstr ""
+
+msgctxt "1168_Shion"
+msgid "Oh. I don't think we did a good job here."
+msgstr ""
+
+msgctxt "1180_Shion"
+msgid ""
+"What's the meaning of this? You made me come all the way out here, and "
+"we're not taking any pictures?"
+msgstr ""
+
+msgctxt "1240_Shion"
+msgid ""
+"That was quite fun! I'll be heading back to Nagoya now. "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1288_Shion"
+msgid ""
+"That was such fun! Please do call me again! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1348_Hinata"
+msgid "Ahaha! Oh, those came out awesome!"
+msgstr ""
+
+msgctxt "1360_Hinata"
+msgid "Bleh, these didn't turn out that great, huh?"
+msgstr ""
+
+msgctxt "1372_Hinata"
+msgid ""
+"I came all this way and we're not even getting pictures taken? I seriously "
+"don't get you."
+msgstr ""
+
+msgctxt "1432_Hinata"
+msgid ""
+"That was super fun! Ask me out again sometime! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1480_Haruka"
+msgid "That was fun! Let's take some more photos soon!"
+msgstr ""
+
+msgctxt "1540_Kiryu"
+msgid "We'll have to take some more soon."
+msgstr ""
+
+msgctxt "1648_Player"
+msgid "A photo booth, huh? And I just so happen to have a photo book with me."
+msgstr ""
+
+msgctxt "1684_Player"
+msgid ""
+"You can paste up to 4 photos in your photo book. If you wish to add more, "
+"you will need to replace an existing photo."
+msgstr ""
+
+msgctxt "1696_Player"
+msgid ""
+"(A photo booth, huh? 400 yen for a session. Maybe I should get some "
+"pictures taken?)"
+msgstr ""
+
+msgctxt "1732_Kiryu"
+msgid "(I don't have the money.)"
+msgstr ""
+
+msgctxt "1744_Akiyama"
+msgid "(I don't have the money.)"
+msgstr ""
+
+msgctxt "1756_Saejima"
+msgid "(I ain't got the money.)"
+msgstr ""
+
+msgctxt "1768_Shinada"
+msgid "(I don't have enough money.)"
+msgstr ""
+
+msgctxt "1780_Haruka"
+msgid "(I don't have enough money.)"
+msgstr ""
+
+msgctxt "1816_Kiryu"
+msgid "(Sure, let's see how it goes.)"
+msgstr ""
+
+msgctxt "1828_Akiyama"
+msgid "(All right, let's give it a try.)"
+msgstr ""
+
+msgctxt "1840_Saejima"
+msgid "(Yeah, let's give it a go.)"
+msgstr ""
+
+msgctxt "1852_Shinada"
+msgid "(Okay, let's do this.)"
+msgstr ""
+
+msgctxt "1864_Haruka"
+msgid "(All righty, here we go!)"
+msgstr ""
+
+msgctxt "1900_Kiryu"
+msgid "(Maybe not.)"
+msgstr ""
+
+msgctxt "1912_Akiyama"
+msgid "(No, let's not.)"
+msgstr ""
+
+msgctxt "1924_Saejima"
+msgid "(Nah, better not.)"
+msgstr ""
+
+msgctxt "1936_Shinada"
+msgid "(Maybe not.)"
+msgstr ""
+
+msgctxt "1948_Haruka"
+msgid "(Maybe next time.)"
+msgstr ""
+
+msgctxt "1972_Player"
+msgid "(Who should I call?)"
+msgstr ""
+
+msgctxt "1996_Player"
+msgid "(I'll call up Riku.)"
+msgstr ""
+
+msgctxt "2080_Riku"
+msgid ""
+"Y'gotta be kiddin' me! Y'called me all the way out to Tokyo jus' to use a "
+"dang photo booth?"
+msgstr ""
+
+msgctxt "2092_Player"
+msgid ""
+"I have a good reason. There are some Tokyo-exclusive frames here. Should we "
+"get started?"
+msgstr ""
+
+msgctxt "2104_Riku"
+msgid ""
+"Sorry to keep y'waiting! <Color:255,200,200,255>♥<Color:Default> So, ya "
+"wanted to do the photo booth with me, Kiryu-san?"
+msgstr ""
+
+msgctxt "2116_Player"
+msgid "Want to get started?"
+msgstr ""
+
+msgctxt "2140_Player"
+msgid "(Guess I'll give Kaguya a call.)"
+msgstr ""
+
+msgctxt "2224_Kaguya"
+msgid ""
+"Going into work is enough of a pain as it is, but you go and call me all "
+"the way out here to Tokyo!? Unbelievable!"
+msgstr ""
+
+msgctxt "2236_Player"
+msgid ""
+"*grunt* There are frames they only got in Tokyo. I didn't have any other "
+"choice."
+msgstr ""
+
+msgctxt "2248_Kaguya"
+msgid ""
+"Sorry to keep you waiting! I didn't know you liked this sort of thing, "
+"Saejima-san! <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "2260_Player"
+msgid "Wanna do this, or what?"
+msgstr ""
+
+msgctxt "2284_Player"
+msgid "(I should give Honoka-chan a call.)"
+msgstr ""
+
+msgctxt "2368_Honoka"
+msgid ""
+"Ya called up a student who's busy lookin' for a job all the way out in "
+"Osaka, just to take pictures in a booth? This some kinda joke?"
+msgstr ""
+
+msgctxt "2380_Player"
+msgid ""
+"You might have a point. But there are frames here you can't find anywhere "
+"else! Worth it, right?"
+msgstr ""
+
+msgctxt "2392_Honoka"
+msgid ""
+"Sorry for the wait! This was just kinda sudden, Akiyama-san. So, ya wanna "
+"take some photo booth pics with me, huh?"
+msgstr ""
+
+msgctxt "2404_Player"
+msgid "Yeah. Shall we get started?"
+msgstr ""
+
+msgctxt "2428_Player"
+msgid "(Maybe I should give Shion-chan a call.)"
+msgstr ""
+
+msgctxt "2512_Shion"
+msgid ""
+"It really is rather rude to make me come all the way from Nagoya for this, "
+"you know. Honestly, it's not like I don't have anything better to do."
+msgstr ""
+
+msgctxt "2524_Player"
+msgid ""
+"But this thing has frames that are exclusive to Kamurocho! I "
+"<Italic>had</Italic> to have you come here!"
+msgstr ""
+
+msgctxt "2536_Shion"
+msgid ""
+"Apologies for the delay, Shinada-san! This was all just rather sudden. Are "
+"you that eager for me to join you in the photo booth?"
+msgstr ""
+
+msgctxt "2548_Player"
+msgid "Hehe. Yeah, well, wanna get started?"
+msgstr ""
+
+msgctxt "2584_Player"
+msgid "(I'll give Hinata a call.)"
+msgstr ""
+
+msgctxt "2656_Hinata"
+msgid ""
+"Sorry to keep you waiting! You know, Kiryu-san, I'd never have pegged you "
+"as a photo booth kinda guy. <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "2668_Player"
+msgid "Want to get started?"
+msgstr ""
+
+msgctxt "2692_Player"
+msgid "(I'll give Hinata-chan a call.)"
+msgstr ""
+
+msgctxt "2704_Player"
+msgid "......"
+msgstr ""
+
+msgctxt "2764_Hinata"
+msgid "Sorry to keep you waiting."
+msgstr ""
+
+msgctxt "2776_Player"
+msgid "It's all right. Shall we begin?"
+msgstr ""
+
+msgctxt "2800_Player"
+msgid "(I'll call up Haruka.)"
+msgstr ""
+
+msgctxt "2812_Player"
+msgid "......"
+msgstr ""
+
+msgctxt "2872_Haruka"
+msgid "Sorry to keep you waiting, Uncle Kaz!"
+msgstr ""
+
+msgctxt "2884_Player"
+msgid "It's all right. Shall we begin?"
+msgstr ""
+
+msgctxt "2908_Player"
+msgid "(I should call Uncle Kaz.)"
+msgstr ""
+
+msgctxt "2920_Player"
+msgid "......"
+msgstr ""
+
+msgctxt "2980_Kiryu"
+msgid "Sorry for the wait."
+msgstr ""
+
+msgctxt "2992_Player"
+msgid "No worries! Come on, let's get started!"
+msgstr ""

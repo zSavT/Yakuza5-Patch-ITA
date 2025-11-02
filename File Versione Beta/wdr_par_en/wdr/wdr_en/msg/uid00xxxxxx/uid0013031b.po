@@ -1,0 +1,5642 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "640"
+msgid "You got 1000 experience points."
+msgstr ""
+
+msgctxt "10120"
+msgid "You learned <Color:9>Thrift Mastery<Color:Default>."
+msgstr ""
+
+msgctxt "10240"
+msgid "You learned <Color:9>My Whirlwind Essence (Climax Heat)<Color:Default>."
+msgstr ""
+
+msgctxt "10468"
+msgid "You learned <Color:9>My Snapping Turtle<Color:Default>."
+msgstr ""
+
+msgctxt "10612"
+msgid "You learned <Color:9>Max Thrift Mastery<Color:Default>."
+msgstr ""
+
+msgctxt "10828"
+msgid "You learned <Color:9>My Afterimage<Color:Default>."
+msgstr ""
+
+msgctxt "10960"
+msgid "You learned <Color:9>My Bashing Combo Essence (Climax Heat)<Color:Default>."
+msgstr ""
+
+msgctxt "12580"
+msgid "*whomp*"
+msgstr ""
+
+msgctxt "17740"
+msgid "Beep."
+msgstr ""
+
+msgctxt "284292"
+msgid "Player"
+msgstr ""
+
+msgctxt "284296"
+msgid "Ayanokoji"
+msgstr ""
+
+msgctxt "284300"
+msgid "Train me."
+msgstr ""
+
+msgctxt "284304"
+msgid "No thanks."
+msgstr ""
+
+msgctxt "284308"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "284312"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "284316"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "284320"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "284324"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "284328"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "284332"
+msgid "Talk_Udekumi_lp"
+msgstr ""
+
+msgctxt "284336"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "284340"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "284344"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "284348"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "284352"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "284356"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "284360"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "284364"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "284368"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "284372"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "284376"
+msgid "Attendant"
+msgstr ""
+
+msgctxt "284380"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "284384"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "284388"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "284392"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "284396"
+msgid "Staff"
+msgstr ""
+
+msgctxt "284400"
+msgid "Let's talk about your life."
+msgstr ""
+
+msgctxt "284404"
+msgid "Ayanokoji's training"
+msgstr ""
+
+msgctxt "284408"
+msgid "Let's go."
+msgstr ""
+
+msgctxt "284412"
+msgid "Not yet."
+msgstr ""
+
+msgctxt "284416"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "284420"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "284424"
+msgid "Have you ever had a girlfriend before?"
+msgstr ""
+
+msgctxt "284428"
+msgid "What type of girl do you like?"
+msgstr ""
+
+msgctxt "284432"
+msgid "What's a relationship deal-breaker for you?"
+msgstr ""
+
+msgctxt "284436"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "284440"
+msgid "Give him some perspective."
+msgstr ""
+
+msgctxt "284444"
+msgid "Give him a serious lecture."
+msgstr ""
+
+msgctxt "284448"
+msgid "Take him to the red-light district."
+msgstr ""
+
+msgctxt "284452"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "284456"
+msgid "P_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "284460"
+msgid "P_TLK_sitsofa_kamae_ed"
+msgstr ""
+
+msgctxt "284464"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "284468"
+msgid "Do you think that makeup looks cool?"
+msgstr ""
+
+msgctxt "284472"
+msgid "Are you wearing that because you like it?"
+msgstr ""
+
+msgctxt "284476"
+msgid "Do you even care what girls think about you?"
+msgstr ""
+
+msgctxt "284480"
+msgid "Forcibly remove his makeup."
+msgstr ""
+
+msgctxt "284484"
+msgid "Turn the tables on him."
+msgstr ""
+
+msgctxt "284488"
+msgid "Let him be himself."
+msgstr ""
+
+msgctxt "284492"
+msgid "M_NML_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "284496"
+msgid "M_NML_SET_sitgrd_down_kamae"
+msgstr ""
+
+msgctxt "284500"
+msgid "M_nml_sitchr"
+msgstr ""
+
+msgctxt "284504"
+msgid "M_NML_TLK_sitchr_kamae"
+msgstr ""
+
+msgctxt "284508"
+msgid "Can you talk to girls?"
+msgstr ""
+
+msgctxt "284512"
+msgid "What do you do all day?"
+msgstr ""
+
+msgctxt "284516"
+msgid "Ever consider getting a job?"
+msgstr ""
+
+msgctxt "284520"
+msgid "Help him get a job."
+msgstr ""
+
+msgctxt "284524"
+msgid "Help him find a hobby."
+msgstr ""
+
+msgctxt "284528"
+msgid "Help him practice talking to girls."
+msgstr ""
+
+msgctxt "284532"
+msgid "How's it been since you got rid of your makeup?"
+msgstr ""
+
+msgctxt "284536"
+msgid "Don't you want to try some new clothes?"
+msgstr ""
+
+msgctxt "284540"
+msgid "Is there anything you want to try?"
+msgstr ""
+
+msgctxt "284544"
+msgid "Take him to where the girls are."
+msgstr ""
+
+msgctxt "284548"
+msgid "Completely change his fashion sense."
+msgstr ""
+
+msgctxt "284552"
+msgid "Help him achieve the perfect body."
+msgstr ""
+
+msgctxt "284556"
+msgid "P_SIN_stand"
+msgstr ""
+
+msgctxt "284560"
+msgid "P_SIN_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "284564"
+msgid "Introducing yourself."
+msgstr ""
+
+msgctxt "284568"
+msgid "Saying something funny."
+msgstr ""
+
+msgctxt "284572"
+msgid "Complimenting her."
+msgstr ""
+
+msgctxt "284576"
+msgid "Girl"
+msgstr ""
+
+msgctxt "284580"
+msgid "It is I, Ayanokoji."
+msgstr ""
+
+msgctxt "284584"
+msgid "I enjoyed talking with you."
+msgstr ""
+
+msgctxt "284588"
+msgid "I hope you didn't mind me approaching you."
+msgstr ""
+
+msgctxt "284592"
+msgid "I just love you so much!"
+msgstr ""
+
+msgctxt "284596"
+msgid "Words can't describe how beautiful you are."
+msgstr ""
+
+msgctxt "284600"
+msgid "So you're just after my money, right?"
+msgstr ""
+
+msgctxt "284604"
+msgid "How about dinner some time?"
+msgstr ""
+
+msgctxt "284608"
+msgid "Come back to my place, and I'll show you a good time."
+msgstr ""
+
+msgctxt "284612"
+msgid "I'll be watching you, hehehe!"
+msgstr ""
+
+msgctxt "284616"
+msgid "So what do you say? Sounds good?"
+msgstr ""
+
+msgctxt "284620"
+msgid "It is I, Ayanokoji"
+msgstr ""
+
+msgctxt "284624"
+msgid "P_SIN_sitsofa"
+msgstr ""
+
+msgctxt "284628"
+msgid "M_nml_sitsofa"
+msgstr ""
+
+msgctxt "284632"
+msgid "P_SIN_TLK_sitsofa_kamae"
+msgstr ""
+
+msgctxt "284636"
+msgid "M_NML_TLK_sitsofa_kamae"
+msgstr ""
+
+msgctxt "568_Player"
+msgid "(I should come back here when I'm alone.)"
+msgstr ""
+
+msgctxt "580_Player"
+msgid "(I should come back here when I'm alone.)"
+msgstr ""
+
+msgctxt "592_Player"
+msgid "(I should come back here when I'm alone.)"
+msgstr ""
+
+msgctxt "616_Ayanokoji"
+msgid "Hmph! Not bad. Not bad at all!"
+msgstr ""
+
+msgctxt "652_Ayanokoji"
+msgid "But I simply allowed you to defeat me. Next time won't be so easy."
+msgstr ""
+
+msgctxt "664_Ayanokoji"
+msgid "Victory is mine! Oh, what a feeling!"
+msgstr ""
+
+msgctxt "676_Ayanokoji"
+msgid "Come again soon! I'll be sure to give you another good whooping!"
+msgstr ""
+
+msgctxt "700_Ayanokoji"
+msgid "Oh, there you are. Ready for some training?"
+msgstr ""
+
+msgctxt "712_Shinada"
+msgid "Sorry to bother you. I just wanted to say hi."
+msgstr ""
+
+msgctxt "724_Ayanokoji"
+msgid "Are you mocking me? Hmph. Well, come back when you're ready."
+msgstr ""
+
+msgctxt "736_Shinada"
+msgid "Okay, you're on, Leo-kun!"
+msgstr ""
+
+msgctxt "748_Ayanokoji"
+msgid "Bring it on, Shinada!"
+msgstr ""
+
+msgctxt "796_Ayanokoji"
+msgid "Come now, Shinada. Is that all you've got?"
+msgstr ""
+
+msgctxt "808_Ayanokoji"
+msgid ""
+"You disappoint me. You are below me in both skill and social standing, "
+"apparently."
+msgstr ""
+
+msgctxt "820_Ayanokoji"
+msgid ""
+"Come back when you're ready. I may deign to take you on again... if I'm "
+"bored."
+msgstr ""
+
+msgctxt "856_Ayanokoji"
+msgid "Shinada... I know you can do better than that."
+msgstr ""
+
+msgctxt "868_Ayanokoji"
+msgid "I want you to really bring it next time. You know where to find me!"
+msgstr ""
+
+msgctxt "904_Ayanokoji"
+msgid "Come now, Shinada. Is that all you've got?"
+msgstr ""
+
+msgctxt "916_Ayanokoji"
+msgid ""
+"You disappoint me. You are below me in both skill and social standing, "
+"apparently."
+msgstr ""
+
+msgctxt "928_Ayanokoji"
+msgid ""
+"Come back when you're ready. I may deign to take you on again... if I'm "
+"bored."
+msgstr ""
+
+msgctxt "964_Ayanokoji"
+msgid "Come now, Shinada. Is that all you've got?"
+msgstr ""
+
+msgctxt "976_Ayanokoji"
+msgid ""
+"You disappoint me. You are below me in both skill and social standing, "
+"apparently."
+msgstr ""
+
+msgctxt "988_Ayanokoji"
+msgid ""
+"Come back when you're ready. I may deign to take you on again... if I'm "
+"bored."
+msgstr ""
+
+msgctxt "1036_Ayanokoji"
+msgid "What is this place?"
+msgstr ""
+
+msgctxt "1048_Shinada"
+msgid "One of my favorite places. I reserved the most popular girl for you."
+msgstr ""
+
+msgctxt "1060_Ayanokoji"
+msgid ""
+"What is the meaning of this!? I couldn't possibly enter such an "
+"establishment!"
+msgstr ""
+
+msgctxt "1072_Shinada"
+msgid ""
+"Oh, I should also mention, there're some pretty scary types running the "
+"joint, and they don't take kindly to sudden cancellations."
+msgstr ""
+
+msgctxt "1084_Ayanokoji"
+msgid "Shinada! What have you done!?"
+msgstr ""
+
+msgctxt "1096_Shinada"
+msgid "Ayanokojiii!"
+msgstr ""
+
+msgctxt "1108_Ayanokoji"
+msgid "Zounds! What are you doing!?"
+msgstr ""
+
+msgctxt "1120_Shinada"
+msgid "Don't be so uptight!"
+msgstr ""
+
+msgctxt "1132_Ayanokoji"
+msgid "But... Why do I have to－"
+msgstr ""
+
+msgctxt "1144_Shinada"
+msgid "Ayanokojiii!"
+msgstr ""
+
+msgctxt "1156_Ayanokoji"
+msgid "Fine, fine! I'll go..."
+msgstr ""
+
+msgctxt "1216_Shinada"
+msgid "......"
+msgstr ""
+
+msgctxt "1228_Shinada"
+msgid "......"
+msgstr ""
+
+msgctxt "1240_Shinada"
+msgid "......"
+msgstr ""
+
+msgctxt "1288_Ayanokoji"
+msgid "All done."
+msgstr ""
+
+msgctxt "1300_Shinada"
+msgid "So, how was it?"
+msgstr ""
+
+msgctxt "1312_Ayanokoji"
+msgid "How shall I explain...?"
+msgstr ""
+
+msgctxt "1324_Ayanokoji"
+msgid "Many things don't seem as important anymore."
+msgstr ""
+
+msgctxt "1336_Shinada"
+msgid "Nice. I'd call that a breakthrough."
+msgstr ""
+
+msgctxt "1348_Ayanokoji"
+msgid "What's that supposed to mean!?"
+msgstr ""
+
+msgctxt "1360_Shinada"
+msgid "Admit it. You had a good time."
+msgstr ""
+
+msgctxt "1372_Ayanokoji"
+msgid "Don't change the subject."
+msgstr ""
+
+msgctxt "1384_Shinada"
+msgid "You had a good time, right?"
+msgstr ""
+
+msgctxt "1396_Ayanokoji"
+msgid "Y... Yes..."
+msgstr ""
+
+msgctxt "1408_Shinada"
+msgid "And you learned it's okay not to set the bar so high?"
+msgstr ""
+
+msgctxt "1420_Ayanokoji"
+msgid "...Yes."
+msgstr ""
+
+msgctxt "1432_Shinada"
+msgid "And there it is! Nice job, Leo-kun! You're on the stairway to manhood!"
+msgstr ""
+
+msgctxt "1444_Ayanokoji"
+msgid "I am? Er, I mean, I am... I suppose."
+msgstr ""
+
+msgctxt "1456_Shinada"
+msgid "Yesss! Haha! Now you owe me!"
+msgstr ""
+
+msgctxt "1468_Ayanokoji"
+msgid "Argh, fine. Yes, I owe you."
+msgstr ""
+
+msgctxt "1480_Shinada"
+msgid "Sweet! I'm going to hold you to your word!"
+msgstr ""
+
+msgctxt "1492_Shinada"
+msgid ""
+"Now let's see... Maybe I'll have you buy me a TV. No, wait, how about a "
+"car? Then again, cash is always king!"
+msgstr ""
+
+msgctxt "1504_Ayanokoji"
+msgid "What!? What're you babbling about? You said you wanted some training."
+msgstr ""
+
+msgctxt "1516_Shinada"
+msgid "Oh, right..."
+msgstr ""
+
+msgctxt "1528_Ayanokoji"
+msgid ""
+"I'm going to beat some good lessons into you, so you'd better prepare "
+"yourself."
+msgstr ""
+
+msgctxt "1540_Shinada"
+msgid "Whoa, I don't like the sound of that. But okay, I'll be back when I'm ready."
+msgstr ""
+
+msgctxt "1600_Shinada"
+msgid "And here we are. Go on in."
+msgstr ""
+
+msgctxt "1612_Ayanokoji"
+msgid "But, this is a hostess club! This was your plan? To just toss me in here!?"
+msgstr ""
+
+msgctxt "1624_Shinada"
+msgid ""
+"Relax, this place is real classy, so don't go calling it vulgar or "
+"whatever. Just stop your whining, already!"
+msgstr ""
+
+msgctxt "1636_Ayanokoji"
+msgid ""
+"Then you must accompany me! Oh, I knew I shouldn't have gotten mixed up "
+"with a witless peasant!"
+msgstr ""
+
+msgctxt "1648_Shinada"
+msgid "Ayanokojiii!"
+msgstr ""
+
+msgctxt "1660_Ayanokoji"
+msgid "Zounds! Again with this!?"
+msgstr ""
+
+msgctxt "1672_Shinada"
+msgid ""
+"There are moments in your life that you have to face head on. This is one "
+"of them!"
+msgstr ""
+
+msgctxt "1684_Ayanokoji"
+msgid "No, I could just as easily walk the other way! Just watch me!"
+msgstr ""
+
+msgctxt "1696_Shinada"
+msgid "Ayanokojiii!"
+msgstr ""
+
+msgctxt "1708_Ayanokoji"
+msgid "Fine, fine! I'll go in!"
+msgstr ""
+
+msgctxt "1720_Ayanokoji"
+msgid "But, Shinada, you must join me."
+msgstr ""
+
+msgctxt "1732_Shinada"
+msgid "Now how's that going to help you?"
+msgstr ""
+
+msgctxt "1744_Shinada"
+msgid ""
+"I'm not going to be around when you meet the right woman. You're on your "
+"own here!"
+msgstr ""
+
+msgctxt "1756_Attendant"
+msgid "Will you be joining us this evening, sir?"
+msgstr ""
+
+msgctxt "1768_Shinada"
+msgid ""
+"Yeah, a table for my aristocratic friend here. And send over your "
+"number-one gal."
+msgstr ""
+
+msgctxt "1780_Ayanokoji"
+msgid "I am overcome with fear."
+msgstr ""
+
+msgctxt "1792_Shinada"
+msgid "Bye. Have fun."
+msgstr ""
+
+msgctxt "1852_Shinada"
+msgid "......"
+msgstr ""
+
+msgctxt "1864_Shinada"
+msgid "......"
+msgstr ""
+
+msgctxt "1876_Shinada"
+msgid "......"
+msgstr ""
+
+msgctxt "1936_Ayanokoji"
+msgid "Shinada! I return!"
+msgstr ""
+
+msgctxt "1948_Shinada"
+msgid "Hey, there! You seem awfully chipper, Leo-kun!"
+msgstr ""
+
+msgctxt "1960_Ayanokoji"
+msgid "Yes, well... That was quite exhilarating!"
+msgstr ""
+
+msgctxt "1972_Ayanokoji"
+msgid ""
+"My hostess was truly number one! So beautiful, and an adept "
+"conversationalist, too!"
+msgstr ""
+
+msgctxt "1984_Shinada"
+msgid "That's great! And just think, it's all thanks to me!"
+msgstr ""
+
+msgctxt "1996_Ayanokoji"
+msgid "What are you talking about? All you did was drop me off here."
+msgstr ""
+
+msgctxt "2008_Shinada"
+msgid "Oh, guess so..."
+msgstr ""
+
+msgctxt "2020_Ayanokoji"
+msgid ""
+"Still, that was grand. I've never had so deep a conversation with a woman "
+"I'd met only this very day!"
+msgstr ""
+
+msgctxt "2032_Shinada"
+msgid "Well, it helps that she's a pro at conversation."
+msgstr ""
+
+msgctxt "2044_Ayanokoji"
+msgid ""
+"I'm unsure what all that was about the bottles and the like, but it was "
+"good fun nonetheless!"
+msgstr ""
+
+msgctxt "2056_Shinada"
+msgid "Wait, how much did you end up spending?"
+msgstr ""
+
+msgctxt "2068_Ayanokoji"
+msgid "Oh, uh, about one million yen, and then half again as much."
+msgstr ""
+
+msgctxt "2080_Shinada"
+msgid "Wha－!? But you were only there about an hour and a half, weren't you?"
+msgstr ""
+
+msgctxt "2092_Ayanokoji"
+msgid ""
+"I decided I ought to buy the costliest bottle they had. Alas, I drank only "
+"one glass and gave the rest to her."
+msgstr ""
+
+msgctxt "2104_Shinada"
+msgid ""
+"That's some serious coin. Man, I could kill myself right now for not going "
+"in with you."
+msgstr ""
+
+msgctxt "2116_Ayanokoji"
+msgid ""
+"Well, Shinada, I can say again and with honesty that I'm glad I heeded you "
+"despite all that's transpired."
+msgstr ""
+
+msgctxt "2128_Shinada"
+msgid "Yeah? Glad to hear it, I guess."
+msgstr ""
+
+msgctxt "2140_Ayanokoji"
+msgid ""
+"Pay me a visit, and I shall whip you into shape, to use the vernacular of "
+"you common folk."
+msgstr ""
+
+msgctxt "2152_Shinada"
+msgid "That's great and all, but why do I feel like I lost?"
+msgstr ""
+
+msgctxt "2212_Shinada"
+msgid "Hey, Leo-kun, you got any money?"
+msgstr ""
+
+msgctxt "2224_Ayanokoji"
+msgid "More than you could hope to lay eyes on in your mundane life."
+msgstr ""
+
+msgctxt "2236_Shinada"
+msgid ""
+"Great. I want you to go in this store and ask them to pick out a complete "
+"outfit for you."
+msgstr ""
+
+msgctxt "2248_Ayanokoji"
+msgid ""
+"A complete outfit? But if I let someone else choose, how can I ensure they "
+"are giving me clothing that agrees with my noble complexion?"
+msgstr ""
+
+msgctxt "2260_Shinada"
+msgid ""
+"Relax! Anything they choose couldn't possibly be worse than what you're "
+"wearing now!"
+msgstr ""
+
+msgctxt "2272_Shinada"
+msgid "Now shut up and get in there!"
+msgstr ""
+
+msgctxt "2284_Ayanokoji"
+msgid "Very well. I... I suppose I'll give it a try."
+msgstr ""
+
+msgctxt "2344_Shinada"
+msgid "......"
+msgstr ""
+
+msgctxt "2356_Shinada"
+msgid "......"
+msgstr ""
+
+msgctxt "2368_Shinada"
+msgid "......"
+msgstr ""
+
+msgctxt "2428_Staff"
+msgid "Thank you for shopping with us."
+msgstr ""
+
+msgctxt "2440_Shinada"
+msgid "And there he is! The nobleman himself!"
+msgstr ""
+
+msgctxt "2464_Ayanokoji"
+msgid "I don't know about this. What do you think?"
+msgstr ""
+
+msgctxt "2476_Shinada"
+msgid ""
+"You look great, Leo-kun! Especially considering what you were wearing "
+"before."
+msgstr ""
+
+msgctxt "2488_Ayanokoji"
+msgid "I am unsure how to explain it, but I feel as though I am lacking something."
+msgstr ""
+
+msgctxt "2500_Shinada"
+msgid ""
+"Yeah, what you're lacking is the millennium-old funk clinging to that "
+"outfit of yours. Welcome to the modern world."
+msgstr ""
+
+msgctxt "2512_Shinada"
+msgid "So, Leo-kun, what do you think about your new look?"
+msgstr ""
+
+msgctxt "2524_Ayanokoji"
+msgid ""
+"I feel... Hmm, how to put this? I feel rather patrician. Truly, this "
+"ensemble fits one of my high birth."
+msgstr ""
+
+msgctxt "2536_Shinada"
+msgid "Uh, not sure I got all that, but I can tell you're happy. You look great."
+msgstr ""
+
+msgctxt "2548_Ayanokoji"
+msgid ""
+"Hah! If I need your opinion, I'll ask for it. You're one of the sloppiest "
+"dressers I know."
+msgstr ""
+
+msgctxt "2560_Shinada"
+msgid "Well that's just rude. I like the way I dress."
+msgstr ""
+
+msgctxt "2572_Ayanokoji"
+msgid ""
+"In any case, I never imagined I could look this good in normal clothes. I "
+"guess it pays to try new things."
+msgstr ""
+
+msgctxt "2584_Shinada"
+msgid "So I did good?"
+msgstr ""
+
+msgctxt "2596_Ayanokoji"
+msgid ""
+"This didn't have quite the impact as what you've done so far, but I suppose "
+"it still counts nonetheless."
+msgstr ""
+
+msgctxt "2608_Shinada"
+msgid "Yes! I'm on a roll, baby!"
+msgstr ""
+
+msgctxt "2620_Ayanokoji"
+msgid ""
+"Now, return when you're prepared to train. The new, more stylish Ayanokoji "
+"will grind your face into the dirt like the commoner you are."
+msgstr ""
+
+msgctxt "2632_Shinada"
+msgid ""
+"Okay, I'll be back, but let's forget about grinding faces into dirt, all "
+"right?"
+msgstr ""
+
+msgctxt "2680_Ayanokoji"
+msgid "Ah, there you are. What do you want?"
+msgstr ""
+
+msgctxt "2692_Ayanokoji"
+msgid "So? What do you want?"
+msgstr ""
+
+msgctxt "2800_Shinada"
+msgid ""
+"(He owes me after the advice I gave him, so I should have him give me a "
+"lesson.)"
+msgstr ""
+
+msgctxt "2812_Shinada"
+msgid "Sorry to bother you. I just wanted to say hi."
+msgstr ""
+
+msgctxt "2824_Ayanokoji"
+msgid "Are you mocking me? Hmph. Well, come back when you're ready."
+msgstr ""
+
+msgctxt "2836_Shinada"
+msgid "Let's train!"
+msgstr ""
+
+msgctxt "2848_Ayanokoji"
+msgid ""
+"Do you recall how I explained to you about protection and feudal service? "
+"You serve me, and I protect you."
+msgstr ""
+
+msgctxt "2860_Ayanokoji"
+msgid "So what have you done for me lately? Well? I'm waiting."
+msgstr ""
+
+msgctxt "2872_Shinada"
+msgid "Oh, um..."
+msgstr ""
+
+msgctxt "2884_Ayanokoji"
+msgid ""
+"You need to do something for me first. That's feudal service. As you "
+"peasants say, scratch my back, and I'll scratch yours."
+msgstr ""
+
+msgctxt "2896_Shinada"
+msgid ""
+"(Fine. Maybe I'll give him some advice about his life. Then he'll owe me "
+"one.)"
+msgstr ""
+
+msgctxt "2908_Shinada"
+msgid "Sorry! I just remembered something I have to do."
+msgstr ""
+
+msgctxt "2920_Ayanokoji"
+msgid "Tsk, stop wasting my time!"
+msgstr ""
+
+msgctxt "2932_Shinada"
+msgid "My bad! I'll be back!"
+msgstr ""
+
+msgctxt "2968_Shinada"
+msgid "Let's train!"
+msgstr ""
+
+msgctxt "2980_Ayanokoji"
+msgid "Very well, but we must needs change locales."
+msgstr ""
+
+msgctxt "3052_Ayanokoji"
+msgid "So, what shall we do?"
+msgstr ""
+
+msgctxt "3064_Shinada"
+msgid "What!? Aren't you supposed to decide that?"
+msgstr ""
+
+msgctxt "3076_Ayanokoji"
+msgid ""
+"But I know nothing about you! How do you expect me to impart my science "
+"unto you!?"
+msgstr ""
+
+msgctxt "3088_Shinada"
+msgid "Temper, temper, Leo-kun."
+msgstr ""
+
+msgctxt "3100_Ayanokoji"
+msgid "Fine. Let us begin with a contest."
+msgstr ""
+
+msgctxt "3112_Ayanokoji"
+msgid ""
+"I'm quite skilled with weapons, so I'll be armed. You can fight barehanded "
+"or with a weapon. I'll allow you to do whatever you like."
+msgstr ""
+
+msgctxt "3124_Ayanokoji"
+msgid ""
+"But don't expect reimbursement if you wear out a weapon battling me. Any "
+"repairs that might be required are coming out of your pocket."
+msgstr ""
+
+msgctxt "3136_Ayanokoji's training"
+msgid ""
+"<Color:7>Heat Actions are not available<Color:Default> in training battles. "
+"Make sure you are fully prepared as Ayanokoji is far more dangerous than he "
+"looks."
+msgstr ""
+
+msgctxt "3184_Ayanokoji"
+msgid "All right, let's get started. Are you sure you're prepared?"
+msgstr ""
+
+msgctxt "3196_Shinada"
+msgid "As ready as I'll ever be! Let's go!"
+msgstr ""
+
+msgctxt "3208_Ayanokoji"
+msgid "Very well. Then let the contest... begin!"
+msgstr ""
+
+msgctxt "3232_Shinada"
+msgid "Okay, train me!"
+msgstr ""
+
+msgctxt "3244_Ayanokoji"
+msgid "Oh, all right, fine."
+msgstr ""
+
+msgctxt "3316_Ayanokoji"
+msgid "So, what do you want to do?"
+msgstr ""
+
+msgctxt "3328_Shinada"
+msgid "Aw, come on, not this again. It's like you don't even have a plan!"
+msgstr ""
+
+msgctxt "3340_Ayanokoji"
+msgid ""
+"Thankless peasant! You forget yourself! I'm giving you a choice, and yet "
+"you have the nerve to complain about it!?"
+msgstr ""
+
+msgctxt "3352_Shinada"
+msgid ""
+"Just thought you should have a program or something. You know, like first "
+"we do this, and then that."
+msgstr ""
+
+msgctxt "3364_Ayanokoji"
+msgid ""
+"This isn't some mindless course upon the internet. But I suppose it's "
+"beyond a witless peon like yourself to ascertain what you need to know."
+msgstr ""
+
+msgctxt "3376_Ayanokoji"
+msgid "It's like going in circles with you. So very irksome..."
+msgstr ""
+
+msgctxt "3388_Shinada"
+msgid "Well, if you really want me to choose, how about a big, flashy special move?"
+msgstr ""
+
+msgctxt "3400_Ayanokoji"
+msgid ""
+"I should have seen that coming. Commoners are always drawn to the garish "
+"ones."
+msgstr ""
+
+msgctxt "3412_Shinada"
+msgid "Enough with the snarky remarks. Do you have a special move or not?"
+msgstr ""
+
+msgctxt "3424_Ayanokoji"
+msgid "Of course I do."
+msgstr ""
+
+msgctxt "3436_Shinada"
+msgid "Okay, lay it on me."
+msgstr ""
+
+msgctxt "3448_Ayanokoji"
+msgid ""
+"Listen well, Shinada. Grandiose moves like that don't simply happen. They "
+"evolve out of those you use with frequency."
+msgstr ""
+
+msgctxt "3460_Ayanokoji"
+msgid "That means they must come to you naturally if you ever hope to master them."
+msgstr ""
+
+msgctxt "3472_Shinada"
+msgid ""
+"Hey, pal, you're supposed to be the master here, so don't shirk your "
+"teaching duties."
+msgstr ""
+
+msgctxt "3484_Ayanokoji"
+msgid "I've said naught of the sort. I will teach you."
+msgstr ""
+
+msgctxt "3496_Shinada"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "3508_Ayanokoji"
+msgid ""
+"And now you doubt me? I say that I will put you through training designed "
+"to allow new techniques to come to you naturally. Can you grasp that?"
+msgstr ""
+
+msgctxt "3520_Shinada"
+msgid "Oh, that's what you meant."
+msgstr ""
+
+msgctxt "3532_Ayanokoji"
+msgid "I'll take that as a yes. Just keep that in mind as you practice."
+msgstr ""
+
+msgctxt "3580_Ayanokoji"
+msgid "All right, let's get started. Are you sure you're prepared?"
+msgstr ""
+
+msgctxt "3592_Shinada"
+msgid "As ready as I'll ever be! Let's go!"
+msgstr ""
+
+msgctxt "3604_Ayanokoji"
+msgid "Very well. Then let the contest... begin!"
+msgstr ""
+
+msgctxt "3628_Shinada"
+msgid "Okay, lay it on me!"
+msgstr ""
+
+msgctxt "3640_Ayanokoji"
+msgid "Very well, but somewhere with fewer common eyes."
+msgstr ""
+
+msgctxt "3712_Ayanokoji"
+msgid "This time, I'll decide the content of your lesson."
+msgstr ""
+
+msgctxt "3724_Shinada"
+msgid "Whoa, really? Didn't see that coming!"
+msgstr ""
+
+msgctxt "3736_Ayanokoji"
+msgid ""
+"That's because you don't use the mush within your skull you so brazenly "
+"call a brain, witless peasant!"
+msgstr ""
+
+msgctxt "3748_Ayanokoji"
+msgid ""
+"Now, I shall put up an iron defense. I want you to figure out how to break "
+"through it. Understand?"
+msgstr ""
+
+msgctxt "3760_Shinada"
+msgid "Whoa, now that sounds like real training!"
+msgstr ""
+
+msgctxt "3772_Ayanokoji"
+msgid ""
+"That's because it is, you dolt. Everything I do is perfect when I deign to "
+"put my mind to it."
+msgstr ""
+
+msgctxt "3784_Ayanokoji"
+msgid ""
+"Of course, an iron defense ensures I suffer the least amount of pain, since "
+"you seem to be incapable of pulling your punches."
+msgstr ""
+
+msgctxt "3796_Shinada"
+msgid "Well, yeah. How can I learn anything if I don't give it my all?"
+msgstr ""
+
+msgctxt "3844_Ayanokoji"
+msgid "All right, let's get started. Are you sure you're prepared?"
+msgstr ""
+
+msgctxt "3856_Shinada"
+msgid "As ready as I'll ever be! Let's go!"
+msgstr ""
+
+msgctxt "3868_Ayanokoji"
+msgid "Very well. Then let the contest... begin!"
+msgstr ""
+
+msgctxt "3892_Shinada"
+msgid "Lay some more training on me, nobleman!"
+msgstr ""
+
+msgctxt "3904_Ayanokoji"
+msgid "Fine, peasant. I shall indulge you. But first, a change of scenery."
+msgstr ""
+
+msgctxt "3976_Ayanokoji"
+msgid "So have you decided what you wish to learn this time?"
+msgstr ""
+
+msgctxt "3988_Shinada"
+msgid ""
+"You bet I have. Especially if it will save me from listening to your snarky "
+"remarks again."
+msgstr ""
+
+msgctxt "4000_Ayanokoji"
+msgid "Hmph. So? Speak."
+msgstr ""
+
+msgctxt "4012_Shinada"
+msgid "How about we review what I've learned?"
+msgstr ""
+
+msgctxt "4024_Ayanokoji"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "4036_Shinada"
+msgid ""
+"Sometimes you need to go back to the basics, right? So let's go over the "
+"first lesson you gave me."
+msgstr ""
+
+msgctxt "4048_Ayanokoji"
+msgid "Hmm, yes. I suppose even you have good ideas sometimes."
+msgstr ""
+
+msgctxt "4060_Shinada"
+msgid "I know, right?"
+msgstr ""
+
+msgctxt "4072_Ayanokoji"
+msgid ""
+"Simpleton! Did you expect to be patted on the head like a dog learning a "
+"new trick?"
+msgstr ""
+
+msgctxt "4084_Shinada"
+msgid "Wha...?"
+msgstr ""
+
+msgctxt "4096_Ayanokoji"
+msgid "Would you please try to use that pea brain of yours?"
+msgstr ""
+
+msgctxt "4108_Ayanokoji"
+msgid ""
+"I will concede that reviewing what I've taught you is a valuable exercise, "
+"but you hardly need me to do that! Go review my lessons on your own!"
+msgstr ""
+
+msgctxt "4120_Ayanokoji"
+msgid "A single second of my time is worth more than your entire life!"
+msgstr ""
+
+msgctxt "4132_Shinada"
+msgid ""
+"Whoa, no need to freak out like that. I'm just saying that reviewing is a "
+"big part of training, especially in sports."
+msgstr ""
+
+msgctxt "4144_Ayanokoji"
+msgid ""
+"This is not a sport, and I am not your coach! This is a martial art, and "
+"I'm your lord and master!"
+msgstr ""
+
+msgctxt "4156_Shinada"
+msgid ""
+"Why does everything with you have to be such a hassle? Just help me review "
+"what I've learned. Is that so much to ask?"
+msgstr ""
+
+msgctxt "4168_Ayanokoji"
+msgid ""
+"Argh, how you vex me! Fine, I'll use this chance to take out my "
+"frustrations upon you!"
+msgstr ""
+
+msgctxt "4180_Shinada"
+msgid "That doesn't sound very master-like to me."
+msgstr ""
+
+msgctxt "4192_Ayanokoji"
+msgid ""
+"Prepare yourself, peasant. This may be a lesson review, but only the gods "
+"know what I have in store for you!"
+msgstr ""
+
+msgctxt "4204_Shinada"
+msgid "The gods actually care what you're thinking?"
+msgstr ""
+
+msgctxt "4252_Ayanokoji"
+msgid "How dare you!? I demand satisfaction! Now prepare yourself!"
+msgstr ""
+
+msgctxt "4264_Shinada"
+msgid "Oh yeah, let's go!"
+msgstr ""
+
+msgctxt "4276_Ayanokoji"
+msgid "Very well. Then let the contest... begin!"
+msgstr ""
+
+msgctxt "4300_Shinada"
+msgid "Okay, Leo, old boy, let's make this a lesson to remember!"
+msgstr ""
+
+msgctxt "4312_Ayanokoji"
+msgid ""
+"You will not vex me this time. Forsooth, there's no point in reacting to "
+"inane comments from an addlepated peasant like you."
+msgstr ""
+
+msgctxt "4324_Shinada"
+msgid "Well, good to see you're dealing with your anger issues."
+msgstr ""
+
+msgctxt "4336_Ayanokoji"
+msgid "Hmph, let us move this elsewhere."
+msgstr ""
+
+msgctxt "4408_Ayanokoji"
+msgid "So, what shall we do?"
+msgstr ""
+
+msgctxt "4420_Shinada"
+msgid "Uh, I dunno. Nothing special. I'll leave it up to you, Leo-kun."
+msgstr ""
+
+msgctxt "4432_Ayanokoji"
+msgid "But I just asked you－! ...Ahem."
+msgstr ""
+
+msgctxt "4444_Ayanokoji"
+msgid ""
+"You really have no clue, do you? Fine. Once a witless peasant, always a "
+"witless peasant."
+msgstr ""
+
+msgctxt "4456_Shinada"
+msgid ""
+"Well! Looks like you got that anger of yours under control! Good job, "
+"Leo-kun."
+msgstr ""
+
+msgctxt "4468_Ayanokoji"
+msgid "Of course I do. I'm not a member of the unwashed masses like you, after all."
+msgstr ""
+
+msgctxt "4480_Shinada"
+msgid "Oh, right. You're some kind of aristocrat!"
+msgstr ""
+
+msgctxt "4492_Ayanokoji"
+msgid ""
+"At least you understand that much. Methinks I'll just have to give you "
+"another lesson."
+msgstr ""
+
+msgctxt "4540_Ayanokoji"
+msgid "All right, let's get started. Are you sure you're prepared?"
+msgstr ""
+
+msgctxt "4552_Shinada"
+msgid "As ready as I'll ever be! Let's go!"
+msgstr ""
+
+msgctxt "4564_Ayanokoji"
+msgid "Very well. Then let the contest... begin!"
+msgstr ""
+
+msgctxt "4588_Shinada"
+msgid "Lay it on me!"
+msgstr ""
+
+msgctxt "4600_Ayanokoji"
+msgid "Very well. Let us find somewhere more private."
+msgstr ""
+
+msgctxt "4672_Ayanokoji"
+msgid "Shinada. Could I talk to you for a minute?"
+msgstr ""
+
+msgctxt "4684_Shinada"
+msgid "Whoa, Leo-kun? You're so serious all of a sudden."
+msgstr ""
+
+msgctxt "4696_Ayanokoji"
+msgid "It's about your training. This shall be the last time."
+msgstr ""
+
+msgctxt "4708_Shinada"
+msgid "What!? Where's this coming from?"
+msgstr ""
+
+msgctxt "4720_Ayanokoji"
+msgid ""
+"I've changed quite a bit thanks to your advice, and for that, I must admit "
+"that I am most grateful."
+msgstr ""
+
+msgctxt "4732_Shinada"
+msgid "Umm, you're welcome?"
+msgstr ""
+
+msgctxt "4744_Ayanokoji"
+msgid ""
+"Yes, well... Simply put, as the scion of aristocrats, I must hold fast to "
+"my honor."
+msgstr ""
+
+msgctxt "4756_Ayanokoji"
+msgid "I must needs grow stronger, that I am able to do so."
+msgstr ""
+
+msgctxt "4768_Ayanokoji"
+msgid "I cannot have myself crying out in pain whenever you land a solid blow."
+msgstr ""
+
+msgctxt "4780_Shinada"
+msgid "Leo-kun..."
+msgstr ""
+
+msgctxt "4792_Ayanokoji"
+msgid ""
+"So I shall give you no quarter from now on, Shinada. I still expect to be "
+"routed, however. That's just how good you are."
+msgstr ""
+
+msgctxt "4804_Ayanokoji"
+msgid ""
+"But I can accept defeat so long as I can fight with all my strength. I "
+"shall channel the pain into the refinement of my being."
+msgstr ""
+
+msgctxt "4816_Shinada"
+msgid ""
+"Aw, I was having so much fun at your expense, though. Why'd you have to go "
+"and ruin it by getting all serious?"
+msgstr ""
+
+msgctxt "4828_Shinada"
+msgid ""
+"But I get it, Leo-kun. I know you have it rough in your own way. But don't "
+"worry, because I'm gonna meet you blow for blow."
+msgstr ""
+
+msgctxt "4840_Ayanokoji"
+msgid "Shinada... You have my thanks."
+msgstr ""
+
+msgctxt "4888_Ayanokoji"
+msgid "Now then, shall we begin? If you are prepared, that is."
+msgstr ""
+
+msgctxt "4900_Shinada"
+msgid "Couldn't possibly prepare any more than I have! Let's go!"
+msgstr ""
+
+msgctxt "4912_Ayanokoji"
+msgid "Very well! Steel yourself, Shinada!"
+msgstr ""
+
+msgctxt "4936_Ayanokoji"
+msgid "Ah, there you are. What do you want?"
+msgstr ""
+
+msgctxt "4948_Ayanokoji"
+msgid "So? What do you want?"
+msgstr ""
+
+msgctxt "5056_Shinada"
+msgid ""
+"(He owes me after the advice I gave him, so I should have him give me a "
+"lesson.)"
+msgstr ""
+
+msgctxt "5068_Shinada"
+msgid "Sorry to bother you. I just wanted to say hi."
+msgstr ""
+
+msgctxt "5080_Ayanokoji"
+msgid "Are you mocking me? Hmph. Well, come back when you're ready."
+msgstr ""
+
+msgctxt "5092_Shinada"
+msgid "Let's train!"
+msgstr ""
+
+msgctxt "5104_Ayanokoji"
+msgid ""
+"Do you recall how I explained to you about protection and feudal service? "
+"You serve me, and I protect you."
+msgstr ""
+
+msgctxt "5116_Ayanokoji"
+msgid "So what have you done for me lately? Well? I'm waiting."
+msgstr ""
+
+msgctxt "5128_Shinada"
+msgid "Oh, um..."
+msgstr ""
+
+msgctxt "5140_Ayanokoji"
+msgid ""
+"You need to do something for me first. That's feudal service. As you "
+"peasants say, scratch my back, and I'll scratch yours."
+msgstr ""
+
+msgctxt "5152_Shinada"
+msgid ""
+"(Fine. Maybe I'll give him some advice about his life. Then he'll owe me "
+"one.)"
+msgstr ""
+
+msgctxt "5164_Shinada"
+msgid "Sorry! I just remembered something I have to do."
+msgstr ""
+
+msgctxt "5176_Ayanokoji"
+msgid "Tsk, stop wasting my time!"
+msgstr ""
+
+msgctxt "5188_Shinada"
+msgid "My bad! I'll be back!"
+msgstr ""
+
+msgctxt "5224_Shinada"
+msgid "Let's train!"
+msgstr ""
+
+msgctxt "5236_Ayanokoji"
+msgid "Very well, but we must needs change locales."
+msgstr ""
+
+msgctxt "5308_Ayanokoji"
+msgid "So, what shall we do?"
+msgstr ""
+
+msgctxt "5320_Shinada"
+msgid "What!? Aren't you supposed to decide that?"
+msgstr ""
+
+msgctxt "5332_Ayanokoji"
+msgid ""
+"But I know nothing about you! How do you expect me to impart my science "
+"unto you!?"
+msgstr ""
+
+msgctxt "5344_Shinada"
+msgid "Temper, temper, Leo-kun."
+msgstr ""
+
+msgctxt "5356_Ayanokoji"
+msgid "Fine. Let us begin with a contest."
+msgstr ""
+
+msgctxt "5368_Ayanokoji"
+msgid ""
+"I'm quite skilled with weapons, so I'll be armed. You can fight barehanded "
+"or with a weapon. I'll allow you to do whatever you like."
+msgstr ""
+
+msgctxt "5380_Ayanokoji"
+msgid ""
+"But don't expect reimbursement if you wear out a weapon battling me. Any "
+"repairs that might be required are coming out of your pocket."
+msgstr ""
+
+msgctxt "5392_Ayanokoji's training"
+msgid ""
+"<Color:7>Heat Actions are not available<Color:Default> in training battles. "
+"Make sure you are fully prepared as Ayanokoji is far more dangerous than he "
+"looks."
+msgstr ""
+
+msgctxt "5440_Ayanokoji"
+msgid "All right, let's get started. Are you sure you're prepared?"
+msgstr ""
+
+msgctxt "5452_Shinada"
+msgid "As ready as I'll ever be! Let's go!"
+msgstr ""
+
+msgctxt "5464_Ayanokoji"
+msgid "Very well. Then let the contest... begin!"
+msgstr ""
+
+msgctxt "5488_Shinada"
+msgid "Okay, train me!"
+msgstr ""
+
+msgctxt "5500_Ayanokoji"
+msgid "Oh, all right, fine."
+msgstr ""
+
+msgctxt "5572_Ayanokoji"
+msgid "So, what do you want to do?"
+msgstr ""
+
+msgctxt "5584_Shinada"
+msgid "Aw, come on, not this again. It's like you don't even have a plan!"
+msgstr ""
+
+msgctxt "5596_Ayanokoji"
+msgid ""
+"Thankless peasant! You forget yourself! I'm giving you a choice, and yet "
+"you have the nerve to complain about it!?"
+msgstr ""
+
+msgctxt "5608_Shinada"
+msgid ""
+"Just thought you should have a program or something. You know, like first "
+"we do this, and then that."
+msgstr ""
+
+msgctxt "5620_Ayanokoji"
+msgid ""
+"This isn't some mindless course upon the internet. But I suppose it's "
+"beyond a witless peon like yourself to ascertain what you need to know."
+msgstr ""
+
+msgctxt "5632_Ayanokoji"
+msgid "It's like going in circles with you. So very irksome..."
+msgstr ""
+
+msgctxt "5644_Shinada"
+msgid "Well, if you really want me to choose, how about a big, flashy special move?"
+msgstr ""
+
+msgctxt "5656_Ayanokoji"
+msgid ""
+"I should have seen that coming. Commoners are always drawn to the garish "
+"ones."
+msgstr ""
+
+msgctxt "5668_Shinada"
+msgid "Enough with the snarky remarks. Do you have a special move or not?"
+msgstr ""
+
+msgctxt "5680_Ayanokoji"
+msgid "Of course I do."
+msgstr ""
+
+msgctxt "5692_Shinada"
+msgid "Okay, lay it on me."
+msgstr ""
+
+msgctxt "5704_Ayanokoji"
+msgid ""
+"Listen well, Shinada. Grandiose moves like that don't simply happen. They "
+"evolve out of those you use with frequency."
+msgstr ""
+
+msgctxt "5716_Ayanokoji"
+msgid "That means they must come to you naturally if you ever hope to master them."
+msgstr ""
+
+msgctxt "5728_Shinada"
+msgid ""
+"Hey, pal, you're supposed to be the master here, so don't shirk your "
+"teaching duties."
+msgstr ""
+
+msgctxt "5740_Ayanokoji"
+msgid "I've said naught of the sort. I will teach you."
+msgstr ""
+
+msgctxt "5752_Shinada"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "5764_Ayanokoji"
+msgid ""
+"And now you doubt me? I say that I will put you through training designed "
+"to allow new techniques to come to you naturally. Can you grasp that?"
+msgstr ""
+
+msgctxt "5776_Shinada"
+msgid "Oh, that's what you meant."
+msgstr ""
+
+msgctxt "5788_Ayanokoji"
+msgid "I'll take that as a yes. Just keep that in mind as you practice."
+msgstr ""
+
+msgctxt "5836_Ayanokoji"
+msgid "All right, let's get started. Are you sure you're prepared?"
+msgstr ""
+
+msgctxt "5848_Shinada"
+msgid "As ready as I'll ever be! Let's go!"
+msgstr ""
+
+msgctxt "5860_Ayanokoji"
+msgid "Very well. Then let the contest... begin!"
+msgstr ""
+
+msgctxt "5884_Shinada"
+msgid "Okay, lay it on me!"
+msgstr ""
+
+msgctxt "5896_Ayanokoji"
+msgid "Very well, but somewhere with fewer common eyes."
+msgstr ""
+
+msgctxt "5968_Ayanokoji"
+msgid "This time, I'll decide the content of your lesson."
+msgstr ""
+
+msgctxt "5980_Shinada"
+msgid "Whoa, really? Didn't see that coming!"
+msgstr ""
+
+msgctxt "5992_Ayanokoji"
+msgid ""
+"That's because you don't use the mush within your skull you so brazenly "
+"call a brain, witless peasant!"
+msgstr ""
+
+msgctxt "6004_Ayanokoji"
+msgid ""
+"Now, I shall put up an iron defense. I want you to figure out how to break "
+"through it. Understand?"
+msgstr ""
+
+msgctxt "6016_Shinada"
+msgid "Whoa, now that sounds like real training!"
+msgstr ""
+
+msgctxt "6028_Ayanokoji"
+msgid ""
+"That's because it is, you dolt. Everything I do is perfect when I deign to "
+"put my mind to it."
+msgstr ""
+
+msgctxt "6040_Ayanokoji"
+msgid ""
+"Of course, an iron defense ensures I suffer the least amount of pain, since "
+"you seem to be incapable of pulling your punches."
+msgstr ""
+
+msgctxt "6052_Shinada"
+msgid "Well, yeah. How can I learn anything if I don't give it my all?"
+msgstr ""
+
+msgctxt "6100_Ayanokoji"
+msgid "All right, let's get started. Are you sure you're prepared?"
+msgstr ""
+
+msgctxt "6112_Shinada"
+msgid "As ready as I'll ever be! Let's go!"
+msgstr ""
+
+msgctxt "6124_Ayanokoji"
+msgid "Very well. Then let the contest... begin!"
+msgstr ""
+
+msgctxt "6148_Shinada"
+msgid "Lay some more training on me, nobleman!"
+msgstr ""
+
+msgctxt "6160_Ayanokoji"
+msgid "Fine, peasant. I shall indulge you. But first, a change of scenery."
+msgstr ""
+
+msgctxt "6232_Ayanokoji"
+msgid "So have you decided what you wish to learn this time?"
+msgstr ""
+
+msgctxt "6244_Shinada"
+msgid ""
+"You bet I have. Especially if it will save me from listening to your snarky "
+"remarks again."
+msgstr ""
+
+msgctxt "6256_Ayanokoji"
+msgid "Hmph. So? Speak."
+msgstr ""
+
+msgctxt "6268_Shinada"
+msgid "How about we review what I've learned?"
+msgstr ""
+
+msgctxt "6280_Ayanokoji"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "6292_Shinada"
+msgid ""
+"Sometimes you need to go back to the basics, right? So let's go over the "
+"first lesson you gave me."
+msgstr ""
+
+msgctxt "6304_Ayanokoji"
+msgid "Hmm, yes. I suppose even you have good ideas sometimes."
+msgstr ""
+
+msgctxt "6316_Shinada"
+msgid "I know, right?"
+msgstr ""
+
+msgctxt "6328_Ayanokoji"
+msgid ""
+"Simpleton! Did you expect to be patted on the head like a dog learning a "
+"new trick?"
+msgstr ""
+
+msgctxt "6340_Shinada"
+msgid "Wha...?"
+msgstr ""
+
+msgctxt "6352_Ayanokoji"
+msgid "Would you please try to use that pea brain of yours?"
+msgstr ""
+
+msgctxt "6364_Ayanokoji"
+msgid ""
+"I will concede that reviewing what I've taught you is a valuable exercise, "
+"but you hardly need me to do that! Go review my lessons on your own!"
+msgstr ""
+
+msgctxt "6376_Ayanokoji"
+msgid "A single second of my time is worth more than your entire life!"
+msgstr ""
+
+msgctxt "6388_Shinada"
+msgid ""
+"Whoa, no need to freak out like that. I'm just saying that reviewing is a "
+"big part of training, especially in sports."
+msgstr ""
+
+msgctxt "6400_Ayanokoji"
+msgid ""
+"This is not a sport, and I am not your coach! This is a martial art, and "
+"I'm your lord and master!"
+msgstr ""
+
+msgctxt "6412_Shinada"
+msgid ""
+"Why does everything with you have to be such a hassle? Just help me review "
+"what I've learned. Is that so much to ask?"
+msgstr ""
+
+msgctxt "6424_Ayanokoji"
+msgid ""
+"Argh, how you vex me! Fine, I'll use this chance to take out my "
+"frustrations upon you!"
+msgstr ""
+
+msgctxt "6436_Shinada"
+msgid "That doesn't sound very master-like to me."
+msgstr ""
+
+msgctxt "6448_Ayanokoji"
+msgid ""
+"Prepare yourself, peasant. This may be a lesson review, but only the gods "
+"know what I have in store for you!"
+msgstr ""
+
+msgctxt "6460_Shinada"
+msgid "The gods actually care what you're thinking?"
+msgstr ""
+
+msgctxt "6508_Ayanokoji"
+msgid "How dare you!? I demand satisfaction! Now prepare yourself!"
+msgstr ""
+
+msgctxt "6520_Shinada"
+msgid "Oh yeah, let's go!"
+msgstr ""
+
+msgctxt "6532_Ayanokoji"
+msgid "Very well. Then let the contest... begin!"
+msgstr ""
+
+msgctxt "6556_Shinada"
+msgid "Okay, Leo, old boy, let's make this a lesson to remember!"
+msgstr ""
+
+msgctxt "6568_Ayanokoji"
+msgid ""
+"You will not vex me this time. Forsooth, there's no point in reacting to "
+"inane comments from an addlepated peasant like you."
+msgstr ""
+
+msgctxt "6580_Shinada"
+msgid "Well, good to see you're dealing with your anger issues."
+msgstr ""
+
+msgctxt "6592_Ayanokoji"
+msgid "Hmph, let us move this elsewhere."
+msgstr ""
+
+msgctxt "6664_Ayanokoji"
+msgid "So, what shall we do?"
+msgstr ""
+
+msgctxt "6676_Shinada"
+msgid "Uh, I dunno. Nothing special. I'll leave it up to you, Leo-kun."
+msgstr ""
+
+msgctxt "6688_Ayanokoji"
+msgid "But I just asked you－! ...Ahem."
+msgstr ""
+
+msgctxt "6700_Ayanokoji"
+msgid ""
+"You really have no clue, do you? Fine. Once a witless peasant, always a "
+"witless peasant."
+msgstr ""
+
+msgctxt "6712_Shinada"
+msgid ""
+"Well! Looks like you got that anger of yours under control! Good job, "
+"Leo-kun."
+msgstr ""
+
+msgctxt "6724_Ayanokoji"
+msgid "Of course I do. I'm not a member of the unwashed masses like you, after all."
+msgstr ""
+
+msgctxt "6736_Shinada"
+msgid "Oh, right. You're some kind of aristocrat!"
+msgstr ""
+
+msgctxt "6748_Ayanokoji"
+msgid ""
+"At least you understand that much. Methinks I'll just have to give you "
+"another lesson."
+msgstr ""
+
+msgctxt "6796_Ayanokoji"
+msgid "All right, let's get started. Are you sure you're prepared?"
+msgstr ""
+
+msgctxt "6808_Shinada"
+msgid "As ready as I'll ever be! Let's go!"
+msgstr ""
+
+msgctxt "6820_Ayanokoji"
+msgid "Very well. Then let the contest... begin!"
+msgstr ""
+
+msgctxt "6844_Shinada"
+msgid "Lay it on me!"
+msgstr ""
+
+msgctxt "6856_Ayanokoji"
+msgid "Very well. Let us find somewhere more private."
+msgstr ""
+
+msgctxt "6928_Ayanokoji"
+msgid "Shinada. Could I talk to you for a minute?"
+msgstr ""
+
+msgctxt "6940_Shinada"
+msgid "Whoa, Leo-kun? You're so serious all of a sudden."
+msgstr ""
+
+msgctxt "6952_Ayanokoji"
+msgid "It's about your training. This shall be the last time."
+msgstr ""
+
+msgctxt "6964_Shinada"
+msgid "What!? Where's this coming from?"
+msgstr ""
+
+msgctxt "6976_Ayanokoji"
+msgid ""
+"I've changed quite a bit thanks to your advice, and for that, I must admit "
+"that I am most grateful."
+msgstr ""
+
+msgctxt "6988_Shinada"
+msgid "Umm, you're welcome?"
+msgstr ""
+
+msgctxt "7000_Ayanokoji"
+msgid ""
+"Yes, well... Simply put, as the scion of aristocrats, I must hold fast to "
+"my honor."
+msgstr ""
+
+msgctxt "7012_Ayanokoji"
+msgid "I must needs grow stronger, that I am able to do so."
+msgstr ""
+
+msgctxt "7024_Ayanokoji"
+msgid "I cannot have myself crying out in pain whenever you land a solid blow."
+msgstr ""
+
+msgctxt "7036_Shinada"
+msgid "Leo-kun..."
+msgstr ""
+
+msgctxt "7048_Ayanokoji"
+msgid ""
+"So I shall give you no quarter from now on, Shinada. I still expect to be "
+"routed, however. That's just how good you are."
+msgstr ""
+
+msgctxt "7060_Ayanokoji"
+msgid ""
+"But I can accept defeat so long as I can fight with all my strength. I "
+"shall channel the pain into the refinement of my being."
+msgstr ""
+
+msgctxt "7072_Shinada"
+msgid ""
+"Aw, I was having so much fun at your expense, though. Why'd you have to go "
+"and ruin it by getting all serious?"
+msgstr ""
+
+msgctxt "7084_Shinada"
+msgid ""
+"But I get it, Leo-kun. I know you have it rough in your own way. But don't "
+"worry, because I'm gonna meet you blow for blow."
+msgstr ""
+
+msgctxt "7096_Ayanokoji"
+msgid "Shinada... You have my thanks."
+msgstr ""
+
+msgctxt "7144_Ayanokoji"
+msgid "Now then, shall we begin? If you are prepared, that is."
+msgstr ""
+
+msgctxt "7156_Shinada"
+msgid "Couldn't possibly prepare any more than I have! Let's go!"
+msgstr ""
+
+msgctxt "7168_Ayanokoji"
+msgid "Very well! Steel yourself, Shinada!"
+msgstr ""
+
+msgctxt "7192_Ayanokoji"
+msgid "Ah, there you are. What do you want?"
+msgstr ""
+
+msgctxt "7204_Ayanokoji"
+msgid "So? What do you want?"
+msgstr ""
+
+msgctxt "7312_Shinada"
+msgid ""
+"(He owes me after the advice I gave him, so I should have him give me a "
+"lesson.)"
+msgstr ""
+
+msgctxt "7324_Shinada"
+msgid "Sorry to bother you. I just wanted to say hi."
+msgstr ""
+
+msgctxt "7336_Ayanokoji"
+msgid "Are you mocking me? Hmph. Well, come back when you're ready."
+msgstr ""
+
+msgctxt "7348_Shinada"
+msgid "Let's train!"
+msgstr ""
+
+msgctxt "7360_Ayanokoji"
+msgid ""
+"Do you recall how I explained to you about protection and feudal service? "
+"You serve me, and I protect you."
+msgstr ""
+
+msgctxt "7372_Ayanokoji"
+msgid "So what have you done for me lately? Well? I'm waiting."
+msgstr ""
+
+msgctxt "7384_Shinada"
+msgid "Oh, um..."
+msgstr ""
+
+msgctxt "7396_Ayanokoji"
+msgid ""
+"You need to do something for me first. That's feudal service. As you "
+"peasants say, scratch my back, and I'll scratch yours."
+msgstr ""
+
+msgctxt "7408_Shinada"
+msgid ""
+"(Fine. Maybe I'll give him some advice about his life. Then he'll owe me "
+"one.)"
+msgstr ""
+
+msgctxt "7420_Shinada"
+msgid "Sorry! I just remembered something I have to do."
+msgstr ""
+
+msgctxt "7432_Ayanokoji"
+msgid "Tsk, stop wasting my time!"
+msgstr ""
+
+msgctxt "7444_Shinada"
+msgid "My bad! I'll be back!"
+msgstr ""
+
+msgctxt "7480_Shinada"
+msgid "Let's train!"
+msgstr ""
+
+msgctxt "7492_Ayanokoji"
+msgid "Very well, but we must needs change locales."
+msgstr ""
+
+msgctxt "7564_Ayanokoji"
+msgid "So, what shall we do?"
+msgstr ""
+
+msgctxt "7576_Shinada"
+msgid "What!? Aren't you supposed to decide that?"
+msgstr ""
+
+msgctxt "7588_Ayanokoji"
+msgid ""
+"But I know nothing about you! How do you expect me to impart my science "
+"unto you!?"
+msgstr ""
+
+msgctxt "7600_Shinada"
+msgid "Temper, temper, Leo-kun."
+msgstr ""
+
+msgctxt "7612_Ayanokoji"
+msgid "Fine. Let us begin with a contest."
+msgstr ""
+
+msgctxt "7624_Ayanokoji"
+msgid ""
+"I'm quite skilled with weapons, so I'll be armed. You can fight barehanded "
+"or with a weapon. I'll allow you to do whatever you like."
+msgstr ""
+
+msgctxt "7636_Ayanokoji"
+msgid ""
+"But don't expect reimbursement if you wear out a weapon battling me. Any "
+"repairs that might be required are coming out of your pocket."
+msgstr ""
+
+msgctxt "7648_Ayanokoji's training"
+msgid ""
+"<Color:7>Heat Actions are not available<Color:Default> in training battles. "
+"Make sure you are fully prepared as Ayanokoji is far more dangerous than he "
+"looks."
+msgstr ""
+
+msgctxt "7696_Ayanokoji"
+msgid "All right, let's get started. Are you sure you're prepared?"
+msgstr ""
+
+msgctxt "7708_Shinada"
+msgid "As ready as I'll ever be! Let's go!"
+msgstr ""
+
+msgctxt "7720_Ayanokoji"
+msgid "Very well. Then let the contest... begin!"
+msgstr ""
+
+msgctxt "7744_Shinada"
+msgid "Okay, train me!"
+msgstr ""
+
+msgctxt "7756_Ayanokoji"
+msgid "Oh, all right, fine."
+msgstr ""
+
+msgctxt "7828_Ayanokoji"
+msgid "So, what do you want to do?"
+msgstr ""
+
+msgctxt "7840_Shinada"
+msgid "Aw, come on, not this again. It's like you don't even have a plan!"
+msgstr ""
+
+msgctxt "7852_Ayanokoji"
+msgid ""
+"Thankless peasant! You forget yourself! I'm giving you a choice, and yet "
+"you have the nerve to complain about it!?"
+msgstr ""
+
+msgctxt "7864_Shinada"
+msgid ""
+"Just thought you should have a program or something. You know, like first "
+"we do this, and then that."
+msgstr ""
+
+msgctxt "7876_Ayanokoji"
+msgid ""
+"This isn't some mindless course upon the internet. But I suppose it's "
+"beyond a witless peon like yourself to ascertain what you need to know."
+msgstr ""
+
+msgctxt "7888_Ayanokoji"
+msgid "It's like going in circles with you. So very irksome..."
+msgstr ""
+
+msgctxt "7900_Shinada"
+msgid "Well, if you really want me to choose, how about a big, flashy special move?"
+msgstr ""
+
+msgctxt "7912_Ayanokoji"
+msgid ""
+"I should have seen that coming. Commoners are always drawn to the garish "
+"ones."
+msgstr ""
+
+msgctxt "7924_Shinada"
+msgid "Enough with the snarky remarks. Do you have a special move or not?"
+msgstr ""
+
+msgctxt "7936_Ayanokoji"
+msgid "Of course I do."
+msgstr ""
+
+msgctxt "7948_Shinada"
+msgid "Okay, lay it on me."
+msgstr ""
+
+msgctxt "7960_Ayanokoji"
+msgid ""
+"Listen well, Shinada. Grandiose moves like that don't simply happen. They "
+"evolve out of those you use with frequency."
+msgstr ""
+
+msgctxt "7972_Ayanokoji"
+msgid "That means they must come to you naturally if you ever hope to master them."
+msgstr ""
+
+msgctxt "7984_Shinada"
+msgid ""
+"Hey, pal, you're supposed to be the master here, so don't shirk your "
+"teaching duties."
+msgstr ""
+
+msgctxt "7996_Ayanokoji"
+msgid "I've said naught of the sort. I will teach you."
+msgstr ""
+
+msgctxt "8008_Shinada"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "8020_Ayanokoji"
+msgid ""
+"And now you doubt me? I say that I will put you through training designed "
+"to allow new techniques to come to you naturally. Can you grasp that?"
+msgstr ""
+
+msgctxt "8032_Shinada"
+msgid "Oh, that's what you meant."
+msgstr ""
+
+msgctxt "8044_Ayanokoji"
+msgid "I'll take that as a yes. Just keep that in mind as you practice."
+msgstr ""
+
+msgctxt "8092_Ayanokoji"
+msgid "All right, let's get started. Are you sure you're prepared?"
+msgstr ""
+
+msgctxt "8104_Shinada"
+msgid "As ready as I'll ever be! Let's go!"
+msgstr ""
+
+msgctxt "8116_Ayanokoji"
+msgid "Very well. Then let the contest... begin!"
+msgstr ""
+
+msgctxt "8140_Shinada"
+msgid "Okay, lay it on me!"
+msgstr ""
+
+msgctxt "8152_Ayanokoji"
+msgid "Very well, but somewhere with fewer common eyes."
+msgstr ""
+
+msgctxt "8224_Ayanokoji"
+msgid "This time, I'll decide the content of your lesson."
+msgstr ""
+
+msgctxt "8236_Shinada"
+msgid "Whoa, really? Didn't see that coming!"
+msgstr ""
+
+msgctxt "8248_Ayanokoji"
+msgid ""
+"That's because you don't use the mush within your skull you so brazenly "
+"call a brain, witless peasant!"
+msgstr ""
+
+msgctxt "8260_Ayanokoji"
+msgid ""
+"Now, I shall put up an iron defense. I want you to figure out how to break "
+"through it. Understand?"
+msgstr ""
+
+msgctxt "8272_Shinada"
+msgid "Whoa, now that sounds like real training!"
+msgstr ""
+
+msgctxt "8284_Ayanokoji"
+msgid ""
+"That's because it is, you dolt. Everything I do is perfect when I deign to "
+"put my mind to it."
+msgstr ""
+
+msgctxt "8296_Ayanokoji"
+msgid ""
+"Of course, an iron defense ensures I suffer the least amount of pain, since "
+"you seem to be incapable of pulling your punches."
+msgstr ""
+
+msgctxt "8308_Shinada"
+msgid "Well, yeah. How can I learn anything if I don't give it my all?"
+msgstr ""
+
+msgctxt "8356_Ayanokoji"
+msgid "All right, let's get started. Are you sure you're prepared?"
+msgstr ""
+
+msgctxt "8368_Shinada"
+msgid "As ready as I'll ever be! Let's go!"
+msgstr ""
+
+msgctxt "8380_Ayanokoji"
+msgid "Very well. Then let the contest... begin!"
+msgstr ""
+
+msgctxt "8404_Shinada"
+msgid "Lay some more training on me, nobleman!"
+msgstr ""
+
+msgctxt "8416_Ayanokoji"
+msgid "Fine, peasant. I shall indulge you. But first, a change of scenery."
+msgstr ""
+
+msgctxt "8488_Ayanokoji"
+msgid "So have you decided what you wish to learn this time?"
+msgstr ""
+
+msgctxt "8500_Shinada"
+msgid ""
+"You bet I have. Especially if it will save me from listening to your snarky "
+"remarks again."
+msgstr ""
+
+msgctxt "8512_Ayanokoji"
+msgid "Hmph. So? Speak."
+msgstr ""
+
+msgctxt "8524_Shinada"
+msgid "How about we review what I've learned?"
+msgstr ""
+
+msgctxt "8536_Ayanokoji"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "8548_Shinada"
+msgid ""
+"Sometimes you need to go back to the basics, right? So let's go over the "
+"first lesson you gave me."
+msgstr ""
+
+msgctxt "8560_Ayanokoji"
+msgid "Hmm, yes. I suppose even you have good ideas sometimes."
+msgstr ""
+
+msgctxt "8572_Shinada"
+msgid "I know, right?"
+msgstr ""
+
+msgctxt "8584_Ayanokoji"
+msgid ""
+"Simpleton! Did you expect to be patted on the head like a dog learning a "
+"new trick?"
+msgstr ""
+
+msgctxt "8596_Shinada"
+msgid "Wha...?"
+msgstr ""
+
+msgctxt "8608_Ayanokoji"
+msgid "Would you please try to use that pea brain of yours?"
+msgstr ""
+
+msgctxt "8620_Ayanokoji"
+msgid ""
+"I will concede that reviewing what I've taught you is a valuable exercise, "
+"but you hardly need me to do that! Go review my lessons on your own!"
+msgstr ""
+
+msgctxt "8632_Ayanokoji"
+msgid "A single second of my time is worth more than your entire life!"
+msgstr ""
+
+msgctxt "8644_Shinada"
+msgid ""
+"Whoa, no need to freak out like that. I'm just saying that reviewing is a "
+"big part of training, especially in sports."
+msgstr ""
+
+msgctxt "8656_Ayanokoji"
+msgid ""
+"This is not a sport, and I am not your coach! This is a martial art, and "
+"I'm your lord and master!"
+msgstr ""
+
+msgctxt "8668_Shinada"
+msgid ""
+"Why does everything with you have to be such a hassle? Just help me review "
+"what I've learned. Is that so much to ask?"
+msgstr ""
+
+msgctxt "8680_Ayanokoji"
+msgid ""
+"Argh, how you vex me! Fine, I'll use this chance to take out my "
+"frustrations upon you!"
+msgstr ""
+
+msgctxt "8692_Shinada"
+msgid "That doesn't sound very master-like to me."
+msgstr ""
+
+msgctxt "8704_Ayanokoji"
+msgid ""
+"Prepare yourself, peasant. This may be a lesson review, but only the gods "
+"know what I have in store for you!"
+msgstr ""
+
+msgctxt "8716_Shinada"
+msgid "The gods actually care what you're thinking?"
+msgstr ""
+
+msgctxt "8764_Ayanokoji"
+msgid "How dare you!? I demand satisfaction! Now prepare yourself!"
+msgstr ""
+
+msgctxt "8776_Shinada"
+msgid "Oh yeah, let's go!"
+msgstr ""
+
+msgctxt "8788_Ayanokoji"
+msgid "Very well. Then let the contest... begin!"
+msgstr ""
+
+msgctxt "8812_Shinada"
+msgid "Okay, Leo, old boy, let's make this a lesson to remember!"
+msgstr ""
+
+msgctxt "8824_Ayanokoji"
+msgid ""
+"You will not vex me this time. Forsooth, there's no point in reacting to "
+"inane comments from an addlepated peasant like you."
+msgstr ""
+
+msgctxt "8836_Shinada"
+msgid "Well, good to see you're dealing with your anger issues."
+msgstr ""
+
+msgctxt "8848_Ayanokoji"
+msgid "Hmph, let us move this elsewhere."
+msgstr ""
+
+msgctxt "8920_Ayanokoji"
+msgid "So, what shall we do?"
+msgstr ""
+
+msgctxt "8932_Shinada"
+msgid "Uh, I dunno. Nothing special. I'll leave it up to you, Leo-kun."
+msgstr ""
+
+msgctxt "8944_Ayanokoji"
+msgid "But I just asked you－! ...Ahem."
+msgstr ""
+
+msgctxt "8956_Ayanokoji"
+msgid ""
+"You really have no clue, do you? Fine. Once a witless peasant, always a "
+"witless peasant."
+msgstr ""
+
+msgctxt "8968_Shinada"
+msgid ""
+"Well! Looks like you got that anger of yours under control! Good job, "
+"Leo-kun."
+msgstr ""
+
+msgctxt "8980_Ayanokoji"
+msgid "Of course I do. I'm not a member of the unwashed masses like you, after all."
+msgstr ""
+
+msgctxt "8992_Shinada"
+msgid "Oh, right. You're some kind of aristocrat!"
+msgstr ""
+
+msgctxt "9004_Ayanokoji"
+msgid ""
+"At least you understand that much. Methinks I'll just have to give you "
+"another lesson."
+msgstr ""
+
+msgctxt "9052_Ayanokoji"
+msgid "All right, let's get started. Are you sure you're prepared?"
+msgstr ""
+
+msgctxt "9064_Shinada"
+msgid "As ready as I'll ever be! Let's go!"
+msgstr ""
+
+msgctxt "9076_Ayanokoji"
+msgid "Very well. Then let the contest... begin!"
+msgstr ""
+
+msgctxt "9100_Shinada"
+msgid "Lay it on me!"
+msgstr ""
+
+msgctxt "9112_Ayanokoji"
+msgid "Very well. Let us find somewhere more private."
+msgstr ""
+
+msgctxt "9184_Ayanokoji"
+msgid "Shinada. Could I talk to you for a minute?"
+msgstr ""
+
+msgctxt "9196_Shinada"
+msgid "Whoa, Leo-kun? You're so serious all of a sudden."
+msgstr ""
+
+msgctxt "9208_Ayanokoji"
+msgid "It's about your training. This shall be the last time."
+msgstr ""
+
+msgctxt "9220_Shinada"
+msgid "What!? Where's this coming from?"
+msgstr ""
+
+msgctxt "9232_Ayanokoji"
+msgid ""
+"I've changed quite a bit thanks to your advice, and for that, I must admit "
+"that I am most grateful."
+msgstr ""
+
+msgctxt "9244_Shinada"
+msgid "Umm, you're welcome?"
+msgstr ""
+
+msgctxt "9256_Ayanokoji"
+msgid ""
+"Yes, well... Simply put, as the scion of aristocrats, I must hold fast to "
+"my honor."
+msgstr ""
+
+msgctxt "9268_Ayanokoji"
+msgid "I must needs grow stronger, that I am able to do so."
+msgstr ""
+
+msgctxt "9280_Ayanokoji"
+msgid "I cannot have myself crying out in pain whenever you land a solid blow."
+msgstr ""
+
+msgctxt "9292_Shinada"
+msgid "Leo-kun..."
+msgstr ""
+
+msgctxt "9304_Ayanokoji"
+msgid ""
+"So I shall give you no quarter from now on, Shinada. I still expect to be "
+"routed, however. That's just how good you are."
+msgstr ""
+
+msgctxt "9316_Ayanokoji"
+msgid ""
+"But I can accept defeat so long as I can fight with all my strength. I "
+"shall channel the pain into the refinement of my being."
+msgstr ""
+
+msgctxt "9328_Shinada"
+msgid ""
+"Aw, I was having so much fun at your expense, though. Why'd you have to go "
+"and ruin it by getting all serious?"
+msgstr ""
+
+msgctxt "9340_Shinada"
+msgid ""
+"But I get it, Leo-kun. I know you have it rough in your own way. But don't "
+"worry, because I'm gonna meet you blow for blow."
+msgstr ""
+
+msgctxt "9352_Ayanokoji"
+msgid "Shinada... You have my thanks."
+msgstr ""
+
+msgctxt "9400_Ayanokoji"
+msgid "Now then, shall we begin? If you are prepared, that is."
+msgstr ""
+
+msgctxt "9412_Shinada"
+msgid "Couldn't possibly prepare any more than I have! Let's go!"
+msgstr ""
+
+msgctxt "9424_Ayanokoji"
+msgid "Very well! Steel yourself, Shinada!"
+msgstr ""
+
+msgctxt "9448_Ayanokoji"
+msgid "There you are, peasant."
+msgstr ""
+
+msgctxt "9460_Shinada"
+msgid ""
+"You mind not calling me that? The name's Tatsuo Shinada, just in case "
+"you're interested."
+msgstr ""
+
+msgctxt "9472_Ayanokoji"
+msgid "Tatsuo Shinada? 'Tis a peasant's name by my noble reckoning."
+msgstr ""
+
+msgctxt "9484_Shinada"
+msgid "Well, I have to admit it's pretty average compared to yours."
+msgstr ""
+
+msgctxt "9496_Ayanokoji"
+msgid ""
+"That you present yourself to me can mean only one thing. You wish to take "
+"lessons from me."
+msgstr ""
+
+msgctxt "9508_Shinada"
+msgid ""
+"Well, yeah, I thought I might check it out. But are your lessons really all "
+"that?"
+msgstr ""
+
+msgctxt "9520_Ayanokoji"
+msgid ""
+"Hah! Hearken to me, Shinada. You cannot judge me based on what you ere "
+"beheld. The skills I shall teach you are more precious than life itself."
+msgstr ""
+
+msgctxt "9532_Ayanokoji"
+msgid ""
+"Of course, there is the matter of feudal service. I shan't lift a finger to "
+"help those who do not serve me."
+msgstr ""
+
+msgctxt "9544_Shinada"
+msgid "Maybe you forgot, but I saved you from those street punks."
+msgstr ""
+
+msgctxt "9556_Ayanokoji"
+msgid ""
+"And that is why I deigned to take you as my student. And so the debt is "
+"paid."
+msgstr ""
+
+msgctxt "9568_Shinada"
+msgid "Seriously? For a guy who talks about nobility, that seems awfully stingy."
+msgstr ""
+
+msgctxt "9580_Ayanokoji"
+msgid ""
+"You serve me once, and I shall repay you in kind. Once. I must keep things "
+"fair for my other vassals, after all."
+msgstr ""
+
+msgctxt "9592_Shinada"
+msgid "Okay, so what does a guy have to do to get some training around here?"
+msgstr ""
+
+msgctxt "9604_Ayanokoji"
+msgid ""
+"Anything's fine. I'm sure you can think of something despite your addled "
+"peasant brain."
+msgstr ""
+
+msgctxt "9616_Shinada"
+msgid "Sheesh, you could at least narrow it down a bit. Okay, let me think..."
+msgstr ""
+
+msgctxt "9628_Shinada"
+msgid ""
+"I'm pretty broke, so anything to do with money is out of the question... "
+"Oh, I know!"
+msgstr ""
+
+msgctxt "9640_Ayanokoji"
+msgid "Very well, speak!"
+msgstr ""
+
+msgctxt "9652_Shinada"
+msgid ""
+"Man, could you be any more of an ass? Anyway, I've got some advice I can "
+"give you."
+msgstr ""
+
+msgctxt "9664_Ayanokoji"
+msgid "You? Advise me? Don't be ridiculous."
+msgstr ""
+
+msgctxt "9676_Ayanokoji"
+msgid ""
+"I don't take advice from peasants. Besides, my considerable prosperity "
+"could hardly be bolstered by your input."
+msgstr ""
+
+msgctxt "9688_Shinada"
+msgid "So you say, but you want a girlfriend, don't you?"
+msgstr ""
+
+msgctxt "9700_Ayanokoji"
+msgid "No, I do not."
+msgstr ""
+
+msgctxt "9712_Shinada"
+msgid "Oh, come on. This is just between the two of us. You really want one, right?"
+msgstr ""
+
+msgctxt "9724_Ayanokoji"
+msgid "......"
+msgstr ""
+
+msgctxt "9736_Shinada"
+msgid "Well?"
+msgstr ""
+
+msgctxt "9748_Ayanokoji"
+msgid "Y...Yes. And Mother's been pestering me about getting married, so perhaps..."
+msgstr ""
+
+msgctxt "9760_Shinada"
+msgid "See!? I knew it! Just relax and trust me, and I'll set you up."
+msgstr ""
+
+msgctxt "9772_Ayanokoji"
+msgid "Hrm... Somehow, I feel as though you have tricked me into revealing this."
+msgstr ""
+
+msgctxt "9784_Shinada"
+msgid "You told me the truth, Leo-kun. That was the right thing to do!"
+msgstr ""
+
+msgctxt "9796_Ayanokoji"
+msgid "Do not press your luck, you of lowly birth."
+msgstr ""
+
+msgctxt "9808_Ayanokoji"
+msgid ""
+"But very well. I shall acquiesce. But you must make yourself useful in your "
+"faithful service to me!"
+msgstr ""
+
+msgctxt "9820_Ayanokoji"
+msgid "There will be no lesson until I'm utterly satisfied."
+msgstr ""
+
+msgctxt "9832_Shinada"
+msgid "Oh, you will be! Especially considering the bar is so low."
+msgstr ""
+
+msgctxt "9844_Ayanokoji"
+msgid "What was that!? You think to mock me!?"
+msgstr ""
+
+msgctxt "9856_Shinada"
+msgid "Of course not! Now will you relax, already?"
+msgstr ""
+
+msgctxt "9868_Ayanokoji"
+msgid "Fine. I'll take you at your word."
+msgstr ""
+
+msgctxt "9880_Shinada"
+msgid ""
+"Great. So the deal is, you give me a lesson if you like the advice I give "
+"you."
+msgstr ""
+
+msgctxt "9892_Ayanokoji"
+msgid "Very well. I'm counting on you, Shinada. Do not disappoint me."
+msgstr ""
+
+msgctxt "9904_Ayanokoji"
+msgid "Yowch! Learn to pull your punches during our lessons, you brute!"
+msgstr ""
+
+msgctxt "9916_Shinada"
+msgid "What!? You told me to do whatever I wanted!"
+msgstr ""
+
+msgctxt "9928_Ayanokoji"
+msgid ""
+"Fool! Is your cranium truly empty? What kind of vassal strikes his lord "
+"with all his strength!?"
+msgstr ""
+
+msgctxt "9940_Shinada"
+msgid "Wait, when did I go from student to vassal?"
+msgstr ""
+
+msgctxt "9952_Ayanokoji"
+msgid ""
+"Shinada. You must learn to show respect for those above your station. I "
+"don't know why I expect anything better of you, though."
+msgstr ""
+
+msgctxt "9964_Shinada"
+msgid ""
+"And <Italic>you</Italic> need to stop being such an assface, Leo-kun. But "
+"fine. I apologize profusely for the accident of my birth. Happy?"
+msgstr ""
+
+msgctxt "9976_Ayanokoji"
+msgid "What!? That is no apolog－ Oh, never mind! I grow tired of this farce."
+msgstr ""
+
+msgctxt "9988_Ayanokoji"
+msgid "At least I know what you are capable of. You're stronger than I thought."
+msgstr ""
+
+msgctxt "10000_Shinada"
+msgid "Aww yeah! Thanks!"
+msgstr ""
+
+msgctxt "10012_Ayanokoji"
+msgid ""
+"Now then, Shinada. Did you pick up on anything in particular about my "
+"fighting style?"
+msgstr ""
+
+msgctxt "10024_Shinada"
+msgid "Your fighting style? Uh..."
+msgstr ""
+
+msgctxt "10036_Ayanokoji"
+msgid ""
+"What are you doing? Why are you training if you cannot be bothered to pay "
+"attention? What have I told you about wasting my time?"
+msgstr ""
+
+msgctxt "10048_Ayanokoji"
+msgid ""
+"I am taking great care with each blow to ensure my weapons remain in "
+"pristine condition."
+msgstr ""
+
+msgctxt "10060_Ayanokoji"
+msgid ""
+"There are ways to lower the stress upon your weapon no matter what "
+"technique you are using."
+msgstr ""
+
+msgctxt "10072_Shinada"
+msgid ""
+"Really!? That's the first bit of master-like wisdom I've heard from you so "
+"far!"
+msgstr ""
+
+msgctxt "10084_Ayanokoji"
+msgid "Insolent fool! Show some respect."
+msgstr ""
+
+msgctxt "10096_Shinada"
+msgid ""
+"Relax, will you? It's just, I used to play pro baseball, so I get that it's "
+"important to treat equipment properly."
+msgstr ""
+
+msgctxt "10108_Shinada"
+msgid "I'll try to keep that in mind."
+msgstr ""
+
+msgctxt "10132_Ayanokoji"
+msgid ""
+"Now then, consider this payment for your service as my vassal. You'll have "
+"to do something else for me if you want another lesson."
+msgstr ""
+
+msgctxt "10144_Shinada"
+msgid ""
+"Never expected to learn anything like that. This feudal service thing is "
+"totally worth it!"
+msgstr ""
+
+msgctxt "10156_Ayanokoji"
+msgid ""
+"Ah, the very model of a peasant. I see you do know your place after all. I "
+"look forward to what you come up with next."
+msgstr ""
+
+msgctxt "10192_Ayanokoji"
+msgid "You fool! That really hurt!"
+msgstr ""
+
+msgctxt "10204_Shinada"
+msgid ""
+"Whoops! Sorry, Leo-kun! But hey, I think I just figured something out "
+"during that training."
+msgstr ""
+
+msgctxt "10216_Ayanokoji"
+msgid "It doesn't work that way, you witless peasant!"
+msgstr ""
+
+msgctxt "10228_Shinada"
+msgid "No, I'm serious. I think I'm really onto something!"
+msgstr ""
+
+msgctxt "10252_Ayanokoji"
+msgid ""
+"Did you really come up with that just now? I'll have to slice open that "
+"mushy brain of yours someday to see how it works."
+msgstr ""
+
+msgctxt "10264_Shinada"
+msgid ""
+"Whoa, I'm not letting you vivisect me! But I will commend you on another "
+"great lesson, Leo-kun."
+msgstr ""
+
+msgctxt "10276_Ayanokoji"
+msgid ""
+"Do not make a mockery of my name! 'Tis a moniker that embodies pride, and "
+"one my mother and father bestowed upon me! You will refer to me as Master "
+"Ayanokoji!"
+msgstr ""
+
+msgctxt "10288_Shinada"
+msgid ""
+"I didn't mean any disrespect. It's just, Ayanokoji's so long... And kind of "
+"weird-sounding."
+msgstr ""
+
+msgctxt "10300_Ayanokoji"
+msgid ""
+"I'll have you know that it is a noble and storied name! It certainly "
+"commands more respect than Tatsuo. Who could ever take someone named Tatsuo "
+"seriously!?"
+msgstr ""
+
+msgctxt "10312_Shinada"
+msgid "Fine, fine. Let's just forget this and move on."
+msgstr ""
+
+msgctxt "10324_Ayanokoji"
+msgid "Do not think to act the bigger man! You will always be my inferior!"
+msgstr ""
+
+msgctxt "10336_Shinada"
+msgid ""
+"Listen, your lessons are really helping me. I really do want to thank you, "
+"Leo-kun."
+msgstr ""
+
+msgctxt "10348_Ayanokoji"
+msgid "Really? Well, all right then."
+msgstr ""
+
+msgctxt "10360_Ayanokoji"
+msgid ""
+"Let us call it even, shall we? If you wish for another lesson, you'll have "
+"to do something else for me."
+msgstr ""
+
+msgctxt "10372_Shinada"
+msgid "Got it. See you again soon."
+msgstr ""
+
+msgctxt "10408_Ayanokoji"
+msgid "Ouch! Knave! Don't you ever learn!?"
+msgstr ""
+
+msgctxt "10420_Shinada"
+msgid ""
+"Whoa, someone needs anger management. Anyway, how's it my fault you failed "
+"to keep your guard up?"
+msgstr ""
+
+msgctxt "10432_Ayanokoji"
+msgid ""
+"What!? Fie! Fie and a pox upon you! Just like a peasant! Never taking "
+"responsibility!"
+msgstr ""
+
+msgctxt "10444_Shinada"
+msgid "I could say the same thing about you, y'know."
+msgstr ""
+
+msgctxt "10456_Shinada"
+msgid "But whatever. I think I get the hang of it."
+msgstr ""
+
+msgctxt "10480_Ayanokoji"
+msgid ""
+"You're forgetting this is a lesson and that I am your master. Show me the "
+"reverence I deserve!"
+msgstr ""
+
+msgctxt "10492_Shinada"
+msgid "Oh, I'm very grateful, O Great Exalted Master Ayanokoji."
+msgstr ""
+
+msgctxt "10504_Ayanokoji"
+msgid ""
+"I detect some sarcasm there. You can show your true gratitude by returning "
+"the favor."
+msgstr ""
+
+msgctxt "10516_Ayanokoji"
+msgid ""
+"That means doing something for me again! Understand!? Or shall I spell it "
+"out for your tiny, lower class brain?"
+msgstr ""
+
+msgctxt "10528_Shinada"
+msgid "Yeah, yeah. Message received loud and clear."
+msgstr ""
+
+msgctxt "10564_Ayanokoji"
+msgid "I cannot take this anymore. I feel unwell..."
+msgstr ""
+
+msgctxt "10576_Shinada"
+msgid "I guess that makes sense, what with that pummeling you took."
+msgstr ""
+
+msgctxt "10588_Ayanokoji"
+msgid "And whose fault is that, brute!? Control yourself!"
+msgstr ""
+
+msgctxt "10600_Shinada"
+msgid "Well, I'm glad we did that review. Got something out of it, too."
+msgstr ""
+
+msgctxt "10624_Ayanokoji"
+msgid "You did? Well. Good... I suppose."
+msgstr ""
+
+msgctxt "10636_Shinada"
+msgid "What? You getting all pouty now? Seriously?"
+msgstr ""
+
+msgctxt "10648_Ayanokoji"
+msgid ""
+"Silence! You will never understand the feelings of a noble brutalized at "
+"the hands of his vassal."
+msgstr ""
+
+msgctxt "10660_Shinada"
+msgid "It must be exhausting having to complain all the time."
+msgstr ""
+
+msgctxt "10672_Ayanokoji"
+msgid "Know your place, peasant, or I shall put you in it!"
+msgstr ""
+
+msgctxt "10684_Shinada"
+msgid "There you go, that's the Leo-kun I know! Can't wait to see where this goes."
+msgstr ""
+
+msgctxt "10696_Ayanokoji"
+msgid "Hmph!"
+msgstr ""
+
+msgctxt "10732_Ayanokoji"
+msgid ""
+"Shinadaaa! How many times have I told you not to punch me as if it's a real "
+"fight!?"
+msgstr ""
+
+msgctxt "10744_Shinada"
+msgid "Wait, I thought you were going to control your temper."
+msgstr ""
+
+msgctxt "10756_Ayanokoji"
+msgid ""
+"Silence, vassal! I have decided that I shall show you the full extent of my "
+"wrath!"
+msgstr ""
+
+msgctxt "10768_Shinada"
+msgid "You sure gave up quick."
+msgstr ""
+
+msgctxt "10780_Ayanokoji"
+msgid "Addlepate! Ignoramus! I shall not suffer such disrespect!"
+msgstr ""
+
+msgctxt "10792_Shinada"
+msgid ""
+"All right, all right. Please, forgive me my trespass, "
+"<Italic>Master</Italic>."
+msgstr ""
+
+msgctxt "10804_Ayanokoji"
+msgid ""
+"Hmph! You better have learned something after all the torment you put me "
+"through."
+msgstr ""
+
+msgctxt "10816_Shinada"
+msgid "Of course I did. I'm not about to waste an opportunity like this, after all."
+msgstr ""
+
+msgctxt "10840_Ayanokoji"
+msgid ""
+"Very well. I will accept this. A true master can take a bruise or two if "
+"his student can learn from it."
+msgstr ""
+
+msgctxt "10852_Ayanokoji"
+msgid "But no! 'Tis not one or two! My whole body has become an enormous wale!"
+msgstr ""
+
+msgctxt "10864_Shinada"
+msgid ""
+"Y'know, exaggerating like that isn't very master-like. You're no whale. If "
+"anything, all this exercise is helping you lose weight."
+msgstr ""
+
+msgctxt "10876_Ayanokoji"
+msgid "That's not what wale－ Never you mind! Away from me, I say!"
+msgstr ""
+
+msgctxt "10888_Shinada"
+msgid "Aw, come on!"
+msgstr ""
+
+msgctxt "10900_Ayanokoji"
+msgid ""
+"'Tis your turn to serve me, vassal! And it best be something exceptional "
+"this time. Got it?"
+msgstr ""
+
+msgctxt "10936_Ayanokoji"
+msgid "Blast! And blast again, I say! Still no match for you."
+msgstr ""
+
+msgctxt "10948_Shinada"
+msgid ""
+"You may find this frustrating, but I'm learning so much by beating the snot "
+"outta you."
+msgstr ""
+
+msgctxt "10972_Ayanokoji"
+msgid "Shinada... Do I detect a hint of gratitude beneath all that sarcasm?"
+msgstr ""
+
+msgctxt "10984_Shinada"
+msgid ""
+"Aw, no need to be so stiff and formal. I mean, you and I are pals, aren't "
+"we, Leo-kun!?"
+msgstr ""
+
+msgctxt "10996_Shinada"
+msgid "Enough about that. Whatever happened with that girl you met?"
+msgstr ""
+
+msgctxt "11008_Ayanokoji"
+msgid "......"
+msgstr ""
+
+msgctxt "11020_Shinada"
+msgid "Oh. Maybe I shouldn't have asked."
+msgstr ""
+
+msgctxt "11032_Ayanokoji"
+msgid "She's my girlfriend now."
+msgstr ""
+
+msgctxt "11044_Shinada"
+msgid "Oh, sorry it didn't－ Wait. Did you just say what I think you did?"
+msgstr ""
+
+msgctxt "11056_Shinada"
+msgid "No way!"
+msgstr ""
+
+msgctxt "11068_Shinada"
+msgid "Are you serious!? Like seriously serious?"
+msgstr ""
+
+msgctxt "11080_Ayanokoji"
+msgid "Of course I am! 'Tis no tall tale I tell!"
+msgstr ""
+
+msgctxt "11092_Shinada"
+msgid "That's awesome, Leo-kun! I'm so happy for you!"
+msgstr ""
+
+msgctxt "11104_Shinada"
+msgid "So who asked who out? Did you ask her!?"
+msgstr ""
+
+msgctxt "11116_Ayanokoji"
+msgid "Of course I did! That's the gentleman's duty, after all!"
+msgstr ""
+
+msgctxt "11128_Shinada"
+msgid ""
+"Wow! I can't remember the last time I was so happy for someone! You're, "
+"like... the Shogun of Suave!"
+msgstr ""
+
+msgctxt "11140_Ayanokoji"
+msgid "Shinada... What?"
+msgstr ""
+
+msgctxt "11152_Shinada"
+msgid "What, what?"
+msgstr ""
+
+msgctxt "11164_Ayanokoji"
+msgid "Shinada, we're friends, aren't we?"
+msgstr ""
+
+msgctxt "11176_Shinada"
+msgid "Wait, friend? I'm not your vassal anymore?"
+msgstr ""
+
+msgctxt "11188_Ayanokoji"
+msgid "I'm a new man now. Having a girlfriend has enlightened me."
+msgstr ""
+
+msgctxt "11200_Ayanokoji"
+msgid ""
+"Now I have someone who accepts me for who I am. I don't have to try to "
+"impress people by playing the aristocrat card."
+msgstr ""
+
+msgctxt "11212_Ayanokoji"
+msgid ""
+"I can keep taking pride in being an aristocrat, of course, as it bolsters "
+"my will. But I don't need it as a crutch anymore."
+msgstr ""
+
+msgctxt "11224_Shinada"
+msgid "Leo-kun..."
+msgstr ""
+
+msgctxt "11236_Ayanokoji"
+msgid ""
+"I fought with all my might, and still you routed me. That's why I've "
+"decided to go back to basics and start my training anew."
+msgstr ""
+
+msgctxt "11248_Ayanokoji"
+msgid "Besides, I have someone to protect now."
+msgstr ""
+
+msgctxt "11260_Shinada"
+msgid ""
+"Whoa, now that's really cool! You're impressing the hell out of me now more "
+"than ever!"
+msgstr ""
+
+msgctxt "11272_Shinada"
+msgid "I'll be rooting for you, Leo-kun! So keep up the good work!"
+msgstr ""
+
+msgctxt "11284_Ayanokoji"
+msgid "Shinada... What?"
+msgstr ""
+
+msgctxt "11296_Shinada"
+msgid "I've got to try my best too, so you don't outdo me!"
+msgstr ""
+
+msgctxt "11308_Shinada"
+msgid "I'll be seeing you, Leo-kun! I hope you'll make your special lady happy!"
+msgstr ""
+
+msgctxt "11320_Ayanokoji"
+msgid ""
+"I shall, of course! And the next time we meet, you'll see just how "
+"magnificent I've become!"
+msgstr ""
+
+msgctxt "11332_Shinada"
+msgid "Awesome! Looking forward to it, buddy!"
+msgstr ""
+
+msgctxt "11344_Ayanokoji"
+msgid "Take care, Shinada. I bid you farewell!"
+msgstr ""
+
+msgctxt "11404_Shinada"
+msgid "Okay, I'll give you some advice about your life!"
+msgstr ""
+
+msgctxt "11416_Ayanokoji"
+msgid "Must you be so immodest about it? Ugh... Go on."
+msgstr ""
+
+msgctxt "11428_Shinada"
+msgid "Before I help you get a girlfriend, I need to know all about you."
+msgstr ""
+
+msgctxt "11440_Shinada"
+msgid "I'm going to ask you a few questions. All you have to do is answer."
+msgstr ""
+
+msgctxt "11452_Ayanokoji"
+msgid "Very well. Go on."
+msgstr ""
+
+msgctxt "11464_Shinada"
+msgid "Okay, let me ask you this..."
+msgstr ""
+
+msgctxt "11476_Shinada"
+msgid "Have you ever had a girlfriend before?"
+msgstr ""
+
+msgctxt "11488_Ayanokoji"
+msgid ""
+"You already know the answer, but I suppose you want to hear me say it... "
+"No, I haven't."
+msgstr ""
+
+msgctxt "11500_Shinada"
+msgid "I see. Okay, how about a one-night stand or something like that?"
+msgstr ""
+
+msgctxt "11512_Ayanokoji"
+msgid ""
+"An aristocrat such as I would never commit such an abhorrent act. I "
+"wouldn't even hold hands with a damsel unless we were at least dating!"
+msgstr ""
+
+msgctxt "11524_Shinada"
+msgid "(Geez, this guy's more naive than I thought.)"
+msgstr ""
+
+msgctxt "11548_Shinada"
+msgid "What type of girl do you like, Leo-kun?"
+msgstr ""
+
+msgctxt "11560_Ayanokoji"
+msgid ""
+"A girl suited to my aristocratic qualities. She must also be from a family "
+"of some standing. Finally, she must be equal parts intelligent and comely."
+msgstr ""
+
+msgctxt "11572_Shinada"
+msgid ""
+"(Never met a girl like that before. Or maybe I've been looking in the wrong "
+"places.)"
+msgstr ""
+
+msgctxt "11596_Shinada"
+msgid "What would you consider a relationship deal-breaker?"
+msgstr ""
+
+msgctxt "11608_Ayanokoji"
+msgid ""
+"Speaking to any man other than me. Naturally, 'twould be utterly "
+"inexcusable."
+msgstr ""
+
+msgctxt "11620_Shinada"
+msgid "Isn't that a pretty high bar to set?"
+msgstr ""
+
+msgctxt "11632_Ayanokoji"
+msgid ""
+"Ah, such an ignorant peasant. You obviously don't understand the importance "
+"of protecting my noble lineage."
+msgstr ""
+
+msgctxt "11644_Shinada"
+msgid "(This is worse than I thought. I don't know if any advice is going to help.)"
+msgstr ""
+
+msgctxt "11668_Shinada"
+msgid ""
+"I see... All right, Leo-kun. From what you've told me, we're going to need "
+"to change the way you think. A lot."
+msgstr ""
+
+msgctxt "11680_Ayanokoji"
+msgid ""
+"Hah! You think your impaired peasant mind could hope to change how I think? "
+"Don't make me laugh!"
+msgstr ""
+
+msgctxt "11692_Player"
+msgid "Let's try that again. Now then..."
+msgstr ""
+
+msgctxt "11704_Shinada"
+msgid "(Based on what I've heard so far, I should...)"
+msgstr ""
+
+msgctxt "11716_Shinada"
+msgid "Listen, Leo-kun. You know how the universe is incomprehensibly vast?"
+msgstr ""
+
+msgctxt "11728_Ayanokoji"
+msgid "Pardon? Well yes, I suppose it is. So what?"
+msgstr ""
+
+msgctxt "11740_Shinada"
+msgid "Like, we think it's vast, but it's even vaster than that! Like vastly so!"
+msgstr ""
+
+msgctxt "11752_Ayanokoji"
+msgid "Get to the point."
+msgstr ""
+
+msgctxt "11764_Shinada"
+msgid ""
+"Compared to the scale of the universe, things like being an aristocrat are "
+"utterly insignificant."
+msgstr ""
+
+msgctxt "11776_Ayanokoji"
+msgid "No, they are not."
+msgstr ""
+
+msgctxt "11788_Shinada"
+msgid ""
+"No, think about it. We're talking about the universe here. It's really, "
+"really big!"
+msgstr ""
+
+msgctxt "11800_Ayanokoji"
+msgid ""
+"I fail to see how this is in any way relevant. I shan't be misled by such "
+"inane sophistry."
+msgstr ""
+
+msgctxt "11812_Shinada"
+msgid "(This isn't working. I think I blew it this time.)"
+msgstr ""
+
+msgctxt "11824_Ayanokoji"
+msgid ""
+"You must put forth more effort than that. I answered your meaningless "
+"questions, and yet I am still awaiting proper advice. Perhaps I was right "
+"about you after all."
+msgstr ""
+
+msgctxt "11836_Shinada"
+msgid "Okay, sorry..."
+msgstr ""
+
+msgctxt "11872_Shinada"
+msgid "This can't go on, Leo-kun. Your whole way of thinking is wrong."
+msgstr ""
+
+msgctxt "11884_Ayanokoji"
+msgid "What? You have not the authority to judge me so!"
+msgstr ""
+
+msgctxt "11896_Shinada"
+msgid ""
+"No, you have to listen to me. It's not like I'm a hit with the ladies, "
+"either, but you're way behind the times."
+msgstr ""
+
+msgctxt "11908_Shinada"
+msgid ""
+"Plus, never having dated a girl at your age is a huge red flag. Most women "
+"won't touch you with a ten-foot pole once they hear that."
+msgstr ""
+
+msgctxt "11920_Ayanokoji"
+msgid "I've only one thing to say to you, Shinada! Go to hell!"
+msgstr ""
+
+msgctxt "11932_Ayanokoji"
+msgid ""
+"I live by my own rules, and I shall not allow some witless peasant to "
+"violate them!"
+msgstr ""
+
+msgctxt "11944_Ayanokoji"
+msgid "Away with you, commoner!"
+msgstr ""
+
+msgctxt "11956_Shinada"
+msgid "(Whoops, he's really mad now.)"
+msgstr ""
+
+msgctxt "11992_Shinada"
+msgid ""
+"All right, I know now there's no way I'm going to persuade you with words "
+"alone."
+msgstr ""
+
+msgctxt "12004_Ayanokoji"
+msgid ""
+"Finally, some wisdom! I commend you for knowing your place, but you aren't "
+"going to give up that easily, are you?"
+msgstr ""
+
+msgctxt "12016_Shinada"
+msgid ""
+"That's not what I meant. Get ready, Leo-kun, because I'm gonna show you how "
+"to be a man in more ways than one."
+msgstr ""
+
+msgctxt "12028_Ayanokoji"
+msgid "What, what?"
+msgstr ""
+
+msgctxt "12088_Shinada"
+msgid "Advice time! Let's talk about your life!"
+msgstr ""
+
+msgctxt "12100_Ayanokoji"
+msgid ""
+"I shall have none of your reckless schemes this time, understand? I want to "
+"hear what you have in mind first."
+msgstr ""
+
+msgctxt "12112_Shinada"
+msgid ""
+"Oh, come on, admit it. You actually liked it, right? I'll introduce you to "
+"another girl, and at a discounted price again, too."
+msgstr ""
+
+msgctxt "12124_Ayanokoji"
+msgid ""
+"Really? Er... I mean, you shan't pull the wool over my eyes so easily, "
+"cretin!"
+msgstr ""
+
+msgctxt "12136_Ayanokoji"
+msgid ""
+"I am a noble! An aristocrat! We of such high birth rarely, if ever, go to "
+"such vulgar establishments!"
+msgstr ""
+
+msgctxt "12148_Shinada"
+msgid ""
+"Yeah, yeah, I get it. You're an aristocrat. And while we're on the subject, "
+"is that bizarro makeup your attempt to look like one?"
+msgstr ""
+
+msgctxt "12160_Ayanokoji"
+msgid ""
+"Are you implying I am a fraud!? I'll have you know that this makeup is what "
+"every proper noble wears!"
+msgstr ""
+
+msgctxt "12172_Shinada"
+msgid ""
+"But, Leo-kun, come on. No one's going to take you seriously if you look "
+"like that."
+msgstr ""
+
+msgctxt "12184_Ayanokoji"
+msgid ""
+"Fie! I wouldn't expect a peasant like you to understand the splendor of my "
+"appearance."
+msgstr ""
+
+msgctxt "12196_Shinada"
+msgid ""
+"It has nothing to do with me being a peasant. Now, I have a few questions "
+"if you don't mind."
+msgstr ""
+
+msgctxt "12208_Ayanokoji"
+msgid ""
+"You may present your inquiries, but naught you can say shall make me remove "
+"my makeup."
+msgstr ""
+
+msgctxt "12220_Shinada"
+msgid "Okay, let me ask you this..."
+msgstr ""
+
+msgctxt "12232_Shinada"
+msgid "Do you honestly think you look cool like that?"
+msgstr ""
+
+msgctxt "12244_Ayanokoji"
+msgid ""
+"This splendid makeup is simply oozing with elegance. What better way to "
+"display my aristocracy?"
+msgstr ""
+
+msgctxt "12256_Shinada"
+msgid ""
+"This isn't about elegance or aristocracy. It's about looking good. You "
+"know, like a stud. A ladies' man."
+msgstr ""
+
+msgctxt "12268_Ayanokoji"
+msgid ""
+"Well, I must concede that the aristocratic ideal likely differs from the "
+"modern-day commoner's conception of good looks."
+msgstr ""
+
+msgctxt "12280_Shinada"
+msgid "(Hmm, okay. So not even he thinks he looks good in the modern sense.)"
+msgstr ""
+
+msgctxt "12304_Shinada"
+msgid "Are you wearing that because you like it? Or are your parents forcing you?"
+msgstr ""
+
+msgctxt "12316_Ayanokoji"
+msgid ""
+"No, my parents dress in more modern clothes, albeit they don't feel as "
+"aristocratic as I do."
+msgstr ""
+
+msgctxt "12328_Shinada"
+msgid "So you chose this style because it makes you look like an aristocrat?"
+msgstr ""
+
+msgctxt "12340_Ayanokoji"
+msgid "Indeed. My noble spirit cries out for such elegance."
+msgstr ""
+
+msgctxt "12352_Shinada"
+msgid ""
+"(So there'd be no need for him to look like this if he can get his head on "
+"straight.)"
+msgstr ""
+
+msgctxt "12376_Shinada"
+msgid ""
+"Do you even care what girls think about you? I mean, normal people don't "
+"dress like that."
+msgstr ""
+
+msgctxt "12388_Ayanokoji"
+msgid ""
+"I don't care what you peasants think. And I am far superior to your "
+"conception of \"normal\" in any case. I have no use for anyone who cannot "
+"understand that."
+msgstr ""
+
+msgctxt "12400_Shinada"
+msgid "Do you think there's anyone who thinks you look cool like that?"
+msgstr ""
+
+msgctxt "12412_Ayanokoji"
+msgid ""
+"Few indeed, but that is not my concern. Only those who understand my "
+"sublime fashion sense matter."
+msgstr ""
+
+msgctxt "12424_Shinada"
+msgid ""
+"(He knows he's not in the mainstream, but it doesn't seem like he's willing "
+"to change.)"
+msgstr ""
+
+msgctxt "12448_Shinada"
+msgid "I think I get it now. You take pride in looking like that."
+msgstr ""
+
+msgctxt "12460_Ayanokoji"
+msgid ""
+"That should go without saying. I'm impressed a peon such as yourself is "
+"able to grasp that."
+msgstr ""
+
+msgctxt "12472_Player"
+msgid "Let's try that again. Now then..."
+msgstr ""
+
+msgctxt "12484_Shinada"
+msgid "(Based on what I've heard so far, I should...)"
+msgstr ""
+
+msgctxt "12496_Shinada"
+msgid "Enough talk! It's time for a change!"
+msgstr ""
+
+msgctxt "12508_Ayanokoji"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "12544_Ayanokoji"
+msgid "Hey! What do you think you're doing!?"
+msgstr ""
+
+msgctxt "12556_Shinada"
+msgid "Just stand still, will you!?"
+msgstr ""
+
+msgctxt "12568_Ayanokoji"
+msgid "Cease! Cease, I say, imbecile!"
+msgstr ""
+
+msgctxt "12592_Shinada"
+msgid "Argh!"
+msgstr ""
+
+msgctxt "12616_Ayanokoji"
+msgid "Fool! Never manhandle an aristocrat's face as such!"
+msgstr ""
+
+msgctxt "12628_Shinada"
+msgid "Wow. Was that you going all out, Leo-kun? That sure packed a punch."
+msgstr ""
+
+msgctxt "12640_Ayanokoji"
+msgid "Such is your punishment for laying hands upon a noble without permission!"
+msgstr ""
+
+msgctxt "12652_Shinada"
+msgid "(That didn't go as planned.)"
+msgstr ""
+
+msgctxt "12688_Shinada"
+msgid "Okay, let's say the tables were turned. For example..."
+msgstr ""
+
+msgctxt "12700_Shinada"
+msgid ""
+"Are there any female celebrities you have a thing for? You know, any you "
+"think are cute?"
+msgstr ""
+
+msgctxt "12712_Ayanokoji"
+msgid ""
+"A celebrity? Hmm... Well, I have been rather taken with Azusa-chan from "
+"T-Set as of late."
+msgstr ""
+
+msgctxt "12724_Shinada"
+msgid "An idol? Seriously? Oh, never mind. Let's go with Azusa-chan then."
+msgstr ""
+
+msgctxt "12736_Shinada"
+msgid ""
+"Would you still like her if she put on otafuku makeup? You know, the white "
+"face, red cheeks, narrow red lips, and eyebrows way up here?"
+msgstr ""
+
+msgctxt "12748_Ayanokoji"
+msgid "What? She would never wear that. Not even on a comedy show."
+msgstr ""
+
+msgctxt "12760_Shinada"
+msgid "We're talking hypothetically here. Just humor me."
+msgstr ""
+
+msgctxt "12772_Ayanokoji"
+msgid "Well, I suppose putting makeup like that on her would mar her beauty."
+msgstr ""
+
+msgctxt "12784_Shinada"
+msgid "Exactly! And the same goes for you, Leo-kun!"
+msgstr ""
+
+msgctxt "12796_Ayanokoji"
+msgid "But my makeup is different. 'Tis an expression of my aristocratic qualities."
+msgstr ""
+
+msgctxt "12808_Shinada"
+msgid ""
+"That may be true to you, but that's not what other people think. They just "
+"see weird makeup."
+msgstr ""
+
+msgctxt "12820_Shinada"
+msgid ""
+"They don't see the good-looking guy underneath. It's just like if "
+"Azusa-chan wore otafuku makeup. You see?"
+msgstr ""
+
+msgctxt "12832_Ayanokoji"
+msgid ""
+"So you're saying when people look at me, they don't see an aristocrat, just "
+"a buffoon in strange makeup?"
+msgstr ""
+
+msgctxt "12844_Shinada"
+msgid "Exactly! Now do you understand!?"
+msgstr ""
+
+msgctxt "12856_Ayanokoji"
+msgid ""
+"That's ludicrous! Or... Or is it? Perhaps you're onto something. Is that "
+"why commoners always mock me?"
+msgstr ""
+
+msgctxt "12868_Shinada"
+msgid ""
+"You bet it is. So you ready for a makeover, Leo-kun? You're gonna turn "
+"heads. People will be saying, \"Hey, an aristocrat!\""
+msgstr ""
+
+msgctxt "12880_Ayanokoji"
+msgid "But I already am a Heian aristocrat! Though... perhaps I should trust you..."
+msgstr ""
+
+msgctxt "12892_Shinada"
+msgid ""
+"Wow, you're actually considering this? You had doubts of your own, didn't "
+"you?"
+msgstr ""
+
+msgctxt "12904_Ayanokoji"
+msgid ""
+"Of course I did. I'm not blind. I know that I am the only one dressed like "
+"this."
+msgstr ""
+
+msgctxt "12916_Ayanokoji"
+msgid ""
+"I wish to broadcast my aristocracy to the world, but I realize now that "
+"perhaps that is unwise."
+msgstr ""
+
+msgctxt "12928_Ayanokoji"
+msgid "I shall... give up my makeup."
+msgstr ""
+
+msgctxt "12940_Shinada"
+msgid "Great."
+msgstr ""
+
+msgctxt "13000_Ayanokoji"
+msgid "My makeup is no more."
+msgstr ""
+
+msgctxt "13012_Shinada"
+msgid "Whoa, damn, Leo-kun! You're pretty handsome!"
+msgstr ""
+
+msgctxt "13024_Ayanokoji"
+msgid "Do not mock me, peasant!"
+msgstr ""
+
+msgctxt "13036_Shinada"
+msgid "I'm not! I'm serious here! Super serious!"
+msgstr ""
+
+msgctxt "13048_Shinada"
+msgid "Your dreams of having a girlfriend are just around the corner!"
+msgstr ""
+
+msgctxt "13060_Ayanokoji"
+msgid "Being told I'm handsome by another man does little to inspire me..."
+msgstr ""
+
+msgctxt "13072_Shinada"
+msgid ""
+"Guys don't like saying stuff like that, so when they do, they really mean "
+"it. Anyway, I don't like you enough to lie to you about that."
+msgstr ""
+
+msgctxt "13084_Ayanokoji"
+msgid "Well, you do have a point there."
+msgstr ""
+
+msgctxt "13096_Shinada"
+msgid "Okay! Now that we've seen what's under the hood, we're good to go!"
+msgstr ""
+
+msgctxt "13108_Ayanokoji"
+msgid "That's not for you to decide! Still, I guess we can consider this done with."
+msgstr ""
+
+msgctxt "13120_Ayanokoji"
+msgid ""
+"I could never have changed without your aid, and I suppose you have my "
+"gratitude for that."
+msgstr ""
+
+msgctxt "13132_Shinada"
+msgid "All right, then. That concludes this round of feudal service!"
+msgstr ""
+
+msgctxt "13144_Ayanokoji"
+msgid ""
+"Fine. You have served me well, so return when you wish to continue your "
+"lessons. But ensure you are prepared!"
+msgstr ""
+
+msgctxt "13180_Shinada"
+msgid "All right, no matter what I say, I can tell I'm not going to move you."
+msgstr ""
+
+msgctxt "13192_Shinada"
+msgid "So I think you should just live your life however you want!"
+msgstr ""
+
+msgctxt "13204_Ayanokoji"
+msgid "That is as I have always done. I scarcely need you to give me permission."
+msgstr ""
+
+msgctxt "13216_Shinada"
+msgid "......"
+msgstr ""
+
+msgctxt "13228_Ayanokoji"
+msgid "......"
+msgstr ""
+
+msgctxt "13240_Shinada"
+msgid "(Uh-oh, I've got nothing! What was I even thinking?)"
+msgstr ""
+
+msgctxt "13252_Ayanokoji"
+msgid "Is there ought else you require?"
+msgstr ""
+
+msgctxt "13264_Shinada"
+msgid "Er, no, nothing. I'll just be going now."
+msgstr ""
+
+msgctxt "13324_Shinada"
+msgid "Advice time! Let's talk about your life!"
+msgstr ""
+
+msgctxt "13336_Ayanokoji"
+msgid ""
+"I've already effected many of the changes you have mentioned, but I've yet "
+"to see results."
+msgstr ""
+
+msgctxt "13348_Shinada"
+msgid "These things take time. How old are you again, Leo-kun?"
+msgstr ""
+
+msgctxt "13360_Ayanokoji"
+msgid "As I've told you countless times, I am 35."
+msgstr ""
+
+msgctxt "13372_Shinada"
+msgid ""
+"Well, I'll need a little more patience out of you, considering all the "
+"quirks you've developed over the years. I can't fix them all at once."
+msgstr ""
+
+msgctxt "13384_Ayanokoji"
+msgid ""
+"Quirks!? What you consider to be \"quirks\" are mannerisms befitting a "
+"nobleman such as myself! You certainly have no right to criticize me."
+msgstr ""
+
+msgctxt "13396_Shinada"
+msgid "Yeah, yeah, whatever you say. Now, what should we do this time? Hmm..."
+msgstr ""
+
+msgctxt "13408_Shinada"
+msgid ""
+"We already got the makeup off, so I guess you should lose those clothes "
+"next."
+msgstr ""
+
+msgctxt "13420_Ayanokoji"
+msgid "Nay."
+msgstr ""
+
+msgctxt "13432_Shinada"
+msgid "Don't you want to change your look?"
+msgstr ""
+
+msgctxt "13444_Ayanokoji"
+msgid ""
+"This garb embodies my very soul. Removing my makeup was trying enough, but "
+"how will people know I am of noble birth without these clothes?"
+msgstr ""
+
+msgctxt "13456_Shinada"
+msgid ""
+"If looking like an aristocrat is that important to you, then maybe it's a "
+"bit too soon to lose those clothes. Time for plan B."
+msgstr ""
+
+msgctxt "13468_Shinada"
+msgid "I'm going to ask you a few questions just like before."
+msgstr ""
+
+msgctxt "13480_Shinada"
+msgid "Now then..."
+msgstr ""
+
+msgctxt "13492_Shinada"
+msgid "You say you want a girlfriend, but are you even able to talk to girls?"
+msgstr ""
+
+msgctxt "13504_Ayanokoji"
+msgid ""
+"Is your skull truly that empty? Of course I am able to speak to women. I am "
+"speaking right now, am I not?"
+msgstr ""
+
+msgctxt "13516_Shinada"
+msgid ""
+"That's not what I mean. I don't see you around girls that much. I thought "
+"maybe you were too nervous to talk to them."
+msgstr ""
+
+msgctxt "13528_Ayanokoji"
+msgid ""
+"Oh, I see. Well, I can communicate with them well enough, but I must admit "
+"that I am not versed in making idle chatter."
+msgstr ""
+
+msgctxt "13540_Ayanokoji"
+msgid ""
+"But the average wench would not be able to follow my aristocratic discourse "
+"anyway."
+msgstr ""
+
+msgctxt "13552_Shinada"
+msgid ""
+"(Wench? Sheesh. He's making excuses, but it looks like he knows he can't "
+"talk to girls.)"
+msgstr ""
+
+msgctxt "13576_Shinada"
+msgid "What do you do all day, Leo-kun?"
+msgstr ""
+
+msgctxt "13588_Ayanokoji"
+msgid "Clarify."
+msgstr ""
+
+msgctxt "13600_Shinada"
+msgid ""
+"You don't work, so you must have lots of free time during the week. What do "
+"you do to pass the time?"
+msgstr ""
+
+msgctxt "13612_Ayanokoji"
+msgid ""
+"On the contrary, I have no free time! I have plenty of responsibilities, "
+"such as watching TV, playing video games, taking walks, and going shopping."
+msgstr ""
+
+msgctxt "13624_Shinada"
+msgid "(In other words, all his time is free time. Must be nice to be that rich.)"
+msgstr ""
+
+msgctxt "13648_Shinada"
+msgid "Have you ever considered getting a job?"
+msgstr ""
+
+msgctxt "13660_Ayanokoji"
+msgid "What an absolutely ridiculous question."
+msgstr ""
+
+msgctxt "13672_Ayanokoji"
+msgid "If you wanted for nothing, would you seek employment?"
+msgstr ""
+
+msgctxt "13684_Shinada"
+msgid "Good point. Never mind."
+msgstr ""
+
+msgctxt "13696_Ayanokoji"
+msgid "Exactly. At last, something we can agree upon."
+msgstr ""
+
+msgctxt "13708_Shinada"
+msgid ""
+"But some people work even if they don't have to. They want to do something "
+"meaningful or contribute to society or something like that."
+msgstr ""
+
+msgctxt "13720_Ayanokoji"
+msgid ""
+"Nobles have lived off tribute offered by commoners and vassals for "
+"centuries. We have no need to work for a living."
+msgstr ""
+
+msgctxt "13732_Ayanokoji"
+msgid ""
+"Working for work's sake is a laborer's virtue and nothing more. It holds no "
+"value for me."
+msgstr ""
+
+msgctxt "13744_Shinada"
+msgid "(I'm not one to talk, but man, this guy's rotten to the core.)"
+msgstr ""
+
+msgctxt "13768_Shinada"
+msgid ""
+"Okay, so you're not the kind of guy who goes out and aggressively pursues "
+"love or a career."
+msgstr ""
+
+msgctxt "13780_Ayanokoji"
+msgid ""
+"That is simply how we aristocrats \"roll,\" to put it in your common "
+"vernacular. You peons comply with our every whim. Why would we ever lift a "
+"finger?"
+msgstr ""
+
+msgctxt "13792_Player"
+msgid "Let's try that again. Now then..."
+msgstr ""
+
+msgctxt "13804_Shinada"
+msgid "(Based on what I've heard so far, I should...)"
+msgstr ""
+
+msgctxt "13816_Shinada"
+msgid "Let's find you a job, Leo-kun!"
+msgstr ""
+
+msgctxt "13828_Ayanokoji"
+msgid "You speak madness, plebeian!"
+msgstr ""
+
+msgctxt "13840_Shinada"
+msgid "Look, man. When you meet girls, you have to introduce yourself."
+msgstr ""
+
+msgctxt "13852_Shinada"
+msgid ""
+"That includes your employment status. Admitting you're unemployed won't go "
+"over well. You should at least have a part-time job."
+msgstr ""
+
+msgctxt "13864_Ayanokoji"
+msgid "A part-time job? At my age? What woman would find that attractive?"
+msgstr ""
+
+msgctxt "13876_Shinada"
+msgid ""
+"You have a point there. I guess we'll have to find you a regular "
+"nine-to-five job!"
+msgstr ""
+
+msgctxt "13888_Ayanokoji"
+msgid ""
+"Um... Shinada... 'Tis strange enough getting personal advice from you, but "
+"I do not believe I need your advice on employment. Have "
+"<Italic>you</Italic> ever held a nine-to-five job?"
+msgstr ""
+
+msgctxt "13900_Shinada"
+msgid "Right. Point well taken."
+msgstr ""
+
+msgctxt "13912_Ayanokoji"
+msgid ""
+"You forget yourself, commoner. I shan't suffer a lecture from my underling. "
+"Now, if you cannot make yourself useful, then your life means nothing."
+msgstr ""
+
+msgctxt "13924_Shinada"
+msgid ""
+"That's all there is to my life? Making myself useful? Well, I guess that's "
+"not wrong, but still."
+msgstr ""
+
+msgctxt "13936_Shinada"
+msgid ""
+"Anyway, no one knows how hard it is to have a real job in this town better "
+"than me!"
+msgstr ""
+
+msgctxt "13948_Shinada"
+msgid "Let's pretend we never had this conversation!"
+msgstr ""
+
+msgctxt "13960_Ayanokoji"
+msgid "Oh. Um, yes. Well, put forth more effort to appease me next time."
+msgstr ""
+
+msgctxt "13996_Shinada"
+msgid ""
+"Okay, Leo-kun, let's find you a hobby so you'll have something to talk "
+"about when you meet a girl."
+msgstr ""
+
+msgctxt "14008_Shinada"
+msgid ""
+"After all, girls don't like guys with too much time on their hands and no "
+"hobbies or interests."
+msgstr ""
+
+msgctxt "14020_Ayanokoji"
+msgid "I never said I didn't have a hobby. I often go yachting, after all."
+msgstr ""
+
+msgctxt "14032_Shinada"
+msgid "Really? Yachting?"
+msgstr ""
+
+msgctxt "14044_Ayanokoji"
+msgid ""
+"That's right. I hope you are not suggesting I simply let my yacht rot in "
+"the harbor."
+msgstr ""
+
+msgctxt "14056_Shinada"
+msgid "You have a yacht? As in one of those super big, super expensive boats?"
+msgstr ""
+
+msgctxt "14068_Ayanokoji"
+msgid ""
+"I wouldn't consider it \"super expensive,\" as you say. I was able to buy "
+"mine with just my allowance."
+msgstr ""
+
+msgctxt "14080_Shinada"
+msgid "Oh, well never mind me, then. I thought you didn't have any hobbies."
+msgstr ""
+
+msgctxt "14092_Ayanokoji"
+msgid "You truly know nothing. I also play golf and travel overseas."
+msgstr ""
+
+msgctxt "14104_Shinada"
+msgid "Right... I guess it's back to the drawing board."
+msgstr ""
+
+msgctxt "14140_Shinada"
+msgid "You have to get used to talking to girls, and that takes lots of practice!"
+msgstr ""
+
+msgctxt "14152_Ayanokoji"
+msgid ""
+"Practice, you say? But you don't strike me as a ladies' man, Shinada. I am "
+"unsure if I've even seen you talking to a woman."
+msgstr ""
+
+msgctxt "14164_Shinada"
+msgid ""
+"You're one to talk, Leo-kun! And anyway, I've had my fair share of "
+"conversations with women!"
+msgstr ""
+
+msgctxt "14176_Shinada"
+msgid ""
+"Anyway, let's have you practice getting to know girls through conversation. "
+"The best way to learn is by doing, after all."
+msgstr ""
+
+msgctxt "14188_Ayanokoji"
+msgid ""
+"Wait, do you intend to toss me into some vulgar establishment again!? I've "
+"had enough of such dens of debauchery!"
+msgstr ""
+
+msgctxt "14200_Shinada"
+msgid "No, I wouldn't dream of it! Now, follow me."
+msgstr ""
+
+msgctxt "14260_Shinada"
+msgid "Advice time! Let's talk about your life!"
+msgstr ""
+
+msgctxt "14272_Ayanokoji"
+msgid ""
+"Very well. Though I am loath to admit it, your advice has proven to be "
+"effective."
+msgstr ""
+
+msgctxt "14284_Shinada"
+msgid "It has? Sweet! Told you I knew what I was talking about!"
+msgstr ""
+
+msgctxt "14296_Ayanokoji"
+msgid "Do not forget yourself. You are a witless peasant now and forever."
+msgstr ""
+
+msgctxt "14308_Shinada"
+msgid "Oh. Well, fine."
+msgstr ""
+
+msgctxt "14320_Ayanokoji"
+msgid ""
+"Be grateful, however, for among my fellow aristocrats, I alone am "
+"exceptionally skilled at listening to opinions of your kind."
+msgstr ""
+
+msgctxt "14332_Shinada"
+msgid ""
+"Hm. I feel like I should be annoyed at that, but I guess I'm getting used "
+"to you."
+msgstr ""
+
+msgctxt "14344_Ayanokoji"
+msgid "So? What's next?"
+msgstr ""
+
+msgctxt "14356_Shinada"
+msgid "I think I need a little background info first."
+msgstr ""
+
+msgctxt "14368_Shinada"
+msgid "Okay, let me ask you this..."
+msgstr ""
+
+msgctxt "14380_Shinada"
+msgid "It's been a while since you got rid of your makeup. How've things been?"
+msgstr ""
+
+msgctxt "14392_Ayanokoji"
+msgid ""
+"Well, my skin seems to shine with a luster heretofore absent from my "
+"complexion."
+msgstr ""
+
+msgctxt "14404_Shinada"
+msgid "Uh... No. I meant, how have the people around you reacted?"
+msgstr ""
+
+msgctxt "14416_Ayanokoji"
+msgid "How have they reacted? The same as ever. Wherefore do you ask?"
+msgstr ""
+
+msgctxt "14428_Shinada"
+msgid ""
+"(I see losing the makeup wasn't enough. This is going to be harder than I "
+"thought.)"
+msgstr ""
+
+msgctxt "14452_Shinada"
+msgid "Don't you want to try some new clothes?"
+msgstr ""
+
+msgctxt "14464_Ayanokoji"
+msgid "I already told you no. Do not make me repeat myself."
+msgstr ""
+
+msgctxt "14476_Shinada"
+msgid ""
+"What happened when you went to that hostess club? Did your hostess say "
+"anything?"
+msgstr ""
+
+msgctxt "14488_Ayanokoji"
+msgid "Quoth she, I have a look that is all my own. I took it as a compliment."
+msgstr ""
+
+msgctxt "14500_Shinada"
+msgid ""
+"Uh, no, she was just trying to be nice. You probably freaked her right the "
+"heck out."
+msgstr ""
+
+msgctxt "14512_Ayanokoji"
+msgid "But－! Well, I suppose it's not impossible."
+msgstr ""
+
+msgctxt "14524_Shinada"
+msgid "You don't look too surprised."
+msgstr ""
+
+msgctxt "14536_Ayanokoji"
+msgid "When first we met, it was as though her countenance was carved from stone."
+msgstr ""
+
+msgctxt "14548_Shinada"
+msgid "See!? You totally freaked her out."
+msgstr ""
+
+msgctxt "14560_Ayanokoji"
+msgid ""
+"Hmm... Perhaps it is beyond the abilities of the peasantry to fathom my "
+"sublime fashion sense."
+msgstr ""
+
+msgctxt "14572_Shinada"
+msgid "(Yes! I think I just planted a seed of doubt about his clothes!)"
+msgstr ""
+
+msgctxt "14596_Shinada"
+msgid "Let me ask you this, Leo-kun. Is there anything you want to try?"
+msgstr ""
+
+msgctxt "14608_Ayanokoji"
+msgid "Isn't it a little late to be asking me that now?"
+msgstr ""
+
+msgctxt "14620_Ayanokoji"
+msgid ""
+"As a noble, I can do anything I want. After all, I have money, time, and "
+"power. Your peasant's perspective is far below mine, so I don't expect you "
+"to comprehend that."
+msgstr ""
+
+msgctxt "14632_Ayanokoji"
+msgid ""
+"I must admit, however, that some things are better seen with one's face in "
+"the dirt, hence why I allow you to continue to be my vassal."
+msgstr ""
+
+msgctxt "14644_Shinada"
+msgid "Uh... Wow. Sorry."
+msgstr ""
+
+msgctxt "14656_Shinada"
+msgid "(Guess I'll have to choose.)"
+msgstr ""
+
+msgctxt "14680_Shinada"
+msgid ""
+"We've already tried a bunch of things, so I think it's time to go big or go "
+"home."
+msgstr ""
+
+msgctxt "14692_Ayanokoji"
+msgid ""
+"\"Go big or go home\"? I cannot fathom what's brewing within the mush of "
+"your brain, but I like not the sound of it."
+msgstr ""
+
+msgctxt "14704_Player"
+msgid "Let's try that again. Now then..."
+msgstr ""
+
+msgctxt "14716_Shinada"
+msgid "(Based on what I've heard so far, I should...)"
+msgstr ""
+
+msgctxt "14728_Shinada"
+msgid "Let's go where the girls are! After all, practice makes perfect!"
+msgstr ""
+
+msgctxt "14740_Ayanokoji"
+msgid ""
+"Absolutely not. No more hostess clubs. Besides, you said I \"freaked the "
+"girl right the heck out,\" did you not?"
+msgstr ""
+
+msgctxt "14752_Shinada"
+msgid "Oh, right."
+msgstr ""
+
+msgctxt "14764_Ayanokoji"
+msgid "Use your peasant brain! Returning now would be akin to opening my own belly!"
+msgstr ""
+
+msgctxt "14776_Shinada"
+msgid "Do you have to be so morbid?"
+msgstr ""
+
+msgctxt "14788_Ayanokoji"
+msgid "What a dim candle you are, truly! The dimmest of all the peasants I know."
+msgstr ""
+
+msgctxt "14800_Ayanokoji"
+msgid ""
+"But peasant or no, you are still human. Therefore I must insist you stop "
+"bringing shame upon our species."
+msgstr ""
+
+msgctxt "14812_Shinada"
+msgid "Now that's just uncalled-for! But fine, I'll think of something else."
+msgstr ""
+
+msgctxt "14848_Shinada"
+msgid "Don't you want to try some new clothes, Leo-kun?"
+msgstr ""
+
+msgctxt "14860_Ayanokoji"
+msgid "You are persistent, aren't you?"
+msgstr ""
+
+msgctxt "14872_Shinada"
+msgid ""
+"Your clothing is what's holding you back. We won't get anywhere till you "
+"make some major fashion changes."
+msgstr ""
+
+msgctxt "14884_Shinada"
+msgid ""
+"I mean, who in the world would want to go on a date with someone dressed "
+"like you!?"
+msgstr ""
+
+msgctxt "14896_Ayanokoji"
+msgid "Why you insolent peon! How dare you speak to me like that!?"
+msgstr ""
+
+msgctxt "14908_Shinada"
+msgid "Seriously, Leo-kun! I'm telling you flat out, that outfit has to go!"
+msgstr ""
+
+msgctxt "14920_Shinada"
+msgid "Either it goes or I go!"
+msgstr ""
+
+msgctxt "14932_Ayanokoji"
+msgid "What!?"
+msgstr ""
+
+msgctxt "14944_Shinada"
+msgid ""
+"Stop whining! Everything I've helped you achieve will be meaningless unless "
+"you ditch that damn cosplay!"
+msgstr ""
+
+msgctxt "14956_Shinada"
+msgid "Now follow me!"
+msgstr ""
+
+msgctxt "14968_Ayanokoji"
+msgid "Cosplay!? Wait, Shinada!"
+msgstr ""
+
+msgctxt "15004_Shinada"
+msgid "You know how your body starts going downhill after thirty?"
+msgstr ""
+
+msgctxt "15016_Shinada"
+msgid ""
+"Well, why not start going to the gym? You'll get ripped, and you might even "
+"meet a girl there."
+msgstr ""
+
+msgctxt "15028_Ayanokoji"
+msgid "The gym? What madness do you speak!?"
+msgstr ""
+
+msgctxt "15040_Ayanokoji"
+msgid "You already know how strong I am. The question is, do you know why?"
+msgstr ""
+
+msgctxt "15052_Shinada"
+msgid "Uh... I never thought to ask."
+msgstr ""
+
+msgctxt "15064_Ayanokoji"
+msgid ""
+"Because I train at my personal gym at home. And I have my own pro-level "
+"personal trainer."
+msgstr ""
+
+msgctxt "15076_Ayanokoji"
+msgid ""
+"So lecture me not about staying in shape. I am much more concerned about "
+"the well-being of my body than you peasants are."
+msgstr ""
+
+msgctxt "15088_Shinada"
+msgid "Whoa, you have your own gym? Guess I was way off on that one. My bad."
+msgstr ""
+
+msgctxt "15160_Shinada"
+msgid ""
+"Advice time! Let's talk about your life! Man, I'm really starting to enjoy "
+"this!"
+msgstr ""
+
+msgctxt "15172_Ayanokoji"
+msgid ""
+"Calm yourself, peasant. Your enthusiasm is worthless without ideas to "
+"accompany it."
+msgstr ""
+
+msgctxt "15184_Shinada"
+msgid "Listen, Leo-kun, I'm gonna give it to you straight."
+msgstr ""
+
+msgctxt "15196_Shinada"
+msgid ""
+"There's only one thing to do this late in the game: practice, practice, "
+"practice."
+msgstr ""
+
+msgctxt "15208_Ayanokoji"
+msgid "Wait... Really?"
+msgstr ""
+
+msgctxt "15220_Shinada"
+msgid ""
+"You're as prepared as you'll ever be, buddy. It's time to hop out of the "
+"nest and spread your wings."
+msgstr ""
+
+msgctxt "15232_Ayanokoji"
+msgid "Spread my wings? What crazy idea have you come up with this time?"
+msgstr ""
+
+msgctxt "15244_Shinada"
+msgid "Oh, nothing so crazy. Just picking up a girl."
+msgstr ""
+
+msgctxt "15256_Ayanokoji"
+msgid "Just picking up a－!? Listen here, you－"
+msgstr ""
+
+msgctxt "15268_Shinada"
+msgid "Stop right there. I know exactly what you're going to say, Leo-kun."
+msgstr ""
+
+msgctxt "15280_Shinada"
+msgid ""
+"\"I want to meet a girl the right way, not by picking one up. That's so "
+"very boorish,\" or something like that."
+msgstr ""
+
+msgctxt "15292_Ayanokoji"
+msgid ""
+"Um... Yes. Such vulgar behavior is for peasants. I would fain not begin any "
+"relationship under such pretense."
+msgstr ""
+
+msgctxt "15304_Shinada"
+msgid "Leo-kun... That's the only way you're gonna get a relationship."
+msgstr ""
+
+msgctxt "15316_Ayanokoji"
+msgid "What nonsense!"
+msgstr ""
+
+msgctxt "15328_Shinada"
+msgid ""
+"You're already thirty-five, right? That's thirty-five years without a "
+"girlfriend, Leo-kun!"
+msgstr ""
+
+msgctxt "15340_Ayanokoji"
+msgid "And your point is?"
+msgstr ""
+
+msgctxt "15352_Shinada"
+msgid "You don't have time for a fairytale romance, man!"
+msgstr ""
+
+msgctxt "15364_Shinada"
+msgid ""
+"You've already waited your whole life. Are you just gonna keep waiting "
+"until a girl falls into your lap?"
+msgstr ""
+
+msgctxt "15376_Ayanokoji"
+msgid "That's ridiculous. I haven't been waiting since the moment I was born."
+msgstr ""
+
+msgctxt "15388_Shinada"
+msgid ""
+"You know what I mean! Besides, you'll never meet anyone if you keep sitting "
+"on your ass!"
+msgstr ""
+
+msgctxt "15400_Shinada"
+msgid "You have to fight! You have to take what you want! You feel me?"
+msgstr ""
+
+msgctxt "15412_Ayanokoji"
+msgid ""
+"I don't know. That sounds almost criminal to me. Are you trying to get me "
+"arrested?"
+msgstr ""
+
+msgctxt "15424_Shinada"
+msgid "Listen, Leo-kun, this is like gambling. You can't win if you don't play."
+msgstr ""
+
+msgctxt "15436_Shinada"
+msgid ""
+"And now that we've got that settled, let's get out there and pick up some "
+"chicks!"
+msgstr ""
+
+msgctxt "15448_Ayanokoji"
+msgid "I don't know what chickens have to do with it, but very well."
+msgstr ""
+
+msgctxt "15508_Ayanokoji"
+msgid "So now what do I do?"
+msgstr ""
+
+msgctxt "15520_Shinada"
+msgid "Uh... What do you mean?"
+msgstr ""
+
+msgctxt "15532_Ayanokoji"
+msgid ""
+"Well, I've agreed to try, so now you must instruct me. Or have you "
+"forgotten that this is not something that one of my station usually "
+"participates in?"
+msgstr ""
+
+msgctxt "15556_Shinada"
+msgid "(He blew it last time, so I better guide him better this time.)"
+msgstr ""
+
+msgctxt "15568_Player"
+msgid "The best way to flirt with a girl is..."
+msgstr ""
+
+msgctxt "15580_Shinada"
+msgid ""
+"I should have seen that coming. Hmm, what's the best way to flirt with a "
+"girl?"
+msgstr ""
+
+msgctxt "15592_Shinada"
+msgid "Let her know what you're like by introducing yourself."
+msgstr ""
+
+msgctxt "15604_Ayanokoji"
+msgid "Start with an introduction, you say? Such as telling her my name and age?"
+msgstr ""
+
+msgctxt "15616_Shinada"
+msgid "Sure, and throw in your hobbies and skills, too."
+msgstr ""
+
+msgctxt "15628_Ayanokoji"
+msgid "And that is all I must do?"
+msgstr ""
+
+msgctxt "15688_Ayanokoji"
+msgid "Excuse me, ma'am. Do you have a moment?"
+msgstr ""
+
+msgctxt "15700_Girl"
+msgid "Who, me?"
+msgstr ""
+
+msgctxt "15712_Ayanokoji"
+msgid ""
+"Allow me to introduce myself. I am Leo Ayanokoji, age thirty-five. My "
+"hobbies include yachting and golf, and I am an expert armsman."
+msgstr ""
+
+msgctxt "15724_Girl"
+msgid "Oh... Okay..."
+msgstr ""
+
+msgctxt "15736_Ayanokoji"
+msgid "......"
+msgstr ""
+
+msgctxt "15748_Girl"
+msgid "Um, can I go now?"
+msgstr ""
+
+msgctxt "15760_Ayanokoji"
+msgid "By... By all means."
+msgstr ""
+
+msgctxt "15820_Ayanokoji"
+msgid "That was no error on my part. I'm sure I did everything you said."
+msgstr ""
+
+msgctxt "15832_Shinada"
+msgid "Nah, you're right. That was my bad."
+msgstr ""
+
+msgctxt "15844_Ayanokoji"
+msgid "How utterly humiliating..."
+msgstr ""
+
+msgctxt "15856_Shinada"
+msgid "I said I was sorry. Let me think of something else."
+msgstr ""
+
+msgctxt "15892_Shinada"
+msgid ""
+"Girls love it when you're funny. Charm the hell out of them by telling a "
+"good joke or something."
+msgstr ""
+
+msgctxt "15904_Ayanokoji"
+msgid ""
+"I haven't exactly got my finger upon the pulse of peasant culture, but do "
+"you people always have a good jape handy?"
+msgstr ""
+
+msgctxt "15916_Shinada"
+msgid ""
+"I wouldn't say everybody, but some of us do. But I'm sure your "
+"sophisticated aristocrat brain could come up with a real zinger."
+msgstr ""
+
+msgctxt "15928_Ayanokoji"
+msgid ""
+"At galas, we hire professional humorists to furnish our entertainment. 'Tis "
+"not something we are like to do ourselves."
+msgstr ""
+
+msgctxt "15940_Shinada"
+msgid "Okay, why don't you tell a joke one of those pros delivered, then?"
+msgstr ""
+
+msgctxt "15952_Ayanokoji"
+msgid "Hmm... I'm certain this will end badly, but I shall trust you."
+msgstr ""
+
+msgctxt "16012_Ayanokoji"
+msgid "Excuse me, ma'am. Do you have a moment?"
+msgstr ""
+
+msgctxt "16024_Girl"
+msgid "Who, me?"
+msgstr ""
+
+msgctxt "16036_Ayanokoji"
+msgid "Yes, um. Why did Taro throw the clock out of the window?"
+msgstr ""
+
+msgctxt "16048_Ayanokoji"
+msgid "Because he wanted to see time fly!"
+msgstr ""
+
+msgctxt "16060_Girl"
+msgid "......"
+msgstr ""
+
+msgctxt "16072_Ayanokoji"
+msgid "......"
+msgstr ""
+
+msgctxt "16084_Girl"
+msgid "Um, can I go now?"
+msgstr ""
+
+msgctxt "16096_Ayanokoji"
+msgid "By... By all means."
+msgstr ""
+
+msgctxt "16156_Shinada"
+msgid "Ouch... Next idea."
+msgstr ""
+
+msgctxt "16168_Ayanokoji"
+msgid "That's odd. I believe that's one of the better jokes I've heard."
+msgstr ""
+
+msgctxt "16180_Shinada"
+msgid "Better!? That was awful! And really old, too!"
+msgstr ""
+
+msgctxt "16192_Ayanokoji"
+msgid "Awful is your attempt to turn me into a comedian!"
+msgstr ""
+
+msgctxt "16204_Shinada"
+msgid ""
+"Aw, I was having so much fun at your expense, though. Why'd you have to go "
+"and ruin it by getting all serious?"
+msgstr ""
+
+msgctxt "16240_Shinada"
+msgid "Girls love a good compliment. I mean, who doesn't?"
+msgstr ""
+
+msgctxt "16252_Ayanokoji"
+msgid ""
+"Perhaps, but just how does one initiate such an encounter? And what should "
+"I compliment?"
+msgstr ""
+
+msgctxt "16264_Shinada"
+msgid ""
+"Try her appearance or voice. Anything's fine as long as it makes her feel "
+"good about herself."
+msgstr ""
+
+msgctxt "16276_Ayanokoji"
+msgid "Flattery is not my strong suit, but I shall endeavor to woo her nonetheless."
+msgstr ""
+
+msgctxt "16336_Ayanokoji"
+msgid "Excuse me, fair maiden. Do you have a moment?"
+msgstr ""
+
+msgctxt "16348_Girl"
+msgid "Who, me?"
+msgstr ""
+
+msgctxt "16360_Ayanokoji"
+msgid ""
+"Fair maiden, how might I describe thee? Thou art as silk upon a spring "
+"afternoon, soft and radiant and refreshing!"
+msgstr ""
+
+msgctxt "16372_Girl"
+msgid "What?"
+msgstr ""
+
+msgctxt "16384_Ayanokoji"
+msgid ""
+"I witnessed thee shining from over yonder, and it was then that I knew mine "
+"entire life was but a dying flame next to thy blazing sun!"
+msgstr ""
+
+msgctxt "16396_Ayanokoji"
+msgid ""
+"I have laid eyes upon countless noble dames and damsels, but even their "
+"painted countenances cannot compare to the perfection of thy natural "
+"complexion!"
+msgstr ""
+
+msgctxt "16408_Girl"
+msgid "...I don't understand."
+msgstr ""
+
+msgctxt "16420_Ayanokoji"
+msgid ""
+"Oh, um... Well, you see, my papa is the chairman of the neighborhood "
+"association, so we often attend parties of that noble nature."
+msgstr ""
+
+msgctxt "16432_Girl"
+msgid "Chairman? Oh, so by noble, you mean you're rich?"
+msgstr ""
+
+msgctxt "16444_Ayanokoji"
+msgid ""
+"Not everyone who attends is rich, but my family could certainly be "
+"considered wealthy."
+msgstr ""
+
+msgctxt "16504_Ayanokoji"
+msgid "Behold! We have exchanged mobile phone numbers!"
+msgstr ""
+
+msgctxt "16516_Shinada"
+msgid "Um, Leo-kun? You only landed her after you mentioned how rich you are."
+msgstr ""
+
+msgctxt "16528_Ayanokoji"
+msgid ""
+"Really? Well, she did seem to warm up to me in the middle of the "
+"conversation for some reason."
+msgstr ""
+
+msgctxt "16540_Shinada"
+msgid "Welcome to the real world, Leo-kun."
+msgstr ""
+
+msgctxt "16552_Shinada"
+msgid ""
+"Still, I'd say this is progress. I mean, with the way you used to look, "
+"even your money wouldn't have gotten you so far."
+msgstr ""
+
+msgctxt "16564_Ayanokoji"
+msgid "So all I have to do is send a text to her mobile number?"
+msgstr ""
+
+msgctxt "16576_Shinada"
+msgid ""
+"Whoa, slow down there, cowboy. Take some time to think about what you're "
+"going to say."
+msgstr ""
+
+msgctxt "16588_Ayanokoji"
+msgid ""
+"Ah, of course. But still, I am satisfied. I admit that you have served me "
+"well."
+msgstr ""
+
+msgctxt "16600_Shinada"
+msgid "Yeah, uh... I think you impressed her with your money, but that's about it."
+msgstr ""
+
+msgctxt "16612_Ayanokoji"
+msgid "What did you just say?"
+msgstr ""
+
+msgctxt "16624_Shinada"
+msgid "Er, never mind! See you again soon!"
+msgstr ""
+
+msgctxt "16696_Shinada"
+msgid "All right, advice time! Let's talk about your life!"
+msgstr ""
+
+msgctxt "16708_Ayanokoji"
+msgid "Nay, we must discuss what I must do with that maiden's mobile phone number."
+msgstr ""
+
+msgctxt "16720_Shinada"
+msgid "That's an easy one. Just text her!"
+msgstr ""
+
+msgctxt "16732_Ayanokoji"
+msgid "You simpleton! That part is apparent. I do not, however, know what to write."
+msgstr ""
+
+msgctxt "16744_Shinada"
+msgid "Why don't you start with asking her on a date? Can't go wrong with that."
+msgstr ""
+
+msgctxt "16756_Ayanokoji"
+msgid "A date?"
+msgstr ""
+
+msgctxt "16768_Shinada"
+msgid "Too late to get cold feet now, Leo-kun. You know what you have to do!"
+msgstr ""
+
+msgctxt "16780_Shinada"
+msgid ""
+"Or are you going to chicken out, throw away a perfectly good opportunity, "
+"and in the process, end up wasting all the work I've done?"
+msgstr ""
+
+msgctxt "16792_Ayanokoji"
+msgid ""
+"Enough, enough! I shall text her. 'Twould be a shame, truly, to waste "
+"<Italic>your</Italic> effort."
+msgstr ""
+
+msgctxt "16804_Shinada"
+msgid "Sarcasm aside, that's what I wanted to hear! Now, let's write that text!"
+msgstr ""
+
+msgctxt "16816_Ayanokoji"
+msgid ""
+"Such things are beyond me, so I'm trusting you. And I'm holding you "
+"accountable if anything goes wrong."
+msgstr ""
+
+msgctxt "16828_Ayanokoji"
+msgid "Tell me what to text, and I shall say it."
+msgstr ""
+
+msgctxt "16840_Shinada"
+msgid ""
+"I'm no expert, but it'll be better than leaving it up to you. So here "
+"goes..."
+msgstr ""
+
+msgctxt "16852_Player"
+msgid ""
+"You didn't get a response to that last text, so we'll have to do even "
+"better this time!"
+msgstr ""
+
+msgctxt "16864_Ayanokoji"
+msgid "I'm placing my trust in you. Speak the words to unlock her heart."
+msgstr ""
+
+msgctxt "16876_Shinada"
+msgid "Start with the subject."
+msgstr ""
+
+msgctxt "16888_Shinada"
+msgid "Now for the first line."
+msgstr ""
+
+msgctxt "16900_Shinada"
+msgid "Next up..."
+msgstr ""
+
+msgctxt "16912_Shinada"
+msgid "Okay, let's wrap this thing up."
+msgstr ""
+
+msgctxt "16924_Shinada"
+msgid "And last but not least..."
+msgstr ""
+
+msgctxt "16936_Shinada"
+msgid "Okay, that should do it! Let me see what we've got here."
+msgstr ""
+
+msgctxt "17320_It is I, Ayanokoji"
+msgid ""
+"I just love you so much!\r\n"
+"So you're just after my money, right?\r\n"
+"Come back to my place, and I'll show you a good time.\r\n"
+"I'll be watching you, hehehe!"
+msgstr ""
+
+msgctxt "17332_It is I, Ayanokoji"
+msgid ""
+"I just love you so much!\r\n"
+"So you're just after my money, right?\r\n"
+"Come back to my place, and I'll show you a good time.\r\n"
+"So what do you say? Sounds good?"
+msgstr ""
+
+msgctxt "17344_It is I, Ayanokoji"
+msgid ""
+"I just love you so much!\r\n"
+"So you're just after my money, right?\r\n"
+"How about dinner some time?\r\n"
+"I'll be watching you, hehehe!"
+msgstr ""
+
+msgctxt "17356_It is I, Ayanokoji"
+msgid ""
+"I just love you so much!\r\n"
+"Words can't describe how beautiful you are.\r\n"
+"Come back to my place, and I'll show you a good time.\r\n"
+"I'll be watching you, hehehe!"
+msgstr ""
+
+msgctxt "17368_It is I, Ayanokoji"
+msgid ""
+"I hope you didn't mind me approaching you.\r\n"
+"So you're just after my money, right?\r\n"
+"Come back to my place, and I'll show you a good time.\r\n"
+"I'll be watching you, hehehe!"
+msgstr ""
+
+msgctxt "17380_I enjoyed talking with you."
+msgid ""
+"I just love you so much!\r\n"
+"So you're just after my money, right?\r\n"
+"Come back to my place, and I'll show you a good time.\r\n"
+"I'll be watching you, hehehe!"
+msgstr ""
+
+msgctxt "17392_It is I, Ayanokoji"
+msgid ""
+"I just love you so much!\r\n"
+"So you're just after my money, right?\r\n"
+"How about dinner some time?\r\n"
+"So what do you say? Sounds good?"
+msgstr ""
+
+msgctxt "17404_It is I, Ayanokoji"
+msgid ""
+"I just love you so much!\r\n"
+"Words can't describe how beautiful you are.\r\n"
+"Come back to my place, and I'll show you a good time.\r\n"
+"So what do you say? Sounds good?"
+msgstr ""
+
+msgctxt "17416_It is I, Ayanokoji"
+msgid ""
+"I hope you didn't mind me approaching you.\r\n"
+"So you're just after my money, right?\r\n"
+"Come back to my place, and I'll show you a good time.\r\n"
+"So what do you say? Sounds good?"
+msgstr ""
+
+msgctxt "17428_I enjoyed talking with you."
+msgid ""
+"I just love you so much!\r\n"
+"So you're just after my money, right?\r\n"
+"Come back to my place, and I'll show you a good time.\r\n"
+"So what do you say? Sounds good?"
+msgstr ""
+
+msgctxt "17440_It is I, Ayanokoji"
+msgid ""
+"I just love you so much!\r\n"
+"Words can't describe how beautiful you are.\r\n"
+"How about dinner some time?\r\n"
+"I'll be watching you, hehehe!"
+msgstr ""
+
+msgctxt "17452_It is I, Ayanokoji"
+msgid ""
+"I hope you didn't mind me approaching you.\r\n"
+"So you're just after my money, right?\r\n"
+"How about dinner some time?\r\n"
+"I'll be watching you, hehehe!"
+msgstr ""
+
+msgctxt "17464_I enjoyed talking with you."
+msgid ""
+"I just love you so much!\r\n"
+"So you're just after my money, right?\r\n"
+"How about dinner some time?\r\n"
+"I'll be watching you, hehehe!"
+msgstr ""
+
+msgctxt "17476_It is I, Ayanokoji"
+msgid ""
+"I hope you didn't mind me approaching you.\r\n"
+"Words can't describe how beautiful you are.\r\n"
+"Come back to my place, and I'll show you a good time.\r\n"
+"I'll be watching you, hehehe!"
+msgstr ""
+
+msgctxt "17488_I enjoyed talking with you."
+msgid ""
+"I just love you so much!\r\n"
+"Words can't describe how beautiful you are.\r\n"
+"Come back to my place, and I'll show you a good time.\r\n"
+"I'll be watching you, hehehe!"
+msgstr ""
+
+msgctxt "17500_I enjoyed talking with you."
+msgid ""
+"I hope you didn't mind me approaching you.\r\n"
+"So you're just after my money, right?\r\n"
+"Come back to my place, and I'll show you a good time.\r\n"
+"I'll be watching you, hehehe!"
+msgstr ""
+
+msgctxt "17512_It is I, Ayanokoji"
+msgid ""
+"I just love you so much!\r\n"
+"Words can't describe how beautiful you are.\r\n"
+"How about dinner some time?\r\n"
+"So what do you say? Sounds good?"
+msgstr ""
+
+msgctxt "17524_It is I, Ayanokoji"
+msgid ""
+"I hope you didn't mind me approaching you.\r\n"
+"So you're just after my money, right?\r\n"
+"How about dinner some time?\r\n"
+"So what do you say? Sounds good?"
+msgstr ""
+
+msgctxt "17536_It is I, Ayanokoji"
+msgid ""
+"I hope you didn't mind me approaching you.\r\n"
+"Words can't describe how beautiful you are.\r\n"
+"Come back to my place, and I'll show you a good time.\r\n"
+"So what do you say? Sounds good?"
+msgstr ""
+
+msgctxt "17548_It is I, Ayanokoji"
+msgid ""
+"I hope you didn't mind me approaching you.\r\n"
+"Words can't describe how beautiful you are.\r\n"
+"How about dinner some time?\r\n"
+"I'll be watching you, hehehe!"
+msgstr ""
+
+msgctxt "17560_I enjoyed talking with you."
+msgid ""
+"I just love you so much!\r\n"
+"So you're just after my money, right?\r\n"
+"How about dinner some time?\r\n"
+"So what do you say? Sounds good?"
+msgstr ""
+
+msgctxt "17572_I enjoyed talking with you."
+msgid ""
+"I just love you so much!\r\n"
+"Words can't describe how beautiful you are.\r\n"
+"Come back to my place, and I'll show you a good time.\r\n"
+"So what do you say? Sounds good?"
+msgstr ""
+
+msgctxt "17584_I enjoyed talking with you."
+msgid ""
+"I just love you so much!\r\n"
+"Words can't describe how beautiful you are.\r\n"
+"How about dinner some time?\r\n"
+"I'll be watching you, hehehe!"
+msgstr ""
+
+msgctxt "17596_I enjoyed talking with you."
+msgid ""
+"I hope you didn't mind me approaching you.\r\n"
+"So you're just after my money, right?\r\n"
+"Come back to my place, and I'll show you a good time.\r\n"
+"So what do you say? Sounds good?"
+msgstr ""
+
+msgctxt "17608_I enjoyed talking with you."
+msgid ""
+"I hope you didn't mind me approaching you.\r\n"
+"So you're just after my money, right?\r\n"
+"How about dinner some time?\r\n"
+"I'll be watching you, hehehe!"
+msgstr ""
+
+msgctxt "17620_I enjoyed talking with you."
+msgid ""
+"I hope you didn't mind me approaching you.\r\n"
+"Words can't describe how beautiful you are.\r\n"
+"Come back to my place, and I'll show you a good time.\r\n"
+"I'll be watching you, hehehe!"
+msgstr ""
+
+msgctxt "17632_It is I, Ayanokoji"
+msgid ""
+"I hope you didn't mind me approaching you.\r\n"
+"Words can't describe how beautiful you are.\r\n"
+"How about dinner some time?\r\n"
+"So what do you say? Sounds good?"
+msgstr ""
+
+msgctxt "17644_I enjoyed talking with you."
+msgid ""
+"I just love you so much!\r\n"
+"Words can't describe how beautiful you are.\r\n"
+"How about dinner some time?\r\n"
+"So what do you say? Sounds good?"
+msgstr ""
+
+msgctxt "17656_I enjoyed talking with you."
+msgid ""
+"I hope you didn't mind me approaching you.\r\n"
+"So you're just after my money, right?\r\n"
+"How about dinner some time?\r\n"
+"So what do you say? Sounds good?"
+msgstr ""
+
+msgctxt "17668_I enjoyed talking with you."
+msgid ""
+"I hope you didn't mind me approaching you.\r\n"
+"Words can't describe how beautiful you are.\r\n"
+"Come back to my place, and I'll show you a good time.\r\n"
+"So what do you say? Sounds good?"
+msgstr ""
+
+msgctxt "17680_I enjoyed talking with you."
+msgid ""
+"I hope you didn't mind me approaching you.\r\n"
+"Words can't describe how beautiful you are.\r\n"
+"How about dinner some time?\r\n"
+"I'll be watching you, hehehe!"
+msgstr ""
+
+msgctxt "17692_I enjoyed talking with you."
+msgid ""
+"I hope you didn't mind me approaching you.\r\n"
+"Words can't describe how beautiful you are.\r\n"
+"How about dinner some time?\r\n"
+"So what do you say? Sounds good?"
+msgstr ""
+
+msgctxt "17704_Ayanokoji"
+msgid "Are you certain this is a wise thing to do?"
+msgstr ""
+
+msgctxt "17716_Shinada"
+msgid ""
+"We'll never know until she reads it. So hit that send button already, "
+"nobleman!"
+msgstr ""
+
+msgctxt "17728_Ayanokoji"
+msgid "Fine... Woman, I send to thee!"
+msgstr ""
+
+msgctxt "17752_Shinada"
+msgid "Now we wait for her reply."
+msgstr ""
+
+msgctxt "17800_Ayanokoji"
+msgid "She is... not replying."
+msgstr ""
+
+msgctxt "17812_Shinada"
+msgid "Hmm... That's strange."
+msgstr ""
+
+msgctxt "17824_Ayanokoji"
+msgid "Perhaps my text was lacking."
+msgstr ""
+
+msgctxt "17836_Shinada"
+msgid "Now that you mention it, maybe there were some sketchy parts."
+msgstr ""
+
+msgctxt "17848_Ayanokoji"
+msgid "You waited until this moment to tell me!? Now what will I do?"
+msgstr ""
+
+msgctxt "17860_Shinada"
+msgid ""
+"Relax! We'll just try it again. She's bound to reply once we figure out the "
+"right thing to say!"
+msgstr ""
+
+msgctxt "17872_Ayanokoji"
+msgid ""
+"Loath as I am to admit it, I must take your word. I have no experience in "
+"such low-class endeavors."
+msgstr ""
+
+msgctxt "17884_Shinada"
+msgid "We'll nail it next time. Promise."
+msgstr ""
+
+msgctxt "17932_Ayanokoji"
+msgid "......"
+msgstr ""
+
+msgctxt "17944_Shinada"
+msgid "......"
+msgstr ""
+
+msgctxt "17956_Ayanokoji"
+msgid "She replied!"
+msgstr ""
+
+msgctxt "17968_Shinada"
+msgid "What did she say!?"
+msgstr ""
+
+msgctxt "17980_Ayanokoji"
+msgid "\"I'd love to go out to dinner with you.\""
+msgstr ""
+
+msgctxt "17992_Shinada"
+msgid "Yes! You scored big time!"
+msgstr ""
+
+msgctxt "18004_Ayanokoji"
+msgid "You are amazing, Shinada!"
+msgstr ""
+
+msgctxt "18016_Shinada"
+msgid "Finally, the recognition I deserve!"
+msgstr ""
+
+msgctxt "18028_Ayanokoji"
+msgid "Now, 'tis time for me to take flight and leave the proverbial nest."
+msgstr ""
+
+msgctxt "18040_Shinada"
+msgid "Right. It's not like I can go on your date with you."
+msgstr ""
+
+msgctxt "18052_Ayanokoji"
+msgid ""
+"Now that that's settled, I must needs make preparations! We'll have to "
+"postpone your training for the nonce."
+msgstr ""
+
+msgctxt "18064_Shinada"
+msgid ""
+"No worries there. You just focus on your date, buddy. Oh, and be sure to "
+"let me know how it goes!"
+msgstr ""
+
+msgctxt "18076_Ayanokoji"
+msgid "Indeed. Let us meet at the usual place some time hence!"
+msgstr ""
+
+msgctxt "18112_Shinada"
+msgid "What the－!? What're you doing here, Leo-kun!?"
+msgstr ""
+
+msgctxt "18124_Ayanokoji"
+msgid "......"
+msgstr ""
+
+msgctxt "18136_Shinada"
+msgid "I thought we'd made so much progress. You've totally backtracked!"
+msgstr ""
+
+msgctxt "18148_Ayanokoji"
+msgid "......"
+msgstr ""
+
+msgctxt "18160_Shinada"
+msgid ""
+"Aw, come on, say something, Leo-kun. How about your girlfriend? How's she "
+"doing?"
+msgstr ""
+
+msgctxt "18172_Ayanokoji"
+msgid "Silence!"
+msgstr ""
+
+msgctxt "18184_Shinada"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "18196_Ayanokoji"
+msgid ""
+"Blah, blah, blah! Is that all you do!? This is why I despise you witless, "
+"addlepated, moronic commoner! Hmph!"
+msgstr ""
+
+msgctxt "18208_Shinada"
+msgid "Um, Leo-kun? Did something happen with your girl?"
+msgstr ""
+
+msgctxt "18220_Ayanokoji"
+msgid "She dumped me! But that's not the worst of it!"
+msgstr ""
+
+msgctxt "18232_Shinada"
+msgid "It's not? What else happened?"
+msgstr ""
+
+msgctxt "18244_Ayanokoji"
+msgid "Well, we were on a date..."
+msgstr ""
+
+msgctxt "18304_Shinada"
+msgid "What!? Some scary guy showed up in the middle of your date!?"
+msgstr ""
+
+msgctxt "18316_Ayanokoji"
+msgid ""
+"That's right! He started shouting, \"What are you doing with my woman!?\" "
+"Then he beat the pulp out of me and robbed me blind, the larcener!"
+msgstr ""
+
+msgctxt "18328_Shinada"
+msgid ""
+"Wait a second! That's one of the oldest scams in the book! What about your "
+"new outfit?"
+msgstr ""
+
+msgctxt "18340_Ayanokoji"
+msgid ""
+"He took everything, including my clothes and wallet. All my money's gone! "
+"It's gone, Shinada!"
+msgstr ""
+
+msgctxt "18352_Shinada"
+msgid "Wow, you literally lost the shirt off your back."
+msgstr ""
+
+msgctxt "18364_Ayanokoji"
+msgid "Now is not the time for japes! This is why I do not deal with your kind!"
+msgstr ""
+
+msgctxt "18376_Shinada"
+msgid "The shock's made you revert to your old ways."
+msgstr ""
+
+msgctxt "18388_Ayanokoji"
+msgid "Enough, Shinada! We're resuming your training presently!"
+msgstr ""
+
+msgctxt "18400_Shinada"
+msgid "I thought we were done with all that!"
+msgstr ""
+
+msgctxt "18412_Ayanokoji"
+msgid ""
+"Silence! I said it's time for your training, and that means it is time for "
+"your training!"
+msgstr ""
+
+msgctxt "18424_Ayanokoji"
+msgid ""
+"Once we finish this bout, your service to me is ended! You will do nothing "
+"more for me, and if you learn nothing more, so much the better!"
+msgstr ""
+
+msgctxt "18436_Shinada"
+msgid "Is that your idea of training?"
+msgstr ""
+
+msgctxt "18448_Ayanokoji"
+msgid ""
+"You witless peasant! If I knock you senseless, I'll consider this training "
+"session a massive success!"
+msgstr ""
+
+msgctxt "18460_Shinada"
+msgid "Sheesh, he's even worse than he was before!"
+msgstr ""
+
+msgctxt "18472_Ayanokoji"
+msgid ""
+"I'll be waiting here, Shinada. Come on back when you're ready. Then keep "
+"coming back for more."
+msgstr ""
+
+msgctxt "18484_Shinada"
+msgid "No thanks! Well, heh, who am I kidding? I'll stop by when I have time."
+msgstr ""
+
+msgctxt "18496_Shinada"
+msgid ""
+"That should help you relieve some that stress of yours. Besides, what "
+"happened to you is partly my fault, so..."
+msgstr ""
+
+msgctxt "18508_Ayanokoji"
+msgid "Well said, peasant. I'm going to enjoy rearranging your face with my fists."
+msgstr ""
+
+msgctxt "18520_Shinada"
+msgid "Heh... Hahaha!"
+msgstr ""

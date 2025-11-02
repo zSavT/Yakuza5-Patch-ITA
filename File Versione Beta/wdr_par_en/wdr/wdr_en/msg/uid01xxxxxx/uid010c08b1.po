@@ -1,0 +1,378 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "156"
+msgid "You got <Color:8>10,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "276"
+msgid "You got 400 experience points."
+msgstr ""
+
+msgctxt "14244"
+msgid "Really Injured Man"
+msgstr ""
+
+msgctxt "14248"
+msgid "Fake Passenger Lady"
+msgstr ""
+
+msgctxt "14252"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "14256"
+msgid "Young Passerby"
+msgstr ""
+
+msgctxt "14260"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "14264"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "14268"
+msgid "Broke Actor"
+msgstr ""
+
+msgctxt "14272"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "14276"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "14280"
+msgid "dummy"
+msgstr ""
+
+msgctxt "14284"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "14288"
+msgid "Old Man"
+msgstr ""
+
+msgctxt "14292"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "14296"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "14300"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "14304"
+msgid "0"
+msgstr ""
+
+msgctxt "14308"
+msgid "Man on the Ground"
+msgstr ""
+
+msgctxt "14312"
+msgid "Lady in a Hurry"
+msgstr ""
+
+msgctxt "14316"
+msgid "Aghast Man"
+msgstr ""
+
+msgctxt "14320"
+msgid "Suspiciously Timed Bystander"
+msgstr ""
+
+msgctxt "14324"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "14328"
+msgid "Suddenly Crying Lady"
+msgstr ""
+
+msgctxt "14332"
+msgid "Talk_Cry"
+msgstr ""
+
+msgctxt "14336"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "14340"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "14344"
+msgid "Man's Voice"
+msgstr ""
+
+msgctxt "14348"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "14352"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "14356"
+msgid "StandUp"
+msgstr ""
+
+msgctxt "14360"
+msgid "Not Really Injured Man"
+msgstr ""
+
+msgctxt "60_Really Injured Man"
+msgid "Oof... I never met a taxi driver who could fight like that."
+msgstr ""
+
+msgctxt "72_Fake Passenger Lady"
+msgid "I told you we should stop doing this!"
+msgstr ""
+
+msgctxt "84_Fake Passenger Lady"
+msgid "It's just mean to do this as a way to cover the theater costs."
+msgstr ""
+
+msgctxt "96_Really Injured Man"
+msgid "I guess we should stick to acting."
+msgstr ""
+
+msgctxt "108_Really Injured Man"
+msgid ""
+"Sorry, man. We're all just struggling actors at a little theater. We didn't "
+"have the money to pay the upkeep, so we turned to this..."
+msgstr ""
+
+msgctxt "120_Really Injured Man"
+msgid "We'll change our ways and build up the troupe again!"
+msgstr ""
+
+msgctxt "132_Fake Passenger Lady"
+msgid ""
+"I really apologize for all this. Here's the fare, and a tip to show how "
+"sorry we are."
+msgstr ""
+
+msgctxt "180_Really Injured Man"
+msgid "We won't try anything stupid like this again. Promise!"
+msgstr ""
+
+msgctxt "192_Old Man"
+msgid "Well, they say they're sorry. Are you gonna give them a pass?"
+msgstr ""
+
+msgctxt "204_Kiryu"
+msgid "Yes. And thank you for speaking up."
+msgstr ""
+
+msgctxt "216_Old Man"
+msgid ""
+"No need for thanks. I've got lots of time on my hands these days. I'm happy "
+"to help out."
+msgstr ""
+
+msgctxt "228_Old Man"
+msgid ""
+"If you lot really wanna be successful actors, you'd better not try any more "
+"monkey business like this."
+msgstr ""
+
+msgctxt "240_Really Injured Man"
+msgid "Yes, sir!"
+msgstr ""
+
+msgctxt "252_Kiryu"
+msgid ""
+"(That old man saved the day. I'll have to keep an eye out for schemes like "
+"this.)"
+msgstr ""
+
+msgctxt "300_Kiryu"
+msgid "Are you okay!?"
+msgstr ""
+
+msgctxt "312_Man on the Ground"
+msgid "Ow ow ow. I think I... broke something..."
+msgstr ""
+
+msgctxt "324_Lady in a Hurry"
+msgid "Hey! He looks pretty bad!"
+msgstr ""
+
+msgctxt "336_Kiryu"
+msgid "(Hmm. Something's up. It didn't feel like I hit him.)"
+msgstr ""
+
+msgctxt "360_Really Injured Man"
+msgid "Hey, are you okay?"
+msgstr ""
+
+msgctxt "372_Man on the Ground"
+msgid "This taxi drove right into me, at a very high speed!"
+msgstr ""
+
+msgctxt "396_Really Injured Man"
+msgid "On this little road? Was the driver crazy!?"
+msgstr ""
+
+msgctxt "408_Kiryu"
+msgid "Hold on. I admit I was going fast, but I'm sure I stopped in time."
+msgstr ""
+
+msgctxt "432_Really Injured Man"
+msgid "How can we be sure of that? Let's see what your passenger has to say."
+msgstr ""
+
+msgctxt "444_Really Injured Man"
+msgid "Yeah. So, what happened?"
+msgstr ""
+
+msgctxt "456_Lady in a Hurry"
+msgid "The driver hit him, I'm certain of it!"
+msgstr ""
+
+msgctxt "468_Kiryu"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "480_Suddenly Crying Lady"
+msgid ""
+"I was telling him to please slow down and drive safely, but he just kept on "
+"speeding!"
+msgstr ""
+
+msgctxt "492_Kiryu"
+msgid "What?"
+msgstr ""
+
+msgctxt "504_Man on the Ground"
+msgid ""
+"Look, normally I'd go straight to the police with this, but I don't want to "
+"ruin your life."
+msgstr ""
+
+msgctxt "516_Man on the Ground"
+msgid ""
+"If your license got revoked, you wouldn't be able to make a living, right? "
+"We could just settle this right here, if you want."
+msgstr ""
+
+msgctxt "528_Really Injured Man"
+msgid "That is so kind of you, given such unusual circumstances."
+msgstr ""
+
+msgctxt "540_Really Injured Man"
+msgid "Hey, man, you're lucky you hit someone willing to give you a break!"
+msgstr ""
+
+msgctxt "552_Man on the Ground"
+msgid ""
+"How about you compensate me 500,000 yen to cover my medical bills, and then "
+"we can pretend this never happened?"
+msgstr ""
+
+msgctxt "564_Really Injured Man"
+msgid "Wow! You're getting off so lightly!"
+msgstr ""
+
+msgctxt "576_Man on the Ground"
+msgid ""
+"Come on, let's do this quickly. If you don't have money on you, there's an "
+"ATM just around that－"
+msgstr ""
+
+msgctxt "588_Man's Voice"
+msgid "Wait just a minute!"
+msgstr ""
+
+msgctxt "600_Man on the Ground"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "612_Old Man"
+msgid ""
+"I saw the whole thing from my window. That taxi driver never hit you, he "
+"braked in plenty of time."
+msgstr ""
+
+msgctxt "624_Man on the Ground"
+msgid "Who the hell's this guy?"
+msgstr ""
+
+msgctxt "636_Really Injured Man"
+msgid "He's not with us."
+msgstr ""
+
+msgctxt "648_Really Injured Man"
+msgid ""
+"What, some old guy just happened to be watching from the window of his "
+"home? I don't believe it!"
+msgstr ""
+
+msgctxt "660_Old Man"
+msgid ""
+"I've actually been watching all of you for a while. You were acting "
+"suspicious."
+msgstr ""
+
+msgctxt "672_Old Man"
+msgid "I saw you hiding out along the road. What exactly are you up to?"
+msgstr ""
+
+msgctxt "684_Man on the Ground"
+msgid "Uh-oh..."
+msgstr ""
+
+msgctxt "696_Old Man"
+msgid "Wait a minute... You're scammers, aren't you!?"
+msgstr ""
+
+msgctxt "708_Man on the Ground"
+msgid "Damn it!"
+msgstr ""
+
+msgctxt "720_Old Man"
+msgid ""
+"The passenger, the victim, and the passersby. You were all in on it, huh? "
+"Crafty bastards."
+msgstr ""
+
+msgctxt "732_Not Really Injured Man"
+msgid ""
+"Fine, you got us. But now we've got a problem, see? We can't afford to let "
+"you squeal!"
+msgstr ""
+
+msgctxt "744_Not Really Injured Man"
+msgid "Looks like we better persuade you to keep your mouth shut."
+msgstr ""
+
+msgctxt "756_Kiryu"
+msgid "Please, let me handle this."
+msgstr ""
+
+msgctxt "768_Old Man"
+msgid "I appreciate it. Come on, young lady."
+msgstr ""
+
+msgctxt "792_Really Injured Man"
+msgid "Even better! No need to hold back, let's maul this guy!"
+msgstr ""

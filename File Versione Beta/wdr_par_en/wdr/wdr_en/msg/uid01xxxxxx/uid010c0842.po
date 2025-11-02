@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "13748"
+msgid "Yoshimi"
+msgstr ""
+
+msgctxt "13752"
+msgid "Kiyokawa"
+msgstr ""
+
+msgctxt "13756"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "13760"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "13764"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "13768"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "13772"
+msgid "StandUp"
+msgstr ""
+
+msgctxt "13776"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "13780"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "13784"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "13788"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "13792"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "13796"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "13800"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "60_Yoshimi"
+msgid ""
+"Well hello, hello! Good to see you show up! Am I going to have to do this a "
+"hundred more times until you finally catch a lucky break?"
+msgstr ""
+
+msgctxt "72_Yoshimi"
+msgid "Cool Yoshimi!"
+msgstr ""
+
+msgctxt "84_Yoshimi"
+msgid ""
+"Listen, Suzuki-san. I know this is a tricky concept for a simpleton like "
+"you, but statistics show your defeat is inevitable. You really don't stand "
+"a chance."
+msgstr ""
+
+msgctxt "96_Kiryu"
+msgid "Enough talk. Let's get this started."
+msgstr ""
+
+msgctxt "108_Yoshimi"
+msgid "There's no point, Suzuki-san! You're only gonna lose again!"
+msgstr ""
+
+msgctxt "120_Yoshimi"
+msgid ""
+"The kid's got it right. He must be smarter than you. But, have it your way. "
+"Let's do a rematch."
+msgstr ""
+
+msgctxt "132_Yoshimi"
+msgid "See if you can at least make it close!"
+msgstr ""
+
+msgctxt "216_Yoshimi"
+msgid "Suzuki-san! What're you doing here? Did you come looking for me?"
+msgstr ""
+
+msgctxt "228_Yoshimi"
+msgid "Well, don't try and drag me back with you. I've had it with studying."
+msgstr ""
+
+msgctxt "240_Yoshimi"
+msgid ""
+"A knucklehead like me probably only has a one in a hundred chance of "
+"passing. I don't wanna fight a losing battle."
+msgstr ""
+
+msgctxt "252_Kiryu"
+msgid "No, I have other business here."
+msgstr ""
+
+msgctxt "264_Yoshimi"
+msgid "You mean... another race with the Devil Killers?"
+msgstr ""
+
+msgctxt "276_Kiryu"
+msgid "Right."
+msgstr ""
+
+msgctxt "288_Yoshimi"
+msgid ""
+"You're up against Cool Yoshimi this time, right? I know you don't wanna "
+"hear this, but I think you should just bow out now, to be honest."
+msgstr ""
+
+msgctxt "300_Yoshimi"
+msgid ""
+"I'm on your side, of course. But I know what he's capable of. You don't "
+"stand a chance, man."
+msgstr ""
+
+msgctxt "312_Kiryu"
+msgid "(Not with that attitude, anyway.)"
+msgstr ""
+
+msgctxt "324_Yoshimi"
+msgid ""
+"That Crash Kajiwara guy you beat, he's the bottom of the ladder when it "
+"comes to the Four Kings. Cool Yoshimi is on a whole 'nother level."
+msgstr ""
+
+msgctxt "336_Kiryu"
+msgid "He's that fast, huh?"
+msgstr ""
+
+msgctxt "348_Yoshimi"
+msgid ""
+"Yep. Yoshimi wins all his races 'cause he's sharp as a tack, and never "
+"loses his cool."
+msgstr ""
+
+msgctxt "360_Yoshimi"
+msgid ""
+"When you go up against him, you can bet that he already knows your ride "
+"down to every last nut and bolt. He's that thorough."
+msgstr ""
+
+msgctxt "372_Yoshimi"
+msgid ""
+"He works up a profile of you, and compares it with all the data he's "
+"gathered to figure out the best way to win."
+msgstr ""
+
+msgctxt "384_Kiryu"
+msgid ""
+"(Kiyokawa sure knows a lot. He should devote a little of that brainpower to "
+"studying.)"
+msgstr ""
+
+msgctxt "396_Yoshimi"
+msgid ""
+"Anyway! I think you gotta cut your losses here. I don't wanna see you go "
+"down in flames."
+msgstr ""
+
+msgctxt "408_Yoshimi"
+msgid ""
+"It's just like my studying. It'd be stupid to take on something you just "
+"can't win."
+msgstr ""
+
+msgctxt "420_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "432_Yoshimi"
+msgid "Good to see you, Suzuki-san."
+msgstr ""
+
+msgctxt "444_Yoshimi"
+msgid "Whoa! It's Cool Yoshimi!"
+msgstr ""
+
+msgctxt "456_Kiryu"
+msgid "I hear you like studying up on your opponents."
+msgstr ""
+
+msgctxt "468_Yoshimi"
+msgid ""
+"That's right. This time was tougher than usual. It's my first race against "
+"a taxi, for one. I didn't have much data to go on, at first."
+msgstr ""
+
+msgctxt "480_Yoshimi"
+msgid ""
+"So I went all the way back to 1912, when the first taxi service in Japan "
+"started, and researched every last detail since then."
+msgstr ""
+
+msgctxt "492_Yoshimi"
+msgid ""
+"I've already analyzed your car, of course. I have full details on every "
+"part, as well as your driving habits, right here in my head."
+msgstr ""
+
+msgctxt "504_Kiryu"
+msgid "That's dedication right there. So what are my chances?"
+msgstr ""
+
+msgctxt "516_Yoshimi"
+msgid ""
+"Based on today's weather, and the state of the road, I came up with a "
+"number."
+msgstr ""
+
+msgctxt "528_Yoshimi"
+msgid "Unfortunately, you only have about one in a hundred chance of beating me."
+msgstr ""
+
+msgctxt "540_Yoshimi"
+msgid "One in a hundred... That's nothing."
+msgstr ""
+
+msgctxt "552_Yoshimi"
+msgid "Do you still wish to take me on, taxi driver?"
+msgstr ""
+
+msgctxt "564_Kiryu"
+msgid "Of course."
+msgstr ""
+
+msgctxt "576_Yoshimi"
+msgid ""
+"Suzuki-san! Let's quit while we're ahead! One in a hundred is terrible "
+"odds. You know you can't win!"
+msgstr ""
+
+msgctxt "588_Kiryu"
+msgid "The odds may be against me, but I still have a chance, right?"
+msgstr ""
+
+msgctxt "600_Yoshimi"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "612_Kiryu"
+msgid "Where I grew up, you don't just run away when things look hopeless."
+msgstr ""
+
+msgctxt "624_Kiryu"
+msgid "You step up to the challenge like a man, and carve out your own destiny."
+msgstr ""
+
+msgctxt "636_Yoshimi"
+msgid "Damn... That hit me real heavy just now..."
+msgstr ""
+
+msgctxt "648_Yoshimi"
+msgid "Heheh. What a character you are. I love it!"
+msgstr ""
+
+msgctxt "660_Yoshimi"
+msgid "Now I'm truly looking forward to seeing you hang your head in defeat."
+msgstr ""
+
+msgctxt "672_Yoshimi"
+msgid "Let's see if you can put up a fight!"
+msgstr ""

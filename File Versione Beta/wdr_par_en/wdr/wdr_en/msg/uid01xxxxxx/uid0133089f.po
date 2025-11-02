@@ -1,0 +1,492 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "20340"
+msgid "Staff"
+msgstr ""
+
+msgctxt "20344"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "20348"
+msgid "dummy"
+msgstr ""
+
+msgctxt "20352"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "20356"
+msgid "P_TLK_sitchr_kamae"
+msgstr ""
+
+msgctxt "20360"
+msgid "Honoka"
+msgstr ""
+
+msgctxt "20364"
+msgid "Player"
+msgstr ""
+
+msgctxt "20368"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "20372"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "20376"
+msgid "○I can see that."
+msgstr ""
+
+msgctxt "20380"
+msgid "□You might get hurt."
+msgstr ""
+
+msgctxt "20384"
+msgid "△Why not try horse racing?"
+msgstr ""
+
+msgctxt "20388"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "20392"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "20396"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "20400"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "20404"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "20408"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "20412"
+msgid "0"
+msgstr ""
+
+msgctxt "20416"
+msgid "Idle"
+msgstr ""
+
+msgctxt "20420"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "20424"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "20428"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "60_Staff"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "72_Staff"
+msgid "Let me show you to your table."
+msgstr ""
+
+msgctxt "120_Staff"
+msgid "May I take your order?"
+msgstr ""
+
+msgctxt "132_Honoka"
+msgid ""
+"Oh, I'd like some <Color:8>Fried Chicken Wings with Yummy "
+"Sauce<Color:Default>!"
+msgstr ""
+
+msgctxt "144_Player"
+msgid ""
+"(Honoka-chan wants to have some <Color:8>Fried Chicken Wings with Yummy "
+"Sauce<Color:Default>.)"
+msgstr ""
+
+msgctxt "216_Honoka"
+msgid "This looks delish!"
+msgstr ""
+
+msgctxt "276_Honoka"
+msgid ""
+"Ever since I saw it on TV the other day, I've been thinkin' about giving "
+"horse ridin' a shot."
+msgstr ""
+
+msgctxt "288_Player"
+msgid "Horse riding? What brought that up?"
+msgstr ""
+
+msgctxt "300_Honoka"
+msgid ""
+"I mean, I can ride a merry-go-round just fine, but I've never ridden a real "
+"horse, y'know?"
+msgstr ""
+
+msgctxt "312_Player"
+msgid "What kind of reasoning is that?"
+msgstr ""
+
+msgctxt "324_Honoka"
+msgid ""
+"Horses got pretty eyes. And there aren't that many animals that can carry a "
+"person on their back, right?"
+msgstr ""
+
+msgctxt "336_Player"
+msgid ""
+"I see. I suppose it has a different sort of appeal than riding a car or a "
+"motorcycle."
+msgstr ""
+
+msgctxt "348_Player"
+msgid ""
+"But isn't horse riding expensive? I don't think a college student can "
+"afford it."
+msgstr ""
+
+msgctxt "360_Honoka"
+msgid ""
+"That's why I wanna try it! I'd be a bit like a celeb to have ridin' horses "
+"as a hobby! It might make my newscaster job application more appealin'!"
+msgstr ""
+
+msgctxt "372_Player"
+msgid ""
+"I can see that. It gives off an image of being from an old, established "
+"family more than just being new money."
+msgstr ""
+
+msgctxt "384_Honoka"
+msgid "I know, right!?"
+msgstr ""
+
+msgctxt "396_Honoka"
+msgid ""
+"But it might be too late to start now. Girls like that all get started when "
+"they're still little kids."
+msgstr ""
+
+msgctxt "408_Player"
+msgid ""
+"That'd make it all the more impressive to pull off. It's a bit tough to get "
+"into things like tea ceremony and Japanese dance as a hobby."
+msgstr ""
+
+msgctxt "420_Honoka"
+msgid ""
+"Bein' serious about my job search cuts into my free time though. I wish I'd "
+"started earlier."
+msgstr ""
+
+msgctxt "432_Player"
+msgid ""
+"It'd still be nice to ride a horse at least once. Maybe if you have the "
+"time, you can go to an event that offers trial rides."
+msgstr ""
+
+msgctxt "444_Honoka"
+msgid "Good idea! If I go, I'll invite you to come too!"
+msgstr ""
+
+msgctxt "456_Player"
+msgid "You want me to ride a horse, too?"
+msgstr ""
+
+msgctxt "468_Player"
+msgid ""
+"You might get hurt. Horses are prideful animals. They say the horse chooses "
+"the rider, not the other way around."
+msgstr ""
+
+msgctxt "480_Honoka"
+msgid "Aww, are ya worried about me?"
+msgstr ""
+
+msgctxt "492_Player"
+msgid ""
+"Of course. You can get seriously injured if you aren't skilled enough. "
+"That's ample excuse for me to worry."
+msgstr ""
+
+msgctxt "504_Honoka"
+msgid "Oh wow, really?"
+msgstr ""
+
+msgctxt "516_Player"
+msgid ""
+"Being thrown from a horse is bad, but getting trampled or kicked can be "
+"life-threatening."
+msgstr ""
+
+msgctxt "528_Player"
+msgid ""
+"Horses are wild animals. They aren't like the cute wooden horses in "
+"merry-go-rounds."
+msgstr ""
+
+msgctxt "540_Honoka"
+msgid ""
+"I see... The folks on TV seemed to have an easy enough time ridin' them, so "
+"I figured it wasn't anythin' outta the ordinary."
+msgstr ""
+
+msgctxt "552_Player"
+msgid ""
+"If you're serious about doing it, you need to really learn your stuff in "
+"order to not wind up getting hurt."
+msgstr ""
+
+msgctxt "564_Player"
+msgid ""
+"Why not try horse racing? If all you want to do is see real horses, that "
+"should be good enough."
+msgstr ""
+
+msgctxt "576_Honoka"
+msgid ""
+"Horse racin', huh? I guess that would let me see real horses, but it "
+"doesn't have that celebrity mystique to it at all."
+msgstr ""
+
+msgctxt "588_Player"
+msgid ""
+"Oh no, it takes major funds to own a racehorse. I've considered owning one "
+"myself."
+msgstr ""
+
+msgctxt "600_Honoka"
+msgid ""
+"That's not really what I'd consider a hobby though. Sounds more like a job "
+"to me."
+msgstr ""
+
+msgctxt "612_Honoka"
+msgid ""
+"Besides, a girl who's into racehorses would come off like a creepy old "
+"dude, and who wants to date a girl like that?"
+msgstr ""
+
+msgctxt "624_Player"
+msgid ""
+"You think so? I know some pretty good-looking guys who are into horse "
+"racing, and I bet they would like you."
+msgstr ""
+
+msgctxt "636_Honoka"
+msgid ""
+"Wow, really? Goin' on a date to see horses could be pretty neat! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "648_Player"
+msgid "I'll have to introduce you sometime."
+msgstr ""
+
+msgctxt "708_Honoka"
+msgid "Thanks for treatin' me!"
+msgstr ""
+
+msgctxt "744_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr ""
+
+msgctxt "756_Akiyama"
+msgid "Sorry. I have some urgent business."
+msgstr ""
+
+msgctxt "768_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr ""
+
+msgctxt "780_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr ""
+
+msgctxt "792_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr ""
+
+msgctxt "804_Staff"
+msgid "I see. Well, please come again."
+msgstr ""
+
+msgctxt "852_Staff"
+msgid "Thank you very much. Please come again."
+msgstr ""
+
+msgctxt "912_Staff"
+msgid "Here is your check."
+msgstr ""
+
+msgctxt "984_Staff"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "996_Staff"
+msgid "Let me show you to your table."
+msgstr ""
+
+msgctxt "1032_Player"
+msgid "(I'm broke.)"
+msgstr ""
+
+msgctxt "1068_Kiryu"
+msgid "(I don't need to eat right now.)"
+msgstr ""
+
+msgctxt "1080_Akiyama"
+msgid "(I'm not hungry right now.)"
+msgstr ""
+
+msgctxt "1092_Saejima"
+msgid "(I'm still full.)"
+msgstr ""
+
+msgctxt "1104_Shinada"
+msgid "(Unfortunately, I'm kinda full.)"
+msgstr ""
+
+msgctxt "1116_Haruka"
+msgid "(I'm stuffed.)"
+msgstr ""
+
+msgctxt "1152_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr ""
+
+msgctxt "1164_Akiyama"
+msgid "Sorry. I have some urgent business."
+msgstr ""
+
+msgctxt "1176_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr ""
+
+msgctxt "1188_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr ""
+
+msgctxt "1200_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr ""
+
+msgctxt "1212_Staff"
+msgid "I see. Well, please come again."
+msgstr ""
+
+msgctxt "1272_Staff"
+msgid "Welcome. Can I start you off with something to drink?"
+msgstr ""
+
+msgctxt "1296_Staff"
+msgid "May I take your order?"
+msgstr ""
+
+msgctxt "1344_Staff"
+msgid "May I take your order?"
+msgstr ""
+
+msgctxt "1404_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr ""
+
+msgctxt "1416_Akiyama"
+msgid "Sorry. I have some urgent business to take care of."
+msgstr ""
+
+msgctxt "1428_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr ""
+
+msgctxt "1440_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr ""
+
+msgctxt "1452_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr ""
+
+msgctxt "1464_Staff"
+msgid "Ah, I see. Please do come again."
+msgstr ""
+
+msgctxt "1512_Staff"
+msgid "Here is your check."
+msgstr ""
+
+msgctxt "1572_Staff"
+msgid "Thank you very much. Please come again."
+msgstr ""
+
+msgctxt "1596_Staff"
+msgid ""
+"Say, I think I recognized one of the other customers who was in here. Do "
+"you know who that was?"
+msgstr ""
+
+msgctxt "1608_Staff"
+msgid "Ah, you mean the comedian and his friends?"
+msgstr ""
+
+msgctxt "1620_Player"
+msgid "Comedian? Yeah, that's it. I've seen him on TV before."
+msgstr ""
+
+msgctxt "1632_Staff"
+msgid ""
+"Whenever he's done giving a live performance, he comes by here for the "
+"afterparty."
+msgstr ""
+
+msgctxt "1644_Player"
+msgid "Wow. It doesn't seem like it was a very lively party, though."
+msgstr ""
+
+msgctxt "1656_Staff"
+msgid ""
+"It seems like they're doing a post mortem of their performance. They're "
+"criticizing each other, so it's not a fun atmosphere."
+msgstr ""
+
+msgctxt "1668_Player"
+msgid ""
+"I see. They're improving their craft to make people laugh. That's the sign "
+"of a real pro."
+msgstr ""
+
+msgctxt "1680_Staff"
+msgid ""
+"I've refrained from asking for an autograph because they don't seem to be "
+"in the mood."
+msgstr ""
+
+msgctxt "1692_Player"
+msgid ""
+"(There's a place where comedians hang out. I could talk about that at the "
+"cabaret club.)"
+msgstr ""

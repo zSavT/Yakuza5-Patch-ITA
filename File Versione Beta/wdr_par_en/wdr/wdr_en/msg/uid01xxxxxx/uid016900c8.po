@@ -1,0 +1,880 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "40324"
+msgid "dummy"
+msgstr ""
+
+msgctxt "40328"
+msgid "Nomu-san"
+msgstr ""
+
+msgctxt "40332"
+msgid "kaiwabgm_eeyan"
+msgstr ""
+
+msgctxt "40336"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "40340"
+msgid "Studio Audience"
+msgstr ""
+
+msgctxt "40344"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "40348"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "40352"
+msgid "M_NML_TLK_sitcnt_kansin_NOM"
+msgstr ""
+
+msgctxt "40356"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "40360"
+msgid "M_NML_TLK_sitcnt_introduce_HAL"
+msgstr ""
+
+msgctxt "40364"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "40368"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "40372"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "40376"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "40380"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "40384"
+msgid "I'd like to go shopping."
+msgstr ""
+
+msgctxt "40388"
+msgid "I'd like to take a little eating tour."
+msgstr ""
+
+msgctxt "40392"
+msgid "I'd like to sleep all day."
+msgstr ""
+
+msgctxt "40396"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "40400"
+msgid "Talk_SmileBig_st"
+msgstr ""
+
+msgctxt "40404"
+msgid "Talk_SmileBig_ed"
+msgstr ""
+
+msgctxt "40408"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "40412"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "40416"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "40420"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "40424"
+msgid "It's just that I have so many!"
+msgstr ""
+
+msgctxt "40428"
+msgid "Work is pretty much my hobby, I guess."
+msgstr ""
+
+msgctxt "40432"
+msgid "What's your hobby, Nomu-san?"
+msgstr ""
+
+msgctxt "40436"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "40440"
+msgid "Audience Member"
+msgstr ""
+
+msgctxt "40444"
+msgid "Milk?"
+msgstr ""
+
+msgctxt "40448"
+msgid "Turmeric?"
+msgstr ""
+
+msgctxt "40452"
+msgid "Bloody something-or-other?"
+msgstr ""
+
+msgctxt "40456"
+msgid "Talk_Cry"
+msgstr ""
+
+msgctxt "40460"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "40464"
+msgid "I did pretty well today, don't you think?"
+msgstr ""
+
+msgctxt "40468"
+msgid "Thank you for the support, everyone!"
+msgstr ""
+
+msgctxt "40472"
+msgid "This has been so much fun!"
+msgstr ""
+
+msgctxt "40476"
+msgid "M_NML_TLK_sitcnt_smilebig_lp"
+msgstr ""
+
+msgctxt "40480"
+msgid "M_NML_TLK_sitcnt_titlecall_st"
+msgstr ""
+
+msgctxt "40484"
+msgid "M_NML_TLK_sitcnt_kamae"
+msgstr ""
+
+msgctxt "40488"
+msgid "M_NML_TLK_sitcnt_titlecall_en"
+msgstr ""
+
+msgctxt "56_dummy"
+msgid ""
+"Hello and welcome to \"Love to See You Smile\"! How is everybody doing "
+"today?"
+msgstr ""
+
+msgctxt "68_Studio Audience"
+msgid "So-so!"
+msgstr ""
+
+msgctxt "80_Nomu-san"
+msgid ""
+"Very nice! You said it all in unison! Okay, how are you all sleeping these "
+"days?"
+msgstr ""
+
+msgctxt "92_Studio Audience"
+msgid "So-so!"
+msgstr ""
+
+msgctxt "104_Nomu-san"
+msgid "And what's the acronym for \"you only live once\"?"
+msgstr ""
+
+msgctxt "116_Studio Audience"
+msgid "YOLO!"
+msgstr ""
+
+msgctxt "128_Nomu-san"
+msgid ""
+"Hahaha. Thank you for always playing along with me, folks! I really "
+"appreciate it!"
+msgstr ""
+
+msgctxt "152_dummy"
+msgid "......"
+msgstr ""
+
+msgctxt "164_Nomu-san"
+msgid ""
+"Let's get started then, shall we? Today's guest will be joining us for the "
+"second time now. It's the lovely singing sensation, Haruka Sawamura-chan!"
+msgstr ""
+
+msgctxt "176_Haruka"
+msgid "Hello, everyone! I'm Haruka Sawamura! It's nice to see all of you!"
+msgstr ""
+
+msgctxt "188_Studio Audience"
+msgid "Haruka-chan, you're so cute!"
+msgstr ""
+
+msgctxt "224_dummy"
+msgid "Haruka-chaaan!"
+msgstr ""
+
+msgctxt "236_Nomu-san"
+msgid ""
+"What a great smile you have, Haruka-chan! Who wouldn't fall in love with "
+"you?"
+msgstr ""
+
+msgctxt "248_Haruka"
+msgid "Thank you very much!"
+msgstr ""
+
+msgctxt "260_dummy"
+msgid "Huh? What's with her?"
+msgstr ""
+
+msgctxt "272_Nomu-san"
+msgid ""
+"What's this? Giving the audience the cold shoulder, are you? Can't you even "
+"wave to your fans?"
+msgstr ""
+
+msgctxt "284_Haruka"
+msgid "Oh, I'm so sorry! I was caught off guard, and I couldn't－"
+msgstr ""
+
+msgctxt "296_Nomu-san"
+msgid "Yes, yes. We understand. You got nervous and froze, right?"
+msgstr ""
+
+msgctxt "308_Haruka"
+msgid "I'm really sorry!"
+msgstr ""
+
+msgctxt "320_dummy"
+msgid "Okay! Today, let's touch on your personal life a little bit, shall we?"
+msgstr ""
+
+msgctxt "332_Nomu-san"
+msgid "I'm sure you have quite a busy schedule these days. Do you get any time off?"
+msgstr ""
+
+msgctxt "344_Haruka"
+msgid ""
+"Not really. Even when I'm not working, I still have singing and dance "
+"lessons every day."
+msgstr ""
+
+msgctxt "356_Nomu-san"
+msgid ""
+"That sounds pretty rough. If you could have a day off, how would you wanna "
+"spend it?"
+msgstr ""
+
+msgctxt "368_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "380_Nomu-san"
+msgid ""
+"Wow, you can't even imagine a day off, huh? I think you might be a "
+"workaholic."
+msgstr ""
+
+msgctxt "404_dummy"
+msgid "I'm sorry!"
+msgstr ""
+
+msgctxt "416_Nomu-san"
+msgid "Dyna Chair had better give you some time off on the double!"
+msgstr ""
+
+msgctxt "428_Haruka"
+msgid "I'd like to go shopping. I love looking at clothes and accessories."
+msgstr ""
+
+msgctxt "440_Studio Audience"
+msgid "Ah!"
+msgstr ""
+
+msgctxt "452_Nomu-san"
+msgid ""
+"I could take you shopping, you know. I'm pretty good at picking out ladies' "
+"lingerie."
+msgstr ""
+
+msgctxt "464_Studio Audience"
+msgid "Eww!"
+msgstr ""
+
+msgctxt "476_Haruka"
+msgid "Um, I don't need any lingerie, thank you."
+msgstr ""
+
+msgctxt "488_Nomu-san"
+msgid ""
+"Oh ho. Right now, the audience is looking at me with disgust. I might be "
+"jumped in a back alley by Haruka-chan fans after the show!"
+msgstr ""
+
+msgctxt "512_Haruka"
+msgid ""
+"I'd like to take a little eating tour. I'd love to just walk around Osaka "
+"and try out all the different foods."
+msgstr ""
+
+msgctxt "524_Studio Audience"
+msgid "Ah!"
+msgstr ""
+
+msgctxt "536_Nomu-san"
+msgid ""
+"Yeah! After all, Osaka is the town of culinary extravagance. Hey, I could "
+"show you around to some great places."
+msgstr ""
+
+msgctxt "548_Nomu-san"
+msgid "And when you get a little older, we can go out drinking too."
+msgstr ""
+
+msgctxt "560_Haruka"
+msgid "I'd like that."
+msgstr ""
+
+msgctxt "572_Nomu-san"
+msgid ""
+"You would? Really? Hmm. I think your agency might have something to say "
+"about that!"
+msgstr ""
+
+msgctxt "596_Haruka"
+msgid "I'd like to try sleeping the whole day away. I wouldn't get out of bed once!"
+msgstr ""
+
+msgctxt "608_Studio Audience"
+msgid "Ah!"
+msgstr ""
+
+msgctxt "620_Nomu-san"
+msgid ""
+"Hey, that sounds a bit lazy now. You have to get out and get some exercise. "
+"That's what I do on my days off."
+msgstr ""
+
+msgctxt "632_Haruka"
+msgid "Really?"
+msgstr ""
+
+msgctxt "644_Nomu-san"
+msgid "Sure! I go drinking in cabaret clubs, or I go play mahjong or something."
+msgstr ""
+
+msgctxt "656_Haruka"
+msgid "Oh? But I don't know if you could really call that exercise."
+msgstr ""
+
+msgctxt "668_Nomu-san"
+msgid ""
+"Haha! Come on, I set up that punch line perfectly! You're supposed to say, "
+"\"Ya call that exercise!?\""
+msgstr ""
+
+msgctxt "692_dummy"
+msgid ""
+"So, what else do you like to do when you have time? Do you have a hobby "
+"you're into?"
+msgstr ""
+
+msgctxt "704_Haruka"
+msgid "A hobby? Well, let's see..."
+msgstr ""
+
+msgctxt "716_Nomu-san"
+msgid "Come on, there must be some sort of thing you like to do."
+msgstr ""
+
+msgctxt "728_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "740_Nomu-san"
+msgid "Well, come on, say something!"
+msgstr ""
+
+msgctxt "752_Haruka"
+msgid "Oh! I'm so sorry!"
+msgstr ""
+
+msgctxt "776_dummy"
+msgid ""
+"You have to try and keep the conversation going, Haruka-chan. You're on the "
+"clock, you know."
+msgstr ""
+
+msgctxt "800_Haruka"
+msgid "It's just that I have so many! I can't pick just one."
+msgstr ""
+
+msgctxt "812_Studio Audience"
+msgid "Oh!"
+msgstr ""
+
+msgctxt "824_Nomu-san"
+msgid ""
+"That sounds pretty fulfilling, having so many hobbies like that. If you "
+"talk about them often enough, they might even get you some TV commercials!"
+msgstr ""
+
+msgctxt "836_Studio Audience"
+msgid "Ah!"
+msgstr ""
+
+msgctxt "848_Nomu-san"
+msgid ""
+"Take me for example. I always talk about how much I like sake. So I finally "
+"got offered a commercial, and was it for sake? No. It was for hangover "
+"medicine!"
+msgstr ""
+
+msgctxt "872_dummy"
+msgid "What's the name of the medicine?"
+msgstr ""
+
+msgctxt "884_Nomu-san"
+msgid ""
+"Now, now. You're the guest here. You don't have to worry about plugging my "
+"sponsor. That's my job!"
+msgstr ""
+
+msgctxt "908_Haruka"
+msgid ""
+"Work is pretty much my hobby, I guess. It's just so much fun! I really love "
+"it."
+msgstr ""
+
+msgctxt "920_Studio Audience"
+msgid "Ah!"
+msgstr ""
+
+msgctxt "932_Nomu-san"
+msgid ""
+"Well, aren't you the diligent one! And at such a young age, too. But you "
+"really should have other hobbies, you know. And you should tell people all "
+"about them!"
+msgstr ""
+
+msgctxt "944_Haruka"
+msgid "Why is that?"
+msgstr ""
+
+msgctxt "956_Nomu-san"
+msgid ""
+"Because the more people you tell, the greater the chance you'll get offered "
+"TV commercials!"
+msgstr ""
+
+msgctxt "968_Studio Audience"
+msgid "Ah!"
+msgstr ""
+
+msgctxt "980_Nomu-san"
+msgid ""
+"Take me for example. I always talk about how much I like sake. So I finally "
+"got offered a commercial, and was it for sake? No. It was for hangover "
+"medicine!"
+msgstr ""
+
+msgctxt "1004_dummy"
+msgid "What's the name of the medicine?"
+msgstr ""
+
+msgctxt "1016_Nomu-san"
+msgid ""
+"Now, now. You're the guest here. You don't have to worry about plugging my "
+"sponsor. That's my job!"
+msgstr ""
+
+msgctxt "1040_Haruka"
+msgid "What's your hobby, Nomu-san?"
+msgstr ""
+
+msgctxt "1052_Nomu-san"
+msgid "You're answering my question with a question? We're here to talk about you!"
+msgstr ""
+
+msgctxt "1064_Haruka"
+msgid "I'm sorry!"
+msgstr ""
+
+msgctxt "1076_Nomu-san"
+msgid ""
+"Besides, the audience doesn't wanna hear any more about my hobby. Right, "
+"folks?"
+msgstr ""
+
+msgctxt "1100_dummy"
+msgid ""
+"Ooh-wee, you're clapping for that!? I guess you <Italic>really</Italic> "
+"don't wanna hear any more about me, huh?"
+msgstr ""
+
+msgctxt "1124_dummy"
+msgid "Well, if you were of legal drinking age, we could talk about sake."
+msgstr ""
+
+msgctxt "1136_Nomu-san"
+msgid ""
+"Ooh, how good would a cup of sake taste if you were the one who poured it! "
+"You're that cute, I'm telling ya!"
+msgstr ""
+
+msgctxt "1148_Haruka"
+msgid "My goodness!"
+msgstr ""
+
+msgctxt "1160_Audience Member"
+msgid "You're so cute, Haruka-chan!"
+msgstr ""
+
+msgctxt "1196_dummy"
+msgid "Haruka-chaaan!"
+msgstr ""
+
+msgctxt "1208_Nomu-san"
+msgid "You really are adorable."
+msgstr ""
+
+msgctxt "1220_Haruka"
+msgid "Thank you very much!"
+msgstr ""
+
+msgctxt "1232_dummy"
+msgid "What, no response?"
+msgstr ""
+
+msgctxt "1244_Haruka"
+msgid "Oh, I'm so sorry!"
+msgstr ""
+
+msgctxt "1256_Nomu-san"
+msgid "Now, where were we? Oh right, we were talking about you pouring me drinks."
+msgstr ""
+
+msgctxt "1268_Nomu-san"
+msgid ""
+"But if you were the one who was pouring, I bet I'd end up drinking way too "
+"much!"
+msgstr ""
+
+msgctxt "1280_Nomu-san"
+msgid "You're still too young, so you've never had a hangover, right?"
+msgstr ""
+
+msgctxt "1292_Haruka"
+msgid "That's right."
+msgstr ""
+
+msgctxt "1304_Nomu-san"
+msgid ""
+"Hangovers at my age are especially rough. That's why before I drink, I "
+"always have some of that stuff.... Hmm, what was it again?"
+msgstr ""
+
+msgctxt "1316_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "1328_Nomu-san"
+msgid "Darn. I just can't seem to remember. And you're no help either, Haruka-chan!"
+msgstr ""
+
+msgctxt "1340_Haruka"
+msgid "I'm sorry!"
+msgstr ""
+
+msgctxt "1352_Nomu-san"
+msgid ""
+"This may be your second time on the show, but we still don't click at all, "
+"do we?"
+msgstr ""
+
+msgctxt "1364_Haruka"
+msgid "Milk?"
+msgstr ""
+
+msgctxt "1376_Studio Audience"
+msgid "Ah!"
+msgstr ""
+
+msgctxt "1388_Nomu-san"
+msgid ""
+"Hmm. I have heard people say milk coats your stomach and keeps you from "
+"getting too drunk."
+msgstr ""
+
+msgctxt "1400_Nomu-san"
+msgid ""
+"But apparently that isn't true. Other people say milk doesn't really coat "
+"your stomach at all."
+msgstr ""
+
+msgctxt "1412_Studio Audience"
+msgid "Huh."
+msgstr ""
+
+msgctxt "1424_Haruka"
+msgid "Oh, I didn't know that."
+msgstr ""
+
+msgctxt "1436_Nomu-san"
+msgid "Hey, but that's why I recommend the hangover medicine, \"Before You Drink\"!"
+msgstr ""
+
+msgctxt "1448_Nomu-san"
+msgid "It works wonders, I tell ya!"
+msgstr ""
+
+msgctxt "1472_Haruka"
+msgid "Turmeric?"
+msgstr ""
+
+msgctxt "1484_Nomu-san"
+msgid ""
+"Yeah, I've heard turmeric can be helpful. But that's not what I was talking "
+"about."
+msgstr ""
+
+msgctxt "1496_Nomu-san"
+msgid "Oh, now I remember!"
+msgstr ""
+
+msgctxt "1508_Haruka"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "1520_Nomu-san"
+msgid ""
+"The hangover medicine from those TV commercials I'm on, \"Before You "
+"Drink\"! It works wonders, I tell ya!"
+msgstr ""
+
+msgctxt "1544_Haruka"
+msgid "Bloody something-or-other?"
+msgstr ""
+
+msgctxt "1556_Nomu-san"
+msgid "Now wait just a minute, Haruka-chan! Are you trying to curse on TV?"
+msgstr ""
+
+msgctxt "1580_dummy"
+msgid ""
+"What kind of language is that for a nice, young girl like you to use? You "
+"should apologize to our viewers!"
+msgstr ""
+
+msgctxt "1592_Haruka"
+msgid ""
+"I'm sorry! I wasn't trying to curse! I was trying to remember the name of a "
+"drink!"
+msgstr ""
+
+msgctxt "1616_dummy"
+msgid ""
+"Oh, you mean a Bloody Mary? Hair of the dog, and all that? Nah, that won't "
+"work! It'll just dehydrate you even more!"
+msgstr ""
+
+msgctxt "1640_dummy"
+msgid ""
+"Well, folks. It looks like we're just about out of time for today. Thanks "
+"for our chat, Haruka-chan!"
+msgstr ""
+
+msgctxt "1652_Studio Audience"
+msgid "Aww!"
+msgstr ""
+
+msgctxt "1664_Haruka"
+msgid "Thank you so much!"
+msgstr ""
+
+msgctxt "1676_Nomu-san"
+msgid "And now comes everybody's favorite part! It's time for the smile vote!"
+msgstr ""
+
+msgctxt "1688_Nomu-san"
+msgid ""
+"Each one of our audience members has a button in front of them. If they "
+"think Haruka-chan has been interesting, they'll press their button and give "
+"her a smile!"
+msgstr ""
+
+msgctxt "1700_Nomu-san"
+msgid ""
+"This time, if you get 75 smiles or more, I'll give you an exclusive "
+"Nomu-san cell phone strap!"
+msgstr ""
+
+msgctxt "1712_Nomu-san"
+msgid ""
+"Before the voting begins, why don't you go ahead and say something to the "
+"audience?"
+msgstr ""
+
+msgctxt "1724_Haruka"
+msgid "All right."
+msgstr ""
+
+msgctxt "1736_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "1748_Nomu-san"
+msgid "Well, come on, say something!"
+msgstr ""
+
+msgctxt "1772_dummy"
+msgid ""
+"Okay! Audience, if you thought Haruka-chan was interesting, press your "
+"button now!"
+msgstr ""
+
+msgctxt "1784_Haruka"
+msgid ""
+"I did pretty well today, don't you think? I tried my absolute best, so I "
+"hope you'll vote for me!"
+msgstr ""
+
+msgctxt "1796_Nomu-san"
+msgid "Hey, I tried my absolute best today, too!"
+msgstr ""
+
+msgctxt "1808_Nomu-san"
+msgid ""
+"Okay! Audience, if you thought Haruka-chan was interesting, press your "
+"button now!"
+msgstr ""
+
+msgctxt "1820_Haruka"
+msgid "Thank you for the support, everyone! I hope you vote for me!"
+msgstr ""
+
+msgctxt "1832_Nomu-san"
+msgid "Isn't she cute? I hope you all vote for her, too!"
+msgstr ""
+
+msgctxt "1844_Nomu-san"
+msgid ""
+"Okay! Audience, if you thought Haruka-chan was interesting, press your "
+"button now!"
+msgstr ""
+
+msgctxt "1856_Haruka"
+msgid ""
+"This has been so much fun! I really enjoyed spending time with all of you! "
+"I hope you vote for me!"
+msgstr ""
+
+msgctxt "1868_Nomu-san"
+msgid "Isn't she cute, everybody? I hope you all vote for her, too!"
+msgstr ""
+
+msgctxt "1880_Nomu-san"
+msgid ""
+"Okay! Audience, if you thought Haruka-chan was interesting, press your "
+"button now!"
+msgstr ""
+
+msgctxt "1904_dummy"
+msgid "Yeah!"
+msgstr ""
+
+msgctxt "1916_Nomu-san"
+msgid "Wow! Would you look at that! Isn't that great?"
+msgstr ""
+
+msgctxt "1940_dummy"
+msgid "Thank you very much!"
+msgstr ""
+
+msgctxt "1952_Nomu-san"
+msgid "Congratulations, Haruka-chan, you win the Nomu-san strap!"
+msgstr ""
+
+msgctxt "1964_Nomu-san"
+msgid "Well, until we meet again! What's that we always say? Love to see you..."
+msgstr ""
+
+msgctxt "1976_Studio Audience"
+msgid "Smile!"
+msgstr ""
+
+msgctxt "2000_dummy"
+msgid "Thank you, everybody!"
+msgstr ""
+
+msgctxt "2060_dummy"
+msgid "Yeah!"
+msgstr ""
+
+msgctxt "2072_Nomu-san"
+msgid "Good job, Haruka-chan! That means you get the Nomu-san strap!"
+msgstr ""
+
+msgctxt "2096_dummy"
+msgid "Thank you very much!"
+msgstr ""
+
+msgctxt "2108_Nomu-san"
+msgid "Well, until we meet again! What's that we always say? Love to see you..."
+msgstr ""
+
+msgctxt "2120_Studio Audience"
+msgid "Smile!"
+msgstr ""
+
+msgctxt "2144_dummy"
+msgid "Thank you, everybody!"
+msgstr ""
+
+msgctxt "2204_dummy"
+msgid "Aww!"
+msgstr ""
+
+msgctxt "2216_Nomu-san"
+msgid ""
+"Ahh. The result wasn't as high as we hoped, but I'm sure you'll do better "
+"next time!"
+msgstr ""
+
+msgctxt "2228_Haruka"
+msgid "Yes. Thank you."
+msgstr ""
+
+msgctxt "2240_Nomu-san"
+msgid "Well, until we meet again! What's that we always say? Love to see you..."
+msgstr ""
+
+msgctxt "2252_Studio Audience"
+msgid "Smile!"
+msgstr ""
+
+msgctxt "2276_dummy"
+msgid "Thank you, everybody!"
+msgstr ""

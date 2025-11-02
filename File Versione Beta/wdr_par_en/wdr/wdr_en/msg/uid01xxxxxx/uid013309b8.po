@@ -1,0 +1,344 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "172"
+msgid "Do you want to fish here?"
+msgstr ""
+
+msgctxt "11668"
+msgid "Start Fishing"
+msgstr ""
+
+msgctxt "11672"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "11676"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "11680"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "11684"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "11688"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "11692"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "11696"
+msgid "Fishing"
+msgstr ""
+
+msgctxt "11700"
+msgid "Read Instructions"
+msgstr ""
+
+msgctxt "11704"
+msgid "Don't Fish"
+msgstr ""
+
+msgctxt "11708"
+msgid "Player"
+msgstr ""
+
+msgctxt "11712"
+msgid "Keep Fishing"
+msgstr ""
+
+msgctxt "196_Kiryu"
+msgid "(Maybe I'll do some fishing.)"
+msgstr ""
+
+msgctxt "208_Akiyama"
+msgid "(A little fishing could be fun.)"
+msgstr ""
+
+msgctxt "220_Saejima"
+msgid "(Time for some fishin'.)"
+msgstr ""
+
+msgctxt "232_Shinada"
+msgid "(Think I'll take a fishing break.)"
+msgstr ""
+
+msgctxt "244_Haruka"
+msgid "(Yay, it's fishing time!)"
+msgstr ""
+
+msgctxt "280_Kiryu"
+msgid "(Not right now.)"
+msgstr ""
+
+msgctxt "292_Akiyama"
+msgid "(Maybe now's not the time.)"
+msgstr ""
+
+msgctxt "304_Saejima"
+msgid "(Some other time.)"
+msgstr ""
+
+msgctxt "316_Shinada"
+msgid "(Maybe I shouldn't right now.)"
+msgstr ""
+
+msgctxt "328_Haruka"
+msgid "(Maybe some other time.)"
+msgstr ""
+
+msgctxt "340_Fishing"
+msgid ""
+"Select your bait, then decide where to cast your line. Each type of bait "
+"has a different range of effect, and the fish won't bite if you use the "
+"wrong bait. Items in your possession that can be used as bait will be shown "
+"in a list."
+msgstr ""
+
+msgctxt "352_Fishing"
+msgid ""
+"The gauge shows where the most fish are. Use bait that is effective in "
+"those areas."
+msgstr ""
+
+msgctxt "364_Fishing"
+msgid ""
+"Once you cast your line, wait for a fish to bite. Watch the float "
+"carefully. As soon as it bobs down, press <Action:Button_Cross@Fishing_Sea> "
+"to quickly pull your pole up."
+msgstr ""
+
+msgctxt "376_Fishing"
+msgid ""
+"<Action:Button_R1@Fishing_Sea> reels in, while "
+"<Action:Button_L1@Fishing_Sea> adds slack.\r\n"
+"Pay attention to the Tension Gauge, and don't let the fish snap your "
+"line.\r\n"
+"Use "
+"<Action:Button_LS_Left@Fishing_Sea><Action:Button_LS_Right@Fishing_Sea>, "
+"following the movement of the fish. Use "
+"<Action:Button_LS_Up@Fishing_Sea><Action:Button_LS_Down@Fishing_Sea> to "
+"raise or lower the pole."
+msgstr ""
+
+msgctxt "388_Fishing"
+msgid ""
+"If you control the line's tension and completely reel it in, you will "
+"successfully catch the fish."
+msgstr ""
+
+msgctxt "412_Kiryu"
+msgid "(I bet there are lots of fish over there...)"
+msgstr ""
+
+msgctxt "424_Akiyama"
+msgid "(I bet I could catch some fish over there...)"
+msgstr ""
+
+msgctxt "436_Saejima"
+msgid "(Bet I could catch some fish over there...)"
+msgstr ""
+
+msgctxt "448_Shinada"
+msgid "(That looks like a good spot over there...)"
+msgstr ""
+
+msgctxt "460_Haruka"
+msgid "(Maybe there's some fish over there...)"
+msgstr ""
+
+msgctxt "508_Kiryu"
+msgid "(Okay, now for some bait. This is what I've got here...)"
+msgstr ""
+
+msgctxt "520_Akiyama"
+msgid "(What sort of bait should I use? Hmm... This is what I've got here.)"
+msgstr ""
+
+msgctxt "532_Saejima"
+msgid "(Now for some bait. This is what I got...)"
+msgstr ""
+
+msgctxt "544_Shinada"
+msgid "(Okay, time to bait up. Let's see what I have here...)"
+msgstr ""
+
+msgctxt "556_Haruka"
+msgid "(I guess I'll need some bait. Let's see what I have with me...)"
+msgstr ""
+
+msgctxt "592_Kiryu"
+msgid "(I'll check the instructions.)"
+msgstr ""
+
+msgctxt "604_Akiyama"
+msgid "(Maybe I should read the instructions.)"
+msgstr ""
+
+msgctxt "616_Saejima"
+msgid "(Better read the instructions.)"
+msgstr ""
+
+msgctxt "628_Shinada"
+msgid "(Let's take a look at those instructions.)"
+msgstr ""
+
+msgctxt "640_Haruka"
+msgid "(I better read the instructions.)"
+msgstr ""
+
+msgctxt "676_Kiryu"
+msgid "(Maybe later.)"
+msgstr ""
+
+msgctxt "688_Akiyama"
+msgid "(No, not now.)"
+msgstr ""
+
+msgctxt "700_Saejima"
+msgid "(Nah, not now.)"
+msgstr ""
+
+msgctxt "712_Shinada"
+msgid "(Maybe another time.)"
+msgstr ""
+
+msgctxt "724_Haruka"
+msgid "(Maybe later.)"
+msgstr ""
+
+msgctxt "760_Kiryu"
+msgid "(I didn't get a bite.)"
+msgstr ""
+
+msgctxt "772_Akiyama"
+msgid "(Looks like I didn't get a bite.)"
+msgstr ""
+
+msgctxt "784_Saejima"
+msgid "(They ain't bitin'.)"
+msgstr ""
+
+msgctxt "796_Shinada"
+msgid "(Guess I struck out.)"
+msgstr ""
+
+msgctxt "808_Haruka"
+msgid "(Hmm, didn't catch anything.)"
+msgstr ""
+
+msgctxt "844_Kiryu"
+msgid "(My cast was off.)"
+msgstr ""
+
+msgctxt "856_Akiyama"
+msgid "(Missed my mark.)"
+msgstr ""
+
+msgctxt "868_Saejima"
+msgid "(Bah, blew that cast.)"
+msgstr ""
+
+msgctxt "880_Shinada"
+msgid "(Guess I cast a foul.)"
+msgstr ""
+
+msgctxt "892_Haruka"
+msgid "(My cast didn't go where I wanted.)"
+msgstr ""
+
+msgctxt "928_Kiryu"
+msgid "(The line broke.)"
+msgstr ""
+
+msgctxt "940_Akiyama"
+msgid "(Looks like my line broke.)"
+msgstr ""
+
+msgctxt "952_Saejima"
+msgid "(The line broke.)"
+msgstr ""
+
+msgctxt "964_Shinada"
+msgid "(Great, my line broke.)"
+msgstr ""
+
+msgctxt "976_Haruka"
+msgid "(How come my line broke?)"
+msgstr ""
+
+msgctxt "1012_Kiryu"
+msgid "(The fish got away.)"
+msgstr ""
+
+msgctxt "1024_Akiyama"
+msgid "(Guess I lost that one.)"
+msgstr ""
+
+msgctxt "1036_Saejima"
+msgid "(It got away.)"
+msgstr ""
+
+msgctxt "1048_Shinada"
+msgid "(Looks like it got away.)"
+msgstr ""
+
+msgctxt "1060_Haruka"
+msgid "(Aw, it got away.)"
+msgstr ""
+
+msgctxt "1108_Kiryu"
+msgid "(I should use some new bait.)"
+msgstr ""
+
+msgctxt "1120_Akiyama"
+msgid "(Maybe I should try some new bait.)"
+msgstr ""
+
+msgctxt "1132_Saejima"
+msgid "(Lemme try some other kinda bait.)"
+msgstr ""
+
+msgctxt "1144_Shinada"
+msgid "(Time to switch up the bait.)"
+msgstr ""
+
+msgctxt "1156_Haruka"
+msgid "(Maybe a new kind of bait will work.)"
+msgstr ""
+
+msgctxt "1192_Kiryu"
+msgid "(That's enough for now.)"
+msgstr ""
+
+msgctxt "1204_Akiyama"
+msgid "(I've had enough fishing for now.)"
+msgstr ""
+
+msgctxt "1216_Saejima"
+msgid "(I'm gonna call it quits for now.)"
+msgstr ""
+
+msgctxt "1228_Shinada"
+msgid "(That's enough fishing for now.)"
+msgstr ""
+
+msgctxt "1240_Haruka"
+msgid "(I think I'll stop for now.)"
+msgstr ""

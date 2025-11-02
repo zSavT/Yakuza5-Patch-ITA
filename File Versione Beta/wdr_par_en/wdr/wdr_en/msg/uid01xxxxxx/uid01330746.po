@@ -1,0 +1,520 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "25760"
+msgid "Player"
+msgstr ""
+
+msgctxt "25764"
+msgid "Shion"
+msgstr ""
+
+msgctxt "25768"
+msgid "Play"
+msgstr ""
+
+msgctxt "25772"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "25776"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "25780"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "25784"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "25788"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "25792"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "25796"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "25800"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "25804"
+msgid "Riku"
+msgstr ""
+
+msgctxt "25808"
+msgid "Honoka"
+msgstr ""
+
+msgctxt "25812"
+msgid "Kaguya"
+msgstr ""
+
+msgctxt "25816"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "25820"
+msgid "Hinata"
+msgstr ""
+
+msgctxt "25824"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "25828"
+msgid "Accept the Challenge"
+msgstr ""
+
+msgctxt "25832"
+msgid "Not Right Now"
+msgstr ""
+
+msgctxt "25836"
+msgid "HAL_TLK_stand_unhappy"
+msgstr ""
+
+msgctxt "25840"
+msgid "HAL_TLK_stand_request02"
+msgstr ""
+
+msgctxt "25844"
+msgid "Play Alone"
+msgstr ""
+
+msgctxt "25848"
+msgid "Play with Haruka"
+msgstr ""
+
+msgctxt "25852"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "25856"
+msgid "Invite Someone"
+msgstr ""
+
+msgctxt "140_Player"
+msgid "(This was fun. Maybe I'll do something else now.)"
+msgstr ""
+
+msgctxt "152_Shion"
+msgid ""
+"Oh, I love Taiko No Tatsujin! <Color:255,200,200,255>♥<Color:Default>\r\n"
+"Let's play against each other!"
+msgstr ""
+
+msgctxt "164_Player"
+msgid "(A two-player game is 200 yen.)"
+msgstr ""
+
+msgctxt "200_Kiryu"
+msgid "(I don't have the money.)"
+msgstr ""
+
+msgctxt "212_Akiyama"
+msgid "(I don't have the money.)"
+msgstr ""
+
+msgctxt "224_Saejima"
+msgid "(I ain't got the money.)"
+msgstr ""
+
+msgctxt "236_Shinada"
+msgid "(I don't have enough money.)"
+msgstr ""
+
+msgctxt "248_Haruka"
+msgid "(I don't have enough money.)"
+msgstr ""
+
+msgctxt "284_Kiryu"
+msgid "(Sure, let's give it a go.)"
+msgstr ""
+
+msgctxt "296_Akiyama"
+msgid "(All right, let's give it a try.)"
+msgstr ""
+
+msgctxt "308_Saejima"
+msgid "(Yeah, let's give this a go.)"
+msgstr ""
+
+msgctxt "320_Shinada"
+msgid "(Okay, let's do this.)"
+msgstr ""
+
+msgctxt "332_Haruka"
+msgid "(All righty, here we go!)"
+msgstr ""
+
+msgctxt "368_Kiryu"
+msgid "(Maybe not.)"
+msgstr ""
+
+msgctxt "380_Akiyama"
+msgid "(No, let's not.)"
+msgstr ""
+
+msgctxt "392_Saejima"
+msgid "(Nah, better not.)"
+msgstr ""
+
+msgctxt "404_Shinada"
+msgid "(Maybe not.)"
+msgstr ""
+
+msgctxt "416_Haruka"
+msgid "(Maybe next time.)"
+msgstr ""
+
+msgctxt "440_Riku"
+msgid ""
+"That was wicked fun! Call me again sometime, okay? "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "488_Honoka"
+msgid ""
+"That was loads of fun! Please ask me out again sometime! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "536_Kaguya"
+msgid ""
+"That was a lot of fun! Please give me a call whenever you'd like! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "596_Shion"
+msgid "Shinada-san, you're so good at this! You definitely have my respect."
+msgstr ""
+
+msgctxt "608_Shion"
+msgid "Oh, I win! I knew I wouldn't lose to you, Shinada-san."
+msgstr ""
+
+msgctxt "620_Shion"
+msgid "How remarkable, it's a draw! I'll be sure to win next time!"
+msgstr ""
+
+msgctxt "644_Shion"
+msgid ""
+"That was such fun! Please do call me again sometime! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "692_Shion"
+msgid ""
+"That was such fun! Well, I must be on my way back to Tokyo now. "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "740_Hinata"
+msgid ""
+"That was super fun! Ask me out again sometime! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "788_Player"
+msgid ""
+"(Taiko No Tatsujin? It's 100 yen for a single player game. Maybe I should "
+"give it try.)"
+msgstr ""
+
+msgctxt "800_Haruka"
+msgid ""
+"Uncle Kaz, see if you can <Color:8>get at least 250,000 points in \"Nijiiro "
+"Yumeiro Taikoiro,\" on Normal difficulty!<Color:Default>"
+msgstr ""
+
+msgctxt "812_Kiryu"
+msgid ""
+"(Haruka wants to see me <Color:8>clear \"Nijiiro Yumeiro Taikoiro\" with at "
+"least 250,000 points, on Normal difficulty<Color:Default>.)"
+msgstr ""
+
+msgctxt "836_Haruka"
+msgid "Oh. Okay. Maybe next time then."
+msgstr ""
+
+msgctxt "872_Kiryu"
+msgid "(I don't have the money.)"
+msgstr ""
+
+msgctxt "884_Akiyama"
+msgid "(I don't have the money.)"
+msgstr ""
+
+msgctxt "896_Saejima"
+msgid "(I ain't got the money.)"
+msgstr ""
+
+msgctxt "908_Shinada"
+msgid "(I don't have enough money.)"
+msgstr ""
+
+msgctxt "920_Haruka"
+msgid "(I don't have enough money.)"
+msgstr ""
+
+msgctxt "956_Kiryu"
+msgid "(Sure, let's give it a go.)"
+msgstr ""
+
+msgctxt "968_Akiyama"
+msgid "(All right, let's give it a try.)"
+msgstr ""
+
+msgctxt "980_Saejima"
+msgid "(Yeah, let's give this a go.)"
+msgstr ""
+
+msgctxt "992_Shinada"
+msgid "(Okay, let's do this.)"
+msgstr ""
+
+msgctxt "1004_Haruka"
+msgid "(All righty, here we go!)"
+msgstr ""
+
+msgctxt "1016_Player"
+msgid "All right! Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "1052_Player"
+msgid ""
+"(Taiko No Tatsujin? It's 100 yen for a single player game and 200 for a "
+"two-player game. Maybe I should give it try.)\r\n"
+"　 \r\n"
+"　 "
+msgstr ""
+
+msgctxt "1088_Kiryu"
+msgid "(Sure, let's give it a shot.)"
+msgstr ""
+
+msgctxt "1136_Kiryu"
+msgid "All right, I'll play with Haruka."
+msgstr ""
+
+msgctxt "1160_Player"
+msgid "(I don't have enough money.)"
+msgstr ""
+
+msgctxt "1172_Kiryu"
+msgid "(Maybe not.)"
+msgstr ""
+
+msgctxt "1220_Player"
+msgid ""
+"(Taiko No Tatsujin? It's 100 yen for a single player game. Maybe I should "
+"give it try.)"
+msgstr ""
+
+msgctxt "1256_Kiryu"
+msgid "(Sure, let's give it a go.)"
+msgstr ""
+
+msgctxt "1268_Akiyama"
+msgid "(All right, let's give it a try.)"
+msgstr ""
+
+msgctxt "1280_Saejima"
+msgid "(Yeah, let's give this a go.)"
+msgstr ""
+
+msgctxt "1292_Shinada"
+msgid "(Okay, let's do this.)"
+msgstr ""
+
+msgctxt "1304_Haruka"
+msgid "(All righty, here we go!)"
+msgstr ""
+
+msgctxt "1328_Player"
+msgid "(I don't have enough money.)"
+msgstr ""
+
+msgctxt "1352_Kiryu"
+msgid "(Maybe not.)"
+msgstr ""
+
+msgctxt "1364_Akiyama"
+msgid "(No, let's not.)"
+msgstr ""
+
+msgctxt "1376_Saejima"
+msgid "(Nah, better not.)"
+msgstr ""
+
+msgctxt "1388_Shinada"
+msgid "(Maybe not.)"
+msgstr ""
+
+msgctxt "1400_Haruka"
+msgid "(Maybe next time.)"
+msgstr ""
+
+msgctxt "1424_Player"
+msgid "(Who should I call?)"
+msgstr ""
+
+msgctxt "1436_Player"
+msgid "(A two-player game is 200 yen.)"
+msgstr ""
+
+msgctxt "1460_Player"
+msgid "(I'll call up Riku.)"
+msgstr ""
+
+msgctxt "1472_Player"
+msgid "......"
+msgstr ""
+
+msgctxt "1532_Riku"
+msgid ""
+"Sorry to keep ya waitin'! <Color:255,200,200,255>♥<Color:Default> I'm gonna "
+"rock this game, just y'watch!"
+msgstr ""
+
+msgctxt "1544_Player"
+msgid "Well, want to get started?"
+msgstr ""
+
+msgctxt "1556_Player"
+msgid "(A two-player game is 200 yen.)"
+msgstr ""
+
+msgctxt "1580_Player"
+msgid "(Guess I'll give Kaguya a call.)"
+msgstr ""
+
+msgctxt "1592_Player"
+msgid "......"
+msgstr ""
+
+msgctxt "1652_Kaguya"
+msgid ""
+"Sorry to keep you waiting! I can definitely see you as a Taiko No Tatsujin "
+"person, Saejima-san. <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1664_Player"
+msgid "Yeah, well, wanna do this?"
+msgstr ""
+
+msgctxt "1676_Player"
+msgid "(A two-player game is 200 yen.)"
+msgstr ""
+
+msgctxt "1700_Player"
+msgid "(I should give Honoka-chan a call.)"
+msgstr ""
+
+msgctxt "1712_Player"
+msgid "......"
+msgstr ""
+
+msgctxt "1772_Honoka"
+msgid ""
+"Sorry for the wait! This was so out of the blue, Akiyama-san. Did ya not "
+"wanna play all alone?"
+msgstr ""
+
+msgctxt "1784_Player"
+msgid "Yeah. Want to get started?"
+msgstr ""
+
+msgctxt "1796_Player"
+msgid "(A two-player game is 200 yen.)"
+msgstr ""
+
+msgctxt "1820_Player"
+msgid "(Maybe I should give Shion-chan a call.)"
+msgstr ""
+
+msgctxt "1904_Shion"
+msgid ""
+"Apologies for the delay, Shinada-san! This was just so out of the blue. I'm "
+"afraid I'm not very good at video games, but I'll give it my best."
+msgstr ""
+
+msgctxt "1916_Player"
+msgid ""
+"It'll be fine! I'll teach you! <Color:255,200,200,255>♥<Color:Default> Come "
+"on, want to get started?"
+msgstr ""
+
+msgctxt "1928_Player"
+msgid "It's all right. Shall we begin?"
+msgstr ""
+
+msgctxt "1940_Shion"
+msgid "I was out in Tokyo, you know! Or had you forgotten about that?"
+msgstr ""
+
+msgctxt "1952_Player"
+msgid ""
+"Oh, uh... No, of course not! I thought it would be fun, that's all! Sorry "
+"about that!"
+msgstr ""
+
+msgctxt "1976_Player"
+msgid "(A two-player game is 200 yen.)"
+msgstr ""
+
+msgctxt "2000_Player"
+msgid "(I'll call up Hinata.)"
+msgstr ""
+
+msgctxt "2012_Player"
+msgid "......"
+msgstr ""
+
+msgctxt "2072_Hinata"
+msgid ""
+"Sorry for the wait! I'm really good at rhythm games, just so you know! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "2084_Player"
+msgid "Want to get started?"
+msgstr ""
+
+msgctxt "2096_Player"
+msgid "(A two-player game is 200 yen.)"
+msgstr ""
+
+msgctxt "2120_Player"
+msgid "(I'll give Hinata-chan a call.)"
+msgstr ""
+
+msgctxt "2132_Player"
+msgid "......"
+msgstr ""
+
+msgctxt "2192_Hinata"
+msgid "Sorry to keep you waiting."
+msgstr ""
+
+msgctxt "2204_Player"
+msgid "It's all right. Shall we begin?"
+msgstr ""

@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1196"
+msgid "Player"
+msgstr ""
+
+msgctxt "1200"
+msgid "Play"
+msgstr ""
+
+msgctxt "1204"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "60_Player"
+msgid "(The Advanced Course costs 300 yen to play. Should I give it a go?)"
+msgstr ""
+
+msgctxt "84_Player"
+msgid "(Oops. I'm too broke.)"
+msgstr ""
+
+msgctxt "96_Player"
+msgid "(Okay, let's smack some balls.)"
+msgstr ""
+
+msgctxt "120_Player"
+msgid "(Nope. Not now.)"
+msgstr ""
+
+msgctxt "132_Player"
+msgid "(The level's too high. It's a bit more than I can handle now.)"
+msgstr ""

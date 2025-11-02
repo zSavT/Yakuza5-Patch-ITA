@@ -1,0 +1,312 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "412"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr ""
+
+msgctxt "472"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round when you are "
+"playing cho-han.\r\n"
+" "
+msgstr ""
+
+msgctxt "520"
+msgid "You got <Color:8>Haruka's Lunch<Color:Default>."
+msgstr ""
+
+msgctxt "580"
+msgid "You got <Color:8>Haruka's First-Aid Kit<Color:Default>."
+msgstr ""
+
+msgctxt "640"
+msgid "You got <Color:8>Red Jewel<Color:Default>."
+msgstr ""
+
+msgctxt "700"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr ""
+
+msgctxt "760"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr ""
+
+msgctxt "820"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr ""
+
+msgctxt "928"
+msgid "You got <Color:8>Morning Glory Belly Warmer<Color:Default>."
+msgstr ""
+
+msgctxt "14560"
+msgid "Staff"
+msgstr ""
+
+msgctxt "14564"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "14568"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "14572"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "14576"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "14580"
+msgid "dummy"
+msgstr ""
+
+msgctxt "14584"
+msgid "HAL_TLK_stand_smile"
+msgstr ""
+
+msgctxt "14588"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "14592"
+msgid "HAL_TLK_sitchr_eat_spoon_min"
+msgstr ""
+
+msgctxt "14596"
+msgid "P_TLK_sitchr_yes"
+msgstr ""
+
+msgctxt "14600"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "14604"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "14608"
+msgid "Player"
+msgstr ""
+
+msgctxt "14612"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "14616"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "14620"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "14624"
+msgid "P_TLK_sitchr_kamae"
+msgstr ""
+
+msgctxt "14628"
+msgid "0"
+msgstr ""
+
+msgctxt "14632"
+msgid "Idle"
+msgstr ""
+
+msgctxt "88_Staff"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "100_Haruka"
+msgid "Uncle Kaz! That <Color:8>Gyoza Curry<Color:Default> looks good!"
+msgstr ""
+
+msgctxt "112_Kiryu"
+msgid "(Hmm. Looks like Haruka wants some <Color:8>Gyoza Curry<Color:Default>.)"
+msgstr ""
+
+msgctxt "136_Haruka"
+msgid "Aww, don't you want some <Color:8>Gyoza Curry<Color:Default>?"
+msgstr ""
+
+msgctxt "148_Staff"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "172_Haruka"
+msgid "Thanks, Uncle Kaz! I can't wait to dig in!"
+msgstr ""
+
+msgctxt "316_Haruka"
+msgid "Thanks for treating me!"
+msgstr ""
+
+msgctxt "328_Staff"
+msgid "(Haruka sure seems happy.)"
+msgstr ""
+
+msgctxt "400_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! This is for you!\r\n"
+" "
+msgstr ""
+
+msgctxt "460_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come play cho-han with you next time, "
+"okay?\r\n"
+" "
+msgstr ""
+
+msgctxt "508_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I have a present for you!\r\n"
+" "
+msgstr ""
+
+msgctxt "568_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "628_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "688_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "748_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "808_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "904_Haruka"
+msgid ""
+"Thanks for doing all that stuff for me, Uncle Kaz!\r\n"
+" "
+msgstr ""
+
+msgctxt "916_Staff"
+msgid ""
+"Here, this is a special present, just for you!\r\n"
+" "
+msgstr ""
+
+msgctxt "940_Haruka"
+msgid "Thanks, Uncle Kaz! I love you!"
+msgstr ""
+
+msgctxt "976_Staff"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "1000_Staff"
+msgid "Welcome. Please have a seat."
+msgstr ""
+
+msgctxt "1036_Player"
+msgid "(I'm out of cash.)"
+msgstr ""
+
+msgctxt "1060_Staff"
+msgid "(I don't need to eat right now.)"
+msgstr ""
+
+msgctxt "1084_Kiryu"
+msgid "Sorry. Something came up."
+msgstr ""
+
+msgctxt "1096_Akiyama"
+msgid "Excuse me. I've got an urgent errand."
+msgstr ""
+
+msgctxt "1108_Saejima"
+msgid "Sorry. Gotta run."
+msgstr ""
+
+msgctxt "1120_Shinada"
+msgid "Sorry, I forgot I had to do something."
+msgstr ""
+
+msgctxt "1132_Haruka"
+msgid "I'm so sorry. I have to go."
+msgstr ""
+
+msgctxt "1144_Staff"
+msgid "That's fine. We await your next visit."
+msgstr ""
+
+msgctxt "1216_Kiryu"
+msgid "(What should I eat?)"
+msgstr ""
+
+msgctxt "1228_Akiyama"
+msgid "(What should I get?)"
+msgstr ""
+
+msgctxt "1240_Saejima"
+msgid "(What do I wanna eat?)"
+msgstr ""
+
+msgctxt "1252_Shinada"
+msgid "(Okay, what do I want to get?)"
+msgstr ""
+
+msgctxt "1264_Haruka"
+msgid "(Hmmm. I wonder what's good?)"
+msgstr ""
+
+msgctxt "1312_Kiryu"
+msgid "(Maybe I should go.)"
+msgstr ""
+
+msgctxt "1324_Akiyama"
+msgid "(Guess I should go.)"
+msgstr ""
+
+msgctxt "1336_Saejima"
+msgid "(Maybe I oughta go.)"
+msgstr ""
+
+msgctxt "1348_Shinada"
+msgid "(Should I go?)"
+msgstr ""
+
+msgctxt "1360_Haruka"
+msgid "(I suppose I ought to go.)"
+msgstr ""
+
+msgctxt "1408_Staff"
+msgid "Here's your check."
+msgstr ""
+
+msgctxt "1432_Staff"
+msgid "Thank you very much. We hope you'll come again."
+msgstr ""

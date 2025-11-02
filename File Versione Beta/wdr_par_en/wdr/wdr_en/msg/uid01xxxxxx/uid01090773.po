@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "224"
+msgid "You used a <Color:8>Trap Repair Kit<Color:Default>."
+msgstr ""
+
+msgctxt "2240"
+msgid "Player"
+msgstr ""
+
+msgctxt "2244"
+msgid "Pick Up Trap"
+msgstr ""
+
+msgctxt "2248"
+msgid "Repair Trap"
+msgstr ""
+
+msgctxt "2252"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "2256"
+msgid "SS2_P_HNT_set_trap"
+msgstr ""
+
+msgctxt "44_Player"
+msgid "(The trap's busted.)"
+msgstr ""
+
+msgctxt "56_Player"
+msgid "(It's busted. I'll pull it up and chuck it out.)"
+msgstr ""
+
+msgctxt "128_Player"
+msgid "(That'll do it.)"
+msgstr ""
+
+msgctxt "152_Player"
+msgid "(This can be repaired.)"
+msgstr ""
+
+msgctxt "248_Player"
+msgid "That'll do it."
+msgstr ""
+
+msgctxt "260_Player"
+msgid "(Got no trap repair kit.)"
+msgstr ""
+
+msgctxt "272_Player"
+msgid "(I'll just leave it for now.)"
+msgstr ""

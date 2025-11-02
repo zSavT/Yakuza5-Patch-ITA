@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2864"
+msgid "Greedy Shima"
+msgstr ""
+
+msgctxt "380_Greedy Shima"
+msgid "First, we pick the banker."
+msgstr ""
+
+msgctxt "392_Greedy Shima"
+msgid "I'm the banker."
+msgstr ""
+
+msgctxt "404_Greedy Shima"
+msgid "How much you gonna wager?"
+msgstr ""
+
+msgctxt "416_Greedy Shima"
+msgid "All right, here goes."
+msgstr ""
+
+msgctxt "428_Greedy Shima"
+msgid "My turn."
+msgstr ""
+
+msgctxt "440_Greedy Shima"
+msgid "(This line should not appear.)"
+msgstr ""
+
+msgctxt "452_Greedy Shima"
+msgid "Let's settle our bets."
+msgstr ""
+
+msgctxt "464_Greedy Shima"
+msgid "You're the banker."
+msgstr ""
+
+msgctxt "476_Greedy Shima"
+msgid "Now we're gonna switch bankers."
+msgstr ""
+
+msgctxt "488_Greedy Shima"
+msgid "Wanna play again?"
+msgstr ""
+
+msgctxt "500_Greedy Shima"
+msgid "That's it for me. I'm outta here..."
+msgstr ""
+
+msgctxt "512_Greedy Shima"
+msgid ""
+"Ya couldn't bet more even if ya wanted to. Come back when you got some more "
+"dough."
+msgstr ""
+
+msgctxt "524_Greedy Shima"
+msgid "Banker's Bet-Settling Messages"
+msgstr ""
+
+msgctxt "536_Greedy Shima"
+msgid "A banker rollin' 1-3-5 gets a 3."
+msgstr ""
+
+msgctxt "548_Greedy Shima"
+msgid "A 1-3-5 by the first player gets a 3."
+msgstr ""
+
+msgctxt "560_Greedy Shima"
+msgid "A 1-3-5 gets what the previous player rolled."
+msgstr ""
+
+msgctxt "572_Greedy Shima"
+msgid "A banker rollin' 2-4-6 gets a 4."
+msgstr ""
+
+msgctxt "584_Greedy Shima"
+msgid "A 2-4-6 changes to what the next player rolls."
+msgstr ""
+
+msgctxt "596_Greedy Shima"
+msgid "A 2-4-6 by the last player gets a 4."
+msgstr ""
+
+msgctxt "608_Greedy Shima"
+msgid "A 2-4-6 roll gets the last player's roll!"
+msgstr ""
+
+msgctxt "620_Greedy Shima"
+msgid "A 1-3-5 was rolled after a 2-4-6."
+msgstr ""
+
+msgctxt "632_Greedy Shima"
+msgid "A 6-3-4! Well, how d'ya like that?"
+msgstr ""

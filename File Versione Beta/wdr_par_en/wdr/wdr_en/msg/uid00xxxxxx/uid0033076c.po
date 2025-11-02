@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2764"
+msgid "Player"
+msgstr ""
+
+msgctxt "2768"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2772"
+msgid "Kinei Taxi"
+msgstr ""
+
+msgctxt "76_Player"
+msgid "(First, I need to get to Uno-san!)"
+msgstr ""
+
+msgctxt "88_Player"
+msgid "(I don't need a taxi right now. Besides, I shouldn't waste money.)"
+msgstr ""
+
+msgctxt "124_Player"
+msgid "(I can't afford the fare. Better scrounge up 480 yen...)"
+msgstr ""
+
+msgctxt "136_Kinei Taxi"
+msgid "The base fare is 480 yen. Where to?"
+msgstr ""
+
+msgctxt "172_Kinei Taxi"
+msgid "Very well, sir."
+msgstr ""
+
+msgctxt "256_Kinei Taxi"
+msgid "I'm afraid you don't have enough money, sir. Please come again when you do."
+msgstr ""
+
+msgctxt "268_Kinei Taxi"
+msgid "Please come again soon."
+msgstr ""
+
+msgctxt "304_Kinei Taxi"
+msgid "Another city? Of course, sir."
+msgstr ""

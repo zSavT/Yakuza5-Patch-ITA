@@ -1,0 +1,412 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "12152"
+msgid "Politician"
+msgstr ""
+
+msgctxt "12156"
+msgid "SS1_M_NML_TAX_no"
+msgstr ""
+
+msgctxt "12160"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "12164"
+msgid "SS1_P_TAX_nod_A"
+msgstr ""
+
+msgctxt "12168"
+msgid "SS1_M_NML_TAX_look_kiryu_st"
+msgstr ""
+
+msgctxt "12172"
+msgid "You, of course."
+msgstr ""
+
+msgctxt "12176"
+msgid "I only moved here six months ago."
+msgstr ""
+
+msgctxt "12180"
+msgid "I'm not all that interested in politics."
+msgstr ""
+
+msgctxt "12184"
+msgid "SS1_M_NML_TAX_look_kiryu_ed"
+msgstr ""
+
+msgctxt "12188"
+msgid "SS1_M_NML_TAX_laugh"
+msgstr ""
+
+msgctxt "12192"
+msgid "SS1_M_NML_TAX_idle"
+msgstr ""
+
+msgctxt "12196"
+msgid "SS1_P_TAX_no"
+msgstr ""
+
+msgctxt "12200"
+msgid "SS1_M_NML_TAX_angry"
+msgstr ""
+
+msgctxt "12204"
+msgid "SS1_P_TAX_sad"
+msgstr ""
+
+msgctxt "12208"
+msgid "SS1_M_NML_TAX_nod"
+msgstr ""
+
+msgctxt "12212"
+msgid "SS1_M_NML_TAX_sad"
+msgstr ""
+
+msgctxt "12216"
+msgid "SS1_M_NML_TAX_sigh"
+msgstr ""
+
+msgctxt "12220"
+msgid "You beat some sense into them."
+msgstr ""
+
+msgctxt "12224"
+msgid "You cater to their tastes."
+msgstr ""
+
+msgctxt "12228"
+msgid "You should be listening to them."
+msgstr ""
+
+msgctxt "12232"
+msgid "SS1_P_TAX_question"
+msgstr ""
+
+msgctxt "12236"
+msgid "I don't take tips like that."
+msgstr ""
+
+msgctxt "12240"
+msgid "That depends on how big the tip is."
+msgstr ""
+
+msgctxt "12244"
+msgid "I'll take the tip, but my vote can't be bought."
+msgstr ""
+
+msgctxt "12248"
+msgid "SS1_P_TAX_idle_hearing"
+msgstr ""
+
+msgctxt "12252"
+msgid "SS1_M_NML_TAX_question"
+msgstr ""
+
+msgctxt "44_Politician"
+msgid "Phew. Going out to meet supporters sure is tiring."
+msgstr ""
+
+msgctxt "56_Kiryu"
+msgid "That does sound tough."
+msgstr ""
+
+msgctxt "68_Politician"
+msgid ""
+"Yes, but it's my electorate, so what can you do? Who did you vote for in "
+"the last election?"
+msgstr ""
+
+msgctxt "80_Politician"
+msgid "You, of course."
+msgstr ""
+
+msgctxt "92_Politician"
+msgid "Oh yeah? Good to hear it. Which of my policies do you support?"
+msgstr ""
+
+msgctxt "104_Kiryu"
+msgid "Well, uh..."
+msgstr ""
+
+msgctxt "116_Politician"
+msgid "You didn't really vote for me, did you?"
+msgstr ""
+
+msgctxt "128_Kiryu"
+msgid "No. I'm afraid I only moved here six months ago."
+msgstr ""
+
+msgctxt "140_Politician"
+msgid "Hmph. You've got some cheek, lying to my face like that!"
+msgstr ""
+
+msgctxt "152_Kiryu"
+msgid "(Looks like I made him angry.)"
+msgstr ""
+
+msgctxt "164_Politician"
+msgid "I'm afraid I only moved here six months ago."
+msgstr ""
+
+msgctxt "176_Politician"
+msgid ""
+"Oh yeah? With so many people leaving these days, it's always good to see "
+"new blood moving in."
+msgstr ""
+
+msgctxt "188_Politician"
+msgid "I hope you pump some new life into Fukuoka!"
+msgstr ""
+
+msgctxt "200_Kiryu"
+msgid "(He looks pleased.)"
+msgstr ""
+
+msgctxt "212_Politician"
+msgid "I'm not all that interested in politics."
+msgstr ""
+
+msgctxt "224_Politician"
+msgid "Well, at least you're honest. That said..."
+msgstr ""
+
+msgctxt "236_Politician"
+msgid ""
+"You really should read up a little more. You need to be able to discuss all "
+"kinds of things in your job."
+msgstr ""
+
+msgctxt "248_Kiryu"
+msgid "You're right. I'll brush up."
+msgstr ""
+
+msgctxt "260_Politician"
+msgid "I'm thinking about incorporating ideas from the public in my campaign."
+msgstr ""
+
+msgctxt "272_Politician"
+msgid "What do you think the biggest problem is today?"
+msgstr ""
+
+msgctxt "284_Kiryu"
+msgid ""
+"Hmm. I do think it's harder for young people to hold onto their hopes and "
+"dreams these days."
+msgstr ""
+
+msgctxt "296_Politician"
+msgid ""
+"Right. That worries me, as well. There's too many kids out fooling around "
+"instead of working."
+msgstr ""
+
+msgctxt "308_Politician"
+msgid ""
+"But I don't know what they're thinking, and they don't seem to want to "
+"listen to adults like me."
+msgstr ""
+
+msgctxt "320_Politician"
+msgid "What do you do when young people aren't even willing to hear you out?"
+msgstr ""
+
+msgctxt "332_Politician"
+msgid "If they won't listen to you, why not beat some sense into them?"
+msgstr ""
+
+msgctxt "344_Politician"
+msgid "That'll only make things worse. They'll turn their backs on us completely."
+msgstr ""
+
+msgctxt "356_Politician"
+msgid "These days most kids have never even had a spanking from their parents."
+msgstr ""
+
+msgctxt "368_Politician"
+msgid "It doesn't seem like your idea is very realistic."
+msgstr ""
+
+msgctxt "380_Kiryu"
+msgid "Hmm."
+msgstr ""
+
+msgctxt "392_Politician"
+msgid "Maybe you could present yourself in a way that caters to their tastes?"
+msgstr ""
+
+msgctxt "404_Politician"
+msgid "Hmm. That's a point, but I don't know..."
+msgstr ""
+
+msgctxt "416_Politician"
+msgid ""
+"Politics should be genuine, not just a performance. Putting on an act "
+"solves nothing."
+msgstr ""
+
+msgctxt "428_Kiryu"
+msgid "I see. It is tricky."
+msgstr ""
+
+msgctxt "440_Politician"
+msgid "How about listening to them first?"
+msgstr ""
+
+msgctxt "452_Politician"
+msgid "Huh? You think I should listen to young people?"
+msgstr ""
+
+msgctxt "464_Kiryu"
+msgid ""
+"You complain that they don't hear you out, but have you been giving them a "
+"voice to speak with?"
+msgstr ""
+
+msgctxt "476_Politician"
+msgid ""
+"Now that you mention it, I don't remember talking to many young people in "
+"the past."
+msgstr ""
+
+msgctxt "488_Politician"
+msgid ""
+"But we're just not on the same wavelength. It's like they're a whole "
+"different species."
+msgstr ""
+
+msgctxt "500_Kiryu"
+msgid ""
+"When you were young, didn't you get sick of being ignored by those who were "
+"older than you?"
+msgstr ""
+
+msgctxt "512_Politician"
+msgid ""
+"Well, I did do my fair share of partying. That never went down well with my "
+"parents."
+msgstr ""
+
+msgctxt "524_Politician"
+msgid "When I think about it, maybe the youth of today aren't so different from me."
+msgstr ""
+
+msgctxt "536_Politician"
+msgid ""
+"All right! I'll try giving them a chance to share their opinions and hear "
+"them out."
+msgstr ""
+
+msgctxt "548_Politician"
+msgid "Then maybe they'll be more willing to listen to me as well!"
+msgstr ""
+
+msgctxt "560_Politician"
+msgid "I like the way you think, driver! Thanks for the tip!"
+msgstr ""
+
+msgctxt "572_Kiryu"
+msgid "Happy to be of service."
+msgstr ""
+
+msgctxt "584_Politician"
+msgid ""
+"Thank you for the ride. I'll give you a big tip if you promise to back me "
+"in the election."
+msgstr ""
+
+msgctxt "596_Politician"
+msgid "I don't take tips like that."
+msgstr ""
+
+msgctxt "608_Kiryu"
+msgid "Tips are supposed to be a gesture of appreciation."
+msgstr ""
+
+msgctxt "620_Politician"
+msgid "Ha. You're straight as an arrow, aren't you?"
+msgstr ""
+
+msgctxt "632_Politician"
+msgid ""
+"If there were more people like you around here, there might actually be "
+"some hope for this country."
+msgstr ""
+
+msgctxt "644_Politician"
+msgid "That depends on how big the tip is."
+msgstr ""
+
+msgctxt "656_Politician"
+msgid "Hmm. How much are we talking?"
+msgstr ""
+
+msgctxt "668_Kiryu"
+msgid "For my vote? 10,000 yen."
+msgstr ""
+
+msgctxt "680_Politician"
+msgid "Ha! Don't make me laugh."
+msgstr ""
+
+msgctxt "692_Politician"
+msgid ""
+"I'm always curious to see whether guys like you would take a bribe or turn "
+"it down. That's the only reason I said that."
+msgstr ""
+
+msgctxt "704_Politician"
+msgid "I picked you as someone who couldn't be bought. I guess I was wrong, though."
+msgstr ""
+
+msgctxt "716_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "728_Politician"
+msgid "I'll take the tip, but my vote can't be bought."
+msgstr ""
+
+msgctxt "740_Politician"
+msgid "What?"
+msgstr ""
+
+msgctxt "752_Kiryu"
+msgid "If I voted for you, it could be seen as bribery."
+msgstr ""
+
+msgctxt "764_Politician"
+msgid "Well, if you feel that way, you should just turn down the tip altogether."
+msgstr ""
+
+msgctxt "776_Kiryu"
+msgid "Hm."
+msgstr ""
+
+msgctxt "788_Politician"
+msgid ""
+"I'm always curious to see whether guys like you would take a bribe or turn "
+"it down. That's the only reason I said that."
+msgstr ""
+
+msgctxt "800_Politician"
+msgid ""
+"I picked you as someone who would turn me down flat. I guess I was wrong, "
+"though."
+msgstr ""
+
+msgctxt "812_Kiryu"
+msgid "......"
+msgstr ""

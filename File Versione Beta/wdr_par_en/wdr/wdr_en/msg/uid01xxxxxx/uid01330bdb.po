@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "128"
+msgid "%s"
+msgstr ""
+
+msgctxt "1772"
+msgid "Player"
+msgstr ""
+
+msgctxt "1776"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1780"
+msgid "M_NML_SET_stand_camera_kamae"
+msgstr ""
+
+msgctxt "1784"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1788"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "1792"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "1796"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "1800"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "1804"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "68_Kiryu"
+msgid "(This is a nice spot.)"
+msgstr ""
+
+msgctxt "80_Akiyama"
+msgid "(This is a nice spot.)"
+msgstr ""
+
+msgctxt "92_Saejima"
+msgid "(Pretty good scenery here.)"
+msgstr ""
+
+msgctxt "104_Shinada"
+msgid "(This is a nice spot.)"
+msgstr ""
+
+msgctxt "116_Haruka"
+msgid "(I like this scenery!)"
+msgstr ""
+
+msgctxt "152_Kiryu"
+msgid "(Yeah, this is a good shot.)"
+msgstr ""
+
+msgctxt "164_Akiyama"
+msgid "(A pretty good photo, I think.)"
+msgstr ""
+
+msgctxt "176_Saejima"
+msgid "(This shot ain't bad.)"
+msgstr ""
+
+msgctxt "188_Shinada"
+msgid "(A pretty good photo, I think.)"
+msgstr ""
+
+msgctxt "200_Haruka"
+msgid "(This photo looks great!)"
+msgstr ""

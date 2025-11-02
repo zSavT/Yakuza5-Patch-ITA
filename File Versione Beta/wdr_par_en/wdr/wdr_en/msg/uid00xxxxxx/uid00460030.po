@@ -1,0 +1,736 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "31636"
+msgid "Yuiko"
+msgstr ""
+
+msgctxt "31640"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "31644"
+msgid "P_AKI_TLK_stand_yes"
+msgstr ""
+
+msgctxt "31648"
+msgid "F_YNG_TLK_stand_kansin"
+msgstr ""
+
+msgctxt "31652"
+msgid "P_AKI_TLK_stand_smile"
+msgstr ""
+
+msgctxt "31656"
+msgid "P_AKI_TLK_stand_surp"
+msgstr ""
+
+msgctxt "31660"
+msgid "F_YNG_TLK_stand_nobig"
+msgstr ""
+
+msgctxt "31664"
+msgid "P_AKI_TLK_stand_think"
+msgstr ""
+
+msgctxt "31668"
+msgid "F_YNG_TLK_stand_quest"
+msgstr ""
+
+msgctxt "31672"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "31676"
+msgid "F_YNG_TLK_stand_gakkari"
+msgstr ""
+
+msgctxt "31680"
+msgid "P_AKI_TLK_stand_gakkari"
+msgstr ""
+
+msgctxt "31684"
+msgid "P_AKI_TLK_stand_request"
+msgstr ""
+
+msgctxt "31688"
+msgid "P_TLK_stand_no"
+msgstr ""
+
+msgctxt "31692"
+msgid "P_AKI_TLK_stand_no"
+msgstr ""
+
+msgctxt "31696"
+msgid "P_TLK_stand_yes"
+msgstr ""
+
+msgctxt "31700"
+msgid "P_AKI_TLK_stand_ok"
+msgstr ""
+
+msgctxt "31704"
+msgid "Riku"
+msgstr ""
+
+msgctxt "31708"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "31712"
+msgid "P_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "31716"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "31720"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "31724"
+msgid "Kaguya"
+msgstr ""
+
+msgctxt "31728"
+msgid "P_SAE_TLK_stand_no"
+msgstr ""
+
+msgctxt "31732"
+msgid "Honoka"
+msgstr ""
+
+msgctxt "31736"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "31740"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "31744"
+msgid "Shion"
+msgstr ""
+
+msgctxt "31748"
+msgid "P_SIN_TLK_stand_no"
+msgstr ""
+
+msgctxt "31752"
+msgid "P_AKI_TLK_stand_ase"
+msgstr ""
+
+msgctxt "31756"
+msgid "P_AKI_TLK_stand_angry"
+msgstr ""
+
+msgctxt "31760"
+msgid "F_YNG_TLK_stand_yes"
+msgstr ""
+
+msgctxt "31764"
+msgid "F_YNG_TLK_stand_ok"
+msgstr ""
+
+msgctxt "31768"
+msgid "P_aki_stand_nml_turnr90"
+msgstr ""
+
+msgctxt "31772"
+msgid "P_AKI_TLK_stand_quest"
+msgstr ""
+
+msgctxt "31776"
+msgid "F_YNG_TLK_stand_ase"
+msgstr ""
+
+msgctxt "31780"
+msgid "F_YNG_TLK_stand_no"
+msgstr ""
+
+msgctxt "31784"
+msgid "P_AKI_TLK_stand_nobig"
+msgstr ""
+
+msgctxt "31788"
+msgid "P_AKI_TLK_stand_info_f"
+msgstr ""
+
+msgctxt "192_Yuiko"
+msgid "Sir, thanks to you, business is booming once again!"
+msgstr ""
+
+msgctxt "204_Akiyama"
+msgid ""
+"Nah, it's all thanks to the top-class girls we got, from all over the "
+"country."
+msgstr ""
+
+msgctxt "216_Akiyama"
+msgid ""
+"But they're just here temporarily. We need to make sure we can keep "
+"ourselves running even after they're gone."
+msgstr ""
+
+msgctxt "228_Yuiko"
+msgid "Yes, about that!"
+msgstr ""
+
+msgctxt "240_Yuiko"
+msgid ""
+"Our new girl has finally finished her training and is ready for work in the "
+"club!"
+msgstr ""
+
+msgctxt "252_Akiyama"
+msgid "Oh, hey, really?"
+msgstr ""
+
+msgctxt "264_Yuiko"
+msgid ""
+"Yessir! Not only is she a real looker, she's smart and a gifted "
+"conversationalist."
+msgstr ""
+
+msgctxt "276_Yuiko"
+msgid ""
+"To top it all off, she's super motivated, too! It's like she was born to be "
+"a hostess!"
+msgstr ""
+
+msgctxt "288_Akiyama"
+msgid "Sounds great. Her training sure took a lot of time, though."
+msgstr ""
+
+msgctxt "300_Yuiko"
+msgid "Yes, she just happens to have a rather... difficult personality. That's all."
+msgstr ""
+
+msgctxt "312_Akiyama"
+msgid "Meaning what, exactly?"
+msgstr ""
+
+msgctxt "324_Yuiko"
+msgid ""
+"Oh, never you mind that! Once she's out there with actual customers, I'm "
+"sure she'll be just fine!"
+msgstr ""
+
+msgctxt "336_Akiyama"
+msgid "Hmm. If you say so."
+msgstr ""
+
+msgctxt "348_Yuiko"
+msgid "Is everything okay, sir? You seem worried still."
+msgstr ""
+
+msgctxt "360_Akiyama"
+msgid "(I hope nothing bad happens.)"
+msgstr ""
+
+msgctxt "384_Akiyama"
+msgid ""
+"Kiryu-san, I hate to do this to you, but I have one more thing I need to "
+"ask of you."
+msgstr ""
+
+msgctxt "396_Kiryu"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "408_Akiyama"
+msgid ""
+"Can you be a client for our new girl and see if she's really fit to be the "
+"face of my club? No, of all Kamurocho?"
+msgstr ""
+
+msgctxt "420_Kiryu"
+msgid "What? Why me?"
+msgstr ""
+
+msgctxt "432_Yuiko"
+msgid "Why indeed, sir? I assure you she's ready."
+msgstr ""
+
+msgctxt "444_Akiyama"
+msgid ""
+"I need more than that. Any girl can chat and drink with clients. If that's "
+"all we offer, we're sunk."
+msgstr ""
+
+msgctxt "456_Akiyama"
+msgid ""
+"I want to change the very idea of what both men and women think of when "
+"they hear the words \"cabaret club.\""
+msgstr ""
+
+msgctxt "468_Yuiko"
+msgid "Sir, you're not making much sense right now."
+msgstr ""
+
+msgctxt "480_Akiyama"
+msgid ""
+"Kiryu-san, you're the only one who knows Kamurocho well enough to know if "
+"this girl is suited to be our star."
+msgstr ""
+
+msgctxt "492_Kiryu"
+msgid "I get what you're going for here, but I'm not sure now is the best time."
+msgstr ""
+
+msgctxt "504_Akiyama"
+msgid ""
+"That's a good point. And what would dear little Haruka-chan think if she "
+"knew you were messing around in a cabaret club at a time like this?"
+msgstr ""
+
+msgctxt "516_Kiryu"
+msgid "Akiyama, you'd better not－"
+msgstr ""
+
+msgctxt "528_Akiyama"
+msgid ""
+"I just thought you'd be on board with this, since you've been a regular at "
+"our club. But never mind. Forget I said anything."
+msgstr ""
+
+msgctxt "540_Kiryu"
+msgid "Hey, not a word about any of this to Haruka, you hear me?"
+msgstr ""
+
+msgctxt "552_Akiyama"
+msgid "Of course not. We always ensure our customers' privacy."
+msgstr ""
+
+msgctxt "564_Akiyama"
+msgid "Then again, if you're not our customer..."
+msgstr ""
+
+msgctxt "576_Yuiko"
+msgid "Ouch, sir. That's playing dirty."
+msgstr ""
+
+msgctxt "588_Kiryu"
+msgid "Fine, fine. I'll go to your club and ask for this new girl of yours, okay?"
+msgstr ""
+
+msgctxt "600_Akiyama"
+msgid ""
+"All right! That's what I like to hear. I'll go ahead and put her on the "
+"clock. I owe you one, Kiryu-san!"
+msgstr ""
+
+msgctxt "612_Yuiko"
+msgid ""
+"I'll inform the adult entertainment info booths! Please visit an info booth "
+"before you visit. They'll hook you up!"
+msgstr ""
+
+msgctxt "636_Kiryu"
+msgid "Akiyama, I brought a hostess from Fukuoka."
+msgstr ""
+
+msgctxt "648_Riku"
+msgid ""
+"Hiya! I'm Riku! Nice to meet ya! I've never been to Tokyo before. I'm all "
+"sortsa nervous!"
+msgstr ""
+
+msgctxt "660_Akiyama"
+msgid ""
+"Oh, I like her! That accent of hers is adorable. She's sure to be a big hit "
+"at our club."
+msgstr ""
+
+msgctxt "672_Akiyama"
+msgid "Hehe, you sure know how to pick 'em, Kiryu-san!"
+msgstr ""
+
+msgctxt "684_Kiryu"
+msgid "Well, you know me."
+msgstr ""
+
+msgctxt "696_Akiyama"
+msgid "Next time you come by Elise, your visit's on the house."
+msgstr ""
+
+msgctxt "708_Akiyama"
+msgid "And welcome aboard, young lady."
+msgstr ""
+
+msgctxt "720_Riku"
+msgid "Thank ya! I'm rarin' to go!"
+msgstr ""
+
+msgctxt "792_Saejima"
+msgid "Hey, Akiyama. I brought ya a hostess from up in Sapporo."
+msgstr ""
+
+msgctxt "804_Kaguya"
+msgid "I'm Kaguya. It's so nice to meet you."
+msgstr ""
+
+msgctxt "816_Akiyama"
+msgid "Whoo-ee! She's got a body that won't quit!"
+msgstr ""
+
+msgctxt "828_Akiyama"
+msgid "Not bad, Saejima-san. Not bad at all."
+msgstr ""
+
+msgctxt "840_Saejima"
+msgid "Not bad? That's all ya got to say? I can take her back to Sapporo, ya know."
+msgstr ""
+
+msgctxt "852_Akiyama"
+msgid "No, no, she's fine! Honest! Thank you!"
+msgstr ""
+
+msgctxt "864_Akiyama"
+msgid "And you, miss. It's lovely to meet you. Let me know if you need anything."
+msgstr ""
+
+msgctxt "876_Kaguya"
+msgid "Well, a place to stay near the club would be greatly appreciated."
+msgstr ""
+
+msgctxt "948_Akiyama"
+msgid "This is Elise, my club."
+msgstr ""
+
+msgctxt "960_Honoka"
+msgid "Wooow, this place is so nice! I think I made the right choice comin' here."
+msgstr ""
+
+msgctxt "972_Akiyama"
+msgid "Right? Well, I'm really depending on you."
+msgstr ""
+
+msgctxt "984_Honoka"
+msgid "Now I just gotta get used to how ya Tokyo folk talk an' all that."
+msgstr ""
+
+msgctxt "1056_Shinada"
+msgid "Akiyama-san, I've brought a hostess from Nagoya."
+msgstr ""
+
+msgctxt "1068_Shion"
+msgid "I'm Shion. Good to meet you, sir."
+msgstr ""
+
+msgctxt "1080_Akiyama"
+msgid "Well, well, well! Isn't she stunning?"
+msgstr ""
+
+msgctxt "1092_Akiyama"
+msgid "Damn, Shinada-san! How'd you manage to nab a babe like her?"
+msgstr ""
+
+msgctxt "1104_Shinada"
+msgid ""
+"Hey, no need to be so rude about it, man. My charm and good looks are magic "
+"with the ladies."
+msgstr ""
+
+msgctxt "1116_Akiyama"
+msgid "Well, your charm makes me want to hire you as a talent scout for our club."
+msgstr ""
+
+msgctxt "1128_Akiyama"
+msgid "Now then, nice to meet you, my dear."
+msgstr ""
+
+msgctxt "1140_Shion"
+msgid ""
+"I can't wait to see what the men in Tokyo are like. This is going to be "
+"quite fun!"
+msgstr ""
+
+msgctxt "1236_Yuiko"
+msgid ""
+"You should make nice with hostesses in other cities and scout them for our "
+"club, sir."
+msgstr ""
+
+msgctxt "1248_Akiyama"
+msgid ""
+"Well, Kiryu-san's got Hakata, Saejima-san's got Sapporo, I've got Osaka, "
+"and Shinada-san's got Nagoya covered. Hopefully we'll find some winners."
+msgstr ""
+
+msgctxt "1260_Yuiko"
+msgid ""
+"Slowly but surely, business is starting to pick up! Keep up the good work "
+"in wooing girls from around the country!"
+msgstr ""
+
+msgctxt "1272_Akiyama"
+msgid "I could still use about three more girls on staff. We got a long ways to go."
+msgstr ""
+
+msgctxt "1284_Yuiko"
+msgid ""
+"The club's looking real good, sir! The locals have been coming by much more "
+"often than they used to."
+msgstr ""
+
+msgctxt "1296_Akiyama"
+msgid "Great! Just gotta find more girls."
+msgstr ""
+
+msgctxt "1308_Yuiko"
+msgid ""
+"Every day brings a load of new customers! We're one of the hottest clubs in "
+"town now!"
+msgstr ""
+
+msgctxt "1320_Akiyama"
+msgid ""
+"We're almost where we need to be. There should be just one city left, I "
+"think."
+msgstr ""
+
+msgctxt "1356_Akiyama"
+msgid "I see it's dead as usual here."
+msgstr ""
+
+msgctxt "1368_Yuiko"
+msgid ""
+"How about you make nice with hostesses in other cities, and scout them for "
+"our club, sir?"
+msgstr ""
+
+msgctxt "1380_Akiyama"
+msgid "Yeah, yeah, I know."
+msgstr ""
+
+msgctxt "1404_Akiyama"
+msgid ""
+"(Popular hostesses from other cities, huh? Wish I knew someone who could "
+"point me in the right direction.)"
+msgstr ""
+
+msgctxt "1416_Akiyama"
+msgid ""
+"(Popular hostesses from other cities, huh? I should ask folks over at New "
+"Serena.)"
+msgstr ""
+
+msgctxt "1452_Yuiko"
+msgid "Oh, it's you, sir."
+msgstr ""
+
+msgctxt "1464_Akiyama"
+msgid "Hey, Yuiko-chan. You getting the hang of running the club yet?"
+msgstr ""
+
+msgctxt "1476_Yuiko"
+msgid ""
+"To be frank, it's not going all that great, sir. We've been losing a lot of "
+"clients lately."
+msgstr ""
+
+msgctxt "1488_Yuiko"
+msgid "I mean, just look! It's totally dead in here!"
+msgstr ""
+
+msgctxt "1512_Akiyama"
+msgid "Yeah, this isn't looking good. Any idea what the problem is?"
+msgstr ""
+
+msgctxt "1524_Yuiko"
+msgid ""
+"Honestly, Kamurocho just isn't popular right now. Roppongi and Ginza are "
+"all the rage."
+msgstr ""
+
+msgctxt "1536_Yuiko"
+msgid ""
+"And once we lose our customers to another part of the city, it's difficult "
+"to get them back."
+msgstr ""
+
+msgctxt "1548_Akiyama"
+msgid "Sounds like a tough situation to fix."
+msgstr ""
+
+msgctxt "1560_Yuiko"
+msgid ""
+"Also, we just don't have very good girls. The ones who were even the "
+"slightest bit popular all got snatched away by better clubs."
+msgstr ""
+
+msgctxt "1572_Akiyama"
+msgid "Wait, what? And you just let that happen?"
+msgstr ""
+
+msgctxt "1584_Yuiko"
+msgid ""
+"What was I supposed to do? I can only pay them so much, and the girls want "
+"to go where they have more clients to pick from."
+msgstr ""
+
+msgctxt "1596_Akiyama"
+msgid ""
+"Damn. Well, I assume you're looking for new girls to be part of our lineup, "
+"right?"
+msgstr ""
+
+msgctxt "1608_Yuiko"
+msgid ""
+"Of course, sir! It's just that Kamurocho is sorta dullsville these days, so "
+"finding the right girls isn't as easy as it used to be."
+msgstr ""
+
+msgctxt "1620_Akiyama"
+msgid "So you haven't found anyone at all?"
+msgstr ""
+
+msgctxt "1632_Yuiko"
+msgid ""
+"I did find one girl! She's a real diamond in the rough, this one. I'm sure "
+"she'll be a big asset for us."
+msgstr ""
+
+msgctxt "1644_Yuiko"
+msgid ""
+"But she's still in training, is the thing. I've been very hands-on with "
+"her, but she's not ready for primetime just yet."
+msgstr ""
+
+msgctxt "1656_Akiyama"
+msgid "I see. So what you're telling me is that our current lineup of girls sucks."
+msgstr ""
+
+msgctxt "1668_Yuiko"
+msgid "Basically, yes."
+msgstr ""
+
+msgctxt "1692_Akiyama"
+msgid ""
+"Well, damn. I can't scour the town to find girls if there aren't even any "
+"around."
+msgstr ""
+
+msgctxt "1704_Yuiko"
+msgid "Actually, sir, about that. I have an idea."
+msgstr ""
+
+msgctxt "1716_Akiyama"
+msgid "Oh?"
+msgstr ""
+
+msgctxt "1728_Yuiko"
+msgid ""
+"Well, if scouting around Kamurocho isn't going to get us anywhere, maybe "
+"you could go to a different city and look around there?"
+msgstr ""
+
+msgctxt "1740_Akiyama"
+msgid "Haha, come on! That's just..."
+msgstr ""
+
+msgctxt "1752_Akiyama"
+msgid "Well, maybe you're right. That might be our best and only option."
+msgstr ""
+
+msgctxt "1764_Yuiko"
+msgid ""
+"We need girls who are ready to go ASAP! And preferably ones who are already "
+"doing good business for their clubs."
+msgstr ""
+
+msgctxt "1776_Akiyama"
+msgid "Alright. What other cities did you have in mind?"
+msgstr ""
+
+msgctxt "1788_Yuiko"
+msgid ""
+"All the big cities! <Color:255,200,200,255>Fukuoka, Sapporo, Osaka, "
+"Nagoya<Color:Default>. Places like that."
+msgstr ""
+
+msgctxt "1800_Akiyama"
+msgid ""
+"Mmm. I hear you. Still, poaching popular girls from other clubs is easier "
+"said than done."
+msgstr ""
+
+msgctxt "1812_Yuiko"
+msgid ""
+"Well, sure. If you just go into the club and offer them a new job, the "
+"staff's gonna throw you out right then and there."
+msgstr ""
+
+msgctxt "1824_Akiyama"
+msgid "What do I do then?"
+msgstr ""
+
+msgctxt "1836_Yuiko"
+msgid ""
+"Aw geez, sir. Get to know them personally and then negotiate with them on "
+"the down-low! Just ask them if they wanna come visit Tokyo."
+msgstr ""
+
+msgctxt "1848_Akiyama"
+msgid ""
+"That sounds like it'll take forever. I mean, I can maybe work on one girl "
+"like that, but I can't be everywhere at once. I'd need help."
+msgstr ""
+
+msgctxt "1860_Yuiko"
+msgid "I suppose so, sir."
+msgstr ""
+
+msgctxt "1872_Akiyama"
+msgid ""
+"But the idea does have some merit, I'll admit. If I know someone who's "
+"hitting up any of those other cities, I'll let you know."
+msgstr ""
+
+msgctxt "1884_Yuiko"
+msgid ""
+"I knew I could count on you, sir! In the meantime, I'll do what I can with "
+"the club on my end."
+msgstr ""
+
+msgctxt "1896_Akiyama"
+msgid "That's the spirit. I knew I hired you as manager for a reason."
+msgstr ""
+
+msgctxt "1908_Yuiko"
+msgid "Hehehe. Guess you saw my limitless potential, sir!"
+msgstr ""
+
+msgctxt "1920_Akiyama"
+msgid ""
+"Oh, speaking of which, keep working on this diamond in the rough you found, "
+"too, yeah?"
+msgstr ""
+
+msgctxt "1932_Yuiko"
+msgid "Of course! You can count on me!"
+msgstr ""
+
+msgctxt "1956_Akiyama"
+msgid ""
+"(Popular hostesses from other cities, huh? Wish I knew someone who could "
+"point me in the right direction.)"
+msgstr ""
+
+msgctxt "1968_Akiyama"
+msgid ""
+"(Popular hostesses from other cities, huh? I should ask folks over at New "
+"Serena.)"
+msgstr ""

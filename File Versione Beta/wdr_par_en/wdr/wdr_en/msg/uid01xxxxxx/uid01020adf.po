@@ -1,0 +1,979 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "26352"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "26356"
+msgid "adv4_110/shinada_0147"
+msgstr ""
+
+msgctxt "26360"
+msgid "Masked Man"
+msgstr ""
+
+msgctxt "26364"
+msgid "adv4_110/daigo_0060"
+msgstr ""
+
+msgctxt "26368"
+msgid "kaiwabgm_fuon04"
+msgstr ""
+
+msgctxt "26372"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "26376"
+msgid "P_SIN_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "26380"
+msgid "adv4_110/shinada_0148a"
+msgstr ""
+
+msgctxt "26384"
+msgid "adv4_110/shinada_0148b"
+msgstr ""
+
+msgctxt "26388"
+msgid "P_SIN_TLK_stand_nobig"
+msgstr ""
+
+msgctxt "26392"
+msgid "adv4_110/daigo_0061a"
+msgstr ""
+
+msgctxt "26396"
+msgid "adv4_110/daigo_0061b"
+msgstr ""
+
+msgctxt "26400"
+msgid "adv4_110/shinada_0149"
+msgstr ""
+
+msgctxt "26404"
+msgid "adv4_110/daigo_0062"
+msgstr ""
+
+msgctxt "26408"
+msgid "adv4_110/shinada_0150"
+msgstr ""
+
+msgctxt "26412"
+msgid "C4110_DGO_TLK_bag_show_st"
+msgstr ""
+
+msgctxt "26416"
+msgid "adv4_110/shinada_0151"
+msgstr ""
+
+msgctxt "26420"
+msgid "adv4_110/daigo_0063a"
+msgstr ""
+
+msgctxt "26424"
+msgid "adv4_110/daigo_0063b"
+msgstr ""
+
+msgctxt "26428"
+msgid "adv4_110/shinada_0152"
+msgstr ""
+
+msgctxt "26432"
+msgid "adv4_110/daigo_0064"
+msgstr ""
+
+msgctxt "26436"
+msgid "adv4_110/shinada_0153"
+msgstr ""
+
+msgctxt "26440"
+msgid "adv4_110/daigo_0065a"
+msgstr ""
+
+msgctxt "26444"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "26448"
+msgid "adv4_110/daigo_0065b"
+msgstr ""
+
+msgctxt "26452"
+msgid "adv4_110/shinada_0154"
+msgstr ""
+
+msgctxt "26456"
+msgid "P_SIN_TLK_stand_no"
+msgstr ""
+
+msgctxt "26460"
+msgid "adv4_110/daigo_0066"
+msgstr ""
+
+msgctxt "26464"
+msgid "adv4_110/shinada_0155a"
+msgstr ""
+
+msgctxt "26468"
+msgid "P_SIN_TLK_stand_cry"
+msgstr ""
+
+msgctxt "26472"
+msgid "P_SIN_TLK_stand_angry"
+msgstr ""
+
+msgctxt "26476"
+msgid "adv4_110/shinada_0155b"
+msgstr ""
+
+msgctxt "26480"
+msgid "adv4_110/shinada_0155c"
+msgstr ""
+
+msgctxt "26484"
+msgid "P_SIN_TLK_stand_away"
+msgstr ""
+
+msgctxt "26488"
+msgid "adv4_110/daigo_0067"
+msgstr ""
+
+msgctxt "26492"
+msgid "adv4_110/shinada_0156"
+msgstr ""
+
+msgctxt "26496"
+msgid "adv4_110/daigo_0068"
+msgstr ""
+
+msgctxt "26500"
+msgid "C4110_DGO_TLK_bag_show_ed"
+msgstr ""
+
+msgctxt "26504"
+msgid "adv4_110/shinada_0157"
+msgstr ""
+
+msgctxt "26508"
+msgid "P_SIN_TLK_stand_yes"
+msgstr ""
+
+msgctxt "26512"
+msgid "Hushed Voice"
+msgstr ""
+
+msgctxt "26516"
+msgid "adv4_110/takasugi_0028"
+msgstr ""
+
+msgctxt "26520"
+msgid "adv4_140_01/shinada_0199"
+msgstr ""
+
+msgctxt "26524"
+msgid "Takasugi"
+msgstr ""
+
+msgctxt "26528"
+msgid "adv4_140_01/takasugi_0046"
+msgstr ""
+
+msgctxt "26532"
+msgid "adv4_140_01/shinada_0200"
+msgstr ""
+
+msgctxt "26536"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "26540"
+msgid "adv4_140_01/takasugi_0047"
+msgstr ""
+
+msgctxt "26544"
+msgid "adv4_140_01/shinada_0201a"
+msgstr ""
+
+msgctxt "26548"
+msgid "kaiwabgm_fuon05"
+msgstr ""
+
+msgctxt "26552"
+msgid "adv4_140_01/shinada_0201b"
+msgstr ""
+
+msgctxt "26556"
+msgid "adv4_140_01/takasugi_0048a"
+msgstr ""
+
+msgctxt "26560"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "26564"
+msgid "adv4_140_01/takasugi_0048b"
+msgstr ""
+
+msgctxt "26568"
+msgid "adv4_140_01/shinada_0202a"
+msgstr ""
+
+msgctxt "26572"
+msgid "adv4_140_01/shinada_0202b"
+msgstr ""
+
+msgctxt "26576"
+msgid "adv4_140_01/shinada_0202c"
+msgstr ""
+
+msgctxt "26580"
+msgid "adv4_140_01/takasugi_0049"
+msgstr ""
+
+msgctxt "26584"
+msgid "adv4_140_01/shinada_0203a"
+msgstr ""
+
+msgctxt "26588"
+msgid "adv4_140_01/shinada_0203b"
+msgstr ""
+
+msgctxt "26592"
+msgid "adv4_140_01/shinada_0203c"
+msgstr ""
+
+msgctxt "26596"
+msgid "adv4_140_01/shinada_0203d"
+msgstr ""
+
+msgctxt "26600"
+msgid "adv4_140_01/takasugi_0050"
+msgstr ""
+
+msgctxt "26604"
+msgid "adv4_140_01/shinada_0204a"
+msgstr ""
+
+msgctxt "26608"
+msgid "adv4_140_01/shinada_0204b"
+msgstr ""
+
+msgctxt "26612"
+msgid "adv4_140_01/shinada_0204c"
+msgstr ""
+
+msgctxt "26616"
+msgid "adv4_140_01/takasugi_0051"
+msgstr ""
+
+msgctxt "26620"
+msgid "M_NML_TLK_stand_info_f"
+msgstr ""
+
+msgctxt "26624"
+msgid "adv4_140_01/shinada_0205"
+msgstr ""
+
+msgctxt "26628"
+msgid "adv4_140_01/takasugi_0052"
+msgstr ""
+
+msgctxt "26632"
+msgid "adv4_140_01/shinada_0206a"
+msgstr ""
+
+msgctxt "26636"
+msgid "adv4_140_01/shinada_0206b"
+msgstr ""
+
+msgctxt "26640"
+msgid "adv4_140_01/takasugi_0053"
+msgstr ""
+
+msgctxt "26644"
+msgid "adv4_140_01/shinada_0207"
+msgstr ""
+
+msgctxt "26648"
+msgid "adv4_140_01/takasugi_0054"
+msgstr ""
+
+msgctxt "26652"
+msgid "adv4_140_01/shinada_0208"
+msgstr ""
+
+msgctxt "26656"
+msgid "adv4_140_01/takasugi_0055"
+msgstr ""
+
+msgctxt "26660"
+msgid "adv4_140_01/shinada_0209a"
+msgstr ""
+
+msgctxt "26664"
+msgid "adv4_140_01/shinada_0209b"
+msgstr ""
+
+msgctxt "26668"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "26672"
+msgid "adv4_140_01/takasugi_0056"
+msgstr ""
+
+msgctxt "26676"
+msgid "adv4_140_01/shinada_0210a"
+msgstr ""
+
+msgctxt "26680"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "26684"
+msgid "adv4_140_01/shinada_0210b"
+msgstr ""
+
+msgctxt "26688"
+msgid "adv4_140_01/takasugi_0057a"
+msgstr ""
+
+msgctxt "26692"
+msgid "adv4_140_01/takasugi_0057b"
+msgstr ""
+
+msgctxt "26696"
+msgid "adv4_140_01/shinada_0211a"
+msgstr ""
+
+msgctxt "26700"
+msgid "adv4_140_01/shinada_0211b"
+msgstr ""
+
+msgctxt "26704"
+msgid "adv4_140_01/shinada_0211c"
+msgstr ""
+
+msgctxt "26708"
+msgid "adv4_140_01/takasugi_0058a"
+msgstr ""
+
+msgctxt "26712"
+msgid "adv4_140_01/takasugi_0058b"
+msgstr ""
+
+msgctxt "26716"
+msgid "adv4_140_01/shinada_0212a"
+msgstr ""
+
+msgctxt "26720"
+msgid "adv4_140_01/shinada_0212b"
+msgstr ""
+
+msgctxt "26724"
+msgid "adv4_140_01/takasugi_0059a"
+msgstr ""
+
+msgctxt "26728"
+msgid "adv4_140_01/takasugi_0059b"
+msgstr ""
+
+msgctxt "26732"
+msgid "adv4_140_01/shinada_0213a"
+msgstr ""
+
+msgctxt "26736"
+msgid "adv4_140_01/shinada_0213b"
+msgstr ""
+
+msgctxt "26740"
+msgid "kaiwabgm_heartwarm04"
+msgstr ""
+
+msgctxt "26744"
+msgid "adv4_140_01/takasugi_0060"
+msgstr ""
+
+msgctxt "26748"
+msgid "adv4_140_01/shinada_0214a"
+msgstr ""
+
+msgctxt "26752"
+msgid "adv4_140_01/shinada_0214b"
+msgstr ""
+
+msgctxt "26756"
+msgid "adv4_140_01/shinada_0214c"
+msgstr ""
+
+msgctxt "26760"
+msgid "adv4_140_01/takasugi_0061"
+msgstr ""
+
+msgctxt "26764"
+msgid "adv4_140_01/shinada_0215a"
+msgstr ""
+
+msgctxt "26768"
+msgid "adv4_140_01/shinada_0215b"
+msgstr ""
+
+msgctxt "26772"
+msgid "adv4_140_01/shinada_0215c"
+msgstr ""
+
+msgctxt "26776"
+msgid "Talk_Cry"
+msgstr ""
+
+msgctxt "26780"
+msgid "adv4_140_01/takasugi_0062a"
+msgstr ""
+
+msgctxt "26784"
+msgid "adv4_140_01/takasugi_0062b"
+msgstr ""
+
+msgctxt "26788"
+msgid "adv4_140_01/takasugi_0062c"
+msgstr ""
+
+msgctxt "26792"
+msgid "adv4_140_01/shinada_0216a"
+msgstr ""
+
+msgctxt "26796"
+msgid "adv4_140_01/shinada_0216b"
+msgstr ""
+
+msgctxt "26800"
+msgid "adv4_140_01/shinada_0216c"
+msgstr ""
+
+msgctxt "26804"
+msgid "adv4_140_01/shinada_0216d"
+msgstr ""
+
+msgctxt "26808"
+msgid "adv4_140_01/takasugi_0063"
+msgstr ""
+
+msgctxt "26812"
+msgid "adv4_140_01/shinada_0217a"
+msgstr ""
+
+msgctxt "26816"
+msgid "adv4_140_01/shinada_0217b"
+msgstr ""
+
+msgctxt "26820"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "26824"
+msgid "adv4_140_01/takasugi_0064"
+msgstr ""
+
+msgctxt "26828"
+msgid "adv4_140_01/shinada_0218"
+msgstr ""
+
+msgctxt "26832"
+msgid "Player"
+msgstr ""
+
+msgctxt "26836"
+msgid "P_SIN_TLK_sitgrd_no"
+msgstr ""
+
+msgctxt "26840"
+msgid "P_SIN_TLK_sitgrd_kamae_st"
+msgstr ""
+
+msgctxt "26844"
+msgid "Get Some Sleep"
+msgstr ""
+
+msgctxt "26848"
+msgid "Not Yet"
+msgstr ""
+
+msgctxt "116_Shinada"
+msgid "Again, Takasugi-san? Can't you give me a break..."
+msgstr ""
+
+msgctxt "176_Shinada"
+msgid "So, what's your answer?"
+msgstr ""
+
+msgctxt "200_Shinada"
+msgid ""
+"Yo, what's your problem, man!?\r\n"
+"Could you at least take off your shoes!?"
+msgstr ""
+
+msgctxt "212_Shinada"
+msgid ""
+"I told you yesterday－there was nothing out of the ordinary about my home "
+"run fifteen years ago, and that's that!"
+msgstr ""
+
+msgctxt "224_Masked Man"
+msgid "And yet the very next day..."
+msgstr ""
+
+msgctxt "236_Masked Man"
+msgid ""
+"You were permanently banned from baseball, accused of sign stealing and "
+"match fixing."
+msgstr ""
+
+msgctxt "248_Shinada"
+msgid "Ngh!"
+msgstr ""
+
+msgctxt "260_Masked Man"
+msgid ""
+"That was your first at bat with the major leagues, and you stepped right "
+"up, not knowing it would be your last."
+msgstr ""
+
+msgctxt "272_Shinada"
+msgid "I want you to leave."
+msgstr ""
+
+msgctxt "296_Shinada"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "308_Masked Man"
+msgid ""
+"This is a business proposition. I want you to investigate what happened "
+"fifteen years ago, regarding your truncated career."
+msgstr ""
+
+msgctxt "320_Masked Man"
+msgid ""
+"When you discover the truth, you'll be paid what's in this briefcase. It's "
+"equal to the annual salary you should have earned your first year."
+msgstr ""
+
+msgctxt "332_Shinada"
+msgid "But that's－"
+msgstr ""
+
+msgctxt "344_Masked Man"
+msgid "Twenty million."
+msgstr ""
+
+msgctxt "356_Shinada"
+msgid "Twenty million!? Who even are you...?"
+msgstr ""
+
+msgctxt "368_Masked Man"
+msgid "I can't say."
+msgstr ""
+
+msgctxt "380_Masked Man"
+msgid ""
+"What I can tell you is that the truth from fifteen years ago is worth this "
+"much to me."
+msgstr ""
+
+msgctxt "392_Shinada"
+msgid "Why!? What does this have to do with you?"
+msgstr ""
+
+msgctxt "404_Masked Man"
+msgid "Will you or won't you accept? You need the money, don't you?"
+msgstr ""
+
+msgctxt "416_Shinada"
+msgid "I've been nice and listened to you patiently, but..."
+msgstr ""
+
+msgctxt "428_Shinada"
+msgid "That one hit turned my entire life upside down!"
+msgstr ""
+
+msgctxt "440_Shinada"
+msgid "Not just me－everyone who had anything to do with it!"
+msgstr ""
+
+msgctxt "452_Masked Man"
+msgid "......"
+msgstr ""
+
+msgctxt "464_Shinada"
+msgid ""
+"Oh, you know that, huh!? Then you should <Italic>know</Italic> that I just "
+"want to forget it all, and money won't change that!"
+msgstr ""
+
+msgctxt "476_Masked Man"
+msgid "So... are you refusing my offer, then?"
+msgstr ""
+
+msgctxt "488_Shinada"
+msgid "Damn right I am! I don't－"
+msgstr ""
+
+msgctxt "512_Hushed Voice"
+msgid "Accept the offer."
+msgstr ""
+
+msgctxt "560_Shinada"
+msgid "Morning, Takasugi-san. You're here early again!"
+msgstr ""
+
+msgctxt "584_Takasugi"
+msgid ""
+"Quite early. And yet you actually look cheerful! You get yourself a happy "
+"ending last night?"
+msgstr ""
+
+msgctxt "596_Shinada"
+msgid "Hehe, something like that."
+msgstr ""
+
+msgctxt "608_Takasugi"
+msgid "So, that job... You decided to accept it?"
+msgstr ""
+
+msgctxt "620_Shinada"
+msgid "I'm not gonna run from my past anymore. Not like it was working, anyway..."
+msgstr ""
+
+msgctxt "632_Shinada"
+msgid ""
+"So I'm going to get to the bottom of why I was banned from baseball. "
+"Finally."
+msgstr ""
+
+msgctxt "644_Takasugi"
+msgid "Hey, what provoked the allegations of match fixing in the first place?"
+msgstr ""
+
+msgctxt "656_Takasugi"
+msgid ""
+"Forgive me, I know it was in the news, but that was fifteen years ago. Care "
+"to refresh my memory?"
+msgstr ""
+
+msgctxt "680_Shinada"
+msgid "It was the Wyverns playing the Gigants. Bottom of the ninth, two outs."
+msgstr ""
+
+msgctxt "692_Shinada"
+msgid ""
+"The game was ours if we could just get one good swing. So Fujita, the "
+"Wyverns manager, sent out a pinch hitter."
+msgstr ""
+
+msgctxt "704_Shinada"
+msgid ""
+"The hitter was a no-namer playing with the pros for the very first time. In "
+"other words, me."
+msgstr ""
+
+msgctxt "716_Takasugi"
+msgid "......"
+msgstr ""
+
+msgctxt "728_Shinada"
+msgid "So I went up against the Gigants' ace pitcher, Sawada."
+msgstr ""
+
+msgctxt "740_Shinada"
+msgid ""
+"He kept throwing curveballs, so I just fouled them off... until that "
+"fateful seventh pitch."
+msgstr ""
+
+msgctxt "752_Shinada"
+msgid ""
+"It was the first fastball he threw at me. And I moonshot that thing into "
+"the stands."
+msgstr ""
+
+msgctxt "764_Shinada"
+msgid "It was the greatest moment of my life."
+msgstr ""
+
+msgctxt "776_Takasugi"
+msgid "That's beautiful. But that home run was disputed."
+msgstr ""
+
+msgctxt "788_Shinada"
+msgid ""
+"Yeah. The next day, it was struck from all records because they said I was "
+"stealing signs－cheating by interpreting the other team's hand signals."
+msgstr ""
+
+msgctxt "800_Shinada"
+msgid "If you can read their signs, you'll know what the pitch will be."
+msgstr ""
+
+msgctxt "812_Shinada"
+msgid "They said that's what I did."
+msgstr ""
+
+msgctxt "824_Takasugi"
+msgid ""
+"Was there even any evidence? Were you caught on video watching the other "
+"team's signs?"
+msgstr ""
+
+msgctxt "836_Shinada"
+msgid "No. I wasn't."
+msgstr ""
+
+msgctxt "848_Takasugi"
+msgid "Then how could they accuse you?"
+msgstr ""
+
+msgctxt "860_Shinada"
+msgid ""
+"A guy came forward... He claimed that I asked him to steal the Gigants' "
+"signs and relay them to me from the stands."
+msgstr ""
+
+msgctxt "872_Shinada"
+msgid "And with that, both the league and the police launched investigations."
+msgstr ""
+
+msgctxt "884_Takasugi"
+msgid "Who was your accuser?"
+msgstr ""
+
+msgctxt "896_Shinada"
+msgid ""
+"A younger guy from my high school team. He claimed he took the deal at "
+"first because the money was too much to resist, and then afterwards he "
+"couldn't stand the guilt."
+msgstr ""
+
+msgctxt "908_Takasugi"
+msgid "But he was lying. At least, I hope so..."
+msgstr ""
+
+msgctxt "920_Shinada"
+msgid ""
+"Of course he was! I hadn't even seen the guy in years, let alone talked to "
+"him or given him money."
+msgstr ""
+
+msgctxt "932_Takasugi"
+msgid "So you're saying this guy framed you. Why would he do that?"
+msgstr ""
+
+msgctxt "944_Shinada"
+msgid ""
+"I don't know. He clammed up fast when I asked him. I still don't know. And "
+"I was gonna grill him some more, but..."
+msgstr ""
+
+msgctxt "956_Shinada"
+msgid "All of a sudden, he was a missing person."
+msgstr ""
+
+msgctxt "968_Takasugi"
+msgid "What the!? You're saying... someone made him disappear?"
+msgstr ""
+
+msgctxt "980_Shinada"
+msgid "I don't know that for sure. But the point is, I was out of leads."
+msgstr ""
+
+msgctxt "992_Shinada"
+msgid ""
+"So I decided to just move on with my life. I found a new career as a "
+"nightlife journalist."
+msgstr ""
+
+msgctxt "1004_Takasugi"
+msgid ""
+"Geez, I can't think... Hey, wait. Did you say the <Italic>police</Italic> "
+"launched an investigation?"
+msgstr ""
+
+msgctxt "1016_Takasugi"
+msgid "Is sign stealing such a serious crime?"
+msgstr ""
+
+msgctxt "1028_Shinada"
+msgid "Not usually, but in this case they claimed it was linked to match fixing."
+msgstr ""
+
+msgctxt "1040_Shinada"
+msgid ""
+"Instead of just one player doing it to pad his own stats, it was part of a "
+"larger conspiracy that involved losing on purpose for big gambling payouts."
+msgstr ""
+
+msgctxt "1052_Shinada"
+msgid "They ended up investigating the entire team."
+msgstr ""
+
+msgctxt "1064_Takasugi"
+msgid "So maybe it wasn't even a personal vendetta against you."
+msgstr ""
+
+msgctxt "1076_Takasugi"
+msgid "Maybe it was a plot to destroy the Wyverns as a team."
+msgstr ""
+
+msgctxt "1088_Shinada"
+msgid ""
+"Hah. Well, if that was their goal, it didn't work. I was the only one who "
+"got banned."
+msgstr ""
+
+msgctxt "1100_Shinada"
+msgid ""
+"The only other consequence for the team was that our manager, Fujita, was "
+"forced to resign."
+msgstr ""
+
+msgctxt "1112_Takasugi"
+msgid "Hey, I just heard that guy's name on the news yesterday."
+msgstr ""
+
+msgctxt "1124_Takasugi"
+msgid ""
+"He's a manager in Tokyo now－fifteen whole years after he resigned from the "
+"Wyverns, if you can believe it."
+msgstr ""
+
+msgctxt "1136_Shinada"
+msgid "That man was even more screwed over than me when this all went down."
+msgstr ""
+
+msgctxt "1148_Shinada"
+msgid "And after everything he'd done for me..."
+msgstr ""
+
+msgctxt "1160_Takasugi"
+msgid ""
+"Oh, come on. He couldn't have done <Italic>that</Italic> much for you. You "
+"were only in the big leagues for one day!"
+msgstr ""
+
+msgctxt "1172_Shinada"
+msgid "Yeah, but it was Fujita who discovered me. Back on the farm."
+msgstr ""
+
+msgctxt "1184_Shinada"
+msgid ""
+"He said I'd never reach my potential on that minor team, so he coached me "
+"personally."
+msgstr ""
+
+msgctxt "1196_Shinada"
+msgid "He's the reason I made it to the majors."
+msgstr ""
+
+msgctxt "1208_Takasugi"
+msgid "I see. He's like a mentor to you."
+msgstr ""
+
+msgctxt "1220_Shinada"
+msgid "Definitely."
+msgstr ""
+
+msgctxt "1232_Shinada"
+msgid ""
+"But you know, you brought up an interesting point a minute ago... Maybe "
+"someone used me to bring Fujita down."
+msgstr ""
+
+msgctxt "1244_Shinada"
+msgid ""
+"The whole thing sucks... He was so kind to me, and not only could I not "
+"repay him, I was the reason he lost his career."
+msgstr ""
+
+msgctxt "1256_Takasugi"
+msgid ""
+"There had to be someone who profited from this. Someone who profited "
+"hugely, in fact."
+msgstr ""
+
+msgctxt "1268_Takasugi"
+msgid "There's just no other reason to frame an unknown rookie."
+msgstr ""
+
+msgctxt "1280_Takasugi"
+msgid "Did your teammates know anything? Did you ever ask them about it?"
+msgstr ""
+
+msgctxt "1292_Shinada"
+msgid "No. And after I quit the team, I didn't keep in touch."
+msgstr ""
+
+msgctxt "1304_Shinada"
+msgid "Remember, that case got the whole team suspected of match fixing."
+msgstr ""
+
+msgctxt "1316_Shinada"
+msgid "I wasn't very popular after that."
+msgstr ""
+
+msgctxt "1328_Shinada"
+msgid ""
+"But I'm still friends with one guy－not a player, but the guy who was our "
+"massage therapist at the time."
+msgstr ""
+
+msgctxt "1340_Takasugi"
+msgid ""
+"A massage therapist? Wait, is this the guy in Kineicho that you borrowed "
+"money from?"
+msgstr ""
+
+msgctxt "1352_Shinada"
+msgid "Yup. Name's Uno-san."
+msgstr ""
+
+msgctxt "1364_Shinada"
+msgid ""
+"These days he's an erotic massage addict, haha! And for money, he runs a "
+"small acupuncture clinic."
+msgstr ""
+
+msgctxt "1376_Takasugi"
+msgid "Where is this acupuncture clinic?"
+msgstr ""
+
+msgctxt "1388_Shinada"
+msgid "Around the intersection of Obiita and Tsumugi. Should we go there?"
+msgstr ""
+
+msgctxt "1460_Player"
+msgid "(Got to get out of this funk. Maybe I'll go out.)"
+msgstr ""
+
+msgctxt "1484_Shinada"
+msgid "(Should I go to bed now?)"
+msgstr ""
+
+msgctxt "1496_Shinada"
+msgid "(Nah, too early.)"
+msgstr ""
+
+msgctxt "1508_Shinada"
+msgid "(Sleep sounds awesome.)"
+msgstr ""

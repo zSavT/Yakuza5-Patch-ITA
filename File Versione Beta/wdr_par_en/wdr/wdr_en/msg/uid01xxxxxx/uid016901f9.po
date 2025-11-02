@@ -1,0 +1,235 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "8320"
+msgid "Assistant Director"
+msgstr ""
+
+msgctxt "8324"
+msgid "How to Play Air Hockey"
+msgstr ""
+
+msgctxt "8328"
+msgid "The Heat Gauge and Heat Smash"
+msgstr ""
+
+msgctxt "8332"
+msgid "The Heat Gauge and Slow Mode"
+msgstr ""
+
+msgctxt "8336"
+msgid "Staring Mode"
+msgstr ""
+
+msgctxt "8340"
+msgid "Seira"
+msgstr ""
+
+msgctxt "8344"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8348"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "8352"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "8356"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "8360"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "8364"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "8368"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "8372"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "8376"
+msgid "MC"
+msgstr ""
+
+msgctxt "8380"
+msgid "kaiwabgm_maketakunai"
+msgstr ""
+
+msgctxt "8384"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "8388"
+msgid "dummy"
+msgstr ""
+
+msgctxt "44_Assistant Director"
+msgid ""
+"All right, then. The two of you will be facing off in a sexy game of air "
+"hockey."
+msgstr ""
+
+msgctxt "56_How to Play Air Hockey"
+msgid "An air hockey match is won by being the first to reach 9 points."
+msgstr ""
+
+msgctxt "68_The Heat Gauge and Heat Smash"
+msgid ""
+"A long rally will build your <Color:255,200,200,255>Heat "
+"Gauge<Color:Default>.\r\n"
+"A full gauge will let you deliver a <Color:255,200,200,255>Heat "
+"Smash<Color:Default>.\r\n"
+"Use this when you've got the right opening!"
+msgstr ""
+
+msgctxt "80_The Heat Gauge and Slow Mode"
+msgid ""
+"Hold <Action:Button_R2@Air_Hockey> while the Heat Gauge is full to focus "
+"and slow down time.\r\n"
+"Note that this <Color:255,200,200,255>Slow Mode<Color:Default> depletes the "
+"Heat Gauge, so use it wisely."
+msgstr ""
+
+msgctxt "92_Staring Mode"
+msgid ""
+"Hold <Action:Button_L2@Air_Hockey> to enter <Color:255,200,200,255>Staring "
+"Mode<Color:Default>. Stare at your opponent's chest to build up your Heat "
+"Gauge.\r\n"
+"The game does not stop during this mode, so be very careful!"
+msgstr ""
+
+msgctxt "104_Assistant Director"
+msgid "Remember, our show's main appeal is its heated competitions."
+msgstr ""
+
+msgctxt "116_Assistant Director"
+msgid "So make sure to give it your all, okay?"
+msgstr ""
+
+msgctxt "128_Seira"
+msgid "You bet!"
+msgstr ""
+
+msgctxt "140_Haruka"
+msgid "Yes, we will."
+msgstr ""
+
+msgctxt "152_Haruka"
+msgid "Good luck, Seira-san."
+msgstr ""
+
+msgctxt "164_Seira"
+msgid "Good luck to you! Ooh, this is going to be so much fun! I love air hockey!"
+msgstr ""
+
+msgctxt "176_Seira"
+msgid "......"
+msgstr ""
+
+msgctxt "188_Haruka"
+msgid "Um?"
+msgstr ""
+
+msgctxt "200_Seira"
+msgid "Oh, sorry! It's just that you're so darn cute!"
+msgstr ""
+
+msgctxt "212_Haruka"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "224_Seira"
+msgid "I just love cute girls! That's the whole reason I became an idol, you know!"
+msgstr ""
+
+msgctxt "236_Haruka"
+msgid "Uh, okay..."
+msgstr ""
+
+msgctxt "248_Seira"
+msgid "Hey, let's be friends, okay?"
+msgstr ""
+
+msgctxt "260_Haruka"
+msgid "Friends? Just out of the blue? We've barely even met!"
+msgstr ""
+
+msgctxt "272_Seira"
+msgid "Aw, come on! Okay, how about this. If I win, you have to be my friend. Deal?"
+msgstr ""
+
+msgctxt "284_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "296_Assistant Director"
+msgid "Okay, let's get started!"
+msgstr ""
+
+msgctxt "368_MC"
+msgid "The time for our showdown is here at last!"
+msgstr ""
+
+msgctxt "380_MC"
+msgid ""
+"Pride is on the line for these two beautiful, young idols. It'll be a fight "
+"to the finish!"
+msgstr ""
+
+msgctxt "392_MC"
+msgid ""
+"What sort of immodest, unladylike things will these two stoop to in order "
+"to win?"
+msgstr ""
+
+msgctxt "404_MC"
+msgid "You'll just have to watch and find out!"
+msgstr ""
+
+msgctxt "416_MC"
+msgid ""
+"Now, Haruka-chan! What would you like to say to your opponent before you "
+"begin!?"
+msgstr ""
+
+msgctxt "428_Haruka"
+msgid "I'm going to do my best to win!"
+msgstr ""
+
+msgctxt "440_MC"
+msgid "Seira-chan! What would you like to say?"
+msgstr ""
+
+msgctxt "452_Seira"
+msgid "Hehehe, you won't beat me!"
+msgstr ""
+
+msgctxt "464_MC"
+msgid ""
+"Who will come out on top in this all-out air hockey brawl: Haruka Sawamura "
+"or Seira Anno?"
+msgstr ""
+
+msgctxt "476_MC"
+msgid "Let the battle begin!"
+msgstr ""

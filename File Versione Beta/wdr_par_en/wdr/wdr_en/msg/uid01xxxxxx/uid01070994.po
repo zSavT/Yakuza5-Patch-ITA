@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "5376"
+msgid "Settling Up"
+msgstr ""
+
+msgctxt "556_Settling Up"
+msgid "The banker got a 6, winning the same amount as the stake."
+msgstr ""
+
+msgctxt "568_Settling Up"
+msgid "The banker rolled trips, winning three times the stake."
+msgstr ""
+
+msgctxt "580_Settling Up"
+msgid "The banker rolled ace out, winning five times the stake."
+msgstr ""
+
+msgctxt "592_Settling Up"
+msgid "The banker rolled 4-5-6, winning two times the stake."
+msgstr ""
+
+msgctxt "604_Settling Up"
+msgid "The banker got a 1, losing the same amount as the stake."
+msgstr ""
+
+msgctxt "616_Settling Up"
+msgid "The banker missed the pot, losing the same amount as the stake."
+msgstr ""
+
+msgctxt "628_Settling Up"
+msgid "The banker did not roll a point, losing the same amount as the stake."
+msgstr ""
+
+msgctxt "640_Settling Up"
+msgid "The banker rolled 1-2-3, losing two times the stake."
+msgstr ""
+
+msgctxt "652_Settling Up"
+msgid "The banker rolled 6-3-4, winning two times the stake."
+msgstr ""
+
+msgctxt "664_Settling Up"
+msgid "You got a 6 as the banker, winning the same amount as the stake."
+msgstr ""
+
+msgctxt "676_Settling Up"
+msgid "You rolled trips as the banker, winning three times the stake."
+msgstr ""
+
+msgctxt "688_Settling Up"
+msgid "You rolled ace out as the banker, winning five times the stake."
+msgstr ""
+
+msgctxt "700_Settling Up"
+msgid "You rolled 4-5-6 as the banker, winning two times the stake."
+msgstr ""
+
+msgctxt "712_Settling Up"
+msgid "You got a 1 as the banker, losing the same amount as the stake."
+msgstr ""
+
+msgctxt "724_Settling Up"
+msgid "You missed the pot as the banker, losing the same amount as the stake."
+msgstr ""
+
+msgctxt "736_Settling Up"
+msgid "You did not roll a point as the banker, losing the same amount as the stake."
+msgstr ""
+
+msgctxt "748_Settling Up"
+msgid "You got a 1-2-3 as the banker, losing two times the stake."
+msgstr ""
+
+msgctxt "760_Settling Up"
+msgid "You rolled 6-3-4 as the banker, winning two times the stake."
+msgstr ""
+
+msgctxt "772_Settling Up"
+msgid "You rolled trips, winning three times the stake."
+msgstr ""
+
+msgctxt "784_Settling Up"
+msgid "You rolled ace out, winning five times the stake."
+msgstr ""
+
+msgctxt "796_Settling Up"
+msgid "You rolled 4-5-6, winning two times the stake."
+msgstr ""
+
+msgctxt "808_Settling Up"
+msgid "You missed the pot, losing the same amount as the stake."
+msgstr ""
+
+msgctxt "820_Settling Up"
+msgid "You did not roll a point, losing the same amount as the stake."
+msgstr ""
+
+msgctxt "832_Settling Up"
+msgid "You rolled 1-2-3, losing two times the stake."
+msgstr ""
+
+msgctxt "844_Settling Up"
+msgid "You beat the banker's roll, winning the same amount as the stake."
+msgstr ""
+
+msgctxt "856_Settling Up"
+msgid ""
+"You didn't beat the banker's roll, and will lose the same amount as the "
+"stake."
+msgstr ""
+
+msgctxt "868_Settling Up"
+msgid "You tied the banker's roll, so there is no change in the stake."
+msgstr ""
+
+msgctxt "880_Settling Up"
+msgid "You rolled 6-3-4, winning two times the stake."
+msgstr ""
+
+msgctxt "892_Settling Up"
+msgid "You beat all the other players."
+msgstr ""
+
+msgctxt "904_Settling Up"
+msgid "Points will increase based on match results."
+msgstr ""
+
+msgctxt "916_Settling Up"
+msgid "Points will decrease based on match results."
+msgstr ""
+
+msgctxt "928_Settling Up"
+msgid "You lost to all the other players."
+msgstr ""
+
+msgctxt "940_Settling Up"
+msgid "You tied all the other players."
+msgstr ""

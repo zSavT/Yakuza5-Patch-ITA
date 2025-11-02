@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2244"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "2248"
+msgid "Okudera"
+msgstr ""
+
+msgctxt "2252"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2256"
+msgid "Tracks"
+msgstr ""
+
+msgctxt "2260"
+msgid "Leading Your Companion"
+msgstr ""
+
+msgctxt "2264"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "56_Saejima"
+msgid "Okudera-han, whaddya make of these tracks?"
+msgstr ""
+
+msgctxt "68_Okudera"
+msgid "Definitely deer tracks, and they're fresh. The deer are probably close by."
+msgstr ""
+
+msgctxt "80_Tracks"
+msgid ""
+"You may find animal tracks on the mountain.\r\n"
+"Follow them to locate prey."
+msgstr ""
+
+msgctxt "92_Saejima"
+msgid "So, follow 'em?"
+msgstr ""
+
+msgctxt "104_Okudera"
+msgid ""
+"Yes, and from here on out, keep the chatter to a minimum. Let's use hand "
+"signals."
+msgstr ""
+
+msgctxt "116_Leading Your Companion"
+msgid ""
+"Press <Action:Button_L2@Hunter_And_Killer> to signal your (NPC) companion. "
+"There\r\n"
+"are two commands: \"Come with me\" and \"Stay put.\""
+msgstr ""
+
+msgctxt "128_Okudera"
+msgid "Okay, listen. If you spot some deer, approach them from behind carefully."
+msgstr ""
+
+msgctxt "140_Okudera"
+msgid "Get as close as possible, then shoot. Got that?"
+msgstr ""
+
+msgctxt "152_Saejima"
+msgid "Yup."
+msgstr ""

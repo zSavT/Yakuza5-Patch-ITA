@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "264"
+msgid "You used a <Color:8>Hut Repair Kit<Color:Default>."
+msgstr ""
+
+msgctxt "2612"
+msgid "Hunting Hut Found"
+msgstr ""
+
+msgctxt "2616"
+msgid "Player"
+msgstr ""
+
+msgctxt "2620"
+msgid "Repair the Hut"
+msgstr ""
+
+msgctxt "2624"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "2628"
+msgid "Reload"
+msgstr ""
+
+msgctxt "2632"
+msgid "dummy"
+msgstr ""
+
+msgctxt "132_Hunting Hut Found"
+msgid "You found a hunting hut."
+msgstr ""
+
+msgctxt "144_Player"
+msgid "(Okudera-han's with me. Repairin' the hut's gotta wait.)"
+msgstr ""
+
+msgctxt "168_Hunting Hut Found"
+msgid "You found a hunting hut."
+msgstr ""
+
+msgctxt "180_Player"
+msgid "(Should I repair the hunting hut?)"
+msgstr ""
+
+msgctxt "204_Player"
+msgid "(All right. Let's repair this wreck.)"
+msgstr ""
+
+msgctxt "288_Player"
+msgid "(Good. That oughta do it.)"
+msgstr ""
+
+msgctxt "300_Player"
+msgid "(Ain't got a hut repair kit.)"
+msgstr ""
+
+msgctxt "312_Player"
+msgid "(Not right now.)"
+msgstr ""
+
+msgctxt "324_Reload"
+msgid "Your ammunition was restocked."
+msgstr ""

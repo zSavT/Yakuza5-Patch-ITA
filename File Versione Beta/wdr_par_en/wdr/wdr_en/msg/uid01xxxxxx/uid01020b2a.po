@@ -1,0 +1,561 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "18020"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "18024"
+msgid "dummy"
+msgstr ""
+
+msgctxt "18028"
+msgid "kaiwabgm_serious01"
+msgstr ""
+
+msgctxt "18032"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "18036"
+msgid "Why do you wanna stop the concert?"
+msgstr ""
+
+msgctxt "18040"
+msgid "What do you need twenty million yen for?"
+msgstr ""
+
+msgctxt "18044"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "18048"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "18052"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "18056"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "18060"
+msgid "Wait, why do you wanna stop the concert again?"
+msgstr ""
+
+msgctxt "18064"
+msgid "What do you want twenty million yen for?"
+msgstr ""
+
+msgctxt "18068"
+msgid "Let's finish this up. I've heard enough."
+msgstr ""
+
+msgctxt "18072"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "18076"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "18080"
+msgid "Why do you wanna stop the concert so bad?"
+msgstr ""
+
+msgctxt "18084"
+msgid "Explain the 20 mil thing again."
+msgstr ""
+
+msgctxt "18088"
+msgid "Let's wrap this up. I've heard enough."
+msgstr ""
+
+msgctxt "18092"
+msgid "adv5_060/akiyama_0405"
+msgstr ""
+
+msgctxt "18096"
+msgid "adv5_060/shinada_0544"
+msgstr ""
+
+msgctxt "18100"
+msgid "adv5_060/akiyama_0406a"
+msgstr ""
+
+msgctxt "18104"
+msgid "adv5_060/akiyama_0406b"
+msgstr ""
+
+msgctxt "18108"
+msgid "kaiwabgm_hope01"
+msgstr ""
+
+msgctxt "18112"
+msgid "adv5_060/shinada_0545"
+msgstr ""
+
+msgctxt "18116"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "18120"
+msgid "adv5_060/akiyama_0407a"
+msgstr ""
+
+msgctxt "18124"
+msgid "adv5_060/akiyama_0407b"
+msgstr ""
+
+msgctxt "18128"
+msgid "adv5_060/akiyama_0407c"
+msgstr ""
+
+msgctxt "18132"
+msgid "adv5_060/shinada_0546"
+msgstr ""
+
+msgctxt "18136"
+msgid "adv5_060/akiyama_0408a"
+msgstr ""
+
+msgctxt "18140"
+msgid "adv5_060/akiyama_0408b"
+msgstr ""
+
+msgctxt "18144"
+msgid "adv5_060/shinada_0547"
+msgstr ""
+
+msgctxt "18148"
+msgid "adv5_060/akiyama_0409a"
+msgstr ""
+
+msgctxt "18152"
+msgid "adv5_060/akiyama_0409b"
+msgstr ""
+
+msgctxt "18156"
+msgid "adv5_060/shinada_0548"
+msgstr ""
+
+msgctxt "18160"
+msgid "adv5_060/akiyama_0410a"
+msgstr ""
+
+msgctxt "18164"
+msgid "adv5_060/akiyama_0410b"
+msgstr ""
+
+msgctxt "18168"
+msgid "adv5_060/akiyama_0410c"
+msgstr ""
+
+msgctxt "18172"
+msgid "adv5_060/akiyama_0410d"
+msgstr ""
+
+msgctxt "18176"
+msgid "adv5_060/akiyama_0411"
+msgstr ""
+
+msgctxt "18180"
+msgid "adv5_060/shinada_0550"
+msgstr ""
+
+msgctxt "18184"
+msgid "adv5_060/akiyama_0412"
+msgstr ""
+
+msgctxt "18188"
+msgid "kaiwabgm_serious02"
+msgstr ""
+
+msgctxt "18192"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "56_Akiyama"
+msgid ""
+"Okay, so the Kuroha Family was in league with the Nagoya Family. They "
+"rigged games with the Wyverns and the Gigants player Sawada..."
+msgstr ""
+
+msgctxt "68_Akiyama"
+msgid ""
+"Man... I didn't expect to hear Daigo Dojima's name associated with any of "
+"this."
+msgstr ""
+
+msgctxt "80_Shinada"
+msgid "I was surprised that you even knew Dojima-kun."
+msgstr ""
+
+msgctxt "92_Akiyama"
+msgid "Small world, huh? Then again, we do run in the same circles."
+msgstr ""
+
+msgctxt "104_Akiyama"
+msgid "All right, you've convinced me. I'll help you out. But first..."
+msgstr ""
+
+msgctxt "152_Akiyama"
+msgid "Why stop the show? You said something about lives in danger?"
+msgstr ""
+
+msgctxt "164_Shinada"
+msgid ""
+"Uh... I don't really know the details, to be honest. But Sawada said the "
+"Kuroha were going to pull something at the concert."
+msgstr ""
+
+msgctxt "176_Akiyama"
+msgid "Sawada the Gigants pitcher?"
+msgstr ""
+
+msgctxt "188_Shinada"
+msgid "Yeah. He was in line to take over the Nagoya, so he's wise to Kuroha plans."
+msgstr ""
+
+msgctxt "200_Akiyama"
+msgid ""
+"You're sure his info is reliable? And you do realize we can't do anything "
+"if we don't know their plan?"
+msgstr ""
+
+msgctxt "212_Shinada"
+msgid "My guess is a bomb."
+msgstr ""
+
+msgctxt "224_Akiyama"
+msgid "Maybe. Have you told the police?"
+msgstr ""
+
+msgctxt "236_Shinada"
+msgid "Several times. They don't believe my story."
+msgstr ""
+
+msgctxt "248_Akiyama"
+msgid "Of course not. You don't have any evidence."
+msgstr ""
+
+msgctxt "260_Shinada"
+msgid "That's why the only way to stop them is to cancel the concert!"
+msgstr ""
+
+msgctxt "272_Akiyama"
+msgid ""
+"And you want 300 million to pay the cancellation fee. Man, first Katsuya, "
+"now you. Everyone wants this show canceled!"
+msgstr ""
+
+msgctxt "284_Shinada"
+msgid "Oh, you mean Katsuya of Ousaka Enterprises?"
+msgstr ""
+
+msgctxt "296_Akiyama"
+msgid ""
+"Yeah. Funny thing is, both Kuroha and Ousaka are Omi Alliance. So why is "
+"one planning to do something at the concert, and the other is trying to "
+"shut it down?"
+msgstr ""
+
+msgctxt "308_Shinada"
+msgid "Infighting, you think? But why?"
+msgstr ""
+
+msgctxt "320_Akiyama"
+msgid "Some kind of struggle over the leadership change."
+msgstr ""
+
+msgctxt "332_Akiyama"
+msgid ""
+"The current chairman is Kuroha, but apparently he's gonna be out of the "
+"picture any day now."
+msgstr ""
+
+msgctxt "344_Akiyama"
+msgid ""
+"Kuroha might be trying to consolidate power before the chairman bites the "
+"big one, and maybe Katsuya wants to stop them so that he himself can take "
+"over."
+msgstr ""
+
+msgctxt "356_Shinada"
+msgid "Makes sense."
+msgstr ""
+
+msgctxt "368_Akiyama"
+msgid ""
+"It's still just conjecture. But now I get why you wanna stop the concert. "
+"So..."
+msgstr ""
+
+msgctxt "416_Akiyama"
+msgid ""
+"What's your plan for that 20 mil you said could wait until later? It better "
+"not be more debt, man. You should've paid that all off when you got the "
+"reward from Dojima-san."
+msgstr ""
+
+msgctxt "428_Shinada"
+msgid "I don't want to do that."
+msgstr ""
+
+msgctxt "440_Akiyama"
+msgid "Why not?"
+msgstr ""
+
+msgctxt "452_Shinada"
+msgid ""
+"Dojima-kun's already given me another crack at my dream. That's more than "
+"enough reward."
+msgstr ""
+
+msgctxt "464_Shinada"
+msgid "I never should have taken the twenty million yen."
+msgstr ""
+
+msgctxt "476_Akiyama"
+msgid ""
+"Wait, so you wanna go into debt again so you can return the 20 mil to "
+"Dojima-san? That's stupid!"
+msgstr ""
+
+msgctxt "488_Shinada"
+msgid "No need to insult me..."
+msgstr ""
+
+msgctxt "500_Akiyama"
+msgid "Tch, well, I guess your heart's in the right place."
+msgstr ""
+
+msgctxt "512_Shinada"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "524_Akiyama"
+msgid "I knew there was something odd about that sum. Anyway..."
+msgstr ""
+
+msgctxt "536_Akiyama"
+msgid "I get the picture now."
+msgstr ""
+
+msgctxt "596_Akiyama"
+msgid "Yeah, I wouldn't be surprised if all these events were linked somehow."
+msgstr ""
+
+msgctxt "608_Shinada"
+msgid "Me neither."
+msgstr ""
+
+msgctxt "620_Akiyama"
+msgid "There's just one problem."
+msgstr ""
+
+msgctxt "632_Akiyama"
+msgid "The girl who's doing that concert－Haruka Sawamura－she's under my care."
+msgstr ""
+
+msgctxt "644_Shinada"
+msgid "What!? Are you serious!?"
+msgstr ""
+
+msgctxt "656_Akiyama"
+msgid ""
+"And unfortunately, both she and I are committed to her performing. No "
+"matter what."
+msgstr ""
+
+msgctxt "668_Akiyama"
+msgid ""
+"She's actually been continuing her lessons in private with folks from her "
+"agency."
+msgstr ""
+
+msgctxt "680_Akiyama"
+msgid ""
+"And I already turned down someone else's offer to stop the concert. And let "
+"me tell you, that guy was willing to pay a lot!"
+msgstr ""
+
+msgctxt "692_Shinada"
+msgid "But we have no idea how dangerous this might be!"
+msgstr ""
+
+msgctxt "704_Akiyama"
+msgid "I realize the risk, but I won't give up on the show so easily."
+msgstr ""
+
+msgctxt "716_Akiyama"
+msgid "A lot of people's dreams are riding on it."
+msgstr ""
+
+msgctxt "728_Shinada"
+msgid "Dreams, huh?"
+msgstr ""
+
+msgctxt "740_Akiyama"
+msgid ""
+"That said, if we hold the event anyway, there's no guarantee the audience "
+"will be safe."
+msgstr ""
+
+msgctxt "752_Akiyama"
+msgid ""
+"We've got to do all we can to eliminate any threats. I agree with you on "
+"that front."
+msgstr ""
+
+msgctxt "764_Shinada"
+msgid "If you agreed you'd cancel the event."
+msgstr ""
+
+msgctxt "776_Akiyama"
+msgid "I can't do that."
+msgstr ""
+
+msgctxt "788_Akiyama"
+msgid ""
+"If I did, Haruka-chan's dream would be dead－a dream that Park-san "
+"sacrificed so much for."
+msgstr ""
+
+msgctxt "800_Akiyama"
+msgid ""
+"You have to seize your dreams when you can. There might not be a second "
+"chance."
+msgstr ""
+
+msgctxt "812_Akiyama"
+msgid "Just like that home run of yours."
+msgstr ""
+
+msgctxt "824_Shinada"
+msgid "......"
+msgstr ""
+
+msgctxt "836_Akiyama"
+msgid "Haruka-chan will live her dream. And I'll make sure she won't be in danger."
+msgstr ""
+
+msgctxt "848_Shinada"
+msgid "How will you do that?"
+msgstr ""
+
+msgctxt "860_Akiyama"
+msgid "The first step is... we have to find out what they've got planned."
+msgstr ""
+
+msgctxt "920_Shinada"
+msgid "How are we going to do that? We don't have any leads on the Kuroha Family."
+msgstr ""
+
+msgctxt "932_Akiyama"
+msgid ""
+"True. But Katsuya said he'd already talked with the event organizers about "
+"canceling."
+msgstr ""
+
+msgctxt "944_Akiyama"
+msgid ""
+"There's no way he did that without using a ton of money, or maybe violence, "
+"to put on the pressure."
+msgstr ""
+
+msgctxt "956_Akiyama"
+msgid ""
+"How else could you nix an event at a venue like the Japan Dome? And just "
+"two days in advance?"
+msgstr ""
+
+msgctxt "968_Shinada"
+msgid "Unless the organizer was already in cahoots with Katsuya."
+msgstr ""
+
+msgctxt "980_Akiyama"
+msgid "Fun thought, eh? All right then, let's go play detective with Katsuya!"
+msgstr ""
+
+msgctxt "992_Shinada"
+msgid ""
+"Now? Fine, no time like the present. So we just show up there? Do you even "
+"know where he's at?"
+msgstr ""
+
+msgctxt "1004_Akiyama"
+msgid "His company is MAO, Inc. As for its location..."
+msgstr ""
+
+msgctxt "1016_Shinada"
+msgid "What?"
+msgstr ""
+
+msgctxt "1028_Akiyama"
+msgid ""
+"No one knows where they are. Not even Yamaura-san, and she runs Dyna Chair "
+"now!"
+msgstr ""
+
+msgctxt "1040_Shinada"
+msgid "How does that happen?"
+msgstr ""
+
+msgctxt "1052_Akiyama"
+msgid ""
+"The company can be reached, but no matter what you ask, they say you have "
+"to talk to the president."
+msgstr ""
+
+msgctxt "1064_Akiyama"
+msgid "And when you ask where the president is, they say they don't know."
+msgstr ""
+
+msgctxt "1076_Shinada"
+msgid "That's ridiculous."
+msgstr ""
+
+msgctxt "1088_Akiyama"
+msgid ""
+"Yeah, but there's not much we can do about it. And hey, we don't have time "
+"for normal avenues like that anyway."
+msgstr ""
+
+msgctxt "1100_Shinada"
+msgid "What's our move, then? We have to find out where that president is."
+msgstr ""
+
+msgctxt "1112_Akiyama"
+msgid "Yep, and we should ask the people who know this town better than anyone."
+msgstr ""
+
+msgctxt "1124_Shinada"
+msgid "Who?"
+msgstr ""
+
+msgctxt "1136_Akiyama"
+msgid ""
+"The homeless. I've got connections with them. I used to be homeless myself, "
+"years ago."
+msgstr ""
+
+msgctxt "1148_Shinada"
+msgid "Huh. Interesting circle of friends you got."
+msgstr ""
+
+msgctxt "1160_Akiyama"
+msgid "You bet. Let's see who we can find."
+msgstr ""

@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "132"
+msgid "You got a <Color:8>Staminan Spark<Color:Default>."
+msgstr ""
+
+msgctxt "228"
+msgid "You got <Color:8>Sacrifice Stone<Color:Default>."
+msgstr ""
+
+msgctxt "10292"
+msgid "Cho-han Dealer"
+msgstr ""
+
+msgctxt "10296"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "10300"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "10304"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "10308"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "10312"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "10316"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "10320"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "10324"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "10328"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "10332"
+msgid "F_NML_TLK_stand_angry"
+msgstr ""
+
+msgctxt "10336"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "10340"
+msgid "Dealer"
+msgstr ""
+
+msgctxt "10344"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "72_Cho-han Dealer"
+msgid "That didn't go well. At all."
+msgstr ""
+
+msgctxt "84_Kiryu"
+msgid "Sorry."
+msgstr ""
+
+msgctxt "96_Cho-han Dealer"
+msgid "Heh. Sometimes you're lucky, sometimes you're not. It's not your fault."
+msgstr ""
+
+msgctxt "108_Cho-han Dealer"
+msgid "Thanks for keeping me company today. Take this, with my thanks."
+msgstr ""
+
+msgctxt "156_Cho-han Dealer"
+msgid ""
+"I had a good time, but I have to go now. Drop by again to play cho-han, "
+"okay?"
+msgstr ""
+
+msgctxt "168_Cho-han Dealer"
+msgid "I've never won like this before. I can't believe it."
+msgstr ""
+
+msgctxt "180_Kiryu"
+msgid "Feeling more confident now?"
+msgstr ""
+
+msgctxt "192_Cho-han Dealer"
+msgid "Much more confident... Thank you. I'm glad I asked you to help me."
+msgstr ""
+
+msgctxt "204_Cho-han Dealer"
+msgid "Thanks for keeping me company today. Take this, with my thanks."
+msgstr ""
+
+msgctxt "252_Cho-han Dealer"
+msgid ""
+"Oh, that's right. We had a bet going. I won at roulette, but you clearly "
+"won our wager."
+msgstr ""
+
+msgctxt "264_Cho-han Dealer"
+msgid "Here, I'll give you something nice. Can you close your eyes?"
+msgstr ""
+
+msgctxt "276_Kiryu"
+msgid "What for?"
+msgstr ""
+
+msgctxt "288_Cho-han Dealer"
+msgid "Just do it!"
+msgstr ""
+
+msgctxt "348_Cho-han Dealer"
+msgid "It's not much, but..."
+msgstr ""
+
+msgctxt "360_Kiryu"
+msgid "Heh. Couldn't have asked for a better tip."
+msgstr ""
+
+msgctxt "372_Cho-han Dealer"
+msgid "Hmph! Well, that was fun, our date. Drop by for some cho-han again. See you."
+msgstr ""
+
+msgctxt "432_Kiryu"
+msgid "A casino?"
+msgstr ""
+
+msgctxt "444_Cho-han Dealer"
+msgid "You're disappointed? Don't tell me you had your hopes up for something else."
+msgstr ""
+
+msgctxt "456_Kiryu"
+msgid ""
+"It's not that. I was just surprised that you－the face of the gambling "
+"hall－would choose a casino."
+msgstr ""
+
+msgctxt "468_Cho-han Dealer"
+msgid "......"
+msgstr ""
+
+msgctxt "480_Kiryu"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "492_Cho-han Dealer"
+msgid "There's actually a reason why I wanted to come here with you."
+msgstr ""
+
+msgctxt "504_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "516_Cho-han Dealer"
+msgid ""
+"I live in the world of gambling. Above all, I'm a cho-han dealer. Like you "
+"said, I'm the face of the gambling hall."
+msgstr ""
+
+msgctxt "528_Cho-han Dealer"
+msgid "So I have to be an expert in all kinds of gambling. That's what a pro does."
+msgstr ""
+
+msgctxt "540_Cho-han Dealer"
+msgid ""
+"Despite all that... I just can't get a feel for roulette. Believe me, I "
+"played it a lot, but I can't seem to win."
+msgstr ""
+
+msgctxt "552_Cho-han Dealer"
+msgid ""
+"I need to fill this hole in my repertoire. I want to feel confident about "
+"it. Of course, I can't say this to the boys at the hall."
+msgstr ""
+
+msgctxt "564_Kiryu"
+msgid "And that's where I come in."
+msgstr ""
+
+msgctxt "576_Cho-han Dealer"
+msgid "You catch on fast."
+msgstr ""
+
+msgctxt "588_Kiryu"
+msgid "So what do you want me to do?"
+msgstr ""
+
+msgctxt "600_Cho-han Dealer"
+msgid ""
+"Well, I was hoping you could show me that it's actually possible to win at "
+"roulette."
+msgstr ""
+
+msgctxt "612_Dealer"
+msgid "Excuse me, sir. Would you care to play as the dealer?"
+msgstr ""
+
+msgctxt "624_Dealer"
+msgid "Perhaps you could give a demonstration of your mastery to your guest."
+msgstr ""
+
+msgctxt "636_Cho-han Dealer"
+msgid "Whoa, really?"
+msgstr ""
+
+msgctxt "648_Kiryu"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt "660_Dealer"
+msgid "Most certainly. After all, you are a valued regular of the Dragon Palace."
+msgstr ""
+
+msgctxt "672_Kiryu"
+msgid "What do you think?"
+msgstr ""
+
+msgctxt "684_Cho-han Dealer"
+msgid ""
+"Heh. It sounds like a perfect opportunity. While we're at it, what do you "
+"say to a little wager?"
+msgstr ""
+
+msgctxt "696_Kiryu"
+msgid "You mean besides chips? What do you want to bet?"
+msgstr ""
+
+msgctxt "708_Cho-han Dealer"
+msgid ""
+"I'm going to bet three times. Let me win and get my confidence up. If you "
+"can do that... I'll give you something nice."
+msgstr ""
+
+msgctxt "720_Kiryu"
+msgid "Fair enough. Let's do this."
+msgstr ""

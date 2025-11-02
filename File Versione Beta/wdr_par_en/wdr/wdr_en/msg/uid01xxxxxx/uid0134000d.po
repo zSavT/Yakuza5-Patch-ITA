@@ -1,0 +1,1242 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "31232"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "31236"
+msgid "Kaguya"
+msgstr ""
+
+msgctxt "31240"
+msgid "cab_kaguya_q_01/kaguya_25_0001"
+msgstr ""
+
+msgctxt "31244"
+msgid "○Food"
+msgstr ""
+
+msgctxt "31248"
+msgid "□TV"
+msgstr ""
+
+msgctxt "31252"
+msgid "△Gifts"
+msgstr ""
+
+msgctxt "31256"
+msgid "cab_kaguya_q_01/kaguya_25_0002"
+msgstr ""
+
+msgctxt "31260"
+msgid "○Any food in particular?"
+msgstr ""
+
+msgctxt "31264"
+msgid "□How 'bout alcohol?"
+msgstr ""
+
+msgctxt "31268"
+msgid "F_CAB_TLK_sitsofa_laugh_m"
+msgstr ""
+
+msgctxt "31272"
+msgid "cab_kaguya_q_01/kaguya_25_0003"
+msgstr ""
+
+msgctxt "31276"
+msgid "cab_kaguya_q_01/kaguya_25_0004"
+msgstr ""
+
+msgctxt "31280"
+msgid "cab_kaguya_q_01/kaguya_25_0005"
+msgstr ""
+
+msgctxt "31284"
+msgid "cab_kaguya_q_01/kaguya_25_0006"
+msgstr ""
+
+msgctxt "31288"
+msgid "F_CAB_TLK_sitsofa_omoituku"
+msgstr ""
+
+msgctxt "31292"
+msgid "cab_kaguya_q_01/kaguya_25_0007"
+msgstr ""
+
+msgctxt "31296"
+msgid "cab_kaguya_q_01/kaguya_25_0008"
+msgstr ""
+
+msgctxt "31300"
+msgid "F_CAB_TLK_sitsofa_maenomeri"
+msgstr ""
+
+msgctxt "31304"
+msgid "cab_kaguya_q_01/kaguya_25_0009"
+msgstr ""
+
+msgctxt "31308"
+msgid "cab_kaguya_q_01/kaguya_25_0010"
+msgstr ""
+
+msgctxt "31312"
+msgid "cab_kaguya_q_01/kaguya_25_0011"
+msgstr ""
+
+msgctxt "31316"
+msgid "F_CAB_TLK_sitsofa_yes_02"
+msgstr ""
+
+msgctxt "31320"
+msgid "cab_kaguya_q_01/kaguya_25_0012"
+msgstr ""
+
+msgctxt "31324"
+msgid "F_CAB_TLK_sitsofa_think"
+msgstr ""
+
+msgctxt "31328"
+msgid "cab_kaguya_q_02/kaguya_26_0001"
+msgstr ""
+
+msgctxt "31332"
+msgid "○Lounging around and doin' what?"
+msgstr ""
+
+msgctxt "31336"
+msgid "□That ain't a hobby."
+msgstr ""
+
+msgctxt "31340"
+msgid "cab_kaguya_q_02/kaguya_26_0002"
+msgstr ""
+
+msgctxt "31344"
+msgid "○What kinda cats?"
+msgstr ""
+
+msgctxt "31348"
+msgid "□Don't ya go to movie theaters?"
+msgstr ""
+
+msgctxt "31352"
+msgid "cab_kaguya_q_02/kaguya_26_0003"
+msgstr ""
+
+msgctxt "31356"
+msgid "cab_kaguya_q_02/kaguya_26_0004"
+msgstr ""
+
+msgctxt "31360"
+msgid "cab_kaguya_q_02/kaguya_26_0005"
+msgstr ""
+
+msgctxt "31364"
+msgid "F_CAB_TLK_sitsofa_no_02"
+msgstr ""
+
+msgctxt "31368"
+msgid "cab_kaguya_q_02/kaguya_26_0006"
+msgstr ""
+
+msgctxt "31372"
+msgid "cab_kaguya_q_02/kaguya_26_0007"
+msgstr ""
+
+msgctxt "31376"
+msgid "cab_kaguya_q_02/kaguya_26_0008"
+msgstr ""
+
+msgctxt "31380"
+msgid "cab_kaguya_q_02/kaguya_26_0009"
+msgstr ""
+
+msgctxt "31384"
+msgid "cab_kaguya_q_02/kaguya_26_0010"
+msgstr ""
+
+msgctxt "31388"
+msgid "○I wouldn't of guessed."
+msgstr ""
+
+msgctxt "31392"
+msgid "□But that's for work!"
+msgstr ""
+
+msgctxt "31396"
+msgid "cab_kaguya_q_02/kaguya_26_0011"
+msgstr ""
+
+msgctxt "31400"
+msgid "cab_kaguya_q_02/kaguya_26_0012"
+msgstr ""
+
+msgctxt "31404"
+msgid "cab_kaguya_q_02/kaguya_26_0013"
+msgstr ""
+
+msgctxt "31408"
+msgid "cab_kaguya_q_02/kaguya_26_0014"
+msgstr ""
+
+msgctxt "31412"
+msgid "cab_kaguya_q_02/kaguya_26_0015"
+msgstr ""
+
+msgctxt "31416"
+msgid "cab_kaguya_q_03/kaguya_27_0001"
+msgstr ""
+
+msgctxt "31420"
+msgid "○Where do ya go on dates?"
+msgstr ""
+
+msgctxt "31424"
+msgid "□When ya fall in love."
+msgstr ""
+
+msgctxt "31428"
+msgid "△What age do ya look for?"
+msgstr ""
+
+msgctxt "31432"
+msgid "F_CAB_TLK_sitsofa_shigusa_01"
+msgstr ""
+
+msgctxt "31436"
+msgid "cab_kaguya_q_03/kaguya_27_0002"
+msgstr ""
+
+msgctxt "31440"
+msgid "cab_kaguya_q_03/kaguya_27_0003"
+msgstr ""
+
+msgctxt "31444"
+msgid "cab_kaguya_q_03/kaguya_27_0004"
+msgstr ""
+
+msgctxt "31448"
+msgid "cab_kaguya_q_03/kaguya_27_0005"
+msgstr ""
+
+msgctxt "31452"
+msgid "cab_kaguya_q_03/kaguya_27_0006"
+msgstr ""
+
+msgctxt "31456"
+msgid "cab_kaguya_q_03/kaguya_27_0007"
+msgstr ""
+
+msgctxt "31460"
+msgid "cab_kaguya_q_03/kaguya_27_0008"
+msgstr ""
+
+msgctxt "31464"
+msgid "cab_kaguya_q_03/kaguya_27_0009"
+msgstr ""
+
+msgctxt "31468"
+msgid "cab_kaguya_q_03/kaguya_27_0010"
+msgstr ""
+
+msgctxt "31472"
+msgid "○A man's gotta be reliable."
+msgstr ""
+
+msgctxt "31476"
+msgid "□Would ya date an old guy then?"
+msgstr ""
+
+msgctxt "31480"
+msgid "cab_kaguya_q_03/kaguya_27_0011"
+msgstr ""
+
+msgctxt "31484"
+msgid "cab_kaguya_q_03/kaguya_27_0012"
+msgstr ""
+
+msgctxt "31488"
+msgid "cab_kaguya_q_03/kaguya_27_0013"
+msgstr ""
+
+msgctxt "31492"
+msgid "F_CAB_TLK_sitsofa_sorry"
+msgstr ""
+
+msgctxt "31496"
+msgid "cab_kaguya_q_03/kaguya_27_0014"
+msgstr ""
+
+msgctxt "31500"
+msgid "F_CAB_TLK_sitsofa_resit"
+msgstr ""
+
+msgctxt "31504"
+msgid "cab_kaguya_q_04/kaguya_28_0001"
+msgstr ""
+
+msgctxt "31508"
+msgid "○Got any special talents?"
+msgstr ""
+
+msgctxt "31512"
+msgid "□Got any siblings?"
+msgstr ""
+
+msgctxt "31516"
+msgid "△What's yer real name?"
+msgstr ""
+
+msgctxt "31520"
+msgid "cab_kaguya_q_04/kaguya_28_0002"
+msgstr ""
+
+msgctxt "31524"
+msgid "cab_kaguya_q_04/kaguya_28_0003"
+msgstr ""
+
+msgctxt "31528"
+msgid "cab_kaguya_q_04/kaguya_28_0004"
+msgstr ""
+
+msgctxt "31532"
+msgid "cab_kaguya_q_04/kaguya_28_0005"
+msgstr ""
+
+msgctxt "31536"
+msgid "cab_kaguya_q_04/kaguya_28_0006"
+msgstr ""
+
+msgctxt "31540"
+msgid "cab_kaguya_q_04/kaguya_28_0007"
+msgstr ""
+
+msgctxt "31544"
+msgid "○And yer the big sister."
+msgstr ""
+
+msgctxt "31548"
+msgid "□But we're nothin' alike."
+msgstr ""
+
+msgctxt "31552"
+msgid "△Say that again."
+msgstr ""
+
+msgctxt "31556"
+msgid "cab_kaguya_q_04/kaguya_28_0008"
+msgstr ""
+
+msgctxt "31560"
+msgid "cab_kaguya_q_04/kaguya_28_0009"
+msgstr ""
+
+msgctxt "31564"
+msgid "cab_kaguya_q_04/kaguya_28_0010"
+msgstr ""
+
+msgctxt "31568"
+msgid "cab_kaguya_q_04/kaguya_28_0011"
+msgstr ""
+
+msgctxt "31572"
+msgid "cab_kaguya_q_04/kaguya_28_0012"
+msgstr ""
+
+msgctxt "31576"
+msgid "cab_kaguya_q_04/kaguya_28_0013"
+msgstr ""
+
+msgctxt "31580"
+msgid "cab_kaguya_q_04/kaguya_28_0014"
+msgstr ""
+
+msgctxt "31584"
+msgid "cab_kaguya_q_04/kaguya_28_0015"
+msgstr ""
+
+msgctxt "31588"
+msgid "cab_kaguya_q_04/kaguya_28_0016"
+msgstr ""
+
+msgctxt "31592"
+msgid "cab_kaguya_q_04/kaguya_28_0017"
+msgstr ""
+
+msgctxt "31596"
+msgid "cab_kaguya_q_05/kaguya_29_0001"
+msgstr ""
+
+msgctxt "31600"
+msgid "○What are yer measurements?"
+msgstr ""
+
+msgctxt "31604"
+msgid "□Do ya want kids?"
+msgstr ""
+
+msgctxt "31608"
+msgid "△Are you a dom or a sub?"
+msgstr ""
+
+msgctxt "31612"
+msgid "cab_kaguya_q_05/kaguya_29_0002"
+msgstr ""
+
+msgctxt "31616"
+msgid "cab_kaguya_q_05/kaguya_29_0003"
+msgstr ""
+
+msgctxt "31620"
+msgid "cab_kaguya_q_05/kaguya_29_0004"
+msgstr ""
+
+msgctxt "31624"
+msgid "○Do ya want a boy or a girl?"
+msgstr ""
+
+msgctxt "31628"
+msgid "△How 'bout adoption?"
+msgstr ""
+
+msgctxt "31632"
+msgid "cab_kaguya_q_05/kaguya_29_0005"
+msgstr ""
+
+msgctxt "31636"
+msgid "○Me too."
+msgstr ""
+
+msgctxt "31640"
+msgid "□How come?"
+msgstr ""
+
+msgctxt "31644"
+msgid "cab_kaguya_q_05/kaguya_29_0006"
+msgstr ""
+
+msgctxt "31648"
+msgid "cab_kaguya_q_05/kaguya_29_0007"
+msgstr ""
+
+msgctxt "31652"
+msgid "cab_kaguya_q_05/kaguya_29_0008"
+msgstr ""
+
+msgctxt "31656"
+msgid "cab_kaguya_q_05/kaguya_29_0009"
+msgstr ""
+
+msgctxt "31660"
+msgid "cab_kaguya_q_05/kaguya_29_0010"
+msgstr ""
+
+msgctxt "31664"
+msgid "cab_kaguya_q_05/kaguya_29_0011"
+msgstr ""
+
+msgctxt "31668"
+msgid "cab_kaguya_q_05/kaguya_29_0012"
+msgstr ""
+
+msgctxt "31672"
+msgid "cab_kaguya_q_05/kaguya_29_0013"
+msgstr ""
+
+msgctxt "31676"
+msgid "○I knew it."
+msgstr ""
+
+msgctxt "31680"
+msgid "□I wouldn't of guessed."
+msgstr ""
+
+msgctxt "31684"
+msgid "cab_kaguya_q_05/kaguya_29_0014"
+msgstr ""
+
+msgctxt "31688"
+msgid "cab_kaguya_q_05/kaguya_29_0015"
+msgstr ""
+
+msgctxt "284_Saejima"
+msgid "So, whaddya like?"
+msgstr ""
+
+msgctxt "296_Kaguya"
+msgid "Hm? What do I like in terms of what?"
+msgstr ""
+
+msgctxt "308_Saejima"
+msgid "Do ya got any favorite foods ya like to eat?"
+msgstr ""
+
+msgctxt "320_Kaguya"
+msgid "Oh, I like a lot of things."
+msgstr ""
+
+msgctxt "332_Saejima"
+msgid "Any food in particular ya like?"
+msgstr ""
+
+msgctxt "344_Kaguya"
+msgid "I'm a big fan of uni!"
+msgstr ""
+
+msgctxt "356_Saejima"
+msgid "Uni, huh? Hokkaido's got plenty of seafood. Do ya eat sushi a lot?"
+msgstr ""
+
+msgctxt "368_Kaguya"
+msgid ""
+"Sushi's good, but I really like rice bowls with uni! Nothing beats a bowl "
+"of white rice topped with a ton of sea urchin!"
+msgstr ""
+
+msgctxt "380_Saejima"
+msgid "Yeah, that sounds pretty good. You Hokkaido folks got good taste."
+msgstr ""
+
+msgctxt "392_Saejima"
+msgid "How 'bout alcohol?"
+msgstr ""
+
+msgctxt "404_Kaguya"
+msgid "Wine. Especially red."
+msgstr ""
+
+msgctxt "416_Saejima"
+msgid "Red wine, huh? Ya drink that a lot?"
+msgstr ""
+
+msgctxt "428_Kaguya"
+msgid ""
+"Oh yeah. Sometimes I drink until I drop! Most of the time I don't remember "
+"anything that happens though."
+msgstr ""
+
+msgctxt "440_Saejima"
+msgid "Yeah? I can see ya doin' that."
+msgstr ""
+
+msgctxt "452_Saejima"
+msgid "What kinds of TV do ya watch?"
+msgstr ""
+
+msgctxt "464_Kaguya"
+msgid ""
+"Martial arts shows, of course! Waking up to the sound of that gong gets me "
+"all rarin' to go for another new day!"
+msgstr ""
+
+msgctxt "476_Saejima"
+msgid "They don't show martial arts stuff in the mornin', do they?"
+msgstr ""
+
+msgctxt "488_Kaguya"
+msgid "It's recorded, of course! I'll watch matches I like over and over again!"
+msgstr ""
+
+msgctxt "500_Saejima"
+msgid "Yer kinda obsessed, huh?"
+msgstr ""
+
+msgctxt "512_Saejima"
+msgid "Is there anythin' ya want right now?"
+msgstr ""
+
+msgctxt "524_Kaguya"
+msgid "Are you asking about Christmas presents?"
+msgstr ""
+
+msgctxt "536_Saejima"
+msgid "I'm just askin' to ask."
+msgstr ""
+
+msgctxt "548_Kaguya"
+msgid "Oh, you know what I want? A smartphone!"
+msgstr ""
+
+msgctxt "560_Saejima"
+msgid ""
+"A smartphone? Ain't those just regular phones? Ya already got a cell phone, "
+"right?"
+msgstr ""
+
+msgctxt "572_Kaguya"
+msgid ""
+"No, they're even better! I see our customers tap-tapping away all the time, "
+"and it makes me really want one."
+msgstr ""
+
+msgctxt "584_Saejima"
+msgid ""
+"I can barely manage a normal phone. I think all that other crap would make "
+"it even harder for me to use."
+msgstr ""
+
+msgctxt "596_Kaguya"
+msgid ""
+"I'd probably find it fun at first myself, and then get bored really quick. "
+"I don't use my phone that much to begin with."
+msgstr ""
+
+msgctxt "608_Saejima"
+msgid "Ya oughta get somethin' else then."
+msgstr ""
+
+msgctxt "620_Saejima"
+msgid "What sorta hobbies ya got?"
+msgstr ""
+
+msgctxt "632_Kaguya"
+msgid "Hmm... Lounging around the house, I suppose!"
+msgstr ""
+
+msgctxt "644_Saejima"
+msgid "Lounging around and doin' what? Watchin' TV and stuff?"
+msgstr ""
+
+msgctxt "656_Kaguya"
+msgid "I guess I play with my cats a bit. And I watch movies, when I feel like it."
+msgstr ""
+
+msgctxt "668_Saejima"
+msgid "What kinda cats?"
+msgstr ""
+
+msgctxt "680_Kaguya"
+msgid "A white one and a black one, both female."
+msgstr ""
+
+msgctxt "692_Saejima"
+msgid "Two, huh? Must be a handful."
+msgstr ""
+
+msgctxt "704_Kaguya"
+msgid ""
+"Hehe. When I'm in bed, they'll climb up onto my belly and have themselves a "
+"snooze!"
+msgstr ""
+
+msgctxt "716_Kaguya"
+msgid ""
+"I wish they wouldn't dump their weight on me like that, but they're so cute "
+"I don't mind letting them sleep with me."
+msgstr ""
+
+msgctxt "728_Saejima"
+msgid "Is sleepin' all ya ever do?"
+msgstr ""
+
+msgctxt "740_Saejima"
+msgid "Don't ya go to movie theaters?"
+msgstr ""
+
+msgctxt "752_Kaguya"
+msgid "No. I don't leave the house much in general."
+msgstr ""
+
+msgctxt "764_Saejima"
+msgid "But don't ya still gotta leave the house to rent movies?"
+msgstr ""
+
+msgctxt "776_Kaguya"
+msgid ""
+"Oh, I just watch digital downloads, from the internet. You pay once and can "
+"watch as many as you want, for a whole week!"
+msgstr ""
+
+msgctxt "788_Saejima"
+msgid "Wow, they got services like that now? Times really have changed."
+msgstr ""
+
+msgctxt "800_Kaguya"
+msgid ""
+"It's also handy because there's no late fees for forgetting to return "
+"anything!"
+msgstr ""
+
+msgctxt "812_Saejima"
+msgid "That ain't a hobby. There's gotta be somethin' ya do while yer indoors."
+msgstr ""
+
+msgctxt "824_Kaguya"
+msgid "Hmm... I guess I write a blog."
+msgstr ""
+
+msgctxt "836_Saejima"
+msgid "Oh? Whaddya write about?"
+msgstr ""
+
+msgctxt "848_Kaguya"
+msgid "Just stuff like, \"Hey, I'm at work today!\""
+msgstr ""
+
+msgctxt "860_Saejima"
+msgid "I wouldn't of guessed. I thought you were lazier than that."
+msgstr ""
+
+msgctxt "872_Kaguya"
+msgid ""
+"Yeah, but if I don't update it my manager gets mad. Since it's a pain to "
+"think of what to write, I usually just upload photos from my phone."
+msgstr ""
+
+msgctxt "884_Saejima"
+msgid "Sounds like yer really into it."
+msgstr ""
+
+msgctxt "896_Kaguya"
+msgid ""
+"I'd rather not post pictures of myself on a webpage like that, but if I "
+"don't nobody will request me."
+msgstr ""
+
+msgctxt "908_Saejima"
+msgid "Guess yer workin' hard after all."
+msgstr ""
+
+msgctxt "920_Saejima"
+msgid "But that's for work! That ain't a hobby."
+msgstr ""
+
+msgctxt "932_Kaguya"
+msgid "What? Okay, then... How about drinking?"
+msgstr ""
+
+msgctxt "944_Saejima"
+msgid "But ya drink at work, too."
+msgstr ""
+
+msgctxt "956_Kaguya"
+msgid ""
+"When my shift is over, I go out to drink at bars sometimes! One of my "
+"friends works at a girls' bar."
+msgstr ""
+
+msgctxt "968_Saejima"
+msgid ""
+"A girls' bar? Those're the ones with female bartenders, right? That's kinda "
+"like a cabaret club. Why woulda girl wanna go to one?"
+msgstr ""
+
+msgctxt "980_Kaguya"
+msgid ""
+"Female customers don't have to pay a cover charge. It's a better deal than "
+"a normal bar!"
+msgstr ""
+
+msgctxt "992_Saejima"
+msgid "Huh, I had no idea."
+msgstr ""
+
+msgctxt "1004_Saejima"
+msgid "Whaddya do when it comes to datin' guys?"
+msgstr ""
+
+msgctxt "1016_Kaguya"
+msgid "Hmm? What do you mean?"
+msgstr ""
+
+msgctxt "1028_Saejima"
+msgid "What places do ya like goin' to on dates?"
+msgstr ""
+
+msgctxt "1040_Kaguya"
+msgid "Let me think... I like going to the movies."
+msgstr ""
+
+msgctxt "1052_Saejima"
+msgid "Movies? That's pretty typical."
+msgstr ""
+
+msgctxt "1064_Kaguya"
+msgid ""
+"They've got 3D movies now, you know? Where you have to wear glasses. I can "
+"wear those and then nobody can tell if I fall asleep."
+msgstr ""
+
+msgctxt "1076_Saejima"
+msgid "Seriously?"
+msgstr ""
+
+msgctxt "1088_Kaguya"
+msgid ""
+"If it's a movie I've already seen I know what happens, so I can still talk "
+"about it after it's over. That's my routine when I go out with clients."
+msgstr ""
+
+msgctxt "1100_Saejima"
+msgid "If ya don't wanna go out, then just say so..."
+msgstr ""
+
+msgctxt "1112_Saejima"
+msgid "What's it like when ya fall for a guy? Do ya tell them ya like 'em?"
+msgstr ""
+
+msgctxt "1124_Kaguya"
+msgid "Yeah, I go on the offensive pretty fast."
+msgstr ""
+
+msgctxt "1136_Saejima"
+msgid "I see. Yer more forward than I woulda expected."
+msgstr ""
+
+msgctxt "1148_Kaguya"
+msgid ""
+"Well that way, if he's into me, I've caught a lucky break. And if he's not, "
+"then I find out right away and can move on to my next love."
+msgstr ""
+
+msgctxt "1160_Saejima"
+msgid "Ya make it sound so simple. Ya don't get shaken up from bein' rejected?"
+msgstr ""
+
+msgctxt "1172_Kaguya"
+msgid ""
+"If I tell a guy when I first feel like I'm interested, it's not big deal if "
+"he turns me down. It's better than pining after him forever."
+msgstr ""
+
+msgctxt "1184_Saejima"
+msgid "Heh. Yer a real no-nonsense gal, aren't ya?"
+msgstr ""
+
+msgctxt "1196_Saejima"
+msgid "How old do ya like yer guys?"
+msgstr ""
+
+msgctxt "1208_Kaguya"
+msgid "Oh, I am waaay into older guys!"
+msgstr ""
+
+msgctxt "1220_Saejima"
+msgid "Really now? How come?"
+msgstr ""
+
+msgctxt "1232_Kaguya"
+msgid ""
+"How come? Because younger guys don't really feel like men to me. They're "
+"kind of childish, I think."
+msgstr ""
+
+msgctxt "1244_Kaguya"
+msgid ""
+"Older guys are better looking and more distinguished, too. They're way more "
+"reliable!"
+msgstr ""
+
+msgctxt "1256_Saejima"
+msgid ""
+"A man's gotta be reliable. Ones who use a woman to support 'em are no good "
+"in my book."
+msgstr ""
+
+msgctxt "1268_Kaguya"
+msgid ""
+"I hear you there! I can't stand guys who don't have jobs. But I'm guessing "
+"that's not an issue with you, Saejima-san."
+msgstr ""
+
+msgctxt "1280_Saejima"
+msgid "Uh, well, I am kinda takin' a break from work right now..."
+msgstr ""
+
+msgctxt "1292_Kaguya"
+msgid ""
+"What!? Really? Shouldn't you be off at a job somewhere instead of hanging "
+"out at a club like this?"
+msgstr ""
+
+msgctxt "1304_Saejima"
+msgid "Yer the last person I wanna hear that from..."
+msgstr ""
+
+msgctxt "1316_Saejima"
+msgid "Would ya date an old guy then?"
+msgstr ""
+
+msgctxt "1328_Kaguya"
+msgid ""
+"Not if he's some decrepit old grandpa, but if he's in good shape, then I'd "
+"be okay with that."
+msgstr ""
+
+msgctxt "1340_Saejima"
+msgid "Really? Even if he's baldin' and stuff?"
+msgstr ""
+
+msgctxt "1352_Kaguya"
+msgid ""
+"That's super sexy, though. I'm really into that look some foreigners have, "
+"with shaved heads and beards."
+msgstr ""
+
+msgctxt "1364_Saejima"
+msgid "Guess bein' bald has its perks."
+msgstr ""
+
+msgctxt "1376_Saejima"
+msgid "Mind if I ask ya somethin' about yerself?"
+msgstr ""
+
+msgctxt "1388_Kaguya"
+msgid "What would you like to know?"
+msgstr ""
+
+msgctxt "1400_Saejima"
+msgid "Do ya got any special talents?"
+msgstr ""
+
+msgctxt "1412_Kaguya"
+msgid "Special talents? Hmm..."
+msgstr ""
+
+msgctxt "1424_Kaguya"
+msgid "Oh! I'm good at walking."
+msgstr ""
+
+msgctxt "1436_Saejima"
+msgid "What? How do ya mean?"
+msgstr ""
+
+msgctxt "1448_Kaguya"
+msgid ""
+"You know how in fashion shows the models need to walk with a sexy sort of "
+"shimmy to their shoulders and hips?"
+msgstr ""
+
+msgctxt "1460_Saejima"
+msgid "Oh, okay. I think I get what ya mean."
+msgstr ""
+
+msgctxt "1472_Kaguya"
+msgid ""
+"Sometimes when I'm out walking I'll do that, and get some guys to turn "
+"their heads! It's super, super fun!"
+msgstr ""
+
+msgctxt "1484_Saejima"
+msgid "I guess that's sort of a special talent."
+msgstr ""
+
+msgctxt "1496_Saejima"
+msgid "Do ya got any siblings?"
+msgstr ""
+
+msgctxt "1508_Kaguya"
+msgid "I have a younger sister."
+msgstr ""
+
+msgctxt "1520_Saejima"
+msgid "Hey, same as me."
+msgstr ""
+
+msgctxt "1532_Kaguya"
+msgid "Oh, so you're the big brother, huh?"
+msgstr ""
+
+msgctxt "1544_Saejima"
+msgid "And yer the big sister."
+msgstr ""
+
+msgctxt "1556_Kaguya"
+msgid "Well, my younger sister is already married and has kids."
+msgstr ""
+
+msgctxt "1568_Saejima"
+msgid "Really? She moves pretty fast."
+msgstr ""
+
+msgctxt "1580_Kaguya"
+msgid "Yeah. Thanks to her, I've already wound up as an aunt at my age."
+msgstr ""
+
+msgctxt "1592_Saejima"
+msgid "Nothin' wrong with that."
+msgstr ""
+
+msgctxt "1604_Saejima"
+msgid "But we're nothin' alike. My sister really had it together."
+msgstr ""
+
+msgctxt "1616_Kaguya"
+msgid ""
+"Same with me! My sister up and married her boss and has kids now. And I'm "
+"here without even a full time job."
+msgstr ""
+
+msgctxt "1628_Kaguya"
+msgid "You and me are like two peas in a pod, huh?"
+msgstr ""
+
+msgctxt "1640_Saejima"
+msgid "Ha! Seems so."
+msgstr ""
+
+msgctxt "1652_Saejima"
+msgid "Say that again."
+msgstr ""
+
+msgctxt "1664_Kaguya"
+msgid "Uh... So you're the big brother, Saejima-san?"
+msgstr ""
+
+msgctxt "1676_Saejima"
+msgid "Big brother, huh... Ngh..."
+msgstr ""
+
+msgctxt "1688_Kaguya"
+msgid "Saejima-san, is something the matter? Did... Did I say something wrong?"
+msgstr ""
+
+msgctxt "1700_Saejima"
+msgid "No, it's fine. Just... been a while since anyone called me that."
+msgstr ""
+
+msgctxt "1712_Saejima"
+msgid "Is Kaguya yer real name?"
+msgstr ""
+
+msgctxt "1724_Kaguya"
+msgid "Of course not. It's just my work name."
+msgstr ""
+
+msgctxt "1736_Saejima"
+msgid "Why'd ya go with Kaguya then?"
+msgstr ""
+
+msgctxt "1748_Kaguya"
+msgid ""
+"Well, we're in Tsukimino. \"Tsuki\" is moon, and Kaguya was the Moon "
+"Princess."
+msgstr ""
+
+msgctxt "1760_Saejima"
+msgid "Makes sense."
+msgstr ""
+
+msgctxt "1772_Kaguya"
+msgid ""
+"Everyone picks their hostess name like that. Some girls even take names "
+"from male idol singers they're fans of, like Ryo or Akira."
+msgstr ""
+
+msgctxt "1784_Saejima"
+msgid "Yeah, I guess those could be girls' names, too."
+msgstr ""
+
+msgctxt "1796_Kaguya"
+msgid ""
+"In Tokyo they take on surnames, too. They make sure not to use kanji that "
+"are too complicated, so that it looks cute."
+msgstr ""
+
+msgctxt "1808_Saejima"
+msgid "I see."
+msgstr ""
+
+msgctxt "1820_Saejima"
+msgid "So I've been wonderin' somethin'."
+msgstr ""
+
+msgctxt "1832_Kaguya"
+msgid "What's that?"
+msgstr ""
+
+msgctxt "1844_Saejima"
+msgid "What are yer measurements?"
+msgstr ""
+
+msgctxt "1856_Kaguya"
+msgid "Lemme think... 94, 58, 87 from top to bottom. And I'm a G-cup."
+msgstr ""
+
+msgctxt "1868_Saejima"
+msgid "I dunno what any of that means..."
+msgstr ""
+
+msgctxt "1880_Kaguya"
+msgid ""
+"Hehe. When other customers hear G-cup, their eyes go right to my breasts! "
+"But you're more innocent than that, Saejima-san!"
+msgstr ""
+
+msgctxt "1892_Saejima"
+msgid "Uh, I see."
+msgstr ""
+
+msgctxt "1904_Saejima"
+msgid "Do ya want kids?"
+msgstr ""
+
+msgctxt "1916_Kaguya"
+msgid ""
+"Getting married and giving birth sound like a huge pain. But I suppose it'd "
+"be fun to have kids around if I did."
+msgstr ""
+
+msgctxt "1928_Saejima"
+msgid "Would ya want a boy or a girl?"
+msgstr ""
+
+msgctxt "1940_Kaguya"
+msgid "Hmm. I guess I'd prefer a boy."
+msgstr ""
+
+msgctxt "1952_Saejima"
+msgid "Me too. I'd like to get a shot at raisin' a son tough enough to take me on."
+msgstr ""
+
+msgctxt "1964_Kaguya"
+msgid ""
+"I bet you'd be a passionate teacher. I'm way more hands-off. I'd be all, "
+"hey, do whatever you want."
+msgstr ""
+
+msgctxt "1976_Saejima"
+msgid "That's okay, too. I guess ya could say I sorta raised myself."
+msgstr ""
+
+msgctxt "1988_Kaguya"
+msgid "Hmm. I guess that could be a good way to raise a kid, too."
+msgstr ""
+
+msgctxt "2000_Saejima"
+msgid ""
+"Yeah. Maybe it's good fer a boy to be pushed out into the harshness of "
+"reality."
+msgstr ""
+
+msgctxt "2012_Saejima"
+msgid "How come?"
+msgstr ""
+
+msgctxt "2024_Kaguya"
+msgid "Because I feel a boy would be better at making money in the future!"
+msgstr ""
+
+msgctxt "2036_Kaguya"
+msgid "A girl would probably wind up becoming a lazy bum like me."
+msgstr ""
+
+msgctxt "2048_Saejima"
+msgid "Ya sure got a knack for thinkin' up useless situations."
+msgstr ""
+
+msgctxt "2060_Saejima"
+msgid "How 'bout adoption? Then ya wouldn't hafta get married."
+msgstr ""
+
+msgctxt "2072_Kaguya"
+msgid ""
+"I don't know. Can an unmarried part-timer like me even adopt a child? I can "
+"barely afford to support my own lifestyle."
+msgstr ""
+
+msgctxt "2084_Saejima"
+msgid ""
+"That's true. My sister and I were taken in by our relatives, and havin' two "
+"extra kids was a mighty big expense for 'em."
+msgstr ""
+
+msgctxt "2096_Kaguya"
+msgid "I guess being broke means I can't have kids then."
+msgstr ""
+
+msgctxt "2108_Saejima"
+msgid "It'd be hard, yeah."
+msgstr ""
+
+msgctxt "2120_Saejima"
+msgid "Which are ya? A dom or a sub?"
+msgstr ""
+
+msgctxt "2132_Kaguya"
+msgid "Huh!? I've never thought about it."
+msgstr ""
+
+msgctxt "2144_Kaguya"
+msgid "Hmm... I guess a sub?"
+msgstr ""
+
+msgctxt "2156_Saejima"
+msgid "I knew it."
+msgstr ""
+
+msgctxt "2168_Saejima"
+msgid "I wouldn't of guessed."
+msgstr ""
+
+msgctxt "2180_Kaguya"
+msgid ""
+"For me, I'd rather go with the flow than have to do anything myself. So I "
+"let the guy call the shots."
+msgstr ""
+
+msgctxt "2192_Kaguya"
+msgid ""
+"I don't have any real urge to figure out whether to do this or that to "
+"someone else."
+msgstr ""
+
+msgctxt "2204_Saejima"
+msgid "I think that's just bein' lazy..."
+msgstr ""
+
+msgctxt "2216_Kaguya"
+msgid "Question Conversation 05"
+msgstr ""
+
+msgctxt "2228_Kaguya"
+msgid "Question Conversation 06"
+msgstr ""
+
+msgctxt "2240_Kaguya"
+msgid "Question Conversation 07"
+msgstr ""
+
+msgctxt "2252_Kaguya"
+msgid "Question Conversation 08"
+msgstr ""
+
+msgctxt "2264_Kaguya"
+msgid "Question Conversation 09"
+msgstr ""
+
+msgctxt "2276_Kaguya"
+msgid "Question Conversation 10"
+msgstr ""
+
+msgctxt "2288_Kaguya"
+msgid "Question Conversation 11"
+msgstr ""
+
+msgctxt "2300_Kaguya"
+msgid "Question Conversation 12"
+msgstr ""
+
+msgctxt "2312_Kaguya"
+msgid "Question Conversation 13"
+msgstr ""
+
+msgctxt "2324_Kaguya"
+msgid "Question Conversation 14"
+msgstr ""
+
+msgctxt "2336_Kaguya"
+msgid "Question Conversation 15"
+msgstr ""

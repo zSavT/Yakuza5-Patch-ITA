@@ -1,0 +1,1683 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "768"
+msgid "All snow gear must be moved to the Item Box or Inventory."
+msgstr ""
+
+msgctxt "936"
+msgid "All snow gear must be moved to the Item Box or Inventory."
+msgstr ""
+
+msgctxt "1896"
+msgid "All snow gear must be moved to the Item Box or Inventory."
+msgstr ""
+
+msgctxt "2196"
+msgid "You got 2,000 experience points."
+msgstr ""
+
+msgctxt "2256"
+msgid "All snow gear must be moved to the Item Box or Inventory."
+msgstr ""
+
+msgctxt "2496"
+msgid "You got 2,000 experience points."
+msgstr ""
+
+msgctxt "2580"
+msgid "All snow gear must be moved to the Item Box or Inventory."
+msgstr ""
+
+msgctxt "2748"
+msgid "You got 2,000 experience points."
+msgstr ""
+
+msgctxt "2892"
+msgid "All snow gear must be moved to the Item Box or Inventory."
+msgstr ""
+
+msgctxt "3072"
+msgid "You got 2,000 experience points."
+msgstr ""
+
+msgctxt "3120"
+msgid "All snow gear must be moved to the Item Box or Inventory."
+msgstr ""
+
+msgctxt "3324"
+msgid "You got 5,000 experience points."
+msgstr ""
+
+msgctxt "3564"
+msgid "You got 500 experience points."
+msgstr ""
+
+msgctxt "82128"
+msgid "Okudera"
+msgstr ""
+
+msgctxt "82132"
+msgid "Move Everything to the Item Box"
+msgstr ""
+
+msgctxt "82136"
+msgid "Choose Items for Your Inventory"
+msgstr ""
+
+msgctxt "82140"
+msgid "dummy"
+msgstr ""
+
+msgctxt "82144"
+msgid "adv2_230/okudera_2_230_010"
+msgstr ""
+
+msgctxt "82148"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "82152"
+msgid "adv2_230/saejima_2_230_040"
+msgstr ""
+
+msgctxt "82156"
+msgid "P_TLK_sitgrd_agura_yes"
+msgstr ""
+
+msgctxt "82160"
+msgid "adv2_230/okudera_2_230_020"
+msgstr ""
+
+msgctxt "82164"
+msgid "adv2_230/saejima_2_230_050"
+msgstr ""
+
+msgctxt "82168"
+msgid "adv2_230/okudera_2_230_030"
+msgstr ""
+
+msgctxt "82172"
+msgid "adv2_230/saejima_2_230_060"
+msgstr ""
+
+msgctxt "82176"
+msgid "adv2_230/okudera_2_230_040"
+msgstr ""
+
+msgctxt "82180"
+msgid "adv2_230/saejima_2_230_070"
+msgstr ""
+
+msgctxt "82184"
+msgid "adv2_230/okudera_2_230_050"
+msgstr ""
+
+msgctxt "82188"
+msgid "adv2_230/saejima_2_230_080"
+msgstr ""
+
+msgctxt "82192"
+msgid "adv2_230/okudera_2_230_060"
+msgstr ""
+
+msgctxt "82196"
+msgid "P_TLK_sitgrd_agura_no"
+msgstr ""
+
+msgctxt "82200"
+msgid "adv2_230/okudera_2_230_070"
+msgstr ""
+
+msgctxt "82204"
+msgid "adv2_230/saejima_2_230_090"
+msgstr ""
+
+msgctxt "82208"
+msgid "P_SAE_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "82212"
+msgid "P_TLK_sitgrd_agura_kamae_ed"
+msgstr ""
+
+msgctxt "82216"
+msgid "adv2_210/okudera_2_210_030"
+msgstr ""
+
+msgctxt "82220"
+msgid "All good. Let's go."
+msgstr ""
+
+msgctxt "82224"
+msgid "Not ready yet."
+msgstr ""
+
+msgctxt "82228"
+msgid "adv2_210/saejima_2_210_030"
+msgstr ""
+
+msgctxt "82232"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "82236"
+msgid "adv2_210/okudera_2_210_040"
+msgstr ""
+
+msgctxt "82240"
+msgid "adv2_210/saejima_2_210_040"
+msgstr ""
+
+msgctxt "82244"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "82248"
+msgid "adv2_210/saejima_2_210_050"
+msgstr ""
+
+msgctxt "82252"
+msgid "Go to the Mountain"
+msgstr ""
+
+msgctxt "82256"
+msgid "Sort Items"
+msgstr ""
+
+msgctxt "82260"
+msgid "Check Status"
+msgstr ""
+
+msgctxt "82264"
+msgid "Don't Do Anything Yet"
+msgstr ""
+
+msgctxt "82268"
+msgid "adv2_210/okudera_2_210_050"
+msgstr ""
+
+msgctxt "82272"
+msgid "P_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "82276"
+msgid "adv2_210/okudera_2_210_010"
+msgstr ""
+
+msgctxt "82280"
+msgid "adv2_210/saejima_2_210_010"
+msgstr ""
+
+msgctxt "82284"
+msgid "adv2_210/okudera_2_210_020"
+msgstr ""
+
+msgctxt "82288"
+msgid "Baba"
+msgstr ""
+
+msgctxt "82292"
+msgid "adv2_210/baba_2_210_010"
+msgstr ""
+
+msgctxt "82296"
+msgid "adv2_210/saejima_2_210_020"
+msgstr ""
+
+msgctxt "82300"
+msgid "Yup, ready to go."
+msgstr ""
+
+msgctxt "82304"
+msgid "Need some more time."
+msgstr ""
+
+msgctxt "82308"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "82312"
+msgid "C2040_P_SAE_agura_kamae"
+msgstr ""
+
+msgctxt "82316"
+msgid "C2040_P_SAE_sleep_wakeup"
+msgstr ""
+
+msgctxt "82320"
+msgid "New Skill: Spotter"
+msgstr ""
+
+msgctxt "82324"
+msgid "New Skill: Deadeye"
+msgstr ""
+
+msgctxt "82328"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "82332"
+msgid "New Mission"
+msgstr ""
+
+msgctxt "82336"
+msgid "kaiwabgm_seikan"
+msgstr ""
+
+msgctxt "82340"
+msgid "Mastery Achieved"
+msgstr ""
+
+msgctxt "82344"
+msgid "Hunting Rifle Acquired"
+msgstr ""
+
+msgctxt "82348"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "82352"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "82356"
+msgid "adv2_230/saejima_0319b"
+msgstr ""
+
+msgctxt "82360"
+msgid "kaiwabgm_heartwarm02"
+msgstr ""
+
+msgctxt "82364"
+msgid "adv2_230/baba_0097"
+msgstr ""
+
+msgctxt "82368"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "82372"
+msgid "adv2_230/okudera_0033a"
+msgstr ""
+
+msgctxt "82376"
+msgid "adv2_230/okudera_0033b"
+msgstr ""
+
+msgctxt "82380"
+msgid "adv2_230/okudera_0034a"
+msgstr ""
+
+msgctxt "82384"
+msgid "adv2_230/okudera_0034ab"
+msgstr ""
+
+msgctxt "82388"
+msgid "adv2_230/okudera_0034b"
+msgstr ""
+
+msgctxt "82392"
+msgid "adv2_230/saejima_0321"
+msgstr ""
+
+msgctxt "82396"
+msgid "adv2_230/baba_0098"
+msgstr ""
+
+msgctxt "82400"
+msgid "adv2_230/saejima_0322"
+msgstr ""
+
+msgctxt "82404"
+msgid "Go to Town with Baba"
+msgstr ""
+
+msgctxt "82408"
+msgid "Rescue the Lost Hunter"
+msgstr ""
+
+msgctxt "82412"
+msgid "Search for Narumi"
+msgstr ""
+
+msgctxt "82416"
+msgid "Shoot Yama-oroshi with a Transmitter"
+msgstr ""
+
+msgctxt "82420"
+msgid "Search for Yama-oroshi's Den"
+msgstr ""
+
+msgctxt "82424"
+msgid "Demonstrate Rifle Skills"
+msgstr ""
+
+msgctxt "82428"
+msgid "Choose a Rifle"
+msgstr ""
+
+msgctxt "82432"
+msgid "Do Nothing"
+msgstr ""
+
+msgctxt "82436"
+msgid "Head to Tsukimino with Baba"
+msgstr ""
+
+msgctxt "82440"
+msgid "Not Yet"
+msgstr ""
+
+msgctxt "82444"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "82448"
+msgid "Horizontal Double Rifle"
+msgstr ""
+
+msgctxt "82452"
+msgid "Vertical Double Rifle"
+msgstr ""
+
+msgctxt "82456"
+msgid "Vertical Double Special"
+msgstr ""
+
+msgctxt "82460"
+msgid "Vertical Double Rifle (Extreme)"
+msgstr ""
+
+msgctxt "82464"
+msgid "Golden Rifle"
+msgstr ""
+
+msgctxt "82468"
+msgid "No Rifle"
+msgstr ""
+
+msgctxt "82472"
+msgid "Switching Weapons"
+msgstr ""
+
+msgctxt "82476"
+msgid "adv2_230/okudera_0032"
+msgstr ""
+
+msgctxt "82480"
+msgid "adv2_230/saejima_2_230_120"
+msgstr ""
+
+msgctxt "82484"
+msgid "adv2_230/saejima_2_230_130"
+msgstr ""
+
+msgctxt "82488"
+msgid "adv2_230/okudera_2_230_110"
+msgstr ""
+
+msgctxt "744_Okudera"
+msgid "You're awake."
+msgstr ""
+
+msgctxt "756_Okudera"
+msgid ""
+"Things can be replaced; people can't. You're aware of that, aren't you? "
+"*sigh* You're lucky to be alive. Get your stuff sorted; I'll hold your gun "
+"and shells."
+msgstr ""
+
+msgctxt "804_Okudera"
+msgid ""
+"Let me know when you're going to the mountain. And be better prepared next "
+"time!"
+msgstr ""
+
+msgctxt "840_Okudera"
+msgid ""
+"Finally, you're awake! A passing hunter found you. How lucky is that? I "
+"have to say, you do some pretty risky stuff."
+msgstr ""
+
+msgctxt "852_Okudera"
+msgid ""
+"Things can be replaced; people can't. You're aware of that, aren't you? "
+"*sigh* You're lucky to be alive. If you want, I'll hold your gun and shells."
+msgstr ""
+
+msgctxt "864_Okudera"
+msgid ""
+"Let me know when you're going to the mountain. And be better prepared next "
+"time!"
+msgstr ""
+
+msgctxt "912_Okudera"
+msgid "Well, well. You're alive."
+msgstr ""
+
+msgctxt "924_Okudera"
+msgid "Get some proper rest. I'll hold your gun and shells."
+msgstr ""
+
+msgctxt "972_Okudera"
+msgid "Let me know when you're going to the mountain."
+msgstr ""
+
+msgctxt "984_Okudera"
+msgid "How was it?"
+msgstr ""
+
+msgctxt "996_Saejima"
+msgid "The road's been reopened."
+msgstr ""
+
+msgctxt "1008_Okudera"
+msgid "Good. You can leave town now. Baba will be fine."
+msgstr ""
+
+msgctxt "1020_Saejima"
+msgid "But isn't Yama-oroshi still roamin' the mountain?"
+msgstr ""
+
+msgctxt "1032_Okudera"
+msgid "That's my problem."
+msgstr ""
+
+msgctxt "1044_Saejima"
+msgid "All right. ...Lemme ask ya somethin'."
+msgstr ""
+
+msgctxt "1056_Okudera"
+msgid "What?"
+msgstr ""
+
+msgctxt "1068_Saejima"
+msgid "Why do ya keep after Yama-oroshi?"
+msgstr ""
+
+msgctxt "1080_Okudera"
+msgid "That's really none of your concern. Let it be."
+msgstr ""
+
+msgctxt "1092_Saejima"
+msgid ""
+"Okay. I get the feelin' that some day you're gonna end up tellin' me "
+"anyway. 'Cause we're alike in certain ways, ya know."
+msgstr ""
+
+msgctxt "1104_Okudera"
+msgid "Hmph. You're entitled to your opinion."
+msgstr ""
+
+msgctxt "1116_Okudera"
+msgid ""
+"But for now, you can hurry off to Tsukimino, or stay and hunt. Just let me "
+"know what you decide."
+msgstr ""
+
+msgctxt "1128_Saejima"
+msgid "Sure."
+msgstr ""
+
+msgctxt "1152_Okudera"
+msgid "How's the village? Saejima, go see if they've plowed the snow from the road."
+msgstr ""
+
+msgctxt "1188_Okudera"
+msgid ""
+"That trader is pretty much your only option for buying and selling goods. "
+"Go introduce yourself!"
+msgstr ""
+
+msgctxt "1200_Okudera"
+msgid "I made some snares. Saejima, you ready for this mountain?"
+msgstr ""
+
+msgctxt "1212_Saejima"
+msgid "Nah, hold on a bit."
+msgstr ""
+
+msgctxt "1224_Okudera"
+msgid "All right. Just let me know when you're ready."
+msgstr ""
+
+msgctxt "1236_Saejima"
+msgid "Got it."
+msgstr ""
+
+msgctxt "1248_Saejima"
+msgid "Yeah. Ready."
+msgstr ""
+
+msgctxt "1284_Okudera"
+msgid "Ready for the mountain?"
+msgstr ""
+
+msgctxt "1308_Okudera"
+msgid "All right, let's go!"
+msgstr ""
+
+msgctxt "1332_Okudera"
+msgid "Fine. If you want, I'll hold your snow gear for now."
+msgstr ""
+
+msgctxt "1356_Okudera"
+msgid "Let me know when you're going to the mountain."
+msgstr ""
+
+msgctxt "1380_Okudera"
+msgid "You're back. You done now?"
+msgstr ""
+
+msgctxt "1392_Saejima"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "1404_Okudera"
+msgid ""
+"Good. We'll go trapping, then. For rabbits. That's the best food for Baba. "
+"It'll help him get his strength back."
+msgstr ""
+
+msgctxt "1416_Baba"
+msgid "I'm sorry, Aniki. To require so much of you."
+msgstr ""
+
+msgctxt "1428_Saejima"
+msgid "Don't worry about it."
+msgstr ""
+
+msgctxt "1440_Okudera"
+msgid "Anyway, I made some snares. Are you ready to go to the mountain?"
+msgstr ""
+
+msgctxt "1452_Saejima"
+msgid "Mind waitin' a bit?"
+msgstr ""
+
+msgctxt "1464_Okudera"
+msgid "Not at all. Just tell me when you're ready."
+msgstr ""
+
+msgctxt "1476_Saejima"
+msgid "Great."
+msgstr ""
+
+msgctxt "1488_Saejima"
+msgid "Yeah. Ready."
+msgstr ""
+
+msgctxt "1524_Okudera"
+msgid "Ready for the mountain?"
+msgstr ""
+
+msgctxt "1548_Okudera"
+msgid "All right, let's get a move on."
+msgstr ""
+
+msgctxt "1572_Okudera"
+msgid "Fine. If you want, I'll hold your snow gear for now."
+msgstr ""
+
+msgctxt "1596_Okudera"
+msgid "Let me know when you're going to the mountain."
+msgstr ""
+
+msgctxt "1632_Okudera"
+msgid ""
+"You mentioned you had a favor to return... To someone who gave you some "
+"food, I believe."
+msgstr ""
+
+msgctxt "1644_Okudera"
+msgid "So are you gonna go do that or not?"
+msgstr ""
+
+msgctxt "1656_Saejima"
+msgid "(He's right. Gotta go see Nishina-san.)"
+msgstr ""
+
+msgctxt "1668_Okudera"
+msgid "I'll teach you how to trap rabbits when you get back."
+msgstr ""
+
+msgctxt "1680_Saejima"
+msgid "Why? Ain't much meat on those li'l critters. Why not try for deer?"
+msgstr ""
+
+msgctxt "1692_Okudera"
+msgid "Rabbit meat is much more tender. It'll be easier for Baba to digest."
+msgstr ""
+
+msgctxt "1704_Okudera"
+msgid "The fur will be very useful as well."
+msgstr ""
+
+msgctxt "1716_Saejima"
+msgid "Well, you'd know best."
+msgstr ""
+
+msgctxt "1728_Okudera"
+msgid "Go take care of your business. I'll make some rabbit snares."
+msgstr ""
+
+msgctxt "1740_Okudera"
+msgid "They'll be finished by the time you get back."
+msgstr ""
+
+msgctxt "1872_Okudera"
+msgid "Did you not find the person you were looking for?"
+msgstr ""
+
+msgctxt "1884_Okudera"
+msgid ""
+"If it makes it any easier, I can hold your gun and shells. You might as "
+"well get your stuff sorted, too."
+msgstr ""
+
+msgctxt "1932_Okudera"
+msgid ""
+"Let me know when you're good and ready. The mountain is not something to be "
+"trifled with."
+msgstr ""
+
+msgctxt "1992_Okudera"
+msgid "You're awake."
+msgstr ""
+
+msgctxt "2016_Saejima"
+msgid "Okudera-han..."
+msgstr ""
+
+msgctxt "2040_Okudera"
+msgid "Don't thank me. Nishina's the one you should thank."
+msgstr ""
+
+msgctxt "2052_Saejima"
+msgid "Didn't mean to be a burden... Sorry."
+msgstr ""
+
+msgctxt "2064_Okudera"
+msgid "You should be."
+msgstr ""
+
+msgctxt "2076_Okudera"
+msgid "Kihachi was grateful, though."
+msgstr ""
+
+msgctxt "2088_Saejima"
+msgid "Heh, a silver lining to the fact I couldn't even save myself."
+msgstr ""
+
+msgctxt "2100_Okudera"
+msgid ""
+"Forget silver linings－let it be a lesson! By the way, I've got your gun and "
+"shells here. So don't worry about them; just focus on resting up."
+msgstr ""
+
+msgctxt "2112_Saejima"
+msgid "Alright..."
+msgstr ""
+
+msgctxt "2148_Okudera"
+msgid "All snow gear must be moved to the Item Box or Inventory."
+msgstr ""
+
+msgctxt "2232_Okudera"
+msgid "Did you not find the person you were looking for?"
+msgstr ""
+
+msgctxt "2244_Okudera"
+msgid ""
+"If it makes it any easier, I can hold your gun and shells. You might as "
+"well get your stuff sorted, too."
+msgstr ""
+
+msgctxt "2292_Okudera"
+msgid ""
+"Let me know when you're good and ready. The mountain is not something to be "
+"trifled with."
+msgstr ""
+
+msgctxt "2304_Okudera"
+msgid "Good."
+msgstr ""
+
+msgctxt "2316_Saejima"
+msgid "All right. What're we gonna do, Okudera-han?"
+msgstr ""
+
+msgctxt "2328_Okudera"
+msgid ""
+"I don't know. We'll just have to keep an eye on the situation for now and "
+"deal with it when the time comes."
+msgstr ""
+
+msgctxt "2340_Saejima"
+msgid "Y'know, from what I've heard, hunting is one-sided slaughter."
+msgstr ""
+
+msgctxt "2352_Okudera"
+msgid "That's not an inaccurate description."
+msgstr ""
+
+msgctxt "2364_Saejima"
+msgid "(Wish it could be more fair.)"
+msgstr ""
+
+msgctxt "2376_Okudera"
+msgid ""
+"But that doesn't apply to Yama-oroshi. He could kill a man as easily as we "
+"might kill any game."
+msgstr ""
+
+msgctxt "2388_Saejima"
+msgid "So he'd be a fair fight, then."
+msgstr ""
+
+msgctxt "2400_Okudera"
+msgid "Enough talk. I'm going to sleep."
+msgstr ""
+
+msgctxt "2412_Saejima"
+msgid "...Alright."
+msgstr ""
+
+msgctxt "2448_Okudera"
+msgid "All snow gear must be moved to the Item Box or Inventory."
+msgstr ""
+
+msgctxt "2508_New Skill: Spotter"
+msgid "Animals in the area are shown on the minimap."
+msgstr ""
+
+msgctxt "2556_Okudera"
+msgid "What, you came back without finishing your task?"
+msgstr ""
+
+msgctxt "2568_Okudera"
+msgid ""
+"If it makes it any easier, I can hold your gun and shells. You might as "
+"well get your stuff sorted, too."
+msgstr ""
+
+msgctxt "2616_Okudera"
+msgid ""
+"Let me know when you're good and ready. The mountain is not something to be "
+"trifled with."
+msgstr ""
+
+msgctxt "2628_Okudera"
+msgid "You're alive－that's a surprise! What happened?"
+msgstr ""
+
+msgctxt "2640_Saejima"
+msgid "Plugged him squarely. From now on, we'll know where Yama-oroshi is."
+msgstr ""
+
+msgctxt "2652_Okudera"
+msgid "That's great news. Rest up; I asked a lot of you."
+msgstr ""
+
+msgctxt "2664_Saejima"
+msgid "Won't argue with ya."
+msgstr ""
+
+msgctxt "2700_Okudera"
+msgid "All snow gear must be moved to the Item Box or Inventory."
+msgstr ""
+
+msgctxt "2760_New Skill: Deadeye"
+msgid "Unsteadiness while shooting is reduced."
+msgstr ""
+
+msgctxt "2796_Okudera"
+msgid "When you're ready, we'll search for Yama-oroshi's den."
+msgstr ""
+
+msgctxt "2808_Saejima"
+msgid "You're feelin' up to it already?"
+msgstr ""
+
+msgctxt "2820_Okudera"
+msgid ""
+"I may not be able to hold a gun, but I've got you. If you're willing to "
+"help an old man get around, that is."
+msgstr ""
+
+msgctxt "2832_Saejima"
+msgid ""
+"Ha, you're puttin' a lot of faith in me. But no worries, old man, I got "
+"your back."
+msgstr ""
+
+msgctxt "2844_Okudera"
+msgid "I'll start packing. Just tell me when you're ready."
+msgstr ""
+
+msgctxt "2856_Saejima"
+msgid "Got it."
+msgstr ""
+
+msgctxt "2868_New Mission"
+msgid "\"Okudera's Escort\" was added."
+msgstr ""
+
+msgctxt "2880_Okudera"
+msgid ""
+"If you want, I can hold your gun and shells. You might as well get your "
+"stuff sorted, too."
+msgstr ""
+
+msgctxt "2928_Okudera"
+msgid ""
+"Let me know when you're good and ready. The mountain is not something to be "
+"trifled with."
+msgstr ""
+
+msgctxt "2952_Okudera"
+msgid ""
+"Hm... the other side of the canyon. Well, now that we know the location of "
+"its den, there'll be plenty of other opportunities."
+msgstr ""
+
+msgctxt "2964_Saejima"
+msgid "(Okudera-han backed off so quickly. That's not like 'im.)"
+msgstr ""
+
+msgctxt "2976_Okudera"
+msgid "I'll cook supper, Saejima. Why don't you go see how the village is faring?"
+msgstr ""
+
+msgctxt "2988_Saejima"
+msgid "Sure, it's somethin' to do."
+msgstr ""
+
+msgctxt "3024_Okudera"
+msgid "All snow gear must be moved to the Item Box or Inventory."
+msgstr ""
+
+msgctxt "3084_Okudera"
+msgid "I'll cook supper, Saejima. Why don't you go see how the village is faring?"
+msgstr ""
+
+msgctxt "3108_Okudera"
+msgid ""
+"If you want, I can hold your gun and shells. You might as well get your "
+"stuff sorted, too."
+msgstr ""
+
+msgctxt "3156_Okudera"
+msgid ""
+"Let me know when you're good and ready. The mountain is not something to be "
+"trifled with."
+msgstr ""
+
+msgctxt "3168_Saejima"
+msgid ""
+"(Kihachi-san sent the cops packin', and then he took a lotta heat for "
+"wastin' their time.)"
+msgstr ""
+
+msgctxt "3180_Saejima"
+msgid "(The bears from all these nearby mountains are still hangin' around.)"
+msgstr ""
+
+msgctxt "3192_Saejima"
+msgid ""
+"(But at least Okudera-han's safe, and Yama-oroshi ain't about to go near "
+"people anytime soon.)"
+msgstr ""
+
+msgctxt "3204_Okudera"
+msgid "Hmph."
+msgstr ""
+
+msgctxt "3216_Saejima"
+msgid "What?"
+msgstr ""
+
+msgctxt "3228_Okudera"
+msgid "Nothing. Thanks."
+msgstr ""
+
+msgctxt "3240_Saejima"
+msgid "Don't mention it."
+msgstr ""
+
+msgctxt "3276_Okudera"
+msgid "All snow gear must be moved to the Item Box or Inventory."
+msgstr ""
+
+msgctxt "3336_Mastery Achieved"
+msgid ""
+"Unsteadiness while shooting is minimized.\r\n"
+"Health loss from the cold is suppressed."
+msgstr ""
+
+msgctxt "3348_Okudera"
+msgid "Okudera has given his blessing to trek around the mountain freely."
+msgstr ""
+
+msgctxt "3372_Okudera"
+msgid "You've been handling rifles a good long while."
+msgstr ""
+
+msgctxt "3384_Saejima"
+msgid "What about it?"
+msgstr ""
+
+msgctxt "3396_Okudera"
+msgid ""
+"I'd like to see your skill with my own eyes. Let me know when you've got "
+"the time."
+msgstr ""
+
+msgctxt "3408_New Mission"
+msgid "\"Hunter Test\" was added to the list of missions."
+msgstr ""
+
+msgctxt "3456_Okudera"
+msgid ""
+"Well done, you've learned. As for the deer you shot, we'll share it with "
+"the village. That will show our gratitude for the animal's sacrifice."
+msgstr ""
+
+msgctxt "3468_Saejima"
+msgid ""
+"My learnin' is all thanks to you, Okudera-han. And I still got lotsa "
+"catchin' up to do."
+msgstr ""
+
+msgctxt "3480_Okudera"
+msgid "Don't be modest. You're ready for this."
+msgstr ""
+
+msgctxt "3492_Okudera"
+msgid "From now on, use this rifle on the mountain."
+msgstr ""
+
+msgctxt "3504_Hunting Rifle Acquired"
+msgid "You got a Vertical Double Rifle (Extreme)."
+msgstr ""
+
+msgctxt "3516_Saejima"
+msgid "Okudera-han..."
+msgstr ""
+
+msgctxt "3528_Okudera"
+msgid "Use it only when you must."
+msgstr ""
+
+msgctxt "3540_Saejima"
+msgid "...I know. 'Preciate it."
+msgstr ""
+
+msgctxt "3576_Okudera"
+msgid ""
+"You've still got a lot to learn. You're wanting in decisiveness, "
+"concentration, and accuracy."
+msgstr ""
+
+msgctxt "3588_Saejima"
+msgid "Dunno what to say..."
+msgstr ""
+
+msgctxt "3600_Okudera"
+msgid ""
+"Come see me again when you've got more experience. As for the deer you "
+"shot, we'll share it with the village. That will show our gratitude for the "
+"animal's sacrifice."
+msgstr ""
+
+msgctxt "3612_Okudera"
+msgid "You've kept up your shooting skills. I was right to give you that gun."
+msgstr ""
+
+msgctxt "3624_Saejima"
+msgid "It's all thanks to you, Okudera-han. Hope ya keep on teachin' me."
+msgstr ""
+
+msgctxt "3636_Okudera"
+msgid ""
+"Oh, I know it's all thanks to me, haha. As for the deer you shot, we'll "
+"share it with the village. That will show our gratitude for the animal's "
+"sacrifice."
+msgstr ""
+
+msgctxt "3648_Okudera"
+msgid "What's wrong? This isn't like you. Buck up."
+msgstr ""
+
+msgctxt "3660_Saejima"
+msgid "Dunno what's wrong with me..."
+msgstr ""
+
+msgctxt "3672_Okudera"
+msgid ""
+"I guess it can't be helped now. As for the deer you shot, we'll share it "
+"with the village. That will show our gratitude for the animal's sacrifice."
+msgstr ""
+
+msgctxt "3708_Saejima"
+msgid "We owe ya so much. If not for you, Baba and I'd be bear food by now."
+msgstr ""
+
+msgctxt "3720_Baba"
+msgid "Yes, thank you so much!"
+msgstr ""
+
+msgctxt "3744_Okudera"
+msgid ""
+"I won't ask how you ended up here, completely lost with no explanation of "
+"where you came from."
+msgstr ""
+
+msgctxt "3756_Okudera"
+msgid "I won't even ask what you plan to do once you get to the city."
+msgstr ""
+
+msgctxt "3768_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "3780_Okudera"
+msgid "But never forget this:"
+msgstr ""
+
+msgctxt "3792_Okudera"
+msgid "But never forget this, Saejima..."
+msgstr ""
+
+msgctxt "3804_Okudera"
+msgid ""
+"Killing is only justified during the hunt, or when protecting one's life. "
+"Do you understand?"
+msgstr ""
+
+msgctxt "3816_Saejima"
+msgid "I'll live by it."
+msgstr ""
+
+msgctxt "3828_Baba"
+msgid "Aniki... we, um, should go."
+msgstr ""
+
+msgctxt "3840_Saejima"
+msgid "Take care, Okudera-han."
+msgstr ""
+
+msgctxt "3900_Okudera"
+msgid "What is it, Saejima?"
+msgstr ""
+
+msgctxt "3912_Saejima"
+msgid "(We'll finish sayin' goodbye to Okudera-han, and then head to Tsukimino.)"
+msgstr ""
+
+msgctxt "3936_Saejima"
+msgid "It's nothin'."
+msgstr ""
+
+msgctxt "3948_Okudera"
+msgid "Okay, then."
+msgstr ""
+
+msgctxt "3960_Saejima"
+msgid "Kihachi's gone missin', and Nishina-han's out lookin' for him."
+msgstr ""
+
+msgctxt "3972_Saejima"
+msgid ""
+"But Nishina-han ain't been back, and nobody else wants to go search for "
+"them. Guess I'll do it."
+msgstr ""
+
+msgctxt "3984_Okudera"
+msgid ""
+"You think you know better than these people? They've lived on the mountain "
+"for decades."
+msgstr ""
+
+msgctxt "3996_Okudera"
+msgid "Don't you think they might have a reason for not wanting to go?"
+msgstr ""
+
+msgctxt "4008_Saejima"
+msgid "(Hadn't thought of that, but...)"
+msgstr ""
+
+msgctxt "4020_Okudera"
+msgid "Of course, I can see you're not one for talking sense."
+msgstr ""
+
+msgctxt "4032_Okudera"
+msgid "But you really might die. Do you understand that?"
+msgstr ""
+
+msgctxt "4044_Saejima"
+msgid "Yeah. I do."
+msgstr ""
+
+msgctxt "4056_Okudera"
+msgid ""
+"Well then, go get your gear together. You can use my gun and shells. My "
+"only advice is that whatever happens out there... Stay alert."
+msgstr ""
+
+msgctxt "4092_Okudera"
+msgid "Ready for the mountain?"
+msgstr ""
+
+msgctxt "4116_Okudera"
+msgid "Fine. Go, then."
+msgstr ""
+
+msgctxt "4140_Okudera"
+msgid "Fine. If you want, I'll hold your snow gear for now."
+msgstr ""
+
+msgctxt "4164_Okudera"
+msgid "Let me know when you're going to the mountain."
+msgstr ""
+
+msgctxt "4188_Okudera"
+msgid "Sakurai just told me about an outsider that went up the mountain."
+msgstr ""
+
+msgctxt "4200_Saejima"
+msgid "It's Narumi. He must've already gone after Yama-oroshi."
+msgstr ""
+
+msgctxt "4212_Okudera"
+msgid "Him too? Huh."
+msgstr ""
+
+msgctxt "4224_Saejima"
+msgid "...What, you're just gonna ignore 'im?"
+msgstr ""
+
+msgctxt "4236_Okudera"
+msgid ""
+"He'll be back... not with his quarry, but at least with his life. And he'll "
+"be thankful for that much!"
+msgstr ""
+
+msgctxt "4248_Saejima"
+msgid "Hopefully... The guy knows nothin' about the mountain. Likely to get lost."
+msgstr ""
+
+msgctxt "4260_Okudera"
+msgid ""
+"That's his own damned fault. But... I guess it\r\n"
+"would be bad for the village."
+msgstr ""
+
+msgctxt "4272_Saejima"
+msgid "Well, then I'll go look for 'im. I'm well enough."
+msgstr ""
+
+msgctxt "4284_Okudera"
+msgid "If you think so..."
+msgstr ""
+
+msgctxt "4320_Okudera"
+msgid "Ready for the mountain?"
+msgstr ""
+
+msgctxt "4356_Okudera"
+msgid "From now on, use this rifle."
+msgstr ""
+
+msgctxt "4368_Hunting Rifle Acquired"
+msgid "You got a Vertical Double Rifle."
+msgstr ""
+
+msgctxt "4380_Okudera"
+msgid "You take care."
+msgstr ""
+
+msgctxt "4392_Saejima"
+msgid "Sure will."
+msgstr ""
+
+msgctxt "4416_Okudera"
+msgid "Fine. If you want, I'll hold your snow gear for now."
+msgstr ""
+
+msgctxt "4440_Okudera"
+msgid "Let me know when you're ready."
+msgstr ""
+
+msgctxt "4464_Okudera"
+msgid "Are you ready?"
+msgstr ""
+
+msgctxt "4476_Saejima"
+msgid "Yeah, all set."
+msgstr ""
+
+msgctxt "4488_Okudera"
+msgid "Fine, get your gear sorted."
+msgstr ""
+
+msgctxt "4524_Okudera"
+msgid "Ready for the mountain?"
+msgstr ""
+
+msgctxt "4548_Okudera"
+msgid "Use the gun Narumi left. It shoots transmitters."
+msgstr ""
+
+msgctxt "4560_Okudera"
+msgid ""
+"Remember, you're going up against Yama-oroshi... All I can say is, try not "
+"to die."
+msgstr ""
+
+msgctxt "4572_Saejima"
+msgid "Good advice."
+msgstr ""
+
+msgctxt "4596_Okudera"
+msgid "Fine. If you want, I'll hold your snow gear for now."
+msgstr ""
+
+msgctxt "4620_Okudera"
+msgid "Let me know when you're going to the mountain."
+msgstr ""
+
+msgctxt "4644_Okudera"
+msgid "Are you ready?"
+msgstr ""
+
+msgctxt "4656_Saejima"
+msgid "Yeah, all set."
+msgstr ""
+
+msgctxt "4668_Okudera"
+msgid "Fine, get your gear sorted."
+msgstr ""
+
+msgctxt "4704_Okudera"
+msgid "Ready for the mountain?"
+msgstr ""
+
+msgctxt "4728_Okudera"
+msgid "I can't hold a gun yet, so I'm counting on you."
+msgstr ""
+
+msgctxt "4740_Saejima"
+msgid "I know."
+msgstr ""
+
+msgctxt "4764_Okudera"
+msgid "Fine. If you want, I'll hold your snow gear for now."
+msgstr ""
+
+msgctxt "4788_Okudera"
+msgid "Let me know when you're going to the mountain."
+msgstr ""
+
+msgctxt "4836_Okudera"
+msgid "Ready for the mountain?"
+msgstr ""
+
+msgctxt "4860_Okudera"
+msgid "Fine. Go, then."
+msgstr ""
+
+msgctxt "4884_Okudera"
+msgid "Fine. If you want, I'll hold your snow gear for now."
+msgstr ""
+
+msgctxt "4908_Okudera"
+msgid "Let me know when you're going to the mountain."
+msgstr ""
+
+msgctxt "4932_Okudera"
+msgid "Fine. Off we go."
+msgstr ""
+
+msgctxt "4968_Okudera"
+msgid "Which gun do you want?"
+msgstr ""
+
+msgctxt "4992_Switching Weapons"
+msgid "The Horizontal Double Rifle is now equipped."
+msgstr ""
+
+msgctxt "5040_Switching Weapons"
+msgid "The Vertical Double Rifle is now equipped."
+msgstr ""
+
+msgctxt "5088_Switching Weapons"
+msgid "The Vertical Double Special is now equipped."
+msgstr ""
+
+msgctxt "5136_Switching Weapons"
+msgid "The Vertical Double Rifle (Extreme) is now equipped."
+msgstr ""
+
+msgctxt "5184_Switching Weapons"
+msgid "The Golden Rifle is now equipped."
+msgstr ""
+
+msgctxt "5208_Okudera"
+msgid "Use it only when you must."
+msgstr ""
+
+msgctxt "5220_Okudera"
+msgid "Good."
+msgstr ""
+
+msgctxt "5232_Okudera"
+msgid "You're leaving?"
+msgstr ""
+
+msgctxt "5244_Saejima"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "5268_Saejima"
+msgid ""
+"But I might be back... Still gotta wheedle out of ya why you hate "
+"Yama-oroshi so much."
+msgstr ""
+
+msgctxt "5280_Okudera"
+msgid "Hmph. Do as you please."
+msgstr ""
+
+msgctxt "5328_Okudera"
+msgid "What is it, Saejima?"
+msgstr ""
+
+msgctxt "5340_Saejima"
+msgid "(We'll finish sayin' goodbye to Okudera-han, and then head to Tsukimino.)"
+msgstr ""
+
+msgctxt "5364_Saejima"
+msgid "It's nothin'."
+msgstr ""
+
+msgctxt "5376_Okudera"
+msgid "Okay, then."
+msgstr ""
+
+msgctxt "5388_Saejima"
+msgid "Kihachi's gone missin', and Nishina-han's out lookin' for him."
+msgstr ""
+
+msgctxt "5400_Saejima"
+msgid ""
+"But Nishina-han ain't been back, and nobody else wants to go search for "
+"them. Guess I'll do it."
+msgstr ""
+
+msgctxt "5412_Okudera"
+msgid ""
+"You think you know better than these people? They've lived on the mountain "
+"for decades."
+msgstr ""
+
+msgctxt "5424_Okudera"
+msgid "Don't you think they might have a reason for not wanting to go?"
+msgstr ""
+
+msgctxt "5436_Saejima"
+msgid "(Hadn't thought of that, but...)"
+msgstr ""
+
+msgctxt "5448_Okudera"
+msgid "Of course, I can see you're not one for talking sense."
+msgstr ""
+
+msgctxt "5460_Okudera"
+msgid "But you really might die. Do you understand that?"
+msgstr ""
+
+msgctxt "5472_Saejima"
+msgid "Yeah. I do."
+msgstr ""
+
+msgctxt "5484_Okudera"
+msgid ""
+"Well then, go get your gear together. You can use my gun and shells. My "
+"only advice is that whatever happens out there... Stay alert."
+msgstr ""
+
+msgctxt "5520_Okudera"
+msgid "Ready for the mountain?"
+msgstr ""
+
+msgctxt "5544_Okudera"
+msgid "Fine. Go, then."
+msgstr ""
+
+msgctxt "5568_Okudera"
+msgid "Fine. If you want, I'll hold your snow gear for now."
+msgstr ""
+
+msgctxt "5592_Okudera"
+msgid "Let me know when you're going to the mountain."
+msgstr ""
+
+msgctxt "5616_Okudera"
+msgid "Sakurai just told me about an outsider that went up the mountain."
+msgstr ""
+
+msgctxt "5628_Saejima"
+msgid "It's Narumi. He must've already gone after Yama-oroshi."
+msgstr ""
+
+msgctxt "5640_Okudera"
+msgid "Him too? Huh."
+msgstr ""
+
+msgctxt "5652_Saejima"
+msgid "...What, you're just gonna ignore 'im?"
+msgstr ""
+
+msgctxt "5664_Okudera"
+msgid ""
+"He'll be back... not with his quarry, but at least with his life. And he'll "
+"be thankful for that much!"
+msgstr ""
+
+msgctxt "5676_Saejima"
+msgid "Hopefully... The guy knows nothin' about the mountain. Likely to get lost."
+msgstr ""
+
+msgctxt "5688_Okudera"
+msgid ""
+"That's his own damned fault. But... I guess it\r\n"
+"would be bad for the village."
+msgstr ""
+
+msgctxt "5700_Saejima"
+msgid "Well, then I'll go look for 'im. I'm well enough."
+msgstr ""
+
+msgctxt "5712_Okudera"
+msgid "If you think so..."
+msgstr ""
+
+msgctxt "5748_Okudera"
+msgid "Ready for the mountain?"
+msgstr ""
+
+msgctxt "5784_Okudera"
+msgid "From now on, use this rifle."
+msgstr ""
+
+msgctxt "5796_Hunting Rifle Acquired"
+msgid "You got a Vertical Double Rifle."
+msgstr ""
+
+msgctxt "5808_Okudera"
+msgid "You take care."
+msgstr ""
+
+msgctxt "5820_Saejima"
+msgid "Sure will."
+msgstr ""
+
+msgctxt "5844_Okudera"
+msgid "Fine. If you want, I'll hold your snow gear for now."
+msgstr ""
+
+msgctxt "5868_Okudera"
+msgid "Tell me when you're ready."
+msgstr ""
+
+msgctxt "5892_Okudera"
+msgid "Are you ready?"
+msgstr ""
+
+msgctxt "5904_Saejima"
+msgid "Yeah, all set."
+msgstr ""
+
+msgctxt "5916_Okudera"
+msgid "Fine, get your gear sorted."
+msgstr ""
+
+msgctxt "5952_Okudera"
+msgid "Ready for the mountain?"
+msgstr ""
+
+msgctxt "5976_Okudera"
+msgid "Use the gun Narumi left. It shoots transmitters."
+msgstr ""
+
+msgctxt "5988_Okudera"
+msgid ""
+"Remember, you're going up against Yama-oroshi... All I can say is, try not "
+"to die."
+msgstr ""
+
+msgctxt "6000_Saejima"
+msgid "Good advice."
+msgstr ""
+
+msgctxt "6024_Okudera"
+msgid "Fine. If you want, I'll hold your snow gear for now."
+msgstr ""
+
+msgctxt "6048_Okudera"
+msgid "Let me know when you're going to the mountain."
+msgstr ""
+
+msgctxt "6072_Okudera"
+msgid "Are you ready?"
+msgstr ""
+
+msgctxt "6084_Saejima"
+msgid "Yeah, all set."
+msgstr ""
+
+msgctxt "6096_Okudera"
+msgid "Fine, get your gear sorted."
+msgstr ""
+
+msgctxt "6132_Okudera"
+msgid "Ready for the mountain?"
+msgstr ""
+
+msgctxt "6156_Okudera"
+msgid "I can't hold a gun yet, so I'm counting on you."
+msgstr ""
+
+msgctxt "6168_Saejima"
+msgid "I know."
+msgstr ""
+
+msgctxt "6192_Okudera"
+msgid "Fine. If you want, I'll hold your snow gear for now."
+msgstr ""
+
+msgctxt "6216_Okudera"
+msgid "Let me know when you're going to the mountain."
+msgstr ""
+
+msgctxt "6264_Okudera"
+msgid "Ready for the mountain?"
+msgstr ""
+
+msgctxt "6288_Okudera"
+msgid "Fine. Go, then."
+msgstr ""
+
+msgctxt "6312_Okudera"
+msgid "Fine. If you want, I'll hold your snow gear for now."
+msgstr ""
+
+msgctxt "6336_Okudera"
+msgid "Let me know when you're going to the mountain."
+msgstr ""
+
+msgctxt "6360_Okudera"
+msgid "Fine. Off we go."
+msgstr ""
+
+msgctxt "6396_Okudera"
+msgid "Which gun do you want?"
+msgstr ""
+
+msgctxt "6420_Switching Weapons"
+msgid "The Horizontal Double Rifle is now equipped."
+msgstr ""
+
+msgctxt "6468_Switching Weapons"
+msgid "The Vertical Double Rifle is now equipped."
+msgstr ""
+
+msgctxt "6516_Switching Weapons"
+msgid "The Vertical Double Special is now equipped."
+msgstr ""
+
+msgctxt "6564_Switching Weapons"
+msgid "The Vertical Double Rifle (Extreme) is now equipped."
+msgstr ""
+
+msgctxt "6612_Switching Weapons"
+msgid "The Golden Rifle is now equipped."
+msgstr ""
+
+msgctxt "6636_Okudera"
+msgid "Use it only when you must."
+msgstr ""
+
+msgctxt "6648_Okudera"
+msgid "Good."
+msgstr ""
+
+msgctxt "6660_Okudera"
+msgid "You're leaving?"
+msgstr ""
+
+msgctxt "6672_Saejima"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "6696_Saejima"
+msgid ""
+"But I might be back... Still gotta wheedle out of ya why you hate "
+"Yama-oroshi so much."
+msgstr ""
+
+msgctxt "6708_Okudera"
+msgid "Hmph. Do as you please."
+msgstr ""

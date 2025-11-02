@@ -1,0 +1,786 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-25\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "210\tNAME"
+msgid "Air Hockey"
+msgstr ""
+
+msgctxt "223\tNAME"
+msgid "Darts"
+msgstr ""
+
+msgctxt "231\tNAME"
+msgid "Pool"
+msgstr ""
+
+msgctxt "238\tNAME"
+msgid "Bowling"
+msgstr ""
+
+msgctxt "248\tNAME"
+msgid "Karaoke"
+msgstr ""
+
+msgctxt "258\tNAME"
+msgid "Cee-lo"
+msgstr ""
+
+msgctxt "267\tNAME"
+msgid "Cho-han"
+msgstr ""
+
+msgctxt "277\tNAME"
+msgid "Koi-koi"
+msgstr ""
+
+msgctxt "287\tNAME"
+msgid "Oicho-kabu"
+msgstr ""
+
+msgctxt "300\tNAME"
+msgid "Roulette"
+msgstr ""
+
+msgctxt "311\tNAME"
+msgid "Poker"
+msgstr ""
+
+msgctxt "319\tNAME"
+msgid "Blackjack"
+msgstr ""
+
+msgctxt "331\tNAME"
+msgid "Baccarat"
+msgstr ""
+
+msgctxt "341\tNAME"
+msgid "0UFO Catcher"
+msgstr ""
+
+msgctxt "356\tNAME"
+msgid "Gunrhein"
+msgstr ""
+
+msgctxt "367\tNAME"
+msgid "Virtua Fighter 2"
+msgstr ""
+
+msgctxt "386\tNAME"
+msgid "Pachinko"
+msgstr ""
+
+msgctxt "397\tNAME"
+msgid "Slots"
+msgstr ""
+
+msgctxt "405\tNAME"
+msgid "Shogi"
+msgstr ""
+
+msgctxt "413\tNAME"
+msgid "Mahjong"
+msgstr ""
+
+msgctxt "423\tNAME"
+msgid "Kamuro Batting Center"
+msgstr ""
+
+msgctxt "447\tNAME"
+msgid "Nagoya Batting Center"
+msgstr ""
+
+msgctxt "471\tNAME"
+msgid "Driving Range"
+msgstr ""
+
+msgctxt "487\tNAME"
+msgid "River Fishing"
+msgstr ""
+
+msgctxt "503\tNAME"
+msgid "Sea Fishing"
+msgstr ""
+
+msgctxt "517\tNAME"
+msgid "Taiko No Tatsujin"
+msgstr ""
+
+msgctxt "537\tNAME"
+msgid "PrintCircle"
+msgstr ""
+
+msgctxt "551\tNAME"
+msgid "Tatsu-ya Noodles"
+msgstr ""
+
+msgctxt "570\tNAME"
+msgid "Winter Combat"
+msgstr ""
+
+msgctxt "586\tNAME"
+msgid "Comedy Team"
+msgstr ""
+
+msgctxt "600\tNAME"
+msgid "Cochin Cup Classic"
+msgstr ""
+
+msgctxt "621\tEXP"
+msgid "Attained by winning on all difficulties."
+msgstr ""
+
+msgctxt "664\tEXP"
+msgid "Attained by winning in all modes."
+msgstr ""
+
+msgctxt "700\tEXP"
+msgid "Attained by finishing all Advanced difficulty games and Puzzle Pool stages."
+msgstr ""
+
+msgctxt "778\tEXP"
+msgid "Attained by scoring at least 200 in 10 frames."
+msgstr ""
+
+msgctxt "827\tEXP"
+msgid "Get the highest rank for every song."
+msgstr ""
+
+msgctxt "866\tEXP"
+msgid "Attained by scoring a cumulative total of more than 20,000 points."
+msgstr ""
+
+msgctxt "935\tEXP"
+msgid "Attained by scoring a cumulative total of more than 20,000 points."
+msgstr ""
+
+msgctxt "1004\tEXP"
+msgid "Attained by scoring a cumulative total of more than 20,000 points."
+msgstr ""
+
+msgctxt "1073\tEXP"
+msgid "Attained by scoring a cumulative total of more than 10,000 points."
+msgstr ""
+
+msgctxt "1142\tEXP"
+msgid "Attained by winning a cumulative total of more than 20,000 chips."
+msgstr ""
+
+msgctxt "1210\tEXP"
+msgid "Attained by winning a cumulative total of more than 20,000 chips."
+msgstr ""
+
+msgctxt "1278\tEXP"
+msgid "Attained by winning a cumulative total of more than 20,000 chips."
+msgstr ""
+
+msgctxt "1346\tEXP"
+msgid "Attained by winning a cumulative total of more than 20,000 chips."
+msgstr ""
+
+msgctxt "1414\tEXP"
+msgid "Attained by winning all prizes."
+msgstr ""
+
+msgctxt "1448\tEXP"
+msgid "Attained after completing all stages."
+msgstr ""
+
+msgctxt "1488\tEXP"
+msgid "Attained after clearing all stages on single player mode."
+msgstr ""
+
+msgctxt "1548\tEXP"
+msgid ""
+"Attained by finishing a game with more than 7,777 balls in a single \n"
+"play session on any pachinko machine."
+msgstr ""
+
+msgctxt "1657\tEXP"
+msgid ""
+"Attained by finishing a game with more than 777 tokens in a single \n"
+"play session on any slot machine."
+msgstr ""
+
+msgctxt "1761\tEXP"
+msgid "Win 5 games."
+msgstr ""
+
+msgctxt "1776\tEXP"
+msgid "Attained by scoring at least 50,000 points in one game."
+msgstr ""
+
+msgctxt "1834\tEXP"
+msgid ""
+"Attained by obtaining all academic and extra gravure photos and \n"
+"by reaching rank S or the quota necessary."
+msgstr ""
+
+msgctxt "1944\tEXP"
+msgid "Attained by reaching the quota on all courses."
+msgstr ""
+
+msgctxt "1993\tEXP"
+msgid "Beat the specified score for each course."
+msgstr ""
+
+msgctxt "2037\tEXP"
+msgid "Catch every type of fish."
+msgstr ""
+
+msgctxt "2065\tEXP"
+msgid "Catch every type of fish."
+msgstr ""
+
+msgctxt "2093\tEXP"
+msgid "Attained by completing all songs and difficulties."
+msgstr ""
+
+msgctxt "2146\tEXP"
+msgid "Attained after striking every pose."
+msgstr ""
+
+msgctxt "2184\tEXP"
+msgid "Attained after reaching the Ramen King rank."
+msgstr ""
+
+msgctxt "2231\tEXP"
+msgid "Attained by achieving the highest rating in all 6 winter combat courses."
+msgstr ""
+
+msgctxt "2306\tEXP"
+msgid "Attained after passing the final evaluation."
+msgstr ""
+
+msgctxt "2353\tEXP"
+msgid "Attained after conquering all ranks."
+msgstr ""
+
+msgctxt "2390\tSTRING"
+msgid "Go easy on me."
+msgstr ""
+
+msgctxt "2405\tSTRING"
+msgid "Show me what you got."
+msgstr ""
+
+msgctxt "2427\tSTRING"
+msgid "I will show no mercy."
+msgstr ""
+
+msgctxt "2449\tSTRING"
+msgid "01 (Beginner)"
+msgstr ""
+
+msgctxt "2463\tSTRING"
+msgid "01 (Intermediate)"
+msgstr ""
+
+msgctxt "2481\tSTRING"
+msgid "01 (Advanced)"
+msgstr ""
+
+msgctxt "2495\tSTRING"
+msgid "Standard Cricket (Beginner)"
+msgstr ""
+
+msgctxt "2523\tSTRING"
+msgid "Standard Cricket (Intermediate)"
+msgstr ""
+
+msgctxt "2555\tSTRING"
+msgid "Standard Cricket (Advanced)"
+msgstr ""
+
+msgctxt "2583\tSTRING"
+msgid "Random Cricket (Beginner)"
+msgstr ""
+
+msgctxt "2609\tSTRING"
+msgid "Random Cricket (Intermediate)"
+msgstr ""
+
+msgctxt "2639\tSTRING"
+msgid "Random Cricket (Advanced)"
+msgstr ""
+
+msgctxt "2665\tSTRING"
+msgid "Hidden Cricket (Beginner)"
+msgstr ""
+
+msgctxt "2691\tSTRING"
+msgid "Hidden Cricket (Intermediate)"
+msgstr ""
+
+msgctxt "2721\tSTRING"
+msgid "Hidden Cricket (Advanced)"
+msgstr ""
+
+msgctxt "2747\tSTRING"
+msgid "Count-up (Beginner)"
+msgstr ""
+
+msgctxt "2767\tSTRING"
+msgid "Count-up (Intermediate)"
+msgstr ""
+
+msgctxt "2791\tSTRING"
+msgid "Count-up (Advanced)"
+msgstr ""
+
+msgctxt "2811\tSTRING"
+msgid "Nine-ball (Advanced)"
+msgstr ""
+
+msgctxt "2832\tSTRING"
+msgid "Rotation (Advanced)"
+msgstr ""
+
+msgctxt "2852\tSTRING"
+msgid "Eight-ball (Advanced)"
+msgstr ""
+
+msgctxt "2874\tSTRING"
+msgid "Four-ball (Advanced) "
+msgstr ""
+
+msgctxt "2896\tSTRING"
+msgid "Puzzle Pool Stage 1"
+msgstr ""
+
+msgctxt "2916\tSTRING"
+msgid "Puzzle Pool Stage 2"
+msgstr ""
+
+msgctxt "2936\tSTRING"
+msgid "Puzzle Pool Stage 3"
+msgstr ""
+
+msgctxt "2956\tSTRING"
+msgid "Puzzle Pool Stage 4"
+msgstr ""
+
+msgctxt "2976\tSTRING"
+msgid "Puzzle Pool Stage 5"
+msgstr ""
+
+msgctxt "2996\tSTRING"
+msgid "Puzzle Pool Stage 6"
+msgstr ""
+
+msgctxt "3016\tSTRING"
+msgid "Puzzle Pool Stage 7"
+msgstr ""
+
+msgctxt "3036\tSTRING"
+msgid "Puzzle Pool Stage 8"
+msgstr ""
+
+msgctxt "3056\tSTRING"
+msgid "Points obtained in 10 frames."
+msgstr ""
+
+msgctxt "3086\tSTRING"
+msgid "So Much More!"
+msgstr ""
+
+msgctxt "3100\tSTRING"
+msgid "Loneliness Loop"
+msgstr ""
+
+msgctxt "3116\tSTRING"
+msgid "Because I Have You"
+msgstr ""
+
+msgctxt "3135\tSTRING"
+msgid "Baka Mitai"
+msgstr ""
+
+msgctxt "3146\tSTRING"
+msgid "Machine Gun Kiss"
+msgstr ""
+
+msgctxt "3163\tSTRING"
+msgid "Kamurocho Lullaby"
+msgstr ""
+
+msgctxt "3181\tSTRING"
+msgid "Ring"
+msgstr ""
+
+msgctxt "3186\tSTRING"
+msgid "Rouge of Love"
+msgstr ""
+
+msgctxt "3200\tSTRING"
+msgid "Get to the Top!"
+msgstr ""
+
+msgctxt "3216\tSTRING"
+msgid "Total Points"
+msgstr ""
+
+msgctxt "3229\tSTRING"
+msgid "Total Points"
+msgstr ""
+
+msgctxt "3242\tSTRING"
+msgid "Total Points"
+msgstr ""
+
+msgctxt "3255\tSTRING"
+msgid "Total Points"
+msgstr ""
+
+msgctxt "3268\tSTRING"
+msgid "Total Chips"
+msgstr ""
+
+msgctxt "3280\tSTRING"
+msgid "Total Chips"
+msgstr ""
+
+msgctxt "3292\tSTRING"
+msgid "Total Chips"
+msgstr ""
+
+msgctxt "3304\tSTRING"
+msgid "Total Chips"
+msgstr ""
+
+msgctxt "3316\tSTRING"
+msgid "Prizes Won"
+msgstr ""
+
+msgctxt "3327\tSTRING"
+msgid "Stage 1"
+msgstr ""
+
+msgctxt "3335\tSTRING"
+msgid "Stage 2"
+msgstr ""
+
+msgctxt "3343\tSTRING"
+msgid "Stage 3"
+msgstr ""
+
+msgctxt "3351\tSTRING"
+msgid "Stage 4"
+msgstr ""
+
+msgctxt "3359\tSTRING"
+msgid "Stage 5"
+msgstr ""
+
+msgctxt "3367\tSTRING"
+msgid "Round 1"
+msgstr ""
+
+msgctxt "3375\tSTRING"
+msgid "Round 2"
+msgstr ""
+
+msgctxt "3383\tSTRING"
+msgid "Round 3"
+msgstr ""
+
+msgctxt "3391\tSTRING"
+msgid "Round 4"
+msgstr ""
+
+msgctxt "3399\tSTRING"
+msgid "Round 5"
+msgstr ""
+
+msgctxt "3407\tSTRING"
+msgid "Round 6"
+msgstr ""
+
+msgctxt "3415\tSTRING"
+msgid "Round 7"
+msgstr ""
+
+msgctxt "3423\tSTRING"
+msgid "Round 8"
+msgstr ""
+
+msgctxt "3431\tSTRING"
+msgid "Round 9"
+msgstr ""
+
+msgctxt "3439\tSTRING"
+msgid "Round 10"
+msgstr ""
+
+msgctxt "3448\tSTRING"
+msgid "Maximum Pachinko Balls Won"
+msgstr ""
+
+msgctxt "3475\tSTRING"
+msgid "Maximum Slot Tokens Won"
+msgstr ""
+
+msgctxt "3499\tSTRING"
+msgid "Total Wins"
+msgstr ""
+
+msgctxt "3510\tSTRING"
+msgid "Highest score obtained"
+msgstr ""
+
+msgctxt "3533\tSTRING"
+msgid "Easy Game"
+msgstr ""
+
+msgctxt "3543\tSTRING"
+msgid "Normal Game"
+msgstr ""
+
+msgctxt "3555\tSTRING"
+msgid "Academic Course (Gravure Photo 1)"
+msgstr ""
+
+msgctxt "3589\tSTRING"
+msgid "Academic Course (Gravure Photo 2)"
+msgstr ""
+
+msgctxt "3623\tSTRING"
+msgid "Academic Course (Gravure Photo 3)"
+msgstr ""
+
+msgctxt "3657\tSTRING"
+msgid "Academic Course (Gravure Photo 4)"
+msgstr ""
+
+msgctxt "3691\tSTRING"
+msgid "Academic Course (Gravure Photo 5)"
+msgstr ""
+
+msgctxt "3725\tSTRING"
+msgid "Academic Course (Gravure Photo 6)"
+msgstr ""
+
+msgctxt "3759\tSTRING"
+msgid "Extra Course (Gravure Photo 7)"
+msgstr ""
+
+msgctxt "3790\tSTRING"
+msgid "Extra Course (Gravure Photo 8)"
+msgstr ""
+
+msgctxt "3821\tSTRING"
+msgid "Extra Course (Gravure Photo 9)"
+msgstr ""
+
+msgctxt "3852\tSTRING"
+msgid "Professional Course"
+msgstr ""
+
+msgctxt "3872\tSTRING"
+msgid "Normal Beginner Course"
+msgstr ""
+
+msgctxt "3895\tSTRING"
+msgid "Heat Eye Only Course"
+msgstr ""
+
+msgctxt "3916\tSTRING"
+msgid "Intermediate Course"
+msgstr ""
+
+msgctxt "3936\tSTRING"
+msgid "Advanced Course"
+msgstr ""
+
+msgctxt "3952\tSTRING"
+msgid "Mission Course"
+msgstr ""
+
+msgctxt "3967\tSTRING"
+msgid "Sawada Course"
+msgstr ""
+
+msgctxt "3981\tSTRING"
+msgid "Beginner Course"
+msgstr ""
+
+msgctxt "3997\tSTRING"
+msgid "Intermediate Course"
+msgstr ""
+
+msgctxt "4017\tSTRING"
+msgid "Advanced Course"
+msgstr ""
+
+msgctxt "4033\tSTRING"
+msgid "Pro Course"
+msgstr ""
+
+msgctxt "4044\tSTRING"
+msgid "Fish Caught"
+msgstr ""
+
+msgctxt "4056\tSTRING"
+msgid "Fish Caught"
+msgstr ""
+
+msgctxt "4068\tSTRING"
+msgid "Mappy Medley Easy"
+msgstr ""
+
+msgctxt "4086\tSTRING"
+msgid "Mappy Medley Normal"
+msgstr ""
+
+msgctxt "4106\tSTRING"
+msgid "Nijiiro Yumeiro Taikoiro Easy"
+msgstr ""
+
+msgctxt "4136\tSTRING"
+msgid "Nijiiro Yumeiro Taikoiro Normal"
+msgstr ""
+
+msgctxt "4168\tSTRING"
+msgid "From the New World Normal"
+msgstr ""
+
+msgctxt "4194\tSTRING"
+msgid "From the New World Hard"
+msgstr ""
+
+msgctxt "4218\tSTRING"
+msgid "Kiryu <Action:Button_Circle@Print_Circle> successful"
+msgstr ""
+
+msgctxt "4271\tSTRING"
+msgid "Kiryu <Action:Button_Cross@Print_Circle> successful"
+msgstr ""
+
+msgctxt "4323\tSTRING"
+msgid "Kiryu <Action:Button_Square@Print_Circle> successful"
+msgstr ""
+
+msgctxt "4376\tSTRING"
+msgid "Kiryu <Action:Button_Triangle@Print_Circle> successful"
+msgstr ""
+
+msgctxt "4431\tSTRING"
+msgid "Saejima <Action:Button_Circle@Print_Circle> successful"
+msgstr ""
+
+msgctxt "4486\tSTRING"
+msgid "Saejima <Action:Button_Cross@Print_Circle> successful"
+msgstr ""
+
+msgctxt "4540\tSTRING"
+msgid "Saejima <Action:Button_Square@Print_Circle> successful"
+msgstr ""
+
+msgctxt "4595\tSTRING"
+msgid "Saejima <Action:Button_Triangle@Print_Circle> successful"
+msgstr ""
+
+msgctxt "4652\tSTRING"
+msgid "Haruka <Action:Button_Circle@Print_Circle> successful"
+msgstr ""
+
+msgctxt "4706\tSTRING"
+msgid "Haruka <Action:Button_Cross@Print_Circle> successful"
+msgstr ""
+
+msgctxt "4759\tSTRING"
+msgid "Haruka <Action:Button_Square@Print_Circle> successful"
+msgstr ""
+
+msgctxt "4813\tSTRING"
+msgid "Haruka <Action:Button_Triangle@Print_Circle> successful"
+msgstr ""
+
+msgctxt "4869\tSTRING"
+msgid "Akiyama <Action:Button_Circle@Print_Circle> successful"
+msgstr ""
+
+msgctxt "4924\tSTRING"
+msgid "Akiyama <Action:Button_Cross@Print_Circle> successful"
+msgstr ""
+
+msgctxt "4978\tSTRING"
+msgid "Akiyama <Action:Button_Square@Print_Circle> successful"
+msgstr ""
+
+msgctxt "5033\tSTRING"
+msgid "Akiyama <Action:Button_Triangle@Print_Circle> successful"
+msgstr ""
+
+msgctxt "5090\tSTRING"
+msgid "Shinada <Action:Button_Circle@Print_Circle> successful"
+msgstr ""
+
+msgctxt "5145\tSTRING"
+msgid "Shinada <Action:Button_Cross@Print_Circle> successful"
+msgstr ""
+
+msgctxt "5199\tSTRING"
+msgid "Shinada <Action:Button_Square@Print_Circle> successful"
+msgstr ""
+
+msgctxt "5254\tSTRING"
+msgid "Shinada <Action:Button_Triangle@Print_Circle> successful"
+msgstr ""
+
+msgctxt "5311\tSTRING"
+msgid "Ramen King"
+msgstr ""
+
+msgctxt "5322\tSTRING"
+msgid "Deathmatch Beginner"
+msgstr ""
+
+msgctxt "5342\tSTRING"
+msgid "Deathmatch Expert"
+msgstr ""
+
+msgctxt "5360\tSTRING"
+msgid "Battle Royale Beginner"
+msgstr ""
+
+msgctxt "5383\tSTRING"
+msgid "Battle Royale Intermediate"
+msgstr ""
+
+msgctxt "5410\tSTRING"
+msgid "Battle Royale Advanced"
+msgstr ""
+
+msgctxt "5433\tSTRING"
+msgid "Battle Royale Expert"
+msgstr ""
+
+msgctxt "5454\tSTRING"
+msgid "Evaluation rounds passed"
+msgstr ""
+
+msgctxt "5479\tSTRING"
+msgid "Newcomer"
+msgstr ""
+
+msgctxt "5488\tSTRING"
+msgid "Challenger"
+msgstr ""
+
+msgctxt "5499\tSTRING"
+msgid "Contender"
+msgstr ""
+
+msgctxt "5509\tSTRING"
+msgid "Champion"
+msgstr ""

@@ -1,0 +1,531 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "22000"
+msgid "Takamura"
+msgstr ""
+
+msgctxt "22004"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "22008"
+msgid "Foreboding Voice"
+msgstr ""
+
+msgctxt "22012"
+msgid "Foreboding Man"
+msgstr ""
+
+msgctxt "22016"
+msgid "Fashionable Spectator"
+msgstr ""
+
+msgctxt "22020"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "22024"
+msgid "Young Spectator"
+msgstr ""
+
+msgctxt "22028"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "22032"
+msgid "Onisaka"
+msgstr ""
+
+msgctxt "22036"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "22040"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "22044"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "22048"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "22052"
+msgid "M_ykz_damage"
+msgstr ""
+
+msgctxt "22056"
+msgid "M_ykzs_damage"
+msgstr ""
+
+msgctxt "22060"
+msgid "M_YKZ_TLK_damage_kamae"
+msgstr ""
+
+msgctxt "22064"
+msgid "M_YKZS_TLK_damage_kamae"
+msgstr ""
+
+msgctxt "22068"
+msgid "dummy"
+msgstr ""
+
+msgctxt "22072"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "22076"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "22080"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "22084"
+msgid "Yoshimi"
+msgstr ""
+
+msgctxt "22088"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "22092"
+msgid "M_NML_TLK_stand_smile"
+msgstr ""
+
+msgctxt "22096"
+msgid "Nakamura"
+msgstr ""
+
+msgctxt "22100"
+msgid "Kajiwara"
+msgstr ""
+
+msgctxt "22104"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "22108"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "22112"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "76_Takamura"
+msgid "Yo! We're getting our asses out of here!"
+msgstr ""
+
+msgctxt "88_Takamura"
+msgid "You'll get yours soon enough, man! I'll make sure of it!"
+msgstr ""
+
+msgctxt "100_Foreboding Voice"
+msgid "Hold up."
+msgstr ""
+
+msgctxt "124_Takamura"
+msgid ""
+"What a pitiful sight... Never thought the \"legendary\" Devil Killers could "
+"sink so low. You oughta be ashamed."
+msgstr ""
+
+msgctxt "136_Fashionable Spectator"
+msgid "Hey, isn't that...?"
+msgstr ""
+
+msgctxt "148_Young Spectator"
+msgid "Who?"
+msgstr ""
+
+msgctxt "160_Fashionable Spectator"
+msgid ""
+"Seriously, you don't know!? That guy's like the biggest name in racing here "
+"in Fukuoka."
+msgstr ""
+
+msgctxt "172_Takamura"
+msgid "No way..."
+msgstr ""
+
+msgctxt "184_Takamura"
+msgid "Onisaka-san!?"
+msgstr ""
+
+msgctxt "196_Kiryu"
+msgid "(Who's this character all of a sudden?)"
+msgstr ""
+
+msgctxt "208_Takamura"
+msgid "Shoot, I... I didn't know you were gonna be here!"
+msgstr ""
+
+msgctxt "220_Onisaka"
+msgid "You start acting up on this scale, word is gonna reach me."
+msgstr ""
+
+msgctxt "232_Takamura"
+msgid ""
+"Uh, well, you see－this is all the taxi driver's fault! He picked a fight "
+"with us. So we, uh..."
+msgstr ""
+
+msgctxt "244_Onisaka"
+msgid "Don't even bother. I've been doing my own research."
+msgstr ""
+
+msgctxt "256_Takamura"
+msgid "......"
+msgstr ""
+
+msgctxt "268_Onisaka"
+msgid ""
+"I heard you were throwing your weight around. And I only gave you a pass "
+"because you had clout with the community. But now that's all ancient "
+"history."
+msgstr ""
+
+msgctxt "280_Takamura"
+msgid "Yeah? What's your point?"
+msgstr ""
+
+msgctxt "292_Onisaka"
+msgid ""
+"My point? Do I really need to restate how bad this taxi driver beat you to "
+"a pulp?"
+msgstr ""
+
+msgctxt "304_Onisaka"
+msgid ""
+"He's top dog now, so abiding by our rules... I'm ordering you to break up "
+"the Devil Killers!"
+msgstr ""
+
+msgctxt "316_Takamura"
+msgid "But that would mean..."
+msgstr ""
+
+msgctxt "328_Fashionable Spectator"
+msgid ""
+"The Devil Killers are pretty much done for at this point!\r\n"
+"What with Onisaka-san giving the order..."
+msgstr ""
+
+msgctxt "340_Young Spectator"
+msgid "One man really has that kinda pull?"
+msgstr ""
+
+msgctxt "352_Fashionable Spectator"
+msgid "Of course he does! He's pretty much the law in racing circles."
+msgstr ""
+
+msgctxt "364_Onisaka"
+msgid ""
+"Your team is hereby disbanded, never to use the Devil Killers name again. "
+"Any objections?"
+msgstr ""
+
+msgctxt "376_Takamura"
+msgid "...No."
+msgstr ""
+
+msgctxt "388_Onisaka"
+msgid "Then get your ass off the road."
+msgstr ""
+
+msgctxt "412_Takamura"
+msgid "...You heard the man!"
+msgstr ""
+
+msgctxt "436_Takamura"
+msgid "So you're Suzuki, huh? I'm Onisaka. I look after the young guns around here."
+msgstr ""
+
+msgctxt "448_Kiryu"
+msgid "Thanks for intervening."
+msgstr ""
+
+msgctxt "460_Onisaka"
+msgid ""
+"No need to thank me. You're the one who beat Takamura. That's all I needed "
+"to see."
+msgstr ""
+
+msgctxt "472_Kiryu"
+msgid ""
+"But without you, they wouldn't have honored the agreement. So I appreciate "
+"you showing up."
+msgstr ""
+
+msgctxt "484_Onisaka"
+msgid ""
+"Slow down there, pal. You don't think I came all this way just to help you "
+"get rid of a few punks, do you?"
+msgstr ""
+
+msgctxt "496_Kiryu"
+msgid "Why, then?"
+msgstr ""
+
+msgctxt "508_Onisaka"
+msgid "Well... You work for Nakajima, right?"
+msgstr ""
+
+msgctxt "520_Kiryu"
+msgid "Yeah... I do."
+msgstr ""
+
+msgctxt "532_Onisaka"
+msgid ""
+"Then I'm assuming he wanted you to race the Devil Killers into submission, "
+"huh? Break 'em up that way?"
+msgstr ""
+
+msgctxt "544_Kiryu"
+msgid "Ultimately, yes."
+msgstr ""
+
+msgctxt "556_Onisaka"
+msgid "Mm-hm. Yeah, that ain't gonna fly with me."
+msgstr ""
+
+msgctxt "568_Kiryu"
+msgid "Why not?"
+msgstr ""
+
+msgctxt "580_Onisaka"
+msgid ""
+"Because he's a coward. People who chicken out of a challenge have no say in "
+"racing matters."
+msgstr ""
+
+msgctxt "592_Kiryu"
+msgid "What do you mean by that?"
+msgstr ""
+
+msgctxt "604_Onisaka"
+msgid ""
+"Twenty years ago, the two of us were rivals. Nakajima, the undisputed "
+"champion... and me, the runner-up."
+msgstr ""
+
+msgctxt "616_Onisaka"
+msgid ""
+"No matter how many times I raced him, he always won out in the end. I lost "
+"to him countless times."
+msgstr ""
+
+msgctxt "628_Onisaka"
+msgid ""
+"Then one day, I decided enough was enough. I took a year off to travel the "
+"country, taking on as many other racers as I could."
+msgstr ""
+
+msgctxt "640_Onisaka"
+msgid ""
+"Before I left, I made Nakajima swear not to lose to anyone. That way I'd "
+"still be taking on Fukuoka's best when I got back."
+msgstr ""
+
+msgctxt "652_Onisaka"
+msgid ""
+"But when I returned, I found out he'd vanished from the streets. Gone, just "
+"like that. Promises be damned."
+msgstr ""
+
+msgctxt "664_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "676_Onisaka"
+msgid ""
+"It demoralized me, Suzuki-san. An entire year completely down the drain, "
+"with no explanation whatsoever."
+msgstr ""
+
+msgctxt "688_Onisaka"
+msgid ""
+"All that time, with nobody to race? What a fucking way to leave an old "
+"friend behind..."
+msgstr ""
+
+msgctxt "700_Kiryu"
+msgid ""
+"I'm sure Nakajima-san had his reasons. He's not the kind of guy to break "
+"his word."
+msgstr ""
+
+msgctxt "712_Onisaka"
+msgid ""
+"You think I don't know that!? *sigh* ...I know he must have some kind of "
+"situation."
+msgstr ""
+
+msgctxt "724_Onisaka"
+msgid "But that still doesn't keep me from wanting that race. He owes me."
+msgstr ""
+
+msgctxt "736_Onisaka"
+msgid "I'll never forget the thrill I got going up against him... I can't."
+msgstr ""
+
+msgctxt "748_Onisaka"
+msgid ""
+"So I won't give up on street racing until I get another taste of it. My "
+"pride won't let me."
+msgstr ""
+
+msgctxt "760_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "772_Onisaka"
+msgid ""
+"Go back and tell that boss of yours I've been waiting. That whenever he "
+"feels like honoring his promise, I'll be behind the wheel. Same place I've "
+"been for twenty years."
+msgstr ""
+
+msgctxt "820_Takamura"
+msgid ""
+"Hah, that should put you in your place! You're not even close to taking the "
+"throne, taxi man!"
+msgstr ""
+
+msgctxt "832_Kiryu"
+msgid "(Dammit...)"
+msgstr ""
+
+msgctxt "844_Takamura"
+msgid "Hey, Yoshimi! How's the cash flow looking?"
+msgstr ""
+
+msgctxt "856_Yoshimi"
+msgid "Adding in the online winnings... I'd say we're making money hand over fist."
+msgstr ""
+
+msgctxt "868_Takamura"
+msgid ""
+"Haha, good shit! Welp, Suzuki-san, why let it end here when there's so much "
+"more to be made?"
+msgstr ""
+
+msgctxt "880_Takamura"
+msgid ""
+"I'll race you as many times as you want. And by the time you give up, I'll "
+"practically be rolling in cash! Hahahaha!"
+msgstr ""
+
+msgctxt "904_Fashionable Spectator"
+msgid "No way! That taxi driver... he actually did it!"
+msgstr ""
+
+msgctxt "916_Young Spectator"
+msgid "The absolute madman! He beat Devil Takamura!"
+msgstr ""
+
+msgctxt "928_Fashionable Spectator"
+msgid "What could possibly happen next!?"
+msgstr ""
+
+msgctxt "940_Takamura"
+msgid "Oh fuuuuuuck..."
+msgstr ""
+
+msgctxt "952_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "964_Takamura"
+msgid "Well, uh. I guess congratulations are in order?"
+msgstr ""
+
+msgctxt "976_Kiryu"
+msgid ""
+"I don't need your fanfare. What I want is your crew to break up. That was "
+"your end of the bargain."
+msgstr ""
+
+msgctxt "988_Takamura"
+msgid "Okay, everybody. Listen up."
+msgstr ""
+
+msgctxt "1000_Nakamura"
+msgid "Hey, you can't be serious!"
+msgstr ""
+
+msgctxt "1012_Yoshimi"
+msgid "Certainly you don't need to keep such a silly promise..."
+msgstr ""
+
+msgctxt "1024_Kajiwara"
+msgid "Yeah, ain't no reason to break up now!"
+msgstr ""
+
+msgctxt "1036_Takamura"
+msgid "...Break up?"
+msgstr ""
+
+msgctxt "1048_Takamura"
+msgid "Whatever gave you that idea?"
+msgstr ""
+
+msgctxt "1060_Kiryu"
+msgid "...Excuse me?"
+msgstr ""
+
+msgctxt "1072_Takamura"
+msgid ""
+"With all these people watching, this is the perfect chance to show what "
+"happens when you get on the Devil Killers' bad side!"
+msgstr ""
+
+msgctxt "1084_Takamura"
+msgid "Give this bastard a thrashing!"
+msgstr ""
+
+msgctxt "1096_Kajiwara"
+msgid "Heheheh! With pleasure! Gonna get me some payback!"
+msgstr ""
+
+msgctxt "1108_Yoshimi"
+msgid "I'm generally not one to resort to violence... alas, duty calls."
+msgstr ""
+
+msgctxt "1120_Nakamura"
+msgid "Sorry, Mr. Suzuki. I'm afraid you'll have to take your medicine like a man."
+msgstr ""
+
+msgctxt "1132_Kiryu"
+msgid ""
+"That isn't what we agreed on. What happened to the fastest guy calling the "
+"shots?"
+msgstr ""
+
+msgctxt "1144_Takamura"
+msgid ""
+"Hmm? Oh, that. See, there's been an update. It's the "
+"<Italic>strongest</Italic> guy who calls the shots now. Maybe you missed "
+"the memo."
+msgstr ""
+
+msgctxt "1156_Takamura"
+msgid ""
+"Well, what are we waiting for? Time to let the world know what happens when "
+"you mess with the Devil Killers... and let me say, it ain't pretty!"
+msgstr ""

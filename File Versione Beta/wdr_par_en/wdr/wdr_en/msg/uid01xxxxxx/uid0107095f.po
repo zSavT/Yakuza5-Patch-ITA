@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2940"
+msgid "Gen the Reaper"
+msgstr ""
+
+msgctxt "380_Gen the Reaper"
+msgid "First, we pick the banker."
+msgstr ""
+
+msgctxt "392_Gen the Reaper"
+msgid "I'll do the honors."
+msgstr ""
+
+msgctxt "404_Gen the Reaper"
+msgid "How much are you going to wager?"
+msgstr ""
+
+msgctxt "416_Gen the Reaper"
+msgid "Ready to get started?"
+msgstr ""
+
+msgctxt "428_Gen the Reaper"
+msgid "Looks like I'm up."
+msgstr ""
+
+msgctxt "440_Gen the Reaper"
+msgid "(This line should not appear.)"
+msgstr ""
+
+msgctxt "452_Gen the Reaper"
+msgid "Let's settle the bets, eh?"
+msgstr ""
+
+msgctxt "464_Gen the Reaper"
+msgid "You're the banker, kid."
+msgstr ""
+
+msgctxt "476_Gen the Reaper"
+msgid "Time to change bankers."
+msgstr ""
+
+msgctxt "488_Gen the Reaper"
+msgid "Care to play one more?"
+msgstr ""
+
+msgctxt "500_Gen the Reaper"
+msgid "Hmph. So this is it? Guess you can't teach an old dog new tricks."
+msgstr ""
+
+msgctxt "512_Gen the Reaper"
+msgid ""
+"Seems your luck has run out, kid. Come back once you've learned a thing or "
+"two."
+msgstr ""
+
+msgctxt "524_Gen the Reaper"
+msgid "Banker's Bet-Settling Messages"
+msgstr ""
+
+msgctxt "536_Gen the Reaper"
+msgid "A banker roll of 1-3-5 is a 3."
+msgstr ""
+
+msgctxt "548_Gen the Reaper"
+msgid "A roll of 1-3-5 by the first player is a 3."
+msgstr ""
+
+msgctxt "560_Gen the Reaper"
+msgid "A 1-3-5 is whatever the preceding player rolled."
+msgstr ""
+
+msgctxt "572_Gen the Reaper"
+msgid "A banker roll of 2-4-6 is a 4."
+msgstr ""
+
+msgctxt "584_Gen the Reaper"
+msgid "A 2-4-6 roll is whatever the next player rolls."
+msgstr ""
+
+msgctxt "596_Gen the Reaper"
+msgid "A roll of 2-4-6 by the last player is a 4."
+msgstr ""
+
+msgctxt "608_Gen the Reaper"
+msgid "A 2-4-6 roll gets the last player's roll!"
+msgstr ""
+
+msgctxt "620_Gen the Reaper"
+msgid "A 1-3-5 was rolled after a 2-4-6."
+msgstr ""
+
+msgctxt "632_Gen the Reaper"
+msgid "There's no beating a 6-3-4!"
+msgstr ""

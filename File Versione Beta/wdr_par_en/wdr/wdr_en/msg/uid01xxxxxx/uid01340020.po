@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "11488"
+msgid "Attendant"
+msgstr ""
+
+msgctxt "11492"
+msgid "M_SHP_TLK_stand_ojigi"
+msgstr ""
+
+msgctxt "11496"
+msgid "Visit"
+msgstr ""
+
+msgctxt "11500"
+msgid "Leave"
+msgstr ""
+
+msgctxt "11504"
+msgid "Player"
+msgstr ""
+
+msgctxt "11508"
+msgid "M_SHP_TLK_stand_quest"
+msgstr ""
+
+msgctxt "11512"
+msgid "Stay Longer"
+msgstr ""
+
+msgctxt "11516"
+msgid "So Many Foreigners"
+msgstr ""
+
+msgctxt "11520"
+msgid "The Streets of Sotenbori"
+msgstr ""
+
+msgctxt "11524"
+msgid "Osaka Girls"
+msgstr ""
+
+msgctxt "11528"
+msgid "Oita Karaage"
+msgstr ""
+
+msgctxt "11532"
+msgid "A Place Where Comedians Gather"
+msgstr ""
+
+msgctxt "11536"
+msgid "Non-alcoholic Cocktails"
+msgstr ""
+
+msgctxt "11540"
+msgid "Okonomiyaki Diet"
+msgstr ""
+
+msgctxt "11544"
+msgid "The Current State of Fashion"
+msgstr ""
+
+msgctxt "11548"
+msgid "Nothing"
+msgstr ""
+
+msgctxt "11552"
+msgid "Her Likes"
+msgstr ""
+
+msgctxt "11556"
+msgid "Her Hobbies"
+msgstr ""
+
+msgctxt "11560"
+msgid "Her Thoughts on Romance"
+msgstr ""
+
+msgctxt "11564"
+msgid "About Herself"
+msgstr ""
+
+msgctxt "11568"
+msgid "TMI"
+msgstr ""
+
+msgctxt "11572"
+msgid "Order Something"
+msgstr ""
+
+msgctxt "11576"
+msgid "Don't Order"
+msgstr ""
+
+msgctxt "11580"
+msgid "Ask Her Out"
+msgstr ""
+
+msgctxt "11584"
+msgid "Not Yet"
+msgstr ""
+
+msgctxt "11588"
+msgid "Go Home"
+msgstr ""
+
+msgctxt "268_Attendant"
+msgid "Hello. Welcome to Prime."
+msgstr ""
+
+msgctxt "280_Attendant"
+msgid ""
+"Our establishment has an 8,400 yen minimum, along with a 3,150 yen cover "
+"charge. Choosing a specific hostess incurs another 3,150 yen fee."
+msgstr ""
+
+msgctxt "304_Attendant"
+msgid "Would you like to join us today?"
+msgstr ""
+
+msgctxt "328_Attendant"
+msgid "I'll find you a hostess then. This way, sir."
+msgstr ""
+
+msgctxt "340_Attendant"
+msgid "You'd like to see Honoka-san? This way, sir."
+msgstr ""
+
+msgctxt "352_Attendant"
+msgid "I see. We hope you'll come by again, sir."
+msgstr ""
+
+msgctxt "364_Attendant"
+msgid ""
+"I'm terribly sorry, sir, but Honoka-san isn't here at the moment, I'm "
+"afraid."
+msgstr ""
+
+msgctxt "376_Player"
+msgid "I see. I'll come back later, then."
+msgstr ""
+
+msgctxt "388_Attendant"
+msgid "We look forward to your next visit, sir."
+msgstr ""
+
+msgctxt "400_Player"
+msgid "(Oops. I don't have enough money.)"
+msgstr ""
+
+msgctxt "412_Player"
+msgid "Hold on!"
+msgstr ""
+
+msgctxt "424_Attendant"
+msgid "Is something the matter?"
+msgstr ""
+
+msgctxt "436_Player"
+msgid "Sorry. I'll have to come back later."
+msgstr ""
+
+msgctxt "448_Player"
+msgid "(I'll need at least 15,000 yen.)"
+msgstr ""
+
+msgctxt "460_Attendant"
+msgid "Your check, sir."
+msgstr ""
+
+msgctxt "472_Attendant"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "520_Attendant"
+msgid "You're coming up on your time limit, sir. Would you care for an extension?"
+msgstr ""
+
+msgctxt "532_Attendant"
+msgid "Very well, then. Enjoy the rest of your stay."
+msgstr ""
+
+msgctxt "544_Attendant"
+msgid "Understood, sir."
+msgstr ""
+
+msgctxt "556_Attendant"
+msgid "You're coming up on your time limit, sir. Would you care for an extension?"
+msgstr ""
+
+msgctxt "568_Player"
+msgid "(I can't afford an extension right now.)"
+msgstr ""
+
+msgctxt "580_Player"
+msgid "No thanks. I'll be on my way."
+msgstr ""
+
+msgctxt "592_Attendant"
+msgid "Understood, sir."
+msgstr ""
+
+msgctxt "604_Player"
+msgid "(Should I change the subject?)"
+msgstr ""
+
+msgctxt "616_Player"
+msgid "(Maybe I should ask a question.)"
+msgstr ""
+
+msgctxt "628_Player"
+msgid "(Maybe I should order something else.)"
+msgstr ""
+
+msgctxt "640_Player"
+msgid "(Should I give her a present?)"
+msgstr ""
+
+msgctxt "652_Player"
+msgid "(Should I ask her out on a date?)"
+msgstr ""
+
+msgctxt "664_Player"
+msgid "(Maybe I should go.)"
+msgstr ""
+
+msgctxt "676_Player"
+msgid "(What should I talk about?)"
+msgstr ""
+
+msgctxt "940_Player"
+msgid "(What should I ask about?)"
+msgstr ""
+
+msgctxt "1024_Player"
+msgid "(What should I do?)"
+msgstr ""
+
+msgctxt "1108_Player"
+msgid "(She already said yes. I shouldn't be so pushy about it.)"
+msgstr ""
+
+msgctxt "1120_Player"
+msgid ""
+"(She already turned me down once. I should wait until next time before I "
+"ask her again.)"
+msgstr ""
+
+msgctxt "1132_Player"
+msgid "(What should I do?)"
+msgstr ""
+
+msgctxt "1168_Player"
+msgid "(What should I do?)"
+msgstr ""

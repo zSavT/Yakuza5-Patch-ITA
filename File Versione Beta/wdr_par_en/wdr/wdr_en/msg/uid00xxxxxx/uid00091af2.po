@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "332"
+msgid "You handed over <Color:8>Marten Pelt<Color:Default>."
+msgstr ""
+
+msgctxt "368"
+msgid "You got a <Color:8>Deer Meat<Color:Default>."
+msgstr ""
+
+msgctxt "428"
+msgid "You got 500 experience points."
+msgstr ""
+
+msgctxt "536"
+msgid "You handed over <Color:8>Marten Pelt<Color:Default>."
+msgstr ""
+
+msgctxt "572"
+msgid "You got <Color:8>Deer Meat<Color:Default>."
+msgstr ""
+
+msgctxt "632"
+msgid "You got 500 experience points."
+msgstr ""
+
+msgctxt "7884"
+msgid "Marten Furrier"
+msgstr ""
+
+msgctxt "7888"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "7892"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "7896"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "7900"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7904"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "7908"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7912"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "7916"
+msgid "Mission Added"
+msgstr ""
+
+msgctxt "7920"
+msgid "Hand Over the Marten Pelts"
+msgstr ""
+
+msgctxt "7924"
+msgid "Keep the Marten Pelts"
+msgstr ""
+
+msgctxt "7928"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "7932"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "104_Marten Furrier"
+msgid "Oh, hey. Listen, you got a minute?"
+msgstr ""
+
+msgctxt "116_Saejima"
+msgid "Whaddya want?"
+msgstr ""
+
+msgctxt "128_Marten Furrier"
+msgid "Heard you're going hunting. Is it true?"
+msgstr ""
+
+msgctxt "140_Saejima"
+msgid "So what if it is?"
+msgstr ""
+
+msgctxt "152_Marten Furrier"
+msgid "Well, could I trouble you to trap some martens?"
+msgstr ""
+
+msgctxt "164_Saejima"
+msgid "Martens?"
+msgstr ""
+
+msgctxt "176_Marten Furrier"
+msgid "Yeah. They're like weasels."
+msgstr ""
+
+msgctxt "188_Marten Furrier"
+msgid ""
+"They're my primary source of income, because the ones around here have such "
+"gorgeous fur."
+msgstr ""
+
+msgctxt "200_Marten Furrier"
+msgid ""
+"But it's been so dangerous up there lately... and I don't have a gun－only "
+"traps. So it would be suicide for me to go up there."
+msgstr ""
+
+msgctxt "212_Saejima"
+msgid ""
+"So ya want me to get some for ya? Sorry, but I ain't riskin' my life for "
+"you."
+msgstr ""
+
+msgctxt "224_Marten Furrier"
+msgid ""
+"But you're going up there anyway! And I'll pay you handsomely. Please, I'm "
+"begging you!"
+msgstr ""
+
+msgctxt "236_Saejima"
+msgid "...Guess I'll nab some if I feel like it."
+msgstr ""
+
+msgctxt "248_Marten Furrier"
+msgid "You will? You're a lifesaver! Three pelts is all I need. Thank you so much!"
+msgstr ""
+
+msgctxt "260_Mission Added"
+msgid "\"Get Marten Pelts\" was added to the list of missions."
+msgstr ""
+
+msgctxt "272_Saejima"
+msgid "(To catch martens, I'll hafta use cage traps.)"
+msgstr ""
+
+msgctxt "296_Marten Furrier"
+msgid "Oh, hey! Did you catch any martens?"
+msgstr ""
+
+msgctxt "308_Marten Furrier"
+msgid "You're a lifesaver, I swear! Oh, here's your payment right here."
+msgstr ""
+
+msgctxt "320_Marten Furrier"
+msgid "Oh, thank you! My family will eat better because of you."
+msgstr ""
+
+msgctxt "356_Marten Furrier"
+msgid "Here you go."
+msgstr ""
+
+msgctxt "392_Marten Furrier"
+msgid "Thank you again!"
+msgstr ""
+
+msgctxt "452_Marten Furrier"
+msgid "Oh, I can see you have some pelts. They're not for me?"
+msgstr ""
+
+msgctxt "464_Marten Furrier"
+msgid "Okay, well, let me know if you ever have some for me..."
+msgstr ""
+
+msgctxt "476_Marten Furrier"
+msgid "I'm begging you to bag me three martens. Please? I'll wait right here."
+msgstr ""
+
+msgctxt "488_Saejima"
+msgid "(To catch martens, I'll hafta use cage traps.)"
+msgstr ""
+
+msgctxt "512_Marten Furrier"
+msgid ""
+"I'm begging you－those marten pelts would mean so much to me. Please? I have "
+"your reward right here..."
+msgstr ""
+
+msgctxt "524_Marten Furrier"
+msgid "Oh, thank you! My family will eat better because of you."
+msgstr ""
+
+msgctxt "560_Marten Furrier"
+msgid "Here you go."
+msgstr ""
+
+msgctxt "596_Marten Furrier"
+msgid "Thank you again!"
+msgstr ""
+
+msgctxt "656_Marten Furrier"
+msgid "Oh, I can see you have some pelts. They're not for me?"
+msgstr ""
+
+msgctxt "668_Marten Furrier"
+msgid "Okay, well, let me know if you ever have some for me..."
+msgstr ""
+
+msgctxt "680_Marten Furrier"
+msgid ""
+"I'm begging you to get me three marten pelts. I'll reward you. Please? I'm "
+"really in a bind here."
+msgstr ""

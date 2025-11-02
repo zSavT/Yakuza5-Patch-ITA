@@ -1,0 +1,562 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1228"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr ""
+
+msgctxt "1288"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round when you are "
+"playing cho-han.\r\n"
+" "
+msgstr ""
+
+msgctxt "1336"
+msgid "You got <Color:8>Haruka's Lunch<Color:Default>."
+msgstr ""
+
+msgctxt "1396"
+msgid "You got <Color:8>Haruka's First-Aid Kit<Color:Default>."
+msgstr ""
+
+msgctxt "1456"
+msgid "You got <Color:8>Red Jewel<Color:Default>."
+msgstr ""
+
+msgctxt "1516"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr ""
+
+msgctxt "1576"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr ""
+
+msgctxt "1636"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr ""
+
+msgctxt "1744"
+msgid "You got <Color:8>Morning Glory Belly Warmer<Color:Default>."
+msgstr ""
+
+msgctxt "25896"
+msgid "Staff"
+msgstr ""
+
+msgctxt "25900"
+msgid "dummy"
+msgstr ""
+
+msgctxt "25904"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "25908"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "25912"
+msgid "P_TLK_sitcnt_kamae"
+msgstr ""
+
+msgctxt "25916"
+msgid "Kaguya"
+msgstr ""
+
+msgctxt "25920"
+msgid "Player"
+msgstr ""
+
+msgctxt "25924"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "25928"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "25932"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "25936"
+msgid "○They have that?"
+msgstr ""
+
+msgctxt "25940"
+msgid "□I'm not a fan of delivery."
+msgstr ""
+
+msgctxt "25944"
+msgid "△Yer gonna get fat."
+msgstr ""
+
+msgctxt "25948"
+msgid "0"
+msgstr ""
+
+msgctxt "25952"
+msgid "Idle"
+msgstr ""
+
+msgctxt "25956"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "25960"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "25964"
+msgid "P_TLK_sitcnt_yes"
+msgstr ""
+
+msgctxt "25968"
+msgid "HAL_TLK_sitchr_eat_sushi_min"
+msgstr ""
+
+msgctxt "25972"
+msgid "HAL_TLK_sitchr_kamae"
+msgstr ""
+
+msgctxt "25976"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "25980"
+msgid "P_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "25984"
+msgid "HAL_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "25988"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "25992"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "25996"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "26000"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "26004"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "76_Staff"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "88_Staff"
+msgid "This way, please."
+msgstr ""
+
+msgctxt "136_Kaguya"
+msgid ""
+"Hmm. Usually I'd get the uni, but today I think I'll get the "
+"<Color:8>Special Sushi Zanmai<Color:Default>."
+msgstr ""
+
+msgctxt "148_Player"
+msgid "(Guess Kaguya wants the <Color:8>Special Sushi Zanmai<Color:Default>.)"
+msgstr ""
+
+msgctxt "220_Kaguya"
+msgid "Bon appetit!"
+msgstr ""
+
+msgctxt "280_Kaguya"
+msgid ""
+"The fish here is so fresh and delicious! There's nothing better than eating "
+"sushi made to order!"
+msgstr ""
+
+msgctxt "292_Player"
+msgid "Don't ya get out much? Sounds like you haven't been out to eat in a while."
+msgstr ""
+
+msgctxt "304_Kaguya"
+msgid "That's true. I usually cook for myself at home, or else I'll order delivery."
+msgstr ""
+
+msgctxt "316_Player"
+msgid "You get stuff like sushi and soba delivered?"
+msgstr ""
+
+msgctxt "328_Kaguya"
+msgid ""
+"Sushi is expensive, so I hardly order it. And I've never ordered soba "
+"before."
+msgstr ""
+
+msgctxt "340_Player"
+msgid "Well, then whaddya get delivered?"
+msgstr ""
+
+msgctxt "352_Kaguya"
+msgid "Stuff like curry or pizza."
+msgstr ""
+
+msgctxt "364_Player"
+msgid "They have that? Guess they got everythin' nowadays."
+msgstr ""
+
+msgctxt "376_Kaguya"
+msgid ""
+"It's not particularly recent. They've had these things for quite some time, "
+"you know."
+msgstr ""
+
+msgctxt "388_Kaguya"
+msgid ""
+"There are fast food places that deliver burgers, and even convenience "
+"stores offer delivery now."
+msgstr ""
+
+msgctxt "400_Player"
+msgid ""
+"Really? I guess with that kinda convenience I can see why people wind up as "
+"shut-ins."
+msgstr ""
+
+msgctxt "412_Kaguya"
+msgid ""
+"Yep. That's why when I do go out to eat, I don't make the food my main "
+"focus. What's more important is spending time with whoever I'm with."
+msgstr ""
+
+msgctxt "424_Player"
+msgid "I see. So it's not the meal that's important, it's where ya go to get it?"
+msgstr ""
+
+msgctxt "436_Kaguya"
+msgid ""
+"Yes. That's why no matter how good delivery options get, I don't think "
+"eating out is ever going away for me."
+msgstr ""
+
+msgctxt "448_Player"
+msgid "Yeah, I can see what ya mean. You're pretty smart."
+msgstr ""
+
+msgctxt "460_Kaguya"
+msgid ""
+"When I'm killing time at home, this is the sort of thing I always think "
+"about."
+msgstr ""
+
+msgctxt "472_Player"
+msgid ""
+"I'm not a fan of delivery. Even if they offer a whole buncha different "
+"things, I figure I'm better off at a restaurant."
+msgstr ""
+
+msgctxt "484_Kaguya"
+msgid "Oh? Why is that?"
+msgstr ""
+
+msgctxt "496_Player"
+msgid ""
+"Delivery takes too long, especially when I'm hungry. I need to eat right "
+"away."
+msgstr ""
+
+msgctxt "508_Kaguya"
+msgid "Then why not try to put an order in ahead of time?"
+msgstr ""
+
+msgctxt "520_Player"
+msgid ""
+"That ain't all it is. For example, with sushi, I can pick my own fish with "
+"my own eyes, or ask the sushi chef for recommendations."
+msgstr ""
+
+msgctxt "532_Player"
+msgid ""
+"Ya can't do any of that with delivery. And ya can't add more to your order "
+"later either."
+msgstr ""
+
+msgctxt "544_Kaguya"
+msgid "Ah! I can see how you wouldn't be able to do that with delivery."
+msgstr ""
+
+msgctxt "556_Player"
+msgid "Plus you can get to know the restaurant staff too, so it's way better."
+msgstr ""
+
+msgctxt "568_Player"
+msgid ""
+"Yer gonna get fat. If you're not gonna leave home, ya may as well eat "
+"somethin' healthy."
+msgstr ""
+
+msgctxt "580_Kaguya"
+msgid ""
+"So to ask you the same question, is it okay to eat fatty foods when eating "
+"out?"
+msgstr ""
+
+msgctxt "592_Player"
+msgid ""
+"Nah, that ain't what I mean. The time it takes to walk someplace is "
+"exercise, right? It's a bit healthier than delivery."
+msgstr ""
+
+msgctxt "604_Kaguya"
+msgid ""
+"That's not a very convincing argument. If I'm looking after my health, I "
+"should still make a point to eat only healthy foods when eating out."
+msgstr ""
+
+msgctxt "616_Kaguya"
+msgid ""
+"Someone who can't be consistent about eating healthy isn't persuasive at "
+"all."
+msgstr ""
+
+msgctxt "628_Player"
+msgid ""
+"You might not agree with me, but do ya at least see the reasonin' behind "
+"what I'm sayin'?"
+msgstr ""
+
+msgctxt "640_Kaguya"
+msgid "Reasoning? Then why don't I just exercise indoors at home?"
+msgstr ""
+
+msgctxt "652_Player"
+msgid "Ya've got a comeback for everythin', don't you?"
+msgstr ""
+
+msgctxt "712_Kaguya"
+msgid "Thanks for the food! <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "748_Staff"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "820_Staff"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "832_Haruka"
+msgid "Uncle Kaz, I'd really like the <Color:8>Uni<Color:Default>."
+msgstr ""
+
+msgctxt "844_Kiryu"
+msgid "(Haruka wants to have the <Color:8>Uni<Color:Default>.)"
+msgstr ""
+
+msgctxt "868_Haruka"
+msgid "But I wanted the <Color:8>Uni<Color:Default>..."
+msgstr ""
+
+msgctxt "880_Staff"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "904_Haruka"
+msgid "Thanks, Uncle Kaz! This looks really tasty!"
+msgstr ""
+
+msgctxt "1060_Haruka"
+msgid "Thanks for treating me!"
+msgstr ""
+
+msgctxt "1072_Staff"
+msgid "(Haruka sure seems happy.)"
+msgstr ""
+
+msgctxt "1156_Kiryu"
+msgid "You ready to go?"
+msgstr ""
+
+msgctxt "1168_Haruka"
+msgid "Yeah!"
+msgstr ""
+
+msgctxt "1216_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! This is for you!\r\n"
+" "
+msgstr ""
+
+msgctxt "1276_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come play cho-han with you next time, "
+"okay?\r\n"
+" "
+msgstr ""
+
+msgctxt "1324_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I have a present for you!\r\n"
+" "
+msgstr ""
+
+msgctxt "1384_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "1444_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "1504_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "1564_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "1624_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "1720_Haruka"
+msgid ""
+"Thanks for doing all that stuff for me, Uncle Kaz!\r\n"
+" "
+msgstr ""
+
+msgctxt "1732_Staff"
+msgid ""
+"Here, this is a special present, just for you!\r\n"
+" "
+msgstr ""
+
+msgctxt "1756_Haruka"
+msgid "Thanks, Uncle Kaz! I love you!"
+msgstr ""
+
+msgctxt "1792_Staff"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "1816_Staff"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "1852_Staff"
+msgid "This way, please."
+msgstr ""
+
+msgctxt "1864_Player"
+msgid "(I'm broke.)"
+msgstr ""
+
+msgctxt "1900_Kiryu"
+msgid "(I don't need to eat right now.)"
+msgstr ""
+
+msgctxt "1912_Akiyama"
+msgid "(I'm not hungry right now.)"
+msgstr ""
+
+msgctxt "1924_Saejima"
+msgid "(I'm still full.)"
+msgstr ""
+
+msgctxt "1936_Shinada"
+msgid "(Unfortunately, I'm kinda full.)"
+msgstr ""
+
+msgctxt "1948_Haruka"
+msgid "(I'm stuffed.)"
+msgstr ""
+
+msgctxt "1984_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr ""
+
+msgctxt "1996_Akiyama"
+msgid "Sorry. I have some urgent business to take care of."
+msgstr ""
+
+msgctxt "2008_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr ""
+
+msgctxt "2020_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr ""
+
+msgctxt "2032_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr ""
+
+msgctxt "2044_Staff"
+msgid "Ah, I see. Please do come again."
+msgstr ""
+
+msgctxt "2104_Staff"
+msgid "Welcome. May I take your order?"
+msgstr ""
+
+msgctxt "2140_Staff"
+msgid "Here's your check."
+msgstr ""
+
+msgctxt "2164_Staff"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "2212_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr ""
+
+msgctxt "2224_Akiyama"
+msgid "Sorry. I have some urgent business to take care of."
+msgstr ""
+
+msgctxt "2236_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr ""
+
+msgctxt "2248_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr ""
+
+msgctxt "2260_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr ""
+
+msgctxt "2272_Staff"
+msgid "Ah, I see. Please do come again."
+msgstr ""
+
+msgctxt "2332_Staff"
+msgid "Thank you very much."
+msgstr ""

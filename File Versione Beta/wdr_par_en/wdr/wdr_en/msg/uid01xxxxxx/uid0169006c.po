@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "152"
+msgid "You got a <Color:8>Snare<Color:Default>."
+msgstr ""
+
+msgctxt "4620"
+msgid "Okudera"
+msgstr ""
+
+msgctxt "4624"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4628"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "4632"
+msgid "2d_jm_yuki_wana"
+msgstr ""
+
+msgctxt "4636"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "4640"
+msgid "Trap Durability"
+msgstr ""
+
+msgctxt "4644"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "4648"
+msgid "Trap Sites"
+msgstr ""
+
+msgctxt "56_Okudera"
+msgid ""
+"Today I'll show you how to trap small game. It doesn't involve any "
+"shooting, so don't worry about your rifle."
+msgstr ""
+
+msgctxt "68_Okudera"
+msgid ""
+"You have to use different traps for different animals. Today we'll catch "
+"rabbits. For them, we use snares."
+msgstr ""
+
+msgctxt "80_Saejima"
+msgid "Got it. Rabbits, snares."
+msgstr ""
+
+msgctxt "92_Okudera"
+msgid ""
+"Yeah. You can also catch martens and foxes around here, but we'll save them "
+"for another time."
+msgstr ""
+
+msgctxt "104_Okudera"
+msgid "So, this is a snare."
+msgstr ""
+
+msgctxt "116_Okudera"
+msgid "When the animal steps in it, the wire tightens around its foot."
+msgstr ""
+
+msgctxt "128_Okudera"
+msgid "You can use mine today, but remember to bring your own for next time."
+msgstr ""
+
+msgctxt "140_Saejima"
+msgid "'Preciate it."
+msgstr ""
+
+msgctxt "176_Okudera"
+msgid "Traps are reusable, but they can break. Just repair them if that happens."
+msgstr ""
+
+msgctxt "188_Trap Durability"
+msgid ""
+"Each time you use a trap, it gets a little less durable. If its durability "
+"drops to zero, it will break. Use a <Color:8>repair kit<Color:Default> to "
+"repair it."
+msgstr ""
+
+msgctxt "200_Okudera"
+msgid "The key to successful trapping is placement."
+msgstr ""
+
+msgctxt "212_Okudera"
+msgid "You have to look for a good trap site."
+msgstr ""
+
+msgctxt "224_Saejima"
+msgid "Where do I find those?"
+msgstr ""
+
+msgctxt "236_Trap Sites"
+msgid ""
+"There are many <Color:7>trap sites<Color:Default> on the mountain, but the "
+"best ones are wherever there are lots of animal tracks. So if you find a "
+"site, check the area for tracks!"
+msgstr ""
+
+msgctxt "248_Saejima"
+msgid "So... I gotta trek around in the snow until I find a site?"
+msgstr ""
+
+msgctxt "260_Okudera"
+msgid "Nobody ever said a hunter's life was easy. Go on, now. Lead the way."
+msgstr ""
+
+msgctxt "272_Saejima"
+msgid "Alright."
+msgstr ""

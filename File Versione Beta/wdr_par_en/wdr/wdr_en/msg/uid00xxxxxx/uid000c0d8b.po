@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "3724"
+msgid "Guide"
+msgstr ""
+
+msgctxt "3728"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "3732"
+msgid "HAL_TLK_stand_request02"
+msgstr ""
+
+msgctxt "3736"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3740"
+msgid "Give It a Try"
+msgstr ""
+
+msgctxt "3744"
+msgid "Forget It"
+msgstr ""
+
+msgctxt "3748"
+msgid "HAL_TLK_stand_unhappy"
+msgstr ""
+
+msgctxt "3752"
+msgid "I'm in."
+msgstr ""
+
+msgctxt "3756"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "3760"
+msgid "Player"
+msgstr ""
+
+msgctxt "3764"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3768"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "3772"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3776"
+msgid "Forget it."
+msgstr ""
+
+msgctxt "76_Guide"
+msgid ""
+"Hey, now. If you want to play <Color:8>cee-lo<Color:Default>, you'll be "
+"needing more wooden tags."
+msgstr ""
+
+msgctxt "88_Guide"
+msgid ""
+"The minimum bet is ten tags. You can play after you buy some more wooden "
+"tags."
+msgstr ""
+
+msgctxt "100_Guide"
+msgid "How about some <Color:8>cee-lo<Color:Default>? Can I interest you in a game?"
+msgstr ""
+
+msgctxt "112_Haruka"
+msgid ""
+"Uncle Kaz! See if you can <Color:8>win 1,000 points or more at "
+"cee-lo<Color:Default>. I like seeing you win."
+msgstr ""
+
+msgctxt "124_Kiryu"
+msgid ""
+"(Haruka wants me to <Color:8>win 1,000 points or more at "
+"cee-lo<Color:Default>.)"
+msgstr ""
+
+msgctxt "148_Haruka"
+msgid "Aww, okay. Some other time."
+msgstr ""
+
+msgctxt "160_Guide"
+msgid "No? Roll with us some other time, then."
+msgstr ""
+
+msgctxt "172_Guide"
+msgid "Yeah? You're in?"
+msgstr ""
+
+msgctxt "184_Guide"
+msgid "Yeah, I'll play."
+msgstr ""
+
+msgctxt "196_Guide"
+msgid "Come on over here then."
+msgstr ""
+
+msgctxt "208_Haruka"
+msgid "Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "232_Guide"
+msgid "No. I'll pass."
+msgstr ""
+
+msgctxt "244_Guide"
+msgid "No? Another time, then."
+msgstr ""
+
+msgctxt "256_Guide"
+msgid "How about some <Color:8>cee-lo<Color:Default>? Can I interest you in a game?"
+msgstr ""
+
+msgctxt "268_Guide"
+msgid "Yeah, I'll play."
+msgstr ""
+
+msgctxt "280_Guide"
+msgid "Come on over here, then."
+msgstr ""
+
+msgctxt "304_Guide"
+msgid "No. I'll pass."
+msgstr ""
+
+msgctxt "316_Guide"
+msgid "No? Another time, then."
+msgstr ""

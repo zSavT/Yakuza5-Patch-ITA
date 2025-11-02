@@ -1,0 +1,264 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "10220"
+msgid "Nishina"
+msgstr ""
+
+msgctxt "10224"
+msgid "Narumi"
+msgstr ""
+
+msgctxt "10228"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "10232"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "10236"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "10240"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "10244"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "10248"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "10252"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "10256"
+msgid "M_NML_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "10260"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "10264"
+msgid "C4210_TSG_TLK_munagura_st"
+msgstr ""
+
+msgctxt "10268"
+msgid "C4210_UNO_TLK_munagura_st"
+msgstr ""
+
+msgctxt "10272"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "10276"
+msgid "Sakurai"
+msgstr ""
+
+msgctxt "10280"
+msgid "C4210_TSG_TLK_munagura_ed"
+msgstr ""
+
+msgctxt "10284"
+msgid "C4210_UNO_TLK_munagura_ed"
+msgstr ""
+
+msgctxt "10288"
+msgid "Kimiyo"
+msgstr ""
+
+msgctxt "10292"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "10296"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "10300"
+msgid "Mission Added"
+msgstr ""
+
+msgctxt "72_Nishina"
+msgid ""
+"Do you have any idea what you've done? Did you even think about what this "
+"could do to us!?"
+msgstr ""
+
+msgctxt "84_Narumi"
+msgid "Hah. Of course I did."
+msgstr ""
+
+msgctxt "96_Narumi"
+msgid ""
+"I was thinking about what a favor I was doing for you all. Or did you "
+"<Italic>want</Italic> to keep living terrified of some bear?"
+msgstr ""
+
+msgctxt "108_Nishina"
+msgid "It's not some bear! It's Yama-oroshi."
+msgstr ""
+
+msgctxt "120_Narumi"
+msgid ""
+"See, that's what I'm talking about! You people have made this animal into "
+"some kind of god figure."
+msgstr ""
+
+msgctxt "132_Saejima"
+msgid "Everyone! Pipe down a sec. What happened, exactly?"
+msgstr ""
+
+msgctxt "144_Narumi"
+msgid ""
+"These country bumpkins... They don't want anyone to take real action to "
+"solve a problem, I guess."
+msgstr ""
+
+msgctxt "156_Nishina"
+msgid "This braying jackass has been scattering bear bait all over the mountain!"
+msgstr ""
+
+msgctxt "168_Saejima"
+msgid "What? Why're you doin' that?"
+msgstr ""
+
+msgctxt "180_Nishina"
+msgid "He's trying to lure out Yama-oroshi. We'll all be in danger!"
+msgstr ""
+
+msgctxt "192_Saejima"
+msgid "Why? Ya think he'll come down here to the village?"
+msgstr ""
+
+msgctxt "204_Nishina"
+msgid ""
+"Not only that, all the other bears are going to smell the food, too. "
+"They'll wake up from hibernation."
+msgstr ""
+
+msgctxt "216_Nishina"
+msgid "...And they'll be crazed as a pack of wild dogs on the hunt!"
+msgstr ""
+
+msgctxt "228_Nishina"
+msgid "They're sure to bring their feeding frenzy to our village!"
+msgstr ""
+
+msgctxt "252_Narumi"
+msgid ""
+"So what? I'll kill the whole damn lot. All the bears I can shoot!\r\n"
+"This'll be the hunting trip of a lifetime."
+msgstr ""
+
+msgctxt "264_Nishina"
+msgid "Asshole!"
+msgstr ""
+
+msgctxt "288_Sakurai"
+msgid "Hey! Nishina-san!"
+msgstr ""
+
+msgctxt "300_Sakurai"
+msgid "There was another bear sighting!"
+msgstr ""
+
+msgctxt "312_Nishina"
+msgid "Was it Yama-oroshi?"
+msgstr ""
+
+msgctxt "324_Sakurai"
+msgid "They couldn't tell; it took off right away. But they said it was huge."
+msgstr ""
+
+msgctxt "336_Nishina"
+msgid "Okay. Someone needs to tell everyone to get inside."
+msgstr ""
+
+msgctxt "348_Kimiyo"
+msgid "I'll do it."
+msgstr ""
+
+msgctxt "372_Narumi"
+msgid ""
+"That's right, you people go home and cower in a corner. That'll keep you "
+"out of my way!"
+msgstr ""
+
+msgctxt "396_Nishina"
+msgid "Jerk."
+msgstr ""
+
+msgctxt "408_Sakurai"
+msgid "Is there anything else we can do?"
+msgstr ""
+
+msgctxt "420_Nishina"
+msgid "It's not too late to stop this. We can go pick up all the bait."
+msgstr ""
+
+msgctxt "432_Sakurai"
+msgid ""
+"But some bears are out and hungry already. We need all the men to stand "
+"guard."
+msgstr ""
+
+msgctxt "444_Saejima"
+msgid "I'll go get the bait. You two stay with the others to protect the village."
+msgstr ""
+
+msgctxt "456_Sakurai"
+msgid "Nishina-san?"
+msgstr ""
+
+msgctxt "468_Nishina"
+msgid "We accept your help."
+msgstr ""
+
+msgctxt "480_Nishina"
+msgid ""
+"I know eight spots on the mountain where an experienced hunter would put "
+"bait. I'll mark them on a map for you. Got it?"
+msgstr ""
+
+msgctxt "492_Saejima"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "504_Sakurai"
+msgid "I'll get a pack ready for you at Okudera-san's. Meet me there."
+msgstr ""
+
+msgctxt "516_Sakurai"
+msgid ""
+"This is going to require a lot more time on the mountain compared to your "
+"last trip, so prep thoroughly, all right?"
+msgstr ""
+
+msgctxt "528_Saejima"
+msgid "Got it."
+msgstr ""
+
+msgctxt "540_Nishina"
+msgid "We're counting on you!"
+msgstr ""
+
+msgctxt "576_Mission Added"
+msgid "\"Hubris\" was added."
+msgstr ""

@@ -1,0 +1,314 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "You got <Color:8>12,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "144"
+msgid "You got <Color:8>8,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "240"
+msgid "You got <Color:8>6,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "276"
+msgid "You got <Color:8>4,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "372"
+msgid "You got <Color:8>3,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "408"
+msgid "You got <Color:8>2,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "672"
+msgid "You got <Color:8>12,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "708"
+msgid "You got <Color:8>8,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "852"
+msgid "You got <Color:8>6,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "888"
+msgid "You got <Color:8>4,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1032"
+msgid "You got <Color:8>3,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1068"
+msgid "You got <Color:8>2,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1200"
+msgid "You got 1,500 experience points."
+msgstr ""
+
+msgctxt "16848"
+msgid "Manager"
+msgstr ""
+
+msgctxt "16852"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "16856"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "16860"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "16864"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "16868"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "16872"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "16876"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "16880"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "16884"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "16888"
+msgid "Ramen Minigame"
+msgstr ""
+
+msgctxt "72_Manager"
+msgid ""
+"Suzuki-san, that was somethin' else! It was like watchin' the god of "
+"noodles at work!"
+msgstr ""
+
+msgctxt "84_Manager"
+msgid "Really can't thank ya enough for today. Here, this is your pay."
+msgstr ""
+
+msgctxt "168_Manager"
+msgid ""
+"Come on by any time ya want, okay? I'd be happy to have ya work the counter "
+"again if ya ever feel like it, Suzuki-san."
+msgstr ""
+
+msgctxt "180_Kiryu"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "192_Manager"
+msgid "Tell your boss I said hi, too. See ya!"
+msgstr ""
+
+msgctxt "204_Manager"
+msgid "That wasn't half bad, Suzuki-san!"
+msgstr ""
+
+msgctxt "216_Manager"
+msgid "Thanks for the help today. Here's your pay."
+msgstr ""
+
+msgctxt "300_Manager"
+msgid ""
+"Come by and help out again if ya got the time. I reckon you'll do even "
+"better!"
+msgstr ""
+
+msgctxt "312_Kiryu"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "324_Manager"
+msgid "Tell that boss of yours I said hi, too. See ya!"
+msgstr ""
+
+msgctxt "336_Manager"
+msgid ""
+"Suzuki-san... I was watchin' ya work, and I gotta say... You handled those "
+"noodles like a rookie."
+msgstr ""
+
+msgctxt "348_Manager"
+msgid "Still, it's enough ya came by and offered to help. Here's your pay."
+msgstr ""
+
+msgctxt "432_Manager"
+msgid ""
+"Still, I'm glad you were here to work the counter, even if ya were fumblin' "
+"up a bit. Come by and help out again if ya got the time."
+msgstr ""
+
+msgctxt "444_Kiryu"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "456_Manager"
+msgid "Give my regards to the chief, okay? See ya!"
+msgstr ""
+
+msgctxt "468_Manager"
+msgid ""
+"Are ya not feelin' well or something, Suzuki-san? Come help out when ya "
+"feel better."
+msgstr ""
+
+msgctxt "588_Manager"
+msgid ""
+"Suzuki-san, that was somethin' else! It was like watchin' the god of "
+"noodles at work!"
+msgstr ""
+
+msgctxt "600_Kiryu"
+msgid "Thank you. Now is your back okay?"
+msgstr ""
+
+msgctxt "612_Manager"
+msgid "Huh? My back? Oh... Oh, hey!"
+msgstr ""
+
+msgctxt "624_Manager"
+msgid ""
+"Watchin' you work your magic made me forget all about it. I feel fine now! "
+"Hahaha!"
+msgstr ""
+
+msgctxt "636_Kiryu"
+msgid "That's... good."
+msgstr ""
+
+msgctxt "648_Manager"
+msgid "You were a huge help today. Here's your pay."
+msgstr ""
+
+msgctxt "732_Manager"
+msgid ""
+"Come on by any time ya want, okay? I'd be happy to have ya work the counter "
+"again if ya ever feel like it, Suzuki-san."
+msgstr ""
+
+msgctxt "744_Kiryu"
+msgid "Uh-huh..."
+msgstr ""
+
+msgctxt "756_Manager"
+msgid "Oh, and say hi to the chief for me, will ya? Thanks again!"
+msgstr ""
+
+msgctxt "768_Manager"
+msgid "That wasn't half bad for your first time, Suzuki-san! Color me surprised!"
+msgstr ""
+
+msgctxt "780_Kiryu"
+msgid "Thank you. But is your back okay?"
+msgstr ""
+
+msgctxt "792_Manager"
+msgid "Huh? My back? Oh... Oh, hey!"
+msgstr ""
+
+msgctxt "804_Manager"
+msgid ""
+"Watchin' you hard at work made me forget all about it. I feel right as rain "
+"now. Ahaha!"
+msgstr ""
+
+msgctxt "816_Kiryu"
+msgid "That's good, I guess."
+msgstr ""
+
+msgctxt "828_Manager"
+msgid "Thanks for the help today. Here's your pay."
+msgstr ""
+
+msgctxt "912_Manager"
+msgid ""
+"Come by and help out again if ya got the time. I reckon you'll do even "
+"better!"
+msgstr ""
+
+msgctxt "924_Kiryu"
+msgid "Sure..."
+msgstr ""
+
+msgctxt "936_Manager"
+msgid "Give my regards to the chief, too, eh? See ya!"
+msgstr ""
+
+msgctxt "948_Manager"
+msgid ""
+"Suzuki-san... I was watchin' ya work, and I gotta say... You handled those "
+"noodles like a rookie."
+msgstr ""
+
+msgctxt "960_Kiryu"
+msgid ""
+"Sorry about that. I hope I at least gave your back some more time to "
+"recover."
+msgstr ""
+
+msgctxt "972_Manager"
+msgid "Huh? My back? Oh... Oh, hey!"
+msgstr ""
+
+msgctxt "984_Manager"
+msgid ""
+"I guess I was so hyped up watchin' ya work that I forgot about it. I'm all "
+"better now! Ahaha!"
+msgstr ""
+
+msgctxt "996_Kiryu"
+msgid "Good for you."
+msgstr ""
+
+msgctxt "1008_Manager"
+msgid "Still, it's enough ya came by and offered to help. Here's your pay."
+msgstr ""
+
+msgctxt "1092_Manager"
+msgid ""
+"Still, I'm glad you were here to work the counter, even if ya were fumblin' "
+"up a bit. Come by and help out again if ya got the time."
+msgstr ""
+
+msgctxt "1104_Kiryu"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "1116_Manager"
+msgid "Give the chief a holler for me too, okay? See ya!"
+msgstr ""
+
+msgctxt "1128_Manager"
+msgid "You can now play the ramen minigame anytime by entering the ramen stall."
+msgstr ""

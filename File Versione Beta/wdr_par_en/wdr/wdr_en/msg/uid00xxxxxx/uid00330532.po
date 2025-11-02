@@ -1,0 +1,397 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "15448"
+msgid "Barkeep"
+msgstr ""
+
+msgctxt "15452"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "15456"
+msgid "Shion"
+msgstr ""
+
+msgctxt "15460"
+msgid "Player"
+msgstr ""
+
+msgctxt "15464"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "15468"
+msgid "P_SIN_TLK_sitcnt_kamae"
+msgstr ""
+
+msgctxt "15472"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "15476"
+msgid "○I'll try my best!"
+msgstr ""
+
+msgctxt "15480"
+msgid "□Does that really work?"
+msgstr ""
+
+msgctxt "15484"
+msgid "△I don't care if I'm unhealthy."
+msgstr ""
+
+msgctxt "15488"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "15492"
+msgid "dummy"
+msgstr ""
+
+msgctxt "15496"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "15500"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "15504"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "15508"
+msgid "ArmsID"
+msgstr ""
+
+msgctxt "15512"
+msgid "M_SHP_TLK_stand_yes"
+msgstr ""
+
+msgctxt "15516"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "15520"
+msgid "M_NML_TLK_stand_yes_02"
+msgstr ""
+
+msgctxt "15524"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "76_Barkeep"
+msgid "Welcome. Would you like to order?"
+msgstr ""
+
+msgctxt "88_Shion"
+msgid ""
+"My doctor says that I should abstain from alcohol, so I'll have a soft "
+"drink instead."
+msgstr ""
+
+msgctxt "100_Player"
+msgid "Oh, my bad. I shouldn't have brought you to a place like this. Sorry."
+msgstr ""
+
+msgctxt "112_Shion"
+msgid ""
+"No, it's all right. I do enjoy alcohol quite a bit. I'm sure it wouldn't be "
+"an issue if I had only a tiny sip."
+msgstr ""
+
+msgctxt "124_Player"
+msgid "Sure, just a tiny sip! Then I'll drink the rest. Are you cool with that?"
+msgstr ""
+
+msgctxt "136_Shion"
+msgid "Of course, I'd be happy to!"
+msgstr ""
+
+msgctxt "148_Player"
+msgid "So, what'll it be?"
+msgstr ""
+
+msgctxt "160_Shion"
+msgid ""
+"Hmm. <Color:8>The Macallan 30 Years<Color:Default> sounds like it would be "
+"good."
+msgstr ""
+
+msgctxt "172_Player"
+msgid "(Shion wants <Color:8>The Macallan 30 Years<Color:Default>.)"
+msgstr ""
+
+msgctxt "244_Shion"
+msgid "Cheers!"
+msgstr ""
+
+msgctxt "304_Shion"
+msgid ""
+"You strike me as an early riser, Shinada-san. Do you usually stay out late "
+"drinking?"
+msgstr ""
+
+msgctxt "316_Player"
+msgid ""
+"Not usually. But if I've got something like a deadline to meet, I'll be up "
+"all night working on it."
+msgstr ""
+
+msgctxt "328_Shion"
+msgid ""
+"Oh, really?\r\n"
+"Such an irregular lifestyle isn't good for your health."
+msgstr ""
+
+msgctxt "340_Player"
+msgid ""
+"I make sure I get enough sleep. The sun sets earlier now, so it's pretty "
+"much already evening by the time I wake up."
+msgstr ""
+
+msgctxt "352_Player"
+msgid ""
+"Back in the day, I'd be up before sunrise for morning practice every day, "
+"but that's all behind me now."
+msgstr ""
+
+msgctxt "364_Shion"
+msgid ""
+"Perhaps early to bed, early to rise is best. That way you get some healthy "
+"exposure to sunlight!"
+msgstr ""
+
+msgctxt "376_Player"
+msgid ""
+"I'll try my best! I've got to improve my lifestyle first, so I don't have "
+"to keep late hours any more."
+msgstr ""
+
+msgctxt "388_Shion"
+msgid "Oh. Does that mean you won't be coming by the club anymore?"
+msgstr ""
+
+msgctxt "400_Player"
+msgid "Huh? No, of course I will! I'll come and see you all the time, Shion-chan!"
+msgstr ""
+
+msgctxt "412_Shion"
+msgid ""
+"But you won't be able to go out at night. And I'm sure you'll be focused on "
+"your job during the daytime."
+msgstr ""
+
+msgctxt "424_Player"
+msgid "Well, um... Yeesh, what should I do?"
+msgstr ""
+
+msgctxt "436_Shion"
+msgid "Hehe! I'm only joking! Please don't stress out about it."
+msgstr ""
+
+msgctxt "448_Player"
+msgid "Hey now, don't scare me like that! I was starting to freak out!"
+msgstr ""
+
+msgctxt "460_Shion"
+msgid "But that's a good sign. It's never a bad idea to re-evaluate your lifestyle."
+msgstr ""
+
+msgctxt "472_Player"
+msgid "Argh. What should I do? I feel like my life is in your hands, Shion-chan."
+msgstr ""
+
+msgctxt "484_Player"
+msgid ""
+"Does that really work? I mean, wouldn't anyone who works nights be "
+"unhealthy then?"
+msgstr ""
+
+msgctxt "496_Shion"
+msgid ""
+"Oh dear, you may be right. I heard that proper exposure to sunlight is a "
+"key element to healthy living."
+msgstr ""
+
+msgctxt "508_Player"
+msgid "Whoa, for real?"
+msgstr ""
+
+msgctxt "520_Player"
+msgid ""
+"But then, if you can get those health benefits from somewhere else, you "
+"wouldn't really need the sunlight."
+msgstr ""
+
+msgctxt "532_Shion"
+msgid "I wonder. The reasoning certainly seems sound."
+msgstr ""
+
+msgctxt "544_Player"
+msgid ""
+"I should probably look into some options myself. Maybe there are some fancy "
+"gadgets that'll even get a night owl like me nice and healthy!"
+msgstr ""
+
+msgctxt "556_Shion"
+msgid ""
+"I think it would be far simpler if you made a point to wake up early. Not "
+"to mention, it wouldn't cost you any money."
+msgstr ""
+
+msgctxt "568_Player"
+msgid ""
+"Aww, geez. Not only am I broke, I'm too busy trying to make money to be "
+"healthy!"
+msgstr ""
+
+msgctxt "580_Player"
+msgid ""
+"I don't care if I'm unhealthy. Forcing myself to live in a way that doesn't "
+"fit me would just make me depressed in the long run."
+msgstr ""
+
+msgctxt "592_Shion"
+msgid ""
+"But you need to take care of yourself in both mind and body. It won't do "
+"any good if only one of those is in good shape."
+msgstr ""
+
+msgctxt "604_Player"
+msgid "Well, what if I have to choose one or the other?"
+msgstr ""
+
+msgctxt "616_Player"
+msgid "I'd go with my mind, no question."
+msgstr ""
+
+msgctxt "628_Shion"
+msgid "Why is that?"
+msgstr ""
+
+msgctxt "640_Player"
+msgid ""
+"I'm always working out, and thanks to sports medicine, my nutritional needs "
+"are where they need to be. I actually think about this stuff, you know."
+msgstr ""
+
+msgctxt "652_Player"
+msgid ""
+"But when it comes to my head, I can't even focus on things. And I'm "
+"speaking from personal experience here."
+msgstr ""
+
+msgctxt "664_Shion"
+msgid ""
+"Ah, yes. I think I understand. When I was suffering from a shocking "
+"incident in the past, I couldn't even get myself to eat."
+msgstr ""
+
+msgctxt "676_Player"
+msgid "See? If you have no motivation, your daily routine goes out the window."
+msgstr ""
+
+msgctxt "688_Player"
+msgid ""
+"I can't have myself being like that, so I try to focus on keeping myself "
+"strong mentally."
+msgstr ""
+
+msgctxt "700_Shion"
+msgid ""
+"I can see that you have! Just looking at you is enough to cheer me up, "
+"Shinada-san! <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "712_Player"
+msgid "That's great!"
+msgstr ""
+
+msgctxt "772_Shion"
+msgid "Thank you for treating me!"
+msgstr ""
+
+msgctxt "784_Barkeep"
+msgid "Thank you very much. Please come by again."
+msgstr ""
+
+msgctxt "820_Barkeep"
+msgid "Thank you very much. Please come by again."
+msgstr ""
+
+msgctxt "856_Barkeep"
+msgid ""
+"Welcome. Oh, I'm sorry, young lady. I can't serve you alcohol. But please "
+"come by again in a few years."
+msgstr ""
+
+msgctxt "880_Barkeep"
+msgid "Welcome. Would you care for something to drink?"
+msgstr ""
+
+msgctxt "964_Barkeep"
+msgid "Sir, I think you've had enough. You may want to ease off."
+msgstr ""
+
+msgctxt "988_Barkeep"
+msgid "Care for another round, sir?"
+msgstr ""
+
+msgctxt "1000_Barkeep"
+msgid "Are you a fan of tequila, sir? It's all the rage over in the US right now."
+msgstr ""
+
+msgctxt "1012_Player"
+msgid "Oh, really?"
+msgstr ""
+
+msgctxt "1024_Barkeep"
+msgid ""
+"Oh yes. Many foreign celebrities are tequila fans, and Hollywood is the "
+"epicenter of this current wave of popularity."
+msgstr ""
+
+msgctxt "1036_Player"
+msgid ""
+"Wow, I didn't know that. Isn't tequila pretty harsh, though? I'd figure it "
+"wouldn't really fit with traditional Japanese tastes."
+msgstr ""
+
+msgctxt "1048_Barkeep"
+msgid ""
+"Actually, the alcohol content of tequila only ranges between 35 and 55 "
+"percent. So it isn't that strong compared to vodka, which can reach up to "
+"90 percent."
+msgstr ""
+
+msgctxt "1060_Barkeep"
+msgid ""
+"And if it's premium one hundred percent agave tequila, the alcohol "
+"processes easily, so anyone can drink it without fear of feeling sick."
+msgstr ""
+
+msgctxt "1072_Player"
+msgid ""
+"(Tequila's big with celebrities, huh? Might be something to talk about at "
+"the cabaret club.)"
+msgstr ""
+
+msgctxt "1084_Barkeep"
+msgid "Very well, sir."
+msgstr ""
+
+msgctxt "1096_Barkeep"
+msgid "Please come again anytime."
+msgstr ""

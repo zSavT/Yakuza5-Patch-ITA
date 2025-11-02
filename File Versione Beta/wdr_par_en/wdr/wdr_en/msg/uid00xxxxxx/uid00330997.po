@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "160"
+msgid "You got <Color:8>20,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "376"
+msgid "You got a <Color:8>Borrowed Single-lens Reflex Camera<Color:Default>."
+msgstr ""
+
+msgctxt "7876"
+msgid "Tourism Board Employee"
+msgstr ""
+
+msgctxt "7880"
+msgid "Player"
+msgstr ""
+
+msgctxt "7884"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7888"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "7892"
+msgid "Man"
+msgstr ""
+
+msgctxt "7896"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "7900"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "7904"
+msgid "Tourist Spots"
+msgstr ""
+
+msgctxt "76_Tourism Board Employee"
+msgid "Hey there! How's your photography going? Well, I hope?"
+msgstr ""
+
+msgctxt "88_Player"
+msgid "Yeah, I've shot five locations."
+msgstr ""
+
+msgctxt "100_Tourism Board Employee"
+msgid "That's excellent! Let me take a look!"
+msgstr ""
+
+msgctxt "112_Tourism Board Employee"
+msgid "......"
+msgstr ""
+
+msgctxt "124_Tourism Board Employee"
+msgid "These photos are wonderful! Great job."
+msgstr ""
+
+msgctxt "136_Tourism Board Employee"
+msgid ""
+"I'm sure we can use them in advertisements for attracting tourists to "
+"Tsukimino!"
+msgstr ""
+
+msgctxt "148_Tourism Board Employee"
+msgid "Here's the reward I promised. Go ahead, take it."
+msgstr ""
+
+msgctxt "172_Tourism Board Employee"
+msgid "Please come back and visit Tsukimino again."
+msgstr ""
+
+msgctxt "184_Tourism Board Employee"
+msgid ""
+"How's your photography going? I hope you can get some really great photos "
+"of Tsukimino!"
+msgstr ""
+
+msgctxt "208_Man"
+msgid "Excuse me, do you have a minute?"
+msgstr ""
+
+msgctxt "220_Player"
+msgid "Hmm? Whaddya want?"
+msgstr ""
+
+msgctxt "232_Man"
+msgid ""
+"I'm from the Tsukimino Tourism Board. Right now we're running a campaign to "
+"raise Tsukimino's profile as a tourist destination."
+msgstr ""
+
+msgctxt "244_Player"
+msgid "An advertising campaign? Sounds like a good idea."
+msgstr ""
+
+msgctxt "256_Tourism Board Employee"
+msgid ""
+"Yes. I'd like to ask you to take some photos of places around Tsukimino "
+"that you think are must-see landmarks."
+msgstr ""
+
+msgctxt "268_Tourism Board Employee"
+msgid ""
+"The photos you take will be used in pamphlets and posters promoting "
+"Tsukimino as a tourist destination."
+msgstr ""
+
+msgctxt "280_Tourism Board Employee"
+msgid ""
+"If you can shoot five sightseeing spots for me, I'll give you a fabulous "
+"gift."
+msgstr ""
+
+msgctxt "292_Player"
+msgid "I ain't got a camera, though."
+msgstr ""
+
+msgctxt "304_Tourism Board Employee"
+msgid ""
+"No problem! We can lend you one. I have a high-end single-lens reflex "
+"camera to give you."
+msgstr ""
+
+msgctxt "316_Player"
+msgid "Yeah? How much ya gonna charge me?"
+msgstr ""
+
+msgctxt "328_Tourism Board Employee"
+msgid ""
+"Oh, no. I'll loan it to you for free. I do need you to give me a way to "
+"reach you in case something happens, though."
+msgstr ""
+
+msgctxt "340_Player"
+msgid ""
+"(Guess there ain't any reason to turn him down. Might as well take up the "
+"offer.)"
+msgstr ""
+
+msgctxt "352_Player"
+msgid "Yeah, I'll do it."
+msgstr ""
+
+msgctxt "364_Tourism Board Employee"
+msgid "Great! Here's the camera."
+msgstr ""
+
+msgctxt "472_Tourism Board Employee"
+msgid ""
+"You can find me here during the campaign. Come back once you've shot five "
+"locations."
+msgstr ""
+
+msgctxt "484_Tourism Board Employee"
+msgid "Good luck out there!"
+msgstr ""
+
+msgctxt "496_Tourist Spots"
+msgid ""
+"When you visit sightseeing spots around town, the Photograph action icon "
+"may appear. Press <Action:Button_Cross@Adventure> while this is displayed "
+"to take a photo."
+msgstr ""
+
+msgctxt "508_Tourist Spots"
+msgid ""
+"You can view photos you've taken from City Exploration under Completion "
+"List in the Pause Menu. Once you take five photos, bring them to the "
+"Tourism Board staff member to receive a reward."
+msgstr ""
+
+msgctxt "520_Player"
+msgid "(I guess I'll take a walk around and find some good scenery.)"
+msgstr ""
+
+msgctxt "532_Tourism Board Employee"
+msgid "Hey, I met you in Kamurocho, didn't I?"
+msgstr ""
+
+msgctxt "544_Player"
+msgid ""
+"You're that guy from the tourism board, huh? You asked me to take photos "
+"for ya."
+msgstr ""
+
+msgctxt "556_Tourism Board Employee"
+msgid "That's me. Fancy meeting you again here."
+msgstr ""
+
+msgctxt "568_Player"
+msgid "Ah, I ain't had a chance to return the camera."
+msgstr ""
+
+msgctxt "580_Tourism Board Employee"
+msgid ""
+"Don't worry about it. I've actually been sent out around the country, and "
+"I'm doing some work for the Tsukimino Tourism Board now."
+msgstr ""
+
+msgctxt "592_Player"
+msgid "Ya want me to take more photos?"
+msgstr ""
+
+msgctxt "604_Tourism Board Employee"
+msgid ""
+"Exactly! I'd like you to shoot five photos here in Tsukimino, too. Bring "
+"them to me, and I'll give you a fabulous gift."
+msgstr ""
+
+msgctxt "616_Player"
+msgid "All right. Guess I could do that."
+msgstr ""
+
+msgctxt "628_Tourism Board Employee"
+msgid ""
+"Thank you! I'll be here during the campaign. Come and see me once you've "
+"taken five shots."
+msgstr ""
+
+msgctxt "640_Tourism Board Employee"
+msgid "Good luck out there!"
+msgstr ""

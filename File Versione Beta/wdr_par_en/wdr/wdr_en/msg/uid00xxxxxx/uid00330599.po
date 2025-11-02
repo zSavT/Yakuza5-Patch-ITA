@@ -1,0 +1,495 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1272"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr ""
+
+msgctxt "1332"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round when you are "
+"playing cho-han.\r\n"
+" "
+msgstr ""
+
+msgctxt "1380"
+msgid "You got <Color:8>Haruka's Lunch<Color:Default>."
+msgstr ""
+
+msgctxt "1440"
+msgid "You got <Color:8>Haruka's First-Aid Kit<Color:Default>."
+msgstr ""
+
+msgctxt "1500"
+msgid "You got <Color:8>Red Jewel<Color:Default>."
+msgstr ""
+
+msgctxt "1560"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr ""
+
+msgctxt "1620"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr ""
+
+msgctxt "1680"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr ""
+
+msgctxt "1788"
+msgid "You got <Color:8>Morning Glory Belly Warmer<Color:Default>."
+msgstr ""
+
+msgctxt "25408"
+msgid "Staff"
+msgstr ""
+
+msgctxt "25412"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "25416"
+msgid "P_TLK_sitchr_kamae"
+msgstr ""
+
+msgctxt "25420"
+msgid "Kaguya"
+msgstr ""
+
+msgctxt "25424"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "25428"
+msgid "Player"
+msgstr ""
+
+msgctxt "25432"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "25436"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "25440"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "25444"
+msgid "○Smart move."
+msgstr ""
+
+msgctxt "25448"
+msgid "□Ya've got no shame."
+msgstr ""
+
+msgctxt "25452"
+msgid "△I'm not beatin' around the bush."
+msgstr ""
+
+msgctxt "25456"
+msgid "dummy"
+msgstr ""
+
+msgctxt "25460"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "25464"
+msgid "P_TLK_sitchr_no"
+msgstr ""
+
+msgctxt "25468"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "25472"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "25476"
+msgid "P_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "25480"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "132_Staff"
+msgid "Welcome. If you'll please follow me."
+msgstr ""
+
+msgctxt "192_Staff"
+msgid "Are you ready to order?"
+msgstr ""
+
+msgctxt "204_Kaguya"
+msgid "I'd like the <Color:8>Lamb Rib Eye Barbeque<Color:Default>."
+msgstr ""
+
+msgctxt "216_Player"
+msgid "(Guess Kaguya wants the <Color:8>Lamb Rib Eye Barbeque<Color:Default>.)"
+msgstr ""
+
+msgctxt "288_Kaguya"
+msgid "Bon appetit!"
+msgstr ""
+
+msgctxt "348_Player"
+msgid "You eat a lot, don't ya?"
+msgstr ""
+
+msgctxt "360_Kaguya"
+msgid ""
+"Looks are deceiving, but I am a big eater. "
+"<Color:255,200,200,255>♥<Color:Default> You're going to be shocked when we "
+"get the bill!"
+msgstr ""
+
+msgctxt "372_Player"
+msgid ""
+"I don't mind. I like watchin' someone enjoy their food. It's fun to have a "
+"healthy appetite and even fight over whatever's left on a plate."
+msgstr ""
+
+msgctxt "384_Kaguya"
+msgid ""
+"Oh, I'm certainly not that greedy. I like to order just one additional dish "
+"for myself. That ensures that I get to eat plenty!"
+msgstr ""
+
+msgctxt "396_Player"
+msgid ""
+"If someone's gonna order extra, I'd rather share as much of my dish as I "
+"can."
+msgstr ""
+
+msgctxt "408_Kaguya"
+msgid "Well, I find it a bit crass to ask someone else to share what they ordered."
+msgstr ""
+
+msgctxt "420_Player"
+msgid "Ya do?"
+msgstr ""
+
+msgctxt "432_Kaguya"
+msgid ""
+"And so I offer to share what I've ordered first, and then the other person "
+"will share their food with me in return!"
+msgstr ""
+
+msgctxt "444_Player"
+msgid ""
+"Smart move. Rather than come off as beggin', ya come off as pretty generous "
+"instead."
+msgstr ""
+
+msgctxt "456_Kaguya"
+msgid ""
+"Exactly. Then the other person feels like they're giving me back something "
+"in exchange for what I gave to them."
+msgstr ""
+
+msgctxt "468_Kaguya"
+msgid "It works well almost every time. I highly recommend trying it sometime!"
+msgstr ""
+
+msgctxt "480_Player"
+msgid "What happens if it doesn't go well?"
+msgstr ""
+
+msgctxt "492_Kaguya"
+msgid ""
+"It happens sometimes. Some clueless people will just say thanks and then "
+"not offer anything of their own."
+msgstr ""
+
+msgctxt "504_Kaguya"
+msgid ""
+"If that happens, I have to ask for some of theirs, and that ruins the whole "
+"point of the exercise."
+msgstr ""
+
+msgctxt "516_Player"
+msgid ""
+"Maybe if ya started by askin' that in the first place, you wouldn't have to "
+"share at all."
+msgstr ""
+
+msgctxt "528_Player"
+msgid ""
+"Ya've got no shame. That's basically the same thing as tellin' the other "
+"person to let ya have what they got."
+msgstr ""
+
+msgctxt "540_Kaguya"
+msgid ""
+"Perhaps, but it's more polite than simply asking for it outright, don't you "
+"think?"
+msgstr ""
+
+msgctxt "552_Player"
+msgid ""
+"What a load of bull. If ya pulled that nonsense in Kansai, it'd tick people "
+"off."
+msgstr ""
+
+msgctxt "564_Kaguya"
+msgid ""
+"But don't people from Kyoto have their own incredibly roundabout way of "
+"saying things, too?"
+msgstr ""
+
+msgctxt "576_Kaguya"
+msgid ""
+"For instance, isn't asking a guest if they want to have some ochazuke "
+"essentially telling them it's about time they went home?"
+msgstr ""
+
+msgctxt "588_Player"
+msgid "Well, I guess they do that in Kyoto."
+msgstr ""
+
+msgctxt "600_Kaguya"
+msgid "See? So it's got nothing to do with Kansai. We Japanese are just like that."
+msgstr ""
+
+msgctxt "612_Player"
+msgid "Hm. I dunno..."
+msgstr ""
+
+msgctxt "624_Player"
+msgid ""
+"I don't like beatin' around the bush. If ya wanna eat somethin', come out "
+"and say so."
+msgstr ""
+
+msgctxt "636_Kaguya"
+msgid ""
+"Oh no, I could never! If I want it that much, I'd simply order a plate of "
+"it for myself."
+msgstr ""
+
+msgctxt "648_Player"
+msgid ""
+"Nah, that's just you tryin' to be too polite. If ya want somethin', be up "
+"front about it. No one is gonna be upset over it."
+msgstr ""
+
+msgctxt "660_Kaguya"
+msgid ""
+"I can't do that! I don't want people thinking that I'm greedy whenever it "
+"comes to food."
+msgstr ""
+
+msgctxt "672_Player"
+msgid ""
+"But you are bein' greedy over food, aren't ya? Otherwise you wouldn't be "
+"thinkin' of how to get other people to share their food with ya."
+msgstr ""
+
+msgctxt "684_Kaguya"
+msgid ""
+"That's not it! It's totally normal for girls to share food with their "
+"friends."
+msgstr ""
+
+msgctxt "696_Kaguya"
+msgid "You really don't understand anything about how girls work, Saejima-san."
+msgstr ""
+
+msgctxt "708_Player"
+msgid "Hmph. What a pain in the ass..."
+msgstr ""
+
+msgctxt "768_Kaguya"
+msgid "Thanks for the food! <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "828_Staff"
+msgid "Here is your check. Thank you very much."
+msgstr ""
+
+msgctxt "852_Staff"
+msgid "Sorry, but somethin' came up. I gotta go."
+msgstr ""
+
+msgctxt "864_Staff"
+msgid "I see. Well, please come again."
+msgstr ""
+
+msgctxt "900_Staff"
+msgid "Welcome. If you'll please follow me."
+msgstr ""
+
+msgctxt "924_Staff"
+msgid "(I'm broke.)"
+msgstr ""
+
+msgctxt "948_Staff"
+msgid "Sorry, I just remembered I have something to do."
+msgstr ""
+
+msgctxt "960_Staff"
+msgid "Ah, I see. Please do come again."
+msgstr ""
+
+msgctxt "1032_Staff"
+msgid "Are you ready to order?"
+msgstr ""
+
+msgctxt "1044_Haruka"
+msgid ""
+"Uncle Kaz, I'd really like the <Color:8>Grade-A Lamb "
+"Barbeque<Color:Default>."
+msgstr ""
+
+msgctxt "1056_Kiryu"
+msgid "(Haruka wants to have the <Color:8>Grade-A Lamb Barbeque<Color:Default>.)"
+msgstr ""
+
+msgctxt "1080_Haruka"
+msgid ""
+"Oh. Okay. Maybe I can have the <Color:8>Grade-A Lamb "
+"Barbeque<Color:Default> some other time."
+msgstr ""
+
+msgctxt "1092_Haruka"
+msgid "Thanks, Uncle Kaz!"
+msgstr ""
+
+msgctxt "1140_Haruka"
+msgid "Thanks for treating me!"
+msgstr ""
+
+msgctxt "1152_Staff"
+msgid "(Haruka sure seems happy.)"
+msgstr ""
+
+msgctxt "1212_Staff"
+msgid "Here is your check. Thank you very much."
+msgstr ""
+
+msgctxt "1260_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! This is for you!\r\n"
+" "
+msgstr ""
+
+msgctxt "1320_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come play cho-han with you next time, "
+"okay?\r\n"
+" "
+msgstr ""
+
+msgctxt "1368_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I have a present for you!\r\n"
+" "
+msgstr ""
+
+msgctxt "1428_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "1488_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "1548_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "1608_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "1668_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "1764_Haruka"
+msgid ""
+"Thanks for doing all that stuff for me, Uncle Kaz!\r\n"
+" "
+msgstr ""
+
+msgctxt "1776_Staff"
+msgid ""
+"Here, this is a special present, just for you!\r\n"
+" "
+msgstr ""
+
+msgctxt "1800_Haruka"
+msgid "Thanks, Uncle Kaz! I love you!"
+msgstr ""
+
+msgctxt "1872_Staff"
+msgid "Sorry, but something came up. I gotta go."
+msgstr ""
+
+msgctxt "1884_Staff"
+msgid "I see. Well, please come again."
+msgstr ""
+
+msgctxt "1908_Staff"
+msgid "Welcome. If you'll please follow me."
+msgstr ""
+
+msgctxt "1944_Player"
+msgid "(I don't need to eat right now.)"
+msgstr ""
+
+msgctxt "1956_Player"
+msgid "(I'm broke.)"
+msgstr ""
+
+msgctxt "1980_Player"
+msgid "Sorry, I just remembered I have something to do."
+msgstr ""
+
+msgctxt "1992_Staff"
+msgid "Ah, I see. Please do come again."
+msgstr ""
+
+msgctxt "2100_Staff"
+msgid "Are you ready to order?"
+msgstr ""
+
+msgctxt "2136_Staff"
+msgid "Here is your check. Thank you very much."
+msgstr ""
+
+msgctxt "2184_Saejima"
+msgid "(Well, maybe I oughta eat somethin' and savor the moment.)"
+msgstr ""
+
+msgctxt "2196_Staff"
+msgid "Sorry, but something came up. I gotta go."
+msgstr ""
+
+msgctxt "2208_Staff"
+msgid "I see. Well, please come again."
+msgstr ""

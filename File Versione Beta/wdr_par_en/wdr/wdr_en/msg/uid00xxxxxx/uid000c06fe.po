@@ -1,0 +1,840 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2364"
+msgid "You got 1,500 experience points."
+msgstr ""
+
+msgctxt "2736"
+msgid "You got a <Color:8>Staminan Spark<Color:Default>."
+msgstr ""
+
+msgctxt "2832"
+msgid "You got 1,500 experience points."
+msgstr ""
+
+msgctxt "38456"
+msgid "Muramatsu"
+msgstr ""
+
+msgctxt "38460"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "38464"
+msgid "Hirakawa"
+msgstr ""
+
+msgctxt "38468"
+msgid "Nakajima"
+msgstr ""
+
+msgctxt "38472"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "38476"
+msgid "SitChair_ed"
+msgstr ""
+
+msgctxt "38480"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "38484"
+msgid "Whack the box."
+msgstr ""
+
+msgctxt "38488"
+msgid "Tap random keys on the keyboard."
+msgstr ""
+
+msgctxt "38492"
+msgid "Pull out the cord at the back of the box."
+msgstr ""
+
+msgctxt "38496"
+msgid "SA06_M_NML_atk_PC"
+msgstr ""
+
+msgctxt "38500"
+msgid "Whack the box again."
+msgstr ""
+
+msgctxt "38504"
+msgid "Pull out the cord at the back."
+msgstr ""
+
+msgctxt "38508"
+msgid "SA06_M_NML_gacha_PC"
+msgstr ""
+
+msgctxt "38512"
+msgid "Restart the computer."
+msgstr ""
+
+msgctxt "38516"
+msgid "SA06_M_NML_disconect_LAN"
+msgstr ""
+
+msgctxt "38520"
+msgid "Plug the cord back in."
+msgstr ""
+
+msgctxt "38524"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "38528"
+msgid "Hit the computer."
+msgstr ""
+
+msgctxt "38532"
+msgid "Whack the box more."
+msgstr ""
+
+msgctxt "38536"
+msgid "SA06_P_atk_PC"
+msgstr ""
+
+msgctxt "38540"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "38544"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "38548"
+msgid "Stop Him"
+msgstr ""
+
+msgctxt "38552"
+msgid "Leave Him Be"
+msgstr ""
+
+msgctxt "38556"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "38560"
+msgid "M_NML_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "38564"
+msgid "SA06_F_NML_touch_typing"
+msgstr ""
+
+msgctxt "38568"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "384_Muramatsu"
+msgid "Oh, hi there, Suzuki-san."
+msgstr ""
+
+msgctxt "396_Kiryu"
+msgid "Something up, Muramatsu-san?"
+msgstr ""
+
+msgctxt "408_Muramatsu"
+msgid "No... Uh, well..."
+msgstr ""
+
+msgctxt "420_Hirakawa"
+msgid "I have to step out. Can you man the phone, Muramatsu-kun?"
+msgstr ""
+
+msgctxt "432_Muramatsu"
+msgid "Yeah, sure. Leave it to me."
+msgstr ""
+
+msgctxt "456_Muramatsu"
+msgid "How's it goin', Muramatsu-kun?"
+msgstr ""
+
+msgctxt "468_Muramatsu"
+msgid "I'm afraid things aren't looking too good."
+msgstr ""
+
+msgctxt "480_Nakajima"
+msgid "Still actin' up, huh? You know anything 'bout computers, Suzuki-san?"
+msgstr ""
+
+msgctxt "492_Kiryu"
+msgid "Not much, no."
+msgstr ""
+
+msgctxt "504_Nakajima"
+msgid "Hmm. That computer's been actin' up lately. Runnin' slow all of a sudden."
+msgstr ""
+
+msgctxt "516_Muramatsu"
+msgid "Huh? What's this!?"
+msgstr ""
+
+msgctxt "528_Kiryu"
+msgid "What happened?"
+msgstr ""
+
+msgctxt "540_Kiryu"
+msgid "What?"
+msgstr ""
+
+msgctxt "552_Muramatsu"
+msgid ""
+"Empty windows keep popping up. They won't stop! Wait. I know what this is. "
+"It's one of those cyberterrorism attacks!"
+msgstr ""
+
+msgctxt "564_Kiryu"
+msgid "Cider terrorism? What's that?"
+msgstr ""
+
+msgctxt "576_Nakajima"
+msgid ""
+"Ya mean someone's hackin' into our computer? Whaddya think we should do, "
+"Suzuki-san!?"
+msgstr ""
+
+msgctxt "588_Kiryu"
+msgid "Cider? Hacking? Like... hacking up food?"
+msgstr ""
+
+msgctxt "600_Kiryu"
+msgid "I don't understand how this relates to computers. I'm not good with them."
+msgstr ""
+
+msgctxt "612_Nakajima"
+msgid ""
+"Same goes for the lot of us here! But that computer's got a ton of data on "
+"it we need to hold on to!"
+msgstr ""
+
+msgctxt "624_Nakajima"
+msgid "We're countin' on ya, Suzuki-san! Can't ya think of anythin'?"
+msgstr ""
+
+msgctxt "636_Kiryu"
+msgid "Okay. I'll see what I can do. First of all..."
+msgstr ""
+
+msgctxt "648_Muramatsu"
+msgid "So this box here is the computer, huh? You should try hitting it."
+msgstr ""
+
+msgctxt "660_Nakajima"
+msgid "Ya sure that's a good idea!?"
+msgstr ""
+
+msgctxt "672_Kiryu"
+msgid ""
+"When something's acting up, I always give it a good whack first. That's how "
+"I fixed the TV back at Morning Glo－er, my last house."
+msgstr ""
+
+msgctxt "684_Nakajima"
+msgid "All righty, then. I'll give it a shot!"
+msgstr ""
+
+msgctxt "696_Nakajima"
+msgid "Take that!"
+msgstr ""
+
+msgctxt "756_Kiryu"
+msgid "That didn't seem to do anything."
+msgstr ""
+
+msgctxt "768_Nakajima"
+msgid "Ya reckon this is gonna fix it? I get the feelin' this ain't how it's done."
+msgstr ""
+
+msgctxt "780_Kiryu"
+msgid "Okay, then. Well, next up..."
+msgstr ""
+
+msgctxt "792_Muramatsu"
+msgid ""
+"We should tap on the keyboard a bit. It doesn't matter what keys. Just tap "
+"away."
+msgstr ""
+
+msgctxt "804_Nakajima"
+msgid "Ya gotta be kiddin' me! It can't be that simple, surely!"
+msgstr ""
+
+msgctxt "816_Kiryu"
+msgid ""
+"Maybe not, but doing nothing won't fix it, either. Even if it's only a "
+"small chance, we can't rule it out."
+msgstr ""
+
+msgctxt "828_Nakajima"
+msgid "Alrighty, then. We'll give it a shot!"
+msgstr ""
+
+msgctxt "900_Muramatsu"
+msgid "Guess it ain't gonna work. Nothin's changed a bit."
+msgstr ""
+
+msgctxt "912_Kiryu"
+msgid "Well, we've eliminated that from the equation, at least. That's progress."
+msgstr ""
+
+msgctxt "924_Nakajima"
+msgid ""
+"But our precious data's gonna get stolen at this rate! We can't let that "
+"happen!"
+msgstr ""
+
+msgctxt "936_Kiryu"
+msgid "Of course not. Next up..."
+msgstr ""
+
+msgctxt "948_Muramatsu"
+msgid "I think that cord at the back of the computer might be the answer."
+msgstr ""
+
+msgctxt "960_Nakajima"
+msgid "Cord? Oh, ya mean the LAN cable? What do I do with it!?"
+msgstr ""
+
+msgctxt "972_Kiryu"
+msgid "Pull it out. As hard as you can."
+msgstr ""
+
+msgctxt "984_Nakajima"
+msgid "I get it! That'd take it off the network, huh? Perfect! I see now!"
+msgstr ""
+
+msgctxt "1056_Muramatsu"
+msgid "So did that do the trick?"
+msgstr ""
+
+msgctxt "1080_Muramatsu"
+msgid "What's this, Suzuki-san? Some girl is moanin' through the computer speakers!"
+msgstr ""
+
+msgctxt "1092_Kiryu"
+msgid ""
+"Uh-oh. I guess it was a trap, Nakajima-san. The attacker must have known "
+"what we'd do."
+msgstr ""
+
+msgctxt "1104_Nakajima"
+msgid "Whaddya mean?"
+msgstr ""
+
+msgctxt "1116_Kiryu"
+msgid ""
+"They probably set it up to play that moaning sound when the cord is pulled "
+"out to stop us from getting to the bottom of this."
+msgstr ""
+
+msgctxt "1128_Kiryu"
+msgid ""
+"Whoever came up with this plan knows our every move! We're up against a "
+"tough foe."
+msgstr ""
+
+msgctxt "1140_Nakajima"
+msgid ""
+"Oh, c'mon! We can't have a girl moanin' in the office all day! 'Specially "
+"not one who keeps askin' us to \"put it back in\"!"
+msgstr ""
+
+msgctxt "1152_Nakajima"
+msgid "Ya gotta do somethin', Suzuki-san!"
+msgstr ""
+
+msgctxt "1164_Kiryu"
+msgid "Okay, next up..."
+msgstr ""
+
+msgctxt "1176_Muramatsu"
+msgid "Hit that box... er, computer again."
+msgstr ""
+
+msgctxt "1188_Nakajima"
+msgid ""
+"That didn't do us a lick of good before! Ain't no point in bashin' the "
+"thing to pieces, right?"
+msgstr ""
+
+msgctxt "1200_Kiryu"
+msgid "I guess there isn't much point in that, no. Okay, next up..."
+msgstr ""
+
+msgctxt "1212_Muramatsu"
+msgid "Let's try restarting the computer. That's the thing to do in an emergency."
+msgstr ""
+
+msgctxt "1224_Nakajima"
+msgid "Aha! That's it! I shoulda thought of that myself!"
+msgstr ""
+
+msgctxt "1236_Nakajima"
+msgid "Lemme see. Where's the restart...? Ah, there we go!"
+msgstr ""
+
+msgctxt "1248_Nakajima"
+msgid "Hmm... That's weird. It ain't respondin' at all now."
+msgstr ""
+
+msgctxt "1260_Kiryu"
+msgid "You mean it isn't doing what you tell it? That's a problem."
+msgstr ""
+
+msgctxt "1272_Nakajima"
+msgid ""
+"Damn. Can't even shut the thing down now. Think I oughta just pull the "
+"power cable out, Suzuki-san?"
+msgstr ""
+
+msgctxt "1284_Muramatsu"
+msgid "The power plug? No, that would be dangerous. It could wreck the hard disk."
+msgstr ""
+
+msgctxt "1296_Nakajima"
+msgid "Can't have that! What are we s'posed to do now, then?"
+msgstr ""
+
+msgctxt "1308_Kiryu"
+msgid "Hmm. I guess we could..."
+msgstr ""
+
+msgctxt "1320_Muramatsu"
+msgid "I'm hitting the computer."
+msgstr ""
+
+msgctxt "1332_Nakajima"
+msgid "Okay, okay! Whatever it takes. Just hurry it up!"
+msgstr ""
+
+msgctxt "1344_Kiryu"
+msgid "All right, here goes."
+msgstr ""
+
+msgctxt "1368_Muramatsu"
+msgid "Yah!"
+msgstr ""
+
+msgctxt "1392_Muramatsu"
+msgid "Hiyah!"
+msgstr ""
+
+msgctxt "1416_Muramatsu"
+msgid "Hrah!"
+msgstr ""
+
+msgctxt "1440_Muramatsu"
+msgid ""
+"Gah, I can't take much more of this! That voice is gettin' me all "
+"flustered. Do somethin' quick, Suzuki-san!"
+msgstr ""
+
+msgctxt "1452_Kiryu"
+msgid "Calm down, Nakajima-san. We still have other options. Next, I'll..."
+msgstr ""
+
+msgctxt "1464_Muramatsu"
+msgid "I'll restart the computer."
+msgstr ""
+
+msgctxt "1476_Nakajima"
+msgid "Okay, fine! I'll try anythin' at this point. Just make it fast!"
+msgstr ""
+
+msgctxt "1488_Kiryu"
+msgid "All right, here goes."
+msgstr ""
+
+msgctxt "1548_Muramatsu"
+msgid "Any luck?"
+msgstr ""
+
+msgctxt "1560_Kiryu"
+msgid "No, it didn't seem to do anything."
+msgstr ""
+
+msgctxt "1572_Nakajima"
+msgid "Shit! We're screwed, then!"
+msgstr ""
+
+msgctxt "1584_Kiryu"
+msgid "Calm down, Nakajima-san. We still have other options. Next, I'll..."
+msgstr ""
+
+msgctxt "1596_Muramatsu"
+msgid "Let's plug the cord back in."
+msgstr ""
+
+msgctxt "1608_Nakajima"
+msgid ""
+"Yeah! That moanin' voice is tellin' us not to pull the LAN cable out! Good "
+"thinkin', Suzuki-san!"
+msgstr ""
+
+msgctxt "1668_Muramatsu"
+msgid "Aha! Did that stop the moanin'?"
+msgstr ""
+
+msgctxt "1704_Muramatsu"
+msgid ""
+"What's this, Suzuki-san!? It's sayin' somethin' different now! All this "
+"stuff about not pullin' out and puttin' it in deeper is gonna fry my damn "
+"circuits!"
+msgstr ""
+
+msgctxt "1716_Kiryu"
+msgid "It seems they anticipated we'd do that as well."
+msgstr ""
+
+msgctxt "1728_Nakajima"
+msgid ""
+"We'll never get any work done here with this racket goin' on! I guess we're "
+"gonna have to go with the last resort!"
+msgstr ""
+
+msgctxt "1740_Kiryu"
+msgid "Last resort?"
+msgstr ""
+
+msgctxt "1752_Nakajima"
+msgid "Pullin' the power cord outta the computer! That'll stop it in its tracks!"
+msgstr ""
+
+msgctxt "1764_Muramatsu"
+msgid ""
+"But that could place a lot of strain on the hard disk. You realize you "
+"could lose all the data, right!?"
+msgstr ""
+
+msgctxt "1776_Nakajima"
+msgid "Well, we ain't got much of a choice!"
+msgstr ""
+
+msgctxt "1788_Muramatsu"
+msgid ""
+"The data is still intact now, though. It's just a moaning voice. I think "
+"it's too early to give up yet, Nakajima-san."
+msgstr ""
+
+msgctxt "1800_Nakajima"
+msgid ""
+"We tried everythin'! That voice is drivin' me battier than a belfry at "
+"midnight!"
+msgstr ""
+
+msgctxt "1812_Nakajima"
+msgid ""
+"I'm gonna do it! Let's get this over and done with! Stay outta the way, "
+"Suzuki-san!"
+msgstr ""
+
+msgctxt "1824_Kiryu"
+msgid "(Maybe I should stop Nakajima-san.)"
+msgstr ""
+
+msgctxt "1836_Muramatsu"
+msgid "Okay, I won't stop you. Do what you think is best, Nakajima-san."
+msgstr ""
+
+msgctxt "1848_Nakajima"
+msgid "Alrighty! Here goes! I'm pullin' it out!"
+msgstr ""
+
+msgctxt "1920_Muramatsu"
+msgid "It stopped!"
+msgstr ""
+
+msgctxt "1932_Kiryu"
+msgid "Good call, Nakajima-san. That looks like it solved the problem for now."
+msgstr ""
+
+msgctxt "1944_Hirakawa"
+msgid "I'm back."
+msgstr ""
+
+msgctxt "1956_Nakajima"
+msgid "Oh, welcome back, Hirakawa-san."
+msgstr ""
+
+msgctxt "1968_Hirakawa"
+msgid ""
+"Did something happen while I was out? Why are you all crowded around the "
+"computer?"
+msgstr ""
+
+msgctxt "1980_Nakajima"
+msgid "We almost got hit by some cyberterrorists, but we have it under control now."
+msgstr ""
+
+msgctxt "1992_Hirakawa"
+msgid "Under control? Ah! Did you pull the power cord out!?"
+msgstr ""
+
+msgctxt "2004_Nakajima"
+msgid "We had to. The damn thing was makin' all these raunchy sounds."
+msgstr ""
+
+msgctxt "2016_Hirakawa"
+msgid "Raunchy sounds? Oh, was it saying something like \"Don't pull out\"?"
+msgstr ""
+
+msgctxt "2028_Kiryu"
+msgid "You know about computers, Hirakawa-san?"
+msgstr ""
+
+msgctxt "2040_Hirakawa"
+msgid ""
+"I may not look it, but I'm pretty savvy with technology. Did you have "
+"antivirus software installed on your PC, Nakajima-san?"
+msgstr ""
+
+msgctxt "2052_Nakajima"
+msgid "What's that?"
+msgstr ""
+
+msgctxt "2064_Hirakawa"
+msgid ""
+"With antivirus software installed, you wouldn't have had this mess happen "
+"in the first place."
+msgstr ""
+
+msgctxt "2076_Hirakawa"
+msgid "If you pulled the power cable out..."
+msgstr ""
+
+msgctxt "2088_Hirakawa"
+msgid ""
+"Thought so. It's scrapped. It won't boot up anymore. The hard drive is dead "
+"as a doornail."
+msgstr ""
+
+msgctxt "2100_Hirakawa"
+msgid ""
+"You'll have to get a specialist to look at it. It'll probably cost you an "
+"arm and a leg to fix, too."
+msgstr ""
+
+msgctxt "2112_Hirakawa"
+msgid "I wish you'd waited until I got back. I could have fixed it in a flash."
+msgstr ""
+
+msgctxt "2124_Hirakawa"
+msgid ""
+"It sounds like it was just one of those joke programs, anyway. It probably "
+"wouldn't have done any harm."
+msgstr ""
+
+msgctxt "2136_Nakajima"
+msgid "So you're sayin' if we just left it, this wouldn't have happened?"
+msgstr ""
+
+msgctxt "2148_Hirakawa"
+msgid "That's about the size of it, yes."
+msgstr ""
+
+msgctxt "2160_Muramatsu"
+msgid "I told you it could ruin the hard disk, Nakajima-san."
+msgstr ""
+
+msgctxt "2172_Kiryu"
+msgid "It's my fault for not stopping him."
+msgstr ""
+
+msgctxt "2184_Hirakawa"
+msgid ""
+"Nah, don't go blaming yourself, Suzuki-san. This is the kind of program you "
+"often find lurking on adult sites."
+msgstr ""
+
+msgctxt "2196_Hirakawa"
+msgid ""
+"The people who were dumb enough to visit a site like that on a work PC are "
+"responsible."
+msgstr ""
+
+msgctxt "2208_Muramatsu"
+msgid "What do you mean, \"people\"? You're not trying to implicate me, I hope!"
+msgstr ""
+
+msgctxt "2220_Nakajima"
+msgid ""
+"Yeah! We've done no such thing! Where's your proof!? You shouldn't assume "
+"the worst of people, Hirakawa-san!"
+msgstr ""
+
+msgctxt "2232_Hirakawa"
+msgid "Oh, don't take me for a fool. I'm not naive enough to fall for that line."
+msgstr ""
+
+msgctxt "2244_Nakajima"
+msgid "Bah! Say what ya will, I know nothin'!"
+msgstr ""
+
+msgctxt "2256_Hirakawa"
+msgid "Well, in any case, this isn't your responsibility, Suzuki-san."
+msgstr ""
+
+msgctxt "2268_Nakajima"
+msgid "Enough! We get the picture!"
+msgstr ""
+
+msgctxt "2280_Kiryu"
+msgid "I'm sorry I wasn't able to help more."
+msgstr ""
+
+msgctxt "2292_Kiryu"
+msgid ""
+"(I guess I shouldn't have gotten involved in something I don't know much "
+"about.)"
+msgstr ""
+
+msgctxt "2388_Muramatsu"
+msgid ""
+"Muramatsu-san is right, Nakajima-san. I get the feeling that you shouldn't "
+"touch that cord."
+msgstr ""
+
+msgctxt "2400_Nakajima"
+msgid "But what'll people think if they walk in and hear this voice moanin' away!?"
+msgstr ""
+
+msgctxt "2412_Kiryu"
+msgid ""
+"You said there's important information in that box, right? Do you want to "
+"risk losing it?"
+msgstr ""
+
+msgctxt "2424_Nakajima"
+msgid "I guess not, no..."
+msgstr ""
+
+msgctxt "2436_Hirakawa"
+msgid "What on earth are you doing!?"
+msgstr ""
+
+msgctxt "2448_Nakajima"
+msgid "Hirakawa-san! When did you get back?"
+msgstr ""
+
+msgctxt "2460_Hirakawa"
+msgid ""
+"Never mind that. Shut off that moaning sound! It's hardly appropriate for "
+"the workplace!"
+msgstr ""
+
+msgctxt "2472_Nakajima"
+msgid ""
+"That's the problem. We can't. The computer got hit by a cyberterrorism "
+"attack!"
+msgstr ""
+
+msgctxt "2484_Hirakawa"
+msgid "Cyberterrorism? Let me see."
+msgstr ""
+
+msgctxt "2496_Hirakawa"
+msgid ""
+"Oh, this is just a joke program. It's not one of those nasty viruses that "
+"steals or destroys your data."
+msgstr ""
+
+msgctxt "2508_Hirakawa"
+msgid "I'll install my antivirus software for you."
+msgstr ""
+
+msgctxt "2520_Kiryu"
+msgid "Antivirus software?"
+msgstr ""
+
+msgctxt "2532_Hirakawa"
+msgid ""
+"Everyone knows you need antivirus software these days. Haven't you taken "
+"any precautions at all?"
+msgstr ""
+
+msgctxt "2544_Nakajima"
+msgid "Didn't know I needed to."
+msgstr ""
+
+msgctxt "2556_Hirakawa"
+msgid "I can't believe you..."
+msgstr ""
+
+msgctxt "2568_Muramatsu"
+msgid "Okay, that should do it."
+msgstr ""
+
+msgctxt "2592_Muramatsu"
+msgid "The moaning stopped."
+msgstr ""
+
+msgctxt "2604_Nakajima"
+msgid "Aha! Nicely done, Hirakawa-san! Are we all good now, then?"
+msgstr ""
+
+msgctxt "2616_Hirakawa"
+msgid ""
+"That'll take care of the virus, so don't worry about it. But this is the "
+"kind of program you often find lurking on adult sites, Nakajima-san, "
+"Muramatsu-kun."
+msgstr ""
+
+msgctxt "2628_Hirakawa"
+msgid "I'd prefer it if you didn't view those sites on work PCs from now on."
+msgstr ""
+
+msgctxt "2640_Muramatsu"
+msgid ""
+"What!? I hope you're not suggesting what I think you are! I know this is "
+"the computer I use, but it wasn't me!"
+msgstr ""
+
+msgctxt "2652_Nakajima"
+msgid ""
+"Yeah, me neither! Where's yer evidence, huh!? You shouldn't assume the "
+"worst of people, Hirakawa-san!"
+msgstr ""
+
+msgctxt "2664_Hirakawa"
+msgid "Oh, don't take me for a fool. I'm not naive enough to fall for that line."
+msgstr ""
+
+msgctxt "2676_Nakajima"
+msgid "Bah! Say what ya will, I know nothin'!"
+msgstr ""
+
+msgctxt "2688_Nakajima"
+msgid ""
+"I'm just glad Suzuki-san was here to help out! I was about to pull the "
+"power plug out."
+msgstr ""
+
+msgctxt "2700_Hirakawa"
+msgid "You were!? That could have ruined the hard disk!"
+msgstr ""
+
+msgctxt "2712_Nakajima"
+msgid "Crisis averted thanks to Suzuki-san!"
+msgstr ""
+
+msgctxt "2724_Nakajima"
+msgid "Here's a little somethin' to say thanks. Go on, take it."
+msgstr ""
+
+msgctxt "2760_Kiryu"
+msgid "(Heh, never a dull minute here.)"
+msgstr ""

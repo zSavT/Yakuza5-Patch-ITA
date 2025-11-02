@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2740"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "380_Saejima"
+msgid "First, we gotta pick the banker."
+msgstr ""
+
+msgctxt "392_Saejima"
+msgid "I'm banker."
+msgstr ""
+
+msgctxt "404_Saejima"
+msgid "(How much should I bet?)"
+msgstr ""
+
+msgctxt "416_Saejima"
+msgid "All right, here goes."
+msgstr ""
+
+msgctxt "428_Saejima"
+msgid "My turn."
+msgstr ""
+
+msgctxt "440_Saejima"
+msgid "I'm rollin' again."
+msgstr ""
+
+msgctxt "452_Saejima"
+msgid "Let's settle our bets."
+msgstr ""
+
+msgctxt "464_Saejima"
+msgid "(You're the banker.)"
+msgstr ""
+
+msgctxt "476_Saejima"
+msgid "We're changin' the banker."
+msgstr ""
+
+msgctxt "488_Saejima"
+msgid "(Play again?)"
+msgstr ""
+
+msgctxt "500_Saejima"
+msgid "(I'm broke.)"
+msgstr ""
+
+msgctxt "512_Saejima"
+msgid "(Try again next time.)"
+msgstr ""
+
+msgctxt "524_Saejima"
+msgid "Banker's Bet-Settling Messages"
+msgstr ""
+
+msgctxt "536_Saejima"
+msgid "A banker rollin' 1-3-5 gets a 3."
+msgstr ""
+
+msgctxt "548_Saejima"
+msgid "A 1-3-5 by the first player gets a 3."
+msgstr ""
+
+msgctxt "560_Saejima"
+msgid "A 1-3-5 gets what the previous player rolled."
+msgstr ""
+
+msgctxt "572_Saejima"
+msgid "A banker rollin' 2-4-6 gets a 4."
+msgstr ""
+
+msgctxt "584_Saejima"
+msgid "A 2-4-6 changes to what the next player rolls."
+msgstr ""
+
+msgctxt "596_Saejima"
+msgid "A 2-4-6 by the last player gets a 4."
+msgstr ""
+
+msgctxt "608_Saejima"
+msgid "A 2-4-6 changes to what the last player rolls."
+msgstr ""
+
+msgctxt "620_Saejima"
+msgid "A 1-3-5 was rolled after a 2-4-6."
+msgstr ""
+
+msgctxt "632_Saejima"
+msgid "A 6-3-4!"
+msgstr ""

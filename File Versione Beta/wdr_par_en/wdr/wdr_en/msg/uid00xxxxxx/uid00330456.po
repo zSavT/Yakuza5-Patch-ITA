@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "7464"
+msgid "Dealer"
+msgstr ""
+
+msgctxt "7468"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7472"
+msgid "Survival Roulette"
+msgstr ""
+
+msgctxt "7476"
+msgid "Playing as the Dealer"
+msgstr ""
+
+msgctxt "7480"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "7484"
+msgid "Play"
+msgstr ""
+
+msgctxt "7488"
+msgid "Play Survival Roulette"
+msgstr ""
+
+msgctxt "7492"
+msgid "Play as the Dealer"
+msgstr ""
+
+msgctxt "7496"
+msgid "View Tutorial"
+msgstr ""
+
+msgctxt "7500"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "7504"
+msgid "Player"
+msgstr ""
+
+msgctxt "7508"
+msgid "Play Against the House"
+msgstr ""
+
+msgctxt "7512"
+msgid "Play a Standard Game"
+msgstr ""
+
+msgctxt "7516"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7520"
+msgid "Read the Rules"
+msgstr ""
+
+msgctxt "56_Dealer"
+msgid ""
+"Thank you for always playing roulette with us. Recently, we added a new "
+"game mode called Survival mode. Would you care to give it a try?"
+msgstr ""
+
+msgctxt "68_Dealer"
+msgid ""
+"This is a one-on-one match against the dealer. Both players have seven "
+"chips, called markers, that are placed on the table. The object of the game "
+"is to eliminate the opponent's markers."
+msgstr ""
+
+msgctxt "80_Dealer"
+msgid ""
+"Stop the ball on the opponent's number on the roulette wheel to remove its "
+"marker. Each player gets three tries, alternating back and forth. If you "
+"win, you earn a payout based on how many markers you have left."
+msgstr ""
+
+msgctxt "92_Dealer"
+msgid ""
+"Thank you for always playing roulette with us. Recently, we added a new "
+"game mode where you can play as the dealer. Would you like to give it a try?"
+msgstr ""
+
+msgctxt "104_Dealer"
+msgid ""
+"In this mode, you play as the dealer. Drop the ball on the wheel depending "
+"on where the guests place their bets. Guests will bet more if they win. Try "
+"letting them win low bets to encourage higher betting, then make them lose "
+"big."
+msgstr ""
+
+msgctxt "116_Dealer"
+msgid "Hello. Would you care to join us for some roulette?"
+msgstr ""
+
+msgctxt "140_Player"
+msgid "Sure, I'll play."
+msgstr ""
+
+msgctxt "164_Dealer"
+msgid ""
+"Would you like to play me one-on-one? It's a best-of-five match. While no "
+"outside bets can be made, the odds are doubled over the duration."
+msgstr ""
+
+msgctxt "176_Player"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "200_Dealer"
+msgid "Very good, sir. Please take your seat."
+msgstr ""
+
+msgctxt "224_Dealer"
+msgid "It looks like you don't have enough chips to play roulette, sir."
+msgstr ""
+
+msgctxt "248_Player"
+msgid "Sure, I'll play."
+msgstr ""
+
+msgctxt "272_Dealer"
+msgid ""
+"Would you like to play me one-on-one? It's a best-of-five match. While no "
+"outside bets can be made, the odds are doubled over the duration."
+msgstr ""
+
+msgctxt "284_Player"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "308_Dealer"
+msgid "Very good, sir. Please take your seat."
+msgstr ""
+
+msgctxt "332_Dealer"
+msgid "I'm sorry. You need at least 10,000 chips to play Survival Roulette."
+msgstr ""
+
+msgctxt "356_Dealer"
+msgid "Sure, I'll play."
+msgstr ""
+
+msgctxt "380_Dealer"
+msgid ""
+"How about playing the house, one-on-one sir? You won't able to place "
+"outside bets, but you get five spins with double the odds."
+msgstr ""
+
+msgctxt "392_Player"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "416_Dealer"
+msgid "Very good, sir. Please take your seat."
+msgstr ""
+
+msgctxt "440_Dealer"
+msgid "I'm sorry, sir, but you need 1,000 chips to play as the dealer."
+msgstr ""
+
+msgctxt "452_Dealer"
+msgid "Would you like to go over the rules for roulette?"
+msgstr ""
+
+msgctxt "464_Dealer"
+msgid "Very good, sir. Please take your seat."
+msgstr ""
+
+msgctxt "476_Player"
+msgid "No, I'll pass."
+msgstr ""
+
+msgctxt "488_Dealer"
+msgid "I see. We look forward to having you join us."
+msgstr ""

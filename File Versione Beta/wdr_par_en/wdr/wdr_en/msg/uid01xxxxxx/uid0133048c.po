@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1924"
+msgid "Player"
+msgstr ""
+
+msgctxt "1928"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1932"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "1936"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "1940"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "1944"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "1948"
+msgid "Play"
+msgstr ""
+
+msgctxt "1952"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "88_Kiryu"
+msgid "(It's out of order...)"
+msgstr ""
+
+msgctxt "100_Akiyama"
+msgid "(Nope. Out of order.)"
+msgstr ""
+
+msgctxt "112_Saejima"
+msgid "(Looks like it's busted.)"
+msgstr ""
+
+msgctxt "124_Shinada"
+msgid "(Huh. It's broken.)"
+msgstr ""
+
+msgctxt "136_Haruka"
+msgid "(Oh. It's out of order.)"
+msgstr ""
+
+msgctxt "148_Player"
+msgid "(The Challenge Course costs 300 yen to play. Should I give it a try?)"
+msgstr ""
+
+msgctxt "172_Player"
+msgid "(Oops. I'm too broke.)"
+msgstr ""
+
+msgctxt "184_Player"
+msgid "(All right. Let's do this.)"
+msgstr ""
+
+msgctxt "208_Player"
+msgid "(Nope. Not now.)"
+msgstr ""
+
+msgctxt "220_Player"
+msgid "(The level's too high. It's a bit more than I can handle now.)"
+msgstr ""

@@ -1,0 +1,382 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "9080"
+msgid "Yakuza"
+msgstr ""
+
+msgctxt "9084"
+msgid "Woman"
+msgstr ""
+
+msgctxt "9088"
+msgid "SS1_F_NML_TAX_lookout_g1_st"
+msgstr ""
+
+msgctxt "9092"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "9096"
+msgid "SS1_F_NML_TAX_lookout_g1_lp"
+msgstr ""
+
+msgctxt "9100"
+msgid "Are you two on a date?"
+msgstr ""
+
+msgctxt "9104"
+msgid "Are you two quarreling?"
+msgstr ""
+
+msgctxt "9108"
+msgid "You make a good couple."
+msgstr ""
+
+msgctxt "9112"
+msgid "SS1_P_TAX_Lookback"
+msgstr ""
+
+msgctxt "9116"
+msgid "SS1_F_NML_TAX_lookout_g1_ed"
+msgstr ""
+
+msgctxt "9120"
+msgid "SS1_M_CPR_TAX_laugh"
+msgstr ""
+
+msgctxt "9124"
+msgid "SS1_P_TAX_question"
+msgstr ""
+
+msgctxt "9128"
+msgid "SS1_M_CPR_TAX_no"
+msgstr ""
+
+msgctxt "9132"
+msgid "SS1_P_TAX_nod_A"
+msgstr ""
+
+msgctxt "9136"
+msgid "SS1_P_TAX_no"
+msgstr ""
+
+msgctxt "9140"
+msgid "SS1_M_CPR_TAX_look_g1_st"
+msgstr ""
+
+msgctxt "9144"
+msgid "SS1_M_CPR_TAX_look_g1_lp"
+msgstr ""
+
+msgctxt "9148"
+msgid "SS1_F_NML_TAX_look_r_g1_st"
+msgstr ""
+
+msgctxt "9152"
+msgid "SS1_M_CPR_TAX_look_g1_ed"
+msgstr ""
+
+msgctxt "9156"
+msgid "SS1_F_NML_TAX_look_r_g1_ed"
+msgstr ""
+
+msgctxt "9160"
+msgid "SS1_F_NML_TAX__sigh_g1"
+msgstr ""
+
+msgctxt "9164"
+msgid "SS1_M_CPR_TAX_talk"
+msgstr ""
+
+msgctxt "9168"
+msgid "SS1_F_NML_TAX_restrain_g1"
+msgstr ""
+
+msgctxt "9172"
+msgid "SS1_M_CPR_TAX_restrain_woman"
+msgstr ""
+
+msgctxt "9176"
+msgid "SS1_P_TAX_Lookback_angry"
+msgstr ""
+
+msgctxt "9180"
+msgid "SS1_F_NML_TAX_sad"
+msgstr ""
+
+msgctxt "9184"
+msgid "SS1_M_CPR_TAX_look_kiryu_st"
+msgstr ""
+
+msgctxt "9188"
+msgid "SS1_M_CPR_TAX_look_kiryu_lp"
+msgstr ""
+
+msgctxt "9192"
+msgid "SS1_M_CPR_TAX_look_kiryu_ed"
+msgstr ""
+
+msgctxt "9196"
+msgid "Discreetly Head to Police Station"
+msgstr ""
+
+msgctxt "9200"
+msgid "Stay on Course"
+msgstr ""
+
+msgctxt "9204"
+msgid "SS1_M_CPR_TAX_look_around"
+msgstr ""
+
+msgctxt "9208"
+msgid "ACYAM2000"
+msgstr ""
+
+msgctxt "9212"
+msgid "SS1_M_CPR_TAX_thrust_gun_st"
+msgstr ""
+
+msgctxt "9216"
+msgid "SS1_F_NML_TAX_look_gun_g1_st"
+msgstr ""
+
+msgctxt "9220"
+msgid "SS1_M_CPR_TAX_thrust_gun_lp"
+msgstr ""
+
+msgctxt "9224"
+msgid "SS1_F_NML_TAX_look_gun_g1_ed"
+msgstr ""
+
+msgctxt "9228"
+msgid "SS1_M_CPR_TAX_gun_tlk_g1"
+msgstr ""
+
+msgctxt "9232"
+msgid "SS1_F_NML_TAX_look_r_g1_lp"
+msgstr ""
+
+msgctxt "9236"
+msgid "SS1_M_CPR_TAX_gun_tlk_kiryu"
+msgstr ""
+
+msgctxt "44_Yakuza"
+msgid "......"
+msgstr ""
+
+msgctxt "56_Woman"
+msgid "......"
+msgstr ""
+
+msgctxt "68_Kiryu"
+msgid "(They're quiet. Maybe they had a fight? I'll try making small talk.)"
+msgstr ""
+
+msgctxt "80_Yakuza"
+msgid "Are you two on a date today?"
+msgstr ""
+
+msgctxt "92_Yakuza"
+msgid "That's right! We're heading out for some fun!"
+msgstr ""
+
+msgctxt "104_Kiryu"
+msgid "Ah. What do you have planned?"
+msgstr ""
+
+msgctxt "116_Yakuza"
+msgid "Can't tell you that. I'm taking the lady here on a surprise date!"
+msgstr ""
+
+msgctxt "128_Kiryu"
+msgid "I see. That sounds exciting."
+msgstr ""
+
+msgctxt "140_Woman"
+msgid "......"
+msgstr ""
+
+msgctxt "152_Kiryu"
+msgid ""
+"(The woman doesn't look very happy to be here. Is she not having a good "
+"time?)"
+msgstr ""
+
+msgctxt "164_Yakuza"
+msgid "Sorry to intrude, but are you two quarreling?"
+msgstr ""
+
+msgctxt "176_Yakuza"
+msgid "Hahaha! Quarreling? Who even uses that word these days!?"
+msgstr ""
+
+msgctxt "188_Kiryu"
+msgid "I was just trying to be polite."
+msgstr ""
+
+msgctxt "200_Yakuza"
+msgid "Haha. Quarreling. That's a classic. Funny, huh?"
+msgstr ""
+
+msgctxt "212_Woman"
+msgid "Yes..."
+msgstr ""
+
+msgctxt "224_Kiryu"
+msgid "(It looks like her mind is elsewhere.)"
+msgstr ""
+
+msgctxt "236_Yakuza"
+msgid "You make a good couple."
+msgstr ""
+
+msgctxt "248_Yakuza"
+msgid "The two of us? Heh, well isn't that a riot? Hahaha!"
+msgstr ""
+
+msgctxt "260_Woman"
+msgid "......"
+msgstr ""
+
+msgctxt "272_Kiryu"
+msgid ""
+"(Maybe these two aren't a couple, after all. The woman looks like she "
+"doesn't want to be here.)"
+msgstr ""
+
+msgctxt "284_Yakuza"
+msgid "Your friend is the quiet type, huh?"
+msgstr ""
+
+msgctxt "296_Woman"
+msgid "......"
+msgstr ""
+
+msgctxt "308_Yakuza"
+msgid "Yeah, she's－"
+msgstr ""
+
+msgctxt "320_Woman"
+msgid "Driver! This man, he's ab－"
+msgstr ""
+
+msgctxt "332_Yakuza"
+msgid "Shut it! No talking!"
+msgstr ""
+
+msgctxt "344_Kiryu"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "356_Yakuza"
+msgid ""
+"Hahaha. Sorry about that. She may look all docile, but once she gets "
+"started, you can't shut her up."
+msgstr ""
+
+msgctxt "368_Yakuza"
+msgid "Wouldn't want her distracting you or anything."
+msgstr ""
+
+msgctxt "380_Kiryu"
+msgid "(I smell trouble. Maybe this woman's caught up in something.)"
+msgstr ""
+
+msgctxt "392_Yakuza"
+msgid "(I'll turn towards the police station.)"
+msgstr ""
+
+msgctxt "404_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "416_Yakuza"
+msgid "Think you took a wrong turn, driver!"
+msgstr ""
+
+msgctxt "428_Kiryu"
+msgid "I did? Sorry about that."
+msgstr ""
+
+msgctxt "440_Yakuza"
+msgid ""
+"Don't play dumb with me, asshole! You were trying to go to the police, "
+"weren't you!?"
+msgstr ""
+
+msgctxt "452_Yakuza"
+msgid ""
+"I'm taking this girl because she owes me money! If you want to get back in "
+"one piece, best take me where I want to go. And no funny business!"
+msgstr ""
+
+msgctxt "464_Woman"
+msgid "I don't owe you a thing!"
+msgstr ""
+
+msgctxt "476_Yakuza"
+msgid "You signed on as a guarantor. Same thing."
+msgstr ""
+
+msgctxt "488_Yakuza"
+msgid "Either way, it's got nothing to do with our driver friend. Now step on it!"
+msgstr ""
+
+msgctxt "500_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "512_Yakuza"
+msgid ""
+"(She may be mixed up in something, but it's my job to follow the customer's "
+"instructions.)"
+msgstr ""
+
+msgctxt "524_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "536_Woman"
+msgid "Driver, please help! This man abducted me!"
+msgstr ""
+
+msgctxt "548_Kiryu"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "560_Yakuza"
+msgid "You little bitch!"
+msgstr ""
+
+msgctxt "572_Yakuza"
+msgid ""
+"I'm taking this girl because she owes me money! If you want to get back in "
+"one piece, best take me where I want to go. And no funny business!"
+msgstr ""
+
+msgctxt "596_Yakuza"
+msgid "I don't owe you a thing!"
+msgstr ""
+
+msgctxt "608_Yakuza"
+msgid "You signed on as a guarantor. Same thing."
+msgstr ""
+
+msgctxt "620_Yakuza"
+msgid "Either way, it's got nothing to do with our driver friend. Now step on it!"
+msgstr ""
+
+msgctxt "632_Kiryu"
+msgid "......"
+msgstr ""

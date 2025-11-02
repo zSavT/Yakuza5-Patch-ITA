@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "9096"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "9100"
+msgid "P_SIN_TLK_stand_quest"
+msgstr ""
+
+msgctxt "9104"
+msgid "Man"
+msgstr ""
+
+msgctxt "9108"
+msgid "M_NML_TLK_stand_yes"
+msgstr ""
+
+msgctxt "9112"
+msgid "P_SIN_TLK_stand_surp"
+msgstr ""
+
+msgctxt "9116"
+msgid "P_SIN_TLK_stand_ase"
+msgstr ""
+
+msgctxt "9120"
+msgid "Private Investigator"
+msgstr ""
+
+msgctxt "9124"
+msgid "M_NML_TLK_stand_gakkari"
+msgstr ""
+
+msgctxt "9128"
+msgid "M_NML_TLK_stand_no"
+msgstr ""
+
+msgctxt "9132"
+msgid "P_SIN_TLK_stand_info_f"
+msgstr ""
+
+msgctxt "9136"
+msgid "P_SIN_TLK_stand_yes"
+msgstr ""
+
+msgctxt "9140"
+msgid "P_SIN_TLK_stand_odosu"
+msgstr ""
+
+msgctxt "9144"
+msgid "M_NML_TLK_stand_surp"
+msgstr ""
+
+msgctxt "9148"
+msgid "M_NML_TLK_stand_sorry"
+msgstr ""
+
+msgctxt "9152"
+msgid "P_SIN_TLK_stand_kansin"
+msgstr ""
+
+msgctxt "9156"
+msgid "P_SIN_TLK_stand_gakkari"
+msgstr ""
+
+msgctxt "9160"
+msgid "M_NML_TLK_stand_nobig"
+msgstr ""
+
+msgctxt "9164"
+msgid "Shion"
+msgstr ""
+
+msgctxt "9168"
+msgid "P_SIN_TLK_stand_angry"
+msgstr ""
+
+msgctxt "9172"
+msgid "0"
+msgstr ""
+
+msgctxt "9176"
+msgid "dummy"
+msgstr ""
+
+msgctxt "44_Shinada"
+msgid "All right, buddy, start talking. Who are you?"
+msgstr ""
+
+msgctxt "56_Man"
+msgid "I'm... I'm with Kinei Detective Agency."
+msgstr ""
+
+msgctxt "68_Shinada"
+msgid "You're a detective!? So you're not a stalker. Are you protecting her?"
+msgstr ""
+
+msgctxt "80_Shinada"
+msgid "Wait. Shion-chan never said anything about hiring a detective."
+msgstr ""
+
+msgctxt "92_Private Investigator"
+msgid ""
+"No, I've been asked to conduct a background check on the young lady. I can "
+"only assume she mistook me for a stalker."
+msgstr ""
+
+msgctxt "104_Shinada"
+msgid "A background check? For who?"
+msgstr ""
+
+msgctxt "116_Private Investigator"
+msgid ""
+"I'm not at liberty to say. It's my policy as an investigator to maintain my "
+"clients' privacy."
+msgstr ""
+
+msgctxt "128_Shinada"
+msgid ""
+"Hm. You could be anyone for all I know. I'm betting I can still turn you "
+"over to the police. Taking photos of people without them knowing is still a "
+"crime."
+msgstr ""
+
+msgctxt "140_Private Investigator"
+msgid ""
+"Then I'll simply claim that photography is a hobby of mine. I simply take "
+"pictures of what I see. Since when is that against the law?"
+msgstr ""
+
+msgctxt "152_Shinada"
+msgid "Ha! So that's how it's gonna be, huh?"
+msgstr ""
+
+msgctxt "164_Shinada"
+msgid ""
+"All right, then instead of the cops, how about I turn you over to the "
+"Nagoya Family?"
+msgstr ""
+
+msgctxt "176_Private Investigator"
+msgid "The... The Nagoya Family!?"
+msgstr ""
+
+msgctxt "188_Shinada"
+msgid "Yeah. I'm guessing you've heard of them?"
+msgstr ""
+
+msgctxt "200_Private Investigator"
+msgid "Listen, man! I'll talk! I'll talk!"
+msgstr ""
+
+msgctxt "212_Shinada"
+msgid "(Heh. Being on the other side of a threat like this sure is bizarre.)"
+msgstr ""
+
+msgctxt "224_Private Investigator"
+msgid ""
+"The client who hired me to investigate Shion-san is an executive at one of "
+"the leading companies in Nagoya."
+msgstr ""
+
+msgctxt "236_Shinada"
+msgid "What!? Then that means..."
+msgstr ""
+
+msgctxt "248_Private Investigator"
+msgid "Yes. Someone has asked for her hand in marriage."
+msgstr ""
+
+msgctxt "260_Shinada"
+msgid "So why the investigation?"
+msgstr ""
+
+msgctxt "272_Private Investigator"
+msgid ""
+"It's not uncommon for influential families to conduct a background check on "
+"a potential spouse. It would be problematic if they had associations with "
+"an undesirable crowd."
+msgstr ""
+
+msgctxt "284_Shinada"
+msgid ""
+"An undesirable crowd? Shion-chan might not be at your client's level, but "
+"she's from a pretty wealthy family too. She can't possibly be trouble."
+msgstr ""
+
+msgctxt "296_Private Investigator"
+msgid "Actually, my investigation has turned up some alarming facts."
+msgstr ""
+
+msgctxt "308_Shinada"
+msgid "Alarming facts?"
+msgstr ""
+
+msgctxt "320_Private Investigator"
+msgid "As it turns out, Shion-san owes a considerable amount of money."
+msgstr ""
+
+msgctxt "332_Shinada"
+msgid "What!?"
+msgstr ""
+
+msgctxt "344_Private Investigator"
+msgid ""
+"Well, technically her parents do. They've sold off their mansion and are "
+"now living in an apartment that costs 70,000 yen per month."
+msgstr ""
+
+msgctxt "356_Shinada"
+msgid "She hasn't said a word about any of this."
+msgstr ""
+
+msgctxt "368_Private Investigator"
+msgid ""
+"Nagoya women are a prideful sort. She wouldn't want to tarnish her "
+"reputation."
+msgstr ""
+
+msgctxt "380_Shion"
+msgid "It can't be..."
+msgstr ""
+
+msgctxt "404_Shinada"
+msgid "Ah! Shion-chan!"
+msgstr ""
+
+msgctxt "428_Shinada"
+msgid "Did you hear all that?"
+msgstr ""
+
+msgctxt "440_Shion"
+msgid ""
+"Investigator-san, is it true that you were hired to perform a background "
+"check on me?"
+msgstr ""
+
+msgctxt "452_Private Investigator"
+msgid ""
+"Yes, miss. And unfortunately, at this point, I'm afraid my client is likely "
+"to rescind his marriage proposal."
+msgstr ""
+
+msgctxt "464_Shion"
+msgid "Oh!"
+msgstr ""
+
+msgctxt "476_Private Investigator"
+msgid ""
+"Pedigree is everything in Nagoya. Despite your family's good name and long "
+"history, he cannot marry into a legacy that has fallen from grace."
+msgstr ""
+
+msgctxt "488_Shinada"
+msgid "What the hell!?"
+msgstr ""
+
+msgctxt "512_Shinada"
+msgid "Hey, Shion-chan!"
+msgstr ""

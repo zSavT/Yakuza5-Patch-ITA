@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2548"
+msgid "Player"
+msgstr ""
+
+msgctxt "2552"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2556"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "2560"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "2564"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "2568"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "2572"
+msgid "Employee"
+msgstr ""
+
+msgctxt "44_Player"
+msgid "(What to order?)"
+msgstr ""
+
+msgctxt "80_Player"
+msgid "(I'm out of cash.)"
+msgstr ""
+
+msgctxt "116_Kiryu"
+msgid "(I don't need to eat now.)"
+msgstr ""
+
+msgctxt "128_Akiyama"
+msgid "(I'm not hungry.)"
+msgstr ""
+
+msgctxt "140_Saejima"
+msgid "(I'm full for now.)"
+msgstr ""
+
+msgctxt "152_Shinada"
+msgid "(It's tempting, but I'm stuffed.)"
+msgstr ""
+
+msgctxt "164_Haruka"
+msgid "(I'm full.)"
+msgstr ""
+
+msgctxt "200_Kiryu"
+msgid "Sorry, I have to run."
+msgstr ""
+
+msgctxt "212_Akiyama"
+msgid "Sorry, I forgot an urgent piece of business."
+msgstr ""
+
+msgctxt "224_Saejima"
+msgid "Sorry, gotta go."
+msgstr ""
+
+msgctxt "236_Shinada"
+msgid "Oh, sorry! I have to run."
+msgstr ""
+
+msgctxt "248_Haruka"
+msgid "I'm so sorry. Something came up."
+msgstr ""
+
+msgctxt "260_Employee"
+msgid "That's fine. Please come again soon."
+msgstr ""
+
+msgctxt "296_Employee"
+msgid "Thank you very much."
+msgstr ""

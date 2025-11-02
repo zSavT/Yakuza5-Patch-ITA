@@ -1,0 +1,614 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1412"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr ""
+
+msgctxt "1472"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round when you are "
+"playing cho-han.\r\n"
+" "
+msgstr ""
+
+msgctxt "1520"
+msgid "You got <Color:8>Haruka's Lunch<Color:Default>."
+msgstr ""
+
+msgctxt "1580"
+msgid "You got <Color:8>Haruka's First-Aid Kit<Color:Default>."
+msgstr ""
+
+msgctxt "1640"
+msgid "You got <Color:8>Red Jewel<Color:Default>."
+msgstr ""
+
+msgctxt "1700"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr ""
+
+msgctxt "1760"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr ""
+
+msgctxt "1820"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr ""
+
+msgctxt "1928"
+msgid "You got <Color:8>Morning Glory Belly Warmer<Color:Default>."
+msgstr ""
+
+msgctxt "28932"
+msgid "Staff"
+msgstr ""
+
+msgctxt "28936"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "28940"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "28944"
+msgid "P_TLK_sitchr_kamae"
+msgstr ""
+
+msgctxt "28948"
+msgid "Manager"
+msgstr ""
+
+msgctxt "28952"
+msgid "Honoka"
+msgstr ""
+
+msgctxt "28956"
+msgid "Player"
+msgstr ""
+
+msgctxt "28960"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "28964"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "28968"
+msgid "○I'd be okay with that."
+msgstr ""
+
+msgctxt "28972"
+msgid "□No way would I go for that."
+msgstr ""
+
+msgctxt "28976"
+msgid "△Depends on the situation."
+msgstr ""
+
+msgctxt "28980"
+msgid "dummy"
+msgstr ""
+
+msgctxt "28984"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "28988"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "28992"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "28996"
+msgid "P_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "29000"
+msgid "P_TLK_sitchr_yes"
+msgstr ""
+
+msgctxt "29004"
+msgid "ArmsID"
+msgstr ""
+
+msgctxt "29008"
+msgid "HAL_TLK_sitchr_eat_sushi_max"
+msgstr ""
+
+msgctxt "29012"
+msgid "HAL_TLK_sitchr_kamae"
+msgstr ""
+
+msgctxt "29016"
+msgid "HAL_TLK_sitchr_smile"
+msgstr ""
+
+msgctxt "29020"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "29024"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "29028"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "29032"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "29036"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "29040"
+msgid "0"
+msgstr ""
+
+msgctxt "29044"
+msgid "Idle"
+msgstr ""
+
+msgctxt "104_Staff"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "116_Staff"
+msgid "Let me show you to your table. If you'll please follow me."
+msgstr ""
+
+msgctxt "164_Staff"
+msgid "Welcome! What can I get you?"
+msgstr ""
+
+msgctxt "176_Honoka"
+msgid "Oh, I'd like a <Color:8>Sotenbori Set<Color:Default>!"
+msgstr ""
+
+msgctxt "188_Player"
+msgid "(Honoka-chan wants to eat a <Color:8>Sotenbori Set<Color:Default>.)"
+msgstr ""
+
+msgctxt "260_Honoka"
+msgid "This looks delish!"
+msgstr ""
+
+msgctxt "320_Honoka"
+msgid "Did you see the guy outside tryin' to hit on girls?"
+msgstr ""
+
+msgctxt "332_Player"
+msgid "Oh, was there a guy? I didn't even notice."
+msgstr ""
+
+msgctxt "344_Honoka"
+msgid ""
+"Yeah, he's been there since before I got to work today. He's been hittin' "
+"on girls all day."
+msgstr ""
+
+msgctxt "356_Player"
+msgid ""
+"Guess he isn't having much luck. I don't know how a guy can keep that up "
+"for so long."
+msgstr ""
+
+msgctxt "368_Honoka"
+msgid "Do you ever do that sorta thing, Akiyama-san?"
+msgstr ""
+
+msgctxt "380_Player"
+msgid "I don't. Not under most circumstances, anyway."
+msgstr ""
+
+msgctxt "392_Honoka"
+msgid "For real? Ya don't think you'd be able to get a ton of girls, Akiyama-san?"
+msgstr ""
+
+msgctxt "404_Player"
+msgid ""
+"It's not about whether I could or not. I prefer to treat meeting people "
+"more seriously."
+msgstr ""
+
+msgctxt "416_Honoka"
+msgid "Hmm. Okay, what if some cute girl were to try and pick you up?"
+msgstr ""
+
+msgctxt "428_Player"
+msgid "I'd be okay with that. I could never say no to a pretty lady."
+msgstr ""
+
+msgctxt "440_Honoka"
+msgid ""
+"Whaaat? But you were just sayin' ya take meetin' people more seriously than "
+"that!"
+msgstr ""
+
+msgctxt "452_Player"
+msgid ""
+"It's not like that. It's a pretty rare thing for a girl to be the one to "
+"make a move like that. I wouldn't want to waste such a unique chance."
+msgstr ""
+
+msgctxt "464_Honoka"
+msgid "Even if she wasn't your type?"
+msgstr ""
+
+msgctxt "476_Player"
+msgid ""
+"It's not like we're going to start dating on the spot, but there's nothing "
+"wrong with having a coffee date or something."
+msgstr ""
+
+msgctxt "488_Honoka"
+msgid ""
+"So what you're sayin' is that ya've got no standards if some random girl "
+"asks ya out. Ain't you quite the flirt?"
+msgstr ""
+
+msgctxt "500_Player"
+msgid "That's harsh."
+msgstr ""
+
+msgctxt "512_Player"
+msgid ""
+"No way would I go for that. Going on a date with a girl who picks up guys "
+"like that is sure to end in disaster."
+msgstr ""
+
+msgctxt "524_Honoka"
+msgid "For serious? Why's that?"
+msgstr ""
+
+msgctxt "536_Player"
+msgid ""
+"Well, if they're hitting on you in the middle of the street, they're only "
+"judging you by your looks."
+msgstr ""
+
+msgctxt "548_Player"
+msgid ""
+"It seems obvious that there's a high likelihood of our personalities or "
+"interests not matching, and a quick breakup will be inevitable."
+msgstr ""
+
+msgctxt "560_Honoka"
+msgid ""
+"Yeah, I guess that's true. For me, if a guy said he didn't like stand-up "
+"comedy, then it's game over, no matter how good he looks."
+msgstr ""
+
+msgctxt "572_Player"
+msgid ""
+"See? That's why I prefer to take my time to get to know the other person "
+"first."
+msgstr ""
+
+msgctxt "584_Honoka"
+msgid ""
+"Aha! You're not as much of a playboy as ya look, Akiyama-san! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "596_Player"
+msgid "Uh, thanks."
+msgstr ""
+
+msgctxt "608_Player"
+msgid "Depends on the situation."
+msgstr ""
+
+msgctxt "620_Honoka"
+msgid "What kinda situation?"
+msgstr ""
+
+msgctxt "632_Player"
+msgid ""
+"Well, let's say if the girl's my type. If she isn't, I wouldn't go on a "
+"date with her."
+msgstr ""
+
+msgctxt "644_Honoka"
+msgid "So if she's yer type it's okay?"
+msgstr ""
+
+msgctxt "656_Player"
+msgid "Yeah. If she struck me as sketchy, then I'd obviously keep my distance."
+msgstr ""
+
+msgctxt "668_Honoka"
+msgid "What do ya mean by sketchy?"
+msgstr ""
+
+msgctxt "680_Player"
+msgid ""
+"Well, you've heard of badger games, right? When a good-looking lady tricks "
+"some dumb schmuck in order to blackmail him?"
+msgstr ""
+
+msgctxt "692_Player"
+msgid ""
+"Pretty women usually can't keep guys away from them, so when they approach "
+"a man it's kind of suspicious. I know I'd be on my guard then."
+msgstr ""
+
+msgctxt "704_Honoka"
+msgid ""
+"Ooh, you're so calculating, Akiyama-san! I would never have thought of "
+"that. I'd just blindly follow the guy if he's my type."
+msgstr ""
+
+msgctxt "716_Player"
+msgid "Then you should be more careful from now on."
+msgstr ""
+
+msgctxt "776_Honoka"
+msgid "Thanks for treatin' me!"
+msgstr ""
+
+msgctxt "836_Staff"
+msgid "Here is your check."
+msgstr ""
+
+msgctxt "860_Staff"
+msgid "Thank you very much. Please come again."
+msgstr ""
+
+msgctxt "872_Staff"
+msgid "Thank you very much. Please come again."
+msgstr ""
+
+msgctxt "908_Staff"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "920_Staff"
+msgid "Let me show you to your table."
+msgstr ""
+
+msgctxt "944_Player"
+msgid "(I'm broke.)"
+msgstr ""
+
+msgctxt "956_Staff"
+msgid "Sorry. There's something I need to take care of."
+msgstr ""
+
+msgctxt "968_Staff"
+msgid "I see. Well, please come again."
+msgstr ""
+
+msgctxt "1016_Staff"
+msgid "Welcome! What can I get you?"
+msgstr ""
+
+msgctxt "1028_Haruka"
+msgid "Uncle Kaz, I'd really like some <Color:8>Garlic Chicken<Color:Default>."
+msgstr ""
+
+msgctxt "1040_Kiryu"
+msgid "(Haruka wants some <Color:8>Garlic Chicken<Color:Default>...)"
+msgstr ""
+
+msgctxt "1064_Staff"
+msgid "But I wanted some <Color:8>Garlic Chicken<Color:Default>..."
+msgstr ""
+
+msgctxt "1100_Staff"
+msgid "This looks really tasty! Thanks, Uncle Kaz!"
+msgstr ""
+
+msgctxt "1256_Haruka"
+msgid "Thanks for treating me!"
+msgstr ""
+
+msgctxt "1268_Staff"
+msgid "(Haruka sure seems happy.)"
+msgstr ""
+
+msgctxt "1352_Staff"
+msgid "That was delicious!"
+msgstr ""
+
+msgctxt "1400_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! This is for you!\r\n"
+" "
+msgstr ""
+
+msgctxt "1460_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come play cho-han with you next time, "
+"okay?\r\n"
+" "
+msgstr ""
+
+msgctxt "1508_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I have a present for you!\r\n"
+" "
+msgstr ""
+
+msgctxt "1568_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "1628_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "1688_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "1748_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "1808_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "1904_Haruka"
+msgid ""
+"Thanks for doing all that stuff for me, Uncle Kaz!\r\n"
+" "
+msgstr ""
+
+msgctxt "1916_Staff"
+msgid ""
+"Here, this is a special present, just for you!\r\n"
+" "
+msgstr ""
+
+msgctxt "1940_Haruka"
+msgid "Thanks, Uncle Kaz! I love you!"
+msgstr ""
+
+msgctxt "1976_Staff"
+msgid "I hope that was to your liking. Please come again."
+msgstr ""
+
+msgctxt "2000_Staff"
+msgid "Thank you very much. Please come again."
+msgstr ""
+
+msgctxt "2024_Staff"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "2036_Staff"
+msgid "Let me show you to your table. If you'll please follow me."
+msgstr ""
+
+msgctxt "2072_Player"
+msgid "(I'm broke.)"
+msgstr ""
+
+msgctxt "2108_Kiryu"
+msgid "(I don't need to eat right now.)"
+msgstr ""
+
+msgctxt "2120_Akiyama"
+msgid "(I'm not hungry right now.)"
+msgstr ""
+
+msgctxt "2132_Saejima"
+msgid "(I'm still full.)"
+msgstr ""
+
+msgctxt "2144_Shinada"
+msgid "(Unfortunately, I'm kinda full.)"
+msgstr ""
+
+msgctxt "2156_Haruka"
+msgid "(I'm stuffed.)"
+msgstr ""
+
+msgctxt "2192_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr ""
+
+msgctxt "2204_Akiyama"
+msgid "Sorry. I have some urgent business to take care of."
+msgstr ""
+
+msgctxt "2216_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr ""
+
+msgctxt "2228_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr ""
+
+msgctxt "2240_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr ""
+
+msgctxt "2252_Staff"
+msgid "I see. Well, please come again."
+msgstr ""
+
+msgctxt "2312_Staff"
+msgid "Welcome! What can I get you?"
+msgstr ""
+
+msgctxt "2336_Kiryu"
+msgid "(What do I want to eat?)"
+msgstr ""
+
+msgctxt "2348_Akiyama"
+msgid "(What should I get?)"
+msgstr ""
+
+msgctxt "2360_Saejima"
+msgid "(What do I wanna eat?)"
+msgstr ""
+
+msgctxt "2372_Shinada"
+msgid "(Okay, what do I want to get?)"
+msgstr ""
+
+msgctxt "2384_Haruka"
+msgid "(Hmm. I wonder what's good?)"
+msgstr ""
+
+msgctxt "2432_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr ""
+
+msgctxt "2444_Akiyama"
+msgid "Sorry. I have some urgent business I need to take care of."
+msgstr ""
+
+msgctxt "2456_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr ""
+
+msgctxt "2468_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr ""
+
+msgctxt "2480_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr ""
+
+msgctxt "2492_Manager"
+msgid "Ah, I see. Please do come again."
+msgstr ""
+
+msgctxt "2540_Staff"
+msgid "Here is your check."
+msgstr ""
+
+msgctxt "2564_Staff"
+msgid "Thank you very much. Please come again."
+msgstr ""

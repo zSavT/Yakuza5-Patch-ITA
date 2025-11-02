@@ -1,0 +1,540 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "16676"
+msgid "SS1_M_NML_TAX_kamae"
+msgstr ""
+
+msgctxt "16680"
+msgid "Passenger"
+msgstr ""
+
+msgctxt "16684"
+msgid "SS1_M_NML_TAX_idle"
+msgstr ""
+
+msgctxt "16688"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "16692"
+msgid "SS1_P_TAX_nod_A"
+msgstr ""
+
+msgctxt "16696"
+msgid "SS1_M_NML_TAX_lookout_st"
+msgstr ""
+
+msgctxt "16700"
+msgid "SS1_M_NML_TAX_look_kiryu_lp"
+msgstr ""
+
+msgctxt "16704"
+msgid "SS1_M_NML_TAX_lookout_ed"
+msgstr ""
+
+msgctxt "16708"
+msgid "SS1_M_NML_TAX_sad"
+msgstr ""
+
+msgctxt "16712"
+msgid "SS1_M_NML_TAX_question"
+msgstr ""
+
+msgctxt "16716"
+msgid "SS1_P_TAX_no"
+msgstr ""
+
+msgctxt "16720"
+msgid "SS1_M_NML_TAX_sigh"
+msgstr ""
+
+msgctxt "16724"
+msgid "SS1_M_NML_TAX_no"
+msgstr ""
+
+msgctxt "16728"
+msgid "SS1_M_NML_TAX_laugh"
+msgstr ""
+
+msgctxt "16732"
+msgid "SS1_M_NML_TAX_nod"
+msgstr ""
+
+msgctxt "16736"
+msgid "SS1_M_NML_TAX_look_kiryu_st"
+msgstr ""
+
+msgctxt "16740"
+msgid "SS1_P_TAX_question"
+msgstr ""
+
+msgctxt "16744"
+msgid "SS1_M_NML_TAX_look_kiryu_ed"
+msgstr ""
+
+msgctxt "16748"
+msgid "Business is pretty good."
+msgstr ""
+
+msgctxt "16752"
+msgid "Business is bad."
+msgstr ""
+
+msgctxt "16756"
+msgid "None of your damn business."
+msgstr ""
+
+msgctxt "16760"
+msgid "SS1_P_TAX_sad"
+msgstr ""
+
+msgctxt "16764"
+msgid "SS1_P_TAX_laugh"
+msgstr ""
+
+msgctxt "16768"
+msgid "SS1_M_NML_TAX_surp"
+msgstr ""
+
+msgctxt "16772"
+msgid "SS1_M_NML_TAX_angry"
+msgstr ""
+
+msgctxt "16776"
+msgid "I'd have to say mizutaki."
+msgstr ""
+
+msgctxt "16780"
+msgid "I'd have to say ramen."
+msgstr ""
+
+msgctxt "16784"
+msgid "Takoyaki all the way."
+msgstr ""
+
+msgctxt "16788"
+msgid "dummy"
+msgstr ""
+
+msgctxt "16792"
+msgid "SS1_M_NML_TAX_totter"
+msgstr ""
+
+msgctxt "16796"
+msgid "SS1_P_TAX_left"
+msgstr ""
+
+msgctxt "16800"
+msgid "SS1_P_TAX_right"
+msgstr ""
+
+msgctxt "16804"
+msgid "kaiwabgm_serious01"
+msgstr ""
+
+msgctxt "16808"
+msgid "SS1_M_NML_TAX_lookout_lp"
+msgstr ""
+
+msgctxt "56_SS1_M_NML_TAX_kamae"
+msgid "Nice day out, huh?"
+msgstr ""
+
+msgctxt "68_Kiryu"
+msgid "It is."
+msgstr ""
+
+msgctxt "80_SS1_M_NML_TAX_kamae"
+msgid ""
+"Sure's been awful cold out lately. Every year the fall gets shorter and the "
+"winter gets longer, am I right?"
+msgstr ""
+
+msgctxt "92_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "104_SS1_M_NML_TAX_kamae"
+msgid "Don't you think so, driver?"
+msgstr ""
+
+msgctxt "116_Kiryu"
+msgid "I guess."
+msgstr ""
+
+msgctxt "128_SS1_M_NML_TAX_kamae"
+msgid "You're pretty quiet for a cabbie."
+msgstr ""
+
+msgctxt "140_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "152_SS1_M_NML_TAX_kamae"
+msgid "......"
+msgstr ""
+
+msgctxt "164_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "176_SS1_M_NML_TAX_kamae"
+msgid ""
+"Hey, driver. There's only so much silence I can take. How long've you been "
+"at this job?"
+msgstr ""
+
+msgctxt "188_Kiryu"
+msgid "Only around six months."
+msgstr ""
+
+msgctxt "200_SS1_M_NML_TAX_kamae"
+msgid "Oh, okay. That explains it."
+msgstr ""
+
+msgctxt "212_Kiryu"
+msgid "(What's he talking about?)"
+msgstr ""
+
+msgctxt "224_SS1_M_NML_TAX_kamae"
+msgid "Let me put it to you like this."
+msgstr ""
+
+msgctxt "236_SS1_M_NML_TAX_kamae"
+msgid ""
+"I don't know about other parts, but here in Fukuoka, taxi drivers are "
+"expected to keep up the conversation."
+msgstr ""
+
+msgctxt "248_Passenger"
+msgid ""
+"Most of us locals here in Fukuoka like to chat. If you don't have the gift "
+"of gab, you're not gonna get any regular customers."
+msgstr ""
+
+msgctxt "260_Kiryu"
+msgid "I see... My boss told me the same thing, come to think of it."
+msgstr ""
+
+msgctxt "272_Passenger"
+msgid ""
+"I bet he did. Taxi driving's a service job, and small talk's a big part of "
+"the service."
+msgstr ""
+
+msgctxt "284_Kiryu"
+msgid "Right, but I don't know what to talk about..."
+msgstr ""
+
+msgctxt "296_Passenger"
+msgid "Then how about I give you some pointers?"
+msgstr ""
+
+msgctxt "308_Kiryu"
+msgid "Such as?"
+msgstr ""
+
+msgctxt "320_Passenger"
+msgid ""
+"Well, I thought we'd do some practice dialogue, help get you started. I'm "
+"not speaking the Hakata dialect, so it should be easy to follow. Sound good?"
+msgstr ""
+
+msgctxt "332_Kiryu"
+msgid "Okay."
+msgstr ""
+
+msgctxt "344_Passenger"
+msgid "So, how's business today?"
+msgstr ""
+
+msgctxt "356_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "368_Passenger"
+msgid "I'm asking you, driver."
+msgstr ""
+
+msgctxt "380_Kiryu"
+msgid "Oh, sorry. Let's see..."
+msgstr ""
+
+msgctxt "392_SS1_M_NML_TAX_kamae"
+msgid ""
+"Business is pretty good. It helps when I get passengers like you who are "
+"going on longer trips."
+msgstr ""
+
+msgctxt "404_Passenger"
+msgid "There you go. That's how it's done."
+msgstr ""
+
+msgctxt "416_Kiryu"
+msgid "Okay. I think I'm getting the hang of this."
+msgstr ""
+
+msgctxt "428_SS1_M_NML_TAX_kamae"
+msgid ""
+"Business could be better. Long-distance fares like these mean my cab's "
+"going to be empty on the return trip."
+msgstr ""
+
+msgctxt "440_Passenger"
+msgid ""
+"Come on, why would you bring that up? You gotta make the customer feel "
+"welcome, even if you don't mean it."
+msgstr ""
+
+msgctxt "452_Kiryu"
+msgid "Oh... Then that's tricky."
+msgstr ""
+
+msgctxt "464_SS1_M_NML_TAX_kamae"
+msgid "None of your damn business."
+msgstr ""
+
+msgctxt "476_Passenger"
+msgid "Whoa! Where'd that come from?"
+msgstr ""
+
+msgctxt "488_Kiryu"
+msgid ""
+"Oh, sorry. The line sounded cool in my head, so I thought it'd be "
+"appropriate."
+msgstr ""
+
+msgctxt "500_Passenger"
+msgid ""
+"Come on, what did we just talk about? The goal here is to get a "
+"conversation going!"
+msgstr ""
+
+msgctxt "512_Kiryu"
+msgid "Right, conversation..."
+msgstr ""
+
+msgctxt "524_Passenger"
+msgid ""
+"So why'd you go off spouting some random one-liner? You trying to be a "
+"comedian?"
+msgstr ""
+
+msgctxt "536_Kiryu"
+msgid "No, not really..."
+msgstr ""
+
+msgctxt "548_Passenger"
+msgid ""
+"Look, don't overthink it. All you have to do is think of something casual "
+"and inoffensive to say. There's nothing complicated about this."
+msgstr ""
+
+msgctxt "560_Kiryu"
+msgid "Uh-huh..."
+msgstr ""
+
+msgctxt "572_SS1_M_NML_TAX_kamae"
+msgid "So, have you gotten the hang of the job yet?"
+msgstr ""
+
+msgctxt "584_Kiryu"
+msgid "No, I still have plenty to learn."
+msgstr ""
+
+msgctxt "596_Passenger"
+msgid "Yeah, I imagine it takes time."
+msgstr ""
+
+msgctxt "608_Kiryu"
+msgid "What sort of work do you do?"
+msgstr ""
+
+msgctxt "620_Passenger"
+msgid ""
+"Me? I'm more of a glorified security guard than anything... Never mind "
+"that, though. Different subject."
+msgstr ""
+
+msgctxt "632_Kiryu"
+msgid "Sure."
+msgstr ""
+
+msgctxt "644_Passenger"
+msgid "What's your favorite Hakata food so far?"
+msgstr ""
+
+msgctxt "656_SS1_M_NML_TAX_kamae"
+msgid "Well, I tried mizutaki the other day, and it was delicious."
+msgstr ""
+
+msgctxt "668_Passenger"
+msgid ""
+"Yeah, it's pretty tasty, isn't it? Goes well with sake, so it's perfect for "
+"those who like their drink. You a big drinker?"
+msgstr ""
+
+msgctxt "680_Kiryu"
+msgid "Oh, I'll have a drink every now and then."
+msgstr ""
+
+msgctxt "692_SS1_M_NML_TAX_kamae"
+msgid "I'd have to say Hakata ramen."
+msgstr ""
+
+msgctxt "704_Passenger"
+msgid ""
+"Ah, Hakata ramen's a classic. Each restaurant has its own take on the "
+"standard tonkotsu broth. You should try out as many different places as you "
+"can."
+msgstr ""
+
+msgctxt "716_Kiryu"
+msgid "I might just do that."
+msgstr ""
+
+msgctxt "728_SS1_M_NML_TAX_kamae"
+msgid "Do you even need to ask? It's gotta be takoyaki."
+msgstr ""
+
+msgctxt "740_Passenger"
+msgid ""
+"Hey, takoyaki's a Kansai thing! Don't get us confused.\r\n"
+"And what's with the attitude all of a sudden?"
+msgstr ""
+
+msgctxt "752_Kiryu"
+msgid "Sorry. I don't know what came over me..."
+msgstr ""
+
+msgctxt "764_Passenger"
+msgid "You're a strange one, aren't you..."
+msgstr ""
+
+msgctxt "776_SS1_M_NML_TAX_kamae"
+msgid "Oh, hey, you know what you should try next? <Italic>Gameni.</Italic>"
+msgstr ""
+
+msgctxt "788_Kiryu"
+msgid "Gameni...? Never heard of that one. Is it any good?"
+msgstr ""
+
+msgctxt "800_Passenger"
+msgid ""
+"Why sure. You might hear some people call it <Italic>chikuzenni</Italic>.\r\n"
+"Anyway, it's a chicken and vegetable stew."
+msgstr ""
+
+msgctxt "812_Passenger"
+msgid "We always have it at New Year's－"
+msgstr ""
+
+msgctxt "836_SS1_M_NML_TAX_kamae"
+msgid "Augh!"
+msgstr ""
+
+msgctxt "860_SS1_M_NML_TAX_kamae"
+msgid "Damn!"
+msgstr ""
+
+msgctxt "872_Passenger"
+msgid "What happened!?"
+msgstr ""
+
+msgctxt "884_Kiryu"
+msgid ""
+"The car behind us sped up all of a sudden and tried to run us off the road. "
+"Are you all right, sir?"
+msgstr ""
+
+msgctxt "896_Passenger"
+msgid ""
+"I'm fine. But that car... It looks like they're one of the <Color:7>Devil "
+"Killers<Color:Default>!"
+msgstr ""
+
+msgctxt "908_Kiryu"
+msgid "<Color:7>Devil Killers<Color:Default>?"
+msgstr ""
+
+msgctxt "920_Passenger"
+msgid "Street racers who cause nothing but trouble."
+msgstr ""
+
+msgctxt "932_Passenger"
+msgid ""
+"They challenge people on the road and shake them down for money if they "
+"lose. Happened to a lot of people already."
+msgstr ""
+
+msgctxt "944_Kiryu"
+msgid ""
+"(That punk from earlier said he was with the Devil Killers, now that I "
+"think back on it. I didn't realize they were this much of a menace.)"
+msgstr ""
+
+msgctxt "956_Passenger"
+msgid "Now they've decided to pick on a local taxi? Bunch of goddamn lunatics..."
+msgstr ""
+
+msgctxt "968_Passenger"
+msgid ""
+"You know what, though. A professional driver like you should be more than "
+"capable of handling them. Go ahead and take them on."
+msgstr ""
+
+msgctxt "980_Kiryu"
+msgid "I don't know if that's a good idea..."
+msgstr ""
+
+msgctxt "992_Passenger"
+msgid ""
+"I didn't tell you, but I'm actually with the motor patrol unit of the "
+"Fukuoka Police."
+msgstr ""
+
+msgctxt "1004_Kiryu"
+msgid "What? You're an officer?"
+msgstr ""
+
+msgctxt "1016_Passenger"
+msgid ""
+"Yeah, and not the kind who sits back on his ass while\r\n"
+"a bunch of little shits pretend like they own the road."
+msgstr ""
+
+msgctxt "1028_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "1040_Passenger"
+msgid ""
+"Driver, you have my permission. We need to take a stand\r\n"
+"against these reckless criminals if we want to keep the\r\n"
+"streets safe for our citizens!"
+msgstr ""
+
+msgctxt "1052_Kiryu"
+msgid ""
+"I can't guarantee this will turn out how you want...\r\n"
+"but I might as well give it a shot."
+msgstr ""
+
+msgctxt "1064_Passenger"
+msgid "Great! Let's burn some rubber!"
+msgstr ""
+
+msgctxt "1076_Kiryu"
+msgid "Here goes nothing."
+msgstr ""

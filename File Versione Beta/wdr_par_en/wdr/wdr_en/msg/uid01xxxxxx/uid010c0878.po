@@ -1,0 +1,486 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1232"
+msgid "You got 2,200 experience points."
+msgstr ""
+
+msgctxt "20852"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "20856"
+msgid "Nakajima"
+msgstr ""
+
+msgctxt "20860"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "20864"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "20868"
+msgid "M_nml_sitchr"
+msgstr ""
+
+msgctxt "20872"
+msgid "SitChair_lp"
+msgstr ""
+
+msgctxt "20876"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "20880"
+msgid "Player"
+msgstr ""
+
+msgctxt "20884"
+msgid "P_SIN_stand"
+msgstr ""
+
+msgctxt "20888"
+msgid "ACYAM0000"
+msgstr ""
+
+msgctxt "20892"
+msgid "Unidentified Caller"
+msgstr ""
+
+msgctxt "20896"
+msgid "Devil Takamura"
+msgstr ""
+
+msgctxt "20900"
+msgid "Takamura"
+msgstr ""
+
+msgctxt "20904"
+msgid "Talk_Phone_no"
+msgstr ""
+
+msgctxt "20908"
+msgid "Talk_Phone_yes"
+msgstr ""
+
+msgctxt "20912"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "20916"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "20920"
+msgid "Wada"
+msgstr ""
+
+msgctxt "20924"
+msgid "Kiyokawa"
+msgstr ""
+
+msgctxt "20928"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "20932"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "20936"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "20940"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "44_Kiryu"
+msgid "I'm back."
+msgstr ""
+
+msgctxt "56_Kiryu"
+msgid "Hey there. I hear you were out showin' Kiyokawa-kun the ropes today, huh?"
+msgstr ""
+
+msgctxt "68_Kiryu"
+msgid "No, today I was up against the Devil Killers."
+msgstr ""
+
+msgctxt "80_Nakajima"
+msgid ""
+"Oh? That thing you were doing for the local police? Don't get into any "
+"accidents, y'hear?"
+msgstr ""
+
+msgctxt "104_Kiryu"
+msgid "...Chief, I need to ask you something."
+msgstr ""
+
+msgctxt "116_Nakajima"
+msgid "Hmm? And what's that?"
+msgstr ""
+
+msgctxt "128_Kiryu"
+msgid "Is it true you were the one who founded the Devil Killers?"
+msgstr ""
+
+msgctxt "140_Nakajima"
+msgid "...Where'd ya hear that?"
+msgstr ""
+
+msgctxt "152_Kiryu"
+msgid "From Gentle Nakamura, the guy I just raced."
+msgstr ""
+
+msgctxt "164_Nakajima"
+msgid ""
+"...Looks like the cat's out of the bag. I was thinkin' to have a sit-down "
+"with ya one of these days... might as well be now."
+msgstr ""
+
+msgctxt "236_Kiryu"
+msgid ""
+"When yer young, ya have time to do whatever your heart desires. For me, "
+"that was cars. I loved 'em more than anything... well, just about."
+msgstr ""
+
+msgctxt "248_Nakajima"
+msgid ""
+"Before I knew it, there were a whole bunch of us, motorheads to the core. "
+"So I decided to form the Devil Killers."
+msgstr ""
+
+msgctxt "260_Nakajima"
+msgid "We'd race day and night, tryin' to shave seconds off our best times."
+msgstr ""
+
+msgctxt "272_Nakajima"
+msgid "We all knew the dangers of racin' on the highway. But we were careful."
+msgstr ""
+
+msgctxt "284_Nakajima"
+msgid ""
+"We tracked down the best spots, found out when there was the least "
+"traffic... We even posted lookouts with walkie-talkies."
+msgstr ""
+
+msgctxt "296_Nakajima"
+msgid ""
+"We were a close-knit bunch. It wasn't long before we gained a reputation... "
+"as the fastest boys in town."
+msgstr ""
+
+msgctxt "308_Nakajima"
+msgid ""
+"My Devil Killers days... that was the prime of my life. Can ya imagine? "
+"This old, gnarled stump of a tree once had leaves up top. Hahaha..."
+msgstr ""
+
+msgctxt "320_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "332_Nakajima"
+msgid ""
+"Anyhow. As with anything, time was never on our side. With each passin' "
+"generation, the glue that held the crew together seemed to be dissolvin'. "
+"And now look at 'em."
+msgstr ""
+
+msgctxt "344_Nakajima"
+msgid ""
+"They drive like reckless maniacs－no regard for safety whatsoever. Then they "
+"brought gamblin' on board."
+msgstr ""
+
+msgctxt "356_Nakajima"
+msgid ""
+"When it comes down to it, there ain't hardly nothin' left\r\n"
+"of the vision I once had. Only greed and ill gain remain."
+msgstr ""
+
+msgctxt "368_Nakajima"
+msgid ""
+"People shouldn't hafta suffer because of it. Racing was about the thrill, "
+"not... not <Italic>this.</Italic>"
+msgstr ""
+
+msgctxt "380_Nakajima"
+msgid "...Listen up, Suzuki-san. There's somethin' I wanna ask ya."
+msgstr ""
+
+msgctxt "392_Kiryu"
+msgid "Yes?"
+msgstr ""
+
+msgctxt "404_Nakajima"
+msgid "I want ya to break up the Devil Killers... Can ya do that for me?"
+msgstr ""
+
+msgctxt "416_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "440_Nakajima"
+msgid "That your phone? Better see who it is."
+msgstr ""
+
+msgctxt "452_Player"
+msgid "Sorry, one moment."
+msgstr ""
+
+msgctxt "476_Player"
+msgid "Hello?"
+msgstr ""
+
+msgctxt "488_Unidentified Caller"
+msgid "What up, Suzuki-san?"
+msgstr ""
+
+msgctxt "500_Kiryu"
+msgid "...Who is this?"
+msgstr ""
+
+msgctxt "512_Devil Takamura"
+msgid ""
+"The last of the Four Kings. Technically, the fifth to lead the Devil "
+"Killers. Long story short, I'm Devil Takamura."
+msgstr ""
+
+msgctxt "524_Kiryu"
+msgid "How did you get this number?"
+msgstr ""
+
+msgctxt "536_Takamura"
+msgid "Hah, wouldn't you like to know."
+msgstr ""
+
+msgctxt "548_Kiryu"
+msgid "...What is it you want?"
+msgstr ""
+
+msgctxt "560_Takamura"
+msgid "Mm, see, you've been preying on my teammates lately."
+msgstr ""
+
+msgctxt "572_Takamura"
+msgid "And, thanks to a taxi driver of all people, they've been on a losing streak."
+msgstr ""
+
+msgctxt "584_Takamura"
+msgid "It'd be bad if word got around, so... Someone's gotta nip that in the bud."
+msgstr ""
+
+msgctxt "596_Kiryu"
+msgid "I don't see why. Let the people know the truth."
+msgstr ""
+
+msgctxt "608_Takamura"
+msgid "Yeah, I don't think so."
+msgstr ""
+
+msgctxt "620_Takamura"
+msgid ""
+"Our livelihood depends on our rep. Take that away, you take away our "
+"business. Get me?"
+msgstr ""
+
+msgctxt "632_Kiryu"
+msgid "That's what you get for basing your business on extortion."
+msgstr ""
+
+msgctxt "644_Takamura"
+msgid "Psh... Say what you like. Either way, we need to get back our good name."
+msgstr ""
+
+msgctxt "656_Takamura"
+msgid ""
+"I'm thinking on, like, a major scale. So... Let's hold a race, with "
+"spectators and all."
+msgstr ""
+
+msgctxt "668_Takamura"
+msgid ""
+"How 'bout it? Me against you. Or are you afraid to get your ass handed to "
+"you?"
+msgstr ""
+
+msgctxt "680_Kiryu"
+msgid "No, I refuse to be part of a circus act."
+msgstr ""
+
+msgctxt "692_Takamura"
+msgid "You should wait to hear my offer."
+msgstr ""
+
+msgctxt "704_Takamura"
+msgid ""
+"I'm assuming Nakajima－wimp that he is－asked you to dismantle the Devil "
+"Killers. Am I right?"
+msgstr ""
+
+msgctxt "716_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "728_Takamura"
+msgid "Thought so."
+msgstr ""
+
+msgctxt "740_Kiryu"
+msgid ""
+"What, are you saying you'll disband the Devil Killers if I beat you in a "
+"race?"
+msgstr ""
+
+msgctxt "752_Takamura"
+msgid "That's exactly what I'm sayin'."
+msgstr ""
+
+msgctxt "764_Takamura"
+msgid ""
+"Whoever rules the road makes the rules. In other words, the fastest guy "
+"calls the shots. That's always been our way."
+msgstr ""
+
+msgctxt "776_Kiryu"
+msgid "...Fine. You'll get your race."
+msgstr ""
+
+msgctxt "788_Kiryu"
+msgid ""
+"And just so you know, I don't take kindly to people who go back on their "
+"word."
+msgstr ""
+
+msgctxt "800_Takamura"
+msgid ""
+"Of course. Wouldn't expect you to. But just so <Italic>you</Italic> know, "
+"there's a reason I'm in charge of the Devil Killers."
+msgstr ""
+
+msgctxt "812_Takamura"
+msgid "You better be prepared, old man."
+msgstr ""
+
+msgctxt "908_Nakajima"
+msgid "So... this Devil Takamura says he'll break up the team if you win?"
+msgstr ""
+
+msgctxt "920_Kiryu"
+msgid "That's the long and short of it."
+msgstr ""
+
+msgctxt "932_Nakajima"
+msgid ""
+"So the bad seeds I sowed way back when have sprouted into\r\n"
+"weeds, tanglin' up the new generation... I'm ashamed."
+msgstr ""
+
+msgctxt "944_Kiryu"
+msgid ""
+"Don't be so hard on yourself. But I do have to ask... are you really okay "
+"having such a big part of your past gone for good?"
+msgstr ""
+
+msgctxt "956_Nakajima"
+msgid "...I don't mind. The ones I care about most are all right here beside me."
+msgstr ""
+
+msgctxt "968_Nakajima"
+msgid "Ain't that right, Wada-chan!?"
+msgstr ""
+
+msgctxt "980_Wada"
+msgid "You bet, leader."
+msgstr ""
+
+msgctxt "992_Kiyokawa"
+msgid "Wada-san... Don't tell me <Italic>you</Italic> were a Devil Killer, too!"
+msgstr ""
+
+msgctxt "1004_Wada"
+msgid "Yep, as were some of the older drivers."
+msgstr ""
+
+msgctxt "1016_Kiyokawa"
+msgid "Wow! I guess that means I'm part of an elite team here! That's bitchin'."
+msgstr ""
+
+msgctxt "1028_Nakajima"
+msgid ""
+"From what I hear, Suzuki-san, that Devil Takamura's as quick as they come. "
+"Don't go out there without a plan."
+msgstr ""
+
+msgctxt "1040_Kiryu"
+msgid "I'll keep that in mind."
+msgstr ""
+
+msgctxt "1052_Nakajima"
+msgid "Then, without further ado... Boys, let's get back to it!"
+msgstr ""
+
+msgctxt "1064_Kiryu"
+msgid "Before that, can I ask one thing?"
+msgstr ""
+
+msgctxt "1076_Nakajima"
+msgid "Hmm?"
+msgstr ""
+
+msgctxt "1088_Kiryu"
+msgid "Why did you leave street racing? And the Devil Killers?"
+msgstr ""
+
+msgctxt "1100_Nakajima"
+msgid "......"
+msgstr ""
+
+msgctxt "1112_Kiryu"
+msgid "They meant everything to you, didn't they?"
+msgstr ""
+
+msgctxt "1124_Nakajima"
+msgid "Well..."
+msgstr ""
+
+msgctxt "1136_Wada"
+msgid ""
+"I think you oughta leave it there, Suzuki-san. I'm sure you\r\n"
+"have some things in your life you'd rather keep close to\r\n"
+"your chest, no?"
+msgstr ""
+
+msgctxt "1160_Kiryu"
+msgid "...Sorry. That was rude of me."
+msgstr ""
+
+msgctxt "1172_Nakajima"
+msgid "Naw... you were just curious. I should be the one apologizin'."
+msgstr ""
+
+msgctxt "1184_Wada"
+msgid ""
+"Okay, everyone, why don't we all just drive safely, give it our best, and "
+"leave the heavy stuff behind, huh? Sounds like a plan to me!"
+msgstr ""
+
+msgctxt "1208_Kiryu"
+msgid ""
+"(Devil Takamura... No doubt you'll be my toughest opponent yet. But make no "
+"mistake, I won't go down so easy.)"
+msgstr ""

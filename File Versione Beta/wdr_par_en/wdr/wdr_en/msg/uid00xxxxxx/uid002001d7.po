@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "5516"
+msgid "Employee"
+msgstr ""
+
+msgctxt "5520"
+msgid "dummy"
+msgstr ""
+
+msgctxt "5524"
+msgid "Craft Weapons"
+msgstr ""
+
+msgctxt "5528"
+msgid "Craft Protective Gear"
+msgstr ""
+
+msgctxt "5532"
+msgid "Purchase Items"
+msgstr ""
+
+msgctxt "5536"
+msgid "Repair or Reload Equipment"
+msgstr ""
+
+msgctxt "5540"
+msgid "Invest"
+msgstr ""
+
+msgctxt "5544"
+msgid "About Kamiyama Works"
+msgstr ""
+
+msgctxt "5548"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "5552"
+msgid "Cash"
+msgstr ""
+
+msgctxt "5556"
+msgid "Items"
+msgstr ""
+
+msgctxt "5560"
+msgid "What is Kamiyama Works?"
+msgstr ""
+
+msgctxt "5564"
+msgid "How do you craft equipment?"
+msgstr ""
+
+msgctxt "5568"
+msgid "How does investing work?"
+msgstr ""
+
+msgctxt "5572"
+msgid "I'm good for now."
+msgstr ""
+
+msgctxt "5576"
+msgid "Crafting Weapons and Equipment"
+msgstr ""
+
+msgctxt "5580"
+msgid "Weapon Skill Requirements"
+msgstr ""
+
+msgctxt "5584"
+msgid "Investing"
+msgstr ""
+
+msgctxt "5588"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "44_Employee"
+msgid ""
+"Howdy. This is the Sotenbori Branch of Kamiyama Works. How can I serve you "
+"today?"
+msgstr ""
+
+msgctxt "104_Employee"
+msgid "Great. I'll let Kamiyama know about your investment. What will it be?"
+msgstr ""
+
+msgctxt "152_Employee"
+msgid "What do you want to know about?"
+msgstr ""
+
+msgctxt "164_Employee"
+msgid ""
+"Kamiyama Works is a custom weapon and gear shop operated by the Kamiyama "
+"brothers. They craft a wide variety of equipment for a fee. Better weapons "
+"and protective gear will improve your chances against tough foes."
+msgstr ""
+
+msgctxt "176_Employee"
+msgid ""
+"Weapons have limited durability－once durability drops to zero, the weapon "
+"becomes unusable until it is <Color:7>repaired or reloaded<Color:Default> "
+"at a Kamiyama Works shop or with a <Color:7>Repair Kit<Color:Default>. (You "
+"will not lose the weapon if its durability is depleted.)"
+msgstr ""
+
+msgctxt "188_Employee"
+msgid ""
+"For the most part, equipment is produced in exchange for money. Some "
+"require additional materials.\r\n"
+"The range of offerings widens as the <Color:7>shop level<Color:Default> "
+"rises. The shop level can be raised by <Color:7>investing<Color:Default> in "
+"the shop."
+msgstr ""
+
+msgctxt "200_Employee"
+msgid ""
+"All weapons are ranked (indicated by stars). The number of stars indicates "
+"the <Color:7>weapon skill level needed to equip the weapon<Color:Default>. "
+"You can view weapon skill levels under Abilities in the Pause Menu."
+msgstr ""
+
+msgctxt "212_Employee"
+msgid ""
+"You can invest in Kamiyama Works by selecting "
+"<Color:7>Invest<Color:Default> from Kamiyama's menu. Investing raises the "
+"shop level, enabling the crafting of better weapons and protective gear."
+msgstr ""
+
+msgctxt "224_Employee"
+msgid ""
+"Some weapons and protective gear become available only if certain materials "
+"are donated as investments. Kamiyama Works will accept any item as an "
+"investment."
+msgstr ""
+
+msgctxt "236_Employee"
+msgid "Can I do anything else for you?"
+msgstr ""
+
+msgctxt "248_Employee"
+msgid "You know where to find us if you need anything."
+msgstr ""

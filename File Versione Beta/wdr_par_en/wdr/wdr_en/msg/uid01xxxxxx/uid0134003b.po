@@ -1,0 +1,1983 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "56116"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "56120"
+msgid "Hinata"
+msgstr ""
+
+msgctxt "56124"
+msgid "cab_hinata_w_01/hinata_22_0001"
+msgstr ""
+
+msgctxt "56128"
+msgid "○That's too bad."
+msgstr ""
+
+msgctxt "56132"
+msgid "□Maybe that's for the best."
+msgstr ""
+
+msgctxt "56136"
+msgid "△Greener pastures?"
+msgstr ""
+
+msgctxt "56140"
+msgid "cab_hinata_w_01/hinata_22_0002"
+msgstr ""
+
+msgctxt "56144"
+msgid "cab_hinata_w_01/hinata_22_0003"
+msgstr ""
+
+msgctxt "56148"
+msgid "F_CAB_TLK_sitsofa_no_02"
+msgstr ""
+
+msgctxt "56152"
+msgid "cab_hinata_w_01/hinata_22_0004"
+msgstr ""
+
+msgctxt "56156"
+msgid "cab_hinata_w_01/hinata_22_0005"
+msgstr ""
+
+msgctxt "56160"
+msgid "cab_hinata_w_01/hinata_22_0006"
+msgstr ""
+
+msgctxt "56164"
+msgid "F_CAB_TLK_sitsofa_think"
+msgstr ""
+
+msgctxt "56168"
+msgid "cab_hinata_w_01/hinata_22_0007"
+msgstr ""
+
+msgctxt "56172"
+msgid "cab_hinata_w_01/hinata_22_0008"
+msgstr ""
+
+msgctxt "56176"
+msgid "○Not a bad idea."
+msgstr ""
+
+msgctxt "56180"
+msgid "□It's the same everywhere."
+msgstr ""
+
+msgctxt "56184"
+msgid "cab_hinata_w_01/hinata_22_0009"
+msgstr ""
+
+msgctxt "56188"
+msgid "○Of course I do."
+msgstr ""
+
+msgctxt "56192"
+msgid "□I prefer it being less busy."
+msgstr ""
+
+msgctxt "56196"
+msgid "F_CAB_TLK_sitsofa_laugh_m"
+msgstr ""
+
+msgctxt "56200"
+msgid "cab_hinata_w_01/hinata_22_0010"
+msgstr ""
+
+msgctxt "56204"
+msgid "cab_hinata_w_01/hinata_22_0011"
+msgstr ""
+
+msgctxt "56208"
+msgid "cab_hinata_w_01/hinata_22_0012"
+msgstr ""
+
+msgctxt "56212"
+msgid "cab_hinata_w_01/hinata_22_0013"
+msgstr ""
+
+msgctxt "56216"
+msgid "cab_hinata_w_01/hinata_22_0014"
+msgstr ""
+
+msgctxt "56220"
+msgid "○That's sad to hear."
+msgstr ""
+
+msgctxt "56224"
+msgid "□I wasn't aware."
+msgstr ""
+
+msgctxt "56228"
+msgid "△Will you go too?"
+msgstr ""
+
+msgctxt "56232"
+msgid "cab_hinata_w_01/hinata_22_0015"
+msgstr ""
+
+msgctxt "56236"
+msgid "F_CAB_TLK_sitsofa_shigusa_01"
+msgstr ""
+
+msgctxt "56240"
+msgid "cab_hinata_w_01/hinata_22_0016"
+msgstr ""
+
+msgctxt "56244"
+msgid "cab_hinata_w_01/hinata_22_0017"
+msgstr ""
+
+msgctxt "56248"
+msgid "cab_hinata_w_01/hinata_22_0018"
+msgstr ""
+
+msgctxt "56252"
+msgid "cab_hinata_w_01/hinata_22_0019"
+msgstr ""
+
+msgctxt "56256"
+msgid "cab_hinata_w_02/hinata_23_0001"
+msgstr ""
+
+msgctxt "56260"
+msgid "F_CAB_TLK_sitsofa_sorry"
+msgstr ""
+
+msgctxt "56264"
+msgid "cab_hinata_w_02/hinata_23_0002"
+msgstr ""
+
+msgctxt "56268"
+msgid "cab_hinata_w_02/hinata_23_0003"
+msgstr ""
+
+msgctxt "56272"
+msgid "○Kind of."
+msgstr ""
+
+msgctxt "56276"
+msgid "□Should I be?"
+msgstr ""
+
+msgctxt "56280"
+msgid "△You're lying."
+msgstr ""
+
+msgctxt "56284"
+msgid "cab_hinata_w_02/hinata_23_0004"
+msgstr ""
+
+msgctxt "56288"
+msgid "cab_hinata_w_02/hinata_23_0005"
+msgstr ""
+
+msgctxt "56292"
+msgid "cab_hinata_w_02/hinata_23_0006"
+msgstr ""
+
+msgctxt "56296"
+msgid "F_CAB_TLK_sitsofa_resit"
+msgstr ""
+
+msgctxt "56300"
+msgid "cab_hinata_w_02/hinata_23_0007"
+msgstr ""
+
+msgctxt "56304"
+msgid "cab_hinata_w_02/hinata_23_0008"
+msgstr ""
+
+msgctxt "56308"
+msgid "cab_hinata_w_02/hinata_23_0009"
+msgstr ""
+
+msgctxt "56312"
+msgid "○That's not good."
+msgstr ""
+
+msgctxt "56316"
+msgid "□What's wrong with that?"
+msgstr ""
+
+msgctxt "56320"
+msgid "△That's not true."
+msgstr ""
+
+msgctxt "56324"
+msgid "cab_hinata_w_02/hinata_23_0010"
+msgstr ""
+
+msgctxt "56328"
+msgid "cab_hinata_w_02/hinata_23_0011"
+msgstr ""
+
+msgctxt "56332"
+msgid "cab_hinata_w_02/hinata_23_0012"
+msgstr ""
+
+msgctxt "56336"
+msgid "□Not really."
+msgstr ""
+
+msgctxt "56340"
+msgid "cab_hinata_w_02/hinata_23_0013"
+msgstr ""
+
+msgctxt "56344"
+msgid "cab_hinata_w_02/hinata_23_0014"
+msgstr ""
+
+msgctxt "56348"
+msgid "F_CAB_TLK_sitsofa_omoituku"
+msgstr ""
+
+msgctxt "56352"
+msgid "cab_hinata_w_02/hinata_23_0015"
+msgstr ""
+
+msgctxt "56356"
+msgid "cab_hinata_w_02/hinata_23_0016"
+msgstr ""
+
+msgctxt "56360"
+msgid "○Seriously?"
+msgstr ""
+
+msgctxt "56364"
+msgid "□Don't do that."
+msgstr ""
+
+msgctxt "56368"
+msgid "cab_hinata_w_02/hinata_23_0017"
+msgstr ""
+
+msgctxt "56372"
+msgid "cab_hinata_w_02/hinata_23_0018"
+msgstr ""
+
+msgctxt "56376"
+msgid "△Don't you have a concert?"
+msgstr ""
+
+msgctxt "56380"
+msgid "cab_hinata_w_02/hinata_23_0019"
+msgstr ""
+
+msgctxt "56384"
+msgid "cab_hinata_w_03/hinata_24_0001"
+msgstr ""
+
+msgctxt "56388"
+msgid "○Must be my imagination."
+msgstr ""
+
+msgctxt "56392"
+msgid "□No, it's true."
+msgstr ""
+
+msgctxt "56396"
+msgid "△I don't mean looks."
+msgstr ""
+
+msgctxt "56400"
+msgid "cab_hinata_w_03/hinata_24_0002"
+msgstr ""
+
+msgctxt "56404"
+msgid "cab_hinata_w_03/hinata_24_0003"
+msgstr ""
+
+msgctxt "56408"
+msgid "cab_hinata_w_03/hinata_24_0004"
+msgstr ""
+
+msgctxt "56412"
+msgid "cab_hinata_w_03/hinata_24_0005"
+msgstr ""
+
+msgctxt "56416"
+msgid "cab_hinata_w_03/hinata_24_0006"
+msgstr ""
+
+msgctxt "56420"
+msgid "○Really?"
+msgstr ""
+
+msgctxt "56424"
+msgid "□That can't be true."
+msgstr ""
+
+msgctxt "56428"
+msgid "cab_hinata_w_03/hinata_24_0007"
+msgstr ""
+
+msgctxt "56432"
+msgid "cab_hinata_w_03/hinata_24_0008"
+msgstr ""
+
+msgctxt "56436"
+msgid "F_CAB_TLK_sitsofa_maenomeri"
+msgstr ""
+
+msgctxt "56440"
+msgid "cab_hinata_w_03/hinata_24_0009"
+msgstr ""
+
+msgctxt "56444"
+msgid "○Yeah."
+msgstr ""
+
+msgctxt "56448"
+msgid "□No."
+msgstr ""
+
+msgctxt "56452"
+msgid "△I like both."
+msgstr ""
+
+msgctxt "56456"
+msgid "cab_hinata_w_03/hinata_24_0010"
+msgstr ""
+
+msgctxt "56460"
+msgid "cab_hinata_w_03/hinata_24_0011"
+msgstr ""
+
+msgctxt "56464"
+msgid "cab_hinata_w_03/hinata_24_0012"
+msgstr ""
+
+msgctxt "56468"
+msgid "cab_hinata_w_03/hinata_24_0013"
+msgstr ""
+
+msgctxt "56472"
+msgid "cab_hinata_w_03/hinata_24_0014"
+msgstr ""
+
+msgctxt "56476"
+msgid "○I suppose."
+msgstr ""
+
+msgctxt "56480"
+msgid "□You can't ignore it."
+msgstr ""
+
+msgctxt "56484"
+msgid "cab_hinata_w_03/hinata_24_0015"
+msgstr ""
+
+msgctxt "56488"
+msgid "cab_hinata_w_03/hinata_24_0016"
+msgstr ""
+
+msgctxt "56492"
+msgid "Riku"
+msgstr ""
+
+msgctxt "56496"
+msgid "cab_hinata_u_01/hinata_30_0001"
+msgstr ""
+
+msgctxt "56500"
+msgid "cab_hinata_u_01/hinata_30_0002"
+msgstr ""
+
+msgctxt "56504"
+msgid "cab_hinata_u_01/hinata_30_0003"
+msgstr ""
+
+msgctxt "56508"
+msgid "cab_hinata_u_01/hinata_30_0004"
+msgstr ""
+
+msgctxt "56512"
+msgid "cab_hinata_u_01/hinata_30_0005"
+msgstr ""
+
+msgctxt "56516"
+msgid "F_CAB_TLK_sitsofa_yes_02"
+msgstr ""
+
+msgctxt "56520"
+msgid "cab_hinata_u_01/hinata_30_0006"
+msgstr ""
+
+msgctxt "56524"
+msgid "cab_hinata_u_01/hinata_30_0007"
+msgstr ""
+
+msgctxt "56528"
+msgid "cab_hinata_u_01/hinata_30_0008"
+msgstr ""
+
+msgctxt "56532"
+msgid "cab_hinata_u_01/hinata_30_0009"
+msgstr ""
+
+msgctxt "56536"
+msgid "cab_hinata_u_01/hinata_30_0010"
+msgstr ""
+
+msgctxt "56540"
+msgid "cab_hinata_u_01/hinata_30_0011"
+msgstr ""
+
+msgctxt "56544"
+msgid "cab_hinata_u_01/hinata_30_0012"
+msgstr ""
+
+msgctxt "56548"
+msgid "cab_hinata_u_02/hinata_31_0001"
+msgstr ""
+
+msgctxt "56552"
+msgid "cab_hinata_u_02/hinata_31_0002"
+msgstr ""
+
+msgctxt "56556"
+msgid "cab_hinata_u_02/hinata_31_0003"
+msgstr ""
+
+msgctxt "56560"
+msgid "cab_hinata_u_02/hinata_31_0004"
+msgstr ""
+
+msgctxt "56564"
+msgid "cab_hinata_u_02/hinata_31_0005"
+msgstr ""
+
+msgctxt "56568"
+msgid "cab_hinata_u_02/hinata_31_0006"
+msgstr ""
+
+msgctxt "56572"
+msgid "cab_hinata_u_02/hinata_31_0007"
+msgstr ""
+
+msgctxt "56576"
+msgid "cab_hinata_u_02/hinata_31_0008"
+msgstr ""
+
+msgctxt "56580"
+msgid "cab_hinata_u_02/hinata_31_0009"
+msgstr ""
+
+msgctxt "56584"
+msgid "cab_hinata_u_02/hinata_31_0010"
+msgstr ""
+
+msgctxt "56588"
+msgid "cab_hinata_u_03/hinata_32_0001"
+msgstr ""
+
+msgctxt "56592"
+msgid "cab_hinata_u_03/hinata_32_0002"
+msgstr ""
+
+msgctxt "56596"
+msgid "cab_hinata_u_03/hinata_32_0003"
+msgstr ""
+
+msgctxt "56600"
+msgid "cab_hinata_u_03/hinata_32_0004"
+msgstr ""
+
+msgctxt "56604"
+msgid "cab_hinata_u_03/hinata_32_0005"
+msgstr ""
+
+msgctxt "56608"
+msgid "cab_hinata_u_03/hinata_32_0006"
+msgstr ""
+
+msgctxt "56612"
+msgid "cab_hinata_u_03/hinata_32_0007"
+msgstr ""
+
+msgctxt "56616"
+msgid "cab_hinata_u_03/hinata_32_0008"
+msgstr ""
+
+msgctxt "56620"
+msgid "cab_hinata_u_03/hinata_32_0009"
+msgstr ""
+
+msgctxt "56624"
+msgid "cab_hinata_u_03/hinata_32_0010"
+msgstr ""
+
+msgctxt "56628"
+msgid "cab_hinata_u_03/hinata_32_0011"
+msgstr ""
+
+msgctxt "56632"
+msgid "cab_hinata_u_04/hinata_33_0001"
+msgstr ""
+
+msgctxt "56636"
+msgid "cab_hinata_u_04/hinata_33_0002"
+msgstr ""
+
+msgctxt "56640"
+msgid "cab_hinata_u_04/hinata_33_0003"
+msgstr ""
+
+msgctxt "56644"
+msgid "cab_hinata_u_04/hinata_33_0004"
+msgstr ""
+
+msgctxt "56648"
+msgid "cab_hinata_u_04/hinata_33_0005"
+msgstr ""
+
+msgctxt "56652"
+msgid "cab_hinata_u_04/hinata_33_0006"
+msgstr ""
+
+msgctxt "56656"
+msgid "cab_hinata_u_04/hinata_33_0007"
+msgstr ""
+
+msgctxt "56660"
+msgid "cab_hinata_u_04/hinata_33_0008"
+msgstr ""
+
+msgctxt "56664"
+msgid "cab_hinata_u_04/hinata_33_0009"
+msgstr ""
+
+msgctxt "56668"
+msgid "cab_hinata_u_04/hinata_33_0010"
+msgstr ""
+
+msgctxt "56672"
+msgid "cab_hinata_u_04/hinata_33_0011"
+msgstr ""
+
+msgctxt "56676"
+msgid "cab_hinata_u_05/hinata_34_0001"
+msgstr ""
+
+msgctxt "56680"
+msgid "cab_hinata_u_05/hinata_34_0002"
+msgstr ""
+
+msgctxt "56684"
+msgid "cab_hinata_u_05/hinata_34_0003"
+msgstr ""
+
+msgctxt "56688"
+msgid "cab_hinata_u_05/hinata_34_0004"
+msgstr ""
+
+msgctxt "56692"
+msgid "cab_hinata_u_05/hinata_34_0005"
+msgstr ""
+
+msgctxt "56696"
+msgid "cab_hinata_u_05/hinata_34_0006"
+msgstr ""
+
+msgctxt "56700"
+msgid "cab_hinata_u_05/hinata_34_0007"
+msgstr ""
+
+msgctxt "56704"
+msgid "cab_hinata_u_05/hinata_34_0008"
+msgstr ""
+
+msgctxt "56708"
+msgid "cab_hinata_u_05/hinata_34_0009"
+msgstr ""
+
+msgctxt "56712"
+msgid "cab_hinata_u_05/hinata_34_0010"
+msgstr ""
+
+msgctxt "56716"
+msgid "cab_hinata_u_05/hinata_34_0011"
+msgstr ""
+
+msgctxt "540_Kiryu"
+msgid ""
+"What's Kamurocho like these days? There doesn't seem to be as many people "
+"around anymore."
+msgstr ""
+
+msgctxt "552_Hinata"
+msgid ""
+"Yeah, a lot of stuff happened last year. Even the cabaret club clientele "
+"seems to have moved on to greener pastures."
+msgstr ""
+
+msgctxt "564_Kiryu"
+msgid ""
+"That's too bad. This neighborhood used to be a bastion of chaos, a tinge of "
+"danger always hanging in the air."
+msgstr ""
+
+msgctxt "576_Hinata"
+msgid "...Right. Well, now there's just a bunch of empty buildings."
+msgstr ""
+
+msgctxt "588_Hinata"
+msgid ""
+"They'll have signs up in the day, but if you go there at night, they're not "
+"open. There's only notices saying they've closed down."
+msgstr ""
+
+msgctxt "600_Kiryu"
+msgid "Really? Things are worse than I imagined."
+msgstr ""
+
+msgctxt "612_Kiryu"
+msgid ""
+"But maybe that's for the best. Kamurocho Hills being built is a sign the "
+"area's changing. Maybe there'll be more ordinary customers now."
+msgstr ""
+
+msgctxt "624_Hinata"
+msgid ""
+"No, it's not good at all! The economy's awful, so everyone's even more "
+"desperate than before. Creeps like club recruiters and barkers are just the "
+"worst now!"
+msgstr ""
+
+msgctxt "636_Hinata"
+msgid "I'm usually in a hurry to get to work, so I wish they'd leave me alone!"
+msgstr ""
+
+msgctxt "648_Kiryu"
+msgid "Right. The bad ones won't even let you pass."
+msgstr ""
+
+msgctxt "660_Hinata"
+msgid ""
+"Yeah, I hate it. I take underground tunnels all the way from the station. I "
+"barely even know the layout of the surface streets."
+msgstr ""
+
+msgctxt "672_Kiryu"
+msgid "I see."
+msgstr ""
+
+msgctxt "684_Hinata"
+msgid ""
+"I always thought the world of a hostess would be more glamorous, but it "
+"really is quite plain."
+msgstr ""
+
+msgctxt "696_Hinata"
+msgid ""
+"Maybe I'm better off trying to make my way in a flashier city, like Osaka "
+"or Nagoya."
+msgstr ""
+
+msgctxt "708_Kiryu"
+msgid "Not a bad idea. I hear Osaka is still doing pretty well."
+msgstr ""
+
+msgctxt "720_Hinata"
+msgid "Really!? Do you hit up all the trendy clubs in places like that, Kiryu-san?"
+msgstr ""
+
+msgctxt "732_Kiryu"
+msgid ""
+"Of course I do. Over the years I've had business all over the country, so I "
+"make sure to hit up the local cabaret clubs when I'm in town."
+msgstr ""
+
+msgctxt "744_Hinata"
+msgid ""
+"That's amazing! I wish everyone was more of a big player like you, "
+"Kiryu-san!"
+msgstr ""
+
+msgctxt "756_Kiryu"
+msgid "Are you complimenting me, or...?"
+msgstr ""
+
+msgctxt "768_Kiryu"
+msgid ""
+"I prefer when it's less busy. Empty clubs make it easier to get friendly "
+"with a girl."
+msgstr ""
+
+msgctxt "780_Hinata"
+msgid ""
+"Haha, I hear that! You have no competition, and the girls are super happy "
+"to see you."
+msgstr ""
+
+msgctxt "792_Kiryu"
+msgid "Still, this club is doing pretty well. There aren't many like this in Tokyo."
+msgstr ""
+
+msgctxt "804_Kiryu"
+msgid ""
+"It's the same everywhere. It's not only Kamurocho that's in a "
+"recession－it's all of Japan."
+msgstr ""
+
+msgctxt "816_Hinata"
+msgid "Aww. Why'd I have the rotten luck of hitting adulthood at such a lousy time?"
+msgstr ""
+
+msgctxt "828_Hinata"
+msgid "I wish I'd gotten to experience the bubble economy like you did, Kiryu-san."
+msgstr ""
+
+msgctxt "840_Kiryu"
+msgid ""
+"Now you sound like an old-timer. You just need to work at it harder, that's "
+"all."
+msgstr ""
+
+msgctxt "852_Kiryu"
+msgid "Greener pastures?"
+msgstr ""
+
+msgctxt "864_Hinata"
+msgid ""
+"You know, like Ginza or Roppongi. Lots of girls have moved out to places "
+"like that."
+msgstr ""
+
+msgctxt "876_Kiryu"
+msgid ""
+"That's sad to hear. I wish more people shared my affection for this part of "
+"town."
+msgstr ""
+
+msgctxt "888_Hinata"
+msgid ""
+"It can't be helped! Everyone's got to make a living, so of course they're "
+"going to go where the money is."
+msgstr ""
+
+msgctxt "900_Kiryu"
+msgid ""
+"I understand that. But for me, this is the city where all my dreams were "
+"formed."
+msgstr ""
+
+msgctxt "912_Kiryu"
+msgid "If this place dies out, I feel I may as well fade along with it."
+msgstr ""
+
+msgctxt "924_Hinata"
+msgid "Wow, Kiryu-san. You really do love Kamurocho, don't you?"
+msgstr ""
+
+msgctxt "936_Kiryu"
+msgid "Yes..."
+msgstr ""
+
+msgctxt "948_Kiryu"
+msgid ""
+"I wasn't aware. I figured those places were full of high-end clubs that "
+"only big spenders could afford."
+msgstr ""
+
+msgctxt "960_Hinata"
+msgid ""
+"There are lots of clubs like that, but there are plenty of affordable ones, "
+"too. It's sort of like Kamurocho not too long ago."
+msgstr ""
+
+msgctxt "972_Kiryu"
+msgid "I see. Maybe I should check it out sometime."
+msgstr ""
+
+msgctxt "984_Kiryu"
+msgid "Will you go, too?"
+msgstr ""
+
+msgctxt "996_Hinata"
+msgid "I don't know. Kamurocho is an easier commute from my house."
+msgstr ""
+
+msgctxt "1008_Hinata"
+msgid ""
+"I hang out around here a lot too, and it's nice to be able to have fun with "
+"friends before work."
+msgstr ""
+
+msgctxt "1020_Kiryu"
+msgid "Good point. Your personal life is important too."
+msgstr ""
+
+msgctxt "1032_Kiryu"
+msgid "Will you be at the club on Christmas Eve?"
+msgstr ""
+
+msgctxt "1044_Hinata"
+msgid "Why do you ask?"
+msgstr ""
+
+msgctxt "1056_Kiryu"
+msgid "Just curious."
+msgstr ""
+
+msgctxt "1068_Hinata"
+msgid "Unfortunately, I'm off that day."
+msgstr ""
+
+msgctxt "1080_Hinata"
+msgid "Are you disappointed?"
+msgstr ""
+
+msgctxt "1092_Kiryu"
+msgid "Kind of."
+msgstr ""
+
+msgctxt "1104_Hinata"
+msgid "Haha! You don't need to be that upset! I'm only going to see a concert!"
+msgstr ""
+
+msgctxt "1116_Kiryu"
+msgid "Oh, is that all?"
+msgstr ""
+
+msgctxt "1128_Kiryu"
+msgid "Should I be?"
+msgstr ""
+
+msgctxt "1140_Hinata"
+msgid ""
+"Oh, come on! You can't hide your disappointment from me! Maybe you should "
+"just try to make your own plans."
+msgstr ""
+
+msgctxt "1152_Kiryu"
+msgid "Hmph."
+msgstr ""
+
+msgctxt "1164_Kiryu"
+msgid ""
+"You're lying. I bet you don't have any plans, you're just trying to make it "
+"seem that way."
+msgstr ""
+
+msgctxt "1176_Hinata"
+msgid ""
+"I do have plans, honest! And I need the money, so if I had the time I'd "
+"definitely be here!"
+msgstr ""
+
+msgctxt "1188_Kiryu"
+msgid "Ah, I see."
+msgstr ""
+
+msgctxt "1200_Hinata"
+msgid "Besides, if a hostess works on Christmas Eve, it's a sign she's not popular."
+msgstr ""
+
+msgctxt "1212_Kiryu"
+msgid "Oh, really?"
+msgstr ""
+
+msgctxt "1224_Hinata"
+msgid ""
+"Well, sure. Girls with regular clients would only come in after some "
+"extravagant dinner, and ones with boyfriends wouldn't even be here."
+msgstr ""
+
+msgctxt "1236_Hinata"
+msgid ""
+"So if you were to come to the club, you'd be stuck with girls who are "
+"leftovers."
+msgstr ""
+
+msgctxt "1248_Kiryu"
+msgid ""
+"That's not good. When I come to a cabaret club, it's because I want to "
+"forget about my real life for a while."
+msgstr ""
+
+msgctxt "1260_Hinata"
+msgid ""
+"Hehe. If it bugs you that much, then you should visit our club more! That "
+"way you'll have a girl you can invite out on Christmas Eve."
+msgstr ""
+
+msgctxt "1272_Kiryu"
+msgid ""
+"What's wrong with that? If circumstances bring the \"losers\" together, "
+"they'll already have something in common. They might even become friends."
+msgstr ""
+
+msgctxt "1284_Hinata"
+msgid ""
+"I've never thought about it that way! But since you'd be an important "
+"client, I'm sure you'd still get excellent service."
+msgstr ""
+
+msgctxt "1296_Hinata"
+msgid "So does this mean that you're free on Christmas Eve, Kiryu-san?"
+msgstr ""
+
+msgctxt "1308_Kiryu"
+msgid ""
+"Kind of. I'm not really a party guy, but drinking alone on a night like "
+"that..."
+msgstr ""
+
+msgctxt "1320_Hinata"
+msgid ""
+"I figured you'd have at least one or two girls to spend time with. Why "
+"don't you?"
+msgstr ""
+
+msgctxt "1332_Kiryu"
+msgid "Heh. Wish I knew."
+msgstr ""
+
+msgctxt "1344_Kiryu"
+msgid "Not really. Of course I have plans. I only wanted to confirm your schedule."
+msgstr ""
+
+msgctxt "1356_Hinata"
+msgid ""
+"Liar! I bet you anything you're alone that night, Kiryu-san! If you had a "
+"girlfriend, you'd never have asked!"
+msgstr ""
+
+msgctxt "1368_Kiryu"
+msgid "Well, hey, this isn't about me."
+msgstr ""
+
+msgctxt "1380_Kiryu"
+msgid ""
+"That's not true. I bet some girls celebrate on another day, so they can "
+"work on Christmas Eve."
+msgstr ""
+
+msgctxt "1392_Hinata"
+msgid ""
+"I bet! They'll probably say stuff like, \"Oh, I'm all alone on Christmas "
+"Eve!\" while they've actually got a date on the 23rd."
+msgstr ""
+
+msgctxt "1404_Hinata"
+msgid ""
+"Maybe I should try that myself this year. Then I could have an extra day of "
+"work."
+msgstr ""
+
+msgctxt "1416_Kiryu"
+msgid "Seriously? Then I'm not coming on that day."
+msgstr ""
+
+msgctxt "1428_Hinata"
+msgid ""
+"Are you sure about that? If you get lonely that evening, won't you want to "
+"see me?"
+msgstr ""
+
+msgctxt "1440_Kiryu"
+msgid "Hmph. I'm not sure what you're talking about."
+msgstr ""
+
+msgctxt "1452_Kiryu"
+msgid "Don't do that. Men will just assume you don't have a life."
+msgstr ""
+
+msgctxt "1464_Hinata"
+msgid "Whoa, true. I don't want to seem like a leftover."
+msgstr ""
+
+msgctxt "1476_Kiryu"
+msgid "It's a choice between money and pride, really."
+msgstr ""
+
+msgctxt "1488_Hinata"
+msgid "Besides, if a hostess works on Christmas Eve, it's a sign she's not popular."
+msgstr ""
+
+msgctxt "1500_Kiryu"
+msgid "Oh, really?"
+msgstr ""
+
+msgctxt "1512_Hinata"
+msgid ""
+"Well, sure. Girls with regular clients would only come in after some "
+"extravagant dinner, and ones with boyfriends wouldn't even be here."
+msgstr ""
+
+msgctxt "1524_Hinata"
+msgid ""
+"So if you were to come to the club, you'd be stuck with girls who are "
+"leftovers."
+msgstr ""
+
+msgctxt "1536_Kiryu"
+msgid ""
+"That's not true. I bet some girls celebrate on another day, so they can "
+"work on Christmas Eve."
+msgstr ""
+
+msgctxt "1548_Hinata"
+msgid ""
+"I bet! They'll probably say stuff like, \"Oh, I'm all alone on Christmas "
+"Eve!\" while they've actually got a date on the 23rd."
+msgstr ""
+
+msgctxt "1560_Hinata"
+msgid ""
+"Maybe I should try that myself this year. Then I could have an extra day of "
+"work."
+msgstr ""
+
+msgctxt "1572_Kiryu"
+msgid ""
+"Don't you have a concert to go to? You can't exactly move that to a "
+"different day."
+msgstr ""
+
+msgctxt "1584_Hinata"
+msgid "Oh, you're right!"
+msgstr ""
+
+msgctxt "1596_Kiryu"
+msgid "Wow..."
+msgstr ""
+
+msgctxt "1608_Kiryu"
+msgid ""
+"It's been a while since I've been back in Tokyo, but the girls here really "
+"are on a higher level."
+msgstr ""
+
+msgctxt "1620_Hinata"
+msgid "What? That's not true! There are only a small number of cute girls here."
+msgstr ""
+
+msgctxt "1632_Kiryu"
+msgid ""
+"Must be my imagination. But I wonder why? What is it about Tokyo that makes "
+"me think that?"
+msgstr ""
+
+msgctxt "1644_Hinata"
+msgid "Yeah, I think there's something about the city."
+msgstr ""
+
+msgctxt "1656_Hinata"
+msgid ""
+"If you had a girl pose against a city background and a countryside "
+"background, don't you think the city girl would seem more fashionable?"
+msgstr ""
+
+msgctxt "1668_Kiryu"
+msgid "Sure, it would definitely give off a different impression."
+msgstr ""
+
+msgctxt "1680_Kiryu"
+msgid ""
+"No, it's true. I've seen girls from all over Japan, and there's nothing "
+"like the ones here."
+msgstr ""
+
+msgctxt "1692_Hinata"
+msgid ""
+"Wow, really? But people come to Tokyo from all over the country. How can "
+"you tell them apart from the local girls?"
+msgstr ""
+
+msgctxt "1704_Kiryu"
+msgid "Hm. I suppose that's a good point."
+msgstr ""
+
+msgctxt "1716_Kiryu"
+msgid ""
+"I guess what I really mean, is that Tokyo girls give off a certain air of "
+"professionalism."
+msgstr ""
+
+msgctxt "1728_Hinata"
+msgid "No, that's not true. No way."
+msgstr ""
+
+msgctxt "1740_Kiryu"
+msgid "Why do you say that?"
+msgstr ""
+
+msgctxt "1752_Hinata"
+msgid ""
+"Everyone here's self-centered and two-faced. Nobody even knows how to speak "
+"polite Japanese."
+msgstr ""
+
+msgctxt "1764_Kiryu"
+msgid "Really? Most girls I've met aren't like that at all."
+msgstr ""
+
+msgctxt "1776_Hinata"
+msgid "Haha! Oh, Kiryu-san, you're so innocent! That's adorable!"
+msgstr ""
+
+msgctxt "1788_Kiryu"
+msgid "Am I innocent?"
+msgstr ""
+
+msgctxt "1800_Kiryu"
+msgid ""
+"That can't be true. They get the job done, so they must be responsible. Not "
+"anyone can manage that sort of thing."
+msgstr ""
+
+msgctxt "1812_Hinata"
+msgid ""
+"Nah, it's all an act. They throw themselves into their work so hard because "
+"they have to, not because they're normally kind and polite."
+msgstr ""
+
+msgctxt "1824_Kiryu"
+msgid "You really think so?"
+msgstr ""
+
+msgctxt "1836_Hinata"
+msgid "So, Kiryu-san, does that mean you prefer city girls?"
+msgstr ""
+
+msgctxt "1848_Kiryu"
+msgid ""
+"Yeah. Being around country girls is relaxing, but it's not like the thrill "
+"you get from a hostess."
+msgstr ""
+
+msgctxt "1860_Kiryu"
+msgid "I much prefer drinking with a girl who's worldly and quick-witted."
+msgstr ""
+
+msgctxt "1872_Hinata"
+msgid "I see! Then I guess I'll need to kick it up a notch for you!"
+msgstr ""
+
+msgctxt "1884_Kiryu"
+msgid "Heh. Please do."
+msgstr ""
+
+msgctxt "1896_Kiryu"
+msgid "No. City girls tend to make me feel like I'm not up to par with them."
+msgstr ""
+
+msgctxt "1908_Kiryu"
+msgid "I like a girl who lets me take the lead, and who's a bit more exotic."
+msgstr ""
+
+msgctxt "1920_Hinata"
+msgid ""
+"Oh, I see. So, I guess I should keep quiet and not start conversations with "
+"you?"
+msgstr ""
+
+msgctxt "1932_Kiryu"
+msgid "No, wait..."
+msgstr ""
+
+msgctxt "1944_Kiryu"
+msgid ""
+"I like both. Everyone's got their good and bad sides. If you focus on the "
+"good side, both types of girls are appealing."
+msgstr ""
+
+msgctxt "1956_Hinata"
+msgid "Haha, you're quite the smooth talker!"
+msgstr ""
+
+msgctxt "1968_Hinata"
+msgid ""
+"You're right, though. Like, I wouldn't be able to pick my preference "
+"between clients from   Tokyo, or ones from the country."
+msgstr ""
+
+msgctxt "1980_Kiryu"
+msgid "See what I mean?"
+msgstr ""
+
+msgctxt "1992_Kiryu"
+msgid ""
+"I don't mean looks. I'm talking about fashion. This place is the cutting "
+"edge of style."
+msgstr ""
+
+msgctxt "2004_Hinata"
+msgid ""
+"But everyone has different tastes in clothes. Girls won't wear something "
+"they don't like, even if it is supposed to be in fashion."
+msgstr ""
+
+msgctxt "2016_Kiryu"
+msgid ""
+"I suppose. If that's the case, all Tokyo girls just have a great sense of "
+"style."
+msgstr ""
+
+msgctxt "2028_Hinata"
+msgid ""
+"Yeah, I guess. People wear what they feel suits them. Maybe that's proof "
+"they're serious about fashion."
+msgstr ""
+
+msgctxt "2040_Kiryu"
+msgid ""
+"What suits them, huh? I've never given it a lot of thought, but maybe I "
+"should try that myself."
+msgstr ""
+
+msgctxt "2052_Kiryu"
+msgid ""
+"You can't ignore it. Even if you don't follow fashion trends, you'd still "
+"want to avoid clothes that look bad."
+msgstr ""
+
+msgctxt "2064_Hinata"
+msgid ""
+"Oh, that's probably true. Girls from the 'burbs always seem to buy weird "
+"clothes from Harajuku."
+msgstr ""
+
+msgctxt "2076_Kiryu"
+msgid "'Burbs...?"
+msgstr ""
+
+msgctxt "2088_Riku"
+msgid "Fixed Topic 03"
+msgstr ""
+
+msgctxt "2100_Riku"
+msgid "Fixed Topic 04"
+msgstr ""
+
+msgctxt "2112_Riku"
+msgid "Fixed Topic 05"
+msgstr ""
+
+msgctxt "2124_Riku"
+msgid "Fixed Topic 06"
+msgstr ""
+
+msgctxt "2136_Riku"
+msgid "Fixed Topic 07"
+msgstr ""
+
+msgctxt "2148_Riku"
+msgid "Fixed Topic 08"
+msgstr ""
+
+msgctxt "2160_Riku"
+msgid "Fixed Topic 09"
+msgstr ""
+
+msgctxt "2172_Riku"
+msgid "Fixed Topic 10"
+msgstr ""
+
+msgctxt "2184_Riku"
+msgid "Fixed Topic 11"
+msgstr ""
+
+msgctxt "2196_Riku"
+msgid "Fixed Topic 12"
+msgstr ""
+
+msgctxt "2208_Riku"
+msgid "Fixed Topic 13"
+msgstr ""
+
+msgctxt "2220_Riku"
+msgid "Fixed Topic 14"
+msgstr ""
+
+msgctxt "2232_Riku"
+msgid "Fixed Topic 15"
+msgstr ""
+
+msgctxt "2244_Kiryu"
+msgid "Did you know that Karaokekan has a special solo karaoke room?"
+msgstr ""
+
+msgctxt "2256_Hinata"
+msgid "Seriously!? No way, tell me more!"
+msgstr ""
+
+msgctxt "2268_Kiryu"
+msgid ""
+"They use a professional grade condenser mic for recording, along with "
+"headphones to listen to the karaoke track. It's perfect for practicing."
+msgstr ""
+
+msgctxt "2280_Kiryu"
+msgid ""
+"You can even rent pro-grade monitoring headphones. Two people can use the "
+"setup simultaneously, so it's useful for practicing harmonies as well."
+msgstr ""
+
+msgctxt "2292_Kiryu"
+msgid ""
+"The room is also set up like a true studio environment, so you really get "
+"high quality data of your vocal and music tracks."
+msgstr ""
+
+msgctxt "2304_Hinata"
+msgid ""
+"That's amazing! I have to check it out sometime. I'm a major karaoke fan, "
+"you know."
+msgstr ""
+
+msgctxt "2316_Kiryu"
+msgid "Yeah, you should check it out."
+msgstr ""
+
+msgctxt "2328_Hinata"
+msgid ""
+"Speaking of which, I go by myself when they have all-you-can-sing deals in "
+"the afternoon."
+msgstr ""
+
+msgctxt "2340_Kiryu"
+msgid "Really? That's amazing you can sing that long."
+msgstr ""
+
+msgctxt "2352_Hinata"
+msgid ""
+"I know, right? But when I went back for their all-you-can-sing in the "
+"evening, they turned me away!"
+msgstr ""
+
+msgctxt "2364_Kiryu"
+msgid ""
+"Of course. If you take up a whole room just for yourself, you'll keep the "
+"larger parties away."
+msgstr ""
+
+msgctxt "2376_Hinata"
+msgid ""
+"Well, I have a ton of songs on my phone, so when I have time I always try "
+"to learn them."
+msgstr ""
+
+msgctxt "2388_Kiryu"
+msgid "You're quite dedicated."
+msgstr ""
+
+msgctxt "2400_Hinata"
+msgid ""
+"I can also check the lyrics on my screen, so I can do karaoke pretty much "
+"anywhere as long as I have my phone!"
+msgstr ""
+
+msgctxt "2412_Kiryu"
+msgid "Just make sure you don't drain your battery and miss important calls."
+msgstr ""
+
+msgctxt "2424_Hinata"
+msgid ""
+"Oh, and guess what? Last time I was at karaoke I ran into a total stud at "
+"the drink machine."
+msgstr ""
+
+msgctxt "2436_Kiryu"
+msgid "Makes sense. Waiting in line is a good opportunity to meet other customers."
+msgstr ""
+
+msgctxt "2448_Hinata"
+msgid ""
+"Yeah, so he was all, \"What do you want to drink?\" without me even asking! "
+"He was super nice!"
+msgstr ""
+
+msgctxt "2460_Kiryu"
+msgid "Uh, I think he was just trying to hit on you."
+msgstr ""
+
+msgctxt "2472_Hinata"
+msgid "You think? I do fall for people just on their voice a lot."
+msgstr ""
+
+msgctxt "2484_Kiryu"
+msgid "You have a voice fetish?"
+msgstr ""
+
+msgctxt "2496_Hinata"
+msgid ""
+"Oh yeah! I'll get really into someone 'cause of it. Not just at concerts or "
+"clubs either, but at karaoke too."
+msgstr ""
+
+msgctxt "2508_Kiryu"
+msgid ""
+"Hm. Someone with good pipes can make any song sound great. I'm a bit "
+"jealous."
+msgstr ""
+
+msgctxt "2520_Hinata"
+msgid "Kiryu-san, didn't we talk about this already?"
+msgstr ""
+
+msgctxt "2532_Kiryu"
+msgid "Huh? Did we?"
+msgstr ""
+
+msgctxt "2544_Hinata"
+msgid "Let's talk about something else."
+msgstr ""
+
+msgctxt "2556_Kiryu"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "2580_Kiryu"
+msgid "Did you know takoyaki can help with fatigue?"
+msgstr ""
+
+msgctxt "2592_Hinata"
+msgid "Oh, really?"
+msgstr ""
+
+msgctxt "2604_Kiryu"
+msgid ""
+"Yeah. Octopus is rich in taurine and zinc, which is good for recovering "
+"from exhaustion."
+msgstr ""
+
+msgctxt "2616_Hinata"
+msgid "Wow, I'd never have guessed."
+msgstr ""
+
+msgctxt "2628_Kiryu"
+msgid ""
+"In Kansai, they have Hangesho on July 2nd, eleven days after the summer "
+"solstice."
+msgstr ""
+
+msgctxt "2640_Kiryu"
+msgid ""
+"It's tradition to eat octopus then, and has even been designated as Octopus "
+"Day."
+msgstr ""
+
+msgctxt "2652_Hinata"
+msgid ""
+"Whoa, neat! Next time I'm tired from work, I should get some takoyaki on my "
+"way home!"
+msgstr ""
+
+msgctxt "2664_Kiryu"
+msgid "It's also great for ladies, since it's easy to eat."
+msgstr ""
+
+msgctxt "2676_Hinata"
+msgid ""
+"Come to think of it, I feel like I order takoyaki a lot when I'm out at "
+"karaoke."
+msgstr ""
+
+msgctxt "2688_Kiryu"
+msgid "Ah, from their snack menu."
+msgstr ""
+
+msgctxt "2700_Hinata"
+msgid ""
+"Hey, next time I get tired from singing, I'll just order up some takoyaki "
+"for an energy boost!"
+msgstr ""
+
+msgctxt "2712_Kiryu"
+msgid "You really sing yourself to the point of exhaustion?"
+msgstr ""
+
+msgctxt "2724_Hinata"
+msgid "Hmm, maybe I should try that instead of liver sashimi!"
+msgstr ""
+
+msgctxt "2736_Kiryu"
+msgid ""
+"That sounds good. It pairs well with a highball, too. It's a great cocktail "
+"hors d'oeuvre."
+msgstr ""
+
+msgctxt "2748_Hinata"
+msgid "Do you think takoyaki pairs with black tea?"
+msgstr ""
+
+msgctxt "2760_Kiryu"
+msgid "Not sure. I'd think it would go better with green tea."
+msgstr ""
+
+msgctxt "2772_Hinata"
+msgid "I think it'd go great with iced lemon tea! I'll have to give it a try!"
+msgstr ""
+
+msgctxt "2784_Kiryu"
+msgid "You really like trying new things, huh?"
+msgstr ""
+
+msgctxt "2796_Hinata"
+msgid "Oh, but takoyaki is pretty high in calories, isn't it?"
+msgstr ""
+
+msgctxt "2808_Hinata"
+msgid "Come on, Kiryu-san, stop trying to mess with my diet!"
+msgstr ""
+
+msgctxt "2820_Kiryu"
+msgid "Oh, sorry."
+msgstr ""
+
+msgctxt "2832_Hinata"
+msgid "Kiryu-san, didn't we talk about this already?"
+msgstr ""
+
+msgctxt "2844_Kiryu"
+msgid "Huh? Did we?"
+msgstr ""
+
+msgctxt "2856_Hinata"
+msgid "Let's talk about something else."
+msgstr ""
+
+msgctxt "2868_Kiryu"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "2892_Kiryu"
+msgid "I heard a big thing lately is tea salons that serve edible tea."
+msgstr ""
+
+msgctxt "2904_Hinata"
+msgid "Oh, that's a new one! Tell me more!"
+msgstr ""
+
+msgctxt "2916_Kiryu"
+msgid ""
+"They don't just cook tea leaves or mix them in with sweets, but they make "
+"tea syrups and steak sauces to serve along with food."
+msgstr ""
+
+msgctxt "2928_Kiryu"
+msgid ""
+"Since the food naturally pairs well with tea, drinking it together enhances "
+"the flavor."
+msgstr ""
+
+msgctxt "2940_Hinata"
+msgid ""
+"Oh, neat! So the food itself is prepared to compliment the tea? That sounds "
+"delicious!"
+msgstr ""
+
+msgctxt "2952_Kiryu"
+msgid ""
+"I imagine it'd smell really good. It'd probably fill the kitchen with a "
+"pleasantly sweet aroma."
+msgstr ""
+
+msgctxt "2964_Hinata"
+msgid ""
+"I'll need to think up some recipes! I've made lots of sweets that include "
+"black tea, but main dishes would be a first. Sounds like fun!"
+msgstr ""
+
+msgctxt "2976_Hinata"
+msgid "Don't worry, when I make it, I'll for sure let you taste it!"
+msgstr ""
+
+msgctxt "2988_Kiryu"
+msgid "Heh. I'm looking forward to it."
+msgstr ""
+
+msgctxt "3000_Hinata"
+msgid ""
+"I feel like I've put on some weight lately, but hearing about this really "
+"makes me want to give it a try!"
+msgstr ""
+
+msgctxt "3012_Hinata"
+msgid "Ugh, and I've been wanting to go on a diet, too! Kiryu-san, you jerk!"
+msgstr ""
+
+msgctxt "3024_Kiryu"
+msgid "Sorry about that."
+msgstr ""
+
+msgctxt "3036_Hinata"
+msgid ""
+"When it comes to enjoying tea, you should pay attention to the tableware "
+"too."
+msgstr ""
+
+msgctxt "3048_Hinata"
+msgid "Oh no. I wonder if I should've put in a bid for that dining set after all."
+msgstr ""
+
+msgctxt "3060_Kiryu"
+msgid "I'm sure another one will be put up for auction eventually."
+msgstr ""
+
+msgctxt "3072_Hinata"
+msgid ""
+"Yeah. I'll have to keep an eye out so I can snatch it up as fast as "
+"possible."
+msgstr ""
+
+msgctxt "3084_Kiryu"
+msgid "Just don't do it here at work."
+msgstr ""
+
+msgctxt "3096_Hinata"
+msgid ""
+"Oh, speaking of tea salons! I went to this place the other day where I got "
+"served by a super-hottie of a waiter!"
+msgstr ""
+
+msgctxt "3108_Hinata"
+msgid ""
+"He had the mannerisms of the ultimate butler－he was a total Jeeves! And he "
+"had this white hair that was just so unexpectedly gorgeous!"
+msgstr ""
+
+msgctxt "3120_Kiryu"
+msgid "You mean he was a super-hot grandpa...?"
+msgstr ""
+
+msgctxt "3132_Hinata"
+msgid "Kiryu-san, didn't we talk about this already?"
+msgstr ""
+
+msgctxt "3144_Kiryu"
+msgid "Huh? Did we?"
+msgstr ""
+
+msgctxt "3156_Hinata"
+msgid "Let's talk about something else."
+msgstr ""
+
+msgctxt "3168_Kiryu"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "3192_Kiryu"
+msgid ""
+"With the recent Korean pop culture boom, I've heard Korean saunas are "
+"becoming pretty popular among women."
+msgstr ""
+
+msgctxt "3204_Hinata"
+msgid "Oh? How's it different from a regular sauna?"
+msgstr ""
+
+msgctxt "3216_Kiryu"
+msgid "They're called hanjeungmak. It's a domed room, made of maifan stone."
+msgstr ""
+
+msgctxt "3228_Kiryu"
+msgid ""
+"It actually warms your body from within, improving blood circulation, which "
+"helps prevent illnesses. It's also good for recovering from exhaustion."
+msgstr ""
+
+msgctxt "3240_Hinata"
+msgid ""
+"Really? I've been feeling tired lately, so maybe I should give it a go "
+"sometime!"
+msgstr ""
+
+msgctxt "3252_Kiryu"
+msgid ""
+"Then you'll be happy to know that you don't need to go to Korea to enjoy "
+"one. We have some nearby."
+msgstr ""
+
+msgctxt "3264_Hinata"
+msgid ""
+"My commute is an hour each way, so my feet get super tired if I can't get a "
+"seat on the train."
+msgstr ""
+
+msgctxt "3276_Hinata"
+msgid "Maybe after the sauna I can get a massage too!"
+msgstr ""
+
+msgctxt "3288_Kiryu"
+msgid "Yeah, that'd melt the exhaustion away for sure."
+msgstr ""
+
+msgctxt "3300_Hinata"
+msgid "So hey, doesn't black tea after getting out of a sauna sound good?"
+msgstr ""
+
+msgctxt "3312_Kiryu"
+msgid ""
+"Because your body is left dehydrated, anything would be good to drink, I'd "
+"think."
+msgstr ""
+
+msgctxt "3324_Hinata"
+msgid "Yeah, true. I'll try it out next time!"
+msgstr ""
+
+msgctxt "3336_Kiryu"
+msgid "Tea is a diuretic, so you're better off going for plain water, I think."
+msgstr ""
+
+msgctxt "3348_Hinata"
+msgid "Is that good for dieting as well as recovering from exhaustion?"
+msgstr ""
+
+msgctxt "3360_Kiryu"
+msgid ""
+"Naturally. It'll cleanse your body of toxins and improve your metabolism, "
+"like a beauty treatment."
+msgstr ""
+
+msgctxt "3372_Hinata"
+msgid "Really!? Well, then I'm going!"
+msgstr ""
+
+msgctxt "3384_Kiryu"
+msgid "I'm glad I've sparked your interest."
+msgstr ""
+
+msgctxt "3396_Hinata"
+msgid "Oh, so hey! Will a sauna make my boobs bigger?"
+msgstr ""
+
+msgctxt "3408_Kiryu"
+msgid "No. I think you'll lose weight and they'll become smaller."
+msgstr ""
+
+msgctxt "3420_Hinata"
+msgid "What? Then there's no point!"
+msgstr ""
+
+msgctxt "3432_Kiryu"
+msgid "Where'd that come from all of a sudden?"
+msgstr ""
+
+msgctxt "3444_Hinata"
+msgid ""
+"That one girl I mentioned before, her boobs are so huge, she can rest them "
+"on the table! I wish mine were as big as hers."
+msgstr ""
+
+msgctxt "3456_Kiryu"
+msgid "I honestly don't know what to say to that."
+msgstr ""
+
+msgctxt "3468_Hinata"
+msgid "Kiryu-san, didn't we talk about this already?"
+msgstr ""
+
+msgctxt "3480_Kiryu"
+msgid "Huh? Did we?"
+msgstr ""
+
+msgctxt "3492_Hinata"
+msgid "Let's talk about something else."
+msgstr ""
+
+msgctxt "3504_Kiryu"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "3528_Kiryu"
+msgid ""
+"I've heard there's a famous brand outlet store that's been really popular "
+"lately."
+msgstr ""
+
+msgctxt "3540_Hinata"
+msgid "An outlet? I don't feel like going out of my way to buy stuff that's old."
+msgstr ""
+
+msgctxt "3552_Kiryu"
+msgid ""
+"But this place gets the newest items, including the latest in Parisian "
+"couture, right after it's announced."
+msgstr ""
+
+msgctxt "3564_Kiryu"
+msgid ""
+"So depending on your timing, you can get things while they're still hot at "
+"an affordable price."
+msgstr ""
+
+msgctxt "3576_Hinata"
+msgid ""
+"Oh wow, color me intrigued! If I can get designer clothing cheap, I'm "
+"definitely going!"
+msgstr ""
+
+msgctxt "3588_Kiryu"
+msgid ""
+"And since it comes right from the designer, you don't need to worry about "
+"knockoffs."
+msgstr ""
+
+msgctxt "3600_Hinata"
+msgid ""
+"I don't buy clothes, usually. I'd rather buy something cheap that looks "
+"like designer clothing, instead of something expensive."
+msgstr ""
+
+msgctxt "3612_Kiryu"
+msgid ""
+"That's not a bad idea. It's not just about status, but your sense of style. "
+"Your way of thinking demonstrates your fashion savvy."
+msgstr ""
+
+msgctxt "3624_Hinata"
+msgid "See, you get me, Kiryu-san! Though, I would love to own some nice clothes."
+msgstr ""
+
+msgctxt "3636_Kiryu"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "3648_Hinata"
+msgid ""
+"If I wore nothing but designer clothing, I wouldn't be turned away from a "
+"host club, right?"
+msgstr ""
+
+msgctxt "3660_Kiryu"
+msgid "I think they'd be more than happy to have you."
+msgstr ""
+
+msgctxt "3672_Hinata"
+msgid "Hehe, for sure! I'll give it a shot sometime."
+msgstr ""
+
+msgctxt "3684_Kiryu"
+msgid "You want to go back there that badly?"
+msgstr ""
+
+msgctxt "3696_Hinata"
+msgid ""
+"By the way, if you want great deals on clothing, you should try online "
+"auctions."
+msgstr ""
+
+msgctxt "3708_Kiryu"
+msgid ""
+"I see. Depending on how much you bid to win the auction, you could end up "
+"getting a great deal."
+msgstr ""
+
+msgctxt "3720_Hinata"
+msgid ""
+"Yep! But since you can't check out the item before you buy it, you can "
+"sometimes get something completely different than the auction photo."
+msgstr ""
+
+msgctxt "3732_Kiryu"
+msgid "That's a total scam. It may even be worth the trouble to report them."
+msgstr ""
+
+msgctxt "3744_Hinata"
+msgid ""
+"I think it's best to take a guy shopping first, to see if he's the abusive "
+"type."
+msgstr ""
+
+msgctxt "3756_Kiryu"
+msgid "Oh, why's that?"
+msgstr ""
+
+msgctxt "3768_Hinata"
+msgid ""
+"Abusive men won't help me pick things out or carry my stuff, and they'll be "
+"totally rude to the shop staff."
+msgstr ""
+
+msgctxt "3780_Kiryu"
+msgid ""
+"I see. Since women take more time to shop, it's a good chance to see the "
+"guy's true colors."
+msgstr ""
+
+msgctxt "3792_Hinata"
+msgid ""
+"I'd really love a guy who didn't let his impatience show and stuck it out "
+"with the shopping."
+msgstr ""
+
+msgctxt "3804_Hinata"
+msgid "Kiryu-san, didn't we talk about this already?"
+msgstr ""
+
+msgctxt "3816_Kiryu"
+msgid "Huh? Did we?"
+msgstr ""
+
+msgctxt "3828_Hinata"
+msgid "Let's talk about something else."
+msgstr ""
+
+msgctxt "3840_Kiryu"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "3864_Riku"
+msgid "Rumor Topic 05"
+msgstr ""
+
+msgctxt "3876_Riku"
+msgid "Rumor Topic 06"
+msgstr ""
+
+msgctxt "3888_Riku"
+msgid "Rumor Topic 07"
+msgstr ""
+
+msgctxt "3900_Riku"
+msgid "Rumor Topic 08"
+msgstr ""
+
+msgctxt "3912_Riku"
+msgid "Rumor Topic 09"
+msgstr ""
+
+msgctxt "3924_Riku"
+msgid "Rumor Topic 10"
+msgstr ""
+
+msgctxt "3936_Riku"
+msgid "Rumor Topic 11"
+msgstr ""
+
+msgctxt "3948_Riku"
+msgid "Rumor Topic 12"
+msgstr ""
+
+msgctxt "3960_Riku"
+msgid "Rumor Topic 13"
+msgstr ""
+
+msgctxt "3972_Riku"
+msgid "Rumor Topic 14"
+msgstr ""
+
+msgctxt "3984_Riku"
+msgid "Rumor Topic 15"
+msgstr ""
