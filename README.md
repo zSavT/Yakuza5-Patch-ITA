@@ -5,6 +5,7 @@
 </p>
 
 ![GitHub contributors](https://img.shields.io/github/contributors/zSavT/Yakuza5-Patch-ITA)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/zSavT/Yakuza5-Patch-ITA/total)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/verio12)
 
 
@@ -21,7 +22,7 @@ L'installazione è guidata e semplice, ma in ogni caso basterà sempre cliccare 
 
 ![](img/Installer2.png)
 
-Successivamente bisogna accettare i termini d'uso e poi nella schermata successiva, selezionare la cartella dove è installato Yakuza 4 (Di default è impostato il percorso classico) e cliccare su "_Installa Patch_".
+Successivamente bisogna accettare i termini d'uso e poi nella schermata successiva, selezionare la cartella dove è installato Yakuza 5 (Di default è impostato il percorso classico) e cliccare su "_Installa Patch_".
 
 ![](img/Installer3.png)
 
@@ -156,6 +157,7 @@ Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha 
 
 - [x] Codifica e decodifica dei file PAR
 - [x] Codifica e decodifica dei file BIN 2007.03.19
+- [ ] Modifica delle Texture
 - [ ] Modifica al Font
 # Altre patch della serie
 
