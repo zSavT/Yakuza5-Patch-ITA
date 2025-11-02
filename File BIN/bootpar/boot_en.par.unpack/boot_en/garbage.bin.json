@@ -1,0 +1,135 @@
+{
+  "0": {
+    "PATTERN": "0",
+    "NAME": "Small Garbage",
+    "MIN_SIZE": "10",
+    "MAX_SIZE": "20",
+    "RATIO": "50"
+  },
+  "1": {
+    "PATTERN": "0",
+    "NAME": "Bulky Garbage",
+    "MIN_SIZE": "15",
+    "MAX_SIZE": "25",
+    "RATIO": "30"
+  },
+  "2": {
+    "PATTERN": "0",
+    "NAME": "Oversized Garbage",
+    "MIN_SIZE": "30",
+    "MAX_SIZE": "35",
+    "RATIO": "20"
+  },
+  "3": {
+    "PATTERN": "1",
+    "NAME": "Bulky Garbage",
+    "MIN_SIZE": "15",
+    "MAX_SIZE": "25",
+    "RATIO": "50"
+  },
+  "4": {
+    "PATTERN": "1",
+    "NAME": "Oversized Garbage",
+    "MIN_SIZE": "30",
+    "MAX_SIZE": "35",
+    "RATIO": "40"
+  },
+  "5": {
+    "PATTERN": "1",
+    "NAME": "Illegal Waste",
+    "MIN_SIZE": "40",
+    "MAX_SIZE": "50",
+    "RATIO": "10"
+  },
+  "6": {
+    "PATTERN": "2",
+    "NAME": "Oversized Garbage",
+    "MIN_SIZE": "30",
+    "MAX_SIZE": "35",
+    "RATIO": "60"
+  },
+  "7": {
+    "PATTERN": "2",
+    "NAME": "Awesome Garbage",
+    "MIN_SIZE": "60",
+    "MAX_SIZE": "70",
+    "RATIO": "30"
+  },
+  "8": {
+    "PATTERN": "2",
+    "NAME": "Industrial Waste",
+    "MIN_SIZE": "80",
+    "MAX_SIZE": "90",
+    "RATIO": "10"
+  },
+  "9": {
+    "PATTERN": "3",
+    "NAME": "Small Garbage",
+    "MIN_SIZE": "10",
+    "MAX_SIZE": "20",
+    "RATIO": "50"
+  },
+  "10": {
+    "PATTERN": "3",
+    "NAME": "Bulky Garbage",
+    "MIN_SIZE": "15",
+    "MAX_SIZE": "25",
+    "RATIO": "30"
+  },
+  "11": {
+    "PATTERN": "3",
+    "NAME": "Oversized Garbage",
+    "MIN_SIZE": "30",
+    "MAX_SIZE": "35",
+    "RATIO": "20"
+  },
+  "12": {
+    "PATTERN": "4",
+    "NAME": "Bulky Garbage",
+    "MIN_SIZE": "15",
+    "MAX_SIZE": "25",
+    "RATIO": "50"
+  },
+  "13": {
+    "PATTERN": "4",
+    "NAME": "Oversized Garbage",
+    "MIN_SIZE": "30",
+    "MAX_SIZE": "35",
+    "RATIO": "40"
+  },
+  "14": {
+    "PATTERN": "4",
+    "NAME": "Illegal Waste",
+    "MIN_SIZE": "40",
+    "MAX_SIZE": "50",
+    "RATIO": "10"
+  },
+  "15": {
+    "PATTERN": "5",
+    "NAME": "Oversized Garbage",
+    "MIN_SIZE": "30",
+    "MAX_SIZE": "35",
+    "RATIO": "60"
+  },
+  "16": {
+    "PATTERN": "5",
+    "NAME": "Awesome Garbage",
+    "MIN_SIZE": "60",
+    "MAX_SIZE": "70",
+    "RATIO": "30"
+  },
+  "17": {
+    "PATTERN": "5",
+    "NAME": "Industrial Waste",
+    "MIN_SIZE": "80",
+    "MAX_SIZE": "90",
+    "RATIO": "10"
+  },
+  "types": {
+    "PATTERN": "value",
+    "NAME": "string",
+    "MIN_SIZE": "value",
+    "MAX_SIZE": "value",
+    "RATIO": "value"
+  }
+}

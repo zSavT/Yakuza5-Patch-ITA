@@ -1,0 +1,2253 @@
+{
+  "0": {
+    "EXP_ID": 0,
+    "EXP_SING": 1500,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "1": {
+    "EXP_ID": 1,
+    "EXP_SING": 3000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 300,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "2": {
+    "EXP_ID": 2,
+    "EXP_SING": 500,
+    "EXP_BASE": 0,
+    "EXP_ACT": 3000,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "3": {
+    "EXP_ID": 3,
+    "EXP_SING": 500,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 3000,
+    "EXP_FAN": 80,
+    "EXP_BONUS": 500
+  },
+  "4": {
+    "EXP_ID": 4,
+    "EXP_SING": 500,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 2800,
+    "EXP_FAN": 60,
+    "EXP_BONUS": 450
+  },
+  "5": {
+    "EXP_ID": 5,
+    "EXP_SING": 500,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 2500,
+    "EXP_FAN": 50,
+    "EXP_BONUS": 400
+  },
+  "6": {
+    "EXP_ID": 6,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "7": {
+    "EXP_ID": 7,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "8": {
+    "EXP_ID": 8,
+    "EXP_SING": 2000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "9": {
+    "EXP_ID": 9,
+    "EXP_SING": 500,
+    "EXP_BASE": 0,
+    "EXP_ACT": 3000,
+    "EXP_CHARM": 1000,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "10": {
+    "EXP_ID": 10,
+    "EXP_SING": 1000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 1000,
+    "EXP_CHARM": 2000,
+    "EXP_FAN": 210,
+    "EXP_BONUS": 800
+  },
+  "11": {
+    "EXP_ID": 11,
+    "EXP_SING": 800,
+    "EXP_BASE": 0,
+    "EXP_ACT": 800,
+    "EXP_CHARM": 1800,
+    "EXP_FAN": 180,
+    "EXP_BONUS": 600
+  },
+  "12": {
+    "EXP_ID": 12,
+    "EXP_SING": 800,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 1500,
+    "EXP_FAN": 150,
+    "EXP_BONUS": 400
+  },
+  "13": {
+    "EXP_ID": 13,
+    "EXP_SING": 2000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 3500,
+    "EXP_CHARM": 1000,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "14": {
+    "EXP_ID": 14,
+    "EXP_SING": 1700,
+    "EXP_BASE": 0,
+    "EXP_ACT": 3000,
+    "EXP_CHARM": 1000,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "15": {
+    "EXP_ID": 15,
+    "EXP_SING": 1500,
+    "EXP_BASE": 0,
+    "EXP_ACT": 2500,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "16": {
+    "EXP_ID": 16,
+    "EXP_SING": 3000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 1000,
+    "EXP_FAN": 140,
+    "EXP_BONUS": 600
+  },
+  "17": {
+    "EXP_ID": 17,
+    "EXP_SING": 2700,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 800,
+    "EXP_FAN": 120,
+    "EXP_BONUS": 500
+  },
+  "18": {
+    "EXP_ID": 18,
+    "EXP_SING": 2200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 100,
+    "EXP_BONUS": 400
+  },
+  "19": {
+    "EXP_ID": 19,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "20": {
+    "EXP_ID": 20,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "21": {
+    "EXP_ID": 21,
+    "EXP_SING": 4000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 4000,
+    "EXP_CHARM": 5000,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "22": {
+    "EXP_ID": 22,
+    "EXP_SING": 3500,
+    "EXP_BASE": 0,
+    "EXP_ACT": 3000,
+    "EXP_CHARM": 4000,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "23": {
+    "EXP_ID": 23,
+    "EXP_SING": 3000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 2000,
+    "EXP_CHARM": 3000,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "24": {
+    "EXP_ID": 24,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "25": {
+    "EXP_ID": 25,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "26": {
+    "EXP_ID": 26,
+    "EXP_SING": 100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 300,
+    "EXP_CHARM": 1300,
+    "EXP_FAN": 70,
+    "EXP_BONUS": 300
+  },
+  "27": {
+    "EXP_ID": 27,
+    "EXP_SING": 100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 1100,
+    "EXP_FAN": 50,
+    "EXP_BONUS": 250
+  },
+  "28": {
+    "EXP_ID": 28,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 800,
+    "EXP_FAN": 30,
+    "EXP_BONUS": 200
+  },
+  "29": {
+    "EXP_ID": 29,
+    "EXP_SING": 200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 400,
+    "EXP_CHARM": 1500,
+    "EXP_FAN": 100,
+    "EXP_BONUS": 600
+  },
+  "30": {
+    "EXP_ID": 30,
+    "EXP_SING": 100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 300,
+    "EXP_CHARM": 1300,
+    "EXP_FAN": 80,
+    "EXP_BONUS": 500
+  },
+  "31": {
+    "EXP_ID": 31,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 700,
+    "EXP_FAN": 60,
+    "EXP_BONUS": 400
+  },
+  "32": {
+    "EXP_ID": 32,
+    "EXP_SING": 100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 300,
+    "EXP_CHARM": 2000,
+    "EXP_FAN": 110,
+    "EXP_BONUS": 400
+  },
+  "33": {
+    "EXP_ID": 33,
+    "EXP_SING": 100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 1800,
+    "EXP_FAN": 90,
+    "EXP_BONUS": 300
+  },
+  "34": {
+    "EXP_ID": 34,
+    "EXP_SING": 100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 1500,
+    "EXP_FAN": 70,
+    "EXP_BONUS": 200
+  },
+  "35": {
+    "EXP_ID": 35,
+    "EXP_SING": 1500,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 160,
+    "EXP_BONUS": 300
+  },
+  "36": {
+    "EXP_ID": 36,
+    "EXP_SING": 1300,
+    "EXP_BASE": 0,
+    "EXP_ACT": 100,
+    "EXP_CHARM": 100,
+    "EXP_FAN": 140,
+    "EXP_BONUS": 250
+  },
+  "37": {
+    "EXP_ID": 37,
+    "EXP_SING": 800,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 120,
+    "EXP_BONUS": 200
+  },
+  "38": {
+    "EXP_ID": 38,
+    "EXP_SING": 1700,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 210,
+    "EXP_BONUS": 500
+  },
+  "39": {
+    "EXP_ID": 39,
+    "EXP_SING": 1500,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 180,
+    "EXP_BONUS": 400
+  },
+  "40": {
+    "EXP_ID": 40,
+    "EXP_SING": 900,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 150,
+    "EXP_BONUS": 300
+  },
+  "41": {
+    "EXP_ID": 41,
+    "EXP_SING": 2000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 240,
+    "EXP_BONUS": 700
+  },
+  "42": {
+    "EXP_ID": 42,
+    "EXP_SING": 1800,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 210,
+    "EXP_BONUS": 600
+  },
+  "43": {
+    "EXP_ID": 43,
+    "EXP_SING": 1000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 180,
+    "EXP_BONUS": 500
+  },
+  "44": {
+    "EXP_ID": 44,
+    "EXP_SING": 2000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 300,
+    "EXP_BONUS": 1000
+  },
+  "45": {
+    "EXP_ID": 45,
+    "EXP_SING": 1800,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 270,
+    "EXP_BONUS": 900
+  },
+  "46": {
+    "EXP_ID": 46,
+    "EXP_SING": 1000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 240,
+    "EXP_BONUS": 800
+  },
+  "47": {
+    "EXP_ID": 47,
+    "EXP_SING": 2500,
+    "EXP_BASE": 0,
+    "EXP_ACT": 400,
+    "EXP_CHARM": 400,
+    "EXP_FAN": 450,
+    "EXP_BONUS": 1300
+  },
+  "48": {
+    "EXP_ID": 48,
+    "EXP_SING": 2200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 350,
+    "EXP_BONUS": 1000
+  },
+  "49": {
+    "EXP_ID": 49,
+    "EXP_SING": 1400,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 300,
+    "EXP_BONUS": 900
+  },
+  "50": {
+    "EXP_ID": 50,
+    "EXP_SING": 100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 1500,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 180,
+    "EXP_BONUS": 500
+  },
+  "51": {
+    "EXP_ID": 51,
+    "EXP_SING": 100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 1200,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 150,
+    "EXP_BONUS": 400
+  },
+  "52": {
+    "EXP_ID": 52,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 900,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 120,
+    "EXP_BONUS": 300
+  },
+  "53": {
+    "EXP_ID": 53,
+    "EXP_SING": 100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 2000,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 280,
+    "EXP_BONUS": 700
+  },
+  "54": {
+    "EXP_ID": 54,
+    "EXP_SING": 100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 1600,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 250,
+    "EXP_BONUS": 600
+  },
+  "55": {
+    "EXP_ID": 55,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 1000,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 220,
+    "EXP_BONUS": 500
+  },
+  "56": {
+    "EXP_ID": 56,
+    "EXP_SING": 700,
+    "EXP_BASE": 0,
+    "EXP_ACT": 700,
+    "EXP_CHARM": 800,
+    "EXP_FAN": 210,
+    "EXP_BONUS": 800
+  },
+  "57": {
+    "EXP_ID": 57,
+    "EXP_SING": 500,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 600,
+    "EXP_FAN": 180,
+    "EXP_BONUS": 700
+  },
+  "58": {
+    "EXP_ID": 58,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 600,
+    "EXP_FAN": 150,
+    "EXP_BONUS": 600
+  },
+  "59": {
+    "EXP_ID": 59,
+    "EXP_SING": 800,
+    "EXP_BASE": 0,
+    "EXP_ACT": 800,
+    "EXP_CHARM": 1000,
+    "EXP_FAN": 360,
+    "EXP_BONUS": 1000
+  },
+  "60": {
+    "EXP_ID": 60,
+    "EXP_SING": 600,
+    "EXP_BASE": 0,
+    "EXP_ACT": 600,
+    "EXP_CHARM": 800,
+    "EXP_FAN": 330,
+    "EXP_BONUS": 900
+  },
+  "61": {
+    "EXP_ID": 61,
+    "EXP_SING": 400,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 600,
+    "EXP_FAN": 300,
+    "EXP_BONUS": 800
+  },
+  "62": {
+    "EXP_ID": 62,
+    "EXP_SING": 800,
+    "EXP_BASE": 0,
+    "EXP_ACT": 800,
+    "EXP_CHARM": 1200,
+    "EXP_FAN": 510,
+    "EXP_BONUS": 1200
+  },
+  "63": {
+    "EXP_ID": 63,
+    "EXP_SING": 600,
+    "EXP_BASE": 0,
+    "EXP_ACT": 600,
+    "EXP_CHARM": 1000,
+    "EXP_FAN": 480,
+    "EXP_BONUS": 1000
+  },
+  "64": {
+    "EXP_ID": 64,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 600,
+    "EXP_CHARM": 800,
+    "EXP_FAN": 450,
+    "EXP_BONUS": 900
+  },
+  "65": {
+    "EXP_ID": 65,
+    "EXP_SING": 800,
+    "EXP_BASE": 0,
+    "EXP_ACT": 800,
+    "EXP_CHARM": 1500,
+    "EXP_FAN": 680,
+    "EXP_BONUS": 1500
+  },
+  "66": {
+    "EXP_ID": 66,
+    "EXP_SING": 600,
+    "EXP_BASE": 0,
+    "EXP_ACT": 600,
+    "EXP_CHARM": 1200,
+    "EXP_FAN": 640,
+    "EXP_BONUS": 1300
+  },
+  "67": {
+    "EXP_ID": 67,
+    "EXP_SING": 600,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 1000,
+    "EXP_FAN": 600,
+    "EXP_BONUS": 1100
+  },
+  "68": {
+    "EXP_ID": 68,
+    "EXP_SING": 1000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 1000,
+    "EXP_CHARM": 1500,
+    "EXP_FAN": 850,
+    "EXP_BONUS": 2000
+  },
+  "69": {
+    "EXP_ID": 69,
+    "EXP_SING": 900,
+    "EXP_BASE": 0,
+    "EXP_ACT": 800,
+    "EXP_CHARM": 1300,
+    "EXP_FAN": 800,
+    "EXP_BONUS": 1800
+  },
+  "70": {
+    "EXP_ID": 70,
+    "EXP_SING": 300,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 1000,
+    "EXP_FAN": 750,
+    "EXP_BONUS": 1700
+  },
+  "71": {
+    "EXP_ID": 71,
+    "EXP_SING": 200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 1000,
+    "EXP_FAN": 200,
+    "EXP_BONUS": 600
+  },
+  "72": {
+    "EXP_ID": 72,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 140,
+    "EXP_BONUS": 300
+  },
+  "73": {
+    "EXP_ID": 73,
+    "EXP_SING": 200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 1000,
+    "EXP_FAN": 200,
+    "EXP_BONUS": 600
+  },
+  "74": {
+    "EXP_ID": 74,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 140,
+    "EXP_BONUS": 300
+  },
+  "75": {
+    "EXP_ID": 75,
+    "EXP_SING": 200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 1200,
+    "EXP_FAN": 200,
+    "EXP_BONUS": 800
+  },
+  "76": {
+    "EXP_ID": 76,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 300,
+    "EXP_CHARM": 600,
+    "EXP_FAN": 140,
+    "EXP_BONUS": 400
+  },
+  "77": {
+    "EXP_ID": 77,
+    "EXP_SING": 200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 1200,
+    "EXP_FAN": 200,
+    "EXP_BONUS": 1000
+  },
+  "78": {
+    "EXP_ID": 78,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 300,
+    "EXP_CHARM": 900,
+    "EXP_FAN": 140,
+    "EXP_BONUS": 500
+  },
+  "79": {
+    "EXP_ID": 79,
+    "EXP_SING": 200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 1300,
+    "EXP_FAN": 100,
+    "EXP_BONUS": 900
+  },
+  "80": {
+    "EXP_ID": 80,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 300,
+    "EXP_CHARM": 1000,
+    "EXP_FAN": 50,
+    "EXP_BONUS": 450
+  },
+  "81": {
+    "EXP_ID": 81,
+    "EXP_SING": 200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 400,
+    "EXP_CHARM": 1200,
+    "EXP_FAN": 170,
+    "EXP_BONUS": 800
+  },
+  "82": {
+    "EXP_ID": 82,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 300,
+    "EXP_CHARM": 1000,
+    "EXP_FAN": 120,
+    "EXP_BONUS": 600
+  },
+  "83": {
+    "EXP_ID": 83,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 800,
+    "EXP_FAN": 70,
+    "EXP_BONUS": 400
+  },
+  "84": {
+    "EXP_ID": 84,
+    "EXP_SING": 100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 700,
+    "EXP_CHARM": 1200,
+    "EXP_FAN": 450,
+    "EXP_BONUS": 800
+  },
+  "85": {
+    "EXP_ID": 85,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 900,
+    "EXP_FAN": 400,
+    "EXP_BONUS": 600
+  },
+  "86": {
+    "EXP_ID": 86,
+    "EXP_SING": 100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 700,
+    "EXP_CHARM": 1300,
+    "EXP_FAN": 550,
+    "EXP_BONUS": 1000
+  },
+  "87": {
+    "EXP_ID": 87,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 1000,
+    "EXP_FAN": 500,
+    "EXP_BONUS": 700
+  },
+  "88": {
+    "EXP_ID": 88,
+    "EXP_SING": 100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 700,
+    "EXP_CHARM": 1400,
+    "EXP_FAN": 650,
+    "EXP_BONUS": 1300
+  },
+  "89": {
+    "EXP_ID": 89,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 800,
+    "EXP_FAN": 600,
+    "EXP_BONUS": 800
+  },
+  "90": {
+    "EXP_ID": 90,
+    "EXP_SING": 100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 700,
+    "EXP_CHARM": 1500,
+    "EXP_FAN": 750,
+    "EXP_BONUS": 1700
+  },
+  "91": {
+    "EXP_ID": 91,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 900,
+    "EXP_FAN": 700,
+    "EXP_BONUS": 900
+  },
+  "92": {
+    "EXP_ID": 92,
+    "EXP_SING": 100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 700,
+    "EXP_CHARM": 2000,
+    "EXP_FAN": 850,
+    "EXP_BONUS": 2000
+  },
+  "93": {
+    "EXP_ID": 93,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 1000,
+    "EXP_FAN": 800,
+    "EXP_BONUS": 1200
+  },
+  "94": {
+    "EXP_ID": 94,
+    "EXP_SING": 200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 1200,
+    "EXP_FAN": 280,
+    "EXP_BONUS": 1800
+  },
+  "95": {
+    "EXP_ID": 95,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 1000,
+    "EXP_FAN": 250,
+    "EXP_BONUS": 1500
+  },
+  "96": {
+    "EXP_ID": 96,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 700,
+    "EXP_FAN": 220,
+    "EXP_BONUS": 1000
+  },
+  "97": {
+    "EXP_ID": 97,
+    "EXP_SING": 500,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 2000,
+    "EXP_FAN": 380,
+    "EXP_BONUS": 2000
+  },
+  "98": {
+    "EXP_ID": 98,
+    "EXP_SING": 200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 1800,
+    "EXP_FAN": 340,
+    "EXP_BONUS": 1800
+  },
+  "99": {
+    "EXP_ID": 99,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 1500,
+    "EXP_FAN": 300,
+    "EXP_BONUS": 1500
+  },
+  "100": {
+    "EXP_ID": 100,
+    "EXP_SING": 200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 1500,
+    "EXP_FAN": 430,
+    "EXP_BONUS": 1000
+  },
+  "101": {
+    "EXP_ID": 101,
+    "EXP_SING": 200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 1200,
+    "EXP_FAN": 400,
+    "EXP_BONUS": 800
+  },
+  "102": {
+    "EXP_ID": 102,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 1000,
+    "EXP_FAN": 370,
+    "EXP_BONUS": 700
+  },
+  "103": {
+    "EXP_ID": 103,
+    "EXP_SING": 200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 1500,
+    "EXP_FAN": 520,
+    "EXP_BONUS": 1200
+  },
+  "104": {
+    "EXP_ID": 104,
+    "EXP_SING": 200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 1200,
+    "EXP_FAN": 490,
+    "EXP_BONUS": 1000
+  },
+  "105": {
+    "EXP_ID": 105,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 900,
+    "EXP_FAN": 450,
+    "EXP_BONUS": 800
+  },
+  "106": {
+    "EXP_ID": 106,
+    "EXP_SING": 100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 300,
+    "EXP_CHARM": 1300,
+    "EXP_FAN": 270,
+    "EXP_BONUS": 400
+  },
+  "107": {
+    "EXP_ID": 107,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 300,
+    "EXP_CHARM": 1000,
+    "EXP_FAN": 240,
+    "EXP_BONUS": 300
+  },
+  "108": {
+    "EXP_ID": 108,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 800,
+    "EXP_FAN": 210,
+    "EXP_BONUS": 200
+  },
+  "109": {
+    "EXP_ID": 109,
+    "EXP_SING": 100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 300,
+    "EXP_CHARM": 1500,
+    "EXP_FAN": 450,
+    "EXP_BONUS": 600
+  },
+  "110": {
+    "EXP_ID": 110,
+    "EXP_SING": 100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 1100,
+    "EXP_FAN": 420,
+    "EXP_BONUS": 400
+  },
+  "111": {
+    "EXP_ID": 111,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 900,
+    "EXP_FAN": 390,
+    "EXP_BONUS": 300
+  },
+  "112": {
+    "EXP_ID": 112,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "113": {
+    "EXP_ID": 113,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "114": {
+    "EXP_ID": 114,
+    "EXP_SING": 2000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 100,
+    "EXP_CHARM": 100,
+    "EXP_FAN": 510,
+    "EXP_BONUS": 800
+  },
+  "115": {
+    "EXP_ID": 115,
+    "EXP_SING": 1600,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 100,
+    "EXP_FAN": 480,
+    "EXP_BONUS": 700
+  },
+  "116": {
+    "EXP_ID": 116,
+    "EXP_SING": 1000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 450,
+    "EXP_BONUS": 600
+  },
+  "117": {
+    "EXP_ID": 117,
+    "EXP_SING": 2300,
+    "EXP_BASE": 0,
+    "EXP_ACT": 100,
+    "EXP_CHARM": 100,
+    "EXP_FAN": 850,
+    "EXP_BONUS": 1000
+  },
+  "118": {
+    "EXP_ID": 118,
+    "EXP_SING": 2000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 100,
+    "EXP_FAN": 800,
+    "EXP_BONUS": 800
+  },
+  "119": {
+    "EXP_ID": 119,
+    "EXP_SING": 1400,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 750,
+    "EXP_BONUS": 600
+  },
+  "120": {
+    "EXP_ID": 120,
+    "EXP_SING": 100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 2000,
+    "EXP_CHARM": 100,
+    "EXP_FAN": 240,
+    "EXP_BONUS": 800
+  },
+  "121": {
+    "EXP_ID": 121,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 1700,
+    "EXP_CHARM": 100,
+    "EXP_FAN": 210,
+    "EXP_BONUS": 700
+  },
+  "122": {
+    "EXP_ID": 122,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 1200,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 180,
+    "EXP_BONUS": 600
+  },
+  "123": {
+    "EXP_ID": 123,
+    "EXP_SING": 500,
+    "EXP_BASE": 0,
+    "EXP_ACT": 800,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 160,
+    "EXP_BONUS": 300
+  },
+  "124": {
+    "EXP_ID": 124,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 140,
+    "EXP_BONUS": 200
+  },
+  "125": {
+    "EXP_ID": 125,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 120,
+    "EXP_BONUS": 100
+  },
+  "126": {
+    "EXP_ID": 126,
+    "EXP_SING": 500,
+    "EXP_BASE": 0,
+    "EXP_ACT": 800,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 190,
+    "EXP_BONUS": 400
+  },
+  "127": {
+    "EXP_ID": 127,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 170,
+    "EXP_BONUS": 300
+  },
+  "128": {
+    "EXP_ID": 128,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 150,
+    "EXP_BONUS": 200
+  },
+  "129": {
+    "EXP_ID": 129,
+    "EXP_SING": 500,
+    "EXP_BASE": 0,
+    "EXP_ACT": 1000,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 260,
+    "EXP_BONUS": 600
+  },
+  "130": {
+    "EXP_ID": 130,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 800,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 220,
+    "EXP_BONUS": 500
+  },
+  "131": {
+    "EXP_ID": 131,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 180,
+    "EXP_BONUS": 400
+  },
+  "132": {
+    "EXP_ID": 132,
+    "EXP_SING": 500,
+    "EXP_BASE": 0,
+    "EXP_ACT": 1000,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 290,
+    "EXP_BONUS": 800
+  },
+  "133": {
+    "EXP_ID": 133,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 800,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 250,
+    "EXP_BONUS": 700
+  },
+  "134": {
+    "EXP_ID": 134,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 300,
+    "EXP_FAN": 210,
+    "EXP_BONUS": 600
+  },
+  "135": {
+    "EXP_ID": 135,
+    "EXP_SING": 500,
+    "EXP_BASE": 0,
+    "EXP_ACT": 1000,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 310,
+    "EXP_BONUS": 1100
+  },
+  "136": {
+    "EXP_ID": 136,
+    "EXP_SING": 300,
+    "EXP_BASE": 0,
+    "EXP_ACT": 800,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 280,
+    "EXP_BONUS": 900
+  },
+  "137": {
+    "EXP_ID": 137,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 240,
+    "EXP_BONUS": 800
+  },
+  "138": {
+    "EXP_ID": 138,
+    "EXP_SING": 100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 1200,
+    "EXP_FAN": 140,
+    "EXP_BONUS": 200
+  },
+  "139": {
+    "EXP_ID": 139,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 1000,
+    "EXP_FAN": 90,
+    "EXP_BONUS": 100
+  },
+  "140": {
+    "EXP_ID": 140,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 800,
+    "EXP_FAN": 40,
+    "EXP_BONUS": 0
+  },
+  "141": {
+    "EXP_ID": 141,
+    "EXP_SING": 200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 300,
+    "EXP_CHARM": 1400,
+    "EXP_FAN": 200,
+    "EXP_BONUS": 400
+  },
+  "142": {
+    "EXP_ID": 142,
+    "EXP_SING": 200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 1200,
+    "EXP_FAN": 130,
+    "EXP_BONUS": 200
+  },
+  "143": {
+    "EXP_ID": 143,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 900,
+    "EXP_FAN": 60,
+    "EXP_BONUS": 0
+  },
+  "144": {
+    "EXP_ID": 144,
+    "EXP_SING": 400,
+    "EXP_BASE": 0,
+    "EXP_ACT": 400,
+    "EXP_CHARM": 1800,
+    "EXP_FAN": 230,
+    "EXP_BONUS": 800
+  },
+  "145": {
+    "EXP_ID": 145,
+    "EXP_SING": 200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 400,
+    "EXP_CHARM": 1600,
+    "EXP_FAN": 150,
+    "EXP_BONUS": 400
+  },
+  "146": {
+    "EXP_ID": 146,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 1200,
+    "EXP_FAN": 70,
+    "EXP_BONUS": 0
+  },
+  "147": {
+    "EXP_ID": 147,
+    "EXP_SING": 1800,
+    "EXP_BASE": 0,
+    "EXP_ACT": 100,
+    "EXP_CHARM": 100,
+    "EXP_FAN": 300,
+    "EXP_BONUS": 300
+  },
+  "148": {
+    "EXP_ID": 148,
+    "EXP_SING": 1500,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 100,
+    "EXP_FAN": 200,
+    "EXP_BONUS": 200
+  },
+  "149": {
+    "EXP_ID": 149,
+    "EXP_SING": 1000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 100,
+    "EXP_BONUS": 0
+  },
+  "150": {
+    "EXP_ID": 150,
+    "EXP_SING": 2200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 100,
+    "EXP_CHARM": 100,
+    "EXP_FAN": 370,
+    "EXP_BONUS": 600
+  },
+  "151": {
+    "EXP_ID": 151,
+    "EXP_SING": 1800,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 100,
+    "EXP_FAN": 250,
+    "EXP_BONUS": 400
+  },
+  "152": {
+    "EXP_ID": 152,
+    "EXP_SING": 1200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 130,
+    "EXP_BONUS": 0
+  },
+  "153": {
+    "EXP_ID": 153,
+    "EXP_SING": 2600,
+    "EXP_BASE": 0,
+    "EXP_ACT": 300,
+    "EXP_CHARM": 300,
+    "EXP_FAN": 450,
+    "EXP_BONUS": 1000
+  },
+  "154": {
+    "EXP_ID": 154,
+    "EXP_SING": 2200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 100,
+    "EXP_CHARM": 100,
+    "EXP_FAN": 300,
+    "EXP_BONUS": 700
+  },
+  "155": {
+    "EXP_ID": 155,
+    "EXP_SING": 1800,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 150,
+    "EXP_BONUS": 0
+  },
+  "156": {
+    "EXP_ID": 156,
+    "EXP_SING": 100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 2000,
+    "EXP_CHARM": 100,
+    "EXP_FAN": 230,
+    "EXP_BONUS": 400
+  },
+  "157": {
+    "EXP_ID": 157,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 1600,
+    "EXP_CHARM": 100,
+    "EXP_FAN": 160,
+    "EXP_BONUS": 300
+  },
+  "158": {
+    "EXP_ID": 158,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 1100,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 90,
+    "EXP_BONUS": 0
+  },
+  "159": {
+    "EXP_ID": 159,
+    "EXP_SING": 100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 2500,
+    "EXP_CHARM": 100,
+    "EXP_FAN": 280,
+    "EXP_BONUS": 800
+  },
+  "160": {
+    "EXP_ID": 160,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 2100,
+    "EXP_CHARM": 100,
+    "EXP_FAN": 200,
+    "EXP_BONUS": 600
+  },
+  "161": {
+    "EXP_ID": 161,
+    "EXP_SING": 0,
+    "EXP_BASE": 0,
+    "EXP_ACT": 1400,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 120,
+    "EXP_BONUS": 0
+  },
+  "162": {
+    "EXP_ID": 162,
+    "EXP_SING": 200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 3000,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "163": {
+    "EXP_ID": 163,
+    "EXP_SING": 200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 3000,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "164": {
+    "EXP_ID": 164,
+    "EXP_SING": 200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 3000,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "165": {
+    "EXP_ID": 165,
+    "EXP_SING": 200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 3000,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "166": {
+    "EXP_ID": 166,
+    "EXP_SING": 200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 3000,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "167": {
+    "EXP_ID": 167,
+    "EXP_SING": 200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 4000,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "168": {
+    "EXP_ID": 168,
+    "EXP_SING": 1000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 300,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "169": {
+    "EXP_ID": 169,
+    "EXP_SING": 900,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "170": {
+    "EXP_ID": 170,
+    "EXP_SING": 700,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "171": {
+    "EXP_ID": 171,
+    "EXP_SING": 1300,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 300,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 50
+  },
+  "172": {
+    "EXP_ID": 172,
+    "EXP_SING": 1000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 300,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "173": {
+    "EXP_ID": 173,
+    "EXP_SING": 800,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "174": {
+    "EXP_ID": 174,
+    "EXP_SING": 1500,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 100
+  },
+  "175": {
+    "EXP_ID": 175,
+    "EXP_SING": 1200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "176": {
+    "EXP_ID": 176,
+    "EXP_SING": 900,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "177": {
+    "EXP_ID": 177,
+    "EXP_SING": 1000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 300,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "178": {
+    "EXP_ID": 178,
+    "EXP_SING": 900,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "179": {
+    "EXP_ID": 179,
+    "EXP_SING": 700,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "180": {
+    "EXP_ID": 180,
+    "EXP_SING": 1300,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 300,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 50
+  },
+  "181": {
+    "EXP_ID": 181,
+    "EXP_SING": 1000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 300,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "182": {
+    "EXP_ID": 182,
+    "EXP_SING": 800,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "183": {
+    "EXP_ID": 183,
+    "EXP_SING": 1500,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 100
+  },
+  "184": {
+    "EXP_ID": 184,
+    "EXP_SING": 1200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "185": {
+    "EXP_ID": 185,
+    "EXP_SING": 900,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "186": {
+    "EXP_ID": 186,
+    "EXP_SING": 1000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 300,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "187": {
+    "EXP_ID": 187,
+    "EXP_SING": 900,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "188": {
+    "EXP_ID": 188,
+    "EXP_SING": 700,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "189": {
+    "EXP_ID": 189,
+    "EXP_SING": 1300,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 300,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 50
+  },
+  "190": {
+    "EXP_ID": 190,
+    "EXP_SING": 1000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 300,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "191": {
+    "EXP_ID": 191,
+    "EXP_SING": 800,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "192": {
+    "EXP_ID": 192,
+    "EXP_SING": 1500,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 100
+  },
+  "193": {
+    "EXP_ID": 193,
+    "EXP_SING": 1200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "194": {
+    "EXP_ID": 194,
+    "EXP_SING": 900,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "195": {
+    "EXP_ID": 195,
+    "EXP_SING": 1200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "196": {
+    "EXP_ID": 196,
+    "EXP_SING": 1000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "197": {
+    "EXP_ID": 197,
+    "EXP_SING": 700,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "198": {
+    "EXP_ID": 198,
+    "EXP_SING": 1400,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 50
+  },
+  "199": {
+    "EXP_ID": 199,
+    "EXP_SING": 1100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "200": {
+    "EXP_ID": 200,
+    "EXP_SING": 700,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "201": {
+    "EXP_ID": 201,
+    "EXP_SING": 1600,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 100
+  },
+  "202": {
+    "EXP_ID": 202,
+    "EXP_SING": 1200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "203": {
+    "EXP_ID": 203,
+    "EXP_SING": 800,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "204": {
+    "EXP_ID": 204,
+    "EXP_SING": 1200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "205": {
+    "EXP_ID": 205,
+    "EXP_SING": 1000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "206": {
+    "EXP_ID": 206,
+    "EXP_SING": 700,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "207": {
+    "EXP_ID": 207,
+    "EXP_SING": 1400,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 100
+  },
+  "208": {
+    "EXP_ID": 208,
+    "EXP_SING": 1100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "209": {
+    "EXP_ID": 209,
+    "EXP_SING": 700,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "210": {
+    "EXP_ID": 210,
+    "EXP_SING": 1600,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 150
+  },
+  "211": {
+    "EXP_ID": 211,
+    "EXP_SING": 1200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "212": {
+    "EXP_ID": 212,
+    "EXP_SING": 800,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "213": {
+    "EXP_ID": 213,
+    "EXP_SING": 1200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "214": {
+    "EXP_ID": 214,
+    "EXP_SING": 1000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "215": {
+    "EXP_ID": 215,
+    "EXP_SING": 700,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "216": {
+    "EXP_ID": 216,
+    "EXP_SING": 1400,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 100
+  },
+  "217": {
+    "EXP_ID": 217,
+    "EXP_SING": 1100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "218": {
+    "EXP_ID": 218,
+    "EXP_SING": 700,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "219": {
+    "EXP_ID": 219,
+    "EXP_SING": 1600,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 150
+  },
+  "220": {
+    "EXP_ID": 220,
+    "EXP_SING": 1200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "221": {
+    "EXP_ID": 221,
+    "EXP_SING": 800,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "222": {
+    "EXP_ID": 222,
+    "EXP_SING": 1400,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "223": {
+    "EXP_ID": 223,
+    "EXP_SING": 1200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 100,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "224": {
+    "EXP_ID": 224,
+    "EXP_SING": 1000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "225": {
+    "EXP_ID": 225,
+    "EXP_SING": 1600,
+    "EXP_BASE": 0,
+    "EXP_ACT": 300,
+    "EXP_CHARM": 300,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 50
+  },
+  "226": {
+    "EXP_ID": 226,
+    "EXP_SING": 1300,
+    "EXP_BASE": 0,
+    "EXP_ACT": 300,
+    "EXP_CHARM": 300,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "227": {
+    "EXP_ID": 227,
+    "EXP_SING": 1000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "228": {
+    "EXP_ID": 228,
+    "EXP_SING": 1800,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 100
+  },
+  "229": {
+    "EXP_ID": 229,
+    "EXP_SING": 1400,
+    "EXP_BASE": 0,
+    "EXP_ACT": 300,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "230": {
+    "EXP_ID": 230,
+    "EXP_SING": 1100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "231": {
+    "EXP_ID": 231,
+    "EXP_SING": 1400,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "232": {
+    "EXP_ID": 232,
+    "EXP_SING": 1200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 100,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "233": {
+    "EXP_ID": 233,
+    "EXP_SING": 1000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "234": {
+    "EXP_ID": 234,
+    "EXP_SING": 1600,
+    "EXP_BASE": 0,
+    "EXP_ACT": 300,
+    "EXP_CHARM": 300,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 100
+  },
+  "235": {
+    "EXP_ID": 235,
+    "EXP_SING": 1300,
+    "EXP_BASE": 0,
+    "EXP_ACT": 300,
+    "EXP_CHARM": 300,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "236": {
+    "EXP_ID": 236,
+    "EXP_SING": 1000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "237": {
+    "EXP_ID": 237,
+    "EXP_SING": 1800,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 150
+  },
+  "238": {
+    "EXP_ID": 238,
+    "EXP_SING": 1400,
+    "EXP_BASE": 0,
+    "EXP_ACT": 300,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "239": {
+    "EXP_ID": 239,
+    "EXP_SING": 1100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "240": {
+    "EXP_ID": 240,
+    "EXP_SING": 1400,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "241": {
+    "EXP_ID": 241,
+    "EXP_SING": 1200,
+    "EXP_BASE": 0,
+    "EXP_ACT": 100,
+    "EXP_CHARM": 200,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "242": {
+    "EXP_ID": 242,
+    "EXP_SING": 1000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "243": {
+    "EXP_ID": 243,
+    "EXP_SING": 1600,
+    "EXP_BASE": 0,
+    "EXP_ACT": 300,
+    "EXP_CHARM": 300,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 100
+  },
+  "244": {
+    "EXP_ID": 244,
+    "EXP_SING": 1300,
+    "EXP_BASE": 0,
+    "EXP_ACT": 300,
+    "EXP_CHARM": 300,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "245": {
+    "EXP_ID": 245,
+    "EXP_SING": 1000,
+    "EXP_BASE": 0,
+    "EXP_ACT": 0,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "246": {
+    "EXP_ID": 246,
+    "EXP_SING": 1800,
+    "EXP_BASE": 0,
+    "EXP_ACT": 500,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 150
+  },
+  "247": {
+    "EXP_ID": 247,
+    "EXP_SING": 1400,
+    "EXP_BASE": 0,
+    "EXP_ACT": 300,
+    "EXP_CHARM": 500,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "248": {
+    "EXP_ID": 248,
+    "EXP_SING": 1100,
+    "EXP_BASE": 0,
+    "EXP_ACT": 200,
+    "EXP_CHARM": 0,
+    "EXP_FAN": 0,
+    "EXP_BONUS": 0
+  },
+  "types": {
+    "EXP_NAME": "comment",
+    "EXP_ID": "special_value",
+    "EXP_SING": "special_value",
+    "EXP_BASE": "special_value",
+    "EXP_ACT": "special_value",
+    "EXP_CHARM": "special_value",
+    "EXP_FAN": "special_value",
+    "EXP_BONUS": "special_value"
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "0": {
+    "SKILL": "HP_MAX_UP1",
+    "EXP_KIR": "01030029",
+    "HP_ADD_VALUE": 200,
+    "HEAT_ADD_VALUE": 0
+  },
+  "1": {
+    "SKILL": "HP_MAX_UP2",
+    "EXP_KIR": "0103002a",
+    "HP_ADD_VALUE": 200,
+    "HEAT_ADD_VALUE": 0
+  },
+  "2": {
+    "SKILL": "HP_MAX_UP3",
+    "EXP_KIR": "0103002b",
+    "HP_ADD_VALUE": 200,
+    "HEAT_ADD_VALUE": 0
+  },
+  "3": {
+    "SKILL": "HEAT_MAX_UP1",
+    "EXP_KIR": "0103002c",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 1500
+  },
+  "4": {
+    "SKILL": "HEAT_MAX_UP2",
+    "EXP_KIR": "0103002d",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 1500
+  },
+  "5": {
+    "SKILL": "HEAT_MAX_UP3",
+    "EXP_KIR": "0103002e",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 1500
+  },
+  "6": {
+    "SKILL": "HEAT_MAX_UP4",
+    "EXP_KIR": "0103002f",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 1500
+  },
+  "7": {
+    "SKILL": "HEAT_MAX_UP5",
+    "EXP_KIR": "01030030",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 1500
+  },
+  "8": {
+    "SKILL": "HEAT_RATIO_UP1",
+    "EXP_KIR": "01030031",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 0
+  },
+  "9": {
+    "SKILL": "HEAT_RATIO_UP2",
+    "EXP_KIR": "01030032",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 0
+  },
+  "10": {
+    "SKILL": "HEAT_RATIO_UP3",
+    "EXP_KIR": "01030033",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 0
+  },
+  "11": {
+    "SKILL": "HEAT_RATIO_UP4",
+    "EXP_KIR": "01030034",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 0
+  },
+  "12": {
+    "SKILL": "HEAT_RATIO_UP5",
+    "EXP_KIR": "01030035",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 0
+  },
+  "13": {
+    "SKILL": "HP_MAX_UP1",
+    "EXP_KIR": "01050028",
+    "HP_ADD_VALUE": 200,
+    "HEAT_ADD_VALUE": 0
+  },
+  "14": {
+    "SKILL": "HP_MAX_UP2",
+    "EXP_KIR": "01050029",
+    "HP_ADD_VALUE": 200,
+    "HEAT_ADD_VALUE": 0
+  },
+  "15": {
+    "SKILL": "HP_MAX_UP3",
+    "EXP_KIR": "0105002a",
+    "HP_ADD_VALUE": 200,
+    "HEAT_ADD_VALUE": 0
+  },
+  "16": {
+    "SKILL": "HEAT_MAX_UP1",
+    "EXP_KIR": "0105002b",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 1500
+  },
+  "17": {
+    "SKILL": "HEAT_MAX_UP2",
+    "EXP_KIR": "0105002c",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 1500
+  },
+  "18": {
+    "SKILL": "HEAT_MAX_UP3",
+    "EXP_KIR": "0105002d",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 1500
+  },
+  "19": {
+    "SKILL": "HEAT_MAX_UP4",
+    "EXP_KIR": "0105002e",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 1500
+  },
+  "20": {
+    "SKILL": "HEAT_MAX_UP5",
+    "EXP_KIR": "0105002f",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 1500
+  },
+  "21": {
+    "SKILL": "HEAT_RATIO_UP1",
+    "EXP_KIR": "01050030",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 0
+  },
+  "22": {
+    "SKILL": "HEAT_RATIO_UP2",
+    "EXP_KIR": "01050031",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 0
+  },
+  "23": {
+    "SKILL": "HEAT_RATIO_UP3",
+    "EXP_KIR": "01050032",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 0
+  },
+  "24": {
+    "SKILL": "HEAT_RATIO_UP4",
+    "EXP_KIR": "01050033",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 0
+  },
+  "25": {
+    "SKILL": "HEAT_RATIO_UP5",
+    "EXP_KIR": "01050034",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 0
+  },
+  "26": {
+    "SKILL": "HP_MAX_UP1",
+    "EXP_KIR": "0104002a",
+    "HP_ADD_VALUE": 250,
+    "HEAT_ADD_VALUE": 0
+  },
+  "27": {
+    "SKILL": "HP_MAX_UP2",
+    "EXP_KIR": "0104002b",
+    "HP_ADD_VALUE": 250,
+    "HEAT_ADD_VALUE": 0
+  },
+  "28": {
+    "SKILL": "HP_MAX_UP3",
+    "EXP_KIR": "0104002c",
+    "HP_ADD_VALUE": 250,
+    "HEAT_ADD_VALUE": 0
+  },
+  "29": {
+    "SKILL": "HEAT_MAX_UP1",
+    "EXP_KIR": "0104002d",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 1500
+  },
+  "30": {
+    "SKILL": "HEAT_MAX_UP2",
+    "EXP_KIR": "0104002e",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 1500
+  },
+  "31": {
+    "SKILL": "HEAT_MAX_UP3",
+    "EXP_KIR": "0104002f",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 1500
+  },
+  "32": {
+    "SKILL": "HEAT_MAX_UP4",
+    "EXP_KIR": "01040030",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 1500
+  },
+  "33": {
+    "SKILL": "HEAT_MAX_UP5",
+    "EXP_KIR": "01040031",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 1500
+  },
+  "34": {
+    "SKILL": "HEAT_RATIO_UP1",
+    "EXP_KIR": "01040032",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 0
+  },
+  "35": {
+    "SKILL": "HEAT_RATIO_UP2",
+    "EXP_KIR": "01040033",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 0
+  },
+  "36": {
+    "SKILL": "HEAT_RATIO_UP3",
+    "EXP_KIR": "01040034",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 0
+  },
+  "37": {
+    "SKILL": "HEAT_RATIO_UP4",
+    "EXP_KIR": "01040035",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 0
+  },
+  "38": {
+    "SKILL": "HEAT_RATIO_UP5",
+    "EXP_KIR": "01040036",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 0
+  },
+  "39": {
+    "SKILL": "HP_MAX_UP1",
+    "EXP_KIR": "0107002b",
+    "HP_ADD_VALUE": 200,
+    "HEAT_ADD_VALUE": 0
+  },
+  "40": {
+    "SKILL": "HP_MAX_UP2",
+    "EXP_KIR": "0107002c",
+    "HP_ADD_VALUE": 200,
+    "HEAT_ADD_VALUE": 0
+  },
+  "41": {
+    "SKILL": "HP_MAX_UP3",
+    "EXP_KIR": "0107002d",
+    "HP_ADD_VALUE": 200,
+    "HEAT_ADD_VALUE": 0
+  },
+  "42": {
+    "SKILL": "HEAT_MAX_UP1",
+    "EXP_KIR": "0107002e",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 1500
+  },
+  "43": {
+    "SKILL": "HEAT_MAX_UP2",
+    "EXP_KIR": "0107002f",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 1500
+  },
+  "44": {
+    "SKILL": "HEAT_MAX_UP3",
+    "EXP_KIR": "01070030",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 1500
+  },
+  "45": {
+    "SKILL": "HEAT_MAX_UP4",
+    "EXP_KIR": "01070031",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 1500
+  },
+  "46": {
+    "SKILL": "HEAT_MAX_UP5",
+    "EXP_KIR": "01070032",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 1500
+  },
+  "47": {
+    "SKILL": "HEAT_RATIO_UP1",
+    "EXP_KIR": "01070033",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 0
+  },
+  "48": {
+    "SKILL": "HEAT_RATIO_UP2",
+    "EXP_KIR": "01070034",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 0
+  },
+  "49": {
+    "SKILL": "HEAT_RATIO_UP3",
+    "EXP_KIR": "01070035",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 0
+  },
+  "50": {
+    "SKILL": "HEAT_RATIO_UP4",
+    "EXP_KIR": "01070036",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 0
+  },
+  "51": {
+    "SKILL": "HEAT_RATIO_UP5",
+    "EXP_KIR": "01070037",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 0
+  },
+  "52": {
+    "SKILL": "HP_MAX_UP1",
+    "EXP_KIR": "01060017",
+    "HP_ADD_VALUE": 200,
+    "HEAT_ADD_VALUE": 0
+  },
+  "53": {
+    "SKILL": "HP_MAX_UP2",
+    "EXP_KIR": "01060018",
+    "HP_ADD_VALUE": 200,
+    "HEAT_ADD_VALUE": 0
+  },
+  "54": {
+    "SKILL": "HP_MAX_UP3",
+    "EXP_KIR": "01060019",
+    "HP_ADD_VALUE": 200,
+    "HEAT_ADD_VALUE": 0
+  },
+  "55": {
+    "SKILL": "HEAT_MAX_UP1",
+    "EXP_KIR": "0106001d",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 1500
+  },
+  "56": {
+    "SKILL": "HEAT_MAX_UP2",
+    "EXP_KIR": "0106001e",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 1500
+  },
+  "57": {
+    "SKILL": "HEAT_MAX_UP3",
+    "EXP_KIR": "0106001f",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 1500
+  },
+  "58": {
+    "SKILL": "HEAT_MAX_UP4",
+    "EXP_KIR": "01060020",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 1500
+  },
+  "59": {
+    "SKILL": "HEAT_MAX_UP5",
+    "EXP_KIR": "01060021",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 1500
+  },
+  "60": {
+    "SKILL": "HEAT_RATIO_UP1",
+    "EXP_KIR": "01060022",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 0
+  },
+  "61": {
+    "SKILL": "HEAT_RATIO_UP2",
+    "EXP_KIR": "01060023",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 0
+  },
+  "62": {
+    "SKILL": "HEAT_RATIO_UP3",
+    "EXP_KIR": "01060024",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 0
+  },
+  "63": {
+    "SKILL": "HEAT_RATIO_UP4",
+    "EXP_KIR": "01060025",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 0
+  },
+  "64": {
+    "SKILL": "HEAT_RATIO_UP5",
+    "EXP_KIR": "01060026",
+    "HP_ADD_VALUE": 0,
+    "HEAT_ADD_VALUE": 0
+  },
+  "types": {
+    "SKILL": "string",
+    "EXP_KIR": "special_scenariocompare",
+    "HP_ADD_VALUE": "special_value",
+    "HEAT_ADD_VALUE": "special_value"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "0": {
+    "KEY": "GAYA_KAMURO_CMN",
+    "VALUE": "0"
+  },
+  "1": {
+    "KEY": "GAYA_KAMURO_KNT",
+    "VALUE": "100"
+  },
+  "2": {
+    "KEY": "GAYA_KAMURO_HKT",
+    "VALUE": "0"
+  },
+  "3": {
+    "KEY": "GAYA_KAMURO_NGY",
+    "VALUE": "0"
+  },
+  "4": {
+    "KEY": "GAYA_KAMURO_OSK",
+    "VALUE": "0"
+  },
+  "5": {
+    "KEY": "GAYA_OSAKA_CMN",
+    "VALUE": "0"
+  },
+  "6": {
+    "KEY": "GAYA_OSAKA_KNT",
+    "VALUE": "0"
+  },
+  "7": {
+    "KEY": "GAYA_OSAKA_HKT",
+    "VALUE": "0"
+  },
+  "8": {
+    "KEY": "GAYA_OSAKA_NGY",
+    "VALUE": "0"
+  },
+  "9": {
+    "KEY": "GAYA_OSAKA_OSK",
+    "VALUE": "100"
+  },
+  "10": {
+    "KEY": "GAYA_FUKUOKA_CMN",
+    "VALUE": "0"
+  },
+  "11": {
+    "KEY": "GAYA_FUKUOKA_KNT",
+    "VALUE": "0"
+  },
+  "12": {
+    "KEY": "GAYA_FUKUOKA_HKT",
+    "VALUE": "100"
+  },
+  "13": {
+    "KEY": "GAYA_FUKUOKA_NGY",
+    "VALUE": "0"
+  },
+  "14": {
+    "KEY": "GAYA_FUKUOKA_OSK",
+    "VALUE": "0"
+  },
+  "15": {
+    "KEY": "GAYA_NAGOYA_CMN",
+    "VALUE": "0"
+  },
+  "16": {
+    "KEY": "GAYA_NAGOYA_KNT",
+    "VALUE": "0"
+  },
+  "17": {
+    "KEY": "GAYA_NAGOYA_HKT",
+    "VALUE": "0"
+  },
+  "18": {
+    "KEY": "GAYA_NAGOYA_NGY",
+    "VALUE": "100"
+  },
+  "19": {
+    "KEY": "GAYA_NAGOYA_OSK",
+    "VALUE": "0"
+  },
+  "20": {
+    "KEY": "GAYA_SAPPORO_CMN",
+    "VALUE": "0"
+  },
+  "21": {
+    "KEY": "GAYA_SAPPORO_KNT",
+    "VALUE": "100"
+  },
+  "22": {
+    "KEY": "GAYA_SAPPORO_HKT",
+    "VALUE": "0"
+  },
+  "23": {
+    "KEY": "GAYA_SAPPORO_NGY",
+    "VALUE": "0"
+  },
+  "24": {
+    "KEY": "GAYA_SAPPORO_OSK",
+    "VALUE": "0"
+  },
+  "types": {
+    "KEY": "string",
+    "VALUE": "string",
+    "": "comment"
+  }
+}

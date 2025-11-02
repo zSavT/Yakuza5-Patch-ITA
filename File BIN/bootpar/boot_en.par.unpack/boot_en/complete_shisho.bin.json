@@ -1,0 +1,416 @@
+{
+  "0": {
+    "CATEGORY": "Tatsuya",
+    "NAME": "Kiryu in Training",
+    "SCENARIO_STATUS": "8119000d",
+    "EXPLANATION": "Tatsuya has begun to show Kiryu what being a gourmet is all about."
+  },
+  "1": {
+    "CATEGORY": "Tatsuya",
+    "NAME": "Gourmet Kiryu",
+    "SCENARIO_STATUS": "8119000e",
+    "EXPLANATION": "Tatsuya has shown Kiryu what it takes to be a master gourmet."
+  },
+  "2": {
+    "CATEGORY": "Tatsuya",
+    "NAME": "Gourmet King Kiryu",
+    "SCENARIO_STATUS": "8119000f",
+    "EXPLANATION": "Tatsuya has shown Kiryu what it takes to be a king of gourmets."
+  },
+  "3": {
+    "CATEGORY": "Tatsuya",
+    "NAME": "New Dish (Kiryu)",
+    "SCENARIO_STATUS": "8119000c",
+    "EXPLANATION": "Kiryu can now order Tatsuya's new dish at the Senbo food stall in \nNagasugai."
+  },
+  "4": {
+    "CATEGORY": "Tatsuya",
+    "NAME": "Saejima in Training",
+    "SCENARIO_STATUS": "8119001d",
+    "EXPLANATION": "Tatsuya has begun to show Saejima what being a gourmet is all about."
+  },
+  "5": {
+    "CATEGORY": "Tatsuya",
+    "NAME": "Gourmet Saejima",
+    "SCENARIO_STATUS": "8119001e",
+    "EXPLANATION": "Tatsuya has shown Saejima what it takes to be a master gourmet."
+  },
+  "6": {
+    "CATEGORY": "Tatsuya",
+    "NAME": "Gourmet King Saejima",
+    "SCENARIO_STATUS": "8119001f",
+    "EXPLANATION": "Tatsuya has shown Saejima what it takes to be a king of gourmets."
+  },
+  "7": {
+    "CATEGORY": "Tatsuya",
+    "NAME": "New Dish (Saejima)",
+    "SCENARIO_STATUS": "8119001c",
+    "EXPLANATION": "Saejima can now order Tatsuya's new dish at Cafﾃｩ Alps in Tsukimino."
+  },
+  "8": {
+    "CATEGORY": "Tatsuya",
+    "NAME": "Haruka in Training",
+    "SCENARIO_STATUS": "8119002d",
+    "EXPLANATION": "Tatsuya has begun to show Haruka what being a gourmet is all about."
+  },
+  "9": {
+    "CATEGORY": "Tatsuya",
+    "NAME": "Gourmet Haruka",
+    "SCENARIO_STATUS": "8119002e",
+    "EXPLANATION": "Tatsuya has shown Haruka what it takes to be a master gourmet."
+  },
+  "10": {
+    "CATEGORY": "Tatsuya",
+    "NAME": "Gourmet Queen Haruka",
+    "SCENARIO_STATUS": "8119002f",
+    "EXPLANATION": "Tatsuya has shown Haruka what it takes to be a queen of gourmets."
+  },
+  "11": {
+    "CATEGORY": "Tatsuya",
+    "NAME": "New Dish (Haruka)",
+    "SCENARIO_STATUS": "8119002c",
+    "EXPLANATION": "Haruka can now order Tatsuya's new dish at Montblanc Coffee in Sotenbori."
+  },
+  "12": {
+    "CATEGORY": "Tatsuya",
+    "NAME": "Akiyama in Training",
+    "SCENARIO_STATUS": "8119003d",
+    "EXPLANATION": "Tatsuya has begun to show Akiyama what being a gourmet is all about."
+  },
+  "13": {
+    "CATEGORY": "Tatsuya",
+    "NAME": "Gourmet Akiyama",
+    "SCENARIO_STATUS": "8119003e",
+    "EXPLANATION": "Tatsuya has shown Akiyama what it takes to be a master gourmet."
+  },
+  "14": {
+    "CATEGORY": "Tatsuya",
+    "NAME": "Gourmet King Akiyama",
+    "SCENARIO_STATUS": "8119003f",
+    "EXPLANATION": "Tatsuya has shown Akiyama what it takes to be a king of gourmets."
+  },
+  "15": {
+    "CATEGORY": "Tatsuya",
+    "NAME": "New Dish (Akiyama)",
+    "SCENARIO_STATUS": "8119003c",
+    "EXPLANATION": "Akiyama can now order Tatsuya's new dish at Kanrai in Kamurocho."
+  },
+  "16": {
+    "CATEGORY": "Tatsuya",
+    "NAME": "Shinada in Training",
+    "SCENARIO_STATUS": "8119004d",
+    "EXPLANATION": "Tatsuya has begun to show Shinada what being a gourmet is all about."
+  },
+  "17": {
+    "CATEGORY": "Tatsuya",
+    "NAME": "Gourmet Shinada",
+    "SCENARIO_STATUS": "8119004e",
+    "EXPLANATION": "Tatsuya has shown Shinada what it takes to be a master gourmet."
+  },
+  "18": {
+    "CATEGORY": "Tatsuya",
+    "NAME": "Gourmet King Shinada",
+    "SCENARIO_STATUS": "8119004f",
+    "EXPLANATION": "Tatsuya has shown Shinada what it takes to be a king of gourmets."
+  },
+  "19": {
+    "CATEGORY": "Tatsuya",
+    "NAME": "New Dish (Shinada)",
+    "SCENARIO_STATUS": "8119004c",
+    "EXPLANATION": "Shinada can now order Tatsuya's new dish at Cafﾃｩ Alps in Kineicho."
+  },
+  "20": {
+    "CATEGORY": "Minamida",
+    "NAME": "Nagasugai Road Battle ",
+    "SCENARIO_STATUS": "8116009f",
+    "EXPLANATION": "You completed the Nagasugai Road Battle."
+  },
+  "21": {
+    "CATEGORY": "Minamida",
+    "NAME": "Tsukimino Road Battle ",
+    "SCENARIO_STATUS": "811600a0",
+    "EXPLANATION": "You completed the Tsukimino Road Battle."
+  },
+  "22": {
+    "CATEGORY": "Minamida",
+    "NAME": "Sotenbori Road Battle: Haruka Sotenbori",
+    "SCENARIO_STATUS": "811600a1",
+    "EXPLANATION": "You completed Haruka's Sotenbori Road Battle."
+  },
+  "23": {
+    "CATEGORY": "Minamida",
+    "NAME": "Sotenbori Road Battle: Akiyama Sotenbori",
+    "SCENARIO_STATUS": "811600a2",
+    "EXPLANATION": "You completed Akiyama's Sotenbori Road Battle."
+  },
+  "24": {
+    "CATEGORY": "Minamida",
+    "NAME": "Kineicho Road Battle ",
+    "SCENARIO_STATUS": "811600a3",
+    "EXPLANATION": "You completed the Kineicho Road Battle."
+  },
+  "25": {
+    "CATEGORY": "Minamida",
+    "NAME": "Kamurocho Road Battle",
+    "SCENARIO_STATUS": "811600a4",
+    "EXPLANATION": "You completed the Kamurocho Road Battle."
+  },
+  "26": {
+    "CATEGORY": "Minamida",
+    "NAME": "Yahata Flashback",
+    "SCENARIO_STATUS": "811600a5",
+    "EXPLANATION": "You completed the Yahata Flashback Battle."
+  },
+  "27": {
+    "CATEGORY": "Minamida",
+    "NAME": "Kugihara Flashback",
+    "SCENARIO_STATUS": "811600a6",
+    "EXPLANATION": "You completed the Kugihara Flashback Battle."
+  },
+  "28": {
+    "CATEGORY": "Minamida",
+    "NAME": "Ogita Flashback",
+    "SCENARIO_STATUS": "811600a7",
+    "EXPLANATION": "You completed the Ogita Flashback Battle."
+  },
+  "29": {
+    "CATEGORY": "Minamida",
+    "NAME": "Daigo Flashback",
+    "SCENARIO_STATUS": "811600a8",
+    "EXPLANATION": "You completed the Daigo Flashback Battle."
+  },
+  "30": {
+    "CATEGORY": "Sosuke",
+    "NAME": "Gale Scroll",
+    "SCENARIO_STATUS": "81110008",
+    "EXPLANATION": "You completed the Gale Scroll training."
+  },
+  "31": {
+    "CATEGORY": "Sosuke",
+    "NAME": "Heat Haze Scroll",
+    "SCENARIO_STATUS": "8111000c",
+    "EXPLANATION": "You completed the Heat Haze Scroll training."
+  },
+  "32": {
+    "CATEGORY": "Sosuke",
+    "NAME": "Flowing Water Scroll",
+    "SCENARIO_STATUS": "81110010",
+    "EXPLANATION": "You completed the Flowing Water Scroll training."
+  },
+  "33": {
+    "CATEGORY": "Sosuke",
+    "NAME": "Tiger's Den Scroll",
+    "SCENARIO_STATUS": "81110017",
+    "EXPLANATION": "You completed the Tiger's Den Scroll training."
+  },
+  "34": {
+    "CATEGORY": "Sosuke",
+    "NAME": "Ultimate Scroll",
+    "SCENARIO_STATUS": "8111001b",
+    "EXPLANATION": "You completed the Ultimate Scroll training."
+  },
+  "35": {
+    "CATEGORY": "Tendo",
+    "NAME": "Wisdom of the Soul",
+    "SCENARIO_STATUS": "8112000c",
+    "EXPLANATION": "You completed Wisdom of the Soul."
+  },
+  "36": {
+    "CATEGORY": "Tendo",
+    "NAME": "Wisdom of the Cliffs",
+    "SCENARIO_STATUS": "81120010",
+    "EXPLANATION": "You completed Wisdom of the Cliffs."
+  },
+  "37": {
+    "CATEGORY": "Tendo",
+    "NAME": "Wisdom of the Flames",
+    "SCENARIO_STATUS": "81120014",
+    "EXPLANATION": "You completed Wisdom of the Flames."
+  },
+  "38": {
+    "CATEGORY": "Tendo",
+    "NAME": "Wisdom of the Earth",
+    "SCENARIO_STATUS": "81120018",
+    "EXPLANATION": "You completed Wisdom of the Earth."
+  },
+  "39": {
+    "CATEGORY": "Tendo",
+    "NAME": "Wisdom of the Sky",
+    "SCENARIO_STATUS": "8112001c",
+    "EXPLANATION": "You completed Wisdom of the Sky."
+  },
+  "40": {
+    "CATEGORY": "Tendo",
+    "NAME": "Wisdom of the Truth",
+    "SCENARIO_STATUS": "81120020",
+    "EXPLANATION": "You completed Wisdom of the Truth."
+  },
+  "41": {
+    "CATEGORY": "Saigo",
+    "NAME": "Suicidal Running",
+    "SCENARIO_STATUS": "81130009",
+    "EXPLANATION": "You completed Suicidal Running."
+  },
+  "42": {
+    "CATEGORY": "Saigo",
+    "NAME": "Suicidal Shooting",
+    "SCENARIO_STATUS": "8113000e",
+    "EXPLANATION": "You completed Suicidal Shooting."
+  },
+  "43": {
+    "CATEGORY": "Saigo",
+    "NAME": "Suicidal Combat",
+    "SCENARIO_STATUS": "81130012",
+    "EXPLANATION": "You completed Suicidal Combat."
+  },
+  "44": {
+    "CATEGORY": "Saigo",
+    "NAME": "True Suic. Running",
+    "SCENARIO_STATUS": "81130018",
+    "EXPLANATION": "You completed True Suicidal Running."
+  },
+  "45": {
+    "CATEGORY": "Saigo",
+    "NAME": "True Suic. Shooting",
+    "SCENARIO_STATUS": "8113001c",
+    "EXPLANATION": "You completed True Suicidal Shooting."
+  },
+  "46": {
+    "CATEGORY": "Saigo",
+    "NAME": "True Suic. Combat",
+    "SCENARIO_STATUS": "81130020",
+    "EXPLANATION": "You completed True Suicidal Combat."
+  },
+  "47": {
+    "CATEGORY": "Ayanokoji",
+    "NAME": "Path to Manhood 1",
+    "SCENARIO_STATUS": "81140015",
+    "EXPLANATION": "You completed Path to Manhood (Step 1)."
+  },
+  "48": {
+    "CATEGORY": "Ayanokoji",
+    "NAME": "Path to Manhood 2",
+    "SCENARIO_STATUS": "8114001f",
+    "EXPLANATION": "You completed Path to Manhood (Step 2)."
+  },
+  "49": {
+    "CATEGORY": "Ayanokoji",
+    "NAME": "Path to Manhood 3",
+    "SCENARIO_STATUS": "8114002a",
+    "EXPLANATION": "You completed Path to Manhood (Step 3)."
+  },
+  "50": {
+    "CATEGORY": "Ayanokoji",
+    "NAME": "Path to Manhood 4",
+    "SCENARIO_STATUS": "81140035",
+    "EXPLANATION": "You completed Path to Manhood (Step 4)."
+  },
+  "51": {
+    "CATEGORY": "Ayanokoji",
+    "NAME": "Path to Manhood 5",
+    "SCENARIO_STATUS": "8114003f",
+    "EXPLANATION": "You completed Path to Manhood (Step 5)."
+  },
+  "52": {
+    "CATEGORY": "Ayanokoji",
+    "NAME": "Path to Manhood F",
+    "SCENARIO_STATUS": "81140053",
+    "EXPLANATION": "You completed Path to Manhood (Final)."
+  },
+  "53": {
+    "CATEGORY": "Yoko",
+    "NAME": "Secret to Good Health",
+    "SCENARIO_STATUS": "81150005",
+    "EXPLANATION": "You completed The Secret to Good Health."
+  },
+  "54": {
+    "CATEGORY": "Yoko",
+    "NAME": "Secret to Body Care",
+    "SCENARIO_STATUS": "8115000c",
+    "EXPLANATION": "You completed The Secret to Body Care."
+  },
+  "55": {
+    "CATEGORY": "Yoko",
+    "NAME": "How to Look Fabulous",
+    "SCENARIO_STATUS": "81150012",
+    "EXPLANATION": "You completed How to Look Fabulous."
+  },
+  "56": {
+    "CATEGORY": "Yoko",
+    "NAME": "Secret to Great Hair",
+    "SCENARIO_STATUS": "81150016",
+    "EXPLANATION": "You completed The Secret to Great Hair."
+  },
+  "57": {
+    "CATEGORY": "Yoko",
+    "NAME": "Believe in Yourself",
+    "SCENARIO_STATUS": "8115001d",
+    "EXPLANATION": "You completed Believe in Yourself."
+  },
+  "58": {
+    "CATEGORY": "Yoko",
+    "NAME": "Dream On",
+    "SCENARIO_STATUS": "81150027",
+    "EXPLANATION": "You completed Dream On."
+  },
+  "59": {
+    "CATEGORY": "Igarashi",
+    "NAME": "Heat Eye Training",
+    "SCENARIO_STATUS": "80f80022",
+    "EXPLANATION": "You completed river-fishing training."
+  },
+  "60": {
+    "CATEGORY": "Igarashi",
+    "NAME": "Swing Curs. Training",
+    "SCENARIO_STATUS": "80f80023",
+    "EXPLANATION": "You completed beginner course training at the batting center."
+  },
+  "61": {
+    "CATEGORY": "Igarashi",
+    "NAME": "Slugging Training",
+    "SCENARIO_STATUS": "80f80024",
+    "EXPLANATION": "You completed intermediate course training at the batting center."
+  },
+  "62": {
+    "CATEGORY": "Igarashi",
+    "NAME": "Batting Eye Training",
+    "SCENARIO_STATUS": "80f80025",
+    "EXPLANATION": "You completed pool training."
+  },
+  "63": {
+    "CATEGORY": "Igarashi",
+    "NAME": "Impact Training",
+    "SCENARIO_STATUS": "80f80026",
+    "EXPLANATION": "You completed karaoke training."
+  },
+  "64": {
+    "CATEGORY": "Igarashi",
+    "NAME": "Foul Training",
+    "SCENARIO_STATUS": "80f80027",
+    "EXPLANATION": "You completed UFO Catcher training."
+  },
+  "65": {
+    "CATEGORY": "Igarashi",
+    "NAME": "Heat Eye Training 2",
+    "SCENARIO_STATUS": "80f80029",
+    "EXPLANATION": "You completed nutrition training level 1."
+  },
+  "66": {
+    "CATEGORY": "Igarashi",
+    "NAME": "Heat Eye Training 3",
+    "SCENARIO_STATUS": "80f8002a",
+    "EXPLANATION": "You completed nutrition training level 2."
+  },
+  "67": {
+    "CATEGORY": "Igarashi",
+    "NAME": "Heat Eye Training F",
+    "SCENARIO_STATUS": "80f8002b",
+    "EXPLANATION": "You completed marlin-fishing training."
+  },
+  "types": {
+    "CATEGORY": "string_idx",
+    "NAME": "string_idx",
+    "SCENARIO_STATUS": "special_scenariostatus",
+    "EXPLANATION": "string"
+  }
+}

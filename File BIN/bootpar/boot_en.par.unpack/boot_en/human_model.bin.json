@@ -1,0 +1,1985 @@
+{
+  "0": {
+    "SCENARIO_STATUS": "80000001",
+    "STAGEID": "",
+    "REGION_TOKYO": "笳�",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_TX_off",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "1": {
+    "SCENARIO_STATUS": "80000001",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "笳�",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_o",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "2": {
+    "SCENARIO_STATUS": "80070000fffffffe00070006",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_TX_off",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "3": {
+    "SCENARIO_STATUS": "80080000fffffffe00080027",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_TX_off",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "4": {
+    "SCENARIO_STATUS": "80080027fffffffe00080028",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_TX_caba",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "5": {
+    "SCENARIO_STATUS": "80080028fffffffe00090000",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_TX_off",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "6": {
+    "SCENARIO_STATUS": "80090000fffffffe00090005",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_home",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "7": {
+    "SCENARIO_STATUS": "80090005fffffffe00780001",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_TX_off",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "8": {
+    "SCENARIO_STATUS": "80780001fffffffe00780006",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_TX_on",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "9": {
+    "SCENARIO_STATUS": "80780006fffffffe00090011",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_TX_off",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "10": {
+    "SCENARIO_STATUS": "80090011fffffffe00090015",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_TX_on",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "11": {
+    "SCENARIO_STATUS": "80090015fffffffe000a0000",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_TX_off",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "12": {
+    "SCENARIO_STATUS": "800a0000fffffffe000a0007",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_TX_off",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "13": {
+    "SCENARIO_STATUS": "800a0007fffffffe000a000a",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_TX_on",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "14": {
+    "SCENARIO_STATUS": "800a000afffffffe000a000e",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_TX_off",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "15": {
+    "SCENARIO_STATUS": "800a000efffffffe000a0014",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_home",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "16": {
+    "SCENARIO_STATUS": "800a0014fffffffe000b0000",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_TX_off",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "17": {
+    "SCENARIO_STATUS": "800b0000fffffffe000b002d",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_TX_off",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "18": {
+    "SCENARIO_STATUS": "800b002dfffffffe000b002e",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "19": {
+    "SCENARIO_STATUS": "800b002efffffffe000c0000",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "20": {
+    "SCENARIO_STATUS": "800c0000fffffffe000c0011",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima_2010",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "21": {
+    "SCENARIO_STATUS": "800c0011fffffffe000c001a",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima_G",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "22": {
+    "SCENARIO_STATUS": "800c001afffffffe000c001f",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima_G",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "23": {
+    "SCENARIO_STATUS": "800c001ffffffffe000c002c",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima_2010",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "24": {
+    "SCENARIO_STATUS": "800c002cfffffffe000c0050",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima_G",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "25": {
+    "SCENARIO_STATUS": "800c0050fffffffe000d0000",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima_GN_kega",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "26": {
+    "SCENARIO_STATUS": "800d0000fffffffe000d000b",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima_G",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "27": {
+    "SCENARIO_STATUS": "800d000bfffffffe000d0019",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima_2010",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "28": {
+    "SCENARIO_STATUS": "800d0019fffffffe000e0000",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima_G",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "29": {
+    "SCENARIO_STATUS": "800e0000fffffffe000e0005",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima_G",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "30": {
+    "SCENARIO_STATUS": "800e0005fffffffe000e000c",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "31": {
+    "SCENARIO_STATUS": "800e000cfffffffe000f0000",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "32": {
+    "SCENARIO_STATUS": "800f0000fffffffe000f0044",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "33": {
+    "SCENARIO_STATUS": "800f0044fffffffe00100000",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "34": {
+    "SCENARIO_STATUS": "",
+    "STAGEID": "STID_ST_S_MOUNTAIN",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima_mtg",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "35": {
+    "SCENARIO_STATUS": "800e0005fffffffe000e0009",
+    "STAGEID": "STID_ST_S_MOUNTAIN",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "36": {
+    "SCENARIO_STATUS": "80820001fffffffe00820004",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima_mtg",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "37": {
+    "SCENARIO_STATUS": "800f002efffffffe000f0030",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima_santa",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "38": {
+    "SCENARIO_STATUS": "800f002ffffffffe000f0030",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima_mafia",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "39": {
+    "SCENARIO_STATUS": "80100000fffffffe0010000e",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_aw_haruka_lesson",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "40": {
+    "SCENARIO_STATUS": "8010000efffffffe0010001c",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "41": {
+    "SCENARIO_STATUS": "8010001cfffffffe00100021",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka_w",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "42": {
+    "SCENARIO_STATUS": "80100021fffffffe0010002c",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "43": {
+    "SCENARIO_STATUS": "8010002cfffffffe00100036",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_aw_haruka_idol",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "44": {
+    "SCENARIO_STATUS": "80100036fffffffe00100038",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "45": {
+    "SCENARIO_STATUS": "80100038fffffffe00100041",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "46": {
+    "SCENARIO_STATUS": "80100038fffffffe00100041",
+    "STAGEID": "STID_ST_O_GEINOU",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_aw_haruka_lesson",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "47": {
+    "SCENARIO_STATUS": "80100041fffffffe00100050",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "48": {
+    "SCENARIO_STATUS": "80100050fffffffe00100051",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_aw_haruka_lesson",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "49": {
+    "SCENARIO_STATUS": "80100051fffffffe00110000",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "50": {
+    "SCENARIO_STATUS": "80110000fffffffe00110004",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "51": {
+    "SCENARIO_STATUS": "80110004fffffffe00110008",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "52": {
+    "SCENARIO_STATUS": "80110004fffffffe00110008",
+    "STAGEID": "STID_ST_O_GEINOU",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_aw_haruka_lesson",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "53": {
+    "SCENARIO_STATUS": "80110008fffffffe0011000a",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "54": {
+    "SCENARIO_STATUS": "8011000afffffffe0011000d",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka_w",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "55": {
+    "SCENARIO_STATUS": "8011000dfffffffe0011000e",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka_w",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "56": {
+    "SCENARIO_STATUS": "8011000efffffffe00110034",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "57": {
+    "SCENARIO_STATUS": "80120000fffffffe00120019",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "58": {
+    "SCENARIO_STATUS": "80120019fffffffe0012001a",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "59": {
+    "SCENARIO_STATUS": "8012001afffffffe0012001d",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "60": {
+    "SCENARIO_STATUS": "8012001afffffffe0012001dfffffffe80000007",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "61": {
+    "SCENARIO_STATUS": "8012001dfffffffe00120030",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "62": {
+    "SCENARIO_STATUS": "80120030fffffffe00130000",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "63": {
+    "SCENARIO_STATUS": "80130000fffffffe00130003",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "64": {
+    "SCENARIO_STATUS": "80130003fffffffe00130009",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "65": {
+    "SCENARIO_STATUS": "80130003fffffffe00130009fffffffe80000007",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "66": {
+    "SCENARIO_STATUS": "80130009fffffffe0013000b",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "67": {
+    "SCENARIO_STATUS": "8013000bfffffffe00130016",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_aw_haruka_idol_2nd",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "68": {
+    "SCENARIO_STATUS": "80130016fffffffe00130019",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "69": {
+    "SCENARIO_STATUS": "80130019fffffffe00130022",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "70": {
+    "SCENARIO_STATUS": "80130022fffffffe0013002b",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "71": {
+    "SCENARIO_STATUS": "8013002bfffffffe00130031",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "72": {
+    "SCENARIO_STATUS": "80130031fffffffe00130036",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "73": {
+    "SCENARIO_STATUS": "80130031fffffffe00130036",
+    "STAGEID": "STID_ST_O_GEINOU",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_aw_haruka_lesson",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "74": {
+    "SCENARIO_STATUS": "80130036fffffffe0013003d",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "75": {
+    "SCENARIO_STATUS": "8013003dfffffffe00130048",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_aw_haruka_idol_3rd",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "76": {
+    "SCENARIO_STATUS": "80130048fffffffe00130060",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "77": {
+    "SCENARIO_STATUS": "80130060fffffffe00130061",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "78": {
+    "SCENARIO_STATUS": "80130061fffffffe0013006e",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "79": {
+    "SCENARIO_STATUS": "8013006cfffffffe0013006e",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "80": {
+    "SCENARIO_STATUS": "8013006efffffffe00140000",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "81": {
+    "SCENARIO_STATUS": "80140000fffffffe00140037",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_sinada",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "82": {
+    "SCENARIO_STATUS": "80150000fffffffe00150007",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_sinada_shirts",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "83": {
+    "SCENARIO_STATUS": "80150007fffffffe0015000c",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_sinada",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "84": {
+    "SCENARIO_STATUS": "8015000cfffffffe00150014",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_em_sinada_kega",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "85": {
+    "SCENARIO_STATUS": "80150014fffffffe00150037",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_sinada",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "86": {
+    "SCENARIO_STATUS": "80160000fffffffe00160006",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_am_sinada_B15_fd",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "87": {
+    "SCENARIO_STATUS": "80160006fffffffe00160012",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_sinada",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "88": {
+    "SCENARIO_STATUS": "80160012fffffffe00160020",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_sinada",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "89": {
+    "SCENARIO_STATUS": "80170000fffffffe00170004",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_sinada",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "90": {
+    "SCENARIO_STATUS": "80170004fffffffe0017000a",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_sinada",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "91": {
+    "SCENARIO_STATUS": "8017000afffffffe0017000c",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_sinada_naked",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "92": {
+    "SCENARIO_STATUS": "8017000cfffffffe00170019",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_sinada",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "93": {
+    "SCENARIO_STATUS": "80170019fffffffe00180000",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_sinada",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "94": {
+    "SCENARIO_STATUS": "80180003fffffffe00180015",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "95": {
+    "SCENARIO_STATUS": "80180015fffffffe00180021",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "96": {
+    "SCENARIO_STATUS": "80180021fffffffe00180023",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima_naked",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "97": {
+    "SCENARIO_STATUS": "80190000fffffffe0019000e",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "98": {
+    "SCENARIO_STATUS": "8019000efffffffe00190019",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "99": {
+    "SCENARIO_STATUS": "8019000efffffffe00190019fffffffe80000009",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_sinada",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "100": {
+    "SCENARIO_STATUS": "80190019fffffffe0019001c",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "101": {
+    "SCENARIO_STATUS": "801a0000fffffffe001a0004",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "102": {
+    "SCENARIO_STATUS": "801a0004fffffffe001a0010",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "103": {
+    "SCENARIO_STATUS": "801a0004fffffffe001a0010fffffffe80000008",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "104": {
+    "SCENARIO_STATUS": "801a0010fffffffe001a0012",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_naked",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "105": {
+    "SCENARIO_STATUS": "801a0012fffffffe001a0014",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima_naked",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "106": {
+    "SCENARIO_STATUS": "801a0014fffffffe801a0015fffffffe001a0017",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_naked",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "107": {
+    "SCENARIO_STATUS": "801a0014fffffffe801a0016fffffffe001a0017",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima_naked",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "108": {
+    "SCENARIO_STATUS": "801a0017fffffffe001a001d",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_naked_A5090",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "109": {
+    "SCENARIO_STATUS": "801b0000fffffffe001b0009",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_aw_haruka_lesson",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "110": {
+    "SCENARIO_STATUS": "801b0009fffffffe001b000f",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "111": {
+    "SCENARIO_STATUS": "801b000ffffffffe001b0018",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "112": {
+    "SCENARIO_STATUS": "801b0018fffffffe001b0019",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "113": {
+    "SCENARIO_STATUS": "801b0019fffffffe001b001d",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "114": {
+    "SCENARIO_STATUS": "801c0000fffffffe001c0006fffffffe80000006",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "115": {
+    "SCENARIO_STATUS": "801c0000fffffffe001c0006fffffffe80000008",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "116": {
+    "SCENARIO_STATUS": "801c0000fffffffe001c0006fffffffe80000007",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "117": {
+    "SCENARIO_STATUS": "801c0000fffffffe001c0006fffffffe80000009",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_sinada",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "118": {
+    "SCENARIO_STATUS": "801c0006fffffffe001c0008",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_aw_haruka_3set",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "119": {
+    "SCENARIO_STATUS": "801c0008fffffffe001c000a",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "120": {
+    "SCENARIO_STATUS": "801c000afffffffe001c000bfffffffe80000006",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "121": {
+    "SCENARIO_STATUS": "801c000afffffffe001c000bfffffffe80000007",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "122": {
+    "SCENARIO_STATUS": "801c000bfffffffe001c000c",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "123": {
+    "SCENARIO_STATUS": "801c000cfffffffe001c000efffffffe80000008",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "124": {
+    "SCENARIO_STATUS": "801c000cfffffffe001c000efffffffe80000009",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_sinada",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "125": {
+    "SCENARIO_STATUS": "801c000efffffffe001c0012",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "126": {
+    "SCENARIO_STATUS": "801c0012fffffffe001c0014",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima_naked",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "127": {
+    "SCENARIO_STATUS": "801c0014fffffffe001c001a",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_sinada",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "128": {
+    "SCENARIO_STATUS": "801c001afffffffe001c001bfffffffe80000006",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "129": {
+    "SCENARIO_STATUS": "801c001afffffffe001c001bfffffffe80000007",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "130": {
+    "SCENARIO_STATUS": "801c001bfffffffe001c0020",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "131": {
+    "SCENARIO_STATUS": "801c0020fffffffe001c0023",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "132": {
+    "SCENARIO_STATUS": "801c0023fffffffe001c0024",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "133": {
+    "SCENARIO_STATUS": "801c0024fffffffe001c0026",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "134": {
+    "SCENARIO_STATUS": "801c0026fffffffe001c002c",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_naked_kega",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "135": {
+    "SCENARIO_STATUS": "80010001",
+    "STAGEID": "",
+    "REGION_TOKYO": "笳�",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "136": {
+    "SCENARIO_STATUS": "80010001",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "笳�",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_o",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "137": {
+    "SCENARIO_STATUS": "80010001fffffffe80000006",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_TX_off",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "138": {
+    "SCENARIO_STATUS": "80010001fffffffe80000007",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "139": {
+    "SCENARIO_STATUS": "80010001fffffffe80000008",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "140": {
+    "SCENARIO_STATUS": "80010001fffffffe80000009",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_sinada",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "141": {
+    "SCENARIO_STATUS": "80010001fffffffe8000000a",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "142": {
+    "SCENARIO_STATUS": "80f40003fffffffe00f4000a",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_aw_haruka_idol",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "143": {
+    "SCENARIO_STATUS": "80f4000dfffffffe00f40014",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_aw_haruka_idol_2nd",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "144": {
+    "SCENARIO_STATUS": "80f40017fffffffe00f4001e",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_aw_haruka_idol_3rd",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "145": {
+    "SCENARIO_STATUS": "802f0006fffffffe002f0008",
+    "STAGEID": "STID_ST_TOGYU",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "146": {
+    "SCENARIO_STATUS": "802f0008fffffffe002f000a",
+    "STAGEID": "STID_ST_TOGYU",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "147": {
+    "SCENARIO_STATUS": "802f000afffffffe002f000c",
+    "STAGEID": "STID_ST_TOGYU",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_sinada",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "148": {
+    "SCENARIO_STATUS": "802f000cfffffffe002f0010",
+    "STAGEID": "STID_ST_TOGYU",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "149": {
+    "SCENARIO_STATUS": "011000a0fffffffe8110009efffffffe8110009c",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_naked",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "150": {
+    "SCENARIO_STATUS": "802a0006",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_mask",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "151": {
+    "SCENARIO_STATUS": "80380001fffffffe00380003",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima_santa",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "152": {
+    "SCENARIO_STATUS": "80480006",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka_w",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "153": {
+    "SCENARIO_STATUS": "804b0004",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka_w",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "154": {
+    "SCENARIO_STATUS": "804d0008",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_aw_haruka_lesson",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "155": {
+    "SCENARIO_STATUS": "80730002",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_se14_shinada",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "156": {
+    "SCENARIO_STATUS": "80760002",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "笳�",
+    "KIRYU_MODEL": "c_cm_kiryu_TX_on",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "157": {
+    "SCENARIO_STATUS": "81570004",
+    "STAGEID": "STID_ST_S_YUKIGASSEN",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_am_saejima_yuki_gassen",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "158": {
+    "SCENARIO_STATUS": "811000a8fffffffe80000006",
+    "STAGEID": "STID_ST_K_TOUGI",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_naked",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "159": {
+    "SCENARIO_STATUS": "811000a9fffffffe80000008",
+    "STAGEID": "STID_ST_K_TOUGI",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima_naked",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "160": {
+    "SCENARIO_STATUS": "811000aafffffffe80000009",
+    "STAGEID": "STID_ST_K_TOUGI",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_sinada_naked",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "161": {
+    "SCENARIO_STATUS": "81840000",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_TX_on",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "162": {
+    "SCENARIO_STATUS": "81840002",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima_santa",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "163": {
+    "SCENARIO_STATUS": "81840004",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_sinada",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "164": {
+    "SCENARIO_STATUS": "81840006",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "165": {
+    "SCENARIO_STATUS": "81840008",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "166": {
+    "SCENARIO_STATUS": "8184000a",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_sinada",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "167": {
+    "SCENARIO_STATUS": "8184000c",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima_naked",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "168": {
+    "SCENARIO_STATUS": "8184000e",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_sinada",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "169": {
+    "SCENARIO_STATUS": "81840010",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "170": {
+    "SCENARIO_STATUS": "81840012",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_naked",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "171": {
+    "SCENARIO_STATUS": "8184001e",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_home",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "172": {
+    "SCENARIO_STATUS": "81840020",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "173": {
+    "SCENARIO_STATUS": "81840022",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima_G",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "174": {
+    "SCENARIO_STATUS": "81840024",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "175": {
+    "SCENARIO_STATUS": "81840026",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_am_sinada_B15_fd",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "176": {
+    "SCENARIO_STATUS": "81840028",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "177": {
+    "SCENARIO_STATUS": "8184002a",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "178": {
+    "SCENARIO_STATUS": "8184002c",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "179": {
+    "SCENARIO_STATUS": "8184002e",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "180": {
+    "SCENARIO_STATUS": "81840030",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_am_sinada_B15_fd",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "181": {
+    "SCENARIO_STATUS": "81840032",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "182": {
+    "SCENARIO_STATUS": "81840034",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "183": {
+    "SCENARIO_STATUS": "81840036",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_sinada",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "184": {
+    "SCENARIO_STATUS": "81840038",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "185": {
+    "SCENARIO_STATUS": "8184003a",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "186": {
+    "SCENARIO_STATUS": "8184003c",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "187": {
+    "SCENARIO_STATUS": "8184003d",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "188": {
+    "SCENARIO_STATUS": "8184003e",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "189": {
+    "SCENARIO_STATUS": "81840040",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "190": {
+    "SCENARIO_STATUS": "81840041",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "191": {
+    "SCENARIO_STATUS": "81840042",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "192": {
+    "SCENARIO_STATUS": "81840044",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "193": {
+    "SCENARIO_STATUS": "81840045",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "194": {
+    "SCENARIO_STATUS": "81840046",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "195": {
+    "SCENARIO_STATUS": "81840048",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_sinada",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "196": {
+    "SCENARIO_STATUS": "81840049",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_sinada",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "197": {
+    "SCENARIO_STATUS": "8184004a",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_sinada",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "198": {
+    "SCENARIO_STATUS": "8184004c",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "199": {
+    "SCENARIO_STATUS": "8184004d",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "200": {
+    "SCENARIO_STATUS": "8184004e",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "201": {
+    "SCENARIO_STATUS": "8184004f",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "202": {
+    "SCENARIO_STATUS": "81840050",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "203": {
+    "SCENARIO_STATUS": "81840051",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "204": {
+    "SCENARIO_STATUS": "81840052",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "205": {
+    "SCENARIO_STATUS": "81840053",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "206": {
+    "SCENARIO_STATUS": "81840054",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "207": {
+    "SCENARIO_STATUS": "81840055",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_naked_kega",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "208": {
+    "SCENARIO_STATUS": "80a60000",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka_w",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "209": {
+    "SCENARIO_STATUS": "80a60000fffffffe80d20002",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_aw_haruka_yukata",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "210": {
+    "SCENARIO_STATUS": "808a0006fffffffe008a0007",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima_mtg",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "211": {
+    "SCENARIO_STATUS": "808b0009fffffffe008b000a",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima_mtg",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "212": {
+    "SCENARIO_STATUS": "80820004",
+    "STAGEID": "STID_ST_S_MOUNTAIN",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima_mtg",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "213": {
+    "SCENARIO_STATUS": "81cc0001",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_TX_off",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "214": {
+    "SCENARIO_STATUS": "81cc0002fffffffe81cc0003",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_kiryu_TX_off",
+    "PLAYER_TYPE": "KIRYU"
+  },
+  "215": {
+    "SCENARIO_STATUS": "81cc0002fffffffe81cc0004",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cw_haruka",
+    "PLAYER_TYPE": "HARUKA"
+  },
+  "216": {
+    "SCENARIO_STATUS": "81cc0002fffffffe81cc0005",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_sinada",
+    "PLAYER_TYPE": "SHINADA"
+  },
+  "217": {
+    "SCENARIO_STATUS": "81cc0002fffffffe81cc0006",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_akiyama",
+    "PLAYER_TYPE": "AKIYAMA"
+  },
+  "218": {
+    "SCENARIO_STATUS": "81cc0002fffffffe81cc0007",
+    "STAGEID": "",
+    "REGION_TOKYO": "",
+    "REGION_OSAKA": "",
+    "REGION_FUKUOKA": "",
+    "KIRYU_MODEL": "c_cm_saejima",
+    "PLAYER_TYPE": "SAEJIMA"
+  },
+  "types": {
+    "SCENARIO_STATUS": "special_scenariostatus",
+    "STAGEID": "stageid",
+    "REGION_TOKYO": "string_idx",
+    "REGION_OSAKA": "string_idx",
+    "REGION_SAPPORO": "string_idx",
+    "REGION_NAGOYA": "string_idx",
+    "REGION_FUKUOKA": "string_idx",
+    "REGION_OTHER": "string_idx",
+    "KIRYU_MODEL": "string_idx",
+    "PLAYER_TYPE": "string_idx"
+  }
+}
