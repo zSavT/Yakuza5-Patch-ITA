@@ -1,0 +1,687 @@
+{
+  "0": {
+    "SCENARIO_STATUS": "80070000fffffffe00070006",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "1": {
+    "SCENARIO_STATUS": "80080000fffffffe00080034",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "2": {
+    "SCENARIO_STATUS": "80090000fffffffe00090014",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "3": {
+    "SCENARIO_STATUS": "80090014fffffffe0009001e",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "4": {
+    "SCENARIO_STATUS": "800a0000fffffffe000a0003",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "5": {
+    "SCENARIO_STATUS": "800a0003fffffffe000a000c",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "6": {
+    "SCENARIO_STATUS": "800a000cfffffffe000a0010",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "7": {
+    "SCENARIO_STATUS": "800a0010fffffffe000a0015",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "8": {
+    "SCENARIO_STATUS": "800a0015fffffffe000a0031",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "9": {
+    "SCENARIO_STATUS": "800a0031fffffffe000a003a",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "10": {
+    "SCENARIO_STATUS": "800b0000fffffffe000b0003",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "迚ｹ"
+  },
+  "11": {
+    "SCENARIO_STATUS": "800b0003fffffffe000b0005",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "12": {
+    "SCENARIO_STATUS": "800b0005fffffffe000b0006",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "13": {
+    "SCENARIO_STATUS": "800b0006fffffffe000b001a",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "14": {
+    "SCENARIO_STATUS": "800b001afffffffe000b0026",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "15": {
+    "SCENARIO_STATUS": "800b0026fffffffe000b002b",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "16": {
+    "SCENARIO_STATUS": "800b002bfffffffe000b002d",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "17": {
+    "SCENARIO_STATUS": "800b002dfffffffe000b002e",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "18": {
+    "SCENARIO_STATUS": "800c0000fffffffe000c0011",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "19": {
+    "SCENARIO_STATUS": "800c0011fffffffe000c0013",
+    "WEATHER": "髮ｪ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "20": {
+    "SCENARIO_STATUS": "800c0013fffffffe000c001d",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "21": {
+    "SCENARIO_STATUS": "800c001dfffffffe000c001f",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "22": {
+    "SCENARIO_STATUS": "800c001ffffffffe000c002c",
+    "WEATHER": "髮ｪ",
+    "DAYNIGHT": "螟�"
+  },
+  "23": {
+    "SCENARIO_STATUS": "800c002cfffffffe000c002d",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "24": {
+    "SCENARIO_STATUS": "800c002dfffffffe000c0052",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "25": {
+    "SCENARIO_STATUS": "800d0000fffffffe000d0006",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "26": {
+    "SCENARIO_STATUS": "800d0006fffffffe000d0009",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "27": {
+    "SCENARIO_STATUS": "800d0009fffffffe000d000b",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "28": {
+    "SCENARIO_STATUS": "800d000bfffffffe000d0019",
+    "WEATHER": "髮ｪ",
+    "DAYNIGHT": "螟�"
+  },
+  "29": {
+    "SCENARIO_STATUS": "800d0019fffffffe000d0026",
+    "WEATHER": "髮ｪ",
+    "DAYNIGHT": "螟�"
+  },
+  "30": {
+    "SCENARIO_STATUS": "800e0000fffffffe000e0003",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "31": {
+    "SCENARIO_STATUS": "800e0003fffffffe000e0009",
+    "WEATHER": "髮ｪ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "32": {
+    "SCENARIO_STATUS": "800e0009fffffffe000e000a",
+    "WEATHER": "髮ｪ",
+    "DAYNIGHT": "螟�"
+  },
+  "33": {
+    "SCENARIO_STATUS": "800e000afffffffe000e000f",
+    "WEATHER": "髮ｪ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "34": {
+    "SCENARIO_STATUS": "800f0000fffffffe000f0009",
+    "WEATHER": "髮ｪ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "35": {
+    "SCENARIO_STATUS": "800f0009fffffffe000f001e",
+    "WEATHER": "髮ｪ",
+    "DAYNIGHT": "螟�"
+  },
+  "36": {
+    "SCENARIO_STATUS": "800f001efffffffe000f0022",
+    "WEATHER": "髮ｪ",
+    "DAYNIGHT": "螟�"
+  },
+  "37": {
+    "SCENARIO_STATUS": "800f0022fffffffe000f002a",
+    "WEATHER": "髮ｪ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "38": {
+    "SCENARIO_STATUS": "800f002afffffffe000f0038",
+    "WEATHER": "髮ｪ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "39": {
+    "SCENARIO_STATUS": "800f0038fffffffe000f0042",
+    "WEATHER": "髮ｪ",
+    "DAYNIGHT": "螟�"
+  },
+  "40": {
+    "SCENARIO_STATUS": "800f0042fffffffe000f0044",
+    "WEATHER": "髮ｪ",
+    "DAYNIGHT": "螟�"
+  },
+  "41": {
+    "SCENARIO_STATUS": "80100003fffffffe00100000",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "42": {
+    "SCENARIO_STATUS": "80100000fffffffe00100014",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "43": {
+    "SCENARIO_STATUS": "80100014fffffffe00100035",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "44": {
+    "SCENARIO_STATUS": "80100035fffffffe00120030",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "45": {
+    "SCENARIO_STATUS": "80110000fffffffe0011000e",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "46": {
+    "SCENARIO_STATUS": "8011000efffffffe00110019",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "47": {
+    "SCENARIO_STATUS": "80110019fffffffe00110030",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "48": {
+    "SCENARIO_STATUS": "80110030fffffffe00120030",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "49": {
+    "SCENARIO_STATUS": "80120000fffffffe00120019",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "50": {
+    "SCENARIO_STATUS": "80120019fffffffe0012001d",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "51": {
+    "SCENARIO_STATUS": "8012001dfffffffe00120030",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "52": {
+    "SCENARIO_STATUS": "80130000fffffffe0013002b",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "53": {
+    "SCENARIO_STATUS": "8013002bfffffffe00130052",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "54": {
+    "SCENARIO_STATUS": "80130052fffffffe0013005b",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "55": {
+    "SCENARIO_STATUS": "8013005bfffffffe0013006e",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "56": {
+    "SCENARIO_STATUS": "80140001fffffffe00140003",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "57": {
+    "SCENARIO_STATUS": "80140003fffffffe00140016",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "58": {
+    "SCENARIO_STATUS": "80140016fffffffe00140037",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "59": {
+    "SCENARIO_STATUS": "80150000fffffffe00150003",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "60": {
+    "SCENARIO_STATUS": "80150003fffffffe00150004",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "61": {
+    "SCENARIO_STATUS": "80150004fffffffe00150007",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "62": {
+    "SCENARIO_STATUS": "80150007fffffffe0015000c",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "63": {
+    "SCENARIO_STATUS": "8015000cfffffffe00150014",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "64": {
+    "SCENARIO_STATUS": "80150014fffffffe0015002d",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "65": {
+    "SCENARIO_STATUS": "8015002dfffffffe0015002f",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "66": {
+    "SCENARIO_STATUS": "8015002ffffffffe00150037",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "67": {
+    "SCENARIO_STATUS": "80160000fffffffe00160005",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "68": {
+    "SCENARIO_STATUS": "80160005fffffffe0016000c",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "69": {
+    "SCENARIO_STATUS": "8016000cfffffffe00160012",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "70": {
+    "SCENARIO_STATUS": "80160012fffffffe00160020",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "71": {
+    "SCENARIO_STATUS": "80170000fffffffe00170011",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "72": {
+    "SCENARIO_STATUS": "80170011fffffffe00170017",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "73": {
+    "SCENARIO_STATUS": "80170017fffffffe00170019",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "74": {
+    "SCENARIO_STATUS": "80180003fffffffe0018001b",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "75": {
+    "SCENARIO_STATUS": "8018001bfffffffe00180023",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "76": {
+    "SCENARIO_STATUS": "80190000fffffffe0019001c",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "77": {
+    "SCENARIO_STATUS": "801a0000fffffffe001a0003",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "78": {
+    "SCENARIO_STATUS": "801a0003fffffffe001a001d",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "79": {
+    "SCENARIO_STATUS": "801b0000fffffffe001b000f",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "80": {
+    "SCENARIO_STATUS": "801b000ffffffffe001b001d",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "81": {
+    "SCENARIO_STATUS": "801c0000fffffffe001c0004",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "82": {
+    "SCENARIO_STATUS": "801c0004fffffffe001c0005",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "83": {
+    "SCENARIO_STATUS": "801c0005fffffffe001c000e",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "84": {
+    "SCENARIO_STATUS": "801c000efffffffe001c000f",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "85": {
+    "SCENARIO_STATUS": "801c000ffffffffe001c002c",
+    "WEATHER": "髮ｪ",
+    "DAYNIGHT": "螟�"
+  },
+  "86": {
+    "SCENARIO_STATUS": "80010001fffffffe80010003",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "87": {
+    "SCENARIO_STATUS": "80010001fffffffe80010004",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "88": {
+    "SCENARIO_STATUS": "80010001fffffffe80010002",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "89": {
+    "SCENARIO_STATUS": "81d60001",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "90": {
+    "SCENARIO_STATUS": "81840000",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "91": {
+    "SCENARIO_STATUS": "81840002",
+    "WEATHER": "髮ｪ",
+    "DAYNIGHT": "螟�"
+  },
+  "92": {
+    "SCENARIO_STATUS": "81840004",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "93": {
+    "SCENARIO_STATUS": "81840006",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "94": {
+    "SCENARIO_STATUS": "8184000a",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "95": {
+    "SCENARIO_STATUS": "8184000c",
+    "WEATHER": "髮ｪ",
+    "DAYNIGHT": "螟�"
+  },
+  "96": {
+    "SCENARIO_STATUS": "8184000e",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "97": {
+    "SCENARIO_STATUS": "81840010",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "98": {
+    "SCENARIO_STATUS": "81840012",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "99": {
+    "SCENARIO_STATUS": "81840020",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "100": {
+    "SCENARIO_STATUS": "81840022",
+    "WEATHER": "髮ｪ",
+    "DAYNIGHT": "螟�"
+  },
+  "101": {
+    "SCENARIO_STATUS": "81840024",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "102": {
+    "SCENARIO_STATUS": "81840026",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "103": {
+    "SCENARIO_STATUS": "81840028",
+    "WEATHER": "髮ｪ",
+    "DAYNIGHT": "螟�"
+  },
+  "104": {
+    "SCENARIO_STATUS": "8184002c",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "105": {
+    "SCENARIO_STATUS": "81840030",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "106": {
+    "SCENARIO_STATUS": "8184003c",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "107": {
+    "SCENARIO_STATUS": "8184003e",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "108": {
+    "SCENARIO_STATUS": "81840040",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "109": {
+    "SCENARIO_STATUS": "81840041",
+    "WEATHER": "髮ｪ",
+    "DAYNIGHT": "螟�"
+  },
+  "110": {
+    "SCENARIO_STATUS": "81840042",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "111": {
+    "SCENARIO_STATUS": "81840045",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "112": {
+    "SCENARIO_STATUS": "81840046",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "113": {
+    "SCENARIO_STATUS": "81840048",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "114": {
+    "SCENARIO_STATUS": "81840049",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "115": {
+    "SCENARIO_STATUS": "8184004c",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "116": {
+    "SCENARIO_STATUS": "8184004d",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "117": {
+    "SCENARIO_STATUS": "8184004e",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "118": {
+    "SCENARIO_STATUS": "8184004f",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "119": {
+    "SCENARIO_STATUS": "81840050",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "120": {
+    "SCENARIO_STATUS": "81840051",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "121": {
+    "SCENARIO_STATUS": "81840052",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "122": {
+    "SCENARIO_STATUS": "81840053",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "123": {
+    "SCENARIO_STATUS": "81840054",
+    "WEATHER": "髮ｪ",
+    "DAYNIGHT": "螟�"
+  },
+  "124": {
+    "SCENARIO_STATUS": "81840055",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "125": {
+    "SCENARIO_STATUS": "81840032",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "126": {
+    "SCENARIO_STATUS": "81840034",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "127": {
+    "SCENARIO_STATUS": "81840036",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "128": {
+    "SCENARIO_STATUS": "81840038",
+    "WEATHER": "髮ｪ",
+    "DAYNIGHT": "螟�"
+  },
+  "129": {
+    "SCENARIO_STATUS": "8184003a",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "130": {
+    "SCENARIO_STATUS": "81cc0001",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "131": {
+    "SCENARIO_STATUS": "81cc0002fffffffe81cc0003",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "132": {
+    "SCENARIO_STATUS": "81cc0002fffffffe81cc0004",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "133": {
+    "SCENARIO_STATUS": "81cc0002fffffffe81cc0005",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "134": {
+    "SCENARIO_STATUS": "81cc0002fffffffe81cc0006",
+    "WEATHER": "譎ｴ",
+    "DAYNIGHT": "螟�"
+  },
+  "135": {
+    "SCENARIO_STATUS": "81cc0002fffffffe81cc0007",
+    "WEATHER": "髮ｪ",
+    "DAYNIGHT": "譏ｼ"
+  },
+  "types": {
+    "SCENARIO_STATUS": "special_scenariostatus",
+    "WEATHER": "string_idx",
+    "DAYNIGHT": "string_idx"
+  }
+}

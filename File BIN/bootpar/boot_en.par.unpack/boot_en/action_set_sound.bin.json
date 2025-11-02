@@ -1,0 +1,42 @@
+{
+  "0": {
+    "ACTION_SET_NAME": "Talk_No",
+    "SOUND_NAME": "#talk_negate1"
+  },
+  "1": {
+    "ACTION_SET_NAME": "Talk_Call",
+    "SOUND_NAME": "#talk_call1"
+  },
+  "2": {
+    "ACTION_SET_NAME": "Talk_Quest",
+    "SOUND_NAME": "#talk_question"
+  },
+  "3": {
+    "ACTION_SET_NAME": "Talk_Smile",
+    "SOUND_NAME": "#talk_laugh"
+  },
+  "4": {
+    "ACTION_SET_NAME": "Talk_Odosu",
+    "SOUND_NAME": "#talk_angry"
+  },
+  "5": {
+    "ACTION_SET_NAME": "Talk_Surp",
+    "SOUND_NAME": "#talk_wonder"
+  },
+  "6": {
+    "ACTION_SET_NAME": "Talk_Gakkari",
+    "SOUND_NAME": "#talk_disappointed"
+  },
+  "7": {
+    "ACTION_SET_NAME": "Talk_NoBig",
+    "SOUND_NAME": "#talk_negate2"
+  },
+  "8": {
+    "ACTION_SET_NAME": "Talk_Cry",
+    "SOUND_NAME": "#talk_cry"
+  },
+  "types": {
+    "ACTION_SET_NAME": "string",
+    "SOUND_NAME": "string"
+  }
+}

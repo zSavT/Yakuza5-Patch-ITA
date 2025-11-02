@@ -1,0 +1,819 @@
+{
+    "0": {
+        "SING": 0,
+        "BASE": 0,
+        "ACT": 0,
+        "CHARM": 0,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": "-"
+    },
+    "1": {
+        "SING": 0,
+        "BASE": 0,
+        "ACT": 0,
+        "CHARM": 0,
+        "OFFICE": 400,
+        "OFFICE_CONTENT": "Pubblicità"
+    },
+    "2": {
+        "SING": 0,
+        "BASE": 0,
+        "ACT": 0,
+        "CHARM": 0,
+        "OFFICE": 600,
+        "OFFICE_CONTENT": "Media"
+    },
+    "3": {
+        "SING": 0,
+        "BASE": 0,
+        "ACT": 0,
+        "CHARM": 0,
+        "OFFICE": 700,
+        "OFFICE_CONTENT": "Lezione"
+    },
+    "4": {
+        "SING": 0,
+        "BASE": 0,
+        "ACT": 0,
+        "CHARM": 0,
+        "OFFICE": 800,
+        "OFFICE_CONTENT": "Media"
+    },
+    "5": {
+        "SING": 200,
+        "BASE": 1,
+        "ACT": 200,
+        "CHARM": 200,
+        "OFFICE": 900,
+        "OFFICE_CONTENT": "Pubblicità"
+    },
+    "6": {
+        "SING": 200,
+        "BASE": 1,
+        "ACT": 200,
+        "CHARM": 200,
+        "OFFICE": 1100,
+        "OFFICE_CONTENT": "Lezione"
+    },
+    "7": {
+        "SING": 200,
+        "BASE": 1,
+        "ACT": 200,
+        "CHARM": 200,
+        "OFFICE": 1000,
+        "OFFICE_CONTENT": "Contenuti multimediali"
+    },
+    "8": {
+        "SING": 200,
+        "BASE": 1,
+        "ACT": 200,
+        "CHARM": 200,
+        "OFFICE": 1000,
+        "OFFICE_CONTENT": "Pubblicità"
+    },
+    "9": {
+        "SING": 200,
+        "BASE": 1,
+        "ACT": 200,
+        "CHARM": 200,
+        "OFFICE": 1000,
+        "OFFICE_CONTENT": "Multimedia"
+    },
+    "10": {
+        "SING": 200,
+        "BASE": 2,
+        "ACT": 200,
+        "CHARM": 200,
+        "OFFICE": 4500,
+        "OFFICE_CONTENT": "Media"
+    },
+    "11": {
+        "SING": 200,
+        "BASE": 2,
+        "ACT": 200,
+        "CHARM": 200,
+        "OFFICE": 12000,
+        "OFFICE_CONTENT": "Lezione"
+    },
+    "12": {
+        "SING": 200,
+        "BASE": 2,
+        "ACT": 200,
+        "CHARM": 200,
+        "OFFICE": 999999,
+        "OFFICE_CONTENT": "-"
+    },
+    "13": {
+        "SING": 200,
+        "BASE": 2,
+        "ACT": 200,
+        "CHARM": 200,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "14": {
+        "SING": 200,
+        "BASE": 2,
+        "ACT": 200,
+        "CHARM": 200,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "15": {
+        "SING": 200,
+        "BASE": 3,
+        "ACT": 200,
+        "CHARM": 200,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "16": {
+        "SING": 200,
+        "BASE": 3,
+        "ACT": 200,
+        "CHARM": 200,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "17": {
+        "SING": 200,
+        "BASE": 3,
+        "ACT": 200,
+        "CHARM": 200,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "18": {
+        "SING": 200,
+        "BASE": 3,
+        "ACT": 200,
+        "CHARM": 200,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "19": {
+        "SING": 200,
+        "BASE": 3,
+        "ACT": 200,
+        "CHARM": 200,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "20": {
+        "SING": 300,
+        "BASE": 4,
+        "ACT": 300,
+        "CHARM": 300,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "21": {
+        "SING": 300,
+        "BASE": 4,
+        "ACT": 300,
+        "CHARM": 300,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "22": {
+        "SING": 300,
+        "BASE": 4,
+        "ACT": 300,
+        "CHARM": 300,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "23": {
+        "SING": 300,
+        "BASE": 4,
+        "ACT": 300,
+        "CHARM": 300,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "24": {
+        "SING": 300,
+        "BASE": 4,
+        "ACT": 300,
+        "CHARM": 300,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "25": {
+        "SING": 300,
+        "BASE": 5,
+        "ACT": 300,
+        "CHARM": 300,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "26": {
+        "SING": 300,
+        "BASE": 5,
+        "ACT": 300,
+        "CHARM": 300,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "27": {
+        "SING": 300,
+        "BASE": 5,
+        "ACT": 300,
+        "CHARM": 300,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "28": {
+        "SING": 300,
+        "BASE": 5,
+        "ACT": 300,
+        "CHARM": 300,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "29": {
+        "SING": 300,
+        "BASE": 5,
+        "ACT": 300,
+        "CHARM": 300,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "30": {
+        "SING": 400,
+        "BASE": 6,
+        "ACT": 400,
+        "CHARM": 400,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "31": {
+        "SING": 400,
+        "BASE": 6,
+        "ACT": 400,
+        "CHARM": 400,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "32": {
+        "SING": 400,
+        "BASE": 6,
+        "ACT": 400,
+        "CHARM": 400,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "33": {
+        "SING": 400,
+        "BASE": 6,
+        "ACT": 400,
+        "CHARM": 400,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "34": {
+        "SING": 400,
+        "BASE": 6,
+        "ACT": 400,
+        "CHARM": 400,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "35": {
+        "SING": 400,
+        "BASE": 7,
+        "ACT": 400,
+        "CHARM": 400,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "36": {
+        "SING": 400,
+        "BASE": 7,
+        "ACT": 400,
+        "CHARM": 400,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "37": {
+        "SING": 400,
+        "BASE": 7,
+        "ACT": 400,
+        "CHARM": 400,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "38": {
+        "SING": 400,
+        "BASE": 7,
+        "ACT": 400,
+        "CHARM": 400,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "39": {
+        "SING": 400,
+        "BASE": 7,
+        "ACT": 400,
+        "CHARM": 400,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "40": {
+        "SING": 400,
+        "BASE": 8,
+        "ACT": 400,
+        "CHARM": 400,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "41": {
+        "SING": 400,
+        "BASE": 8,
+        "ACT": 400,
+        "CHARM": 400,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "42": {
+        "SING": 400,
+        "BASE": 8,
+        "ACT": 400,
+        "CHARM": 400,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "43": {
+        "SING": 400,
+        "BASE": 8,
+        "ACT": 400,
+        "CHARM": 400,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "44": {
+        "SING": 400,
+        "BASE": 8,
+        "ACT": 400,
+        "CHARM": 400,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "45": {
+        "SING": 400,
+        "BASE": 9,
+        "ACT": 400,
+        "CHARM": 400,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "46": {
+        "SING": 400,
+        "BASE": 9,
+        "ACT": 400,
+        "CHARM": 400,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "47": {
+        "SING": 400,
+        "BASE": 9,
+        "ACT": 400,
+        "CHARM": 400,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "48": {
+        "SING": 400,
+        "BASE": 9,
+        "ACT": 400,
+        "CHARM": 400,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "49": {
+        "SING": 400,
+        "BASE": 9,
+        "ACT": 400,
+        "CHARM": 400,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "50": {
+        "SING": 500,
+        "BASE": 10,
+        "ACT": 500,
+        "CHARM": 500,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "51": {
+        "SING": 500,
+        "BASE": 10,
+        "ACT": 500,
+        "CHARM": 500,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "52": {
+        "SING": 500,
+        "BASE": 10,
+        "ACT": 500,
+        "CHARM": 500,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "53": {
+        "SING": 500,
+        "BASE": 10,
+        "ACT": 500,
+        "CHARM": 500,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "54": {
+        "SING": 500,
+        "BASE": 10,
+        "ACT": 500,
+        "CHARM": 500,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "55": {
+        "SING": 500,
+        "BASE": 11,
+        "ACT": 500,
+        "CHARM": 500,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "56": {
+        "SING": 500,
+        "BASE": 11,
+        "ACT": 500,
+        "CHARM": 500,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "57": {
+        "SING": 500,
+        "BASE": 11,
+        "ACT": 500,
+        "CHARM": 500,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "58": {
+        "SING": 500,
+        "BASE": 11,
+        "ACT": 500,
+        "CHARM": 500,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "59": {
+        "SING": 500,
+        "BASE": 11,
+        "ACT": 500,
+        "CHARM": 500,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "60": {
+        "SING": 500,
+        "BASE": 12,
+        "ACT": 500,
+        "CHARM": 500,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "61": {
+        "SING": 500,
+        "BASE": 12,
+        "ACT": 500,
+        "CHARM": 500,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "62": {
+        "SING": 500,
+        "BASE": 12,
+        "ACT": 500,
+        "CHARM": 500,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "63": {
+        "SING": 500,
+        "BASE": 12,
+        "ACT": 500,
+        "CHARM": 500,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "64": {
+        "SING": 500,
+        "BASE": 12,
+        "ACT": 500,
+        "CHARM": 500,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "65": {
+        "SING": 500,
+        "BASE": 13,
+        "ACT": 500,
+        "CHARM": 500,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "66": {
+        "SING": 500,
+        "BASE": 13,
+        "ACT": 500,
+        "CHARM": 500,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "67": {
+        "SING": 500,
+        "BASE": 13,
+        "ACT": 500,
+        "CHARM": 500,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "68": {
+        "SING": 500,
+        "BASE": 13,
+        "ACT": 500,
+        "CHARM": 500,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "69": {
+        "SING": 500,
+        "BASE": 14,
+        "ACT": 500,
+        "CHARM": 500,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "70": {
+        "SING": 600,
+        "BASE": 14,
+        "ACT": 600,
+        "CHARM": 600,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "71": {
+        "SING": 600,
+        "BASE": 14,
+        "ACT": 600,
+        "CHARM": 600,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "72": {
+        "SING": 600,
+        "BASE": 14,
+        "ACT": 600,
+        "CHARM": 600,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "73": {
+        "SING": 600,
+        "BASE": 15,
+        "ACT": 600,
+        "CHARM": 600,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "74": {
+        "SING": 600,
+        "BASE": 15,
+        "ACT": 600,
+        "CHARM": 600,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "75": {
+        "SING": 600,
+        "BASE": 15,
+        "ACT": 600,
+        "CHARM": 600,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "76": {
+        "SING": 600,
+        "BASE": 15,
+        "ACT": 600,
+        "CHARM": 600,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "77": {
+        "SING": 600,
+        "BASE": 16,
+        "ACT": 600,
+        "CHARM": 600,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "78": {
+        "SING": 600,
+        "BASE": 16,
+        "ACT": 600,
+        "CHARM": 600,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "79": {
+        "SING": 800,
+        "BASE": 16,
+        "ACT": 800,
+        "CHARM": 800,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "80": {
+        "SING": 800,
+        "BASE": 16,
+        "ACT": 800,
+        "CHARM": 800,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "81": {
+        "SING": 800,
+        "BASE": 17,
+        "ACT": 800,
+        "CHARM": 800,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "82": {
+        "SING": 800,
+        "BASE": 17,
+        "ACT": 800,
+        "CHARM": 800,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "83": {
+        "SING": 800,
+        "BASE": 17,
+        "ACT": 800,
+        "CHARM": 800,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "84": {
+        "SING": 1000,
+        "BASE": 17,
+        "ACT": 1000,
+        "CHARM": 1000,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "85": {
+        "SING": 1000,
+        "BASE": 18,
+        "ACT": 1000,
+        "CHARM": 1000,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "86": {
+        "SING": 1000,
+        "BASE": 18,
+        "ACT": 1000,
+        "CHARM": 1000,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "87": {
+        "SING": 1000,
+        "BASE": 18,
+        "ACT": 1000,
+        "CHARM": 1000,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "88": {
+        "SING": 1000,
+        "BASE": 18,
+        "ACT": 1000,
+        "CHARM": 1000,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "89": {
+        "SING": 1200,
+        "BASE": 19,
+        "ACT": 1200,
+        "CHARM": 1200,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "90": {
+        "SING": 1200,
+        "BASE": 19,
+        "ACT": 1200,
+        "CHARM": 1200,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "91": {
+        "SING": 1200,
+        "BASE": 19,
+        "ACT": 1200,
+        "CHARM": 1200,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "92": {
+        "SING": 1200,
+        "BASE": 20,
+        "ACT": 1200,
+        "CHARM": 1200,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "93": {
+        "SING": 1200,
+        "BASE": 20,
+        "ACT": 1200,
+        "CHARM": 1200,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "94": {
+        "SING": 1500,
+        "BASE": 21,
+        "ACT": 1500,
+        "CHARM": 1500,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "95": {
+        "SING": 1500,
+        "BASE": 22,
+        "ACT": 1500,
+        "CHARM": 1500,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "96": {
+        "SING": 1500,
+        "BASE": 23,
+        "ACT": 1500,
+        "CHARM": 1500,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "97": {
+        "SING": 1500,
+        "BASE": 24,
+        "ACT": 1500,
+        "CHARM": 1500,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "98": {
+        "SING": 1500,
+        "BASE": 25,
+        "ACT": 1500,
+        "CHARM": 1500,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "99": {
+        "SING": 3000,
+        "BASE": 25,
+        "ACT": 3000,
+        "CHARM": 3000,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "100": {
+        "SING": 999999,
+        "BASE": 999999,
+        "ACT": 999999,
+        "CHARM": 999999,
+        "OFFICE": 0,
+        "OFFICE_CONTENT": ""
+    },
+    "types": {
+        "LEVEL": "comment",
+        "SING": "special_value",
+        "BASE": "special_value",
+        "ACT": "special_value",
+        "CHARM": "special_value",
+        "OFFICE": "special_value",
+        "OFFICE_CONTENT": "string"
+    }
+}

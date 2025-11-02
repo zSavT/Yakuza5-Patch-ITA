@@ -1,0 +1,135 @@
+{
+    "0": {
+        "PATTERN": "0",
+        "NAME": "Piccola Spazzatura",
+        "MIN_SIZE": "10",
+        "MAX_SIZE": "20",
+        "RATIO": "50"
+    },
+    "1": {
+        "PATTERN": "0",
+        "NAME": "Rifiuti Ingombranti",
+        "MIN_SIZE": "15",
+        "MAX_SIZE": "25",
+        "RATIO": "30"
+    },
+    "2": {
+        "PATTERN": "0",
+        "NAME": "Rifiuti ingombranti",
+        "MIN_SIZE": "30",
+        "MAX_SIZE": "35",
+        "RATIO": "20"
+    },
+    "3": {
+        "PATTERN": "1",
+        "NAME": "Rifiuti ingombranti",
+        "MIN_SIZE": "15",
+        "MAX_SIZE": "25",
+        "RATIO": "50"
+    },
+    "4": {
+        "PATTERN": "1",
+        "NAME": "Spazzatura Ingombrante",
+        "MIN_SIZE": "30",
+        "MAX_SIZE": "35",
+        "RATIO": "40"
+    },
+    "5": {
+        "PATTERN": "1",
+        "NAME": "Rifiuti illegali",
+        "MIN_SIZE": "40",
+        "MAX_SIZE": "50",
+        "RATIO": "10"
+    },
+    "6": {
+        "PATTERN": "2",
+        "NAME": "Rifiuti ingombranti",
+        "MIN_SIZE": "30",
+        "MAX_SIZE": "35",
+        "RATIO": "60"
+    },
+    "7": {
+        "PATTERN": "2",
+        "NAME": "Fantastica Spazzatura",
+        "MIN_SIZE": "60",
+        "MAX_SIZE": "70",
+        "RATIO": "30"
+    },
+    "8": {
+        "PATTERN": "2",
+        "NAME": "Rifiuti Industriali",
+        "MIN_SIZE": "80",
+        "MAX_SIZE": "90",
+        "RATIO": "10"
+    },
+    "9": {
+        "PATTERN": "3",
+        "NAME": "Piccola Spazzatura",
+        "MIN_SIZE": "10",
+        "MAX_SIZE": "20",
+        "RATIO": "50"
+    },
+    "10": {
+        "PATTERN": "3",
+        "NAME": "Rifiuti Ingombranti",
+        "MIN_SIZE": "15",
+        "MAX_SIZE": "25",
+        "RATIO": "30"
+    },
+    "11": {
+        "PATTERN": "3",
+        "NAME": "Spazzatura Ingombrante",
+        "MIN_SIZE": "30",
+        "MAX_SIZE": "35",
+        "RATIO": "20"
+    },
+    "12": {
+        "PATTERN": "4",
+        "NAME": "Rifiuti ingombranti",
+        "MIN_SIZE": "15",
+        "MAX_SIZE": "25",
+        "RATIO": "50"
+    },
+    "13": {
+        "PATTERN": "4",
+        "NAME": "Spazzatura ingombrante",
+        "MIN_SIZE": "30",
+        "MAX_SIZE": "35",
+        "RATIO": "40"
+    },
+    "14": {
+        "PATTERN": "4",
+        "NAME": "Rifiuti Illegali",
+        "MIN_SIZE": "40",
+        "MAX_SIZE": "50",
+        "RATIO": "10"
+    },
+    "15": {
+        "PATTERN": "5",
+        "NAME": "Spazzatura Ingombrante",
+        "MIN_SIZE": "30",
+        "MAX_SIZE": "35",
+        "RATIO": "60"
+    },
+    "16": {
+        "PATTERN": "5",
+        "NAME": "Spazzatura Fantastica",
+        "MIN_SIZE": "60",
+        "MAX_SIZE": "70",
+        "RATIO": "30"
+    },
+    "17": {
+        "PATTERN": "5",
+        "NAME": "Rifiuti Industriali",
+        "MIN_SIZE": "80",
+        "MAX_SIZE": "90",
+        "RATIO": "10"
+    },
+    "types": {
+        "PATTERN": "value",
+        "NAME": "string",
+        "MIN_SIZE": "value",
+        "MAX_SIZE": "value",
+        "RATIO": "value"
+    }
+}

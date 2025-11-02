@@ -1,0 +1,2611 @@
+{
+  "0": {
+    "TITLE": "From a Far-off Land",
+    "PLACE": "Nagasugai",
+    "SCENARIO": "0000001f",
+    "EXPLANATION": "Christmas is coming up soon. It'd be good to do something for the kids. Maybe I'll ask Wada-san at the office for advice. ",
+    "SCENARIO_STATUS": "801f0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "1": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000001f",
+    "EXPLANATION": "Wada-san saw right through me. I guess I'll try and do what I can. ",
+    "SCENARIO_STATUS": "801f0001",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "2": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000001f",
+    "EXPLANATION": "I'll send money for Izumi's present using the ATM. 5,000 yen should be enough. ",
+    "SCENARIO_STATUS": "801f0002",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "3": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000001f",
+    "EXPLANATION": "I'll send money for Shiro's present using the ATM. 5,000 yen should be enough. ",
+    "SCENARIO_STATUS": "801f0003",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "4": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000001f",
+    "EXPLANATION": "I'll send money for Eri's present using the ATM. 8,000 yen should be enough. ",
+    "SCENARIO_STATUS": "801f0004",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "5": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000001f",
+    "EXPLANATION": "I'll send money for Riona's present using the ATM. 6,000 yen should be enough. ",
+    "SCENARIO_STATUS": "801f0005",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "6": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000001f",
+    "EXPLANATION": "I'll send money for Mitsuo's present using the ATM. 6,000 yen should be enough. ",
+    "SCENARIO_STATUS": "801f0006",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "7": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000001f",
+    "EXPLANATION": "I'll send money for Koji's present using the ATM. 10,000 yen should be enough. ",
+    "SCENARIO_STATUS": "801f0007",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "8": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000001f",
+    "EXPLANATION": "I'll send money for Taichi's present using the ATM. 10,000 yen should be enough. ",
+    "SCENARIO_STATUS": "801f0008",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "9": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000001f",
+    "EXPLANATION": "I'll send money for Ayako's present using the ATM. 20,000 yen should be enough. ",
+    "SCENARIO_STATUS": "801f0009",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "10": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000001f",
+    "EXPLANATION": "I wonder if this will cheer the kids up. Heh, I'm probably just doing it to feel better about myself. ",
+    "SCENARIO_STATUS": "801f000a",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "11": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000001f",
+    "EXPLANATION": "I've finished sending the eight kids money. I hope they have a good Christmas even without me there. ",
+    "SCENARIO_STATUS": "801f000d",
+    "FINISH_FLAG": "螳�"
+  },
+  "12": {
+    "TITLE": "Taxi SOS",
+    "PLACE": "Nagasugai",
+    "SCENARIO": "00000020",
+    "EXPLANATION": "There was apparently a taxi with its emergency light triggered on Nagasu Boulevard. ",
+    "SCENARIO_STATUS": "80200000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "13": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000020",
+    "EXPLANATION": "The taxi just sped off all of a sudden. It looked like it was heading north along Nagasu Boulevard. ",
+    "SCENARIO_STATUS": "80200001",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "14": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000020",
+    "EXPLANATION": "It looks like the taxi is headed toward Suzukake Lane. ",
+    "SCENARIO_STATUS": "80200002",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "15": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000020",
+    "EXPLANATION": "It looks like the taxi went further south from Suzukake Lane. Maybe I should head to Fukuhaku Street. ",
+    "SCENARIO_STATUS": "80200003",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "16": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000020",
+    "EXPLANATION": "This is the guy behind it all! I've got to save the driver. ",
+    "SCENARIO_STATUS": "80200006",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "17": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000020",
+    "EXPLANATION": "It looks like we both had it wrong. Well, at least the misunderstanding is sorted out now. ",
+    "SCENARIO_STATUS": "8020000a",
+    "FINISH_FLAG": "螳�"
+  },
+  "18": {
+    "TITLE": "King of the Mixer",
+    "PLACE": "Nagasugai",
+    "SCENARIO": "00000021",
+    "EXPLANATION": "Kiyokawa is having a mixer party at Motsunabe Kaede. I want to help out if I can. Maybe they're still waiting outside. ",
+    "SCENARIO_STATUS": "80210000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "19": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000021",
+    "EXPLANATION": "We made it through that mixer party. It didn't turn out as well as it could have, but those two seemed to be okay. ",
+    "SCENARIO_STATUS": "80210007",
+    "FINISH_FLAG": "螳�"
+  },
+  "20": {
+    "TITLE": "Hunt for the Kidnapper",
+    "PLACE": "Nagasugai",
+    "SCENARIO": "00000022",
+    "EXPLANATION": "I have to save that kidnapped kid! ",
+    "SCENARIO_STATUS": "80220000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "21": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000022",
+    "EXPLANATION": "I couldn't catch the kidnapper, but at least the kid is safe now. ",
+    "SCENARIO_STATUS": "80220007fffffffe80220003",
+    "FINISH_FLAG": "邨�"
+  },
+  "22": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000022",
+    "EXPLANATION": "I'm glad I caught up to that kidnapper. It's a relief to know the kid is safe now. ",
+    "SCENARIO_STATUS": "80220007fffffffe80220002",
+    "FINISH_FLAG": "螳�"
+  },
+  "23": {
+    "TITLE": "Another Haruka",
+    "PLACE": "Nagasugai",
+    "SCENARIO": "00000023",
+    "EXPLANATION": "That was no ordinary dog howl. I think it was coming from behind the toilets next to the river. ",
+    "SCENARIO_STATUS": "80230000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "24": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000023",
+    "EXPLANATION": "I guess idiots who gang up and prey upon the weak can be found anywhere. I think they need a little wake-up call. ",
+    "SCENARIO_STATUS": "80230003",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "25": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000023",
+    "EXPLANATION": "I need to bring Haruka's father to where she is. He should be at Cafﾃｩ Portugal on Nagasu Boulevard. ",
+    "SCENARIO_STATUS": "80230006",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "26": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000023",
+    "EXPLANATION": "Who'd stoop to taking a young girl hostage? These guys are a lost cause. Time to make them pay. ",
+    "SCENARIO_STATUS": "80230008",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "27": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000023",
+    "EXPLANATION": "It was good to see Haruka and her father patch things up. I wish I could see my Haruka... ",
+    "SCENARIO_STATUS": "8023000b",
+    "FINISH_FLAG": "螳�"
+  },
+  "28": {
+    "TITLE": "Cyberterrorism",
+    "PLACE": "Nagasugai",
+    "SCENARIO": "00000024",
+    "EXPLANATION": "I have to do something about the chief's computer.",
+    "SCENARIO_STATUS": "80240000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "29": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000024",
+    "EXPLANATION": "Looks like that messed it up badly. I probably should have stopped the chief.",
+    "SCENARIO_STATUS": "80240005fffffffe80240004",
+    "FINISH_FLAG": "邨�"
+  },
+  "30": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000024",
+    "EXPLANATION": "I'm glad it wasn't anything too serious. I made the right call stopping the chief. ",
+    "SCENARIO_STATUS": "80240005fffffffe00240004",
+    "FINISH_FLAG": "螳�"
+  },
+  "31": {
+    "TITLE": "Kiryu the Actor",
+    "PLACE": "Nagasugai",
+    "SCENARIO": "00000025",
+    "EXPLANATION": "Kudarizaka was looking for someone to stand in for him in a movie. I might still find him on Chikuzengawa Street. ",
+    "SCENARIO_STATUS": "80250000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "32": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000025",
+    "EXPLANATION": "I've got to defeat the zombies just like the script says. It's kind of tricky, though. ",
+    "SCENARIO_STATUS": "80250006",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "33": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000025",
+    "EXPLANATION": "They want me fight this horde of zombies? These movie actors have a rough job. ",
+    "SCENARIO_STATUS": "80250009",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "34": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000025",
+    "EXPLANATION": "Time for the climactic scene of the movie. Hopefully I can pack plenty of action into it. ",
+    "SCENARIO_STATUS": "8025000c",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "35": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000025",
+    "EXPLANATION": "I guess I didn't make a very good stand-in actor. The acting business is pretty tough. ",
+    "SCENARIO_STATUS": "80250014fffffffe80250013",
+    "FINISH_FLAG": "邨�"
+  },
+  "36": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000025",
+    "EXPLANATION": "It looks like I did an okay job filling in on the movie. This acting business is a lot tougher than I imagined.",
+    "SCENARIO_STATUS": "80250014fffffffe00250013",
+    "FINISH_FLAG": "螳�"
+  },
+  "37": {
+    "TITLE": "A Chance Meeting ",
+    "PLACE": "Nagasugai",
+    "SCENARIO": "00000026",
+    "EXPLANATION": "Yuya is the last person I expected to see in Nagasugai. Luckily, my true identity wasn't exposed to Muramatsu-san. ",
+    "SCENARIO_STATUS": "80260000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "38": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000026",
+    "EXPLANATION": "It sounds like Yuya has his fair share of troubles, too. I hope things go well for him no matter what he decides. ",
+    "SCENARIO_STATUS": "80260004",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "39": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000026",
+    "EXPLANATION": "I got an email from Yuya. Apparently he got a job as a waiter at a cabaret club called La Seine. ",
+    "SCENARIO_STATUS": "80260005",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "40": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000026",
+    "EXPLANATION": "Yuya seemed to be doing well at that cabaret club. I'll have to check in on him again sometime. ",
+    "SCENARIO_STATUS": "80260008",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "41": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000026",
+    "EXPLANATION": "I wonder how Yuya is doing. Maybe I'll go see him at La Seine. ",
+    "SCENARIO_STATUS": "80260009",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "42": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000026",
+    "EXPLANATION": "Heh. Yuya has that same old spark in his eyes again now. I'll give him a hand with these yakuza. ",
+    "SCENARIO_STATUS": "8026000b",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "43": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000026",
+    "EXPLANATION": "I know you still have things on your mind, Yuya, but good luck back at Stardust. ",
+    "SCENARIO_STATUS": "80260011",
+    "FINISH_FLAG": "螳�"
+  },
+  "44": {
+    "TITLE": "A Knock on the Door",
+    "PLACE": "Nagasugai",
+    "SCENARIO": "00000027",
+    "EXPLANATION": "Maybe a new neighbor came to introduce themselves? I pretended I was out, but I should say hi if they come back. ",
+    "SCENARIO_STATUS": "80270000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "45": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000027",
+    "EXPLANATION": "It's one of those pushy newspaper salesmen. I think I'll rough him up a little to teach him a lesson. ",
+    "SCENARIO_STATUS": "80270005",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "46": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000027",
+    "EXPLANATION": "It was too much trouble to talk him around, so I signed up for a newspaper subscription. Talk about a pushy salesman. ",
+    "SCENARIO_STATUS": "80270007fffffffe80270008",
+    "FINISH_FLAG": "邨�"
+  },
+  "47": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000027",
+    "EXPLANATION": "That newspaper salesman was about as obnoxious as they come, but I think he'll change his tune now. ",
+    "SCENARIO_STATUS": "80270006fffffffe80270008",
+    "FINISH_FLAG": "螳�"
+  },
+  "48": {
+    "TITLE": "Dragon Seafood Bowl",
+    "PLACE": "Nagasugai",
+    "SCENARIO": "00000028",
+    "EXPLANATION": "A fisherman invited me to do some river fishing. He's toward the north end of Chikuzengawa Street. ",
+    "SCENARIO_STATUS": "80280000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "49": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000028",
+    "EXPLANATION": "It's sea fishing this time. That could be fun. I can meet him toward the north end of Chikuzengawa Street again. ",
+    "SCENARIO_STATUS": "80280007",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "50": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000028",
+    "EXPLANATION": "So Kimura-san is the Tuna King, huh? That Dragon Seafood Bowl tasted incredible. ",
+    "SCENARIO_STATUS": "8028000f",
+    "FINISH_FLAG": "螳�"
+  },
+  "51": {
+    "TITLE": "The Spangled Meteor ",
+    "PLACE": "Nagasugai",
+    "SCENARIO": "00000029",
+    "EXPLANATION": "The Spangled Meteor? What sort of girl drives a car like that? ",
+    "SCENARIO_STATUS": "80290000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "52": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000029",
+    "EXPLANATION": "That Nanami girl had heard rumors about me. I wonder if she has something to do with the Spangled Meteor? ",
+    "SCENARIO_STATUS": "80290005",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "53": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000029",
+    "EXPLANATION": "I got a challenge from the Spangled Meteor. The driver seems to know me, so maybe it really is Nanami. ",
+    "SCENARIO_STATUS": "80290007",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "54": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000029",
+    "EXPLANATION": "I got a challenge from the Spangled Meteor. I lost the last race, but this time I think I can win and unmask them.",
+    "SCENARIO_STATUS": "80290008",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "55": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000029",
+    "EXPLANATION": "The Spangled Meteor is Rena Nanami. She's a good woman who understands the importance of being honest with herself.",
+    "SCENARIO_STATUS": "8029000a",
+    "FINISH_FLAG": "螳�"
+  },
+  "56": {
+    "TITLE": "Dragon Mask Redux",
+    "PLACE": "Nagasugai",
+    "SCENARIO": "0000002a",
+    "EXPLANATION": "So this guy's name is Hors d'Oeuvre Morosawa? He's a little out of control. ",
+    "SCENARIO_STATUS": "802a0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "57": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000002a",
+    "EXPLANATION": "I could join him in the ring if I had something to hide my face with. Did I have anything like that at my apartment? ",
+    "SCENARIO_STATUS": "802a0003",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "58": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000002a",
+    "EXPLANATION": "With the dragon mask, I can take part in the bout with Morosawa. I'll go home to prepare then head to Ose Bridge. ",
+    "SCENARIO_STATUS": "802a0004",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "59": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000002a",
+    "EXPLANATION": "I'll make Hors d'Oeuvre Morosawa's retirement fight a fitting end to his career. ",
+    "SCENARIO_STATUS": "802a0007",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "60": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000002a",
+    "EXPLANATION": "Who knew that dragon mask would come in handy? I think Morosawa got the closure he was looking for. ",
+    "SCENARIO_STATUS": "802a000a",
+    "FINISH_FLAG": "螳�"
+  },
+  "61": {
+    "TITLE": "A Plea to the Gods",
+    "PLACE": "Nagasugai",
+    "SCENARIO": "0000002b",
+    "EXPLANATION": "That student who lost his answer booklet looked pretty stressed out. I wonder if he's still at Ose Bridge. ",
+    "SCENARIO_STATUS": "802b0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "62": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000002b",
+    "EXPLANATION": "I think that student learned something more important than the answers to his test. ",
+    "SCENARIO_STATUS": "802b0005",
+    "FINISH_FLAG": "螳�"
+  },
+  "63": {
+    "TITLE": "Fast Food!",
+    "PLACE": "Nagasugai",
+    "SCENARIO": "0000002c",
+    "EXPLANATION": "A food stall owner wanted me to help get his stall in place. He's probably still on Meisei Street.",
+    "SCENARIO_STATUS": "802c0001",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "64": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000002c",
+    "EXPLANATION": "Unless I get that poor guy's food stall in place soon, he won't be able to open on time. I'd better hurry up.",
+    "SCENARIO_STATUS": "802c0000fffffffe802c0002",
+    "FINISH_FLAG": ""
+  },
+  "65": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000002c",
+    "EXPLANATION": "I lugged the food stall over, but it got a bit damaged. At least his patrons won't miss out on their food.",
+    "SCENARIO_STATUS": "802c0005fffffffe002c0003",
+    "FINISH_FLAG": "邨�"
+  },
+  "66": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000002c",
+    "EXPLANATION": "I lugged the food stall over in one piece. Now his patrons won't have to wait for their food.",
+    "SCENARIO_STATUS": "802c0005fffffffe802c0003",
+    "FINISH_FLAG": "螳�"
+  },
+  "67": {
+    "TITLE": "The Perfect Seasoning",
+    "PLACE": "Kamurocho",
+    "SCENARIO": "00000030",
+    "EXPLANATION": "It sounds like this place is pretty deep in debt. I should ask for more details in case I can help out. ",
+    "SCENARIO_STATUS": "80300000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "68": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000030",
+    "EXPLANATION": "Tatsuya is scouring the country for ideas to use in his new creations. Once he's done, he might be able to lend a hand. ",
+    "SCENARIO_STATUS": "80300001",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "69": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000030",
+    "EXPLANATION": "Tatsuya said he was at Theater Square. I should go and meet him there. ",
+    "SCENARIO_STATUS": "80300002",
+    "FINISH_FLAG": ""
+  },
+  "70": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000030",
+    "EXPLANATION": "I bet Tatsuya can come up with plenty of other masterpiece dishes in the future. I hope he keeps it up. ",
+    "SCENARIO_STATUS": "80300008",
+    "FINISH_FLAG": "螳�"
+  },
+  "71": {
+    "TITLE": "Mack Returns",
+    "PLACE": "Nagasugai",
+    "SCENARIO": "0000002e",
+    "EXPLANATION": "Mack Shinozuka... I met him in Kamurocho before. He seems to be traveling the world and taking photos again. ",
+    "SCENARIO_STATUS": "802e0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "72": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000002e",
+    "EXPLANATION": "Revelations, huh? I guess I'll let Mack know if I capture any moments that strike me as special. ",
+    "SCENARIO_STATUS": "802e0002",
+    "FINISH_FLAG": "螳�"
+  },
+  "73": {
+    "TITLE": "Got to be Firm ",
+    "PLACE": "Nagasugai",
+    "SCENARIO": "0000002d",
+    "EXPLANATION": "That food stall ramen I had with the chief tasted great. When I get a chance, I want to go and try it again. ",
+    "SCENARIO_STATUS": "802d0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "74": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000002d",
+    "EXPLANATION": "Cooking noodles is more hectic than I thought. The guy looked happy, so maybe I'll go help out again sometime. ",
+    "SCENARIO_STATUS": "802d0003",
+    "FINISH_FLAG": "螳�"
+  },
+  "75": {
+    "TITLE": "Amon",
+    "PLACE": "Kamurocho",
+    "SCENARIO": "0000002f",
+    "EXPLANATION": "I got a challenge from the Amon Clan. Once we're all ready, their messenger outside New Serena will take us where they are.",
+    "SCENARIO_STATUS": "802f0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "76": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000002f",
+    "EXPLANATION": "We have to finish things with the Amon Clan. I need to make sure we all get back alive. ",
+    "SCENARIO_STATUS": "802f0006",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "77": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000002f",
+    "EXPLANATION": "I guess there's no end in sight for our struggle with the Amon Clan...",
+    "SCENARIO_STATUS": "802f0010",
+    "FINISH_FLAG": "螳�"
+  },
+  "78": {
+    "TITLE": "Truth and Lies",
+    "PLACE": "Tsukimino",
+    "SCENARIO": "00000033",
+    "EXPLANATION": "Those hostesses were talkin' about Himura near Rose Hip.",
+    "SCENARIO_STATUS": "80330000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "79": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000033",
+    "EXPLANATION": "Could be others 'round here who knew Himura. Gotta be a lot of foot traffic passing through the arcade area. ",
+    "SCENARIO_STATUS": "80330001",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "80": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000033",
+    "EXPLANATION": "Another one of those arms deals Himura was talkin' about in the slammer could be goin' down. Probably in Ramen Village. ",
+    "SCENARIO_STATUS": "80330002",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "81": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000033",
+    "EXPLANATION": "There's supposed to be an arms deal at the plaza in Ramen Village. Cops'll be there, but I better go for a look. ",
+    "SCENARIO_STATUS": "80330003",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "82": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000033",
+    "EXPLANATION": "Ain't every day I end up protectin' cops from the mafia. Still, I'll pay back the debt I owe, Himura! ",
+    "SCENARIO_STATUS": "80330005",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "83": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000033",
+    "EXPLANATION": "For better or worse, Himura's a show-off. I got taken in hook, line, and sinker. It was still fun, though.",
+    "SCENARIO_STATUS": "80330008",
+    "FINISH_FLAG": "螳�"
+  },
+  "84": {
+    "TITLE": "Hunter and Hunted",
+    "PLACE": "Tsukimino",
+    "SCENARIO": "00000035",
+    "EXPLANATION": "That guy's three sheets to the wind. Better steer clear of him. ",
+    "SCENARIO_STATUS": "80350000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "85": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000035",
+    "EXPLANATION": "That old guy in Ambitious was hammered. Maybe I oughta hear him out at least. ",
+    "SCENARIO_STATUS": "80350001",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "86": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000035",
+    "EXPLANATION": "Araseki-han ran off after the bag snatcher! They were headed towards Nakatsuki Street. I better go after 'em. ",
+    "SCENARIO_STATUS": "80350003",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "87": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000035",
+    "EXPLANATION": "Losers with no dreams ain't got a right to look down on Araseki-han. I'll show 'em the error of their ways. ",
+    "SCENARIO_STATUS": "80350006",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "88": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000035",
+    "EXPLANATION": "So Araseki-han was chasin' old Oshima, huh? I better watch my step next time I see him. ",
+    "SCENARIO_STATUS": "8035000a",
+    "FINISH_FLAG": "螳�"
+  },
+  "89": {
+    "TITLE": "A Familiar Dojo",
+    "PLACE": "Kamurocho",
+    "SCENARIO": "00000036",
+    "EXPLANATION": "Looks like Sodachi's been workin' on his skills. Let's see how far he's come. ",
+    "SCENARIO_STATUS": "80360000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "90": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000036",
+    "EXPLANATION": "Looks like Sodachi's been workin' on his skills. Let's see how far he's come. ",
+    "SCENARIO_STATUS": "80360003",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "91": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000036",
+    "EXPLANATION": "Sounds like Sodachi's trainin' his heart out. Hope he keeps makin' more progress. ",
+    "SCENARIO_STATUS": "80360008",
+    "FINISH_FLAG": "螳�"
+  },
+  "92": {
+    "TITLE": "A Special Place ",
+    "PLACE": "Kamurocho",
+    "SCENARIO": "00000037",
+    "EXPLANATION": "Sounds like Sodachi's in some kinda trouble! Better head to the dojo right now. ",
+    "SCENARIO_STATUS": "80370001",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "93": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000037",
+    "EXPLANATION": "This place is precious to us. No way I'm gonna let these guys ruin that! ",
+    "SCENARIO_STATUS": "80370002",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "94": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000037",
+    "EXPLANATION": "Keep holdin' down the fort for us, Sodachi. That place is special to us all.",
+    "SCENARIO_STATUS": "80370007",
+    "FINISH_FLAG": "螳�"
+  },
+  "95": {
+    "TITLE": "The Santa Hunters ",
+    "PLACE": "Tsukimino",
+    "SCENARIO": "00000038",
+    "EXPLANATION": "Who'd wanna harm Santa? I might go and help out later. ",
+    "SCENARIO_STATUS": "80380000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "96": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000038",
+    "EXPLANATION": "Santa hunters? What's wrong with these guys? I better track 'em down and give 'em a talking-to. ",
+    "SCENARIO_STATUS": "80380002fffffffe00380005",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "97": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000038",
+    "EXPLANATION": "Don't tell me these guys are huntin' down Santas! Guess I'm gonna have to turn tail and run. ",
+    "SCENARIO_STATUS": "80380005fffffffe00380006",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "98": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000038",
+    "EXPLANATION": "Santa hunters, huh? I might help out if I get the chance. ",
+    "SCENARIO_STATUS": "8038000afffffffe0038000b",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "99": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000038",
+    "EXPLANATION": "So these're the Santa hunters. Time to give 'em a piece of my mind. ",
+    "SCENARIO_STATUS": "8038000cfffffffe00380011",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "100": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000038",
+    "EXPLANATION": "Guess that settles that. I could get used to bein' Santa. ",
+    "SCENARIO_STATUS": "80380011",
+    "FINISH_FLAG": "螳�"
+  },
+  "101": {
+    "TITLE": "Snow Festival Map",
+    "PLACE": "Tsukimino",
+    "SCENARIO": "00000039",
+    "EXPLANATION": "They need me to check where each of the snow sculptures are at. Guess I could pitch in for the sake of the festival. ",
+    "SCENARIO_STATUS": "80390000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "102": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000039",
+    "EXPLANATION": "I was supposed to check where the snow sculptures are at. Gotta tell the guy on the west side of the snow festival. ",
+    "SCENARIO_STATUS": "80390001",
+    "FINISH_FLAG": ""
+  },
+  "103": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000039",
+    "EXPLANATION": "Looks like I messed up the location of the snow sculptures. Better check one more time and go tell that guy again. ",
+    "SCENARIO_STATUS": "80390002",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "104": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000039",
+    "EXPLANATION": "Looks like I messed up the location of the snow sculptures. The snow festival's gonna be fun. ",
+    "SCENARIO_STATUS": "80390007fffffffe80390004",
+    "FINISH_FLAG": "邨�"
+  },
+  "105": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000039",
+    "EXPLANATION": "Looks like I got the snow sculpture locations right. I'm really lookin' forward to the snow festival. ",
+    "SCENARIO_STATUS": "80390007fffffffe80390005",
+    "FINISH_FLAG": "螳�"
+  },
+  "106": {
+    "TITLE": "Big City Dreamin'",
+    "PLACE": "Tsukimino",
+    "SCENARIO": "0000003a",
+    "EXPLANATION": "Masao said he was headed to Tsukimino. Hope his mom at the village'll be okay. ",
+    "SCENARIO_STATUS": "803a0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "107": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000003a",
+    "EXPLANATION": "Gotta deliver this letter to Masao that his mom gave me. Think he was workin' at a place called Apocalypse. ",
+    "SCENARIO_STATUS": "803a0002",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "108": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000003a",
+    "EXPLANATION": "There's a place called Apocalypse near Rose Hip. Gotta deliver this letter to Masao that his mom gave me. ",
+    "SCENARIO_STATUS": "803a0003",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "109": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000003a",
+    "EXPLANATION": "Looks like Masao got set up by that club. He ain't there anymore, so where's he at now? ",
+    "SCENARIO_STATUS": "803a0004",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "110": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000003a",
+    "EXPLANATION": "Looks like Masao's learnin' a few lessons about life. Now I gotta teach these guys a lesson as well! ",
+    "SCENARIO_STATUS": "803a0008",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "111": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000003a",
+    "EXPLANATION": "Ya only learn to appreciate parents after ya leave home. Never give up, Masao. ",
+    "SCENARIO_STATUS": "803a000c",
+    "FINISH_FLAG": "螳�"
+  },
+  "112": {
+    "TITLE": "Gourmet Traveler ",
+    "PLACE": "Tsukimino",
+    "SCENARIO": "0000003b",
+    "EXPLANATION": "That girl had a hankerin' for lamb barbecue so bad she damn near starved herself for it. Had me worried for nothin'. ",
+    "SCENARIO_STATUS": "803b0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "113": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000003b",
+    "EXPLANATION": "That barbecue girl ran off like the wind. She ain't actually gonna go up the mountain, is she? ",
+    "SCENARIO_STATUS": "803b0005",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "114": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000003b",
+    "EXPLANATION": "From the sound of things at the village, that girl really did head up the mountain! ",
+    "SCENARIO_STATUS": "803b0006",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "115": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000003b",
+    "EXPLANATION": "That barbecue girl actually made it up the mountain. I better take her down to safety. ",
+    "SCENARIO_STATUS": "803b0007",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "116": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000003b",
+    "EXPLANATION": "Made it off the mountain by the skin of our teeth. Hope that girl's gonna be okay. ",
+    "SCENARIO_STATUS": "803b0008",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "117": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000003b",
+    "EXPLANATION": "Gotta hand it to that barbecue girl, she's sure dedicated. Gotta hunt a deer to fill her belly up. ",
+    "SCENARIO_STATUS": "803b000a",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "118": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000003b",
+    "EXPLANATION": "What kinda girl goes that far for a meal? You're something else, Mami Yamashita. ",
+    "SCENARIO_STATUS": "803b000c",
+    "FINISH_FLAG": "螳�"
+  },
+  "119": {
+    "TITLE": "The Ultimate Warmth ",
+    "PLACE": "Tsukimino",
+    "SCENARIO": "0000003c",
+    "EXPLANATION": "Anti-cold gear, huh? Sounds fishy to me. Wonder if that researcher's still on Tsukasa Street. ",
+    "SCENARIO_STATUS": "803c0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "120": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000003c",
+    "EXPLANATION": "So much for the ultimate anti-cold gear! Gotta put this fire out with a fire extinguisher! ",
+    "SCENARIO_STATUS": "803c0003",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "121": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000003c",
+    "EXPLANATION": "That anti-cold gear was some bullshit all right. Still, I guess I don't feel cold anymore. ",
+    "SCENARIO_STATUS": "803c0007",
+    "FINISH_FLAG": "螳�"
+  },
+  "122": {
+    "TITLE": "Set Free ",
+    "PLACE": "Tsukimino",
+    "SCENARIO": "0000003d",
+    "EXPLANATION": "Some kinda accident outside Northern Lane? Maybe I oughta check it out. ",
+    "SCENARIO_STATUS": "803d0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "123": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000003d",
+    "EXPLANATION": "Wasn't expectin' to face off with a bear here in town. Better take care of it before someone gets hurt. ",
+    "SCENARIO_STATUS": "803d0002",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "124": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000003d",
+    "EXPLANATION": "Lucky for me, that bear was pretty small. Nobody ended up gettin' hurt. ",
+    "SCENARIO_STATUS": "803d0006",
+    "FINISH_FLAG": "螳�"
+  },
+  "125": {
+    "TITLE": "The Little Match Girl",
+    "PLACE": "Tsukimino",
+    "SCENARIO": "0000003e",
+    "EXPLANATION": "Wonder if that little match girl's still out in front of Ambitious. ",
+    "SCENARIO_STATUS": "803e0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "126": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000003e",
+    "EXPLANATION": "Hope that match girl's okay. Maybe I'll go look out in front of Ambitious. ",
+    "SCENARIO_STATUS": "803e0003",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "127": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000003e",
+    "EXPLANATION": "Gotta get some nourishin' food to her. Hang in there, little match girl. ",
+    "SCENARIO_STATUS": "803e0005",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "128": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000003e",
+    "EXPLANATION": "The match girl's lookin' much better now. Wish I could help her out with her matches. ",
+    "SCENARIO_STATUS": "803e0006",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "129": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000003e",
+    "EXPLANATION": "I oughta help the poor girl sell some matches. I'll try talkin' to some likely buyers. ",
+    "SCENARIO_STATUS": "803e0007",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "130": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000003e",
+    "EXPLANATION": "So I reminded her of her dad, huh? That's not a bad feeling, I guess. ",
+    "SCENARIO_STATUS": "803e0018",
+    "FINISH_FLAG": "螳�"
+  },
+  "131": {
+    "TITLE": "The Frozen City ",
+    "PLACE": "Tsukimino",
+    "SCENARIO": "0000003f",
+    "EXPLANATION": "I should bring that guy behind Don Quijote some hot food. ",
+    "SCENARIO_STATUS": "803f0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "132": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000003f",
+    "EXPLANATION": "Good to see him perkin' up. Hope he makes it to Tokyo all right. ",
+    "SCENARIO_STATUS": "803f0003",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "133": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000003f",
+    "EXPLANATION": "Idiots. I'll show 'em how lucky a day they're havin'. ",
+    "SCENARIO_STATUS": "803f0004",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "134": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000003f",
+    "EXPLANATION": "What a touching gesture. Ain't like he needed to give me a gift like that. Hope he's doin' okay in Tokyo. ",
+    "SCENARIO_STATUS": "803f0006",
+    "FINISH_FLAG": "螳�"
+  },
+  "135": {
+    "TITLE": "Slip and Slide ",
+    "PLACE": "Tsukimino",
+    "SCENARIO": "00000040",
+    "EXPLANATION": "I'm gonna fall an' eat shit if I try to run. Best to take it easy and make sure I get to the delivery guy. ",
+    "SCENARIO_STATUS": "80400000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "136": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000040",
+    "EXPLANATION": "Gotta deliver this ramen before the noodles get soggy. Wouldn't wanna let that delivery guy down. ",
+    "SCENARIO_STATUS": "80400005",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "137": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000040",
+    "EXPLANATION": "That delivery guy sure was dedicated to his job. I feel bad I couldn't help him out. ",
+    "SCENARIO_STATUS": "80400015fffffffe80400014",
+    "FINISH_FLAG": "邨�"
+  },
+  "138": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000040",
+    "EXPLANATION": "That delivery guy sure was dedicated to his job. The slippery streets make a hell of an obstacle. ",
+    "SCENARIO_STATUS": "80400015fffffffe00400014",
+    "FINISH_FLAG": "螳�"
+  },
+  "139": {
+    "TITLE": "Snow Festival Performer ",
+    "PLACE": "Tsukimino",
+    "SCENARIO": "00000034",
+    "EXPLANATION": "That street performer Inari was in a fix. Guess I could look around the snow sculptures at the snow festival. ",
+    "SCENARIO_STATUS": "80340001fffffffe00340002",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "140": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000034",
+    "EXPLANATION": "Rollin' on big snowballs, huh? I'll go tell that street performer about it. ",
+    "SCENARIO_STATUS": "80340002fffffffe00340004",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "141": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000034",
+    "EXPLANATION": "Glad he liked the idea. I'll go back later to see how he's doin'. ",
+    "SCENARIO_STATUS": "80340004",
+    "FINISH_FLAG": "螳�"
+  },
+  "142": {
+    "TITLE": "Winter Combat ",
+    "PLACE": "Tsukimino",
+    "SCENARIO": "00000041",
+    "EXPLANATION": "I wandered into a snowball fight by accident. Ah well, I got a pouch now, so I can try it later if I feel like it. ",
+    "SCENARIO_STATUS": "80410006",
+    "FINISH_FLAG": "螳�"
+  },
+  "143": {
+    "TITLE": "The Letters",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "00000044",
+    "EXPLANATION": "That last email was a little weird, but I have a job to go to now. It's near the taxi stand at Bunzaemon Outdoor Mall. ",
+    "SCENARIO_STATUS": "80440006",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "144": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000044",
+    "EXPLANATION": "It was so nice of everyone at Morning Glory to write me letters. I have to do my best to make them proud.",
+    "SCENARIO_STATUS": "8044000c",
+    "FINISH_FLAG": "螳�"
+  },
+  "145": {
+    "TITLE": "A Source of Strength ",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "00000045",
+    "EXPLANATION": "I should go and get that autograph for Horie-san. Castle Records is above the bookstore in Bunzaemon Outdoor Mall. ",
+    "SCENARIO_STATUS": "80450000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "146": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000045",
+    "EXPLANATION": "I got the autograph, so I should bring it to Yamaura-san. ",
+    "SCENARIO_STATUS": "80450008",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "147": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000045",
+    "EXPLANATION": "I'm glad I got that autograph handed over safely. I hope both Airi-san and Horie-san feel better soon. ",
+    "SCENARIO_STATUS": "8045000b",
+    "FINISH_FLAG": "螳�"
+  },
+  "148": {
+    "TITLE": "Lost Dreams ",
+    "PLACE": "Kamurocho",
+    "SCENARIO": "00000046",
+    "EXPLANATION": "I wonder why there's a crowd on Nakamichi Street. It looks like Yamaura-san is there, too. Maybe I'll ask her.",
+    "SCENARIO_STATUS": "80460000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "149": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000046",
+    "EXPLANATION": "Yamaura-san was in a duo with Ayu Kurata? Wow! Ayu Kurata was headed to Theater Square. Maybe she's still there. ",
+    "SCENARIO_STATUS": "80460001",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "150": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000046",
+    "EXPLANATION": "Ayu Kurata is Yamaura-san's old partner... She headed around back from Theater Square. Maybe now is my chance. ",
+    "SCENARIO_STATUS": "80460003",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "151": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000046",
+    "EXPLANATION": "Unfortunately, I'm not ready. Once I'm feeling confident, I'll head around back from Theater Square. ",
+    "SCENARIO_STATUS": "80460008",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "152": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000046",
+    "EXPLANATION": "It's a shame, but I don't have what it takes yet. Once I've improved, I'll go around behind Theater Square. ",
+    "SCENARIO_STATUS": "80460007",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "153": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000046",
+    "EXPLANATION": "Yamaura-san and Kurata-san kind of get along, don't they? I want to do my best to live up to everyone's expectations. ",
+    "SCENARIO_STATUS": "8046000b",
+    "FINISH_FLAG": "螳�"
+  },
+  "154": {
+    "TITLE": "A Normal Life ",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "00000047",
+    "EXPLANATION": "Maybe I shouldn't have passed on okonomiyaki with the girls from school. I wonder if they're still at Bishamon Bridge. ",
+    "SCENARIO_STATUS": "80470000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "155": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000047",
+    "EXPLANATION": "It was hard to keep up with the conversation, but I can only be myself. Okonomiyaki with Yui might be nice next time. ",
+    "SCENARIO_STATUS": "80470006",
+    "FINISH_FLAG": "螳�"
+  },
+  "156": {
+    "TITLE": "Manager for a Day ",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "00000048",
+    "EXPLANATION": "I turned down that free takoyaki without thinking. Maybe I'll stop by there again sometime. ",
+    "SCENARIO_STATUS": "80480000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "157": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000048",
+    "EXPLANATION": "I hope I did everything right. Genuine takoyaki from a place like that is really delicious! ",
+    "SCENARIO_STATUS": "80480008",
+    "FINISH_FLAG": "螳�"
+  },
+  "158": {
+    "TITLE": "The Announcer School ",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "00000049",
+    "EXPLANATION": "A free introductory class on voice-related jobs, huh? I might learn something useful for my idol work. ",
+    "SCENARIO_STATUS": "80490000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "159": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000049",
+    "EXPLANATION": "Well, that was very educational. I still can't help but feel bad for taking up their time, though. ",
+    "SCENARIO_STATUS": "80490006",
+    "FINISH_FLAG": "螳�"
+  },
+  "160": {
+    "TITLE": "Gourmet Reporter ",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "0000004a",
+    "EXPLANATION": "Tatsuya-san didn't look very well at all. I should probably help out. I wonder if he's still in Shofukucho. ",
+    "SCENARIO_STATUS": "804a0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "161": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000004a",
+    "EXPLANATION": "It's tricky to tell people how good something tastes. I hope I was of as least a little help to Tatsuya-san. ",
+    "SCENARIO_STATUS": "804a0004",
+    "FINISH_FLAG": "螳�"
+  },
+  "162": {
+    "TITLE": "SBR99 ",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "0000004b",
+    "EXPLANATION": "SBR99? It was so sudden, so I turned it down. Maybe Fuyumoto-san is still outside Karaokekan. ",
+    "SCENARIO_STATUS": "804b0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "163": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000004b",
+    "EXPLANATION": "I wasn't able to win, but it was really fun livening up the event with others aiming to become pop idols. ",
+    "SCENARIO_STATUS": "804b000cfffffffe804b000f",
+    "FINISH_FLAG": "邨�"
+  },
+  "164": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000004b",
+    "EXPLANATION": "It was nice to get the win. I'll have to keep trying my best! ",
+    "SCENARIO_STATUS": "804b000bfffffffe804b000f",
+    "FINISH_FLAG": "螳�"
+  },
+  "165": {
+    "TITLE": "Light and Dark ",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "0000004d",
+    "EXPLANATION": "That girl had a pretty grim look on her face. I wonder if she's in show business. ",
+    "SCENARIO_STATUS": "804d0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "166": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000004d",
+    "EXPLANATION": "Asuka-chan wants to see an example of stage presence. When I'm ready, I'll go and see her by the river. ",
+    "SCENARIO_STATUS": "804d0006",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "167": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000004d",
+    "EXPLANATION": "It's good to see Asuka-chan getting more confident. Hopefully her next time up on stage goes well. ",
+    "SCENARIO_STATUS": "804d000d",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "168": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000004d",
+    "EXPLANATION": "I got a call from Asuka-chan. What could she want? I'd better hurry to the riverside area where we first met. ",
+    "SCENARIO_STATUS": "804d000e",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "169": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000004d",
+    "EXPLANATION": "I wasn't able to help out. Good luck, Asuka-chan. ",
+    "SCENARIO_STATUS": "804d0015fffffffe804d0013",
+    "FINISH_FLAG": "邨�"
+  },
+  "170": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000004d",
+    "EXPLANATION": "It was great to see Asuka-chan doing so well! I guess we're rivals from now on. I can't let her beat me! ",
+    "SCENARIO_STATUS": "804d0015fffffffe804d0012",
+    "FINISH_FLAG": "螳�"
+  },
+  "171": {
+    "TITLE": "Magical Haruka ",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "0000004e",
+    "EXPLANATION": "That man was a little odd. It sounds like he's looking for gamers. ",
+    "SCENARIO_STATUS": "804e0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "172": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000004e",
+    "EXPLANATION": "I wouldn't mind playing that IF8 game again if I get the chance. I did enjoy being a magical girl.",
+    "SCENARIO_STATUS": "804e0006",
+    "FINISH_FLAG": "螳�"
+  },
+  "173": {
+    "TITLE": "Autograph Session ",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "0000004f",
+    "EXPLANATION": "How did this turn into an autograph session all of a sudden? Well, okay, let's do this! ",
+    "SCENARIO_STATUS": "804f0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "174": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000004f",
+    "EXPLANATION": "I managed to sign everyone's items. It's really hard getting all the people's names right. ",
+    "SCENARIO_STATUS": "804f0008",
+    "FINISH_FLAG": "螳�"
+  },
+  "175": {
+    "TITLE": "Watami vs. Watamin-chi ",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "00000050",
+    "EXPLANATION": "A poster girl audition, huh? I'd better go and ask Yamaura-san about the details. ",
+    "SCENARIO_STATUS": "80500000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "176": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000050",
+    "EXPLANATION": "I'm really nervous about this izakaya audition. I'll go and talk with Yamaura-san once I'm ready. ",
+    "SCENARIO_STATUS": "80500003fffffffd80500004",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "177": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000050",
+    "EXPLANATION": "That was a weird audition. Still, at least it went well. ",
+    "SCENARIO_STATUS": "8050000c",
+    "FINISH_FLAG": "螳�"
+  },
+  "178": {
+    "TITLE": "Find the Paparazzi ",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "00000051",
+    "EXPLANATION": "If I see someone who might be the paparazzo, I'll call Uda-san.",
+    "SCENARIO_STATUS": "80510000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "179": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000051",
+    "EXPLANATION": "The paparazzo might show up again soon. I should go to Shofukucho. ",
+    "SCENARIO_STATUS": "8051000c",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "180": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000051",
+    "EXPLANATION": "I feel like I'm being watched. Where's the paparazzo? ",
+    "SCENARIO_STATUS": "80510003",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "181": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000051",
+    "EXPLANATION": "I lost sight of the paparazzo. They might show up again, though. I'll go to Shofukucho later. ",
+    "SCENARIO_STATUS": "80510009",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "182": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000051",
+    "EXPLANATION": "I found the paparazzo! He was headed to West Shofukucho. I have to go after him! ",
+    "SCENARIO_STATUS": "80510004",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "183": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000051",
+    "EXPLANATION": "The paparazzo might show up again soon. I should go to West Shofukucho. ",
+    "SCENARIO_STATUS": "8051000d",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "184": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000051",
+    "EXPLANATION": "I feel like I'm being watched again. Where could the paparazzo be?",
+    "SCENARIO_STATUS": "80510005",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "185": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000051",
+    "EXPLANATION": "I lost sight of the paparazzo. They might show up again, though. I'll go to West Shofukucho later. ",
+    "SCENARIO_STATUS": "8051000a",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "186": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000051",
+    "EXPLANATION": "This time the paparazzo is headed to West Sotenbori Street. I'll have to do my best not to lose him! ",
+    "SCENARIO_STATUS": "80510006",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "187": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000051",
+    "EXPLANATION": "The paparazzo might show up again soon. I should go to West Sotenbori Street. ",
+    "SCENARIO_STATUS": "8051000f",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "188": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000051",
+    "EXPLANATION": "I'll track that paparazzo down! ",
+    "SCENARIO_STATUS": "80510007",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "189": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000051",
+    "EXPLANATION": "I lost sight of the paparazzo. They might show up again, though. I'll go to West Sotenbori Street later. ",
+    "SCENARIO_STATUS": "8051000b",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "190": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000051",
+    "EXPLANATION": "The paparazzo got away... I wasn't able to help Uda-san out. ",
+    "SCENARIO_STATUS": "80510013fffffffe80510011",
+    "FINISH_FLAG": "邨�"
+  },
+  "191": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000051",
+    "EXPLANATION": "I'm glad I found the paparazzo. I'm glad I could help Uda-san, too! ",
+    "SCENARIO_STATUS": "80510013fffffffe00510011",
+    "FINISH_FLAG": "螳�"
+  },
+  "192": {
+    "TITLE": "Starbound ",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "0000004c",
+    "EXPLANATION": "A dance battle with Ulala-san. This might be inspiring.",
+    "SCENARIO_STATUS": "804c0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "193": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000004c",
+    "EXPLANATION": "Ulala-san is really something. I wonder if I'll come across her on that bridge again sometime. ",
+    "SCENARIO_STATUS": "804c0005",
+    "FINISH_FLAG": "螳�"
+  },
+  "194": {
+    "TITLE": "The Comedian Hopeful",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "00000052",
+    "EXPLANATION": "Were those guys comedians? I saw a guy north of Iwao Bridge looking pretty upset after his friend left him. ",
+    "SCENARIO_STATUS": "80520000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "195": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000052",
+    "EXPLANATION": "I've been invited to give comedy a try. Maybe it would help me with my work. ",
+    "SCENARIO_STATUS": "80520001",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "196": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000052",
+    "EXPLANATION": "It's time for the first round of the comedy audition! Haruo-san is waiting for me north of Iwao Bridge. ",
+    "SCENARIO_STATUS": "80520002",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "197": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000052",
+    "EXPLANATION": "I wonder if all this comedy practice will pay off. I'll head north of Iwao Bridge if I feel like giving it another shot! ",
+    "SCENARIO_STATUS": "8052000a",
+    "FINISH_FLAG": "螳�"
+  },
+  "198": {
+    "TITLE": "Giving up on a Dream",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "00000055",
+    "EXPLANATION": "There was a woman in Shofukucho looking for Sky Finance. Perhaps a prospective customer? ",
+    "SCENARIO_STATUS": "80550000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "199": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000055",
+    "EXPLANATION": "Mamagoto Club is in East Shofukucho. Maybe I'll go and take a look. ",
+    "SCENARIO_STATUS": "80550014",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "200": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000055",
+    "EXPLANATION": "Murata Trading is in the Shofuku Sotenbori Building on South Shofukucho. Let's see how determined she is. ",
+    "SCENARIO_STATUS": "80550013",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "201": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000055",
+    "EXPLANATION": "A real dream comes from a more positive place. Nanako Kodama realizes that now, I think.",
+    "SCENARIO_STATUS": "80550016",
+    "FINISH_FLAG": "螳�"
+  },
+  "202": {
+    "TITLE": "Money and Pride",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "00000056",
+    "EXPLANATION": "I got info on Akihiko Yamori. He's bound to come to Sky Finance. I'll wait for him there. ",
+    "SCENARIO_STATUS": "80560000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "203": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000056",
+    "EXPLANATION": "Where do you think you can borrow money, Yamori-san? You aren't really going to rob a bank, are you? ",
+    "SCENARIO_STATUS": "80560005",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "204": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000056",
+    "EXPLANATION": "Yamori-san went into Bunzaemon Outdoor Mall carrying a knife. If I don't stop him quick, he's gonna make the worst mistake of his life!",
+    "SCENARIO_STATUS": "80560006",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "205": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000056",
+    "EXPLANATION": "These guys seem to think I brought Yamori-san here. Sorry, but all you'll be getting from me is a swift beating. ",
+    "SCENARIO_STATUS": "80560007",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "206": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000056",
+    "EXPLANATION": "I wouldn't be where I am today if not for Yamori. Still, I really am a softie, aren't I? ",
+    "SCENARIO_STATUS": "8056000b",
+    "FINISH_FLAG": "螳�"
+  },
+  "207": {
+    "TITLE": "A Moneylender's Principles ",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "00000057",
+    "EXPLANATION": "I think the office is in a building in West Shofukucho. Let's see if he's ready to lay it all on the line. ",
+    "SCENARIO_STATUS": "80570000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "208": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000057",
+    "EXPLANATION": "He went into that building in West Shofukucho. I think it's time I went for a look. ",
+    "SCENARIO_STATUS": "80570002",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "209": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000057",
+    "EXPLANATION": "Well, now I know he means business. The rest is my job. Let's make quick work of this lot! ",
+    "SCENARIO_STATUS": "80570003",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "210": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000057",
+    "EXPLANATION": "He's not messing around anymore. I think he'll be fine now. ",
+    "SCENARIO_STATUS": "80570007",
+    "FINISH_FLAG": "螳�"
+  },
+  "211": {
+    "TITLE": "New Kid on the Block",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "00000058",
+    "EXPLANATION": "There was someone near Sky Finance looking for our office. Maybe a new customer? ",
+    "SCENARIO_STATUS": "80580000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "212": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000058",
+    "EXPLANATION": "No wonder his attitude changed so quickly. He's in the same line of work as me. ",
+    "SCENARIO_STATUS": "80580002",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "213": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000058",
+    "EXPLANATION": "Now he made off with my wallet! I'll have to catch him and get it back! ",
+    "SCENARIO_STATUS": "80580004",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "214": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000058",
+    "EXPLANATION": "That guy was bad news all right. It's always an uphill battle when we open up an office in a new place.",
+    "SCENARIO_STATUS": "80580007",
+    "FINISH_FLAG": "螳�"
+  },
+  "215": {
+    "TITLE": "A Quirky Idol ",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "00000059",
+    "EXPLANATION": "Okay, first I have to meet up with Maya in Ashitaba Park. ",
+    "SCENARIO_STATUS": "80590000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "216": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000059",
+    "EXPLANATION": "Protecting the talent is part of a manager's job. Let's take care of this quick so we can call it a day! ",
+    "SCENARIO_STATUS": "80590012",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "217": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000059",
+    "EXPLANATION": "Keep up the good work, Maya-chan. I'll be rooting for you in front of the TV. ",
+    "SCENARIO_STATUS": "80590015",
+    "FINISH_FLAG": "螳�"
+  },
+  "218": {
+    "TITLE": "Barter Wars",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "0000005a",
+    "EXPLANATION": "I guess shopping in Sotenbori can be a real battle. I wonder if that lady's still at Bunzaemon Outdoor Mall.",
+    "SCENARIO_STATUS": "805a0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "219": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000005a",
+    "EXPLANATION": "Getting a discount is tricky. Things didn't go as planned this time, but at least it was good practice. ",
+    "SCENARIO_STATUS": "805a0009",
+    "FINISH_FLAG": "邨�"
+  },
+  "220": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000005a",
+    "EXPLANATION": "That lady was really something else. Still, I'm getting a lot better at this thanks to her.",
+    "SCENARIO_STATUS": "805a000afffffffe005a0009",
+    "FINISH_FLAG": "螳�"
+  },
+  "221": {
+    "TITLE": "The Stalker",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "0000005b",
+    "EXPLANATION": "Haruka-chan has a stalker, huh? I might keep an eye out around her apartment for a while. ",
+    "SCENARIO_STATUS": "805b0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "222": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000005b",
+    "EXPLANATION": "So he's the stalker! I'd better catch him. ",
+    "SCENARIO_STATUS": "805b0001fffffffe005b0002",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "223": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000005b",
+    "EXPLANATION": "Hopefully this is the real stalker this time! I've done more than enough running for one day. ",
+    "SCENARIO_STATUS": "805b0003fffffffe005b0004",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "224": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000005b",
+    "EXPLANATION": "What's going on here? I guess I need to calm things down first. ",
+    "SCENARIO_STATUS": "805b0005fffffffe005b0006",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "225": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000005b",
+    "EXPLANATION": "So nobody was stalking Haruka-chan after all. These guys still caused just about as much trouble, though. ",
+    "SCENARIO_STATUS": "805b0008",
+    "FINISH_FLAG": "螳�"
+  },
+  "226": {
+    "TITLE": "Dancin' Akiyama",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "0000005e",
+    "EXPLANATION": "Where do these guys get off picking on high school kids? I guess I'll step in and take them on. ",
+    "SCENARIO_STATUS": "805e0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "227": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000005e",
+    "EXPLANATION": "Maybe I should have taken that dancer Hide up on his offer. ",
+    "SCENARIO_STATUS": "805e0003",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "228": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000005e",
+    "EXPLANATION": "I had no idea dance battles were this hard. I've got some newfound respect for Haruka-chan. ",
+    "SCENARIO_STATUS": "805e0009",
+    "FINISH_FLAG": "螳�"
+  },
+  "229": {
+    "TITLE": "Geriatric Dance-Off ",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "0000005c",
+    "EXPLANATION": "I wonder if that old lady betting on dance battles is still fleecing youngsters in West Shofukucho.",
+    "SCENARIO_STATUS": "805c0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "230": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000005c",
+    "EXPLANATION": "Ouch, my back still aches. Once it's better, I'll head to West Shofukucho to take on that old lady again. ",
+    "SCENARIO_STATUS": "805c0006",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "231": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000005c",
+    "EXPLANATION": "That was a heated dance battle, all right. Maybe I'll become an idol, too! Hehe.",
+    "SCENARIO_STATUS": "805c0009",
+    "FINISH_FLAG": "螳�"
+  },
+  "232": {
+    "TITLE": "Story of a Stubborn Fool",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "0000005f",
+    "EXPLANATION": "It isn't right for them to gang up on an old guy. I guess I'll back him up. ",
+    "SCENARIO_STATUS": "805f0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "233": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000005f",
+    "EXPLANATION": "So this Ueyama-san is the chairman of Kushikatsu Daruma, huh? I hope he gets some ideas for his new menu.",
+    "SCENARIO_STATUS": "805f0005",
+    "FINISH_FLAG": "螳�"
+  },
+  "234": {
+    "TITLE": "Treats from All Over ",
+    "PLACE": "Kamurocho",
+    "SCENARIO": "00000060",
+    "EXPLANATION": "What'll be good for Kushikatsu Daruma's new menu? Maybe I'll ask the guys at New Serena and see what they think. ",
+    "SCENARIO_STATUS": "80600000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "235": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000060",
+    "EXPLANATION": "Okay, I think I've got the info I need. I should go and report to Ueyama-san on Nakamichi Street. ",
+    "SCENARIO_STATUS": "8060000d",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "236": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000060",
+    "EXPLANATION": "I hope the input from everyone was useful. I guess I'll go back to Nakamichi Street and check a bit later. ",
+    "SCENARIO_STATUS": "8060000e",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "237": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000060",
+    "EXPLANATION": "It sounds like the info I gathered was useful for the new menu. Maybe I'll visit Kushikatsu Daruma later. ",
+    "SCENARIO_STATUS": "80600015",
+    "FINISH_FLAG": "螳�"
+  },
+  "238": {
+    "TITLE": "Bad Boys",
+    "PLACE": "Kamurocho",
+    "SCENARIO": "00000061",
+    "EXPLANATION": "I can't just ignore Saida-san's plea. He's probably still out in front of the Millennium Tower. ",
+    "SCENARIO_STATUS": "80610000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "239": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000061",
+    "EXPLANATION": "Sheesh, what a pain. I guess I need to talk to Miyu at Elise first.",
+    "SCENARIO_STATUS": "80610001",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "240": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000061",
+    "EXPLANATION": "Where would I study up on fashion? I guess I could go to a convenience store and read the magazines there. ",
+    "SCENARIO_STATUS": "80610002",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "241": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000061",
+    "EXPLANATION": "The stuff I read in Leon might help. I'll go tell Saida-san out in front of the Millennium Tower. ",
+    "SCENARIO_STATUS": "80610003",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "242": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000061",
+    "EXPLANATION": "Saida-san looked like a new man wearing that GaGa Milano watch. I should go to Elise later and see how things turned out. ",
+    "SCENARIO_STATUS": "80610006",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "243": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000061",
+    "EXPLANATION": "Saida-san finally got Miyu to go out with him. Ladies like older bad boys after all, I guess.",
+    "SCENARIO_STATUS": "80610008",
+    "FINISH_FLAG": "螳�"
+  },
+  "244": {
+    "TITLE": "Subsidized Relationships ",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "00000062",
+    "EXPLANATION": "Were those two headed to a love hotel? I think there was one at the south end of Shofukucho. ",
+    "SCENARIO_STATUS": "80620000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "245": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000062",
+    "EXPLANATION": "That's the couple from before. It looks like they're kicking up some kind of fuss in front of the hotel. ",
+    "SCENARIO_STATUS": "80620003",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "246": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000062",
+    "EXPLANATION": "Trying to drag an unwilling girl off to a hotel is unforgivable. Especially when it's a minor. ",
+    "SCENARIO_STATUS": "80620004",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "247": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000062",
+    "EXPLANATION": "There's a special place in hell for those who threaten innocent girls and try to force them into prostitution.",
+    "SCENARIO_STATUS": "80620008",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "248": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000062",
+    "EXPLANATION": "It'd be nice if that Kazumi-chan got to know Haruka-chan. ",
+    "SCENARIO_STATUS": "8062000d",
+    "FINISH_FLAG": "螳�"
+  },
+  "249": {
+    "TITLE": "The Cursed PrintCircle ",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "00000063",
+    "EXPLANATION": "A cursed PrintCircle machine at Club SEGA, huh? Maybe I should check that out at some point. ",
+    "SCENARIO_STATUS": "80630000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "250": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000063",
+    "EXPLANATION": "That cursed PrintCircle machine at Club SEGA sounds like an urban legend, but maybe I'll take a pic as a memento. ",
+    "SCENARIO_STATUS": "80630002",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "251": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000063",
+    "EXPLANATION": "So that's the ghost! He won't be getting away with that kind of mischief! ",
+    "SCENARIO_STATUS": "80630004",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "252": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000063",
+    "EXPLANATION": "Who'd have thought the ghost was so average-looking? I guess I should go tell those high school girls at Club SEGA. ",
+    "SCENARIO_STATUS": "80630005",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "253": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000063",
+    "EXPLANATION": "So the cursed PrintCircle machine was just a prank. Well, at least there wasn't any real harm done. ",
+    "SCENARIO_STATUS": "8063000b",
+    "FINISH_FLAG": "邨�"
+  },
+  "254": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000063",
+    "EXPLANATION": "Apparently the guy I thought was the ghost died three years ago... Or was it just a chance resemblance? ",
+    "SCENARIO_STATUS": "8063000cfffffffe0063000b",
+    "FINISH_FLAG": "螳�"
+  },
+  "255": {
+    "TITLE": "Okonomiyaki Performer ",
+    "PLACE": "Sotenbori",
+    "SCENARIO": "0000005d",
+    "EXPLANATION": "He's in a fix. I feel like I should help out, and not just because I got a taste of his food on the house.",
+    "SCENARIO_STATUS": "805d0001",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "256": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000005d",
+    "EXPLANATION": "It seems like he's got some kind of idea. I'll come back later and see what's going on. ",
+    "SCENARIO_STATUS": "805d0004",
+    "FINISH_FLAG": "螳�"
+  },
+  "257": {
+    "TITLE": "Dirty Heart",
+    "PLACE": "Kineicho",
+    "SCENARIO": "00000066",
+    "EXPLANATION": "Miyu-chan must be exhausted, collapsing like that right after coming out of the convenience store. Is she really okay? ",
+    "SCENARIO_STATUS": "80660000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "258": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000066",
+    "EXPLANATION": "I'll make them pay dearly for tricking Miyu-chan! ",
+    "SCENARIO_STATUS": "80660006",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "259": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000066",
+    "EXPLANATION": "I hope Miyu-chan cheers up again soon. I guess the least I can do is show up at her parlor whenever I can! ",
+    "SCENARIO_STATUS": "80660009",
+    "FINISH_FLAG": "螳�"
+  },
+  "260": {
+    "TITLE": "Daddy Papa",
+    "PLACE": "Kineicho",
+    "SCENARIO": "00000067",
+    "EXPLANATION": "What kind of idiot shakes a kid down in a prominent place like this? Time to dish out a little discipline. ",
+    "SCENARIO_STATUS": "80670002",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "261": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000067",
+    "EXPLANATION": "A million yen just for showing someone around Kineicho for the day? Maybe they're still on Kume Boulevard. ",
+    "SCENARIO_STATUS": "80670004",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "262": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000067",
+    "EXPLANATION": "That guy is one of Daddy Papa's kidnappers! I'd better catch him and get him to spill their location. ",
+    "SCENARIO_STATUS": "80670012",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "263": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000067",
+    "EXPLANATION": "Damn! A guy could get hurt at this rate! I'll have to give them a quick thrashing and save Daddy Papa. ",
+    "SCENARIO_STATUS": "80670014",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "264": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000067",
+    "EXPLANATION": "A million Vietnamese dong? I've been cheated! Still, at least Daddy Papa didn't get hurt in the end. ",
+    "SCENARIO_STATUS": "80670016",
+    "FINISH_FLAG": "螳�"
+  },
+  "265": {
+    "TITLE": "Saving Yourself",
+    "PLACE": "Kineicho",
+    "SCENARIO": "00000068",
+    "EXPLANATION": "I'm worried about that girl. I think I'd better follow her. She ran off towards the free info booth. ",
+    "SCENARIO_STATUS": "80680000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "266": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000068",
+    "EXPLANATION": "I found that girl in front of the free info booth. I'm a little worried, so I should see if she's okay.",
+    "SCENARIO_STATUS": "80680002",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "267": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000068",
+    "EXPLANATION": "I'll give these guys an ass-kicking for Misa-chan's sake! ",
+    "SCENARIO_STATUS": "80680003",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "268": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000068",
+    "EXPLANATION": "I'm glad Misa-chan had second thoughts. There are some bad people out there. ",
+    "SCENARIO_STATUS": "80680006",
+    "FINISH_FLAG": "螳�"
+  },
+  "269": {
+    "TITLE": "Want to Party? ",
+    "PLACE": "Kineicho",
+    "SCENARIO": "00000069",
+    "EXPLANATION": "That girl doesn't look like she's doing too hot. Maybe I should buy her an energy drink or something.",
+    "SCENARIO_STATUS": "80690000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "270": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000069",
+    "EXPLANATION": "These guys are pure evil. They need to be taught a harsh lesson! ",
+    "SCENARIO_STATUS": "80690005",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "271": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000069",
+    "EXPLANATION": "I'm glad those girls are all free now. I can't believe the things some people stoop to. ",
+    "SCENARIO_STATUS": "80690008",
+    "FINISH_FLAG": "螳�"
+  },
+  "272": {
+    "TITLE": "Shinada's Interview ",
+    "PLACE": "Kineicho",
+    "SCENARIO": "0000006b",
+    "EXPLANATION": "The manager of Strawberry on Tsumugi Street said he had a lead on a good job for me. Should I go check it out? ",
+    "SCENARIO_STATUS": "806b0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "273": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000006b",
+    "EXPLANATION": "Relationships between fathers and sons are built on love and respect... Not this!",
+    "SCENARIO_STATUS": "806b000b",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "274": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000006b",
+    "EXPLANATION": "This is what I get for trying to get a proper job... So much for that idea. ",
+    "SCENARIO_STATUS": "806b000f",
+    "FINISH_FLAG": "螳�"
+  },
+  "275": {
+    "TITLE": "Next! ",
+    "PLACE": "Kineicho",
+    "SCENARIO": "0000006c",
+    "EXPLANATION": "It can't hurt to check out a new place, and it's cheap. If I can scrape up a spare 4,500 yen, I might try it out. ",
+    "SCENARIO_STATUS": "806c0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "276": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000006c",
+    "EXPLANATION": "How come I'm the one getting yelled at here? I'm not giving up until I get my money back. ",
+    "SCENARIO_STATUS": "806c0009",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "277": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000006c",
+    "EXPLANATION": "That barker needs to get his eyes checked. There's no way I want anything to do with either of those girls. ",
+    "SCENARIO_STATUS": "806c000bfffffffe806c0009",
+    "FINISH_FLAG": "螳�"
+  },
+  "278": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000006c",
+    "EXPLANATION": "Doing it with Uno-san... Ugh, I don't think I'll recover from this anytime soon. ",
+    "SCENARIO_STATUS": "806c000bfffffffe806c0004fffffffe006c0009",
+    "FINISH_FLAG": "螳�"
+  },
+  "279": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000006c",
+    "EXPLANATION": "Doing it with Coach Fujita... Ugh, I don't think I'll recover from this anytime soon. ",
+    "SCENARIO_STATUS": "806c000bfffffffe806c0005fffffffe006c0009",
+    "FINISH_FLAG": "螳�"
+  },
+  "280": {
+    "TITLE": "Miki-chan's Job",
+    "PLACE": "Kineicho",
+    "SCENARIO": "0000006d",
+    "EXPLANATION": "Mi-chan, huh? With a cutie like her around, I'd come to the batting center more often. ",
+    "SCENARIO_STATUS": "806d0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "281": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000006d",
+    "EXPLANATION": "I wonder what Mi-chan's up to. Maybe I'll head down to the batting center and see. ",
+    "SCENARIO_STATUS": "806d0001",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "282": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000006d",
+    "EXPLANATION": "How'd I end up having to buy her a bento lunch set? Well, I'd better bring it down to the batting center quick. ",
+    "SCENARIO_STATUS": "806d0006",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "283": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000006d",
+    "EXPLANATION": "Mi-chan sure is cute. I don't think I'll be staying away from the batting center too long. ",
+    "SCENARIO_STATUS": "806d0007",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "284": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000006d",
+    "EXPLANATION": "I wonder what Mi-chan's up to. Maybe I'll head down to the batting center and see. ",
+    "SCENARIO_STATUS": "806d0008",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "285": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000006d",
+    "EXPLANATION": "I guess I'll have to wait for that something special from Mi-chan. I'll practice my batting and have another crack at it. ",
+    "SCENARIO_STATUS": "806d000d",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "286": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000006d",
+    "EXPLANATION": "A homemade lunch from Mi-chan? Talk about lucky! It was delicious, too. These challenges are great! ",
+    "SCENARIO_STATUS": "806d000e",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "287": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000006d",
+    "EXPLANATION": "I wonder what Mi-chan's up to. Maybe I'll head down to the batting center and see. ",
+    "SCENARIO_STATUS": "806d000f",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "288": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000006d",
+    "EXPLANATION": "Dang. No chicken wings date yet. I'll have to practice my batting and try again. ",
+    "SCENARIO_STATUS": "806d0014",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "289": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000006d",
+    "EXPLANATION": "So Mi-chan was working at a public bathhouse. That's a bit of a letdown, but I guess it's a good thing, right? ",
+    "SCENARIO_STATUS": "806d0018",
+    "FINISH_FLAG": "螳�"
+  },
+  "290": {
+    "TITLE": "Getting it Sorted ",
+    "PLACE": "Kineicho",
+    "SCENARIO": "0000006e",
+    "EXPLANATION": "I'm glad I didn't mess that up. I am a journalist, after all. ",
+    "SCENARIO_STATUS": "806e0005fffffffe806e0003fffffffe806e0004",
+    "FINISH_FLAG": "螳�"
+  },
+  "291": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000006e",
+    "EXPLANATION": "I got the order for the novel text wrong. So much for my reputation as a journalist.",
+    "SCENARIO_STATUS": "806e0005fffffffe806e0003fffffffe006e0004",
+    "FINISH_FLAG": "邨�"
+  },
+  "292": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000006e",
+    "EXPLANATION": "I got the order for the erotic memoir wrong. So much for my reputation as a journalist. ",
+    "SCENARIO_STATUS": "806e0005fffffffe006e0003fffffffe806e0004",
+    "FINISH_FLAG": "邨�"
+  },
+  "293": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000006e",
+    "EXPLANATION": "My reputation as a journalist is in tatters. I hope the editor-in-chief still gives me work... ",
+    "SCENARIO_STATUS": "806e0005fffffffe006e0003fffffffe006e0004",
+    "FINISH_FLAG": "邨�"
+  },
+  "294": {
+    "TITLE": "A Precious Meal ",
+    "PLACE": "Kineicho",
+    "SCENARIO": "0000006f",
+    "EXPLANATION": "I've got to bring Himoji some food, quick. He wanted whatever restores the most health for 500 yen or less. ",
+    "SCENARIO_STATUS": "806f0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "295": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000006f",
+    "EXPLANATION": "I'm glad Himoji recovered. I guess the careful consideration paid off. ",
+    "SCENARIO_STATUS": "806f0006fffffffe806f0003fffffffe006f0004fffffffe006f0005",
+    "FINISH_FLAG": "螳�"
+  },
+  "296": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000006f",
+    "EXPLANATION": "I'm glad Himoji recovered. I was a little worried about the food selection, but he seems happy enough. ",
+    "SCENARIO_STATUS": "806f0006fffffffe806f0004fffffffe006f0003fffffffe006f0005",
+    "FINISH_FLAG": "螳�"
+  },
+  "297": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000006f",
+    "EXPLANATION": "I'm glad Himoji recovered. Still, I should probably have thought of something better. ",
+    "SCENARIO_STATUS": "806f0006fffffffe806f0005fffffffe006f0003fffffffe006f0004",
+    "FINISH_FLAG": "邨�"
+  },
+  "298": {
+    "TITLE": "The Old Scout's Eyes ",
+    "PLACE": "Kineicho",
+    "SCENARIO": "00000070",
+    "EXPLANATION": "That's the first time I've seen Seto-san in a while. I wonder if he's still at the north end of Kume Boulevard. ",
+    "SCENARIO_STATUS": "80700000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "299": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000070",
+    "EXPLANATION": "Kurashina ran off towards Mid Square. Maybe I should go after him. ",
+    "SCENARIO_STATUS": "80700003",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "300": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000070",
+    "EXPLANATION": "I'll persuade these guys to tell me where Kurashina went. ",
+    "SCENARIO_STATUS": "80700004",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "301": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000070",
+    "EXPLANATION": "Damn it, I'm surrounded. I have to find a way out of this and talk with Kurashina. ",
+    "SCENARIO_STATUS": "80700009",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "302": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000070",
+    "EXPLANATION": "I guess this is why he's a promising rookie. But I'm not ready to lose to a youngster yet! ",
+    "SCENARIO_STATUS": "8070000d",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "303": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000070",
+    "EXPLANATION": "I'm glad everything worked out for Seto-san. I'll get him to treat me to a drink next time I see him! ",
+    "SCENARIO_STATUS": "80700010",
+    "FINISH_FLAG": "螳�"
+  },
+  "304": {
+    "TITLE": "The Great Scoop",
+    "PLACE": "Kineicho",
+    "SCENARIO": "00000071",
+    "EXPLANATION": "First I have to find that idol Yamazaki. ",
+    "SCENARIO_STATUS": "80710000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "305": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000071",
+    "EXPLANATION": "I'll need to follow at the right distance竭ｬnot too close, and not too far back. ",
+    "SCENARIO_STATUS": "80710003",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "306": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000071",
+    "EXPLANATION": "Yamazaki met up with the girl he's cheating with. I guess I'll follow them a bit longer. ",
+    "SCENARIO_STATUS": "8071000f",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "307": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000071",
+    "EXPLANATION": "Damn it. I went to all that trouble only to lose sight of him. There goes my chance at some quick cash. ",
+    "SCENARIO_STATUS": "80710007fffffffe80710018",
+    "FINISH_FLAG": "邨�"
+  },
+  "308": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000071",
+    "EXPLANATION": "Damn it. I got spotted while I was following him. There goes my chance at some quick cash. ",
+    "SCENARIO_STATUS": "80710018fffffffe80710009",
+    "FINISH_FLAG": "邨�"
+  },
+  "309": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000071",
+    "EXPLANATION": "Damn it. I got spotted while I was following him. There goes my chance at some quick cash. ",
+    "SCENARIO_STATUS": "80710018fffffffe80710011",
+    "FINISH_FLAG": "邨�"
+  },
+  "310": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000071",
+    "EXPLANATION": "I managed to stay on his tail! Boy, this is tough work. That earned me some quick cash, though! ",
+    "SCENARIO_STATUS": "80710018fffffffe80710015",
+    "FINISH_FLAG": "螳�"
+  },
+  "311": {
+    "TITLE": "Get Out the Vote ",
+    "PLACE": "Kineicho",
+    "SCENARIO": "00000072",
+    "EXPLANATION": "Someone's giving a speech over by the oval stage. They look a bit troubled. Maybe I'll go and say hi. ",
+    "SCENARIO_STATUS": "80720000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "312": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000072",
+    "EXPLANATION": "So the manager of Shachoko is getting into politics, huh? Hopefully he finds someone to do an endorsement speech. ",
+    "SCENARIO_STATUS": "80720002",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "313": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000072",
+    "EXPLANATION": "I wonder if the Shachoko manager found someone to give a speech for him. He was over by the oval stage. ",
+    "SCENARIO_STATUS": "80720003",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "314": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000072",
+    "EXPLANATION": "Hardly anyone paid any attention. I guess I let the manager down. ",
+    "SCENARIO_STATUS": "80720008fffffffe80720007",
+    "FINISH_FLAG": "邨�"
+  },
+  "315": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000072",
+    "EXPLANATION": "That seemed to go well. The manager has a lot more support than he thought. ",
+    "SCENARIO_STATUS": "80720008fffffffe00720007",
+    "FINISH_FLAG": "螳�"
+  },
+  "316": {
+    "TITLE": "Shinada the Store Clerk ",
+    "PLACE": "Kineicho",
+    "SCENARIO": "00000073",
+    "EXPLANATION": "Part time work at a convenience store, huh? I guess I could try that when I have some time. ",
+    "SCENARIO_STATUS": "80730000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "317": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000073",
+    "EXPLANATION": "I couldn't catch the shoplifter in the end. No way they'll let me take expired lunches home now. ",
+    "SCENARIO_STATUS": "8073000afffffffe8073000c",
+    "FINISH_FLAG": "邨�"
+  },
+  "318": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000073",
+    "EXPLANATION": "I managed to catch that shoplifter. Maybe this means more expired lunches for me! ",
+    "SCENARIO_STATUS": "80730009fffffffe8073000c",
+    "FINISH_FLAG": "螳�"
+  },
+  "319": {
+    "TITLE": "The Sweet Spot ",
+    "PLACE": "Kineicho",
+    "SCENARIO": "0000006a",
+    "EXPLANATION": "It's good to see someone taking an interest in baseball. I'll give him a few pointers when I get a chance. ",
+    "SCENARIO_STATUS": "806a0000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "320": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000006a",
+    "EXPLANATION": "That wasn't the greatest display of my ability. If I see him around again, I'll show him the proper way to do it. ",
+    "SCENARIO_STATUS": "806a0003",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "321": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "0000006a",
+    "EXPLANATION": "Now it's up to him to follow through. I might come and see how he's doing later. ",
+    "SCENARIO_STATUS": "806a0005",
+    "FINISH_FLAG": "螳�"
+  },
+  "322": {
+    "TITLE": "Getting Rich Quick ",
+    "PLACE": "Kineicho",
+    "SCENARIO": "00000074",
+    "EXPLANATION": "What's with that chicken? I guess I'll try to catch it and get the reward! ",
+    "SCENARIO_STATUS": "80740000",
+    "FINISH_FLAG": "譛ｪ"
+  },
+  "323": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000074",
+    "EXPLANATION": "I didn't catch it myself, but I still got the reward. Cochin racing, huh? I might try it out when I get a chance. ",
+    "SCENARIO_STATUS": "80740008fffffffe80740003",
+    "FINISH_FLAG": "邨�"
+  },
+  "324": {
+    "TITLE": "",
+    "PLACE": "",
+    "SCENARIO": "00000074",
+    "EXPLANATION": "I caught the chicken and received the reward! Cochin racing, huh? I might try it out when I get a chance. ",
+    "SCENARIO_STATUS": "80740008fffffffe80740002",
+    "FINISH_FLAG": "螳�"
+  },
+  "types": {
+    "TITLE": "string_tbl",
+    "PLACE": "string_tbl",
+    "SCENARIO": "special_scenariocategory",
+    "EXPLANATION": "string",
+    "TABAKO_EXPLANATION": "string_idx",
+    "SCENARIO_STATUS": "special_scenariostatus",
+    "FINISH_FLAG": "string_tbl"
+  }
+}

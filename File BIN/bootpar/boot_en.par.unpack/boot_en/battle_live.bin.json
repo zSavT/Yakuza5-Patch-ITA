@@ -1,0 +1,17 @@
+{
+  "0": {
+    "ID": "player_down",
+    "BattleCondition": "player_down",
+    "LiveVoiceLabel": "player_down"
+  },
+  "1": {
+    "ID": "enemy_down",
+    "BattleCondition": "enemy_down",
+    "LiveVoiceLabel": "enemy_down"
+  },
+  "types": {
+    "ID": "string",
+    "BattleCondition": "string",
+    "LiveVoiceLabel": "string"
+  }
+}
