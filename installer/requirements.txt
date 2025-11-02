@@ -1,2 +1,4 @@
-PyQt6==6.9.0
-pyzipper==0.3.6
+packaging
+PyQt6
+pyqt6_sip
+pyzipper
