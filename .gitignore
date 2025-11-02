@@ -357,3 +357,8 @@ fabric.properties
 
 # idea folder, uncomment if you don't need it
 .idea
+
+#EXTRA
+Installer/patch.pkg
+Installer/patch_ai.pkg
+Installer/chiave.txt
