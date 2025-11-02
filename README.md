@@ -185,10 +185,10 @@ Lista dei progetti di patch in italiano per i giochi della serie:
 - [Yakuza 3 Remastered](https://vittolarosa93.wixsite.com/kiwamivideo)
     - L'autore ha rilasciato sul sito delle patch parziali del gioco/video dimostrativo.
     - Il remake del gioco (e non la remastered) sarà localizzato in italiano.
-- Yakuza 4 Remastered
-    - Questo progetto
+- [Yakuza 4 Remastered](https://github.com/zSavT/Yakuza4-Patch-ITA)
+    - Un'altra patch realizzata da me per la serie Yakuza è quella di Yakuza 4, il funzionamento ed il materiale tradotto è il medesimo.
 - [Yakuza 5 Remastered](https://github.com/zSavT/Yakuza5-Patch-ITA)
-    - Un'altra patch realizzata da me per la serie Yakuza è quella di Yakuza 5, il funzionamento ed il materiale tradotto è il medesimo.
+    - Questo progetto.
 - [Yakuza 6](https://www.nexusmods.com/yakuza6/mods/220)
     - Un ragazzo ha tradotto i sottotitoli delle cutscene e alcuni menu
 
