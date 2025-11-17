@@ -1,0 +1,304 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "7888"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "7892"
+msgid "adv2_900/saejima_2_900_540"
+msgstr "adv2_900/saejima_2_900_540"
+
+msgctxt "7896"
+msgid "Hunter"
+msgstr "Cacciatore"
+
+msgctxt "7900"
+msgid "adv2_900/hunter_2_900_020"
+msgstr "adv2_900/hunter_2_900_020"
+
+msgctxt "7904"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "7908"
+msgid "Nishina"
+msgstr "Nishina"
+
+msgctxt "7912"
+msgid "adv2_900/nishina_2_900_370"
+msgstr "adv2_900/nishina_2_900_370"
+
+msgctxt "7916"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "7920"
+msgid "adv2_900/hunter_2_900_030"
+msgstr "adv2_900/hunter_2_900_030"
+
+msgctxt "7924"
+msgid "adv2_900/nishina_2_900_380"
+msgstr "adv2_900/nishina_2_900_380"
+
+msgctxt "7928"
+msgid "adv2_900/hunter_2_900_040"
+msgstr "adv2_900/hunter_2_900_040"
+
+msgctxt "7932"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "7936"
+msgid "adv2_900/nishina_2_900_390"
+msgstr "adv2_900/nishina_2_900_390"
+
+msgctxt "7940"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "7944"
+msgid "adv2_900/saejima_2_900_550"
+msgstr "adv2_900/saejima_2_900_550"
+
+msgctxt "7948"
+msgid "adv2_900/nishina_2_900_400"
+msgstr "adv2_900/nishina_2_900_400"
+
+msgctxt "7952"
+msgid "adv2_900/saejima_2_900_560"
+msgstr "adv2_900/saejima_2_900_560"
+
+msgctxt "7956"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "7960"
+msgid "adv2_900/nishina_2_900_410"
+msgstr "adv2_900/nishina_2_900_410"
+
+msgctxt "7964"
+msgid "adv2_900/saejima_2_900_570"
+msgstr "adv2_900/saejima_2_900_570"
+
+msgctxt "7968"
+msgid "Sakurai"
+msgstr "Sakurai"
+
+msgctxt "7972"
+msgid "adv2_900/sakurai_2_900_160"
+msgstr "adv2_900/sakurai_2_900_160"
+
+msgctxt "7976"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "7980"
+msgid "adv2_900/nishina_2_900_420"
+msgstr "adv2_900/nishina_2_900_420"
+
+msgctxt "7984"
+msgid "adv2_900/saejima_2_900_580a"
+msgstr "adv2_900/saejima_2_900_580a"
+
+msgctxt "7988"
+msgid "adv2_900/saejima_2_900_580b"
+msgstr "adv2_900/saejima_2_900_580b"
+
+msgctxt "7992"
+msgid "adv2_900/sakurai_2_900_170"
+msgstr "adv2_900/sakurai_2_900_170"
+
+msgctxt "7996"
+msgid "adv2_900/saejima_2_900_590a"
+msgstr "adv2_900/saejima_2_900_590a"
+
+msgctxt "8000"
+msgid "adv2_900/saejima_2_900_590b"
+msgstr "adv2_900/saejima_2_900_590b"
+
+msgctxt "8004"
+msgid "adv2_900/nishina_2_900_430"
+msgstr "adv2_900/nishina_2_900_430"
+
+msgctxt "8008"
+msgid "adv2_900/saejima_2_900_600"
+msgstr "adv2_900/saejima_2_900_600"
+
+msgctxt "8012"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "8016"
+msgid "adv2_900/nishina_2_900_440"
+msgstr "adv2_900/nishina_2_900_440"
+
+msgctxt "8020"
+msgid "adv2_900/sakurai_2_900_180"
+msgstr "adv2_900/sakurai_2_900_180"
+
+msgctxt "8024"
+msgid "adv2_900/nishina_2_900_450"
+msgstr "adv2_900/nishina_2_900_450"
+
+msgctxt "8028"
+msgid "adv2_900/sakurai_2_900_190"
+msgstr "adv2_900/sakurai_2_900_190"
+
+msgctxt "8032"
+msgid "adv2_900/nishina_2_900_460"
+msgstr "adv2_900/nishina_2_900_460"
+
+msgctxt "8036"
+msgid "adv2_900/saejima_2_900_610"
+msgstr "adv2_900/saejima_2_900_610"
+
+msgctxt "56_Saejima"
+msgid "Ya all right?"
+msgstr "Sei a posto?"
+
+msgctxt "68_Hunter"
+msgid "I saw it!"
+msgstr "L'ho visto!"
+
+msgctxt "80_Nishina"
+msgid "Calm down! You saw what?"
+msgstr "Calmati! Cosa hai visto?"
+
+msgctxt "92_Hunter"
+msgid "Yama-oroshi! Yama-oroshi was just outside!"
+msgstr "Yama-oroshi! Lo Yama-oroshi era proprio fuori!"
+
+msgctxt "104_Nishina"
+msgid "Are you sure!?"
+msgstr "Sei sicuro!?"
+
+msgctxt "116_Hunter"
+msgid ""
+"I'm sorry, I don't have time to convince you! I'm going home and locking up!"
+msgstr ""
+"Mi dispiace, non ho tempo per convincerti! Vado a casa e mi chiudo dentro!"
+
+msgctxt "164_Nishina"
+msgid "I never expected him to come so close to our village."
+msgstr ""
+"Non mi sarei mai aspettato che si spingesse così vicino al nostro villaggio."
+
+msgctxt "176_Saejima"
+msgid "Nishina-han."
+msgstr "Nishina-han."
+
+msgctxt "188_Nishina"
+msgid "What is it?"
+msgstr "E cioè?"
+
+msgctxt "200_Saejima"
+msgid "I'll go."
+msgstr "Vado io."
+
+msgctxt "212_Nishina"
+msgid "Please don't joke."
+msgstr "Per favore, non scherzare."
+
+msgctxt "224_Saejima"
+msgid ""
+"Not jokin'... Look, there's something I been keepin' from all of ya. I'm "
+"like Okudera-han. I broke outta prison, too."
+msgstr ""
+"Non scherzo... Guardate, c'è una cosa che vi ho tenuto nascosta a tutti. "
+"Sono come Okudera-han. Sono scappato di prigione anch'io."
+
+msgctxt "236_Sakurai"
+msgid "No! You're an escaped convict!?"
+msgstr "No! Sei un evaso!?"
+
+msgctxt "248_Nishina"
+msgid "We could report you."
+msgstr "Potremmo denunciarti."
+
+msgctxt "260_Saejima"
+msgid ""
+"'Cept now I wanna help ya, and it ain't outta some hope that ya won't turn "
+"me in."
+msgstr ""
+"Solo che adesso voglio darti una mano, e non è con la speranza che non mi "
+"consegnerete."
+
+msgctxt "272_Saejima"
+msgid ""
+"I jus' wanna help 'cause it don't make sense for Okudera-han or you folks to"
+" keep sufferin' for somethin' nine years past."
+msgstr ""
+"Voglio solo dare una mano, perché non ha senso che Okudera-han o voi altri "
+"stiate ancora a soffrire per una cosa di nove anni fa."
+
+msgctxt "284_Sakurai"
+msgid "Saejima-san..."
+msgstr "Saejima-san..."
+
+msgctxt "296_Saejima"
+msgid ""
+"If Yama-oroshi takes me out, I want ya to get word to a man named Kosaka-"
+"han. He's the deputy warden of the prison."
+msgstr ""
+"Se lo Yama-oroshi mi fa fuori, voglio che tu faccia sapere a uno che si "
+"chiama Kosaka-han. È il vicedirettore del carcere."
+
+msgctxt "308_Saejima"
+msgid "Tell 'im that... I'm sorry I couldn't keep my promise."
+msgstr "Digli che... mi dispiace non aver potuto mantenere la mia promessa."
+
+msgctxt "320_Nishina"
+msgid "Don't know about this."
+msgstr "Non so che dire."
+
+msgctxt "332_Saejima"
+msgid "Please. Don't make a report."
+msgstr "Per favore. Non denunciate."
+
+msgctxt "344_Nishina"
+msgid "All right. But we can't help you."
+msgstr "Va bene. Ma non possiamo aiutarti."
+
+msgctxt "356_Sakurai"
+msgid "Wait a second, Nishina-san! Why not?"
+msgstr "Aspetta un attimo, Nishina-san! Perché no?"
+
+msgctxt "368_Nishina"
+msgid ""
+"Don't let your feelings get the best of you, Sakurai-san. We can't knowingly"
+" help a criminal. It's legally risky for us. You know that."
+msgstr ""
+"Non farti trascinare dai sentimenti, Sakurai-san. Non possiamo aiutare un "
+"criminale, sapendo chi è. Ci sono rischi legali per noi. Lo sai."
+
+msgctxt "380_Sakurai"
+msgid "But after all he did..."
+msgstr "Ma dopo tutto quello che ha fatto..."
+
+msgctxt "392_Nishina"
+msgid ""
+"I'm sorry, but I can't do anything more for you. I'm responsible for this "
+"village."
+msgstr ""
+"Mi dispiace, ma non posso fare altro per te. Sono responsabile di questo "
+"villaggio."
+
+msgctxt "404_Saejima"
+msgid "Doin' nothing is plenty. 'Preciate it."
+msgstr "Non far niente è già tanto. Apprezzo."
+
+msgctxt "464_Saejima"
+msgid "(I might come across Yama-oroshi. Better get ready.)"
+msgstr "(Potrei imbattermi nello Yama-oroshi. Meglio che mi prepari.)"

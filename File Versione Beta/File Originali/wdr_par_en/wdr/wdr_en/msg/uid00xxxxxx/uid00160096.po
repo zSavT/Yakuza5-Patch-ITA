@@ -1,0 +1,733 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "948"
+msgid "You got <Color:8>1,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1680"
+msgid "You got 1,800 experience points."
+msgstr ""
+
+msgctxt "26796"
+msgid "Young Man"
+msgstr ""
+
+msgctxt "26800"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "26804"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "26808"
+msgid "M_NML_SET_sitgrd_syagami"
+msgstr ""
+
+msgctxt "26812"
+msgid "Editorial Assistant"
+msgstr ""
+
+msgctxt "26816"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "26820"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "26824"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "26828"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "26832"
+msgid "kaiwabgm_subcomical"
+msgstr ""
+
+msgctxt "26836"
+msgid "2d_yk_sstory_E09_memo01q"
+msgstr ""
+
+msgctxt "26840"
+msgid "Sexman's Report 1"
+msgstr ""
+
+msgctxt "26844"
+msgid "Sexman's Report 2"
+msgstr ""
+
+msgctxt "26848"
+msgid "Sexman's Report 3"
+msgstr ""
+
+msgctxt "26852"
+msgid "Sexman's Report 4"
+msgstr ""
+
+msgctxt "26856"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "26860"
+msgid "4, 3, 1, 2"
+msgstr ""
+
+msgctxt "26864"
+msgid "4, 2, 1, 3"
+msgstr ""
+
+msgctxt "26868"
+msgid "4, 1, 2, 3"
+msgstr ""
+
+msgctxt "26872"
+msgid "Reread the Memoir"
+msgstr ""
+
+msgctxt "26876"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "26880"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "26884"
+msgid "2d_yk_sstory_E09_memo02q"
+msgstr ""
+
+msgctxt "26888"
+msgid "Twisted Tryst 1"
+msgstr ""
+
+msgctxt "26892"
+msgid "Twisted Tryst 2"
+msgstr ""
+
+msgctxt "26896"
+msgid "Twisted Tryst 3"
+msgstr ""
+
+msgctxt "26900"
+msgid "Twisted Tryst 4"
+msgstr ""
+
+msgctxt "26904"
+msgid "3, 1, 2, 4"
+msgstr ""
+
+msgctxt "26908"
+msgid "1, 3, 2, 4"
+msgstr ""
+
+msgctxt "26912"
+msgid "3, 2, 1, 4"
+msgstr ""
+
+msgctxt "26916"
+msgid "Reread the Fiction"
+msgstr ""
+
+msgctxt "26920"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "26924"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "26928"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "26932"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "26936"
+msgid "Talk_Get"
+msgstr ""
+
+msgctxt "26940"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "26944"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "26948"
+msgid "2d_yk_sstory_E09_memo01a"
+msgstr ""
+
+msgctxt "26952"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "26956"
+msgid "2d_yk_sstory_E09_memo02a"
+msgstr ""
+
+msgctxt "26960"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "26964"
+msgid "0"
+msgstr ""
+
+msgctxt "26968"
+msgid "dummy"
+msgstr ""
+
+msgctxt "84_Young Man"
+msgid "Oh, hey! What brings you here, Shinada-san?"
+msgstr ""
+
+msgctxt "96_Shinada"
+msgid "Uh... And you are?"
+msgstr ""
+
+msgctxt "132_Young Man"
+msgid ""
+"I work part-time at the editorial office. Don't you remember me serving you "
+"tea at the meetings?"
+msgstr ""
+
+msgctxt "144_Shinada"
+msgid ""
+"Sure... if you say so. Anyway, what's the story here? Why are you "
+"scrabbling around on the ground?"
+msgstr ""
+
+msgctxt "156_Editorial Assistant"
+msgid ""
+"Well, one of the editors gave me some handwritten memos and told me to get "
+"them typed up and formatted."
+msgstr ""
+
+msgctxt "168_Editorial Assistant"
+msgid ""
+"I was running to try and make the deadline, but I tripped and ate concrete, "
+"then dumped the memos all over the place. Now I can't figure out what order "
+"they were in."
+msgstr ""
+
+msgctxt "180_Shinada"
+msgid "Ooh, tough break. So what's your plan?"
+msgstr ""
+
+msgctxt "192_Editorial Assistant"
+msgid ""
+"All it would require is looking at each page and putting  them back in "
+"order... Hey, maybe you could help? Being that you're a journalist and all."
+msgstr ""
+
+msgctxt "204_Shinada"
+msgid ""
+"Hey, I put my heart and soul into this. I didn't get hired to be some "
+"paper-shuffler."
+msgstr ""
+
+msgctxt "216_Editorial Assistant"
+msgid ""
+"But I need that heart and soul on my side! Please, won't you give me a few "
+"minutes?"
+msgstr ""
+
+msgctxt "228_Shinada"
+msgid ""
+"You know how they say there ain't no rest for the wicked? It's even worse "
+"for the poor. Hence, I'm busier than I look."
+msgstr ""
+
+msgctxt "240_Editorial Assistant"
+msgid "Fine, fine, I know what it is you want. I'll make it worth your while."
+msgstr ""
+
+msgctxt "312_Shinada"
+msgid "Okay, so what are these memos of?"
+msgstr ""
+
+msgctxt "324_Editorial Assistant"
+msgid ""
+"The first is a compilation of erotic memoirs one of our journalists "
+"did－regular article stuff. The second's part of a fiction series written by "
+"the editor himself."
+msgstr ""
+
+msgctxt "336_Shinada"
+msgid "A fiction series? We have that?"
+msgstr ""
+
+msgctxt "348_Editorial Assistant"
+msgid ""
+"Oh, yeah, that's his ultimate pet project. He has this crazy\r\n"
+"vision of being a famous author, so he talked the chief into\r\n"
+"letting him flex his creative writing."
+msgstr ""
+
+msgctxt "360_Editorial Assistant"
+msgid ""
+"He gets that damn fiction piece done no matter how tight the schedule is. "
+"It's pretty disturbing how much effort he puts into it."
+msgstr ""
+
+msgctxt "372_Shinada"
+msgid ""
+"Got it. So if you get these in the wrong order, you're never gonna hear the "
+"end of it."
+msgstr ""
+
+msgctxt "384_Editorial Assistant"
+msgid "Exactly. That's why it's a nightmare."
+msgstr ""
+
+msgctxt "396_Shinada"
+msgid "Well, all right. Let's see those memos you fumbled."
+msgstr ""
+
+msgctxt "408_Editorial Assistant"
+msgid "Okay. Here's what I got for the erotic memoir."
+msgstr ""
+
+msgctxt "432_Sexman's Report 1"
+msgid ""
+"My heart racing in anticipation of our time together,\r\n"
+"I parry her sultry approaches. Old hands know to\r\n"
+"savor this delicate process."
+msgstr ""
+
+msgctxt "444_Sexman's Report 2"
+msgid ""
+"Upon entering the room, we engage in light banter.\r\n"
+"She doesn't know I'm a reporter, and is eager to\r\n"
+"please despite the hour."
+msgstr ""
+
+msgctxt "456_Sexman's Report 3"
+msgid ""
+"Or shall we simply disrobe? No, at this price, I require\r\n"
+"a slower, more savory stimulation. Alas, nirvana\r\n"
+"awaits."
+msgstr ""
+
+msgctxt "468_Sexman's Report 4"
+msgid ""
+"I arrive at the parlor just before closing. In spite of it,\r\n"
+"she warmly welcomes my arrival."
+msgstr ""
+
+msgctxt "480_Shinada"
+msgid ""
+"Okay, so you want me to unscramble this memoir. Let's see, now which order "
+"makes the most sense?"
+msgstr ""
+
+msgctxt "492_Shinada"
+msgid "The order's 4, 3, 1, 2. There's no doubt about it."
+msgstr ""
+
+msgctxt "504_Editorial Assistant"
+msgid "Thank you! I knew asking an actual writer was the \"write\" decision. Haha."
+msgstr ""
+
+msgctxt "516_Shinada"
+msgid "You know it, dude. Now, on to the fiction... This oughta be good."
+msgstr ""
+
+msgctxt "528_Editorial Assistant"
+msgid "Okay, have at it."
+msgstr ""
+
+msgctxt "552_Shinada"
+msgid "The order's 4, 2, 1, 3. There's no doubt about it."
+msgstr ""
+
+msgctxt "576_Shinada"
+msgid "The order's 4, 1, 2, 3. There's no doubt about it."
+msgstr ""
+
+msgctxt "612_Twisted Tryst 1"
+msgid ""
+"\"It's so salty, Toru.\" The words tumbled softly from her\r\n"
+"lips. A dark thought crossed her mind－what if her\r\n"
+"husband were to see this?"
+msgstr ""
+
+msgctxt "624_Twisted Tryst 2"
+msgid ""
+"Kaori hesitated a moment. What she had just\r\n"
+"swallowed only intensifed her craving to\r\n"
+"gobble down more of Toru's meaty offering."
+msgstr ""
+
+msgctxt "636_Twisted Tryst 3"
+msgid ""
+"\"Now, tell me. It tastes good, doesn't it?\" Toru's voice\r\n"
+"carried a steely edge. It was a command that brooked\r\n"
+"no dissent."
+msgstr ""
+
+msgctxt "648_Twisted Tryst 4"
+msgid ""
+"But it didn't matter now. Brushing aside her\r\n"
+"misgivings, she greedily snatched the chicken wing's\r\n"
+"remains from Toru's hand."
+msgstr ""
+
+msgctxt "660_Shinada"
+msgid "Okay, so now we get these pages in order. Let's figure this out."
+msgstr ""
+
+msgctxt "672_Shinada"
+msgid "The order's 3, 1, 2, and then 4. That should be right."
+msgstr ""
+
+msgctxt "684_Editorial Assistant"
+msgid ""
+"Man, am I glad I ran into you! Well, I guess it was the other way around, "
+"but still! I'd be screwed if it wasn't for your help!"
+msgstr ""
+
+msgctxt "696_Shinada"
+msgid ""
+"Hey, editing's no easy task－it's definitely beyond the scope of the general "
+"public. As a fledgling in the industry, you've got your work cut out for "
+"you, so don't shame the name."
+msgstr ""
+
+msgctxt "708_Editorial Assistant"
+msgid ""
+"Of course! I'll do my best, especially for the senpai who saved me! Now "
+"please wait here a moment－I need to get these typed up!"
+msgstr ""
+
+msgctxt "720_Shinada"
+msgid "Sure. Don't forget that reward you promised."
+msgstr ""
+
+msgctxt "732_Editorial Assistant"
+msgid "I would never! Be back in a jiffy!"
+msgstr ""
+
+msgctxt "816_Shinada"
+msgid "The order's 1, 3, 2, and then 4. That should be right."
+msgstr ""
+
+msgctxt "840_Shinada"
+msgid "The order's 3, 2, 1, and then 4. That should be right."
+msgstr ""
+
+msgctxt "864_Editorial Assistant"
+msgid "Shinada-san!"
+msgstr ""
+
+msgctxt "876_Shinada"
+msgid "Hey, you're quick. Nice work, kid. So, how about that reward?"
+msgstr ""
+
+msgctxt "912_Editorial Assistant"
+msgid "Yes, thank you! I showed the chief what we did, and everything got approved!"
+msgstr ""
+
+msgctxt "924_Shinada"
+msgid "As he should. I am a pro, you know."
+msgstr ""
+
+msgctxt "936_Editorial Assistant"
+msgid ""
+"You've proven that and then some! This isn't a lot, but it's all I can "
+"afford. Thank you."
+msgstr ""
+
+msgctxt "960_Editorial Assistant"
+msgid ""
+"If I screwed up the pages, the editor would have ripped me a new one. I "
+"sure am lucky we crossed paths."
+msgstr ""
+
+msgctxt "972_Editorial Assistant"
+msgid ""
+"Thanks again, Shinada-san. I'll do my best to learn from your timeless "
+"wisdom!"
+msgstr ""
+
+msgctxt "984_Shinada"
+msgid "(Hehe. Good job, me. Rep those mad editorial skills!)"
+msgstr ""
+
+msgctxt "1008_Editorial Assistant"
+msgid ""
+"Are you kidding? The chief read me the riot act for goofing up the erotic "
+"memoir!"
+msgstr ""
+
+msgctxt "1020_Shinada"
+msgid "Wait, what? I screwed it up?"
+msgstr ""
+
+msgctxt "1032_Editorial Assistant"
+msgid "You sure did. Here's how it should've been."
+msgstr ""
+
+msgctxt "1044_Sexman's Report 4"
+msgid ""
+"I arrive at the parlor just before closing. In spite of it,\r\n"
+"she warmly welcomes my arrival."
+msgstr ""
+
+msgctxt "1056_Sexman's Report 2"
+msgid ""
+"Upon entering the room, we engage in light banter.\r\n"
+"She doesn't know I'm a reporter, and is eager to\r\n"
+"please despite the hour."
+msgstr ""
+
+msgctxt "1068_Sexman's Report 1"
+msgid ""
+"My heart racing in anticipation of our time together,\r\n"
+"I parry her sultry approaches. Old hands know to\r\n"
+"savor this delicate process."
+msgstr ""
+
+msgctxt "1080_Sexman's Report 3"
+msgid ""
+"Or shall we simply disrobe? No, at this price, I require\r\n"
+"a slower, more savory stimulation. Alas, nirvana\r\n"
+"awaits."
+msgstr ""
+
+msgctxt "1092_Shinada"
+msgid "Oh. So it should have gone 4, 2, 1, and then 3. My bad..."
+msgstr ""
+
+msgctxt "1104_Editorial Assistant"
+msgid ""
+"And you call yourself a journalist? On top of wanting a\r\n"
+"reward? <Italic>I</Italic> should be the one asking compensation!"
+msgstr ""
+
+msgctxt "1116_Shinada"
+msgid "But I got the novel right, didn't I?"
+msgstr ""
+
+msgctxt "1128_Editorial Assistant"
+msgid ""
+"Yes, you did... But since you owe me for the report, I don't think I should "
+"owe you for the novel. That's only fair."
+msgstr ""
+
+msgctxt "1140_Shinada"
+msgid "How...?"
+msgstr ""
+
+msgctxt "1152_Editorial Assistant"
+msgid ""
+"What, you're going to complain? I'm the one who nearly lost\r\n"
+"his job while you walked away scot-free!"
+msgstr ""
+
+msgctxt "1164_Shinada"
+msgid "(...Dang. I think I did my profession a disservice there.)"
+msgstr ""
+
+msgctxt "1188_Editorial Assistant"
+msgid ""
+"Are you kidding? The chief read me the riot act for goofing up the fiction "
+"segment!"
+msgstr ""
+
+msgctxt "1200_Shinada"
+msgid "Wait, what? I screwed it up?"
+msgstr ""
+
+msgctxt "1212_Editorial Assistant"
+msgid "Here's how it should've gone."
+msgstr ""
+
+msgctxt "1224_Twisted Tryst 3"
+msgid ""
+"\"Now, tell me. It tastes good, doesn't it?\" Toru's voice\r\n"
+"carried a steely edge. It was a command that brooked\r\n"
+"no dissent."
+msgstr ""
+
+msgctxt "1236_Twisted Tryst 2"
+msgid ""
+"Kaori hesitated a moment. What she had just\r\n"
+"swallowed only intensifed her craving to\r\n"
+"gobble down more of Toru's meaty offering."
+msgstr ""
+
+msgctxt "1248_Twisted Tryst 1"
+msgid ""
+"\"It's so salty, Toru.\" The words tumbled softly from her\r\n"
+"lips. A dark thought crossed her mind－\r\n"
+"what if her husband were to see this?"
+msgstr ""
+
+msgctxt "1260_Twisted Tryst 4"
+msgid ""
+"But it didn't matter now. Brushing aside her\r\n"
+"misgivings, she greedily snatched the chicken wing's\r\n"
+"remains from Toru's hand."
+msgstr ""
+
+msgctxt "1272_Shinada"
+msgid "Oh. So it should have been 3, 2, 1, and then 4."
+msgstr ""
+
+msgctxt "1284_Editorial Assistant"
+msgid ""
+"And you call yourself a journalist? On top of wanting a\r\n"
+"reward? <Italic>I</Italic> should be the one asking compensation!"
+msgstr ""
+
+msgctxt "1296_Shinada"
+msgid "But I got the erotic memoir right, didn't I?"
+msgstr ""
+
+msgctxt "1308_Editorial Assistant"
+msgid ""
+"Yes, you did... But since you owe me for the fiction, I don't think I "
+"should owe you for the memoir. That's only fair."
+msgstr ""
+
+msgctxt "1320_Shinada"
+msgid "How...?"
+msgstr ""
+
+msgctxt "1332_Editorial Assistant"
+msgid ""
+"What, you're going to complain? I'm the one who nearly lost\r\n"
+"his job while you walked away scot-free!"
+msgstr ""
+
+msgctxt "1344_Shinada"
+msgid "(...Dang. I think I did my profession a disservice there.)"
+msgstr ""
+
+msgctxt "1368_Editorial Assistant"
+msgid ""
+"Are you kidding? The chief read me the riot act for goofing up the whole "
+"thing!"
+msgstr ""
+
+msgctxt "1380_Shinada"
+msgid "Wait, what? I screwed it all up?"
+msgstr ""
+
+msgctxt "1392_Editorial Assistant"
+msgid "Yes! This how the erotic memoir should've gone."
+msgstr ""
+
+msgctxt "1404_Sexman's Report 4"
+msgid ""
+"I arrive at the parlor just before closing. In spite of it,\r\n"
+"she warmly welcomes my arrival."
+msgstr ""
+
+msgctxt "1416_Sexman's Report 2"
+msgid ""
+"Upon entering the room, we engage in light banter.\r\n"
+"She doesn't know I'm a reporter, and is eager to\r\n"
+"please despite the hour."
+msgstr ""
+
+msgctxt "1428_Sexman's Report 1"
+msgid ""
+"My heart racing in anticipation of our time together,\r\n"
+"I parry her sultry approaches. Old hands know to\r\n"
+"savor this delicate process."
+msgstr ""
+
+msgctxt "1440_Sexman's Report 3"
+msgid ""
+"Or shall we simply disrobe? No, at this price, I require\r\n"
+"a slower, more savory stimulation. Alas, nirvana\r\n"
+"awaits."
+msgstr ""
+
+msgctxt "1452_Shinada"
+msgid "Oh. So it should have gone 4, 2, 1, and then 3."
+msgstr ""
+
+msgctxt "1464_Editorial Assistant"
+msgid "And the fiction should've been organized this way!"
+msgstr ""
+
+msgctxt "1488_Twisted Tryst 3"
+msgid ""
+"\"Now, tell me. It tastes good, doesn't it?\" Toru's voice\r\n"
+"carried a steely edge. It was a command that brooked\r\n"
+"no dissent."
+msgstr ""
+
+msgctxt "1500_Twisted Tryst 2"
+msgid ""
+"Kaori hesitated a moment. What she had just\r\n"
+"swallowed only intensifed her craving to\r\n"
+"gobble down more of Toru's meaty offering."
+msgstr ""
+
+msgctxt "1512_Twisted Tryst 1"
+msgid ""
+"\"It's so salty, Toru.\" The words tumbled softly from her\r\n"
+"lips. A dark thought crossed her mind－what if her\r\n"
+"husband were to see this?"
+msgstr ""
+
+msgctxt "1524_Twisted Tryst 4"
+msgid ""
+"But it didn't matter now. Brushing aside her\r\n"
+"misgivings, she greedily snatched the chicken wing's\r\n"
+"remains from Toru's hand."
+msgstr ""
+
+msgctxt "1536_Shinada"
+msgid "So it should have been 3, 2, 1, and then 4."
+msgstr ""
+
+msgctxt "1548_Editorial Assistant"
+msgid ""
+"And you call yourself a journalist? On top of wanting a\r\n"
+"reward? <Italic>I</Italic> should be the one asking compensation!"
+msgstr ""
+
+msgctxt "1560_Shinada"
+msgid "Dude, I'm sorry. I guess I got a little careless."
+msgstr ""
+
+msgctxt "1572_Editorial Assistant"
+msgid ""
+"Yeah, well. I told the chief that you were the one who\r\n"
+"bungled it all up. \"Sorry\" can only get you so far."
+msgstr ""
+
+msgctxt "1584_Shinada"
+msgid "Why!? Why would you do that?"
+msgstr ""
+
+msgctxt "1596_Editorial Assistant"
+msgid "Why wouldn't I? I shouldn't be the one taking all the blame!"
+msgstr ""
+
+msgctxt "1608_Shinada"
+msgid "(Ugh. My writer's rep got hammered... Hope I can still get work after this!)"
+msgstr ""

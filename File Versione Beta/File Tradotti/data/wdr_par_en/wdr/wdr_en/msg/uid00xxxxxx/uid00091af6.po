@@ -1,0 +1,153 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "236"
+msgid "You handed over <Color:8>Bear Meat<Color:Default>."
+msgstr "Hai consegnato <Color:8>Carne d'orso<Color:Default>."
+
+msgctxt "296"
+msgid "You got a <Color:8>Toughness ZZ<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Toughness ZZ<Color:Default>."
+
+msgctxt "356"
+msgid "You got 500 experience points."
+msgstr "Hai ottenuto 500 punti esperienza."
+
+msgctxt "4512"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "4516"
+msgid "Kihachi"
+msgstr "Kihachi"
+
+msgctxt "4520"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "4524"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "4528"
+msgid "Mission Added"
+msgstr "Missione Aggiunta"
+
+msgctxt "4532"
+msgid "Hand Over the Bear Meat"
+msgstr "Consegna la carne d'orso"
+
+msgctxt "4536"
+msgid "Keep the Bear Meat"
+msgstr "Tieni la carne d'orso"
+
+msgctxt "4540"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "4544"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "4548"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "104_Saejima"
+msgid "Well, if it ain't Kihachi-san. Hey, why the long face?"
+msgstr "Ma guarda un po' te, Kihachi-san. Ehi, perché hai il muso?"
+
+msgctxt "116_Kihachi"
+msgid "It's my wife."
+msgstr "È mia moglie."
+
+msgctxt "128_Kihachi"
+msgid ""
+"She's laid up in bed, and so weak. The poor thing needs some nourishment."
+msgstr "È allettata e così debole. Povera, le serve del nutrimento."
+
+msgctxt "140_Saejima"
+msgid "What're ya thinkin' of gettin' her?"
+msgstr "Cosa pensi di prenderle?"
+
+msgctxt "152_Kihachi"
+msgid "Bear meat. That's what would be best. But no one seems to have any."
+msgstr "Carne d'orso. Sarebbe la cosa migliore. Ma nessuno sembra averne."
+
+msgctxt "164_Saejima"
+msgid "Bear meat, huh?"
+msgstr "Carne d'orso, eh?"
+
+msgctxt "176_Kihachi"
+msgid ""
+"Yeah. If you happen to shoot a bear, would you spare me some? I feel bad "
+"askin' for your help again, but my wife needs it."
+msgstr ""
+"Sì. Se ti capita di abbattere un orso, me ne daresti un po'? Mi sento in "
+"colpa a chiederti di nuovo aiuto, ma a mia moglie serve."
+
+msgctxt "188_Mission Added"
+msgid "\"Get Bear Meat\" was added to the list of missions."
+msgstr "\"Procura Carne d'Orso\" è stata aggiunta all'elenco delle missioni."
+
+msgctxt "212_Kihachi"
+msgid "I just wish I could get some bear meat for my wife..."
+msgstr "Se solo riuscissi a trovare della carne d'orso per mia moglie..."
+
+msgctxt "224_Saejima"
+msgid "Take this to her."
+msgstr "Portaglielo."
+
+msgctxt "260_Kihachi"
+msgid "Oh! She'll be so happy! Thank you for thinking of her."
+msgstr "Oh! Sarà felicissima! Grazie per aver pensato a lei."
+
+msgctxt "272_Kihachi"
+msgid ""
+"Seems like every time we need something, you just pop up. Here's something "
+"to show how grateful I am."
+msgstr ""
+"Sembra che ogni volta che ci serve qualcosa, tu salti fuori. Tieni, questo è"
+" per farti vedere quanto sono grato."
+
+msgctxt "284_Saejima"
+msgid "It ain't no problem, but thanks all the same."
+msgstr "Niente di che, ma grazie lo stesso."
+
+msgctxt "320_Kihachi"
+msgid "You're a great guy, Saejima-san."
+msgstr "Sei un gran tipo, Saejima-san."
+
+msgctxt "380_Kihachi"
+msgid ""
+"Ah, but these days, no one hunts on the mountain. What am I going to do?"
+msgstr ""
+"Ah, ma di questi tempi, nessuno caccia più in montagna. E adesso, che cavolo"
+" faccio?"
+
+msgctxt "392_Kihachi"
+msgid "I just wish I could get some bear meat for my wife..."
+msgstr "Se solo riuscissi a trovare della carne d'orso per mia moglie..."
+
+msgctxt "404_Kihachi"
+msgid ""
+"Oh, Saejima-san, I wanted to tell you how much my wife loved the bear meat! "
+"It really brought the color back into her cheeks."
+msgstr ""
+"Oh, Saejima-san, volevo dirle quanto a mia moglie sia piaciuta la carne "
+"d'orso! Le ha davvero fatto tornare il colore sulle guance."
+
+msgctxt "416_Saejima"
+msgid "Good to hear."
+msgstr "Bello a sapersi."

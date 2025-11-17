@@ -1,0 +1,220 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "380"
+msgid "You handed over <Color:8>Toxic Mushroom<Color:Default>."
+msgstr "Hai consegnato <Color:8>Fungo Tossico<Color:Default>."
+
+msgctxt "428"
+msgid "You got <Color:8>Tauriner Maximum<Color:Default>."
+msgstr "Hai preso <Color:8>Tauriner Maximum<Color:Default>."
+
+msgctxt "536"
+msgid "You got 500 experience points."
+msgstr "Hai ottenuto 500 punti esperienza."
+
+msgctxt "5860"
+msgid "Man from Tsukimino"
+msgstr "Uomo di Tsukimino"
+
+msgctxt "5864"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "5868"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "5872"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "5876"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "5880"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "5884"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "5888"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "5892"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "5896"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "5900"
+msgid "Mission Added"
+msgstr "Missione Aggiunta"
+
+msgctxt "5904"
+msgid "Give Him the Toxic Mushrooms"
+msgstr "Dagli i Funghi tossici"
+
+msgctxt "5908"
+msgid "Keep the Toxic Mushrooms"
+msgstr "Tieni i Funghi Tossici"
+
+msgctxt "5912"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "5916"
+msgid "Talk_Get"
+msgstr "Talk_Get"
+
+msgctxt "116_Man from Tsukimino"
+msgid "Oh! It's you!"
+msgstr "Ah! Eccoti!"
+
+msgctxt "128_Saejima"
+msgid "Uh, and you're...?"
+msgstr "Uh, e tu chi saresti?"
+
+msgctxt "140_Man from Tsukimino"
+msgid ""
+"Yeah, it's been a while. You brought my father's time capsule back from the "
+"mountain for me."
+msgstr ""
+"Sì, è un pezzo che non ci si vede. Mi hai riportato la capsula del tempo di "
+"mio padre dalla montagna."
+
+msgctxt "152_Saejima"
+msgid ""
+"Ah, that's right. Thought ya were done with the town, though. Why're ya here"
+" now?"
+msgstr "Ah, già. Pensavo avessi chiuso con la città, sai. Che ci fai qui ora?"
+
+msgctxt "164_Man from Tsukimino"
+msgid ""
+"It's a funny story. See, I study chronic diseases at the university hospital"
+" in Tsukimino."
+msgstr ""
+"È una storia buffa. Vedi, studio le malattie croniche all'ospedale "
+"universitario di Tsukimino."
+
+msgctxt "176_Man from Tsukimino"
+msgid ""
+"And it turns out, the key I've been seeking all these years is right here on"
+" the mountain."
+msgstr ""
+"E si scopre che la chiave che ho cercato per tutti questi anni è proprio "
+"qui, su questa montagna."
+
+msgctxt "188_Saejima"
+msgid "What key?"
+msgstr "Quale chiave?"
+
+msgctxt "200_Man from Tsukimino"
+msgid "Mushrooms. I found a dried-up mushroom in my father's time capsule."
+msgstr ""
+"Funghi. Ho trovato un fungo essiccato nella capsula del tempo di mio padre."
+
+msgctxt "212_Man from Tsukimino"
+msgid ""
+"It's poisonous, but it also contains a substance that may be an effective "
+"control for a disease I'm studying."
+msgstr ""
+"È velenoso, ma contiene anche una sostanza che potrebbe essere un modo "
+"efficace per controllare una malattia che sto studiando."
+
+msgctxt "224_Saejima"
+msgid "Hell of a coincidence."
+msgstr "Che diavolo di coincidenza."
+
+msgctxt "236_Man from Tsukimino"
+msgid ""
+"Isn't it!? The only problem is, the mushroom I have is not a large enough "
+"sample, and－"
+msgstr ""
+"Vero!? L'unico problema è che il campione di fungo che ho non è abbastanza "
+"grande, e－"
+
+msgctxt "248_Saejima"
+msgid "Let me guess. Ya want me to fetch ya more of that type of mushroom."
+msgstr ""
+"Fammi indovinare. Vuoi che ti vada a prendere altro di quel tipo di fungo."
+
+msgctxt "260_Man from Tsukimino"
+msgid ""
+"Precisely. I'm sorry to impose on you again, but... I'll pay you, of course."
+msgstr ""
+"Esatto. Mi dispiace disturbarti di nuovo, ma... Ti pagherò, ovviamente."
+
+msgctxt "272_Saejima"
+msgid ""
+"Well... okay. Sounds like you're workin' on somethin' good for society."
+msgstr ""
+"Beh... d'accordo. Sembra che ti stia dando da fare per qualcosa di buono per"
+" la società."
+
+msgctxt "284_Man from Tsukimino"
+msgid "Great! Science will thank you."
+msgstr "Fantastico! La scienza ti ringrazierà."
+
+msgctxt "296_Man from Tsukimino"
+msgid "I only need three of them, so..."
+msgstr "Me ne servono solo tre, quindi..."
+
+msgctxt "308_Saejima"
+msgid "Alright, three toxic mushrooms. If I find 'em, I'll bring 'em here."
+msgstr "Ok, tre funghi tossici. Se li trovo, li porto qui."
+
+msgctxt "320_Mission Added"
+msgid "\"Get Toxic Shrooms\" was added to the list of missions."
+msgstr ""
+"\"Raccogli Funghetti Tossici\" è stata aggiunta alla lista delle missioni."
+
+msgctxt "332_Man from Tsukimino"
+msgid "I still need three toxic mushrooms for my studies."
+msgstr "Mi servono ancora tre funghi tossici per i miei studi."
+
+msgctxt "356_Saejima"
+msgid "(Give 'im the shrooms?)"
+msgstr "(Gli mollo i funghetti?)"
+
+msgctxt "368_Saejima"
+msgid "Here's yer stuff to experiment on."
+msgstr "Ecco la tua roba per gli esperimenti."
+
+msgctxt "404_Man from Tsukimino"
+msgid "Fantastic! Hey, who knows? Perhaps you just helped me save some lives!"
+msgstr ""
+"Fantastico! Ehi, chissà? Magari mi hai appena aiutato a salvare delle vite!"
+
+msgctxt "416_Man from Tsukimino"
+msgid "Here's your payment."
+msgstr "Ecco il tuo pagamento."
+
+msgctxt "452_Man from Tsukimino"
+msgid "Thank you."
+msgstr "Grazie."
+
+msgctxt "464_Saejima"
+msgid "Sure. Go do yer research. Many people countin' on ya."
+msgstr "Certo. Fatti la tua ricerca. Un sacco di gente conta su di te."
+
+msgctxt "560_Saejima"
+msgid "Gimme a bit more time."
+msgstr "Dammi ancora un po' di tempo."

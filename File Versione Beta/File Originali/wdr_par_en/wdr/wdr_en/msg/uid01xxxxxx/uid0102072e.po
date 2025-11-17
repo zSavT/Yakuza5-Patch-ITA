@@ -1,0 +1,610 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "16668"
+msgid "Himura"
+msgstr ""
+
+msgctxt "16672"
+msgid "adv2_070/himura_0042"
+msgstr ""
+
+msgctxt "16676"
+msgid "C2070_P_HMR_sleepA_kamae"
+msgstr ""
+
+msgctxt "16680"
+msgid "C2070_P_HMR_sleepA_aiduti"
+msgstr ""
+
+msgctxt "16684"
+msgid "Oshima"
+msgstr ""
+
+msgctxt "16688"
+msgid "adv2_070/oshima_0039"
+msgstr ""
+
+msgctxt "16692"
+msgid "C2070_P_OSM_sleepA_kamae"
+msgstr ""
+
+msgctxt "16696"
+msgid "C2070_P_OSM_sleepA_aiduti"
+msgstr ""
+
+msgctxt "16700"
+msgid "adv2_070/himura_0043a"
+msgstr ""
+
+msgctxt "16704"
+msgid "C2070_P_HMR_sleepA_yesbig"
+msgstr ""
+
+msgctxt "16708"
+msgid "adv2_070/himura_0043b"
+msgstr ""
+
+msgctxt "16712"
+msgid "adv2_070/himura_0043c"
+msgstr ""
+
+msgctxt "16716"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "16720"
+msgid "adv2_070/himura_0044"
+msgstr ""
+
+msgctxt "16724"
+msgid "C2070_P_HMR_sleepA_yes"
+msgstr ""
+
+msgctxt "16728"
+msgid "Baba"
+msgstr ""
+
+msgctxt "16732"
+msgid "adv2_070/himura_0045a"
+msgstr ""
+
+msgctxt "16736"
+msgid "adv2_070/himura_0045b"
+msgstr ""
+
+msgctxt "16740"
+msgid "adv2_070/himura_0045c"
+msgstr ""
+
+msgctxt "16744"
+msgid "adv2_070/oshima_0041a"
+msgstr ""
+
+msgctxt "16748"
+msgid "C2070_P_OSM_sleepA_yes"
+msgstr ""
+
+msgctxt "16752"
+msgid "adv2_070/oshima_0041b"
+msgstr ""
+
+msgctxt "16756"
+msgid "C2070_A_FTN_hmr_kamae_B"
+msgstr ""
+
+msgctxt "16760"
+msgid "C2070_A_FTN_hmr_AtoB"
+msgstr ""
+
+msgctxt "16764"
+msgid "C2070_P_HMR_sleepB_kamae"
+msgstr ""
+
+msgctxt "16768"
+msgid "C2070_P_HMR_sleepA_negaeri"
+msgstr ""
+
+msgctxt "16772"
+msgid "adv2_070/oshima_0042"
+msgstr ""
+
+msgctxt "16776"
+msgid "C2070_A_FTN_osm_kamae_B"
+msgstr ""
+
+msgctxt "16780"
+msgid "C2070_A_FTN_osm_AtoB"
+msgstr ""
+
+msgctxt "16784"
+msgid "C2070_P_OSM_sleepB_kamae"
+msgstr ""
+
+msgctxt "16788"
+msgid "C2070_P_OSM_sleepA_negaeri"
+msgstr ""
+
+msgctxt "16792"
+msgid "adv2_070/saejima_0122"
+msgstr ""
+
+msgctxt "16796"
+msgid "C2070_P_SAE_sleepA_kamae"
+msgstr ""
+
+msgctxt "16800"
+msgid "C2070_P_SAE_sleepA_yes"
+msgstr ""
+
+msgctxt "16804"
+msgid "C2070_A_FTN_sae_kamae_B"
+msgstr ""
+
+msgctxt "16808"
+msgid "C2070_A_FTN_sae_AtoB"
+msgstr ""
+
+msgctxt "16812"
+msgid "C2070_P_SAE_sleepB_kamae"
+msgstr ""
+
+msgctxt "16816"
+msgid "C2070_P_SAE_sleepA_negaeri"
+msgstr ""
+
+msgctxt "16820"
+msgid "adv2_070/himura_0046"
+msgstr ""
+
+msgctxt "16824"
+msgid "adv2_070/baba_0032"
+msgstr ""
+
+msgctxt "16828"
+msgid "C2070_P_BAB_sleepA_kamae"
+msgstr ""
+
+msgctxt "16832"
+msgid "C2070_P_BAB_sleepA_yes"
+msgstr ""
+
+msgctxt "16836"
+msgid "C2070_A_FTN_bab_kamae_B"
+msgstr ""
+
+msgctxt "16840"
+msgid "C2070_A_FTN_bab_AtoB"
+msgstr ""
+
+msgctxt "16844"
+msgid "C2070_P_BAB_sleepB_kamae"
+msgstr ""
+
+msgctxt "16848"
+msgid "C2070_P_BAB_sleepA_negaeri"
+msgstr ""
+
+msgctxt "16852"
+msgid "adv2_060/himura_0032"
+msgstr ""
+
+msgctxt "16856"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "16860"
+msgid "adv2_060/saejima_0114"
+msgstr ""
+
+msgctxt "16864"
+msgid "adv2_060/himura_0033"
+msgstr ""
+
+msgctxt "16868"
+msgid "C2040_P_SAE_agura_kamae"
+msgstr ""
+
+msgctxt "16872"
+msgid "adv2_060/oshima_0033"
+msgstr ""
+
+msgctxt "16876"
+msgid "adv2_060/saejima_0115"
+msgstr ""
+
+msgctxt "16880"
+msgid "adv2_060/oshima_0034a"
+msgstr ""
+
+msgctxt "16884"
+msgid "adv2_060/oshima_0034b"
+msgstr ""
+
+msgctxt "16888"
+msgid "adv2_060/himura_0034"
+msgstr ""
+
+msgctxt "16892"
+msgid "adv2_060/saejima_0116"
+msgstr ""
+
+msgctxt "16896"
+msgid "adv2_060/oshima_0035a"
+msgstr ""
+
+msgctxt "16900"
+msgid "adv2_060/oshima_0035b"
+msgstr ""
+
+msgctxt "16904"
+msgid "adv2_060/oshima_0035c"
+msgstr ""
+
+msgctxt "16908"
+msgid "adv2_060/himura_0035a"
+msgstr ""
+
+msgctxt "16912"
+msgid "adv2_060/himura_0035b"
+msgstr ""
+
+msgctxt "16916"
+msgid "adv2_060/himura_0035c"
+msgstr ""
+
+msgctxt "16920"
+msgid "adv2_060/saejima_0117"
+msgstr ""
+
+msgctxt "16924"
+msgid "C2060_M_HMR_seiza_open_map"
+msgstr ""
+
+msgctxt "16928"
+msgid "adv2_060/oshima_0036"
+msgstr ""
+
+msgctxt "16932"
+msgid "kaiwabgm_comical"
+msgstr ""
+
+msgctxt "16936"
+msgid "adv2_060/himura_0036"
+msgstr ""
+
+msgctxt "16940"
+msgid "adv2_060/oshima_0037"
+msgstr ""
+
+msgctxt "16944"
+msgid "adv2_060/himura_0037a"
+msgstr ""
+
+msgctxt "16948"
+msgid "adv2_060/himura_0037b"
+msgstr ""
+
+msgctxt "16952"
+msgid "adv2_060/oshima_0038"
+msgstr ""
+
+msgctxt "16956"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "16960"
+msgid "adv2_060/himura_0038a"
+msgstr ""
+
+msgctxt "16964"
+msgid "adv2_060/himura_0038b"
+msgstr ""
+
+msgctxt "16968"
+msgid "adv2_060/baba_0029"
+msgstr ""
+
+msgctxt "16972"
+msgid "M_YKZ_TLK_sitgrd_agura_lp"
+msgstr ""
+
+msgctxt "16976"
+msgid "M_YKZ_TLK_sitgrd_agura_st"
+msgstr ""
+
+msgctxt "16980"
+msgid "adv2_060/himura_0039"
+msgstr ""
+
+msgctxt "16984"
+msgid "adv2_060/saejima_0118"
+msgstr ""
+
+msgctxt "16988"
+msgid "adv2_060/himura_0040a"
+msgstr ""
+
+msgctxt "16992"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "16996"
+msgid "adv2_060/himura_0040b"
+msgstr ""
+
+msgctxt "17000"
+msgid "adv2_060/himura_0040c"
+msgstr ""
+
+msgctxt "17004"
+msgid "adv2_060/saejima_0119"
+msgstr ""
+
+msgctxt "17008"
+msgid "adv2_060/himura_0041"
+msgstr ""
+
+msgctxt "60_Himura"
+msgid "What'd I tell you? Wasn't that a good way to lift your spirits?"
+msgstr ""
+
+msgctxt "72_Oshima"
+msgid "Hah. All your stories have the stench of fresh, steaming bullshit."
+msgstr ""
+
+msgctxt "84_Himura"
+msgid "Hey, all of it's true! Honest!"
+msgstr ""
+
+msgctxt "96_Himura"
+msgid ""
+"And besides, if you're going to fantasize you might as well make it a story "
+"with some sparkle, am I right?"
+msgstr ""
+
+msgctxt "108_Himura"
+msgid ""
+"After all, it'll be years before we can wine, dine, and be merry outside "
+"this place."
+msgstr ""
+
+msgctxt "120_Oshima"
+msgid "Hmph."
+msgstr ""
+
+msgctxt "132_Saejima"
+msgid "(I agree, Oshima.)"
+msgstr ""
+
+msgctxt "144_Himura"
+msgid ""
+"They can't keep us from enjoying life. Not when we know we'll get out of "
+"here someday."
+msgstr ""
+
+msgctxt "156_Baba"
+msgid "......"
+msgstr ""
+
+msgctxt "168_Himura"
+msgid ""
+"That's why I'm okay with being here, paying my debt to society. We can put "
+"up with it as long as we keep dreaming about a tomorrow outside these walls."
+msgstr ""
+
+msgctxt "180_Himura"
+msgid ""
+"All the fun in the world is waiting for us out there. We need to make "
+"amends so that we deserve it."
+msgstr ""
+
+msgctxt "192_Himura"
+msgid "Don't you think that's a healthier way for us to think?"
+msgstr ""
+
+msgctxt "204_Saejima"
+msgid "(It's somethin'.)"
+msgstr ""
+
+msgctxt "216_Oshima"
+msgid "You're right. Being here does not define us."
+msgstr ""
+
+msgctxt "228_Oshima"
+msgid ""
+"We all had lives before, and we'll have them after. In the end, we'll die "
+"on the outside, on our own terms."
+msgstr ""
+
+msgctxt "240_Baba"
+msgid "......"
+msgstr ""
+
+msgctxt "252_Oshima"
+msgid "We should all be thinking about what we want to do when we're out."
+msgstr ""
+
+msgctxt "276_Saejima"
+msgid "...Yeah."
+msgstr ""
+
+msgctxt "300_Himura"
+msgid "Zzz..."
+msgstr ""
+
+msgctxt "312_Baba"
+msgid "Um, Saejima-san, I..."
+msgstr ""
+
+msgctxt "372_Himura"
+msgid "Welcome back! I didn't expect such a quick return from solitary."
+msgstr ""
+
+msgctxt "384_Saejima"
+msgid "Yeah. Not sure why, but the deputy warden just let me out."
+msgstr ""
+
+msgctxt "396_Himura"
+msgid "Wait, you can't possibly mean－Kosaka!?"
+msgstr ""
+
+msgctxt "408_Oshima"
+msgid "That doesn't sound right. He always comes down hard on inmates."
+msgstr ""
+
+msgctxt "420_Saejima"
+msgid ""
+"Well, I don't know the man's mind. All I know is he don't like yakuza. Made "
+"it clear I wasn't gettin' parole."
+msgstr ""
+
+msgctxt "432_Oshima"
+msgid "Now that sounds more like him."
+msgstr ""
+
+msgctxt "444_Oshima"
+msgid ""
+"He probably knows you're a big shot, and he's trying to discourage you from "
+"using prison as just another place to expand your network."
+msgstr ""
+
+msgctxt "456_Himura"
+msgid ""
+"Even though Saejima foolishly wants to be in solitary. Hahaha! It's a crazy "
+"world. Don't you think, Baba-chan?"
+msgstr ""
+
+msgctxt "468_Baba"
+msgid "*sigh*"
+msgstr ""
+
+msgctxt "480_Saejima"
+msgid "What's wrong? Hope you're not changing your mind."
+msgstr ""
+
+msgctxt "492_Baba"
+msgid "......"
+msgstr ""
+
+msgctxt "504_Oshima"
+msgid "You're still gonna apply for a new hearing tomorrow, right?"
+msgstr ""
+
+msgctxt "516_Oshima"
+msgid "Your parole cancellation probably isn't official yet. There's still time."
+msgstr ""
+
+msgctxt "528_Oshima"
+msgid "If you go and demonstrate remorse, they might still let you out."
+msgstr ""
+
+msgctxt "540_Baba"
+msgid "Mmm..."
+msgstr ""
+
+msgctxt "552_Himura"
+msgid ""
+"Hey, why we gotta put up with all the whimpering and shit!? Come on man, "
+"Saejima-san's back!"
+msgstr ""
+
+msgctxt "564_Himura"
+msgid ""
+"Why get all down in the dumps just 'cause Baba-chan wants to mope around? "
+"Let's talk about something enjoyable."
+msgstr ""
+
+msgctxt "576_Himura"
+msgid "I know something!"
+msgstr ""
+
+msgctxt "588_Saejima"
+msgid "A map?"
+msgstr ""
+
+msgctxt "600_Oshima"
+msgid "This is a map of Sapporo's Tsukimino area."
+msgstr ""
+
+msgctxt "612_Himura"
+msgid ""
+"It sure is. Everyone look at it and switch your minds over to the day when "
+"you can walk out of here and go anywhere in Tsukimino you want."
+msgstr ""
+
+msgctxt "624_Oshima"
+msgid "Switch our minds over?"
+msgstr ""
+
+msgctxt "636_Himura"
+msgid "Yeah. It's called image training."
+msgstr ""
+
+msgctxt "648_Himura"
+msgid ""
+"You use your imagination, so that in your mind you're off having a good "
+"time in Tsukimino."
+msgstr ""
+
+msgctxt "660_Oshima"
+msgid "What good is that? It's like a children's game. Actually, it's stupider."
+msgstr ""
+
+msgctxt "672_Himura"
+msgid ""
+"Lighten up, Pops. Come on, it'll be a welcome change from these dreary "
+"surroundings. Right, Saejima-san? You'll do it, huh?"
+msgstr ""
+
+msgctxt "684_Himura"
+msgid " Come on, Baba! You need it the most!"
+msgstr ""
+
+msgctxt "696_Baba"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "720_Himura"
+msgid ""
+"Good. Everyone ready? I want you to picture the streets of Tsukimino in "
+"your mind."
+msgstr ""
+
+msgctxt "732_Saejima"
+msgid "Don't know Tsukimino that well, actually. Can't picture it."
+msgstr ""
+
+msgctxt "744_Himura"
+msgid ""
+"Huh? Right, you're not from the north. Well then, how about we try this? "
+"Listen."
+msgstr ""
+
+msgctxt "756_Himura"
+msgid ""
+"I'll tell you a story from when I was there. Saejima-san, you just imagine "
+"the situations I describe as if you were me."
+msgstr ""
+
+msgctxt "768_Himura"
+msgid "At the end you'll feel like it all really happened to you."
+msgstr ""
+
+msgctxt "780_Saejima"
+msgid "Hm. All right..."
+msgstr ""
+
+msgctxt "792_Himura"
+msgid "Okay, here we go."
+msgstr ""

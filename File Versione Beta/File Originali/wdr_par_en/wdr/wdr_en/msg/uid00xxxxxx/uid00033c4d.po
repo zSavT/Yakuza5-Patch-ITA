@@ -1,0 +1,804 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1956"
+msgid "<Color:9>Heat Gauge capacity increased.<Color:Default>"
+msgstr ""
+
+msgctxt "2004"
+msgid "<Color:9>You earned one Soul Orb.<Color:Default>"
+msgstr ""
+
+msgctxt "2436"
+msgid "<Color:9>The maximum value of the Heat Gauge increased.<Color:Default>"
+msgstr ""
+
+msgctxt "2484"
+msgid "<Color:9>You earned one Soul Orb.<Color:Default>"
+msgstr ""
+
+msgctxt "35464"
+msgid "Mysterious Old Man"
+msgstr ""
+
+msgctxt "35468"
+msgid "ArmsID"
+msgstr ""
+
+msgctxt "35472"
+msgid "Man"
+msgstr ""
+
+msgctxt "35476"
+msgid "M_NML_TLK_stand_surp"
+msgstr ""
+
+msgctxt "35480"
+msgid "Man in Lab Coat"
+msgstr ""
+
+msgctxt "35484"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "35488"
+msgid "P_TLK_stand_no"
+msgstr ""
+
+msgctxt "35492"
+msgid "M_NML_TLK_stand_smile"
+msgstr ""
+
+msgctxt "35496"
+msgid "Minamida"
+msgstr ""
+
+msgctxt "35500"
+msgid "Minamida's Assistant"
+msgstr ""
+
+msgctxt "35504"
+msgid "M_NML_TLK_stand_ok"
+msgstr ""
+
+msgctxt "35508"
+msgid "M_NML_TLK_stand_request"
+msgstr ""
+
+msgctxt "35512"
+msgid "Player"
+msgstr ""
+
+msgctxt "35516"
+msgid "Play the Game"
+msgstr ""
+
+msgctxt "35520"
+msgid "Don't Play the Game"
+msgstr ""
+
+msgctxt "35524"
+msgid "Ask About the Game"
+msgstr ""
+
+msgctxt "35528"
+msgid "Nagasugai"
+msgstr ""
+
+msgctxt "35532"
+msgid "Kamurocho"
+msgstr ""
+
+msgctxt "35536"
+msgid "On second thought, maybe not."
+msgstr ""
+
+msgctxt "35540"
+msgid "Invest Some Money"
+msgstr ""
+
+msgctxt "35544"
+msgid "Don't Invest"
+msgstr ""
+
+msgctxt "35548"
+msgid "dummy"
+msgstr ""
+
+msgctxt "108_Mysterious Old Man"
+msgid "Care to play? It'll only cost you 100,000 yen."
+msgstr ""
+
+msgctxt "120_Man"
+msgid ""
+"Who in their right mind would pay that much for something they know nothing "
+"about!?"
+msgstr ""
+
+msgctxt "144_Man in Lab Coat"
+msgid "No, wait!"
+msgstr ""
+
+msgctxt "156_Man in Lab Coat"
+msgid ""
+"Darn, lost another one. We'll never be able to run our test like this, "
+"doctor."
+msgstr ""
+
+msgctxt "168_Mysterious Old Man"
+msgid ""
+"Epoch-making inventions are seldom understood by lesser minds. Ah! You, "
+"there!"
+msgstr ""
+
+msgctxt "180_Kiryu"
+msgid "Are you talking to me?"
+msgstr ""
+
+msgctxt "192_Mysterious Old Man"
+msgid "Would you like to play a－Wait a second. I know you. You're, um..."
+msgstr ""
+
+msgctxt "204_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "216_Mysterious Old Man"
+msgid ""
+"Er... Who are you again? I'm afraid I've become rather forgetful in my old "
+"age."
+msgstr ""
+
+msgctxt "228_Kiryu"
+msgid "Sorry, but I don't know you."
+msgstr ""
+
+msgctxt "240_Mysterious Old Man"
+msgid "Hmm... Is that so? Well, my mistake."
+msgstr ""
+
+msgctxt "252_Mysterious Old Man"
+msgid ""
+"It's just that you bear a striking resemblance to a man who aided me in the "
+"past."
+msgstr ""
+
+msgctxt "264_Kiryu"
+msgid "Fascinating. Well, I have to go."
+msgstr ""
+
+msgctxt "276_Man in Lab Coat"
+msgid "No, please! Wait!"
+msgstr ""
+
+msgctxt "288_Kiryu"
+msgid "What do you want now?"
+msgstr ""
+
+msgctxt "300_Man in Lab Coat"
+msgid ""
+"We're looking for someone to playtest our newly developed game system. "
+"Please, won't you consider giving it a try?"
+msgstr ""
+
+msgctxt "312_Kiryu"
+msgid "Sorry, but I'm busy."
+msgstr ""
+
+msgctxt "324_Man in Lab Coat"
+msgid ""
+"Aw, please, don't be like that! This is Doctor Minamida, and I'm his "
+"assistant."
+msgstr ""
+
+msgctxt "336_Minamida"
+msgid ""
+"This is the culmination of years of work: the newest version of my Inner "
+"Fighter arcade machine!"
+msgstr ""
+
+msgctxt "348_Kiryu"
+msgid "Inner Fighter?"
+msgstr ""
+
+msgctxt "360_Minamida"
+msgid ""
+"It's my brand new game machine, my boy! It uses special electromagnetic "
+"waves to let you experience realistic fights within your very mind!"
+msgstr ""
+
+msgctxt "372_Minamida"
+msgid ""
+"I present to you the latest Inner Fighter! I call it Inner Fighter 8: Road "
+"Battle, or IF8 for short!"
+msgstr ""
+
+msgctxt "384_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "396_Kiryu"
+msgid "Is it invisible or something?"
+msgstr ""
+
+msgctxt "408_Minamida's Assistant"
+msgid "No, look. It's right here!"
+msgstr ""
+
+msgctxt "420_Minamida"
+msgid ""
+"IF8 uses this microtransceiver to communicate in realtime with the main "
+"unit back at my lab."
+msgstr ""
+
+msgctxt "432_Minamida"
+msgid "And that means you can play the game from anywhere in the world."
+msgstr ""
+
+msgctxt "444_Kiryu"
+msgid "Right... Should I be impressed?"
+msgstr ""
+
+msgctxt "456_Minamida"
+msgid ""
+"Yes! Don't you know what that means!? IF8 is my epoch-making advance in "
+"arcade machine technology!"
+msgstr ""
+
+msgctxt "468_Minamida"
+msgid ""
+"However, it's not quite finished yet. We're currently testing the "
+"microtransceiver's remote communication functionality."
+msgstr ""
+
+msgctxt "480_Minamida"
+msgid ""
+"And that's why we're looking for someone to play. It's the only way we'll "
+"get the test data we need, but we haven't had much luck."
+msgstr ""
+
+msgctxt "492_Minamida"
+msgid "We'd love for you to give it a try. What do you say?"
+msgstr ""
+
+msgctxt "504_Kiryu"
+msgid "Like I said, I'm busy now."
+msgstr ""
+
+msgctxt "516_Minamida's Assistant"
+msgid "Then how about when you do have some time? Please! We need your help!"
+msgstr ""
+
+msgctxt "528_Minamida"
+msgid "Any time is fine. We'll be here whenever you're prepared."
+msgstr ""
+
+msgctxt "600_Player"
+msgid "(I'll come back when I'm alone.)"
+msgstr ""
+
+msgctxt "624_Mysterious Old Man"
+msgid "Care to play? It'll only cost you 100,000 yen."
+msgstr ""
+
+msgctxt "636_Man"
+msgid ""
+"Who in their right mind would pay that much for something they know nothing "
+"about!?"
+msgstr ""
+
+msgctxt "648_Man in Lab Coat"
+msgid "No, wait!"
+msgstr ""
+
+msgctxt "660_Man in Lab Coat"
+msgid ""
+"Darn, lost another one. We'll never be able to run our test like this, "
+"doctor."
+msgstr ""
+
+msgctxt "672_Mysterious Old Man"
+msgid ""
+"Epoch-making inventions are seldom understood by lesser minds. Ah! You, "
+"there!"
+msgstr ""
+
+msgctxt "684_Kiryu"
+msgid "Are you talking to me?"
+msgstr ""
+
+msgctxt "696_Mysterious Old Man"
+msgid "Would you like to play a－Wait a second. I know you. You're, um..."
+msgstr ""
+
+msgctxt "708_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "720_Mysterious Old Man"
+msgid ""
+"Er... Who are you again? I'm afraid I've become rather forgetful in my old "
+"age."
+msgstr ""
+
+msgctxt "732_Kiryu"
+msgid "Sorry, but I don't know you."
+msgstr ""
+
+msgctxt "744_Mysterious Old Man"
+msgid "Hmm... Is that so? Well, my mistake."
+msgstr ""
+
+msgctxt "756_Mysterious Old Man"
+msgid ""
+"It's just that you bear a striking resemblance to a man who aided me in the "
+"past."
+msgstr ""
+
+msgctxt "768_Kiryu"
+msgid "Fascinating. Well, I have to go."
+msgstr ""
+
+msgctxt "780_Man in Lab Coat"
+msgid "No, please! Wait!"
+msgstr ""
+
+msgctxt "792_Kiryu"
+msgid "What do you want now?"
+msgstr ""
+
+msgctxt "804_Man in Lab Coat"
+msgid ""
+"We're looking for someone to playtest our newly developed game system. "
+"Please, won't you consider giving it a try?"
+msgstr ""
+
+msgctxt "816_Kiryu"
+msgid "Sorry, but I'm busy."
+msgstr ""
+
+msgctxt "828_Man in Lab Coat"
+msgid ""
+"Aw, please, don't be like that! This is Doctor Minamida, and I'm his "
+"assistant."
+msgstr ""
+
+msgctxt "840_Minamida"
+msgid ""
+"This is the culmination of years of work: the newest version of my Inner "
+"Fighter arcade machine!"
+msgstr ""
+
+msgctxt "852_Kiryu"
+msgid "Inner Fighter?"
+msgstr ""
+
+msgctxt "864_Minamida"
+msgid ""
+"It's my brand new game machine, my boy! It uses special electromagnetic "
+"waves to let you experience realistic fights within your very mind!"
+msgstr ""
+
+msgctxt "876_Minamida"
+msgid ""
+"I present to you the latest Inner Fighter! I call it Inner Fighter 8: Road "
+"Battle, or IF8 for short!"
+msgstr ""
+
+msgctxt "888_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "900_Kiryu"
+msgid "Is it invisible or something?"
+msgstr ""
+
+msgctxt "912_Minamida's Assistant"
+msgid "No, look. It's right here!"
+msgstr ""
+
+msgctxt "924_Minamida"
+msgid ""
+"IF8 uses this microtransceiver to communicate in realtime with the main "
+"unit back at my lab."
+msgstr ""
+
+msgctxt "936_Minamida"
+msgid "And that means you can play the game from anywhere in the world."
+msgstr ""
+
+msgctxt "948_Kiryu"
+msgid "Right... Should I be impressed?"
+msgstr ""
+
+msgctxt "960_Minamida"
+msgid ""
+"Yes! Don't you know what that means!? IF8 is my epoch-making advance in "
+"arcade machine technology!"
+msgstr ""
+
+msgctxt "972_Minamida"
+msgid ""
+"However, it's not quite finished yet. We're currently testing the "
+"microtransceiver's remote communication functionality."
+msgstr ""
+
+msgctxt "984_Minamida"
+msgid ""
+"And that's why we're looking for someone to play. It's the only way we'll "
+"get the test data we need, but we haven't had much luck."
+msgstr ""
+
+msgctxt "996_Minamida"
+msgid "We'd love for you to give it a try. What do you say?"
+msgstr ""
+
+msgctxt "1008_Kiryu"
+msgid "Like I said, I'm busy now."
+msgstr ""
+
+msgctxt "1020_Minamida's Assistant"
+msgid "Then how about when you do have some time? Please! We need your help!"
+msgstr ""
+
+msgctxt "1032_Minamida"
+msgid "Any time is fine. We'll be here whenever you're prepared."
+msgstr ""
+
+msgctxt "1044_Minamida"
+msgid "Oh, marvelous! You came back! Are you ready to play IF8?"
+msgstr ""
+
+msgctxt "1068_Minamida"
+msgid "So good to see you again. Would you like to play IF8?"
+msgstr ""
+
+msgctxt "1080_Minamida"
+msgid "So good to see you again. Would you like to play IF8?"
+msgstr ""
+
+msgctxt "1092_Minamida"
+msgid "So good to see you again. Would you like to play IF8?"
+msgstr ""
+
+msgctxt "1104_Minamida"
+msgid "All right, I'll explain to you how to play."
+msgstr ""
+
+msgctxt "1116_Minamida"
+msgid ""
+"IF8 allows you to play what I like to call \"road battles\" in which you "
+"stroll through a town fighting enemies until you reach their boss."
+msgstr ""
+
+msgctxt "1128_Minamida"
+msgid "Beat the boss, and you earn an ability boost."
+msgstr ""
+
+msgctxt "1140_Minamida"
+msgid ""
+"I only have data for one town right now, but we're busy collecting data for "
+"others."
+msgstr ""
+
+msgctxt "1152_Minamida"
+msgid ""
+"All we need is a little more, and you'll be able to play in other towns. "
+"You'll have to be patient until then."
+msgstr ""
+
+msgctxt "1164_Minamida"
+msgid ""
+"Finally, it'll be 10,000 yen to play. And that's with a special discount "
+"just for you!"
+msgstr ""
+
+msgctxt "1176_Minamida"
+msgid "Well, care to play?"
+msgstr ""
+
+msgctxt "1200_Minamida"
+msgid "Wonderful. Now select the stage you'd like to play."
+msgstr ""
+
+msgctxt "1212_Minamida"
+msgid "Nagasugai? All right, that will be 10,000 yen."
+msgstr ""
+
+msgctxt "1224_Minamida"
+msgid "Let the road battle commence!"
+msgstr ""
+
+msgctxt "1248_Minamida"
+msgid "Kamurocho? All right, that will be 10,000 yen."
+msgstr ""
+
+msgctxt "1260_Minamida"
+msgid "Let the road battle commence!"
+msgstr ""
+
+msgctxt "1284_Minamida"
+msgid ""
+"It appears you're a little low on funds. Running the machine is expensive, "
+"so I'm afraid I'll have to ask you to come back when you can pay."
+msgstr ""
+
+msgctxt "1308_Minamida"
+msgid ""
+"IF8 development is quite expensive. Would you like to invest in its "
+"completion?"
+msgstr ""
+
+msgctxt "1332_Minamida"
+msgid "Why thank you! We can use all the help we can get."
+msgstr ""
+
+msgctxt "1356_Minamida"
+msgid "Our total investments have reached %s. How much would you like to invest?"
+msgstr ""
+
+msgctxt "1380_Minamida"
+msgid ""
+"This should be enough to upgrade IF8 to the latest version I've been "
+"working on."
+msgstr ""
+
+msgctxt "1392_Minamida"
+msgid "Just one moment, please."
+msgstr ""
+
+msgctxt "1452_Minamida"
+msgid "And... done! IF8 is now upgraded to version 1.1!"
+msgstr ""
+
+msgctxt "1464_Minamida"
+msgid "The Kamurocho stage is now playable thanks to the upgrade."
+msgstr ""
+
+msgctxt "1476_Minamida"
+msgid "I hope you'll try it sometime. Well, until we meet again."
+msgstr ""
+
+msgctxt "1500_Minamida"
+msgid "Your cooperation is greatly appreciated. Total investments now stand at %s."
+msgstr ""
+
+msgctxt "1512_Minamida"
+msgid "Once we reach 100,000 yen, I'll be able to add a new stage for you to play."
+msgstr ""
+
+msgctxt "1524_Minamida"
+msgid "I trust you'll make the necessary investment."
+msgstr ""
+
+msgctxt "1536_Minamida"
+msgid "Our total investments have reached %s. How much would you like to invest?"
+msgstr ""
+
+msgctxt "1560_Minamida"
+msgid "I think this is enough to upgrade IF8 to our latest version."
+msgstr ""
+
+msgctxt "1572_Minamida"
+msgid "Just one moment, please."
+msgstr ""
+
+msgctxt "1632_Minamida"
+msgid "And... done! IF8 is now upgraded to version 1.2!"
+msgstr ""
+
+msgctxt "1644_Minamida"
+msgid "In version 1.2, you can earn Soul Orbs by completing a stage."
+msgstr ""
+
+msgctxt "1656_Minamida"
+msgid "But! You must complete the same stage a number of times. Give it a try!"
+msgstr ""
+
+msgctxt "1668_Minamida"
+msgid ""
+"Oh, and this is the final upgrade, so there's no need for any more "
+"investments. Thank you for all your help."
+msgstr ""
+
+msgctxt "1692_Minamida"
+msgid "Your cooperation is greatly appreciated. Total investments now stand at %s."
+msgstr ""
+
+msgctxt "1704_Minamida"
+msgid "With 200,000 yen, I could add new features."
+msgstr ""
+
+msgctxt "1716_Minamida"
+msgid "I trust you'll make the necessary investment."
+msgstr ""
+
+msgctxt "1728_Minamida"
+msgid ""
+"Hm, you're broke? Well, I'm far too busy to be dealing with looky-loos. "
+"Good day."
+msgstr ""
+
+msgctxt "1740_Minamida"
+msgid "This is the final version, so there will be no more updates."
+msgstr ""
+
+msgctxt "1752_Minamida"
+msgid "Oh, very well then. I'll be here in case you feel like playing later."
+msgstr ""
+
+msgctxt "1788_Minamida"
+msgid "Come again soon. I'll be waiting for you."
+msgstr ""
+
+msgctxt "1812_Kiryu"
+msgid "Where'd your assistant go?"
+msgstr ""
+
+msgctxt "1824_Minamida"
+msgid ""
+"I sent him off to do some work in another town. I'm hoping he'll be able to "
+"get the data I need."
+msgstr ""
+
+msgctxt "1836_Minamida"
+msgid ""
+"You'll be able play IF8 there too if you run into him. It's an opportunity "
+"you won't want to miss."
+msgstr ""
+
+msgctxt "1848_Minamida"
+msgid ""
+"You don't want to invest? Well, I'm far too busy to be dealing with "
+"looky-loos. Good day."
+msgstr ""
+
+msgctxt "1860_Minamida"
+msgid "Oh, what a shame. It seems you've been defeated."
+msgstr ""
+
+msgctxt "1872_Minamida"
+msgid "Well, try again when you're ready."
+msgstr ""
+
+msgctxt "1932_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr ""
+
+msgctxt "1944_Minamida"
+msgid ""
+"You seem to have enhanced an ability. This should give us some excellent "
+"data."
+msgstr ""
+
+msgctxt "1968_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr ""
+
+msgctxt "1980_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr ""
+
+msgctxt "1992_Minamida"
+msgid "You've earned a Soul Orb thanks to the new version I built."
+msgstr ""
+
+msgctxt "2016_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr ""
+
+msgctxt "2028_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr ""
+
+msgctxt "2040_Minamida"
+msgid ""
+"Your abilities can't be enhanced any further. Here's a prize for your "
+"trouble instead."
+msgstr ""
+
+msgctxt "2052_Minamida"
+msgid ""
+"This version of IF8 can't raise your abilities any further. Here's a prize "
+"for your trouble instead."
+msgstr ""
+
+msgctxt "2172_Mysterious Old Man"
+msgid "You got <Color:8>Snowman Hammer<Color:Default>."
+msgstr ""
+
+msgctxt "2208_Mysterious Old Man"
+msgid "You got <Color:8>Gravity Converter<Color:Default>."
+msgstr ""
+
+msgctxt "2244_Mysterious Old Man"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr ""
+
+msgctxt "2280_Mysterious Old Man"
+msgid "You got <Color:8>Mystery Liquid<Color:Default>."
+msgstr ""
+
+msgctxt "2316_Mysterious Old Man"
+msgid "You got <Color:8>Small Motor<Color:Default>."
+msgstr ""
+
+msgctxt "2352_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr ""
+
+msgctxt "2412_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr ""
+
+msgctxt "2424_Minamida"
+msgid ""
+"You seem to have enhanced an ability. This should give us some excellent "
+"data."
+msgstr ""
+
+msgctxt "2448_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr ""
+
+msgctxt "2460_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr ""
+
+msgctxt "2472_Minamida"
+msgid "You've earned a Soul Orb thanks to the new version I built."
+msgstr ""
+
+msgctxt "2496_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr ""
+
+msgctxt "2508_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr ""
+
+msgctxt "2520_Minamida"
+msgid ""
+"Your abilities can't be enhanced any further. Here's a prize for your "
+"trouble instead."
+msgstr ""
+
+msgctxt "2532_Minamida"
+msgid ""
+"This version of IF8 can't raise your abilities any further. Here's a prize "
+"for your trouble instead."
+msgstr ""
+
+msgctxt "2652_Mysterious Old Man"
+msgid "You got <Color:8>Snowman Hammer<Color:Default>."
+msgstr ""
+
+msgctxt "2688_Mysterious Old Man"
+msgid "You got <Color:8>Gravity Converter<Color:Default>."
+msgstr ""
+
+msgctxt "2724_Mysterious Old Man"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr ""
+
+msgctxt "2760_Mysterious Old Man"
+msgid "You got <Color:8>Mystery Liquid<Color:Default>."
+msgstr ""
+
+msgctxt "2796_Mysterious Old Man"
+msgid "You got <Color:8>Small Motor<Color:Default>."
+msgstr ""
+
+msgctxt "2832_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr ""

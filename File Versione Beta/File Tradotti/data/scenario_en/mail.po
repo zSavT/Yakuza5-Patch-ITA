@@ -1,0 +1,6631 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-25\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1"
+msgid ""
+msgstr ""
+
+msgctxt "2"
+msgid ""
+msgstr ""
+
+msgctxt "3"
+msgid ""
+msgstr ""
+
+msgctxt "4"
+msgid ""
+msgstr ""
+
+msgctxt "5"
+msgid ""
+msgstr ""
+
+msgctxt "6"
+msgid ""
+msgstr ""
+
+msgctxt "7"
+msgid "�"
+msgstr "�"
+
+msgctxt "8"
+msgid ""
+msgstr ""
+
+msgctxt "9"
+msgid ""
+msgstr ""
+
+msgctxt "10"
+msgid ""
+msgstr ""
+
+msgctxt "11"
+msgid ""
+msgstr ""
+
+msgctxt "12"
+msgid ""
+msgstr ""
+
+msgctxt "13"
+msgid ""
+msgstr ""
+
+msgctxt "14"
+msgid ""
+msgstr ""
+
+msgctxt "15"
+msgid ""
+msgstr ""
+
+msgctxt "16"
+msgid ""
+msgstr ""
+
+msgctxt "17"
+msgid ""
+msgstr ""
+
+msgctxt "18"
+msgid "P|"
+msgstr "P|"
+
+msgctxt "19"
+msgid "|"
+msgstr "|"
+
+msgctxt "20"
+msgid ""
+msgstr ""
+
+msgctxt "21"
+msgid ""
+msgstr ""
+
+msgctxt "22"
+msgid "P�"
+msgstr "P�"
+
+msgctxt "23"
+msgid "�"
+msgstr "�"
+
+msgctxt "20604"
+msgid "TEST"
+msgstr "TEST"
+
+msgctxt "20609"
+msgid "test"
+msgstr "test"
+
+msgctxt "20614"
+msgid "test1"
+msgstr "test1"
+
+msgctxt "20620"
+msgid "test2"
+msgstr "test2"
+
+msgctxt "20626"
+msgid "Yuya"
+msgstr "Yuya"
+
+msgctxt "20631"
+msgid "Yuya here."
+msgstr "Qui Yuya."
+
+msgctxt "20642"
+msgid "SUB_A08_ユウヤのメールを見る"
+msgstr "SUB_A08_ユウヤのメールを見る"
+
+msgctxt "20681"
+msgid "Sorry about the other day."
+msgstr "Scusa per l'altro giorno."
+
+msgctxt "20708"
+msgid "I looked all over for work"
+msgstr "Ho cercato lavoro dappertutto"
+
+msgctxt "20735"
+msgid "and ended up getting a gig"
+msgstr "e ha finito per beccare un lavoretto"
+
+msgctxt "20762"
+msgid "as a live-in waiter at a"
+msgstr "come cameriere convivente in un"
+
+msgctxt "20787"
+msgid "hostess club. The place is"
+msgstr "hostess club. Il locale è"
+
+msgctxt "20814"
+msgid "called La Seine. I'm going"
+msgstr "chiamato La Seine. Sto andando"
+
+msgctxt "20841"
+msgid "to try starting over in this"
+msgstr "provare a ricominciare in questo"
+
+msgctxt "20870"
+msgid "town, too!"
+msgstr "Pure in città!"
+
+msgctxt "20881"
+msgid "Morning Glory"
+msgstr "Morning Glory"
+
+msgctxt "20895"
+msgid "It's Ayako."
+msgstr "Sono Ayako."
+
+msgctxt "20907"
+msgid "SUB_C01_メールを確認した１"
+msgstr "SUB_C01_メールを確認した１"
+
+msgctxt "20943"
+msgid "Thanks for the money,"
+msgstr "Grazie per i soldi,"
+
+msgctxt "20965"
+msgid "Haruka. Don't overdo it,"
+msgstr "Haruka. Non strafare,"
+
+msgctxt "20990"
+msgid "okay? We saw you on TV"
+msgstr "Ok? Ti abbiamo visto in TV"
+
+msgctxt "21013"
+msgid "the other day! All of us at"
+msgstr "l'altro giorno! Tutti noi di"
+
+msgctxt "21041"
+msgid "Morning Glory were thrilled."
+msgstr "Morning Glory erano entusiasti."
+
+msgctxt "21070"
+msgid "SUB_C01_メールを確認した２"
+msgstr "SUB_C01_メールを確認した２"
+
+msgctxt "21106"
+msgid "Thanks, but we're fine! "
+msgstr "Grazie, ma stiamo bene!"
+
+msgctxt "21131"
+msgid "We're as happy as ever"
+msgstr "Siamo felici come sempre"
+
+msgctxt "21154"
+msgid "here. How about you?"
+msgstr "qui. E tu?"
+
+msgctxt "21175"
+msgid "Want us to send you some"
+msgstr "Vuoi che te ne mandiamo?"
+
+msgctxt "21200"
+msgid "goya?"
+msgstr "Melone amaro?"
+
+msgctxt "21206"
+msgid "Ayako here."
+msgstr "Sono Ayako."
+
+msgctxt "21218"
+msgid "SUB_C01_メールを確認した３"
+msgstr "SUB_C01_メールを確認した３"
+
+msgctxt "21254"
+msgid "Is that interview the"
+msgstr "È quell'intervista la"
+
+msgctxt "21276"
+msgid "one where you answer"
+msgstr "uno in cui rispondi"
+
+msgctxt "21297"
+msgid "questions from readers?"
+msgstr "domande dai lettori?"
+
+msgctxt "21321"
+msgid "Make sure you do a"
+msgstr "Assicurati di fare un"
+
+msgctxt "21340"
+msgid "good job!"
+msgstr "Bravo!"
+
+msgctxt "21350"
+msgid "Information Dealer"
+msgstr "Informatore"
+
+msgctxt "21369"
+msgid "New developments"
+msgstr "Nuovi sviluppi"
+
+msgctxt "21386"
+msgid "SUB_D02_メールを確認した"
+msgstr "SUB_D02_メールを確認した"
+
+msgctxt "21419"
+msgid "The name Akihiko Yamori was"
+msgstr "Il nome Akihiko Yamori era"
+
+msgctxt "21447"
+msgid "added to the blacklist by"
+msgstr "aggiunto alla lista nera da"
+
+msgctxt "21473"
+msgid "the Kansai credit ratings"
+msgstr "i rating di credito del Kansai"
+
+msgctxt "21499"
+msgid "board."
+msgstr "bacheca."
+
+msgctxt "21506"
+msgid "The past few days, it looks"
+msgstr "Negli ultimi giorni, sembra"
+
+msgctxt "21534"
+msgid "like he went to see a number"
+msgstr "tipo che è andato a vedersi una"
+
+msgctxt "21563"
+msgid "of moneylenders in Osaka"
+msgstr "di strozzini a Osaka"
+
+msgctxt "21588"
+msgid "but got turned away by all."
+msgstr "ma è stato respinto da tutti."
+
+msgctxt "21616"
+msgid "Mack"
+msgstr "Mack"
+
+msgctxt "21621"
+msgid "Forgot to tell you!"
+msgstr "Dimenticavo di dirti!"
+
+msgctxt "21641"
+msgid "Kiryu-san! I forgot to tell you"
+msgstr "Kiryu-san! Mi sono dimenticato di dirti"
+
+msgctxt "21673"
+msgid "something important!"
+msgstr "qualcosa di importante!"
+
+msgctxt "21694"
+msgid "If you take a perfect shot,"
+msgstr "Se fai un colpo perfetto,"
+
+msgctxt "21722"
+msgid "I want you to upload it to"
+msgstr "Voglio che tu lo carichi su"
+
+msgctxt "21749"
+msgid "an image site I made!"
+msgstr "un sito di immagini che ho creato!"
+
+msgctxt "21771"
+msgid "I can't wait to see what you"
+msgstr "Non vedo l'ora di vedere cosa tu"
+
+msgctxt "21800"
+msgid "come up with!"
+msgstr "Che ti sei inventato!"
+
+msgctxt "21814"
+msgid "Riku"
+msgstr "Riku"
+
+msgctxt "21819"
+msgid "I love you<Sign:1>"
+msgstr "Ti amo<Sign:1>"
+
+msgctxt "21838"
+msgid "2d_mr_m_riku"
+msgstr "2d_mr_m_riku"
+
+msgctxt "21851"
+msgid "Thanks a lot for today,"
+msgstr "Grazie mille per oggi,"
+
+msgctxt "21875"
+msgid "Kiryu-san. <Sign:43>"
+msgstr "Kiryu-san. <Sign:43>"
+
+msgctxt "21896"
+msgid "I'm glad that all got sorted"
+msgstr "Sono contento che si sia sistemato tutto"
+
+msgctxt "21925"
+msgid "out before it got out of control. <Sign:9>"
+msgstr "prima che la situazione degenerasse. <Sign:9>"
+
+msgctxt "21968"
+msgid "I'll bring you some homemade"
+msgstr "Ti porterò del fatto in casa"
+
+msgctxt "21997"
+msgid "cooking sometime. I hope"
+msgstr "cucinare prima o poi. Spero"
+
+msgctxt "22022"
+msgid "you'll try it. <Sign:4>"
+msgstr "Ci proverai. <Sign:4>"
+
+msgctxt "22046"
+msgid "This is Riku"
+msgstr "Sono Riku"
+
+msgctxt "22059"
+msgid "I should reply to her email. Hmm..."
+msgstr "Dovrei rispondere alla sua email. Hmm..."
+
+msgctxt "22095"
+msgid "I'll definitely stop by again."
+msgstr "Ci farò sicuramente un salto."
+
+msgctxt "22126"
+msgid "When are you in next?"
+msgstr "Quando ci sei la prossima volta?"
+
+msgctxt "22148"
+msgid "I like you."
+msgstr "Mi piaci."
+
+msgctxt "22160"
+msgid "CABA_永洲街_メール１終了"
+msgstr "CABA_永洲街_メール１終了"
+
+msgctxt "22194"
+msgid "CABA_永洲街_メール１－１正解"
+msgstr "CABA_永洲街_メール１－１正解"
+
+msgctxt "22234"
+msgid "キャバクラ_りく_メール起動タイマー"
+msgstr "キャバクラ_りく_メール起動タイマー"
+
+msgctxt "22285"
+msgid "I appreciate you coming to"
+msgstr "Apprezzo che tu sia venuto a"
+
+msgctxt "22312"
+msgid "see me today! <Sign:3>"
+msgstr "Vediamoci oggi! <Sign:3>"
+
+msgctxt "22335"
+msgid "It sounds like you're pretty"
+msgstr "Sembra che tu sia piuttosto"
+
+msgctxt "22364"
+msgid "busy with work, but I hope"
+msgstr "impegnato col lavoro, ma spero"
+
+msgctxt "22391"
+msgid "you'll stop by sometime. <Sign:0>"
+msgstr "Farai un salto prima o poi. <Sign:0>"
+
+msgctxt "22425"
+msgid "Re:Re: This is Riku"
+msgstr "Re:Re: Sono Riku"
+
+msgctxt "22445"
+msgid "I should reply to her e-mail. Hmm..."
+msgstr "Dovrei rispondere alla sua e-mail. Hmm..."
+
+msgctxt "22482"
+msgid "I'm on my way."
+msgstr "Sto arrivando."
+
+msgctxt "22497"
+msgid "I should surprise her by going unannounced."
+msgstr "Dovrei farle una sorpresa presentandomi senza preavviso."
+
+msgctxt "22541"
+msgid "OK."
+msgstr "Va bene."
+
+msgctxt "22545"
+msgid "CABA_永洲街_メール１－２正解"
+msgstr "CABA_永洲街_メール１－２正解"
+
+msgctxt "22585"
+msgid "I'll be in all week!"
+msgstr "Sarò qui tutta la settimana!"
+
+msgctxt "22606"
+msgid "If you can come, let me know in"
+msgstr "Se puoi venire, fammi sapere in"
+
+msgctxt "22638"
+msgid "advance, okay? <Sign:1>"
+msgstr "Vado avanti, ok? <Sign:1>"
+
+msgctxt "22662"
+msgid "Hope to see you at the club,"
+msgstr "Spero di vederti al club,"
+
+msgctxt "22691"
+msgid "then."
+msgstr "allora."
+
+msgctxt "22697"
+msgid "Got it!"
+msgstr "Capito!"
+
+msgctxt "22705"
+msgid "Okay, I'll be waiting for"
+msgstr "Ok, aspetterò."
+
+msgctxt "22731"
+msgid "you. <Sign:30>"
+msgstr "Tu. <Sign:30>"
+
+msgctxt "22746"
+msgid "It's pretty packed today, so"
+msgstr "Oggi è piuttosto affollato, quindi"
+
+msgctxt "22775"
+msgid "come early if you can. <Sign:43>"
+msgstr "vieni prima se puoi. <Sign:43>"
+
+msgctxt "22808"
+msgid "Hi from Riku"
+msgstr "Ciao da Riku"
+
+msgctxt "22821"
+msgid "I'll stop by again soon."
+msgstr "Passerò di nuovo presto."
+
+msgctxt "22846"
+msgid "I don't like selfish women."
+msgstr "Non mi piacciono le donne egoiste."
+
+msgctxt "22874"
+msgid "You're making a lot of typos."
+msgstr "Stai facendo un sacco di refusi."
+
+msgctxt "22904"
+msgid "CABA_永洲街_メール２終了"
+msgstr "CABA_永洲街_メール２終了"
+
+msgctxt "22938"
+msgid "CABA_永洲街_メール２－１正解"
+msgstr "CABA_永洲街_メール２－１正解"
+
+msgctxt "22978"
+msgid "Whenver you come see mee,"
+msgstr "Ogni volta che vieni a trovarmi,"
+
+msgctxt "23004"
+msgid "time seem to fly by,"
+msgstr "Il tempo sembra volare,"
+
+msgctxt "23025"
+msgid "you kno? <Sign:11>"
+msgstr "sai? <Sign:11>"
+
+msgctxt "23044"
+msgid "There are tons of stuffs I"
+msgstr "Ci sono un sacco di cose che io"
+
+msgctxt "23071"
+msgid "want to talk about, but I"
+msgstr "di cui voglio parlare, ma io"
+
+msgctxt "23097"
+msgid "don't want to hog your time."
+msgstr "Non voglio rubarti tempo."
+
+msgctxt "23126"
+msgid "See you a round. <Sign:40>"
+msgstr "Ci si vede in giro. <Sign:40>"
+
+msgctxt "23153"
+msgid "Sorry"
+msgstr "Scusa"
+
+msgctxt "23159"
+msgid "You're working too much."
+msgstr "Lavori troppo."
+
+msgctxt "23184"
+msgid "You drunk?"
+msgstr "Sei ubriaco?"
+
+msgctxt "23195"
+msgid "Happens to me too."
+msgstr "Succede anche a me."
+
+msgctxt "23214"
+msgid "CABA_永洲街_メール２－２正解"
+msgstr "CABA_永洲街_メール２－２正解"
+
+msgctxt "23254"
+msgid "Dunno why, but I'm real"
+msgstr "Non so perché, ma sono vero"
+
+msgctxt "23278"
+msgid "sleepy... "
+msgstr "Ho sonno..."
+
+msgctxt "23289"
+msgid "The auto correct on my phone"
+msgstr "Il correttore automatico sul mio telefono"
+
+msgctxt "23318"
+msgid "is playing up, so the email"
+msgstr "sta facendo i capricci, quindi l'email"
+
+msgctxt "23346"
+msgid "got all weird... <Sign:19>"
+msgstr "è diventato tutto strano... <Sign:19>"
+
+msgctxt "23373"
+msgid "I know, I shouldn't blame my"
+msgstr "Lo so, non dovrei dare la colpa al mio"
+
+msgctxt "23402"
+msgid "phone. I'll be more careful. <Sign:5>"
+msgstr "telefono. Starò più attento. <Sign:5>"
+
+msgctxt "23440"
+msgid "Re: Don't worry about it"
+msgstr "Re: Non preoccuparti"
+
+msgctxt "23465"
+msgid "Yeah? I never knew you had"
+msgstr "Ah, sì? Non sapevo avessi"
+
+msgctxt "23492"
+msgid "a goofy side, Kiryu-san. <Sign:3>"
+msgstr "un lato buffo, Kiryu-san. <Sign:3>"
+
+msgctxt "23526"
+msgid " "
+msgstr " "
+
+msgctxt "23528"
+msgid "Now you've got me curious."
+msgstr "Adesso mi hai incuriosito."
+
+msgctxt "23555"
+msgid "I want to see that kind of"
+msgstr "Voglio vedere quel tipo di"
+
+msgctxt "23582"
+msgid "email from you, too. <Sign:30>"
+msgstr "Anche una mail da parte tua. <Sign:30>"
+
+msgctxt "23613"
+msgid "Keep emailing me, okay? <Sign:26>"
+msgstr "Continua a scrivermi, ok? <Sign:26>"
+
+msgctxt "23647"
+msgid "I'm here for you!"
+msgstr "Sono qui per te!"
+
+msgctxt "23665"
+msgid "Guess your phone bill's gonna be a problem too."
+msgstr "Immagino che pure la bolletta del telefono sarà un problema."
+
+msgctxt "23713"
+msgid "Nothing in particular right now."
+msgstr "Niente in particolare al momento."
+
+msgctxt "23746"
+msgid "I can't say it on the phone, so I'll tell you at the club."
+msgstr "Non posso dirtelo al telefono, quindi te lo dirò al club."
+
+msgctxt "23805"
+msgid "CABA_永洲街_メール３－１正解"
+msgstr "CABA_永洲街_メール３－１正解"
+
+msgctxt "23845"
+msgid "CABA_永洲街_メール３終了"
+msgstr "CABA_永洲街_メール３終了"
+
+msgctxt "23879"
+msgid "My friend was just asking me"
+msgstr "Il mio amico mi stava giusto chiedendo"
+
+msgctxt "23908"
+msgid "for some advice on the"
+msgstr "per qualche consiglio sul"
+
+msgctxt "23931"
+msgid "phone. It took so long, my"
+msgstr "telefono. Ci è voluto così tanto, il mio"
+
+msgctxt "23958"
+msgid "battery's almost dead!"
+msgstr "la batteria è quasi scarica!"
+
+msgctxt "23981"
+msgid "Do you have any problems?"
+msgstr "Hai qualche problema?"
+
+msgctxt "24007"
+msgid "I'm always happy to lend an"
+msgstr "Sono sempre felice di dare"
+
+msgctxt "24035"
+msgid "ear!"
+msgstr "Caro!"
+
+msgctxt "24040"
+msgid "Hehehe."
+msgstr "Ah ah ah."
+
+msgctxt "24048"
+msgid "For free? That's impressive."
+msgstr "Gratis? Forte!"
+
+msgctxt "24077"
+msgid "I'm surprised you don't get tired of that."
+msgstr "Mi sorprende che non ti stanchi mai di quello."
+
+msgctxt "24120"
+msgid "Account?"
+msgstr "Conto?"
+
+msgctxt "24129"
+msgid "CABA_永洲街_メール３－２正解"
+msgstr "CABA_永洲街_メール３－２正解"
+
+msgctxt "24169"
+msgid "It's okay, I use a VoIP"
+msgstr "Va bene, uso un VoIP"
+
+msgctxt "24193"
+msgid "phone service. <Sign:16>"
+msgstr "Servizio telefonico. <Sign:16>"
+
+msgctxt "24218"
+msgid "I can talk as long as I"
+msgstr "Posso parlare finché io"
+
+msgctxt "24242"
+msgid "want, and it's free. <Sign:48>"
+msgstr "vuoi, ed è gratis. <Sign:48>"
+
+msgctxt "24273"
+msgid "Haven't you signed up for"
+msgstr "Non ti sei ancora iscritto per"
+
+msgctxt "24299"
+msgid "one, Kiryu-san?"
+msgstr "uno, Kiryu-san?"
+
+msgctxt "24315"
+msgid "If you get an account, let"
+msgstr "Se ti fai un account, fai"
+
+msgctxt "24342"
+msgid "me know! <Sign:32>"
+msgstr "Lo so! <Sign:32>"
+
+msgctxt "24361"
+msgid "Re: ????"
+msgstr "Oggetto: ????"
+
+msgctxt "24370"
+msgid "No need for all those"
+msgstr "Non c'è bisogno di tutte quelle cose"
+
+msgctxt "24392"
+msgid "question marks. <Sign:19>"
+msgstr "punti interrogativi. <Sign:19>"
+
+msgctxt "24418"
+msgid "I guess you aren't that good"
+msgstr "Mi sa che non sei un granché"
+
+msgctxt "24447"
+msgid "with technology, huh? <Sign:41>"
+msgstr "con la tecnologia, eh? <Sign:41>"
+
+msgctxt "24479"
+msgid "If you spend a lot of time"
+msgstr "Se passi un sacco di tempo"
+
+msgctxt "24506"
+msgid "on the phone with someone,"
+msgstr "al telefono con qualcuno,"
+
+msgctxt "24533"
+msgid "you'll save a lot by using"
+msgstr "risparmierai un sacco usando"
+
+msgctxt "24560"
+msgid "a VoIP phone service!"
+msgstr "un servizio telefonico VoIP!"
+
+msgctxt "24582"
+msgid "Oops, my battery's on its"
+msgstr "Ops, la mia batteria sta per"
+
+msgctxt "24608"
+msgid "last legs. <Sign:25> Bye! <Sign:40>"
+msgstr "Sono agli sgoccioli. <Sign:25> Ciao! <Sign:40>"
+
+msgctxt "24644"
+msgid "Doing some cooking"
+msgstr "Sto cucinando"
+
+msgctxt "24663"
+msgid "I don't have a lot of time."
+msgstr "Non ho molto tempo."
+
+msgctxt "24691"
+msgid "I'll help taste test."
+msgstr "Darò una mano con l'assaggio."
+
+msgctxt "24713"
+msgid "Keep your eyes on the stove."
+msgstr "Resta concentrato."
+
+msgctxt "24742"
+msgid "CABA_永洲街_メール４終了"
+msgstr "CABA_永洲街_メール４終了"
+
+msgctxt "24776"
+msgid "CABA_永洲街_メール４－１正解"
+msgstr "CABA_永洲街_メール４－１正解"
+
+msgctxt "24816"
+msgid "I'm trying a new recipe.<Sign:12>"
+msgstr "Sto provando una nuova ricetta.<Sign:12>"
+
+msgctxt "24850"
+msgid "I have to leave it on "
+msgstr "Devo lasciarlo acceso."
+
+msgctxt "24873"
+msgid "boil a while, so thought I'd"
+msgstr "bollire per un po', quindi ho pensato di"
+
+msgctxt "24902"
+msgid "email you. <Sign:38>"
+msgstr "Ti mando un'email. <Sign:38>"
+
+msgctxt "24923"
+msgid "I can't wait to give it a"
+msgstr "Non vedo l'ora di dargli un"
+
+msgctxt "24949"
+msgid "taste. <Sign:35> Hehe."
+msgstr "gusto. <Sign:35> Hehe."
+
+msgctxt "24972"
+msgid "I'm bored, so can you"
+msgstr "Mi annoio, quindi puoi"
+
+msgctxt "24994"
+msgid "help me kill some time"
+msgstr "Aiutami ad ammazzare il tempo"
+
+msgctxt "25017"
+msgid "until it's ready? <Sign:30>"
+msgstr "finché non è pronto? <Sign:30>"
+
+msgctxt "25045"
+msgid "Re: Helping out"
+msgstr "Re: Dare una mano"
+
+msgctxt "25061"
+msgid "I'm looking forward to it."
+msgstr "Non vedo l'ora."
+
+msgctxt "25088"
+msgid "It's important to get the opinion of others."
+msgstr "È importante sentire il parere degli altri."
+
+msgctxt "25133"
+msgid "That's too bad."
+msgstr "Che peccato."
+
+msgctxt "25149"
+msgid "CABA_永洲街_メール４－２正解"
+msgstr "CABA_永洲街_メール４－２正解"
+
+msgctxt "25189"
+msgid "I'm still practicing, so no"
+msgstr "Sto ancora facendo pratica, quindi no"
+
+msgctxt "25217"
+msgid "tasting yet. <Sign:17>"
+msgstr "ancora da assaggiare. <Sign:17>"
+
+msgctxt "25240"
+msgid "I'm keeping it all to myself"
+msgstr "Me lo tengo tutto per me"
+
+msgctxt "25269"
+msgid "until it's good enough to"
+msgstr "finché non sarà abbastanza buono da"
+
+msgctxt "25295"
+msgid "serve up to someone.<Sign:4>"
+msgstr "servire a qualcuno.<Sign:4>"
+
+msgctxt "25324"
+msgid "But I will send you a pic"
+msgstr "Ma ti mando una foto"
+
+msgctxt "25350"
+msgid "when it's cooked. Will that"
+msgstr "quando è pronto. Va bene?"
+
+msgctxt "25378"
+msgid "do? <Sign:21>"
+msgstr "fare? <Sign:21>"
+
+msgctxt "25392"
+msgid "What a disaster..."
+msgstr "Che disastro..."
+
+msgctxt "25411"
+msgid "I've gone and ruined it... <Sign:19>"
+msgstr "Ho rovinato tutto... <Sign:19>"
+
+msgctxt "25448"
+msgid "I added too much sugar, so"
+msgstr "Ho messo troppo zucchero, quindi"
+
+msgctxt "25475"
+msgid "it's way too sweet. <Sign:49>"
+msgstr "È decisamente troppo dolce. <Sign:49>"
+
+msgctxt "25505"
+msgid "I couldn't even finish a"
+msgstr "Non sono riuscito nemmeno a finire un"
+
+msgctxt "25530"
+msgid "mouthful. What a bummer. <Sign:10>"
+msgstr "Bella storia. Che fregatura. <Sign:10>"
+
+msgctxt "25565"
+msgid "There won't be any pics. <Sign:12>"
+msgstr "Niente foto. <Sign:12>"
+
+msgctxt "25600"
+msgid "Sorry... <Sign:10>"
+msgstr "Scusa... <Sign:10>"
+
+msgctxt "25619"
+msgid "!!!"
+msgstr "!!!"
+
+msgctxt "25623"
+msgid "Don't use your phone while you're driving!"
+msgstr "Non usare il cellulare mentre guidi!"
+
+msgctxt "25666"
+msgid "Run!"
+msgstr "Corri!"
+
+msgctxt "25671"
+msgid "Want me to come pick you up?"
+msgstr "Vuoi che venga a prenderti?"
+
+msgctxt "25700"
+msgid "CABA_永洲街_メール５終了"
+msgstr "CABA_永洲街_メール５終了"
+
+msgctxt "25734"
+msgid "CABA_永洲街_メール５－１正解"
+msgstr "CABA_永洲街_メール５－１正解"
+
+msgctxt "25774"
+msgid "I'm in a rush, and I got"
+msgstr "Ho fretta, e ho"
+
+msgctxt "25799"
+msgid "stuck in a traffic jam!"
+msgstr "Imbottigliato nel traffico!"
+
+msgctxt "25823"
+msgid "Grr! <Sign:42>"
+msgstr "Grrr! <Sign:42>"
+
+msgctxt "25838"
+msgid "So much for leaving early so"
+msgstr "Addio all'idea di uscire presto, quindi"
+
+msgctxt "25867"
+msgid "I wouldn't be late! It's"
+msgstr "Non sarei in ritardo! È"
+
+msgctxt "25892"
+msgid "almost like the whole world"
+msgstr "quasi come il mondo intero"
+
+msgctxt "25920"
+msgid "is out to get me... <Sign:43>"
+msgstr "vuole farmi fuori... <Sign:43>"
+
+msgctxt "25950"
+msgid "Know any way around it? <Sign:30>"
+msgstr "Sai come aggirarlo? <Sign:30>"
+
+msgctxt "25984"
+msgid "Re:Re: !!!"
+msgstr "Re:Re: !!!"
+
+msgctxt "25995"
+msgid "You should give me extra service at the club in exchange."
+msgstr "Mi dovresti dare un servizio extra al club in cambio."
+
+msgctxt "26053"
+msgid "I'm not a handyman."
+msgstr "Non sono un tuttofare."
+
+msgctxt "26073"
+msgid "I don't need money."
+msgstr "Non ho bisogno di soldi."
+
+msgctxt "26093"
+msgid "CABA_永洲街_メール５－２正解"
+msgstr "CABA_永洲街_メール５－２正解"
+
+msgctxt "26133"
+msgid "The road is totally clogged,"
+msgstr "La strada è tutta intasata,"
+
+msgctxt "26162"
+msgid "so there's no point in coming!"
+msgstr "Allora è inutile venire!"
+
+msgctxt "26193"
+msgid "Still, I guess you taxi"
+msgstr "Comunque, immagino tu faccia il tassista"
+
+msgctxt "26217"
+msgid "drivers are good at weaving"
+msgstr "I guidatori sono bravi a zigzagare"
+
+msgctxt "26245"
+msgid "through traffic, huh? <Sign:43><Sign:41>"
+msgstr "attraverso il traffico, eh? <Sign:43><Sign:41>"
+
+msgctxt "26286"
+msgid "Give me a ride next time I'm"
+msgstr "Dammi un passaggio la prossima volta che sono"
+
+msgctxt "26315"
+msgid "in a rush. <Sign:33> Oh, and a"
+msgstr "di fretta. <Sign:33> Oh, e un"
+
+msgctxt "26346"
+msgid "discount, too. <Sign:0>"
+msgstr "anche uno sconto. <Sign:0>"
+
+msgctxt "26370"
+msgid "Okay!"
+msgstr "Ok!"
+
+msgctxt "26376"
+msgid "Now you're talking. <Sign:3>"
+msgstr "Adesso si ragiona. <Sign:3>"
+
+msgctxt "26405"
+msgid "But I guess that'd count as"
+msgstr "Ma immagino che si possa considerare come"
+
+msgctxt "26433"
+msgid "coming in with a client. <Sign:44>"
+msgstr "Arrivo con un cliente. <Sign:44>"
+
+msgctxt "26468"
+msgid "I wouldn't have to worry"
+msgstr "Non dovrei preoccuparmi"
+
+msgctxt "26493"
+msgid "about being late, so it'd"
+msgstr "per il ritardo, quindi sarebbe"
+
+msgctxt "26519"
+msgid "be fun to stop somewhere. <Sign:43>"
+msgstr "sarebbe bello fermarsi da qualche parte. <Sign:43>"
+
+msgctxt "26555"
+msgid "Hey, the traffic's moving. <Sign:12>"
+msgstr "Ehi, il traffico si sta muovendo. <Sign:12>"
+
+msgctxt "26592"
+msgid "I got stood up!"
+msgstr "Mi ha dato buca!"
+
+msgctxt "26608"
+msgid "Want me to come instead?"
+msgstr "Vuoi che venga io invece?"
+
+msgctxt "26633"
+msgid "I'm sure they had their reasons."
+msgstr "Sono sicuro che avevano le loro ragioni."
+
+msgctxt "26666"
+msgid "You can get mad at that."
+msgstr "Puoi prendertela per quello."
+
+msgctxt "26691"
+msgid "CABA_永洲街_メール６－１正解"
+msgstr "CABA_永洲街_メール６－１正解"
+
+msgctxt "26731"
+msgid "CABA_永洲街_メール６終了"
+msgstr "CABA_永洲街_メール６終了"
+
+msgctxt "26765"
+msgid "I came to meet a friend, but"
+msgstr "Sono venuto per incontrare un amico, ma"
+
+msgctxt "26794"
+msgid "they stood me up. <Sign:11>"
+msgstr "Mi hanno dato buca. <Sign:11>"
+
+msgctxt "26822"
+msgid "They could have at least"
+msgstr "Avrebbero potuto almeno"
+
+msgctxt "26847"
+msgid "called me ahead of time. <Sign:5>"
+msgstr "Mi ha chiamato in anticipo. <Sign:5>"
+
+msgctxt "26881"
+msgid "I'm already at the place we"
+msgstr "Sono già al posto dove ci"
+
+msgctxt "26909"
+msgid "were supposed to meet. <Sign:42>"
+msgstr "Dovevamo incontrarci. <Sign:42>"
+
+msgctxt "26942"
+msgid "I've got time on my hands,"
+msgstr "Ho tempo da perdere,"
+
+msgctxt "26969"
+msgid "so I'm having a coffee. <Sign:38>"
+msgstr "Allora, mi sto prendendo un caffè. <Sign:38>"
+
+msgctxt "27003"
+msgid "Re: Maybe we can meet"
+msgstr "Re: Magari potremmo vederci"
+
+msgctxt "27025"
+msgid "Cheer up."
+msgstr "Su con la vita."
+
+msgctxt "27035"
+msgid "You're not coming to the club today?"
+msgstr "Non vieni al club oggi?"
+
+msgctxt "27072"
+msgid "CABA_永洲街_メール６－２正解"
+msgstr "CABA_永洲街_メール６－２正解"
+
+msgctxt "27112"
+msgid "We were planning to go to"
+msgstr "Avevamo intenzione di andare a"
+
+msgctxt "27138"
+msgid "an all-you-can-eat dessert"
+msgstr "un dessert a volontà"
+
+msgctxt "27165"
+msgid "place for ladies only. <Sign:34>"
+msgstr "solo per signore. <Sign:34>"
+
+msgctxt "27198"
+msgid "I'm afraid you're not quite"
+msgstr "Temo che tu non sia proprio"
+
+msgctxt "27226"
+msgid "the target clientele. <Sign:7>"
+msgstr "la clientela di riferimento. <Sign:7>"
+
+msgctxt "27257"
+msgid "While I'm here, I might as"
+msgstr "Già che ci sono, potrei anche"
+
+msgctxt "27284"
+msgid "well do some shopping. <Sign:30>"
+msgstr "Beh, faremo un po' di shopping. <Sign:30>"
+
+msgctxt "27317"
+msgid "Re: About today"
+msgstr "R: A proposito di oggi"
+
+msgctxt "27333"
+msgid "Yeah, I'm off work today, so"
+msgstr "Sì, oggi non lavoro, quindi"
+
+msgctxt "27362"
+msgid "I wanted to go out with my friend. <Sign:34>"
+msgstr "Volevo uscire con il mio amico. <Sign:34>"
+
+msgctxt "27407"
+msgid "Were you planning on coming"
+msgstr "Avevi intenzione di venire?"
+
+msgctxt "27435"
+msgid "to the club?"
+msgstr "Al club?"
+
+msgctxt "27448"
+msgid "I could head in if you want."
+msgstr "Potrei passarci se vuoi."
+
+msgctxt "27477"
+msgid "It's not like I'm busy or"
+msgstr "Non è che io sia impegnato o"
+
+msgctxt "27503"
+msgid "anything. <Sign:21> It'd be"
+msgstr "Qualsiasi cosa. <Sign:21> Sarebbe"
+
+msgctxt "27531"
+msgid "more fun talking with you. <Sign:3>"
+msgstr "È più divertente parlare con te. <Sign:3>"
+
+msgctxt "27567"
+msgid "Okay, I'll go in to work"
+msgstr "Va bene, vado a lavorare."
+
+msgctxt "27592"
+msgid "after I finish my coffee. <Sign:43>"
+msgstr "dopo aver finito il mio caffè. <Sign:43>"
+
+msgctxt "27628"
+msgid "I'm at work now. <Sign:30>"
+msgstr "Ora sono al lavoro. <Sign:30>"
+
+msgctxt "27655"
+msgid "Stop by and see me. <Sign:1>"
+msgstr "Vieni a trovarmi. <Sign:1>"
+
+msgctxt "27684"
+msgid "You haven't been around"
+msgstr "È un po' che non ti si vede"
+
+msgctxt "27708"
+msgid "lately. Are you busy with"
+msgstr "ultimamente. Sei impegnato con"
+
+msgctxt "27734"
+msgid "work? I worry about you. <Sign:10>"
+msgstr "Lavoro? Mi preoccupo per te. <Sign:10>"
+
+msgctxt "27769"
+msgid "Don't overdo it, okay? <Sign:30>"
+msgstr "Non strafare, ok? <Sign:30>"
+
+msgctxt "27802"
+msgid "Kaguya"
+msgstr "Kaguya"
+
+msgctxt "27809"
+msgid "Thank you"
+msgstr "Grazie"
+
+msgctxt "27819"
+msgid "2d_mr_m_kaguya"
+msgstr "2d_mr_m_kaguya"
+
+msgctxt "27834"
+msgid "You taught me the importance"
+msgstr "Mi hai insegnato l'importanza"
+
+msgctxt "27863"
+msgid "of never giving up."
+msgstr "di non mollare mai."
+
+msgctxt "27883"
+msgid "I really hope I pass the"
+msgstr "Spero davvero di passare il"
+
+msgctxt "27908"
+msgid "audition."
+msgstr "provino."
+
+msgctxt "27918"
+msgid "I finally found what I want"
+msgstr "Finalmente ho trovato quello che voglio"
+
+msgctxt "27946"
+msgid "to do, so even if I don't"
+msgstr "da fare, quindi anche se non lo faccio"
+
+msgctxt "27972"
+msgid "pass, I think I'll have the"
+msgstr "Passo, penso che prenderò il"
+
+msgctxt "28000"
+msgid "will to carry on and give it"
+msgstr "volontà di andare avanti e darci dentro"
+
+msgctxt "28029"
+msgid "another try now."
+msgstr "Un altro tentativo adesso."
+
+msgctxt "28046"
+msgid "Anyway, I'm really glad I"
+msgstr "Comunque, sono davvero contento di"
+
+msgctxt "28072"
+msgid "met you, Saejima-san."
+msgstr "Ti ho incontrato, Saejima-san."
+
+msgctxt "28094"
+msgid "You're the greatest."
+msgstr "Sei il massimo."
+
+msgctxt "28115"
+msgid "I love you."
+msgstr "Ti amo."
+
+msgctxt "28127"
+msgid "(no subject)"
+msgstr "(nessun oggetto)"
+
+msgctxt "28140"
+msgid "That's nice of you to say."
+msgstr "È gentile da parte tua dirlo."
+
+msgctxt "28167"
+msgid "Yeah, just sit tight."
+msgstr "Sì, aspetta tranquillo."
+
+msgctxt "28189"
+msgid "Don't think I did anything worth thanking."
+msgstr "Non credo di aver fatto nulla per cui ringraziare."
+
+msgctxt "28232"
+msgid "CABA_月見野_メール１終了"
+msgstr "CABA_月見野_メール１終了"
+
+msgctxt "28266"
+msgid "CABA_月見野_メール１－１正解"
+msgstr "CABA_月見野_メール１－１正解"
+
+msgctxt "28306"
+msgid "キャバクラ_かぐや_メール起動タイマー"
+msgstr "キャバクラ_かぐや_メール起動タイマー"
+
+msgctxt "28360"
+msgid "Thanks for today."
+msgstr "Grazie per oggi."
+
+msgctxt "28378"
+msgid "Come and see me again when"
+msgstr "Rifatti vivo quando"
+
+msgctxt "28405"
+msgid "you get the chance."
+msgstr "quando ne hai l'occasione."
+
+msgctxt "28425"
+msgid "Re:"
+msgstr "Re:"
+
+msgctxt "28429"
+msgid "Who is this again?"
+msgstr "Chi sei di nuovo?"
+
+msgctxt "28448"
+msgid "Nope."
+msgstr "No."
+
+msgctxt "28454"
+msgid "This is Saejima."
+msgstr "Questo è Saejima."
+
+msgctxt "28471"
+msgid "CABA_月見野_メール１－２正解"
+msgstr "CABA_月見野_メール１－２正解"
+
+msgctxt "28511"
+msgid "Uh, this is your email"
+msgstr "Ehm, questa è la tua email"
+
+msgctxt "28534"
+msgid "address, right, Saejima-san?"
+msgstr "indirizzo, giusto, Saejima-san?"
+
+msgctxt "28563"
+msgid "Sorry if I've got the wrong person!"
+msgstr "Scusa se ho sbagliato persona!"
+
+msgctxt "28599"
+msgid "Re:Re:Re:"
+msgstr "Re:Re:Re:"
+
+msgctxt "28609"
+msgid "It's Kaguya from Rose Hip!"
+msgstr "Sono Kaguya da Rose Hip!"
+
+msgctxt "28636"
+msgid "Sorry, I forgot to write my"
+msgstr "Scusa, ho dimenticato di scrivere il mio"
+
+msgctxt "28664"
+msgid "name."
+msgstr "nome."
+
+msgctxt "28670"
+msgid "I haven't written an email in a while."
+msgstr "È da un po' che non scrivo un'email."
+
+msgctxt "28709"
+msgid "Enough about me! Hope to see"
+msgstr "Basta parlare di me! Spero di rivederti"
+
+msgctxt "28738"
+msgid "you at the club!"
+msgstr "Sei al club!"
+
+msgctxt "28755"
+msgid "You'll warm up if you exercise."
+msgstr "Ti scalderai se ti alleni."
+
+msgctxt "28787"
+msgid "Drink while looking out at the snow."
+msgstr "Bevi mentre guardi fuori la neve."
+
+msgctxt "28824"
+msgid "Try to tough it out."
+msgstr "Cerca di tenere duro."
+
+msgctxt "28845"
+msgid "CABA_月見野_メール２終了"
+msgstr "CABA_月見野_メール２終了"
+
+msgctxt "28879"
+msgid "CABA_月見野_メール２－１正解"
+msgstr "CABA_月見野_メール２－１正解"
+
+msgctxt "28919"
+msgid "The heater at my place seems"
+msgstr "Il riscaldamento a casa mia sembra"
+
+msgctxt "28948"
+msgid "to be broken..."
+msgstr "essere rotto..."
+
+msgctxt "28964"
+msgid "It was too cold, so I'm"
+msgstr "Faceva troppo freddo, quindi sono"
+
+msgctxt "28988"
+msgid "staying at the club until"
+msgstr "restare al club fino a"
+
+msgctxt "29014"
+msgid "the guy comes to fix it."
+msgstr "Il tizio viene a sistemarlo."
+
+msgctxt "29039"
+msgid "Nothing like a few drinks to"
+msgstr "Non c'è niente di meglio di qualche bicchiere per"
+
+msgctxt "29068"
+msgid "warm you up when it's cold! ♪"
+msgstr "warm you up when it's cold! ♪"
+
+msgctxt "29100"
+msgid "Wanna hit up the hot springs?"
+msgstr "Ti va di fare un salto alle terme?"
+
+msgctxt "29130"
+msgid "But the whole point is because it's cold."
+msgstr "Ma il bello è proprio che fa freddo."
+
+msgctxt "29172"
+msgid "Then how about drinking while moon viewing?"
+msgstr "Allora, che ne dici di berci qualcosa ammirando la luna?"
+
+msgctxt "29216"
+msgid "CABA_月見野_メール２－２正解"
+msgstr "CABA_月見野_メール２－２正解"
+
+msgctxt "29256"
+msgid "While looking out at the"
+msgstr "Mentre guardavo fuori"
+
+msgctxt "29281"
+msgid "snow? I'd like to try that! ♪"
+msgstr "snow? I'd like to try that! ♪"
+
+msgctxt "29313"
+msgid "But right now, it's far too"
+msgstr "Ma ora come ora è troppo"
+
+msgctxt "29341"
+msgid "cold to drink outside,"
+msgstr "Fa freddo per bere fuori,"
+
+msgctxt "29364"
+msgid "don't you think?"
+msgstr "Non credi?"
+
+msgctxt "29381"
+msgid "Maybe it'd be nice while"
+msgstr "Magari sarebbe carino per un po'"
+
+msgctxt "29406"
+msgid "soaking in a hot spring!"
+msgstr "A mollo in una sorgente termale!"
+
+msgctxt "29431"
+msgid "Hot springs are great!"
+msgstr "Le terme sono fantastiche!"
+
+msgctxt "29454"
+msgid "Still, getting there would"
+msgstr "Comunque, arrivarci sarebbe"
+
+msgctxt "29481"
+msgid "be too much hassle in cold"
+msgstr "troppo sbattimento al freddo"
+
+msgctxt "29508"
+msgid "weather like this..."
+msgstr "Un tempo così..."
+
+msgctxt "29529"
+msgid "Maybe once the weather warms"
+msgstr "Magari quando fa più caldo"
+
+msgctxt "29558"
+msgid "up a bit!"
+msgstr "Su un po'!"
+
+msgctxt "29568"
+msgid "Did you go before?"
+msgstr "Ci sei già stato?"
+
+msgctxt "29587"
+msgid "Boxercise is good."
+msgstr "Boxercise fa bene."
+
+msgctxt "29606"
+msgid "How many kilos?"
+msgstr "Quanti chili?"
+
+msgctxt "29622"
+msgid "CABA_月見野_メール３終了"
+msgstr "CABA_月見野_メール３終了"
+
+msgctxt "29656"
+msgid "CABA_月見野_メール３－１正解"
+msgstr "CABA_月見野_メール３－１正解"
+
+msgctxt "29696"
+msgid "I went to the gym for the"
+msgstr "Sono andato in palestra per"
+
+msgctxt "29722"
+msgid "first time in ages. I"
+msgstr "la prima volta dopo secoli. Io"
+
+msgctxt "29744"
+msgid "figured I might as well get"
+msgstr "ho pensato, tanto vale che mi procuri"
+
+msgctxt "29772"
+msgid "my money's worth!"
+msgstr "Ne è valsa la pena!"
+
+msgctxt "29790"
+msgid "But I just ended up dancing, and"
+msgstr "Ma ho finito solo per ballare, e"
+
+msgctxt "29823"
+msgid "didn't even break a sweat."
+msgstr "Non ha neanche sudato."
+
+msgctxt "29850"
+msgid "I want to lose some weight!"
+msgstr "Voglio perdere peso!"
+
+msgctxt "29878"
+msgid "Time to shed some kilos!"
+msgstr "È ora di buttare giù qualche chilo!"
+
+msgctxt "29903"
+msgid "Just don't hurt yourself."
+msgstr "Non farti male."
+
+msgctxt "29929"
+msgid "Who you gonna pull that off on?"
+msgstr "A chi credi di rifilarla?"
+
+msgctxt "29961"
+msgid "Want me to teach ya?"
+msgstr "Vuoi che t'insegni?"
+
+msgctxt "29982"
+msgid "CABA_月見野_メール３－２正解"
+msgstr "CABA_月見野_メール３－２正解"
+
+msgctxt "30022"
+msgid "Boxercise! That sounds like"
+msgstr "Boxercise! Mi sembra"
+
+msgctxt "30050"
+msgid "it'd burn fat in no time!"
+msgstr "Ti brucerebbe il grasso in men che non si dica!"
+
+msgctxt "30076"
+msgid "I really want to master the"
+msgstr "Voglio proprio padroneggiare il"
+
+msgctxt "30104"
+msgid "spinning back kick!"
+msgstr "calcio rotante all'indietro!"
+
+msgctxt "30124"
+msgid "It looks so cool when"
+msgstr "Sembra così figo quando"
+
+msgctxt "30146"
+msgid "someone pulls that off well."
+msgstr "Qualcuno ci riesce bene."
+
+msgctxt "30175"
+msgid "Maybe I'll try some"
+msgstr "Magari ne proverò un po'."
+
+msgctxt "30195"
+msgid "boxercising next time!"
+msgstr "Boxercising la prossima volta!"
+
+msgctxt "30218"
+msgid "Seriously? I'd love to see"
+msgstr "Davvero? Vorrei proprio vedere"
+
+msgctxt "30245"
+msgid "you kick, Saejima-san!"
+msgstr "Che calcio, Saejima-san!"
+
+msgctxt "30268"
+msgid "I envy people who can dance,"
+msgstr "Invidio chi sa ballare,"
+
+msgctxt "30297"
+msgid "but being able to do martial"
+msgstr "ma potendo fare arti marziali"
+
+msgctxt "30326"
+msgid "arts is even better!"
+msgstr "le arti sono ancora meglio!"
+
+msgctxt "30347"
+msgid "I might rent one of those"
+msgstr "Magari ne noleggio uno"
+
+msgctxt "30373"
+msgid "videos on my way home. Time"
+msgstr "video sulla via di casa. Tempo"
+
+msgctxt "30401"
+msgid "to work these muscles!"
+msgstr "Far lavorare questi muscoli!"
+
+msgctxt "30424"
+msgid "Why'd you think I was a Taurus?"
+msgstr "Come mai credevi che fossi un Toro?"
+
+msgctxt "30456"
+msgid "I'm a tiger."
+msgstr "Sono una tigre."
+
+msgctxt "30469"
+msgid "It's hard to trust those."
+msgstr "È dura fidarsi di quelli."
+
+msgctxt "30495"
+msgid "CABA_月見野_メール４－１正解"
+msgstr "CABA_月見野_メール４－１正解"
+
+msgctxt "30535"
+msgid "CABA_月見野_メール４終了"
+msgstr "CABA_月見野_メール４終了"
+
+msgctxt "30569"
+msgid "What's your star sign, Saejima-san?"
+msgstr "Qual è il tuo segno zodiacale, Saejima-san?"
+
+msgctxt "30605"
+msgid "Taurus is in for some dire"
+msgstr "Per il Toro si prospetta qualcosa di terribile"
+
+msgctxt "30632"
+msgid "luck today, so if that's"
+msgstr "fortuna oggi, quindi se è così"
+
+msgctxt "30657"
+msgid "your sign, you'd better just"
+msgstr "il tuo segno, faresti meglio e basta."
+
+msgctxt "30686"
+msgid "stay at home!"
+msgstr "Resta a casa!"
+
+msgctxt "30700"
+msgid "Oh, and the forecast is for"
+msgstr "Oh, e le previsioni sono per"
+
+msgctxt "30728"
+msgid "snow! But I guess you already"
+msgstr "Neve! Ma immagino che tu già"
+
+msgctxt "30758"
+msgid "knew that. Maybe it means you'll"
+msgstr "lo sapevo. Magari significa che"
+
+msgctxt "30791"
+msgid "slip on ice and hit your head"
+msgstr "scivolare sul ghiaccio e sbattere la testa"
+
+msgctxt "30821"
+msgid "or something! Be careful!"
+msgstr ""
+"o roba del genere!\n"
+"Stai attento!"
+
+msgctxt "30847"
+msgid "What are ya talking about?"
+msgstr "Ma che dici?"
+
+msgctxt "30874"
+msgid "I like tigers over oxen."
+msgstr "Preferisco le tigri ai buoi."
+
+msgctxt "30899"
+msgid "I get ya."
+msgstr "Capito."
+
+msgctxt "30909"
+msgid "CABA_月見野_メール４－２正解"
+msgstr "CABA_月見野_メール４－２正解"
+
+msgctxt "30949"
+msgid "I don't know, you remind me"
+msgstr "Boh, mi ricordi"
+
+msgctxt "30977"
+msgid "of an ox, I guess. Or maybe"
+msgstr "di un bue, immagino. O magari"
+
+msgctxt "31005"
+msgid "a buffalo!"
+msgstr "un bufalo!"
+
+msgctxt "31016"
+msgid "I'm a vivacious Virgo!"
+msgstr "Sono un Vergine vivace!"
+
+msgctxt "31039"
+msgid "Or at least I wish I was."
+msgstr "O almeno, vorrei esserlo."
+
+msgctxt "31065"
+msgid "I'm actually a Scorpio."
+msgstr "Sono in realtà uno Scorpione."
+
+msgctxt "31089"
+msgid "I've always thought Scorpio"
+msgstr "Ho sempre pensato Scorpione"
+
+msgctxt "31117"
+msgid "girls had a bad image, not"
+msgstr "le ragazze avevano una brutta reputazione, non"
+
+msgctxt "31144"
+msgid "like the pure Virgos."
+msgstr "come i puri Vergini."
+
+msgctxt "31166"
+msgid "Maybe I'm overthinking it."
+msgstr "Forse mi sto facendo troppe paranoie."
+
+msgctxt "31193"
+msgid "I knew I wasn't crazy!"
+msgstr "Lo sapevo! Non ero pazzo!"
+
+msgctxt "31216"
+msgid "The other girls at the club"
+msgstr "Le altre ragazze al club"
+
+msgctxt "31244"
+msgid "didn't have a clue what I"
+msgstr "non avevo la minima idea di cosa"
+
+msgctxt "31270"
+msgid "was talking about."
+msgstr "stava parlando."
+
+msgctxt "31289"
+msgid "Maybe young people these"
+msgstr "Forse i giovani di questi"
+
+msgctxt "31314"
+msgid "days just don't get it? Shocking, huh?"
+msgstr "I giorni proprio non ci arrivano? Incredibile, eh?"
+
+msgctxt "31353"
+msgid "I feel at ease talking to an"
+msgstr "Mi sento a mio agio a parlare con un"
+
+msgctxt "31382"
+msgid "older guy like you."
+msgstr "Un tipo più anziano come te."
+
+msgctxt "31402"
+msgid "Sure it wasn't a thief?"
+msgstr "Sicuro che non fosse un ladro?"
+
+msgctxt "31426"
+msgid "You should hurry and clean up."
+msgstr "Dovresti sbrigarti e mettere a posto."
+
+msgctxt "31457"
+msgid "Having pets sounds tough."
+msgstr "Avere animali, dev'essere dura."
+
+msgctxt "31483"
+msgid "CABA_月見野_メール５終了"
+msgstr "CABA_月見野_メール５終了"
+
+msgctxt "31517"
+msgid "CABA_月見野_メール５－１正解"
+msgstr "CABA_月見野_メール５－１正解"
+
+msgctxt "31557"
+msgid "When I got home, I found my"
+msgstr "Quando sono tornato a casa, ho trovato il mio"
+
+msgctxt "31585"
+msgid "cats had run rampant and"
+msgstr "i gatti avevano imperversato e"
+
+msgctxt "31610"
+msgid "made a huge mess..."
+msgstr "ha combinato un gran casino..."
+
+msgctxt "31630"
+msgid "There are scratch marks on"
+msgstr "Ci sono segni di graffio su"
+
+msgctxt "31657"
+msgid "the wallpaper, trash on the"
+msgstr "la carta da parati, spazzatura sulla"
+
+msgctxt "31685"
+msgid "floor, and the cat tower"
+msgstr "pavimento, e la torre per gatti"
+
+msgctxt "31710"
+msgid "fell down on the TV."
+msgstr "È caduto sulla TV."
+
+msgctxt "31731"
+msgid "What a disaster!"
+msgstr "Che disastro!"
+
+msgctxt "31748"
+msgid "I wonder what got into them?"
+msgstr "Chissà cosa gli è preso?"
+
+msgctxt "31777"
+msgid "I have to clean up, but I"
+msgstr "Devo sistemare, ma io"
+
+msgctxt "31803"
+msgid "don't know where to start..."
+msgstr "Non so dove cominciare..."
+
+msgctxt "31832"
+msgid "Have ya spayed them?"
+msgstr "Li hai sterilizzati?"
+
+msgctxt "31853"
+msgid "Not much you can do if they're in heat."
+msgstr "Non puoi farci molto se sono in calore."
+
+msgctxt "31893"
+msgid "You gotta train them proper."
+msgstr "Devi addestrarli come si deve."
+
+msgctxt "31922"
+msgid "CABA_月見野_メール５－２正解"
+msgstr "CABA_月見野_メール５－２正解"
+
+msgctxt "31962"
+msgid "But they're normally so well"
+msgstr "Ma di solito sono così bravi"
+
+msgctxt "31991"
+msgid "behaved!"
+msgstr "Si è comportato!"
+
+msgctxt "32000"
+msgid "They're laid back, like me."
+msgstr "Sono tranquilli, come me."
+
+msgctxt "32028"
+msgid "Maybe they're acting up"
+msgstr "Forse stanno facendo casino"
+
+msgctxt "32052"
+msgid "because they're in heat."
+msgstr "perché sono in calore."
+
+msgctxt "32077"
+msgid "Okay, which one of you"
+msgstr "Allora, chi di voi"
+
+msgctxt "32100"
+msgid "little furballs did this?"
+msgstr "Quelle piccole pesti hanno fatto questo?"
+
+msgctxt "32126"
+msgid "LOL! You're funny,"
+msgstr "Ah ah! Sei proprio uno spasso,"
+
+msgctxt "32145"
+msgid "Saejima-san."
+msgstr "Saejima-san."
+
+msgctxt "32158"
+msgid "I guess you must be in heat"
+msgstr "Immagino che tu sia in calore"
+
+msgctxt "32186"
+msgid "all year round!"
+msgstr "tutto l'anno!"
+
+msgctxt "32202"
+msgid "Anyway, I'm sure they'll"
+msgstr "Comunque, sono sicuro che"
+
+msgctxt "32227"
+msgid "calm down soon enough. I'll"
+msgstr "Ti calmerai abbastanza presto. Ci penserò io."
+
+msgctxt "32255"
+msgid "just have to put up with it."
+msgstr "Bisogna solo farselo andare bene."
+
+msgctxt "32284"
+msgid "Order something else."
+msgstr "Ordina qualcos'altro."
+
+msgctxt "32306"
+msgid "You should cook for yourself."
+msgstr "Dovresti cucinare per te stesso."
+
+msgctxt "32336"
+msgid "It'll come soon enough."
+msgstr "Arriverà al momento giusto."
+
+msgctxt "32360"
+msgid "CABA_月見野_メール６－１正解"
+msgstr "CABA_月見野_メール６－１正解"
+
+msgctxt "32400"
+msgid "CABA_月見野_メール６終了"
+msgstr "CABA_月見野_メール６終了"
+
+msgctxt "32434"
+msgid "The pizza I ordered got"
+msgstr "La pizza che ho ordinato è stata"
+
+msgctxt "32458"
+msgid "delayed with all the snow,"
+msgstr "in ritardo per via di tutta la neve,"
+
+msgctxt "32485"
+msgid "and I've waited an hour."
+msgstr "e ho aspettato un'ora."
+
+msgctxt "32510"
+msgid "I don't want to go anywhere"
+msgstr "Non voglio andare da nessuna parte"
+
+msgctxt "32538"
+msgid "in this snow, but now they"
+msgstr "in questa neve, ma ora loro"
+
+msgctxt "32565"
+msgid "can't even deliver the food."
+msgstr "Non riesco nemmeno a consegnare il cibo."
+
+msgctxt "32594"
+msgid "At this rate, I'm going to"
+msgstr "Di questo passo, andrò a"
+
+msgctxt "32621"
+msgid "starve to death."
+msgstr "morire di fame."
+
+msgctxt "32638"
+msgid "Can you bring me something, Saejima-san?"
+msgstr "Puoi portarmi qualcosa, Saejima-san?"
+
+msgctxt "32679"
+msgid "Or else I'm going to die!"
+msgstr "Altrimenti morirò!"
+
+msgctxt "32705"
+msgid "Are ya really gonna order?"
+msgstr "Ma ordini davvero?"
+
+msgctxt "32732"
+msgid "Make sure to eat both."
+msgstr "Assicurati di mangiarli entrambi."
+
+msgctxt "32755"
+msgid "Ya don't have anything else to do?"
+msgstr "Non hai nient'altro da fare?"
+
+msgctxt "32790"
+msgid "CABA_月見野_メール６－２正解"
+msgstr "CABA_月見野_メール６－２正解"
+
+msgctxt "32830"
+msgid "I guess I could try that!"
+msgstr "Immagino che potrei provare!"
+
+msgctxt "32856"
+msgid "Okay, maybe I'll go with"
+msgstr "Ok, forse andrò con"
+
+msgctxt "32881"
+msgid "sushi, then."
+msgstr "sushi, allora."
+
+msgctxt "32894"
+msgid "It doesn't take long to"
+msgstr "Non ci vuole molto a"
+
+msgctxt "32918"
+msgid "prepare, so they should be"
+msgstr "Prepara, così dovrebbero essere pronti."
+
+msgctxt "32945"
+msgid "able to deliver quick."
+msgstr "riesco a consegnare in fretta."
+
+msgctxt "32968"
+msgid "Want to take a guess which"
+msgstr "Vuoi provare a indovinare quale"
+
+msgctxt "32995"
+msgid "will arrive first?"
+msgstr "arriverà prima?"
+
+msgctxt "33014"
+msgid "Well, I can just wrap the"
+msgstr "Beh, posso semplicemente incartare il"
+
+msgctxt "33040"
+msgid "pizza up and keep it in the"
+msgstr "Prepara la pizza e tienila nel"
+
+msgctxt "33068"
+msgid "freezer, so I guess I'll"
+msgstr "congelatore, quindi mi sa che"
+
+msgctxt "33093"
+msgid "start with the sushi."
+msgstr "Inizia con il sushi."
+
+msgctxt "33115"
+msgid "Just after I wrote that, the"
+msgstr "Subito dopo aver scritto quello, il"
+
+msgctxt "33144"
+msgid "pizza delivery guy arrived!"
+msgstr "Il fattorino della pizza è arrivato!"
+
+msgctxt "33172"
+msgid "I'll have sushi some other"
+msgstr "Prenderò del sushi un'altra volta"
+
+msgctxt "33199"
+msgid "time! It's pizza tonight!"
+msgstr "È l'ora! Stasera c'è la pizza!"
+
+msgctxt "33225"
+msgid "I've been finding the energy"
+msgstr "Ho ritrovato le energie"
+
+msgctxt "33254"
+msgid "to go into the club more"
+msgstr "Frequentare il locale più spesso"
+
+msgctxt "33279"
+msgid "lately, but I haven't seen you"
+msgstr "ultimamente, ma non ti ho più visto"
+
+msgctxt "33310"
+msgid "around. Come to Rose Hip if"
+msgstr "in giro. Vieni al Rose Hip se"
+
+msgctxt "33338"
+msgid "you feel like a drink with me!"
+msgstr "Hai voglia di un drink con me!"
+
+msgctxt "33369"
+msgid "Honoka"
+msgstr "Honoka"
+
+msgctxt "33376"
+msgid "Honoka here"
+msgstr "Sono Honoka"
+
+msgctxt "33388"
+msgid "2d_mr_m_honoka"
+msgstr "2d_mr_m_honoka"
+
+msgctxt "33403"
+msgid "Akiyama-san,"
+msgstr ""
+"Akiyama-san,\n"
+"\n"
+"Traduzione in italiano:"
+
+msgctxt "33416"
+msgid "You really helped me out."
+msgstr "Mi hai davvero dato una mano."
+
+msgctxt "33442"
+msgid "/(^o^)/"
+msgstr "/(^o^)/"
+
+msgctxt "33450"
+msgid "Got my voice back, so I"
+msgstr "Mi è tornata la voce, quindi io"
+
+msgctxt "33474"
+msgid "coulda called ya, but I"
+msgstr "avrei potuto chiamarti, ma io"
+
+msgctxt "33498"
+msgid "thought I'd stick to email"
+msgstr "Pensavo di restare sull'email"
+
+msgctxt "33525"
+msgid "for now."
+msgstr "per ora."
+
+msgctxt "33534"
+msgid "If I pass, I'll be sure to"
+msgstr "Se passo, non mancherò di"
+
+msgctxt "33561"
+msgid "call ya up and tell ya."
+msgstr "ti chiamo e te lo dico."
+
+msgctxt "33585"
+msgid "Wish me luck!"
+msgstr "Augurami buona fortuna!"
+
+msgctxt "33599"
+msgid "(((o(*³v³*)o)))"
+msgstr "(((o(*³v³*)o)))"
+
+msgctxt "33617"
+msgid "You're a real sweetheart."
+msgstr "Sei un vero tesoro."
+
+msgctxt "33643"
+msgid "\\(//v//)\\"
+msgstr "\\(//v//)\\"
+
+msgctxt "33653"
+msgid "This is Honoka"
+msgstr "Sono Honoka"
+
+msgctxt "33668"
+msgid "I'll be in Osaka for a while."
+msgstr "Sarò a Osaka per un po'."
+
+msgctxt "33698"
+msgid "I'll make sure to stop by before I go back to Tokyo."
+msgstr "Mi assicurerò di fare un salto prima di tornare a Tokyo."
+
+msgctxt "33751"
+msgid "When's best for you?"
+msgstr "Quando ti va meglio?"
+
+msgctxt "33772"
+msgid "CABA_蒼天堀_メール１終了"
+msgstr "CABA_蒼天堀_メール１終了"
+
+msgctxt "33806"
+msgid "CABA_蒼天堀_メール１－１正解"
+msgstr "CABA_蒼天堀_メール１－１正解"
+
+msgctxt "33846"
+msgid "キャバクラ_ほのか_メール起動タイマー"
+msgstr "キャバクラ_ほのか_メール起動タイマー"
+
+msgctxt "33900"
+msgid "Thanks for droppin' by the"
+msgstr "Grazie per aver fatto un salto al"
+
+msgctxt "33927"
+msgid "club today. I had a blast."
+msgstr "club oggi. Mi sono divertito un mondo."
+
+msgctxt "33954"
+msgid "How long are ya in Osaka for?"
+msgstr "Per quanto tempo rimani a Osaka?"
+
+msgctxt "33984"
+msgid "I wanna talk some more"
+msgstr "Voglio parlare ancora un po'"
+
+msgctxt "34007"
+msgid "if we can, so come back and"
+msgstr "se possiamo, quindi torna e"
+
+msgctxt "34035"
+msgid "say hi sometime. (^_-)"
+msgstr "Fatti sentire un giorno di questi. (^_-)"
+
+msgctxt "34058"
+msgid "Re: Got it"
+msgstr "Re: Capito"
+
+msgctxt "34069"
+msgid "Please do."
+msgstr "Fai pure."
+
+msgctxt "34080"
+msgid "Please call me."
+msgstr "Per favore chiamami."
+
+msgctxt "34096"
+msgid "I'd rather you not contact me."
+msgstr "Preferirei che tu non mi contattassi."
+
+msgctxt "34127"
+msgid "CABA_蒼天堀_メール１－２正解"
+msgstr "CABA_蒼天堀_メール１－２正解"
+
+msgctxt "34167"
+msgid "I'm usually free on Mondays."
+msgstr "Di solito sono libero il lunedì."
+
+msgctxt "34196"
+msgid "Pretty good chance we could have a"
+msgstr "Ci sono buone probabilità che potremmo avere una"
+
+msgctxt "34231"
+msgid "nice long chat if you came that day."
+msgstr "Una bella e lunga chiacchierata se fossi venuto quel giorno."
+
+msgctxt "34268"
+msgid "( ^_^) oo (^_^ ) lol"
+msgstr "( ^_^) oo (^_^ ) ahahah"
+
+msgctxt "34289"
+msgid "How 'bout I let ya know"
+msgstr "Che ne dici se ti faccio sapere?"
+
+msgctxt "34313"
+msgid "when things get quiet here?"
+msgstr "quando si fa più calma qui?"
+
+msgctxt "34341"
+msgid "It'd be real good to see ya"
+msgstr "Sarebbe proprio bello vederti"
+
+msgctxt "34369"
+msgid "again. /(^o^)/"
+msgstr "di nuovo. /(^o^)/"
+
+msgctxt "34384"
+msgid "All right!"
+msgstr "Bene!"
+
+msgctxt "34395"
+msgid "Okay. I'll be in touch"
+msgstr "Ok. Mi farò sentire"
+
+msgctxt "34418"
+msgid "when the club ain't so busy."
+msgstr "quando il locale non è così affollato."
+
+msgctxt "34447"
+msgid "I might end up emailin' ya"
+msgstr "Potrei finire per scriverti una mail."
+
+msgctxt "34474"
+msgid "every day if I'm bored, but just "
+msgstr "ogni giorno se mi annoio, ma solo"
+
+msgctxt "34508"
+msgid "ignore 'em if you're busy, 'kay? <Sign:3>"
+msgstr "Lasciali perdere se sei impegnato, ok? <Sign:3>"
+
+msgctxt "34550"
+msgid "But if ya really ignore 'em,"
+msgstr "Ma se li ignori per davvero,"
+
+msgctxt "34579"
+msgid "I'll be sad, of course. < ( * o * ; )"
+msgstr "Sarò triste, ovviamente. < ( * o * ; )"
+
+msgctxt "34617"
+msgid "Hopin' to see ya soon."
+msgstr "Spero di rivederti presto."
+
+msgctxt "34640"
+msgid "(^_-)"
+msgstr "(^_-)"
+
+msgctxt "34646"
+msgid "Spam"
+msgstr "Spam"
+
+msgctxt "34651"
+msgid "Why don't you change your email address?"
+msgstr "Perché non cambi il tuo indirizzo email?"
+
+msgctxt "34692"
+msgid "I've been waiting for you."
+msgstr "Ti stavo aspettando."
+
+msgctxt "34719"
+msgid "Actually, it was me..."
+msgstr "In realtà, sono stato io..."
+
+msgctxt "34742"
+msgid "CABA_蒼天堀_メール２－１正解"
+msgstr "CABA_蒼天堀_メール２－１正解"
+
+msgctxt "34782"
+msgid "CABA_蒼天堀_メール２終了"
+msgstr "CABA_蒼天堀_メール２終了"
+
+msgctxt "34816"
+msgid "Been gettin' a lotta spam"
+msgstr "Mi sono beccato un botto di spam"
+
+msgctxt "34842"
+msgid "from online dating sites"
+msgstr "da siti di appuntamenti online"
+
+msgctxt "34867"
+msgid "lately. (>^<;)"
+msgstr "ultimamente. (>^<;)"
+
+msgctxt "34882"
+msgid "Some days, there's over 100!"
+msgstr "Certi giorni, ce ne sono più di 100!"
+
+msgctxt "34911"
+msgid "It's crazy! (³o³;;!"
+msgstr "It's crazy! (³o³;;!"
+
+msgctxt "34933"
+msgid "I wanted to email you"
+msgstr "Volevo mandarti un'email"
+
+msgctxt "34955"
+msgid "sooner, but it took so long"
+msgstr "Prima, ma c'è voluto un sacco."
+
+msgctxt "34983"
+msgid "to delete all that junk."
+msgstr "per eliminare tutta quella roba."
+
+msgctxt "35008"
+msgid "Sorry 'bout that. (^_-)"
+msgstr "Scusa per quello. (^_-)"
+
+msgctxt "35032"
+msgid "Who the hell's behind this"
+msgstr "Chi diavolo c'è dietro a tutto questo?"
+
+msgctxt "35059"
+msgid "crap!?"
+msgstr "Accidenti!?"
+
+msgctxt "35066"
+msgid "Re: A suggestion"
+msgstr "Re: Un suggerimento"
+
+msgctxt "35083"
+msgid "You should do it even if it is a pain."
+msgstr "Dovresti farlo, anche se è una rottura."
+
+msgctxt "35122"
+msgid "Why not buy another phone?"
+msgstr "Perché non ti compri un altro telefono?"
+
+msgctxt "35149"
+msgid "Why don't you just block them?"
+msgstr "Perché non li blocchi e basta?"
+
+msgctxt "35180"
+msgid "CABA_蒼天堀_メール２－２正解"
+msgstr "CABA_蒼天堀_メール２－２正解"
+
+msgctxt "35220"
+msgid "That'd be a pain in the butt, too."
+msgstr "Sarebbe una bella rottura, pure."
+
+msgctxt "35255"
+msgid "Gotta get in touch with everyone again."
+msgstr "Devo rimettermi in contatto con tutti."
+
+msgctxt "35295"
+msgid "'Course, if I go that route,"
+msgstr "Certo, se prendo quella strada,"
+
+msgctxt "35324"
+msgid "I could drop a few people"
+msgstr "Potrei far fuori un po' di gente"
+
+msgctxt "35350"
+msgid "that get on my nerves by"
+msgstr "che mi danno sui nervi con"
+
+msgctxt "35375"
+msgid "just not tellin' 'em. ( ^ 3^)"
+msgstr "Solo non glielo dico. ( ^ 3^)"
+
+msgctxt "35405"
+msgid "But thinkin' of the effort involved, it"
+msgstr "Ma a pensarci allo sbattimento che ci vuole, è"
+
+msgctxt "35445"
+msgid "might be best to just wait it out."
+msgstr "Potrebbe essere meglio aspettare che passi."
+
+msgctxt "35480"
+msgid "Whaddya think, Akiyama-san?"
+msgstr "Che ne dici, Akiyama-san?"
+
+msgctxt "35508"
+msgid "Hey"
+msgstr "Ehi"
+
+msgctxt "35512"
+msgid "But then this one'd only"
+msgstr "Ma poi questo avrebbe solo"
+
+msgctxt "35537"
+msgid "be for receivin' spam..."
+msgstr "Serve per ricevere spam..."
+
+msgctxt "35562"
+msgid "And switchin' phones won't"
+msgstr "E cambiare telefono non"
+
+msgctxt "35589"
+msgid "do anythin' unless I change"
+msgstr "non farò niente a meno che non cambi"
+
+msgctxt "35617"
+msgid "the address. ( ^ v ^)/ rofl"
+msgstr "l'indirizzo. ( ^ v ^)/ Mi spacco dalle risate"
+
+msgctxt "35645"
+msgid "You're a funny man!"
+msgstr "Sei un tipo divertente!"
+
+msgctxt "35665"
+msgid "( ^_^) oo (^_^ )"
+msgstr "( ^_^) oo (^_^ )"
+
+msgctxt "35682"
+msgid "I'm sleepy..."
+msgstr "Ho sonno..."
+
+msgctxt "35696"
+msgid "Did you request me?"
+msgstr "Mi hai richiesta?"
+
+msgctxt "35716"
+msgid "Sounds interesting."
+msgstr "Sembra interessante."
+
+msgctxt "35736"
+msgid "Don't sleep on the job."
+msgstr "Non dormire in servizio."
+
+msgctxt "35760"
+msgid "CABA_蒼天堀_メール３－１正解"
+msgstr "CABA_蒼天堀_メール３－１正解"
+
+msgctxt "35800"
+msgid "CABA_蒼天堀_メール３終了"
+msgstr "CABA_蒼天堀_メール３終了"
+
+msgctxt "35834"
+msgid "I dozed off earlier and had"
+msgstr "Mi sono appisolato prima e ho avuto"
+
+msgctxt "35862"
+msgid "some weird dreams."
+msgstr "Sogni un po' strani."
+
+msgctxt "35881"
+msgid "In one of them, all the"
+msgstr "In uno di questi, tutti i"
+
+msgctxt "35905"
+msgid "hostesses and customers at"
+msgstr "hostess e clienti presso"
+
+msgctxt "35932"
+msgid "the club had switched"
+msgstr "il club aveva cambiato"
+
+msgctxt "35954"
+msgid "places. (³o³;;!"
+msgstr "places. (³o³;;!"
+
+msgctxt "35972"
+msgid "Us girls were gettin'"
+msgstr "Noi ragazze ci stavamo"
+
+msgctxt "35994"
+msgid "waited on hand and foot by"
+msgstr "servito e riverito da"
+
+msgctxt "36021"
+msgid "these old guys."
+msgstr "questi vecchietti."
+
+msgctxt "36037"
+msgid "Of course!"
+msgstr "Ma certo!"
+
+msgctxt "36048"
+msgid "Was it fun?"
+msgstr "Ti sei divertito?"
+
+msgctxt "36060"
+msgid "Sounds like you want to see me."
+msgstr "Mi sa che vuoi vedermi."
+
+msgctxt "36092"
+msgid "Isn't that just a host?"
+msgstr "Non è che è solo un host?"
+
+msgctxt "36116"
+msgid "CABA_蒼天堀_メール３－２正解"
+msgstr "CABA_蒼天堀_メール３－２正解"
+
+msgctxt "36156"
+msgid "Who else would I pick!? ( ^ 3^)"
+msgstr "Chi altri avrei mai scelto!? ( ^ 3^)"
+
+msgctxt "36188"
+msgid "But you were the number one"
+msgstr "Ma eri il numero uno"
+
+msgctxt "36216"
+msgid "guy in the club."
+msgstr "Tizio nel club."
+
+msgctxt "36233"
+msgid "< ( * o * ; ) "
+msgstr "< ( * o * ; )"
+
+msgctxt "36248"
+msgid "So you went off to take care"
+msgstr "Quindi te ne sei andato a sbrigare"
+
+msgctxt "36277"
+msgid "of some other customer right away. (>^<;)"
+msgstr "di qualche altro cliente subito. (>^<;)"
+
+msgctxt "36319"
+msgid "Now I know what it's like to"
+msgstr "Ora so cosa si prova a"
+
+msgctxt "36348"
+msgid "be on the other side. ( >`< )"
+msgstr "Sarò dall'altra parte. ( >`< )"
+
+msgctxt "36378"
+msgid "Yeah, I guess that is just a host"
+msgstr "Già, immagino sia solo un host"
+
+msgctxt "36412"
+msgid "club. /(^o^)/ Dang, I think I could"
+msgstr "club. /(^o^)/ Cavolo, penso che potrei"
+
+msgctxt "36448"
+msgid "get used to that kinda service."
+msgstr "Abituati a quel tipo di servizio."
+
+msgctxt "36480"
+msgid "Usually I've gotta give it. Be nice to"
+msgstr ""
+"Di solito sono io quello che deve darle. Sarebbe bello essere gentili con"
+
+msgctxt "36519"
+msgid "flip the tables. How 'bout ya show"
+msgstr "ribalta la situazione. Che ne dici di far vedere"
+
+msgctxt "36554"
+msgid "me some of your smooth talkin'"
+msgstr "Per me, un po' della tua parlantina sciolta"
+
+msgctxt "36585"
+msgid "next time ya swing by? ( ^ 3^)"
+msgstr "la prossima volta che fai un salto? ( ^ 3^)"
+
+msgctxt "36616"
+msgid "Heh, just kiddin'."
+msgstr "Heh, sto solo scherzando."
+
+msgctxt "36635"
+msgid "Think I caught a cold"
+msgstr "Mi sa che ho preso un raffreddore"
+
+msgctxt "36657"
+msgid "Take care of yourself."
+msgstr "Abbi cura di te."
+
+msgctxt "36680"
+msgid "Someone's talking about you."
+msgstr "Qualcuno sta parlando di te."
+
+msgctxt "36709"
+msgid "That's no good."
+msgstr "Non va bene."
+
+msgctxt "36725"
+msgid "CABA_蒼天堀_メール４終了"
+msgstr "CABA_蒼天堀_メール４終了"
+
+msgctxt "36759"
+msgid "CABA_蒼天堀_メール４－１正解"
+msgstr "CABA_蒼天堀_メール４－１正解"
+
+msgctxt "36799"
+msgid "I'm sneezin' up a storm"
+msgstr "Sto starnutendo a raffica."
+
+msgctxt "36823"
+msgid "today. I can't stop."
+msgstr "oggi. Non riesco a fermarmi."
+
+msgctxt "36844"
+msgid "(>^<;)"
+msgstr "(>^<;)"
+
+msgctxt "36851"
+msgid "Think I'll be fine, but if"
+msgstr "Credo che starò bene, ma se"
+
+msgctxt "36878"
+msgid "it gets worse, I might take"
+msgstr "Si mette peggio, potrei incassare"
+
+msgctxt "36906"
+msgid "the day off from work."
+msgstr "il giorno libero dal lavoro."
+
+msgctxt "36929"
+msgid "Gotta look after yourself,"
+msgstr "Devi prenderti cura di te stesso,"
+
+msgctxt "36956"
+msgid "right?"
+msgstr "vero?"
+
+msgctxt "36963"
+msgid "Who was it?"
+msgstr "Chi è stato?"
+
+msgctxt "36975"
+msgid "It's rough being popular."
+msgstr "È tosta essere popolari."
+
+msgctxt "37001"
+msgid "Don't act so casual about it."
+msgstr "Non fare tanto il disinvolto."
+
+msgctxt "37031"
+msgid "Make sure to get better."
+msgstr "Assicurati di rimetterti."
+
+msgctxt "37056"
+msgid "CABA_蒼天堀_メール４－２正解"
+msgstr "CABA_蒼天堀_メール４－２正解"
+
+msgctxt "37096"
+msgid "Huh... Didn't think of that."
+msgstr "Ah... Non ci avevo pensato."
+
+msgctxt "37125"
+msgid "Someone's plottin' against"
+msgstr "Qualcuno sta tramando contro"
+
+msgctxt "37152"
+msgid "me! (³o³;;!"
+msgstr "me! (³o³;;!"
+
+msgctxt "37166"
+msgid "I know everyone wants to"
+msgstr "So che tutti vogliono"
+
+msgctxt "37191"
+msgid "talk about cute girls like"
+msgstr "parlare di tipe carine, tipo"
+
+msgctxt "37218"
+msgid "me, but they better quit it."
+msgstr "a me, ma farebbero meglio a piantarla."
+
+msgctxt "37247"
+msgid "( ^ v ^)/"
+msgstr "( ^ v ^)/"
+
+msgctxt "37257"
+msgid "I'd rather they came to see"
+msgstr "Preferirei che venissero a vedere"
+
+msgctxt "37285"
+msgid "me instead of talkin' behind"
+msgstr "A me invece di sparlare"
+
+msgctxt "37314"
+msgid "my back.  ( ^ 3^)"
+msgstr "La mia schiena.  ( ^ 3^)"
+
+msgctxt "37332"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "37337"
+msgid "Saw straight through me, huh?"
+msgstr "Mi hai sgamato, eh?"
+
+msgctxt "37367"
+msgid "You're a real Sherlock. (³o³;;!"
+msgstr "You're a real Sherlock. (³o³;;!"
+
+msgctxt "37401"
+msgid "But seriously, it ain't"
+msgstr "Ma sul serio, non è"
+
+msgctxt "37425"
+msgid "about the business."
+msgstr "a proposito degli affari."
+
+msgctxt "37445"
+msgid "I'm just a lonely girl who"
+msgstr "Sono solo una ragazza sola che"
+
+msgctxt "37472"
+msgid "likes to meet people and"
+msgstr "gli piace incontrare gente e"
+
+msgctxt "37497"
+msgid "talk. (^-^)"
+msgstr "Parliamo. (^-^)"
+
+msgctxt "37509"
+msgid "When I'm feelin' sick,"
+msgstr "Quando mi sento male,"
+
+msgctxt "37532"
+msgid "spendin' time with someone"
+msgstr "passare del tempo con qualcuno"
+
+msgctxt "37559"
+msgid "else is the best medicine."
+msgstr "Qualcos'altro è la migliore medicina."
+
+msgctxt "37586"
+msgid "So ya gotta come on over"
+msgstr "Allora, ti tocca farci un salto."
+
+msgctxt "37611"
+msgid "and help me get better."
+msgstr "e aiutami a migliorare."
+
+msgctxt "37635"
+msgid "About today"
+msgstr "A proposito di oggi"
+
+msgctxt "37647"
+msgid "Do you try to hide the one from the club?"
+msgstr "Cerchi di nascondere quello del club?"
+
+msgctxt "37689"
+msgid "I wonder why it's so expensive?"
+msgstr "Chissà perché costa così tanto?"
+
+msgctxt "37721"
+msgid "Send me a picture."
+msgstr "Mandami una foto."
+
+msgctxt "37740"
+msgid "CABA_蒼天堀_メール５終了"
+msgstr "CABA_蒼天堀_メール５終了"
+
+msgctxt "37774"
+msgid "CABA_蒼天堀_メール５－１正解"
+msgstr "CABA_蒼天堀_メール５－１正解"
+
+msgctxt "37814"
+msgid "I'm getting my pic taken."
+msgstr "Mi sto facendo fare una foto."
+
+msgctxt "37840"
+msgid "It's for my resume, so I'm"
+msgstr "È per il mio curriculum, quindi sto"
+
+msgctxt "37867"
+msgid "lookin' smart. (((o(*³v³*)o)))"
+msgstr "lookin' smart. (((o(*³v³*)o)))"
+
+msgctxt "37900"
+msgid "Can't get away with stuff"
+msgstr "Non si può farla franca con certe cose."
+
+msgctxt "37926"
+msgid "like the photos at the club."
+msgstr "Mi piacciono le foto al club."
+
+msgctxt "37955"
+msgid "When I asked for a touch up"
+msgstr "Quando ho chiesto un ritocco"
+
+msgctxt "37983"
+msgid "at the photo shop, it was"
+msgstr "dal fotografo, era"
+
+msgctxt "38009"
+msgid "gonna cost me a fortune."
+msgstr "Mi costerà una fortuna."
+
+msgctxt "38034"
+msgid "(³o³;;!"
+msgstr "(³o³;;!"
+
+msgctxt "38044"
+msgid "Re: I want to see"
+msgstr "Re: Voglio vedere"
+
+msgctxt "38062"
+msgid "I'm sure it's fine if I can't recognize you."
+msgstr "Sono sicuro che vada bene se non ti riconosco."
+
+msgctxt "38107"
+msgid "That's too bad..."
+msgstr "Peccato..."
+
+msgctxt "38125"
+msgid "I bet you look great in formal clothes."
+msgstr "Scommetto che stai benissimo in abiti formali."
+
+msgctxt "38165"
+msgid "CABA_蒼天堀_メール５－２正解"
+msgstr "CABA_蒼天堀_メール５－２正解"
+
+msgctxt "38205"
+msgid "No way!"
+msgstr "Assolutamente no!"
+
+msgctxt "38213"
+msgid "I'd be too embarrassed to"
+msgstr "Mi vergognerei troppo a"
+
+msgctxt "38239"
+msgid "show you this one. (>^<;)"
+msgstr "Ti faccio vedere questo. (>^<;)"
+
+msgctxt "38265"
+msgid "In formal dress, no less..."
+msgstr "In abito formale, nientemeno..."
+
+msgctxt "38293"
+msgid "Don't have all my makeup on,"
+msgstr "Non mi sono ancora truccata del tutto,"
+
+msgctxt "38322"
+msgid "so you wouldn't recognize"
+msgstr "quindi non riconosceresti"
+
+msgctxt "38348"
+msgid "me. (^_-)"
+msgstr "Io. (^_-)"
+
+msgctxt "38358"
+msgid "Gasp!"
+msgstr "Ah!"
+
+msgctxt "38364"
+msgid "No, I really can't! (³o³;;!"
+msgstr "No, I really can't! (³o³;;!"
+
+msgctxt "38394"
+msgid "You might not know it's me,"
+msgstr "Magari non sai chi sono,"
+
+msgctxt "38422"
+msgid "but it's still too embarrassing!"
+msgstr "ma è ancora troppo imbarazzante!"
+
+msgctxt "38455"
+msgid "If the photo turns out nice,"
+msgstr "Se la foto viene bene,"
+
+msgctxt "38484"
+msgid "I'll let you see it, but I'm"
+msgstr "Te lo faccio vedere, ma sono"
+
+msgctxt "38513"
+msgid "not sendin' you a selfie."
+msgstr "non ti mando un selfie."
+
+msgctxt "38539"
+msgid " ( ^ 3^)"
+msgstr "( ^ 3^)"
+
+msgctxt "38548"
+msgid "Don't get your hopes up."
+msgstr "Non farti illusioni."
+
+msgctxt "38573"
+msgid "I'm bored"
+msgstr "Sono annoiato"
+
+msgctxt "38583"
+msgid "That's amazing!"
+msgstr "È incredibile!"
+
+msgctxt "38599"
+msgid "What about reviewing for school?"
+msgstr "Cosa ne dici di ripassare per la scuola?"
+
+msgctxt "38632"
+msgid "You should call me up."
+msgstr "Dovresti chiamarmi."
+
+msgctxt "38655"
+msgid "CABA_蒼天堀_メール６終了"
+msgstr "CABA_蒼天堀_メール６終了"
+
+msgctxt "38689"
+msgid "CABA_蒼天堀_メール６－１正解"
+msgstr "CABA_蒼天堀_メール６－１正解"
+
+msgctxt "38729"
+msgid "One of my classes got"
+msgstr "Una delle mie lezioni è stata"
+
+msgctxt "38751"
+msgid "canceled, so I've got time"
+msgstr "disdetto, quindi ho tempo"
+
+msgctxt "38778"
+msgid "to kill before I gotta go to"
+msgstr "da far fuori prima che mi tocchi andare a"
+
+msgctxt "38807"
+msgid "newscaster school. < ( * o * ; ) "
+msgstr "scuola per annunciatori. < ( * o * ; )"
+
+msgctxt "38841"
+msgid "Not worth goin' back home"
+msgstr "Non vale la pena tornare a casa"
+
+msgctxt "38867"
+msgid "at this point, though."
+msgstr "A questo punto, però."
+
+msgctxt "38890"
+msgid "I'm kinda in limbo."
+msgstr "Sono un po' nel limbo."
+
+msgctxt "38910"
+msgid "Don't wanna spend any cash, so maybe"
+msgstr "Non voglio spendere un soldo, quindi magari"
+
+msgctxt "38947"
+msgid "I'll go read a newspaper at the"
+msgstr "Vado a leggere il giornale al"
+
+msgctxt "38979"
+msgid "library. Ain't I a good girl? (^-^)"
+msgstr "biblioteca. Non sono una brava ragazza? (^-^)"
+
+msgctxt "39015"
+msgid "Re: You're bored?"
+msgstr "Re: Ti annoi?"
+
+msgctxt "39033"
+msgid "I didn't say I'd treat you."
+msgstr "Non ho detto che ti avrei offerto."
+
+msgctxt "39061"
+msgid "If I'm open that is."
+msgstr "Se sono disponibile, s'intende."
+
+msgctxt "39082"
+msgid "Don't bother contacting me."
+msgstr "Non provare a contattarmi."
+
+msgctxt "39110"
+msgid "CABA_蒼天堀_メール６－２正解"
+msgstr "CABA_蒼天堀_メール６－２正解"
+
+msgctxt "39150"
+msgid "Oops!"
+msgstr "Ops!"
+
+msgctxt "39156"
+msgid "If I knew you were gonna"
+msgstr "Se sapevo che stavi per"
+
+msgctxt "39181"
+msgid "treat me, I woulda called!"
+msgstr "Offrimi, ti avrei chiamato!"
+
+msgctxt "39208"
+msgid "But I'm gonna buckle down"
+msgstr "Ma mi metterò sotto"
+
+msgctxt "39234"
+msgid "and study today. Maybe next"
+msgstr "e studiare oggi. Magari la prossima"
+
+msgctxt "39262"
+msgid "time! (^-^)"
+msgstr "È ora! (^-^)"
+
+msgctxt "39274"
+msgid "I'll get in touch if it ever"
+msgstr "Mi farò sentire se mai"
+
+msgctxt "39303"
+msgid "happens again. /(^o^)/"
+msgstr "risuccede. /(^o^)/"
+
+msgctxt "39326"
+msgid "Whaaat?"
+msgstr "Coooosa?"
+
+msgctxt "39334"
+msgid "Then what's the point!? You"
+msgstr "Allora a che serve!? Tu"
+
+msgctxt "39362"
+msgid "mean a working man like you"
+msgstr "Voglio dire, un lavoratore come te"
+
+msgctxt "39390"
+msgid "was gonna make a poor"
+msgstr "stavo per fare una figuraccia"
+
+msgctxt "39412"
+msgid "student split the bill?"
+msgstr "Lo studente ha diviso il conto?"
+
+msgctxt "39436"
+msgid "What a cheapskate!"
+msgstr "Che tirchio!"
+
+msgctxt "39455"
+msgid "Still, I guess I don't mind"
+msgstr "Comunque, in fondo non mi dispiace."
+
+msgctxt "39483"
+msgid "forkin' out a little if it"
+msgstr "sganciare un po' se"
+
+msgctxt "39510"
+msgid "means I can be with you."
+msgstr "Vuol dire che posso stare con te."
+
+msgctxt "39535"
+msgid "\\ (//v//) \\"
+msgstr "\\ (//v//) \\"
+
+msgctxt "39547"
+msgid "It's Honoka"
+msgstr "È Honoka"
+
+msgctxt "39559"
+msgid "I'm workin' now. <Sign:30>"
+msgstr "Sto lavorando adesso. <Sign:30>"
+
+msgctxt "39586"
+msgid "Come to the club. <Sign:1>"
+msgstr "Vieni al club. <Sign:1>"
+
+msgctxt "39613"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "39626"
+msgid "Haven't seen ya lately. <Sign:10>"
+msgstr "Non ti si vede in giro da un po'. <Sign:10>"
+
+msgctxt "39660"
+msgid "Did ya go back to Tokyo?"
+msgstr "Sei tornato a Tokyo?"
+
+msgctxt "39685"
+msgid "Come say hi when ya can. <Sign:28>"
+msgstr "Vieni a salutare quando puoi. <Sign:28>"
+
+msgctxt "39720"
+msgid "CABA_蒼天堀ミッション_メール受信"
+msgstr "CABA_蒼天堀ミッション_メール受信"
+
+msgctxt "39766"
+msgid "I lost my voice. The doctor"
+msgstr "Ho perso la voce. Il dottore"
+
+msgctxt "39794"
+msgid "took a look at me, but my"
+msgstr "mi ha dato un'occhiata, ma il mio"
+
+msgctxt "39820"
+msgid "throat doesn't hurt or look"
+msgstr "La gola non mi fa male né ha un brutto aspetto."
+
+msgctxt "39848"
+msgid "swollen, so they have no"
+msgstr "gonfi, quindi non hanno"
+
+msgctxt "39873"
+msgid "clue what's wrong."
+msgstr "Idea di cosa non va."
+
+msgctxt "39892"
+msgid "I got some medicine to take,"
+msgstr "Ho delle medicine da prendere,"
+
+msgctxt "39921"
+msgid "but it isn't workin' so far."
+msgstr "ma per ora non sta funzionando."
+
+msgctxt "39950"
+msgid "At this rate, I won't be able"
+msgstr "Di questo passo, non potrò"
+
+msgctxt "39980"
+msgid "to take the hiring test..."
+msgstr "per fare il test di assunzione..."
+
+msgctxt "40007"
+msgid "And it's comin' up fast."
+msgstr "E si avvicina in fretta."
+
+msgctxt "40032"
+msgid "Thanks"
+msgstr "Grazie"
+
+msgctxt "40039"
+msgid "Sorry 'bout everything."
+msgstr "Scusa per tutto."
+
+msgctxt "40063"
+msgid "Shion"
+msgstr "Shion"
+
+msgctxt "40069"
+msgid "It's Shion"
+msgstr "Sono Shion"
+
+msgctxt "40080"
+msgid "2d_mr_m_sion"
+msgstr "2d_mr_m_sion"
+
+msgctxt "40093"
+msgid "I feel like a weight has"
+msgstr "Mi sento come se un peso avesse"
+
+msgctxt "40118"
+msgid "lifted off my shoulders."
+msgstr "tolto dalle spalle."
+
+msgctxt "40143"
+msgid "It's strange because"
+msgstr "È strano perché"
+
+msgctxt "40164"
+msgid "nothing has really changed"
+msgstr "niente è davvero cambiato"
+
+msgctxt "40191"
+msgid "at home."
+msgstr "a casa."
+
+msgctxt "40200"
+msgid "I guess it's thanks to you."
+msgstr "Immagino sia merito tuo."
+
+msgctxt "40228"
+msgid "I'll do my best to put the"
+msgstr "Farò del mio meglio per mettere il"
+
+msgctxt "40255"
+msgid "past behind me and live for"
+msgstr "lasciarmi il passato alle spalle e vivere per"
+
+msgctxt "40283"
+msgid "today, just like you,"
+msgstr "oggi, proprio come te,"
+
+msgctxt "40305"
+msgid "Shinada-san."
+msgstr "Shinada-san."
+
+msgctxt "40318"
+msgid "It will take me a while, though."
+msgstr "Mi ci vorrà un po', però."
+
+msgctxt "40351"
+msgid "I doubt I'll be able to show the real"
+msgstr "Non credo che riuscirò a mostrare il vero"
+
+msgctxt "40389"
+msgid "me to anyone but you for a while."
+msgstr "a me, nessun altro all'infuori di te per un po'."
+
+msgctxt "40423"
+msgid "I should reply to the email!"
+msgstr "Dovrei rispondere all'email!"
+
+msgctxt "40452"
+msgid "What would you like to talk about?"
+msgstr "Di cosa vorresti parlare?"
+
+msgctxt "40487"
+msgid "I'll make sure to become a regular!"
+msgstr "Farò in modo di diventare un cliente fisso!"
+
+msgctxt "40523"
+msgid "I'll come interview you next time!"
+msgstr "Verrò a farti un po' di domande la prossima volta!"
+
+msgctxt "40558"
+msgid "CABA_錦栄町_メール１－１正解"
+msgstr "CABA_錦栄町_メール１－１正解"
+
+msgctxt "40598"
+msgid "CABA_錦栄町_メール１終了"
+msgstr "CABA_錦栄町_メール１終了"
+
+msgctxt "40632"
+msgid "キャバクラ_詩音_メール起動タイマー"
+msgstr "キャバクラ_詩音_メール起動タイマー"
+
+msgctxt "40683"
+msgid "It's Shion from Club Eden."
+msgstr "Sono Shion dal Club Eden."
+
+msgctxt "40710"
+msgid "I really appreciate you"
+msgstr "Ti sono davvero grato"
+
+msgctxt "40734"
+msgid "coming earlier."
+msgstr "arrivare prima."
+
+msgctxt "40750"
+msgid "You're an excellent conversationalist."
+msgstr "Sei davvero un ottimo conversatore."
+
+msgctxt "40789"
+msgid "I would be honored if you"
+msgstr "Sarei onorato se tu"
+
+msgctxt "40815"
+msgid "would stop by for another"
+msgstr "farebbe un salto per un altro"
+
+msgctxt "40841"
+msgid "conversation at some point."
+msgstr "conversazione a un certo punto."
+
+msgctxt "40869"
+msgid "Tell me about yourself"
+msgstr "Parlami di te"
+
+msgctxt "40892"
+msgid "Let's keep talking to each other!"
+msgstr "Continuiamo a parlarci!"
+
+msgctxt "40926"
+msgid "I'll come by again soon!"
+msgstr "Ci farò un salto di nuovo presto!"
+
+msgctxt "40951"
+msgid "I'll think of an exciting topic to talk about!"
+msgstr "Penserò a un argomento da urlo di cui parlare!"
+
+msgctxt "40998"
+msgid "CABA_錦栄町_メール１－２正解"
+msgstr "CABA_錦栄町_メール１－２正解"
+
+msgctxt "41038"
+msgid "I'm so happy to hear back"
+msgstr "Mi fa così piacere sentirti"
+
+msgctxt "41064"
+msgid "from you, Shinada-san."
+msgstr "da te, Shinada-san."
+
+msgctxt "41087"
+msgid "Would you mind telling me"
+msgstr "Ti dispiacerebbe dirmi"
+
+msgctxt "41113"
+msgid "a bit about your job?"
+msgstr "Due parole sul tuo lavoro?"
+
+msgctxt "41135"
+msgid "I'm very much looking"
+msgstr "Non vedo l'ora"
+
+msgctxt "41157"
+msgid "forward to the next time"
+msgstr "Alla prossima"
+
+msgctxt "41182"
+msgid "I can see you."
+msgstr "Ti vedo."
+
+msgctxt "41197"
+msgid "Glad to hear you're coming"
+msgstr "Contento che tu venga."
+
+msgctxt "41224"
+msgid "I was relieved to hear you"
+msgstr "Ero sollevato nel sentirti"
+
+msgctxt "41251"
+msgid "would be visiting again."
+msgstr "verrebbe a far visita di nuovo."
+
+msgctxt "41276"
+msgid "Be sure to let me know when"
+msgstr "Mi raccomando, fammi sapere quando"
+
+msgctxt "41304"
+msgid "you're coming. I'll do my very"
+msgstr "Verrai. Farò del mio"
+
+msgctxt "41335"
+msgid "best to ensure you enjoy"
+msgstr "Il modo migliore per farti divertire."
+
+msgctxt "41360"
+msgid "your time here."
+msgstr "il tuo tempo qui."
+
+msgctxt "41376"
+msgid "Shion here"
+msgstr "Qui Shion"
+
+msgctxt "41387"
+msgid "What about Christmas presents?"
+msgstr "E i regali di Natale?"
+
+msgctxt "41418"
+msgid "Did you write back?"
+msgstr "Hai risposto?"
+
+msgctxt "41438"
+msgid "Wish I had someone to write to..."
+msgstr "Magari avessi qualcuno a cui scrivere..."
+
+msgctxt "41472"
+msgid "CABA_錦栄町_メール２終了"
+msgstr "CABA_錦栄町_メール２終了"
+
+msgctxt "41506"
+msgid "CABA_錦栄町_メール２－１正解"
+msgstr "CABA_錦栄町_メール２－１正解"
+
+msgctxt "41546"
+msgid "My grandmother in France"
+msgstr "Mia nonna in Francia"
+
+msgctxt "41571"
+msgid "sent me another one of her"
+msgstr "mi ha mandato un'altra delle sue"
+
+msgctxt "41598"
+msgid "homemade Christmas cards."
+msgstr "biglietti di Natale fatti in casa."
+
+msgctxt "41624"
+msgid "That's not something we really"
+msgstr "Non è qualcosa che noi davvero"
+
+msgctxt "41655"
+msgid "do in Japan, but I always look"
+msgstr "fare in Giappone, ma guardo sempre"
+
+msgctxt "41686"
+msgid "forward to receiving mine."
+msgstr "Non vedo l'ora di ricevere il mio."
+
+msgctxt "41713"
+msgid "You should try sending one"
+msgstr "Dovresti provare a mandarne uno"
+
+msgctxt "41740"
+msgid "yourself sometime."
+msgstr "Fatti vivo ogni tanto."
+
+msgctxt "41759"
+msgid "Writing back"
+msgstr "Scrivo in risposta"
+
+msgctxt "41772"
+msgid "I haven't written them yet!"
+msgstr "Non li ho ancora scritti!"
+
+msgctxt "41800"
+msgid "Why can't it be email?"
+msgstr "Perché non può essere una mail?"
+
+msgctxt "41823"
+msgid "CABA_錦栄町_メール２－２正解"
+msgstr "CABA_錦栄町_メール２－２正解"
+
+msgctxt "41863"
+msgid "Of course. I sent my reply"
+msgstr "Certo. Ho inviato la mia risposta"
+
+msgctxt "41890"
+msgid "quite some time ago."
+msgstr "un bel po' di tempo fa."
+
+msgctxt "41911"
+msgid "There is a lot of mail at"
+msgstr "C'è molta posta a"
+
+msgctxt "41937"
+msgid "this time of year, and"
+msgstr "questo periodo dell'anno, e"
+
+msgctxt "41960"
+msgid "airmail takes around two"
+msgstr "La posta aerea ci mette circa due"
+
+msgctxt "41985"
+msgid "weeks to arrive sometimes."
+msgstr "A volte ci vogliono settimane per arrivare."
+
+msgctxt "42012"
+msgid "It doubles as a New Year's card, so I"
+msgstr "Serve anche da biglietto di auguri di Capodanno, quindi io"
+
+msgctxt "42050"
+msgid "don't need to send one of those as well."
+msgstr "Non c'è bisogno che ne mandi uno anche."
+
+msgctxt "42091"
+msgid "Have you sent all your"
+msgstr "Hai inviato tutti i tuoi"
+
+msgctxt "42114"
+msgid "New Year's cards yet?"
+msgstr "Già le cartoline di Capodanno?"
+
+msgctxt "42136"
+msgid "About New Year's cards"
+msgstr "Riguardo ai biglietti di Capodanno"
+
+msgctxt "42159"
+msgid "I hear that many people"
+msgstr "Sento dire che molte persone"
+
+msgctxt "42183"
+msgid "just send emails these days,"
+msgstr "ormai si mandano solo email,"
+
+msgctxt "42212"
+msgid "but I feel that lacks the"
+msgstr "ma sento che manca il"
+
+msgctxt "42238"
+msgid "personal touch of a card,"
+msgstr "tocco personale di un biglietto,"
+
+msgctxt "42264"
+msgid "so it isn't for me."
+msgstr "quindi non fa per me."
+
+msgctxt "42284"
+msgid "I would understand if it"
+msgstr "Capirei se"
+
+msgctxt "42309"
+msgid "were for business, but for"
+msgstr "erano per affari, ma per"
+
+msgctxt "42336"
+msgid "private matters, I think"
+msgstr "Questioni private, credo"
+
+msgctxt "42361"
+msgid "handwritten cards are best."
+msgstr "I biglietti scritti a mano sono i migliori."
+
+msgctxt "42389"
+msgid "I prefer Japanese style houses."
+msgstr "Preferisco le case in stile giapponese."
+
+msgctxt "42421"
+msgid "Do you want a baby?"
+msgstr "Vuoi un bambino?"
+
+msgctxt "42441"
+msgid "I don't know what to say to this..."
+msgstr "Non so cosa dire a riguardo."
+
+msgctxt "42477"
+msgid "CABA_錦栄町_メール３－１正解"
+msgstr "CABA_錦栄町_メール３－１正解"
+
+msgctxt "42517"
+msgid "CABA_錦栄町_メール３終了"
+msgstr "CABA_錦栄町_メール３終了"
+
+msgctxt "42551"
+msgid "I visited an old school"
+msgstr "Ho visitato una vecchia scuola"
+
+msgctxt "42575"
+msgid "friend today."
+msgstr "Amico oggi."
+
+msgctxt "42589"
+msgid "She lives in a big Western-"
+msgstr "Lei vive in un grande edificio in stile occidentale-"
+
+msgctxt "42617"
+msgid "style house that reminds me"
+msgstr "casa di stile che mi ricorda"
+
+msgctxt "42645"
+msgid "of my grandmother's home."
+msgstr "della casa di mia nonna."
+
+msgctxt "42671"
+msgid "Her twin babies are just"
+msgstr "I suoi gemelli sono solo"
+
+msgctxt "42696"
+msgid "the cutest little things."
+msgstr "le cosette più carine."
+
+msgctxt "42722"
+msgid "Her husband is in the U.S."
+msgstr "Suo marito è negli Stati Uniti."
+
+msgctxt "42749"
+msgid "on business, but she looked"
+msgstr "per lavoro, ma sembrava"
+
+msgctxt "42777"
+msgid "very content with her life."
+msgstr "molto contenta della sua vita."
+
+msgctxt "42805"
+msgid "Speaking of houses"
+msgstr "A proposito di case"
+
+msgctxt "42824"
+msgid "I've never seen a house like that."
+msgstr "Non ho mai visto una casa del genere."
+
+msgctxt "42859"
+msgid "I'm sure it'll suit you even as a blonde."
+msgstr "Ti starà benissimo anche da biondo."
+
+msgctxt "42901"
+msgid "Why not wear a wig?"
+msgstr "Perché non ti metti una parrucca?"
+
+msgctxt "42921"
+msgid "CABA_錦栄町_メール３－２正解"
+msgstr "CABA_錦栄町_メール３－２正解"
+
+msgctxt "42961"
+msgid "Oh, so you prefer the"
+msgstr "Oh, quindi preferisci il"
+
+msgctxt "42983"
+msgid "Japanese style?"
+msgstr "Stile giapponese?"
+
+msgctxt "42999"
+msgid "I also have a soft spot for traditional"
+msgstr "Ho anch'io un debole per il tradizionale"
+
+msgctxt "43039"
+msgid "Japanese gardens and architecture."
+msgstr "Giardini e architetture giapponesi."
+
+msgctxt "43074"
+msgid "I like kimonos as well, but"
+msgstr "Anche a me piacciono i kimono, ma"
+
+msgctxt "43102"
+msgid "my hair color isn't a good"
+msgstr "il mio colore di capelli non è un buon"
+
+msgctxt "43129"
+msgid "fit, so I rarely get a chance"
+msgstr "incastrare, quindi ho di rado l'occasione"
+
+msgctxt "43159"
+msgid "to wear one these days..."
+msgstr "indossarne uno di questi tempi..."
+
+msgctxt "43185"
+msgid "About wigs"
+msgstr "Sulle parrucche"
+
+msgctxt "43196"
+msgid "That thought had never"
+msgstr "Quel pensiero non aveva mai"
+
+msgctxt "43219"
+msgid "even crossed my mind!"
+msgstr "non mi è nemmeno passato per la testa!"
+
+msgctxt "43241"
+msgid "I'm hesitant to dye my hair,"
+msgstr "Sono titubante a tingermi i capelli,"
+
+msgctxt "43270"
+msgid "but I wouldn't have to worry"
+msgstr "ma non mi dovrei preoccupare"
+
+msgctxt "43299"
+msgid "if I wore a wig, would I?"
+msgstr "se mi mettessi una parrucca, mi riconosceresti?"
+
+msgctxt "43325"
+msgid "I can't imagine myself all"
+msgstr "Non riesco proprio a immaginarmi del tutto"
+
+msgctxt "43352"
+msgid "dressed up like a Japanese doll."
+msgstr "agghindato come una bambola giapponese."
+
+msgctxt "43385"
+msgid "This is Shion"
+msgstr "Sono Shion"
+
+msgctxt "43399"
+msgid "You should choose cars you're used to."
+msgstr "Dovresti scegliere le macchine a cui sei abituato."
+
+msgctxt "43438"
+msgid "Don't get into an accident, okay?"
+msgstr "Non fare incidenti, va bene?"
+
+msgctxt "43472"
+msgid "Walking is good for your health!"
+msgstr "Camminare fa bene alla salute!"
+
+msgctxt "43505"
+msgid "CABA_錦栄町_メール４終了"
+msgstr "CABA_錦栄町_メール４終了"
+
+msgctxt "43539"
+msgid "CABA_錦栄町_メール４－１正解"
+msgstr "CABA_錦栄町_メール４－１正解"
+
+msgctxt "43579"
+msgid "I took my vehicle to get"
+msgstr "Ho portato il mio veicolo a far"
+
+msgctxt "43604"
+msgid "inspected the other day."
+msgstr "controllato l'altro giorno."
+
+msgctxt "43629"
+msgid "They loaned me a car, but"
+msgstr "Mi hanno prestato una macchina, ma"
+
+msgctxt "43655"
+msgid "I've never gotten used to"
+msgstr "Non mi sono mai abituato a"
+
+msgctxt "43681"
+msgid "having the steering wheel"
+msgstr "avere il volante in mano"
+
+msgctxt "43707"
+msgid "on the right-hand side."
+msgstr "sul lato destro."
+
+msgctxt "43731"
+msgid "Maybe I should buy a"
+msgstr "Forse dovrei comprare un"
+
+msgctxt "43752"
+msgid "Japanese car next time."
+msgstr "Auto giapponese la prossima volta."
+
+msgctxt "43776"
+msgid "About my driving"
+msgstr "A proposito della mia guida"
+
+msgctxt "43793"
+msgid "Don't rely on your dog!"
+msgstr "Non contare sul tuo cane!"
+
+msgctxt "43817"
+msgid "Want me to help?"
+msgstr "Vuoi che ti aiuti?"
+
+msgctxt "43834"
+msgid "What a smart dog!"
+msgstr "Che cane sveglio!"
+
+msgctxt "43852"
+msgid "CABA_錦栄町_メール４－２正解"
+msgstr "CABA_錦栄町_メール４－２正解"
+
+msgctxt "43892"
+msgid "So far, so good."
+msgstr "Finora, tutto bene."
+
+msgctxt "43909"
+msgid "My pet dog Ulysses always"
+msgstr "Il mio cane Ulysses sempre"
+
+msgctxt "43935"
+msgid "checks behind me when I turn"
+msgstr "guarda dietro di me quando mi giro"
+
+msgctxt "43964"
+msgid "corners or change lanes,"
+msgstr "curve o cambiare corsia,"
+
+msgctxt "43989"
+msgid "and he barks if there's any"
+msgstr "e abbaia se c'è qualcosa"
+
+msgctxt "44017"
+msgid "danger."
+msgstr "pericolo."
+
+msgctxt "44025"
+msgid "Many people in Nagoya lack"
+msgstr "Molte persone a Nagoya sono prive di"
+
+msgctxt "44052"
+msgid "driving etiquette, so he's"
+msgstr "l'educazione alla guida, quindi è"
+
+msgctxt "44079"
+msgid "a big help."
+msgstr "una grossa mano."
+
+msgctxt "44091"
+msgid "My little Ulysses"
+msgstr "Mio piccolo Ulisse"
+
+msgctxt "44109"
+msgid "Ulysses is quite intelligent."
+msgstr "Ulysses è piuttosto intelligente."
+
+msgctxt "44139"
+msgid "He evens waits outside"
+msgstr "Aspetta persino fuori"
+
+msgctxt "44162"
+msgid "patiently when I eat at restaurants."
+msgstr "pazientemente quando mangio nei ristoranti."
+
+msgctxt "44199"
+msgid "When I get lost on the way"
+msgstr "Quando mi perdo per strada"
+
+msgctxt "44226"
+msgid "home, he runs ahead and"
+msgstr "verso casa, lui corre avanti e"
+
+msgctxt "44250"
+msgid "leads the way. I always"
+msgstr "apre la strada. Io sempre"
+
+msgctxt "44274"
+msgid "take him with me when I go out."
+msgstr "Portarlo con me quando esco."
+
+msgctxt "44306"
+msgid "I might take him with me on"
+msgstr "Potrei portarlo con me per"
+
+msgctxt "44334"
+msgid "my next date, too."
+msgstr "anche il mio prossimo appuntamento."
+
+msgctxt "44353"
+msgid "You should just deny it."
+msgstr "Dovresti solo negare."
+
+msgctxt "44378"
+msgid "I guess celebrities love rumors!"
+msgstr "Immagino che le celebrità amino i pettegolezzi!"
+
+msgctxt "44411"
+msgid "Who were you with, Shion-chan?"
+msgstr "Con chi eri, Shion-chan?"
+
+msgctxt "44442"
+msgid "CABA_錦栄町_メール５－１正解"
+msgstr "CABA_錦栄町_メール５－１正解"
+
+msgctxt "44482"
+msgid "CABA_錦栄町_メール５終了"
+msgstr "CABA_錦栄町_メール５終了"
+
+msgctxt "44516"
+msgid "The other day I saw a man I"
+msgstr "L'altro giorno ho visto un uomo io"
+
+msgctxt "44544"
+msgid "know having dinner with a"
+msgstr "So che stai cenando con un"
+
+msgctxt "44570"
+msgid "woman who wasn't his wife."
+msgstr "donna che non era sua moglie."
+
+msgctxt "44597"
+msgid "It was at a popular spot, so"
+msgstr "Era in un posto popolare, quindi"
+
+msgctxt "44626"
+msgid "he was seen by a lot of people,"
+msgstr "è stato visto da un sacco di persone,"
+
+msgctxt "44658"
+msgid "and of course his wife heard"
+msgstr "e ovviamente sua moglie sentì"
+
+msgctxt "44687"
+msgid "the rumors soon enough."
+msgstr "le voci abbastanza presto."
+
+msgctxt "44711"
+msgid "I don't know why, but the"
+msgstr "Non so perché, ma il"
+
+msgctxt "44737"
+msgid "rumors say it was me he was"
+msgstr "Si dice che fossi io quello che lui stesse"
+
+msgctxt "44765"
+msgid "with that day."
+msgstr "con quel giorno."
+
+msgctxt "44780"
+msgid "It actually has me quite concerned."
+msgstr "A dire il vero, mi preoccupa non poco."
+
+msgctxt "44816"
+msgid "What happened at dinner"
+msgstr "Cosa è successo a cena"
+
+msgctxt "44840"
+msgid "You're so nice, Shion-chan."
+msgstr "Sei proprio un tesoro, Shion-chan."
+
+msgctxt "44868"
+msgid "I wanna get rumored about with you, Shion-chan!"
+msgstr "Voglio farmi spettegolare con te, Shion-chan!"
+
+msgctxt "44916"
+msgid "You should tell the truth."
+msgstr "Dovresti dire la verità."
+
+msgctxt "44943"
+msgid "CABA_錦栄町_メール５－２正解"
+msgstr "CABA_錦栄町_メール５－２正解"
+
+msgctxt "44983"
+msgid "My denying it won't change"
+msgstr "Il mio negarlo non cambierà"
+
+msgctxt "45010"
+msgid "the fact he was cheating on"
+msgstr "il fatto che le facesse le corna"
+
+msgctxt "45038"
+msgid "his wife, so that doesn't"
+msgstr "sua moglie, quindi non"
+
+msgctxt "45064"
+msgid "solve anything."
+msgstr "Risolvere nulla."
+
+msgctxt "45080"
+msgid "I just remembered who the"
+msgstr "Mi sono appena ricordato chi è il"
+
+msgctxt "45106"
+msgid "woman he was with was."
+msgstr "chi fosse la donna con cui stava."
+
+msgctxt "45129"
+msgid "She's also married and has"
+msgstr "È anche sposata e ha"
+
+msgctxt "45156"
+msgid "children."
+msgstr "bambini."
+
+msgctxt "45166"
+msgid "It would be easy to tell the"
+msgstr "Sarebbe facile dire il"
+
+msgctxt "45195"
+msgid "truth, but I worry I'd only"
+msgstr "verità, ma temo che finirei solo"
+
+msgctxt "45223"
+msgid "be causing more trouble."
+msgstr "causare più guai."
+
+msgctxt "45248"
+msgid "Perhaps it would be better"
+msgstr "Forse sarebbe meglio"
+
+msgctxt "45275"
+msgid "if I just kept this to myself."
+msgstr "se me lo fossi tenuto per me."
+
+msgctxt "45306"
+msgid "My reply"
+msgstr "La mia risposta"
+
+msgctxt "45315"
+msgid "As you say, maybe the man"
+msgstr "Come dici, forse l'uomo"
+
+msgctxt "45341"
+msgid "would be happy if people"
+msgstr "sarei felice se la gente"
+
+msgctxt "45366"
+msgid "thought he was seeing a much"
+msgstr "pensava che stesse vedendo un sacco"
+
+msgctxt "45395"
+msgid "younger woman."
+msgstr "donna più giovane."
+
+msgctxt "45410"
+msgid "Well, as long as it makes"
+msgstr "Beh, finché fa"
+
+msgctxt "45436"
+msgid "someone happy, I guess"
+msgstr "qualcuno felice, immagino"
+
+msgctxt "45459"
+msgid "leaving things as they are"
+msgstr "lasciare le cose come stanno"
+
+msgctxt "45486"
+msgid "might be interesting."
+msgstr "potrebbe essere interessante."
+
+msgctxt "45508"
+msgid "Good luck!"
+msgstr "Buona fortuna!"
+
+msgctxt "45519"
+msgid "I'll go!"
+msgstr "Vado!"
+
+msgctxt "45528"
+msgid "What sort of recital?"
+msgstr "Che tipo di recital?"
+
+msgctxt "45550"
+msgid "CABA_錦栄町_メール６終了"
+msgstr "CABA_錦栄町_メール６終了"
+
+msgctxt "45584"
+msgid "CABA_錦栄町_メール６－１正解"
+msgstr "CABA_錦栄町_メール６－１正解"
+
+msgctxt "45624"
+msgid "I am going to be helping a"
+msgstr "Aiuterò un"
+
+msgctxt "45651"
+msgid "friend with her recital,"
+msgstr "amico al suo saggio,"
+
+msgctxt "45676"
+msgid "accompanying her on guitar."
+msgstr "accompagnandola alla chitarra."
+
+msgctxt "45704"
+msgid "You'll come if you have time,"
+msgstr "Se hai tempo, fai un salto."
+
+msgctxt "45734"
+msgid "won't you, Shinada-san?"
+msgstr "Vero, Shinada-san?"
+
+msgctxt "45758"
+msgid "About the recital"
+msgstr "Riguardo al recital"
+
+msgctxt "45776"
+msgid "You're making it sound like your recital."
+msgstr "Parli come se fosse il tuo recital."
+
+msgctxt "45818"
+msgid "You should hang out with me!"
+msgstr "Dovresti farti un giro con me!"
+
+msgctxt "45847"
+msgid "I'm sure you can do it!"
+msgstr "Sono sicuro che puoi farcela!"
+
+msgctxt "45871"
+msgid "CABA_錦栄町_メール６－２正解"
+msgstr "CABA_錦栄町_メール６－２正解"
+
+msgctxt "45911"
+msgid "It's a flamenco recital."
+msgstr "È un recital di flamenco."
+
+msgctxt "45936"
+msgid "My friend has been taking"
+msgstr "Il mio amico ha preso"
+
+msgctxt "45962"
+msgid "dance lessons."
+msgstr "lezioni di ballo."
+
+msgctxt "45977"
+msgid "I've only played a little"
+msgstr "Ho giocato solo un po'"
+
+msgctxt "46003"
+msgid "flamenco guitar before, so"
+msgstr "chitarra flamenca prima, quindi"
+
+msgctxt "46030"
+msgid "I'm brushing up right now."
+msgstr "Mi sto dando una lucidata proprio adesso."
+
+msgctxt "46057"
+msgid "I have to get it right, or"
+msgstr "Devo farla giusta, o"
+
+msgctxt "46084"
+msgid "I'll let my friend down, so"
+msgstr "Deluderò il mio amico, quindi"
+
+msgctxt "46112"
+msgid "I'm going to have to use all"
+msgstr "Dovrò usare tutto"
+
+msgctxt "46141"
+msgid "my free time to practice."
+msgstr "il mio tempo libero per fare pratica."
+
+msgctxt "46167"
+msgid "Getting back to you"
+msgstr "Ti rispondo"
+
+msgctxt "46187"
+msgid "You're right. I am making it"
+msgstr "Hai ragione. Ce la sto facendo."
+
+msgctxt "46216"
+msgid "sound like my recital."
+msgstr "Sembra il mio saggio."
+
+msgctxt "46239"
+msgid "Come to think of it, it's"
+msgstr "Ora che ci penso, è"
+
+msgctxt "46265"
+msgid "making me very nervous."
+msgstr "Mi sta rendendo molto nervoso."
+
+msgctxt "46289"
+msgid "If you were there to watch"
+msgstr "Se fossi stato lì a guardare"
+
+msgctxt "46316"
+msgid "me, I think it would help"
+msgstr "Secondo me, aiuterebbe."
+
+msgctxt "46342"
+msgid "calm me down."
+msgstr "Calmami."
+
+msgctxt "46356"
+msgid "I do hope you can make it."
+msgstr "Spero proprio che tu riesca a venire."
+
+msgctxt "46383"
+msgid "Mr. Shinada"
+msgstr "Signor Shinada"
+
+msgctxt "46395"
+msgid "I'm at the club today."
+msgstr "Sono al club oggi."
+
+msgctxt "46418"
+msgid "If you aren't too busy,"
+msgstr "Se non sei troppo impegnato,"
+
+msgctxt "46442"
+msgid "please come and see me."
+msgstr "Per favore, vieni a trovarmi."
+
+msgctxt "46466"
+msgid "Shinada-san"
+msgstr "Shinada-san"
+
+msgctxt "46478"
+msgid "Things have been so dull"
+msgstr "È stato tutto un mortorio."
+
+msgctxt "46503"
+msgid "lately without you stopping"
+msgstr "ultimamente senza che ti fermi"
+
+msgctxt "46531"
+msgid "by to see me."
+msgstr "Passa a trovarmi."
+
+msgctxt "46545"
+msgid "Are you busy with work?"
+msgstr "Sei impegnato col lavoro?"
+
+msgctxt "46569"
+msgid "You're welcome here anytime, so"
+msgstr "Sei sempre il benvenuto qui, quindi"
+
+msgctxt "46601"
+msgid "please drop in whenever you like."
+msgstr "Fatti un salto quando vuoi."
+
+msgctxt "46635"
+msgid "Hinata Osaki"
+msgstr "Hinata Osaki"
+
+msgctxt "46648"
+msgid "2d_mr_m_hinata"
+msgstr "2d_mr_m_hinata"
+
+msgctxt "46663"
+msgid "I get the feeling I've got a"
+msgstr "Mi sa che ho un"
+
+msgctxt "46692"
+msgid "lot of growing up to do."
+msgstr "Deve ancora crescere un bel po'."
+
+msgctxt "46717"
+msgid "I guess everyone goes"
+msgstr "Credo che ci vadano tutti."
+
+msgctxt "46739"
+msgid "through this at some point,"
+msgstr "a un certo punto ci passeremo in mezzo,"
+
+msgctxt "46767"
+msgid "though."
+msgstr "però."
+
+msgctxt "46775"
+msgid "But I didn't do anything"
+msgstr "Ma non ho fatto niente"
+
+msgctxt "46800"
+msgid "I'll regret."
+msgstr "Mi pentirò."
+
+msgctxt "46813"
+msgid "There's no need to force"
+msgstr "Non c'è bisogno di forzare"
+
+msgctxt "46838"
+msgid "myself before I'm ready,"
+msgstr "me stesso prima di essere pronto,"
+
+msgctxt "46863"
+msgid "Thank you, Kiryu-san."
+msgstr "Grazie, Kiryu-san."
+
+msgctxt "46885"
+msgid "This is Hinata."
+msgstr "Sono Hinata."
+
+msgctxt "46901"
+msgid "Keep your chin up!"
+msgstr "Tieni duro!"
+
+msgctxt "46920"
+msgid "Be professional."
+msgstr "Sii professionale."
+
+msgctxt "46937"
+msgid "Just your motivation?"
+msgstr "Solo la tua motivazione?"
+
+msgctxt "46959"
+msgid "CABA_神室町_メール１－１正解"
+msgstr "CABA_神室町_メール１－１正解"
+
+msgctxt "46999"
+msgid "CABA_神室町_メール１終了"
+msgstr "CABA_神室町_メール１終了"
+
+msgctxt "47033"
+msgid "キャバクラ_桜咲ひなた_メール起動タイマー"
+msgstr "キャバクラ_桜咲ひなた_メール起動タイマー"
+
+msgctxt "47093"
+msgid "Thanks for today!"
+msgstr "Grazie per oggi!"
+
+msgctxt "47111"
+msgid "I just started at the club,"
+msgstr "Ho appena iniziato al club,"
+
+msgctxt "47139"
+msgid "so there's a lot I don't know yet."
+msgstr "Quindi ci sono ancora un sacco di cose che non so."
+
+msgctxt "47174"
+msgid "I'll try my hardest, though, so give"
+msgstr "Farò del mio meglio, però, quindi dai"
+
+msgctxt "47211"
+msgid "me a chance! I'm as motivated"
+msgstr "dammi una possibilità! Sono altrettanto motivato"
+
+msgctxt "47241"
+msgid "as they come! ( ^ w ^ )"
+msgstr "Man mano che arrivano! ( ^ w ^ )"
+
+msgctxt "47265"
+msgid "Re: Keep your chin up"
+msgstr "Re: Su col morale"
+
+msgctxt "47287"
+msgid "I'll come by again."
+msgstr "Ci ripasso."
+
+msgctxt "47307"
+msgid "Maybe you're thinking of someone else?"
+msgstr "Magari stai pensando a qualcun altro?"
+
+msgctxt "47346"
+msgid "I'm famous?"
+msgstr "Sono famoso?"
+
+msgctxt "47358"
+msgid "CABA_神室町_メール１－２正解"
+msgstr "CABA_神室町_メール１－２正解"
+
+msgctxt "47398"
+msgid "Oh yeah! They say you've"
+msgstr "Ah, sì! Dicono che tu abbia"
+
+msgctxt "47423"
+msgid "been coming to our club"
+msgstr "Ha frequentato il nostro locale"
+
+msgctxt "47447"
+msgid "for a while."
+msgstr "per un po'."
+
+msgctxt "47460"
+msgid "You're pretty famous here!"
+msgstr "Sei piuttosto famoso qui!"
+
+msgctxt "47487"
+msgid "I had no idea! Bear with me"
+msgstr "Non ne avevo idea! Porta pazienza"
+
+msgctxt "47515"
+msgid "while I find my footing, okay?"
+msgstr "mentre mi sistemo, va bene?"
+
+msgctxt "47546"
+msgid "Re: I'm intrigued"
+msgstr "Re: Sono incuriosito"
+
+msgctxt "47564"
+msgid "You're friends with the"
+msgstr "Sei amico del"
+
+msgctxt "47588"
+msgid "owner, right? I've been"
+msgstr "proprietario, vero? Sono stato"
+
+msgctxt "47612"
+msgid "asking around."
+msgstr "Chiedendo in giro."
+
+msgctxt "47627"
+msgid "Regulars are like family, so"
+msgstr "Gli habitué sono come di famiglia, quindi"
+
+msgctxt "47656"
+msgid "I hope I can settle in as"
+msgstr "Spero di riuscire ad ambientarmi come"
+
+msgctxt "47682"
+msgid "part of the team soon."
+msgstr "Sarai presto parte della squadra."
+
+msgctxt "47705"
+msgid "I love working at places"
+msgstr "Mi piace lavorare nei posti"
+
+msgctxt "47730"
+msgid "that feel like home. ( ^ w ^ )"
+msgstr "che ti fa sentire a casa. ( ^ w ^ )"
+
+msgctxt "47761"
+msgid "Wow"
+msgstr "Wow"
+
+msgctxt "47765"
+msgid "What about nails?"
+msgstr "E le unghie?"
+
+msgctxt "47783"
+msgid "Sounds like you could stand to save some money."
+msgstr "Mi sa che ti farebbe bene risparmiare qualche soldo."
+
+msgctxt "47831"
+msgid "You aiming to become a beautician?"
+msgstr "Miri a diventare un estetista?"
+
+msgctxt "47866"
+msgid "CABA_神室町_メール２－１正解"
+msgstr "CABA_神室町_メール２－１正解"
+
+msgctxt "47906"
+msgid "CABA_神室町_メール２終了"
+msgstr "CABA_神室町_メール２終了"
+
+msgctxt "47940"
+msgid "I'm getting my hair and makeup"
+msgstr "Mi sto facendo i capelli e il trucco"
+
+msgctxt "47971"
+msgid "done at the salon. The people here"
+msgstr "fatto al salone. La gente qui"
+
+msgctxt "48006"
+msgid "are so good at what they do,"
+msgstr "sono così bravi in quello che fanno,"
+
+msgctxt "48035"
+msgid "and they're so fast!"
+msgstr "e sono così veloci!"
+
+msgctxt "48056"
+msgid "I think I want to practice"
+msgstr "Penso di voler fare pratica"
+
+msgctxt "48083"
+msgid "until I get good myself."
+msgstr "fino a quando non diventerò bravo io stesso."
+
+msgctxt "48108"
+msgid "Re: Just a suggestion"
+msgstr "Re: Solo un suggerimento"
+
+msgctxt "48130"
+msgid "Ask me anything."
+msgstr "Chiedimi qualsiasi cosa."
+
+msgctxt "48147"
+msgid "Maybe I should do something."
+msgstr "Forse dovrei fare qualcosa."
+
+msgctxt "48176"
+msgid "You should do something for me."
+msgstr "Dovresti fare qualcosa per me."
+
+msgctxt "48208"
+msgid "CABA_神室町_メール２－２正解"
+msgstr "CABA_神室町_メール２－２正解"
+
+msgctxt "48248"
+msgid "Nails are cool, too!"
+msgstr "Anche le unghie sono fighe!"
+
+msgctxt "48269"
+msgid "You can do all sorts of"
+msgstr "Puoi fare ogni genere di"
+
+msgctxt "48293"
+msgid "things with them! I'll do"
+msgstr "roba con loro! Farò"
+
+msgctxt "48319"
+msgid "a little research!"
+msgstr "una piccola ricerca!"
+
+msgctxt "48338"
+msgid "I like the way you think,"
+msgstr "Mi piace come ragioni,"
+
+msgctxt "48364"
+msgid "Kiryu-san. ( ^ w ^ )"
+msgstr "Kiryu-san. ( ^ w ^ )"
+
+msgctxt "48385"
+msgid "Re: Now that you mention it"
+msgstr "Re: Ora che me lo dici"
+
+msgctxt "48413"
+msgid "You can be a hairdresser!"
+msgstr "Puoi fare il parrucchiere!"
+
+msgctxt "48439"
+msgid "You don't do much with your"
+msgstr "Non fai molto con il tuo"
+
+msgctxt "48467"
+msgid "hair, right?"
+msgstr "capelli, vero?"
+
+msgctxt "48480"
+msgid "I bet you'd have a blast playing"
+msgstr "Scommetto che ti divertiresti un sacco a giocare"
+
+msgctxt "48513"
+msgid "around with other people's hair."
+msgstr "mettere le mani nei capelli degli altri."
+
+msgctxt "48546"
+msgid "And you could do my hair"
+msgstr "E potresti farmi i capelli"
+
+msgctxt "48571"
+msgid "for free! /(^o^)/"
+msgstr "gratis! /(^o^)/"
+
+msgctxt "48589"
+msgid "I don't get it..."
+msgstr "Non capisco..."
+
+msgctxt "48607"
+msgid "I would go home instead of lining up."
+msgstr "Me ne andrei a casa invece di fare la fila."
+
+msgctxt "48645"
+msgid "Well that's no good."
+msgstr "Beh, non va mica bene."
+
+msgctxt "48666"
+msgid "Didn't know it was that popular."
+msgstr "Non sapevo fosse così popolare."
+
+msgctxt "48699"
+msgid "CABA_神室町_メール３終了"
+msgstr "CABA_神室町_メール３終了"
+
+msgctxt "48733"
+msgid "CABA_神室町_メール３－１正解"
+msgstr "CABA_神室町_メール３－１正解"
+
+msgctxt "48773"
+msgid "One of my favorite tea"
+msgstr "Uno dei miei tè preferiti"
+
+msgctxt "48796"
+msgid "shops is going to sell a"
+msgstr "i negozi stanno per vendere un"
+
+msgctxt "48821"
+msgid "limited edition tea cup."
+msgstr "tazza da tè in edizione limitata."
+
+msgctxt "48846"
+msgid "I came to pre-order, but the"
+msgstr "Sono venuto a preordinare, ma il"
+
+msgctxt "48875"
+msgid "line is all the way around"
+msgstr "La coda fa tutto il giro"
+
+msgctxt "48902"
+msgid "the corner. I don't believe this."
+msgstr "l'angolo. Non ci credo."
+
+msgctxt "48936"
+msgid "What's the point of lining"
+msgstr "Che senso ha allineare"
+
+msgctxt "48963"
+msgid "up just to pre-order?"
+msgstr "ti sei scomodato solo per preordinare?"
+
+msgctxt "48985"
+msgid "_(:3 7  2)_"
+msgstr "_(:3 7  2)_"
+
+msgctxt "48997"
+msgid "Re: That's too bad"
+msgstr "Re: È un peccato"
+
+msgctxt "49016"
+msgid "It'll be worth more to you if you lined up for it."
+msgstr "Ti varrà di più se ti ci mettessi in coda per averlo."
+
+msgctxt "49067"
+msgid "I could see it happening."
+msgstr "Lo vedevo arrivare."
+
+msgctxt "49093"
+msgid "So were you able to pre-order in the end?"
+msgstr "Allora, alla fine sei riuscito a preordinare?"
+
+msgctxt "49135"
+msgid "CABA_神室町_メール３－２正解"
+msgstr "CABA_神室町_メール３－２正解"
+
+msgctxt "49175"
+msgid "Right!?"
+msgstr "Giusto!?"
+
+msgctxt "49183"
+msgid "Isn't a pre-order supposed to be so"
+msgstr "Un pre-ordine non dovrebbe essere così"
+
+msgctxt "49219"
+msgid "you don't have to line up to buy it?"
+msgstr "Non devi fare la fila per comprarlo?"
+
+msgctxt "49256"
+msgid "I might as well just line up"
+msgstr "Tanto vale che mi metta in fila."
+
+msgctxt "49285"
+msgid "on the day it goes on sale!"
+msgstr "il giorno in cui uscirà in vendita!"
+
+msgctxt "49313"
+msgid "If I have to line up again,"
+msgstr "Se mi tocca fare la fila di nuovo,"
+
+msgctxt "49341"
+msgid "I'm going to explode!"
+msgstr "Sto per esplodere!"
+
+msgctxt "49363"
+msgid "Re: By the way"
+msgstr "Re: A proposito"
+
+msgctxt "49378"
+msgid "( ^ w ^ )"
+msgstr "( ^ w ^ )"
+
+msgctxt "49388"
+msgid "I might've been out of luck"
+msgstr "Potrei essere stato sfortunato"
+
+msgctxt "49416"
+msgid "if I got there a bit later."
+msgstr "se fossi arrivato un po' più tardi."
+
+msgctxt "49444"
+msgid "I guess the early bird gets"
+msgstr "Immagino che chi si alza presto"
+
+msgctxt "49472"
+msgid "the worm!"
+msgstr "Il verme!"
+
+msgctxt "49482"
+msgid "Oh, besides the tea cups,"
+msgstr "Oh, a parte le tazze da tè,"
+
+msgctxt "49508"
+msgid "this place does really great"
+msgstr "Questo posto va davvero alla grande"
+
+msgctxt "49537"
+msgid "tea. You should try it!"
+msgstr "tè. Dovresti provarlo!"
+
+msgctxt "49561"
+msgid "You haven't written anything?"
+msgstr "Non hai scritto niente?"
+
+msgctxt "49591"
+msgid "(Reply with an empty email.)"
+msgstr "(Rispondi con un'e-mail vuota.)"
+
+msgctxt "49620"
+msgid "Let me know if you're bored, and we can hang out."
+msgstr "Fai un fischio se ti annoi, e possiamo farci un giro."
+
+msgctxt "49670"
+msgid "CABA_神室町_メール４終了"
+msgstr "CABA_神室町_メール４終了"
+
+msgctxt "49704"
+msgid "CABA_神室町_メール４－１正解"
+msgstr "CABA_神室町_メール４－１正解"
+
+msgctxt "49744"
+msgid "Re: Kiryu here"
+msgstr "Re: Qui Kiryu"
+
+msgctxt "49759"
+msgid "You're always welcome."
+msgstr "Sei sempre il benvenuto."
+
+msgctxt "49782"
+msgid "That's kind of annoying."
+msgstr "È un po' seccante."
+
+msgctxt "49807"
+msgid "I was bored too."
+msgstr "Anch'io mi annoiavo."
+
+msgctxt "49824"
+msgid "CABA_神室町_メール４－２正解"
+msgstr "CABA_神室町_メール４－２正解"
+
+msgctxt "49864"
+msgid "Yeah!"
+msgstr "Sì!"
+
+msgctxt "49870"
+msgid "It's my day off, and I'm"
+msgstr "È il mio giorno libero, e sono"
+
+msgctxt "49895"
+msgid "bored out of my skull."
+msgstr "Mi annoio da morire."
+
+msgctxt "49918"
+msgid "It's so nice of you to send"
+msgstr "È così gentile da parte tua inviare"
+
+msgctxt "49946"
+msgid "a proper reply when I just"
+msgstr "una risposta come si deve quando ho appena"
+
+msgctxt "49973"
+msgid "shoot off a blank email."
+msgstr "Mandare un'e-mail vuota."
+
+msgctxt "49998"
+msgid "I'll get ready to go out!"
+msgstr "Mi preparo per uscire!"
+
+msgctxt "50024"
+msgid "Sorry!"
+msgstr "Scusa!"
+
+msgctxt "50031"
+msgid "They're short on girls at"
+msgstr "Sono a corto di ragazze a"
+
+msgctxt "50057"
+msgid "the club, so I got called in."
+msgstr "il locale, così mi hanno chiamato."
+
+msgctxt "50087"
+msgid "I was really looking forward"
+msgstr "Non vedevo davvero l'ora"
+
+msgctxt "50116"
+msgid "to going out, too..."
+msgstr "anche per uscire..."
+
+msgctxt "50137"
+msgid "( ³w³ ')"
+msgstr "( ³w³ ')"
+
+msgctxt "50148"
+msgid "I'll take a rain check!"
+msgstr "Sarà per un'altra volta!"
+
+msgctxt "50172"
+msgid "Or you could always come and"
+msgstr "Oppure potresti sempre venire a"
+
+msgctxt "50201"
+msgid "see me at the club."
+msgstr "Fatti vedere al club."
+
+msgctxt "50221"
+msgid "Damn things"
+msgstr "Maledette cose"
+
+msgctxt "50233"
+msgid "You're not afraid?"
+msgstr "Non hai paura?"
+
+msgctxt "50252"
+msgid "Sounds like it's time to clean."
+msgstr "Sembra che sia ora di fare pulizia."
+
+msgctxt "50284"
+msgid "You don't have to give me a play-by-play."
+msgstr "Non devi farmi la cronaca in diretta."
+
+msgctxt "50326"
+msgid "CABA_神室町_メール５終了"
+msgstr "CABA_神室町_メール５終了"
+
+msgctxt "50360"
+msgid "CABA_神室町_メール５－１正解"
+msgstr "CABA_神室町_メール５－１正解"
+
+msgctxt "50400"
+msgid "I was cleaning my place, and"
+msgstr "Stavo pulendo casa mia, e"
+
+msgctxt "50429"
+msgid "a roach crawled out from"
+msgstr "Uno scarafaggio è strisciato fuori da"
+
+msgctxt "50454"
+msgid "behind the refrigerator! It was a"
+msgstr "dietro il frigorifero! Era un"
+
+msgctxt "50488"
+msgid "real lively one despite it being winter."
+msgstr "davvero un bel viavai nonostante sia inverno."
+
+msgctxt "50529"
+msgid "I lost sight of it, so I'm waiting"
+msgstr "L'ho perso d'occhio, quindi sto aspettando."
+
+msgctxt "50564"
+msgid "for it to crawl out. (*w*)"
+msgstr "perché strisciasse fuori. (*w*)"
+
+msgctxt "50591"
+msgid "Re: Time to clean"
+msgstr "Re: È ora di pulire"
+
+msgctxt "50609"
+msgid "It's your fault for doing it."
+msgstr "È colpa tua per averlo fatto."
+
+msgctxt "50639"
+msgid "You sound like his mother."
+msgstr "Sembri sua madre."
+
+msgctxt "50666"
+msgid "Did you read them?"
+msgstr "Li hai letti?"
+
+msgctxt "50685"
+msgid "CABA_神室町_メール５－２正解"
+msgstr "CABA_神室町_メール５－２正解"
+
+msgctxt "50725"
+msgid "Yeah, I guess it is that"
+msgstr "Già, credo sia quello"
+
+msgctxt "50750"
+msgid "time of year again. I was"
+msgstr "di nuovo quel periodo dell'anno. Ero"
+
+msgctxt "50776"
+msgid "cleaning my little brother's room"
+msgstr "Pulire la stanza del mio fratellino"
+
+msgctxt "50810"
+msgid "and found a huge stack of"
+msgstr "e ho trovato un'enorme pila di"
+
+msgctxt "50836"
+msgid "dirty mags. Ugh..."
+msgstr "riviste zozze. Ugh..."
+
+msgctxt "50855"
+msgid "I told my brother to clean"
+msgstr "Ho detto a mio fratello di pulire"
+
+msgctxt "50882"
+msgid "his own room from now on."
+msgstr "la sua stanza d'ora in poi."
+
+msgctxt "50908"
+msgid "Re: I disagree"
+msgstr "Re: Non sono d'accordo"
+
+msgctxt "50923"
+msgid "I thought you'd say that,"
+msgstr "Me l'aspettavo,"
+
+msgctxt "50949"
+msgid "but people like him need to"
+msgstr "Ma gente come lui deve"
+
+msgctxt "50977"
+msgid "learn to pick up after"
+msgstr "Impara a mettere a posto"
+
+msgctxt "51000"
+msgid "themselves."
+msgstr "loro stessi."
+
+msgctxt "51012"
+msgid "I had a feeling you were the"
+msgstr "Avevo la sensazione che fossi il"
+
+msgctxt "51041"
+msgid "type who leaves cleaning to us"
+msgstr "Tipo che lascia le pulizie a noi"
+
+msgctxt "51072"
+msgid "girls. You've got to learn to tidy"
+msgstr "Ragazze. Dovete imparare a mettere in ordine"
+
+msgctxt "51107"
+msgid "up your own room!"
+msgstr "Migliora la tua stanza!"
+
+msgctxt "51125"
+msgid "( # ^ w^)"
+msgstr "( # ^ w^)"
+
+msgctxt "51135"
+msgid "Yahoo!"
+msgstr "Ehi!"
+
+msgctxt "51142"
+msgid "You should introduce me to her."
+msgstr "Dovresti presentarmela."
+
+msgctxt "51174"
+msgid "I'm sure you can do it."
+msgstr "Sono sicuro che ce la puoi fare."
+
+msgctxt "51198"
+msgid "Cherish those relationships."
+msgstr "Fai tesoro di quei rapporti."
+
+msgctxt "51227"
+msgid "CABA_神室町_メール６終了"
+msgstr "CABA_神室町_メール６終了"
+
+msgctxt "51261"
+msgid "CABA_神室町_メール６－１正解"
+msgstr "CABA_神室町_メール６－１正解"
+
+msgctxt "51301"
+msgid "I'm having coffee with some of the"
+msgstr "Sto prendendo un caffè con alcuni dei"
+
+msgctxt "51336"
+msgid "other staff. There's one veteran"
+msgstr "altro personale. C'è un veterano"
+
+msgctxt "51369"
+msgid "girl here who everyone really"
+msgstr "ragazza qui che tutti davvero"
+
+msgctxt "51399"
+msgid "looks up to."
+msgstr "Ammira."
+
+msgctxt "51412"
+msgid "She's apparently in a band,"
+msgstr "A quanto pare è in una band,"
+
+msgctxt "51440"
+msgid "too! She's so cool!"
+msgstr "Anch'io! È così forte!"
+
+msgctxt "51460"
+msgid "o(^w^)o"
+msgstr "o(^w^)o"
+
+msgctxt "51468"
+msgid "One day I want to be like her!"
+msgstr "Un giorno voglio essere come lei!"
+
+msgctxt "51499"
+msgid "Re: That's great"
+msgstr "Re: Ottimo!"
+
+msgctxt "51516"
+msgid "You're pretty attractive as is."
+msgstr "Sei già piuttosto attraente così come sei."
+
+msgctxt "51548"
+msgid "No need to rush it."
+msgstr "Non c'è fretta."
+
+msgctxt "51568"
+msgid "Yeah, a big brother."
+msgstr "Sì, un fratello maggiore."
+
+msgctxt "51589"
+msgid "CABA_神室町_メール６－２正解"
+msgstr "CABA_神室町_メール６－２正解"
+
+msgctxt "51629"
+msgid "Do you have anyone you look"
+msgstr "Hai qualcuno che guardi"
+
+msgctxt "51657"
+msgid "up to? A big brother type?"
+msgstr "Che tipo? Un tipo da fratello maggiore?"
+
+msgctxt "51684"
+msgid "I've got to say, everyone"
+msgstr "Devo dire, gente"
+
+msgctxt "51710"
+msgid "here is really amazing in"
+msgstr "qui è davvero incredibile in"
+
+msgctxt "51736"
+msgid "one way or another!"
+msgstr "in un modo o nell'altro!"
+
+msgctxt "51756"
+msgid "It makes me feel pretty"
+msgstr "Mi fa sentire bello"
+
+msgctxt "51780"
+msgid "worthless in comparison."
+msgstr "una nullità al confronto."
+
+msgctxt "51805"
+msgid "Re: Everyone's the same"
+msgstr "Re: Sono tutti uguali"
+
+msgctxt "51829"
+msgid "Thanks, Kiryu-san! You know"
+msgstr "Grazie, Kiryu-san! Sai"
+
+msgctxt "51857"
+msgid "how to cheer a girl up!"
+msgstr "Come tirare su il morale a una ragazza!"
+
+msgctxt "51881"
+msgid "Maybe you've even known this"
+msgstr "Magari lo sapevi pure"
+
+msgctxt "51910"
+msgid "girl since she started out"
+msgstr "la ragazza da quando ha iniziato"
+
+msgctxt "51937"
+msgid "here."
+msgstr "qui."
+
+msgctxt "51943"
+msgid "I guess I will keep my chin"
+msgstr "Immagino che terrò duro"
+
+msgctxt "51971"
+msgid "up! In three years time, I"
+msgstr "Su! Fra tre anni, io"
+
+msgctxt "51998"
+msgid "want people to look up to"
+msgstr "Voglio che la gente mi ammiri"
+
+msgctxt "52024"
+msgid "me like they do her!"
+msgstr "Vorrei mi trattassero come trattano lei!"
+
+msgctxt "52045"
+msgid "It's nice to have a new"
+msgstr "È bello avere un nuovo"
+
+msgctxt "52069"
+msgid "goal. ( ^ w ^ )"
+msgstr "Obiettivo. ( ^ w ^ )"
+
+msgctxt "52085"
+msgid "Hinata here"
+msgstr "Qui Hinata"
+
+msgctxt "52097"
+msgid "I'm working now. Come"
+msgstr "Sto lavorando adesso. Vieni."
+
+msgctxt "52119"
+msgid "see me at the club!"
+msgstr "Vieni a trovarmi al club!"
+
+msgctxt "52139"
+msgid "Don't be a stranger!"
+msgstr "Fatti vivo!"
+
+msgctxt "52160"
+msgid "It just isn't as fun when"
+msgstr "Non è poi così divertente quando"
+
+msgctxt "52186"
+msgid "you're not around."
+msgstr "Non ci sei."
+
+msgctxt "52205"
+msgid "At least come and pop your"
+msgstr "Almeno vieni a farti vedere"
+
+msgctxt "52232"
+msgid "head in once in a while!"
+msgstr "Fatti un salto ogni tanto!"
+
+msgctxt "52257"
+msgid "Lucky Service"
+msgstr "Servizio Fortunato"
+
+msgctxt "52271"
+msgid "Your fortune"
+msgstr "La tua fortuna"
+
+msgctxt "52284"
+msgid "LUCK_メール見た"
+msgstr "LUCK_メール見た"
+
+msgctxt "52305"
+msgid "Your Fortune Today"
+msgstr "La tua fortuna oggi"
+
+msgctxt "52324"
+msgid "Today is your lucky day!"
+msgstr "Oggi è il tuo giorno fortunato!"
+
+msgctxt "52349"
+msgid "You should have good things in store"
+msgstr "Dovresti avere delle belle cose in serbo"
+
+msgctxt "52386"
+msgid "for you! Maybe try going somewhere"
+msgstr "per te! Magari prova ad andare da qualche parte"
+
+msgctxt "52421"
+msgid "you could use some luck!"
+msgstr "Ti servirebbe un po' di fortuna!"
+
+msgctxt "52446"
+msgid "Your luck today is terrible."
+msgstr "La tua fortuna oggi è pessima."
+
+msgctxt "52475"
+msgid "Things won't be going your"
+msgstr "Le cose non andranno a tuo"
+
+msgctxt "52502"
+msgid "way, so avoid anything"
+msgstr "così, quindi stai alla larga da qualsiasi cosa"
+
+msgctxt "52525"
+msgid "involving luck."
+msgstr "che coinvolge la fortuna."
+
+msgctxt "52541"
+msgid "Akari"
+msgstr "Akari"
+
+msgctxt "52547"
+msgid "A favor"
+msgstr "Un favore"
+
+msgctxt "52555"
+msgid "STORY_DANCE_01_メール見た"
+msgstr "STORY_DANCE_01_メール見た"
+
+msgctxt "52586"
+msgid "Long time no see."
+msgstr "È da tanto che non ci vediamo."
+
+msgctxt "52604"
+msgid "My dancer friend has been"
+msgstr "Il mio amico ballerino è stato"
+
+msgctxt "52630"
+msgid "bugging me about having a"
+msgstr "Mi rompe le scatole per avere un"
+
+msgctxt "52656"
+msgid "dance battle with you,"
+msgstr "sfida di ballo con te,"
+
+msgctxt "52679"
+msgid "Haruka."
+msgstr "Haruka."
+
+msgctxt "52687"
+msgid "Would you mind taking her"
+msgstr "Ti dispiacerebbe accompagnarla?"
+
+msgctxt "52713"
+msgid "on for me?"
+msgstr "Si fa per me?"
+
+msgctxt "52724"
+msgid "She said she'll be waiting"
+msgstr "Ha detto che aspetterà"
+
+msgctxt "52751"
+msgid "near a tree on the Sotenbori"
+msgstr "vicino a un albero sul Sotenbori"
+
+msgctxt "52780"
+msgid "Footpath."
+msgstr "Marciapiede."
+
+msgctxt "52790"
+msgid "It's right behind Zuboraya. "
+msgstr "È proprio dietro a Zuboraya."
+
+msgctxt "52819"
+msgid "I know you're busy, and you"
+msgstr "So che sei impegnato, e tu"
+
+msgctxt "52847"
+msgid "probably have better things to"
+msgstr "probabilmente hai di meglio da fare"
+
+msgctxt "52878"
+msgid "do, but I'd appreciate the help."
+msgstr "fare, ma mi farebbe comodo una mano."
+
+msgctxt "52911"
+msgid "STORY_DANCE_01_アカリメール確認終了"
+msgstr "STORY_DANCE_01_アカリメール確認終了"
+
+msgctxt "52957"
+msgid "Thanks for everything!"
+msgstr "Grazie di tutto!"
+
+msgctxt "52980"
+msgid "I had no idea you and Yui"
+msgstr "Non avevo idea che tu e Yui"
+
+msgctxt "53006"
+msgid "were friends! The three of"
+msgstr "eravamo amici! Noi tre"
+
+msgctxt "53033"
+msgid "us should get together again!"
+msgstr "Ci dovremmo rivedere!"
+
+msgctxt "53063"
+msgid "I'm always really impressed"
+msgstr "Sono sempre davvero impressionato"
+
+msgctxt "53091"
+msgid "when I see you dance. Keep"
+msgstr "quando ti vedo ballare. Continua"
+
+msgctxt "53118"
+msgid "at it, okay?"
+msgstr "Dacci dentro, ok?"
+
+msgctxt "53131"
+msgid "I'll be in touch! Adios!"
+msgstr "Ci sentiamo! Ciao!"
+
+msgctxt "53156"
+msgid "Yui"
+msgstr "Yui"
+
+msgctxt "53160"
+msgid "That was tasty"
+msgstr "Era buono!"
+
+msgctxt "53175"
+msgid "STORY_DANCE_01_ユイメール確認終了"
+msgstr "STORY_DANCE_01_ユイメール確認終了"
+
+msgctxt "53218"
+msgid "I'm glad I ran into you"
+msgstr "Sono contento di averti incontrato"
+
+msgctxt "53242"
+msgid "today, Haruka-chan."
+msgstr "oggi, Haruka-chan."
+
+msgctxt "53262"
+msgid "You're probably busy, so I"
+msgstr "Sarai di sicuro impegnato, quindi io"
+
+msgctxt "53289"
+msgid "didn't want to bother you"
+msgstr "Non volevo darti fastidio"
+
+msgctxt "53315"
+msgid "too much. I'll send you another"
+msgstr "Troppo. Te ne manderò un altro"
+
+msgctxt "53347"
+msgid "email sometime."
+msgstr "Mandami un'email ogni tanto."
+
+msgctxt "53363"
+msgid "That okonomiyaki was pretty"
+msgstr "Quell'okonomiyaki era piuttosto"
+
+msgctxt "53391"
+msgid "tasty, huh? We gotta go again."
+msgstr "Buono, eh? Dobbiamo rifarlo."
+
+msgctxt "53422"
+msgid "Are you busy?"
+msgstr "Sei impegnato?"
+
+msgctxt "53436"
+msgid "STORY_DANCE_02_メール見た"
+msgstr "STORY_DANCE_02_メール見た"
+
+msgctxt "53467"
+msgid "Hey hey, Akari here! Are"
+msgstr "Ehi ehi, sono Akari! Are"
+
+msgctxt "53492"
+msgid "you busy now, Haruka?"
+msgstr "Sei occupata ora, Haruka?"
+
+msgctxt "53514"
+msgid "I have a favor to ask."
+msgstr "Ho un favore da chiedere."
+
+msgctxt "53537"
+msgid "I have another dancer friend"
+msgstr "Ho un altro amico ballerino"
+
+msgctxt "53566"
+msgid "who wants to dance with you."
+msgstr "chi vuole ballare con te."
+
+msgctxt "53595"
+msgid "Can you make it to the entrance"
+msgstr "Ce la fai a venire all'ingresso?"
+
+msgctxt "53627"
+msgid "of Bunzaemon Outdoor Mall?"
+msgstr "del Centro Commerciale all'aperto Bunzaemon?"
+
+msgctxt "53654"
+msgid "I'd appreciate it if you could"
+msgstr "Ti sarei grato se potessi"
+
+msgctxt "53685"
+msgid "go and see them when you"
+msgstr "vai a trovarli quando"
+
+msgctxt "53710"
+msgid "get a chance!"
+msgstr "Quando ti capita l'occasione!"
+
+msgctxt "53724"
+msgid "Sorry I keep asking you."
+msgstr "Scusa se continuo a chiederti."
+
+msgctxt "53749"
+msgid "See you around!"
+msgstr "Ci si vede in giro!"
+
+msgctxt "53765"
+msgid "lady_panther@..."
+msgstr "lady_panther@..."
+
+msgctxt "53782"
+msgid "Is this Haruka Sawamura?"
+msgstr "È Haruka Sawamura?"
+
+msgctxt "53807"
+msgid "STORY_DANCE_03_メール見た"
+msgstr "STORY_DANCE_03_メール見た"
+
+msgctxt "53838"
+msgid "Are you Haruka Sawamura?"
+msgstr "Sei Haruka Sawamura?"
+
+msgctxt "53863"
+msgid "I've heard rumors about you."
+msgstr "Ho sentito voci su di te."
+
+msgctxt "53892"
+msgid "I want a dance battle."
+msgstr "Voglio una battaglia di ballo."
+
+msgctxt "53915"
+msgid "I'm waiting at the parking"
+msgstr "Ti aspetto al parcheggio"
+
+msgctxt "53942"
+msgid "lot in South Shofukucho."
+msgstr "lotto a Shofukucho Sud."
+
+msgctxt "53967"
+msgid "dbs_info@..."
+msgstr "dbs_info@..."
+
+msgctxt "53980"
+msgid "Time to dance!"
+msgstr "Ora di ballare!"
+
+msgctxt "53995"
+msgid "STORY_DANCE_04_メール見た"
+msgstr "STORY_DANCE_04_メール見た"
+
+msgctxt "54026"
+msgid "Are you ready?"
+msgstr "Sei pronto?"
+
+msgctxt "54041"
+msgid "It's finally time for the"
+msgstr "È finalmente ora di"
+
+msgctxt "54067"
+msgid "Dance Battle Summit!"
+msgstr "Vertice delle Battaglie di Ballo!"
+
+msgctxt "54088"
+msgid "If you want to take part,"
+msgstr "Se vuoi partecipare,"
+
+msgctxt "54114"
+msgid "come to the event hall to"
+msgstr "vieni alla sala eventi per"
+
+msgctxt "54140"
+msgid "the southeast of Iwao Bridge!"
+msgstr "A sud-est del Ponte Iwao!"
+
+msgctxt "54170"
+msgid "MC Mittsu will be our guest"
+msgstr "MC Mittsu sarà nostro ospite"
+
+msgctxt "54198"
+msgid "judge."
+msgstr "giudice."
+
+msgctxt "54205"
+msgid "Dancers who catch Mittsu's"
+msgstr "Ballerine che catturano di Mittsu"
+
+msgctxt "54232"
+msgid "eye might get a shot at"
+msgstr "Potrei avere un'occasione"
+
+msgctxt "54256"
+msgid "a professional career!"
+msgstr "Una carriera professionale!"
+
+msgctxt "54279"
+msgid "So what are you waiting for?"
+msgstr "Allora, che aspetti?"
+
+msgctxt "54308"
+msgid "Let's dance!"
+msgstr "Balliamo!"
+
+msgctxt "54321"
+msgid "DBS Event Organizer"
+msgstr "DBS Organizzatore di eventi"
+
+msgctxt "54341"
+msgid "best_friend@..."
+msgstr "best_friend@..."
+
+msgctxt "54357"
+msgid "To my international friends"
+msgstr "Ai miei amici internazionali"
+
+msgctxt "54385"
+msgid "TENKEI_天啓_冴島_メール完了"
+msgstr "TENKEI_天啓_冴島_メール完了"
+
+msgctxt "54422"
+msgid "Hello, my friends all over"
+msgstr "Ciao, amici miei di ogni dove"
+
+msgctxt "54449"
+msgid "the world! I have a request"
+msgstr "Il mondo! Ho una richiesta"
+
+msgctxt "54477"
+msgid "for you today."
+msgstr "per te oggi."
+
+msgctxt "54492"
+msgid "Lately I haven't been able"
+msgstr "Ultimamente non sono riuscito a"
+
+msgctxt "54519"
+msgid "to take any of the perfect"
+msgstr "prendere uno qualsiasi dei perfetti"
+
+msgctxt "54546"
+msgid "shots that I long for!"
+msgstr "Shottini che desidero un casino!"
+
+msgctxt "54569"
+msgid "But I had an idea!"
+msgstr "Ma ho avuto un'idea!"
+
+msgctxt "54588"
+msgid "I want all of you to upload"
+msgstr "Voglio che tutti voi carichiate"
+
+msgctxt "54616"
+msgid "any perfect shots you take"
+msgstr "qualsiasi colpo perfetto che fai"
+
+msgctxt "54643"
+msgid "to the image hosting site"
+msgstr "al sito di hosting di immagini"
+
+msgctxt "54669"
+msgid "that I built!"
+msgstr "che ho costruito!"
+
+msgctxt "54683"
+msgid "Seeing them is bound to"
+msgstr "Vederli non potrà che"
+
+msgctxt "54707"
+msgid "inspire me!"
+msgstr "ispirami!"
+
+msgctxt "54719"
+msgid "Do me proud out there,"
+msgstr "Rendimi fiero là fuori,"
+
+msgctxt "54742"
+msgid "everyone! Adieu!"
+msgstr "tutti! Addio!"
+
+msgctxt "54759"
+msgid "TENKEI_天啓_遥_メール完了"
+msgstr "TENKEI_天啓_遥_メール完了"
+
+msgctxt "54793"
+msgid "So I had an idea!"
+msgstr "Allora, mi è venuta un'idea!"
+
+msgctxt "54811"
+msgid "TENKEI_天啓_秋山_メール完了"
+msgstr "TENKEI_天啓_秋山_メール完了"
+
+msgctxt "54848"
+msgid "Do me proud out there, "
+msgstr "Fatti onore là fuori,"
+
+msgctxt "54872"
+msgid "TENKEI_天啓_品田_メール完了"
+msgstr "TENKEI_天啓_品田_メール完了"
+
+msgctxt "54909"
+msgid "Do me proud out there, everyone!"
+msgstr "Rendetemi fiero là fuori, tutti!"
+
+msgctxt "54942"
+msgid "Online Store"
+msgstr "Negozio Online"
+
+msgctxt "54955"
+msgid "Your order has shipped"
+msgstr "Il tuo ordine è stato spedito"
+
+msgctxt "54978"
+msgid "ONLINESHOP_メール_01着信"
+msgstr "ONLINESHOP_メール_01着信"
+
+msgctxt "55008"
+msgid "Thank you for shopping online"
+msgstr "Grazie per aver fatto acquisti online"
+
+msgctxt "55038"
+msgid "with us. Your order has shipped."
+msgstr "con noi. Il tuo ordine è stato spedito."
+
+msgctxt "55071"
+msgid "You can receive it at home or"
+msgstr "Puoi riceverlo a casa o"
+
+msgctxt "55101"
+msgid "pick it up at a convenience store."
+msgstr "Prendilo al minimarket."
+
+msgctxt "55136"
+msgid "We look forward to serving you "
+msgstr "Non vediamo l'ora di servirvi"
+
+msgctxt "55168"
+msgid "again."
+msgstr "di nuovo."
+
+msgctxt "55175"
+msgid "ONLINESHOP_メール_02着信"
+msgstr "ONLINESHOP_メール_02着信"
+
+msgctxt "55205"
+msgid "ONLINESHOP_メール_03着信"
+msgstr "ONLINESHOP_メール_03着信"
+
+msgctxt "55235"
+msgid "ONLINESHOP_メール_04着信"
+msgstr "ONLINESHOP_メール_04着信"
+
+msgctxt "55265"
+msgid "ONLINESHOP_メール_05着信"
+msgstr "ONLINESHOP_メール_05着信"
+
+msgctxt "55295"
+msgid "ONLINESHOP_メール_06着信"
+msgstr "ONLINESHOP_メール_06着信"
+
+msgctxt "55325"
+msgid "ONLINESHOP_メール_07着信"
+msgstr "ONLINESHOP_メール_07着信"
+
+msgctxt "55355"
+msgid "ONLINESHOP_メール_08着信"
+msgstr "ONLINESHOP_メール_08着信"
+
+msgctxt "55385"
+msgid "ONLINESHOP_メール_09着信"
+msgstr "ONLINESHOP_メール_09着信"
+
+msgctxt "55415"
+msgid "ONLINESHOP_メール_10着信"
+msgstr "ONLINESHOP_メール_10着信"
+
+msgctxt "55445"
+msgid "Tatsuya"
+msgstr "Tatsuya"
+
+msgctxt "55453"
+msgid "I'll be waiting"
+msgstr "Ti aspetto"
+
+msgctxt "55469"
+msgid "SISYO_TATSUYA_桐生_メール送信"
+msgstr "SISYO_TATSUYA_桐生_メール送信"
+
+msgctxt "55506"
+msgid "That mizutaki place was great!"
+msgstr "Quel locale di mizutaki era una bomba!"
+
+msgctxt "55537"
+msgid "Let me know if you come"
+msgstr "Fammi sapere se vieni"
+
+msgctxt "55561"
+msgid "across any other good restaurants!"
+msgstr "imbattersi in altri buoni ristoranti!"
+
+msgctxt "55596"
+msgid "You can find me near Ose"
+msgstr "Mi trovi dalle parti di Ose"
+
+msgctxt "55621"
+msgid "Bridge!"
+msgstr "Ponte!"
+
+msgctxt "55629"
+msgid "Stop by and see me"
+msgstr "Fatti un salto a trovarmi"
+
+msgctxt "55648"
+msgid "SISYO_TATSUYA_冴島_メール送信"
+msgstr "SISYO_TATSUYA_冴島_メール送信"
+
+msgctxt "55685"
+msgid "This is Tatsuya the chef!"
+msgstr "Qui è Tatsuya lo chef!"
+
+msgctxt "55711"
+msgid "If you come across any good"
+msgstr "Se ti imbatti in qualcosa di buono"
+
+msgctxt "55739"
+msgid "restaurants in Tsukimino,"
+msgstr "ristoranti a Tsukimino,"
+
+msgctxt "55765"
+msgid "be sure to tell me!"
+msgstr "Non mancare di dirmelo!"
+
+msgctxt "55785"
+msgid "I'll be waiting near"
+msgstr "Ti aspetterò nei paraggi"
+
+msgctxt "55806"
+msgid "Don Quijote!"
+msgstr "Don Quijote!"
+
+msgctxt "55819"
+msgid "It's Tatsuya!"
+msgstr "Sono Tatsuya!"
+
+msgctxt "55833"
+msgid "SISYO_TATSUYA_遥_メール送信"
+msgstr "SISYO_TATSUYA_遥_メール送信"
+
+msgctxt "55867"
+msgid "Thanks for your help!"
+msgstr "Grazie per il tuo aiuto!"
+
+msgctxt "55889"
+msgid "Bishamon Bridge, so let me"
+msgstr "Ponte Bishamon, quindi fammi"
+
+msgctxt "55916"
+msgid "know if you find any good"
+msgstr "fammi sapere se trovi qualcosa di buono"
+
+msgctxt "55942"
+msgid "places to eat!"
+msgstr "posti dove mangiare!"
+
+msgctxt "55957"
+msgid "Thanks in advance!"
+msgstr "Grazie in anticipo!"
+
+msgctxt "55976"
+msgid "Tatsuya here!"
+msgstr "Sono Tatsuya!"
+
+msgctxt "55990"
+msgid "SISYO_TATSUYA_秋山_メール送信"
+msgstr "SISYO_TATSUYA_秋山_メール送信"
+
+msgctxt "56027"
+msgid "Thanks for helping!"
+msgstr "Grazie per l'aiuto!"
+
+msgctxt "56047"
+msgid "If you learn of any good"
+msgstr "Se vieni a sapere di qualcosa di buono"
+
+msgctxt "56072"
+msgid "restaurants, bring me the"
+msgstr "ristoranti, portami il"
+
+msgctxt "56098"
+msgid "info! You can find me at"
+msgstr "Info! Mi puoi trovare a"
+
+msgctxt "56123"
+msgid "Bishamon Bridge!"
+msgstr "Bishamon Bridge!"
+
+msgctxt "56140"
+msgid "I'll be waiting!"
+msgstr "Ti aspetto!"
+
+msgctxt "56157"
+msgid "Don't forget!"
+msgstr "Non dimenticare!"
+
+msgctxt "56171"
+msgid "SISYO_TATSUYA_品田_メール送信"
+msgstr "SISYO_TATSUYA_品田_メール送信"
+
+msgctxt "56208"
+msgid "This is the chef, Tatsuya!"
+msgstr "Questo è lo chef, Tatsuya!"
+
+msgctxt "56235"
+msgid "Be sure to let me know if"
+msgstr "Mi raccomando, fammi sapere se"
+
+msgctxt "56261"
+msgid "you find any good"
+msgstr "Hai trovato qualcosa di buono?"
+
+msgctxt "56279"
+msgid "restaurants!"
+msgstr "ristoranti!"
+
+msgctxt "56292"
+msgid "Don't hold out on me, okay?"
+msgstr "Non nascondermi niente, ok?"
+
+msgctxt "56320"
+msgid "I'll be at the intersection"
+msgstr "Sarò all'incrocio"
+
+msgctxt "56348"
+msgid "of Honjincho Street and"
+msgstr "di Honjincho Street e"
+
+msgctxt "56372"
+msgid "Tsumugi Street. See you!"
+msgstr "Via Tsumugi. Ci vediamo!"
+
+msgctxt "56397"
+msgid "Completion Office"
+msgstr "Ufficio Completamento"
+
+msgctxt "56415"
+msgid "Kiryu Substories Complete!"
+msgstr "Sottostorie di Kiryu completate!"
+
+msgctxt "56442"
+msgid "REWARD_サブ桐生"
+msgstr "REWARD_サブ桐生"
+
+msgctxt "56462"
+msgid "Kazuma Kiryu,"
+msgstr "Kazuma Kiryu,"
+
+msgctxt "56476"
+msgid "Congratulations on"
+msgstr "Congratulazioni per"
+
+msgctxt "56495"
+msgid "completing your substories."
+msgstr "completando le tue sottostorie."
+
+msgctxt "56523"
+msgid "We have sent you a gift to"
+msgstr "Ti abbiamo mandato un regalo a"
+
+msgctxt "56550"
+msgid "commemorate this occasion."
+msgstr "commemorare questa occasione."
+
+msgctxt "56577"
+msgid "You can pick it up at a"
+msgstr "Puoi ritirarlo a un"
+
+msgctxt "56601"
+msgid "convenience store near you."
+msgstr "un minimarket vicino a te."
+
+msgctxt "56629"
+msgid "Saejima Substories Complete!"
+msgstr "Sottostorie di Saejima Completate!"
+
+msgctxt "56658"
+msgid "REWARD_サブ冴島"
+msgstr "REWARD_サブ冴島"
+
+msgctxt "56678"
+msgid "Taiga Saejima,"
+msgstr "Taiga Saejima,"
+
+msgctxt "56693"
+msgid "Haruka Substories Complete!"
+msgstr "Sottostorie di Haruka completate!"
+
+msgctxt "56721"
+msgid "REWARD_サブ遥"
+msgstr "REWARD_サブ遥"
+
+msgctxt "56738"
+msgid "Haruka Sawamura,"
+msgstr "Haruka Sawamura,"
+
+msgctxt "56755"
+msgid "Akiyama Substories Complete!"
+msgstr "Sottostorie di Akiyama Completate!"
+
+msgctxt "56784"
+msgid "REWARD_サブ秋山"
+msgstr "REWARD_サブ秋山"
+
+msgctxt "56804"
+msgid "Shun Akiyama,"
+msgstr "Shun Akiyama,"
+
+msgctxt "56818"
+msgid "Shinada Substories Complete!"
+msgstr "Sottostorie di Shinada Completate!"
+
+msgctxt "56847"
+msgid "REWARD_サブ品田"
+msgstr "REWARD_サブ品田"
+
+msgctxt "56867"
+msgid "Tatsuo Shinada,"
+msgstr "Tatsuo Shinada,"
+
+msgctxt "56883"
+msgid "All Side Stories Complete!"
+msgstr "Tutte le Storie Secondarie Completate!"
+
+msgctxt "56910"
+msgid "REWARD_アナザーオール"
+msgstr "REWARD_アナザーオール"
+
+msgctxt "56939"
+msgid "completing all the Side"
+msgstr "completando tutte le sottostorie"
+
+msgctxt "56963"
+msgid "Stories! Well done!"
+msgstr "Storie! Ottimo lavoro!"
+
+msgctxt "56983"
+msgid "All Substories Complete!"
+msgstr "Tutte le Sottostorie Completate!"
+
+msgctxt "57008"
+msgid "REWARD_サブオール"
+msgstr "REWARD_サブオール"
+
+msgctxt "57031"
+msgid "defeating the Amon Clan and"
+msgstr "sconfiggendo il Clan Amon e"
+
+msgctxt "57059"
+msgid "completing all the"
+msgstr "completando tutti i"
+
+msgctxt "57078"
+msgid "substories! Well done!"
+msgstr "Sotto-storie! Ben fatto!"
+
+msgctxt "57101"
+msgid "Restaurants Complete!"
+msgstr "Ristoranti Completati!"
+
+msgctxt "57123"
+msgid "REWARD_飲食店"
+msgstr "REWARD_飲食店"
+
+msgctxt "57140"
+msgid "completing all restaurants!"
+msgstr "Completato tutti i ristoranti!"
+
+msgctxt "57168"
+msgid "Hostess Clubs Complete!"
+msgstr "Hostess Club Completati!"
+
+msgctxt "57192"
+msgid "REWARD_キャバクラ"
+msgstr "REWARD_キャバクラ"
+
+msgctxt "57215"
+msgid "You have won the hearts of"
+msgstr "Hai conquistato i cuori di"
+
+msgctxt "57242"
+msgid "all the hostesses."
+msgstr "tutte le hostess."
+
+msgctxt "57261"
+msgid "Congratulations!"
+msgstr "Congratulazioni!"
+
+msgctxt "57278"
+msgid "Kamurocho Lockers Complete!"
+msgstr "Casseforti di Kamurocho Completate!"
+
+msgctxt "57306"
+msgid "REWARD_ロッカー神室町"
+msgstr "REWARD_ロッカー神室町"
+
+msgctxt "57335"
+msgid "opening all the coin"
+msgstr "Usare tutte le monete"
+
+msgctxt "57356"
+msgid "lockers in Kamurocho!"
+msgstr "Armadietti a Kamurocho!"
+
+msgctxt "57378"
+msgid "Sotenbori Lockers Complete!"
+msgstr "Armadietti di Sotenbori Completati!"
+
+msgctxt "57406"
+msgid "REWARD_ロッカー蒼天堀"
+msgstr "REWARD_ロッカー蒼天堀"
+
+msgctxt "57435"
+msgid "lockers in Sotenbori!"
+msgstr "Armadietti a Sotenbori!"
+
+msgctxt "57457"
+msgid "Garbage Pickup Complete!"
+msgstr "Raccolta rifiuti completata!"
+
+msgctxt "57482"
+msgid "REWARD_ゴミ拾い"
+msgstr "REWARD_ゴミ拾い"
+
+msgctxt "57502"
+msgid "completing all the garbage"
+msgstr "finire tutte quelle menate"
+
+msgctxt "57529"
+msgid "pickup missions!"
+msgstr "Missioni di recupero!"
+
+msgctxt "57546"
+msgid "Prize Tickets Complete!"
+msgstr "Biglietti premio completati!"
+
+msgctxt "57570"
+msgid "REWARD_福引き"
+msgstr "REWARD_福引き"
+
+msgctxt "57587"
+msgid "completing all the prize"
+msgstr "Completamento di tutti i premi"
+
+msgctxt "57612"
+msgid "tickets!"
+msgstr "biglietti!"
+
+msgctxt "57621"
+msgid "Treasure Hunts Complete!"
+msgstr "Cacce al tesoro Completate!"
+
+msgctxt "57646"
+msgid "REWARD_宝探し"
+msgstr "REWARD_宝探し"
+
+msgctxt "57663"
+msgid "completing all the treasure"
+msgstr "Il completamento di tutti i tesori"
+
+msgctxt "57691"
+msgid "hunts!"
+msgstr "Caccia!"
+
+msgctxt "57698"
+msgid "Tourist Spots Complete!"
+msgstr "Luoghi Turistici Completati!"
+
+msgctxt "57722"
+msgid "REWARD_ビューポイント"
+msgstr "REWARD_ビューポイント"
+
+msgctxt "57751"
+msgid "completing all the tourist"
+msgstr "completare tutti i punti turistici"
+
+msgctxt "57778"
+msgid "spots!"
+msgstr "Posti!"
+
+msgctxt "57785"
+msgid "Exploration Complete!"
+msgstr "Esplorazione Completata!"
+
+msgctxt "57807"
+msgid "REWARD_街歩き"
+msgstr "REWARD_街歩き"
+
+msgctxt "57824"
+msgid "completing all the city"
+msgstr "Completando l'intera città"
+
+msgctxt "57848"
+msgid "exploration tasks!"
+msgstr "compiti di esplorazione!"
+
+msgctxt "57867"
+msgid "Equipment Mods Complete!"
+msgstr "Modifiche equipaggiamento completate!"
+
+msgctxt "57892"
+msgid "REWARD_ワークス上山"
+msgstr "REWARD_ワークス上山"
+
+msgctxt "57918"
+msgid "completing all Kamiyama"
+msgstr "Completati tutti i lavori di Kamiyama"
+
+msgctxt "57942"
+msgid "Works modifications!"
+msgstr "Funzionano le modifiche!"
+
+msgctxt "57963"
+msgid "Heat Actions Complete!"
+msgstr "Azioni Heat Completate!"
+
+msgctxt "57986"
+msgid "REWARD_ヒート"
+msgstr "REWARD_ヒート"
+
+msgctxt "58003"
+msgid "completing all Heat Actions!"
+msgstr "Completando tutte le Azioni Heat!"
+
+msgctxt "58032"
+msgid "Tatsuya Training Complete!"
+msgstr "Allenamento di Tatsuya Completato!"
+
+msgctxt "58059"
+msgid "REWARD_修行タツヤ"
+msgstr "REWARD_修行タツヤ"
+
+msgctxt "58082"
+msgid "completing all of Tatsuya's"
+msgstr "completando tutti gli incarichi di Tatsuya"
+
+msgctxt "58110"
+msgid "training!"
+msgstr "allenamento!"
+
+msgctxt "58120"
+msgid "Minamida Training Complete!"
+msgstr "Allenamento di Minamida Completato!"
+
+msgctxt "58148"
+msgid "REWARD_修行南田"
+msgstr "REWARD_修行南田"
+
+msgctxt "58168"
+msgid "completing IF8!"
+msgstr "Completato IF8!"
+
+msgctxt "58184"
+msgid "Sosuke Training Complete!"
+msgstr "Sosuke Allenamento Completato!"
+
+msgctxt "58210"
+msgid "REWARD_修行宗介"
+msgstr "REWARD_修行宗介"
+
+msgctxt "58230"
+msgid "completing all of Sosuke's"
+msgstr "completando tutti gli incarichi di Sosuke"
+
+msgctxt "58257"
+msgid "Tendo Training Complete!"
+msgstr "Allenamento Tendo Completato!"
+
+msgctxt "58282"
+msgid "REWARD_修行天童"
+msgstr "REWARD_修行天童"
+
+msgctxt "58302"
+msgid "completing all of Tendo's"
+msgstr "completando tutte quelle di Tendo"
+
+msgctxt "58328"
+msgid "Ayanokoji Training Complete!"
+msgstr "Ayanokoji Allenamento Completato!"
+
+msgctxt "58357"
+msgid "REWARD_修行綾小路"
+msgstr "REWARD_修行綾小路"
+
+msgctxt "58380"
+msgid "completing all of"
+msgstr "completando tutti i"
+
+msgctxt "58398"
+msgid "Ayanokoji's training!"
+msgstr "L'allenamento di Ayanokoji!"
+
+msgctxt "58420"
+msgid "Saigo Training Complete!"
+msgstr "Allenamento di Saigo Completato!"
+
+msgctxt "58445"
+msgid "REWARD_修行西郷"
+msgstr "REWARD_修行西郷"
+
+msgctxt "58465"
+msgid "completing all of Saigo's"
+msgstr "Il completamento di tutti gli incarichi di Saigo"
+
+msgctxt "58491"
+msgid "All Training Complete!"
+msgstr "Allenamento Completato!"
+
+msgctxt "58514"
+msgid "REWARD_修行オール"
+msgstr "REWARD_修行オール"
+
+msgctxt "58537"
+msgid "completing training with"
+msgstr "completamento dell'addestramento con"
+
+msgctxt "58562"
+msgid "all of the masters!"
+msgstr "tutti i maestri!"
+
+msgctxt "58582"
+msgid "Well done!"
+msgstr "Ben fatto!"
+
+msgctxt "58593"
+msgid "Coliseum Complete!"
+msgstr "Colosseo Completato!"
+
+msgctxt "58612"
+msgid "REWARD_闘技場"
+msgstr "REWARD_闘技場"
+
+msgctxt "58629"
+msgid "completing the Coliseum!"
+msgstr "Completato il Colosseo!"
+
+msgctxt "58654"
+msgid "Victory Road Complete!"
+msgstr "Victory Road Completata!"
+
+msgctxt "58677"
+msgid "REWARD_ビクトリーロード"
+msgstr "REWARD_ビクトリーロード"
+
+msgctxt "58709"
+msgid "completing Victory Road!"
+msgstr "Completamento Via della Vittoria!"
+
+msgctxt "58734"
+msgid "Minigames Complete!"
+msgstr "Minigiochi completati!"
+
+msgctxt "58754"
+msgid "REWARD_ミニゲーム"
+msgstr "REWARD_ミニゲーム"
+
+msgctxt "58777"
+msgid "completing all of the"
+msgstr "completando tutti i"
+
+msgctxt "58799"
+msgid "minigames!"
+msgstr "minigiochi!"
+
+msgctxt "58810"
+msgid "Excellent work!"
+msgstr "Ottimo lavoro!"
+
+msgctxt "58826"
+msgid "Ultimate Match Complete!"
+msgstr "Scontro Definitivo Completato!"
+
+msgctxt "58851"
+msgid "REWARD_究極闘技"
+msgstr "REWARD_究極闘技"
+
+msgctxt "58871"
+msgid "completing Ultimate"
+msgstr "Completamento Ultimate"
+
+msgctxt "58891"
+msgid "Match!"
+msgstr "Match!"
+
+msgctxt "58898"
+msgid "love_weapon@..."
+msgstr "love_weapon@..."
+
+msgctxt "58914"
+msgid "To warriors on the warpath"
+msgstr "Ai guerrieri sul piede di guerra"
+
+msgctxt "58941"
+msgid "2d_yk_kamiyama_hk"
+msgstr "2d_yk_kamiyama_hk"
+
+msgctxt "58959"
+msgid "SISYO_KAMIYAMA_月見野武器屋メール終了"
+msgstr "SISYO_KAMIYAMA_月見野武器屋メール終了"
+
+msgctxt "59008"
+msgid "To those of you looking to"
+msgstr "A quelli di voi che cercano di"
+
+msgctxt "59035"
+msgid "best a rival, win back the"
+msgstr "sconfiggi un rivale, riconquista il"
+
+msgctxt "59062"
+msgid "girl, or launch a raid"
+msgstr "ragazza, o lanciare un raid"
+
+msgctxt "59085"
+msgid "on an enemy's turf..."
+msgstr "sul territorio nemico..."
+
+msgctxt "59107"
+msgid "Announcing the opening of"
+msgstr "Annunciamo l'apertura di"
+
+msgctxt "59133"
+msgid "Kamiyama Works Tsukimino,"
+msgstr "Kamiyama Works Tsukimino,"
+
+msgctxt "59159"
+msgid "supporting the needs of all"
+msgstr "sostenendo i bisogni di tutti"
+
+msgctxt "59187"
+msgid "you warriors out there!"
+msgstr "voi guerrieri là fuori!"
+
+msgctxt "59211"
+msgid "We have a wide range of"
+msgstr "Abbiamo una vasta gamma di"
+
+msgctxt "59235"
+msgid "weapons and equipment"
+msgstr "armi ed equipaggiamento"
+
+msgctxt "59257"
+msgid "available! Come take a look."
+msgstr "disponibile! Vieni a dare un'occhiata."
+
+msgctxt "59286"
+msgid "2d_yk_kamiyama_os"
+msgstr "2d_yk_kamiyama_os"
+
+msgctxt "59304"
+msgid "SISYO_KAMIYAMA_蒼天堀武器屋メール終了"
+msgstr "SISYO_KAMIYAMA_蒼天堀武器屋メール終了"
+
+msgctxt "59353"
+msgid "Kamiyama Works Sotenbori,"
+msgstr "Officina Kamiyama Sotenbori,"
+
+msgctxt "59379"
+msgid "2d_yk_kamiyama_ac"
+msgstr "2d_yk_kamiyama_ac"
+
+msgctxt "59397"
+msgid "SISYO_KAMIYAMA_錦栄町武器屋メール終了"
+msgstr "SISYO_KAMIYAMA_錦栄町武器屋メール終了"
+
+msgctxt "59446"
+msgid "Kamiyama Works Kineicho,"
+msgstr "Officine Kamiyama Kineicho,"
+
+msgctxt "59471"
+msgid "The ultimate weaponry"
+msgstr "L'armamento definitivo"
+
+msgctxt "59493"
+msgid "2d_yk_kamiyama_tk"
+msgstr "2d_yk_kamiyama_tk"
+
+msgctxt "59511"
+msgid "SISYO_KAMIYAMA_神室町武器屋メール終了"
+msgstr "SISYO_KAMIYAMA_神室町武器屋メール終了"
+
+msgctxt "59560"
+msgid "The headquarters of Kamiyama"
+msgstr "Il quartier generale di Kamiyama"
+
+msgctxt "59589"
+msgid "Works is open for business in Kamurocho!"
+msgstr "Works ha aperto i battenti a Kamurocho!"
+
+msgctxt "59630"
+msgid "We're here to meet all your"
+msgstr "Siamo qui per soddisfare tutte le tue"
+
+msgctxt "59658"
+msgid "needs for the toughest battles."
+msgstr "L'occorrente per le battaglie più toste."
+
+msgctxt "59690"
+msgid "Want to defeat your rivals?"
+msgstr "Vuoi sconfiggere i tuoi rivali?"
+
+msgctxt "59718"
+msgid "Want to beat them to a pulp?"
+msgstr "Vuoi ridurli in poltiglia?"
+
+msgctxt "59747"
+msgid "Come and see what we have"
+msgstr "Vieni a vedere cosa abbiamo"
+
+msgctxt "59773"
+msgid "Yakuza Info Center"
+msgstr "Centro informazioni Yakuza"
+
+msgctxt "59792"
+msgid "Info"
+msgstr "Informazioni"
+
+msgctxt "59797"
+msgid "TAIKEN_お知らせメール_閲覧"
+msgstr "TAIKEN_お知らせメール_閲覧"
+
+msgctxt "59833"
+msgid "Thank you for playing the"
+msgstr "Grazie per aver giocato al"
+
+msgctxt "59859"
+msgid "TGS demo version of"
+msgstr "Versione demo di TGS"
+
+msgctxt "59879"
+msgid "Yakuza 5."
+msgstr "Yakuza 5."
+
+msgctxt "59889"
+msgid "This demo allows you to"
+msgstr "Questa demo ti permette di"
+
+msgctxt "59913"
+msgid "try out a range of"
+msgstr "provare una gamma di"
+
+msgctxt "59932"
+msgid "establishments and gameplay."
+msgstr "locali e attività di gioco."
+
+msgctxt "59961"
+msgid "Note that you can only"
+msgstr "Tieni presente che puoi solo"
+
+msgctxt "59984"
+msgid "freely explore a limited"
+msgstr "esplorare liberamente un'area limitata"
+
+msgctxt "60009"
+msgid "number of areas in this"
+msgstr "numero di aree in questo"
+
+msgctxt "60033"
+msgid "demo."
+msgstr "demo."
+
+msgctxt "60039"
+msgid "Igarashi"
+msgstr "Igarashi"
+
+msgctxt "60048"
+msgid "Haven't seen you around"
+msgstr "Non ti ho visto in giro"
+
+msgctxt "60072"
+msgid "Hey, Shinada! I haven't seen"
+msgstr "Ehi, Shinada! Non ti ho visto"
+
+msgctxt "60101"
+msgid "you around lately."
+msgstr "in giro ultimamente."
+
+msgctxt "60120"
+msgid "You haven't been skipping out"
+msgstr "Non hai mica saltato"
+
+msgctxt "60150"
+msgid "on your baseball training, have you?"
+msgstr "sul tuo allenamento di baseball, vero?"
+
+msgctxt "60187"
+msgid "Listen, come see me at"
+msgstr "Senti, vieni a trovarmi a"
+
+msgctxt "60210"
+msgid "the First Shot bar sometime."
+msgstr "Il First Shot bar, un giorno di questi."
+
+msgctxt "60239"
+msgid "Playing any baseball?"
+msgstr "Stai giocando a baseball?"
+
+msgctxt "60261"
+msgid "I ran into a guy who was"
+msgstr "Mi sono imbattuto in un tipo che era"
+
+msgctxt "60286"
+msgid "looking for you."
+msgstr "Ti sto cercando."
+
+msgctxt "60303"
+msgid "He wanted to talk baseball"
+msgstr "Voleva parlare di baseball"
+
+msgctxt "60330"
+msgid "with you."
+msgstr "con te."
+
+msgctxt "60340"
+msgid "Word is you can contact"
+msgstr "Gira voce che tu possa contattare"
+
+msgctxt "60364"
+msgid "him through the batting"
+msgstr "lui attraverso il batting"
+
+msgctxt "60388"
+msgid "center. Talk to the staff"
+msgstr "Centro. Parla al personale"
+
+msgctxt "60414"
+msgid "there. They should know."
+msgstr "Lì. Dovrebbero sapere."
+
+msgctxt "60439"
+msgid "Kiryu Side Story Complete!"
+msgstr "Storia secondaria di Kiryu completata!"
+
+msgctxt "60466"
+msgid "REWARD_アナザー桐生"
+msgstr "REWARD_アナザー桐生"
+
+msgctxt "60492"
+msgid "completing your Side Story!"
+msgstr "completando la tua Storia secondaria!"
+
+msgctxt "60520"
+msgid "Saejima Side Story Complete!"
+msgstr "Storia secondaria di Saejima Completata!"
+
+msgctxt "60549"
+msgid "REWARD_アナザー冴島"
+msgstr "REWARD_アナザー冴島"
+
+msgctxt "60575"
+msgid "Haruka Side Story Complete!"
+msgstr "Storia Secondaria di Haruka Completata!"
+
+msgctxt "60603"
+msgid "REWARD_アナザー遥"
+msgstr "REWARD_アナザー遥"
+
+msgctxt "60626"
+msgid "Shinada Side Story Complete!"
+msgstr "Storia secondaria di Shinada Completata!"
+
+msgctxt "60655"
+msgid "REWARD_アナザー品田"
+msgstr "REWARD_アナザー品田"
+
+msgctxt "60681"
+msgid "New baseball gear"
+msgstr "Nuova attrezzatura da baseball"
+
+msgctxt "60699"
+msgid "At the bar, they were saying"
+msgstr "Al bar, dicevano"
+
+msgctxt "60728"
+msgid "the pawn shop in Kineicho"
+msgstr "il banco dei pegni a Kineicho"
+
+msgctxt "60754"
+msgid "just got in some new"
+msgstr "Sono appena arrivati dei nuovi"
+
+msgctxt "60775"
+msgid "baseball gear."
+msgstr "attrezzatura da baseball."
+
+msgctxt "60790"
+msgid "Go take a look if you're"
+msgstr "Vai a dare un'occhiata se sei"
+
+msgctxt "60815"
+msgid "interested."
+msgstr "interessato."
+
+msgctxt "60827"
+msgid "Ukai"
+msgstr "Ukai"
+
+msgctxt "60832"
+msgid "Come on over!"
+msgstr "Fatti un salto!"
+
+msgctxt "60846"
+msgid "Hi there! This is Ukai"
+msgstr "Ciao! Sono Ukai"
+
+msgctxt "60869"
+msgid "over at the Cochins Cup"
+msgstr "alla Cochins Cup"
+
+msgctxt "60893"
+msgid "Classic."
+msgstr "Classico."
+
+msgctxt "60902"
+msgid "I'm hoping you can raise"
+msgstr "Spero tu possa alzare"
+
+msgctxt "60927"
+msgid "the bar for this race,"
+msgstr "l'asticella per questa gara,"
+
+msgctxt "60950"
+msgid "Shinada-san!"
+msgstr "Shinada!"
+
+msgctxt "60963"
+msgid "We're still at West Honjincho"
+msgstr "Siamo ancora a West Honjincho"
+
+msgctxt "60993"
+msgid "Street, so come back"
+msgstr "Per strada, quindi torna"
+
+msgctxt "61014"
+msgid "whenever you want!"
+msgstr "quando vuoi!"
+
+msgctxt "61033"
+msgid "Sosuke Komaki"
+msgstr "Sosuke Komaki"
+
+msgctxt "61047"
+msgid "SISYO_SOUSUKE_メール受信"
+msgstr "SISYO_SOUSUKE_メール受信"
+
+msgctxt "61077"
+msgid "Hey, man."
+msgstr "Ehi, amico."
+
+msgctxt "61087"
+msgid "Thanks for the treat"
+msgstr "Grazie per il pensiero"
+
+msgctxt "61108"
+msgid "earlier. I thought I"
+msgstr "prima. Pensavo di"
+
+msgctxt "61129"
+msgid "should send an email to"
+msgstr "dovrebbe mandare un'email a"
+
+msgctxt "61153"
+msgid "let you know how I felt."
+msgstr "farti sapere come mi sentivo."
+
+msgctxt "61178"
+msgid "If you ever get fed up, try"
+msgstr "Se ti stufi mai, prova"
+
+msgctxt "61206"
+msgid "knocking back a few drinks."
+msgstr "scolarsi qualche drink."
+
+msgctxt "61234"
+msgid "Apparently, fighting drunk is"
+msgstr "A quanto pare, combattere da ubriaco è"
+
+msgctxt "61264"
+msgid "something else completely."
+msgstr "tutt'altro."
+
+msgctxt "61291"
+msgid "I'm too young to try it."
+msgstr "Sono troppo giovane per provarci."
+
+msgctxt "61316"
+msgid "Get liquored up and see if"
+msgstr "Fatti una bella bevuta e vedi se"
+
+msgctxt "61343"
+msgid "you can pull off some moves."
+msgstr "Puoi tirare fuori qualche bella mossa."
+
+msgctxt "61372"
+msgid "Later."
+msgstr "A dopo."
+
+msgctxt "61379"
+msgid "Training!"
+msgstr "Allenamento!"
+
+msgctxt "61389"
+msgid "How's the training going,"
+msgstr "Come va l'allenamento,"
+
+msgctxt "61415"
+msgid "Shinada?"
+msgstr "Shinada?"
+
+msgctxt "61424"
+msgid "I told you to go do some"
+msgstr "Ti avevo detto di andare a fare del"
+
+msgctxt "61449"
+msgid "fishing at Mid Square, right?"
+msgstr "A pesca a Mid Square, no?"
+
+msgctxt "61479"
+msgid "Once you catch something,"
+msgstr "Una volta che prendi qualcosa,"
+
+msgctxt "61505"
+msgid "head to the First Shot bar"
+msgstr "Vai al First Shot bar"
+
+msgctxt "61532"
+msgid "to let me know!"
+msgstr "fammi sapere!"
+
+msgctxt "61548"
+msgid "M Store Staff"
+msgstr "Personale del negozio M"
+
+msgctxt "61562"
+msgid "M Store Online Opening"
+msgstr "Apertura M Store Online"
+
+msgctxt "61585"
+msgid "ONLINESHOP_START_Ｍストアオンライン"
+msgstr "ONLINESHOP_START_Ｍストアオンライン"
+
+msgctxt "61630"
+msgid "Thank you for using the"
+msgstr "Grazie per aver usato il"
+
+msgctxt "61654"
+msgid "M Store."
+msgstr "Negozio M."
+
+msgctxt "61663"
+msgid "We have now started an"
+msgstr "Abbiamo ora iniziato un"
+
+msgctxt "61686"
+msgid "online service that lets"
+msgstr "servizio online che permette"
+
+msgctxt "61711"
+msgid "you order from your phone."
+msgstr "ordini dal tuo telefono."
+
+msgctxt "61738"
+msgid "Your order can be shipped to"
+msgstr "Il tuo ordine può essere spedito a"
+
+msgctxt "61767"
+msgid "your home, or you can pick"
+msgstr "a casa tua, o puoi scegliere"
+
+msgctxt "61794"
+msgid "it up at a convenience store."
+msgstr "prendilo in un minimarket."
+
+msgctxt "61824"
+msgid "Give it a try!"
+msgstr "Provaci!"

@@ -1,0 +1,358 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "836"
+msgid "You got 2,000 experience points."
+msgstr ""
+
+msgctxt "11124"
+msgid "Kongo"
+msgstr ""
+
+msgctxt "11128"
+msgid "Challenge Him to a Fight"
+msgstr ""
+
+msgctxt "11132"
+msgid "Pass for Now"
+msgstr ""
+
+msgctxt "11136"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "11140"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "11144"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "11148"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "11152"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "11156"
+msgid "???"
+msgstr ""
+
+msgctxt "11160"
+msgid "P_SAE_TLK_stand_udekumi_st"
+msgstr ""
+
+msgctxt "11164"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "11168"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "11172"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "11176"
+msgid "P_SAE_TLK_stand_udekumi_ed"
+msgstr ""
+
+msgctxt "11180"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "11184"
+msgid "P_TLK_stand_syagamu_ed"
+msgstr ""
+
+msgctxt "11188"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "11192"
+msgid "Talk_Kosite_Yes"
+msgstr ""
+
+msgctxt "11196"
+msgid "Talk_SmileBig_st"
+msgstr ""
+
+msgctxt "11200"
+msgid "Talk_SmileBig_ed"
+msgstr ""
+
+msgctxt "11204"
+msgid "Tournament Staff"
+msgstr ""
+
+msgctxt "11208"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "11212"
+msgid "dummy"
+msgstr ""
+
+msgctxt "11216"
+msgid "Passed Sotenbori Qualifiers"
+msgstr ""
+
+msgctxt "104_Kongo"
+msgid "Homura Kongo is always ready to take up a challenge! Come and get it!"
+msgstr ""
+
+msgctxt "116_Kongo"
+msgid "Looks like I don't need to hold back against you. Okay, let's do this."
+msgstr ""
+
+msgctxt "128_Kongo"
+msgid "I hope you can put up a good fight! Here goes!"
+msgstr ""
+
+msgctxt "152_Kongo"
+msgid "No, it'll have to wait."
+msgstr ""
+
+msgctxt "164_Kongo"
+msgid "You know where to find me! Come back when you're game!"
+msgstr ""
+
+msgctxt "176_Kongo"
+msgid "Man! I pushed my strength to the limit, and now nobody wants to take me on!"
+msgstr ""
+
+msgctxt "188_Akiyama"
+msgid "(I'm not sure I want to deal with this guy.)"
+msgstr ""
+
+msgctxt "200_???"
+msgid "What's this!? I sense a dangerous soul!"
+msgstr ""
+
+msgctxt "212_???"
+msgid "Who're you!? State your name!"
+msgstr ""
+
+msgctxt "224_Akiyama"
+msgid "Hey, I was just..."
+msgstr ""
+
+msgctxt "236_???"
+msgid "That worn-out suit! That stubbled face! You must be Shun Akiyama!"
+msgstr ""
+
+msgctxt "248_???"
+msgid ""
+"I heard all about you from those I've defeated! They say you're pretty "
+"tough!"
+msgstr ""
+
+msgctxt "260_???"
+msgid "I'm Homura Kongo! A martial artist, through and through!"
+msgstr ""
+
+msgctxt "272_Akiyama"
+msgid "Umm..."
+msgstr ""
+
+msgctxt "284_Kongo"
+msgid ""
+"Word is, you're the last guy in this town anywhere close to giving me a "
+"real challenge!"
+msgstr ""
+
+msgctxt "296_Akiyama"
+msgid "I'm honored, I guess."
+msgstr ""
+
+msgctxt "308_Kongo"
+msgid "Once I've taken you down, I'll be on to the Victory Road finals!"
+msgstr ""
+
+msgctxt "320_Kongo"
+msgid "But I couldn't care less about that! I just want to gauge my own abilities!"
+msgstr ""
+
+msgctxt "332_Akiyama"
+msgid "Meaning?"
+msgstr ""
+
+msgctxt "344_Kongo"
+msgid "I pushed myself to the brink of death while training!"
+msgstr ""
+
+msgctxt "356_Kongo"
+msgid ""
+"But now that I'm here and putting those skills to use, there hasn't been a "
+"single fighter with the fortitude to stand against me!"
+msgstr ""
+
+msgctxt "368_Kongo"
+msgid ""
+"How am I supposed to put my skills to the test if all my opponents fall to "
+"a single blow!?"
+msgstr ""
+
+msgctxt "380_Kongo"
+msgid ""
+"You are the last hope I've got for that! I hope you have the strength to "
+"match me!"
+msgstr ""
+
+msgctxt "392_Akiyama"
+msgid "I... see."
+msgstr ""
+
+msgctxt "404_Kongo"
+msgid "Homura Kongo is always ready to take up a challenge! Come and get me!"
+msgstr ""
+
+msgctxt "416_Kongo"
+msgid "Looks like I don't need to hold back against you. Okay, let's do this."
+msgstr ""
+
+msgctxt "428_Kongo"
+msgid "I hope you can put up a good fight! Here goes!"
+msgstr ""
+
+msgctxt "452_Kongo"
+msgid "No, it'll have to wait."
+msgstr ""
+
+msgctxt "464_Kongo"
+msgid "You know where to find me! Come back when you're game!"
+msgstr ""
+
+msgctxt "476_Kongo"
+msgid ""
+"*huff* *huff* That's the way it's done! Finally, I have been bested! This "
+"is wonderful!"
+msgstr ""
+
+msgctxt "488_Akiyama"
+msgid "Huh? Wonderful?"
+msgstr ""
+
+msgctxt "500_Kongo"
+msgid ""
+"Knowing there's someone stronger than me makes all the training worth it! "
+"Now I've got a reason to hone my skills further!"
+msgstr ""
+
+msgctxt "512_Akiyama"
+msgid ""
+"Heh, I'm not who you need to worry about. I've seen plenty of guys stronger "
+"than me."
+msgstr ""
+
+msgctxt "524_Kongo"
+msgid "What!?"
+msgstr ""
+
+msgctxt "536_Akiyama"
+msgid ""
+"When you stay up in the mountains all the time, you miss all the stuff "
+"going on down at ground level. The world's bigger than you think it is."
+msgstr ""
+
+msgctxt "548_Kongo"
+msgid "And if I make it to the Victory Road finals, I'll get to meet these men?"
+msgstr ""
+
+msgctxt "560_Akiyama"
+msgid "Probably."
+msgstr ""
+
+msgctxt "572_Kongo"
+msgid "Hahaha! Perfect! That's the best news I've heard so far!"
+msgstr ""
+
+msgctxt "584_Kongo"
+msgid ""
+"That's what I'll set my sights on now! The Victory Road! I've still got "
+"plenty of unlocked potential!"
+msgstr ""
+
+msgctxt "596_Kongo"
+msgid "All right! Time waits for no man! Farewell for now, Akiyama!"
+msgstr ""
+
+msgctxt "608_Akiyama"
+msgid "(He's an odd one, all right...)"
+msgstr ""
+
+msgctxt "620_Tournament Staff"
+msgid "Well done, Akiyama-san."
+msgstr ""
+
+msgctxt "632_Akiyama"
+msgid "You one of the Victory Road people?"
+msgstr ""
+
+msgctxt "644_Tournament Staff"
+msgid ""
+"Indeed. I help run the tournament. With this win, you've passed the "
+"qualifiers, Akiyama-san."
+msgstr ""
+
+msgctxt "656_Tournament Staff"
+msgid ""
+"There is nobody left in this town who can defeat you. You've made it "
+"through to the Victory Road finals."
+msgstr ""
+
+msgctxt "668_Akiyama"
+msgid "The Victory Road finals, huh?"
+msgstr ""
+
+msgctxt "680_Tournament Staff"
+msgid ""
+"They'll be held at the Underground Coliseum, where all the strongest "
+"fighters gather."
+msgstr ""
+
+msgctxt "692_Tournament Staff"
+msgid "Go there once all the competitors have been decided."
+msgstr ""
+
+msgctxt "704_Akiyama"
+msgid "So where is this Underground Coliseum?"
+msgstr ""
+
+msgctxt "716_Tournament Staff"
+msgid ""
+"In the country's greatest pleasure quarter. Fate has a way of bringing the "
+"most powerful fighters together there."
+msgstr ""
+
+msgctxt "728_Tournament Staff"
+msgid "I must be going now. Good luck on the road ahead, Akiyama-san."
+msgstr ""
+
+msgctxt "800_Kongo"
+msgid ""
+"Congratulations on passing the qualifiers. The Victory Road finals will be "
+"held in a certain pleasure quarter once the qualifiers in each city have "
+"been completed."
+msgstr ""
+
+msgctxt "812_Kongo"
+msgid ""
+"Though you have secured a place in the finals, Victory Road competitors "
+"will still challenge you in the street to test their skills. Keep fighting "
+"to stay in peak condition."
+msgstr ""

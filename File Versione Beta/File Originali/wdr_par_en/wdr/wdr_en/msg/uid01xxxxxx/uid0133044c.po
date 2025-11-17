@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2796"
+msgid "Player"
+msgstr ""
+
+msgctxt "2800"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2804"
+msgid "Play"
+msgstr ""
+
+msgctxt "2808"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "2812"
+msgid "Read the Rules"
+msgstr ""
+
+msgctxt "2816"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2820"
+msgid "Batting Center: Extra Course"
+msgstr ""
+
+msgctxt "76_Player"
+msgid "(No point doing this in Kamurocho...)"
+msgstr ""
+
+msgctxt "88_Player"
+msgid "(No, this isn't for me.)"
+msgstr ""
+
+msgctxt "112_Player"
+msgid "(The Extra Course is 300 yen. Should I give it a go?)"
+msgstr ""
+
+msgctxt "124_Player"
+msgid "(Okay. Let's give it a go.)"
+msgstr ""
+
+msgctxt "148_Player"
+msgid "(No. Not now.)"
+msgstr ""
+
+msgctxt "160_Player"
+msgid ""
+"Press <Action:Button_Cross@Battingcenter> at the right time to hit the "
+"balls pitched by the pitching machine. Hit the targets to earn points."
+msgstr ""
+
+msgctxt "172_Player"
+msgid ""
+"There are two types of plates. Green plates can be broken in one hit. Red "
+"plates turn green when hit－meaning they must be hit twice to break."
+msgstr ""
+
+msgctxt "184_Player"
+msgid ""
+"After every three hits on a plate, you will trigger a Bomb Chance. For one "
+"pitch,  a special, explosive ball will be thrown your way. When it hits, it "
+"will blow up and shatter any plate within their blast radius, even red "
+"plates!"
+msgstr ""
+
+msgctxt "196_Player"
+msgid ""
+"Use multi-plate hits and Bomb Chance to destroy all the plates as quickly "
+"as possible!"
+msgstr ""
+
+msgctxt "208_Player"
+msgid "(The Extra Course is 300 yen, but I can't afford it right now... Bummer.)"
+msgstr ""

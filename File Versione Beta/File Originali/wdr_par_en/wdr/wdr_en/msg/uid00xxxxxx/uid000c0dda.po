@@ -1,0 +1,894 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "556"
+msgid "You got 2,200 experience points."
+msgstr ""
+
+msgctxt "2236"
+msgid "You got some <Color:8>Oden Soup<Color:Default>."
+msgstr ""
+
+msgctxt "2368"
+msgid "You got <Color:8>Bento Lunch Set<Color:Default>."
+msgstr ""
+
+msgctxt "2500"
+msgid "You got some <Color:8>Special Yakisoba<Color:Default>."
+msgstr ""
+
+msgctxt "46748"
+msgid "Mi-chan"
+msgstr ""
+
+msgctxt "46752"
+msgid "dummy"
+msgstr ""
+
+msgctxt "46756"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "46760"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "46764"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "46768"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "46772"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "46776"
+msgid "Practice Batting"
+msgstr ""
+
+msgctxt "46780"
+msgid "Chat with Mi-chan"
+msgstr ""
+
+msgctxt "46784"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "46788"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "46792"
+msgid "Take the Challenge"
+msgstr ""
+
+msgctxt "46796"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "46800"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "46804"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "46808"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "46812"
+msgid "Talk_Get"
+msgstr ""
+
+msgctxt "46816"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "46820"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "46824"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "46828"
+msgid "Hand Over the Bento Lunch Set"
+msgstr ""
+
+msgctxt "46832"
+msgid "Not Yet"
+msgstr ""
+
+msgctxt "46836"
+msgid "Oden Soup"
+msgstr ""
+
+msgctxt "46840"
+msgid "Bento Lunch Set"
+msgstr ""
+
+msgctxt "46844"
+msgid "Special Yakisoba"
+msgstr ""
+
+msgctxt "46848"
+msgid "Girl"
+msgstr ""
+
+msgctxt "46852"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "364_Mi-chan"
+msgid "Oh, hi, Ta-chan! Let me see you bat."
+msgstr ""
+
+msgctxt "424_Mi-chan"
+msgid "Those were some delicious wings, huh, Ta-chan?"
+msgstr ""
+
+msgctxt "436_Shinada"
+msgid ""
+"Yeah, they were pretty good. I had a lot of fun, too. Now I know why your "
+"jaw was hurting so much."
+msgstr ""
+
+msgctxt "448_Mi-chan"
+msgid "Hehehe. That's the first time someone has made that misunderstanding."
+msgstr ""
+
+msgctxt "460_Shinada"
+msgid "Hey, I already said I was sorry."
+msgstr ""
+
+msgctxt "472_Mi-chan"
+msgid "Okay! I have to get back to work now."
+msgstr ""
+
+msgctxt "484_Shinada"
+msgid "Uh, were you downing beers during work, Mi-chan?"
+msgstr ""
+
+msgctxt "568_Mi-chan"
+msgid "Wow! You did it, Ta-chan. You're the man!"
+msgstr ""
+
+msgctxt "580_Shinada"
+msgid "Yes! Now I get a chicken wings date with you. And it's your treat! Woohoo!"
+msgstr ""
+
+msgctxt "592_Mi-chan"
+msgid "Yup, I got it. I can't wait to bite into some wings. Let's go right now!"
+msgstr ""
+
+msgctxt "616_Shinada"
+msgid "(Now, what to do...)"
+msgstr ""
+
+msgctxt "676_Mi-chan"
+msgid "Hi, Mi-chan, how's it going?"
+msgstr ""
+
+msgctxt "688_Mi-chan"
+msgid ""
+"Oh, hi, Ta-chan. Would you like to take the challenge for our chicken wings "
+"date?"
+msgstr ""
+
+msgctxt "700_Mi-chan"
+msgid "The rules are the same as before. If you can hit all five pitches, you win!"
+msgstr ""
+
+msgctxt "712_Mi-chan"
+msgid "Of course I'll do it. A date with you is on the line."
+msgstr ""
+
+msgctxt "724_Mi-chan"
+msgid "Haha. Okay, Ta-chan. Let's see you bat."
+msgstr ""
+
+msgctxt "748_Mi-chan"
+msgid "No, maybe another time."
+msgstr ""
+
+msgctxt "760_Mi-chan"
+msgid "Oh, okay. I'll hold you to that, Ta-chan."
+msgstr ""
+
+msgctxt "772_Mi-chan"
+msgid "Ooh, too bad! The chicken wings will have to wait, Ta-chan."
+msgstr ""
+
+msgctxt "784_Shinada"
+msgid "Five hits on five pitches. It's tougher than I was expecting."
+msgstr ""
+
+msgctxt "808_Shinada"
+msgid "(What to do?)"
+msgstr ""
+
+msgctxt "868_Mi-chan"
+msgid "Hi, Mi-chan, how's it going?"
+msgstr ""
+
+msgctxt "880_Mi-chan"
+msgid "Oh, hi, Ta-chan! I was waiting for you!"
+msgstr ""
+
+msgctxt "892_Shinada"
+msgid ""
+"Is that right? When I hear that from a young cutie like you, it sets my "
+"heart racing."
+msgstr ""
+
+msgctxt "904_Mi-chan"
+msgid "Oh? Ta-chan, are you falling for me?"
+msgstr ""
+
+msgctxt "916_Shinada"
+msgid ""
+"Aww, Mi-chan, you're so darned cute. Especially compared to that old lady "
+"who was here before."
+msgstr ""
+
+msgctxt "928_Mi-chan"
+msgid "Excuse me? Can you not compare me to some old coot? I'm only 23, you know."
+msgstr ""
+
+msgctxt "940_Shinada"
+msgid ""
+"(Mi-chan's 23? Poor girl, already saddled with debt and working it off at "
+"some sleazy bathhouse.)"
+msgstr ""
+
+msgctxt "952_Mi-chan"
+msgid "Listen, Ta-chan, we should have another bet."
+msgstr ""
+
+msgctxt "964_Shinada"
+msgid "Are we betting over another homemade lunch?"
+msgstr ""
+
+msgctxt "976_Mi-chan"
+msgid "No, not this time. You know Sekai no Yamachan? The chicken wings place?"
+msgstr ""
+
+msgctxt "988_Mi-chan"
+msgid "If you can beat my challenge, how about I treat you to a meal there?"
+msgstr ""
+
+msgctxt "1000_Shinada"
+msgid ""
+"That sounds awesome! But are you sure? You got it rough with your debt and "
+"all."
+msgstr ""
+
+msgctxt "1012_Mi-chan"
+msgid "Well, even a broke girl wants to eat something tasty sometimes, y'know?"
+msgstr ""
+
+msgctxt "1024_Mi-chan"
+msgid ""
+"I love chicken wings, but it's too lonely to go eat by myself. I thought I "
+"could go with you!"
+msgstr ""
+
+msgctxt "1036_Shinada"
+msgid "If that's the case, forget the challenge and let's just go."
+msgstr ""
+
+msgctxt "1048_Mi-chan"
+msgid ""
+"We can, but I wouldn't be able to treat you then. Of course, if you're "
+"willing to pay, then we can totally go, hell, even tonight!"
+msgstr ""
+
+msgctxt "1060_Shinada"
+msgid "I mean, if I had money, then sure, but... Yeah."
+msgstr ""
+
+msgctxt "1072_Mi-chan"
+msgid ""
+"Well, then, you have to take my challenge. Besides, I like watching you "
+"bat, Ta-chan."
+msgstr ""
+
+msgctxt "1084_Shinada"
+msgid ""
+"Is that right? You're gonna make me blush. Okay, lay it on me. What's the "
+"challenge this time?"
+msgstr ""
+
+msgctxt "1096_Mi-chan"
+msgid "How about five pitches again, but you have to hit all of them?"
+msgstr ""
+
+msgctxt "1108_Shinada"
+msgid "Hmm, okay. If I blow even one, I lose."
+msgstr ""
+
+msgctxt "1120_Mi-chan"
+msgid "Is it too tough for even the mighty Ta-chan?"
+msgstr ""
+
+msgctxt "1132_Shinada"
+msgid ""
+"Oh, no, there's a date with a pretty girl and some free chicken wings "
+"riding on this. It's definitely worth the effort."
+msgstr ""
+
+msgctxt "1144_Mi-chan"
+msgid "That's what I think. I can't wait to go get some wings with you, Ta-chan!"
+msgstr ""
+
+msgctxt "1156_Shinada"
+msgid "You can count on me. Let's get this show on the road."
+msgstr ""
+
+msgctxt "1192_Mi-chan"
+msgid "Are you going to bat today?"
+msgstr ""
+
+msgctxt "1252_Mi-chan"
+msgid ""
+"Wow, that was awesome. I thought it might be a tough challenge, but there's "
+"no beating you, Ta-chan!"
+msgstr ""
+
+msgctxt "1264_Shinada"
+msgid "Heh, it was a piece of cake."
+msgstr ""
+
+msgctxt "1276_Mi-chan"
+msgid "Okay, I promised you something special, right?"
+msgstr ""
+
+msgctxt "1288_Shinada"
+msgid "Here we go. What is it?"
+msgstr ""
+
+msgctxt "1300_Mi-chan"
+msgid "It's... Mi-chan's special homemade lunch!"
+msgstr ""
+
+msgctxt "1312_Shinada"
+msgid "Huh? Homemade? Mi-chan, you can actually cook?"
+msgstr ""
+
+msgctxt "1324_Mi-chan"
+msgid "What do you mean by that? I'm a good cook! Why is that such a surprise!?"
+msgstr ""
+
+msgctxt "1336_Shinada"
+msgid "Uh, right. I mean, considering how you act and all... Never mind."
+msgstr ""
+
+msgctxt "1348_Shinada"
+msgid ""
+"(This girl's working at a sleazy bathhouse to pay off a debt... but I guess "
+"there's more to her than I thought.)"
+msgstr ""
+
+msgctxt "1360_Mi-chan"
+msgid "Trust me! It's really good. Go ahead, try it!"
+msgstr ""
+
+msgctxt "1372_Shinada"
+msgid "Okay, I'll do that."
+msgstr ""
+
+msgctxt "1384_Shinada"
+msgid "...Whoa!"
+msgstr ""
+
+msgctxt "1396_Mi-chan"
+msgid "Well, Ta-chan? How is it?"
+msgstr ""
+
+msgctxt "1408_Shinada"
+msgid ""
+"Aww, this is delicious! Seriously, this is good stuff. It's a pleasant "
+"surprise, I can tell you that."
+msgstr ""
+
+msgctxt "1420_Mi-chan"
+msgid ""
+"See? I told you. That's a relief, though. I'd have been real embarrassed if "
+"you didn't like it."
+msgstr ""
+
+msgctxt "1432_Shinada"
+msgid "Hold on, Mi-chan... Did you make this lunch just for me?"
+msgstr ""
+
+msgctxt "1444_Mi-chan"
+msgid "Oh, no. I just made an extra one this morning."
+msgstr ""
+
+msgctxt "1456_Shinada"
+msgid "Oh, uh, right, okay. But hey, it sure made me happy. Thanks, Mi-chan!"
+msgstr ""
+
+msgctxt "1468_Mi-chan"
+msgid ""
+"Haha, it was fun having this bet with you. We should do something like this "
+"again! I'm pretty bored around here, you know."
+msgstr ""
+
+msgctxt "1480_Shinada"
+msgid "(What to do?)"
+msgstr ""
+
+msgctxt "1540_Mi-chan"
+msgid "Hi, Mi-chan, how's it going?"
+msgstr ""
+
+msgctxt "1552_Mi-chan"
+msgid "Oh, hi, Ta-chan. Want to take another stab at our bet?"
+msgstr ""
+
+msgctxt "1564_Mi-chan"
+msgid ""
+"If you can hit two home runs out of five, I'll give you something real "
+"special! Wanna give it another go?"
+msgstr ""
+
+msgctxt "1576_Mi-chan"
+msgid "Of course I'll take the challenge. This time, I'm taking it seriously."
+msgstr ""
+
+msgctxt "1588_Mi-chan"
+msgid "Haha. Okay, Ta-chan. Let's see you bat."
+msgstr ""
+
+msgctxt "1612_Mi-chan"
+msgid "No, maybe another time."
+msgstr ""
+
+msgctxt "1624_Mi-chan"
+msgid "Oh, okay. I'll hold you to that, Ta-chan."
+msgstr ""
+
+msgctxt "1636_Mi-chan"
+msgid ""
+"Oh, no. Too bad. I guess two home runs out of five pitches is too tall of "
+"an order, huh..."
+msgstr ""
+
+msgctxt "1648_Shinada"
+msgid "Gah! I guess I'm not getting that special something..."
+msgstr ""
+
+msgctxt "1672_Shinada"
+msgid "(What to do?)"
+msgstr ""
+
+msgctxt "1732_Mi-chan"
+msgid "Hi, Mi-chan, how's it going?"
+msgstr ""
+
+msgctxt "1744_Mi-chan"
+msgid "Oh, hi, Ta-chan! I was waiting for you!"
+msgstr ""
+
+msgctxt "1756_Shinada"
+msgid "Oh? What's up? Let me guess, you were waiting for me to swing by, yeah?"
+msgstr ""
+
+msgctxt "1768_Mi-chan"
+msgid "That's exactly it. Listen, Ta-chan, we should have another bet like before."
+msgstr ""
+
+msgctxt "1780_Shinada"
+msgid "Sure. What are we betting on today?"
+msgstr ""
+
+msgctxt "1792_Mi-chan"
+msgid ""
+"If you win, I'll give you something special. But I won't tell you what it "
+"is until you win. Fun, right?"
+msgstr ""
+
+msgctxt "1804_Shinada"
+msgid "Okay. That means I can keep trying until I win. So what do I have to do?"
+msgstr ""
+
+msgctxt "1816_Mi-chan"
+msgid ""
+"Let's give you five pitches. If you can hit two home runs, you win. Does "
+"that sound fair?"
+msgstr ""
+
+msgctxt "1828_Shinada"
+msgid "And there's no penalty if I fail, right?"
+msgstr ""
+
+msgctxt "1840_Mi-chan"
+msgid "Yup. We good, then? Let's do this!"
+msgstr ""
+
+msgctxt "1876_Mi-chan"
+msgid "Are you going to bat today?"
+msgstr ""
+
+msgctxt "1936_Mi-chan"
+msgid "Oh, hi, Ta-chan. Did you get my Bento Lunch Set?"
+msgstr ""
+
+msgctxt "1948_Mi-chan"
+msgid "Uh, no, not yet."
+msgstr ""
+
+msgctxt "1960_Mi-chan"
+msgid "Oh, no, really? I'm starving."
+msgstr ""
+
+msgctxt "1972_Shinada"
+msgid ""
+"Sorry, sorry. I'll scoot off to the convenience store and get your Bento "
+"Lunch Set."
+msgstr ""
+
+msgctxt "1984_Mi-chan"
+msgid "Okay, thank you!"
+msgstr ""
+
+msgctxt "1996_Mi-chan"
+msgid "(What to do?)"
+msgstr ""
+
+msgctxt "2008_Mi-chan"
+msgid "Here you go."
+msgstr ""
+
+msgctxt "2032_Mi-chan"
+msgid "Thank you! You're a lifesaver."
+msgstr ""
+
+msgctxt "2044_Mi-chan"
+msgid "Yes! I win! Lunch is on you, Ta-chan. Could you get me a Bento Lunch set?"
+msgstr ""
+
+msgctxt "2056_Shinada"
+msgid "Oh, man... But all right. A promise is a promise."
+msgstr ""
+
+msgctxt "2068_Mi-chan"
+msgid "I'm seriously famished. Run over there if you can, before I starve to death!"
+msgstr ""
+
+msgctxt "2080_Shinada"
+msgid ""
+"All right, I'll scoot off to the convenience store. One Bento Lunch Set's "
+"good enough for you?"
+msgstr ""
+
+msgctxt "2092_Mi-chan"
+msgid "Of course. One is plenty. Thanks, Ta-chan."
+msgstr ""
+
+msgctxt "2104_Mi-chan"
+msgid ""
+"Uh-oh, I lost. Okay, I keep my promises. I'll treat you to some convenience "
+"store takeout."
+msgstr ""
+
+msgctxt "2116_Shinada"
+msgid ""
+"Hahaha, it's not very gallant of me, but it was a fair wager. I'll happily "
+"accept that treat."
+msgstr ""
+
+msgctxt "2128_Mi-chan"
+msgid "What should I go buy?"
+msgstr ""
+
+msgctxt "2140_Mi-chan"
+msgid "Oden Soup? Okay. I'll be back in a few minutes."
+msgstr ""
+
+msgctxt "2212_Mi-chan"
+msgid "Here you go, Ta-chan."
+msgstr ""
+
+msgctxt "2272_Mi-chan"
+msgid "Bento Lunch Set? Okay. I'll be back in a few minutes."
+msgstr ""
+
+msgctxt "2344_Mi-chan"
+msgid "Here you go, Ta-chan."
+msgstr ""
+
+msgctxt "2404_Mi-chan"
+msgid "Special Yakisoba? Okay. I'll be back in a few minutes."
+msgstr ""
+
+msgctxt "2476_Mi-chan"
+msgid "Here you go, Ta-chan!"
+msgstr ""
+
+msgctxt "2536_Mi-chan"
+msgid "Wow, thanks, Mi-chan. You're an angel."
+msgstr ""
+
+msgctxt "2548_Mi-chan"
+msgid ""
+"I didn't expect you to be able to hit like that. Pretty impressive, to be "
+"honest. But I guess I shouldn't have doubted you!"
+msgstr ""
+
+msgctxt "2560_Mi-chan"
+msgid "I'm gonna have to make it harder on you next time!"
+msgstr ""
+
+msgctxt "2572_Shinada"
+msgid "Oh, boy, don't make it too hard."
+msgstr ""
+
+msgctxt "2632_Shinada"
+msgid "(What to do?)"
+msgstr ""
+
+msgctxt "2692_Mi-chan"
+msgid "Hi, Mi-chan, how's it going?"
+msgstr ""
+
+msgctxt "2704_Mi-chan"
+msgid "Oh, hi, Ta-chan. How are you?"
+msgstr ""
+
+msgctxt "2716_Shinada"
+msgid "Alright. You don't look so good, though. You doing okay?"
+msgstr ""
+
+msgctxt "2728_Mi-chan"
+msgid ""
+"Really? I mean, I haven't eaten anything today. I should nip out and get "
+"some takeout."
+msgstr ""
+
+msgctxt "2740_Shinada"
+msgid "What, and leave the place unattended?"
+msgstr ""
+
+msgctxt "2752_Mi-chan"
+msgid "It'll be only a few minutes. I'm just stepping out to grab something quick!"
+msgstr ""
+
+msgctxt "2764_Shinada"
+msgid "I guess that's true."
+msgstr ""
+
+msgctxt "2776_Mi-chan"
+msgid "Oh, Ta-chan, are you hungry, too?"
+msgstr ""
+
+msgctxt "2788_Shinada"
+msgid "Huh? What, you gonna treat me to something?"
+msgstr ""
+
+msgctxt "2800_Mi-chan"
+msgid "Well... How about maybe?"
+msgstr ""
+
+msgctxt "2812_Shinada"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "2824_Mi-chan"
+msgid ""
+"Want to make a bet of it? We'll see if you can hit a home run off a "
+"pitching machine or not."
+msgstr ""
+
+msgctxt "2836_Shinada"
+msgid "Hmm... Yeah, I could go for that. Sounds fun."
+msgstr ""
+
+msgctxt "2848_Mi-chan"
+msgid ""
+"Okay, how about we base it off three pitches? If you can hit a home run, "
+"it'll be my treat."
+msgstr ""
+
+msgctxt "2860_Mi-chan"
+msgid ""
+"So naturally, that means that you have to treat me to lunch if you can't do "
+"it."
+msgstr ""
+
+msgctxt "2872_Shinada"
+msgid ""
+"Fine. You know, Mi-chan, I'm pretty good at this batting stuff. You might "
+"end up regretting this little bet of yours."
+msgstr ""
+
+msgctxt "2884_Shinada"
+msgid "Three pitches is more than plenty for smacking out a homer."
+msgstr ""
+
+msgctxt "2896_Mi-chan"
+msgid "Well, let's see if you have to eat those words... and my lunch bill! Hah!"
+msgstr ""
+
+msgctxt "2920_Mi-chan"
+msgid "What would you like to do?"
+msgstr ""
+
+msgctxt "2980_Girl"
+msgid "Oh, hello!"
+msgstr ""
+
+msgctxt "2992_Shinada"
+msgid "Huh? Who are you?"
+msgstr ""
+
+msgctxt "3004_Girl"
+msgid ""
+"I just started today. The lady who used to work here suddenly quit, and "
+"they had an ad out saying they were hiring, so here I am!"
+msgstr ""
+
+msgctxt "3016_Shinada"
+msgid "Oh, so the old lady's gone..."
+msgstr ""
+
+msgctxt "3028_Shinada"
+msgid "(I mean, she did try to kill me...)"
+msgstr ""
+
+msgctxt "3040_Girl"
+msgid "Um, are you a regular here?"
+msgstr ""
+
+msgctxt "3052_Shinada"
+msgid "Huh? Uh, yeah, you might say that."
+msgstr ""
+
+msgctxt "3064_Girl"
+msgid ""
+"Oh, then let me introduce myself! I'm Miki Murai. Please feel free to call "
+"me Mi-chan."
+msgstr ""
+
+msgctxt "3076_Shinada"
+msgid ""
+"Okay, Mi-chan. It's nice to see this place get someone so pretty to work "
+"the counter. It'll bring some much-needed shine to the establishment."
+msgstr ""
+
+msgctxt "3088_Mi-chan"
+msgid "Haha, thanks!"
+msgstr ""
+
+msgctxt "3100_Shinada"
+msgid "I'm Tatsuo Shinada. You can call me Ta-chan."
+msgstr ""
+
+msgctxt "3112_Mi-chan"
+msgid "Okay, Ta-chan. Huh? Wait, your face... There's..."
+msgstr ""
+
+msgctxt "3124_Shinada"
+msgid "What's wrong with my face?"
+msgstr ""
+
+msgctxt "3136_Mi-chan"
+msgid "Oh, no, I just think I recognize you from somewhere."
+msgstr ""
+
+msgctxt "3148_Shinada"
+msgid "Huh? Really?"
+msgstr ""
+
+msgctxt "3160_Mi-chan"
+msgid ""
+"Oh! That's it! I think I've seen you in town with someone. Ta-chan, do you "
+"maybe know Takasugi-san?"
+msgstr ""
+
+msgctxt "3172_Shinada"
+msgid "Takasugi-san? As in the money lender? That Takasugi-san?"
+msgstr ""
+
+msgctxt "3184_Mi-chan"
+msgid "Yes! That's him."
+msgstr ""
+
+msgctxt "3196_Shinada"
+msgid "Mi-chan, why do you know Takasugi-san?"
+msgstr ""
+
+msgctxt "3208_Mi-chan"
+msgid "Well, it's, um... Because I borrowed money from him."
+msgstr ""
+
+msgctxt "3220_Shinada"
+msgid "Oh, that's what it is. You owe him money, too."
+msgstr ""
+
+msgctxt "3232_Shinada"
+msgid "Huh? Come to think of it, I think I heard your name somewhere, too."
+msgstr ""
+
+msgctxt "3244_Mi-chan"
+msgid "Really?"
+msgstr ""
+
+msgctxt "3256_Shinada"
+msgid "What was it now? Was that you on the phone with Takasugi-san?"
+msgstr ""
+
+msgctxt "3268_Shinada"
+msgid ""
+"(Oh, right, Takasugi had her working at a bathhouse to repay her loan. She "
+"was crying because her jaw hurt...)"
+msgstr ""
+
+msgctxt "3280_Shinada"
+msgid "Oh, so that's who you are. You're that Mi-chan!"
+msgstr ""
+
+msgctxt "3292_Mi-chan"
+msgid "Oh! Did you hear about me from Takasugi-san, then?"
+msgstr ""
+
+msgctxt "3304_Shinada"
+msgid ""
+"Uh, just a little. Like, you're, uh, working another job? It must be pretty "
+"tough for you."
+msgstr ""
+
+msgctxt "3316_Mi-chan"
+msgid ""
+"Well, I gotta. If I don't pay back this loan quick, the interest's just "
+"gonna keep piling up."
+msgstr ""
+
+msgctxt "3328_Shinada"
+msgid "That's so true. We both have to dig down and work."
+msgstr ""
+
+msgctxt "3340_Mi-chan"
+msgid "Ooh, ouch. My jaw hurts."
+msgstr ""
+
+msgctxt "3352_Shinada"
+msgid "Are you okay? Don't work yourself too hard."
+msgstr ""
+
+msgctxt "3364_Mi-chan"
+msgid "Yeah, it's nothing..."
+msgstr ""
+
+msgctxt "3376_Shinada"
+msgid ""
+"(Her jaw aches? From working at some sleazy bathhouse, the poor girl. She "
+"looks so innocent, too. Some world we live in.)"
+msgstr ""
+
+msgctxt "3388_Mi-chan"
+msgid "Okay, Ta-chan. Enjoy your visit. If you need anything, I'm right here."
+msgstr ""
+
+msgctxt "3400_Mi-chan"
+msgid ""
+"Oh, hello. Our batting center's machines are pretty tough. If you're just a "
+"beginner, you might want to think about heading back out through that door."
+msgstr ""

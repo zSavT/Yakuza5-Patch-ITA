@@ -1,0 +1,888 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "20804"
+msgid "Tanned Kubota Employee"
+msgstr ""
+
+msgctxt "20808"
+msgid "adv4_030/kubotaman2_0004"
+msgstr ""
+
+msgctxt "20812"
+msgid "kaiwabgm_serious01"
+msgstr ""
+
+msgctxt "20816"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "20820"
+msgid "adv4_030/shinada_0045"
+msgstr ""
+
+msgctxt "20824"
+msgid "adv4_030/kubotaman2_0005"
+msgstr ""
+
+msgctxt "20828"
+msgid "p_stand_nml"
+msgstr ""
+
+msgctxt "20832"
+msgid "P_ATK_door_hand"
+msgstr ""
+
+msgctxt "20836"
+msgid "M_NML_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "20840"
+msgid "M_NML_REA_yoroke_br_middle"
+msgstr ""
+
+msgctxt "20844"
+msgid "adv4_030/shinada_0046"
+msgstr ""
+
+msgctxt "20848"
+msgid "Toriyama"
+msgstr ""
+
+msgctxt "20852"
+msgid "adv4_030/toriyama_0001"
+msgstr ""
+
+msgctxt "20856"
+msgid "Ono"
+msgstr ""
+
+msgctxt "20860"
+msgid "adv4_030/ohno_0001"
+msgstr ""
+
+msgctxt "20864"
+msgid "adv4_030/shinada_0047"
+msgstr ""
+
+msgctxt "20868"
+msgid "adv4_030/ohno_0002"
+msgstr ""
+
+msgctxt "20872"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "20876"
+msgid "adv4_030/shinada_0048"
+msgstr ""
+
+msgctxt "20880"
+msgid "adv4_030/ohno_0003a"
+msgstr ""
+
+msgctxt "20884"
+msgid "adv4_030/ohno_0003b"
+msgstr ""
+
+msgctxt "20888"
+msgid "adv4_030/ohno_0003c"
+msgstr ""
+
+msgctxt "20892"
+msgid "adv4_030/ohno_0004a"
+msgstr ""
+
+msgctxt "20896"
+msgid "adv4_030/ohno_0004b"
+msgstr ""
+
+msgctxt "20900"
+msgid "adv4_030/shinada_0049"
+msgstr ""
+
+msgctxt "20904"
+msgid "adv4_030/ohno_0005"
+msgstr ""
+
+msgctxt "20908"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "20912"
+msgid "adv4_030/shinada_0050"
+msgstr ""
+
+msgctxt "20916"
+msgid "adv4_030/toriyama_0003a"
+msgstr ""
+
+msgctxt "20920"
+msgid "adv4_030/toriyama_0003b"
+msgstr ""
+
+msgctxt "20924"
+msgid "adv4_030/ohno_0006a"
+msgstr ""
+
+msgctxt "20928"
+msgid "adv4_030/ohno_0006b"
+msgstr ""
+
+msgctxt "20932"
+msgid "adv4_030/shinada_0051"
+msgstr ""
+
+msgctxt "20936"
+msgid "ACDEV0058"
+msgstr ""
+
+msgctxt "20940"
+msgid "C4030_SIN_TLK_bat_kamae"
+msgstr ""
+
+msgctxt "20944"
+msgid "C4030_SIN_TLK_get_bat"
+msgstr ""
+
+msgctxt "20948"
+msgid "adv4_030/ohno_0007"
+msgstr ""
+
+msgctxt "20952"
+msgid "adv4_030/shinada_0052"
+msgstr ""
+
+msgctxt "20956"
+msgid "adv4_030/toriyama_0004"
+msgstr ""
+
+msgctxt "20960"
+msgid "adv4_030/shinada_0053"
+msgstr ""
+
+msgctxt "20964"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "20968"
+msgid "adv4_030/ohno_0008"
+msgstr ""
+
+msgctxt "20972"
+msgid "adv4_030/shinada_0054"
+msgstr ""
+
+msgctxt "20976"
+msgid "C4030_SIN_TLK_bat_look"
+msgstr ""
+
+msgctxt "20980"
+msgid "adv4_030/ohno_0009"
+msgstr ""
+
+msgctxt "20984"
+msgid "adv4_030/toriyama_0005"
+msgstr ""
+
+msgctxt "20988"
+msgid "adv4_030/shinada_0055a"
+msgstr ""
+
+msgctxt "20992"
+msgid "adv4_030/shinada_0055b"
+msgstr ""
+
+msgctxt "20996"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "21000"
+msgid "adv4_030/toriyama_0006"
+msgstr ""
+
+msgctxt "21004"
+msgid "adv4_030/shinada_0056a"
+msgstr ""
+
+msgctxt "21008"
+msgid "adv4_030/shinada_0056b"
+msgstr ""
+
+msgctxt "21012"
+msgid "adv4_030/shinada_0057a"
+msgstr ""
+
+msgctxt "21016"
+msgid "adv4_030/shinada_0057b"
+msgstr ""
+
+msgctxt "21020"
+msgid "adv4_030/toriyama_0007"
+msgstr ""
+
+msgctxt "21024"
+msgid "adv4_030/shinada_0058"
+msgstr ""
+
+msgctxt "21028"
+msgid "adv4_030/ohno_0010"
+msgstr ""
+
+msgctxt "21032"
+msgid "adv4_030/shinada_0059a"
+msgstr ""
+
+msgctxt "21036"
+msgid "adv4_030/shinada_0059b"
+msgstr ""
+
+msgctxt "21040"
+msgid "adv4_030/ohno_0011"
+msgstr ""
+
+msgctxt "21044"
+msgid "Kubota"
+msgstr ""
+
+msgctxt "21048"
+msgid "adv4_030/kubota_0001"
+msgstr ""
+
+msgctxt "21052"
+msgid "P_SIN_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "21056"
+msgid "ArmsID"
+msgstr ""
+
+msgctxt "21060"
+msgid "adv4_030/shinada_0060a"
+msgstr ""
+
+msgctxt "21064"
+msgid "adv4_030/shinada_0060b"
+msgstr ""
+
+msgctxt "21068"
+msgid "adv4_030/shinada_0060c"
+msgstr ""
+
+msgctxt "21072"
+msgid "adv4_030/kubota_0002"
+msgstr ""
+
+msgctxt "21076"
+msgid "adv4_030/kubota_0003"
+msgstr ""
+
+msgctxt "21080"
+msgid "adv4_030/ohno_0012"
+msgstr ""
+
+msgctxt "21084"
+msgid "adv4_030/kubota_0004a"
+msgstr ""
+
+msgctxt "21088"
+msgid "kaiwabgm_fuon02"
+msgstr ""
+
+msgctxt "21092"
+msgid "adv4_030/kubota_0004b"
+msgstr ""
+
+msgctxt "21096"
+msgid "adv4_030/ohno_0013"
+msgstr ""
+
+msgctxt "21100"
+msgid "adv4_030/kubota_0005"
+msgstr ""
+
+msgctxt "21104"
+msgid "adv4_030/ohno_0014"
+msgstr ""
+
+msgctxt "21108"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "21112"
+msgid "C4035_KBT_TLK_sting_pen_lp"
+msgstr ""
+
+msgctxt "21116"
+msgid "C4035_KBT_TLK_sting_pen_st"
+msgstr ""
+
+msgctxt "21120"
+msgid "C4035_OON_TLK_sting_pen_lp"
+msgstr ""
+
+msgctxt "21124"
+msgid "C4035_OON_TLK_sting_pen_st"
+msgstr ""
+
+msgctxt "21128"
+msgid "adv4_030/ohno_0015"
+msgstr ""
+
+msgctxt "21132"
+msgid "adv4_030/kubota_0006"
+msgstr ""
+
+msgctxt "21136"
+msgid "adv4_030/ohno_0016"
+msgstr ""
+
+msgctxt "21140"
+msgid "C4035_KBT_TLK_sting_pen_ed"
+msgstr ""
+
+msgctxt "21144"
+msgid "C4035_KBT_TLK_sting_pen_kamae"
+msgstr ""
+
+msgctxt "21148"
+msgid "C4035_OON_TLK_sting_pen_ed"
+msgstr ""
+
+msgctxt "21152"
+msgid "C4035_OON_TLK_sting_pen2_kamae"
+msgstr ""
+
+msgctxt "21156"
+msgid "adv4_030/kubota_0007"
+msgstr ""
+
+msgctxt "21160"
+msgid "adv4_030/shinada_0061a"
+msgstr ""
+
+msgctxt "21164"
+msgid "C4035_SIN_TLK_stop_lp"
+msgstr ""
+
+msgctxt "21168"
+msgid "C4035_SIN_TLK_stop_st"
+msgstr ""
+
+msgctxt "21172"
+msgid "C4035_KBT_TLK_sting_pen2_kamae"
+msgstr ""
+
+msgctxt "21176"
+msgid "C4035_KBT_TLK_sting_pen2"
+msgstr ""
+
+msgctxt "21180"
+msgid "C4035_OON_TLK_kamae"
+msgstr ""
+
+msgctxt "21184"
+msgid "C4035_OON_TLK_sting_pen2"
+msgstr ""
+
+msgctxt "21188"
+msgid "adv4_030/shinada_0061b"
+msgstr ""
+
+msgctxt "21192"
+msgid "adv4_030/kubota_0008a"
+msgstr ""
+
+msgctxt "21196"
+msgid "C4035_SIN_TLK_stop_ed"
+msgstr ""
+
+msgctxt "21200"
+msgid "adv4_030/kubota_0008b"
+msgstr ""
+
+msgctxt "21204"
+msgid "adv4_030/ohno_0017"
+msgstr ""
+
+msgctxt "21208"
+msgid "C4035_OON_TLK_dogeza"
+msgstr ""
+
+msgctxt "21212"
+msgid "adv4_020_04/shinada_0039"
+msgstr ""
+
+msgctxt "21216"
+msgid "kaiwabgm_tension02"
+msgstr ""
+
+msgctxt "21220"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "21224"
+msgid "Menacing Kubota Employee"
+msgstr ""
+
+msgctxt "21228"
+msgid "adv4_020_04/kubotaman1_0001"
+msgstr ""
+
+msgctxt "21232"
+msgid "adv4_020_04/shinada_0040"
+msgstr ""
+
+msgctxt "21236"
+msgid "adv4_020_04/kubotaman1_0002"
+msgstr ""
+
+msgctxt "21240"
+msgid "adv4_020_04/shinada_0041"
+msgstr ""
+
+msgctxt "21244"
+msgid "adv4_020_04/kubotaman1_0003"
+msgstr ""
+
+msgctxt "21248"
+msgid "adv4_020_04/shinada_0042a"
+msgstr ""
+
+msgctxt "21252"
+msgid "adv4_020_04/shinada_0042b"
+msgstr ""
+
+msgctxt "21256"
+msgid "adv4_020_04/kubotaman2_0001a"
+msgstr ""
+
+msgctxt "21260"
+msgid "adv4_020_04/kubotaman2_0001b"
+msgstr ""
+
+msgctxt "21264"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "21268"
+msgid "adv4_020_04/shinada_0043a"
+msgstr ""
+
+msgctxt "21272"
+msgid "adv4_020_04/shinada_0043b"
+msgstr ""
+
+msgctxt "21276"
+msgid "adv4_020_04/kubotaman1_0004a"
+msgstr ""
+
+msgctxt "21280"
+msgid "adv4_020_04/kubotaman1_0004b"
+msgstr ""
+
+msgctxt "21284"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "21288"
+msgid "adv4_020_04/shinada_0044"
+msgstr ""
+
+msgctxt "21292"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "21296"
+msgid "adv4_020_04/kubotaman1_0005"
+msgstr ""
+
+msgctxt "21300"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "21304"
+msgid "adv4_020_04/kubotaman2_0002"
+msgstr ""
+
+msgctxt "21308"
+msgid "adv4_020_04/kubotaman2_0003"
+msgstr ""
+
+msgctxt "60_Tanned Kubota Employee"
+msgid "Gwargh!"
+msgstr ""
+
+msgctxt "72_Shinada"
+msgid "Okay, now will you please bring Toriyama-san?"
+msgstr ""
+
+msgctxt "84_Tanned Kubota Employee"
+msgid "Dammit..."
+msgstr ""
+
+msgctxt "168_Shinada"
+msgid "You're Toriyama-san? Milky－uh, your sister－told me you were in trouble."
+msgstr ""
+
+msgctxt "180_Toriyama"
+msgid "My sister!?"
+msgstr ""
+
+msgctxt "192_Tanned Kubota Employee"
+msgid "You came to fix the mess this guy made? What a stand-up guy you are."
+msgstr ""
+
+msgctxt "204_Tanned Kubota Employee"
+msgid ""
+"So I heard Toriyama-san broke something while on duty,\r\n"
+"and now there's a liability issue?"
+msgstr ""
+
+msgctxt "216_Ono"
+msgid "Correct. And I assume you're here to cover all the damages?"
+msgstr ""
+
+msgctxt "228_Shinada"
+msgid ""
+"About that. It shouldn't be the employee's responsibility.\r\n"
+"Isn't that what company insurance is for?"
+msgstr ""
+
+msgctxt "240_Ono"
+msgid "Maybe if it was just once."
+msgstr ""
+
+msgctxt "252_Ono"
+msgid ""
+"This numbnut screwed up so many times, I could fertilize\r\n"
+"a farm with all the shit the boss gives me."
+msgstr ""
+
+msgctxt "264_Ono"
+msgid "And this is the thanks I get. He's really gone and done it now."
+msgstr ""
+
+msgctxt "276_Toriyama"
+msgid "......"
+msgstr ""
+
+msgctxt "288_Ono"
+msgid "His ass ain't the kind insurance just can wipe."
+msgstr ""
+
+msgctxt "300_Ono"
+msgid ""
+"And if he can't pay compensation, he'll just have to borrow from a loan "
+"shark."
+msgstr ""
+
+msgctxt "312_Shinada"
+msgid "So what's this thing he broke?"
+msgstr ""
+
+msgctxt "324_Ono"
+msgid "See for yourself."
+msgstr ""
+
+msgctxt "336_Shinada"
+msgid "Huh? What is this?"
+msgstr ""
+
+msgctxt "348_Toriyama"
+msgid ""
+"The bat that Koji Kakegawa, the Japanese home run king, used to set the "
+"world record."
+msgstr ""
+
+msgctxt "360_Toriyama"
+msgid "It was on its way to the Baseball Hall of Fame... until I dropped it."
+msgstr ""
+
+msgctxt "372_Ono"
+msgid "So what's it gonna be? Ya payin' for the damages or what?"
+msgstr ""
+
+msgctxt "384_Ono"
+msgid ""
+"This ain't some kinda toy you can find in the kiddie aisle\r\n"
+"of some mom and pop shop."
+msgstr ""
+
+msgctxt "396_Shinada"
+msgid "Well, I can't pay, but..."
+msgstr ""
+
+msgctxt "420_Ono"
+msgid "Hey, hey! What the fuck do you think－"
+msgstr ""
+
+msgctxt "432_Shinada"
+msgid "Toriyama-san, this is no big deal."
+msgstr ""
+
+msgctxt "444_Toriyama"
+msgid "Oh, can you fix it somehow?"
+msgstr ""
+
+msgctxt "456_Shinada"
+msgid "Don't have to. It's fake."
+msgstr ""
+
+msgctxt "468_Ono"
+msgid "Oh, and how the fuck would you know, huh?"
+msgstr ""
+
+msgctxt "480_Shinada"
+msgid "Because Kakegawa-san played with compressed bats."
+msgstr ""
+
+msgctxt "492_Ono"
+msgid "......"
+msgstr ""
+
+msgctxt "504_Toriyama"
+msgid "What's a compressed bat?"
+msgstr ""
+
+msgctxt "516_Shinada"
+msgid ""
+"They were banned in 1981, so you'll never see a pro go\r\n"
+"busting one out..."
+msgstr ""
+
+msgctxt "528_Shinada"
+msgid "But in his day, this would've been compressed."
+msgstr ""
+
+msgctxt "540_Toriyama"
+msgid "So is this bat not the same thing?"
+msgstr ""
+
+msgctxt "552_Shinada"
+msgid ""
+"Not even close. A compressed bat is thoroughly primed with resin to give "
+"your swing more substance."
+msgstr ""
+
+msgctxt "564_Shinada"
+msgid "This isn't treated, see?"
+msgstr ""
+
+msgctxt "576_Shinada"
+msgid ""
+"Oh, and look, there's not even any pine tar on it. No mistake, this thing "
+"is bogus."
+msgstr ""
+
+msgctxt "588_Shinada"
+msgid "Isn't this just a souvenir with a signature?"
+msgstr ""
+
+msgctxt "600_Toriyama"
+msgid "So you're saying..."
+msgstr ""
+
+msgctxt "612_Shinada"
+msgid "Let me think... If you did have to pay, it'd be what, 10,000 yen, tops?"
+msgstr ""
+
+msgctxt "624_Ono"
+msgid "You think you can just waltz in here and try to pull a fast one on me?"
+msgstr ""
+
+msgctxt "636_Shinada"
+msgid "If you doubt me, get it appraised."
+msgstr ""
+
+msgctxt "648_Shinada"
+msgid "It's pretty obvious, though."
+msgstr ""
+
+msgctxt "660_Ono"
+msgid "......"
+msgstr ""
+
+msgctxt "696_Kubota"
+msgid "What's with all the racket in here?"
+msgstr ""
+
+msgctxt "708_Shinada"
+msgid "You the guy in charge? Perfect timing."
+msgstr ""
+
+msgctxt "720_Shinada"
+msgid ""
+"That \"expensive\" thing Toriyama-san broke?\r\n"
+"It's nowhere near authentic. So..."
+msgstr ""
+
+msgctxt "732_Shinada"
+msgid ""
+"I was wondering if you could maybe just give him a slap on\r\n"
+"the wrist and let that be the end of it?"
+msgstr ""
+
+msgctxt "744_Kubota"
+msgid "Care to explain what our guest is saying?"
+msgstr ""
+
+msgctxt "816_Kubota"
+msgid "Hey, Ono."
+msgstr ""
+
+msgctxt "828_Ono"
+msgid "Yes?"
+msgstr ""
+
+msgctxt "840_Kubota"
+msgid "What's this about transporting an expensive commodity?"
+msgstr ""
+
+msgctxt "852_Kubota"
+msgid "This's the first I've heard of it."
+msgstr ""
+
+msgctxt "864_Ono"
+msgid "You see, I uh..."
+msgstr ""
+
+msgctxt "876_Kubota"
+msgid ""
+"<Italic>What I see</Italic> is a sneaky little rat who took on yet another "
+"company job just so he could skim the fee."
+msgstr ""
+
+msgctxt "888_Ono"
+msgid "No... That's not how I..."
+msgstr ""
+
+msgctxt "924_Tanned Kubota Employee"
+msgid "Gwaaaaaaaaaaaagh!"
+msgstr ""
+
+msgctxt "936_Tanned Kubota Employee"
+msgid ""
+"I don't care what kind of shenanigans you pull by yourself,\r\n"
+"but you don't <Italic>ever</Italic> spoil my company's good name."
+msgstr ""
+
+msgctxt "948_Ono"
+msgid "Sh... Shorry!"
+msgstr ""
+
+msgctxt "960_Kubota"
+msgid ""
+"And if what you showed our guest today is how you define\r\n"
+"hospitality, then maybe you need another pen to the face!"
+msgstr ""
+
+msgctxt "972_Shinada"
+msgid "Whoa, time out!"
+msgstr ""
+
+msgctxt "984_Shinada"
+msgid ""
+"As long as Toriyama-san's off the hook, I'd be totally happy\r\n"
+"without that!"
+msgstr ""
+
+msgctxt "996_Kubota"
+msgid "That so?"
+msgstr ""
+
+msgctxt "1008_Kubota"
+msgid "Then a formal apology is called for."
+msgstr ""
+
+msgctxt "1020_Ono"
+msgid "Pleash... I beg your forgivnesh!"
+msgstr ""
+
+msgctxt "1044_Shinada"
+msgid "Hello. I'm here from Nightlife Magazine..."
+msgstr ""
+
+msgctxt "1056_Menacing Kubota Employee"
+msgid "What's this about?"
+msgstr ""
+
+msgctxt "1068_Shinada"
+msgid "Uh... Well, I'm Shinada and I write for adult entertainment..."
+msgstr ""
+
+msgctxt "1080_Menacing Kubota Employee"
+msgid "Adult entertainment?"
+msgstr ""
+
+msgctxt "1092_Shinada"
+msgid "Anyway, I'm here for Milky-chan's little bro."
+msgstr ""
+
+msgctxt "1104_Menacing Kubota Employee"
+msgid "Milky-chan?"
+msgstr ""
+
+msgctxt "1116_Shinada"
+msgid ""
+"Yes, Milky from Club Futo Momo. Her real name's...\r\n"
+"Uh, what was it again?"
+msgstr ""
+
+msgctxt "1128_Shinada"
+msgid ""
+"Forget it. Now if you could release the employee you're\r\n"
+"basically holding hostage, that'd be great."
+msgstr ""
+
+msgctxt "1140_Tanned Kubota Employee"
+msgid "If you mean Toriyama, it ain't none of your damn business."
+msgstr ""
+
+msgctxt "1152_Tanned Kubota Employee"
+msgid "Now get lost, ya sack of shit!"
+msgstr ""
+
+msgctxt "1164_Shinada"
+msgid "Friend, all I want is to get Toriyama-san home safe and sound."
+msgstr ""
+
+msgctxt "1176_Shinada"
+msgid ""
+"I'm not here to stir things up. I just wanna see my buddy\r\n"
+"unharmed."
+msgstr ""
+
+msgctxt "1188_Menacing Kubota Employee"
+msgid "Listen, mister writer. If you don't shut up and shuffle on out this door..."
+msgstr ""
+
+msgctxt "1200_Menacing Kubota Employee"
+msgid "I'll end more than just your career."
+msgstr ""
+
+msgctxt "1212_Shinada"
+msgid "Ooh, scary! Did you come up with that one all by yourself?"
+msgstr ""
+
+msgctxt "1224_Menacing Kubota Employee"
+msgid "You fuckin' with us!?"
+msgstr ""
+
+msgctxt "1236_Tanned Kubota Employee"
+msgid "Well... Check out the balls on this bastard. Thinks he's hot shit!"
+msgstr ""
+
+msgctxt "1248_Tanned Kubota Employee"
+msgid "Awright, boys! Teach this asshole who's in charge!"
+msgstr ""

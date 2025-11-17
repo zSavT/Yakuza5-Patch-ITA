@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "10932"
+msgid "Yuiko"
+msgstr ""
+
+msgctxt "10936"
+msgid "F_YNG_TLK_stand_kansin"
+msgstr ""
+
+msgctxt "10940"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "10944"
+msgid "P_AKI_TLK_stand_smile"
+msgstr ""
+
+msgctxt "10948"
+msgid "P_AKI_TLK_stand_yes"
+msgstr ""
+
+msgctxt "10952"
+msgid "F_YNG_TLK_stand_no"
+msgstr ""
+
+msgctxt "10956"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "10960"
+msgid "P_SIN_TLK_stand_call"
+msgstr ""
+
+msgctxt "10964"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "10968"
+msgid "P_SAE_TLK_stand_udekumi_yes"
+msgstr ""
+
+msgctxt "10972"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "10976"
+msgid "P_TLK_stand_kosite_yes"
+msgstr ""
+
+msgctxt "10980"
+msgid "F_YNG_TLK_stand_ojigi"
+msgstr ""
+
+msgctxt "10984"
+msgid "F_cab_stand_tlk_yes"
+msgstr ""
+
+msgctxt "10988"
+msgid "F_cab_stand_tlk_byeA"
+msgstr ""
+
+msgctxt "10992"
+msgid "Riku"
+msgstr ""
+
+msgctxt "10996"
+msgid "F_SXY_TLK_stand_yes"
+msgstr ""
+
+msgctxt "11000"
+msgid "P_TLK_stand_yes"
+msgstr ""
+
+msgctxt "11004"
+msgid "Kaguya"
+msgstr ""
+
+msgctxt "11008"
+msgid "F_SXY_TLK_stand_smile"
+msgstr ""
+
+msgctxt "11012"
+msgid "Honoka"
+msgstr ""
+
+msgctxt "11016"
+msgid "F_SXY_TLK_stand_no"
+msgstr ""
+
+msgctxt "11020"
+msgid "Shion"
+msgstr ""
+
+msgctxt "11024"
+msgid "F_SXY_TLK_stand_think"
+msgstr ""
+
+msgctxt "11028"
+msgid "P_SIN_TLK_stand_ase"
+msgstr ""
+
+msgctxt "11032"
+msgid "Hinata"
+msgstr ""
+
+msgctxt "11036"
+msgid "F_SXY_TLK_stand_ase"
+msgstr ""
+
+msgctxt "11040"
+msgid "P_AKI_TLK_stand_quest"
+msgstr ""
+
+msgctxt "11044"
+msgid "P_SIN_TLK_stand_surp"
+msgstr ""
+
+msgctxt "11048"
+msgid "P_AKI_TLK_stand_info_f"
+msgstr ""
+
+msgctxt "11052"
+msgid "F_YNG_TLK_stand_smile"
+msgstr ""
+
+msgctxt "11056"
+msgid "dummy"
+msgstr ""
+
+msgctxt "56_Yuiko"
+msgid ""
+"You did it, sir! Elise is back in business and it's doing great! Heck, "
+"we're doing even better than we were before!"
+msgstr ""
+
+msgctxt "68_Akiyama"
+msgid "That's excellent news."
+msgstr ""
+
+msgctxt "80_Yuiko"
+msgid ""
+"In fact, we're now <Italic>the</Italic> premier cabaret club in all of "
+"Kamurocho!"
+msgstr ""
+
+msgctxt "92_Akiyama"
+msgid ""
+"Wow, that's really something. You've done an excellent job, Yuiko-chan. I "
+"couldn't have asked for a better manager."
+msgstr ""
+
+msgctxt "104_Yuiko"
+msgid ""
+"Oh, no. It's not me you should be thanking, sir. It's all because you had "
+"your friends bring us such wonderful girls!"
+msgstr ""
+
+msgctxt "116_Akiyama"
+msgid ""
+"Heh. In that case, don't thank me, either. It was Kiryu-san and the others "
+"who did all the work."
+msgstr ""
+
+msgctxt "128_Shinada"
+msgid ""
+"Why don't we all just share the credit? It was a group effort, and at the "
+"end of the day, we all won by working as a team."
+msgstr ""
+
+msgctxt "140_Saejima"
+msgid "Oh, hey, I kinda like that."
+msgstr ""
+
+msgctxt "152_Kiryu"
+msgid "Yeah, Shinada has it right."
+msgstr ""
+
+msgctxt "164_Yuiko"
+msgid "Thank you guys. All of you."
+msgstr ""
+
+msgctxt "176_Akiyama"
+msgid ""
+"So, now that everyone's chipped in, are we still going to be able to make "
+"ends meet with our original lineup of girls?"
+msgstr ""
+
+msgctxt "188_Yuiko"
+msgid ""
+"Yes, sir! Riku-san and the others really shook this place up. Everyone's "
+"super motivated!"
+msgstr ""
+
+msgctxt "200_Yuiko"
+msgid ""
+"Plus, with Hinata-san as our number one girl, I think we'll definitely be "
+"okay."
+msgstr ""
+
+msgctxt "212_Akiyama"
+msgid "Well, all right, then."
+msgstr ""
+
+msgctxt "224_Akiyama"
+msgid ""
+"I guess that's that. Ladies, thank you so, so much for all you've done for "
+"me."
+msgstr ""
+
+msgctxt "236_Akiyama"
+msgid "If you like, you can all head back home tomorrow."
+msgstr ""
+
+msgctxt "248_Riku"
+msgid ""
+"Awwww, but this was so much fun! I don't wanna go back 'til I've done some "
+"Tokyo sightseein'!"
+msgstr ""
+
+msgctxt "260_Kiryu"
+msgid "I don't mind showing you the sights."
+msgstr ""
+
+msgctxt "272_Kaguya"
+msgid ""
+"Oh, that's right! I have a photo shoot for a modeling job. Maybe I'll be "
+"back in Tokyo again."
+msgstr ""
+
+msgctxt "284_Saejima"
+msgid "If ya do, hit me up."
+msgstr ""
+
+msgctxt "296_Honoka"
+msgid ""
+"I'll be sure to keep doin' my best from here on out! Job interviews make me "
+"real nervous, but I know I can do it!"
+msgstr ""
+
+msgctxt "308_Akiyama"
+msgid "Well, best of luck to you."
+msgstr ""
+
+msgctxt "320_Shion"
+msgid ""
+"If this is where Shinada-san is going to be, then I'd like to stay here as "
+"well."
+msgstr ""
+
+msgctxt "332_Shinada"
+msgid ""
+"Whoa, whoa, whoa, hold on! I don't know how long I'm gonna be here, you "
+"know. Maybe it'd be better if you went back to Nagoya, yeah?"
+msgstr ""
+
+msgctxt "344_Hinata"
+msgid ""
+"So everyone's leaving, then? Oh, it's going to be so lonely without you all "
+"here."
+msgstr ""
+
+msgctxt "356_Kiryu"
+msgid "It's certainly been a wild ride, that's for sure."
+msgstr ""
+
+msgctxt "368_Akiyama"
+msgid "Well then, I propose we celebrate!"
+msgstr ""
+
+msgctxt "380_Saejima"
+msgid "Yeah?"
+msgstr ""
+
+msgctxt "392_Akiyama"
+msgid "Everyone, drink up! It's on the house!"
+msgstr ""
+
+msgctxt "404_Shinada"
+msgid "For reals!?"
+msgstr ""
+
+msgctxt "416_Kiryu"
+msgid "Now that's how a real man shows his gratitude."
+msgstr ""
+
+msgctxt "428_Yuiko"
+msgid "All right!"
+msgstr ""
+
+msgctxt "440_Akiyama"
+msgid "Wait, why are <Italic>you</Italic> so happy?"
+msgstr ""
+
+msgctxt "452_Yuiko"
+msgid "Huh? Well, it's just that folks don't usually buy me drinks, is all."
+msgstr ""
+
+msgctxt "464_Akiyama"
+msgid ""
+"If you wanna drink, you can go out there and work the floor yourself. The "
+"manager could use some hands-on experience."
+msgstr ""
+
+msgctxt "476_Yuiko"
+msgid "Oh, hey, that might actually be fun!"
+msgstr ""
+
+msgctxt "488_Akiyama"
+msgid "All right. If we're all ready, let's make a toast."
+msgstr ""
+
+msgctxt "548_Akiyama"
+msgid "Does everyone have a glass?"
+msgstr ""
+
+msgctxt "560_Akiyama"
+msgid "No big speeches. Let's just do this."
+msgstr ""
+
+msgctxt "572_Akiyama"
+msgid "Cheers!"
+msgstr ""

@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "832"
+msgid "昼にする"
+msgstr "昼にする"
+
+msgctxt "836"
+msgid "夕方にする"
+msgstr "夕方にする"
+
+msgctxt "840"
+msgid "夜にする"
+msgstr "夜にする"
+
+msgctxt "844"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "104_昼にする"
+msgid "キャンセルした？"
+msgstr "キャンセルした？"

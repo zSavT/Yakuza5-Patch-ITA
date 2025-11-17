@@ -1,0 +1,282 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "428"
+msgid "You got <Color:8>Ghost Pine Photo<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Foto del Pino Fantasma<Color:Default>."
+
+msgctxt "500"
+msgid "You handed over <Color:8>Time Capsule<Color:Default>."
+msgstr "Hai consegnato <Color:8>Capsula del tempo<Color:Default>."
+
+msgctxt "680"
+msgid "You got <Color:8>Lighter Oil<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Olio per accendini<Color:Default>."
+
+msgctxt "800"
+msgid "You got 500 experience points."
+msgstr "Hai ottenuto 500 punti esperienza."
+
+msgctxt "8696"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "8700"
+msgid "Man in Squishy-Looking Coat"
+msgstr "Uomo dal cappotto sofficioso"
+
+msgctxt "8704"
+msgid "Man from Tsukimino"
+msgstr "Uomo di Tsukimino"
+
+msgctxt "8708"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "8712"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "8716"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "8720"
+msgid "2d_jm_yuki_yureimatsu"
+msgstr "2d_jm_yuki_yureimatsu"
+
+msgctxt "8724"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "8728"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "8732"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "8736"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "8740"
+msgid "Mission Added"
+msgstr "Missione Aggiunta"
+
+msgctxt "116_Saejima"
+msgid "(Don't recognize this guy.)"
+msgstr "(Non riconosco questo tizio.)"
+
+msgctxt "140_Man in Squishy-Looking Coat"
+msgid "Uh, excuse me? Are you from this village?"
+msgstr "Ehm, scusi? Lei è di questo villaggio?"
+
+msgctxt "152_Saejima"
+msgid "Uh, yeah. Guess so."
+msgstr "Ah, sì. Immagino di sì."
+
+msgctxt "164_Man from Tsukimino"
+msgid ""
+"I beg your pardon. I just arrived from Tsukimino. My father's place is in "
+"the village."
+msgstr ""
+"Chiedo scusa. Sono appena arrivato da Tsukimino. La casa di mio padre è nel "
+"villaggio."
+
+msgctxt "176_Saejima"
+msgid "And what, ya lookin' for his house?"
+msgstr "E cosa, stai cercando casa sua?"
+
+msgctxt "188_Man from Tsukimino"
+msgid ""
+"Not exactly. I'm actually looking for a certain tree on the mountain. It's "
+"called the Ghost Pine."
+msgstr ""
+"Non proprio. In realtà, sto cercando un certo albero sulla montagna. Si "
+"chiama il Pino Fantasma."
+
+msgctxt "200_Saejima"
+msgid "Ain't heard of it."
+msgstr "Non ne ho mai sentito parlare."
+
+msgctxt "212_Man from Tsukimino"
+msgid "I have a photo here. Do you recognize it?"
+msgstr "Ho una foto qui. La riconosci?"
+
+msgctxt "236_Saejima"
+msgid "Definitely an odd shape for a tree. What's so special 'bout it?"
+msgstr "Decisamente una forma strana per un albero. Cos'ha di così speciale?"
+
+msgctxt "248_Man from Tsukimino"
+msgid "When my father was a child, he buried a time capsule there."
+msgstr ""
+"Quando mio padre era un bambino, ha seppellito una capsula del tempo lì."
+
+msgctxt "260_Man from Tsukimino"
+msgid ""
+"I want to dig it up, but I have no idea where that tree is. Plus, everyone "
+"here says it's too dangerous to even go on the mountain."
+msgstr ""
+"Voglio tirarla fuori, ma non ho proprio idea di dov'è quell'albero. E poi, "
+"tutti qui dicono che è troppo pericoloso anche solo salire sulla montagna."
+
+msgctxt "272_Saejima"
+msgid "Don't yer father know where it is?"
+msgstr "Non lo sa tuo padre dov'è?"
+
+msgctxt "284_Man from Tsukimino"
+msgid ""
+"He passed away recently... That's why I came up here to find the capsule."
+msgstr ""
+"È mancato di recente... Per questo sono venuto quassù per trovare la "
+"capsula."
+
+msgctxt "296_Saejima"
+msgid "Sorry for yer loss."
+msgstr "Mi dispiace per la tua perdita."
+
+msgctxt "308_Man from Tsukimino"
+msgid ""
+"It's fine－we weren't close. I've hardly thought of him in the thirty years "
+"since I left this village."
+msgstr ""
+"Non fa niente—non eravamo intimi. A malapena ci ho pensato nei trent'anni da"
+" quando ho lasciato questo villaggio."
+
+msgctxt "320_Man from Tsukimino"
+msgid "But when I heard he died, I suddenly thought of that time capsule."
+msgstr ""
+"Ma quando ho saputo che era morto, mi è venuta in mente all'improvviso "
+"quella capsula del tempo."
+
+msgctxt "332_Man from Tsukimino"
+msgid ""
+"I felt this urge to find it, and take it to his grave. I know it's just for "
+"my own satisfaction, hahaha. But..."
+msgstr ""
+"Ho sentito l'impulso di trovarla e portarla sulla sua tomba. So che è solo "
+"per la mia soddisfazione personale, hahaha. Ma..."
+
+msgctxt "344_Saejima"
+msgid "(But death makes ya think, huh kid?)"
+msgstr "(Ma la morte ti fa pensare, eh ragazzo?)"
+
+msgctxt "356_Saejima"
+msgid "Hey, lend me the photo."
+msgstr "Ehi, prestami la foto."
+
+msgctxt "368_Man from Tsukimino"
+msgid "Huh? Um. Why?"
+msgstr "Eh? Uhm. Perché?"
+
+msgctxt "380_Saejima"
+msgid ""
+"'Cause I wanna help ya. I still hunt on the mountain, despite the dangers. I"
+" might spot yer tree while I'm up there."
+msgstr ""
+"Voglio darti una mano. Caccio ancora in montagna, nonostante i pericoli. "
+"Potrei avvistare il tuo albero mentre sono su."
+
+msgctxt "392_Man from Tsukimino"
+msgid "You're going to look for it?"
+msgstr "La vai a cercare?"
+
+msgctxt "404_Saejima"
+msgid "I'll keep an eye out. Just don't expect too much."
+msgstr "Ci darò un'occhiata. Non aspettarti troppo."
+
+msgctxt "416_Man from Tsukimino"
+msgid "Thank you so much! It means a lot to me."
+msgstr "Grazie mille! Significa molto per me."
+
+msgctxt "452_Mission Added"
+msgid "\"Find the Time Capsule\" was added to the list of missions."
+msgstr ""
+"\"Trova la Capsula del Tempo\" è stata aggiunta alla lista delle missioni."
+
+msgctxt "464_Man in Squishy-Looking Coat"
+msgid ""
+"My father said he buried his time capsule under a tree called the Ghost "
+"Pine. Please, it would mean a lot if you found it."
+msgstr ""
+"Mio padre disse che aveva seppellito la sua capsula del tempo sotto un "
+"albero chiamato il Pino Fantasma. Ti prego, significherebbe molto se la "
+"trovassi."
+
+msgctxt "476_Saejima"
+msgid "Sorry, I kept ya waitin'. Here's yer father's capsule."
+msgstr "Scusa, t'ho fatto aspettare. Ecco la capsula di tuo padre."
+
+msgctxt "488_Man from Tsukimino"
+msgid "You actually found it! Wow!"
+msgstr "L'hai trovato sul serio! Caspita!"
+
+msgctxt "524_Saejima"
+msgid "Wonder what yer dad put in there as a kid?"
+msgstr "Chissà cosa c'ha messo tuo padre lì dentro da ragazzino?"
+
+msgctxt "536_Man from Tsukimino"
+msgid "Let's see...!"
+msgstr "Vediamo...!"
+
+msgctxt "548_Saejima"
+msgid "This should be interestin'."
+msgstr "Questo dovrebbe essere interessante."
+
+msgctxt "560_Man from Tsukimino"
+msgid ""
+"It's a tin of candy, a round rock, lots of bottle caps, and... a little tin "
+"figurine."
+msgstr ""
+"È una scatola di caramelle, un sasso rotondo, un sacco di tappi di "
+"bottiglia, e... una piccola statuetta di latta."
+
+msgctxt "572_Saejima"
+msgid ""
+"Heh. Maybe not that interestin'. But they musta been real treasures to yer "
+"dad when he was a boy. Take 'em to his grave; his spirit'll get a kick outta"
+" them."
+msgstr ""
+"Heh. Magari non sono 'ste gran cose. Ma dovevano essere stati dei veri "
+"tesori per tuo padre quand'era un ragazzino. Portali sulla sua tomba; il suo"
+" spirito ci si divertirà un mondo."
+
+msgctxt "584_Man from Tsukimino"
+msgid "Yeah, why not."
+msgstr "Sì, perché no."
+
+msgctxt "644_Man from Tsukimino"
+msgid ""
+"Thank you so much, really. Maybe I'll finally get some closure with my dad."
+msgstr ""
+"Ti ringrazio tantissimo, sul serio. Forse finalmente potrò fare pace con mio"
+" padre."
+
+msgctxt "656_Saejima"
+msgid "Glad I could help ya."
+msgstr "Contento di averti dato una mano."
+
+msgctxt "668_Man from Tsukimino"
+msgid "Please take this as a token of my gratitude."
+msgstr "Ti prego di accettare questo come segno della mia gratitudine."
+
+msgctxt "704_Man from Tsukimino"
+msgid "I've got to be going."
+msgstr "Me ne devo andare."
+
+msgctxt "716_Saejima"
+msgid "Take care."
+msgstr "Stammi bene."

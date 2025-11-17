@@ -1,0 +1,80 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "3024"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "3028"
+msgid "Kamuro Taxi"
+msgstr "Kamuro Taxi"
+
+msgctxt "3032"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "3036"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "3040"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "3044"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "56_Player"
+msgid "(I can't afford the fare. Better scrounge up 710 yen...)"
+msgstr "(Non ho i soldi per la corsa. Meglio racimolare 710 yen...)"
+
+msgctxt "68_Kamuro Taxi"
+msgid "The base fare is 710 yen. Where are you headed?"
+msgstr "La tariffa base è di 710 yen. Dove è diretto?"
+
+msgctxt "104_Kamuro Taxi"
+msgid ""
+"I'm afraid you don't have enough money, sir. Please come again when you do."
+msgstr ""
+"Mi dispiace, signore, ma non ha abbastanza contanti. La prego di tornare "
+"quando li avrà."
+
+msgctxt "116_Kamuro Taxi"
+msgid "Very well."
+msgstr "Molto bene."
+
+msgctxt "176_Kamuro Taxi"
+msgid "Please come again soon."
+msgstr "Alla prossima!"
+
+msgctxt "200_Akiyama"
+msgid "Sorry, I have urgent business back in Sotenbori."
+msgstr "Scusa, ho un affare urgente che mi aspetta a Sotenbori."
+
+msgctxt "212_Shinada"
+msgid "No problem. I'll be waiting here, so let me know when you get back."
+msgstr "Nessun problema. Ti aspetterò qui, quindi fammi sapere quando torni."
+
+msgctxt "236_Shinada"
+msgid "Sorry, I have urgent business back in Sotenbori."
+msgstr "Scusa, ho un affare urgente che mi aspetta a Sotenbori."
+
+msgctxt "248_Akiyama"
+msgid "No problem. I'll be waiting here, so let me know when you get back."
+msgstr "Nessun problema. Ti aspetterò qui, quindi fammi sapere quando torni."
+
+msgctxt "272_Kamuro Taxi"
+msgid "Another city? Of course."
+msgstr "Un'altra città? Certo."

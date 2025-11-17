@@ -1,0 +1,189 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "6400"
+msgid "Fallen Man"
+msgstr "Uomo caduto"
+
+msgctxt "6404"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "6408"
+msgid "P_SAE_TLK_stand_syagamu_ed"
+msgstr "P_SAE_TLK_stand_syagamu_ed"
+
+msgctxt "6412"
+msgid "E_LAU_I_react_provoke"
+msgstr "E_LAU_I_react_provoke"
+
+msgctxt "6416"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "6420"
+msgid "ArmsID"
+msgstr "ID Armi"
+
+msgctxt "6424"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "6428"
+msgid "Hozoin"
+msgstr "Hozoin"
+
+msgctxt "6432"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "6436"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "6440"
+msgid "Talk_Kosite_st"
+msgstr "Talk_Kosite_st"
+
+msgctxt "6444"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "6448"
+msgid "Contestant"
+msgstr "Concorrente"
+
+msgctxt "6452"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "6456"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "6460"
+msgid "E_LAU_I_stand"
+msgstr "E_LAU_I_stand"
+
+msgctxt "84_Fallen Man"
+msgid "Shit! Using a weapon like that has got to be against the rules!"
+msgstr "Cazzo! Usare un'arma del genere dev'essere contro le regole!"
+
+msgctxt "96_Man"
+msgid ""
+"What do you mean? You can use any weapon other than guns in the Victory "
+"Road."
+msgstr ""
+"Che intendi? Nella Victory Road puoi usare qualsiasi arma tranne le pistole."
+
+msgctxt "108_Fallen Man"
+msgid "Even so, that thing gives you too much of an advantage!"
+msgstr "Eppure, quella roba ti dà troppo vantaggio!"
+
+msgctxt "120_Man"
+msgid "Heh. I'll take that as a compliment."
+msgstr "Heh. La prendo come un complimento."
+
+msgctxt "132_Fallen Man"
+msgid "Dammit... Screw this!"
+msgstr "Maledizione... Fanculo!"
+
+msgctxt "156_Man"
+msgid "You're Tatsuo Shinada-san, aren't you?"
+msgstr "Sei Tatsuo Shinada-san, vero?"
+
+msgctxt "168_Shinada"
+msgid ""
+"That's right. Though this isn't exactly what I pictured myself being famous "
+"for..."
+msgstr ""
+"Già. Anche se, onestamente, non è proprio per questo che pensavo di farmi un"
+" nome..."
+
+msgctxt "180_Hozoin"
+msgid ""
+"My name is Inzen Hozoin. I'm taking part in the Victory Road to show the "
+"world the power of the Hozoin style of spear fighting."
+msgstr ""
+"Mi chiamo Inzen Hozoin. Prendo parte alla Victory Road per mostrare al mondo"
+" la potenza dello stile Hozoin di combattimento con la lancia."
+
+msgctxt "192_Hozoin"
+msgid ""
+"And if I defeat you, I will be granted entry into the Victory Road finals. "
+"Will you take up my challenge, Shinada-san?"
+msgstr ""
+"E se ti batto, mi garantirò l'accesso alle finali della Victory Road. "
+"Accetti la mia sfida, Shinada-san?"
+
+msgctxt "204_Shinada"
+msgid "Wait, you're ready to fight again already?"
+msgstr "Ma aspetta, sei già pronto a combattere di nuovo?"
+
+msgctxt "216_Hozoin"
+msgid "I'm good to go. That last opponent made for a perfect warm-up."
+msgstr "Sono pronto. Quell'ultimo tizio è stato un riscaldamento coi fiocchi."
+
+msgctxt "228_Shinada"
+msgid "Ha. Pretty impressive."
+msgstr "Ah. Mica male."
+
+msgctxt "240_Shinada"
+msgid "It seems we have company here, though."
+msgstr "Sembra che abbiamo compagnia qui, però."
+
+msgctxt "288_Contestant"
+msgid "You two are getting too cocky. You shouldn't show off like that."
+msgstr ""
+"Voi due vi state montando troppo la testa. Non dovreste fare gli spacconi in"
+" quel modo."
+
+msgctxt "300_Shinada"
+msgid "I remember you. Wait, are you all Victory Road participants?"
+msgstr "Ti riconosco. Aspetta, siete tutti della Victory Road?"
+
+msgctxt "348_Contestant"
+msgid ""
+"Who cares about that now!? This goes for you in particular, spear man! Your "
+"cowardly use of that thing is the worst!"
+msgstr ""
+"Ma chi se ne frega adesso!? E questo vale soprattutto per te, lanciere! Il "
+"tuo modo codardo di usare quella roba è il peggiore!"
+
+msgctxt "360_Hozoin"
+msgid ""
+"Like I've said, the use of weapons is sanctioned under the rules. There's no"
+" foul play involved."
+msgstr ""
+"Come dicevo, l'uso di armi è consentito dalle regole. Non c'è nessun gioco "
+"sporco di mezzo."
+
+msgctxt "372_Contestant"
+msgid ""
+"Shut it! We just want a fair fight, so the two of you are going to have to "
+"go!"
+msgstr ""
+"Piantala! Vogliamo solo una lotta equa, quindi voi due dovete togliervi di "
+"mezzo!"
+
+msgctxt "384_Shinada"
+msgid "But you outnumber us, man! How is that fair?"
+msgstr "Ma siete in troppi, ehi! Com'è giusto questo?"
+
+msgctxt "396_Hozoin"
+msgid ""
+"There's no talking sense into them, Shinada-san. We'll have to take out "
+"these guys first."
+msgstr ""
+"Con questi è inutile parlarci, Shinada-san. Dovremo farli fuori prima."

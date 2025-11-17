@@ -1,0 +1,1347 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-25\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1379\tID"
+msgid "d"
+msgstr ""
+
+msgctxt "1383\tID"
+msgid "e"
+msgstr ""
+
+msgctxt "1387\tID"
+msgid "f"
+msgstr ""
+
+msgctxt "1391\tID"
+msgid "g"
+msgstr ""
+
+msgctxt "1395\tID"
+msgid "h"
+msgstr ""
+
+msgctxt "1399\tID"
+msgid "i"
+msgstr ""
+
+msgctxt "1403\tID"
+msgid "j"
+msgstr ""
+
+msgctxt "1407\tID"
+msgid "k"
+msgstr ""
+
+msgctxt "1411\tID"
+msgid "l"
+msgstr ""
+
+msgctxt "1415\tID"
+msgid "m"
+msgstr ""
+
+msgctxt "1419\tID"
+msgid "n"
+msgstr ""
+
+msgctxt "1423\tID"
+msgid "o"
+msgstr ""
+
+msgctxt "1427\tID"
+msgid "p"
+msgstr ""
+
+msgctxt "1431\tID"
+msgid "q"
+msgstr ""
+
+msgctxt "1435\tID"
+msgid "r"
+msgstr ""
+
+msgctxt "1439\tID"
+msgid "s"
+msgstr ""
+
+msgctxt "1443\tID"
+msgid "t"
+msgstr ""
+
+msgctxt "1447\tID"
+msgid "u"
+msgstr ""
+
+msgctxt "1451\tID"
+msgid "v"
+msgstr ""
+
+msgctxt "1455\tID"
+msgid "w"
+msgstr ""
+
+msgctxt "1459\tID"
+msgid "x"
+msgstr ""
+
+msgctxt "1463\tID"
+msgid "y"
+msgstr ""
+
+msgctxt "1467\tID"
+msgid "z"
+msgstr ""
+
+msgctxt "1475\tID"
+msgid "|"
+msgstr ""
+
+msgctxt "1479\tID"
+msgid "}"
+msgstr ""
+
+msgctxt "1483\tID"
+msgid "~"
+msgstr ""
+
+msgctxt "1568\tNAME"
+msgid "Kazuma Kiryu"
+msgstr ""
+
+msgctxt "1581\tNAME"
+msgid "Shun Akiyama"
+msgstr ""
+
+msgctxt "1594\tNAME"
+msgid "Taiga Saejima"
+msgstr ""
+
+msgctxt "1608\tNAME"
+msgid "Tatsuo Shinada"
+msgstr ""
+
+msgctxt "1623\tNAME"
+msgid "Akira Yamaoka"
+msgstr ""
+
+msgctxt "1637\tNAME"
+msgid "Hannya Kurokawa"
+msgstr ""
+
+msgctxt "1653\tNAME"
+msgid "Ivan Ibrahimovic"
+msgstr ""
+
+msgctxt "1670\tNAME"
+msgid "Adabana"
+msgstr ""
+
+msgctxt "1678\tNAME"
+msgid "Kaname Ginga"
+msgstr ""
+
+msgctxt "1691\tNAME"
+msgid "Valery Garrett"
+msgstr ""
+
+msgctxt "1706\tNAME"
+msgid "Sotaro Komaki"
+msgstr ""
+
+msgctxt "1720\tNAME"
+msgid "Inzen Hozoin"
+msgstr ""
+
+msgctxt "1733\tNAME"
+msgid "Rayzy"
+msgstr ""
+
+msgctxt "1739\tNAME"
+msgid "Rei Himuro"
+msgstr ""
+
+msgctxt "1750\tNAME"
+msgid "Kurotaka"
+msgstr ""
+
+msgctxt "1759\tNAME"
+msgid "Romeo Nishikawa"
+msgstr ""
+
+msgctxt "1775\tNAME"
+msgid "Nobu Yamamoto"
+msgstr ""
+
+msgctxt "1789\tNAME"
+msgid "Robin Ashbourne"
+msgstr ""
+
+msgctxt "1805\tNAME"
+msgid "Laos Waiwatt"
+msgstr ""
+
+msgctxt "1818\tNAME"
+msgid "Shoji Yonashiro"
+msgstr ""
+
+msgctxt "1834\tNAME"
+msgid "Norman C. Wade"
+msgstr ""
+
+msgctxt "1849\tNAME"
+msgid "Mike Berheart"
+msgstr ""
+
+msgctxt "1863\tNAME"
+msgid "Otaki Minotaur"
+msgstr ""
+
+msgctxt "1878\tNAME"
+msgid "Torakichi Onigashima"
+msgstr ""
+
+msgctxt "1899\tNAME"
+msgid "Utamaro VII"
+msgstr ""
+
+msgctxt "1911\tNAME"
+msgid "Count Albert"
+msgstr ""
+
+msgctxt "1924\tNAME"
+msgid "Jaon"
+msgstr ""
+
+msgctxt "1929\tNAME"
+msgid "Kyoya Kawasaki"
+msgstr ""
+
+msgctxt "1944\tNAME"
+msgid "Hunter Ozawa"
+msgstr ""
+
+msgctxt "1957\tNAME"
+msgid "Headhunter Kariya"
+msgstr ""
+
+msgctxt "1975\tNAME"
+msgid "Renji Kamiyama"
+msgstr ""
+
+msgctxt "1990\tNAME"
+msgid "Bruce Ebinuma"
+msgstr ""
+
+msgctxt "2004\tNAME"
+msgid "Kazuhiro"
+msgstr ""
+
+msgctxt "2013\tNAME"
+msgid "Makoto Tokita"
+msgstr ""
+
+msgctxt "2027\tNAME"
+msgid "Ren Higashino"
+msgstr ""
+
+msgctxt "2041\tNAME"
+msgid "Kanta Shirosaka"
+msgstr ""
+
+msgctxt "2057\tNAME"
+msgid "Ryoichi Banba"
+msgstr ""
+
+msgctxt "2071\tNAME"
+msgid "Homura Kongo"
+msgstr ""
+
+msgctxt "2084\tNAME"
+msgid "Kenichi Washino"
+msgstr ""
+
+msgctxt "2100\tNAME"
+msgid "Raiden"
+msgstr ""
+
+msgctxt "2107\tNAME"
+msgid "Fredrick Braggs"
+msgstr ""
+
+msgctxt "2123\tNAME"
+msgid "Lionel Klinsmann"
+msgstr ""
+
+msgctxt "2140\tNAME"
+msgid "Kyosuke Muguruma"
+msgstr ""
+
+msgctxt "2157\tNAME"
+msgid "Antonio Vaquero"
+msgstr ""
+
+msgctxt "2173\tNAME"
+msgid "Scorpio Kito"
+msgstr ""
+
+msgctxt "2186\tNAME"
+msgid "Seiji Higuchi"
+msgstr ""
+
+msgctxt "2200\tNAME"
+msgid "Shogo Usui"
+msgstr ""
+
+msgctxt "2211\tNAME"
+msgid "Yi-san"
+msgstr ""
+
+msgctxt "2218\tNAME"
+msgid "Er-san"
+msgstr ""
+
+msgctxt "2225\tNAME"
+msgid "Justin Woods"
+msgstr ""
+
+msgctxt "2238\tNAME"
+msgid "Park Dong-ju"
+msgstr ""
+
+msgctxt "2251\tNAME"
+msgid "Ginjiro Izaka"
+msgstr ""
+
+msgctxt "2265\tANOTHER_NAME"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "2286\tANOTHER_NAME"
+msgid "The Swift Falcon"
+msgstr ""
+
+msgctxt "2303\tANOTHER_NAME"
+msgid "The Supreme Tiger"
+msgstr ""
+
+msgctxt "2321\tANOTHER_NAME"
+msgid "The Unsung Genius"
+msgstr ""
+
+msgctxt "2339\tANOTHER_NAME"
+msgid "The Bare-Fisted Emperor"
+msgstr ""
+
+msgctxt "2363\tANOTHER_NAME"
+msgid "The Reaper Resurrected"
+msgstr ""
+
+msgctxt "2386\tANOTHER_NAME"
+msgid "The Superhuman"
+msgstr ""
+
+msgctxt "2401\tANOTHER_NAME"
+msgid "The Tragic Yokozuna"
+msgstr ""
+
+msgctxt "2421\tANOTHER_NAME"
+msgid "God's Chosen"
+msgstr ""
+
+msgctxt "2434\tANOTHER_NAME"
+msgid "The Devil's Fist"
+msgstr ""
+
+msgctxt "2451\tANOTHER_NAME"
+msgid "Living Martial Arts Legend"
+msgstr ""
+
+msgctxt "2478\tANOTHER_NAME"
+msgid "The Flawless Bad Boy"
+msgstr ""
+
+msgctxt "2499\tANOTHER_NAME"
+msgid "Bloody Action Hero"
+msgstr ""
+
+msgctxt "2518\tANOTHER_NAME"
+msgid "The Killer Businessman"
+msgstr ""
+
+msgctxt "2541\tANOTHER_NAME"
+msgid "The Talons of Victory"
+msgstr ""
+
+msgctxt "2563\tANOTHER_NAME"
+msgid "Murderous Madonna"
+msgstr ""
+
+msgctxt "2581\tANOTHER_NAME"
+msgid "The Xenophobic Crusher"
+msgstr ""
+
+msgctxt "2604\tANOTHER_NAME"
+msgid "The Metal Monster"
+msgstr ""
+
+msgctxt "2622\tANOTHER_NAME"
+msgid "The God of Kickboxing"
+msgstr ""
+
+msgctxt "2644\tANOTHER_NAME"
+msgid "Walking Encyclopedia of Fighters"
+msgstr ""
+
+msgctxt "2677\tANOTHER_NAME"
+msgid "Runaway Train of Terror"
+msgstr ""
+
+msgctxt "2701\tANOTHER_NAME"
+msgid "Beast of the Tropics"
+msgstr ""
+
+msgctxt "2722\tANOTHER_NAME"
+msgid "The Bold Wrestler"
+msgstr ""
+
+msgctxt "2740\tANOTHER_NAME"
+msgid "Maverick of the Sumo World"
+msgstr ""
+
+msgctxt "2767\tANOTHER_NAME"
+msgid "The Bloody Star"
+msgstr ""
+
+msgctxt "2783\tANOTHER_NAME"
+msgid "Murder for Dessert"
+msgstr ""
+
+msgctxt "2802\tANOTHER_NAME"
+msgid "Fueled by Hatred"
+msgstr ""
+
+msgctxt "2819\tANOTHER_NAME"
+msgid "The Crazed Stud"
+msgstr ""
+
+msgctxt "2835\tANOTHER_NAME"
+msgid "The Silent Soldier"
+msgstr ""
+
+msgctxt "2854\tANOTHER_NAME"
+msgid "The Pro Headhunter"
+msgstr ""
+
+msgctxt "2873\tANOTHER_NAME"
+msgid "The Weapon Master"
+msgstr ""
+
+msgctxt "2891\tANOTHER_NAME"
+msgid "The Resurrected Legend"
+msgstr ""
+
+msgctxt "2914\tANOTHER_NAME"
+msgid "King of all Bloggers"
+msgstr ""
+
+msgctxt "2935\tANOTHER_NAME"
+msgid "Pretty Boy Fighter"
+msgstr ""
+
+msgctxt "2954\tANOTHER_NAME"
+msgid "Karate Superstar"
+msgstr ""
+
+msgctxt "2971\tANOTHER_NAME"
+msgid "The Hokkaido Hunter"
+msgstr ""
+
+msgctxt "2991\tANOTHER_NAME"
+msgid "The Human Weapon"
+msgstr ""
+
+msgctxt "3008\tANOTHER_NAME"
+msgid "The Scholar Warrior"
+msgstr ""
+
+msgctxt "3028\tANOTHER_NAME"
+msgid "Dangerous Comebacker"
+msgstr ""
+
+msgctxt "3049\tANOTHER_NAME"
+msgid "Fighting Fanatic"
+msgstr ""
+
+msgctxt "3066\tANOTHER_NAME"
+msgid "The Living Warhead"
+msgstr ""
+
+msgctxt "3085\tANOTHER_NAME"
+msgid "The British Fugitive"
+msgstr ""
+
+msgctxt "3106\tANOTHER_NAME"
+msgid "The Black Belt Traitor"
+msgstr ""
+
+msgctxt "3129\tANOTHER_NAME"
+msgid "El Matador"
+msgstr ""
+
+msgctxt "3140\tANOTHER_NAME"
+msgid "The Quick Killer"
+msgstr ""
+
+msgctxt "3157\tANOTHER_NAME"
+msgid "Audacity Unrivaled"
+msgstr ""
+
+msgctxt "3176\tANOTHER_NAME"
+msgid "Hardworking Delinquent"
+msgstr ""
+
+msgctxt "3199\tANOTHER_NAME"
+msgid "Pride of China"
+msgstr ""
+
+msgctxt "3214\tANOTHER_NAME"
+msgid "Pride of China"
+msgstr ""
+
+msgctxt "3229\tANOTHER_NAME"
+msgid "The Fist"
+msgstr ""
+
+msgctxt "3238\tANOTHER_NAME"
+msgid "The Underground Sweeper"
+msgstr ""
+
+msgctxt "3262\tANOTHER_NAME"
+msgid "The Silent Wolf"
+msgstr ""
+
+msgctxt "3278\tDESCRIPTION"
+msgid ""
+"Kazuma Kiryu, the legendary dragon, needs no introduction. His dominating "
+"presence is well known to every fighter who has set foot in the Underground "
+"Coliseum. He is a living legend and has left an indelible mark in this ring."
+msgstr ""
+
+msgctxt "3505\tDESCRIPTION"
+msgid ""
+"Though Akiyama has a brief history here at the Underground Coliseum, his "
+"impressive record speaks for itself. Legions of fans have been captivated "
+"by his footwork. However, he never seems all that eager to participate."
+msgstr ""
+
+msgctxt "3724\tDESCRIPTION"
+msgid ""
+"Saejima's claim to infamy is in taking out 18 yakuza in a single bloody hit "
+"at a ramen shop. He is known to beat his opponents into the ground with "
+"overwhelming power. Lesser known is the massive damage his bouts deal to "
+"the ring and the extensive repairs required."
+msgstr ""
+
+msgctxt "3990\tDESCRIPTION"
+msgid ""
+"Once a talented batter, Shinada has faded into obscurity since his glory "
+"days. It is unclear why he has entered the ring here in the Underground "
+"Coliseum, but after making his way through the Victory Road qualifier, his "
+"fighting prowess is abundantly clear."
+msgstr ""
+
+msgctxt "4248\tDESCRIPTION"
+msgid ""
+"Once considered the emperor of the Underground Coliseum, nobody knows why "
+"he left, nor why he has returned now. The only thing for certain is that he "
+"is still the strongest, and he is out for blood."
+msgstr ""
+
+msgctxt "4447\tDESCRIPTION"
+msgid ""
+"A masked man of unknown origins, it is said that staring into his eyes "
+"through the mask will shorten your life, and just a glimpse of his maskless "
+"face means death. Those who fight him fight against fate. "
+msgstr ""
+
+msgctxt "4653\tDESCRIPTION"
+msgid ""
+"This superhuman knows not defeat, having supposedly faked all of his "
+"losses. His unparalleled physique alone is enough to make even the most "
+"hardened fighter think twice about fighting him."
+msgstr ""
+
+msgctxt "4843\tDESCRIPTION"
+msgid ""
+"Adabana once conquered the sumo world, surpassing the greatest the sport "
+"had ever known, and he became known as the New Legend. However, after "
+"breaking an opponent's neck with a single blow, he was forced to retire at "
+"the peak of his career."
+msgstr ""
+
+msgctxt "5085\tDESCRIPTION"
+msgid ""
+"Once per generation, no matter the place, a person of great talent emerges. "
+"Their skill is so great that the only explanation can be that they were "
+"blessed by the gods. In the Underground Coliseum, Ginga is that person."
+msgstr ""
+
+msgctxt "5305\tDESCRIPTION"
+msgid ""
+"An enigma shrouded in mystery. Who is he really, and why is he fighting in "
+"the Coliseum? He has downed a multitude of opponents with his iron-hard "
+"fists, said to be blessed by the unholy power of the Devil himself. He is "
+"the strongest man alive."
+msgstr ""
+
+msgctxt "5551\tDESCRIPTION"
+msgid ""
+"Master martial artist and founder of Komaki school of martial arts. His "
+"unusually strong physique continues to improve and evolve as he ages. He "
+"has come to the Coliseum to challenge himself and to promote the Komaki "
+"style."
+msgstr ""
+
+msgctxt "5775\tDESCRIPTION"
+msgid ""
+"The successor of the Hozoin spear technique, passed down from the "
+"Azuchi-Momoyama Period. His superior spear skills and fluid movements are "
+"on par with those of the style's founder, Inei. He fights to spread the "
+"Hozoin spirit."
+msgstr ""
+
+msgctxt "6002\tDESCRIPTION"
+msgid ""
+"A former star of action films which featured real fighting, his life turned "
+"to tragedy and despair when he went beyond acting and killed a co-star."
+msgstr ""
+
+msgctxt "6150\tDESCRIPTION"
+msgid ""
+"A mysterious man with a reputation for using everyday items like business "
+"cards, pens, and watches as deadly weapons. He is forbidden from exchanging "
+"business cards with other fighters for this reason."
+msgstr ""
+
+msgctxt "6352\tDESCRIPTION"
+msgid ""
+"A masked fighter with a history of unspeakable acts in the pro wrestling "
+"ring. He came to the Underground Coliseum looking for a fight, but he also "
+"seeks an opportunity to get revenge on those in the pro wrestling world "
+"against whom he holds a burning grudge."
+msgstr ""
+
+msgctxt "6612\tDESCRIPTION"
+msgid ""
+"Dominate, win, and plunder. In a way, he is the personification of human "
+"nature. Rumored to be a sensitive softie outside the ring, inside he is a "
+"powerful tyrant."
+msgstr ""
+
+msgctxt "6776\tDESCRIPTION"
+msgid ""
+"A deep hatred of foreign fighters pushes this man to fight with all his "
+"might. His xenophobia is said to stem from some experience in his "
+"childhood, though nothing beyond that is known. If only he would fight "
+"everyone, foreigner and native alike, with such fervor..."
+msgstr ""
+
+msgctxt "7043\tDESCRIPTION"
+msgid ""
+"A noteworthy fighter who boasts that his roar is capable of wreaking havoc "
+"upon everything around him. Those in the know say his presence is boosting "
+"attendance at the Underground Coliseum."
+msgstr ""
+
+msgctxt "7233\tDESCRIPTION"
+msgid ""
+"A skilled fighter and the quintessential Thai kickboxer. His unique kicking "
+"abilities have crushed the bodies and spirits of many a kickboxer. He plans "
+"on keeping up that fighting spirit in the Underground Coliseum, kicking his "
+"way through all comers who line up to fight him."
+msgstr ""
+
+msgctxt "7510\tDESCRIPTION"
+msgid ""
+"A master of ancient Ryukyuan martial arts. Said to be a master not just of "
+"the ancient style but also of nunchaku. After hearing about a tournament to "
+"determine the strongest fighter, he made his way to the Underground "
+"Coliseum all the way from Okinawa."
+msgstr ""
+
+msgctxt "7764\tDESCRIPTION"
+msgid ""
+"Once this giant of a man enters the ring, he won't stop his rampage until "
+"his opponent is down. His reign of terror extends beyond the ring, which "
+"has caused multiple run-ins with the law. His rampages will be put to good "
+"use here."
+msgstr ""
+
+msgctxt "7996\tDESCRIPTION"
+msgid ""
+"A powerful fighter descended from a long line of proud combatants. With his "
+"naturally powerful build, he can block the strongest of attacks and "
+"retaliate against his opponent with equally mighty blows. He came to the "
+"Underground Coliseum in pursuit of the fight money."
+msgstr ""
+
+msgctxt "8265\tDESCRIPTION"
+msgid ""
+"The man who ruled the pro wrestling world with his inhuman strength. He now "
+"participates in fighting competitions outside of the pro wrestling scene to "
+"prove that pro wrestling is the strongest fighting style. The Underground "
+"Coliseum is his final frontier."
+msgstr ""
+
+msgctxt "8523\tDESCRIPTION"
+msgid ""
+"Though he once stood at the top of the sumo world, his poor attitude and "
+"controversial statements angered his benefactors and led to his ousting. In "
+"spite of this, his passion for sumo wrestling has brought him all the way "
+"to the Coliseum."
+msgstr ""
+
+msgctxt "8763\tDESCRIPTION"
+msgid ""
+"This up-and-coming kabuki fighter has a strange motto: \"A rain of blood is "
+"as valuable as a rain money.\" What will the crowd's reaction to his fights "
+"be? Roaring cheers or terrified screams?"
+msgstr ""
+
+msgctxt "8954\tDESCRIPTION"
+msgid ""
+"He claims to be a descendant of Vlad the Impaler, representing a long line "
+"of vampires. His is a life of elegant ennui, and he craves but one thing: "
+"the thrill of the kill."
+msgstr ""
+
+msgctxt "9127\tDESCRIPTION"
+msgid ""
+"A man who glimpsed death and lived to tell the tale. Sustained only by his "
+"burning grudge, he has returned to life to fight in the Underground "
+"Coliseum. He seeks to win the tournament so that he may rest in peace, but "
+"that is not likely to happen soon."
+msgstr ""
+
+msgctxt "9380\tDESCRIPTION"
+msgid ""
+"The studly beefcake everyone's talking about. He's so suave that his very "
+"existence is a fashion statement. Fans eagerly await his first sacrifice in "
+"the ring, but he has yet to deliver. "
+msgstr ""
+
+msgctxt "9568\tDESCRIPTION"
+msgid ""
+"A professional soldier who has had so many brushes with death, he and the "
+"reaper are practically on a first name basis. He'll take on any mission as "
+"long as he gets paid. When he doesn't have work, he goes to the Underground "
+"Coliseum to train."
+msgstr ""
+
+msgctxt "9812\tDESCRIPTION"
+msgid ""
+"This famous fighter is known for his giant sickle. Despite several wins, he "
+"boasts that no one has witnessed his true skill. He used to heave his "
+"sickle into the crowd when he lost, but the practice has since been banned. "
+"Dead viewers pay no money."
+msgstr ""
+
+msgctxt "10061\tDESCRIPTION"
+msgid ""
+"A man who runs a weapon modification business in Kamurocho. Despite his "
+"bulk, he moves with unexpected grace and precision while wielding his "
+"beloved weapon to deadly effect. He has come to the Underground Coliseum "
+"upon the orders of his weapon arts master, Shoji Yonashiro."
+msgstr ""
+
+msgctxt "10336\tDESCRIPTION"
+msgid ""
+"Everything about him⑬his past, his age, his motivations⑬are shrouded in "
+"mystery. However, his graceful dance in the ring is reminiscent of the "
+"style of a legend. It would not be exaggeration to say that this legendary "
+"man was resurrected in the Coliseum."
+msgstr ""
+
+msgctxt "10595\tDESCRIPTION"
+msgid ""
+"A man who doesn't know when to shut up. Having boasted on his blog that he "
+"is the strongest fighter in the world, he fights in the Underground "
+"Coliseum to prove himself to his followers. He's oblivious to the fact that "
+"it's against the rules to blog about the underground fights."
+msgstr ""
+
+msgctxt "10875\tDESCRIPTION"
+msgid ""
+"Taiga Saejima's fourth apprentice. A born narcissist, Tokita's hobby is "
+"looking at himself in the mirror. His conceit once drove him to ignore the "
+"plights of those around him, but Saejima has since rectified that behavior."
+msgstr ""
+
+msgctxt "11098\tDESCRIPTION"
+msgid ""
+"Higashino is a karate expert who made it to the Victory Road qualifiers. "
+"While he was easily defeated by Kiryu, his technique, developed using his "
+"own theories, has exceeded the traditional bounds of karate. He is "
+"accordingly a cut above ordinary fighters."
+msgstr ""
+
+msgctxt "11355\tDESCRIPTION"
+msgid ""
+"Shirosaka is a martial artist who makes a living hunting in the deepest "
+"reaches of northern Japan. Saejima taught him that his artless technique "
+"was easy to read. After losing to Saejima, he roamed Japan, working his way "
+"up the Victory Road ladder."
+msgstr ""
+
+msgctxt "11604\tDESCRIPTION"
+msgid ""
+"Banba is a powerful fighter, but his overconfidence led to a humiliating "
+"defeat at the hands of Akiyama. Following his loss, he vowed to train and "
+"overhaul his technique. He is both embarrassed by and grateful to his "
+"father, who awoke the fighter inside him."
+msgstr ""
+
+msgctxt "11863\tDESCRIPTION"
+msgid ""
+"The day Kongo turned five, he disappeared into the mountains with his "
+"father. By living in the wild, he was able to develop a fighting style that "
+"defies all convention. He is also a genius, having passed the Toto "
+"University entrance exam with ease."
+msgstr ""
+
+msgctxt "12112\tDESCRIPTION"
+msgid ""
+"Washino was once a promising pro wrestler, but an unfortunate accident "
+"forced his early retirement. After Shinada's encouragement, however, he "
+"re-entered the Victory Road tournament in a bid to restart his career. His "
+"dazzling aerial skills are very much alive and well."
+msgstr ""
+
+msgctxt "12383\tDESCRIPTION"
+msgid ""
+"Raiden boasts overwhelming strength combined with mastery of a variety of "
+"fighting styles. Nothing more is known about him, however, not even his "
+"true identity or country of origin."
+msgstr ""
+
+msgctxt "12565\tDESCRIPTION"
+msgid ""
+"After having run out of opponents who could stand against him at his full "
+"strength in the kickboxing world, he has come to the Underground Coliseum "
+"looking for better opponents. "
+msgstr ""
+
+msgctxt "12744\tDESCRIPTION"
+msgid ""
+"This boxer was driven out of the boxing rings in his homeland after he was "
+"caught fixing his own fights. Now, he has come to the Coliseum to return to "
+"the ring. His light footwork and rapid punches have left a pile of KO'd "
+"opponents in his wake."
+msgstr ""
+
+msgctxt "12990\tDESCRIPTION"
+msgid ""
+"Muguruma was an instructor at a venerable karate dojo, but he sought "
+"further challenges. He has ended up here looking for those challenges in "
+"the Coliseum. He gets on well with Nobu Yamamoto, and the two of them have "
+"been seen having lunch together in town."
+msgstr ""
+
+msgctxt "13248\tDESCRIPTION"
+msgid ""
+"An out-boxer who fights like a bullfighter, constantly dodging his "
+"opponent's attacks until they tire themselves out. He came to the "
+"Underground Coliseum all the way from Spain after hearing about a "
+"tournament to determine the strongest fighter on Earth."
+msgstr ""
+
+msgctxt "13503\tDESCRIPTION"
+msgid ""
+"A young hopeful who rules the world of Japanese kickboxing with his "
+"weaponized knee kicks. He was the youngest person to break a number of "
+"kickboxing records. Now, no longer satisfied with aboveboard fights, he's "
+"coming down to the Underground Coliseum."
+msgstr ""
+
+msgctxt "13757\tDESCRIPTION"
+msgid ""
+"The head of a biker gang that operates out of Kamurocho. He defeated every "
+"leader in the gang until he stood at the top. He's joined up with longtime "
+"partner Shogo Usui to participate in tag battles and make his biker gang "
+"known to the underworld."
+msgstr ""
+
+msgctxt "14005\tDESCRIPTION"
+msgid ""
+"Leader of a gang of punks who call Kamurocho their turf. Many members "
+"joined his gang after witnessing his extraordinary fighting skills. He "
+"joined up with his partner in crime, Seiji Higuchi, to participate in tag "
+"battles in the Coliseum."
+msgstr ""
+
+msgctxt "14245\tDESCRIPTION"
+msgid ""
+"He and his partner Er-san are said to be the shining gems of the Chinese "
+"kung fu world. His numerous skills born from the unique stances in kung fu "
+"have an elegance not found in other martial arts. He has come to the "
+"Coliseum as part of his training."
+msgstr ""
+
+msgctxt "14496\tDESCRIPTION"
+msgid ""
+"He and his partner Yi-san are said to be the shining gems of the Chinese "
+"kung fu world. His numerous skills born from the unique stances in kung fu "
+"have an elegance not found in other martial arts. He has come to the "
+"Coliseum as part of his training."
+msgstr ""
+
+msgctxt "14747\tDESCRIPTION"
+msgid ""
+"A boxer who blew away the boxing world with his turbulent whirlwind of "
+"punches. He won countless title matches, each title belt preceded by a "
+"spectacular display of skill. He came to the Undergound Coliseum to "
+"participate in Tag Matches with Park Dong-ju."
+msgstr ""
+
+msgctxt "15003\tDESCRIPTION"
+msgid ""
+"A cleaner and the pride of the Korean mafia. He is well known for "
+"flawlessly executing his contracts. It's said that after he finishes a job, "
+"not a single speck of dust remains. To reinforce the status of his homeland "
+"in the underworld, he came alone to the Coliseum."
+msgstr ""
+
+msgctxt "15271\tDESCRIPTION"
+msgid ""
+"A silver-haired boxer known for his lightning-quick punches. He is not "
+"fighting tag team with his brother Kintaro Izaka this time. It seems they "
+"had a falling out over their outlooks on life, which led them to seek some "
+"time away from each other."
+msgstr ""
+
+msgctxt "15518\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15524\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15530\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15536\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15542\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15548\tNATIONALITY"
+msgid "Unspecified"
+msgstr ""
+
+msgctxt "15560\tNATIONALITY"
+msgid "Unspecified"
+msgstr ""
+
+msgctxt "15572\tNATIONALITY"
+msgid "United States"
+msgstr ""
+
+msgctxt "15586\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15592\tNATIONALITY"
+msgid "Netherlands"
+msgstr ""
+
+msgctxt "15604\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15610\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15616\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15622\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15628\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15634\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15640\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15646\tNATIONALITY"
+msgid "United States"
+msgstr ""
+
+msgctxt "15660\tNATIONALITY"
+msgid "Thailand"
+msgstr ""
+
+msgctxt "15669\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15675\tNATIONALITY"
+msgid "United States"
+msgstr ""
+
+msgctxt "15689\tNATIONALITY"
+msgid "New Zealand"
+msgstr ""
+
+msgctxt "15701\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15707\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15713\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15719\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15725\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15731\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15737\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15743\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15749\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15755\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15761\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15767\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15773\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15779\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15785\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15791\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15797\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15803\tNATIONALITY"
+msgid "Unspecified"
+msgstr ""
+
+msgctxt "15815\tNATIONALITY"
+msgid "Unspecified"
+msgstr ""
+
+msgctxt "15827\tNATIONALITY"
+msgid "Unspecified"
+msgstr ""
+
+msgctxt "15839\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15845\tNATIONALITY"
+msgid "Unspecified"
+msgstr ""
+
+msgctxt "15857\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15863\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15869\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "15875\tNATIONALITY"
+msgid "China"
+msgstr ""
+
+msgctxt "15881\tNATIONALITY"
+msgid "China"
+msgstr ""
+
+msgctxt "15887\tNATIONALITY"
+msgid "Unspecified"
+msgstr ""
+
+msgctxt "15899\tNATIONALITY"
+msgid "Unspecified"
+msgstr ""
+
+msgctxt "15911\tNATIONALITY"
+msgid "Japan"
+msgstr ""
+
+msgctxt "16333\tSTYLE"
+msgid "Street Fighting"
+msgstr ""
+
+msgctxt "16349\tSTYLE"
+msgid "Street Fighting"
+msgstr ""
+
+msgctxt "16365\tSTYLE"
+msgid "Street Fighting"
+msgstr ""
+
+msgctxt "16381\tSTYLE"
+msgid "Street Fighting"
+msgstr ""
+
+msgctxt "16397\tSTYLE"
+msgid "Unspecified"
+msgstr ""
+
+msgctxt "16409\tSTYLE"
+msgid "Unspecified"
+msgstr ""
+
+msgctxt "16421\tSTYLE"
+msgid "MMA"
+msgstr ""
+
+msgctxt "16425\tSTYLE"
+msgid "Sumo/MMA"
+msgstr ""
+
+msgctxt "16434\tSTYLE"
+msgid "Karate"
+msgstr ""
+
+msgctxt "16441\tSTYLE"
+msgid "MMA"
+msgstr ""
+
+msgctxt "16445\tSTYLE"
+msgid "Ancient Martial Arts"
+msgstr ""
+
+msgctxt "16466\tSTYLE"
+msgid "Spear"
+msgstr ""
+
+msgctxt "16472\tSTYLE"
+msgid "Theater"
+msgstr ""
+
+msgctxt "16480\tSTYLE"
+msgid "MMA"
+msgstr ""
+
+msgctxt "16484\tSTYLE"
+msgid "Pro Wrestling"
+msgstr ""
+
+msgctxt "16498\tSTYLE"
+msgid "MMA"
+msgstr ""
+
+msgctxt "16502\tSTYLE"
+msgid "Karate"
+msgstr ""
+
+msgctxt "16509\tSTYLE"
+msgid "Heavy Metal"
+msgstr ""
+
+msgctxt "16521\tSTYLE"
+msgid "Muay Thai"
+msgstr ""
+
+msgctxt "16531\tSTYLE"
+msgid "Nunchaku"
+msgstr ""
+
+msgctxt "16540\tSTYLE"
+msgid "Kickboxing"
+msgstr ""
+
+msgctxt "16551\tSTYLE"
+msgid "Kickboxing"
+msgstr ""
+
+msgctxt "16562\tSTYLE"
+msgid "Pro Wrestling"
+msgstr ""
+
+msgctxt "16576\tSTYLE"
+msgid "Sumo"
+msgstr ""
+
+msgctxt "16581\tSTYLE"
+msgid "Kabuki"
+msgstr ""
+
+msgctxt "16588\tSTYLE"
+msgid "Kung Fu"
+msgstr ""
+
+msgctxt "16596\tSTYLE"
+msgid "Unspecified"
+msgstr ""
+
+msgctxt "16608\tSTYLE"
+msgid "Steel Claws"
+msgstr ""
+
+msgctxt "16620\tSTYLE"
+msgid "Gun"
+msgstr ""
+
+msgctxt "16624\tSTYLE"
+msgid "Scythe"
+msgstr ""
+
+msgctxt "16631\tSTYLE"
+msgid "Kali Sticks"
+msgstr ""
+
+msgctxt "16643\tSTYLE"
+msgid "Kung Fu"
+msgstr ""
+
+msgctxt "16651\tSTYLE"
+msgid "Street Fighting"
+msgstr ""
+
+msgctxt "16667\tSTYLE"
+msgid "Saejima Style"
+msgstr ""
+
+msgctxt "16681\tSTYLE"
+msgid "Karate"
+msgstr ""
+
+msgctxt "16688\tSTYLE"
+msgid "Hunter"
+msgstr ""
+
+msgctxt "16695\tSTYLE"
+msgid "Karate"
+msgstr ""
+
+msgctxt "16702\tSTYLE"
+msgid "Karate"
+msgstr ""
+
+msgctxt "16709\tSTYLE"
+msgid "Pro Wrestling"
+msgstr ""
+
+msgctxt "16723\tSTYLE"
+msgid "Unspecified"
+msgstr ""
+
+msgctxt "16735\tSTYLE"
+msgid "MMA"
+msgstr ""
+
+msgctxt "16739\tSTYLE"
+msgid "Boxing"
+msgstr ""
+
+msgctxt "16746\tSTYLE"
+msgid "Karate"
+msgstr ""
+
+msgctxt "16753\tSTYLE"
+msgid "Kickboxing"
+msgstr ""
+
+msgctxt "16764\tSTYLE"
+msgid "Kickboxing"
+msgstr ""
+
+msgctxt "16775\tSTYLE"
+msgid "Street Fighting"
+msgstr ""
+
+msgctxt "16791\tSTYLE"
+msgid "Street Fighting"
+msgstr ""
+
+msgctxt "16807\tSTYLE"
+msgid "Kung Fu"
+msgstr ""
+
+msgctxt "16815\tSTYLE"
+msgid "Kung Fu"
+msgstr ""
+
+msgctxt "16823\tSTYLE"
+msgid "Boxing"
+msgstr ""
+
+msgctxt "16830\tSTYLE"
+msgid "Street Fighting"
+msgstr ""
+
+msgctxt "16846\tSTYLE"
+msgid "Boxing"
+msgstr ""

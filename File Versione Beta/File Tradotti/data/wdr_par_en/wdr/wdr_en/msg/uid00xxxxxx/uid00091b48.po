@@ -1,0 +1,211 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "392"
+msgid "You handed over <Color:8>Antler<Color:Default>."
+msgstr "Hai consegnato <Color:8>Corno di cervo<Color:Default>."
+
+msgctxt "452"
+msgid "You got <Color:8>5,000 yen<Color:Default>."
+msgstr "Ti sei beccato <Color:8>5,000 yen<Color:Default>."
+
+msgctxt "500"
+msgid "You got 500 experience points."
+msgstr "Hai ottenuto 500 punti esperienza."
+
+msgctxt "6012"
+msgid "Man with a Problem"
+msgstr "Uomo con un Problema"
+
+msgctxt "6016"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "6020"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "6024"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "6028"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "6032"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "6036"
+msgid "Mission Added"
+msgstr "Missione Aggiunta"
+
+msgctxt "6040"
+msgid "Hand Over the Antler"
+msgstr "Consegna il corno"
+
+msgctxt "6044"
+msgid "Keep the Antler"
+msgstr "Tieni il Corno"
+
+msgctxt "6048"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "6052"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "6056"
+msgid "Man Who Had a Problem"
+msgstr "Uomo che aveva un problema"
+
+msgctxt "6060"
+msgid "Talk_Get"
+msgstr "Talk_Get"
+
+msgctxt "104_Man with a Problem"
+msgid "This can't go on. I have to get me some antlers!"
+msgstr "Non può andare avanti così. Mi devo procurare dei palchi!"
+
+msgctxt "116_Saejima"
+msgid "What's up?"
+msgstr "Che c'è?"
+
+msgctxt "140_Man with a Problem"
+msgid ""
+"...Nothing is <Italic>up</Italic>, thank you very much! You just don't "
+"understand."
+msgstr ""
+"...Non è che <Italic>non funzioni</Italic>, grazie tante! Sei tu che non "
+"capisci."
+
+msgctxt "152_Saejima"
+msgid "Try me."
+msgstr "Provami."
+
+msgctxt "164_Man with a Problem"
+msgid ""
+"Well, it has to do with family harmony. I haven't been keeping up with my "
+"familial duty to my wife. If you... know what I mean by keeping it up."
+msgstr ""
+"Beh, riguarda l'armonia familiare. Non sono riuscito a mantenere il mio "
+"dovere coniugale con mia moglie. Se... capisci cosa intendo con 'essere "
+"all'altezza'."
+
+msgctxt "176_Saejima"
+msgid "I get the picture."
+msgstr "Capisco."
+
+msgctxt "188_Man with a Problem"
+msgid ""
+"So yeah, as a result, the old lady's feeling all kinds of neglected. Now "
+"she's giving me the silent treatment."
+msgstr ""
+"E quindi sì, per questo la vecchia si sente trascurata in tutti i modi. "
+"Adesso mi tiene il muso."
+
+msgctxt "200_Saejima"
+msgid "So stop neglectin' her."
+msgstr "Quindi smettila di trascurarla."
+
+msgctxt "212_Man with a Problem"
+msgid "Is it my fault the old boy's not so frisky anymore?"
+msgstr "È colpa mia se il vecchio non è più tanto pimpante?"
+
+msgctxt "224_Saejima"
+msgid "That's... a shame."
+msgstr "Che peccato..."
+
+msgctxt "236_Man with a Problem"
+msgid "Sure is! So, let me hit you up with a proposition: deer antlers."
+msgstr "Sicuro che lo è! Quindi, ti butto lì una proposta: corna di cervo."
+
+msgctxt "248_Saejima"
+msgid "Uh, what's the connection?"
+msgstr "Ehm, che c'entra?"
+
+msgctxt "260_Man with a Problem"
+msgid ""
+"You don't know? It's an age-old remedy for putting a little spring back into"
+" a man's step. It's not called a stag horn for nothing!"
+msgstr ""
+"Non lo sai? È un rimedio antichissimo per far tornare un po' di brio a un "
+"uomo. Non si chiama mica 'corno di cervo' per niente!"
+
+msgctxt "272_Saejima"
+msgid "Ya really b'lieve that? Sounds like just an old wives' tale."
+msgstr "Ma ci credi davvero a 'sta roba? Mi sembra solo una vecchia diceria."
+
+msgctxt "284_Man with a Problem"
+msgid ""
+"Well, I won't know for sure unless I try it! And seriously... I have to try "
+"<Italic>something</Italic>!"
+msgstr ""
+"Beh, non lo saprò per certo finché non ci provo! E sul serio... devo provare"
+" <Italic>qualcosa</Italic>!"
+
+msgctxt "296_Saejima"
+msgid "Glad I don't have this problem."
+msgstr "Meno male che non ho 'sto problema."
+
+msgctxt "308_Man with a Problem"
+msgid ""
+"Great, then help another man out, would you? One antler's all I need. If you"
+" find one, pass it my way. Help make my home a happy place."
+msgstr ""
+"Ottimo, allora dai una mano anche a un altro tizio, no? Mi basta un solo "
+"corno. Se ne trovi uno, passamelo. Aiutami a far tornare il sereno a casa "
+"mia."
+
+msgctxt "320_Mission Added"
+msgid "\"Get an Antler\" was added to the list of missions."
+msgstr "\"Ottieni un corno di cervo\" è stata aggiunta alla lista delle missioni."
+
+msgctxt "356_Man with a Problem"
+msgid "One antler's all I need... Help make my home a happy place!"
+msgstr "Basta un corno... Aiutami a rendere la mia casa un posto felice!"
+
+msgctxt "368_Man with a Problem"
+msgid "Oh, hi! Sooo? Did you get the antler? To make me a panther?"
+msgstr "Oh, ciao! Allora? Hai preso il corno di cervo? Per farmi una pantera?"
+
+msgctxt "380_Saejima"
+msgid "Here. Have a good time with yer wife."
+msgstr "Tieni. Fatti valere con tua moglie."
+
+msgctxt "416_Man with a Problem"
+msgid "Ahaha, yes! This is it! You've saved our marriage!"
+msgstr "Ahaha, sì! È questo! Hai salvato il nostro matrimonio!"
+
+msgctxt "428_Man Who Had a Problem"
+msgid "And not a moment too soon. It's going to be a long night!"
+msgstr "Appena in tempo. Sarà una notte lunga!"
+
+msgctxt "440_Man Who Had a Problem"
+msgid "Here, take this in return."
+msgstr "Tieni, prendi questo in cambio."
+
+msgctxt "464_Man Who Had a Problem"
+msgid "All right, honey, here I come!"
+msgstr "Va bene, tesoro, arrivo!"
+
+msgctxt "476_Saejima"
+msgid "Okay, then."
+msgstr "Ok, allora."
+
+msgctxt "524_Man with a Problem"
+msgid "One antler's all I need... Help make my home a happy place!"
+msgstr "Basta un corno... Aiutami a rendere la mia casa un posto felice!"

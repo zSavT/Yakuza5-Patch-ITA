@@ -1,0 +1,501 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "17496"
+msgid "M_NML_SET_stand_watch"
+msgstr ""
+
+msgctxt "17500"
+msgid "Saida"
+msgstr ""
+
+msgctxt "17504"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "17508"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "17512"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "17516"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "17520"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "17524"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "17528"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "17532"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "17536"
+msgid "Accept"
+msgstr ""
+
+msgctxt "17540"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "17544"
+msgid "Well-dressed Man"
+msgstr ""
+
+msgctxt "17548"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "17552"
+msgid "I'd say so, yeah."
+msgstr ""
+
+msgctxt "17556"
+msgid "No, I don't think so."
+msgstr ""
+
+msgctxt "17560"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "17564"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "168_Saida"
+msgid ""
+"Oh, hi, Akiyama-san! I was getting tired of waiting. Did you\r\n"
+"find out anything?"
+msgstr ""
+
+msgctxt "180_Akiyama"
+msgid "I did."
+msgstr ""
+
+msgctxt "192_Akiyama"
+msgid ""
+"Hold on, Saida-san. That watch you're wearing... It's pretty\r\n"
+"high-end, isn't it? Probably goes for about a million yen?"
+msgstr ""
+
+msgctxt "204_Saida"
+msgid ""
+"Good eye! A watch plays an important role in defining a\r\n"
+"man's status. That's why I chose this piece here. Highly\r\n"
+"respected brand, you know."
+msgstr ""
+
+msgctxt "216_Akiyama"
+msgid "That's just it, Saida-san."
+msgstr ""
+
+msgctxt "228_Saida"
+msgid "Huh? What's just it?"
+msgstr ""
+
+msgctxt "240_Akiyama"
+msgid ""
+"That watch. There's no questioning its brand power. And it's\r\n"
+"obviously a respectable piece of jewelry."
+msgstr ""
+
+msgctxt "252_Saida"
+msgid "Heheh, I don't doubt it. Not one bit."
+msgstr ""
+
+msgctxt "264_Akiyama"
+msgid ""
+"But at the same time, it also happens to be a very standard\r\n"
+"choice. As far as expressing one's own fashion sense goes,\r\n"
+"it's hardly unique."
+msgstr ""
+
+msgctxt "276_Saida"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "288_Akiyama"
+msgid "Some might even say it's... unhip."
+msgstr ""
+
+msgctxt "300_Saida"
+msgid "Oh no..."
+msgstr ""
+
+msgctxt "312_Akiyama"
+msgid ""
+"Your fashion sense has no sense of freedom. It's just too\r\n"
+"perfect."
+msgstr ""
+
+msgctxt "324_Akiyama"
+msgid ""
+"Wealthy or not, not many women will be drawn to a man who\r\n"
+"plays things so by the book."
+msgstr ""
+
+msgctxt "336_Saida"
+msgid "Fine, then. What kind of watch do you suggest I wear?"
+msgstr ""
+
+msgctxt "348_Akiyama"
+msgid ""
+"How about this? We'll go to a brand shop now and check out\r\n"
+"some watches."
+msgstr ""
+
+msgctxt "360_Akiyama"
+msgid "We can continue this conversation there."
+msgstr ""
+
+msgctxt "372_Saida"
+msgid "Okay, let's do that!"
+msgstr ""
+
+msgctxt "408_Saida"
+msgid "Oh, Akiyama-san! Learn anything?"
+msgstr ""
+
+msgctxt "420_Akiyama"
+msgid "No. Nothing useful yet."
+msgstr ""
+
+msgctxt "432_Saida"
+msgid "Oh... You're my only hope. I'm counting on you!"
+msgstr ""
+
+msgctxt "444_Akiyama"
+msgid "Good grief..."
+msgstr ""
+
+msgctxt "468_Saida"
+msgid ""
+"Please, would you ask Miyu-chan just what exactly makes me\r\n"
+"so unhip?"
+msgstr ""
+
+msgctxt "480_Saida"
+msgid ""
+"I'm so ashamed by this. If I don't fix it, I won't be able\r\n"
+"to go to your club ever again."
+msgstr ""
+
+msgctxt "492_Akiyama"
+msgid ""
+"(Damn. What to do? He's a loyal customer and a big spender.\r\n"
+"Turning him down would be bad for business.)"
+msgstr ""
+
+msgctxt "504_Akiyama"
+msgid "All right, sure. I'll have a chat with Miyu."
+msgstr ""
+
+msgctxt "516_Saida"
+msgid "You will? Thank you!"
+msgstr ""
+
+msgctxt "528_Akiyama"
+msgid ""
+"Got to hand it to you on your negotiating skills. How could I\r\n"
+"turn down a regular when they're threatening not to return?"
+msgstr ""
+
+msgctxt "540_Saida"
+msgid "Ahaha, sorry..."
+msgstr ""
+
+msgctxt "552_Akiyama"
+msgid "I'll pop over to the club. Mind waiting here?"
+msgstr ""
+
+msgctxt "564_Saida"
+msgid "Of course!"
+msgstr ""
+
+msgctxt "576_Akiyama"
+msgid ""
+"(Oh boy, another fine mess. Miyu should still be at Elise.\r\n"
+"I'd better talk to her.)"
+msgstr ""
+
+msgctxt "588_Akiyama"
+msgid ""
+"I'm terribly sorry, but I can't give preferential treatment\r\n"
+"to a specific client like that. You understand, don't you?"
+msgstr ""
+
+msgctxt "600_Saida"
+msgid ""
+"Oh, but... that means I won't be able to visit your club\r\n"
+"anymore. You're telling me to take my business elsewhere."
+msgstr ""
+
+msgctxt "612_Akiyama"
+msgid "......"
+msgstr ""
+
+msgctxt "636_Well-dressed Man"
+msgid "Damn it! What about me is unhip?"
+msgstr ""
+
+msgctxt "648_Akiyama"
+msgid "(Hm? I know that guy...)"
+msgstr ""
+
+msgctxt "660_Akiyama"
+msgid "(That's right. That's Saida-san. He's a regular at Elise.)"
+msgstr ""
+
+msgctxt "672_Akiyama"
+msgid "Saida-san."
+msgstr ""
+
+msgctxt "684_Saida"
+msgid ""
+"Hm? Well, if it isn't Elise's owner himself. Hello,\r\n"
+"Akiyama-san. Imagine running into you here."
+msgstr ""
+
+msgctxt "696_Akiyama"
+msgid "Is there a problem?"
+msgstr ""
+
+msgctxt "708_Saida"
+msgid "It's not so much a problem, but..."
+msgstr ""
+
+msgctxt "720_Saida"
+msgid "Akiyama-san, I need you to be honest with me."
+msgstr ""
+
+msgctxt "732_Akiyama"
+msgid "Yes?"
+msgstr ""
+
+msgctxt "744_Saida"
+msgid "Am I really that unhip?"
+msgstr ""
+
+msgctxt "756_Akiyama"
+msgid "I'm sorry?"
+msgstr ""
+
+msgctxt "768_Saida"
+msgid "Well, am I?"
+msgstr ""
+
+msgctxt "780_Akiyama"
+msgid "Uh... Well..."
+msgstr ""
+
+msgctxt "792_Akiyama"
+msgid "I'd say so, yeah."
+msgstr ""
+
+msgctxt "804_Saida"
+msgid "So, I really am unhip. Why is that?"
+msgstr ""
+
+msgctxt "816_Akiyama"
+msgid ""
+"It's not exactly something I can pinpoint, but... There's\r\n"
+"just something a little off, I think."
+msgstr ""
+
+msgctxt "828_Saida"
+msgid "Well, that doesn't help me! What am I supposed to do?"
+msgstr ""
+
+msgctxt "840_Akiyama"
+msgid "Hold on, hold on. What brought this up?"
+msgstr ""
+
+msgctxt "852_Akiyama"
+msgid ""
+"I wouldn't say that. On the contrary, I'd say you're\r\n"
+"reasonably with it."
+msgstr ""
+
+msgctxt "864_Saida"
+msgid ""
+"That's what I thought, too. I've always thought that. So now\r\n"
+"I'm not sure what to do."
+msgstr ""
+
+msgctxt "876_Akiyama"
+msgid "What happened, exactly?"
+msgstr ""
+
+msgctxt "888_Saida"
+msgid ""
+"Well, you know how our firm regularly uses your club to\r\n"
+"entertain clients?"
+msgstr ""
+
+msgctxt "900_Akiyama"
+msgid "Yes, of course. And we do appreciate your patronage."
+msgstr ""
+
+msgctxt "912_Saida"
+msgid ""
+"I have a confession－I've fallen for one of your hostesses.\r\n"
+"It's Miyu-chan..."
+msgstr ""
+
+msgctxt "924_Akiyama"
+msgid "Miyu? Heh..."
+msgstr ""
+
+msgctxt "936_Saida"
+msgid ""
+"I wanted to get to know her better, so I built up some\r\n"
+"courage and asked her out."
+msgstr ""
+
+msgctxt "948_Saida"
+msgid "She shot me down. \"You're just not hip enough for me,\" she said."
+msgstr ""
+
+msgctxt "960_Akiyama"
+msgid "I see. So that's what has you down."
+msgstr ""
+
+msgctxt "972_Saida"
+msgid ""
+"I don't mean to toot my own horn here, but I'm a successful\r\n"
+"businessman with a top-name company. I have a certain level\r\n"
+"of confidence in myself."
+msgstr ""
+
+msgctxt "984_Saida"
+msgid ""
+"Being close to forty, I know I'm a bit old, but I wouldn't\r\n"
+"say I've lost my looks. The suit I'm wearing is the latest\r\n"
+"in today's fashion, too."
+msgstr ""
+
+msgctxt "996_Akiyama"
+msgid ""
+"True. People in the know would recognize you to be very\r\n"
+"well-off."
+msgstr ""
+
+msgctxt "1008_Saida"
+msgid ""
+"If she turned me down because she doesn't like me as a\r\n"
+"person, well, that wouldn't be great either. But I could at least come to "
+"terms with that."
+msgstr ""
+
+msgctxt "1020_Saida"
+msgid "But to say I'm not hip enough... I just don't understand it."
+msgstr ""
+
+msgctxt "1032_Akiyama"
+msgid "Did Miyu say anything else about that?"
+msgstr ""
+
+msgctxt "1044_Saida"
+msgid ""
+"I... Actually, I was so stunned by her rejection, I stumbled\r\n"
+"out of the club without probing any deeper. Pathetic, I\r\n"
+"know."
+msgstr ""
+
+msgctxt "1056_Akiyama"
+msgid "I see..."
+msgstr ""
+
+msgctxt "1068_Saida"
+msgid ""
+"Akiyama-san, please, can you ask Miyu-chan just why she\r\n"
+"thinks I'm so unhip?"
+msgstr ""
+
+msgctxt "1080_Akiyama"
+msgid ""
+"That's honestly out of my hands... If you have a complaint\r\n"
+"about our service quality, I'm all ears. But if it's a\r\n"
+"private matter..."
+msgstr ""
+
+msgctxt "1092_Saida"
+msgid ""
+"Please! I'm so ashamed by this. If I don't fix it, I won't\r\n"
+"be able to go to your club ever again."
+msgstr ""
+
+msgctxt "1104_Akiyama"
+msgid ""
+"(Damn. What to do? He's a loyal customer and a big spender.\r\n"
+"Turning him down would be bad for business.)"
+msgstr ""
+
+msgctxt "1116_Akiyama"
+msgid "All right, sure. I'll have a chat with Miyu."
+msgstr ""
+
+msgctxt "1128_Saida"
+msgid "You will? Thank you!"
+msgstr ""
+
+msgctxt "1140_Akiyama"
+msgid ""
+"Got to hand it to you on your negotiating skills. How could I\r\n"
+"turn down a regular when they're threatening not to return?"
+msgstr ""
+
+msgctxt "1152_Saida"
+msgid "Ahaha, sorry..."
+msgstr ""
+
+msgctxt "1164_Akiyama"
+msgid "I'll pop over to the club. Mind waiting here?"
+msgstr ""
+
+msgctxt "1176_Saida"
+msgid "Of course!"
+msgstr ""
+
+msgctxt "1188_Akiyama"
+msgid ""
+"(Oh boy, another fine mess. Miyu should still be at Elise.\r\n"
+"I'd better talk to her.)"
+msgstr ""
+
+msgctxt "1200_Akiyama"
+msgid ""
+"I'm terribly sorry, but I can't give preferential treatment\r\n"
+"to a specific client like that. You understand, don't you?"
+msgstr ""
+
+msgctxt "1212_Saida"
+msgid ""
+"Oh, but... that means I won't be able to visit your club\r\n"
+"anymore. You're telling me to take my business elsewhere."
+msgstr ""
+
+msgctxt "1224_Akiyama"
+msgid "......"
+msgstr ""

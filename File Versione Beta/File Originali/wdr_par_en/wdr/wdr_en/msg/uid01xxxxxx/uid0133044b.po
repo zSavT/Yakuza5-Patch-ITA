@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2664"
+msgid "Player"
+msgstr ""
+
+msgctxt "2668"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2672"
+msgid "Play"
+msgstr ""
+
+msgctxt "2676"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "2680"
+msgid "Read the Rules"
+msgstr ""
+
+msgctxt "2684"
+msgid "Batting Center: Academic Course"
+msgstr ""
+
+msgctxt "76_Player"
+msgid "(No point doing this in Kamurocho...)"
+msgstr ""
+
+msgctxt "88_Player"
+msgid "(No, this isn't for me.)"
+msgstr ""
+
+msgctxt "112_Player"
+msgid "(The Academic Course is 300 yen. Should I give it a go?)"
+msgstr ""
+
+msgctxt "124_Player"
+msgid "(Okay. Let's give it a go.)"
+msgstr ""
+
+msgctxt "148_Player"
+msgid "(No. Not now.)"
+msgstr ""
+
+msgctxt "160_Player"
+msgid ""
+"A math question will appear on the targets. After a short amount of time, "
+"numbers will appear in its place. Press <Action:Button_Cross@Battingcenter> "
+"at  the right time to hit the ball into the correct panel."
+msgstr ""
+
+msgctxt "172_Player"
+msgid ""
+"You can also hit multiple targets at once. If one of the panels is the "
+"correct answer, you get the question right. If you're not sure of the "
+"answer, try to hit multiple targets simultaneously to increase your chances "
+"of success."
+msgstr ""
+
+msgctxt "184_Player"
+msgid ""
+"There are five questions in all. After you correctly answer three, you'll "
+"be rewarded with a special treat after each correct answer. Try to get all "
+"five questions right!"
+msgstr ""
+
+msgctxt "196_Player"
+msgid "(The Academic Course is 300 yen, but I don't have that much on me...)"
+msgstr ""

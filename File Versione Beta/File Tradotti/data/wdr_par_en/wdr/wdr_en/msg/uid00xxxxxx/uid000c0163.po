@@ -1,0 +1,488 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "19204"
+msgid "Staff"
+msgstr "Staff"
+
+msgctxt "19208"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "19212"
+msgid "Talk_Info_R"
+msgstr "Talk_Info_R"
+
+msgctxt "19216"
+msgid "P_TLK_sitcnt_kamae"
+msgstr "P_TLK_sitcnt_kamae"
+
+msgctxt "19220"
+msgid "Sushi Chef"
+msgstr "Chef di sushi"
+
+msgctxt "19224"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "19228"
+msgid "Hinata"
+msgstr "Hinata"
+
+msgctxt "19232"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "19236"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "19240"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "19244"
+msgid "○Is that so?"
+msgstr "○Ah, davvero?"
+
+msgctxt "19248"
+msgid "□It's worse to eat just one meal."
+msgstr "□È peggio mangiare un pasto solo."
+
+msgctxt "19252"
+msgid "△It's important to savor food."
+msgstr "△È importante gustarsi il cibo."
+
+msgctxt "19256"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "19260"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "19264"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "19268"
+msgid "Talk_Kamae"
+msgstr "Talk_Kamae"
+
+msgctxt "19272"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "19276"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "19280"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "19284"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "19288"
+msgid "Order"
+msgstr "Ordina"
+
+msgctxt "19292"
+msgid "Ask for Recommendations"
+msgstr "Chiedi consigli"
+
+msgctxt "19296"
+msgid "Leave"
+msgstr "Andarsene"
+
+msgctxt "19300"
+msgid "0"
+msgstr "0"
+
+msgctxt "19304"
+msgid "Idle"
+msgstr "Inattivo"
+
+msgctxt "60_Staff"
+msgid "Welcome. If you'll please follow me."
+msgstr "Benvenuto. Se per favore vuole seguirmi."
+
+msgctxt "72_Staff"
+msgid "This way, sir."
+msgstr "Da questa parte, signore."
+
+msgctxt "132_Staff"
+msgid "Welcome, welcome! What'll it be?"
+msgstr "Benvenuti, benvenuti! Cosa prendete?"
+
+msgctxt "144_Hinata"
+msgid ""
+"Oh, I'd really like the <Color:8>Akagai<Color:Default>. "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Oh, vorrei davvero l'<Color:8>Akagai<Color:Default>. "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "156_Kiryu"
+msgid "(Hinata seems to be hungry for some <Color:8>Akagai<Color:Default>.)"
+msgstr "(Hinata sembra avere fame di <Color:8>Akagai<Color:Default>.)"
+
+msgctxt "228_Hinata"
+msgid "Ooh, this looks yummy!"
+msgstr "Ooh, sembra proprio una delizia!"
+
+msgctxt "288_Hinata"
+msgid "I haven't had dinner at this hour in a really long time."
+msgstr "È da un sacco di tempo che non ceno a quest'ora."
+
+msgctxt "300_Player"
+msgid "Oh? But isn't this the usual time for eating dinner?"
+msgstr "Oh? Ma questa non è la solita ora per cenare?"
+
+msgctxt "312_Hinata"
+msgid "Well, I only eat one meal a day, is the thing."
+msgstr "Beh, mangio solo un pasto al giorno, è questo il punto."
+
+msgctxt "324_Player"
+msgid "Really? And you don't get hungry?"
+msgstr "Davvero? E non ti viene fame?"
+
+msgctxt "336_Hinata"
+msgid ""
+"Oh, I get hungry, but I stick it out. It doesn't bother me after a while."
+msgstr "Oh, mi viene fame, ma resisto. Dopo un po' non mi dà più fastidio."
+
+msgctxt "348_Player"
+msgid ""
+"I can't do that. Even if it's a little late, I have to eat three meals a "
+"day. And I'll eat until I'm full each time."
+msgstr ""
+"Non posso farlo. Anche se è un po' tardi, devo fare tre pasti al giorno. E "
+"mangerò fino a saziarmi ogni volta."
+
+msgctxt "360_Hinata"
+msgid ""
+"You're going to get fat, you know. Even though you're breaking up your "
+"eating into meals, you ruin that by eating too much at each sitting."
+msgstr ""
+"Finirai per ingrassare, lo sai. Anche se dividi i tuoi pasti, rovini tutto "
+"mangiando troppo ogni volta."
+
+msgctxt "372_Player"
+msgid "Is that so?"
+msgstr "È così?"
+
+msgctxt "384_Hinata"
+msgid ""
+"Well, yeah. Whatever you eat gets turned into energy, so you can easily wind"
+" up eating three days worth of food."
+msgstr ""
+"Eh, già. Tutto quello che mangi si trasforma in energia, quindi puoi "
+"facilmente ritrovarti a mangiare cibo per tre giorni."
+
+msgctxt "396_Player"
+msgid ""
+"That makes sense. Come to think of it, even when I eat until I'm full, I "
+"always get hungry around the same time each day."
+msgstr ""
+"Ci sta. Ora che ci penso, anche quando mangio fino a scoppiare, mi viene "
+"sempre fame alla stessa ora ogni giorno."
+
+msgctxt "408_Hinata"
+msgid ""
+"Everyone has different metabolisms, after all. It's not like you'll die if "
+"you don't eat three meals a day."
+msgstr ""
+"Dopotutto, ognuno ha un metabolismo diverso. Non è che muori se non mangi "
+"tre volte al giorno."
+
+msgctxt "420_Player"
+msgid "You really know a lot about this stuff. I'm a little surprised."
+msgstr "Ne sai davvero un sacco su 'ste cose. Sono un po' sorpreso."
+
+msgctxt "432_Hinata"
+msgid ""
+"So did I give you something to think about? Hey, us girls know a lot about "
+"how diets work."
+msgstr ""
+"Allora, ti ho dato da pensare? Ehi, noi ragazze ne sappiamo un sacco su come"
+" funzionano le diete."
+
+msgctxt "444_Player"
+msgid "I think you might be a little too thin, actually."
+msgstr "Secondo me sei un po' troppo magro, a dire il vero."
+
+msgctxt "456_Player"
+msgid ""
+"It's worse to eat just one meal. Otherwise, you aren't getting enough "
+"nourishment."
+msgstr "Fa peggio mangiare un solo pasto. Sennò, non ti nutri abbastanza."
+
+msgctxt "468_Hinata"
+msgid "Well, I'm eating twice today, so I'll be fine."
+msgstr "Bè, oggi mangio doppio, quindi sarò a posto."
+
+msgctxt "480_Player"
+msgid "Maybe so, but still..."
+msgstr "Può darsi, ma comunque..."
+
+msgctxt "492_Hinata"
+msgid ""
+"Besides, it doesn't matter if you only eat once or twice a day. It's worse "
+"if you change how much you eat."
+msgstr ""
+"E poi, non fa niente se mangi solo una o due volte al giorno. È peggio se "
+"cambi quanto mangi."
+
+msgctxt "504_Hinata"
+msgid ""
+"If you don't have a regular schedule of meals, you're sure to get fat in no "
+"time."
+msgstr ""
+"Se non hai un orario regolare per i pasti, ingrasserai di sicuro in un "
+"attimo."
+
+msgctxt "516_Player"
+msgid "In that case, should we not eat here?"
+msgstr "Allora, non mangiamo qui?"
+
+msgctxt "528_Hinata"
+msgid ""
+"Of course not! You ordered it for me, so I'm going to appreciate it fully."
+msgstr "Ma certo che no! Me l'hai ordinato tu, quindi me lo gusterò appieno."
+
+msgctxt "540_Player"
+msgid "Heh. It's good to forget about the details and just enjoy your meal."
+msgstr "Eh. Lascia perdere i dettagli e goditi il pasto e basta."
+
+msgctxt "552_Player"
+msgid ""
+"It's important to savor your food. Meals are meant to be pleasurable. Seeing"
+" them just as a means of sustenance isn't any fun."
+msgstr ""
+"È fondamentale godersi il cibo fino in fondo. I pasti devono essere un "
+"piacere. Considerarli solo un mezzo per sfamarsi non è divertente per "
+"niente."
+
+msgctxt "564_Hinata"
+msgid ""
+"Oh, I agree! Since I only eat one meal a day, I make sure it's a tasty one!"
+msgstr ""
+"Oh, sono d'accordo! Visto che mangio un solo pasto al giorno, mi assicuro "
+"che sia una gran mangiata!"
+
+msgctxt "576_Hinata"
+msgid ""
+"For all I know, I might die tomorrow. So I don't want to have any regrets "
+"about not eating something delicious!"
+msgstr ""
+"Per quanto ne so, potrei crepare domani. Quindi non voglio avere rimpianti "
+"di non essermi sparato un piatto da urlo!"
+
+msgctxt "588_Player"
+msgid "I've never thought about it in such... extreme terms before."
+msgstr "Non ci avevo mai pensato in termini così... estremi prima d'ora."
+
+msgctxt "600_Player"
+msgid ""
+"But I wouldn't want to lose the enjoyment of eating by obsessing over stuff "
+"like nutrition and dieting."
+msgstr ""
+"Ma non vorrei perdere il piacere di mangiare ossessionandomi con cose tipo "
+"nutrizione e dieta."
+
+msgctxt "612_Hinata"
+msgid ""
+"Exactly. It'd be lame to be thin but not liked by anyone. You're missing out"
+" on life by not enjoying your food."
+msgstr ""
+"Proprio così. Sarebbe da sfigati essere magri ma non piacere a nessuno. Ti "
+"perdi la vita a non goderti il cibo."
+
+msgctxt "624_Player"
+msgid "I'm with you there."
+msgstr "Su quello sono con te."
+
+msgctxt "696_Hinata"
+msgid "Thanks for the treat!"
+msgstr "Grazie per l'offerta!"
+
+msgctxt "708_Player"
+msgid "Check please."
+msgstr "Il conto, per favore."
+
+msgctxt "720_Sushi Chef"
+msgid "Here you are! Thanks!"
+msgstr "Ecco a lei! Grazie!"
+
+msgctxt "744_Staff"
+msgid "Sorry. Something came up all of a sudden."
+msgstr "Scusa. È successo un imprevisto."
+
+msgctxt "756_Sushi Chef"
+msgid "Ah, I see. Well, swing by again sometime."
+msgstr "Ah, capisco. Beh, fatti un salto di nuovo, quando vuoi."
+
+msgctxt "864_Staff"
+msgid "Thank you very much. Your bill comes to %s."
+msgstr "Grazie mille. Il suo conto è di %s."
+
+msgctxt "876_Staff"
+msgid "Thank you very much. Please come again."
+msgstr "Grazie mille. Torni a trovarci."
+
+msgctxt "924_Staff"
+msgid "Welcome. If you'll please follow me."
+msgstr "Benvenuto. Se per favore vuole seguirmi."
+
+msgctxt "960_Staff"
+msgid "(I'm broke.)"
+msgstr "(Sono al verde.)"
+
+msgctxt "996_Kiryu"
+msgid "(I don't need to eat right now.)"
+msgstr "(Non ho bisogno di mangiare adesso.)"
+
+msgctxt "1008_Akiyama"
+msgid "(I'm not hungry right now.)"
+msgstr "(Non ho fame in questo momento.)"
+
+msgctxt "1020_Saejima"
+msgid "(I'm still full.)"
+msgstr "(Sono ancora pieno.)"
+
+msgctxt "1032_Shinada"
+msgid "(Unfortunately, I'm kinda full.)"
+msgstr "(Purtroppo, sono un po' pieno.)"
+
+msgctxt "1044_Haruka"
+msgid "(I'm stuffed.)"
+msgstr "(Sono strapieno.)"
+
+msgctxt "1068_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr "Scusa. Ho una cosa da sbrigare."
+
+msgctxt "1080_Akiyama"
+msgid "Sorry. I have some urgent business."
+msgstr "Scusa. Ho degli affari urgenti."
+
+msgctxt "1092_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr "Mi dispiace, ma devo filare."
+
+msgctxt "1104_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr "Oh, mi dispiace. Ho una cosa..."
+
+msgctxt "1116_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr "Mi dispiace davvero. È saltato fuori un imprevisto."
+
+msgctxt "1128_Staff"
+msgid "Ah, I see. Please do come again."
+msgstr "Ah, capisco. Torni pure."
+
+msgctxt "1152_Staff"
+msgid "Please follow me."
+msgstr "Prego, mi segua."
+
+msgctxt "1224_Staff"
+msgid "Welcome! What'll it be?"
+msgstr "Benvenuti! Cosa prendete?"
+
+msgctxt "1248_Kiryu"
+msgid "What do you recommend today?"
+msgstr "Cosa mi consigli oggi?"
+
+msgctxt "1260_Akiyama"
+msgid "Any recommendations today?"
+msgstr "Qualche consiglio per oggi?"
+
+msgctxt "1272_Saejima"
+msgid "Hey boss, whaddya recommend today?"
+msgstr "Ehi capo, che ci consigli oggi?"
+
+msgctxt "1284_Shinada"
+msgid "Hey chief, what's good today?"
+msgstr "Ehi, capo, cosa c'è di buono oggi?"
+
+msgctxt "1296_Haruka"
+msgid "Do you have any recommendations?"
+msgstr "Ha qualche raccomandazione?"
+
+msgctxt "1308_Sushi Chef"
+msgid ""
+"For today, I highly recommend the <Color:8>Whole Sea Eel<Color:Default>.\r\n"
+"It's really good!"
+msgstr ""
+"Per oggi, ti consiglio caldamente l'<Color:8>Anguilla di mare intera<Color:Default>.\n"
+"È davvero buono!"
+
+msgctxt "1332_Kiryu"
+msgid "<Color:8>Whole Sea Eel<Color:Default>, huh? Sounds good."
+msgstr "<Color:8>Anguilla di mare intera<Color:Default>, eh? Sembra buono."
+
+msgctxt "1344_Akiyama"
+msgid "<Color:8>Whole Sea Eel<Color:Default>, huh? That sounds good."
+msgstr "<Color:8>Anguilla di mare intera<Color:Default>, eh? Sembra buono."
+
+msgctxt "1356_Saejima"
+msgid "<Color:8>Whole Sea Eel<Color:Default>, huh? Sounds tasty."
+msgstr ""
+"<Color:8>Anguilla di mare intera<Color:Default>, eh? Dev'essere buono."
+
+msgctxt "1368_Shinada"
+msgid "<Color:8>Whole Sea Eel<Color:Default>, huh? Sounds good to me!"
+msgstr ""
+"<Color:8>Anguilla di mare intera<Color:Default>, eh? Mi sembra ottimo!"
+
+msgctxt "1380_Haruka"
+msgid "<Color:8>Whole Sea Eel<Color:Default>? Oh, that sounds delicious!"
+msgstr ""
+"<Color:8>Anguilla di mare intera<Color:Default>? Oh, dev'essere squisito!"
+
+msgctxt "1392_Staff"
+msgid "What'll it be?"
+msgstr "Cosa prendete?"
+
+msgctxt "1452_Kiryu"
+msgid "Sorry. Something came up all of a sudden."
+msgstr "Scusa. È successo un imprevisto."
+
+msgctxt "1464_Akiyama"
+msgid "Sorry, but something came up. I have to get going."
+msgstr "Scusa, ma mi è capitato un imprevisto. Devo proprio andare."
+
+msgctxt "1476_Saejima"
+msgid "My bad. I forgot somethin'. Sorry."
+msgstr "Colpa mia. Mi sono scordato una cosa. Scusa."
+
+msgctxt "1488_Shinada"
+msgid "Sorry, sorry! There's this thing I gotta do. I have to get going."
+msgstr "Scusa, scusa! C'è 'na cosa che devo sbrigare. Devo scappare."
+
+msgctxt "1500_Haruka"
+msgid "I'm really sorry. Something just came up. You'll have to excuse me."
+msgstr "Mi dispiace davvero. Mi è sorto un imprevisto. Dovrete scusarmi."
+
+msgctxt "1512_Sushi Chef"
+msgid "Ah, I see. Well, swing by again sometime."
+msgstr "Ah, capisco. Beh, fatti un salto di nuovo, quando vuoi."
+
+msgctxt "1560_Staff"
+msgid "Thank you very much."
+msgstr "Grazie mille."

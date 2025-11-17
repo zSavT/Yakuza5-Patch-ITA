@@ -1,0 +1,679 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "18744"
+msgid "Mama"
+msgstr ""
+
+msgctxt "18748"
+msgid "adv5_015/mama_0001a"
+msgstr ""
+
+msgctxt "18752"
+msgid "adv5_015/mama_0001b"
+msgstr ""
+
+msgctxt "18756"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "18760"
+msgid "adv5_015/kiryu_0443"
+msgstr ""
+
+msgctxt "18764"
+msgid "adv5_015/kiryu_0444"
+msgstr ""
+
+msgctxt "18768"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "18772"
+msgid "adv5_015/mama_0002a"
+msgstr ""
+
+msgctxt "18776"
+msgid "adv5_015/mama_0002b"
+msgstr ""
+
+msgctxt "18780"
+msgid "adv5_015/kiryu_0445"
+msgstr ""
+
+msgctxt "18784"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "18788"
+msgid "dummy"
+msgstr ""
+
+msgctxt "18792"
+msgid "adv5_015/mama_0003"
+msgstr ""
+
+msgctxt "18796"
+msgid "adv5_015/kiryu_0446"
+msgstr ""
+
+msgctxt "18800"
+msgid "adv5_015/mama_0004"
+msgstr ""
+
+msgctxt "18804"
+msgid "adv5_015/kiryu_0447"
+msgstr ""
+
+msgctxt "18808"
+msgid "adv5_015/kiryu_0448"
+msgstr ""
+
+msgctxt "18812"
+msgid "Baba"
+msgstr ""
+
+msgctxt "18816"
+msgid "adv5_015/baba_0243"
+msgstr ""
+
+msgctxt "18820"
+msgid "kaiwabgm_fuon05"
+msgstr ""
+
+msgctxt "18824"
+msgid "adv5_020/baba_0244a"
+msgstr ""
+
+msgctxt "18828"
+msgid "adv5_020/baba_0244b"
+msgstr ""
+
+msgctxt "18832"
+msgid "adv5_020/kiryu_0449"
+msgstr ""
+
+msgctxt "18836"
+msgid "adv5_020/baba_0245a"
+msgstr ""
+
+msgctxt "18840"
+msgid "adv5_020/baba_0245b"
+msgstr ""
+
+msgctxt "18844"
+msgid "adv5_020/baba_0245c"
+msgstr ""
+
+msgctxt "18848"
+msgid "adv5_020/kiryu_0450a"
+msgstr ""
+
+msgctxt "18852"
+msgid "C5020_KRU_TLK_sitcnt2_lp"
+msgstr ""
+
+msgctxt "18856"
+msgid "C5020_KRU_TLK_sitcnt2_st"
+msgstr ""
+
+msgctxt "18860"
+msgid "adv5_020/kiryu_0450b"
+msgstr ""
+
+msgctxt "18864"
+msgid "adv5_020/baba_0246a"
+msgstr ""
+
+msgctxt "18868"
+msgid "adv5_020/baba_0246b"
+msgstr ""
+
+msgctxt "18872"
+msgid "adv5_020/kiryu_0451"
+msgstr ""
+
+msgctxt "18876"
+msgid "adv5_020/baba_0247a"
+msgstr ""
+
+msgctxt "18880"
+msgid "adv5_020/baba_0247b"
+msgstr ""
+
+msgctxt "18884"
+msgid "adv5_020/baba_0247c"
+msgstr ""
+
+msgctxt "18888"
+msgid "adv5_020/kiryu_0452"
+msgstr ""
+
+msgctxt "18892"
+msgid "adv5_020/baba_0248a"
+msgstr ""
+
+msgctxt "18896"
+msgid "adv5_020/baba_0248b"
+msgstr ""
+
+msgctxt "18900"
+msgid "adv5_020/kiryu_0453"
+msgstr ""
+
+msgctxt "18904"
+msgid "adv5_020/baba_0249a"
+msgstr ""
+
+msgctxt "18908"
+msgid "adv5_020/baba_0249b"
+msgstr ""
+
+msgctxt "18912"
+msgid "adv5_020/kiryu_0454"
+msgstr ""
+
+msgctxt "18916"
+msgid "adv5_020/baba_0250a"
+msgstr ""
+
+msgctxt "18920"
+msgid "adv5_020/baba_0250b"
+msgstr ""
+
+msgctxt "18924"
+msgid "adv5_020/kiryu_0455a"
+msgstr ""
+
+msgctxt "18928"
+msgid "adv5_020/kiryu_0455b"
+msgstr ""
+
+msgctxt "18932"
+msgid "adv5_020/baba_0251a"
+msgstr ""
+
+msgctxt "18936"
+msgid "adv5_020/baba_0251b"
+msgstr ""
+
+msgctxt "18940"
+msgid "adv5_020/baba_0251c"
+msgstr ""
+
+msgctxt "18944"
+msgid "adv5_020/kiryu_0456"
+msgstr ""
+
+msgctxt "18948"
+msgid "adv5_020/baba_0252a"
+msgstr ""
+
+msgctxt "18952"
+msgid "adv5_020/baba_0252b"
+msgstr ""
+
+msgctxt "18956"
+msgid "adv5_020/baba_0252c"
+msgstr ""
+
+msgctxt "18960"
+msgid "adv5_020/baba_0252d"
+msgstr ""
+
+msgctxt "18964"
+msgid "adv5_020/kiryu_0457"
+msgstr ""
+
+msgctxt "18968"
+msgid "adv5_020/baba_0253"
+msgstr ""
+
+msgctxt "18972"
+msgid "adv5_020/kiryu_0458"
+msgstr ""
+
+msgctxt "18976"
+msgid "adv5_020/baba_0254"
+msgstr ""
+
+msgctxt "18980"
+msgid "C5020_BAB_TLK_sitcnt2_lp"
+msgstr ""
+
+msgctxt "18984"
+msgid "C5020_BAB_TLK_sitcnt2_st"
+msgstr ""
+
+msgctxt "18988"
+msgid "adv5_020/kiryu_0459"
+msgstr ""
+
+msgctxt "18992"
+msgid "adv5_020/baba_0255a"
+msgstr ""
+
+msgctxt "18996"
+msgid "adv5_020/baba_0255b"
+msgstr ""
+
+msgctxt "19000"
+msgid "adv5_020/baba_0255c"
+msgstr ""
+
+msgctxt "19004"
+msgid "adv5_020/kiryu_0460"
+msgstr ""
+
+msgctxt "19008"
+msgid "adv5_020/baba_0256a"
+msgstr ""
+
+msgctxt "19012"
+msgid "adv5_020/baba_0256b"
+msgstr ""
+
+msgctxt "19016"
+msgid "C5020_BAB_TLK_sitcnt2_ed"
+msgstr ""
+
+msgctxt "19020"
+msgid "adv5_020/kiryu_0461a"
+msgstr ""
+
+msgctxt "19024"
+msgid "adv5_020/kiryu_0461b"
+msgstr ""
+
+msgctxt "19028"
+msgid "adv5_020/baba_0257"
+msgstr ""
+
+msgctxt "19032"
+msgid "adv5_020/kiryu_0462"
+msgstr ""
+
+msgctxt "19036"
+msgid "adv5_020/baba_0258a"
+msgstr ""
+
+msgctxt "19040"
+msgid "adv5_020/baba_0258b"
+msgstr ""
+
+msgctxt "19044"
+msgid "adv5_020/baba_0258c"
+msgstr ""
+
+msgctxt "19048"
+msgid "adv5_020/baba_0258d"
+msgstr ""
+
+msgctxt "19052"
+msgid "adv5_020/baba_0258e"
+msgstr ""
+
+msgctxt "19056"
+msgid "adv5_020/baba_0258f"
+msgstr ""
+
+msgctxt "19060"
+msgid "adv5_020/kiryu_0463a"
+msgstr ""
+
+msgctxt "19064"
+msgid "C5020_KRU_TLK_sitcnt2_ed"
+msgstr ""
+
+msgctxt "19068"
+msgid "adv5_020/kiryu_0463b"
+msgstr ""
+
+msgctxt "19072"
+msgid "adv5_020/baba_0259"
+msgstr ""
+
+msgctxt "84_Mama"
+msgid "I'm sorry. We're not open yet."
+msgstr ""
+
+msgctxt "96_Mama"
+msgid "Wait－ Kiryu-san!?"
+msgstr ""
+
+msgctxt "108_Kiryu"
+msgid "Nice to see you again."
+msgstr ""
+
+msgctxt "120_Kiryu"
+msgid ""
+"Can you help us out? We need somewhere private to talk. Mind if we take "
+"over the bar for an hour?"
+msgstr ""
+
+msgctxt "132_Mama"
+msgid "Not at all, Kiryu-san. I'm just so happy to see you again."
+msgstr ""
+
+msgctxt "144_Mama"
+msgid "I'll make sure no one else comes in."
+msgstr ""
+
+msgctxt "156_Kiryu"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "240_Mama"
+msgid "Something to drink?"
+msgstr ""
+
+msgctxt "252_Kiryu"
+msgid "No, we're fine."
+msgstr ""
+
+msgctxt "264_Mama"
+msgid "Okay. I'll be in the back, so call me if you need anything."
+msgstr ""
+
+msgctxt "276_Kiryu"
+msgid "I will."
+msgstr ""
+
+msgctxt "312_Kiryu"
+msgid "You've got your privacy. So you better start talking."
+msgstr ""
+
+msgctxt "324_Baba"
+msgid "Okay. Let me start by laying out Morinaga's big plan."
+msgstr ""
+
+msgctxt "336_Baba"
+msgid "...Although it might be obvious at this point."
+msgstr ""
+
+msgctxt "348_Baba"
+msgid "Right now, war is about to break out between Tojo and Omi."
+msgstr ""
+
+msgctxt "360_Kiryu"
+msgid ""
+"Daigo told me the seventh Omi chairman isn't long for this world. And those "
+"two are the ones who made the peace agreement."
+msgstr ""
+
+msgctxt "372_Baba"
+msgid ""
+"Exactly. If the seventh chairman dies, war between the east and west is "
+"pretty much guaranteed."
+msgstr ""
+
+msgctxt "384_Baba"
+msgid ""
+"That's why some of the high-ranking Tojo guys went around drumming up "
+"support. They went to Fukuoka, Sapporo, and Nagoya, and talked to the local "
+"yakuza there."
+msgstr ""
+
+msgctxt "396_Baba"
+msgid ""
+"Lieutenant Azumi went to Nagoya, Majima-san took Sapporo, and Chairman "
+"Dojima went to Fukuoka."
+msgstr ""
+
+msgctxt "408_Kiryu"
+msgid "But then Daigo went missing in Fukuoka..."
+msgstr ""
+
+msgctxt "420_Kiryu"
+msgid "Because of the betrayal... by Aoyama and Morinaga."
+msgstr ""
+
+msgctxt "432_Baba"
+msgid ""
+"Right. Their original plan was for Chairman Dojima to be executed, along "
+"with Madarame, the head of the Yamagasa Family."
+msgstr ""
+
+msgctxt "444_Baba"
+msgid ""
+"But that plan failed. And after Chairman Dojima and Madarame both escaped, "
+"Aoyama-san shifted gears."
+msgstr ""
+
+msgctxt "456_Kiryu"
+msgid "He had some ideas of his own?"
+msgstr ""
+
+msgctxt "468_Baba"
+msgid "Oh, yeah. With Chairman Dojima missing, he tried to take over the Tojo."
+msgstr ""
+
+msgctxt "480_Baba"
+msgid ""
+"But taking over was never the real mission that Aoyama-san and Morinaga "
+"were tasked with."
+msgstr ""
+
+msgctxt "492_Baba"
+msgid "Quite the opposite. The real mission was to sell out the Tojo."
+msgstr ""
+
+msgctxt "504_Kiryu"
+msgid "Sell it out? Hm. I think I can guess who the buyer was."
+msgstr ""
+
+msgctxt "516_Baba"
+msgid "Yep. The Omi Alliance."
+msgstr ""
+
+msgctxt "528_Baba"
+msgid "Aoyama and Morinaga were in bed with the Omi all along."
+msgstr ""
+
+msgctxt "540_Kiryu"
+msgid "Damn those guys..."
+msgstr ""
+
+msgctxt "552_Baba"
+msgid "They had two objectives."
+msgstr ""
+
+msgctxt "564_Baba"
+msgid ""
+"The first was to assassinate the Tojo leadership, like Chairman Dojima and "
+"Majima-san. The other objective was－"
+msgstr ""
+
+msgctxt "576_Kiryu"
+msgid "Me."
+msgstr ""
+
+msgctxt "588_Baba"
+msgid ""
+"Yes. They were going to monitor former members, like you and Saejima-san, "
+"and lure you back to Tokyo."
+msgstr ""
+
+msgctxt "600_Baba"
+msgid "Once you arrived, the next step was to do you in, of course."
+msgstr ""
+
+msgctxt "612_Kiryu"
+msgid "But why make Tokyo their killing floor?"
+msgstr ""
+
+msgctxt "624_Kiryu"
+msgid ""
+"They didn't need to do it here. In fact, it would've been easier to deal "
+"with everyone separately."
+msgstr ""
+
+msgctxt "636_Baba"
+msgid ""
+"No, it did have to be here. As far as the Omi Alliance is concerned, the "
+"Tojo Clan is built upon two legendary yakuza guys."
+msgstr ""
+
+msgctxt "648_Baba"
+msgid ""
+"Kazuma Kiryu and Taiga Saejima. The Dragon of Dojima, and the slayer of "
+"eighteen."
+msgstr ""
+
+msgctxt "660_Baba"
+msgid "Removing the two of you would bring the Tojo Clan to its knees."
+msgstr ""
+
+msgctxt "672_Kiryu"
+msgid ""
+"By killing us both in Tokyo, they thought the whole clan would just be "
+"theirs for the taking."
+msgstr ""
+
+msgctxt "684_Baba"
+msgid "Yes, but not to exterminate it－to lead it."
+msgstr ""
+
+msgctxt "696_Baba"
+msgid "Do you see? They wanted more than Tojo turf. They wanted Tojo soldiers."
+msgstr ""
+
+msgctxt "708_Baba"
+msgid "All 30,000. That's why they wanted to avoid an all-out war."
+msgstr ""
+
+msgctxt "720_Baba"
+msgid "Why kill their own future recruits?"
+msgstr ""
+
+msgctxt "732_Kiryu"
+msgid "Is Saejima already on his way to Tokyo?"
+msgstr ""
+
+msgctxt "744_Baba"
+msgid "Probably. I was with him up until we broke out of prison."
+msgstr ""
+
+msgctxt "756_Kiryu"
+msgid ""
+"Sounds like you know each other pretty well. You two become close friends "
+"or something?"
+msgstr ""
+
+msgctxt "768_Baba"
+msgid ""
+"Well. You tend to bond when you do time together. Of course, I was planted "
+"there as part of the plan."
+msgstr ""
+
+msgctxt "780_Kiryu"
+msgid "I see."
+msgstr ""
+
+msgctxt "792_Baba"
+msgid "I was under the orders of the Omi Alliance, just like Aoyama and Morinaga."
+msgstr ""
+
+msgctxt "804_Baba"
+msgid ""
+"My role was to break Saejima-san out of prison, and make sure he was "
+"motivated to investigate Majima-san's death."
+msgstr ""
+
+msgctxt "816_Baba"
+msgid ""
+"After the break-out, things were going according to plan. But somewhere "
+"along the way, I... Um, I..."
+msgstr ""
+
+msgctxt "828_Kiryu"
+msgid "Saejima won you over, huh?"
+msgstr ""
+
+msgctxt "840_Baba"
+msgid "...By the time we split up, I felt like I'd follow him anywhere."
+msgstr ""
+
+msgctxt "852_Baba"
+msgid "That's why I'm here, talking to you and spilling the beans."
+msgstr ""
+
+msgctxt "864_Kiryu"
+msgid "But whose beans are they?"
+msgstr ""
+
+msgctxt "876_Kiryu"
+msgid ""
+"You say Omi is behind it, but their captain Watase didn't seem to know "
+"anything."
+msgstr ""
+
+msgctxt "888_Baba"
+msgid ""
+"To understand that, you have to know what's happening on the Omi side of "
+"things."
+msgstr ""
+
+msgctxt "900_Kiryu"
+msgid "I know that the factions are vying for the top spot."
+msgstr ""
+
+msgctxt "912_Baba"
+msgid "Okay, then. Moving on..."
+msgstr ""
+
+msgctxt "924_Baba"
+msgid ""
+"After hearing that the seventh chairman was about to die, three families in "
+"the alliance began maneuvering for the throne."
+msgstr ""
+
+msgctxt "936_Baba"
+msgid ""
+"The Watase Family, led by Captain Masaru Watase, is based in northern "
+"Osaka. They have the most muscle."
+msgstr ""
+
+msgctxt "948_Baba"
+msgid ""
+"Lieutenant Hiroshi Takachi has his power base in Hyogo, and the seventh "
+"chairman trusts him greatly."
+msgstr ""
+
+msgctxt "960_Baba"
+msgid ""
+"And Naoki Katsuya heads Ousaka Enterprises, which has built an empire out "
+"of industrial waste disposal in southern Osaka."
+msgstr ""
+
+msgctxt "972_Baba"
+msgid "Of the three, Watase is supposed to be the most likely successor."
+msgstr ""
+
+msgctxt "984_Kiryu"
+msgid "And yet, Watase isn't the type to get his hands dirty like this."
+msgstr ""
+
+msgctxt "996_Kiryu"
+msgid "Meanwhile, Takachi died in Nagoya. That only leaves one person."
+msgstr ""
+
+msgctxt "1008_Baba"
+msgid ""
+"Yes. The guy behind all of this, who hired me, Aoyama, and Morinaga... That "
+"guy is－"
+msgstr ""
+
+msgctxt "1044_Kiryu"
+msgid "(Nobody's here. Maybe they're not open yet.)"
+msgstr ""

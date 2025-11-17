@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "252"
+msgid "You used a <Color:8>Trap Mod Kit<Color:Default>."
+msgstr ""
+
+msgctxt "2436"
+msgid "Player"
+msgstr ""
+
+msgctxt "2440"
+msgid "Pick Up Trap"
+msgstr ""
+
+msgctxt "2444"
+msgid "Modify Trap"
+msgstr ""
+
+msgctxt "2448"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "2452"
+msgid "SS2_P_HNT_set_trap"
+msgstr ""
+
+msgctxt "60_Player"
+msgid "(The trap's not sprung. Gotta leave it a while longer.)"
+msgstr ""
+
+msgctxt "72_Player"
+msgid "(Nothin' caught. What to do?)"
+msgstr ""
+
+msgctxt "84_Player"
+msgid "(Let's pull this trap.)"
+msgstr ""
+
+msgctxt "156_Player"
+msgid "Gotta find a better trap site."
+msgstr ""
+
+msgctxt "180_Player"
+msgid "(Let's try moddin' this for better results.)"
+msgstr ""
+
+msgctxt "276_Player"
+msgid "That'll do it."
+msgstr ""
+
+msgctxt "288_Player"
+msgid "(Got no trap mod kit to use.)"
+msgstr ""
+
+msgctxt "300_Player"
+msgid "(I'll just leave it be.)"
+msgstr ""

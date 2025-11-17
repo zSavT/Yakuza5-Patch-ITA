@@ -1,0 +1,317 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "8304"
+msgid "Sakurai"
+msgstr "Sakurai"
+
+msgctxt "8308"
+msgid "adv2_900/sakurai_2_900_010a"
+msgstr "adv2_900/sakurai_2_900_010a"
+
+msgctxt "8312"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "8316"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "8320"
+msgid "adv2_900/sakurai_2_900_010b"
+msgstr "adv2_900/sakurai_2_900_010b"
+
+msgctxt "8324"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "8328"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "8332"
+msgid "adv2_900/saejima_2_900_010"
+msgstr "adv2_900/saejima_2_900_010"
+
+msgctxt "8336"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "8340"
+msgid "adv2_900/sakurai_2_900_020"
+msgstr "adv2_900/sakurai_2_900_020"
+
+msgctxt "8344"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "8348"
+msgid "adv2_900/saejima_2_900_020"
+msgstr "adv2_900/saejima_2_900_020"
+
+msgctxt "8352"
+msgid "adv2_900/sakurai_2_900_030"
+msgstr "adv2_900/sakurai_2_900_030"
+
+msgctxt "8356"
+msgid "adv2_900/saejima_2_900_030"
+msgstr "adv2_900/saejima_2_900_030"
+
+msgctxt "8360"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "8364"
+msgid "adv2_900/sakurai_2_900_040"
+msgstr "adv2_900/sakurai_2_900_040"
+
+msgctxt "8368"
+msgid "adv2_900/saejima_2_900_040"
+msgstr "adv2_900/saejima_2_900_040"
+
+msgctxt "8372"
+msgid "adv2_900/sakurai_2_900_050"
+msgstr "adv2_900/sakurai_2_900_050"
+
+msgctxt "8376"
+msgid "kaiwabgm_ambsyuraku"
+msgstr "kaiwabgm_ambsyuraku"
+
+msgctxt "8380"
+msgid "adv2_900/saejima_2_900_050"
+msgstr "adv2_900/saejima_2_900_050"
+
+msgctxt "8384"
+msgid "adv2_900/sakurai_2_900_060"
+msgstr "adv2_900/sakurai_2_900_060"
+
+msgctxt "8388"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "8392"
+msgid "adv2_900/saejima_2_900_060"
+msgstr "adv2_900/saejima_2_900_060"
+
+msgctxt "8396"
+msgid "adv2_900/sakurai_2_900_070a"
+msgstr "adv2_900/sakurai_2_900_070a"
+
+msgctxt "8400"
+msgid "adv2_900/sakurai_2_900_070b"
+msgstr "adv2_900/sakurai_2_900_070b"
+
+msgctxt "8404"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "8408"
+msgid "adv2_900/saejima_2_900_070"
+msgstr "adv2_900/saejima_2_900_070"
+
+msgctxt "8412"
+msgid "Voice"
+msgstr "Voce"
+
+msgctxt "8416"
+msgid "adv2_900/nishina_2_900_010"
+msgstr "adv2_900/nishina_2_900_010"
+
+msgctxt "8420"
+msgid "adv2_900/saejima_2_900_080"
+msgstr "adv2_900/saejima_2_900_080"
+
+msgctxt "8424"
+msgid "Nishina"
+msgstr "Nishina"
+
+msgctxt "8428"
+msgid "adv2_900/nishina_2_900_020a"
+msgstr "adv2_900/nishina_2_900_020a"
+
+msgctxt "8432"
+msgid "adv2_900/nishina_2_900_020b"
+msgstr "adv2_900/nishina_2_900_020b"
+
+msgctxt "8436"
+msgid "adv2_900/saejima_2_900_090"
+msgstr "adv2_900/saejima_2_900_090"
+
+msgctxt "8440"
+msgid "adv2_900/nishina_2_900_030"
+msgstr "adv2_900/nishina_2_900_030"
+
+msgctxt "8444"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "8448"
+msgid "adv2_900/saejima_2_900_100"
+msgstr "adv2_900/saejima_2_900_100"
+
+msgctxt "8452"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "8456"
+msgid "adv2_900/nishina_2_900_040"
+msgstr "adv2_900/nishina_2_900_040"
+
+msgctxt "8460"
+msgid "adv2_900/saejima_2_900_110"
+msgstr "adv2_900/saejima_2_900_110"
+
+msgctxt "8464"
+msgid "adv2_900/nishina_2_900_050"
+msgstr "adv2_900/nishina_2_900_050"
+
+msgctxt "56_Sakurai"
+msgid ""
+"Now where was I...? Ah, it doesn't matter! I'm just glad you're back, "
+"Saejima-san!"
+msgstr ""
+"Dov'ero rimasto...? Ah, non importa! Sono solo contento che tu sia tornato, "
+"Saejima-san!"
+
+msgctxt "68_Sakurai"
+msgid ""
+"You were gone a long time, and we were getting worried that you were lost or"
+" something!"
+msgstr ""
+"Sei stato via un sacco di tempo, e ci stavamo un po' preoccupando che ti "
+"fossi perso o roba del genere!"
+
+msgctxt "80_Saejima"
+msgid "Nope. But I got news..."
+msgstr "Niente. Ma ho delle notizie..."
+
+msgctxt "140_Sakurai"
+msgid "Are you serious!? You found Yama-oroshi's den?"
+msgstr "Ma dici davvero!? Hai trovato la tana di Yama-oroshi?"
+
+msgctxt "152_Saejima"
+msgid "We haven't confirmed it yet. But we're pretty damn sure."
+msgstr "Non l'abbiamo ancora confermato. Ma ne siamo dannatamente sicuri."
+
+msgctxt "164_Sakurai"
+msgid "Where is it?"
+msgstr "Dov'è?"
+
+msgctxt "176_Saejima"
+msgid ""
+"Quite a ways into the wilderness. It ain't even on any of the village maps."
+msgstr ""
+"Un bel po' addentro nella natura selvaggia. Non è nemmeno sulle mappe del "
+"villaggio."
+
+msgctxt "188_Sakurai"
+msgid "Where's Okudera-san, now?"
+msgstr "Dov'è Okudera-san, ora?"
+
+msgctxt "200_Saejima"
+msgid ""
+"He went home to cook supper. Didn't seem to wanna talk about it, actually."
+msgstr ""
+"È andato a casa a preparare la cena. Non sembrava volerne parlare, a dire il"
+" vero."
+
+msgctxt "212_Sakurai"
+msgid ""
+"Really? Hm, that's kind of strange. You'd think he'd be excited. Let's go "
+"see him."
+msgstr ""
+"Davvero? Hm, è un po' strano. Uno penserebbe che fosse su di giri. Andiamo a"
+" vederlo."
+
+msgctxt "272_Saejima"
+msgid "What the hell? Where'd he go?"
+msgstr "Che diavolo? Dov'è andato?"
+
+msgctxt "284_Sakurai"
+msgid "I knew something was up. The old salt's gone to the mountain."
+msgstr ""
+"Sapevo che c'era puzza di bruciato. Quel vecchio orso è andato in montagna."
+
+msgctxt "296_Saejima"
+msgid ""
+"No way－the sun's close to settin'. He wouldn't be that reckless. I mean, "
+"shit, I hope not."
+msgstr ""
+"Non è possibile－il sole è quasi al tramonto. Non sarebbe così sconsiderato. "
+"Cioè, cazzo, spero di no."
+
+msgctxt "308_Sakurai"
+msgid ""
+"Saejima, don't you remember? When you first met Okudera, it was nighttime, "
+"yes?"
+msgstr ""
+"Saejima, non ti ricordi mica? Quando hai incontrato Okudera per la prima "
+"volta, era notte, vero?"
+
+msgctxt "320_Sakurai"
+msgid "He don't care what time it is. Not when it comes to that fucking bear."
+msgstr ""
+"A lui non frega niente dell'ora. Non quando c'è di mezzo quel fottuto orso."
+
+msgctxt "332_Saejima"
+msgid "Don't worry. I'll go get him and bring him home."
+msgstr "Non preoccuparti. Vado a prenderlo e lo riporto a casa."
+
+msgctxt "344_Voice"
+msgid "You won't make it!"
+msgstr "Non ce la farai!"
+
+msgctxt "368_Saejima"
+msgid "Huh? Nishina."
+msgstr "Eh? Nishina."
+
+msgctxt "380_Nishina"
+msgid ""
+"Okudera is fast－the fastest in the village. And yes, I'm including the "
+"hunters."
+msgstr ""
+"Okudera è veloce—il più veloce del villaggio. E sì, ci metto dentro anche i "
+"cacciatori."
+
+msgctxt "392_Nishina"
+msgid ""
+"He also knows the mountain better than anyone.\r\n"
+"You'll never catch him."
+msgstr ""
+"Conosce la montagna meglio di chiunque altro.\n"
+"Non lo prenderete mai."
+
+msgctxt "404_Saejima"
+msgid "Then what do ya suggest we do?"
+msgstr "E allora, cosa proponi di fare?"
+
+msgctxt "416_Nishina"
+msgid "Well, can you drive a snowmobile?"
+msgstr "Beh, sai guidare una motoslitta?"
+
+msgctxt "428_Saejima"
+msgid "Huh? Ya got one?"
+msgstr "Eh? Ne hai beccato uno?"
+
+msgctxt "440_Nishina"
+msgid "Yeah, we do. So can you?"
+msgstr "Sì, dobbiamo. E tu ce la fai?"
+
+msgctxt "452_Saejima"
+msgid "I can, but I ain't an expert..."
+msgstr "Posso, ma mica sono un esperto..."
+
+msgctxt "464_Nishina"
+msgid "Come with me."
+msgstr "Vieni con me."

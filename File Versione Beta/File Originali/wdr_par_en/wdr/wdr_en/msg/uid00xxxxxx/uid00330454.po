@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "104"
+msgid "You paid 1,000 chips."
+msgstr ""
+
+msgctxt "4820"
+msgid "Dealer"
+msgstr ""
+
+msgctxt "4824"
+msgid "Play Standard Baccarat"
+msgstr ""
+
+msgctxt "4828"
+msgid "Play Super 6 Baccarat"
+msgstr ""
+
+msgctxt "4832"
+msgid "View Super 6 Tutorial"
+msgstr ""
+
+msgctxt "4836"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "4840"
+msgid "Play Against the House"
+msgstr ""
+
+msgctxt "4844"
+msgid "Play Standard Blackjack"
+msgstr ""
+
+msgctxt "4848"
+msgid "Hear the Rules"
+msgstr ""
+
+msgctxt "4852"
+msgid "Pay"
+msgstr ""
+
+msgctxt "4856"
+msgid "Player"
+msgstr ""
+
+msgctxt "4860"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4864"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "4868"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4872"
+msgid "Deck Type and Payout"
+msgstr ""
+
+msgctxt "4876"
+msgid "Read the Rules"
+msgstr ""
+
+msgctxt "56_Dealer"
+msgid ""
+"Welcome to the baccarat table. You can play one game for 1,000 chips. Would "
+"you like to play?"
+msgstr ""
+
+msgctxt "68_Dealer"
+msgid ""
+"I've noticed that you play blackjack quite often. Would you be interested "
+"in playing the house, one-on-one?"
+msgstr ""
+
+msgctxt "80_Dealer"
+msgid "How would you like to play?"
+msgstr ""
+
+msgctxt "92_Dealer"
+msgid "All right, then. First, I'll need your 1,000 chips."
+msgstr ""
+
+msgctxt "116_Dealer"
+msgid "Thank you. Now, then, let's begin."
+msgstr ""
+
+msgctxt "140_Dealer"
+msgid "Very well. Let's continue with normal blackjack, then."
+msgstr ""
+
+msgctxt "176_Dealer"
+msgid "Yeah, I'll play."
+msgstr ""
+
+msgctxt "188_Dealer"
+msgid "Excellent."
+msgstr ""
+
+msgctxt "224_Dealer"
+msgid "No, I'll pass."
+msgstr ""
+
+msgctxt "236_Dealer"
+msgid "I see. I hope you'll join us another time."
+msgstr ""
+
+msgctxt "248_Dealer"
+msgid "You seem to be short on chips. Please come back soon."
+msgstr ""
+
+msgctxt "260_Dealer"
+msgid "Yeah, I'll play."
+msgstr ""
+
+msgctxt "272_Dealer"
+msgid "Excellent."
+msgstr ""
+
+msgctxt "308_Player"
+msgid "Tell me the rules."
+msgstr ""
+
+msgctxt "320_Dealer"
+msgid ""
+"This is a game between you and the house. Whoever gets three wins first "
+"wins the game."
+msgstr ""
+
+msgctxt "332_Dealer"
+msgid ""
+"Before the game begins, I'll need 1,000 chips for you to join. The payout "
+"differs depending on which deck is used."
+msgstr ""
+
+msgctxt "344_Deck Type and Payout"
+msgid ""
+"Standard Deck: 2,000 chips\r\n"
+"Without 2/3/4: 2,500 chips\r\n"
+"Without 7/8/9: 2,000 chips\r\n"
+"Without J/Q/K: 4,000 chips"
+msgstr ""
+
+msgctxt "356_Dealer"
+msgid "If you win, you'll get the designated number of chips."
+msgstr ""
+
+msgctxt "368_Dealer"
+msgid "Would you like to go over the rules for Super 6?"
+msgstr ""

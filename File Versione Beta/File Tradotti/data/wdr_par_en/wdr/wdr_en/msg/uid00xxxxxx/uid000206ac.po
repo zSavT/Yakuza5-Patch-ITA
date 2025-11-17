@@ -1,0 +1,78 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2228"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "2232"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "2236"
+msgid "Lookout"
+msgstr "Vedetta"
+
+msgctxt "2240"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2244"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "2248"
+msgid "M_NML_MOV_stand_phone_lp"
+msgstr "M_NML_MOV_stand_phone_lp"
+
+msgctxt "2252"
+msgid "M_NML_MOV_stand_phone_st"
+msgstr "M_NML_MOV_stand_phone_st"
+
+msgctxt "2256"
+msgid "ArmsID"
+msgstr "ID Armi"
+
+msgctxt "56_Kiryu"
+msgid "So this is where Yahata's camping out."
+msgstr "Allora è qui che Yahata si è rintanato."
+
+msgctxt "68_Lookout"
+msgid "Who the hell're you?"
+msgstr "Chi cazzo sei?"
+
+msgctxt "80_Kiryu"
+msgid "Doesn't matter. I heard I could find Yahata here."
+msgstr "Non importa. Ho sentito dire che potevo trovare Yahata qui."
+
+msgctxt "92_Lookout"
+msgid "What? The captain's－ Er, I mean, I never heard that name before!"
+msgstr "What? The captain's－ Er, I mean, I never heard that name before!"
+
+msgctxt "104_Kiryu"
+msgid "Sounds like I've got the right place. Guess I'll just show myself in."
+msgstr ""
+"A quanto pare, sono nel posto giusto. Beh, direi che mi ci butto dentro."
+
+msgctxt "128_Lookout"
+msgid "Hey! You can't go in there!"
+msgstr "Oi! Non puoi entrare lì dentro!"
+
+msgctxt "140_Lookout"
+msgid "Shit!"
+msgstr "Merda!"
+
+msgctxt "152_Lookout"
+msgid "We got trouble. Yeah. Guy in a trenchcoat."
+msgstr "Siamo nei guai. Già. Un tizio con l'impermeabile."

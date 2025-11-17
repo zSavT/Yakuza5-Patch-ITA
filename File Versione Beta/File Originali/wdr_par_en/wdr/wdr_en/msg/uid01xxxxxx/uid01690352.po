@@ -1,0 +1,828 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "42624"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "42628"
+msgid "Akari"
+msgstr ""
+
+msgctxt "42632"
+msgid "MC"
+msgstr ""
+
+msgctxt "42636"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "42640"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "42644"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "42648"
+msgid "SS3_F_TLK_stand_handshake_lp"
+msgstr ""
+
+msgctxt "42652"
+msgid "SS3_F_TLK_stand_handshake_st"
+msgstr ""
+
+msgctxt "42656"
+msgid "SS3_HAL_TLK_stand_handshake_lp"
+msgstr ""
+
+msgctxt "42660"
+msgid "SS3_HAL_TLK_stand_handshake_st"
+msgstr ""
+
+msgctxt "42664"
+msgid "Mittsu"
+msgstr ""
+
+msgctxt "42668"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "42672"
+msgid "0"
+msgstr ""
+
+msgctxt "42676"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "42680"
+msgid "Judy"
+msgstr ""
+
+msgctxt "42684"
+msgid "Yui"
+msgstr ""
+
+msgctxt "42688"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "42692"
+msgid "F_NML_SET_DB_cheer_seien"
+msgstr ""
+
+msgctxt "42696"
+msgid "F_NML_SET_DB_cheer_crap"
+msgstr ""
+
+msgctxt "42700"
+msgid "F_NML_SET_cheer_stand_hakusyu"
+msgstr ""
+
+msgctxt "42704"
+msgid "F_NML_SET_cheer_stand_jump_04"
+msgstr ""
+
+msgctxt "42708"
+msgid "F_NML_SET_cheer_stand_jump_03"
+msgstr ""
+
+msgctxt "42712"
+msgid "F_NML_SET_cheer_stand_jump_01"
+msgstr ""
+
+msgctxt "42716"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "42720"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "42724"
+msgid "F_YNG_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "42728"
+msgid "SS3_M_NML_TLK_norinori_pose"
+msgstr ""
+
+msgctxt "42732"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "42736"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "42740"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "42744"
+msgid "Woman's Voice"
+msgstr ""
+
+msgctxt "76_Haruka"
+msgid "*pant* *pant*"
+msgstr ""
+
+msgctxt "88_Akari"
+msgid "*pant* *pant*"
+msgstr ""
+
+msgctxt "100_MC"
+msgid ""
+"What a great battle that was! And the winner is... Haruka\r\n"
+"Sawamura!"
+msgstr ""
+
+msgctxt "112_Akari"
+msgid ""
+"You sure are amazing, Haruka. Like I always say, you have\r\n"
+"some real talent."
+msgstr ""
+
+msgctxt "124_Haruka"
+msgid "Akari..."
+msgstr ""
+
+msgctxt "136_Akari"
+msgid ""
+"But you won't beat me again. I love dancing. I'm going to\r\n"
+"practice and practice, and the next time we battle, I'm\r\n"
+"going to win!"
+msgstr ""
+
+msgctxt "148_Haruka"
+msgid "Good! I'll be looking forward to it!"
+msgstr ""
+
+msgctxt "208_Haruka"
+msgid ""
+"The competitors commend each other on a job well done with\r\n"
+"a friendly handshake!"
+msgstr ""
+
+msgctxt "220_Mittsu"
+msgid "Hmm. That girl's good!"
+msgstr ""
+
+msgctxt "304_Haruka"
+msgid ""
+"And now for the moment you've all been waiting for.\r\n"
+"Mittsu-san will now announce the winner of his special\r\n"
+"award!"
+msgstr ""
+
+msgctxt "316_MC"
+msgid ""
+"This award goes to the dancer who Mittsu-san believes shone\r\n"
+"the brightest of all during this year's summit!"
+msgstr ""
+
+msgctxt "328_MC"
+msgid "Now, if you would, Mittsu-san!"
+msgstr ""
+
+msgctxt "340_Mittsu"
+msgid ""
+"It brings me great pleasure to announce the winner of my\r\n"
+"special award. The winner is..."
+msgstr ""
+
+msgctxt "352_Judy"
+msgid "......"
+msgstr ""
+
+msgctxt "364_Yui"
+msgid "......"
+msgstr ""
+
+msgctxt "376_Akari"
+msgid "......"
+msgstr ""
+
+msgctxt "388_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "412_Haruka"
+msgid "A dancer from the \"idol\" category..."
+msgstr ""
+
+msgctxt "424_Mittsu"
+msgid "Akari Natsukawa!"
+msgstr ""
+
+msgctxt "436_Akari"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "448_MC"
+msgid ""
+"And there you have it! The special award winner, the star\r\n"
+"we're sure to see great things from, is none other than\r\n"
+"Akari Natsukawa! Give her a hand, ladies and gentlemen!"
+msgstr ""
+
+msgctxt "460_Haruka"
+msgid "Me? I won the special award?"
+msgstr ""
+
+msgctxt "472_Yui"
+msgid "Congratulations, Akari-chan!"
+msgstr ""
+
+msgctxt "484_Judy"
+msgid "I'm really happy for you, Akari."
+msgstr ""
+
+msgctxt "496_Akari"
+msgid "No way. I can't believe it!"
+msgstr ""
+
+msgctxt "508_Haruka"
+msgid "Congratulations, Akari."
+msgstr ""
+
+msgctxt "520_Akari"
+msgid "Haruka..."
+msgstr ""
+
+msgctxt "532_Haruka"
+msgid ""
+"Hey, Mittsu-san is waiting for you on stage. Get up there\r\n"
+"and take that first step toward your dream!"
+msgstr ""
+
+msgctxt "544_Akari"
+msgid "Right!"
+msgstr ""
+
+msgctxt "628_Haruka"
+msgid "Tell us, Mittsu-san, what was it about Akari that made you choose her?"
+msgstr ""
+
+msgctxt "640_Mittsu"
+msgid ""
+"Well, let's see. First of all, I really saw a huge amount of\r\n"
+"improvement since last time."
+msgstr ""
+
+msgctxt "652_Mittsu"
+msgid ""
+"Last year, she seemed little more than a machine. She was\r\n"
+"very precise, no doubt, but she lacked that certain \"spark.\""
+msgstr ""
+
+msgctxt "664_Mittsu"
+msgid ""
+"But this year, I could really tell she was really enjoying\r\n"
+"herself. It seems she found what she'd been missing."
+msgstr ""
+
+msgctxt "676_Mittsu"
+msgid ""
+"She must have come across some good friends or strong rivals\r\n"
+"somewhere along the way, people who helped her break free from herself."
+msgstr ""
+
+msgctxt "688_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "700_Mittsu"
+msgid ""
+"To be quite honest, I was torn between her and Haruka\r\n"
+"Sawamura. But it was clear from watching Akari that she\r\n"
+"truly loves dancing with all her heart."
+msgstr ""
+
+msgctxt "712_Mittsu"
+msgid ""
+"That was one of the biggest reasons I chose her. She made me\r\n"
+"feel as though she loves the art of dance more than anyone\r\n"
+"else here."
+msgstr ""
+
+msgctxt "724_Mittsu"
+msgid ""
+"Dancing is hard work, and only a select few ever turn pro.\r\n"
+"Frankly, it's a tough industry, and many drop out along the\r\n"
+"way because of it."
+msgstr ""
+
+msgctxt "736_Mittsu"
+msgid ""
+"But I get the feeling Akari will never give up on dance\r\n"
+"again. Watching her today, I could see just how determined\r\n"
+"she is."
+msgstr ""
+
+msgctxt "748_Mittsu"
+msgid ""
+"That's what it takes to be a great dancer. That's what it\r\n"
+"takes to keep the passion."
+msgstr ""
+
+msgctxt "760_Mittsu"
+msgid ""
+"Akari has that, and that's why I chose her. Akari, I think\r\n"
+"you and I are going to work very well together, provided\r\n"
+"you're willing to make the effort, that is."
+msgstr ""
+
+msgctxt "784_Haruka"
+msgid "Yes, sir!"
+msgstr ""
+
+msgctxt "796_MC"
+msgid ""
+"Let's hear a big round of applause for the winner of\r\n"
+"today's special award, Akari Natsukawa! And a round of\r\n"
+"applause for Mittsu-san, as well! Thank you all for coming!"
+msgstr ""
+
+msgctxt "844_Haruka"
+msgid "*pant* *pant*"
+msgstr ""
+
+msgctxt "856_Akari"
+msgid "*pant* *pant*"
+msgstr ""
+
+msgctxt "868_MC"
+msgid ""
+"What a great battle that was! And the winner is... Akari\r\n"
+"Natsukawa!"
+msgstr ""
+
+msgctxt "880_Akari"
+msgid "I won? I beat Haruka?"
+msgstr ""
+
+msgctxt "892_Haruka"
+msgid ""
+"Congratulations, Akari. Your dancing just now was amazing.\r\n"
+"You deserve the win."
+msgstr ""
+
+msgctxt "904_Akari"
+msgid "Haruka, thank you so much."
+msgstr ""
+
+msgctxt "964_Haruka"
+msgid ""
+"The competitors commend each other on a job well done with\r\n"
+"a friendly handshake!"
+msgstr ""
+
+msgctxt "976_Mittsu"
+msgid "Hmm. That girl's good!"
+msgstr ""
+
+msgctxt "1060_Haruka"
+msgid ""
+"And now for the moment you've all been waiting for.\r\n"
+"Mittsu-san will now announce the winner of his special\r\n"
+"award!"
+msgstr ""
+
+msgctxt "1072_MC"
+msgid ""
+"This award goes to the dancer who Mittsu-san believes shone\r\n"
+"the brightest of all during this year's summit!"
+msgstr ""
+
+msgctxt "1084_MC"
+msgid "Now, if you would, Mittsu-san!"
+msgstr ""
+
+msgctxt "1096_Mittsu"
+msgid ""
+"It brings me great pleasure to announce the winner of my\r\n"
+"special award. The winner is..."
+msgstr ""
+
+msgctxt "1108_Judy"
+msgid "......"
+msgstr ""
+
+msgctxt "1120_Yui"
+msgid "......"
+msgstr ""
+
+msgctxt "1132_Akari"
+msgid "......"
+msgstr ""
+
+msgctxt "1144_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "1168_Haruka"
+msgid "A dancer from the \"idol\" category..."
+msgstr ""
+
+msgctxt "1180_Mittsu"
+msgid "Akari Natsukawa!"
+msgstr ""
+
+msgctxt "1192_Akari"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "1204_MC"
+msgid ""
+"And there you have it! The special award winner, the star\r\n"
+"we're sure to see great things from, is none other than\r\n"
+"Akari Natsukawa! Give her a hand, ladies and gentlemen!"
+msgstr ""
+
+msgctxt "1216_Haruka"
+msgid "Me? I won the special award?"
+msgstr ""
+
+msgctxt "1228_Yui"
+msgid "Congratulations, Akari-chan!"
+msgstr ""
+
+msgctxt "1240_Judy"
+msgid "I'm really happy for you, Akari."
+msgstr ""
+
+msgctxt "1252_Akari"
+msgid "No way. I can't believe it!"
+msgstr ""
+
+msgctxt "1264_Haruka"
+msgid "Congratulations, Akari."
+msgstr ""
+
+msgctxt "1276_Akari"
+msgid "Haruka..."
+msgstr ""
+
+msgctxt "1288_Haruka"
+msgid ""
+"Hey, Mittsu-san is waiting for you on stage. Get up there\r\n"
+"and take that first step toward your dream!"
+msgstr ""
+
+msgctxt "1300_Akari"
+msgid "Right!"
+msgstr ""
+
+msgctxt "1384_Haruka"
+msgid "Tell us, Mittsu-san, what was it about Akari that made you choose her?"
+msgstr ""
+
+msgctxt "1396_Mittsu"
+msgid ""
+"Well, let's see. First of all, I really saw a huge amount of\r\n"
+"improvement since last time."
+msgstr ""
+
+msgctxt "1408_Mittsu"
+msgid ""
+"Last year, she seemed little more than a machine. She was\r\n"
+"very precise, no doubt, but she lacked that certain \"spark.\""
+msgstr ""
+
+msgctxt "1420_Mittsu"
+msgid ""
+"But this year, I could really tell she was really enjoying\r\n"
+"herself. It seems she found what she'd been missing."
+msgstr ""
+
+msgctxt "1432_Mittsu"
+msgid ""
+"She must have come across some good friends or strong rivals\r\n"
+"somewhere along the way, people who helped her break free from herself."
+msgstr ""
+
+msgctxt "1444_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "1456_Mittsu"
+msgid ""
+"To be quite honest, I was torn between her and Haruka\r\n"
+"Sawamura. But it was clear from watching Akari that she\r\n"
+"truly loves dancing with all her heart."
+msgstr ""
+
+msgctxt "1468_Mittsu"
+msgid ""
+"That was one of the biggest reasons I chose her. She made me\r\n"
+"feel as though she loves the art of dance more than anyone\r\n"
+"else here."
+msgstr ""
+
+msgctxt "1480_Mittsu"
+msgid ""
+"Dancing is hard work, and only a select few ever turn pro.\r\n"
+"Frankly, it's a tough industry, and many drop out along the\r\n"
+"way because of it."
+msgstr ""
+
+msgctxt "1492_Mittsu"
+msgid ""
+"But I get the feeling Akari will never give up on dance\r\n"
+"again. Watching her today, I could see just how determined\r\n"
+"she is."
+msgstr ""
+
+msgctxt "1504_Mittsu"
+msgid ""
+"That's what it takes to be a great dancer. That's what it\r\n"
+"takes to keep the passion."
+msgstr ""
+
+msgctxt "1516_Mittsu"
+msgid ""
+"Akari has that, and that's why I chose her. Akari, I think\r\n"
+"you and I are going to work very well together, provided\r\n"
+"you're willing to make the effort, that is."
+msgstr ""
+
+msgctxt "1540_Haruka"
+msgid "Yes, sir!"
+msgstr ""
+
+msgctxt "1552_MC"
+msgid ""
+"Let's hear a big round of applause for the winner of\r\n"
+"today's special award, Akari Natsukawa! And a round of\r\n"
+"applause for Mittsu-san, as well! Thank you all for coming!"
+msgstr ""
+
+msgctxt "1624_Haruka"
+msgid "Yo, Sawamura."
+msgstr ""
+
+msgctxt "1636_Haruka"
+msgid "Oh, Judy-san!"
+msgstr ""
+
+msgctxt "1660_Haruka"
+msgid ""
+"Where've you been? It's already started! And what about\r\n"
+"Akari? Is she coming?"
+msgstr ""
+
+msgctxt "1672_Haruka"
+msgid "I don't know, but I did my best."
+msgstr ""
+
+msgctxt "1684_Judy"
+msgid "Yeah? Well, knowing Akari, I bet she'll be here."
+msgstr ""
+
+msgctxt "1696_Haruka"
+msgid "I hope so."
+msgstr ""
+
+msgctxt "1708_Judy"
+msgid ""
+"By the way, that over there is Mittsu. He's the judge for\r\n"
+"this event."
+msgstr ""
+
+msgctxt "1732_Haruka"
+msgid "So that's Mittsu-san?"
+msgstr ""
+
+msgctxt "1744_Judy"
+msgid ""
+"Yeah. If he likes your stuff, he could open all sorts of\r\n"
+"doors for you. You'd have it made."
+msgstr ""
+
+msgctxt "1756_Judy"
+msgid ""
+"At the end of the summit, he gives the dancer he likes the\r\n"
+"best his special award. It's like an all-access pass into\r\n"
+"the world of professional dance."
+msgstr ""
+
+msgctxt "1768_Haruka"
+msgid ""
+"Wow. So the special award is the thing to go for if you're\r\n"
+"hoping to go pro, huh?"
+msgstr ""
+
+msgctxt "1780_Judy"
+msgid ""
+"That's right. That's why everybody's so bent on impressing\r\n"
+"him. Getting his attention's more important than winning."
+msgstr ""
+
+msgctxt "1792_Judy"
+msgid "I've already entered you and Akari."
+msgstr ""
+
+msgctxt "1804_Judy"
+msgid ""
+"I chose the \"idol\" category for you two, seeing as that's\r\n"
+"the one that starts last. That should give Akari time to get\r\n"
+"here."
+msgstr ""
+
+msgctxt "1816_Haruka"
+msgid "That sounds perfect. Thanks for doing that."
+msgstr ""
+
+msgctxt "1828_Judy"
+msgid ""
+"No problem. Now all we can do is hope Akari shows up in\r\n"
+"time."
+msgstr ""
+
+msgctxt "1840_Haruka"
+msgid "Right..."
+msgstr ""
+
+msgctxt "1864_Haruka"
+msgid "Haruka-chan!"
+msgstr ""
+
+msgctxt "1888_Haruka"
+msgid ""
+"Yui-chan! You came! Thank you. What about Akari? Have you\r\n"
+"seen her?"
+msgstr ""
+
+msgctxt "1900_Yui"
+msgid "No. She isn't answering her phone, either."
+msgstr ""
+
+msgctxt "1912_Haruka"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "1924_MC"
+msgid ""
+"Now, then! We've reached the final stages of our Dance\r\n"
+"Battle Summit!"
+msgstr ""
+
+msgctxt "1936_MC"
+msgid ""
+"In our next category, last year's queen of jazz, Judy, will\r\n"
+"be taking the stage!"
+msgstr ""
+
+msgctxt "1948_Judy"
+msgid "I'm up. I'll see you later."
+msgstr ""
+
+msgctxt "1972_Haruka"
+msgid "Okay. Good luck, Judy-san!"
+msgstr ""
+
+msgctxt "2020_Haruka"
+msgid ""
+"I hope Akari hurries up and gets here! The idol category is\r\n"
+"going to start soon."
+msgstr ""
+
+msgctxt "2032_Haruka"
+msgid "I hope so too."
+msgstr ""
+
+msgctxt "2092_Haruka"
+msgid ""
+"A fabulous performance by Judy! Once again, she's proven\r\n"
+"herself to be the queen of jazz!"
+msgstr ""
+
+msgctxt "2104_MC"
+msgid "So what did you think of Judy's dancing, Mittsu-san?"
+msgstr ""
+
+msgctxt "2116_Mittsu"
+msgid ""
+"A solid performance. Very nice indeed. The one comment I\r\n"
+"have, though, is that I don't see much improvement over last\r\n"
+"year."
+msgstr ""
+
+msgctxt "2128_MC"
+msgid ""
+"Ah, a little tough love for our winner, is that it? That's\r\n"
+"the world-class Mittsu-san we've all come to know!"
+msgstr ""
+
+msgctxt "2188_MC"
+msgid ""
+"And now for the very last category of the Dance Battle\r\n"
+"Summit!"
+msgstr ""
+
+msgctxt "2200_MC"
+msgid ""
+"We'll be topping things off and going out with a bang! It's\r\n"
+"time for the idol category!"
+msgstr ""
+
+msgctxt "2212_Yui"
+msgid "Oh no! What do we do? It's starting!"
+msgstr ""
+
+msgctxt "2224_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "2236_MC"
+msgid ""
+"Let's get right to it, shall we? Let's introduce our first\r\n"
+"competitor!"
+msgstr ""
+
+msgctxt "2248_MC"
+msgid ""
+"You know her from the Princess League, folks! The idol of\r\n"
+"the next generation, Haruka Sawamura, has graced us with\r\n"
+"her presence!"
+msgstr ""
+
+msgctxt "2260_Haruka"
+msgid "(Come on, Akari!)"
+msgstr ""
+
+msgctxt "2272_MC"
+msgid ""
+"And her opponent is... a bright, young star, really someone\r\n"
+"to watch－Akari Natsukawa!"
+msgstr ""
+
+msgctxt "2284_MC"
+msgid "Uh? Akari-chan?"
+msgstr ""
+
+msgctxt "2296_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "2308_Haruka"
+msgid "I'm here!"
+msgstr ""
+
+msgctxt "2368_Haruka"
+msgid "Akari-chan!"
+msgstr ""
+
+msgctxt "2380_Judy"
+msgid "Heh."
+msgstr ""
+
+msgctxt "2392_Haruka"
+msgid "Akari!"
+msgstr ""
+
+msgctxt "2464_Haruka"
+msgid "I'm sorry I'm late, Haruka."
+msgstr ""
+
+msgctxt "2476_Haruka"
+msgid "That's okay, Akari. I knew you would come. After all..."
+msgstr ""
+
+msgctxt "2488_Akari"
+msgid "I love dance more than anyone!"
+msgstr ""
+
+msgctxt "2500_Haruka"
+msgid "Right!"
+msgstr ""
+
+msgctxt "2512_Akari"
+msgid ""
+"I really want to thank you later for everything you've done\r\n"
+"for me."
+msgstr ""
+
+msgctxt "2524_Akari"
+msgid ""
+"But first, we dance! And you'd better not go easy on me,\r\n"
+"girl! Let's give it everything we've got, and really enjoy\r\n"
+"ourselves!"
+msgstr ""
+
+msgctxt "2536_Haruka"
+msgid "You got it! Let's go, Akari!"
+msgstr ""

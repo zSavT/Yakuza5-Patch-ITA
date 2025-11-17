@@ -1,0 +1,177 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "104"
+msgid "You paid 1,000 chips."
+msgstr "Hai pagato 1.000 chip."
+
+msgctxt "4820"
+msgid "Dealer"
+msgstr "Croupier"
+
+msgctxt "4824"
+msgid "Play Standard Baccarat"
+msgstr "Gioca a Baccarat Standard"
+
+msgctxt "4828"
+msgid "Play Super 6 Baccarat"
+msgstr "Gioca a Super 6 Baccarat"
+
+msgctxt "4832"
+msgid "View Super 6 Tutorial"
+msgstr "Visualizza Tutorial Super 6"
+
+msgctxt "4836"
+msgid "Never Mind"
+msgstr "Lascia perdere"
+
+msgctxt "4840"
+msgid "Play Against the House"
+msgstr "Gioca contro la casa"
+
+msgctxt "4844"
+msgid "Play Standard Blackjack"
+msgstr "Gioca a Blackjack Standard"
+
+msgctxt "4848"
+msgid "Hear the Rules"
+msgstr "Ascolta le Regole"
+
+msgctxt "4852"
+msgid "Pay"
+msgstr "Pagamento"
+
+msgctxt "4856"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "4860"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4864"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "4868"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "4872"
+msgid "Deck Type and Payout"
+msgstr "Tipo di mazzo e Pagamento"
+
+msgctxt "4876"
+msgid "Read the Rules"
+msgstr "Leggi le Regole"
+
+msgctxt "56_Dealer"
+msgid ""
+"Welcome to the baccarat table. You can play one game for 1,000 chips. Would "
+"you like to play?"
+msgstr ""
+"Benvenuto al tavolo del baccarat. Una partita ti costa 1.000 fiches. Ti va "
+"di giocare?"
+
+msgctxt "68_Dealer"
+msgid ""
+"I've noticed that you play blackjack quite often. Would you be interested in"
+" playing the house, one-on-one?"
+msgstr ""
+"Ho notato che giochi a blackjack piuttosto spesso. Ti andrebbe di giocare "
+"contro il banco, uno contro uno?"
+
+msgctxt "80_Dealer"
+msgid "How would you like to play?"
+msgstr "Come vorrebbe giocare?"
+
+msgctxt "92_Dealer"
+msgid "All right, then. First, I'll need your 1,000 chips."
+msgstr "Va bene, allora. Per prima cosa, mi servono le tue 1.000 fiches."
+
+msgctxt "116_Dealer"
+msgid "Thank you. Now, then, let's begin."
+msgstr "Grazie. Bene, allora, iniziamo."
+
+msgctxt "140_Dealer"
+msgid "Very well. Let's continue with normal blackjack, then."
+msgstr "Molto bene. Continuiamo pure con il blackjack normale, allora."
+
+msgctxt "176_Dealer"
+msgid "Yeah, I'll play."
+msgstr "Sì, gioco."
+
+msgctxt "188_Dealer"
+msgid "Excellent."
+msgstr "Eccellente."
+
+msgctxt "224_Dealer"
+msgid "No, I'll pass."
+msgstr "No, passo."
+
+msgctxt "236_Dealer"
+msgid "I see. I hope you'll join us another time."
+msgstr "Capisco. Spero ci farai compagnia un'altra volta."
+
+msgctxt "248_Dealer"
+msgid "You seem to be short on chips. Please come back soon."
+msgstr "Mi sa che sei a corto di fiches. Fatti rivedere presto."
+
+msgctxt "260_Dealer"
+msgid "Yeah, I'll play."
+msgstr "Sì, gioco."
+
+msgctxt "272_Dealer"
+msgid "Excellent."
+msgstr "Eccellente."
+
+msgctxt "308_Player"
+msgid "Tell me the rules."
+msgstr "Dimmi le regole."
+
+msgctxt "320_Dealer"
+msgid ""
+"This is a game between you and the house. Whoever gets three wins first wins"
+" the game."
+msgstr ""
+"Questa è una partita tra te e il banco. Il primo che si porta a casa tre "
+"vittorie si becca la partita."
+
+msgctxt "332_Dealer"
+msgid ""
+"Before the game begins, I'll need 1,000 chips for you to join. The payout "
+"differs depending on which deck is used."
+msgstr ""
+"Prima che la partita inizi, mi serviranno 1.000 fiches per farti unire.\n"
+"La vincita varia a seconda del mazzo utilizzato."
+
+msgctxt "344_Deck Type and Payout"
+msgid ""
+"Standard Deck: 2,000 chips\r\n"
+"Without 2/3/4: 2,500 chips\r\n"
+"Without 7/8/9: 2,000 chips\r\n"
+"Without J/Q/K: 4,000 chips"
+msgstr ""
+"Mazzo Standard: 2.000 chip\n"
+"Senza 2/3/4: 2.500 chip\n"
+"Senza 7/8/9: 2.000 chip\n"
+"Senza J/Q/K: 4.000 chip"
+
+msgctxt "356_Dealer"
+msgid "If you win, you'll get the designated number of chips."
+msgstr "Se vinci, riceverai il numero di fiches stabilito."
+
+msgctxt "368_Dealer"
+msgid "Would you like to go over the rules for Super 6?"
+msgstr "Ti va di ripassare le regole del Super 6?"

@@ -1,0 +1,884 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "312"
+msgid "You got <Color:8>20,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "528"
+msgid "You got a <Color:8>Borrowed Single-lens Reflex Camera<Color:Default>."
+msgstr ""
+
+msgctxt "996"
+msgid "You got a <Color:8>Borrowed Single-lens Reflex Camera<Color:Default>."
+msgstr ""
+
+msgctxt "1464"
+msgid "You got a <Color:8>Borrowed Single-lens Reflex Camera<Color:Default>."
+msgstr ""
+
+msgctxt "1932"
+msgid "You got a <Color:8>Borrowed Single-lens Reflex Camera<Color:Default>."
+msgstr ""
+
+msgctxt "2388"
+msgid "You got a <Color:8>Borrowed Single-lens Reflex Camera<Color:Default>."
+msgstr ""
+
+msgctxt "35080"
+msgid "Tourism Board Employee"
+msgstr ""
+
+msgctxt "35084"
+msgid "Player"
+msgstr ""
+
+msgctxt "35088"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "35092"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "35096"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "35100"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "35104"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "35108"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "35112"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "35116"
+msgid "Man"
+msgstr ""
+
+msgctxt "35120"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "35124"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "35128"
+msgid "Tourist Spots"
+msgstr ""
+
+msgctxt "168_Tourism Board Employee"
+msgid "Hey there! How's your photography going? Well, I hope?"
+msgstr ""
+
+msgctxt "192_Kiryu"
+msgid "Yeah, I shot five photos."
+msgstr ""
+
+msgctxt "204_Akiyama"
+msgid "Yep, I shot five photos."
+msgstr ""
+
+msgctxt "216_Saejima"
+msgid "Yeah, I shot five photos."
+msgstr ""
+
+msgctxt "228_Shinada"
+msgid "Yeah, I shot five photos."
+msgstr ""
+
+msgctxt "240_Haruka"
+msgid "Yes, I shot five photos."
+msgstr ""
+
+msgctxt "252_Tourism Board Employee"
+msgid "That's excellent! Let me take a look!"
+msgstr ""
+
+msgctxt "264_Tourism Board Employee"
+msgid "......"
+msgstr ""
+
+msgctxt "276_Tourism Board Employee"
+msgid "These photos are wonderful! Great job."
+msgstr ""
+
+msgctxt "288_Tourism Board Employee"
+msgid "These are really going to get tourists interested in visiting Kamurocho!"
+msgstr ""
+
+msgctxt "300_Tourism Board Employee"
+msgid "Here's the reward I promised. Go ahead, take it."
+msgstr ""
+
+msgctxt "324_Tourism Board Employee"
+msgid ""
+"Oh, you can hold on to the camera. Please come back and visit Kamurocho "
+"again."
+msgstr ""
+
+msgctxt "336_Tourism Board Employee"
+msgid ""
+"How's your photography going? I hope you can get some really great photos "
+"of Kamurocho!"
+msgstr ""
+
+msgctxt "360_Man"
+msgid "Excuse me, do you have a minute?"
+msgstr ""
+
+msgctxt "372_Player"
+msgid "Hmm? Whaddya want?"
+msgstr ""
+
+msgctxt "384_Man"
+msgid ""
+"I'm from the Kamurocho Tourism Board. Right now we're running a campaign to "
+"raise Kamurocho's profile as a tourist destination."
+msgstr ""
+
+msgctxt "396_Player"
+msgid "An advertising campaign? Sounds like a good idea."
+msgstr ""
+
+msgctxt "408_Tourism Board Employee"
+msgid ""
+"Yes. I'd like to ask you to take some photos of places around Kamurocho "
+"that you think are must-see landmarks."
+msgstr ""
+
+msgctxt "420_Tourism Board Employee"
+msgid ""
+"The photos you take will be used in pamphlets and posters promoting "
+"Kamurocho as a tourist destination."
+msgstr ""
+
+msgctxt "432_Tourism Board Employee"
+msgid ""
+"If you can shoot five sightseeing spots for me, I'll give you a fabulous "
+"gift."
+msgstr ""
+
+msgctxt "444_Player"
+msgid "Yeah, but I ain't got a camera."
+msgstr ""
+
+msgctxt "456_Tourism Board Employee"
+msgid ""
+"No problem! We can lend you one. I have a high-end single-lens reflex "
+"camera to give you."
+msgstr ""
+
+msgctxt "468_Player"
+msgid "Yeah? How much ya gonna charge me?"
+msgstr ""
+
+msgctxt "480_Tourism Board Employee"
+msgid ""
+"Oh, no. I'll loan it to you for free. I do need you to give me a way to "
+"reach you in case something happens, though."
+msgstr ""
+
+msgctxt "492_Player"
+msgid ""
+"(Guess there ain't any reason to turn him down. Might as well take up the "
+"offer.)"
+msgstr ""
+
+msgctxt "504_Player"
+msgid "Yeah, I'll do it."
+msgstr ""
+
+msgctxt "516_Tourism Board Employee"
+msgid "Great! Here it is."
+msgstr ""
+
+msgctxt "636_Tourism Board Employee"
+msgid ""
+"You can find me here during the campaign. Come back once you've shot five "
+"locations."
+msgstr ""
+
+msgctxt "648_Tourism Board Employee"
+msgid ""
+"Oh, and I have other people helping me, too, so I don't need photos of "
+"locations that have already been shot. Good luck out there!"
+msgstr ""
+
+msgctxt "660_Tourist Spots"
+msgid ""
+"When you visit sightseeing spots around town, the Photograph action icon "
+"may appear. Press <Action:Button_Cross@Adventure> while this is displayed "
+"to take a photo."
+msgstr ""
+
+msgctxt "672_Tourist Spots"
+msgid ""
+"You can view photos you've taken from City Exploration under Completion "
+"List in the Pause Menu. Once you take five photos, bring them to the "
+"Tourism Board staff member to receive a reward."
+msgstr ""
+
+msgctxt "684_Player"
+msgid "(I guess I'll take a walk around and find some good scenery.)"
+msgstr ""
+
+msgctxt "696_Tourism Board Employee"
+msgid "Hey, I met you in Sapporo, didn't I?"
+msgstr ""
+
+msgctxt "708_Player"
+msgid ""
+"You're that guy from the tourism board, huh? You asked me to take photos "
+"for ya."
+msgstr ""
+
+msgctxt "720_Tourism Board Employee"
+msgid "That's me. Fancy meeting you again here."
+msgstr ""
+
+msgctxt "732_Player"
+msgid "Ah, I ain't had a chance to return the camera."
+msgstr ""
+
+msgctxt "744_Tourism Board Employee"
+msgid ""
+"Don't worry about it. I've actually been sent out around the country, and "
+"I'm doing some work for the Kamurocho Tourism Board now."
+msgstr ""
+
+msgctxt "756_Player"
+msgid "Ya want me to take more photos?"
+msgstr ""
+
+msgctxt "768_Tourism Board Employee"
+msgid ""
+"Exactly! I'd like you to shoot five photos here in Kamurocho, too. Bring "
+"them to me, and I'll give you a fabulous gift."
+msgstr ""
+
+msgctxt "780_Player"
+msgid "All right. Guess I could do that."
+msgstr ""
+
+msgctxt "792_Tourism Board Employee"
+msgid ""
+"Thank you! I'll be here during the campaign. Come and see me once you've "
+"taken five shots."
+msgstr ""
+
+msgctxt "804_Tourism Board Employee"
+msgid ""
+"Oh, and I have other people helping me, too, so I don't need photos of "
+"locations that have already been shot. Good luck out there!"
+msgstr ""
+
+msgctxt "828_Man"
+msgid "Excuse me, do you have a minute?"
+msgstr ""
+
+msgctxt "840_Player"
+msgid "Hmm? What can I help you with?"
+msgstr ""
+
+msgctxt "852_Man"
+msgid ""
+"I'm from the Kamurocho Tourism Board. Right now we're running a campaign to "
+"raise Kamurocho's profile as a tourist destination."
+msgstr ""
+
+msgctxt "864_Player"
+msgid "An advertising campaign? Sounds like a good idea."
+msgstr ""
+
+msgctxt "876_Tourism Board Employee"
+msgid ""
+"Yes. I'd like to ask you to take some photos of places around Kamurocho "
+"that you think are must-see landmarks."
+msgstr ""
+
+msgctxt "888_Tourism Board Employee"
+msgid ""
+"The photos you take will be used in pamphlets and posters promoting "
+"Kamurocho as a tourist destination."
+msgstr ""
+
+msgctxt "900_Tourism Board Employee"
+msgid ""
+"If you can shoot five sightseeing spots for me, I'll give you a fabulous "
+"gift."
+msgstr ""
+
+msgctxt "912_Player"
+msgid "I don't have a camera, though."
+msgstr ""
+
+msgctxt "924_Tourism Board Employee"
+msgid ""
+"No problem! We can lend you one. I have a high-end single-lens reflex "
+"camera to give you."
+msgstr ""
+
+msgctxt "936_Player"
+msgid "Really? But wouldn't that cost money?"
+msgstr ""
+
+msgctxt "948_Tourism Board Employee"
+msgid ""
+"Oh, no. I'll loan it to you for free. I do need you to give me a way to "
+"reach you in case something happens, though."
+msgstr ""
+
+msgctxt "960_Player"
+msgid "(I guess there's no reason to say no. I might as well take on the job.)"
+msgstr ""
+
+msgctxt "972_Player"
+msgid "Okay. Can you lend me that camera, then?"
+msgstr ""
+
+msgctxt "984_Tourism Board Employee"
+msgid "Sure! Here it is."
+msgstr ""
+
+msgctxt "1104_Tourism Board Employee"
+msgid ""
+"You can find me here during the campaign. Come back once you've shot five "
+"locations."
+msgstr ""
+
+msgctxt "1116_Tourism Board Employee"
+msgid ""
+"Oh, and I have other people helping me, too, so I don't need photos of "
+"locations that have already been shot. Good luck out there!"
+msgstr ""
+
+msgctxt "1128_Tourist Spots"
+msgid ""
+"When you visit sightseeing spots around town, the Photograph action icon "
+"may appear. Press <Action:Button_Cross@Adventure> while this is displayed "
+"to take a photo."
+msgstr ""
+
+msgctxt "1140_Tourist Spots"
+msgid ""
+"You can view photos you've taken from City Exploration under Completion "
+"List in the Pause Menu. Once you take five photos, bring them to the "
+"Tourism Board staff member to receive a reward."
+msgstr ""
+
+msgctxt "1152_Player"
+msgid "(I guess I'll take a walk around and find some good scenery.)"
+msgstr ""
+
+msgctxt "1164_Tourism Board Employee"
+msgid "Hey, I met you in Osaka, didn't I?"
+msgstr ""
+
+msgctxt "1176_Player"
+msgid ""
+"Oh, are you the man from the tourism board? You asked me to take some "
+"photos for you."
+msgstr ""
+
+msgctxt "1188_Tourism Board Employee"
+msgid "That's me. Fancy meeting you again here."
+msgstr ""
+
+msgctxt "1200_Player"
+msgid "Oops, I haven't given you your camera back yet."
+msgstr ""
+
+msgctxt "1212_Tourism Board Employee"
+msgid ""
+"Don't worry about it. I've actually been sent out around the country, and "
+"I'm doing some work for the Kamurocho Tourism Board now."
+msgstr ""
+
+msgctxt "1224_Player"
+msgid "Let me guess, you want me to take photos here?"
+msgstr ""
+
+msgctxt "1236_Tourism Board Employee"
+msgid ""
+"Exactly! I'd like you to shoot five photos here in Kamurocho, too. Bring "
+"them to me, and I'll give you a fabulous gift."
+msgstr ""
+
+msgctxt "1248_Player"
+msgid "I see. Okay, I'll do it."
+msgstr ""
+
+msgctxt "1260_Tourism Board Employee"
+msgid ""
+"Thank you! I'll be here during the campaign. Come and see me once you've "
+"taken five shots."
+msgstr ""
+
+msgctxt "1272_Tourism Board Employee"
+msgid ""
+"Oh, and I have other people helping me, too, so I don't need photos of "
+"locations that have already been shot. Good luck out there!"
+msgstr ""
+
+msgctxt "1296_Man"
+msgid "Excuse me, do you have a minute?"
+msgstr ""
+
+msgctxt "1308_Player"
+msgid "Hmm?"
+msgstr ""
+
+msgctxt "1320_Man"
+msgid ""
+"I'm from the Kamurocho Tourism Board. Right now we're running a campaign to "
+"raise Kamurocho's profile as a tourist destination."
+msgstr ""
+
+msgctxt "1332_Player"
+msgid "An advertising campaign? Sounds like a good idea."
+msgstr ""
+
+msgctxt "1344_Tourism Board Employee"
+msgid ""
+"Yes. I'd like to ask you to take some photos of places around Kamurocho "
+"that you think are must-see landmarks."
+msgstr ""
+
+msgctxt "1356_Tourism Board Employee"
+msgid ""
+"The photos you take will be used in pamphlets and posters promoting "
+"Kamurocho as a tourist destination."
+msgstr ""
+
+msgctxt "1368_Tourism Board Employee"
+msgid ""
+"If you can shoot five sightseeing spots for me, I'll give you a fabulous "
+"gift."
+msgstr ""
+
+msgctxt "1380_Player"
+msgid "I'm afraid I don't have a camera, though."
+msgstr ""
+
+msgctxt "1392_Tourism Board Employee"
+msgid ""
+"No problem! We can lend you one. I have a high-end single-lens reflex "
+"camera to give you."
+msgstr ""
+
+msgctxt "1404_Player"
+msgid "Really? But wouldn't that cost money?"
+msgstr ""
+
+msgctxt "1416_Tourism Board Employee"
+msgid ""
+"That's right. Completely free. But I will need to get your contact details "
+"just in case."
+msgstr ""
+
+msgctxt "1428_Player"
+msgid "(I guess there's no reason to say no. I might as well take on the job.)"
+msgstr ""
+
+msgctxt "1440_Player"
+msgid "Okay, you've got a deal. Can I see the camera?"
+msgstr ""
+
+msgctxt "1452_Tourism Board Employee"
+msgid "Sure! Here it is."
+msgstr ""
+
+msgctxt "1572_Tourism Board Employee"
+msgid ""
+"You can find me here during the campaign. Come back once you've shot five "
+"locations."
+msgstr ""
+
+msgctxt "1584_Tourism Board Employee"
+msgid ""
+"Oh, and I have other people helping me, too, so I don't need photos of "
+"locations that have already been shot. Good luck out there!"
+msgstr ""
+
+msgctxt "1596_Tourist Spots"
+msgid ""
+"When you visit sightseeing spots around town, the Photograph action icon "
+"may appear. Press <Action:Button_Cross@Adventure> while this is displayed "
+"to take a photo."
+msgstr ""
+
+msgctxt "1608_Tourist Spots"
+msgid ""
+"You can view photos you've taken from City Exploration under Completion "
+"List in the Pause Menu. Once you take five photos, bring them to the "
+"Tourism Board staff member to receive a reward."
+msgstr ""
+
+msgctxt "1620_Player"
+msgid "(I guess I'll take a walk around and find some good scenery.)"
+msgstr ""
+
+msgctxt "1632_Tourism Board Employee"
+msgid "Hey, I met you in Osaka, didn't I?"
+msgstr ""
+
+msgctxt "1644_Player"
+msgid ""
+"Oh, the man from the tourism board! You asked me to take photos for you, "
+"right?"
+msgstr ""
+
+msgctxt "1656_Tourism Board Employee"
+msgid "That's me. Fancy meeting you again here."
+msgstr ""
+
+msgctxt "1668_Player"
+msgid "Oops, I haven't given you your camera back yet."
+msgstr ""
+
+msgctxt "1680_Tourism Board Employee"
+msgid ""
+"Don't worry about it. I've actually been sent out around the country, and "
+"I'm doing some work for the Kamurocho Tourism Board now."
+msgstr ""
+
+msgctxt "1692_Player"
+msgid "Let me guess, you want me to take photos here?"
+msgstr ""
+
+msgctxt "1704_Tourism Board Employee"
+msgid ""
+"Exactly! I'd like you to shoot five photos here in Kamurocho, too. Bring "
+"them to me, and I'll give you a fabulous gift."
+msgstr ""
+
+msgctxt "1716_Player"
+msgid "Okay. Sure, why not?"
+msgstr ""
+
+msgctxt "1728_Tourism Board Employee"
+msgid ""
+"Thank you! I'll be here during the campaign. Come and see me once you've "
+"taken five shots."
+msgstr ""
+
+msgctxt "1740_Tourism Board Employee"
+msgid ""
+"Oh, and I have other people helping me, too, so I don't need photos of "
+"locations that have already been shot. Good luck out there!"
+msgstr ""
+
+msgctxt "1764_Man"
+msgid "Excuse me, do you have a minute?"
+msgstr ""
+
+msgctxt "1776_Player"
+msgid "Hmm?"
+msgstr ""
+
+msgctxt "1788_Man"
+msgid ""
+"I'm from the Kamurocho Tourism Board. Right now we're running a campaign to "
+"raise Kamurocho's profile as a tourist destination."
+msgstr ""
+
+msgctxt "1800_Player"
+msgid "An advertising campaign? Sounds like a good idea."
+msgstr ""
+
+msgctxt "1812_Tourism Board Employee"
+msgid ""
+"Yes. I'd like to ask you to take some photos of places around Kamurocho "
+"that you think are must-see landmarks."
+msgstr ""
+
+msgctxt "1824_Tourism Board Employee"
+msgid ""
+"The photos you take will be used in pamphlets and posters promoting "
+"Kamurocho as a tourist destination."
+msgstr ""
+
+msgctxt "1836_Tourism Board Employee"
+msgid ""
+"If you can shoot five sightseeing spots for me, I'll give you a fabulous "
+"gift."
+msgstr ""
+
+msgctxt "1848_Player"
+msgid "Sounds good to me, but I don't have a camera."
+msgstr ""
+
+msgctxt "1860_Tourism Board Employee"
+msgid ""
+"No problem! We can lend you one. I have a high-end single-lens reflex "
+"camera to give you."
+msgstr ""
+
+msgctxt "1872_Player"
+msgid ""
+"Yeah? I don't know if I want to pay to rent something that expensive, "
+"though."
+msgstr ""
+
+msgctxt "1884_Tourism Board Employee"
+msgid ""
+"Oh, no. I'll loan it to you for free. I do need you to give me a way to "
+"reach you in case something happens, though."
+msgstr ""
+
+msgctxt "1896_Player"
+msgid "(I guess there's no reason to say no. I might as well take on the job.)"
+msgstr ""
+
+msgctxt "1908_Player"
+msgid "Okay, you've got a deal. I just need you to loan me a camera."
+msgstr ""
+
+msgctxt "1920_Tourism Board Employee"
+msgid "Sure! Here it is."
+msgstr ""
+
+msgctxt "2040_Tourism Board Employee"
+msgid ""
+"You can find me here during the campaign. Come back once you've shot five "
+"locations."
+msgstr ""
+
+msgctxt "2052_Tourism Board Employee"
+msgid ""
+"Oh, and I have other people helping me, too, so I don't need photos of "
+"locations that have already been shot. Good luck out there!"
+msgstr ""
+
+msgctxt "2064_Tourist Spots"
+msgid ""
+"When you visit sightseeing spots around town, the Photograph action icon "
+"may appear. Press <Action:Button_Cross@Adventure> while this is displayed "
+"to take a photo."
+msgstr ""
+
+msgctxt "2076_Tourist Spots"
+msgid ""
+"You can view photos you've taken from City Exploration under Completion "
+"List in the Pause Menu. Once you take five photos, bring them to the "
+"Tourism Board staff member to receive a reward."
+msgstr ""
+
+msgctxt "2088_Player"
+msgid "(I guess I'll take a walk around and find some good scenery.)"
+msgstr ""
+
+msgctxt "2100_Tourism Board Employee"
+msgid "Hey, I met you in Fukuoka, didn't I?"
+msgstr ""
+
+msgctxt "2112_Player"
+msgid ""
+"You're that guy from the tourism board, right? You asked me to take photos "
+"for you."
+msgstr ""
+
+msgctxt "2124_Tourism Board Employee"
+msgid "That's me. Fancy meeting you again here."
+msgstr ""
+
+msgctxt "2136_Player"
+msgid "Oh, I haven't given you your camera back yet."
+msgstr ""
+
+msgctxt "2148_Tourism Board Employee"
+msgid ""
+"Don't worry about it. I've actually been sent out around the country, and "
+"I'm doing some work for the Kamurocho Tourism Board now."
+msgstr ""
+
+msgctxt "2160_Player"
+msgid "Let me guess, you want me to take photos here?"
+msgstr ""
+
+msgctxt "2172_Tourism Board Employee"
+msgid ""
+"Exactly! I'd like you to shoot five photos here in Kamurocho, too. Bring "
+"them to me, and I'll give you a fabulous gift."
+msgstr ""
+
+msgctxt "2184_Player"
+msgid "Okay. Sure, why not?"
+msgstr ""
+
+msgctxt "2196_Tourism Board Employee"
+msgid ""
+"Thank you! I'll be here during the campaign. Come and see me once you've "
+"taken five shots."
+msgstr ""
+
+msgctxt "2208_Tourism Board Employee"
+msgid ""
+"Oh, and I have other people helping me, too, so I don't need photos of "
+"locations that have already been shot. Good luck out there!"
+msgstr ""
+
+msgctxt "2232_Man"
+msgid "Excuse me, do you have a minute?"
+msgstr ""
+
+msgctxt "2244_Player"
+msgid "Hmm?"
+msgstr ""
+
+msgctxt "2256_Man"
+msgid ""
+"I'm from the Kamurocho Tourism Board. Right now we're running a campaign to "
+"raise Kamurocho's profile as a tourist destination."
+msgstr ""
+
+msgctxt "2268_Player"
+msgid "An advertising campaign? Sounds like a good idea."
+msgstr ""
+
+msgctxt "2280_Tourism Board Employee"
+msgid ""
+"Yes. I'd like to ask you to take some photos of places around Kamurocho "
+"that you think are must-see landmarks."
+msgstr ""
+
+msgctxt "2292_Tourism Board Employee"
+msgid ""
+"The photos you take will be used in pamphlets and posters promoting "
+"Kamurocho as a tourist destination."
+msgstr ""
+
+msgctxt "2304_Tourism Board Employee"
+msgid ""
+"If you can shoot five sightseeing spots for me, I'll give you a fabulous "
+"gift."
+msgstr ""
+
+msgctxt "2316_Player"
+msgid "Sounds good to me, but I don't have a camera."
+msgstr ""
+
+msgctxt "2328_Tourism Board Employee"
+msgid ""
+"No problem! We can lend you one. I have a high-end single-lens reflex "
+"camera to give you."
+msgstr ""
+
+msgctxt "2340_Player"
+msgid "Really? You'll lend it to me for free?"
+msgstr ""
+
+msgctxt "2352_Tourism Board Employee"
+msgid ""
+"That's right. Completely free. But I will need to get your contact details "
+"just in case."
+msgstr ""
+
+msgctxt "2364_Player"
+msgid "Sure thing. Let me see that camera."
+msgstr ""
+
+msgctxt "2376_Tourism Board Employee"
+msgid "Sure! Here it is."
+msgstr ""
+
+msgctxt "2496_Tourism Board Employee"
+msgid ""
+"You can find me here during the campaign. Come back once you've shot five "
+"locations."
+msgstr ""
+
+msgctxt "2508_Tourism Board Employee"
+msgid ""
+"Oh, and I have other people helping me, too, so I don't need photos of "
+"locations that have already been shot. Good luck out there!"
+msgstr ""
+
+msgctxt "2520_Tourist Spots"
+msgid ""
+"When you visit sightseeing spots around town, the Photograph action icon "
+"may appear. Press <Action:Button_Cross@Adventure> while this is displayed "
+"to take a photo."
+msgstr ""
+
+msgctxt "2532_Tourist Spots"
+msgid ""
+"You can view photos you've taken from City Exploration under Completion "
+"List in the Pause Menu. Once you take five photos, bring them to the "
+"Tourism Board staff member to receive a reward."
+msgstr ""
+
+msgctxt "2544_Player"
+msgid "(I guess I'll take a walk around and find some good scenery.)"
+msgstr ""
+
+msgctxt "2556_Tourism Board Employee"
+msgid "Hey, I met you in Nagoya, didn't I?"
+msgstr ""
+
+msgctxt "2568_Player"
+msgid ""
+"Yeah, you're the guy from the tourism board! You asked me to take some "
+"photos for you."
+msgstr ""
+
+msgctxt "2580_Tourism Board Employee"
+msgid "That's me. Fancy meeting you again here."
+msgstr ""
+
+msgctxt "2592_Player"
+msgid "Oh, I haven't given you your camera back yet."
+msgstr ""
+
+msgctxt "2604_Tourism Board Employee"
+msgid ""
+"Don't worry about it. I've actually been sent out around the country, and "
+"I'm doing some work for the Kamurocho Tourism Board now."
+msgstr ""
+
+msgctxt "2616_Player"
+msgid "Let me guess, you want me to take photos here?"
+msgstr ""
+
+msgctxt "2628_Tourism Board Employee"
+msgid ""
+"Exactly! I'd like you to shoot five photos here in Kamurocho, too. Bring "
+"them to me, and I'll give you a fabulous gift."
+msgstr ""
+
+msgctxt "2640_Player"
+msgid "I see. Okay, I'll do it."
+msgstr ""
+
+msgctxt "2652_Tourism Board Employee"
+msgid ""
+"Thank you! I'll be here during the campaign. Come and see me once you've "
+"taken five shots."
+msgstr ""
+
+msgctxt "2664_Tourism Board Employee"
+msgid ""
+"Oh, and I have other people helping me, too, so I don't need photos of "
+"locations that have already been shot. Good luck out there!"
+msgstr ""

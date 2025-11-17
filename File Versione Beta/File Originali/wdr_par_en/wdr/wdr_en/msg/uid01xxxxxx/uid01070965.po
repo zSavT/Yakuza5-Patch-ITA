@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2904"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "380_Akiyama"
+msgid "First, we pick the banker."
+msgstr ""
+
+msgctxt "392_Akiyama"
+msgid "I'll be the banker."
+msgstr ""
+
+msgctxt "404_Akiyama"
+msgid "(How much should I bet?)"
+msgstr ""
+
+msgctxt "416_Akiyama"
+msgid "Let's start the game."
+msgstr ""
+
+msgctxt "428_Akiyama"
+msgid "Ah, my turn."
+msgstr ""
+
+msgctxt "440_Akiyama"
+msgid "I'll roll again."
+msgstr ""
+
+msgctxt "452_Akiyama"
+msgid "Time to settle up."
+msgstr ""
+
+msgctxt "464_Akiyama"
+msgid "(You're the banker.)"
+msgstr ""
+
+msgctxt "476_Akiyama"
+msgid "Let's change the banker."
+msgstr ""
+
+msgctxt "488_Akiyama"
+msgid "(Play again?)"
+msgstr ""
+
+msgctxt "500_Akiyama"
+msgid "(I'm broke.)"
+msgstr ""
+
+msgctxt "512_Akiyama"
+msgid "(Try again next time.)"
+msgstr ""
+
+msgctxt "524_Akiyama"
+msgid "Banker's Bet-Settling Messages"
+msgstr ""
+
+msgctxt "536_Akiyama"
+msgid "A banker's roll of 1-3-5 is a 3, isn't it?"
+msgstr ""
+
+msgctxt "548_Akiyama"
+msgid "A 1-3-5 by the first player is a 3, isn't it?"
+msgstr ""
+
+msgctxt "560_Akiyama"
+msgid "A 1-3-5 gets the previous player's roll, right?"
+msgstr ""
+
+msgctxt "572_Akiyama"
+msgid "A banker's roll of 2-4-6 is a 4, isn't it?"
+msgstr ""
+
+msgctxt "584_Akiyama"
+msgid "A 2-4-6 becomes the next player's roll, right?"
+msgstr ""
+
+msgctxt "596_Akiyama"
+msgid "A 2-4-6 by the last player is a 4, isn't it?"
+msgstr ""
+
+msgctxt "608_Akiyama"
+msgid "A 2-4-6 roll gets the last player's roll!"
+msgstr ""
+
+msgctxt "620_Akiyama"
+msgid "A 1-3-5 was rolled after a 2-4-6."
+msgstr ""
+
+msgctxt "632_Akiyama"
+msgid "A 6-3-4! Now that's lucky!"
+msgstr ""

@@ -1,0 +1,1478 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1268"
+msgid "You got an <Color:8>Intelligent-looking Cochin Chicken<Color:Default>."
+msgstr ""
+
+msgctxt "1388"
+msgid "You got 1,200 experience points."
+msgstr ""
+
+msgctxt "3512"
+msgid "You got a <Color:8>Yakitori<Color:Default>."
+msgstr ""
+
+msgctxt "66884"
+msgid "Man"
+msgstr ""
+
+msgctxt "66888"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "66892"
+msgid "Chicken"
+msgstr ""
+
+msgctxt "66896"
+msgid "MnG47_A_COC_ready_nml"
+msgstr ""
+
+msgctxt "66900"
+msgid "P_TLK_stand_surp"
+msgstr ""
+
+msgctxt "66904"
+msgid "M_NML_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "66908"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "66912"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "66916"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "66920"
+msgid "MnG47_A_COC_ready_bad"
+msgstr ""
+
+msgctxt "66924"
+msgid "M_YKZ_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "66928"
+msgid "M_YKZ_TLK_sitgrd_kamae_ed"
+msgstr ""
+
+msgctxt "66932"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "66936"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "66940"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "66944"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "66948"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "66952"
+msgid "Ukai"
+msgstr ""
+
+msgctxt "66956"
+msgid "Nml_TurnR180"
+msgstr ""
+
+msgctxt "66960"
+msgid "MnG47_A_COC_ready_good"
+msgstr ""
+
+msgctxt "66964"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "66968"
+msgid "P_TLK_stand_info_f"
+msgstr ""
+
+msgctxt "66972"
+msgid "P_TLK_stand_kosite_st"
+msgstr ""
+
+msgctxt "66976"
+msgid "P_TLK_stand_kosite_ed"
+msgstr ""
+
+msgctxt "66980"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "66984"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "66988"
+msgid "The Cochin Cup Classic"
+msgstr ""
+
+msgctxt "66992"
+msgid "dummy"
+msgstr ""
+
+msgctxt "66996"
+msgid "Enter Races"
+msgstr ""
+
+msgctxt "67000"
+msgid "Train a Cochin"
+msgstr ""
+
+msgctxt "67004"
+msgid "Breeding"
+msgstr ""
+
+msgctxt "67008"
+msgid "Forget Skills"
+msgstr ""
+
+msgctxt "67012"
+msgid "View Parameters"
+msgstr ""
+
+msgctxt "67016"
+msgid "View Titles"
+msgstr ""
+
+msgctxt "67020"
+msgid "About the Cochin Cup"
+msgstr ""
+
+msgctxt "67024"
+msgid "Exit"
+msgstr ""
+
+msgctxt "67028"
+msgid "Newcomer Class"
+msgstr ""
+
+msgctxt "67032"
+msgid "Challenger Class"
+msgstr ""
+
+msgctxt "67036"
+msgid "Contender Class"
+msgstr ""
+
+msgctxt "67040"
+msgid "Champion Class"
+msgstr ""
+
+msgctxt "67044"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "67048"
+msgid "Wind Cup"
+msgstr ""
+
+msgctxt "67052"
+msgid "Novice Cup"
+msgstr ""
+
+msgctxt "67056"
+msgid "Chicken Cup"
+msgstr ""
+
+msgctxt "67060"
+msgid "Drake Cup"
+msgstr ""
+
+msgctxt "67064"
+msgid "Dawn Cup"
+msgstr ""
+
+msgctxt "67068"
+msgid "Let's do it!"
+msgstr ""
+
+msgctxt "67072"
+msgid "Not right now."
+msgstr ""
+
+msgctxt "67076"
+msgid "Let's do this!"
+msgstr ""
+
+msgctxt "67080"
+msgid "Kamikaze Cup"
+msgstr ""
+
+msgctxt "67084"
+msgid "Rising Cup"
+msgstr ""
+
+msgctxt "67088"
+msgid "Silver Cup"
+msgstr ""
+
+msgctxt "67092"
+msgid "Crystal Cup"
+msgstr ""
+
+msgctxt "67096"
+msgid "Shigure Cup"
+msgstr ""
+
+msgctxt "67100"
+msgid "Tortoise Cup"
+msgstr ""
+
+msgctxt "67104"
+msgid "Phoenix Cup"
+msgstr ""
+
+msgctxt "67108"
+msgid "Tiger Cup"
+msgstr ""
+
+msgctxt "67112"
+msgid "Dragon Cup"
+msgstr ""
+
+msgctxt "67116"
+msgid "Adamant Cup"
+msgstr ""
+
+msgctxt "67120"
+msgid "King Cup"
+msgstr ""
+
+msgctxt "67124"
+msgid "Storm Cup"
+msgstr ""
+
+msgctxt "67128"
+msgid "Black Cup"
+msgstr ""
+
+msgctxt "67132"
+msgid "Skanda Cup"
+msgstr ""
+
+msgctxt "67136"
+msgid "Azuchi Cup"
+msgstr ""
+
+msgctxt "67140"
+msgid "Shimazaki"
+msgstr ""
+
+msgctxt "67144"
+msgid "Toda"
+msgstr ""
+
+msgctxt "67148"
+msgid "Yasaka"
+msgstr ""
+
+msgctxt "67152"
+msgid "Kanamiya"
+msgstr ""
+
+msgctxt "67156"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "67160"
+msgid "Yes, please."
+msgstr ""
+
+msgctxt "67164"
+msgid "No thanks."
+msgstr ""
+
+msgctxt "67168"
+msgid "How to Play"
+msgstr ""
+
+msgctxt "67172"
+msgid "Parameters"
+msgstr ""
+
+msgctxt "67176"
+msgid "Raising Chickens"
+msgstr ""
+
+msgctxt "67180"
+msgid "Racing Classes"
+msgstr ""
+
+msgctxt "67184"
+msgid "Titles"
+msgstr ""
+
+msgctxt "67188"
+msgid "What are the parameters?"
+msgstr ""
+
+msgctxt "67192"
+msgid "Skills"
+msgstr ""
+
+msgctxt "67196"
+msgid "Condition and Personality"
+msgstr ""
+
+msgctxt "67200"
+msgid "Running Style"
+msgstr ""
+
+msgctxt "67204"
+msgid "Condition"
+msgstr ""
+
+msgctxt "67208"
+msgid "Personality"
+msgstr ""
+
+msgctxt "152_Man"
+msgid "That's a good girl... Hold still now..."
+msgstr ""
+
+msgctxt "164_Man"
+msgid "Is that a... chicken? You trying to catch it?"
+msgstr ""
+
+msgctxt "176_Man"
+msgid ""
+"Shh! This situation demands the utmost concentration! Don't talk to me "
+"right now!"
+msgstr ""
+
+msgctxt "188_Chicken"
+msgid "Cluck, cluck, squawk!"
+msgstr ""
+
+msgctxt "200_Man"
+msgid "(What the heck's a chicken doing in the middle of the city?)"
+msgstr ""
+
+msgctxt "212_Man"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "224_Man"
+msgid "Noooooooooooooo! Come baaaaaaaaaaaaack!"
+msgstr ""
+
+msgctxt "236_Man"
+msgid "Hey, don't just stand there gawking! Help me catch my beautiful baby bird!"
+msgstr ""
+
+msgctxt "248_Man"
+msgid "Wait, why me?"
+msgstr ""
+
+msgctxt "260_Man"
+msgid ""
+"That chicken－a Cochin, actually－is a prized avian beast!\r\n"
+"Its life is worth more than mine and yours put together!\r\n"
+"Look, I'll even give you a reward for helping. Sound good?"
+msgstr ""
+
+msgctxt "272_Man"
+msgid "You should've said that first."
+msgstr ""
+
+msgctxt "284_Man"
+msgid "Then go forth! Run like the wind and bring my Cochin to me!"
+msgstr ""
+
+msgctxt "332_Man"
+msgid ""
+"Thanks, buddy! Wasn't easy, was it? This little fella's got\r\n"
+"rocket fuel coursing through its veins!"
+msgstr ""
+
+msgctxt "344_Man"
+msgid "Hoo... Haah... Yeah, that bird was bizarrely quick."
+msgstr ""
+
+msgctxt "368_Man"
+msgid "Dang it! Can't believe I got outrun by a chicken."
+msgstr ""
+
+msgctxt "380_Man"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "392_Man"
+msgid "Hey, guess what? I caught my little cluckling at last!"
+msgstr ""
+
+msgctxt "404_Man"
+msgid "Oh, did you now?"
+msgstr ""
+
+msgctxt "416_Man"
+msgid ""
+"Yeah! All that chasing you did managed to wear the ol' girl down. By the "
+"time I caught up, she looked like she was ready to drop!"
+msgstr ""
+
+msgctxt "428_Man"
+msgid ""
+"That's good to hear. I'm glad my running amounted to more than just "
+"exercise."
+msgstr ""
+
+msgctxt "440_Man"
+msgid ""
+"Oh, no, you were a big help, really. It wasn't easy, was it? The way she "
+"can scuttle around like a chicken with her head－well, still on."
+msgstr ""
+
+msgctxt "452_Man"
+msgid "Yeah, that bird was freakishly fast."
+msgstr ""
+
+msgctxt "464_Man"
+msgid ""
+"Hahaha, but of course. This beaut right here ain't your garden variety "
+"gamecock. She's a certified, bona fide Cochin!"
+msgstr ""
+
+msgctxt "476_Man"
+msgid ""
+"Yeah? Cochin's that expensive breed used for premium-grade meat, right? "
+"Mmm, I've never had any before."
+msgstr ""
+
+msgctxt "488_Man"
+msgid ""
+"No way! You're not eating this little prizehen. Don't look at my Cochin "
+"with those lustful, greedy eyes!"
+msgstr ""
+
+msgctxt "500_Man"
+msgid ""
+"Oh, and I hear the eggs are as tasty as the meat. An oyakodon bowl made "
+"with Cochin must taste like heaven."
+msgstr ""
+
+msgctxt "512_Man"
+msgid ""
+"Purge those unclean thoughts from your mind! This bird is precious beyond "
+"compare! Why, eating her would be a cardinal sin!"
+msgstr ""
+
+msgctxt "524_Man"
+msgid ""
+"I dunno, man, seems like a waste of good bird to me. What's so special "
+"about this one?"
+msgstr ""
+
+msgctxt "536_Man"
+msgid "I'll show you. I promised you a reward for helping, right? Come with me."
+msgstr ""
+
+msgctxt "548_Man"
+msgid "Oh, and the name's Ukai. What's yours?"
+msgstr ""
+
+msgctxt "560_Man"
+msgid ""
+"Shinada. I'm a freelance journalist specializing in... how should I put "
+"this? Ever want to hit up a massage parlor? I'm the guy to ask."
+msgstr ""
+
+msgctxt "572_Ukai"
+msgid "Oh, huh, how interesting. Nice to meet you, Shinada-san."
+msgstr ""
+
+msgctxt "584_Man"
+msgid "So? Where are we off to?"
+msgstr ""
+
+msgctxt "596_Ukai"
+msgid "You'll see when we get there. It's right over yonder."
+msgstr ""
+
+msgctxt "644_Man"
+msgid ""
+"Thanks, buddy! Wasn't easy, was it? This little fella's got\r\n"
+"rocket fuel coursing through its veins!"
+msgstr ""
+
+msgctxt "656_Man"
+msgid "Hoo... Haah... Yeah, that bird was bizarrely quick."
+msgstr ""
+
+msgctxt "680_Man"
+msgid "Dang it! Can't believe I got outrun by a chicken."
+msgstr ""
+
+msgctxt "692_Man"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "704_Man"
+msgid "Hey, guess what? I caught my little cluckling at last!"
+msgstr ""
+
+msgctxt "716_Man"
+msgid "Oh, did you now?"
+msgstr ""
+
+msgctxt "728_Man"
+msgid ""
+"Yeah! All that chasing you did managed to wear the ol' girl down. By the "
+"time I caught up, she looked like she was ready to drop!"
+msgstr ""
+
+msgctxt "740_Man"
+msgid ""
+"That's good to hear. I'm glad my running amounted to more than just "
+"exercise."
+msgstr ""
+
+msgctxt "752_Man"
+msgid ""
+"Oh, no, you were a big help, really. It wasn't easy, was it? The way she "
+"can scuttle around like a chicken with her head－well, still on."
+msgstr ""
+
+msgctxt "764_Man"
+msgid "Yeah, that bird was freakishly fast."
+msgstr ""
+
+msgctxt "776_Man"
+msgid ""
+"Hahaha, but of course. This beaut right here ain't your garden variety "
+"gamecock. She's a certified, bona fide Cochin!"
+msgstr ""
+
+msgctxt "788_Man"
+msgid ""
+"Yeah? Cochin's that expensive breed used for premium-grade meat, right? "
+"Mmm, I've never had any before."
+msgstr ""
+
+msgctxt "800_Man"
+msgid ""
+"No way! You're not eating this little prizehen. Don't look at my Cochin "
+"with those lustful, greedy eyes!"
+msgstr ""
+
+msgctxt "812_Man"
+msgid ""
+"Oh, and I hear the eggs are as tasty as the meat. An oyakodon bowl made "
+"with Cochin must taste like heaven."
+msgstr ""
+
+msgctxt "824_Man"
+msgid ""
+"Purge those unclean thoughts from your mind! This bird is precious beyond "
+"compare! Why, eating her would be a cardinal sin!"
+msgstr ""
+
+msgctxt "836_Man"
+msgid ""
+"I dunno, man, seems like a waste of good bird to me. What's so special "
+"about this one?"
+msgstr ""
+
+msgctxt "848_Man"
+msgid "I'll show you. I promised you a reward for helping, right? Come with me."
+msgstr ""
+
+msgctxt "860_Man"
+msgid "Oh, and the name's Ukai. What's yours?"
+msgstr ""
+
+msgctxt "872_Man"
+msgid ""
+"Shinada. I'm a freelance journalist specializing in... how should I put "
+"this? Ever want to hit up a massage parlor? I'm the guy to ask."
+msgstr ""
+
+msgctxt "884_Ukai"
+msgid "Oh, huh, how interesting. Nice to meet you, Shinada-san."
+msgstr ""
+
+msgctxt "896_Man"
+msgid "So? Where are we off to?"
+msgstr ""
+
+msgctxt "908_Ukai"
+msgid "You'll see when we get there. It's right over yonder."
+msgstr ""
+
+msgctxt "932_Man"
+msgid "Whoa..."
+msgstr ""
+
+msgctxt "956_Man"
+msgid ""
+"Behold! For you are about to witness the greatest competition of luck, "
+"pluck, and cluck ever devised! <Italic>This</Italic> is the Cochin Cup "
+"Classic!"
+msgstr ""
+
+msgctxt "968_Man"
+msgid "Cochin Cup Classic? Never heard of it."
+msgstr ""
+
+msgctxt "980_Ukai"
+msgid ""
+"Think of this like a sanctuary for chicken enthusiasts.\r\n"
+"A place where people take the beloved Cochins they've\r\n"
+"nurtured and race them against each other for prize money."
+msgstr ""
+
+msgctxt "992_Ukai"
+msgid ""
+"It's not unlike horse racing, really. There are some champion birds out "
+"there that've hauled in millions."
+msgstr ""
+
+msgctxt "1004_Man"
+msgid "Millions? As in millions of yen? Seriously!?"
+msgstr ""
+
+msgctxt "1016_Ukai"
+msgid "Honest truth, buddy. That bird we just bagged? Her eggs are as good as gold."
+msgstr ""
+
+msgctxt "1028_Man"
+msgid ""
+"Huh. Sounds like there's good money to be made. So did you come up with "
+"this Cochin racing idea on your own?"
+msgstr ""
+
+msgctxt "1040_Ukai"
+msgid "Yep. Not to crow about it, but it sure is something, ain't it?"
+msgstr ""
+
+msgctxt "1052_Ukai"
+msgid ""
+"I used to run a chicken farm out in the countryside, see.\r\n"
+"One day, I set up a track on a whim and raced us some birds.\r\n"
+"And wouldn't you know it－people got a big hoot out of it."
+msgstr ""
+
+msgctxt "1064_Ukai"
+msgid ""
+"I figured what works in the sticks has a chance to soar in Kineicho, so I "
+"gave it a try. Pretty soon the spectacle became a full-on sport."
+msgstr ""
+
+msgctxt "1076_Ukai"
+msgid ""
+"We've been getting betters and breeders in droves. The latter of which can "
+"sure make a mint! Thoroughbred race Cochins are their livelihood now."
+msgstr ""
+
+msgctxt "1088_Man"
+msgid "Well how about that."
+msgstr ""
+
+msgctxt "1100_Ukai"
+msgid ""
+"So. Shinada-san. I'll give you an up-and-coming Cochin in my stable as "
+"thanks for bringing my little chickadee home."
+msgstr ""
+
+msgctxt "1112_Man"
+msgid "Really? You will?"
+msgstr ""
+
+msgctxt "1124_Ukai"
+msgid ""
+"You have to promise me you won't eat it, though. You're only getting it on "
+"the condition that you raise it as a proper racer."
+msgstr ""
+
+msgctxt "1136_Ukai"
+msgid ""
+"If you do it right, that chicken can make you a lot more money than it can "
+"as meat."
+msgstr ""
+
+msgctxt "1148_Man"
+msgid "Even millions, huh?"
+msgstr ""
+
+msgctxt "1160_Ukai"
+msgid ""
+"Absolutely. Talk to me if you want to enter it in a race. I'll set things "
+"up for you."
+msgstr ""
+
+msgctxt "1172_Ukai"
+msgid "Let's step outside."
+msgstr ""
+
+msgctxt "1220_Man"
+msgid "Huh, I had no idea there were races held here."
+msgstr ""
+
+msgctxt "1232_Man"
+msgid ""
+"Yeah, well, this is where I spend most of my life. Ever get the urge to "
+"send a chicken flyin' down the track－you come talk to me."
+msgstr ""
+
+msgctxt "1244_Man"
+msgid "Oh, and here you go, buddy. The Cochin I promised you."
+msgstr ""
+
+msgctxt "1292_Man"
+msgid "(Cochin races, huh? Maybe I'll give it a shot.)"
+msgstr ""
+
+msgctxt "1304_Man"
+msgid ""
+"You can enter your Cochin in a race by speaking to Ukai.\r\n"
+"Winning a race will net you a cash prize.\r\n"
+"\r\n"
+"The higher the race's rank, the better the prize."
+msgstr ""
+
+msgctxt "1316_Man"
+msgid ""
+"There are four ranks in total:\r\n"
+"Newcomer, Challenger, Contender, and Champion.\r\n"
+"\r\n"
+"To win higher-ranked races, your Cochin will need training.\r\n"
+"Aim for the top of the Champion Class!"
+msgstr ""
+
+msgctxt "1436_Man"
+msgid ""
+"Will you be participating in the Cochin Cup Classic? Oh hey, if it isn't "
+"Shinada-san, my chicken-chasing comrade!"
+msgstr ""
+
+msgctxt "1448_Ukai"
+msgid "Hm? You still haven't named the Cochin I gave you?"
+msgstr ""
+
+msgctxt "1460_Shinada"
+msgid "Oh... right. It is a living creature. I guess it does need a name."
+msgstr ""
+
+msgctxt "1472_Ukai"
+msgid ""
+"Yeah, he'll need a proper name in order to register for the races. Why "
+"don't we go ahead and take care of that right now?"
+msgstr ""
+
+msgctxt "1496_Man"
+msgid "Okay, I'll take this baby in. Tell me whenever you want to race it."
+msgstr ""
+
+msgctxt "1520_Man"
+msgid "Oh, hey, you have a new Cochin to race? I'll take it in, then."
+msgstr ""
+
+msgctxt "1532_Man"
+msgid "I'll take care of the race registration. What's his name?"
+msgstr ""
+
+msgctxt "1568_Man"
+msgid "Hey, it looks like you've got a new Cochin to race. I'll take it in, then."
+msgstr ""
+
+msgctxt "1580_Man"
+msgid "I'll take care of the race registration. What's his name?"
+msgstr ""
+
+msgctxt "1640_Man"
+msgid ""
+"Shinada-san, your Cochin qualified for the Champion Class. Good work! And "
+"good luck!"
+msgstr ""
+
+msgctxt "1664_Man"
+msgid ""
+"Shinada, your Cochin's made it to the Contender Class. The competition's "
+"going to ramp up, so do your best!"
+msgstr ""
+
+msgctxt "1688_Man"
+msgid ""
+"Shinada-san, your Cochin qualified for the Challenger Class. This is where "
+"the racing really starts. Good luck!"
+msgstr ""
+
+msgctxt "1700_Man"
+msgid ""
+"Howdy. Here's where you can enter the Cochin Cup Classic.\r\n"
+"Now what can I do for you, fella?"
+msgstr ""
+
+msgctxt "1724_Man"
+msgid "Enter a Cochin in a race."
+msgstr ""
+
+msgctxt "1736_Man"
+msgid ""
+"You can hire a trainer to raise your Cochin. You'll need to pay them, "
+"though."
+msgstr ""
+
+msgctxt "1748_Man"
+msgid "You can mate your roosters with a hen and breed a brand-new bird."
+msgstr ""
+
+msgctxt "1760_Man"
+msgid "I can make your Cochin forget an unwanted skill. No, seriously."
+msgstr ""
+
+msgctxt "1772_Man"
+msgid "You can check the growth parameters of any Cochin I'm holding for you."
+msgstr ""
+
+msgctxt "1784_Man"
+msgid ""
+"You can view the titles a Cochin has earned. You can switch titles here, "
+"too."
+msgstr ""
+
+msgctxt "1796_Man"
+msgid "What, you want to know about the Cochin Cup Classic?"
+msgstr ""
+
+msgctxt "1808_Man"
+msgid "Aww, you're leaving?"
+msgstr ""
+
+msgctxt "1856_Man"
+msgid "The Cochins are all exhausted. They can't race anymore."
+msgstr ""
+
+msgctxt "1868_Man"
+msgid ""
+"You can't enter any more races like this. At this rate, you should breed a "
+"new Cochin and raise it for racing."
+msgstr ""
+
+msgctxt "1916_Man"
+msgid "Which class are you going to enter?"
+msgstr ""
+
+msgctxt "1940_Man"
+msgid ""
+"The starting class for any Cochin. Train it up and aim for the higher "
+"classes."
+msgstr ""
+
+msgctxt "1952_Man"
+msgid ""
+"This is one rank up from Newcomer. You'll be competing against "
+"better-trained Cochins."
+msgstr ""
+
+msgctxt "1964_Man"
+msgid ""
+"You'll see some stiff competition here, one step away from the Champion "
+"Class."
+msgstr ""
+
+msgctxt "1976_Man"
+msgid ""
+"This is the most challenging class. Only the fastest and the toughest are "
+"allowed to race."
+msgstr ""
+
+msgctxt "2000_Man"
+msgid "The Wind Cup. It's a short course that has no special features."
+msgstr ""
+
+msgctxt "2012_Man"
+msgid "The Novice Cup. It's a short course that has some dirt on it."
+msgstr ""
+
+msgctxt "2024_Man"
+msgid "The Chicken Cup. It's a short course that has a dirt stretch at the start."
+msgstr ""
+
+msgctxt "2036_Man"
+msgid ""
+"The Drake Cup. It's a short course that has a long dirt stretch from the "
+"middle onwards."
+msgstr ""
+
+msgctxt "2048_Man"
+msgid ""
+"The Dawn Cup. The hardest of the Newcomer Class, it's a short course with "
+"dirt in the second half."
+msgstr ""
+
+msgctxt "2060_Man"
+msgid "Oh, you're not going to race."
+msgstr ""
+
+msgctxt "2072_Man"
+msgid "The winner earns 1,000 yen. Want to enter this race?"
+msgstr ""
+
+msgctxt "2084_Man"
+msgid "Off you go, then. Good luck!"
+msgstr ""
+
+msgctxt "2108_Man"
+msgid "The winner earns 1,000 yen. Want to enter this race?"
+msgstr ""
+
+msgctxt "2120_Man"
+msgid "Off you go, then. Good luck!"
+msgstr ""
+
+msgctxt "2144_Man"
+msgid "The winner earns 1,000 yen. Want to enter this race?"
+msgstr ""
+
+msgctxt "2156_Man"
+msgid "Off you go, then. Good luck!"
+msgstr ""
+
+msgctxt "2180_Man"
+msgid "The winner earns 1,000 yen. Want to enter this race?"
+msgstr ""
+
+msgctxt "2192_Man"
+msgid "Off you go, then. Good luck!"
+msgstr ""
+
+msgctxt "2216_Man"
+msgid "The winner earns 1,500 yen. Want to enter this race?"
+msgstr ""
+
+msgctxt "2228_Man"
+msgid "Off you go, then. Good luck!"
+msgstr ""
+
+msgctxt "2264_Man"
+msgid "The Kamikaze Cup. It's a long course with no especially notable features."
+msgstr ""
+
+msgctxt "2276_Man"
+msgid "The Rising Cup. It's a long course with patches of dirt here and there."
+msgstr ""
+
+msgctxt "2288_Man"
+msgid ""
+"The Silver Cup. It's a long course with a middle section that's almost all "
+"dirt. You need a Cochin with high dirt performance here."
+msgstr ""
+
+msgctxt "2300_Man"
+msgid ""
+"The Crystal Cup. It's a long course with dark sections. It won't be a big "
+"factor in this race, but know that Cochins do slow down in darkness."
+msgstr ""
+
+msgctxt "2312_Man"
+msgid ""
+"The Shigure Cup. The toughest of the Challenger Class, it's a long course "
+"with frequent dark stretches."
+msgstr ""
+
+msgctxt "2324_Man"
+msgid "Oh, you're not going to race."
+msgstr ""
+
+msgctxt "2336_Man"
+msgid "The winner earns 2,000 yen. Want to enter this race?"
+msgstr ""
+
+msgctxt "2348_Man"
+msgid "Off you go, then. Good luck!"
+msgstr ""
+
+msgctxt "2372_Man"
+msgid "The winner earns 2,000 yen. Want to enter this race?"
+msgstr ""
+
+msgctxt "2384_Man"
+msgid "Off you go, then. Good luck!"
+msgstr ""
+
+msgctxt "2408_Man"
+msgid "The winner earns 2,000 yen. Want to enter this race?"
+msgstr ""
+
+msgctxt "2420_Man"
+msgid "Off you go, then. Good luck!"
+msgstr ""
+
+msgctxt "2444_Man"
+msgid "The winner earns 2,000 yen. Want to enter this race?"
+msgstr ""
+
+msgctxt "2456_Man"
+msgid "Off you go, then. Good luck!"
+msgstr ""
+
+msgctxt "2480_Man"
+msgid "The winner earns 2,500 yen. Want to enter this race?"
+msgstr ""
+
+msgctxt "2492_Man"
+msgid "Off you go, then. Good luck!"
+msgstr ""
+
+msgctxt "2528_Man"
+msgid ""
+"The Tortoise Cup. It's a short course where Contender Class speedsters can "
+"tear it up."
+msgstr ""
+
+msgctxt "2540_Man"
+msgid "The Phoenix Cup. It's a short course with extended dirt patches early."
+msgstr ""
+
+msgctxt "2552_Man"
+msgid ""
+"The Tiger Cup. It's a short course with frequent dark spots. The short "
+"distance makes it tough to make up ground."
+msgstr ""
+
+msgctxt "2564_Man"
+msgid ""
+"The Dragon Cup. It's a long, oddball course with almost all of it in dirt "
+"or darkness. An average Cochin stands no chance."
+msgstr ""
+
+msgctxt "2576_Man"
+msgid ""
+"The Adamant Cup. The toughest of the Contender Class, it's a long, athletic "
+"course with dirt in the first half and darkness in the second half."
+msgstr ""
+
+msgctxt "2588_Man"
+msgid "Oh, you're not going to race."
+msgstr ""
+
+msgctxt "2600_Man"
+msgid "The winner earns 3,000 yen. Want to enter this race?"
+msgstr ""
+
+msgctxt "2612_Man"
+msgid "Off you go, then. Good luck!"
+msgstr ""
+
+msgctxt "2636_Man"
+msgid "The winner earns 3,000 yen. Want to enter this race?"
+msgstr ""
+
+msgctxt "2648_Man"
+msgid "Off you go, then. Good luck!"
+msgstr ""
+
+msgctxt "2672_Man"
+msgid "The winner earns 3,000 yen. Want to enter this race?"
+msgstr ""
+
+msgctxt "2684_Man"
+msgid "Off you go, then. Good luck!"
+msgstr ""
+
+msgctxt "2708_Man"
+msgid "The winner earns 3,000 yen. Want to enter this race?"
+msgstr ""
+
+msgctxt "2720_Man"
+msgid "Off you go, then. Good luck!"
+msgstr ""
+
+msgctxt "2744_Man"
+msgid "The winner earns 3,500 yen. Want to enter this race?"
+msgstr ""
+
+msgctxt "2756_Man"
+msgid "Off you go, then. Good luck!"
+msgstr ""
+
+msgctxt "2792_Man"
+msgid ""
+"The King Cup. A short course with no obstacles. It's all about Leg Power "
+"here. This is the introduction to the Champion Class."
+msgstr ""
+
+msgctxt "2804_Man"
+msgid ""
+"The Storm Cup. A short course that's almost entirely composed of dirt. "
+"Beside Leg Power, it's a test of dirt performance."
+msgstr ""
+
+msgctxt "2816_Man"
+msgid ""
+"The Black Cup. A long course with frequent dark stretches. Entrants are "
+"often specially trained to race well in the dark."
+msgstr ""
+
+msgctxt "2828_Man"
+msgid ""
+"The Skanda Cup. A long course that's all dirt in the second half. Leg Power "
+"and Stamina are the order of the day for this challenging run."
+msgstr ""
+
+msgctxt "2840_Man"
+msgid ""
+"The Azuchi Cup. The pinnacle of all courses, meant for the toughest and "
+"fastest. Win here to prove yourself a true Cochin master."
+msgstr ""
+
+msgctxt "2852_Man"
+msgid "Oh, you're not going to race."
+msgstr ""
+
+msgctxt "2864_Man"
+msgid "The winner earns 4,000 yen. Want to enter this race?"
+msgstr ""
+
+msgctxt "2876_Man"
+msgid "Off you go, then. Good luck!"
+msgstr ""
+
+msgctxt "2900_Man"
+msgid "The winner earns 4,000 yen. Want to enter this race?"
+msgstr ""
+
+msgctxt "2912_Man"
+msgid "Off you go, then. Good luck!"
+msgstr ""
+
+msgctxt "2936_Man"
+msgid "The winner earns 4,000 yen. Want to enter this race?"
+msgstr ""
+
+msgctxt "2948_Man"
+msgid "Off you go, then. Good luck!"
+msgstr ""
+
+msgctxt "2972_Man"
+msgid "The winner earns 4,000 yen. Want to enter this race?"
+msgstr ""
+
+msgctxt "2984_Man"
+msgid "Off you go, then. Good luck!"
+msgstr ""
+
+msgctxt "3008_Man"
+msgid "The winner earns 4,500 yen. Want to enter this race?"
+msgstr ""
+
+msgctxt "3020_Man"
+msgid "Off you go, then. Good luck!"
+msgstr ""
+
+msgctxt "3080_Man"
+msgid "Hm? Ah, your Cochins have reached the limits of their growth potential."
+msgstr ""
+
+msgctxt "3092_Man"
+msgid ""
+"There's no point in trying to tamper with these perfect manifestations of "
+"poultry. You should focus on breeding the next generation."
+msgstr ""
+
+msgctxt "3104_Man"
+msgid "Which Cochin are you gonna train?"
+msgstr ""
+
+msgctxt "3140_Man"
+msgid "Which trainer are you gonna go with?"
+msgstr ""
+
+msgctxt "3164_Man"
+msgid ""
+"Shimazaki emphasizes Stamina in his training. He has a huge appetite, so "
+"he's happy when he gets food."
+msgstr ""
+
+msgctxt "3176_Man"
+msgid ""
+"Toda concentrates on Leg Power. The man loves his liquor－I see him drunk "
+"off his ass all the time."
+msgstr ""
+
+msgctxt "3188_Man"
+msgid ""
+"Yasaka has a thing against concentrating on any one parameter, so his "
+"training is evenly balanced. He likes his basic sundries."
+msgstr ""
+
+msgctxt "3200_Man"
+msgid ""
+"Kanamiya's training is all about throwing money at improving Traction and "
+"Night Vision. He's a sure hand, but his tastes are expensive."
+msgstr ""
+
+msgctxt "3212_Man"
+msgid "Shimazaki's your choice? What are you giving him as payment?"
+msgstr ""
+
+msgctxt "3224_Man"
+msgid "Toda-san it is. What are you gonna give him as payment?"
+msgstr ""
+
+msgctxt "3236_Man"
+msgid "You chose Yasaka. What are you giving him as payment?"
+msgstr ""
+
+msgctxt "3248_Man"
+msgid "Got it, Kanamiya's your man. What are you giving him as payment?"
+msgstr ""
+
+msgctxt "3284_Man"
+msgid ""
+"All right. Now you might have to be a little patient. You know how they say "
+"it's a virtue? Well they're right."
+msgstr ""
+
+msgctxt "3332_Man"
+msgid ""
+"That should do it. Next time you want to have a trainer work on your "
+"Cochin, let me know."
+msgstr ""
+
+msgctxt "3392_Man"
+msgid "Hmm. Your Cochins are still young and have plenty of growth potential."
+msgstr ""
+
+msgctxt "3404_Man"
+msgid ""
+"Be mindful that poor breeding leads to poor results. Let your Cochins run "
+"and grow some more first."
+msgstr ""
+
+msgctxt "3416_Man"
+msgid ""
+"When you breed, the chick can inherit only up to four skills from the "
+"parent. Don't forget."
+msgstr ""
+
+msgctxt "3476_Man"
+msgid ""
+"Now there's a prodigy with a promising future! Try to raise it to its full "
+"potential."
+msgstr ""
+
+msgctxt "3488_Man"
+msgid "Here, this is yours, too."
+msgstr ""
+
+msgctxt "3560_Man"
+msgid "You don't have a Cochin that needs to forget a skill. Looking good!"
+msgstr ""
+
+msgctxt "3572_Man"
+msgid "I can purge unwanted skills from a Cochin. Which one should I treat?"
+msgstr ""
+
+msgctxt "3608_Man"
+msgid "Okay. It will cost you 5,000 yen, though. Do you want to do it?"
+msgstr ""
+
+msgctxt "3632_Man"
+msgid ""
+"Oops, sorry, you don't have the money. Come back when your wallet isn't "
+"quite so light."
+msgstr ""
+
+msgctxt "3644_Man"
+msgid "Okay, give me a little time."
+msgstr ""
+
+msgctxt "3668_Man"
+msgid "Foul skill... Begone!"
+msgstr ""
+
+msgctxt "3716_Man"
+msgid "There, I'm done. Try to give it a more suitable skill."
+msgstr ""
+
+msgctxt "3728_Man"
+msgid "Which Cochin do you want to check?"
+msgstr ""
+
+msgctxt "3788_Man"
+msgid ""
+"Which Cochin's titles do you want to check? You can switch their titles, "
+"too."
+msgstr ""
+
+msgctxt "3848_Man"
+msgid "The Cochin Cup Handbook has useful information."
+msgstr ""
+
+msgctxt "3860_Man"
+msgid ""
+"Welcome to the Cochin Cup Classic! Work your way through\r\n"
+"the races as an owner to reach the top of the <Color:7>Champion "
+"Class<Color:Default>!\r\n"
+"No new Cochin can win race after race on potential alone－\r\n"
+"they must be trained to develop their abilities."
+msgstr ""
+
+msgctxt "3872_Man"
+msgid ""
+"There is a limit to a Cochin's development, and\r\n"
+"it can run only so many races until it is worn\r\n"
+"out. If it reaches its natural limit, <Color:7>breed<Color:Default> its\r\n"
+"next generation. While the chick's parameters\r\n"
+"will start out lower than the parent's, it has\r\n"
+"more potential to grow as it begins racing."
+msgstr ""
+
+msgctxt "3884_Man"
+msgid ""
+"Repeat the cycle of racing, breeding, and training to\r\n"
+"create elite bloodlines for victory in the Champion Class!"
+msgstr ""
+
+msgctxt "3896_Man"
+msgid "What do you want to know about parameters?"
+msgstr ""
+
+msgctxt "3908_Man"
+msgid ""
+"<Color:7>Leg Power<Color:Default> directly equates to speed－the higher\r\n"
+"the better. Stamina indicates endurance.\r\n"
+"\r\n"
+"The higher the Leg Power, the quicker <Color:7>Stamina<Color:Default> is\r\n"
+"drained. If your bird's Leg Power rises, make\r\n"
+"sure to train it to boost its Stamina as well."
+msgstr ""
+
+msgctxt "3920_Man"
+msgid ""
+"<Color:7>Traction<Color:Default> indicates how well the bird runs in dirt. "
+"The higher the better.\r\n"
+"<Color:7>Night Vision<Color:Default> indicates how resistant the bird is to "
+"slowing in darkness. The higher the value, the better it will run in the "
+"dark."
+msgstr ""
+
+msgctxt "3932_Man"
+msgid ""
+"There are a wide variety of skills－some boost\r\n"
+"your bird's parameters, while others make it\r\n"
+"more likely to stop. Skills can be learned when\r\n"
+"<Color:7>training or breeding<Color:Default>, but not always. A bird can\r\n"
+"learn up to five skills."
+msgstr ""
+
+msgctxt "3944_Man"
+msgid ""
+"There are five <Color:7>condition<Color:Default> levels, ranging from "
+"Perfect to Lousy. Condition changes over time,\r\n"
+"or as a bird races. The better its condition, the more a bird's parameters "
+"will rise during a race."
+msgstr ""
+
+msgctxt "3956_Man"
+msgid ""
+"<Color:7>Personality<Color:Default> affects how condition varies. It may\r\n"
+"change through breeding.\r\n"
+"\r\n"
+"Earnest: Unlikely to be Lousy or Perfect.\r\n"
+"Rogue: Often Poor, but has Good or Perfect runs.\r\n"
+"Fickle: Often Perfect, but Lousy just as often.\r\n"
+"Moody: Often Good or Perfect, but stops often."
+msgstr ""
+
+msgctxt "3968_Man"
+msgid ""
+"There are three <Color:7>running styles<Color:Default>. They may change\r\n"
+"from breeding.\r\n"
+"\r\n"
+"Normal: Gradually speeds up.\r\n"
+"Sprint: Hits top speed early; gradually fades.\r\n"
+"Distance: Initially slow; strong second half."
+msgstr ""
+
+msgctxt "3980_Man"
+msgid ""
+"Select <Color:7>Train a Cochin<Color:Default> from the main page to\r\n"
+"have a trainer work on a bird in exchange for a\r\n"
+"gift. <Color:7>The more expensive a gift, the better the\r\n"
+"parameter gain.<Color:Default> Each trainer has an area they\r\n"
+"focus on when training birds. Though rare, your\r\n"
+"Cochin may learn a skill. Cochins cannot be\r\n"
+"trained beyond their potential, but their growth\r\n"
+"potential can be extended through breeding."
+msgstr ""
+
+msgctxt "3992_Man"
+msgid ""
+"Select <Color:7>Breeding<Color:Default> from the main page to breed\r\n"
+"your Cochin with a hen of your choice."
+msgstr ""
+
+msgctxt "4004_Man"
+msgid ""
+"Breeding has the following effects:\r\n"
+"\r\n"
+"<Color:16>- Boosts parameter growth limits.<Color:Default>\r\n"
+"<Color:16>- Passes on skills.<Color:Default>\r\n"
+"<Color:16>- Reduces the race limit to zero.<Color:Default>\r\n"
+"<Color:16>- If there are five skills, one is forgotten.<Color:Default>\r\n"
+"<Color:16>- A new skill may be learned.<Color:Default>\r\n"
+"<Color:16>- The personality may change.<Color:Default>\r\n"
+"<Color:16>- The running style may change.<Color:Default>"
+msgstr ""
+
+msgctxt "4016_Man"
+msgid ""
+"Breeding is free, but the Cochin must <Color:7>run a\r\n"
+"certain number of races<Color:Default> before it can breed."
+msgstr ""
+
+msgctxt "4028_Man"
+msgid ""
+"There are four classes, each with five races.\r\n"
+"A Cochin can advance to a higher class only by\r\n"
+"winning all five races in a class."
+msgstr ""
+
+msgctxt "4040_Man"
+msgid ""
+"By satisfying certain conditions, a Cochin can\r\n"
+"earn titles after racing. View them by selecting\r\n"
+"<Color:7>View Titles<Color:Default> from the main page."
+msgstr ""
+
+msgctxt "4052_Man"
+msgid ""
+"Your bird can earn prestigious titles, such as:\r\n"
+"\r\n"
+"\r\n"
+"- Flash: Leg Power of 500 or more.\r\n"
+"- Peerless: Win 3 in a row with the same bird.\r\n"
+"- Challenger: Win a race in Challenger Class."
+msgstr ""
+
+msgctxt "4064_Man"
+msgid "You're leaving? Come by again when you can."
+msgstr ""

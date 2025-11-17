@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "5472"
+msgid "Employee"
+msgstr ""
+
+msgctxt "5476"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5480"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "5484"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "5488"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "5492"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "5496"
+msgid "dummy"
+msgstr ""
+
+msgctxt "5500"
+msgid "Player"
+msgstr ""
+
+msgctxt "5504"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "44_Employee"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "92_Kiryu"
+msgid "(What do I want to drink?)"
+msgstr ""
+
+msgctxt "104_Akiyama"
+msgid "(What do I feel like drinking?)"
+msgstr ""
+
+msgctxt "116_Saejima"
+msgid "(What to drink?)"
+msgstr ""
+
+msgctxt "128_Shinada"
+msgid "(What should I drink?)"
+msgstr ""
+
+msgctxt "140_Haruka"
+msgid "(Let's see, what should I drink?)"
+msgstr ""
+
+msgctxt "176_Kiryu"
+msgid "(What should I order for food?)"
+msgstr ""
+
+msgctxt "188_Akiyama"
+msgid "(Now, what do I feel like eating?)"
+msgstr ""
+
+msgctxt "200_Saejima"
+msgid "(What to eat?)"
+msgstr ""
+
+msgctxt "212_Shinada"
+msgid "(What do I feel like eating?)"
+msgstr ""
+
+msgctxt "224_Haruka"
+msgid "(I wonder what food I should order.)"
+msgstr ""
+
+msgctxt "296_Employee"
+msgid "(I'm out of cash.)"
+msgstr ""
+
+msgctxt "320_Player"
+msgid "(I don't need to eat now.)"
+msgstr ""
+
+msgctxt "332_Player"
+msgid "(I don't need to eat now.)"
+msgstr ""
+
+msgctxt "344_Player"
+msgid "(Don't need food now.)"
+msgstr ""
+
+msgctxt "356_Player"
+msgid "(Not hungry yet.)"
+msgstr ""
+
+msgctxt "368_Player"
+msgid "(I'm full now.)"
+msgstr ""
+
+msgctxt "392_Player"
+msgid "Sorry. Something came up."
+msgstr ""
+
+msgctxt "404_Player"
+msgid "Excuse me. I've got an urgent errand."
+msgstr ""
+
+msgctxt "416_Player"
+msgid "Sorry. Gotta run."
+msgstr ""
+
+msgctxt "428_Player"
+msgid "Sorry, I forgot I had to do something."
+msgstr ""
+
+msgctxt "440_Player"
+msgid "I'm so sorry. I have to go."
+msgstr ""
+
+msgctxt "452_Employee"
+msgid "That's all right. We hope to see you again soon."
+msgstr ""
+
+msgctxt "488_Kiryu"
+msgid "(What should I order for food?)"
+msgstr ""
+
+msgctxt "500_Akiyama"
+msgid "(Now, what do I feel like eating?)"
+msgstr ""
+
+msgctxt "512_Saejima"
+msgid "(What to eat?)"
+msgstr ""
+
+msgctxt "524_Shinada"
+msgid "(What do I feel like eating?)"
+msgstr ""
+
+msgctxt "536_Haruka"
+msgid "(I wonder what food I should order.)"
+msgstr ""
+
+msgctxt "584_Employee"
+msgid "Here is your bill. Thank you very much."
+msgstr ""

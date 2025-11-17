@@ -1,0 +1,66 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1696"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1700"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "1704"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1708"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "72_Man"
+msgid "Doesn't look like anyone's here."
+msgstr "Non sembra che ci sia nessuno qui."
+
+msgctxt "84_Man"
+msgid "You have business here, too?"
+msgstr "Pure tu qui per affari?"
+
+msgctxt "96_Kiryu"
+msgid "No, I was just..."
+msgstr "No, stavo solo..."
+
+msgctxt "108_Man"
+msgid "Well, it looks like we both wasted our time, since no one's here."
+msgstr ""
+"Beh, pare che abbiamo entrambi perso tempo, dato che non c'è nessuno qui."
+
+msgctxt "120_Man"
+msgid ""
+"But the guy who runs the place is usually over on <Color:7>West Ose Bridge "
+"Boulevard<Color:Default> when he's not here."
+msgstr ""
+"Ma il tizio che gestisce il posto di solito sta su <Color:7>West Ose Bridge "
+"Boulevard<Color:Default> quando non è qui."
+
+msgctxt "132_Man"
+msgid "I'm good, though. It's too far for me. I can wait till later."
+msgstr "Io sono a posto, però. È troppo lontano per me. Posso aspettare dopo."
+
+msgctxt "144_Kiryu"
+msgid ""
+"(<Color:7>West Ose Bridge Boulevard<Color:Default>, huh? That's near my "
+"apartment. Maybe I should look into what kind of place he's got here.)"
+msgstr ""
+"(<Color:7>West Ose Bridge Boulevard<Color:Default>, eh? Quello è vicino al "
+"mio appartamento. Forse dovrei dare un'occhiata a che tipo di posto ha qui.)"

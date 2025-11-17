@@ -1,0 +1,402 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "14344"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "14348"
+msgid "Tournament Staffer"
+msgstr ""
+
+msgctxt "14352"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "14356"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "14360"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "14364"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "14368"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "14372"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "14376"
+msgid "The Victory Road Championship Tournament"
+msgstr ""
+
+msgctxt "14380"
+msgid "Yes"
+msgstr ""
+
+msgctxt "14384"
+msgid "Not Yet"
+msgstr ""
+
+msgctxt "14388"
+msgid "Register for a Tournament"
+msgstr ""
+
+msgctxt "14392"
+msgid "Ask About the Coliseum"
+msgstr ""
+
+msgctxt "14396"
+msgid "View Competitor Data"
+msgstr ""
+
+msgctxt "14400"
+msgid "View Battle Record"
+msgstr ""
+
+msgctxt "14404"
+msgid "View Battle Rankings"
+msgstr ""
+
+msgctxt "14408"
+msgid "Exchange Points"
+msgstr ""
+
+msgctxt "14412"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "14416"
+msgid "View Basic Rules"
+msgstr ""
+
+msgctxt "14420"
+msgid "Ask About Tag Battles"
+msgstr ""
+
+msgctxt "14424"
+msgid "Ask About Battle Rankings"
+msgstr ""
+
+msgctxt "14428"
+msgid "Return to the Menu"
+msgstr ""
+
+msgctxt "14432"
+msgid "dummy"
+msgstr ""
+
+msgctxt "14436"
+msgid "Coliseum Shortsword"
+msgstr ""
+
+msgctxt "14440"
+msgid "Coliseum Katana"
+msgstr ""
+
+msgctxt "14444"
+msgid "Coliseum Spear"
+msgstr ""
+
+msgctxt "14448"
+msgid "Coliseum Knuckles"
+msgstr ""
+
+msgctxt "14452"
+msgid "Coliseum Hammer"
+msgstr ""
+
+msgctxt "14456"
+msgid "Coliseum Nunchaku"
+msgstr ""
+
+msgctxt "14460"
+msgid "Coliseum Tonfa"
+msgstr ""
+
+msgctxt "14464"
+msgid "Coliseum Kali Sticks"
+msgstr ""
+
+msgctxt "14468"
+msgid "Forget the Whole Thing"
+msgstr ""
+
+msgctxt "14472"
+msgid "Homeless Man"
+msgstr ""
+
+msgctxt "14476"
+msgid "Coliseum Bouncer"
+msgstr ""
+
+msgctxt "14480"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "156_Haruka"
+msgid "(Um, no. I can't do this.)"
+msgstr ""
+
+msgctxt "168_Haruka"
+msgid ""
+"Ah, Shinada-sama. I'm very sorry, sir, but you are not yet qualified to "
+"compete in the Underground Coliseum."
+msgstr ""
+
+msgctxt "180_Haruka"
+msgid ""
+"Participation in our tournaments is strictly limited to those who have won "
+"their local Victory Road preliminaries."
+msgstr ""
+
+msgctxt "192_Haruka"
+msgid ""
+"Let's see... Ah, I'm happy to say that you are eligible to join the\r\n"
+"preliminaries in Kineicho."
+msgstr ""
+
+msgctxt "204_Haruka"
+msgid "We hope to see you advance from there."
+msgstr ""
+
+msgctxt "216_Haruka"
+msgid "(Victory Road preliminaries, huh? And they're going on in Kineicho...)"
+msgstr ""
+
+msgctxt "228_Haruka"
+msgid ""
+"(I need to qualify for the tournament. So I'll just scoot on back to "
+"Kineicho and show those other hopefuls what's what.)"
+msgstr ""
+
+msgctxt "240_Haruka"
+msgid ""
+"Ah, Akiyama-sama. I'm very sorry, sir, but you are not yet qualified to "
+"compete in the Underground Coliseum."
+msgstr ""
+
+msgctxt "252_Haruka"
+msgid ""
+"Participation in our tournaments is strictly limited to those who have won "
+"their local Victory Road preliminaries."
+msgstr ""
+
+msgctxt "264_Haruka"
+msgid ""
+"Let's see... Ah, I'm happy to say that you are eligible to join the\r\n"
+"preliminaries in Sotenbori."
+msgstr ""
+
+msgctxt "276_Haruka"
+msgid "We hope to see you advance from there."
+msgstr ""
+
+msgctxt "288_Haruka"
+msgid "(All righty, the Victory Road preliminaries are in Sotenbori.)"
+msgstr ""
+
+msgctxt "300_Haruka"
+msgid ""
+"(To qualify, I have to edge out the other Victory Road players in "
+"Sotenbori. Those poor saps... they don't know what's coming.)"
+msgstr ""
+
+msgctxt "312_Haruka"
+msgid ""
+"Ah, Saejima-sama. I'm very sorry, sir, but you are not yet qualified to "
+"compete in the Underground Coliseum."
+msgstr ""
+
+msgctxt "324_Haruka"
+msgid ""
+"Participation in our tournaments is strictly limited to those who have won "
+"their local Victory Road preliminaries."
+msgstr ""
+
+msgctxt "336_Haruka"
+msgid ""
+"Let's see... Ah, I'm happy to say you are eligible to join the\r\n"
+"preliminaries in Tsukimino."
+msgstr ""
+
+msgctxt "348_Haruka"
+msgid ""
+"But given your unique abilities, Saejima-sama, we could waive the prelim "
+"requirement."
+msgstr ""
+
+msgctxt "360_Haruka"
+msgid ""
+"For you, I imagine the preliminaries would just be a quick warm-up "
+"exercise. We look forward to seeing you in the tournament."
+msgstr ""
+
+msgctxt "372_Haruka"
+msgid "(Victory Road prelims are in Tsukimino.)"
+msgstr ""
+
+msgctxt "384_Haruka"
+msgid "(Gotta win the prelims in Tsukimino if I wanna qualify fair n' square.)"
+msgstr ""
+
+msgctxt "396_Haruka"
+msgid ""
+"Ah, Kiryu-sama. I'm very sorry, but you are not yet qualified to compete in "
+"the Underground Coliseum."
+msgstr ""
+
+msgctxt "408_Haruka"
+msgid ""
+"Participation in our tournaments is strictly limited to those who have won "
+"their local Victory Road preliminaries."
+msgstr ""
+
+msgctxt "420_Haruka"
+msgid ""
+"Let's see... Ah, I'm happy to say you are eligible to join the\r\n"
+"preliminaries in Nagasugai."
+msgstr ""
+
+msgctxt "432_Haruka"
+msgid ""
+"But given your unique abilities, Kiryu-sama, we could waive the "
+"preliminaries requirement."
+msgstr ""
+
+msgctxt "444_Haruka"
+msgid ""
+"For you, I imagine the preliminaries would just be a quick warm-up "
+"exercise. We look forward to seeing you in the tournament."
+msgstr ""
+
+msgctxt "456_Haruka"
+msgid "(Need to remember those Victory Road preliminaries are in Nagasugai.)"
+msgstr ""
+
+msgctxt "468_Haruka"
+msgid ""
+"(To qualify fairly, I'll have to survive the other Victory Road fighters "
+"back in Nagasugai.)"
+msgstr ""
+
+msgctxt "564_Haruka"
+msgid "We've been waiting for you, Kiryu-san."
+msgstr ""
+
+msgctxt "576_Haruka"
+msgid ""
+"The Victory Road finals will begin soon, and a new champion of the "
+"Underground Coliseum will be crowned."
+msgstr ""
+
+msgctxt "588_Haruka"
+msgid ""
+"The audience is beside themselves with excitement. I've never seen them so "
+"worked up!"
+msgstr ""
+
+msgctxt "600_Haruka"
+msgid "Are you ready, Kiryu-san? We would like to begin."
+msgstr ""
+
+msgctxt "612_Haruka"
+msgid ""
+"In the finals, you will face tough opponents one after another. It will be "
+"single knockout style－if you lose, you're out for good! It is therefore "
+"recommended that you save before you enter the tournament."
+msgstr ""
+
+msgctxt "624_Haruka"
+msgid "Are you ready?"
+msgstr ""
+
+msgctxt "636_Haruka"
+msgid "Let's go."
+msgstr ""
+
+msgctxt "648_Haruka"
+msgid "Excellent, sir. Please wait a moment while we prepare on our end."
+msgstr ""
+
+msgctxt "684_Haruka"
+msgid "I see. Please let me know when you are ready."
+msgstr ""
+
+msgctxt "696_Haruka"
+msgid "We've been waiting for you, Kiryu-san."
+msgstr ""
+
+msgctxt "708_Haruka"
+msgid ""
+"It should be just a little more time before we start the Victory Road "
+"finals. Thank you for your patience."
+msgstr ""
+
+msgctxt "720_Haruka"
+msgid ""
+"If you would like to participate in regular Coliseum tournaments, I can "
+"help you with that."
+msgstr ""
+
+msgctxt "732_Haruka"
+msgid ""
+"Congratulations on winning the Victory Road Championship Tournament! We're "
+"very happy for you and your incredible accomplishment."
+msgstr ""
+
+msgctxt "744_Haruka"
+msgid ""
+"Please note that, pursuant to our rights, we will be publicizing this event "
+"to educate the public about the premium violence available at the "
+"Underground Coliseum."
+msgstr ""
+
+msgctxt "756_Haruka"
+msgid ""
+"You agreed to let us use your likeness for this purpose when you registered "
+"for the tournament. We hope for your continued patronage. Have a nice day!"
+msgstr ""
+
+msgctxt "768_Haruka"
+msgid "Welcome to the Coliseum. How may I help you?"
+msgstr ""
+
+msgctxt "840_Haruka"
+msgid ""
+"Please choose a weapon. Also, be aware that any weapons and/or protective "
+"gear you currently have will be ineffective."
+msgstr ""
+
+msgctxt "1032_Haruka"
+msgid "We look forward to your next visit."
+msgstr ""
+
+msgctxt "1044_Haruka"
+msgid "Sorry. The Underground Coliseum's not ready for action yet."
+msgstr ""
+
+msgctxt "1056_Haruka"
+msgid "Come back later."
+msgstr ""
+
+msgctxt "1068_Coliseum Bouncer"
+msgid "You're cleared. Go on in."
+msgstr ""

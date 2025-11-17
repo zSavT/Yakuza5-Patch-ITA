@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-25\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "281\tSKILL_NAME"
+msgid "Ice Walk"
+msgstr ""
+
+msgctxt "290\tSKILL_NAME"
+msgid "Snowman"
+msgstr ""
+
+msgctxt "298\tSKILL_NAME"
+msgid "Spotter"
+msgstr ""
+
+msgctxt "306\tSKILL_NAME"
+msgid "Stealth"
+msgstr ""
+
+msgctxt "314\tSKILL_NAME"
+msgid "Deadeye"
+msgstr ""
+
+msgctxt "322\tSKILL_NAME"
+msgid "Mastery"
+msgstr ""
+
+msgctxt "330\tSKILL_EXPLANATION"
+msgid "Boost snow walking speed"
+msgstr ""
+
+msgctxt "355\tSKILL_EXPLANATION"
+msgid "Cut blizzard health loss"
+msgstr ""
+
+msgctxt "380\tSKILL_EXPLANATION"
+msgid "See animals on minimap"
+msgstr ""
+
+msgctxt "403\tSKILL_EXPLANATION"
+msgid "Boost camo in crouch"
+msgstr ""
+
+msgctxt "424\tSKILL_EXPLANATION"
+msgid "Boost aim"
+msgstr ""
+
+msgctxt "434\tSKILL_EXPLANATION"
+msgid "Boost aim/decrease health loss"
+msgstr ""

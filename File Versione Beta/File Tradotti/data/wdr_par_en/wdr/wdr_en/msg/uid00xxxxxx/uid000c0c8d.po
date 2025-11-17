@@ -1,0 +1,242 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "292"
+msgid "You got <Color:8>10,000 yen<Color:Default>."
+msgstr "Hai ottenuto <Color:8>10.000 yen<Color:Default>."
+
+msgctxt "400"
+msgid "You got 4,000 experience points."
+msgstr "Hai ottenuto 4.000 punti esperienza."
+
+msgctxt "8756"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "8760"
+msgid "Paparazzo"
+msgstr "Paparazzo"
+
+msgctxt "8764"
+msgid "Uda"
+msgstr "Uda"
+
+msgctxt "8768"
+msgid "ACDEV0138"
+msgstr "ACDEV0138"
+
+msgctxt "8772"
+msgid "Idle"
+msgstr "Inattivo"
+
+msgctxt "8776"
+msgid "M_yng_damage"
+msgstr "M_yng_damage"
+
+msgctxt "8780"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "8784"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "8788"
+msgid "Talk_Get"
+msgstr "Talk_Get"
+
+msgctxt "8792"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "8796"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "8800"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "8804"
+msgid "0"
+msgstr "0"
+
+msgctxt "8808"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "76_Haruka"
+msgid "(There he is again!)"
+msgstr "(Eccolo di nuovo!)"
+
+msgctxt "88_Paparazzo"
+msgid "...!"
+msgstr "...!"
+
+msgctxt "100_Uda"
+msgid "Sawamura-san!"
+msgstr "Sawamura-san!"
+
+msgctxt "112_Haruka"
+msgid "Uda-san!  There he is! That's the paparazzo!"
+msgstr "Uda-san! Eccolo! È lui il paparazzo!"
+
+msgctxt "124_Uda"
+msgid "Got it! Leave this to me!"
+msgstr "Capito! Ci penso io!"
+
+msgctxt "196_Haruka"
+msgid "*pant* *pant* We got him. Nice going, Sawamura-san!"
+msgstr "*pant* *pant* Lo abbiamo beccato. Brava, Sawamura-san!"
+
+msgctxt "208_Paparazzo"
+msgid "I'm sorry! I'll never do it again! Just let me go!"
+msgstr "Mi dispiace! Non lo farò mai più! Lasciami andare!"
+
+msgctxt "220_Haruka"
+msgid ""
+"I never noticed that someone was following me and taking\r\n"
+"pictures..."
+msgstr ""
+"Non mi ero mai accorta che qualcuno mi stava seguendo e scattando\\ndelle "
+"foto..."
+
+msgctxt "232_Paparazzo"
+msgid ""
+"No idea, right? You wouldn't believe the lengths to which we\r\n"
+"go to stay unnoticed. It's practically an art!"
+msgstr ""
+"Non hai idea, vero? Non ti immagineresti nemmeno a che limiti arriviamo per\n"
+"passare inosservati. È praticamente un'arte!"
+
+msgctxt "244_Uda"
+msgid ""
+"\"Art\"!? I'll give you \"art\"! I'm kicking you out of this\r\n"
+"town! If I see you here again, I'm calling the police!\r\n"
+"Understood!?"
+msgstr ""
+"\"Arte\"!? Te la do io \"l'arte\"! Ti sbatto fuori da questa\n"
+"città! Se ti rivedo qui, chiamo la polizia!\n"
+"Capito!?"
+
+msgctxt "256_Paparazzo"
+msgid "Understood."
+msgstr "Capito."
+
+msgctxt "268_Uda"
+msgid "Thank you very much for your help, Sawamura-san."
+msgstr "La ringrazio molto per il suo aiuto, Sawamura-san."
+
+msgctxt "280_Uda"
+msgid ""
+"On behalf of the entire Merchants Association, I'd like to\r\n"
+"give you this small token of our appreciation."
+msgstr ""
+"A nome dell'intera Associazione dei Commercianti, vorrei\n"
+"darti questo piccolo segno del nostro apprezzamento."
+
+msgctxt "304_Paparazzo"
+msgid ""
+"Heheh. Well, this isn't the last you'll see of paparazzi!\r\n"
+"Wherever there's an idol, that's where we'll be!"
+msgstr ""
+"Eheheh. Beh, non è finita qui con i paparazzi!\n"
+"Dovunque ci sia un'idol, lì ci saremo noi!"
+
+msgctxt "316_Uda"
+msgid "Can it, buddy! Now, get lost! And never come back!"
+msgstr "Piantala, amico! Ora, sparisci! E non farti mai più vedere!"
+
+msgctxt "328_Paparazzo"
+msgid "...Yes, sir."
+msgstr "...Sì, signore."
+
+msgctxt "412_Haruka"
+msgid "(There he is! That's the paparazzo!)"
+msgstr "(Eccolo! È il paparazzo!)"
+
+msgctxt "424_Haruka"
+msgid "(Uh-oh! He took off again! I'd better tell Uda-san!)"
+msgstr "(Ops! È di nuovo filato via! Meglio che lo dica a Uda-san!)"
+
+msgctxt "448_Haruka"
+msgid "Uda here. Sawamura-san?"
+msgstr "Sono Uda. Sawamura-san?"
+
+msgctxt "460_Haruka"
+msgid ""
+"Yes. The paparazzo is running away! He's heading toward\r\n"
+"West Sotenbori Street! Where are you now, Uda-san?"
+msgstr ""
+"Sì. Il paparazzo sta scappando! Si sta dirigendo verso\n"
+"West Sotenbori Street! Dove sei ora, Uda-san?"
+
+msgctxt "472_Uda"
+msgid ""
+"I'm almost to Shofukucho! Please keep him in your sights\r\n"
+"just a little bit longer!"
+msgstr ""
+"Sono quasi a Shofukucho! Ti prego, tienilo d'occhio\n"
+"ancora un altro po'!"
+
+msgctxt "484_Haruka"
+msgid "All right! I'll do my best!"
+msgstr "Va bene! Ce la metterò tutta!"
+
+msgctxt "496_Haruka"
+msgid ""
+"(The paparazzo headed toward West Sotenbori Street. I can't\r\n"
+"let him get away!)"
+msgstr ""
+"(Il paparazzo si è diretto verso West Sotenbori Street. Non posso\n"
+"lasciarlo scappare!)"
+
+msgctxt "544_Haruka"
+msgid "(There! That must be him. I'd better call Uda-san.)"
+msgstr "(Eccolo! Dev'essere lui. Faccio meglio a chiamare Uda-san.)"
+
+msgctxt "556_Uda"
+msgid "Hello. Uda here. Is that you, Sawamura-san?"
+msgstr "Salve. Qui Uda. Sei tu, Sawamura-san?"
+
+msgctxt "568_Haruka"
+msgid "Yes! I found the paparazzo! He's wearing a fishing vest!"
+msgstr "Sì! Ho beccato il paparazzo! Ha un gilet da pesca addosso!"
+
+msgctxt "580_Uda"
+msgid "Great work! And what is he doing now?"
+msgstr "Gran lavoro! E che sta combinando adesso?"
+
+msgctxt "592_Haruka"
+msgid ""
+"Oh, no! He just took off. It looks like he's heading toward\r\n"
+"West Shofukucho!"
+msgstr ""
+"Oh, no! È scappato via. Pare che si stia dirigendo verso\\nShofukucho Ovest!"
+
+msgctxt "604_Uda"
+msgid "All right! I'm on my way! Don't let him out of your sight!"
+msgstr "Perfetto! Sto arrivando! Non perderlo di vista!"
+
+msgctxt "616_Haruka"
+msgid "All right! I won't!"
+msgstr "Va bene! Non lo farò!"
+
+msgctxt "628_Haruka"
+msgid ""
+"(The paparazzo headed toward West Shofukucho. I'd better\r\n"
+"get after him before he gets away!)"
+msgstr ""
+"(Il paparazzo si è diretto verso West Shofukucho. Meglio che gli stia dietro\n"
+"prima che scappi!)"

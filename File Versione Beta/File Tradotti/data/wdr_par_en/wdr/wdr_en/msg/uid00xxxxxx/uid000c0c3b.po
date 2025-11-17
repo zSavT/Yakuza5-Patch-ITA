@@ -1,0 +1,129 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "4072"
+msgid "Gambler"
+msgstr "Giocatore d'azzardo"
+
+msgctxt "4076"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "4080"
+msgid "HAL_TLK_stand_request02"
+msgstr "HAL_TLK_stand_request02"
+
+msgctxt "4084"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "4088"
+msgid "Give It a Try"
+msgstr "Provaci"
+
+msgctxt "4092"
+msgid "Forget It"
+msgstr "Lascia perdere"
+
+msgctxt "4096"
+msgid "HAL_TLK_stand_unhappy"
+msgstr "HAL_TLK_stand_unhappy"
+
+msgctxt "4100"
+msgid "Guide"
+msgstr "Guida"
+
+msgctxt "4104"
+msgid "I'm in."
+msgstr "Ci sto."
+
+msgctxt "4108"
+msgid "Never mind."
+msgstr "Lascia stare."
+
+msgctxt "4112"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "60_Gambler"
+msgid "Hey, buddy! Wanna play koi-koi?"
+msgstr "Ehi, socio! Ti va di giocare a koi-koi?"
+
+msgctxt "72_Haruka"
+msgid ""
+"Uncle Kaz! See if you can <Color:8>win 1,000 points or more at koi-"
+"koi<Color:Default>. You know the hands, right?"
+msgstr ""
+"Zio Kaz! Vedi se riesci a <Color:8>vincere 1.000 punti o più a koi-"
+"koi<Color:Default>. Conosci le combinazioni, vero?"
+
+msgctxt "84_Kiryu"
+msgid ""
+"(Haruka wants me to <Color:8>win 1,000 points or more at koi-"
+"koi<Color:Default>.)"
+msgstr ""
+"(Haruka vuole che io <Color:8>vinca almeno 1.000 punti a koi-"
+"koi<Color:Default>.)"
+
+msgctxt "108_Haruka"
+msgid "Aww, okay. Some other time."
+msgstr "Ah, va bene. Magari un'altra volta."
+
+msgctxt "120_Guide"
+msgid "All right. Maybe next time, then."
+msgstr "Ok. Magari la prossima volta, allora."
+
+msgctxt "144_Gambler"
+msgid ""
+"Hang on, you need at least 200 points to play koi-koi. Buy them at the front"
+" desk, okay?"
+msgstr ""
+"Aspetta un attimo, ti servono almeno 200 punti per giocare a koi-koi. "
+"Comprali alla reception, ok?"
+
+msgctxt "156_Gambler"
+msgid "Excellent. You're in?"
+msgstr "Ottimo. Ci stai?"
+
+msgctxt "216_Gambler"
+msgid "That's what I wanted to hear! Right this way!"
+msgstr "Questo sì che è parlare! Forza, da questa parte!"
+
+msgctxt "228_Haruka"
+msgid "Good luck, Uncle Kaz!"
+msgstr "Buona fortuna, Zio Kaz!"
+
+msgctxt "252_Gambler"
+msgid "Is that so? Drop by again, okay?"
+msgstr "Davvero? Passa ancora, ok?"
+
+msgctxt "276_Gambler"
+msgid ""
+"Hang on, you need at least 200 points to play koi-koi. Buy them at the front"
+" desk, okay?"
+msgstr ""
+"Aspetta un attimo, ti servono almeno 200 punti per giocare a koi-koi. "
+"Comprali alla reception, ok?"
+
+msgctxt "288_Gambler"
+msgid "Hey, buddy! Wanna play koi-koi?"
+msgstr "Ehi, socio! Ti va di giocare a koi-koi?"
+
+msgctxt "348_Gambler"
+msgid "That's what I wanted to hear! Right this way!"
+msgstr "Questo sì che è parlare! Forza, da questa parte!"
+
+msgctxt "372_Gambler"
+msgid "Is that so? Drop by again, okay?"
+msgstr "Davvero? Passa ancora, ok?"

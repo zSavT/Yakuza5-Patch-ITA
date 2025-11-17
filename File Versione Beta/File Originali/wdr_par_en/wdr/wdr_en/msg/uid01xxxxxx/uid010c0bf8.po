@@ -1,0 +1,494 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "23248"
+msgid "Kanahara"
+msgstr ""
+
+msgctxt "23252"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "23256"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "23260"
+msgid "Sodachi"
+msgstr ""
+
+msgctxt "23264"
+msgid "M_nml_sitgrd"
+msgstr ""
+
+msgctxt "23268"
+msgid "P_TLK_stand_syagamu_st"
+msgstr ""
+
+msgctxt "23272"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "23276"
+msgid "SB05_P_SAE_TLK_daki_dead"
+msgstr ""
+
+msgctxt "23280"
+msgid "SB05_M_SOD_TLK_dam_dead"
+msgstr ""
+
+msgctxt "23284"
+msgid "SB05_P_SAE_TLK_daki_sleep"
+msgstr ""
+
+msgctxt "23288"
+msgid "SB05_M_SOD_TLK_dam_sleep"
+msgstr ""
+
+msgctxt "23292"
+msgid "SB05_P_SAE_TLK_daki_atk"
+msgstr ""
+
+msgctxt "23296"
+msgid "SB05_M_SOD_TLK_dam_react"
+msgstr ""
+
+msgctxt "23300"
+msgid "P_SAE_stand"
+msgstr ""
+
+msgctxt "23304"
+msgid "StandUp"
+msgstr ""
+
+msgctxt "23308"
+msgid "M_NML_TLK_stand_kagamu_lp"
+msgstr ""
+
+msgctxt "23312"
+msgid "M_NML_TLK_stand_kagamu_ed"
+msgstr ""
+
+msgctxt "23316"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "23320"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "23324"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "23328"
+msgid "P_TLK_stand_hirou_st"
+msgstr ""
+
+msgctxt "23332"
+msgid "P_TLK_stand_hirou_lp"
+msgstr ""
+
+msgctxt "23336"
+msgid "P_TLK_stand_hirou_ed"
+msgstr ""
+
+msgctxt "23340"
+msgid "Short Man"
+msgstr ""
+
+msgctxt "23344"
+msgid "M_ykz_damage"
+msgstr ""
+
+msgctxt "23348"
+msgid "Stand"
+msgstr ""
+
+msgctxt "23352"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "23356"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "23360"
+msgid "Burly Man"
+msgstr ""
+
+msgctxt "23364"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "23368"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "23372"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "72_Kanahara"
+msgid "How did you do that? How strong can one man be?"
+msgstr ""
+
+msgctxt "84_Saejima"
+msgid "Don't worry. You're about to find out."
+msgstr ""
+
+msgctxt "96_Kanahara"
+msgid ""
+"Uh, looks like the gym project's delayed, indefinitely! Sorry to bother you "
+"gentlemen!"
+msgstr ""
+
+msgctxt "120_Kanahara"
+msgid "*gasp*"
+msgstr ""
+
+msgctxt "132_Saejima"
+msgid "Sodachi!"
+msgstr ""
+
+msgctxt "168_Kanahara"
+msgid "Hey! Hang in there!"
+msgstr ""
+
+msgctxt "180_Sodachi"
+msgid "Saejima-san... I bit off a lot more than I can chew..."
+msgstr ""
+
+msgctxt "192_Sodachi"
+msgid ""
+"But it's okay. I just hope that when I'm reborn... I'll come back as "
+"someone who's as strong and cool as you..."
+msgstr ""
+
+msgctxt "204_Saejima"
+msgid "Quit spoutin' nonsense! Talkin' ain't gonna help your injuries."
+msgstr ""
+
+msgctxt "216_Sodachi"
+msgid "Please... tell the students... that they should carry on. And... and..."
+msgstr ""
+
+msgctxt "228_Saejima"
+msgid "And...? What is it, Sodachi?"
+msgstr ""
+
+msgctxt "240_Sodachi"
+msgid "I'm... so glad I met you, Saejima-san... You're my... hero... Thank you."
+msgstr ""
+
+msgctxt "264_Kanahara"
+msgid "Sodachi!"
+msgstr ""
+
+msgctxt "300_Kanahara"
+msgid ""
+"Graaah...\r\n"
+"Graaah..."
+msgstr ""
+
+msgctxt "348_Kanahara"
+msgid "Urgh... Fluh... Can't eat anymore... *snore*"
+msgstr ""
+
+msgctxt "360_Saejima"
+msgid "(You gotta be kiddin' me.)"
+msgstr ""
+
+msgctxt "384_Kanahara"
+msgid "Yowch!"
+msgstr ""
+
+msgctxt "468_Kanahara"
+msgid "Oh! Good morning, Saejima-san."
+msgstr ""
+
+msgctxt "480_Saejima"
+msgid "...It ain't fuckin' mornin'. Shit, I thought ya died, man!"
+msgstr ""
+
+msgctxt "492_Sodachi"
+msgid "Oh. I'm sorry! But, you were worried for me? Hehe, that is music to my ears."
+msgstr ""
+
+msgctxt "504_Saejima"
+msgid ""
+"Unbelievable. Enjoy it while ya can, Sodachi, 'cause I'm goin'. Glad you're "
+"not dead."
+msgstr ""
+
+msgctxt "528_Kanahara"
+msgid "Once again, I'm eternally grateful to you, Saejima-san!"
+msgstr ""
+
+msgctxt "540_Sodachi"
+msgid ""
+"If it weren't for you, in all likelihood they would've taken the dojo. It "
+"shames me to admit, but it's true. I'm still too weak."
+msgstr ""
+
+msgctxt "552_Saejima"
+msgid "What are ya sayin'? You ain't weak. Ya stood up to those jerks."
+msgstr ""
+
+msgctxt "564_Saejima"
+msgid "I'm gone for just a short time, and look how tough ya get!"
+msgstr ""
+
+msgctxt "576_Sodachi"
+msgid "Saejima-san..."
+msgstr ""
+
+msgctxt "588_Sodachi"
+msgid "I can't believe what I'm hearing! The great Saejima thinks I'm tough. Me!"
+msgstr ""
+
+msgctxt "600_Saejima"
+msgid "(Already regretting what I said...)"
+msgstr ""
+
+msgctxt "612_Saejima"
+msgid ""
+"All right. I gotta go. You keep protectin' the dojo... This place is "
+"chock-full of memories."
+msgstr ""
+
+msgctxt "624_Sodachi"
+msgid ""
+"You can count on me! Please do take care, Saejima-san. And visit us again "
+"some day!"
+msgstr ""
+
+msgctxt "672_Kanahara"
+msgid "Sodachi!"
+msgstr ""
+
+msgctxt "696_Kanahara"
+msgid "Saejima-san...?"
+msgstr ""
+
+msgctxt "708_Kanahara"
+msgid "What happened here?"
+msgstr ""
+
+msgctxt "720_Sodachi"
+msgid "They did..."
+msgstr ""
+
+msgctxt "744_Kanahara"
+msgid "Who the hell're you?"
+msgstr ""
+
+msgctxt "756_Short Man"
+msgid ""
+"I'm Kanahara, and that was a very rude way to greet someone who's here to "
+"help you... After all, I represent Angel Real Estate. Most folks would "
+"welcome the appearance of an angel."
+msgstr ""
+
+msgctxt "768_Saejima"
+msgid ""
+"Angels don't go around roughin' up a buncha kids. An' neither do real "
+"estate agents, asshole."
+msgstr ""
+
+msgctxt "780_Kanahara"
+msgid "Haha, you got me there. But you know, we did try to be reasonable."
+msgstr ""
+
+msgctxt "792_Kanahara"
+msgid ""
+"All we wanted was to buy this dump. Sadly, Sodachi-san did not accept our "
+"offer. So, a little persuasion was called for."
+msgstr ""
+
+msgctxt "804_Saejima"
+msgid "You want Sodachi Dojo?"
+msgstr ""
+
+msgctxt "816_Kanahara"
+msgid "Well, not the dojo itself, but rather its excellent location."
+msgstr ""
+
+msgctxt "828_Kanahara"
+msgid ""
+"We've been watching this property for a long time. Now that you all have "
+"completed the build-out, we're ready to take it off your hands."
+msgstr ""
+
+msgctxt "840_Kanahara"
+msgid ""
+"There's a lot of profit to be made here... once we turn it into a high "
+"class gym for Kamurocho yuppies."
+msgstr ""
+
+msgctxt "852_Kanahara"
+msgid ""
+"No more grimy dojo that lets in just anybody. We'll make the property what "
+"it was always destined to be: a goldmine."
+msgstr ""
+
+msgctxt "864_Kanahara"
+msgid "And it's not like we're just taking it. We made a fair and generous offer."
+msgstr ""
+
+msgctxt "876_Kanahara"
+msgid "But since Sodachi-san turned it down..."
+msgstr ""
+
+msgctxt "888_Saejima"
+msgid "You shitbags used force. High class, indeed."
+msgstr ""
+
+msgctxt "900_Kanahara"
+msgid ""
+"Well. Dojo masters are known for being obstinate, and rather stupid. Your "
+"friend is no exception."
+msgstr ""
+
+msgctxt "924_Kanahara"
+msgid "This place isn't about money. It's... so much more... to so many people."
+msgstr ""
+
+msgctxt "936_Kanahara"
+msgid ""
+"My, I'm surprised you had it in you to stand up, after the beating you "
+"took. Too bad such courage is useless when it's inside a weak body like "
+"yours."
+msgstr ""
+
+msgctxt "948_Kanahara"
+msgid "I suppose you need more persuading. Gentlemen?"
+msgstr ""
+
+msgctxt "972_Kanahara"
+msgid "Who are the goons?"
+msgstr ""
+
+msgctxt "984_Sodachi"
+msgid ""
+"Guys Kanahara hired. And they're not just tough－they're armed! The students "
+"didn't stand a chance..."
+msgstr ""
+
+msgctxt "996_Saejima"
+msgid "Okay. I get the picture. I'll take 'em."
+msgstr ""
+
+msgctxt "1008_Sodachi"
+msgid "No, don't!"
+msgstr ""
+
+msgctxt "1020_Saejima"
+msgid "Hm!?"
+msgstr ""
+
+msgctxt "1032_Sodachi"
+msgid "This is my dojo. I will protect it with my own two fists."
+msgstr ""
+
+msgctxt "1044_Sodachi"
+msgid "I promised you that I'd keep this dojo going."
+msgstr ""
+
+msgctxt "1056_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "1068_Sodachi"
+msgid "I may be weak, I may be a nobody, but I won't break my promise."
+msgstr ""
+
+msgctxt "1080_Saejima"
+msgid "Sodachi..."
+msgstr ""
+
+msgctxt "1104_Kanahara"
+msgid ""
+"This place is special. It's where some incredible students trained, and "
+"it's where we gave so much of ourselves, Saejima-san."
+msgstr ""
+
+msgctxt "1116_Sodachi"
+msgid ""
+"I'm not turning it over to some thugs who just want to make money. I never "
+"will!"
+msgstr ""
+
+msgctxt "1128_Sodachi"
+msgid "I will fight for Sodachi Dojo!"
+msgstr ""
+
+msgctxt "1140_Kanahara"
+msgid ""
+"BO-ring... Haha! Put them out of their misery, boys. This'll be cheaper "
+"than buying them out anyway."
+msgstr ""
+
+msgctxt "1152_Burly Man"
+msgid "Got it. Hehehe."
+msgstr ""
+
+msgctxt "1164_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "1176_Sodachi"
+msgid "Saejima-san? Please, don't! I have to do this by myself..."
+msgstr ""
+
+msgctxt "1188_Saejima"
+msgid "Sodachi, aren't ya forgettin' something?"
+msgstr ""
+
+msgctxt "1200_Sodachi"
+msgid "What?"
+msgstr ""
+
+msgctxt "1212_Saejima"
+msgid "You're not the only one with great memories of this place."
+msgstr ""
+
+msgctxt "1224_Saejima"
+msgid "It's special to me, too. Means more to me than I can say."
+msgstr ""
+
+msgctxt "1236_Sodachi"
+msgid "Saejima-san..."
+msgstr ""
+
+msgctxt "1248_Saejima"
+msgid ""
+"A dojo doesn't just belong to its master. It belongs to everyone who loves "
+"it, right?"
+msgstr ""
+
+msgctxt "1260_Saejima"
+msgid "So we all should fight for it."
+msgstr ""
+
+msgctxt "1272_Sodachi"
+msgid "Yes, we should!"
+msgstr ""
+
+msgctxt "1284_Saejima"
+msgid "Come on! I'll show ya the kind of fighter this dojo can churn out!"
+msgstr ""
+
+msgctxt "1296_Kanahara"
+msgid "Can't wait. Get them, boys! Kill them!"
+msgstr ""

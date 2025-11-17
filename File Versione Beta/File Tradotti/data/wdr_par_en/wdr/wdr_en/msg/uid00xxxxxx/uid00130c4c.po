@@ -1,0 +1,245 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "7832"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "7836"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "7840"
+msgid "Fart"
+msgstr "Scoreggia"
+
+msgctxt "7844"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "7848"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "7852"
+msgid "Tendo"
+msgstr "Tendo"
+
+msgctxt "7856"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "7860"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "7864"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "7868"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "7872"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "7876"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "7880"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "7884"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "7888"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "56_Player"
+msgid ""
+"(Haven't seen Tendo since he vanished. Wonder how the old guy's doin'.)"
+msgstr "(Non vedo Tendo da quando è sparito. Chissà come sta il vecchio.)"
+
+msgctxt "68_Player"
+msgid ""
+"(That was some pretty weird stuff that went down, but lookin' back, I gotta "
+"admit that it was actually kinda fun.)"
+msgstr ""
+"(Quella che è successa è stata una roba parecchio strana, ma a ripensarci, "
+"devo ammettere che alla fine è stata anche divertente.)"
+
+msgctxt "80_Player"
+msgid ""
+"(Well, no point worryin' about him. Anyone who can do freaky stuff like that"
+" can take care of himself.)"
+msgstr ""
+"(Beh, non ha senso preoccuparsi per lui. Chiunque sia capace di fare quelle "
+"robe strane può cavarsela da solo.)"
+
+msgctxt "128_Player"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "140_Player"
+msgid "Someone there?"
+msgstr "C'è qualcuno?"
+
+msgctxt "152_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "164_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "176_Fart"
+msgid "Phhhrt!"
+msgstr "Pffft!"
+
+msgctxt "188_Player"
+msgid "I heard that! Who farted!?"
+msgstr "L'ho sentito! Chi ha scoreggiato!?"
+
+msgctxt "248_Player"
+msgid "Come on out, old man. No need to hide."
+msgstr "Vieni fuori, vecchio. Non c'è bisogno di nascondersi."
+
+msgctxt "260_Tendo"
+msgid "Forgive me, Saejima. You see, I was busy getting some things ready."
+msgstr "Perdonami, Saejima. Vedi, ero impegnato a preparare delle cose."
+
+msgctxt "272_Player"
+msgid "Yeah? What kind of things?"
+msgstr "Ah sì? Che roba?"
+
+msgctxt "284_Tendo"
+msgid "Oh, umm... Yes, about that...."
+msgstr "Oh, ehm... Sì, a proposito di quello...."
+
+msgctxt "296_Player"
+msgid "Well? Out with it, already."
+msgstr "Allora? Sputa il rospo, su."
+
+msgctxt "308_Tendo"
+msgid "Very well. I suppose you deserve an explanation."
+msgstr "Molto bene. Suppongo che tu meriti una spiegazione."
+
+msgctxt "320_Tendo"
+msgid ""
+"You know that magic I performed for you? It's nothing more than parlor "
+"tricks."
+msgstr ""
+"Ti ricordi quella magia che ti ho fatto vedere? È solo roba da quattro "
+"soldi."
+
+msgctxt "332_Player"
+msgid "Tricks? You mean like sleight of hand or something?"
+msgstr "Trucchi? Intendi come giochi di prestigio o roba del genere?"
+
+msgctxt "344_Tendo"
+msgid "Just so. You see, I was a magician back in my younger days."
+msgstr "Proprio così. Vedi, ero un mago ai miei tempi."
+
+msgctxt "356_Tendo"
+msgid ""
+"I performed under the name Tendo Oshida, and my, how I used to pack the "
+"house!"
+msgstr ""
+"Mi esibivo col nome di Tendo Oshida, e cavolo, come facevo il pienone!"
+
+msgctxt "368_Player"
+msgid "I've actually heard of you! Had no idea you were famous, old man."
+msgstr "In effetti, ti conosco di fama! Non avevo idea fossi famoso, vecchio."
+
+msgctxt "380_Tendo"
+msgid "Well, back in the day, anyway."
+msgstr "Beh, ai vecchi tempi, comunque."
+
+msgctxt "392_Tendo"
+msgid ""
+"The crowds adored me before the bubble burst, but once the economy went "
+"south, so did my career. I eventually ended up out here."
+msgstr ""
+"La folla mi adorava prima che la bolla scoppiasse, ma una volta che "
+"l'economia è andata a picco, anche la mia carriera è finita in malora. Alla "
+"fine sono finito qui fuori."
+
+msgctxt "404_Player"
+msgid ""
+"If you can do magic like that, why hide away in this godforsaken place?"
+msgstr ""
+"Se sai fare magie così, perché ti rintani in questo posto dimenticato da "
+"Dio?"
+
+msgctxt "416_Tendo"
+msgid ""
+"You see, I've always been fond of big, bold magic tricks. And I always "
+"wanted a place where I could try them out whenever an idea popped into my "
+"head."
+msgstr ""
+"Vedi, ho sempre avuto un debole per i grandi e spettacolari trucchi di "
+"magia. E ho sempre voluto un posto dove potessi metterli in pratica ogni "
+"volta che mi balenava un'idea in testa."
+
+msgctxt "428_Tendo"
+msgid ""
+"You know that shrine? Just between us, the whole place is packed with my "
+"high-tech magic gear."
+msgstr ""
+"Conosci quel santuario? Detto tra noi, tutto il posto è stracolmo della mia "
+"attrezzatura magica high-tech."
+
+msgctxt "440_Player"
+msgid ""
+"Ah, now everything finally makes sense. But there's still one more thing "
+"that's been buggin' me."
+msgstr ""
+"Ah, ora i conti tornano finalmente. Ma c'è ancora un'ultima cosa che non mi "
+"va giù."
+
+msgctxt "452_Player"
+msgid "All those offerings... What'd you do with 'em?"
+msgstr "Tutte quelle offerte... Che ci hai fatto?"
+
+msgctxt "464_Tendo"
+msgid "Ah, yes... Well..."
+msgstr "Ah, sì... Beh..."
+
+msgctxt "476_Player"
+msgid ""
+"Wait a second. Are you tellin' me it was all for your own personal benefit?"
+msgstr ""
+"Aspetta un secondo. Mi stai dicendo che era tutto per il tuo tornaconto "
+"personale?"
+
+msgctxt "488_Saejima"
+msgid "Whoa!"
+msgstr "Whoa!"
+
+msgctxt "512_Saejima"
+msgid ""
+"He vanished again. He's got a habit of doin' that when he's put on the spot."
+msgstr ""
+"È sparito di nuovo. Ha il vizio di fare così quando lo si mette alle "
+"strette."
+
+msgctxt "524_Saejima"
+msgid "Aw, whatever. Take care, old man."
+msgstr "Vabbè. Stammi bene, vecchio."

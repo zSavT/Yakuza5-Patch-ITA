@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1368"
+msgid "Player"
+msgstr ""
+
+msgctxt "1372"
+msgid "Play"
+msgstr ""
+
+msgctxt "1376"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "76_Player"
+msgid "(Sawada... Nope. Not in the mood for this now.)"
+msgstr ""
+
+msgctxt "88_Player"
+msgid "(The Sawada Course costs 300 yen to play. Should I go for it?)"
+msgstr ""
+
+msgctxt "112_Player"
+msgid "(Oops. I'm too broke.)"
+msgstr ""
+
+msgctxt "124_Player"
+msgid "(Okay, let's do this.)"
+msgstr ""
+
+msgctxt "148_Player"
+msgid "(Nope. Not now.)"
+msgstr ""
+
+msgctxt "160_Player"
+msgid "(The level's too high. It's a bit more than I can handle now.)"
+msgstr ""

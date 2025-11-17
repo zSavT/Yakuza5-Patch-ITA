@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "484"
+msgid "All player bets are in."
+msgstr ""
+
+msgctxt "4492"
+msgid "Dealer"
+msgstr ""
+
+msgctxt "4496"
+msgid "Player"
+msgstr ""
+
+msgctxt "316_Dealer"
+msgid "Welcome to the roulette table."
+msgstr ""
+
+msgctxt "328_Dealer"
+msgid ""
+"Welcome to the roulette table. Would you like to play one-on-one against "
+"the house?"
+msgstr ""
+
+msgctxt "340_Dealer"
+msgid "Let's begin."
+msgstr ""
+
+msgctxt "352_Dealer"
+msgid "We look forward to seeing you again."
+msgstr ""
+
+msgctxt "364_Dealer"
+msgid "You seem to be short on chips. Please visit us again soon."
+msgstr ""
+
+msgctxt "376_Dealer"
+msgid "Place your marker chips on the table."
+msgstr ""
+
+msgctxt "388_Dealer"
+msgid "Now the house will place its marker chips."
+msgstr ""
+
+msgctxt "400_Dealer"
+msgid "You first, sir. Please spin the ball."
+msgstr ""
+
+msgctxt "412_Dealer"
+msgid "Now it's the house's turn."
+msgstr ""
+
+msgctxt "424_Dealer"
+msgid "The house lost that one."
+msgstr ""
+
+msgctxt "436_Dealer"
+msgid "It's a tie."
+msgstr ""
+
+msgctxt "448_Dealer"
+msgid "The house won that one."
+msgstr ""
+
+msgctxt "460_Dealer"
+msgid "Please come play again soon."
+msgstr ""
+
+msgctxt "472_Player"
+msgid "Let's get started."
+msgstr ""
+
+msgctxt "496_Player"
+msgid "Here goes..."
+msgstr ""
+
+msgctxt "508_Dealer"
+msgid "Allow me to explain the rules for roulette."
+msgstr ""
+
+msgctxt "520_Dealer"
+msgid ""
+"Betting starts as soon as the ball is spun. Place your bets before time "
+"expires. You can bet up to 1,000 chips with each spin."
+msgstr ""
+
+msgctxt "532_Dealer"
+msgid ""
+"Depending on where you place your chips, you can bet on one to six numbers, "
+"the colors red or black, or make a number of other wagers."
+msgstr ""
+
+msgctxt "544_Dealer"
+msgid ""
+"You can remove the chips you bet or move them to make another bet as long "
+"as time has not expired."
+msgstr ""
+
+msgctxt "556_Dealer"
+msgid ""
+"If you want to remove the chips you bet, press <Action:Button_R1@Roulette> "
+"at the location of your bet."
+msgstr ""
+
+msgctxt "568_Dealer"
+msgid ""
+"Select Last Bet to duplicate the last bet you made. Press "
+"<Action:Button_R1@Roulette> where no chips have been placed to bet chips of "
+"the same value as the last bet."
+msgstr ""
+
+msgctxt "580_Dealer"
+msgid ""
+"You only have a limited time to bet. Please place all your bets before time "
+"runs out."
+msgstr ""
+
+msgctxt "592_Dealer"
+msgid ""
+"When time runs out, \"No More Bets\" appears, indicating that betting is "
+"over. You can also end betting by pressing <Action:Button_Circle@Roulette>."
+msgstr ""
+
+msgctxt "604_Dealer"
+msgid ""
+"If the ball lands in a slot on which you bet, you win the payouts for all "
+"your wagers that include that slot. Otherwise, you lose your bet."
+msgstr ""
+
+msgctxt "616_Dealer"
+msgid ""
+"That is how you play roulette. Please enjoy playing all the games of skill "
+"and chance our casino has to offer!"
+msgstr ""
+
+msgctxt "628_Player"
+msgid "We look forward to seeing you again."
+msgstr ""
+
+msgctxt "640_Dealer"
+msgid "The marker chips have been placed."
+msgstr ""

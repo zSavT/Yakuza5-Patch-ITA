@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1864"
+msgid "Player"
+msgstr ""
+
+msgctxt "1868"
+msgid "Tsukimino Taxi"
+msgstr ""
+
+msgctxt "1872"
+msgid "dummy"
+msgstr ""
+
+msgctxt "56_Player"
+msgid "(I can't afford the fare. Better scrounge up 650 yen...)"
+msgstr ""
+
+msgctxt "68_Tsukimino Taxi"
+msgid "The base fare is 650 yen. Where are you headed?"
+msgstr ""
+
+msgctxt "104_Tsukimino Taxi"
+msgid "I'm afraid you don't have enough money, sir. Please come again when you do."
+msgstr ""
+
+msgctxt "116_Tsukimino Taxi"
+msgid "Very well, sir."
+msgstr ""
+
+msgctxt "176_Tsukimino Taxi"
+msgid "Please come again soon."
+msgstr ""
+
+msgctxt "188_Tsukimino Taxi"
+msgid "Another city? Of course, sir."
+msgstr ""

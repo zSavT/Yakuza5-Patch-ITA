@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1196"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1200"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "1204"
+msgid "Man"
+msgstr ""
+
+msgctxt "1208"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "1212"
+msgid "Foreign Man"
+msgstr ""
+
+msgctxt "1216"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1220"
+msgid "0"
+msgstr ""
+
+msgctxt "44_Kiryu"
+msgid "I'm from Nagasu Taxi. Sorry for the wait."
+msgstr ""
+
+msgctxt "56_Man"
+msgid "Hi!"
+msgstr ""
+
+msgctxt "68_Kiryu"
+msgid "(Looks like a foreign tourist.)"
+msgstr ""
+
+msgctxt "80_Foreign Man"
+msgid "Please go to <Color:22>Meisei Street<Color:Default>!"
+msgstr ""
+
+msgctxt "92_Kiryu"
+msgid "Understood. Let's go."
+msgstr ""

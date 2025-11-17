@@ -1,0 +1,89 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "104"
+msgid "Change characters?"
+msgstr "Cambiare personaggi?"
+
+msgctxt "260"
+msgid "Change characters?"
+msgstr "Cambiare personaggi?"
+
+msgctxt "296"
+msgid "Change characters?"
+msgstr "Cambiare personaggi?"
+
+msgctxt "3116"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "3120"
+msgid "No"
+msgstr "No"
+
+msgctxt "3124"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "3128"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "3132"
+msgid "(I want to find out how Haruka is feeling.)"
+msgstr "(Voglio scoprire come si sente Haruka.)"
+
+msgctxt "3136"
+msgid "Maybe another time."
+msgstr "Magari un'altra volta."
+
+msgctxt "3140"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "3144"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "3148"
+msgid "HAL_TLK_stand_kamae"
+msgstr "HAL_TLK_stand_kamae"
+
+msgctxt "3152"
+msgid "HAL_TLK_sitsofa_kamae_ed"
+msgstr "HAL_TLK_sitsofa_kamae_ed"
+
+msgctxt "3156"
+msgid "0"
+msgstr "0"
+
+msgctxt "128_Yes"
+msgid "It'd be nice to go out together for old time's sake, Uncle Kaz."
+msgstr "Sarebbe bello uscire insieme per i vecchi tempi, Zio Kaz."
+
+msgctxt "140_Kiryu"
+msgid "Now isn't a good time. We'll do it another day."
+msgstr "Adesso non è il momento giusto. Lo faremo un altro giorno."
+
+msgctxt "152_Haruka"
+msgid "Okay, sure. I'm looking forward to it."
+msgstr "Ok, certo. Non vedo l'ora."
+
+msgctxt "188_Kiryu"
+msgid "Sure, let's go."
+msgstr "Certo, andiamo."
+
+msgctxt "200_Haruka"
+msgid "Yay! I'll get ready."
+msgstr "Evviva! Vado a prepararmi."

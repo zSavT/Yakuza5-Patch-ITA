@@ -1,0 +1,735 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1288"
+msgid "You got a <Color:8>Staminan Spark<Color:Default>."
+msgstr "Hai un <Color:8>Staminan Spark<Color:Default>."
+
+msgctxt "1396"
+msgid "You got <Color:8>Bronze Plate<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Targa di Bronzo<Color:Default>."
+
+msgctxt "1528"
+msgid "You got some <Color:8>Milk<Color:Default>."
+msgstr "Hai del <Color:8>Latte<Color:Default>."
+
+msgctxt "1696"
+msgid "You got some <Color:8>Pocket Tissues<Color:Default>."
+msgstr "Hai preso dei <Color:8>fazzoletti di carta<Color:Default>."
+
+msgctxt "29132"
+msgid "Hirakawa"
+msgstr "Hirakawa"
+
+msgctxt "29136"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "29140"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "29144"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "29148"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "29152"
+msgid "Sorry."
+msgstr "Scusa."
+
+msgctxt "29156"
+msgid "Ready."
+msgstr "Pronto."
+
+msgctxt "29160"
+msgid "Not yet."
+msgstr "Non ancora."
+
+msgctxt "29164"
+msgid "I'll go now."
+msgstr "Vado adesso."
+
+msgctxt "29168"
+msgid "I'll go in a bit."
+msgstr "Vado tra un po'."
+
+msgctxt "29172"
+msgid "Yeah, good to go."
+msgstr "Sì, a posto."
+
+msgctxt "29176"
+msgid "Not just yet."
+msgstr "Non proprio adesso."
+
+msgctxt "29180"
+msgid "SitChair_lp"
+msgstr "SitChair_lp"
+
+msgctxt "29184"
+msgid "Wages"
+msgstr "Paga"
+
+msgctxt "29188"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "29192"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "29196"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "29200"
+msgid "Friendly Voice"
+msgstr "Voce Amichevole"
+
+msgctxt "29204"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "29208"
+msgid "Wada"
+msgstr "Wada"
+
+msgctxt "29212"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "29216"
+msgid "Muramatsu"
+msgstr "Muramatsu"
+
+msgctxt "29220"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "29224"
+msgid "Nakajima"
+msgstr "Nakajima"
+
+msgctxt "29228"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "220_Hirakawa"
+msgid ""
+"The chief is probably at that diner he loves so much. Can you go bring him "
+"back for me?"
+msgstr ""
+"Il capo è di sicuro in quel diner che adora. Vai a riportarlo indietro per "
+"me?"
+
+msgctxt "232_Kiryu"
+msgid "Hey there."
+msgstr "Ciao."
+
+msgctxt "244_Hirakawa"
+msgid "Hello, Suzuki-san. Do you have a moment?"
+msgstr "Ciao, Suzuki-san. Hai un momento?"
+
+msgctxt "256_Kiryu"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "268_Hirakawa"
+msgid "It's not urgent, but can you go run an errand for me?"
+msgstr "Non c'è fretta, ma potresti andarmi a fare una commissione?"
+
+msgctxt "280_Hirakawa"
+msgid ""
+"That chief of ours went out to get some food and still hasn't come back."
+msgstr ""
+"Quel nostro capo è uscito a prendere qualcosa da mangiare e non è ancora "
+"tornato."
+
+msgctxt "292_Kiryu"
+msgid "Do you know where he went?"
+msgstr "Sai dov'è andato?"
+
+msgctxt "304_Hirakawa"
+msgid ""
+"I think he's at his favorite diner again. Can you go bring him back for me?"
+msgstr ""
+"Penso sia di nuovo alla sua tavola calda preferita. Puoi andarlo a "
+"riprendere per me?"
+
+msgctxt "316_Kiryu"
+msgid "Sure. I'll have him back here in no time."
+msgstr "Certo. Lo riporterò qui in men che non si dica."
+
+msgctxt "340_Hirakawa"
+msgid "Welcome back, Suzuki-san. You've been gone for quite a while."
+msgstr "Bentornato, Suzuki-san. È da un bel po' che non ti si vede."
+
+msgctxt "352_Kiryu"
+msgid "Well, I did have a long-distance passenger."
+msgstr "Beh, sì, ho avuto un passeggero per una lunga tratta."
+
+msgctxt "364_Hirakawa"
+msgid ""
+"Oh, lucky you. Then I assume you're finished for the day? We still have some"
+" calls to take care of, so let me know if you're interested."
+msgstr ""
+"Oh, beato te. Allora hai staccato per oggi, immagino? Abbiamo ancora qualche"
+" chiamata da sbrigare, quindi fammi sapere se sei interessato."
+
+msgctxt "376_Kiryu"
+msgid "Will do."
+msgstr "Lo farò."
+
+msgctxt "448_Hirakawa"
+msgid "Oh, Suzuki-san. Just who I wanted to see."
+msgstr "Oh, Suzuki-san. Proprio lei volevo vedere."
+
+msgctxt "460_Kiryu"
+msgid "Good morning, Hirakawa-san. What can I do for you?"
+msgstr "Buongiorno, Hirakawa-san. Cosa posso fare per lei?"
+
+msgctxt "472_Hirakawa"
+msgid ""
+"We had an urgent pickup request come in. Would you be able to take care of "
+"it?"
+msgstr ""
+"Ci è arrivata una richiesta urgente di prelievo. Potresti occupartene?"
+
+msgctxt "484_Kiryu"
+msgid "Sorry, I can't right now."
+msgstr "Mi dispiace, non posso adesso."
+
+msgctxt "496_Hirakawa"
+msgid ""
+"Oh, I see. Then I'll ask the client if they could wait a while longer. Take "
+"care of it as soon as you're free, please."
+msgstr ""
+"Ah, capisco. Allora chiederò al cliente se può aspettare ancora un po'. "
+"Occupatene appena sei libero, per favore."
+
+msgctxt "508_Kiryu"
+msgid "Understood."
+msgstr "Capito."
+
+msgctxt "520_Kiryu"
+msgid "Sure, no problem."
+msgstr "Certo, nessuna grana."
+
+msgctxt "532_Hirakawa"
+msgid "They're waiting at Nagasu Bridge. Drive safely."
+msgstr "Stanno aspettando al Ponte Nagasu. Guida con prudenza."
+
+msgctxt "580_Hirakawa"
+msgid "Oh, are you all ready now, Suzuki-san?"
+msgstr "Oh, ci siamo, Suzuki-san?"
+
+msgctxt "592_Kiryu"
+msgid "Sorry, not just yet."
+msgstr "Scusa, non ancora."
+
+msgctxt "604_Hirakawa"
+msgid ""
+"Oh, okay. I'll tell the client we don't have anyone available yet. Try to "
+"get to it as soon as you can, though."
+msgstr ""
+"Ah, va bene. Dirò al cliente che non c'è ancora nessuno libero. Comunque, "
+"vedi di sbrigartela il prima possibile."
+
+msgctxt "616_Kiryu"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "628_Kiryu"
+msgid "Yes, I'm good to go."
+msgstr "Sì, sono pronto."
+
+msgctxt "640_Hirakawa"
+msgid "Wonderful. They're waiting at Nagasu Bridge right now. Drive safely."
+msgstr "Perfetto. Sono al Ponte Nagasu proprio adesso. Guida con prudenza."
+
+msgctxt "688_Hirakawa"
+msgid "Oh, Suzuki-san. Can you come here for a minute?"
+msgstr "Oh, Suzuki-san. Puoi venire qui un minuto?"
+
+msgctxt "700_Kiryu"
+msgid "Sure, what can I help you with?"
+msgstr "Certo, in cosa posso aiutarti?"
+
+msgctxt "712_Hirakawa"
+msgid "I know you just got back, but we have another pickup request."
+msgstr ""
+"So che sei appena rientrato, ma abbiamo un'altra richiesta di prelievo."
+
+msgctxt "724_Hirakawa"
+msgid ""
+"Nobody else is available right now, so I'd like you to handle it if you can."
+msgstr ""
+"Nessun altro è disponibile adesso, quindi, se puoi, vorrei che te ne "
+"occupassi tu."
+
+msgctxt "736_Kiryu"
+msgid "Then leave it to me. I'd be happy to take care of it."
+msgstr "Allora, ci penso io. Me ne occuperò volentieri."
+
+msgctxt "748_Hirakawa"
+msgid ""
+"Great, thank you. The client didn't seem to be in any sort of rush, so you "
+"could always take a break first. What works best for you?"
+msgstr ""
+"Perfetto, grazie. Il cliente non sembrava avere nessuna fretta, quindi "
+"potresti pure prenderti una pausa prima. Cosa ti va meglio?"
+
+msgctxt "760_Kiryu"
+msgid "Mind if I get a quick rest, then?"
+msgstr "Posso farmi una riposata veloce, allora?"
+
+msgctxt "772_Hirakawa"
+msgid "Not at all. Just say the word when you're ready."
+msgstr "Nessun problema. Dimmi pure quando sei pronto."
+
+msgctxt "784_Kiryu"
+msgid "I think I'll head out now."
+msgstr "Mi sa che mi avvio adesso."
+
+msgctxt "796_Hirakawa"
+msgid "Perfect. Let me tell you where you need to go..."
+msgstr "Perfetto. Ti dico io dove devi andare..."
+
+msgctxt "808_Hirakawa"
+msgid ""
+"Oh, have you finished your break, Suzuki-san? Ready to get back to work?"
+msgstr "Oh, hai finito la tua pausa, Suzuki-san? Pronto a tornare al lavoro?"
+
+msgctxt "820_Kiryu"
+msgid "Is it okay if I rest a while longer first?"
+msgstr "Va bene se mi riposo ancora un po' prima?"
+
+msgctxt "832_Hirakawa"
+msgid "Sure. Just say the word when you're ready."
+msgstr "Certo. Fai un fischio quando sei pronto."
+
+msgctxt "844_Kiryu"
+msgid "Yeah, good to go."
+msgstr "Sì, a posto."
+
+msgctxt "856_Hirakawa"
+msgid "Perfect. Let me tell you where you need to go..."
+msgstr "Perfetto. Ti dico io dove devi andare..."
+
+msgctxt "904_Hirakawa"
+msgid "Oh, Suzuki-san. Can you come here for a minute?"
+msgstr "Oh, Suzuki-san. Puoi venire qui un minuto?"
+
+msgctxt "916_Kiryu"
+msgid "Sure, what can I help you with?"
+msgstr "Certo, in cosa posso aiutarti?"
+
+msgctxt "928_Hirakawa"
+msgid "I know you just got back, but we have another pickup request."
+msgstr ""
+"So che sei appena rientrato, ma abbiamo un'altra richiesta di prelievo."
+
+msgctxt "940_Hirakawa"
+msgid ""
+"Nobody else is available right now, so I'd like you to handle it if you can."
+msgstr ""
+"Nessun altro è disponibile adesso, quindi, se puoi, vorrei che te ne "
+"occupassi tu."
+
+msgctxt "952_Kiryu"
+msgid "Then leave it to me. I'd be happy to take care of it."
+msgstr "Allora, ci penso io. Me ne occuperò volentieri."
+
+msgctxt "964_Hirakawa"
+msgid ""
+"Great, thank you. The client didn't seem to be in any sort of rush, so you "
+"could always take a break first. What works best for you?"
+msgstr ""
+"Perfetto, grazie. Il cliente non sembrava avere nessuna fretta, quindi "
+"potresti pure prenderti una pausa prima. Cosa ti va meglio?"
+
+msgctxt "976_Kiryu"
+msgid "Mind if I get a quick rest, then?"
+msgstr "Posso farmi una riposata veloce, allora?"
+
+msgctxt "988_Hirakawa"
+msgid "Not at all. Just say the word when you're ready."
+msgstr "Nessun problema. Dimmi pure quando sei pronto."
+
+msgctxt "1000_Kiryu"
+msgid "I think I'll head out now."
+msgstr "Mi sa che mi avvio adesso."
+
+msgctxt "1012_Hirakawa"
+msgid "Perfect. Let me tell you where you need to go..."
+msgstr "Perfetto. Ti dico io dove devi andare..."
+
+msgctxt "1024_Hirakawa"
+msgid ""
+"Oh, have you finished your break, Suzuki-san? Ready to get back to work?"
+msgstr "Oh, hai finito la tua pausa, Suzuki-san? Pronto a tornare al lavoro?"
+
+msgctxt "1036_Kiryu"
+msgid "Is it okay if I rest a while longer first?"
+msgstr "Va bene se mi riposo ancora un po' prima?"
+
+msgctxt "1048_Hirakawa"
+msgid "Sure. Just say the word when you're ready."
+msgstr "Certo. Fai un fischio quando sei pronto."
+
+msgctxt "1060_Kiryu"
+msgid "Yeah, good to go."
+msgstr "Sì, a posto."
+
+msgctxt "1072_Hirakawa"
+msgid "Perfect. Let me tell you where you need to go..."
+msgstr "Perfetto. Ti dico io dove devi andare..."
+
+msgctxt "1108_Hirakawa"
+msgid "Oh? Suzuki-san, have you been drinking?"
+msgstr "Oh? Suzuki-san, hai bevuto?"
+
+msgctxt "1120_Hirakawa"
+msgid "You can't drive in that state. Go and sober up first."
+msgstr "Non puoi guidare in quelle condizioni. Vai prima a smaltire."
+
+msgctxt "1132_Hirakawa"
+msgid "Suzuki-san. I have some work for you. Let me see..."
+msgstr "Suzuki-san. Ho del lavoro per te. Fammi vedere..."
+
+msgctxt "1156_Hirakawa"
+msgid ""
+"\r\n"
+"Wages will be paid into your account as you\r\n"
+"complete Race Missions and Taxi Missions. You\r\n"
+"can withdraw your wages by accessing an ATM at\r\n"
+"a convenience store. It's worth doing as many\r\n"
+"missions as you can."
+msgstr ""
+"I soldi ti verranno accreditati sul conto non appena\n"
+"completerai le Missioni Corsa e le Missioni Taxi.\n"
+"Potrai prelevare la tua paga andando a un bancomat in\n"
+"un minimarket. Ti conviene fare quante più\n"
+"missioni possibile."
+
+msgctxt "1180_Hirakawa"
+msgid "Maybe later, then."
+msgstr "Magari più tardi, allora."
+
+msgctxt "1192_Hirakawa"
+msgid "Oh, Suzuki-san. Good morning."
+msgstr "Oh, Suzuki-san. Buongiorno."
+
+msgctxt "1204_Kiryu"
+msgid "Morning."
+msgstr "Buongiorno."
+
+msgctxt "1228_Hirakawa"
+msgid ""
+"I heard you went to see Tenjin Transportation yesterday. They sent a little "
+"thank-you gift your way."
+msgstr ""
+"Ho saputo che ieri sei passato dalla Tenjin Transportation. Ti hanno fatto "
+"avere un pensierino di ringraziamento."
+
+msgctxt "1240_Hirakawa"
+msgid ""
+"Apparently, whatever you gave them last night went over well. There was even"
+" a nice note with it."
+msgstr ""
+"A quanto pare, qualunque cosa tu abbia dato loro ieri sera è andata alla "
+"grande. C'era pure un bel biglietto allegato."
+
+msgctxt "1252_Hirakawa"
+msgid ""
+"You must have brought them something pretty special. It's not like their "
+"president to act this way."
+msgstr ""
+"Devi avergli portato qualcosa di davvero speciale. Non è proprio da quel "
+"presidente comportarsi così."
+
+msgctxt "1264_Kiryu"
+msgid "It wasn't all that special."
+msgstr "Non era poi così speciale."
+
+msgctxt "1276_Hirakawa"
+msgid "Well anyway, you should hang on to this."
+msgstr "Beh, comunque, dovresti tenertelo."
+
+msgctxt "1312_Kiryu"
+msgid "Are you sure? Isn't it for the company?"
+msgstr "Sei sicuro? Non è per l'azienda?"
+
+msgctxt "1324_Hirakawa"
+msgid ""
+"Didn't you go apologize on the chief's behalf? I know he'd want you to have "
+"it."
+msgstr ""
+"Non sei andato a scusarti per conto del capo? So che lui vorrebbe che tu lo "
+"avessi."
+
+msgctxt "1336_Kiryu"
+msgid "If you insist. Thanks."
+msgstr "Se proprio insisti. Grazie."
+
+msgctxt "1348_Hirakawa"
+msgid ""
+"I heard you went to see Tenjin Transportation yesterday. They sent a little "
+"thank-you gift your way."
+msgstr ""
+"Ho saputo che ieri sei passato dalla Tenjin Transportation. Ti hanno fatto "
+"avere un pensierino di ringraziamento."
+
+msgctxt "1360_Hirakawa"
+msgid ""
+"You must have put a lot of thought into whatever you brought them. It's not "
+"like their president to act this way."
+msgstr ""
+"Devi averci ragionato su un bel po' per quello che gli hai portato. Non è "
+"proprio da il loro presidente comportarsi così."
+
+msgctxt "1372_Kiryu"
+msgid "It wasn't anything special."
+msgstr "Non era niente di speciale."
+
+msgctxt "1384_Hirakawa"
+msgid "Still, you should take this."
+msgstr "Però, dovresti comunque prenderlo."
+
+msgctxt "1420_Kiryu"
+msgid "Are you sure? Isn't it for the company?"
+msgstr "Sei sicuro? Non è per l'azienda?"
+
+msgctxt "1432_Hirakawa"
+msgid ""
+"Didn't you go apologize on the chief's behalf? I know he'd want you to have "
+"it."
+msgstr ""
+"Non sei andato a scusarti per conto del capo? So che lui vorrebbe che tu lo "
+"avessi."
+
+msgctxt "1444_Kiryu"
+msgid "If you insist. Thanks."
+msgstr "Se proprio insisti. Grazie."
+
+msgctxt "1456_Hirakawa"
+msgid ""
+"You went to see Tenjin Transportation yesterday, right? They sent us "
+"something today, to \"show their appreciation\" for what you brought them."
+msgstr ""
+"Sei andato alla Tenjin Transportation ieri, vero? Oggi ci hanno mandato "
+"qualcosa, per \"mostrare il loro apprezzamento\" per quello che gli hai "
+"portato."
+
+msgctxt "1468_Hirakawa"
+msgid "...Did you do something to tick their president off, Suzuki-san?"
+msgstr ""
+"...Hai fatto qualcosa per far incazzare il loro presidente, Suzuki-san?"
+
+msgctxt "1480_Kiryu"
+msgid "No, I don't think so."
+msgstr "No, non credo proprio."
+
+msgctxt "1492_Hirakawa"
+msgid "It's just, the gift they sent..."
+msgstr "È solo che il regalo che hanno mandato..."
+
+msgctxt "1504_Kiryu"
+msgid "What, is there something wrong with it?"
+msgstr "Che, c'è qualcosa che non va?"
+
+msgctxt "1516_Hirakawa"
+msgid "Well, just take a look."
+msgstr "Beh, dagli un'occhiata."
+
+msgctxt "1552_Kiryu"
+msgid "...Huh."
+msgstr "...Eh."
+
+msgctxt "1564_Hirakawa"
+msgid "It's almost like they sent it as some kind of retaliation."
+msgstr "Sembra quasi che l'abbiano mandato per ripicca."
+
+msgctxt "1576_Kiryu"
+msgid "(I guess my gift didn't exactly impress.)"
+msgstr "(Immagino che il mio regalo non abbia fatto esattamente colpo.)"
+
+msgctxt "1588_Hirakawa"
+msgid ""
+"I know their president is a difficult person, but you can't go getting on "
+"his bad side at a time like this."
+msgstr ""
+"So che il loro presidente è una persona difficile, ma non puoi metterti "
+"contro di lui in un momento come questo."
+
+msgctxt "1600_Kiryu"
+msgid "Sorry."
+msgstr "Scusa."
+
+msgctxt "1612_Hirakawa"
+msgid "Well, just be sure you treat your passengers good today."
+msgstr "Beh, assicurati solo di trattare bene i tuoi passeggeri oggi."
+
+msgctxt "1624_Hirakawa"
+msgid ""
+"You went to see Tenjin Transportation yesterday, right? They sent us a... "
+"Well, I guess you could call it a gift."
+msgstr ""
+"Sei andato a trovare la Tenjin Transportation ieri, giusto? Ci hanno mandato"
+" un... Beh, diciamo che è un regalo."
+
+msgctxt "1636_Hirakawa"
+msgid "...Did you do something to tick their president off, Suzuki-san?"
+msgstr ""
+"...Hai fatto qualcosa per far incazzare il loro presidente, Suzuki-san?"
+
+msgctxt "1648_Kiryu"
+msgid "No, I don't think so."
+msgstr "No, non credo proprio."
+
+msgctxt "1660_Hirakawa"
+msgid "It's just, the gift they sent..."
+msgstr "È solo che il regalo che hanno mandato..."
+
+msgctxt "1672_Kiryu"
+msgid "What, was there something wrong with it?"
+msgstr "Ma cosa c'era che non andava?"
+
+msgctxt "1684_Hirakawa"
+msgid "Well, take a look."
+msgstr "Beh, dai un'occhiata."
+
+msgctxt "1720_Kiryu"
+msgid "...Huh."
+msgstr "...Eh."
+
+msgctxt "1732_Hirakawa"
+msgid "It's almost like they sent it as some kind of retaliation."
+msgstr "Sembra quasi che l'abbiano mandato per ripicca."
+
+msgctxt "1744_Kiryu"
+msgid "(I guess it wasn't such a good idea showing up without a gift.)"
+msgstr ""
+"Immagino che non sia stata una gran bella idea presentarsi senza un regalo."
+
+msgctxt "1756_Hirakawa"
+msgid ""
+"I know their president is a difficult person, but you can't go getting on "
+"his bad side at a time like this."
+msgstr ""
+"So che il loro presidente è una persona difficile, ma non puoi metterti "
+"contro di lui in un momento come questo."
+
+msgctxt "1768_Kiryu"
+msgid "Sorry."
+msgstr "Scusa."
+
+msgctxt "1780_Hirakawa"
+msgid "Well, just be sure you treat your passengers good today."
+msgstr "Beh, assicurati solo di trattare bene i tuoi passeggeri oggi."
+
+msgctxt "1792_Kiryu"
+msgid "(I guess I'd better head out for the day.)"
+msgstr "(Direi che è ora di mettersi in strada per oggi.)"
+
+msgctxt "1804_Friendly Voice"
+msgid "On your way out, Suzuki-kun?"
+msgstr "Stai uscendo, Suzuki-kun?"
+
+msgctxt "1828_Hirakawa"
+msgid "Oh, Wada-san. Yeah, I was thinking of doing a few loops around Nagasu."
+msgstr "Oh, Wada-san. Già, stavo pensando di fare qualche giro per Nagasu."
+
+msgctxt "1840_Wada"
+msgid ""
+"Well ain't that just the most perfect timing. Mind if I bum a ride off ya?"
+msgstr ""
+"Ma guarda un po' che tempismo perfetto! Ti dispiace se ti scrocco un "
+"passaggio?"
+
+msgctxt "1852_Wada"
+msgid ""
+"My place is a bit of a hike from here, so I'd be real appreciative if ya "
+"just dropped me off on the way."
+msgstr ""
+"Il mio posto è un po' fuori mano da qui, quindi ve ne sarei davvero "
+"riconoscente se mi lasciaste giù lungo la strada."
+
+msgctxt "1864_Kiryu"
+msgid "Yeah, that shouldn't be a problem."
+msgstr "Sì, nessun problema."
+
+msgctxt "1876_Wada"
+msgid "Great! You're a lifesaver."
+msgstr "Ottimo! Sei un salvavita."
+
+msgctxt "1888_Muramatsu"
+msgid ""
+"Wada-san. You know you shouldn't be using our taxis for your own personal "
+"gain."
+msgstr ""
+"Wada-san. Sai che non dovresti usare i nostri taxi per il tuo tornaconto "
+"personale."
+
+msgctxt "1900_Wada"
+msgid "Seriously, Muramatsu-kun?"
+msgstr "Sul serio, Muramatsu-kun?"
+
+msgctxt "1912_Muramatsu"
+msgid ""
+"Yeah, seriously. You're the most senior driver here, so you need to set the "
+"example."
+msgstr ""
+"Sì, sul serio. Sei l'autista più anziano qui, quindi devi dare l'esempio."
+
+msgctxt "1924_Wada"
+msgid "Man. Way to call me out."
+msgstr "Accidenti. Così mi hai proprio chiamato in causa."
+
+msgctxt "1936_Nakajima"
+msgid ""
+"Ah, cut the guy some slack, Muramatsu-kun. Ain't a big deal, as long as it's"
+" not every day."
+msgstr ""
+"Ah, dagli un po' di tregua al ragazzo, Muramatsu-kun. Non è mica la fine del"
+" mondo, finché non succede tutti i giorni."
+
+msgctxt "1948_Nakajima"
+msgid "Suzuki-san, y'don't mind takin' Wada-chan along, do ya?"
+msgstr "Suzuki-san, non ti dispiace portare Wada-chan con te, vero?"
+
+msgctxt "1960_Hirakawa"
+msgid ""
+"And Wada-chan, as long as you're gettin' a free lift, y'might wanna give "
+"Suzuki-san here some advice."
+msgstr ""
+"E Wada-chan, già che ti stai godendo un passaggio gratis, non potresti dare "
+"qualche dritta a Suzuki-san qui?"
+
+msgctxt "1972_Nakajima"
+msgid "Yer our top driver, so y'gotta show the new blood how it's done."
+msgstr ""
+"Sei il nostro pilota di punta, quindi devi far vedere ai nuovi arrivati come"
+" si fa."
+
+msgctxt "1984_Wada"
+msgid "Be glad to, Chief."
+msgstr "Con piacere, Capo."
+
+msgctxt "1996_Kiryu"
+msgid "Let's hit the road, then."
+msgstr "Allora, si parte."

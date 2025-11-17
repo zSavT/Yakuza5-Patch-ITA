@@ -1,0 +1,1663 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "45760"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "45764"
+msgid "Kaguya"
+msgstr ""
+
+msgctxt "45768"
+msgid "cab_kaguya_w_01/kaguya_22_0001"
+msgstr ""
+
+msgctxt "45772"
+msgid "○I hear that."
+msgstr ""
+
+msgctxt "45776"
+msgid "□The cold gives it more meanin'."
+msgstr ""
+
+msgctxt "45780"
+msgid "cab_kaguya_w_01/kaguya_22_0002"
+msgstr ""
+
+msgctxt "45784"
+msgid "F_CAB_TLK_sitsofa_laugh_m"
+msgstr ""
+
+msgctxt "45788"
+msgid "cab_kaguya_w_01/kaguya_22_0003"
+msgstr ""
+
+msgctxt "45792"
+msgid "F_CAB_TLK_sitsofa_no_02"
+msgstr ""
+
+msgctxt "45796"
+msgid "cab_kaguya_w_01/kaguya_22_0004"
+msgstr ""
+
+msgctxt "45800"
+msgid "cab_kaguya_w_01/kaguya_22_0005"
+msgstr ""
+
+msgctxt "45804"
+msgid "cab_kaguya_w_01/kaguya_22_0006"
+msgstr ""
+
+msgctxt "45808"
+msgid "○I get ya."
+msgstr ""
+
+msgctxt "45812"
+msgid "□Ya gotta have a sense of fun."
+msgstr ""
+
+msgctxt "45816"
+msgid "cab_kaguya_w_01/kaguya_22_0007"
+msgstr ""
+
+msgctxt "45820"
+msgid "F_CAB_TLK_sitsofa_maenomeri"
+msgstr ""
+
+msgctxt "45824"
+msgid "cab_kaguya_w_01/kaguya_22_0008"
+msgstr ""
+
+msgctxt "45828"
+msgid "□Yer exaggeratin'."
+msgstr ""
+
+msgctxt "45832"
+msgid "cab_kaguya_w_01/kaguya_22_0009"
+msgstr ""
+
+msgctxt "45836"
+msgid "cab_kaguya_w_01/kaguya_22_0010"
+msgstr ""
+
+msgctxt "45840"
+msgid "○Really now?"
+msgstr ""
+
+msgctxt "45844"
+msgid "□Ya oughta save electricity."
+msgstr ""
+
+msgctxt "45848"
+msgid "△I oughta call ya sweetie-pie."
+msgstr ""
+
+msgctxt "45852"
+msgid "cab_kaguya_w_01/kaguya_22_0011"
+msgstr ""
+
+msgctxt "45856"
+msgid "cab_kaguya_w_01/kaguya_22_0012"
+msgstr ""
+
+msgctxt "45860"
+msgid "F_CAB_TLK_sitsofa_shigusa_01"
+msgstr ""
+
+msgctxt "45864"
+msgid "cab_kaguya_w_01/kaguya_22_0013"
+msgstr ""
+
+msgctxt "45868"
+msgid "F_CAB_TLK_sitsofa_omoituku"
+msgstr ""
+
+msgctxt "45872"
+msgid "cab_kaguya_w_01/kaguya_22_0014"
+msgstr ""
+
+msgctxt "45876"
+msgid "cab_kaguya_w_02/kaguya_23_0001"
+msgstr ""
+
+msgctxt "45880"
+msgid "cab_kaguya_w_02/kaguya_23_0002"
+msgstr ""
+
+msgctxt "45884"
+msgid "○That's all?"
+msgstr ""
+
+msgctxt "45888"
+msgid "□Ya oughta get out more."
+msgstr ""
+
+msgctxt "45892"
+msgid "△How about Abashiri?"
+msgstr ""
+
+msgctxt "45896"
+msgid "cab_kaguya_w_02/kaguya_23_0003"
+msgstr ""
+
+msgctxt "45900"
+msgid "cab_kaguya_w_02/kaguya_23_0004"
+msgstr ""
+
+msgctxt "45904"
+msgid "F_CAB_TLK_sitsofa_think"
+msgstr ""
+
+msgctxt "45908"
+msgid "cab_kaguya_w_02/kaguya_23_0005"
+msgstr ""
+
+msgctxt "45912"
+msgid "cab_kaguya_w_02/kaguya_23_0006"
+msgstr ""
+
+msgctxt "45916"
+msgid "cab_kaguya_w_02/kaguya_23_0007"
+msgstr ""
+
+msgctxt "45920"
+msgid "cab_kaguya_w_02/kaguya_23_0008"
+msgstr ""
+
+msgctxt "45924"
+msgid "cab_kaguya_w_02/kaguya_23_0009"
+msgstr ""
+
+msgctxt "45928"
+msgid "○I see."
+msgstr ""
+
+msgctxt "45932"
+msgid "□There's plenty a' nature."
+msgstr ""
+
+msgctxt "45936"
+msgid "cab_kaguya_w_02/kaguya_23_0010"
+msgstr ""
+
+msgctxt "45940"
+msgid "○Interestin'."
+msgstr ""
+
+msgctxt "45944"
+msgid "□Yer kiddin'."
+msgstr ""
+
+msgctxt "45948"
+msgid "cab_kaguya_w_02/kaguya_23_0011"
+msgstr ""
+
+msgctxt "45952"
+msgid "cab_kaguya_w_02/kaguya_23_0012"
+msgstr ""
+
+msgctxt "45956"
+msgid "cab_kaguya_w_02/kaguya_23_0013"
+msgstr ""
+
+msgctxt "45960"
+msgid "F_CAB_TLK_sitsofa_sorry"
+msgstr ""
+
+msgctxt "45964"
+msgid "cab_kaguya_w_02/kaguya_23_0014"
+msgstr ""
+
+msgctxt "45968"
+msgid "cab_kaguya_w_02/kaguya_23_0015"
+msgstr ""
+
+msgctxt "45972"
+msgid "cab_kaguya_w_02/kaguya_23_0016"
+msgstr ""
+
+msgctxt "45976"
+msgid "cab_kaguya_w_03/kaguya_24_0001"
+msgstr ""
+
+msgctxt "45980"
+msgid "○For sure."
+msgstr ""
+
+msgctxt "45984"
+msgid "□Am I wrong?"
+msgstr ""
+
+msgctxt "45988"
+msgid "cab_kaguya_w_03/kaguya_24_0002"
+msgstr ""
+
+msgctxt "45992"
+msgid "cab_kaguya_w_03/kaguya_24_0003"
+msgstr ""
+
+msgctxt "45996"
+msgid "○Maybe I'm imaginin' things."
+msgstr ""
+
+msgctxt "46000"
+msgid "□Ya just haven't noticed."
+msgstr ""
+
+msgctxt "46004"
+msgid "cab_kaguya_w_03/kaguya_24_0004"
+msgstr ""
+
+msgctxt "46008"
+msgid "cab_kaguya_w_03/kaguya_24_0005"
+msgstr ""
+
+msgctxt "46012"
+msgid "cab_kaguya_w_03/kaguya_24_0006"
+msgstr ""
+
+msgctxt "46016"
+msgid "cab_kaguya_w_03/kaguya_24_0007"
+msgstr ""
+
+msgctxt "46020"
+msgid "○It's genetics."
+msgstr ""
+
+msgctxt "46024"
+msgid "□Do they get massaged a lot?"
+msgstr ""
+
+msgctxt "46028"
+msgid "△It's 'cause ya drink milk."
+msgstr ""
+
+msgctxt "46032"
+msgid "cab_kaguya_w_03/kaguya_24_0008"
+msgstr ""
+
+msgctxt "46036"
+msgid "cab_kaguya_w_03/kaguya_24_0009"
+msgstr ""
+
+msgctxt "46040"
+msgid "cab_kaguya_w_03/kaguya_24_0010"
+msgstr ""
+
+msgctxt "46044"
+msgid "cab_kaguya_w_03/kaguya_24_0011"
+msgstr ""
+
+msgctxt "46048"
+msgid "cab_kaguya_w_03/kaguya_24_0012"
+msgstr ""
+
+msgctxt "46052"
+msgid "cab_kaguya_w_03/kaguya_24_0013"
+msgstr ""
+
+msgctxt "46056"
+msgid "cab_kaguya_u_01/kaguya_30_0001"
+msgstr ""
+
+msgctxt "46060"
+msgid "cab_kaguya_u_01/kaguya_30_0002"
+msgstr ""
+
+msgctxt "46064"
+msgid "cab_kaguya_u_01/kaguya_30_0003"
+msgstr ""
+
+msgctxt "46068"
+msgid "cab_kaguya_u_01/kaguya_30_0004"
+msgstr ""
+
+msgctxt "46072"
+msgid "cab_kaguya_u_01/kaguya_30_0005"
+msgstr ""
+
+msgctxt "46076"
+msgid "cab_kaguya_u_01/kaguya_30_0006"
+msgstr ""
+
+msgctxt "46080"
+msgid "cab_kaguya_u_01/kaguya_30_0007"
+msgstr ""
+
+msgctxt "46084"
+msgid "cab_kaguya_u_01/kaguya_30_0008"
+msgstr ""
+
+msgctxt "46088"
+msgid "cab_kaguya_u_01/kaguya_30_0009"
+msgstr ""
+
+msgctxt "46092"
+msgid "cab_kaguya_u_01/kaguya_30_0010"
+msgstr ""
+
+msgctxt "46096"
+msgid "cab_kaguya_u_01/kaguya_30_0011"
+msgstr ""
+
+msgctxt "46100"
+msgid "cab_kaguya_u_02/kaguya_31_0001"
+msgstr ""
+
+msgctxt "46104"
+msgid "cab_kaguya_u_02/kaguya_31_0002"
+msgstr ""
+
+msgctxt "46108"
+msgid "cab_kaguya_u_02/kaguya_31_0003"
+msgstr ""
+
+msgctxt "46112"
+msgid "cab_kaguya_u_02/kaguya_31_0004"
+msgstr ""
+
+msgctxt "46116"
+msgid "cab_kaguya_u_02/kaguya_31_0005"
+msgstr ""
+
+msgctxt "46120"
+msgid "cab_kaguya_u_02/kaguya_31_0006"
+msgstr ""
+
+msgctxt "46124"
+msgid "cab_kaguya_u_02/kaguya_31_0007"
+msgstr ""
+
+msgctxt "46128"
+msgid "cab_kaguya_u_02/kaguya_31_0008"
+msgstr ""
+
+msgctxt "46132"
+msgid "cab_kaguya_u_02/kaguya_31_0009"
+msgstr ""
+
+msgctxt "46136"
+msgid "cab_kaguya_u_02/kaguya_31_0010"
+msgstr ""
+
+msgctxt "46140"
+msgid "cab_kaguya_u_02/kaguya_31_0011"
+msgstr ""
+
+msgctxt "46144"
+msgid "cab_kaguya_u_03/kaguya_32_0001"
+msgstr ""
+
+msgctxt "46148"
+msgid "cab_kaguya_u_03/kaguya_32_0002"
+msgstr ""
+
+msgctxt "46152"
+msgid "cab_kaguya_u_03/kaguya_32_0003"
+msgstr ""
+
+msgctxt "46156"
+msgid "cab_kaguya_u_03/kaguya_32_0004"
+msgstr ""
+
+msgctxt "46160"
+msgid "cab_kaguya_u_03/kaguya_32_0005"
+msgstr ""
+
+msgctxt "46164"
+msgid "cab_kaguya_u_03/kaguya_32_0006"
+msgstr ""
+
+msgctxt "46168"
+msgid "cab_kaguya_u_03/kaguya_32_0007"
+msgstr ""
+
+msgctxt "46172"
+msgid "cab_kaguya_u_03/kaguya_32_0008"
+msgstr ""
+
+msgctxt "46176"
+msgid "cab_kaguya_u_03/kaguya_32_0009"
+msgstr ""
+
+msgctxt "46180"
+msgid "cab_kaguya_u_03/kaguya_32_0010"
+msgstr ""
+
+msgctxt "46184"
+msgid "cab_kaguya_u_04/kaguya_33_0001"
+msgstr ""
+
+msgctxt "46188"
+msgid "cab_kaguya_u_04/kaguya_33_0002"
+msgstr ""
+
+msgctxt "46192"
+msgid "cab_kaguya_u_04/kaguya_33_0003"
+msgstr ""
+
+msgctxt "46196"
+msgid "cab_kaguya_u_04/kaguya_33_0004"
+msgstr ""
+
+msgctxt "46200"
+msgid "cab_kaguya_u_04/kaguya_33_0005"
+msgstr ""
+
+msgctxt "46204"
+msgid "cab_kaguya_u_04/kaguya_33_0006"
+msgstr ""
+
+msgctxt "46208"
+msgid "cab_kaguya_u_04/kaguya_33_0007"
+msgstr ""
+
+msgctxt "46212"
+msgid "cab_kaguya_u_04/kaguya_33_0008"
+msgstr ""
+
+msgctxt "46216"
+msgid "cab_kaguya_u_04/kaguya_33_0009"
+msgstr ""
+
+msgctxt "46220"
+msgid "cab_kaguya_u_04/kaguya_33_0010"
+msgstr ""
+
+msgctxt "46224"
+msgid "cab_kaguya_u_04/kaguya_33_0011"
+msgstr ""
+
+msgctxt "46228"
+msgid "F_CAB_TLK_sitsofa_yes_02"
+msgstr ""
+
+msgctxt "46232"
+msgid "cab_kaguya_u_05/kaguya_34_0001"
+msgstr ""
+
+msgctxt "46236"
+msgid "cab_kaguya_u_05/kaguya_34_0002"
+msgstr ""
+
+msgctxt "46240"
+msgid "cab_kaguya_u_05/kaguya_34_0003"
+msgstr ""
+
+msgctxt "46244"
+msgid "cab_kaguya_u_05/kaguya_34_0004"
+msgstr ""
+
+msgctxt "46248"
+msgid "cab_kaguya_u_05/kaguya_34_0005"
+msgstr ""
+
+msgctxt "46252"
+msgid "cab_kaguya_u_05/kaguya_34_0006"
+msgstr ""
+
+msgctxt "46256"
+msgid "cab_kaguya_u_05/kaguya_34_0007"
+msgstr ""
+
+msgctxt "46260"
+msgid "cab_kaguya_u_05/kaguya_34_0008"
+msgstr ""
+
+msgctxt "46264"
+msgid "cab_kaguya_u_05/kaguya_34_0009"
+msgstr ""
+
+msgctxt "46268"
+msgid "cab_kaguya_u_05/kaguya_34_0010"
+msgstr ""
+
+msgctxt "46272"
+msgid "cab_kaguya_u_05/kaguya_34_0011"
+msgstr ""
+
+msgctxt "540_Saejima"
+msgid ""
+"The snow festival sure is somethin', ain't it? I had no idea this many "
+"tourists came to see it."
+msgstr ""
+
+msgctxt "552_Kaguya"
+msgid ""
+"It's quite impressive, yes! I'm impressed by the people who make those "
+"things, and those who come out to look at them in this freezing cold."
+msgstr ""
+
+msgctxt "564_Saejima"
+msgid ""
+"I hear that. I carve wooden dolls myself, but carvin' ice like that looks "
+"like no easy task."
+msgstr ""
+
+msgctxt "576_Kaguya"
+msgid ""
+"Really? I don't know much about that sort of thing. You're much more "
+"knowledgeable than me!"
+msgstr ""
+
+msgctxt "588_Saejima"
+msgid ""
+"The cold gives it more meanin'. Folks put up with the cold to see a piece "
+"a' art that disappears when it gets warmer."
+msgstr ""
+
+msgctxt "600_Kaguya"
+msgid ""
+"Wow, you really like this sort of thing, don't you? I wouldn't have ever "
+"guessed!"
+msgstr ""
+
+msgctxt "612_Saejima"
+msgid "Have ya ever made anything yerself?"
+msgstr ""
+
+msgctxt "624_Kaguya"
+msgid "Never. I mean, I've built snowmen when I was little, but..."
+msgstr ""
+
+msgctxt "636_Saejima"
+msgid "Yeah, ya don't strike me as a kid who'd go outside to play."
+msgstr ""
+
+msgctxt "648_Kaguya"
+msgid ""
+"That has nothing to do with it. Sure, people from Tokyo get excited when it "
+"snows because it doesn't happen often there."
+msgstr ""
+
+msgctxt "660_Kaguya"
+msgid ""
+"But for people from Hokkaido, it's not really a fun time for us when it "
+"snows. It's a huge pain to have to go shovel it all the time."
+msgstr ""
+
+msgctxt "672_Saejima"
+msgid ""
+"I get ya. I hear sometimes the snow piles up as high as a two-story house. "
+"I suppose that ain't somethin' to be happy about."
+msgstr ""
+
+msgctxt "684_Kaguya"
+msgid "Yes. It would be nicer to visit as a tourist."
+msgstr ""
+
+msgctxt "696_Saejima"
+msgid ""
+"Ya gotta have a sense of fun. If ya don't look forward to somethin' like "
+"the festival, winter would suck every year."
+msgstr ""
+
+msgctxt "708_Kaguya"
+msgid ""
+"But it does suck! We're not talking about nice, fluttery snow, either! "
+"We're talking blizzards here!"
+msgstr ""
+
+msgctxt "720_Saejima"
+msgid "Yer exaggeratin'. It ain't like you're up in the mountains."
+msgstr ""
+
+msgctxt "732_Kaguya"
+msgid ""
+"Don't underestimate the snow in Hokkaido! It gets pretty intense. If you "
+"lived here, you'd understand real quick."
+msgstr ""
+
+msgctxt "744_Saejima"
+msgid "So whaddya do when it snows? Stay inside curled up on yer futon?"
+msgstr ""
+
+msgctxt "756_Saejima"
+msgid "So whaddya do when it snows? Stay inside curled up on yer futon?"
+msgstr ""
+
+msgctxt "768_Kaguya"
+msgid "No, the heating in my house is turned up so high it's actually hot inside!"
+msgstr ""
+
+msgctxt "780_Saejima"
+msgid ""
+"Really now? When I think of Hokkaido, I think of folks bein' bundled up in "
+"warm clothes."
+msgstr ""
+
+msgctxt "792_Kaguya"
+msgid ""
+"Not at all! I'm fine wearing a T-shirt. I don't even wear any clothes at "
+"home."
+msgstr ""
+
+msgctxt "804_Saejima"
+msgid "I... Wow."
+msgstr ""
+
+msgctxt "816_Saejima"
+msgid "Ya oughta save electricity. It's wasteful."
+msgstr ""
+
+msgctxt "828_Kaguya"
+msgid "What? But if I don't keep the heater on, I'm gonna freeze!"
+msgstr ""
+
+msgctxt "840_Saejima"
+msgid "Then just turn it down a degree or two. Energy conservation is important."
+msgstr ""
+
+msgctxt "852_Kaguya"
+msgid ""
+"But it's not like I'm being wasteful. We honestly wouldn't be able to live "
+"here without the heat being that high."
+msgstr ""
+
+msgctxt "864_Saejima"
+msgid "Yeah, I guess..."
+msgstr ""
+
+msgctxt "876_Saejima"
+msgid ""
+"Guess I should start callin' ya sweetie-pie, since ya practically live in "
+"an oven."
+msgstr ""
+
+msgctxt "888_Kaguya"
+msgid ""
+"That's a good one! If I had your sense of humor, winter would be much more "
+"bearable."
+msgstr ""
+
+msgctxt "900_Saejima"
+msgid "Heh. Maybe."
+msgstr ""
+
+msgctxt "912_Saejima"
+msgid ""
+"Hokkaido sure is big. There's so much to see outside of Tsukimino. I don't "
+"think I'll be able to see it all."
+msgstr ""
+
+msgctxt "924_Kaguya"
+msgid "I know. Even I haven't been to that many places."
+msgstr ""
+
+msgctxt "936_Saejima"
+msgid "Really?"
+msgstr ""
+
+msgctxt "948_Kaguya"
+msgid ""
+"I mean, I go to Otaru once in a while. Oh, and I went to Hakodate once on a "
+"school field trip."
+msgstr ""
+
+msgctxt "960_Saejima"
+msgid ""
+"That's all? I suppose folks from here would rather go to Tokyo or Okinawa "
+"or somethin'."
+msgstr ""
+
+msgctxt "972_Kaguya"
+msgid "Yeah, we don't vacation within Hokkaido much."
+msgstr ""
+
+msgctxt "984_Saejima"
+msgid "Ya oughta get out more. You should know 'bout the place yer from."
+msgstr ""
+
+msgctxt "996_Kaguya"
+msgid ""
+"But it's so big I don't think of the whole place as my home. Even in Tokyo, "
+"anything outside the 23 wards might as well be another prefecture."
+msgstr ""
+
+msgctxt "1008_Saejima"
+msgid "I guess so. I dunno western Tokyo all that well."
+msgstr ""
+
+msgctxt "1020_Saejima"
+msgid "How about Abashiri?"
+msgstr ""
+
+msgctxt "1032_Kaguya"
+msgid "Abashiri? Where that prison is?"
+msgstr ""
+
+msgctxt "1044_Saejima"
+msgid "Yeah. Ever been there?"
+msgstr ""
+
+msgctxt "1056_Kaguya"
+msgid "I haven't, no. Is there anything there other than the prison?"
+msgstr ""
+
+msgctxt "1068_Saejima"
+msgid "Lemme think... They've got Nipopo dolls."
+msgstr ""
+
+msgctxt "1080_Kaguya"
+msgid "Oh? What are those?"
+msgstr ""
+
+msgctxt "1092_Saejima"
+msgid "Nipopo dolls. They're a local Abashiri craft."
+msgstr ""
+
+msgctxt "1104_Kaguya"
+msgid ""
+"Wow, really? I didn't know about those. You sure know a lot about Abashiri, "
+"Saejima-san!"
+msgstr ""
+
+msgctxt "1116_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "1128_Kaguya"
+msgid ""
+"Anyway, there's really no reason to go to another city if you're in "
+"Sapporo. And outside of Tsukimino, there's not much else in the rest of "
+"Sapporo either."
+msgstr ""
+
+msgctxt "1140_Saejima"
+msgid ""
+"I see. Guess Tsukimino's the only place to go for fun. Where do folks in "
+"the suburbs go to drink?"
+msgstr ""
+
+msgctxt "1152_Kaguya"
+msgid ""
+"Oh, we have plenty of customers who take the train to come all the way here "
+"to Tsukimino!"
+msgstr ""
+
+msgctxt "1164_Saejima"
+msgid "Interestin'. It's almost like a mini-vacation."
+msgstr ""
+
+msgctxt "1176_Kaguya"
+msgid ""
+"Yeah, all they have are regular bars out there, so if they want the company "
+"of a girl while they're drinking, they have no choice but to come here."
+msgstr ""
+
+msgctxt "1188_Saejima"
+msgid "Hm. So Tsukimino is like a hub for the people of Hokkaido."
+msgstr ""
+
+msgctxt "1200_Saejima"
+msgid ""
+"Yer kiddin'. There's gotta be places to drink without comin' all the way to "
+"Tsukimino."
+msgstr ""
+
+msgctxt "1212_Kaguya"
+msgid "There really aren't though."
+msgstr ""
+
+msgctxt "1224_Kaguya"
+msgid ""
+"There was a medical conference in Sapporo a while back. Hundreds of doctors "
+"came from across the country, and they all came to Tsukimino."
+msgstr ""
+
+msgctxt "1236_Saejima"
+msgid "Everyone?"
+msgstr ""
+
+msgctxt "1248_Kaguya"
+msgid ""
+"Yep. All the clubs were packed. The streets were overflowing with people "
+"who couldn't get in anywhere."
+msgstr ""
+
+msgctxt "1260_Saejima"
+msgid "Wow. Guess there really isn't anywhere else to drink..."
+msgstr ""
+
+msgctxt "1272_Saejima"
+msgid ""
+"That means there's plenty of nature. Not only is there no greenery in "
+"Tokyo, there's so many buildings that sometimes ya can't even see the sky."
+msgstr ""
+
+msgctxt "1284_Kaguya"
+msgid "That's just another way of saying there's nothing here."
+msgstr ""
+
+msgctxt "1296_Saejima"
+msgid ""
+"Well, what's wrong with that? Livin' in Kamurocho, ya'd think the air was "
+"nothin' but car exhaust. The air in Tsukimino's much cleaner."
+msgstr ""
+
+msgctxt "1308_Kaguya"
+msgid ""
+"We're not out in the sticks, you know! Do you think we're in some mountain "
+"village?"
+msgstr ""
+
+msgctxt "1320_Saejima"
+msgid ""
+"Ya know, I get the feelin' that the women around here got kinda huge "
+"breasts."
+msgstr ""
+
+msgctxt "1332_Kaguya"
+msgid "What? Really?"
+msgstr ""
+
+msgctxt "1344_Saejima"
+msgid ""
+"For sure. The women I see 'round town tend to have pretty big ones, I tell "
+"ya."
+msgstr ""
+
+msgctxt "1356_Kaguya"
+msgid "I see you're into checking out things like that, Saejima-san!"
+msgstr ""
+
+msgctxt "1368_Saejima"
+msgid "Am I wrong? Maybe it's just me."
+msgstr ""
+
+msgctxt "1380_Kaguya"
+msgid "I've never heard anyone say so before. I think it may be wishful thinking."
+msgstr ""
+
+msgctxt "1392_Saejima"
+msgid ""
+"Maybe I'm imaginin' things. Or maybe the women here just give off that kind "
+"of vibe."
+msgstr ""
+
+msgctxt "1404_Kaguya"
+msgid ""
+"I do hear that we have very white skin sometimes. I guess there is a lot of "
+"fair-skinned girls around here."
+msgstr ""
+
+msgctxt "1416_Saejima"
+msgid "Now that ya mention it, you do."
+msgstr ""
+
+msgctxt "1428_Saejima"
+msgid "Ya just haven't noticed. Maybe folks here are just used to it."
+msgstr ""
+
+msgctxt "1440_Kaguya"
+msgid "I don't think that's it. We'd have noticed based on our bra sizes."
+msgstr ""
+
+msgctxt "1452_Saejima"
+msgid "Maybe so, yeah."
+msgstr ""
+
+msgctxt "1464_Kaguya"
+msgid "Then again, my chest is on the larger side, so I'm in no position to talk."
+msgstr ""
+
+msgctxt "1476_Saejima"
+msgid "How'd they get that big, anyway?"
+msgstr ""
+
+msgctxt "1488_Kaguya"
+msgid "How...? They just naturally are, I guess."
+msgstr ""
+
+msgctxt "1500_Saejima"
+msgid "It's genetics."
+msgstr ""
+
+msgctxt "1512_Kaguya"
+msgid "Come to think of it, my mother and grandmother had big chests too!"
+msgstr ""
+
+msgctxt "1524_Saejima"
+msgid "Really? Maybe the women of Hokkaido just got that kinda body."
+msgstr ""
+
+msgctxt "1536_Kaguya"
+msgid "I think it's just my family."
+msgstr ""
+
+msgctxt "1548_Saejima"
+msgid ""
+"Do they get massaged a lot? That's what I heard, that they get bigger when "
+"guys massage 'em."
+msgstr ""
+
+msgctxt "1560_Kaguya"
+msgid "Maybe that's true!"
+msgstr ""
+
+msgctxt "1572_Kaguya"
+msgid ""
+"But I started getting bigger towards the end of elementary school, so I "
+"don't think that has much to do with it."
+msgstr ""
+
+msgctxt "1584_Saejima"
+msgid "Ya sure were an early bloomer, huh?"
+msgstr ""
+
+msgctxt "1596_Saejima"
+msgid "It's 'cause ya drink milk. Milk's a big Hokkaido thing."
+msgstr ""
+
+msgctxt "1608_Kaguya"
+msgid ""
+"How does that logic work? If that were the case, every girl in Hokkaido "
+"would wind up being huge."
+msgstr ""
+
+msgctxt "1620_Saejima"
+msgid "Ain't that exactly what I'm sayin'?"
+msgstr ""
+
+msgctxt "1632_Kaguya"
+msgid ""
+"But there are girls with small chests at this club. I think you may not "
+"want to go around saying that sort of thing..."
+msgstr ""
+
+msgctxt "1644_Saejima"
+msgid "Uh. Sorry."
+msgstr ""
+
+msgctxt "1656_Kaguya"
+msgid "Fixed Topic 03"
+msgstr ""
+
+msgctxt "1668_Kaguya"
+msgid "Fixed Topic 04"
+msgstr ""
+
+msgctxt "1680_Kaguya"
+msgid "Fixed Topic 05"
+msgstr ""
+
+msgctxt "1692_Kaguya"
+msgid "Fixed Topic 06"
+msgstr ""
+
+msgctxt "1704_Kaguya"
+msgid "Fixed Topic 07"
+msgstr ""
+
+msgctxt "1716_Kaguya"
+msgid "Fixed Topic 08"
+msgstr ""
+
+msgctxt "1728_Kaguya"
+msgid "Fixed Topic 09"
+msgstr ""
+
+msgctxt "1740_Kaguya"
+msgid "Fixed Topic 10"
+msgstr ""
+
+msgctxt "1752_Kaguya"
+msgid "Fixed Topic 11"
+msgstr ""
+
+msgctxt "1764_Kaguya"
+msgid "Fixed Topic 12"
+msgstr ""
+
+msgctxt "1776_Kaguya"
+msgid "Fixed Topic 13"
+msgstr ""
+
+msgctxt "1788_Kaguya"
+msgid "Fixed Topic 14"
+msgstr ""
+
+msgctxt "1800_Kaguya"
+msgid "Fixed Topic 15"
+msgstr ""
+
+msgctxt "1812_Saejima"
+msgid "I hear eatin' curry soup for breakfast is a new diet."
+msgstr ""
+
+msgctxt "1824_Kaguya"
+msgid "Eating curry in the morning?"
+msgstr ""
+
+msgctxt "1836_Saejima"
+msgid ""
+"Yeah. The spices in the curry warm up the body and jump-start yer "
+"metabolism, I guess."
+msgstr ""
+
+msgctxt "1848_Saejima"
+msgid ""
+"Eatin' it in the mornin' gets the body goin' better than if ya eat it "
+"before bed."
+msgstr ""
+
+msgctxt "1860_Kaguya"
+msgid "Wow! You know, I don't think I've ever eaten curry for breakfast."
+msgstr ""
+
+msgctxt "1872_Saejima"
+msgid ""
+"Some spices are good for anti-agin' things and others help yer digestive "
+"system, so it's good for ya either way."
+msgstr ""
+
+msgctxt "1884_Kaguya"
+msgid ""
+"And I bet curry soup is light enough to eat right after waking up, too. "
+"I'll have to try it!"
+msgstr ""
+
+msgctxt "1896_Kaguya"
+msgid "Oh, and curry also goes well with lamb barbecue!"
+msgstr ""
+
+msgctxt "1908_Saejima"
+msgid "Really? Doesn't seem like it would go well."
+msgstr ""
+
+msgctxt "1920_Kaguya"
+msgid ""
+"I don't mean the curry roux. I'm talking about sprinkling curry powder on "
+"it. I recommend it if you're tired of the normal sauce."
+msgstr ""
+
+msgctxt "1932_Saejima"
+msgid "I'll give it a try."
+msgstr ""
+
+msgctxt "1944_Kaguya"
+msgid "Wait, hold on. You don't lose weight if you don't exercise as well, right?"
+msgstr ""
+
+msgctxt "1956_Saejima"
+msgid ""
+"All it does is make it easier to burn fat, so if ya don't exercise after it "
+"won't be as effective."
+msgstr ""
+
+msgctxt "1968_Kaguya"
+msgid "Aww. I wish there was a food that let me lose weight by just sitting around."
+msgstr ""
+
+msgctxt "1980_Saejima"
+msgid "Sounds like a good way to gain weight."
+msgstr ""
+
+msgctxt "1992_Kaguya"
+msgid ""
+"Speaking of, the horoscope for Scorpios today said it was a bad day for "
+"health. Maybe I should track down some curry soup!"
+msgstr ""
+
+msgctxt "2004_Saejima"
+msgid "Yeah, that should make ya feel better."
+msgstr ""
+
+msgctxt "2016_Kaguya"
+msgid ""
+"Speaking of, that friend of mine who's getting divorced likes curry. It's "
+"been a while since we last ate together. Maybe I should fix that."
+msgstr ""
+
+msgctxt "2028_Saejima"
+msgid "Sounds good. Ya gotta be nice to yer friends."
+msgstr ""
+
+msgctxt "2040_Kaguya"
+msgid "Saejima-san, we already talked about this."
+msgstr ""
+
+msgctxt "2052_Saejima"
+msgid "Oh, did we?"
+msgstr ""
+
+msgctxt "2064_Kaguya"
+msgid "I guess you're really interested in this topic."
+msgstr ""
+
+msgctxt "2076_Saejima"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "2100_Saejima"
+msgid "Did ya know July is uni season?"
+msgstr ""
+
+msgctxt "2112_Kaguya"
+msgid "Oh, really? I eat it all year round, though."
+msgstr ""
+
+msgctxt "2124_Saejima"
+msgid ""
+"Different species can be caught at different times of year. July's when you "
+"can get short-spined uni. That's the tastiest."
+msgstr ""
+
+msgctxt "2136_Kaguya"
+msgid ""
+"Wow, I had no idea! I honestly thought all the uni they have around here "
+"was the same."
+msgstr ""
+
+msgctxt "2148_Saejima"
+msgid ""
+"I heard early summer's the best time to eat uni in Sapporo. Ya want to get "
+"in on it before the tourists all swarm into town."
+msgstr ""
+
+msgctxt "2160_Kaguya"
+msgid ""
+"That reminds me. I hear Tokyo's the best place to go for sushi. Is that "
+"true?"
+msgstr ""
+
+msgctxt "2172_Saejima"
+msgid "Do they say that? How come?"
+msgstr ""
+
+msgctxt "2184_Kaguya"
+msgid ""
+"Apparently fish from all over Japan is sent to the Tsukiji fish market. "
+"That's not fair!"
+msgstr ""
+
+msgctxt "2196_Saejima"
+msgid ""
+"I see. Well, if ya want fish from the cold northern waters, it's gonna be "
+"the freshest here in Hokkaido."
+msgstr ""
+
+msgctxt "2208_Kaguya"
+msgid ""
+"Speaking of, I was surprised to learn that calling it nama-zushi is a "
+"Hokkaido dialect thing."
+msgstr ""
+
+msgctxt "2220_Saejima"
+msgid "What's nama-zushi? Fish in vinegar?"
+msgstr ""
+
+msgctxt "2232_Kaguya"
+msgid "Here in Hokkaido, it's just what we call your typical nigiri-zushi."
+msgstr ""
+
+msgctxt "2244_Saejima"
+msgid "So then what does sushi mean here?"
+msgstr ""
+
+msgctxt "2256_Kaguya"
+msgid "Norimaki, or inarizushi."
+msgstr ""
+
+msgctxt "2268_Saejima"
+msgid "Sounds confusin'."
+msgstr ""
+
+msgctxt "2280_Kaguya"
+msgid ""
+"It always feels like a pain to leave the house, so sometimes I get sushi "
+"delivered."
+msgstr ""
+
+msgctxt "2292_Kaguya"
+msgid ""
+"But what you've said makes me want to head to the market right now! I'll "
+"make a rice bowl with more uni than any restaurant could possibly serve!"
+msgstr ""
+
+msgctxt "2304_Saejima"
+msgid "Yer gonna buy freshly caught uni? Sounds real tasty."
+msgstr ""
+
+msgctxt "2316_Kaguya"
+msgid ""
+"You know, this business of lying about my age... You could call it a real "
+"catfish story."
+msgstr ""
+
+msgctxt "2328_Saejima"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "2340_Kaguya"
+msgid "But now I'd rather it be a sea urchin story!"
+msgstr ""
+
+msgctxt "2352_Saejima"
+msgid "...What're ya even talkin' about?"
+msgstr ""
+
+msgctxt "2364_Kaguya"
+msgid "Saejima-san, we already talked about this."
+msgstr ""
+
+msgctxt "2376_Saejima"
+msgid ""
+"\r\n"
+"Oh, did we?"
+msgstr ""
+
+msgctxt "2388_Kaguya"
+msgid "I guess you're really interested in this topic."
+msgstr ""
+
+msgctxt "2400_Saejima"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "2424_Saejima"
+msgid "So, do ya know why white chocolate's white?"
+msgstr ""
+
+msgctxt "2436_Kaguya"
+msgid ""
+"Is white chocolate even really chocolate though? They taste completely "
+"different."
+msgstr ""
+
+msgctxt "2448_Saejima"
+msgid ""
+"They're made from the same stuff, but it's white 'cause they don't include "
+"the cocoa mass."
+msgstr ""
+
+msgctxt "2460_Saejima"
+msgid ""
+"That's also why it ain't bitter. That and 'cause milk and sugar are mixed "
+"in."
+msgstr ""
+
+msgctxt "2472_Kaguya"
+msgid ""
+"Oh really? I'm a big chocoholic, but I never considered white chocolate to "
+"be chocolate. I'll have to do a little taste test sometime!"
+msgstr ""
+
+msgctxt "2484_Kaguya"
+msgid "But since I spend so much time at home, eating chocolate will make me fat."
+msgstr ""
+
+msgctxt "2496_Saejima"
+msgid "White chocolate has more calories than regular chocolate too."
+msgstr ""
+
+msgctxt "2508_Kaguya"
+msgid "Dang. Guess I'll have to pass then..."
+msgstr ""
+
+msgctxt "2520_Kaguya"
+msgid "Oh, that reminds me! My lucky color today is white!"
+msgstr ""
+
+msgctxt "2532_Saejima"
+msgid "Heh. Maybe there's a connection there."
+msgstr ""
+
+msgctxt "2544_Kaguya"
+msgid "Maybe I'll buy some white chocolate on my way home from work!"
+msgstr ""
+
+msgctxt "2556_Kaguya"
+msgid ""
+"You know what? Every year I send Valentine's chocolate to my favorite "
+"martial artist!"
+msgstr ""
+
+msgctxt "2568_Saejima"
+msgid ""
+"Would a martial artist even want somethin' that sweet? And don't they got a "
+"strict meal regimen?"
+msgstr ""
+
+msgctxt "2580_Kaguya"
+msgid ""
+"Yeah, but this person loves super sweet things! I heard about it in an "
+"interview with him and thought I should send him something!"
+msgstr ""
+
+msgctxt "2592_Saejima"
+msgid "Ya really keep up to date with things."
+msgstr ""
+
+msgctxt "2604_Kaguya"
+msgid "That girl I was talking about before gave me a Valentine's chocolate."
+msgstr ""
+
+msgctxt "2616_Kaguya"
+msgid ""
+"I'd assumed it was a normal friendly exchange at the time, but looking "
+"back, I wonder if she went all-out and made it for me by hand."
+msgstr ""
+
+msgctxt "2628_Saejima"
+msgid "What, you think she's been tryin' to make a move on ya this whole time?"
+msgstr ""
+
+msgctxt "2640_Kaguya"
+msgid "Saejima-san, we already talked about this."
+msgstr ""
+
+msgctxt "2652_Saejima"
+msgid "Oh, did we?"
+msgstr ""
+
+msgctxt "2664_Kaguya"
+msgid "I guess you're really interested in this topic."
+msgstr ""
+
+msgctxt "2676_Saejima"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "2700_Saejima"
+msgid ""
+"Hot water bottles are sellin' big recently. I guess they're perfect for "
+"cold Hokkaido."
+msgstr ""
+
+msgctxt "2712_Kaguya"
+msgid ""
+"Hot water bottles? I'm not good with that sort of thing. It's a pain to "
+"prepare, and it's hard so it'll hurt if I trip."
+msgstr ""
+
+msgctxt "2724_Saejima"
+msgid ""
+"Newer ones got fluffy covers that are supposed to make 'em feel real nice "
+"and cozy."
+msgstr ""
+
+msgctxt "2736_Kaguya"
+msgid "Oh wow, really?"
+msgstr ""
+
+msgctxt "2748_Saejima"
+msgid ""
+"They come in different shapes so you can wrap it around yer neck or hang it "
+"on yer shoulder. Ya can even wear some of 'em like a shoe."
+msgstr ""
+
+msgctxt "2760_Kaguya"
+msgid "I had no idea! I'll try to find one online!"
+msgstr ""
+
+msgctxt "2772_Kaguya"
+msgid ""
+"Speaking of which, when I stayed with my friend in Tokyo, I was shocked at "
+"how cold it was!"
+msgstr ""
+
+msgctxt "2784_Saejima"
+msgid "Tokyo was cold? How come?"
+msgstr ""
+
+msgctxt "2796_Kaguya"
+msgid ""
+"My guess is the walls in Tokyo are thinner than the ones we have in "
+"Hokkaido."
+msgstr ""
+
+msgctxt "2808_Kaguya"
+msgid ""
+"I'm fine with a T-shirt at home in Hokkaido, but in Tokyo I needed to wear "
+"another layer."
+msgstr ""
+
+msgctxt "2820_Saejima"
+msgid ""
+"I see. Come to think of it, the thickness of the prison walls were "
+"different in Hokkaido than in Okinawa."
+msgstr ""
+
+msgctxt "2832_Kaguya"
+msgid ""
+"We've been getting a lot more convenient tech like that recently. It makes "
+"my life as a shut-in much better!"
+msgstr ""
+
+msgctxt "2844_Saejima"
+msgid "Maybe all these conveniences aren't so good..."
+msgstr ""
+
+msgctxt "2856_Kaguya"
+msgid "I use my cell phone a lot when it's cold too."
+msgstr ""
+
+msgctxt "2868_Saejima"
+msgid "Yeah? Why's that?"
+msgstr ""
+
+msgctxt "2880_Kaguya"
+msgid ""
+"The longer I use the phone, the warmer the phone gets. Then I stick it in "
+"my pocket as a sort of makeshift pocket heater!"
+msgstr ""
+
+msgctxt "2892_Saejima"
+msgid "Yer a real piece a' work, ya know."
+msgstr ""
+
+msgctxt "2904_Kaguya"
+msgid ""
+"And hey, if you're cold, just cozy up with a girl and she'll warm you right "
+"up!"
+msgstr ""
+
+msgctxt "2916_Saejima"
+msgid ""
+"Well, the human body runs at 36.7 degrees Celsius. That's sorta like a hot "
+"water bottle."
+msgstr ""
+
+msgctxt "2928_Kaguya"
+msgid ""
+"Maybe I'll get my friend to come stay at my place, just for the winter. "
+"Hehe!"
+msgstr ""
+
+msgctxt "2940_Saejima"
+msgid "Maybe don't mention that to her..."
+msgstr ""
+
+msgctxt "2952_Kaguya"
+msgid "Saejima-san, we already talked about this."
+msgstr ""
+
+msgctxt "2964_Saejima"
+msgid "Oh, did we?"
+msgstr ""
+
+msgctxt "2976_Kaguya"
+msgid "I guess you're really interested in this topic."
+msgstr ""
+
+msgctxt "2988_Saejima"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "3012_Saejima"
+msgid ""
+"I hear that in Hokkaido ya eat yer traditional New Year's meal on New "
+"Year's Eve. That true?"
+msgstr ""
+
+msgctxt "3024_Kaguya"
+msgid ""
+"It is. In mainland Japan, I hear you wait until the actual new year starts "
+"before you eat it."
+msgstr ""
+
+msgctxt "3036_Saejima"
+msgid "Yeah. On New Year's Eve, we traditionally eat soba noodles."
+msgstr ""
+
+msgctxt "3048_Kaguya"
+msgid ""
+"We eat that too. But New Year's Eve is an even more extravagant feast than "
+"Christmas for us!"
+msgstr ""
+
+msgctxt "3060_Saejima"
+msgid ""
+"Wow. I guess since ya got the bounty of the sea up here it's tastier than "
+"down in Tokyo."
+msgstr ""
+
+msgctxt "3072_Kaguya"
+msgid ""
+"Doesn't each part of the country have its own unique New Year's food? I "
+"hadn't thought about it before, but in Hokkaido it's really delicious!"
+msgstr ""
+
+msgctxt "3084_Kaguya"
+msgid ""
+"I only worked in Tokyo for a little bit, but I still got hit with some "
+"major culture shock while I was down there!"
+msgstr ""
+
+msgctxt "3096_Saejima"
+msgid "Hm. Like what?"
+msgstr ""
+
+msgctxt "3108_Kaguya"
+msgid "Let me think..."
+msgstr ""
+
+msgctxt "3120_Kaguya"
+msgid ""
+"Oh, that's right! I saw my first cockroach! It skittered out from behind "
+"the refrigerator in the club's kitchen!"
+msgstr ""
+
+msgctxt "3132_Saejima"
+msgid "That's shockin' for lotsa reasons actually..."
+msgstr ""
+
+msgctxt "3144_Kaguya"
+msgid ""
+"When I was in college, I made sure to get together with friends for a New "
+"Year's Eve party every year!"
+msgstr ""
+
+msgctxt "3156_Saejima"
+msgid ""
+"Sounds like a good time. Maybe I oughta do somethin' like that to ring in "
+"the new year..."
+msgstr ""
+
+msgctxt "3168_Kaguya"
+msgid ""
+"It is! I never bother doing a New Year's shrine visit. Instead I celebrate "
+"by eating and drinking and then lounging around the house."
+msgstr ""
+
+msgctxt "3180_Kaguya"
+msgid "So I always gain weight in early January."
+msgstr ""
+
+msgctxt "3192_Saejima"
+msgid "Then just get out more..."
+msgstr ""
+
+msgctxt "3204_Kaguya"
+msgid ""
+"I guess if I get married, I'll have no choice but to prepare the New Year's "
+"meal."
+msgstr ""
+
+msgctxt "3216_Saejima"
+msgid ""
+"Makin' it all from scratch is a big pain. Just get a premade one from the "
+"store."
+msgstr ""
+
+msgctxt "3228_Kaguya"
+msgid ""
+"But ordering it is a pain too... Would it be okay if I just went to a "
+"convenience store?"
+msgstr ""
+
+msgctxt "3240_Saejima"
+msgid "Why're ya askin' me?"
+msgstr ""
+
+msgctxt "3252_Kaguya"
+msgid "Saejima-san, we already talked about this."
+msgstr ""
+
+msgctxt "3264_Saejima"
+msgid "Oh, did we?"
+msgstr ""
+
+msgctxt "3276_Kaguya"
+msgid "I guess you're really interested in this topic."
+msgstr ""
+
+msgctxt "3288_Saejima"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "3312_Kaguya"
+msgid "Rumor Topic 05"
+msgstr ""
+
+msgctxt "3324_Kaguya"
+msgid "Rumor Topic 06"
+msgstr ""
+
+msgctxt "3336_Kaguya"
+msgid "Rumor Topic 07"
+msgstr ""
+
+msgctxt "3348_Kaguya"
+msgid "Rumor Topic 08"
+msgstr ""
+
+msgctxt "3360_Kaguya"
+msgid "Rumor Topic 09"
+msgstr ""
+
+msgctxt "3372_Kaguya"
+msgid "Rumor Topic 10"
+msgstr ""
+
+msgctxt "3384_Kaguya"
+msgid "Rumor Topic 11"
+msgstr ""
+
+msgctxt "3396_Kaguya"
+msgid "Rumor Topic 12"
+msgstr ""
+
+msgctxt "3408_Kaguya"
+msgid "Rumor Topic 13"
+msgstr ""
+
+msgctxt "3420_Kaguya"
+msgid "Rumor Topic 14"
+msgstr ""
+
+msgctxt "3432_Kaguya"
+msgid "Rumor Topic 15"
+msgstr ""

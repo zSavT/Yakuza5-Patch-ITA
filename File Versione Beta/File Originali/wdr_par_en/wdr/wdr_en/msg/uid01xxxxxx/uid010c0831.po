@@ -1,0 +1,546 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "19052"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "19056"
+msgid "Clean Cut Man"
+msgstr ""
+
+msgctxt "19060"
+msgid "SS1_P_TAX_question"
+msgstr ""
+
+msgctxt "19064"
+msgid "SS1_M_NML_TAX_laugh"
+msgstr ""
+
+msgctxt "19068"
+msgid "SS1_P_TAX_nod_A"
+msgstr ""
+
+msgctxt "19072"
+msgid "SS1_M_NML_TAX_idle"
+msgstr ""
+
+msgctxt "19076"
+msgid "A Breeder"
+msgstr ""
+
+msgctxt "19080"
+msgid "A Part-Timer"
+msgstr ""
+
+msgctxt "19084"
+msgid "A Freelance Writer"
+msgstr ""
+
+msgctxt "19088"
+msgid "SS1_M_NML_TAX_question"
+msgstr ""
+
+msgctxt "19092"
+msgid "SS1_M_NML_TAX_nod"
+msgstr ""
+
+msgctxt "19096"
+msgid "Muranaka"
+msgstr ""
+
+msgctxt "19100"
+msgid "SS1_M_NML_TAX_no"
+msgstr ""
+
+msgctxt "19104"
+msgid "SS1_M_NML_TAX_sad"
+msgstr ""
+
+msgctxt "19108"
+msgid "The 50,000 Yen Tip"
+msgstr ""
+
+msgctxt "19112"
+msgid "Your First Day on the Job"
+msgstr ""
+
+msgctxt "19116"
+msgid "Nothing"
+msgstr ""
+
+msgctxt "19120"
+msgid "SS1_P_TAX_no"
+msgstr ""
+
+msgctxt "19124"
+msgid "The taxi light also serves as a hazard light."
+msgstr ""
+
+msgctxt "19128"
+msgid "You know what happens to the meter when you reverse?"
+msgstr ""
+
+msgctxt "19132"
+msgid "I could tell you about taxi jargon."
+msgstr ""
+
+msgctxt "19136"
+msgid "SS1_P_TAX_laugh"
+msgstr ""
+
+msgctxt "44_Kiryu"
+msgid "Where are you headed?"
+msgstr ""
+
+msgctxt "56_Clean Cut Man"
+msgid "Nowhere in particular right now. Can I get you to just drive for a while?"
+msgstr ""
+
+msgctxt "68_Kiryu"
+msgid "Okay. How long are we talking?"
+msgstr ""
+
+msgctxt "80_Clean Cut Man"
+msgid "Well, that depends on the conversation."
+msgstr ""
+
+msgctxt "92_Kiryu"
+msgid "(Hm. What a strange passenger.)"
+msgstr ""
+
+msgctxt "104_Clean Cut Man"
+msgid "Taxi drivers meet all sorts of people, right?"
+msgstr ""
+
+msgctxt "116_Kiryu"
+msgid "Yes."
+msgstr ""
+
+msgctxt "128_Clean Cut Man"
+msgid "Then you're probably a good judge of people. See if you can guess my job."
+msgstr ""
+
+msgctxt "140_Kiryu"
+msgid "Are you a breeder?"
+msgstr ""
+
+msgctxt "152_Clean Cut Man"
+msgid "Huh? A breeder?"
+msgstr ""
+
+msgctxt "164_Kiryu"
+msgid "Someone who breeds dogs or other animals."
+msgstr ""
+
+msgctxt "176_Clean Cut Man"
+msgid "Yeah, I know it is. But why did you peg me for one?"
+msgstr ""
+
+msgctxt "188_Kiryu"
+msgid "Just a wild guess."
+msgstr ""
+
+msgctxt "200_Clean Cut Man"
+msgid ""
+"Haha! That's interesting! I always ask the people I interview the same "
+"question, but I've never heard that answer before."
+msgstr ""
+
+msgctxt "212_Kiryu"
+msgid "People you interview?"
+msgstr ""
+
+msgctxt "224_Clean Cut Man"
+msgid ""
+"Oh, sorry for not introducing myself. I'm a freelance writer. The name's "
+"Muranaka."
+msgstr ""
+
+msgctxt "236_Kiryu"
+msgid "Ah. A freelance writer."
+msgstr ""
+
+msgctxt "248_Muranaka"
+msgid "Oh, and I own three dogs. So you weren't necessarily too far off!"
+msgstr ""
+
+msgctxt "260_Kiryu"
+msgid "Are you a part-timer?"
+msgstr ""
+
+msgctxt "272_Clean Cut Man"
+msgid "What? A part-timer?"
+msgstr ""
+
+msgctxt "284_Kiryu"
+msgid "Yes."
+msgstr ""
+
+msgctxt "296_Clean Cut Man"
+msgid ""
+"Whoa. What makes you say that? It's not exactly the most prestigious thing "
+"I've been called."
+msgstr ""
+
+msgctxt "308_Kiryu"
+msgid "Sorry. You just looked the type that doesn't take their job very seriously."
+msgstr ""
+
+msgctxt "320_Clean Cut Man"
+msgid ""
+"Wow. And there's the double punch. Well, I do try not to be too formal with "
+"my work."
+msgstr ""
+
+msgctxt "332_Clean Cut Man"
+msgid ""
+"It can put the interview subjects on edge, so I opt for a more casual "
+"approach."
+msgstr ""
+
+msgctxt "344_Kiryu"
+msgid "Interview?"
+msgstr ""
+
+msgctxt "356_Clean Cut Man"
+msgid ""
+"Oh, sorry for not introducing myself. I'm a freelance writer. The name's "
+"Muranaka."
+msgstr ""
+
+msgctxt "368_Kiryu"
+msgid "Ah. A freelance writer."
+msgstr ""
+
+msgctxt "380_Muranaka"
+msgid ""
+"Well, I guess a lot of us freelance writers work part-time, so you weren't "
+"too far off the mark."
+msgstr ""
+
+msgctxt "392_Kiryu"
+msgid "Are you a freelance writer?"
+msgstr ""
+
+msgctxt "404_Clean Cut Man"
+msgid ""
+"Wow! You got it in one guess! You're pretty good at sizing people up, all "
+"right! This should make for an interesting interview."
+msgstr ""
+
+msgctxt "416_Kiryu"
+msgid "Interview?"
+msgstr ""
+
+msgctxt "428_Clean Cut Man"
+msgid ""
+"Oh, sorry for not introducing myself. The name's Muranaka. And I'm a "
+"freelance writer, just like you said."
+msgstr ""
+
+msgctxt "440_Kiryu"
+msgid "Why are you interviewing taxi drivers?"
+msgstr ""
+
+msgctxt "452_Muranaka"
+msgid ""
+"I believe variety is the spice of life. I meet all sorts of people in my "
+"job, but I figured taxi drivers would have even more perspective."
+msgstr ""
+
+msgctxt "464_Muranaka"
+msgid ""
+"So I've been interviewing cabbies all over the country to hear their "
+"stories. I'm putting together an article on it."
+msgstr ""
+
+msgctxt "476_Kiryu"
+msgid "I see. How are the interviews going?"
+msgstr ""
+
+msgctxt "488_Muranaka"
+msgid ""
+"Well, I've interviewed a few drivers already, but all they want to do is "
+"boast about the big tips they got back during the bubble economy."
+msgstr ""
+
+msgctxt "500_Muranaka"
+msgid "Do you have any stories that stand out in particular? It can be anything."
+msgstr ""
+
+msgctxt "512_Kiryu"
+msgid "(Something that stands out, huh?)"
+msgstr ""
+
+msgctxt "524_Kiryu"
+msgid "Well, not long after I started this job, I was given a 50,000 yen tip."
+msgstr ""
+
+msgctxt "536_Muranaka"
+msgid ""
+"Okay, here we go again. Let me guess, this was back during the bubble "
+"economy."
+msgstr ""
+
+msgctxt "548_Kiryu"
+msgid "No, it was six months ago."
+msgstr ""
+
+msgctxt "560_Muranaka"
+msgid ""
+"Only recently? Wait, you mean you've only just started this job? Aren't you "
+"a little old to be starting a whole new career like that?"
+msgstr ""
+
+msgctxt "572_Kiryu"
+msgid "Perhaps."
+msgstr ""
+
+msgctxt "584_Muranaka"
+msgid ""
+"Wow! What triggered the change? To be honest, I'm more interested in that "
+"than the 50,000 yen."
+msgstr ""
+
+msgctxt "596_Kiryu"
+msgid "(I don't get these writer types.)"
+msgstr ""
+
+msgctxt "608_Kiryu"
+msgid "I'd rather not dig up the past."
+msgstr ""
+
+msgctxt "620_Muranaka"
+msgid "Oh, I see. That's a shame."
+msgstr ""
+
+msgctxt "632_Muranaka"
+msgid ""
+"But it's my policy to not press too hard when someone doesn't want to talk "
+"about something. I'll leave it at that."
+msgstr ""
+
+msgctxt "644_Kiryu"
+msgid "I guess the first day I did this job is what sticks out in my memory."
+msgstr ""
+
+msgctxt "656_Muranaka"
+msgid "I see. Memories of your first day as a driver."
+msgstr ""
+
+msgctxt "668_Kiryu"
+msgid ""
+"I'm not from around here, so I wasn't confident I could navigate properly. "
+"It was nerve-wracking not knowing if I'd reach the destination."
+msgstr ""
+
+msgctxt "680_Kiryu"
+msgid "Anyway, I finally got my first passenger."
+msgstr ""
+
+msgctxt "692_Kiryu"
+msgid ""
+"It turned out to be an elementary school boy who'd never ridden in a taxi "
+"before."
+msgstr ""
+
+msgctxt "704_Kiryu"
+msgid ""
+"He brought a map showing the way to his grandmother's house, which helped "
+"me a lot."
+msgstr ""
+
+msgctxt "716_Muranaka"
+msgid "I see. So it was a first for both of you. He must have been nervous."
+msgstr ""
+
+msgctxt "728_Kiryu"
+msgid ""
+"Yes. But after he had paid and got out, he looked so much more grown up to "
+"me than when he first got in."
+msgstr ""
+
+msgctxt "740_Kiryu"
+msgid "It motivated me to knuckle down and be brave, just like that little kid."
+msgstr ""
+
+msgctxt "752_Muranaka"
+msgid "......"
+msgstr ""
+
+msgctxt "764_Kiryu"
+msgid "(Huh? Maybe he's not that interested.)"
+msgstr ""
+
+msgctxt "776_Muranaka"
+msgid "That's a great story, driver! I'd love to write about it in my article!"
+msgstr ""
+
+msgctxt "788_Kiryu"
+msgid "You're welcome to."
+msgstr ""
+
+msgctxt "800_Kiryu"
+msgid "(I'm glad I could give him some good material.)"
+msgstr ""
+
+msgctxt "812_Kiryu"
+msgid "Nothing really stands out to me."
+msgstr ""
+
+msgctxt "824_Muranaka"
+msgid "Oh, I see. But surely there's something you can tell me about?"
+msgstr ""
+
+msgctxt "836_Kiryu"
+msgid "No, nothing really comes to mind."
+msgstr ""
+
+msgctxt "848_Muranaka"
+msgid ""
+"Okay. I just thought a driver like you might have a unique perspective on "
+"things. Never mind."
+msgstr ""
+
+msgctxt "860_Kiryu"
+msgid "(I should have given it a bit more thought.)"
+msgstr ""
+
+msgctxt "872_Kiryu"
+msgid "I don't suppose you have any inside stories on the taxi industry, do you?"
+msgstr ""
+
+msgctxt "884_Muranaka"
+msgid ""
+"Things that are ordinary for people in your line of work, but not well "
+"known by others."
+msgstr ""
+
+msgctxt "896_Kiryu"
+msgid "(Let me see...)"
+msgstr ""
+
+msgctxt "908_Kiryu"
+msgid "You know the light on the roof of taxis?"
+msgstr ""
+
+msgctxt "920_Muranaka"
+msgid "Yes. The one with the company name on it, right?"
+msgstr ""
+
+msgctxt "932_Kiryu"
+msgid ""
+"They usually aren't switched on unless the taxi is empty, but you can make "
+"them blink red to warn others in an emergency."
+msgstr ""
+
+msgctxt "944_Muranaka"
+msgid "Wow, really!? I never knew that! Where is the switch that makes them blink?"
+msgstr ""
+
+msgctxt "956_Kiryu"
+msgid ""
+"I'm afraid I can't tell you that. It's somewhere you can push without "
+"alerting the passenger."
+msgstr ""
+
+msgctxt "968_Muranaka"
+msgid "Oh, now I'm curious. But I think I could still use this in my article!"
+msgstr ""
+
+msgctxt "980_Kiryu"
+msgid "(I'm glad I could give him some good material.)"
+msgstr ""
+
+msgctxt "992_Kiryu"
+msgid "Do you know what happens to the meter when you reverse in a taxi?"
+msgstr ""
+
+msgctxt "1004_Muranaka"
+msgid "No, I don't! What does it do? Does the meter go down or something?"
+msgstr ""
+
+msgctxt "1016_Kiryu"
+msgid ""
+"No, that wouldn't make sense. When you shift into reverse the meter treats "
+"it the same as when you are stopped."
+msgstr ""
+
+msgctxt "1028_Muranaka"
+msgid "So if you went the whole way in reverse, you could go anywhere for free!?"
+msgstr ""
+
+msgctxt "1040_Kiryu"
+msgid ""
+"Well, there aren't any roads you could do that on. And when you're stopped, "
+"the meter still goes up based on time."
+msgstr ""
+
+msgctxt "1052_Muranaka"
+msgid ""
+"Oh, so it'll still cost you. Hmm, I think I could turn that into something "
+"for my article, though. Thanks!"
+msgstr ""
+
+msgctxt "1064_Kiryu"
+msgid "(I'm glad I could give him some good material.)"
+msgstr ""
+
+msgctxt "1076_Kiryu"
+msgid ""
+"I could tell you about taxi jargon. That said, I haven't been doing this "
+"long, so these are just things I've heard from my colleagues."
+msgstr ""
+
+msgctxt "1088_Muranaka"
+msgid "I see."
+msgstr ""
+
+msgctxt "1100_Kiryu"
+msgid "A flag is someone who flags you down on the street."
+msgstr ""
+
+msgctxt "1112_Kiryu"
+msgid "A bingo is someone who flags you down when you already have a passenger."
+msgstr ""
+
+msgctxt "1124_Muranaka"
+msgid "Uh-huh."
+msgstr ""
+
+msgctxt "1136_Kiryu"
+msgid "Drivers sometimes call in bingos so another taxi can come and pick them up."
+msgstr ""
+
+msgctxt "1148_Muranaka"
+msgid "I see."
+msgstr ""
+
+msgctxt "1160_Kiryu"
+msgid "Are you not that interested in this?"
+msgstr ""
+
+msgctxt "1172_Muranaka"
+msgid "No, it's interesting, for sure."
+msgstr ""
+
+msgctxt "1184_Muranaka"
+msgid ""
+"But because these aren't terms you use yourself, I can't figure out an "
+"angle for my article."
+msgstr ""
+
+msgctxt "1196_Kiryu"
+msgid "(I guess I should have spoken from experience.)"
+msgstr ""

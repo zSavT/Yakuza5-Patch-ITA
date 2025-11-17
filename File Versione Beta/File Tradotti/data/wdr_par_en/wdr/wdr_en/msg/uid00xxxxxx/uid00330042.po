@@ -1,0 +1,445 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1428"
+msgid "You got a <Color:8>Toughness Emperor<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Imperatore della Robustezza<Color:Default>."
+
+msgctxt "1452"
+msgid "You got a <Color:8>Tauriner ++<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Tauriner ++<Color:Default>."
+
+msgctxt "1512"
+msgid "You got a <Color:8>Toughness Infinity<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Resistenza Infinita<Color:Default>."
+
+msgctxt "1536"
+msgid "You got a <Color:8>Tauriner Maximum<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Tauriner Maximum<Color:Default>."
+
+msgctxt "1596"
+msgid "You got a <Color:8>Bulletproof Glass Amulet<Color:Default>."
+msgstr ""
+"Hai beccato un <Color:8>Amuleto di vetro antiproiettile<Color:Default>."
+
+msgctxt "1656"
+msgid "You got a <Color:8>Battle Mail<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Battle Mail<Color:Default>."
+
+msgctxt "1716"
+msgid "You got a <Color:8>Goddess of Children Amulet<Color:Default>."
+msgstr ""
+"Hai ottenuto un <Color:8>Amuleto della Dea dei Bambini<Color:Default>."
+
+msgctxt "1776"
+msgid "You got an <Color:8>Immovable Belt<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Cintura Inamovibile<Color:Default>."
+
+msgctxt "1836"
+msgid "You got a <Color:8>Gambler's Binding<Color:Default>."
+msgstr ""
+"Hai ottenuto una <Color:8>Fascia del Giocatore d'Azzardo<Color:Default>."
+
+msgctxt "1896"
+msgid "You got a <Color:8>Payback Ring<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Anello della Vendetta<Color:Default>."
+
+msgctxt "1956"
+msgid "You got an <Color:8>Antique Chain Mail<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Cotta di maglia antica<Color:Default>."
+
+msgctxt "2016"
+msgid "You got a <Color:8>Yakuza Training Gear<Color:Default>."
+msgstr ""
+"Hai ottenuto un <Color:8>Equipaggiamento da Allenamento "
+"Yakuza<Color:Default>."
+
+msgctxt "2076"
+msgid "You got a <Color:8>High Win Rate Token<Color:Default>."
+msgstr ""
+"Hai beccato un <Color:8>Gettone Tasso di Vittoria Elevato<Color:Default>."
+
+msgctxt "2100"
+msgid "You got an <Color:8>Auto Token<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Auto Token<Color:Default>."
+
+msgctxt "2160"
+msgid "You got a <Color:8>Chance Stone<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Pietra della Fortuna<Color:Default>."
+
+msgctxt "2184"
+msgid "You got a <Color:8>Gambler's Amulet<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Amuleto del Giocatore<Color:Default>."
+
+msgctxt "2244"
+msgid "You got a <Color:8>Player's Piece<Color:Default>."
+msgstr "Hai in mano un <Color:8>asso<Color:Default>."
+
+msgctxt "2268"
+msgid "You got a <Color:8>Royal Joker Card<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Carta Royal Joker<Color:Default>."
+
+msgctxt "2328"
+msgid "You got a <Color:8>Bust Amulet<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Amuleto Sballo<Color:Default>."
+
+msgctxt "2352"
+msgid "You got a <Color:8>Lucky Hanafuda Card<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Carta Hanafuda Fortunata<Color:Default>."
+
+msgctxt "2412"
+msgid "You got <Color:8>Even Goro's Beads<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Persino le Perline di Goro<Color:Default>."
+
+msgctxt "2436"
+msgid "You got a <Color:8>Lopsided Cigarette<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Sigaretta storta<Color:Default>."
+
+msgctxt "2496"
+msgid "You got a <Color:8>Red Jewel<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Gioiello Rosso<Color:Default>."
+
+msgctxt "2520"
+msgid "You got a <Color:8>Zero Jewel<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Gioiello Zero<Color:Default>."
+
+msgctxt "2580"
+msgid "You got a <Color:8>1-2-3 Gum<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Gomma 1-2-3<Color:Default>."
+
+msgctxt "2604"
+msgid "You got a <Color:8>Trips Yokan<Color:Default>."
+msgstr "Hai beccato un <Color:8>Trips Yokan<Color:Default>."
+
+msgctxt "2664"
+msgid "You got a <Color:8>Give-up Piece<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Pezzo di resa<Color:Default>."
+
+msgctxt "2688"
+msgid "You got a <Color:8>Piss Mountain Stone<Color:Default>."
+msgstr ""
+"Hai ottenuto una <Color:8>Pietra della Montagna di Piscia<Color:Default>."
+
+msgctxt "27840"
+msgid "Staff"
+msgstr "Staff"
+
+msgctxt "27844"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "27848"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "27852"
+msgid "Employee"
+msgstr "Cameriere"
+
+msgctxt "27856"
+msgid "Worker"
+msgstr "Operaio"
+
+msgctxt "27860"
+msgid "Buy Something"
+msgstr "Compra"
+
+msgctxt "27864"
+msgid "Accept Prizes"
+msgstr "Accetta Premi"
+
+msgctxt "27868"
+msgid "Cancel"
+msgstr "Annulla"
+
+msgctxt "60_Staff"
+msgid "Welcome."
+msgstr "Benvenuto."
+
+msgctxt "72_Staff"
+msgid ""
+"I have some items from the Online Shop. Please take a look.\r\n"
+" "
+msgstr ""
+"Ho degli articoli dal Negozio Online.\n"
+" \n"
+"\n"
+"Per favore, dai un'occhiata."
+
+msgctxt "96_Staff"
+msgid "You received a package from the Online Shop.  "
+msgstr "Hai ricevuto un pacco dall'Online Shop."
+
+msgctxt "108_Staff"
+msgid "Thank you very much."
+msgstr "Grazie mille."
+
+msgctxt "132_Staff"
+msgid "Welcome."
+msgstr "Benvenuto."
+
+msgctxt "156_Employee"
+msgid "Thank you very much. Please come again."
+msgstr "Grazie mille. Torni a trovarci."
+
+msgctxt "168_Worker"
+msgid "Thank you."
+msgstr "Grazie."
+
+msgctxt "180_Staff"
+msgid "Welcome."
+msgstr "Benvenuto."
+
+msgctxt "192_Employee"
+msgid ""
+"You're here to pick up your items? Which one would you like to pick up?\r\n"
+" "
+msgstr "Sei qui per ritirare i tuoi oggetti? Quale vuoi ritirare?"
+
+msgctxt "216_Staff"
+msgid "You got a <Color:8>Payback Ring<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Anello della Vendetta<Color:Default>."
+
+msgctxt "252_Staff"
+msgid "You got a <Color:8>Champion's Ring<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Anello del Campione<Color:Default>."
+
+msgctxt "288_Staff"
+msgid "You got <Color:8>Eager Earrings<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Orecchini dell'Entusiasmo<Color:Default>."
+
+msgctxt "324_Staff"
+msgid "You got an <Color:8>Immovable Belt<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Cintura Inamovibile<Color:Default>."
+
+msgctxt "360_Staff"
+msgid "You got a <Color:8>Shachihoko<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Shachihoko<Color:Default>."
+
+msgctxt "396_Staff"
+msgid "You got a <Color:8>Golden Pistol<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Pistola d'oro<Color:Default>."
+
+msgctxt "432_Staff"
+msgid "You got a <Color:8>Dragon Scale<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Squama di Drago<Color:Default>."
+
+msgctxt "468_Staff"
+msgid "You got a <Color:8>Seal of the Dragon<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Sigillo del Drago<Color:Default>."
+
+msgctxt "504_Staff"
+msgid "You got a <Color:8>Toughness Pin<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Spilla della Resistenza<Color:Default>."
+
+msgctxt "540_Staff"
+msgid "You got a <Color:8>Dragon Tail<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Coda di Drago<Color:Default>."
+
+msgctxt "576_Staff"
+msgid "You got a <Color:8>Lucky Binding<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Legame Fortunato<Color:Default>."
+
+msgctxt "612_Staff"
+msgid "You got a <Color:8>Ebisu Socks<Color:Default>."
+msgstr "Hai ottenuto i <Color:8>Calzini Ebisu<Color:Default>."
+
+msgctxt "648_Staff"
+msgid "You got a <Color:8>Love Shine Sticks<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Love Shine Sticks<Color:Default>."
+
+msgctxt "684_Staff"
+msgid "You got a <Color:8>Beads of Good Fortune<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Mala della Buona Sorte<Color:Default>."
+
+msgctxt "720_Staff"
+msgid "You got a <Color:8>Leech Gloves<Color:Default>."
+msgstr "Hai ottenuto dei <Color:8>Guanti Sanguisuga<Color:Default>."
+
+msgctxt "756_Staff"
+msgid "You got an <Color:8>Encounter Finder<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Encounter Finder<Color:Default>."
+
+msgctxt "792_Staff"
+msgid "You got a <Color:8>Snowman Hammer<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Martello del Pupazzo di Neve<Color:Default>."
+
+msgctxt "828_Staff"
+msgid "You got a <Color:8>Celebrity Perfume<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Profumo da celebrità<Color:Default>."
+
+msgctxt "864_Staff"
+msgid "You got a <Color:8>Penguin Spear<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Lancia Pinguino<Color:Default>."
+
+msgctxt "900_Staff"
+msgid "You got a <Color:8>Fortune Mallet<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Martelletto della Fortuna<Color:Default>."
+
+msgctxt "936_Staff"
+msgid "You got a <Color:8>Tiger Mail<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Maglia Tigre<Color:Default>."
+
+msgctxt "972_Staff"
+msgid "You got a <Color:8>Expulsion S-12<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Expulsion S-12<Color:Default>."
+
+msgctxt "1008_Staff"
+msgid "You got a <Color:8>Frozen Banana<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Banana Congelata<Color:Default>."
+
+msgctxt "1044_Staff"
+msgid "You got a <Color:8>SPARK 20,000V<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>SPARK 20,000V<Color:Default>."
+
+msgctxt "1080_Staff"
+msgid "You got a <Color:8>Platinum Triangle Ruler<Color:Default>."
+msgstr ""
+"Hai ottenuto una <Color:8>Squadretta Triangolare di Platino<Color:Default>."
+
+msgctxt "1116_Staff"
+msgid "You got a <Color:8>Eye of the Dragon<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Occhio del Drago<Color:Default>."
+
+msgctxt "1152_Staff"
+msgid "You got a <Color:8>Master Ball<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Master Ball<Color:Default>."
+
+msgctxt "1188_Staff"
+msgid "You got a <Color:8>Frozen Tuna<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Tonno Congelato<Color:Default>."
+
+msgctxt "1224_Staff"
+msgid "You got a <Color:8>Dragon-drive 99<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Dragon-drive 99<Color:Default>."
+
+msgctxt "1260_Staff"
+msgid "You got a <Color:8>Sacrifice Stone<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Pietra del Sacrificio<Color:Default>."
+
+msgctxt "1296_Staff"
+msgid "You got a <Color:8>Muramasa Blade<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Lama Muramasa<Color:Default>."
+
+msgctxt "1332_Staff"
+msgid "You got a <Color:8>Dragon Mail<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Maglia del Drago<Color:Default>."
+
+msgctxt "1368_Staff"
+msgid "You got a <Color:8>War God Talisman<Color:Default>."
+msgstr ""
+"Hai ottenuto un <Color:8>Talismano del Dio della Guerra<Color:Default>."
+
+msgctxt "1404_Staff"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Staminan Royale<Color:Default>."
+
+msgctxt "1488_Staff"
+msgid "You got a <Color:8>Staminan Spark<Color:Default>."
+msgstr "Hai un <Color:8>Staminan Spark<Color:Default>."
+
+msgctxt "1572_Staff"
+msgid "You got an <Color:8>Assassin's Spear<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Lancia dell'Assassino<Color:Default>."
+
+msgctxt "1632_Staff"
+msgid "You got a <Color:8>Ballbuster<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Ballbuster<Color:Default>."
+
+msgctxt "1692_Staff"
+msgid "You got a <Color:8>Brickshitter Beer<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Brickshitter Beer<Color:Default>."
+
+msgctxt "1752_Staff"
+msgid "You got a <Color:8>Patriarch's Driver<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Driver del Patriarca<Color:Default>."
+
+msgctxt "1812_Staff"
+msgid "You got a <Color:8>Sakura Storm<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Sakura Storm<Color:Default>."
+
+msgctxt "1872_Staff"
+msgid "You got <Color:8>Double Leeks<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Porri Doppi<Color:Default>."
+
+msgctxt "1932_Staff"
+msgid "You got a <Color:8>Zap Gun<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Pistola Zap<Color:Default>."
+
+msgctxt "1992_Staff"
+msgid "You got a <Color:8>Drow-Z 55<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Drow-Z 55<Color:Default>."
+
+msgctxt "2052_Staff"
+msgid "You got a <Color:8>High Payout Token<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Gettone ad alta vincita<Color:Default>."
+
+msgctxt "2136_Staff"
+msgid "You got a <Color:8>Get-Rich-Quick Charm<Color:Default>."
+msgstr ""
+"Hai ottenuto un <Color:8>Amuleto per arricchirsi in fretta<Color:Default>."
+
+msgctxt "2220_Staff"
+msgid "You got a <Color:8>Banker's Piece<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Pezzo del Banchiere<Color:Default>."
+
+msgctxt "2304_Staff"
+msgid "You got a <Color:8>Blackjack Amulet<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Amuleto Blackjack<Color:Default>."
+
+msgctxt "2388_Staff"
+msgid "You got an <Color:8>All 1's Charm<Color:Default>."
+msgstr "Hai beccato un <Color:8>Amuleto Tutto Uno<Color:Default>."
+
+msgctxt "2472_Staff"
+msgid "You got a <Color:8>Black Jewel<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Gioiello Nero<Color:Default>."
+
+msgctxt "2556_Staff"
+msgid "You got a <Color:8>Lucky Tile<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Tessera fortunata<Color:Default>."
+
+msgctxt "2640_Staff"
+msgid "You got a <Color:8>10-10-1 Charm<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Amuleto 10-10-1<Color:Default>."
+
+msgctxt "2724_Employee"
+msgid ""
+"I was told, \"I will only send an item pack once.\"  Please come again.\r\n"
+" \r\n"
+" "
+msgstr ""
+"Mi è stato detto: \"Invierò un pacchetto di oggetti una volta sola.\"  Torni"
+" a trovarci."
+
+msgctxt "2736_Employee"
+msgid ""
+"I was told, \"I will send it again if you lose it.\" Please stop by anytime.\r\n"
+" \r\n"
+" "
+msgstr ""
+"Mi è stato detto: \"Te lo rimando se lo perdi.\" Passa a trovarmi quando "
+"vuoi."
+
+msgctxt "2748_Staff"
+msgid ""
+"You're not going to pick anything up? Hope to see you again.\r\n"
+" "
+msgstr "Non prendi nulla? Spero di rivederti."
+
+msgctxt "2760_Staff"
+msgid ""
+"I currently don't have anything to give you. Please come again.\r\n"
+" "
+msgstr "Al momento non ho niente da darti. Ripassa pure."

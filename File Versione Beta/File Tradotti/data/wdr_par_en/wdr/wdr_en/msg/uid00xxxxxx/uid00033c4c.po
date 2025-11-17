@@ -1,0 +1,337 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "832"
+msgid "You got 1,200 experience points."
+msgstr "Hai ottenuto 1.200 punti esperienza."
+
+msgctxt "12488"
+msgid "Foreigner"
+msgstr "Straniero"
+
+msgctxt "12492"
+msgid "M_NML_TLK_stand_call"
+msgstr "M_NML_TLK_stand_call"
+
+msgctxt "12496"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "12500"
+msgid "Pedro"
+msgstr "Pedro"
+
+msgctxt "12504"
+msgid "M_NML_TLK_stand_no"
+msgstr "M_NML_TLK_stand_no"
+
+msgctxt "12508"
+msgid "M_NML_TLK_stand_ok"
+msgstr "M_NML_TLK_stand_ok"
+
+msgctxt "12512"
+msgid "Teach Pedro"
+msgstr "Insegna a Pedro"
+
+msgctxt "12516"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "12520"
+msgid "P_SIN_TLK_stand_ase"
+msgstr "P_SIN_TLK_stand_ase"
+
+msgctxt "12524"
+msgid "P_SIN_TLK_stand_quest"
+msgstr "P_SIN_TLK_stand_quest"
+
+msgctxt "12528"
+msgid "M_NML_TLK_stand_gakkari"
+msgstr "M_NML_TLK_stand_gakkari"
+
+msgctxt "12532"
+msgid "P_SIN_TLK_stand_nobig"
+msgstr "P_SIN_TLK_stand_nobig"
+
+msgctxt "12536"
+msgid "P_SIN_TLK_stand_yes"
+msgstr "P_SIN_TLK_stand_yes"
+
+msgctxt "12540"
+msgid "M_NML_TLK_stand_request"
+msgstr "M_NML_TLK_stand_request"
+
+msgctxt "12544"
+msgid "M_NML_TLK_stand_quest"
+msgstr "M_NML_TLK_stand_quest"
+
+msgctxt "12548"
+msgid "P_SIN_TLK_stand_yes02"
+msgstr "P_SIN_TLK_stand_yes02"
+
+msgctxt "148_Foreigner"
+msgid "Hey, you, fella. Know anything about baseball?"
+msgstr "Ehi, tu, amico. Sai qualcosa di baseball?"
+
+msgctxt "160_Shinada"
+msgid "Oh, you mean me? Well, I guess you could say I do."
+msgstr "Oh, parli di me? Beh, diciamo di sì."
+
+msgctxt "172_Foreigner"
+msgid ""
+"Oh! Then today's my lucky day! My name's Pedro, by the way. Nice to meet ya!"
+msgstr ""
+"Oh! Allora oggi è il mio giorno fortunato! A proposito, mi chiamo Pedro. "
+"Piacere di conoscerti!"
+
+msgctxt "184_Shinada"
+msgid "Same. I'm Shinada."
+msgstr "Idem. Sono Shinada."
+
+msgctxt "196_Pedro"
+msgid ""
+"Ah, Shinaaada. Has a nice ring to it. Anyway, where I come from, we have no "
+"baseball, so we have no batting either."
+msgstr ""
+"Ah, Shinaaada. Suona proprio bene. Comunque, da dove vengo io, non abbiamo "
+"il baseball, quindi non abbiamo neanche la battuta."
+
+msgctxt "208_Pedro"
+msgid ""
+"Everybody plays soccer instead. This trip to Japan is actually the first "
+"time I've stepped up to bat! It's kinda fun!"
+msgstr ""
+"Tutti giocano a calcio, invece. Questo viaggio in Giappone è in realtà la "
+"prima volta che vado alla battuta! È abbastanza divertente!"
+
+msgctxt "220_Pedro"
+msgid ""
+"But no matter how much I tried, I could never make the ball go sailing. It's"
+" hard to hit it right."
+msgstr ""
+"Ma per quanto ci provassi, non riuscivo mai a spedire la palla lontano. È "
+"difficile prenderla giusta."
+
+msgctxt "232_Shinada"
+msgid "Okay, so what's your angle? You want me to show you how to bat?"
+msgstr "Allora, qual è il punto? Vuoi che ti faccia vedere come si batte?"
+
+msgctxt "244_Pedro"
+msgid "Exactamundo! Even if it's only for a little bit!"
+msgstr "Esattissimo! Anche se è solo per un pochino!"
+
+msgctxt "256_Foreigner"
+msgid "Oh, all right. But only for a little bit, okay?"
+msgstr "Ah, va bene. Ma solo per un pochino, ok?"
+
+msgctxt "268_Pedro"
+msgid "Sure! You're awesome, Shinaaada!"
+msgstr "Certo! Sei un grande, Shinaaada!"
+
+msgctxt "280_Shinada"
+msgid ""
+"Uh-huh. So, where do I start? I may as well just show you. I'll demonstrate,"
+" so watch carefully."
+msgstr ""
+"Ah, sì. Allora, da dove inizio? Tanto vale che te lo mostri e basta. Ti "
+"faccio una dimostrazione, quindi guarda bene."
+
+msgctxt "292_Pedro"
+msgid "You got it! I'll use my laser focus!"
+msgstr "Capito! Mi concentrerò come un laser!"
+
+msgctxt "316_Foreigner"
+msgid "I'd like to show you, but I'm kinda busy right now."
+msgstr "Vorrei mostrarti, ma sono un po' preso adesso."
+
+msgctxt "328_Pedro"
+msgid ""
+"Ahh, so Shinaaada's a busy man. Tell ya what! I'll keep hanging out here, so"
+" that way you can teach me whenever you have time! Sound like a plan?"
+msgstr ""
+"Ahh, quindi Shinada è un tipo impegnato. Senti un po'! Continuerò a "
+"bazzicare qui, così potrai insegnarmi quando hai tempo! Ti va bene come "
+"piano?"
+
+msgctxt "340_Shinada"
+msgid "Sure. Maybe practice your swing till then."
+msgstr "Certo. Magari fino ad allora fai un po' di swing."
+
+msgctxt "364_Foreigner"
+msgid ""
+"Shinaaada, my friend! Will you show me how to bat? Just for a little bit?"
+msgstr "Shinada, amico mio! Mi fai vedere come si batte? Solo un attimo?"
+
+msgctxt "376_Foreigner"
+msgid "Oh, all right. But only for a little bit, okay?"
+msgstr "Ah, va bene. Ma solo per un pochino, ok?"
+
+msgctxt "388_Pedro"
+msgid "Sure! You're awesome, Shinaaada!"
+msgstr "Certo! Sei un grande, Shinaaada!"
+
+msgctxt "400_Shinada"
+msgid ""
+"Uh-huh. So, where do I start? I may as well just show you. I'll demonstrate,"
+" so watch carefully."
+msgstr ""
+"Ah, sì. Allora, da dove inizio? Tanto vale che te lo mostri e basta. Ti "
+"faccio una dimostrazione, quindi guarda bene."
+
+msgctxt "412_Pedro"
+msgid "You got it! I'll use my laser focus!"
+msgstr "Capito! Mi concentrerò come un laser!"
+
+msgctxt "436_Foreigner"
+msgid "I'd like to show you, but I'm kinda busy right now."
+msgstr "Vorrei mostrarti, ma sono un po' preso adesso."
+
+msgctxt "448_Pedro"
+msgid ""
+"Ahh, so Shinaaada's a busy man. Tell ya what! I'll keep hanging out here, so"
+" that way you can teach me whenever you have time! Sound like a plan?"
+msgstr ""
+"Ahh, quindi Shinada è un tipo impegnato. Senti un po'! Continuerò a "
+"bazzicare qui, così potrai insegnarmi quando hai tempo! Ti va bene come "
+"piano?"
+
+msgctxt "460_Shinada"
+msgid "Sure. Maybe practice your swing till then."
+msgstr "Certo. Magari fino ad allora fai un po' di swing."
+
+msgctxt "472_Foreigner"
+msgid ""
+"Shinaaada, my friend! Will you show me how to bat? Just for a little bit?"
+msgstr "Shinada, amico mio! Mi fai vedere come si batte? Solo un attimo?"
+
+msgctxt "496_Shinada"
+msgid "You bet! Promise I won't screw it up this time."
+msgstr "Scommettici! Prometto che questa volta non farò un casino."
+
+msgctxt "508_Pedro"
+msgid "No sweat, just do your thing! You got this!"
+msgstr "Tranquillo, fai il tuo gioco! Ce la puoi fare!"
+
+msgctxt "532_Shinada"
+msgid "Shoot. I totally crapped out there."
+msgstr "Maledizione. Ho fatto proprio schifo lì."
+
+msgctxt "544_Pedro"
+msgid "What happened, Shinaaada? Is that really the best you got?"
+msgstr "Che è successo, Shinaaada? È davvero il massimo che hai?"
+
+msgctxt "556_Shinada"
+msgid ""
+"No, no. I'm just out of sync today. Gimme a few moments and I'll be right "
+"back at it!"
+msgstr "No, no. Sono solo sfasato oggi. Dammi un attimo e ci riprendo subito!"
+
+msgctxt "568_Pedro"
+msgid "Got it! Then I'll be waiting right here!"
+msgstr "Capito! Allora aspetterò proprio qui!"
+
+msgctxt "580_Shinada"
+msgid "There! That's how it's done."
+msgstr "Ecco! Così si fa."
+
+msgctxt "592_Pedro"
+msgid "Shinaaada! That was crazy! You slaughtered that poor ball!"
+msgstr "Shinaaada! È stato pazzesco! Hai massacrato quella povera palla!"
+
+msgctxt "604_Pedro"
+msgid "How do you even do that? What's the secret?"
+msgstr "Ma come ci riesci? Qual è il segreto?"
+
+msgctxt "616_Shinada"
+msgid "Secret? Mm, how should I put it?"
+msgstr "Un segreto? Mmh, come la metto?"
+
+msgctxt "628_Shinada"
+msgid ""
+"Okay, so, the way you grip the bat and swing, that's honestly up to whatever"
+" you like, really. I guess you can say there are three major things you have"
+" to do."
+msgstr ""
+"Allora, senti, il modo in cui impugni la mazza e come tiri, quello, "
+"sinceramente, sta a te, eh. Diciamo che ci sono tre cose principali che devi"
+" fare."
+
+msgctxt "640_Shinada"
+msgid ""
+"One, keep your eyes on the ball. Two, perfect your impact timing. And three,"
+" try to hit the ball with your bat's sweet spot."
+msgstr ""
+"Uno, tieni gli occhi sulla palla. Due, perfeziona il tempismo dell'impatto. "
+"E tre, cerca di colpire la palla con lo sweet spot della mazza."
+
+msgctxt "652_Pedro"
+msgid "The sweet spot, eh? Where is it?"
+msgstr "Lo sweet spot, eh? Dov'è?"
+
+msgctxt "664_Shinada"
+msgid "Oh, that's... kind of tricky to answer, come to think of it."
+msgstr "Oh, quella... è un po' complicata da rispondere, a pensarci bene."
+
+msgctxt "676_Shinada"
+msgid ""
+"Think of it this way. There's a line right down the middle of the bat. If "
+"you can hit a pitch on that line, that would be the sweet spot."
+msgstr ""
+"Pensala così. C'è una linea proprio al centro della mazza. Se riesci a "
+"colpire una palla su quella linea, quello sarebbe il punto ideale."
+
+msgctxt "688_Pedro"
+msgid "Okay, got it. The sweet spot is the center of the bat."
+msgstr "Ok, capito. Il punto dolce è proprio al centro della mazza."
+
+msgctxt "700_Shinada"
+msgid ""
+"That sounds about right. After this, you should go up against the machines "
+"to get a better feel for it."
+msgstr ""
+"Esatto. Fatto questo, dovresti andare contro le macchine per prenderci "
+"meglio la mano."
+
+msgctxt "712_Pedro"
+msgid ""
+"Keep eyes on the ball. Get the right timing. Hit with the sweet spot. "
+"Shinaaada, I think I got it!"
+msgstr ""
+"Tieni gli occhi sulla palla. Trova il tempismo giusto. Colpisci col punto "
+"dolce. Shinaaada, penso di aver capito!"
+
+msgctxt "724_Shinada"
+msgid ""
+"Yeah, it sure sounds like it. If you can do those three things, you'll be "
+"hammering home runs in no time."
+msgstr ""
+"Sì, direi proprio di sì. Se riesci a fare quelle tre cose, tirerai fuori "
+"fuoricampo in un batter d'occhio."
+
+msgctxt "736_Pedro"
+msgid "Sweet, I'll try that out right now! Thanks, brotha!"
+msgstr "Ottimo, ci provo subito! Grazie, fra'!"
+
+msgctxt "748_Pedro"
+msgid "Just sit back and watch your protégé at work!"
+msgstr "Mettiti comodo e guarda il tuo protetto al lavoro!"
+
+msgctxt "796_Shinada"
+msgid "......"
+msgstr "......"
+
+msgctxt "808_Shinada"
+msgid "(It all comes down to practice. I should look in on him sometime.)"
+msgstr ""
+"(È tutta una questione di pratica. Dovrei passare a trovarlo ogni tanto.)"

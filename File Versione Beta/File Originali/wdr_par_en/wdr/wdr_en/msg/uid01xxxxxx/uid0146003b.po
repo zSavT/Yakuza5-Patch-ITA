@@ -1,0 +1,396 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "14688"
+msgid "dummy"
+msgstr ""
+
+msgctxt "14692"
+msgid "Yuka"
+msgstr ""
+
+msgctxt "14696"
+msgid "Subaru"
+msgstr ""
+
+msgctxt "14700"
+msgid "Riku"
+msgstr ""
+
+msgctxt "14704"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "14708"
+msgid "M_YKZS_TLK_damage_no"
+msgstr ""
+
+msgctxt "14712"
+msgid "F_SXY_TLK_stand_surp"
+msgstr ""
+
+msgctxt "14716"
+msgid "F_YNG_TLK_stand_kansin"
+msgstr ""
+
+msgctxt "14720"
+msgid "M_YKZS_TLK_damage_yes"
+msgstr ""
+
+msgctxt "14724"
+msgid "F_SXY_TLK_stand_think"
+msgstr ""
+
+msgctxt "14728"
+msgid "Asumi"
+msgstr ""
+
+msgctxt "14732"
+msgid "F_YNG_TLK_stand_yes"
+msgstr ""
+
+msgctxt "14736"
+msgid "F_SXY_TLK_stand_yes"
+msgstr ""
+
+msgctxt "14740"
+msgid "F_SXY_TLK_stand_no"
+msgstr ""
+
+msgctxt "14744"
+msgid "F_SXY_TLK_stand_gakkari"
+msgstr ""
+
+msgctxt "14748"
+msgid "M_YKZ_TLK_stand_request"
+msgstr ""
+
+msgctxt "14752"
+msgid "P_TLK_stand_away"
+msgstr ""
+
+msgctxt "14756"
+msgid "M_YKZS_TLK_stand_yes"
+msgstr ""
+
+msgctxt "14760"
+msgid "P_TLK_stand_no"
+msgstr ""
+
+msgctxt "14764"
+msgid "F_SXY_TLK_stand_angry"
+msgstr ""
+
+msgctxt "14768"
+msgid "F_SXY_TLK_stand_sorry"
+msgstr ""
+
+msgctxt "14772"
+msgid "F_SXY_TLK_stand_crybig_st"
+msgstr ""
+
+msgctxt "14776"
+msgid "P_TLK_stand_yes"
+msgstr ""
+
+msgctxt "14780"
+msgid "P_TLK_stand_udekumi_st"
+msgstr ""
+
+msgctxt "14784"
+msgid "F_SXY_TLK_stand_ojigi"
+msgstr ""
+
+msgctxt "14788"
+msgid "P_TLK_stand_udekumi_no"
+msgstr ""
+
+msgctxt "14792"
+msgid "F_SXY_TLK_stand_smile"
+msgstr ""
+
+msgctxt "14796"
+msgid "P_TLK_stand_udekumi_ed"
+msgstr ""
+
+msgctxt "14800"
+msgid "F_SXY_TLK_stand_sync_dakiA_st"
+msgstr ""
+
+msgctxt "14804"
+msgid "P_TLK_stand_sync_dakiA_st"
+msgstr ""
+
+msgctxt "56_Yuka"
+msgid "Subaru-kun!"
+msgstr ""
+
+msgctxt "80_Subaru"
+msgid "Ugh. Yuka? Is that you?"
+msgstr ""
+
+msgctxt "104_Riku"
+msgid "Yuka-chan!?"
+msgstr ""
+
+msgctxt "116_Yuka"
+msgid ""
+"What? Riku!? I got your email and got here as fast as I could. What on "
+"earth is goin' on here?"
+msgstr ""
+
+msgctxt "128_Kiryu"
+msgid "Email?"
+msgstr ""
+
+msgctxt "140_Riku"
+msgid ""
+"I sent it to them when they had me held up in the car. I told Yuka-chan and "
+"Asumi-chan that Subaru-san had assaulted me."
+msgstr ""
+
+msgctxt "152_Kiryu"
+msgid "Ah, I see. That's good thinking."
+msgstr ""
+
+msgctxt "176_Yuka"
+msgid "Subaru-kun, you're hurt. What happened?"
+msgstr ""
+
+msgctxt "188_Subaru"
+msgid "This guy here, he just..."
+msgstr ""
+
+msgctxt "200_Kiryu"
+msgid "I just what?"
+msgstr ""
+
+msgctxt "212_Yuka"
+msgid "Oh, dear."
+msgstr ""
+
+msgctxt "224_Riku"
+msgid ""
+"Wait a sec! What're ya playin' at here? Y'tried to attack me and ya damn "
+"well know it!"
+msgstr ""
+
+msgctxt "236_Riku"
+msgid "Yuka-chan, ya can't believe this guy!"
+msgstr ""
+
+msgctxt "248_Subaru"
+msgid "'Course she believes me. Ain't that right, Yuka-chan?"
+msgstr ""
+
+msgctxt "260_Yuka"
+msgid "Subaru-kun, I..."
+msgstr ""
+
+msgctxt "284_Asumi"
+msgid "Subaru-kun!"
+msgstr ""
+
+msgctxt "296_Riku"
+msgid "Asumi-chan!?"
+msgstr ""
+
+msgctxt "308_Asumi"
+msgid "Riku-chan!? What's goin' on here? Subaru-kun, who is that?"
+msgstr ""
+
+msgctxt "320_Riku"
+msgid "Hey, um, Yuka-chan, Asumi-chan."
+msgstr ""
+
+msgctxt "392_Riku"
+msgid "So there y'go. <Italic>Now</Italic> do ya believe me?"
+msgstr ""
+
+msgctxt "404_Asumi"
+msgid "I mean, seein' all a' this is a bit..."
+msgstr ""
+
+msgctxt "416_Yuka"
+msgid "I didn't want to believe it, but it's true, ain't it?"
+msgstr ""
+
+msgctxt "428_Kiryu"
+msgid "Hey, don't you have anything to say for yourself?"
+msgstr ""
+
+msgctxt "440_Subaru"
+msgid "I'm sorry. For lying to ya."
+msgstr ""
+
+msgctxt "452_Asumi"
+msgid "Subaru-kun..."
+msgstr ""
+
+msgctxt "464_Kiryu"
+msgid ""
+"If you're sorry, then get the hell out of here. And never show your face "
+"around these girls again."
+msgstr ""
+
+msgctxt "476_Subaru"
+msgid "Yeah, okay. I got it."
+msgstr ""
+
+msgctxt "500_Yuka"
+msgid "Oh, Subaru-kun!"
+msgstr ""
+
+msgctxt "512_Riku"
+msgid "This... This ain't how I wanted things t'go."
+msgstr ""
+
+msgctxt "524_Kiryu"
+msgid " When people have problems like this, you can't always settle them neatly."
+msgstr ""
+
+msgctxt "536_Riku"
+msgid "Kiryu-san..."
+msgstr ""
+
+msgctxt "548_Yuka"
+msgid "Hey, Riku? I'm sorry."
+msgstr ""
+
+msgctxt "560_Riku"
+msgid "Yuka-chan?"
+msgstr ""
+
+msgctxt "572_Yuka"
+msgid "I didn't trust ya, and I said such awful things about you."
+msgstr ""
+
+msgctxt "584_Asumi"
+msgid "Me too. Y'sent me emails, and I didn't even respond. I'm so sorry."
+msgstr ""
+
+msgctxt "596_Riku"
+msgid "Gah, I'm so ticked off at the both of ya!"
+msgstr ""
+
+msgctxt "608_Yuka"
+msgid "But...!"
+msgstr ""
+
+msgctxt "620_Kiryu"
+msgid "Riku?"
+msgstr ""
+
+msgctxt "632_Riku"
+msgid "Yuka-chan, why'd y'even think about going t'work in the sex business?"
+msgstr ""
+
+msgctxt "644_Yuka"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "656_Riku"
+msgid ""
+"And you, Asumi-chan! If y'needed money, you shoulda come and talked to me, "
+"first!"
+msgstr ""
+
+msgctxt "668_Asumi"
+msgid "But, Riku-chan, I thought if I did ya wouldn't like me anymore."
+msgstr ""
+
+msgctxt "680_Riku"
+msgid "I'd never do that! I been worried sick 'bout the both of ya!"
+msgstr ""
+
+msgctxt "692_Yuka"
+msgid "Riku-chan!"
+msgstr ""
+
+msgctxt "704_Asumi"
+msgid "I'm sorry! I'm so sorry!"
+msgstr ""
+
+msgctxt "716_Kiryu"
+msgid "It looks like things worked out in the end."
+msgstr ""
+
+msgctxt "776_Kiryu"
+msgid "I'm glad you cleared up this misunderstanding."
+msgstr ""
+
+msgctxt "788_Riku"
+msgid "That's all thanks to you, Kiryu-san."
+msgstr ""
+
+msgctxt "800_Kiryu"
+msgid ""
+"No, it's not. It's because you care so much about your friends and tried so "
+"hard to do something for them."
+msgstr ""
+
+msgctxt "812_Kiryu"
+msgid "I mean, maybe you overdid it a little, but..."
+msgstr ""
+
+msgctxt "824_Riku"
+msgid "Heh. Guess I got lotsa stuff to think about here, don't I?"
+msgstr ""
+
+msgctxt "836_Riku"
+msgid "Hey, Kiryu-san. I really gotta thank you."
+msgstr ""
+
+msgctxt "848_Kiryu"
+msgid "Thank me?"
+msgstr ""
+
+msgctxt "860_Riku"
+msgid "Ya know, for givin' me so much advice!"
+msgstr ""
+
+msgctxt "872_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "884_Riku"
+msgid ""
+"I'm always the one giving other folks advice, but I need some of my own "
+"every now and then, too."
+msgstr ""
+
+msgctxt "896_Riku"
+msgid "I can't even imagine what my life would be like without ya, Kiryu-san."
+msgstr ""
+
+msgctxt "908_Kiryu"
+msgid "And what if sticking with me just brings more trouble?"
+msgstr ""
+
+msgctxt "920_Riku"
+msgid ""
+"I don't mind that. After all, with the two of us workin' together, there's "
+"no problem we can't tackle!"
+msgstr ""
+
+msgctxt "932_Kiryu"
+msgid "Maybe you're right."
+msgstr ""
+
+msgctxt "944_Riku"
+msgid "But for today, let me just show ya my appreciation."
+msgstr ""
+
+msgctxt "956_Kiryu"
+msgid "Right, got it."
+msgstr ""

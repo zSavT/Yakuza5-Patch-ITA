@@ -1,0 +1,81 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "256"
+msgid "Change characters?"
+msgstr "Cambiare personaggi?"
+
+msgctxt "1852"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "1856"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "1860"
+msgid "adv5_205_1/kiryu_5_205_050"
+msgstr "adv5_205_1/kiryu_5_205_050"
+
+msgctxt "1868"
+msgid "Change Characters"
+msgstr "Cambia Personaggi"
+
+msgctxt "1872"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "1876"
+msgid "No"
+msgstr "No"
+
+msgctxt "1880"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "1884"
+msgid "adv5_205_1/akiyama_5_205_130"
+msgstr "adv5_205_1/akiyama_5_205_130"
+
+msgctxt "1888"
+msgid "adv5_205_1/kiryu_5_205_070"
+msgstr "adv5_205_1/kiryu_5_205_070"
+
+msgctxt "1892"
+msgid "adv5_205_1/akiyama_5_205_120"
+msgstr "adv5_205_1/akiyama_5_205_120"
+
+msgctxt "1896"
+msgid "adv5_205_1/kiryu_5_205_060"
+msgstr "adv5_205_1/kiryu_5_205_060"
+
+msgctxt "172_Kiryu"
+msgid "%s. You finished getting ready?"
+msgstr "%s. Hai finito di prepararti?"
+
+msgctxt "184_Akiyama"
+msgid "Can I have a bit more time?"
+msgstr "Mi dai ancora un po' di tempo?"
+
+msgctxt "196_Kiryu"
+msgid "Sure. Let me know when you're good."
+msgstr "Certo. Fammi sapere quando sei pronto."
+
+msgctxt "220_Akiyama"
+msgid "Yes."
+msgstr "Sì."
+
+msgctxt "232_Kiryu"
+msgid "All right. It's almost time."
+msgstr "Va bene. È quasi ora."

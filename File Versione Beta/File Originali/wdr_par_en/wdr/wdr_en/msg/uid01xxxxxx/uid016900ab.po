@@ -1,0 +1,840 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1736"
+msgid "You got 1,500 experience points."
+msgstr ""
+
+msgctxt "1928"
+msgid "You got 1,200 experience points."
+msgstr ""
+
+msgctxt "2132"
+msgid "You got 900 experience points."
+msgstr ""
+
+msgctxt "39820"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "39824"
+msgid "Yamaura's Memo"
+msgstr ""
+
+msgctxt "39828"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "39832"
+msgid "Woman's Voice"
+msgstr ""
+
+msgctxt "39836"
+msgid "kaiwabgm_happy01"
+msgstr ""
+
+msgctxt "39840"
+msgid "Kotani"
+msgstr ""
+
+msgctxt "39844"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "39848"
+msgid "Relationship Advice for Readers"
+msgstr ""
+
+msgctxt "39852"
+msgid "The Princess League"
+msgstr ""
+
+msgctxt "39856"
+msgid "Life as an Idol"
+msgstr ""
+
+msgctxt "39860"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "39864"
+msgid "I would let my friend have him."
+msgstr ""
+
+msgctxt "39868"
+msgid "I would go after the boy myself."
+msgstr ""
+
+msgctxt "39872"
+msgid "I would ask my friend to let me have him."
+msgstr ""
+
+msgctxt "39876"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "39880"
+msgid "SS3_HAL_TLK_sitsofa_int_answer"
+msgstr ""
+
+msgctxt "39884"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "39888"
+msgid "SS3_F_TLK_sitsofa_int_memo"
+msgstr ""
+
+msgctxt "39892"
+msgid "You should kiss him."
+msgstr ""
+
+msgctxt "39896"
+msgid "You should keep waiting."
+msgstr ""
+
+msgctxt "39900"
+msgid "You should try to set the mood."
+msgstr ""
+
+msgctxt "39904"
+msgid "SS3_F_TLK_sitsofa_int_quest"
+msgstr ""
+
+msgctxt "39908"
+msgid "Keep telling her to stop seeing him."
+msgstr ""
+
+msgctxt "39912"
+msgid "End your relationship with this friend."
+msgstr ""
+
+msgctxt "39916"
+msgid "Try to reason with the teacher."
+msgstr ""
+
+msgctxt "39920"
+msgid "dummy"
+msgstr ""
+
+msgctxt "56_Haruka"
+msgid "(Let's see what Yamaura-san's memo says.)"
+msgstr ""
+
+msgctxt "68_Yamaura's Memo"
+msgid "\"Kiss Kiss\" is a fashion magazine aimed at pre-teens and teens."
+msgstr ""
+
+msgctxt "80_Yamaura's Memo"
+msgid ""
+"The interviewer will be Kotani-san. She's an old, unmarried career woman. "
+"She's nice enough, but is very particular about professionalism."
+msgstr ""
+
+msgctxt "92_Yamaura's Memo"
+msgid ""
+"The interview will consist of questions from readers asking for advice. "
+"These will mostly be about love and relationships."
+msgstr ""
+
+msgctxt "104_Yamaura's Memo"
+msgid ""
+"Try to give responses that the readers will be able to relate to. Remember, "
+"if you want to be a popular idol you have to appeal to the young female "
+"audience as well."
+msgstr ""
+
+msgctxt "116_Yamaura's Memo"
+msgid ""
+"For this kind of interview, it's also important to make a favorable "
+"impression on the interviewer. Their experience with you will affect the "
+"tone of the article they write."
+msgstr ""
+
+msgctxt "128_Haruka"
+msgid "(Okay, so this is what I have to keep in mind for the interview.)"
+msgstr ""
+
+msgctxt "140_Haruka"
+msgid "(I have to be relatable to pre-teen and teen girls.)"
+msgstr ""
+
+msgctxt "152_Haruka"
+msgid "(And Kotani-san is very particular about professionalism.)"
+msgstr ""
+
+msgctxt "164_Haruka"
+msgid "(All right. Got it!)"
+msgstr ""
+
+msgctxt "176_Woman's Voice"
+msgid "Hello. I'm here for an interview with Haruka-chan."
+msgstr ""
+
+msgctxt "188_Haruka"
+msgid "(Oh! The interviewer is here.)"
+msgstr ""
+
+msgctxt "248_Haruka"
+msgid ""
+"Hello. I'm Kotani from \"Kiss Kiss.\" It's very nice to meet you, "
+"Haruka-chan."
+msgstr ""
+
+msgctxt "260_Haruka"
+msgid "You as well! Thank you very much for coming."
+msgstr ""
+
+msgctxt "272_Kotani"
+msgid ""
+"I imagine your manager has already explained everything to you. You are "
+"aware of what today's interview is about?"
+msgstr ""
+
+msgctxt "284_Haruka"
+msgid "Um..."
+msgstr ""
+
+msgctxt "296_Kotani"
+msgid ""
+"What's the matter? Did your manager have you do this interview with no "
+"preparation at all?"
+msgstr ""
+
+msgctxt "308_Kotani"
+msgid ""
+"Oh, that will not do. I gave your manager the particulars beforehand for a "
+"reason."
+msgstr ""
+
+msgctxt "320_Haruka"
+msgid "I'm very sorry."
+msgstr ""
+
+msgctxt "332_Kotani"
+msgid ""
+"Hmph. Well. I will explain again. We'd like you to give our readers advice "
+"about the relationship problems they've written in about."
+msgstr ""
+
+msgctxt "344_Haruka"
+msgid ""
+"I was told it would be questions from readers asking for relationship "
+"advice."
+msgstr ""
+
+msgctxt "356_Kotani"
+msgid "Yes, good. So you are prepared."
+msgstr ""
+
+msgctxt "368_Kotani"
+msgid ""
+"Now, then. Girls from middle school and high school have written in, asking "
+"for your advice on their relationship troubles. Just answer the way you "
+"think is best."
+msgstr ""
+
+msgctxt "380_Haruka"
+msgid "All right."
+msgstr ""
+
+msgctxt "392_Kotani"
+msgid ""
+"And remember, our readers will be able to take heart if they see that even "
+"a cute idol like yourself has been through some of the same things they "
+"have."
+msgstr ""
+
+msgctxt "404_Haruka"
+msgid "Let's see. It's about the Princess League, right?"
+msgstr ""
+
+msgctxt "416_Kotani"
+msgid "No, that's not it at all. How odd. Is that what your manager told you?"
+msgstr ""
+
+msgctxt "428_Kotani"
+msgid ""
+"I understand you are currently appearing on the Princess League, but "
+"today's interview is about answering reader's love and relationship "
+"questions."
+msgstr ""
+
+msgctxt "440_Kotani"
+msgid ""
+"Oh, that will not do at all. I gave your manager the particulars beforehand "
+"for a reason."
+msgstr ""
+
+msgctxt "452_Haruka"
+msgid "I'm very sorry."
+msgstr ""
+
+msgctxt "464_Kotani"
+msgid "Well, never mind. I'll assume it was an oversight."
+msgstr ""
+
+msgctxt "476_Haruka"
+msgid "Let's see. Is it about my life as an idol?"
+msgstr ""
+
+msgctxt "488_Kotani"
+msgid "No, that's not it. How odd. Is that what your manager told you?"
+msgstr ""
+
+msgctxt "500_Kotani"
+msgid ""
+"I'm sure our readers are interested in your idol life, but today's "
+"interview is about answering reader's questions about relationships."
+msgstr ""
+
+msgctxt "512_Kotani"
+msgid ""
+"Oh, that will not do at all. I gave your manager the particulars beforehand "
+"for a reason."
+msgstr ""
+
+msgctxt "524_Haruka"
+msgid "I'm very sorry."
+msgstr ""
+
+msgctxt "536_Kotani"
+msgid "Well, never mind. I'll assume it was an oversight."
+msgstr ""
+
+msgctxt "548_Kotani"
+msgid ""
+"Now, on to the questions. Remember, these are middle school and high school "
+"aged girls like you, so just answer the way you normally would."
+msgstr ""
+
+msgctxt "560_Haruka"
+msgid "All right."
+msgstr ""
+
+msgctxt "572_Kotani"
+msgid ""
+"Okay, here we go. The first question is from Mina-chan in Tokyo. She's a "
+"middle school student."
+msgstr ""
+
+msgctxt "584_Kotani"
+msgid ""
+"She writes, \"My friend and I both like the same boy. What would you do if "
+"you were in my shoes?\""
+msgstr ""
+
+msgctxt "596_Haruka"
+msgid "Um..."
+msgstr ""
+
+msgctxt "608_Kotani"
+msgid ""
+"Hm. I guess that was a tough one. But you have to say something, or I won't "
+"have anything to write in the article."
+msgstr ""
+
+msgctxt "620_Haruka"
+msgid "I really apologize."
+msgstr ""
+
+msgctxt "632_Kotani"
+msgid "Oh. Well. Let's just move on to the next question, I suppose."
+msgstr ""
+
+msgctxt "644_Haruka"
+msgid ""
+"I would give up and let my friend have him. Friendship is more important to "
+"me than romance."
+msgstr ""
+
+msgctxt "656_Kotani"
+msgid ""
+"But what if you really, really like this boy? And do friendships last all "
+"that long, anyway? Who knows, this relationship could even lead to marriage!"
+msgstr ""
+
+msgctxt "668_Haruka"
+msgid "Maybe, but I still couldn't betray my friend. That just wouldn't be me."
+msgstr ""
+
+msgctxt "680_Kotani"
+msgid ""
+"I see. But if you keep choosing friendship over romance, you might miss "
+"your chance to ever get married at all. Like I did."
+msgstr ""
+
+msgctxt "692_Haruka"
+msgid "But you're still young, Kotani-san. You have plenty of time!"
+msgstr ""
+
+msgctxt "704_Kotani"
+msgid ""
+"Hehe. Well, aren't you sweet? I think I might be becoming a new fan of "
+"yours!"
+msgstr ""
+
+msgctxt "716_Haruka"
+msgid ""
+"I would go after the boy myself and not worry about my friend. I have to "
+"follow my own heart."
+msgstr ""
+
+msgctxt "728_Kotani"
+msgid ""
+"Hmm. That makes you sound a little love-hungry, I'd say. Do you think your "
+"agency would be okay with you saying that?"
+msgstr ""
+
+msgctxt "740_Haruka"
+msgid "I don't know. It's just how I honestly feel."
+msgstr ""
+
+msgctxt "752_Kotani"
+msgid ""
+"Hmm. Maybe that's just how young people these days think. I suppose too "
+"much holding back doesn't help anyone find love."
+msgstr ""
+
+msgctxt "764_Kotani"
+msgid ""
+"However, I'm not sure an answer like that will make you very popular with "
+"our readers."
+msgstr ""
+
+msgctxt "776_Haruka"
+msgid "I see."
+msgstr ""
+
+msgctxt "788_Haruka"
+msgid "I would ask my friend to give up and let me have him."
+msgstr ""
+
+msgctxt "800_Kotani"
+msgid ""
+"Really!? Do you think your friend would even agree to do that? Wouldn't it "
+"ruin your friendship?"
+msgstr ""
+
+msgctxt "812_Haruka"
+msgid "Well, if I sincerely explain how I feel, I think she might understand."
+msgstr ""
+
+msgctxt "824_Kotani"
+msgid ""
+"I suppose if she wasn't a very assertive girl, she might give him up for "
+"you. But wouldn't you feel bad?"
+msgstr ""
+
+msgctxt "836_Kotani"
+msgid ""
+"After all, a cute girl like you could get any boy you wanted. Wouldn't you "
+"be better off placing more value on your friendships?"
+msgstr ""
+
+msgctxt "848_Kotani"
+msgid "Wow. To tell you the truth, my image of you has changed after this."
+msgstr ""
+
+msgctxt "860_Haruka"
+msgid "Oh. I'm sorry."
+msgstr ""
+
+msgctxt "872_Haruka"
+msgid "Anyway, here's the next question. It's from Airi-chan, in Gifu Prefecture."
+msgstr ""
+
+msgctxt "884_Kotani"
+msgid ""
+"\"My boyfriend is shy. We've been going out for six months, but we've still "
+"never kissed. Some of my friends have gone further in less time. What do I "
+"do?\""
+msgstr ""
+
+msgctxt "896_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "908_Kotani"
+msgid "Can't think of a good answer? I won't have anything to put in my article."
+msgstr ""
+
+msgctxt "920_Haruka"
+msgid "I really apologize."
+msgstr ""
+
+msgctxt "932_Kotani"
+msgid "Hmph. I suppose just try to do better on the next one."
+msgstr ""
+
+msgctxt "944_Haruka"
+msgid ""
+"You should be the one to kiss him. If he's shy, there's no telling how long "
+"you'll have to wait before he does."
+msgstr ""
+
+msgctxt "956_Kotani"
+msgid "Oh my! You're quite bold, aren't you, Haruka-chan?"
+msgstr ""
+
+msgctxt "968_Haruka"
+msgid ""
+"I just believe that if you want something to happen, sometimes the best "
+"thing to do is make it happen yourself."
+msgstr ""
+
+msgctxt "980_Kotani"
+msgid "Ah. I like your way of thinking. It's very refreshing."
+msgstr ""
+
+msgctxt "992_Kotani"
+msgid "But doesn't it take a lot of courage for a girl to make the first move?"
+msgstr ""
+
+msgctxt "1004_Haruka"
+msgid "Maybe so. But sometimes a girl just needs to be brave."
+msgstr ""
+
+msgctxt "1016_Kotani"
+msgid ""
+"That's a pretty brazen thing for an idol to say. I imagine the reactions "
+"will be mixed, but I'll try to give it a favorable slant."
+msgstr ""
+
+msgctxt "1028_Haruka"
+msgid ""
+"You should keep waiting. That's not the kind of thing you should hurry. And "
+"besides, what does it matter what other people are doing?"
+msgstr ""
+
+msgctxt "1040_Kotani"
+msgid ""
+"I can understand the feeling of not wanting to fall behind the other girls. "
+"Being worried your friends are going to make fun of you is quite "
+"distressing."
+msgstr ""
+
+msgctxt "1052_Haruka"
+msgid ""
+"But if you really like him, then you should wait for it to happen "
+"naturally. Why worry about what other girls might say?"
+msgstr ""
+
+msgctxt "1064_Kotani"
+msgid ""
+"What a very mature and well-considered answer. It sounds like you'd make "
+"someone a very good girlfriend."
+msgstr ""
+
+msgctxt "1076_Kotani"
+msgid ""
+"I know it's hard not to succumb to peer pressure, but I bet you've helped "
+"many of our readers find courage with that answer."
+msgstr ""
+
+msgctxt "1088_Haruka"
+msgid "Thank you very much!"
+msgstr ""
+
+msgctxt "1100_Haruka"
+msgid "How about trying to set the mood to entice him to kiss you?"
+msgstr ""
+
+msgctxt "1112_Kotani"
+msgid "Set the mood how?"
+msgstr ""
+
+msgctxt "1124_Haruka"
+msgid ""
+"For example, you could touch his arm or his knee, cuddle in close, turn "
+"your face toward his, and close your eyes."
+msgstr ""
+
+msgctxt "1136_Kotani"
+msgid ""
+"Hold on! That sounds a little like what a hostess bar girl would do! Are "
+"you really recommending that to our readers?"
+msgstr ""
+
+msgctxt "1148_Haruka"
+msgid "Oh, I'm sorry. Is that bad?"
+msgstr ""
+
+msgctxt "1160_Kotani"
+msgid ""
+"Well, not necessarily. It's just that it was such an unexpected answer. "
+"That's great for my article, though!"
+msgstr ""
+
+msgctxt "1172_Haruka"
+msgid ""
+"All right, here's the last question. It's a pretty serious one. It's from "
+"Apple-chan, in Tochigi Prefecture."
+msgstr ""
+
+msgctxt "1184_Kotani"
+msgid ""
+"\"My friend has been seeing her teacher, who is married with children. I "
+"keep telling her she should break it off with him, but she just won't "
+"listen.\""
+msgstr ""
+
+msgctxt "1208_Haruka"
+msgid "Um..."
+msgstr ""
+
+msgctxt "1220_Kotani"
+msgid ""
+"Oh, come on! What am I supposed to put in my article if you don't say "
+"anything?"
+msgstr ""
+
+msgctxt "1232_Haruka"
+msgid "I'm sorry."
+msgstr ""
+
+msgctxt "1244_Kotani"
+msgid ""
+"If you didn't want to do this interview, why didn't you just say so? I'd "
+"prefer you didn't waste my time."
+msgstr ""
+
+msgctxt "1256_Kotani"
+msgid ""
+"Now I'll have no choice but to write a bland article. I don't want to hear "
+"any complaints later!"
+msgstr ""
+
+msgctxt "1268_Haruka"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "1280_Kotani"
+msgid ""
+"It's a difficult situation, isn't it? But I really hoped you'd say "
+"something to help our reader."
+msgstr ""
+
+msgctxt "1292_Haruka"
+msgid "I'm sorry."
+msgstr ""
+
+msgctxt "1304_Kotani"
+msgid ""
+"Hmph. Well, if you're not sure what to say, I suppose there's nothing I can "
+"do."
+msgstr ""
+
+msgctxt "1316_Haruka"
+msgid ""
+"If you care about your friend, the only thing you can do is keep telling "
+"her to stop seeing him. No one wins in that kind of relationship."
+msgstr ""
+
+msgctxt "1328_Kotani"
+msgid ""
+"Yes, but the friend is obviously thinking with her heart and not her head. "
+"Do you think she'll take heed?"
+msgstr ""
+
+msgctxt "1340_Kotani"
+msgid ""
+"Plus, she might not have even known he was married until after she had "
+"already fallen in love with him. Now, she just can't bear to leave."
+msgstr ""
+
+msgctxt "1352_Haruka"
+msgid ""
+"Maybe, but once she does know, she has to break up with him. That kind of "
+"relationship will only bring pain to everyone involved."
+msgstr ""
+
+msgctxt "1364_Kotani"
+msgid "Well, aren't you the moral one! But your answer does makes a lot of sense."
+msgstr ""
+
+msgctxt "1376_Kotani"
+msgid "Hm. Maybe I should break up with my man, too."
+msgstr ""
+
+msgctxt "1388_Haruka"
+msgid "Um, sorry?"
+msgstr ""
+
+msgctxt "1400_Kotani"
+msgid "Oh, nothing! I was just thinking out loud."
+msgstr ""
+
+msgctxt "1412_Haruka"
+msgid "Right."
+msgstr ""
+
+msgctxt "1424_Haruka"
+msgid ""
+"If she refuses to listen to you, then all you can do is end your friendship "
+"with her."
+msgstr ""
+
+msgctxt "1436_Kotani"
+msgid "Really? Just like that?"
+msgstr ""
+
+msgctxt "1448_Haruka"
+msgid ""
+"Yes. She's pushing away everyone in her life but this man. She probably "
+"doesn't want to admit that what she's doing is wrong, even to herself."
+msgstr ""
+
+msgctxt "1460_Haruka"
+msgid ""
+"If she's completely taken over by a relationship you can't support, your "
+"only choice is to remove yourself from the situation."
+msgstr ""
+
+msgctxt "1472_Kotani"
+msgid "Well! It's very black and white with you, isn't it?"
+msgstr ""
+
+msgctxt "1484_Kotani"
+msgid ""
+"But I suppose you're right. That must be why my friends have been "
+"disappearing, one by one."
+msgstr ""
+
+msgctxt "1496_Kotani"
+msgid "Hm. Maybe I should break up with my man, too."
+msgstr ""
+
+msgctxt "1508_Haruka"
+msgid "Um, sorry?"
+msgstr ""
+
+msgctxt "1520_Kotani"
+msgid "Oh, nothing! I was just thinking out loud."
+msgstr ""
+
+msgctxt "1532_Haruka"
+msgid "Right."
+msgstr ""
+
+msgctxt "1544_Haruka"
+msgid ""
+"If your friend won't listen, maybe you can try to reason with the teacher "
+"instead."
+msgstr ""
+
+msgctxt "1556_Kotani"
+msgid "I see. You might be on to something there."
+msgstr ""
+
+msgctxt "1568_Haruka"
+msgid ""
+"I'm sure this teacher wouldn't want it getting out he's in a relationship "
+"with his student. Talking to him might make him rethink his decisions."
+msgstr ""
+
+msgctxt "1580_Kotani"
+msgid "But if you go to the teacher, won't the friend be really upset?"
+msgstr ""
+
+msgctxt "1592_Haruka"
+msgid ""
+"She might be, but if you care about her then it's the right thing to do. "
+"After all, no one wins in that kind of relationship."
+msgstr ""
+
+msgctxt "1604_Kotani"
+msgid ""
+"You know, that's pretty true. A relationship like that doesn't make anybody "
+"happy in the end."
+msgstr ""
+
+msgctxt "1616_Kotani"
+msgid "Hm. Maybe I should break up with my man, too."
+msgstr ""
+
+msgctxt "1628_Haruka"
+msgid "Um, sorry?"
+msgstr ""
+
+msgctxt "1640_Kotani"
+msgid "Oh, nothing! I was just thinking out loud."
+msgstr ""
+
+msgctxt "1652_Haruka"
+msgid "Right."
+msgstr ""
+
+msgctxt "1676_Haruka"
+msgid ""
+"All right, that concludes our interview. Thank you for your time, "
+"Haruka-chan."
+msgstr ""
+
+msgctxt "1688_Kotani"
+msgid "Your sincerity really shone through. I think our readers will love you."
+msgstr ""
+
+msgctxt "1700_Kotani"
+msgid "Thank you very much for today. I hope we can do this again sometime."
+msgstr ""
+
+msgctxt "1712_Haruka"
+msgid "Thank you very much for the opportunity!"
+msgstr ""
+
+msgctxt "1868_Haruka"
+msgid ""
+"All right, that concludes our interview. Thank you for your time, "
+"Haruka-chan."
+msgstr ""
+
+msgctxt "1880_Kotani"
+msgid ""
+"You're very different from how I imagined you. I believe our readers will "
+"be split on what they think of you after this."
+msgstr ""
+
+msgctxt "1892_Kotani"
+msgid ""
+"However, you've given me more than enough to put together a decent article. "
+"I hope we can do this again sometime."
+msgstr ""
+
+msgctxt "1904_Haruka"
+msgid "Thank you very much for the opportunity!"
+msgstr ""
+
+msgctxt "2060_Haruka"
+msgid "All right, that concludes our interview. I'm tired."
+msgstr ""
+
+msgctxt "2072_Kotani"
+msgid ""
+"I know I'm an outsider and it might not be my place to say such a thing, "
+"but I think you'd do well to show a little more professionalism."
+msgstr ""
+
+msgctxt "2084_Kotani"
+msgid ""
+"Yes, you're young and you're cute, but those things alone won't carry you "
+"very far."
+msgstr ""
+
+msgctxt "2096_Haruka"
+msgid "Oh. I really apologize."
+msgstr ""
+
+msgctxt "2108_Kotani"
+msgid "I'm just concerned for you, that's all."
+msgstr ""

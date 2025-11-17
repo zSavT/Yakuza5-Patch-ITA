@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid "You now have access to a hideout."
+msgstr ""
+
+msgctxt "1632"
+msgid "Player"
+msgstr ""
+
+msgctxt "1636"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1640"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "1644"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "1648"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "1652"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "1656"
+msgid "dummy"
+msgstr ""
+
+msgctxt "88_Player"
+msgid ""
+"Here you can save your game, move items to the Item Box, and view your play "
+"stats."
+msgstr ""
+
+msgctxt "100_Player"
+msgid "Furthermore, your health will recover while at a hideout."
+msgstr ""
+
+msgctxt "124_Kiryu"
+msgid "(A package arrived.)"
+msgstr ""
+
+msgctxt "136_Akiyama"
+msgid "(Looks like I got a package.)"
+msgstr ""
+
+msgctxt "148_Saejima"
+msgid "(Got a package delivered.)"
+msgstr ""
+
+msgctxt "160_Shinada"
+msgid "(Hey, I got a package!)"
+msgstr ""
+
+msgctxt "172_Haruka"
+msgid "(A package arrived.)"
+msgstr ""
+
+msgctxt "196_Player"
+msgid "You received a package from an online shop."
+msgstr ""

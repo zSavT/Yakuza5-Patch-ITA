@@ -1,0 +1,103 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2656"
+msgid "Male Villager"
+msgstr "Uomo del villaggio"
+
+msgctxt "2660"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "2664"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "2668"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2672"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "2676"
+msgid "Gonsuke"
+msgstr "Gonsuke"
+
+msgctxt "2680"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2684"
+msgid "Mission Added"
+msgstr "Missione Aggiunta"
+
+msgctxt "72_Male Villager"
+msgid "You're that guy living at Okudera's now, aren't you?"
+msgstr "Sei quel tizio che vive da Okudera adesso, vero?"
+
+msgctxt "84_Saejima"
+msgid "Yeah. And you are?"
+msgstr "Già. E tu chi saresti?"
+
+msgctxt "96_Male Villager"
+msgid "You don't know? Always easy to spot an amateur."
+msgstr "Non lo sai? È sempre facile beccare un novellino."
+
+msgctxt "108_Male Villager"
+msgid "I'm Gonsuke the Trapmaster."
+msgstr "Sono Gonsuke, il maestro di trappole."
+
+msgctxt "120_Saejima"
+msgid "Gonsuke the Trapmaster?"
+msgstr "Gonsuke il Mastro Trappolaio?"
+
+msgctxt "132_Gonsuke"
+msgid ""
+"That's my name, don't wear it out! Yeah, I've been trapping in this village "
+"for thirty years."
+msgstr ""
+"È il mio nome, non lo consumare! Sì, è da trent'anni che faccio il "
+"trappoliere in questo villaggio."
+
+msgctxt "144_Gonsuke"
+msgid ""
+"But you, you shoo away one measly bear and now you're strutting around like "
+"a hero. Don't get cocky over a fluke, man."
+msgstr ""
+"Ma tu, hai scacciato via un orsetto del cavolo e adesso ti pavoneggi come un"
+" eroe. Non montarti la testa per un colpo di fortuna, ragazzo."
+
+msgctxt "156_Saejima"
+msgid ""
+"Don't see how I'm cocky, but hey, no problem. You bein' the veteran is fine "
+"with me."
+msgstr ""
+"Non vedo come sarei presuntuoso, ma ehi, nessun problema. Che tu sia il "
+"veterano, per me va bene."
+
+msgctxt "168_Gonsuke"
+msgid ""
+"Heh. That's right, amateurs ought to show respect. If you see me out there, "
+"take some notes. I can teach you all you need about trapping."
+msgstr ""
+"Heh. È così, i pivelli dovrebbero imparare il rispetto. Se mi vedi là fuori,"
+" tienimi d'occhio. Ti insegno io tutto quel che c'è da sapere sulle "
+"trappole."
+
+msgctxt "192_Mission Added"
+msgid "\"Trapper's Pride\" was added to the list of missions."
+msgstr ""
+"\"L'Orgoglio del Trappolatore\" è stata aggiunta alla lista delle missioni."

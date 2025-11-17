@@ -1,0 +1,284 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "11800"
+msgid "Staff"
+msgstr ""
+
+msgctxt "11804"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "11808"
+msgid "dummy"
+msgstr ""
+
+msgctxt "11812"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "11816"
+msgid "P_TLK_sitchr_kamae"
+msgstr ""
+
+msgctxt "11820"
+msgid "Chef"
+msgstr ""
+
+msgctxt "11824"
+msgid "Honoka"
+msgstr ""
+
+msgctxt "11828"
+msgid "Player"
+msgstr ""
+
+msgctxt "11832"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "11836"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "11840"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "11844"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "11848"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "11852"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "11856"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "11860"
+msgid "P_TLK_sitcnt_kamae"
+msgstr ""
+
+msgctxt "11864"
+msgid "Look at Right Wall"
+msgstr ""
+
+msgctxt "11868"
+msgid "Look at Left Wall"
+msgstr ""
+
+msgctxt "11872"
+msgid "Order"
+msgstr ""
+
+msgctxt "11876"
+msgid "Leave"
+msgstr ""
+
+msgctxt "11880"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "11884"
+msgid "0"
+msgstr ""
+
+msgctxt "11888"
+msgid "Idle"
+msgstr ""
+
+msgctxt "88_Staff"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "100_Staff"
+msgid "Let me show you to your table."
+msgstr ""
+
+msgctxt "148_Staff"
+msgid "May I take your order?"
+msgstr ""
+
+msgctxt "160_Honoka"
+msgid "Oh, I want the <Color:8>Matsutake Set<Color:Default>!"
+msgstr ""
+
+msgctxt "172_Player"
+msgid "(Honoka-chan wants to have the <Color:8>Matsutake Set<Color:Default>.)"
+msgstr ""
+
+msgctxt "244_Honoka"
+msgid "This looks delish!"
+msgstr ""
+
+msgctxt "304_Honoka"
+msgid "Thanks for treatin' me!"
+msgstr ""
+
+msgctxt "364_Staff"
+msgid "Here is your check."
+msgstr ""
+
+msgctxt "388_Staff"
+msgid "Thank you very much. Please come again."
+msgstr ""
+
+msgctxt "400_Staff"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "436_Staff"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "448_Staff"
+msgid "Let me show you to your table."
+msgstr ""
+
+msgctxt "484_Player"
+msgid "(I'm broke.)"
+msgstr ""
+
+msgctxt "520_Kiryu"
+msgid "(I don't need to eat right now.)"
+msgstr ""
+
+msgctxt "532_Akiyama"
+msgid "(I'm not hungry right now.)"
+msgstr ""
+
+msgctxt "544_Saejima"
+msgid "(I'm still full.)"
+msgstr ""
+
+msgctxt "556_Shinada"
+msgid "(Unfortunately, I'm kinda full.)"
+msgstr ""
+
+msgctxt "568_Haruka"
+msgid "(I'm stuffed.)"
+msgstr ""
+
+msgctxt "604_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr ""
+
+msgctxt "616_Akiyama"
+msgid "Sorry. I have some urgent business I need to take care of."
+msgstr ""
+
+msgctxt "628_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr ""
+
+msgctxt "640_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr ""
+
+msgctxt "652_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr ""
+
+msgctxt "664_Staff"
+msgid "I see. Well, please come again."
+msgstr ""
+
+msgctxt "736_Staff"
+msgid "May I take your order?"
+msgstr ""
+
+msgctxt "760_Kiryu"
+msgid "(I bet that <Color:8>Grilled Marbled Wagyu<Color:Default> is pretty good.)"
+msgstr ""
+
+msgctxt "772_Akiyama"
+msgid ""
+"(That <Color:8>Grilled Marbled Wagyu<Color:Default> seems like it might be "
+"good.)"
+msgstr ""
+
+msgctxt "784_Saejima"
+msgid "(The <Color:8>Grilled Marbled Wagyu<Color:Default> sounds pretty tasty.)"
+msgstr ""
+
+msgctxt "796_Shinada"
+msgid "(Oooh, <Color:8>Grilled Marbled Wagyu<Color:Default>! I bet that's good!)"
+msgstr ""
+
+msgctxt "808_Haruka"
+msgid "(Oh, the <Color:8>Grilled Marbled Wagyu<Color:Default> sounds delicious!)"
+msgstr ""
+
+msgctxt "844_Kiryu"
+msgid "(The <Color:8>Matsutake Set<Color:Default> might not be bad.)"
+msgstr ""
+
+msgctxt "856_Akiyama"
+msgid ""
+"(The <Color:8>Matsutake Set<Color:Default> seems like it might be all "
+"right.)"
+msgstr ""
+
+msgctxt "868_Saejima"
+msgid "(<Color:8>Matsutake Set<Color:Default>? Sounds good to me.)"
+msgstr ""
+
+msgctxt "880_Shinada"
+msgid "(Oooh! The <Color:8>Matsutake Set<Color:Default> sounds good!)"
+msgstr ""
+
+msgctxt "892_Haruka"
+msgid "(I feel like having the <Color:8>Matsutake Set<Color:Default>.)"
+msgstr ""
+
+msgctxt "916_Staff"
+msgid "May I take your order?"
+msgstr ""
+
+msgctxt "964_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr ""
+
+msgctxt "976_Akiyama"
+msgid "Sorry. I have some urgent business I need to take care of."
+msgstr ""
+
+msgctxt "988_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr ""
+
+msgctxt "1000_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr ""
+
+msgctxt "1012_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr ""
+
+msgctxt "1024_Chef"
+msgid "Ah, I see. Please do come again."
+msgstr ""
+
+msgctxt "1072_Staff"
+msgid "Here is your check."
+msgstr ""
+
+msgctxt "1096_Staff"
+msgid "Thank you very much. Please come again."
+msgstr ""

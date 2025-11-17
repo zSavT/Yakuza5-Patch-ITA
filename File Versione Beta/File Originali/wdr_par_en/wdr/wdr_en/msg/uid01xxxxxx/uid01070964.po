@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2808"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "380_Kiryu"
+msgid "First, we pick the banker."
+msgstr ""
+
+msgctxt "392_Kiryu"
+msgid "I'm the banker."
+msgstr ""
+
+msgctxt "404_Kiryu"
+msgid "(How much should I bet?)"
+msgstr ""
+
+msgctxt "416_Kiryu"
+msgid "Here goes."
+msgstr ""
+
+msgctxt "428_Kiryu"
+msgid "My turn."
+msgstr ""
+
+msgctxt "440_Kiryu"
+msgid "I'll roll again."
+msgstr ""
+
+msgctxt "452_Kiryu"
+msgid "Time to settle up."
+msgstr ""
+
+msgctxt "464_Kiryu"
+msgid "(You're the banker.)"
+msgstr ""
+
+msgctxt "476_Kiryu"
+msgid "Time to change the banker."
+msgstr ""
+
+msgctxt "488_Kiryu"
+msgid "(Play again?)"
+msgstr ""
+
+msgctxt "500_Kiryu"
+msgid "(I'm broke.)"
+msgstr ""
+
+msgctxt "512_Kiryu"
+msgid "(Try again next time.)"
+msgstr ""
+
+msgctxt "524_Kiryu"
+msgid "Banker's Bet-Settling Messages"
+msgstr ""
+
+msgctxt "536_Kiryu"
+msgid "So, the banker's roll of 1-3-5 gets a 3?"
+msgstr ""
+
+msgctxt "548_Kiryu"
+msgid "So, a 1-3-5 roll by the first player gets a 3?"
+msgstr ""
+
+msgctxt "560_Kiryu"
+msgid "A 1-3-5 roll gets the preceding player's roll."
+msgstr ""
+
+msgctxt "572_Kiryu"
+msgid "So, the banker's roll of 2-4-6 gets a 4?"
+msgstr ""
+
+msgctxt "584_Kiryu"
+msgid "A 2-4-6 roll changes to the next player's roll."
+msgstr ""
+
+msgctxt "596_Kiryu"
+msgid "So, a 2-4-6 roll by the last player gets a 4?"
+msgstr ""
+
+msgctxt "608_Kiryu"
+msgid "A 2-4-6 roll gets the last player's roll!"
+msgstr ""
+
+msgctxt "620_Kiryu"
+msgid "A 1-3-5 was rolled after a 2-4-6."
+msgstr ""
+
+msgctxt "632_Kiryu"
+msgid "Talk about luck."
+msgstr ""

@@ -1,0 +1,958 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "148"
+msgid "You got a <Color:8>Low-resilience Jacket<Color:Default>."
+msgstr ""
+
+msgctxt "48148"
+msgid "Player"
+msgstr ""
+
+msgctxt "48152"
+msgid "Manager"
+msgstr ""
+
+msgctxt "48156"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "48160"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "48164"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "48168"
+msgid "Play Against Haruka"
+msgstr ""
+
+msgctxt "48172"
+msgid "Play a Tag Match with Haruka"
+msgstr ""
+
+msgctxt "48176"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "48180"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "48184"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "48188"
+msgid "Hinata"
+msgstr ""
+
+msgctxt "48192"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "48196"
+msgid "Three Frames"
+msgstr ""
+
+msgctxt "48200"
+msgid "Ten Frames"
+msgstr ""
+
+msgctxt "48204"
+msgid "Riku"
+msgstr ""
+
+msgctxt "48208"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "48212"
+msgid "Honoka"
+msgstr ""
+
+msgctxt "48216"
+msgid "Kaguya"
+msgstr ""
+
+msgctxt "48220"
+msgid "Shion"
+msgstr ""
+
+msgctxt "48224"
+msgid "Mach-ko"
+msgstr ""
+
+msgctxt "48228"
+msgid "Play Alone"
+msgstr ""
+
+msgctxt "48232"
+msgid "Invite Someone"
+msgstr ""
+
+msgctxt "48236"
+msgid "Play against Staff"
+msgstr ""
+
+msgctxt "48240"
+msgid "Split Game"
+msgstr ""
+
+msgctxt "48244"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "48248"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "48252"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "48256"
+msgid "Play"
+msgstr ""
+
+msgctxt "48260"
+msgid "Nobody"
+msgstr ""
+
+msgctxt "124_Player"
+msgid "(This was fun. Maybe I'll do something else now.)"
+msgstr ""
+
+msgctxt "136_Manager"
+msgid "Congratulations! You managed to knock down the red pin!"
+msgstr ""
+
+msgctxt "172_Manager"
+msgid "Here's your prize. Please do come again."
+msgstr ""
+
+msgctxt "184_Manager"
+msgid "Welcome. Is it just the two of you today?"
+msgstr ""
+
+msgctxt "196_Player"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "208_Manager"
+msgid "It'll be 1,000 yen for two players."
+msgstr ""
+
+msgctxt "232_Player"
+msgid "Okay, got it."
+msgstr ""
+
+msgctxt "244_Kiryu"
+msgid "(What should I do?)"
+msgstr ""
+
+msgctxt "256_Player"
+msgid "You won't beat me, Uncle Kaz!"
+msgstr ""
+
+msgctxt "280_Player"
+msgid "Give it your best shot, Uncle Kaz!"
+msgstr ""
+
+msgctxt "304_Player"
+msgid "(I'm broke.)"
+msgstr ""
+
+msgctxt "316_Manager"
+msgid "Have fun!"
+msgstr ""
+
+msgctxt "328_Player"
+msgid "Sorry, not today."
+msgstr ""
+
+msgctxt "340_Manager"
+msgid "I see. Please come again."
+msgstr ""
+
+msgctxt "352_Manager"
+msgid "Welcome. Is it just the two of you today?"
+msgstr ""
+
+msgctxt "364_Hinata"
+msgid "Come on, let's bowl!"
+msgstr ""
+
+msgctxt "376_Player"
+msgid "(Hinata wants to bowl with me.)"
+msgstr ""
+
+msgctxt "388_Manager"
+msgid "It'll be 1,000 yen for two players."
+msgstr ""
+
+msgctxt "412_Player"
+msgid "Okay, got it."
+msgstr ""
+
+msgctxt "424_Hinata"
+msgid "Good luck beating me!"
+msgstr ""
+
+msgctxt "436_Manager"
+msgid "How many frames will you play?"
+msgstr ""
+
+msgctxt "448_Player"
+msgid "Three frames, please."
+msgstr ""
+
+msgctxt "460_Player"
+msgid "Ten frames, please."
+msgstr ""
+
+msgctxt "472_Player"
+msgid "Have fun!"
+msgstr ""
+
+msgctxt "496_Player"
+msgid "(I'm broke.)"
+msgstr ""
+
+msgctxt "544_Riku"
+msgid "Wow, you're really good at this, Kiryu-san! I'm kinda impressed!"
+msgstr ""
+
+msgctxt "556_Riku"
+msgid "I win!"
+msgstr ""
+
+msgctxt "568_Riku"
+msgid "Aww, guess it's a draw. But I'll beat ya next time!"
+msgstr ""
+
+msgctxt "592_Riku"
+msgid ""
+"That was wicked fun! I'm headin' back to Hakata now! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "640_Riku"
+msgid ""
+"That was wicked fun! Call me again, okay? "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "700_Honoka"
+msgid "You're real good, Akiyama-san! I'm kinda surprised!"
+msgstr ""
+
+msgctxt "712_Honoka"
+msgid "Yeah, I win! Gotta try a little harder than that, Akiyama-san!"
+msgstr ""
+
+msgctxt "724_Honoka"
+msgid "Wow, I can't believe it's a draw! Next time I'm definitely gonna win!"
+msgstr ""
+
+msgctxt "748_Honoka"
+msgid ""
+"That was super fun! Now I gotta get back to Osaka. "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "796_Honoka"
+msgid ""
+"That was a lotta fun! Gimme a call again, okay? "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "856_Kaguya"
+msgid "You're amazing, Saejima-san! I really have to hand it to you."
+msgstr ""
+
+msgctxt "868_Kaguya"
+msgid "I win! Better luck next time, Saejima-san!"
+msgstr ""
+
+msgctxt "880_Kaguya"
+msgid ""
+"Wow, I can't believe it was that close! That really got my blood pumping "
+"good!"
+msgstr ""
+
+msgctxt "904_Kaguya"
+msgid ""
+"That was a lot of fun! I need to head back home now, though. "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "952_Kaguya"
+msgid ""
+"That was a lot of fun! Please give me a call again sometime! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1012_Shion"
+msgid "Shinada-san, you're so good at this! You definitely have my admiration."
+msgstr ""
+
+msgctxt "1024_Shion"
+msgid "Oh, I win! I knew I wouldn't lose to you, Shinada-san."
+msgstr ""
+
+msgctxt "1036_Shion"
+msgid ""
+"How remarkable that we managed to have a draw! I'll be sure to win next "
+"time, though!"
+msgstr ""
+
+msgctxt "1060_Shion"
+msgid ""
+"That was quite fun! I'll be heading back to Nagoya now. "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1108_Shion"
+msgid ""
+"That was such fun! Please do call me again! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1168_Hinata"
+msgid "You're really good at that, Kiryu-san! I'm kinda surprised!"
+msgstr ""
+
+msgctxt "1180_Hinata"
+msgid "Yay, I win! Looks like you have to practice some more, Kiryu-san!"
+msgstr ""
+
+msgctxt "1192_Hinata"
+msgid "Wow, I can't believe it was a tie! But I'm gonna win next time!"
+msgstr ""
+
+msgctxt "1204_Hinata"
+msgid ""
+"That was super fun! Ask me out again sometime! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1252_Mach-ko"
+msgid "That was fun! I'm here to take you on anytime you want! See ya!"
+msgstr ""
+
+msgctxt "1336_Player"
+msgid "Welcome! How would you like to play today?"
+msgstr ""
+
+msgctxt "1360_Kiryu"
+msgid "Not right now, sorry."
+msgstr ""
+
+msgctxt "1372_Akiyama"
+msgid "No, not right now."
+msgstr ""
+
+msgctxt "1384_Saejima"
+msgid "Nah, not now."
+msgstr ""
+
+msgctxt "1396_Shinada"
+msgid "No, not now."
+msgstr ""
+
+msgctxt "1408_Haruka"
+msgid "Sorry, but I can't."
+msgstr ""
+
+msgctxt "1420_Manager"
+msgid "I see. Please come again anytime."
+msgstr ""
+
+msgctxt "1444_Kiryu"
+msgid "I'll be playing by myself."
+msgstr ""
+
+msgctxt "1456_Akiyama"
+msgid "I'll play solo."
+msgstr ""
+
+msgctxt "1468_Saejima"
+msgid "It'll just be me playin'."
+msgstr ""
+
+msgctxt "1480_Shinada"
+msgid "Is it cool if I play alone?"
+msgstr ""
+
+msgctxt "1492_Haruka"
+msgid "I'll be playing alone."
+msgstr ""
+
+msgctxt "1516_Player"
+msgid "Very well. That'll be 500 yen, please."
+msgstr ""
+
+msgctxt "1552_Kiryu"
+msgid "Okay, got it."
+msgstr ""
+
+msgctxt "1564_Akiyama"
+msgid "Okay, sure."
+msgstr ""
+
+msgctxt "1576_Saejima"
+msgid "This okay?"
+msgstr ""
+
+msgctxt "1588_Shinada"
+msgid "Ah, sure, sure."
+msgstr ""
+
+msgctxt "1600_Haruka"
+msgid "Sure, all right."
+msgstr ""
+
+msgctxt "1624_Player"
+msgid "How many frames will you play?"
+msgstr ""
+
+msgctxt "1636_Player"
+msgid "Three frames."
+msgstr ""
+
+msgctxt "1648_Player"
+msgid "Ten frames."
+msgstr ""
+
+msgctxt "1660_Player"
+msgid "Have fun!"
+msgstr ""
+
+msgctxt "1720_Kiryu"
+msgid "(I don't have the money.)"
+msgstr ""
+
+msgctxt "1732_Akiyama"
+msgid "(I don't have the money.)"
+msgstr ""
+
+msgctxt "1744_Saejima"
+msgid "(I ain't got the money.)"
+msgstr ""
+
+msgctxt "1756_Shinada"
+msgid "(I don't have enough money.)"
+msgstr ""
+
+msgctxt "1768_Haruka"
+msgid "(I don't have enough money.)"
+msgstr ""
+
+msgctxt "1804_Kiryu"
+msgid "You can play against me."
+msgstr ""
+
+msgctxt "1816_Akiyama"
+msgid "I'll play against you."
+msgstr ""
+
+msgctxt "1828_Saejima"
+msgid "You and me, let's do this."
+msgstr ""
+
+msgctxt "1840_Shinada"
+msgid "Can I have a game against you?"
+msgstr ""
+
+msgctxt "1852_Haruka"
+msgid "Can I play against you?"
+msgstr ""
+
+msgctxt "1876_Player"
+msgid "That'll be 500 yen."
+msgstr ""
+
+msgctxt "1912_Kiryu"
+msgid "Okay, got it."
+msgstr ""
+
+msgctxt "1924_Akiyama"
+msgid "Okay, sure."
+msgstr ""
+
+msgctxt "1936_Saejima"
+msgid "This okay?"
+msgstr ""
+
+msgctxt "1948_Shinada"
+msgid "Ah, sure, sure."
+msgstr ""
+
+msgctxt "1960_Haruka"
+msgid "Sure, please."
+msgstr ""
+
+msgctxt "1984_Player"
+msgid "Then let's begin."
+msgstr ""
+
+msgctxt "2020_Kiryu"
+msgid "(I don't have the money.)"
+msgstr ""
+
+msgctxt "2032_Akiyama"
+msgid "(I don't have the money.)"
+msgstr ""
+
+msgctxt "2044_Saejima"
+msgid "(I ain't got the money.)"
+msgstr ""
+
+msgctxt "2056_Shinada"
+msgid "(I don't have enough money.)"
+msgstr ""
+
+msgctxt "2068_Haruka"
+msgid "(I don't have enough money.)"
+msgstr ""
+
+msgctxt "2104_Kiryu"
+msgid "I'll play a split game, please."
+msgstr ""
+
+msgctxt "2116_Akiyama"
+msgid "I'll have a split game, please."
+msgstr ""
+
+msgctxt "2128_Saejima"
+msgid "I'll do a split game."
+msgstr ""
+
+msgctxt "2140_Shinada"
+msgid "Is it cool if I play a split game?"
+msgstr ""
+
+msgctxt "2152_Haruka"
+msgid "I'll have a split game, please."
+msgstr ""
+
+msgctxt "2176_Player"
+msgid "I see. That'll be 500 yen, please."
+msgstr ""
+
+msgctxt "2212_Kiryu"
+msgid "Okay, got it."
+msgstr ""
+
+msgctxt "2224_Akiyama"
+msgid "Okay, sure."
+msgstr ""
+
+msgctxt "2236_Saejima"
+msgid "This okay?"
+msgstr ""
+
+msgctxt "2248_Shinada"
+msgid "Ah, sure, sure."
+msgstr ""
+
+msgctxt "2260_Haruka"
+msgid "Sure, all right."
+msgstr ""
+
+msgctxt "2284_Player"
+msgid "Have fun!"
+msgstr ""
+
+msgctxt "2332_Kiryu"
+msgid "(I don't have the money.)"
+msgstr ""
+
+msgctxt "2344_Akiyama"
+msgid "(I don't have the money.)"
+msgstr ""
+
+msgctxt "2356_Saejima"
+msgid "(I ain't got the money.)"
+msgstr ""
+
+msgctxt "2368_Shinada"
+msgid "(I don't have enough money.)"
+msgstr ""
+
+msgctxt "2380_Haruka"
+msgid "(I don't have enough money.)"
+msgstr ""
+
+msgctxt "2404_Player"
+msgid "(Who should I call?)"
+msgstr ""
+
+msgctxt "2428_Player"
+msgid "(I'll call up Riku.)"
+msgstr ""
+
+msgctxt "2512_Riku"
+msgid ""
+"Y'gotta be kiddin' me! Y'called me all the way out to Tokyo jus' to go "
+"bowling!?"
+msgstr ""
+
+msgctxt "2524_Player"
+msgid ""
+"Well, you can do some sightseeing before you head back, too. Shall we get "
+"started?"
+msgstr ""
+
+msgctxt "2536_Manager"
+msgid "It'll be 1,000 yen for two players. How many frames would you like to play?"
+msgstr ""
+
+msgctxt "2548_Player"
+msgid "Three frames, please."
+msgstr ""
+
+msgctxt "2560_Player"
+msgid "Ten frames, please."
+msgstr ""
+
+msgctxt "2572_Player"
+msgid "Have fun!"
+msgstr ""
+
+msgctxt "2584_Riku"
+msgid "Sorry to keep y'waiting! You wanted to go bowlin' with me, Kiryu-san?"
+msgstr ""
+
+msgctxt "2596_Player"
+msgid "Ready to get started?"
+msgstr ""
+
+msgctxt "2608_Manager"
+msgid ""
+"It'll be 1,000 yen for the two of you. How many frames would you like to "
+"play?"
+msgstr ""
+
+msgctxt "2620_Player"
+msgid "Three frames, please."
+msgstr ""
+
+msgctxt "2632_Player"
+msgid "Ten frames, please."
+msgstr ""
+
+msgctxt "2644_Player"
+msgid "Have fun!"
+msgstr ""
+
+msgctxt "2668_Player"
+msgid "(Guess I'll give Kaguya a call.)"
+msgstr ""
+
+msgctxt "2752_Kaguya"
+msgid ""
+"Going into work is enough of a pain as it is, but you go and call me all "
+"the way out here to Tokyo!? Unbelievable!"
+msgstr ""
+
+msgctxt "2764_Player"
+msgid "Didn't expect ya'd actually come..."
+msgstr ""
+
+msgctxt "2776_Manager"
+msgid ""
+"It'll be 1,000 yen for the two of you. How many frames would you like to "
+"play?"
+msgstr ""
+
+msgctxt "2788_Player"
+msgid "Three frames, please."
+msgstr ""
+
+msgctxt "2800_Player"
+msgid "Ten frames, please."
+msgstr ""
+
+msgctxt "2812_Player"
+msgid "Have fun!"
+msgstr ""
+
+msgctxt "2824_Kaguya"
+msgid ""
+"Sorry for the wait! It's good to get out every once in a while! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "2836_Player"
+msgid "Wanna get started?"
+msgstr ""
+
+msgctxt "2848_Manager"
+msgid ""
+"It'll be 1,000 yen for the two of you. How many frames would you like to "
+"play?"
+msgstr ""
+
+msgctxt "2860_Player"
+msgid "Three frames, please."
+msgstr ""
+
+msgctxt "2872_Player"
+msgid "Ten frames, please."
+msgstr ""
+
+msgctxt "2884_Player"
+msgid "Have fun!"
+msgstr ""
+
+msgctxt "2908_Player"
+msgid "(I should give Honoka-chan a call.)"
+msgstr ""
+
+msgctxt "2992_Honoka"
+msgid ""
+"Ya called up a student who's busy lookin' for a job all the way out in "
+"Osaka, just to go bowlin'? If this is a joke, I ain't laughin'."
+msgstr ""
+
+msgctxt "3004_Player"
+msgid "My apologies."
+msgstr ""
+
+msgctxt "3016_Manager"
+msgid ""
+"It'll be 1,000 yen for the two of you. How many frames would you like to "
+"play?"
+msgstr ""
+
+msgctxt "3028_Player"
+msgid "Three frames, please."
+msgstr ""
+
+msgctxt "3040_Player"
+msgid "Ten frames, please."
+msgstr ""
+
+msgctxt "3052_Player"
+msgid "Have fun!"
+msgstr ""
+
+msgctxt "3064_Honoka"
+msgid ""
+"Sorry for makin' ya wait! You're really up for anything, aren't ya, "
+"Akiyama-san? <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "3076_Player"
+msgid "Shall we begin?"
+msgstr ""
+
+msgctxt "3088_Manager"
+msgid ""
+"It'll be 1,000 yen for the two of you. How many frames would you like to "
+"play?"
+msgstr ""
+
+msgctxt "3100_Player"
+msgid "Three frames, please."
+msgstr ""
+
+msgctxt "3112_Player"
+msgid "Ten frames, please."
+msgstr ""
+
+msgctxt "3124_Player"
+msgid "Have fun!"
+msgstr ""
+
+msgctxt "3148_Player"
+msgid "(Maybe I should give Shion-chan a call.)"
+msgstr ""
+
+msgctxt "3232_Shion"
+msgid ""
+"It really is rather rude to make me come all the way from Nagoya for this, "
+"you know. Honestly, it's not like I don't have anything better to do."
+msgstr ""
+
+msgctxt "3244_Player"
+msgid "Yeah, sorry about that! I guess the travel costs must've been rough, too."
+msgstr ""
+
+msgctxt "3256_Manager"
+msgid ""
+"It'll be 1,000 yen for the two of you. How many frames would you like to "
+"play?"
+msgstr ""
+
+msgctxt "3268_Player"
+msgid "Three frames, please."
+msgstr ""
+
+msgctxt "3280_Player"
+msgid "Ten frames, please."
+msgstr ""
+
+msgctxt "3292_Player"
+msgid "Have fun!"
+msgstr ""
+
+msgctxt "3304_Shion"
+msgid ""
+"Apologies for the delay! I'm rather nervous. It's been quite a while since "
+"I last bowled."
+msgstr ""
+
+msgctxt "3316_Player"
+msgid "Well, want to get started?"
+msgstr ""
+
+msgctxt "3328_Manager"
+msgid ""
+"It'll be 1,000 yen for the two of you. How many frames would you like to "
+"play?"
+msgstr ""
+
+msgctxt "3340_Player"
+msgid "Three frames, please."
+msgstr ""
+
+msgctxt "3352_Player"
+msgid "Ten frames, please."
+msgstr ""
+
+msgctxt "3364_Player"
+msgid "Have fun!"
+msgstr ""
+
+msgctxt "3400_Player"
+msgid "(I'll give Hinata a call.)"
+msgstr ""
+
+msgctxt "3472_Hinata"
+msgid ""
+"Sorry for the wait! And wow, I almost never go bowling with just two "
+"people!  <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "3484_Player"
+msgid "Want to get started?"
+msgstr ""
+
+msgctxt "3496_Manager"
+msgid ""
+"It'll be 1,000 yen for the two of you. How many frames would you like to "
+"play?"
+msgstr ""
+
+msgctxt "3508_Player"
+msgid "Three frames, please."
+msgstr ""
+
+msgctxt "3520_Player"
+msgid "Ten frames, please."
+msgstr ""
+
+msgctxt "3532_Player"
+msgid "Have fun!"
+msgstr ""
+
+msgctxt "3556_Player"
+msgid "(I'll give Hinata-chan a call.)"
+msgstr ""
+
+msgctxt "3568_Player"
+msgid "......"
+msgstr ""
+
+msgctxt "3628_Hinata"
+msgid "Sorry to keep you waiting."
+msgstr ""
+
+msgctxt "3640_Player"
+msgid "It's all right. Shall we begin?"
+msgstr ""
+
+msgctxt "3652_Manager"
+msgid ""
+"It'll be 1,000 yen for the two of you. How many frames would you like to "
+"play?"
+msgstr ""
+
+msgctxt "3664_Player"
+msgid "Three frames, please."
+msgstr ""
+
+msgctxt "3676_Player"
+msgid "Ten frames, please."
+msgstr ""
+
+msgctxt "3688_Player"
+msgid "Have fun!"
+msgstr ""
+
+msgctxt "3724_Kiryu"
+msgid "(I should give Mach-ko a call.)"
+msgstr ""
+
+msgctxt "3736_Akiyama"
+msgid "(I'll give that Mach-ko a call.)"
+msgstr ""
+
+msgctxt "3748_Saejima"
+msgid "(Guess I'll give that Mach-ko a call.)"
+msgstr ""
+
+msgctxt "3760_Shinada"
+msgid "(I should call up that Mach-ko gal.)"
+msgstr ""
+
+msgctxt "3772_Haruka"
+msgid "(Maybe I should call that Mach-ko-san person.)"
+msgstr ""
+
+msgctxt "3784_Player"
+msgid "......"
+msgstr ""
+
+msgctxt "3844_Mach-ko"
+msgid ""
+"Hehe! Sorry to keep you waiting! There are no words necessary between "
+"bowling aficionados. Just bring your A game!"
+msgstr ""
+
+msgctxt "3856_Player"
+msgid "......"
+msgstr ""
+
+msgctxt "3868_Manager"
+msgid ""
+"It'll be 1,000 yen for the two of you. How many frames would you like to "
+"play?"
+msgstr ""
+
+msgctxt "3880_Player"
+msgid "Three frames, please."
+msgstr ""
+
+msgctxt "3892_Player"
+msgid "Ten frames, please."
+msgstr ""
+
+msgctxt "3904_Player"
+msgid "Have fun!"
+msgstr ""

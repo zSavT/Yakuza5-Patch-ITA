@@ -1,0 +1,460 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "18904"
+msgid "Dealer"
+msgstr ""
+
+msgctxt "18908"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "18912"
+msgid "HAL_TLK_stand_request02"
+msgstr ""
+
+msgctxt "18916"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "18920"
+msgid "Give It a Try"
+msgstr ""
+
+msgctxt "18924"
+msgid "Forget It"
+msgstr ""
+
+msgctxt "18928"
+msgid "HAL_TLK_stand_unhappy"
+msgstr ""
+
+msgctxt "18932"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "18936"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "18940"
+msgid "Play Texas Hold 'em"
+msgstr ""
+
+msgctxt "18944"
+msgid "Play Pineapple Hold 'em"
+msgstr ""
+
+msgctxt "18948"
+msgid "Play Omaha Hold 'em"
+msgstr ""
+
+msgctxt "18952"
+msgid "Player"
+msgstr ""
+
+msgctxt "18956"
+msgid "Low Stakes (5 chips/10 chips)"
+msgstr ""
+
+msgctxt "18960"
+msgid "High Stakes (50 chips/100 chips)"
+msgstr ""
+
+msgctxt "18964"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "18968"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "18972"
+msgid "Check Rules"
+msgstr ""
+
+msgctxt "18976"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "18980"
+msgid "View Pineapple Hold 'em Tutorial"
+msgstr ""
+
+msgctxt "18984"
+msgid "View Omaha Hold 'em Tutorial"
+msgstr ""
+
+msgctxt "60_Dealer"
+msgid "Hello. Would you care to join us for some poker?"
+msgstr ""
+
+msgctxt "72_Haruka"
+msgid ""
+"Uncle Kaz! I bet you can <Color:8>win 2,000 chips or more at "
+"poker<Color:Default>. Your poker face is amazing!"
+msgstr ""
+
+msgctxt "84_Kiryu"
+msgid ""
+"(Haruka wants me to <Color:8>win 2,000 chips or more at "
+"poker<Color:Default>.)"
+msgstr ""
+
+msgctxt "96_Haruka"
+msgid "Aww, okay. Some other time."
+msgstr ""
+
+msgctxt "108_Dealer"
+msgid "Please come again."
+msgstr ""
+
+msgctxt "120_Dealer"
+msgid "Certainly. What would you like to play?"
+msgstr ""
+
+msgctxt "132_Player"
+msgid "Sure, I'll play."
+msgstr ""
+
+msgctxt "144_Dealer"
+msgid "Certainly. Please be seated."
+msgstr ""
+
+msgctxt "156_Player"
+msgid "I'll go with low stakes."
+msgstr ""
+
+msgctxt "180_Dealer"
+msgid ""
+"With low stakes, bets are made in five chip increments in the first two "
+"rounds and in ten chip increments in the last two rounds."
+msgstr ""
+
+msgctxt "192_Dealer"
+msgid "Please take a seat."
+msgstr ""
+
+msgctxt "204_Haruka"
+msgid "Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "228_Dealer"
+msgid "I'm sorry. You need at least 100 chips to play low stakes poker."
+msgstr ""
+
+msgctxt "240_Player"
+msgid "I'll go with high stakes."
+msgstr ""
+
+msgctxt "264_Dealer"
+msgid ""
+"With high stakes, bets are made in 50 chip increments in the first two "
+"rounds and in 100 chip increments in the last two rounds."
+msgstr ""
+
+msgctxt "276_Dealer"
+msgid "Please take a seat."
+msgstr ""
+
+msgctxt "288_Haruka"
+msgid "Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "312_Dealer"
+msgid "I'm sorry, but you need at least 1,000 chips to play high stakes poker."
+msgstr ""
+
+msgctxt "324_Player"
+msgid "Sure, I'll play."
+msgstr ""
+
+msgctxt "336_Dealer"
+msgid "Certainly. Please be seated."
+msgstr ""
+
+msgctxt "348_Player"
+msgid "I'll go with low stakes."
+msgstr ""
+
+msgctxt "372_Dealer"
+msgid ""
+"With low stakes, bets are made in five chip increments in the first two "
+"rounds and in tenchip increments in the last two rounds."
+msgstr ""
+
+msgctxt "384_Dealer"
+msgid "Please take a seat."
+msgstr ""
+
+msgctxt "396_Haruka"
+msgid "Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "420_Dealer"
+msgid "I'm sorry, but you need at least one hundred chips to play low stakes poker."
+msgstr ""
+
+msgctxt "432_Player"
+msgid "I'll go with high stakes."
+msgstr ""
+
+msgctxt "456_Dealer"
+msgid ""
+"With high stakes, bets are made in 50 chip increments in the first two "
+"rounds and in 100 chip increments in the last two rounds."
+msgstr ""
+
+msgctxt "468_Dealer"
+msgid "Please take a seat."
+msgstr ""
+
+msgctxt "480_Haruka"
+msgid "Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "504_Dealer"
+msgid "I'm sorry, but you need at least 1,000 chips to play high stakes poker."
+msgstr ""
+
+msgctxt "516_Player"
+msgid "Sure, I'll play."
+msgstr ""
+
+msgctxt "528_Dealer"
+msgid "Certainly. Please be seated."
+msgstr ""
+
+msgctxt "540_Player"
+msgid "I'll go with low stakes."
+msgstr ""
+
+msgctxt "564_Dealer"
+msgid ""
+"With low stakes, bets are made in five chip increments in the first two "
+"rounds and in ten chip increments in the last two rounds."
+msgstr ""
+
+msgctxt "576_Dealer"
+msgid "Please take a seat."
+msgstr ""
+
+msgctxt "588_Haruka"
+msgid "Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "612_Dealer"
+msgid "I'm sorry, but you need at least one hundred chips to play low stakes poker."
+msgstr ""
+
+msgctxt "624_Player"
+msgid "I'll go with high stakes."
+msgstr ""
+
+msgctxt "648_Dealer"
+msgid ""
+"With high stakes, bets are made in 50 chip increments in the first two "
+"rounds, and in 100 chip increments in the last two rounds."
+msgstr ""
+
+msgctxt "660_Dealer"
+msgid "Please take a seat."
+msgstr ""
+
+msgctxt "672_Haruka"
+msgid "Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "696_Dealer"
+msgid "I'm sorry, but you need at least 1,000 chips to play high stakes poker."
+msgstr ""
+
+msgctxt "708_Dealer"
+msgid "Would you like to go over the rules for Pineapple Hold 'em?"
+msgstr ""
+
+msgctxt "720_Dealer"
+msgid "Please take a seat."
+msgstr ""
+
+msgctxt "744_Dealer"
+msgid "Would you like to go over the rules for Omaha Hold 'em?"
+msgstr ""
+
+msgctxt "756_Dealer"
+msgid "Please take a seat."
+msgstr ""
+
+msgctxt "768_Haruka"
+msgid "Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "792_Dealer"
+msgid "Hello. Would you care to join us for some poker?"
+msgstr ""
+
+msgctxt "804_Player"
+msgid "Sure, I'll play."
+msgstr ""
+
+msgctxt "816_Dealer"
+msgid "An excellent choice. What stakes would you like to play for?"
+msgstr ""
+
+msgctxt "828_Player"
+msgid "I'll go with low stakes."
+msgstr ""
+
+msgctxt "852_Dealer"
+msgid ""
+"With low stakes, bets are made in five chip increments in the first two "
+"rounds and in ten chip increments in the last two rounds."
+msgstr ""
+
+msgctxt "864_Dealer"
+msgid "Please take a seat."
+msgstr ""
+
+msgctxt "888_Dealer"
+msgid "I'm sorry, but you need at least one hundred chips to play low stakes poker."
+msgstr ""
+
+msgctxt "900_Player"
+msgid "I'll go with high stakes."
+msgstr ""
+
+msgctxt "924_Dealer"
+msgid ""
+"With high stakes, bets are made in 50 chip increments in the first two "
+"rounds and in 100 chip increments in the last two rounds."
+msgstr ""
+
+msgctxt "936_Dealer"
+msgid "Please take a seat."
+msgstr ""
+
+msgctxt "960_Dealer"
+msgid "I'm sorry, but you need at least 1,000 chips to play high stakes poker."
+msgstr ""
+
+msgctxt "972_Player"
+msgid "Sure, I'll play."
+msgstr ""
+
+msgctxt "984_Dealer"
+msgid "An excellent choice. What stakes would you like to play for?"
+msgstr ""
+
+msgctxt "996_Player"
+msgid "I'll go with low stakes."
+msgstr ""
+
+msgctxt "1020_Dealer"
+msgid ""
+"With low stakes, bets are made in five chip increments in the first two "
+"rounds and in ten chip increments in the last two rounds."
+msgstr ""
+
+msgctxt "1032_Dealer"
+msgid "Please take a seat."
+msgstr ""
+
+msgctxt "1056_Dealer"
+msgid "I'm sorry, but you need at least one hundred chips to play low stakes poker."
+msgstr ""
+
+msgctxt "1068_Player"
+msgid "I'll go with high stakes."
+msgstr ""
+
+msgctxt "1092_Dealer"
+msgid ""
+"With high stakes, bets are made in 50 chip increments in the first two "
+"rounds and in 100 chip increments in the last two rounds."
+msgstr ""
+
+msgctxt "1104_Dealer"
+msgid "Please take a seat."
+msgstr ""
+
+msgctxt "1128_Dealer"
+msgid "I'm sorry, but you need at least 1,000 chips to play high stakes poker."
+msgstr ""
+
+msgctxt "1140_Player"
+msgid "Sure, I'll play."
+msgstr ""
+
+msgctxt "1152_Dealer"
+msgid "Certainly. Please be seated."
+msgstr ""
+
+msgctxt "1164_Player"
+msgid "I'll go with low stakes."
+msgstr ""
+
+msgctxt "1188_Dealer"
+msgid ""
+"With low stakes, bets are made in five chip increments in the first two "
+"rounds and in ten chip increments in the last two rounds."
+msgstr ""
+
+msgctxt "1200_Dealer"
+msgid "Please take a seat."
+msgstr ""
+
+msgctxt "1224_Dealer"
+msgid "I'm sorry, but you need at least one hundred chips to play low stakes poker."
+msgstr ""
+
+msgctxt "1236_Player"
+msgid "I'll go with high stakes."
+msgstr ""
+
+msgctxt "1260_Dealer"
+msgid ""
+"With high stakes, bets are made in 50 chip increments in the first two "
+"rounds, and in 100 chip increments in the last two rounds."
+msgstr ""
+
+msgctxt "1272_Dealer"
+msgid "Please take a seat."
+msgstr ""
+
+msgctxt "1296_Dealer"
+msgid "I'm sorry, but you need at least 1,000 chips to play high stakes poker."
+msgstr ""
+
+msgctxt "1308_Dealer"
+msgid "Would you like to go over the rules for Pineapple Hold 'em?"
+msgstr ""
+
+msgctxt "1320_Dealer"
+msgid "Please take a seat."
+msgstr ""
+
+msgctxt "1344_Dealer"
+msgid "Would you like to go over the rules for Omaha Hold 'em?"
+msgstr ""
+
+msgctxt "1356_Dealer"
+msgid "Please take a seat."
+msgstr ""
+
+msgctxt "1380_Player"
+msgid "No. I'll pass."
+msgstr ""
+
+msgctxt "1392_Dealer"
+msgid "I see. We look forward to having you join us. Please come again."
+msgstr ""

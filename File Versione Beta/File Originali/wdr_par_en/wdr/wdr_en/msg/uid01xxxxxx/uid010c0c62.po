@@ -1,0 +1,474 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "288"
+msgid "You got <Color:8>Beads of Good Fortune<Color:Default>."
+msgstr ""
+
+msgctxt "432"
+msgid "You got 2,000 experience points."
+msgstr ""
+
+msgctxt "636"
+msgid "You got a pack of <Color:8>1-2-3 Gum<Color:Default>."
+msgstr ""
+
+msgctxt "1416"
+msgid "Yowl!"
+msgstr ""
+
+msgctxt "23952"
+msgid "Degenerate Washout"
+msgstr ""
+
+msgctxt "23956"
+msgid "Haruka's Father"
+msgstr ""
+
+msgctxt "23960"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "23964"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "23968"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "23972"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "23976"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "23980"
+msgid "M_CLD_TLK_stand_yes"
+msgstr ""
+
+msgctxt "23984"
+msgid "Father"
+msgstr ""
+
+msgctxt "23988"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "23992"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "23996"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "24000"
+msgid "Brave Girl"
+msgstr ""
+
+msgctxt "24004"
+msgid "Apathetic Burnout"
+msgstr ""
+
+msgctxt "24008"
+msgid "Wannabe Dropout"
+msgstr ""
+
+msgctxt "24012"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "24016"
+msgid "M_NML_TLK_stand_shijyo_throw"
+msgstr ""
+
+msgctxt "24020"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "108_Degenerate Washout"
+msgid "Ugh... How'd we let these geezers get the best of us?"
+msgstr ""
+
+msgctxt "120_Haruka's Father"
+msgid "Haha... *pant* You really pack a punch there, sir. *pant*"
+msgstr ""
+
+msgctxt "132_Kiryu"
+msgid "You didn't do so bad yourself. Look, your daughter's waiting."
+msgstr ""
+
+msgctxt "156_Degenerate Washout"
+msgid "Dad... Did you come here to get me?"
+msgstr ""
+
+msgctxt "168_Haruka's Father"
+msgid ""
+"Of course I did. I was worried about you... I was nearly going crazy not "
+"knowing where you were."
+msgstr ""
+
+msgctxt "180_Haruka"
+msgid ""
+"Look, Dad... I'm sorry I said those things about wishing my biological dad "
+"was around. It was a terrible thing to say."
+msgstr ""
+
+msgctxt "192_Haruka's Father"
+msgid "Don't worry. I don't expect you to forget about him just because I'm around."
+msgstr ""
+
+msgctxt "204_Haruka's Father"
+msgid ""
+"And, I'm sorry I got frustrated and yelled at you. I promise I won't do "
+"that again. All I care about is that you come home safe... with me and your "
+"mom."
+msgstr ""
+
+msgctxt "216_Haruka"
+msgid "Okay... Let's go home, Dad!"
+msgstr ""
+
+msgctxt "228_Kiryu"
+msgid "So you're good now, Haruka?"
+msgstr ""
+
+msgctxt "252_Degenerate Washout"
+msgid ""
+"Hey, wait up! I haven't had a chance to thank you properly. I know it's not "
+"much, but here, take this."
+msgstr ""
+
+msgctxt "312_Degenerate Washout"
+msgid ""
+"Thanks, mister. I hope you can go see your Haruka-chan sometime. I bet she "
+"misses you, too."
+msgstr ""
+
+msgctxt "324_Kiryu"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "336_Haruka"
+msgid ""
+"Like you said, isn't it a dad's job to bring their kids back home when they "
+"run away?"
+msgstr ""
+
+msgctxt "348_Kiryu"
+msgid "...You're right."
+msgstr ""
+
+msgctxt "360_Kiryu"
+msgid "(Not that it was Haruka who ran away...)"
+msgstr ""
+
+msgctxt "444_Haruka's Father"
+msgid "Is this the place? Where's my daughter?"
+msgstr ""
+
+msgctxt "456_Kiryu"
+msgid "She should be here..."
+msgstr ""
+
+msgctxt "468_Haruka's Father"
+msgid "I don't see her anywhere! What's the meaning of this!?"
+msgstr ""
+
+msgctxt "480_Degenerate Washout"
+msgid "Over here, you old farts!"
+msgstr ""
+
+msgctxt "504_Degenerate Washout"
+msgid "Dad!"
+msgstr ""
+
+msgctxt "516_Father"
+msgid "Haruka? What's going on here?"
+msgstr ""
+
+msgctxt "528_Kiryu"
+msgid ""
+"It's those guys that were tormenting that puppy. Looks like they're back "
+"with reinforcements."
+msgstr ""
+
+msgctxt "540_Degenerate Washout"
+msgid ""
+"You may think you're tough, but we have strength in numbers now. You don't "
+"stand a chance!"
+msgstr ""
+
+msgctxt "552_Degenerate Washout"
+msgid "You'll be dead as a doornail by the time we're finished with you!"
+msgstr ""
+
+msgctxt "564_Kiryu"
+msgid "You stay back. I can take these guys."
+msgstr ""
+
+msgctxt "576_Haruka's Father"
+msgid ""
+"I can't let you do this alone. They've taken my daughter hostage. What kind "
+"of father could just stand here and watch!?"
+msgstr ""
+
+msgctxt "588_Kiryu"
+msgid ""
+"All right. Then let's take them on together. Time to give these brats a "
+"lesson in humility!"
+msgstr ""
+
+msgctxt "612_Degenerate Washout"
+msgid "Dude. We are so, so sorry! Please don't hurt us anymore!"
+msgstr ""
+
+msgctxt "660_Degenerate Washout"
+msgid "Um... Thanks, mister!"
+msgstr ""
+
+msgctxt "672_Degenerate Washout"
+msgid ""
+"Don't mention it. They didn't hurt you, did they? If you'd\r\n"
+"like, I can take you home."
+msgstr ""
+
+msgctxt "684_Degenerate Washout"
+msgid "Actually, I ran away... I had a fight with my dad."
+msgstr ""
+
+msgctxt "696_Kiryu"
+msgid "A kind girl like you really ran away from home?"
+msgstr ""
+
+msgctxt "708_Degenerate Washout"
+msgid ""
+"Yeah... My dad's probably still angry with me. So I don't want to go back "
+"right now."
+msgstr ""
+
+msgctxt "720_Kiryu"
+msgid "What's your name?"
+msgstr ""
+
+msgctxt "732_Degenerate Washout"
+msgid "...It's Haruka. Haruka Shinohara."
+msgstr ""
+
+msgctxt "744_Kiryu"
+msgid "Haruka!? Interesting... Even your name is the same."
+msgstr ""
+
+msgctxt "756_Haruka"
+msgid "The same as who?"
+msgstr ""
+
+msgctxt "828_Degenerate Washout"
+msgid "So you and this Haruka-chan live apart now?"
+msgstr ""
+
+msgctxt "840_Kiryu"
+msgid "Yeah... I'm not sure I'll ever see her again."
+msgstr ""
+
+msgctxt "852_Haruka"
+msgid "Why not? Can't you just go and visit?"
+msgstr ""
+
+msgctxt "864_Kiryu"
+msgid ""
+"It's a bit more complicated than that. As much as I want to be in her "
+"life... I know I'm only being selfish."
+msgstr ""
+
+msgctxt "876_Kiryu"
+msgid ""
+"Besides, I think I've done all I can for her as a father. This is probably "
+"for the best."
+msgstr ""
+
+msgctxt "888_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "900_Kiryu"
+msgid "How about you? Why'd you run away?"
+msgstr ""
+
+msgctxt "912_Haruka"
+msgid "Here's the thing. I'm not actually related to my dad, either."
+msgstr ""
+
+msgctxt "924_Kiryu"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "936_Haruka"
+msgid ""
+"I guess that's another thing I've got in common with your Haruka-chan. "
+"Strange, isn't it?"
+msgstr ""
+
+msgctxt "948_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "960_Haruka"
+msgid ""
+"My real dad died a long time ago. And normally, my stepdad's\r\n"
+"really nice... but he gets super angry these days. Something\r\n"
+"about work not going well. I don't know the details."
+msgstr ""
+
+msgctxt "972_Haruka"
+msgid ""
+"Anyway, he blew up at me for some reason, and I told him to\r\n"
+"his face, \"My <Italic>real</Italic> dad would never yell at me!\" Then I "
+"left\r\n"
+"the house..."
+msgstr ""
+
+msgctxt "984_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "996_Haruka"
+msgid ""
+"When I mentioned having a real dad, my stepdad got this\r\n"
+"really sad look on his face... He just kept staring at me,\r\n"
+"like he'd been hit in the head or something."
+msgstr ""
+
+msgctxt "1008_Haruka"
+msgid ""
+"That's when I knew I'd hurt his feelings real bad. I guess that's why he "
+"didn't come running after me."
+msgstr ""
+
+msgctxt "1020_Haruka"
+msgid ""
+"*sniffle* I bet Mom and Dad are glad I'm not around to cause trouble "
+"anymore..."
+msgstr ""
+
+msgctxt "1032_Haruka"
+msgid "So... So now... I've got nowhere to go home! *sob*"
+msgstr ""
+
+msgctxt "1044_Kiryu"
+msgid "Where do you live, Haruka? I'll go get your dad to come pick you up."
+msgstr ""
+
+msgctxt "1056_Haruka"
+msgid "But I don't think he... *sigh*"
+msgstr ""
+
+msgctxt "1068_Kiryu"
+msgid ""
+"Your dad was probably just caught off guard. There's no way he'd be happy "
+"you're gone. I'm sure of it."
+msgstr ""
+
+msgctxt "1080_Kiryu"
+msgid ""
+"It's also a dad's job to bring his kids home when they run away. You just "
+"need to wait for him."
+msgstr ""
+
+msgctxt "1092_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "1104_Kiryu"
+msgid "Where's your dad right now?"
+msgstr ""
+
+msgctxt "1116_Haruka"
+msgid ""
+"Probably at Café Portugal, working with Mom. We actually live in that "
+"building."
+msgstr ""
+
+msgctxt "1128_Kiryu"
+msgid ""
+"Café Portugal? Okay. I'll be back with your dad soon. Just hang tight for a "
+"bit."
+msgstr ""
+
+msgctxt "1140_Degenerate Washout"
+msgid "Okay, me next! I'll hit it for sure this time! Just you watch!"
+msgstr ""
+
+msgctxt "1164_Degenerate Washout"
+msgid "Stop it! Don't you bully Chiro anymore!"
+msgstr ""
+
+msgctxt "1176_Apathetic Burnout"
+msgid "Who's this kid? Is that her dog?"
+msgstr ""
+
+msgctxt "1188_Degenerate Washout"
+msgid "Who cares? Hey, kid! You better scoot, or we'll throw rocks at you next!"
+msgstr ""
+
+msgctxt "1200_Wannabe Dropout"
+msgid ""
+"Heh, yeah! Show no mercy! That's how we dropouts do it!\r\n"
+"Screw the rules! Annihilate everything!"
+msgstr ""
+
+msgctxt "1224_Degenerate Washout"
+msgid "Oh no!"
+msgstr ""
+
+msgctxt "1320_Degenerate Washout"
+msgid ""
+"Huh? Who's this old prick? You lost on your way to the\r\n"
+"bingo game?"
+msgstr ""
+
+msgctxt "1332_Kiryu"
+msgid "Funny... I feel like this isn't the first time seeing this."
+msgstr ""
+
+msgctxt "1344_Degenerate Washout"
+msgid "And now he's babbling on like a senile old fool. He's losing it!"
+msgstr ""
+
+msgctxt "1356_Brave Girl"
+msgid "Hey, mister? You're not... one of them, are you?"
+msgstr ""
+
+msgctxt "1368_Kiryu"
+msgid "Not even close. Just stand back and you'll see."
+msgstr ""
+
+msgctxt "1380_Kiryu"
+msgid ""
+"You there. Does it make you feel strong to pick on the weak and "
+"defenseless? It's a shame I have to say this, but I guess every town has "
+"its fair share of losers."
+msgstr ""
+
+msgctxt "1392_Degenerate Washout"
+msgid ""
+"Shut your face! You shoulda never messed with us in the first place! Boys, "
+"cripple this sonuvabitch!"
+msgstr ""
+
+msgctxt "1440_Degenerate Washout"
+msgid "(Was that a dog?)"
+msgstr ""

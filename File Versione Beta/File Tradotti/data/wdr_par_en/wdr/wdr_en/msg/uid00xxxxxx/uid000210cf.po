@@ -1,0 +1,367 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "372"
+msgid ""
+"You got <Color:8>Limited-ed. Color Torpedo Barrel and Point<Color:Default>."
+msgstr ""
+"Hai ottenuto <Color:8>Barilotto Torpedo colorato in edizione limitata e "
+"Punta<Color:Default>."
+
+msgctxt "396"
+msgid "You got <Color:8>Rocket Shot Flight and Shaft<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Aletta e Astina Rocket Shot<Color:Default>."
+
+msgctxt "768"
+msgid "You got <Color:8>Tungsten Torpedo Barrel and Point<Color:Default>."
+msgstr ""
+"Hai ottenuto <Color:8>Fusto e punta a siluro in tungsteno<Color:Default>."
+
+msgctxt "792"
+msgid "You got <Color:8>Beware of Bears Flight and Shaft<Color:Default>."
+msgstr ""
+"Hai ottenuto <Color:8>Aletta e Fusto Attenzione agli Orsi<Color:Default>."
+
+msgctxt "816"
+msgid "You got <Color:8>Grandpa's Handmade Flight and Shaft<Color:Default>."
+msgstr ""
+"Hai ottenuto <Color:8>l'Aletta e l'Asta Fatte a Mano del "
+"Nonno<Color:Default>."
+
+msgctxt "1032"
+msgid "You got <Color:8>Tungsten Straight Barrel and Point<Color:Default>."
+msgstr ""
+"Hai ottenuto <Color:8>Fusto Dritto in Tungsteno e Punta<Color:Default>."
+
+msgctxt "1056"
+msgid "You got <Color:8>Slim Flight and Shaft<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Aletta Slim e Asta<Color:Default>."
+
+msgctxt "1080"
+msgid "You got <Color:8>Standard Flight and Shaft<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Alette e fusto standard<Color:Default>."
+
+msgctxt "15620"
+msgid "Ebisu"
+msgstr "Ebisu"
+
+msgctxt "15624"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "15628"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "15632"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "15636"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "15640"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "15644"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "15648"
+msgid "0"
+msgstr "0"
+
+msgctxt "15652"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "15656"
+msgid "Play a Game"
+msgstr "Gioca una Partita"
+
+msgctxt "15660"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "15664"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "15668"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "15672"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "15676"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "312_Ebisu"
+msgid "Whew. I managed to win, somehow!"
+msgstr "Uff. L'ho spuntata, in qualche modo!"
+
+msgctxt "324_Ebisu"
+msgid "Un, if you're willing, I'd love to play you again!"
+msgstr "Ah, se ti va, mi piacerebbe un sacco rigiocare con te!"
+
+msgctxt "348_Ebisu"
+msgid "Ouch. You got me."
+msgstr "Ahi. M'hai preso."
+
+msgctxt "360_Ebisu"
+msgid "Here, take these, as thanks for your time."
+msgstr "Tieni questi, come ringraziamento per il tuo tempo."
+
+msgctxt "420_Ebisu"
+msgid "Uh, please don't get angry, but I want to tell you something."
+msgstr "Ehm, non arrabbiarti, ti prego, ma voglio dirti una cosa."
+
+msgctxt "432_Saejima"
+msgid "What's that?"
+msgstr "Cos'è?"
+
+msgctxt "444_Ebisu"
+msgid ""
+"I, uh, don't get nervous when I play other people anymore. Except you, "
+"Saejima-san."
+msgstr ""
+"Io, uh, non mi innervosisco più a giocare contro gli altri. Tranne che con "
+"te, Saejima-san."
+
+msgctxt "456_Ebisu"
+msgid ""
+"Like, uh, you're intimidating, Saejima-san, just from the way you look, so "
+"playing you was like good training, I mean..."
+msgstr ""
+"Cioè, uhm, Saejima-san, lei è intimidatorio, solo a vederla, quindi giocarci"
+" contro è stato un po' come un buon allenamento, insomma..."
+
+msgctxt "468_Saejima"
+msgid "Is that so? Good to hear."
+msgstr "Ah, sì? Mi fa piacere."
+
+msgctxt "480_Ebisu"
+msgid "Yes, it was a great experience. Thank you very much."
+msgstr "Sì, è stata una bella esperienza. Grazie mille."
+
+msgctxt "504_Saejima"
+msgid "By the way, weren't ya sayin' you're gonna enter a big tournament?"
+msgstr ""
+"A proposito, non è che dicevi che ti saresti iscritto a un gran torneo?"
+
+msgctxt "516_Ebisu"
+msgid "Yes, I am. I'll do my best!"
+msgstr "Sì, ci sono. Ce la metterò tutta!"
+
+msgctxt "576_Ebisu"
+msgid "Um, may I challenge you to a darts match?"
+msgstr "Ehm, posso sfidarti a una partita a freccette?"
+
+msgctxt "588_Saejima"
+msgid "Some other time."
+msgstr "Un'altra volta."
+
+msgctxt "600_Ebisu"
+msgid ""
+"Oh, I'm sorry, you must be busy. Please give me a shout if you'd like to "
+"play."
+msgstr ""
+"Oh, scusa, devi essere impegnato. Fammi un fischio se ti va di giocare."
+
+msgctxt "612_Saejima"
+msgid "Trainin' hard, huh? Sure thing. I'll play ya."
+msgstr "Ti stai spaccando, eh? Ma certo. Ti faccio una partita."
+
+msgctxt "624_Ebisu"
+msgid "Oh, thank you so much. Okay, let's play cricket!"
+msgstr "Oh, grazie mille. Ok, giochiamo a Cricket!"
+
+msgctxt "684_Ebisu"
+msgid "Whew. I squeaked out a win."
+msgstr "Uff. Ho vinto per il rotto della cuffia."
+
+msgctxt "696_Saejima"
+msgid "You're plenty good now, Ebi-chan. Why do ya need more trainin'?"
+msgstr "Sei già fin troppo bravo, Ebi-chan. Che ti serve altro allenamento?"
+
+msgctxt "708_Ebisu"
+msgid ""
+"I suppose... But I don't think I've played to the best of my ability yet. "
+"I'd like to keep playing with you, if I may."
+msgstr ""
+"Beh, suppongo... Ma non credo di aver ancora dato il meglio di me. Mi "
+"piacerebbe continuare a giocare con te, se non ti dispiace."
+
+msgctxt "732_Ebisu"
+msgid "Ouch. You got me. I tense up when I get nervous."
+msgstr "Ahi. Mi hai beccato. Mi irrigidisco quando mi innervosisco."
+
+msgctxt "744_Saejima"
+msgid "Looks that way. You seem to be settlin' down a little, though."
+msgstr "Sembra di sì. Però mi sembri ti stia un po' dando una calmata."
+
+msgctxt "756_Ebisu"
+msgid ""
+"Uh, yes, I think so, too. Please take these, as thanks for playing with me "
+"today."
+msgstr ""
+"Ehm, sì, penso anch'io. Prendi questi, come ringraziamento per aver giocato "
+"con me oggi."
+
+msgctxt "840_Ebisu"
+msgid "Um, if you have the time, I hope you'll play with me again."
+msgstr "Ehm, se hai tempo, spero tu possa fare un'altra partita con me."
+
+msgctxt "864_Ebisu"
+msgid "Uh, um, would you like to play a game of darts?"
+msgstr "Uh, uhm, ti andrebbe di fare una partita a freccette?"
+
+msgctxt "876_Saejima"
+msgid "Some other time."
+msgstr "Un'altra volta."
+
+msgctxt "888_Ebisu"
+msgid ""
+"Oh, I'm sorry, you must be busy. Please give me a shout if you'd like to "
+"play."
+msgstr ""
+"Oh, scusa, devi essere impegnato. Fammi un fischio se ti va di giocare."
+
+msgctxt "900_Saejima"
+msgid "Uh-huh, sure."
+msgstr "Certo, certo."
+
+msgctxt "912_Ebisu"
+msgid "Okay! Then, could we play a cricket match?"
+msgstr "Va bene! Allora, potremmo fare una partita a cricket?"
+
+msgctxt "972_Ebisu"
+msgid "Whew. I won. I'm so glad!"
+msgstr "Meno male. Ho vinto. Sono così contento!"
+
+msgctxt "984_Ebisu"
+msgid ""
+"Um, if you have the time, please play with me again. I'm a regular here."
+msgstr ""
+"Ehm, se hai tempo, ti va di fare un'altra partita con me? Sono un cliente "
+"fisso qui."
+
+msgctxt "1008_Ebisu"
+msgid "Aww... Guess I'm not good enough after all."
+msgstr "Ah... Mi sa che non sono all'altezza, dopotutto."
+
+msgctxt "1020_Ebisu"
+msgid "Oh, yes, Saejima-san, these are my thanks for your time today."
+msgstr ""
+"Oh, sì, Saejima-san, questi sono i miei ringraziamenti per il tempo che mi "
+"hai dedicato oggi."
+
+msgctxt "1104_Ebisu"
+msgid "They're parts for customizing darts."
+msgstr "Sono pezzi per personalizzare le freccette."
+
+msgctxt "1116_Ebisu"
+msgid "You can combine them to make your own custom darts. It's kind of fun."
+msgstr ""
+"Puoi combinarli per creare le tue freccette personalizzate. È un certo "
+"spasso."
+
+msgctxt "1128_Ebisu"
+msgid "Um, please play with me again if you get a chance."
+msgstr "Ehm, per favore, gioca ancora con me, quando hai un attimo."
+
+msgctxt "1164_Ebisu"
+msgid "Uh, um, would you like to play a game of darts?"
+msgstr "Uh, uhm, ti andrebbe di fare una partita a freccette?"
+
+msgctxt "1176_Saejima"
+msgid "I'm busy."
+msgstr "Sono impegnato."
+
+msgctxt "1188_Ebisu"
+msgid "Oh, uh, sorry to bother you."
+msgstr "Oh, ehm, scusa il disturbo."
+
+msgctxt "1200_Man"
+msgid "Uh, um, would you like to play a game of darts?"
+msgstr "Uh, uhm, ti andrebbe di fare una partita a freccette?"
+
+msgctxt "1212_Saejima"
+msgid "I'm busy."
+msgstr "Sono impegnato."
+
+msgctxt "1224_Man"
+msgid "Oh, uh, sorry to bother you."
+msgstr "Oh, ehm, scusa il disturbo."
+
+msgctxt "1236_Saejima"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "1260_Ebisu"
+msgid "Oh, uh, then I'd like to challenge you to a game of cricket."
+msgstr "Oh, ehm, allora, ti va una partita a cricket?"
+
+msgctxt "1272_Man"
+msgid "You will? Thank you."
+msgstr "Lo farai? Grazie."
+
+msgctxt "1284_Man"
+msgid "I'm thinking of entering a major tournament..."
+msgstr "Sto pensando di buttarmi in un gran torneo..."
+
+msgctxt "1296_Man"
+msgid ""
+"But when I play someone, I get so nervous that I fumble and mess up! I do so"
+" well by myself, but with someone else, I'm just hopeless..."
+msgstr ""
+"Ma quando gioco contro qualcuno, divento così nervoso che mi agito e faccio "
+"un casino! Da solo, vado benissimo, ma con qualcun altro, sono proprio un "
+"disastro..."
+
+msgctxt "1308_Saejima"
+msgid "So that's why you're challenging strangers to play?"
+msgstr "Ecco perché stai sfidando degli sconosciuti a giocare?"
+
+msgctxt "1320_Man"
+msgid ""
+"Yes. I thought maybe if I could get over this anxiety of mine, then maybe..."
+msgstr ""
+"Sì. Pensavo che magari se riuscissi a superare questa mia ansia, allora "
+"forse..."
+
+msgctxt "1332_Saejima"
+msgid "Oh, yeah. I get it. I'm Saejima. You, what do ya go by?"
+msgstr "Ah, sì. Ho capito. Sono Saejima. Tu, come ti fai chiamare?"
+
+msgctxt "1344_Man"
+msgid "Uh, Ebisu."
+msgstr "Uh, Ebisu."
+
+msgctxt "1356_Saejima"
+msgid ""
+"Ebisu? What, is that your last name? I'll just call ya Ebi-chan. That's "
+"good. Now, let's play."
+msgstr ""
+"Ebisu? Ma è il tuo cognome, o cosa? Allora ti chiamerò Ebi-chan. Così va "
+"bene. Adesso, giochiamo."
+
+msgctxt "1368_Ebisu"
+msgid "...Ebi-chan? Uh, um, yes, a cricket match, please."
+msgstr "...Ebi-chan? Uh, ehm, sì, una partita a Cricket, per favore."

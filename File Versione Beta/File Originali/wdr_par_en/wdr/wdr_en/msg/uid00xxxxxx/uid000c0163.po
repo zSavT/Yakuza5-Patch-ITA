@@ -1,0 +1,450 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "19204"
+msgid "Staff"
+msgstr ""
+
+msgctxt "19208"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "19212"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "19216"
+msgid "P_TLK_sitcnt_kamae"
+msgstr ""
+
+msgctxt "19220"
+msgid "Sushi Chef"
+msgstr ""
+
+msgctxt "19224"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "19228"
+msgid "Hinata"
+msgstr ""
+
+msgctxt "19232"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "19236"
+msgid "Player"
+msgstr ""
+
+msgctxt "19240"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "19244"
+msgid "○Is that so?"
+msgstr ""
+
+msgctxt "19248"
+msgid "□It's worse to eat just one meal."
+msgstr ""
+
+msgctxt "19252"
+msgid "△It's important to savor food."
+msgstr ""
+
+msgctxt "19256"
+msgid "dummy"
+msgstr ""
+
+msgctxt "19260"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "19264"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "19268"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "19272"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "19276"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "19280"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "19284"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "19288"
+msgid "Order"
+msgstr ""
+
+msgctxt "19292"
+msgid "Ask for Recommendations"
+msgstr ""
+
+msgctxt "19296"
+msgid "Leave"
+msgstr ""
+
+msgctxt "19300"
+msgid "0"
+msgstr ""
+
+msgctxt "19304"
+msgid "Idle"
+msgstr ""
+
+msgctxt "60_Staff"
+msgid "Welcome. If you'll please follow me."
+msgstr ""
+
+msgctxt "72_Staff"
+msgid "This way, sir."
+msgstr ""
+
+msgctxt "132_Staff"
+msgid "Welcome, welcome! What'll it be?"
+msgstr ""
+
+msgctxt "144_Hinata"
+msgid ""
+"Oh, I'd really like the <Color:8>Akagai<Color:Default>. "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "156_Kiryu"
+msgid "(Hinata seems to be hungry for some <Color:8>Akagai<Color:Default>.)"
+msgstr ""
+
+msgctxt "228_Hinata"
+msgid "Ooh, this looks yummy!"
+msgstr ""
+
+msgctxt "288_Hinata"
+msgid "I haven't had dinner at this hour in a really long time."
+msgstr ""
+
+msgctxt "300_Player"
+msgid "Oh? But isn't this the usual time for eating dinner?"
+msgstr ""
+
+msgctxt "312_Hinata"
+msgid "Well, I only eat one meal a day, is the thing."
+msgstr ""
+
+msgctxt "324_Player"
+msgid "Really? And you don't get hungry?"
+msgstr ""
+
+msgctxt "336_Hinata"
+msgid "Oh, I get hungry, but I stick it out. It doesn't bother me after a while."
+msgstr ""
+
+msgctxt "348_Player"
+msgid ""
+"I can't do that. Even if it's a little late, I have to eat three meals a "
+"day. And I'll eat until I'm full each time."
+msgstr ""
+
+msgctxt "360_Hinata"
+msgid ""
+"You're going to get fat, you know. Even though you're breaking up your "
+"eating into meals, you ruin that by eating too much at each sitting."
+msgstr ""
+
+msgctxt "372_Player"
+msgid "Is that so?"
+msgstr ""
+
+msgctxt "384_Hinata"
+msgid ""
+"Well, yeah. Whatever you eat gets turned into energy, so you can easily "
+"wind up eating three days worth of food."
+msgstr ""
+
+msgctxt "396_Player"
+msgid ""
+"That makes sense. Come to think of it, even when I eat until I'm full, I "
+"always get hungry around the same time each day."
+msgstr ""
+
+msgctxt "408_Hinata"
+msgid ""
+"Everyone has different metabolisms, after all. It's not like you'll die if "
+"you don't eat three meals a day."
+msgstr ""
+
+msgctxt "420_Player"
+msgid "You really know a lot about this stuff. I'm a little surprised."
+msgstr ""
+
+msgctxt "432_Hinata"
+msgid ""
+"So did I give you something to think about? Hey, us girls know a lot about "
+"how diets work."
+msgstr ""
+
+msgctxt "444_Player"
+msgid "I think you might be a little too thin, actually."
+msgstr ""
+
+msgctxt "456_Player"
+msgid ""
+"It's worse to eat just one meal. Otherwise, you aren't getting enough "
+"nourishment."
+msgstr ""
+
+msgctxt "468_Hinata"
+msgid "Well, I'm eating twice today, so I'll be fine."
+msgstr ""
+
+msgctxt "480_Player"
+msgid "Maybe so, but still..."
+msgstr ""
+
+msgctxt "492_Hinata"
+msgid ""
+"Besides, it doesn't matter if you only eat once or twice a day. It's worse "
+"if you change how much you eat."
+msgstr ""
+
+msgctxt "504_Hinata"
+msgid ""
+"If you don't have a regular schedule of meals, you're sure to get fat in no "
+"time."
+msgstr ""
+
+msgctxt "516_Player"
+msgid "In that case, should we not eat here?"
+msgstr ""
+
+msgctxt "528_Hinata"
+msgid "Of course not! You ordered it for me, so I'm going to appreciate it fully."
+msgstr ""
+
+msgctxt "540_Player"
+msgid "Heh. It's good to forget about the details and just enjoy your meal."
+msgstr ""
+
+msgctxt "552_Player"
+msgid ""
+"It's important to savor your food. Meals are meant to be pleasurable. "
+"Seeing them just as a means of sustenance isn't any fun."
+msgstr ""
+
+msgctxt "564_Hinata"
+msgid "Oh, I agree! Since I only eat one meal a day, I make sure it's a tasty one!"
+msgstr ""
+
+msgctxt "576_Hinata"
+msgid ""
+"For all I know, I might die tomorrow. So I don't want to have any regrets "
+"about not eating something delicious!"
+msgstr ""
+
+msgctxt "588_Player"
+msgid "I've never thought about it in such... extreme terms before."
+msgstr ""
+
+msgctxt "600_Player"
+msgid ""
+"But I wouldn't want to lose the enjoyment of eating by obsessing over stuff "
+"like nutrition and dieting."
+msgstr ""
+
+msgctxt "612_Hinata"
+msgid ""
+"Exactly. It'd be lame to be thin but not liked by anyone. You're missing "
+"out on life by not enjoying your food."
+msgstr ""
+
+msgctxt "624_Player"
+msgid "I'm with you there."
+msgstr ""
+
+msgctxt "696_Hinata"
+msgid "Thanks for the treat!"
+msgstr ""
+
+msgctxt "708_Player"
+msgid "Check please."
+msgstr ""
+
+msgctxt "720_Sushi Chef"
+msgid "Here you are! Thanks!"
+msgstr ""
+
+msgctxt "744_Staff"
+msgid "Sorry. Something came up all of a sudden."
+msgstr ""
+
+msgctxt "756_Sushi Chef"
+msgid "Ah, I see. Well, swing by again sometime."
+msgstr ""
+
+msgctxt "864_Staff"
+msgid "Thank you very much. Your bill comes to %s."
+msgstr ""
+
+msgctxt "876_Staff"
+msgid "Thank you very much. Please come again."
+msgstr ""
+
+msgctxt "924_Staff"
+msgid "Welcome. If you'll please follow me."
+msgstr ""
+
+msgctxt "960_Staff"
+msgid "(I'm broke.)"
+msgstr ""
+
+msgctxt "996_Kiryu"
+msgid "(I don't need to eat right now.)"
+msgstr ""
+
+msgctxt "1008_Akiyama"
+msgid "(I'm not hungry right now.)"
+msgstr ""
+
+msgctxt "1020_Saejima"
+msgid "(I'm still full.)"
+msgstr ""
+
+msgctxt "1032_Shinada"
+msgid "(Unfortunately, I'm kinda full.)"
+msgstr ""
+
+msgctxt "1044_Haruka"
+msgid "(I'm stuffed.)"
+msgstr ""
+
+msgctxt "1068_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr ""
+
+msgctxt "1080_Akiyama"
+msgid "Sorry. I have some urgent business."
+msgstr ""
+
+msgctxt "1092_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr ""
+
+msgctxt "1104_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr ""
+
+msgctxt "1116_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr ""
+
+msgctxt "1128_Staff"
+msgid "Ah, I see. Please do come again."
+msgstr ""
+
+msgctxt "1152_Staff"
+msgid "Please follow me."
+msgstr ""
+
+msgctxt "1224_Staff"
+msgid "Welcome! What'll it be?"
+msgstr ""
+
+msgctxt "1248_Kiryu"
+msgid "What do you recommend today?"
+msgstr ""
+
+msgctxt "1260_Akiyama"
+msgid "Any recommendations today?"
+msgstr ""
+
+msgctxt "1272_Saejima"
+msgid "Hey boss, whaddya recommend today?"
+msgstr ""
+
+msgctxt "1284_Shinada"
+msgid "Hey chief, what's good today?"
+msgstr ""
+
+msgctxt "1296_Haruka"
+msgid "Do you have any recommendations?"
+msgstr ""
+
+msgctxt "1308_Sushi Chef"
+msgid ""
+"For today, I highly recommend the <Color:8>Whole Sea Eel<Color:Default>.\r\n"
+"It's really good!"
+msgstr ""
+
+msgctxt "1332_Kiryu"
+msgid "<Color:8>Whole Sea Eel<Color:Default>, huh? Sounds good."
+msgstr ""
+
+msgctxt "1344_Akiyama"
+msgid "<Color:8>Whole Sea Eel<Color:Default>, huh? That sounds good."
+msgstr ""
+
+msgctxt "1356_Saejima"
+msgid "<Color:8>Whole Sea Eel<Color:Default>, huh? Sounds tasty."
+msgstr ""
+
+msgctxt "1368_Shinada"
+msgid "<Color:8>Whole Sea Eel<Color:Default>, huh? Sounds good to me!"
+msgstr ""
+
+msgctxt "1380_Haruka"
+msgid "<Color:8>Whole Sea Eel<Color:Default>? Oh, that sounds delicious!"
+msgstr ""
+
+msgctxt "1392_Staff"
+msgid "What'll it be?"
+msgstr ""
+
+msgctxt "1452_Kiryu"
+msgid "Sorry. Something came up all of a sudden."
+msgstr ""
+
+msgctxt "1464_Akiyama"
+msgid "Sorry, but something came up. I have to get going."
+msgstr ""
+
+msgctxt "1476_Saejima"
+msgid "My bad. I forgot somethin'. Sorry."
+msgstr ""
+
+msgctxt "1488_Shinada"
+msgid "Sorry, sorry! There's this thing I gotta do. I have to get going."
+msgstr ""
+
+msgctxt "1500_Haruka"
+msgid "I'm really sorry. Something just came up. You'll have to excuse me."
+msgstr ""
+
+msgctxt "1512_Sushi Chef"
+msgid "Ah, I see. Well, swing by again sometime."
+msgstr ""
+
+msgctxt "1560_Staff"
+msgid "Thank you very much."
+msgstr ""

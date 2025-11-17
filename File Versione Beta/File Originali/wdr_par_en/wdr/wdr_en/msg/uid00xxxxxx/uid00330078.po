@@ -1,0 +1,482 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "20380"
+msgid "Manager"
+msgstr ""
+
+msgctxt "20384"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "20388"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "20392"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "20396"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "20400"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "20404"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "20408"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "20412"
+msgid "M_NML_TLK_stand_kagamu_st"
+msgstr ""
+
+msgctxt "20416"
+msgid "M_NML_TLK_stand_kagamu_lp"
+msgstr ""
+
+msgctxt "20420"
+msgid "Guest"
+msgstr ""
+
+msgctxt "20424"
+msgid "P_TLK_stand_udekumi_lp"
+msgstr ""
+
+msgctxt "20428"
+msgid "M_nml_sitcnt"
+msgstr ""
+
+msgctxt "20432"
+msgid "M_NML_TLK_sitcnt_kamae"
+msgstr ""
+
+msgctxt "20436"
+msgid "P_TLK_stand_udekumi_ed"
+msgstr ""
+
+msgctxt "20440"
+msgid "Player"
+msgstr ""
+
+msgctxt "20444"
+msgid "Place an Order"
+msgstr ""
+
+msgctxt "20448"
+msgid "Look Around"
+msgstr ""
+
+msgctxt "20452"
+msgid "Help Cook"
+msgstr ""
+
+msgctxt "20456"
+msgid "Leave"
+msgstr ""
+
+msgctxt "20460"
+msgid "View the Menu"
+msgstr ""
+
+msgctxt "20464"
+msgid "Assess Customers"
+msgstr ""
+
+msgctxt "20468"
+msgid "Back"
+msgstr ""
+
+msgctxt "20472"
+msgid "Nearby Customer"
+msgstr ""
+
+msgctxt "20476"
+msgid "M_NML_TLK_sitcnt_info_f"
+msgstr ""
+
+msgctxt "20480"
+msgid "P_TLK_sitcnt_kamae"
+msgstr ""
+
+msgctxt "20484"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "20488"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "20492"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "20496"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "76_Manager"
+msgid "Welcome!"
+msgstr ""
+
+msgctxt "88_Kiryu"
+msgid "Hello."
+msgstr ""
+
+msgctxt "100_Manager"
+msgid "Hm? Don't I know ya from somewhere?"
+msgstr ""
+
+msgctxt "112_Manager"
+msgid ""
+"Oh, got it! You're the guy who came in with Nakajima-san.\r\n"
+"Thanks for comin' back. Your name was..."
+msgstr ""
+
+msgctxt "124_Kiryu"
+msgid "Suzuki."
+msgstr ""
+
+msgctxt "136_Manager"
+msgid ""
+"Right, right, Suzuki-san! You know your boss is a regular here? When he "
+"gets tipsy, he always starts talkin' about ya."
+msgstr ""
+
+msgctxt "148_Kiryu"
+msgid "Does he now?"
+msgstr ""
+
+msgctxt "160_Manager"
+msgid ""
+"Yep. \"Our new hire, a fella named Suzuki-san. Looks serious as all "
+"get-out, always wears a frown cuttin' ditches in his forehead,\" he says."
+msgstr ""
+
+msgctxt "172_Manager"
+msgid ""
+"I heard the story, but he wasn't kiddin'. You look like you could stare "
+"down a bull in mid-charge!"
+msgstr ""
+
+msgctxt "184_Kiryu"
+msgid "...I don't mean to scare you."
+msgstr ""
+
+msgctxt "196_Manager"
+msgid ""
+"Haha, I'm just yankin' your chain. Tell ya what, though. Nakajima-san's "
+"taken a real shine to ya."
+msgstr ""
+
+msgctxt "208_Manager"
+msgid ""
+"He's always singin' yer praises for workin' so hard all the time. Says he's "
+"mighty grateful to have ya on board."
+msgstr ""
+
+msgctxt "220_Kiryu"
+msgid "...He really said that?"
+msgstr ""
+
+msgctxt "232_Manager"
+msgid ""
+"Yep. Oh, ya know what? Your order's on me today. Don't be shy about fillin' "
+"your belly, either."
+msgstr ""
+
+msgctxt "244_Kiryu"
+msgid "No, I couldn't possibly－"
+msgstr ""
+
+msgctxt "256_Manager"
+msgid ""
+"It's fine! Nothin' to worry about. Nakajima-san's always done right by us, "
+"so it's the least I can do."
+msgstr ""
+
+msgctxt "268_Kiryu"
+msgid "That's... very generous of you. Thank you."
+msgstr ""
+
+msgctxt "280_Manager"
+msgid "So, what're ya havin'?"
+msgstr ""
+
+msgctxt "292_Kiryu"
+msgid "Ramen, please."
+msgstr ""
+
+msgctxt "304_Manager"
+msgid "Aye! One ramen comin' up! How firm, buddy?"
+msgstr ""
+
+msgctxt "316_Kiryu"
+msgid "How... firm?"
+msgstr ""
+
+msgctxt "328_Manager"
+msgid ""
+"Yeah. Our noodles come in six levels of firmness:\r\n"
+"Very soft, soft, regular, hard, very hard, and dunked."
+msgstr ""
+
+msgctxt "340_Manager"
+msgid ""
+"Us Hakata locals, we like our noodles on the firm side.\r\n"
+"\"Dunked\" is just dunkin' the noodles to remove the flour.\r\n"
+"I'd recommend \"very hard\" for newbies."
+msgstr ""
+
+msgctxt "352_Kiryu"
+msgid "Then I'll try very hard, please."
+msgstr ""
+
+msgctxt "364_Manager"
+msgid "Aye! One ramen very hard, comin' right up!"
+msgstr ""
+
+msgctxt "448_Manager"
+msgid "Well? Tasty, wasn't it?"
+msgstr ""
+
+msgctxt "460_Kiryu"
+msgid ""
+"It was. I'm surprised at how much those extra firm noodles absorb the "
+"flavor of the broth. Gives it a very rich taste."
+msgstr ""
+
+msgctxt "472_Manager"
+msgid ""
+"Well, ain't that a treat to hear! Welcome to the world of Hakata ramen. "
+"Next time bring that boss of yours, will ya?"
+msgstr ""
+
+msgctxt "484_Kiryu"
+msgid "Sure. But I really should be paying."
+msgstr ""
+
+msgctxt "496_Manager"
+msgid "I said it's on me, Suzuki-san. Ya don't need to get so uptight about it."
+msgstr ""
+
+msgctxt "508_Kiryu"
+msgid "But..."
+msgstr ""
+
+msgctxt "520_Manager"
+msgid "Hey, no buts! Just enjoy."
+msgstr ""
+
+msgctxt "532_Kiryu"
+msgid "You sure?"
+msgstr ""
+
+msgctxt "544_Manager"
+msgid "I'm sure, I'm sure."
+msgstr ""
+
+msgctxt "556_Kiryu"
+msgid "Even so..."
+msgstr ""
+
+msgctxt "568_Manager"
+msgid "Suzuki-san! That's about enough－"
+msgstr ""
+
+msgctxt "580_Manager"
+msgid "Yeeeeooooowww!"
+msgstr ""
+
+msgctxt "592_Kiryu"
+msgid "(Is he okay?)"
+msgstr ""
+
+msgctxt "604_Manager"
+msgid "Oogh... Ouch! Damn..."
+msgstr ""
+
+msgctxt "616_Kiryu"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "628_Manager"
+msgid "Agh, it's my back! I went at it too hard with my old lady last night!"
+msgstr ""
+
+msgctxt "640_Kiryu"
+msgid "...Did you maybe throw out your back? If so, you need to get to a doctor."
+msgstr ""
+
+msgctxt "652_Manager"
+msgid ""
+"No... Not now... There'll be a bum-rush of customers soon.\r\n"
+"Like a waterfall of them. We call it \"the Niagara of Death.\""
+msgstr ""
+
+msgctxt "664_Kiryu"
+msgid "The... Niagara of Death?"
+msgstr ""
+
+msgctxt "676_Manager"
+msgid ""
+"Yep. That's when we pull the most business in. Can't afford to leave the "
+"place now."
+msgstr ""
+
+msgctxt "688_Manager"
+msgid ""
+"Urk... But with this wretched spine of mine, I can barely stand, let alone "
+"boil noodles... Agh, what am I gonna do?"
+msgstr ""
+
+msgctxt "700_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "712_Manager"
+msgid "I know! How about you fill in behind the counter, just for now?"
+msgstr ""
+
+msgctxt "724_Kiryu"
+msgid "You want me to do it?"
+msgstr ""
+
+msgctxt "736_Manager"
+msgid ""
+"Yeah. The soup and the toppings are all ready to go. All's ya gotta do is "
+"boil the noodles and shlup 'em into bowls. Nothing complicated."
+msgstr ""
+
+msgctxt "748_Kiryu"
+msgid "I doubt it's that simple..."
+msgstr ""
+
+msgctxt "760_Manager"
+msgid ""
+"It <Italic>is</Italic> that simple! Now come on, I'm beggin' ya! If I close "
+"up shop now, we'll be hurtin' for cash flow down the road."
+msgstr ""
+
+msgctxt "772_Manager"
+msgid ""
+"Besides, I don't wanna disappoint the folks who come specifically lookin' "
+"for us."
+msgstr ""
+
+msgctxt "784_Kiryu"
+msgid ""
+"(Well, he is a friend of the chief's... and I do owe him for the ramen. I "
+"should help the man.)"
+msgstr ""
+
+msgctxt "796_Kiryu"
+msgid "Okay. I'm not sure how well I can do, but I'll try to help you out."
+msgstr ""
+
+msgctxt "808_Manager"
+msgid ""
+"Ya will!? Oh, you're a savior! No wonder Nakajima-san sees so much in ya. "
+"I'll pay ya for your time, too."
+msgstr ""
+
+msgctxt "832_Manager"
+msgid "Hey, you got room for four?"
+msgstr ""
+
+msgctxt "844_Manager"
+msgid "Yep! Sit wherever ya like and I'll be right with ya!"
+msgstr ""
+
+msgctxt "940_Manager"
+msgid "Look at you, Suzuki-san! Lookin' good in an apron!"
+msgstr ""
+
+msgctxt "952_Manager"
+msgid ""
+"All right. Now, it's about to start! The time when customers\r\n"
+"and orders come crashing down like a mighty waterfall of\r\n"
+"chaos and confusion! It's time for the Niagara of Death!"
+msgstr ""
+
+msgctxt "964_Kiryu"
+msgid ""
+"...So, all I need to do is boil noodles to the firmness that\r\n"
+"customers request?"
+msgstr ""
+
+msgctxt "976_Manager"
+msgid ""
+"Yup, that's all there is to it. Remember, it's all about firmness. Life is "
+"about firmness. Good luck!"
+msgstr ""
+
+msgctxt "1000_Player"
+msgid "(Okay, what to eat?)"
+msgstr ""
+
+msgctxt "1012_Player"
+msgid "(Let's check out the restaurant.)"
+msgstr ""
+
+msgctxt "1024_Player"
+msgid "(<Color:8>Grilled Pig's Feet<Color:Default>, huh... I wonder how that is.)"
+msgstr ""
+
+msgctxt "1036_Nearby Customer"
+msgid "Hey, could I get a <Color:8>Fried Ramen<Color:Default>?"
+msgstr ""
+
+msgctxt "1048_Player"
+msgid ""
+"(<Color:8>Fried Ramen<Color:Default>, huh... I guess that's on the menu, "
+"too.)"
+msgstr ""
+
+msgctxt "1060_Manager"
+msgid "Welcome. What'll ya be havin'?"
+msgstr ""
+
+msgctxt "1120_Manager"
+msgid "Thanks. I hope you come again!"
+msgstr ""
+
+msgctxt "1144_Manager"
+msgid "You here to help out? I sure could use a hand."
+msgstr ""
+
+msgctxt "1180_Kiryu"
+msgid "Sorry, something came up."
+msgstr ""
+
+msgctxt "1192_Akiyama"
+msgid "Ah, my apologies. I've got some business to attend to."
+msgstr ""
+
+msgctxt "1204_Saejima"
+msgid "Can't right now, but best of luck to ya."
+msgstr ""
+
+msgctxt "1216_Shinada"
+msgid "Ooh, sorry. I kinda got this thing to do... Yeah..."
+msgstr ""
+
+msgctxt "1228_Haruka"
+msgid "I'm so sorry. I actually have to be somewhere right now."
+msgstr ""

@@ -1,0 +1,259 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "12800"
+msgid "Nearly Frostbitten Man"
+msgstr "Uomo quasi assiderato"
+
+msgctxt "12804"
+msgid "SS2_P_HNT_squat_nml"
+msgstr "SS2_P_HNT_squat_nml"
+
+msgctxt "12808"
+msgid "SS2_P_HNT_squat_nml_st"
+msgstr "SS2_P_HNT_squat_nml_st"
+
+msgctxt "12812"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "12816"
+msgid "Kihachi"
+msgstr "Kihachi"
+
+msgctxt "12820"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "12824"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "12828"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "88_Nearly Frostbitten Man"
+msgid "Who is that...?"
+msgstr "Chi è quello...?"
+
+msgctxt "112_Saejima"
+msgid "You all right, man? You Kihachi-han?"
+msgstr "Sei a posto, amico? Sei Kihachi-han?"
+
+msgctxt "124_Kihachi"
+msgid "Ah, it's... it's you. What are you doing here?"
+msgstr "Ah, sei... sei tu. Che ci fai qui?"
+
+msgctxt "136_Saejima"
+msgid ""
+"Put that outta your mind for now. Ya seen Nishina-han anywhere? He came out "
+"here lookin' for ya."
+msgstr ""
+"Mettitelo via per adesso. Hai visto Nishina-han da qualche parte? È venuto "
+"fin qui fuori a cercarti."
+
+msgctxt "148_Kihachi"
+msgid "Uh, no, I haven't seen him."
+msgstr "Uhm, no, non l'ho visto."
+
+msgctxt "160_Saejima"
+msgid "Okay. First things first, you need rescuin'. Can ya walk?"
+msgstr ""
+"Ok. Per prima cosa, hai bisogno di essere salvato. Riesci a camminare?"
+
+msgctxt "172_Kihachi"
+msgid "I don't think so. I'm not hurt that bad. It's just... I'm so cold..."
+msgstr ""
+"Non credo proprio. Non sono ferito così male. È solo... ho così freddo..."
+
+msgctxt "184_Saejima"
+msgid "(He's really weak. Better give him some food.)"
+msgstr "(È messo malissimo. Dagli qualcosa da mangiare, e pure in fretta.)"
+
+msgctxt "208_Saejima"
+msgid ""
+"I'll bring ya some food; ya just gotta hang on a little longer. Be tough, "
+"you can do it!"
+msgstr ""
+"Ti porto del cibo; devi solo resistere ancora un po'. Coraggio, ce la farai!"
+
+msgctxt "220_Kihachi"
+msgid "I'll try..."
+msgstr "Proverò..."
+
+msgctxt "232_Saejima"
+msgid ""
+"Here, eat this. It'll perk ya up. And don't fall asleep! That'll kill ya."
+msgstr ""
+"Tieni, mangia questo. Ti darà una scossa. E non ti addormentare! Quello ti "
+"ammazzerà."
+
+msgctxt "244_Kihachi"
+msgid "Mm... that really helps. Thank you. Thank you so much."
+msgstr "Mm... è un gran bell'aiuto. Grazie. Grazie mille."
+
+msgctxt "256_Saejima"
+msgid "Don't worry 'bout it. You're in need."
+msgstr "Non ti preoccupare. Hai bisogno."
+
+msgctxt "304_Saejima"
+msgid "(Damn, it's turned into a blizzard now. Can't see a thing.)"
+msgstr ""
+"(Maledizione, adesso è diventata una vera bufera. Non si vede un cavolo.)"
+
+msgctxt "316_Kihachi"
+msgid "This is it... This is how I die..."
+msgstr "Questa è la fine... È così che muoio..."
+
+msgctxt "328_Saejima"
+msgid "Hey, don't give up!"
+msgstr "Dai, non mollare!"
+
+msgctxt "364_Saejima"
+msgid "(Can't go anywhere with the weather like this... I'll get lost.)"
+msgstr "(Con questo tempo non vado da nessuna parte... Mi perderò.)"
+
+msgctxt "376_Saejima"
+msgid "(Sakurai-han was right... I was stupid to come up here.)"
+msgstr ""
+"(Sakurai-han aveva ragione... Sono stato uno stupido a salire fin quassù.)"
+
+msgctxt "388_Saejima"
+msgid ""
+"Hey, we're gonna ride out this blizzard together, ya got that? I'll be right"
+" here. Just hang on, Kihachi."
+msgstr ""
+"Ehi, supereremo questa bufera insieme, capito? Sarò proprio qui. Tieni duro,"
+" Kihachi."
+
+msgctxt "400_Saejima"
+msgid ""
+"Nishina-han's out here somewhere, lookin' for ya. We gotta put our faith in "
+"him, now!"
+msgstr ""
+"Nishina-han è qui fuori da qualche parte, che ti cerca. Dobbiamo fidarci di "
+"lui, adesso!"
+
+msgctxt "412_Kihachi"
+msgid "Okay..."
+msgstr "Va bene..."
+
+msgctxt "484_Saejima"
+msgid ""
+"(Blizzard's still ragin' like an angry wife with a fryin' pan. Damn, my arms"
+" and legs feel heavy...)"
+msgstr ""
+"(La bufera sta ancora infuriando come una moglie incazzata con una padella. "
+"Cazzo, sento le braccia e le gambe pesanti...)"
+
+msgctxt "520_Saejima"
+msgid "(This... could be the end.)"
+msgstr "(Questa... potrebbe essere la fine.)"
+
+msgctxt "532_Saejima"
+msgid "(Can't... stay awake...)"
+msgstr "(Non posso... restare sveglio...)"
+
+msgctxt "580_Kihachi"
+msgid "You... you came back for me."
+msgstr "Tu... sei tornato per me."
+
+msgctxt "592_Saejima"
+msgid "'Course I did. Now hang on just a little longer!"
+msgstr "Ma certo che sì. Ora tieni duro solo un altro po'!"
+
+msgctxt "616_Saejima"
+msgid ""
+"I'll bring ya some food; ya just gotta hang on a little longer. Be tough, "
+"you can do it!"
+msgstr ""
+"Ti porto del cibo; devi solo resistere ancora un po'. Coraggio, ce la farai!"
+
+msgctxt "628_Kihachi"
+msgid "I'll try..."
+msgstr "Proverò..."
+
+msgctxt "640_Saejima"
+msgid ""
+"Here, eat this. It'll perk ya up. And don't fall asleep! That'll kill ya."
+msgstr ""
+"Tieni, mangia questo. Ti darà una scossa. E non ti addormentare! Quello ti "
+"ammazzerà."
+
+msgctxt "652_Kihachi"
+msgid "Mm... that really helps. Thank you. Thank you so much."
+msgstr "Mm... è un gran bell'aiuto. Grazie. Grazie mille."
+
+msgctxt "664_Saejima"
+msgid "Don't worry 'bout it. You're in need."
+msgstr "Non ti preoccupare. Hai bisogno."
+
+msgctxt "712_Saejima"
+msgid "(Damn, it's turned into a blizzard now. Can't see a thing.)"
+msgstr ""
+"(Maledizione, adesso è diventata una vera bufera. Non si vede un cavolo.)"
+
+msgctxt "724_Kihachi"
+msgid "This is it... This is how I die..."
+msgstr "Questa è la fine... È così che muoio..."
+
+msgctxt "736_Saejima"
+msgid "Hey, don't give up!"
+msgstr "Dai, non mollare!"
+
+msgctxt "772_Saejima"
+msgid "(Can't go anywhere with the weather like this... I'll get lost.)"
+msgstr "(Con questo tempo non vado da nessuna parte... Mi perderò.)"
+
+msgctxt "784_Saejima"
+msgid "(Sakurai-han was right... I was stupid to come up here.)"
+msgstr ""
+"(Sakurai-han aveva ragione... Sono stato uno stupido a salire fin quassù.)"
+
+msgctxt "796_Saejima"
+msgid ""
+"Hey, we're gonna ride out this blizzard together, ya got that? I'll be right"
+" here. Just hang on, Kihachi."
+msgstr ""
+"Ehi, supereremo questa bufera insieme, capito? Sarò proprio qui. Tieni duro,"
+" Kihachi."
+
+msgctxt "808_Saejima"
+msgid ""
+"Nishina-han's out here somewhere, lookin' for ya. We gotta put our faith in "
+"him, now!"
+msgstr ""
+"Nishina-han è qui fuori da qualche parte, che ti cerca. Dobbiamo fidarci di "
+"lui, adesso!"
+
+msgctxt "820_Kihachi"
+msgid "Okay..."
+msgstr "Va bene..."
+
+msgctxt "892_Saejima"
+msgid ""
+"(Blizzard's still ragin' like an angry wife with a fryin' pan. Damn, my arms"
+" and legs feel heavy...)"
+msgstr ""
+"(La bufera sta ancora infuriando come una moglie incazzata con una padella. "
+"Cazzo, sento le braccia e le gambe pesanti...)"
+
+msgctxt "928_Saejima"
+msgid "(This... could be the end.)"
+msgstr "(Questa... potrebbe essere la fine.)"
+
+msgctxt "940_Saejima"
+msgid "(Can't... stay awake...)"
+msgstr "(Non posso... restare sveglio...)"

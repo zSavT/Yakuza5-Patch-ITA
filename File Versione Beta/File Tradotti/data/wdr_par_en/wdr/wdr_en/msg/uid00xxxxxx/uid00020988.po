@@ -1,0 +1,100 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2448"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "2452"
+msgid "Elderly Inmate"
+msgstr "Detenuto anziano"
+
+msgctxt "2456"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2460"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "44_Saejima"
+msgid "Hey. Okay to talk?"
+msgstr "Ehi. Si può parlare?"
+
+msgctxt "56_Elderly Inmate"
+msgid "......"
+msgstr "......"
+
+msgctxt "68_Saejima"
+msgid "Old-timer, can ya hear me?"
+msgstr "Vecchio, mi senti?"
+
+msgctxt "80_Elderly Inmate"
+msgid "Ah! Startled me, there."
+msgstr "Ah! Mi hai preso un colpo."
+
+msgctxt "92_Saejima"
+msgid "Sorry. Didn't mean to scare ya."
+msgstr "Scusa. Non volevo spaventarti."
+
+msgctxt "104_Elderly Inmate"
+msgid "It's fine, it's fine. I was just nodding off."
+msgstr "Va bene, va bene. Stavo solo sonnecchiando."
+
+msgctxt "116_Saejima"
+msgid "Careful with that. Fella could freeze to death fallin' asleep here."
+msgstr ""
+"Attento a quello. Uno potrebbe crepare di freddo ad addormentarsi qui."
+
+msgctxt "128_Elderly Inmate"
+msgid ""
+"Haha, and what does that matter? I'm never getting out. Hardly makes a "
+"difference whether I die today or twenty years from now."
+msgstr ""
+"Ahah, e che importa? Non uscirò mai da qui. Cambia ben poco se crepo oggi o "
+"tra vent'anni."
+
+msgctxt "140_Saejima"
+msgid "(Cheerful guy, this one.)"
+msgstr "(Un tipo allegro, questo.)"
+
+msgctxt "152_Elderly Inmate"
+msgid "So! What did you want?"
+msgstr "Allora! Che volevi?"
+
+msgctxt "164_Saejima"
+msgid "Was lookin' for Baba, the kid I share a cell with. Seen 'im?"
+msgstr "Stavo cercando Baba, il ragazzo con cui divido la cella. L'hai visto?"
+
+msgctxt "176_Elderly Inmate"
+msgid "Baba...?"
+msgstr "Baba...?"
+
+msgctxt "188_Saejima"
+msgid "You don't know him?"
+msgstr "Non lo conosci?"
+
+msgctxt "200_Elderly Inmate"
+msgid "You get to my age, the memory goes. It's hard matching names to faces."
+msgstr ""
+"Quando arrivi alla mia età, la memoria se ne va. È dura abbinare i nomi alle"
+" facce."
+
+msgctxt "212_Saejima"
+msgid "Right. Sorry to disturb ya."
+msgstr "Giusto. Scusa il disturbo."
+
+msgctxt "224_Elderly Inmate"
+msgid "It's fine..."
+msgstr "Va bene..."

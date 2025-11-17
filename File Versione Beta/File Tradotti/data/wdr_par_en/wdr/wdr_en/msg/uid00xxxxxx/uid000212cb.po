@@ -1,0 +1,223 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "624"
+msgid "You got <Color:8>Underground Casino Pass<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Pass per il Casinò Sotterraneo<Color:Default>."
+
+msgctxt "8108"
+msgid "Lottery Clerk"
+msgstr "Addetto alla lotteria"
+
+msgctxt "8112"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "8116"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "8120"
+msgid "One"
+msgstr "Uno"
+
+msgctxt "8124"
+msgid "Seven"
+msgstr "Sette"
+
+msgctxt "8128"
+msgid "Nine"
+msgstr "Nove"
+
+msgctxt "8132"
+msgid "Random"
+msgstr "Casuale"
+
+msgctxt "8136"
+msgid "Consecutive"
+msgstr "Consecutivo"
+
+msgctxt "8140"
+msgid "Scattered"
+msgstr "Sparsi"
+
+msgctxt "8144"
+msgid "Losing Tickets"
+msgstr "Biglietti perdenti"
+
+msgctxt "8148"
+msgid "Winning Tickets"
+msgstr "Biglietti vincenti"
+
+msgctxt "8152"
+msgid "Three-Year-Old Tickets"
+msgstr "Biglietti di tre anni"
+
+msgctxt "72_Lottery Clerk"
+msgid "Hello. How may I help you?"
+msgstr "Salve. In cosa posso esserle utile?"
+
+msgctxt "84_Saejima"
+msgid ""
+"(What'd the voice on the phone say? The first bit of the password was...)"
+msgstr ""
+"(Cos'ha detto la voce al telefono? Il primo pezzo della password era...)"
+
+msgctxt "132_Saejima"
+msgid "(The next bit of the password was...)"
+msgstr "(La prossima parte della password era...)"
+
+msgctxt "180_Saejima"
+msgid "(And then finally...)"
+msgstr "(E poi finalmente...)"
+
+msgctxt "240_Saejima"
+msgid "One random losing ticket."
+msgstr "Un biglietto perdente a caso."
+
+msgctxt "252_Saejima"
+msgid "One random winning ticket."
+msgstr "Un biglietto vincente a caso."
+
+msgctxt "264_Saejima"
+msgid "One random three-year-old ticket."
+msgstr "Un biglietto casuale di tre anni."
+
+msgctxt "276_Saejima"
+msgid "One consecutive losing ticket."
+msgstr "Un biglietto perdente consecutivo."
+
+msgctxt "288_Saejima"
+msgid "One consecutive winning ticket."
+msgstr "Un biglietto vincente consecutivo."
+
+msgctxt "300_Saejima"
+msgid "One consecutive three-year-old ticket."
+msgstr "Un biglietto di tre anni consecutivo."
+
+msgctxt "312_Saejima"
+msgid "One scattered losing ticket."
+msgstr "Un biglietto perdente sparso."
+
+msgctxt "324_Saejima"
+msgid "One scattered winning ticket."
+msgstr "Un biglietto vincente sparso."
+
+msgctxt "336_Saejima"
+msgid "One scattered three-year-old ticket."
+msgstr "Un biglietto sparso di tre anni fa."
+
+msgctxt "348_Saejima"
+msgid "Seven random losing tickets."
+msgstr "Sette biglietti perdenti casuali."
+
+msgctxt "360_Saejima"
+msgid "Seven random winning tickets."
+msgstr "Sette biglietti vincenti a caso."
+
+msgctxt "372_Saejima"
+msgid "Seven random three-year-old tickets."
+msgstr "Sette biglietti casuali di tre anni."
+
+msgctxt "384_Saejima"
+msgid "Seven consecutive losing tickets."
+msgstr "Sette biglietti perdenti di fila."
+
+msgctxt "396_Saejima"
+msgid "Seven consecutive winning tickets."
+msgstr "Sette biglietti vincenti consecutivi."
+
+msgctxt "408_Saejima"
+msgid "Seven consecutive three-year-old tickets."
+msgstr "Sette biglietti di tre anni consecutivi."
+
+msgctxt "420_Saejima"
+msgid "Seven scattered losing tickets."
+msgstr "Sette biglietti perdenti sparsi."
+
+msgctxt "432_Saejima"
+msgid "Seven scattered winning tickets."
+msgstr "Sette biglietti vincenti sparsi."
+
+msgctxt "444_Saejima"
+msgid "Seven scattered three-year-old tickets."
+msgstr "Sette biglietti sparsi di tre anni."
+
+msgctxt "456_Saejima"
+msgid "Nine random losing tickets."
+msgstr "Nove biglietti perdenti casuali."
+
+msgctxt "468_Saejima"
+msgid "Nine random winning tickets."
+msgstr "Nove biglietti vincenti casuali."
+
+msgctxt "480_Saejima"
+msgid "Nine random three-year-old tickets."
+msgstr "Nove biglietti casuali vecchi di tre anni."
+
+msgctxt "492_Saejima"
+msgid "Nine consecutive losing tickets."
+msgstr "Nove biglietti perdenti di fila."
+
+msgctxt "504_Saejima"
+msgid "Nine consecutive winning tickets."
+msgstr "Nove biglietti vincenti consecutivi."
+
+msgctxt "516_Saejima"
+msgid "Nine consecutive three-year-old tickets."
+msgstr "Nove biglietti triennali consecutivi."
+
+msgctxt "528_Saejima"
+msgid "Nine scattered losing tickets."
+msgstr "Nove biglietti perdenti sparsi."
+
+msgctxt "540_Saejima"
+msgid "Nine scattered winning tickets."
+msgstr "Nove biglietti vincenti sparsi."
+
+msgctxt "552_Saejima"
+msgid "Nine scattered three-year old tickets."
+msgstr "Nove biglietti sparsi, vecchi di tre anni."
+
+msgctxt "564_Lottery Clerk"
+msgid "Um..."
+msgstr "Ehm..."
+
+msgctxt "576_Lottery Clerk"
+msgid "Could you not fool around, please?"
+msgstr "Non fare il pagliaccio, per favore."
+
+msgctxt "588_Saejima"
+msgid "(Guess that was wrong.)"
+msgstr "(Immagino fosse sbagliato.)"
+
+msgctxt "600_Lottery Clerk"
+msgid "Oh..."
+msgstr "Oh..."
+
+msgctxt "612_Lottery Clerk"
+msgid "I know what that means!"
+msgstr "So cosa significa!"
+
+msgctxt "648_Lottery Clerk"
+msgid "May Lady Luck be with you!"
+msgstr "Che la Signora Fortuna sia con te!"
+
+msgctxt "660_Saejima"
+msgid "'Preciate it."
+msgstr "Lo apprezzo."
+
+msgctxt "672_Saejima"
+msgid "(Finally got the damn pass! Now back to Ambitious.)"
+msgstr "(Finalmente ho il maledetto pass! Ora di nuovo ad Ambitious.)"

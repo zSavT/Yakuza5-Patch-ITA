@@ -1,0 +1,239 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "332"
+msgid "You handed over <Color:8>Marten Pelt<Color:Default>."
+msgstr "Hai consegnato <Color:8>Pelliccia di martora<Color:Default>."
+
+msgctxt "368"
+msgid "You got a <Color:8>Deer Meat<Color:Default>."
+msgstr "Hai ottenuto della <Color:8>Carne di Cervo<Color:Default>."
+
+msgctxt "428"
+msgid "You got 500 experience points."
+msgstr "Hai ottenuto 500 punti esperienza."
+
+msgctxt "536"
+msgid "You handed over <Color:8>Marten Pelt<Color:Default>."
+msgstr "Hai consegnato <Color:8>Pelliccia di martora<Color:Default>."
+
+msgctxt "572"
+msgid "You got <Color:8>Deer Meat<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Carne di Cervo<Color:Default>."
+
+msgctxt "632"
+msgid "You got 500 experience points."
+msgstr "Hai ottenuto 500 punti esperienza."
+
+msgctxt "7884"
+msgid "Marten Furrier"
+msgstr "Pellicciaio di martore"
+
+msgctxt "7888"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "7892"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "7896"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "7900"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "7904"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "7908"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "7912"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "7916"
+msgid "Mission Added"
+msgstr "Missione Aggiunta"
+
+msgctxt "7920"
+msgid "Hand Over the Marten Pelts"
+msgstr "Consegna le pellicce di martora"
+
+msgctxt "7924"
+msgid "Keep the Marten Pelts"
+msgstr "Conserva le pellicce di martora"
+
+msgctxt "7928"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "7932"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "104_Marten Furrier"
+msgid "Oh, hey. Listen, you got a minute?"
+msgstr "Oh, ehi. Senti, hai un minuto?"
+
+msgctxt "116_Saejima"
+msgid "Whaddya want?"
+msgstr "Che vuoi?"
+
+msgctxt "128_Marten Furrier"
+msgid "Heard you're going hunting. Is it true?"
+msgstr "Ho sentito che vai a caccia. È vero?"
+
+msgctxt "140_Saejima"
+msgid "So what if it is?"
+msgstr "E allora?"
+
+msgctxt "152_Marten Furrier"
+msgid "Well, could I trouble you to trap some martens?"
+msgstr "Allora, potrei chiederti di catturare qualche martora?"
+
+msgctxt "164_Saejima"
+msgid "Martens?"
+msgstr "Martore?"
+
+msgctxt "176_Marten Furrier"
+msgid "Yeah. They're like weasels."
+msgstr "Già. Sono come donnole."
+
+msgctxt "188_Marten Furrier"
+msgid ""
+"They're my primary source of income, because the ones around here have such "
+"gorgeous fur."
+msgstr ""
+"Sono la mia principale fonte di reddito, perché quelle da queste parti hanno"
+" una pelliccia così splendida."
+
+msgctxt "200_Marten Furrier"
+msgid ""
+"But it's been so dangerous up there lately... and I don't have a gun－only "
+"traps. So it would be suicide for me to go up there."
+msgstr ""
+"Ma è diventato così pericoloso lassù ultimamente... e non ho un fucile, solo"
+" trappole. Quindi sarebbe un suicidio per me andarci."
+
+msgctxt "212_Saejima"
+msgid ""
+"So ya want me to get some for ya? Sorry, but I ain't riskin' my life for "
+"you."
+msgstr ""
+"Allora, vuoi che te ne vada a prendere un po'? Scusa, ma non rischio la "
+"pelle per te."
+
+msgctxt "224_Marten Furrier"
+msgid ""
+"But you're going up there anyway! And I'll pay you handsomely. Please, I'm "
+"begging you!"
+msgstr ""
+"Ma ci vai comunque lassù! E ti pagherò profumatamente. Ti prego, ti "
+"supplico!"
+
+msgctxt "236_Saejima"
+msgid "...Guess I'll nab some if I feel like it."
+msgstr "...Vabbè, ne piglio qualcuno se mi gira."
+
+msgctxt "248_Marten Furrier"
+msgid ""
+"You will? You're a lifesaver! Three pelts is all I need. Thank you so much!"
+msgstr ""
+"Davvero? Sei la mia salvezza! Mi servono solo tre pellicce. Grazie mille!"
+
+msgctxt "260_Mission Added"
+msgid "\"Get Marten Pelts\" was added to the list of missions."
+msgstr "\"Ottieni Pelli di Martora\" è stata aggiunta all'elenco delle missioni."
+
+msgctxt "272_Saejima"
+msgid "(To catch martens, I'll hafta use cage traps.)"
+msgstr "(Per catturare le martore, mi toccherà usare le trappole a gabbia.)"
+
+msgctxt "296_Marten Furrier"
+msgid "Oh, hey! Did you catch any martens?"
+msgstr "Oh, ehi! Hai preso delle martore?"
+
+msgctxt "308_Marten Furrier"
+msgid "You're a lifesaver, I swear! Oh, here's your payment right here."
+msgstr "Mi hai salvato la pelle, te lo giuro! Oh, ecco qui la tua paga."
+
+msgctxt "320_Marten Furrier"
+msgid "Oh, thank you! My family will eat better because of you."
+msgstr "Oh, grazie! La mia famiglia mangerà meglio grazie a te."
+
+msgctxt "356_Marten Furrier"
+msgid "Here you go."
+msgstr "Ecco a lei."
+
+msgctxt "392_Marten Furrier"
+msgid "Thank you again!"
+msgstr "Grazie ancora!"
+
+msgctxt "452_Marten Furrier"
+msgid "Oh, I can see you have some pelts. They're not for me?"
+msgstr "Oh, vedo che hai delle pellicce. Non sono per me?"
+
+msgctxt "464_Marten Furrier"
+msgid "Okay, well, let me know if you ever have some for me..."
+msgstr "Ok, beh, fammi sapere se mai ne hai per me..."
+
+msgctxt "476_Marten Furrier"
+msgid "I'm begging you to bag me three martens. Please? I'll wait right here."
+msgstr "Ti prego, procurami tre martore. Per favore? Ti aspetto proprio qui."
+
+msgctxt "488_Saejima"
+msgid "(To catch martens, I'll hafta use cage traps.)"
+msgstr "(Per catturare le martore, mi toccherà usare le trappole a gabbia.)"
+
+msgctxt "512_Marten Furrier"
+msgid ""
+"I'm begging you－those marten pelts would mean so much to me. Please? I have "
+"your reward right here..."
+msgstr ""
+"Ti imploro－ quelle pellicce di martora significherebbero tantissimo per me. "
+"Ti prego? Ho la tua ricompensa proprio qui..."
+
+msgctxt "524_Marten Furrier"
+msgid "Oh, thank you! My family will eat better because of you."
+msgstr "Oh, grazie! La mia famiglia mangerà meglio grazie a te."
+
+msgctxt "560_Marten Furrier"
+msgid "Here you go."
+msgstr "Ecco a lei."
+
+msgctxt "596_Marten Furrier"
+msgid "Thank you again!"
+msgstr "Grazie ancora!"
+
+msgctxt "656_Marten Furrier"
+msgid "Oh, I can see you have some pelts. They're not for me?"
+msgstr "Oh, vedo che hai delle pellicce. Non sono per me?"
+
+msgctxt "668_Marten Furrier"
+msgid "Okay, well, let me know if you ever have some for me..."
+msgstr "Ok, beh, fammi sapere se mai ne hai per me..."
+
+msgctxt "680_Marten Furrier"
+msgid ""
+"I'm begging you to get me three marten pelts. I'll reward you. Please? I'm "
+"really in a bind here."
+msgstr ""
+"Ti supplico di procurarmi tre pelli di martora. Ti ricompenserò. Per favore?"
+" Sono davvero nei guai fino al collo."

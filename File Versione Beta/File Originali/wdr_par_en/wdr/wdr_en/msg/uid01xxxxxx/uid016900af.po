@@ -1,0 +1,781 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1640"
+msgid "You got 2,000 experience points."
+msgstr ""
+
+msgctxt "1856"
+msgid "You got 1,500 experience points."
+msgstr ""
+
+msgctxt "2036"
+msgid "You got 1,000 experience points."
+msgstr ""
+
+msgctxt "35700"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "35704"
+msgid "Yamaura's Memo"
+msgstr ""
+
+msgctxt "35708"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "35712"
+msgid "Woman's Voice"
+msgstr ""
+
+msgctxt "35716"
+msgid "kaiwabgm_kanjyonashi04"
+msgstr ""
+
+msgctxt "35720"
+msgid "Asano"
+msgstr ""
+
+msgctxt "35724"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "35728"
+msgid "Reader Questions on Fame"
+msgstr ""
+
+msgctxt "35732"
+msgid "How I Became an Idol"
+msgstr ""
+
+msgctxt "35736"
+msgid "Inside Scoop on the Idol Business"
+msgstr ""
+
+msgctxt "35740"
+msgid "SS3_F_TLK_sitsofa_int_quest"
+msgstr ""
+
+msgctxt "35744"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "35748"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "35752"
+msgid "Wear a cute outfit."
+msgstr ""
+
+msgctxt "35756"
+msgid "Just act natural."
+msgstr ""
+
+msgctxt "35760"
+msgid "Smile a lot."
+msgstr ""
+
+msgctxt "35764"
+msgid "SS3_HAL_TLK_sitsofa_int_answer"
+msgstr ""
+
+msgctxt "35768"
+msgid "SS3_F_TLK_sitsofa_int_memo"
+msgstr ""
+
+msgctxt "35772"
+msgid "I understood it had to be that way at first."
+msgstr ""
+
+msgctxt "35776"
+msgid "I let the humiliation fuel me."
+msgstr ""
+
+msgctxt "35780"
+msgid "I was just happy to be on TV."
+msgstr ""
+
+msgctxt "35784"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "35788"
+msgid "You have to know what you're getting into."
+msgstr ""
+
+msgctxt "35792"
+msgid "You can worry about that after you get famous."
+msgstr ""
+
+msgctxt "35796"
+msgid "I wouldn't recommend it, no."
+msgstr ""
+
+msgctxt "35800"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "35804"
+msgid "dummy"
+msgstr ""
+
+msgctxt "56_Haruka"
+msgid "(Let's see what Yamaura-san's memo says.)"
+msgstr ""
+
+msgctxt "68_Yamaura's Memo"
+msgid ""
+"\"Beginner\" is a magazine that provides audition information and leads on "
+"how to become a model, TV personality, or voice actor."
+msgstr ""
+
+msgctxt "80_Yamaura's Memo"
+msgid ""
+"It's aimed at pre-teen and teen girls who want to be famous－just the kind "
+"of reader who would be fascinated by your story."
+msgstr ""
+
+msgctxt "92_Yamaura's Memo"
+msgid ""
+"The interviewer will be Asano-san. She's apparently brand new to this, so I "
+"don't know how smoothly it will go. She's sure gung-ho, though."
+msgstr ""
+
+msgctxt "104_Yamaura's Memo"
+msgid "The interview will be about how you became an idol."
+msgstr ""
+
+msgctxt "116_Yamaura's Memo"
+msgid ""
+"I don't think she'll delve into your past too deeply, but you have a "
+"complicated family history. Make sure you tread carefully."
+msgstr ""
+
+msgctxt "128_Haruka"
+msgid "(Okay, so this is what I have to keep in mind for the interview.)"
+msgstr ""
+
+msgctxt "140_Haruka"
+msgid "(The interview is going to be about how I became an idol.)"
+msgstr ""
+
+msgctxt "152_Haruka"
+msgid ""
+"(The target is teenage girls who want to be famous, so I should try and "
+"encourage them to follow their dreams.)"
+msgstr ""
+
+msgctxt "164_Haruka"
+msgid "(All right. Got it!)"
+msgstr ""
+
+msgctxt "176_Woman's Voice"
+msgid "Hello, I'm here for the interview. So sorry I'm late!"
+msgstr ""
+
+msgctxt "188_Haruka"
+msgid "(Oh! The interviewer is here.)"
+msgstr ""
+
+msgctxt "248_Haruka"
+msgid "Hello. I'm Asano, from \"Beginner.\" Nice to meet you, Haruka-chan!"
+msgstr ""
+
+msgctxt "260_Haruka"
+msgid "Hello. Thank you very much for coming."
+msgstr ""
+
+msgctxt "272_Asano"
+msgid ""
+"Now, let's see. Has your manager already told you what today's interview "
+"will be about?"
+msgstr ""
+
+msgctxt "284_Haruka"
+msgid "Um..."
+msgstr ""
+
+msgctxt "296_Asano"
+msgid "You weren't told anything? Uh-oh. That's not good."
+msgstr ""
+
+msgctxt "308_Asano"
+msgid ""
+"Today's interview is about how you became an idol. I thought I told your "
+"manager all about it."
+msgstr ""
+
+msgctxt "320_Haruka"
+msgid "I'm really sorry."
+msgstr ""
+
+msgctxt "332_Asano"
+msgid "No, no. Don't apologize. I probably just didn't communicate it clearly."
+msgstr ""
+
+msgctxt "344_Haruka"
+msgid "Let's see. Was it questions from readers who want to be idols?"
+msgstr ""
+
+msgctxt "356_Asano"
+msgid ""
+"What!? Is that what you were told? Ack. We must've gotten our signals "
+"crossed somewhere along the way."
+msgstr ""
+
+msgctxt "368_Haruka"
+msgid "Oh, is that not it?"
+msgstr ""
+
+msgctxt "380_Asano"
+msgid ""
+"Not quite. I actually came to talk to you today about how you became an "
+"idol."
+msgstr ""
+
+msgctxt "392_Asano"
+msgid ""
+"Many of our readers are girls who dream of being famous one day, so your "
+"story can give them the hope they need to keep going!"
+msgstr ""
+
+msgctxt "404_Haruka"
+msgid "Oh, all right."
+msgstr ""
+
+msgctxt "416_Asano"
+msgid "But that's odd. I could've sworn I told your manager all about it."
+msgstr ""
+
+msgctxt "428_Haruka"
+msgid "I was told it would be about how I became an idol."
+msgstr ""
+
+msgctxt "440_Asano"
+msgid ""
+"Yes, that's right! Many of our readers are girls who dream of being famous "
+"one day, so your story can give them the hope they need to keep going!"
+msgstr ""
+
+msgctxt "452_Haruka"
+msgid "That sounds wonderful."
+msgstr ""
+
+msgctxt "464_Asano"
+msgid ""
+"Great! And I'm so glad you've already been prepared. That should make "
+"things go a lot more smoothly."
+msgstr ""
+
+msgctxt "476_Haruka"
+msgid "Let's see. Was it the inside scoop on the idol business?"
+msgstr ""
+
+msgctxt "488_Asano"
+msgid ""
+"What!? Is that what you were told? Although, that topic does sound like it "
+"would be a big hit with our readers. Hmm."
+msgstr ""
+
+msgctxt "500_Haruka"
+msgid "Oh, is that not it?"
+msgstr ""
+
+msgctxt "512_Asano"
+msgid ""
+"Not quite. I actually came to talk to you today about how you became an "
+"idol."
+msgstr ""
+
+msgctxt "524_Asano"
+msgid ""
+"Many of our readers are girls who dream of being famous one day, so your "
+"story can give them the hope they need to keep going!"
+msgstr ""
+
+msgctxt "536_Haruka"
+msgid "All right, great!"
+msgstr ""
+
+msgctxt "548_Asano"
+msgid "But that's odd. I could've sworn I told your manager all about it."
+msgstr ""
+
+msgctxt "560_Asano"
+msgid "Okay, let's get started. Now, I heard that you were scouted out in Okinawa?"
+msgstr ""
+
+msgctxt "572_Haruka"
+msgid "Yes, that's right."
+msgstr ""
+
+msgctxt "584_Asano"
+msgid ""
+"They say you were just out shopping when somebody suddenly came up to you "
+"with an offer! So, what's your secret?"
+msgstr ""
+
+msgctxt "596_Asano"
+msgid "Do you have any tips for us on how to get noticed like you did?"
+msgstr ""
+
+msgctxt "608_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "620_Asano"
+msgid "Um. I guess there's just no tips to tell...?"
+msgstr ""
+
+msgctxt "632_Haruka"
+msgid "I'm so sorry."
+msgstr ""
+
+msgctxt "644_Haruka"
+msgid ""
+"I would suggest wearing a really cute outfit, and having your hair styled "
+"in an attractive way."
+msgstr ""
+
+msgctxt "656_Asano"
+msgid "Ah, so being mindful of your appearance, is that it?"
+msgstr ""
+
+msgctxt "668_Haruka"
+msgid "Yes, I think that might help catch the eye of a scout."
+msgstr ""
+
+msgctxt "680_Asano"
+msgid "Is that what you did when you got discovered?"
+msgstr ""
+
+msgctxt "692_Haruka"
+msgid "Well, actually, no. I didn't really do anything special."
+msgstr ""
+
+msgctxt "704_Asano"
+msgid "I see. Then maybe focusing on your appearance doesn't help at all."
+msgstr ""
+
+msgctxt "716_Haruka"
+msgid "I'm sorry. I guess you're right."
+msgstr ""
+
+msgctxt "728_Haruka"
+msgid ""
+"I think the best thing to do is just be yourself and act natural. If you go "
+"overboard trying to catch the eye of a scout, it might look strange."
+msgstr ""
+
+msgctxt "740_Asano"
+msgid ""
+"I see. I guess there really isn't any foolproof trick to getting noticed, "
+"huh?"
+msgstr ""
+
+msgctxt "752_Haruka"
+msgid ""
+"I was only discovered by the president of my agency by chance. I guess it's "
+"just luck and being in the right place at the right time."
+msgstr ""
+
+msgctxt "764_Asano"
+msgid ""
+"I'm sure our readers would have loved to hear there was some kind of trick "
+"to it, but I guess it is what it is."
+msgstr ""
+
+msgctxt "776_Asano"
+msgid ""
+"Maybe if you have that certain \"something,\" it shows even when you're "
+"just being yourself."
+msgstr ""
+
+msgctxt "788_Haruka"
+msgid ""
+"I would suggest smiling a lot, wherever you go. There's nothing more "
+"attractive than a beautiful smile."
+msgstr ""
+
+msgctxt "800_Asano"
+msgid ""
+"But if you saw a girl walking down the street and smiling to herself, "
+"wouldn't you think there was something a little off?"
+msgstr ""
+
+msgctxt "812_Haruka"
+msgid "Hmm. I guess you're right."
+msgstr ""
+
+msgctxt "824_Asano"
+msgid "And when you got discovered, you weren't walking around smiling, were you?"
+msgstr ""
+
+msgctxt "836_Haruka"
+msgid "Well, no."
+msgstr ""
+
+msgctxt "848_Asano"
+msgid "Right... But I suppose it might be all right if you had a friend with you."
+msgstr ""
+
+msgctxt "860_Asano"
+msgid "Yeah! Let's go with that!"
+msgstr ""
+
+msgctxt "872_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "884_Haruka"
+msgid ""
+"All right, moving on. What was the very first job you had after becoming an "
+"idol?"
+msgstr ""
+
+msgctxt "896_Asano"
+msgid ""
+"And I don't mean dance lessons or anything like that. I mean a real, paying "
+"gig."
+msgstr ""
+
+msgctxt "908_Haruka"
+msgid ""
+"If I recall, it was being a guest assistant on a TV show. It was part of "
+"the promotion for the Princess League."
+msgstr ""
+
+msgctxt "920_Asano"
+msgid "What kinds of things does a TV show assistant do?"
+msgstr ""
+
+msgctxt "932_Haruka"
+msgid ""
+"I held signs and posters toward the camera. I basically just stood there "
+"and said nothing."
+msgstr ""
+
+msgctxt "944_Asano"
+msgid ""
+"Seeing as you were already an idol, didn't you find that sort of thing a "
+"little humiliating?"
+msgstr ""
+
+msgctxt "956_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "968_Asano"
+msgid "Oh, was that question a little too hard to answer?"
+msgstr ""
+
+msgctxt "980_Haruka"
+msgid "I'm sorry."
+msgstr ""
+
+msgctxt "992_Asano"
+msgid ""
+"You know, if you don't say anything I'll have nothing to write about in my "
+"article."
+msgstr ""
+
+msgctxt "1004_Haruka"
+msgid ""
+"I understood that's the way it had to be at first, because I hadn't proven "
+"myself yet."
+msgstr ""
+
+msgctxt "1016_Asano"
+msgid ""
+"So even idols have to toil in obscurity before they get better work, huh? "
+"That might be hard to hack for a lot of young people these days."
+msgstr ""
+
+msgctxt "1028_Haruka"
+msgid "But not for someone who really, truly wants to be an idol."
+msgstr ""
+
+msgctxt "1040_Asano"
+msgid ""
+"Hm. I suppose it would be encouraging for our readers to know that even you "
+"had to earn your stripes."
+msgstr ""
+
+msgctxt "1052_Asano"
+msgid "Yeah! Let's go with that!"
+msgstr ""
+
+msgctxt "1064_Haruka"
+msgid ""
+"It was a little humiliating, yes, but I let the humiliation fuel me into "
+"working that much harder."
+msgstr ""
+
+msgctxt "1076_Asano"
+msgid "Wow. You're resilient, aren't you?"
+msgstr ""
+
+msgctxt "1088_Haruka"
+msgid "Do you think so?"
+msgstr ""
+
+msgctxt "1100_Asano"
+msgid ""
+"Oh yes, our readers will be very inspired by your story! No matter how "
+"exciting this business looks from the outside, it really is quite hard, "
+"isn't it?"
+msgstr ""
+
+msgctxt "1112_Haruka"
+msgid ""
+"I was just happy to be on TV. I never thought anything like that would ever "
+"happen to me!"
+msgstr ""
+
+msgctxt "1124_Asano"
+msgid ""
+"Hehe, I can imagine! I think if I had a chance to be on TV, I'd grab it no "
+"matter what it was."
+msgstr ""
+
+msgctxt "1136_Asano"
+msgid ""
+"Now that you're getting so much attention on the Princess League, it's hard "
+"to believe there was ever a time like that for you!"
+msgstr ""
+
+msgctxt "1148_Haruka"
+msgid "Oh, there absolutely was!"
+msgstr ""
+
+msgctxt "1160_Asano"
+msgid "Ooh, it must be so exciting to be an idol! I'm a little jealous!"
+msgstr ""
+
+msgctxt "1172_Haruka"
+msgid ""
+"All right. This next one is my last question. Do you have any regrets about "
+"becoming famous?"
+msgstr ""
+
+msgctxt "1184_Haruka"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "1196_Asano"
+msgid ""
+"Well, the more famous you become, the harder it is to just be a regular "
+"girl, right?"
+msgstr ""
+
+msgctxt "1208_Asano"
+msgid ""
+"You're probably discouraged from having romantic relationships, and people "
+"must recognize you wherever you go."
+msgstr ""
+
+msgctxt "1220_Asano"
+msgid ""
+"With these negative side effects, would you still recommend trying to "
+"become famous to our readers?"
+msgstr ""
+
+msgctxt "1244_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "1256_Asano"
+msgid ""
+"Look, Haruka-chan, you're not giving me anything at all to write my article "
+"on!"
+msgstr ""
+
+msgctxt "1268_Haruka"
+msgid "I'm really sorry!"
+msgstr ""
+
+msgctxt "1280_Asano"
+msgid "Yeah, I'm afraid \"sorry\" doesn't really help me out."
+msgstr ""
+
+msgctxt "1292_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "1304_Haruka"
+msgid "Um..."
+msgstr ""
+
+msgctxt "1316_Asano"
+msgid ""
+"Oh, was that a tough question? Well, as someone our readers look up to and "
+"want to emulate, I was really hoping you'd answer."
+msgstr ""
+
+msgctxt "1328_Haruka"
+msgid "I'm really sorry!"
+msgstr ""
+
+msgctxt "1340_Asano"
+msgid "Hmph. What a waste of a great question."
+msgstr ""
+
+msgctxt "1352_Haruka"
+msgid ""
+"I believe you have to know what you're getting yourself into ahead of time, "
+"if you want to be famous."
+msgstr ""
+
+msgctxt "1364_Asano"
+msgid "Ah. Nobody can escape the price of fame, is that it?"
+msgstr ""
+
+msgctxt "1376_Haruka"
+msgid "Exactly."
+msgstr ""
+
+msgctxt "1388_Asano"
+msgid ""
+"While that may be true, I can't help but feel our readers will think that "
+"answer is a little too obvious."
+msgstr ""
+
+msgctxt "1400_Haruka"
+msgid "They will?"
+msgstr ""
+
+msgctxt "1412_Haruka"
+msgid ""
+"You can worry about that after you get famous. If you try to think too far "
+"ahead, you might lose focus on what you should be doing now."
+msgstr ""
+
+msgctxt "1424_Asano"
+msgid ""
+"Ooh, that's right! Instead of just dreaming, it's important to try and move "
+"forward to make that dream come true, is that it?"
+msgstr ""
+
+msgctxt "1436_Haruka"
+msgid "Yes, I believe that's right."
+msgstr ""
+
+msgctxt "1448_Asano"
+msgid "Hehe. Well, it's definitely more convincing when you say it, Haruka-chan!"
+msgstr ""
+
+msgctxt "1460_Haruka"
+msgid ""
+"I wouldn't recommend it, no. You're right about it being hard to ever be a "
+"regular girl again. And it's not the kind of career that lasts."
+msgstr ""
+
+msgctxt "1472_Asano"
+msgid ""
+"Hey, wait a minute. If you say that, our readers are going to be really "
+"shocked and disappointed."
+msgstr ""
+
+msgctxt "1484_Haruka"
+msgid "But that's how I honestly feel."
+msgstr ""
+
+msgctxt "1496_Asano"
+msgid "Well, if that's how you feel, I guess I can't expect you to lie."
+msgstr ""
+
+msgctxt "1520_Haruka"
+msgid ""
+"All right, that's the end of the interview. Thank you very much for your "
+"time. It looks like I made the right choice!"
+msgstr ""
+
+msgctxt "1532_Haruka"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "1544_Asano"
+msgid ""
+"My editor told me to go out and get an interview with one of my favorite "
+"idols."
+msgstr ""
+
+msgctxt "1556_Asano"
+msgid "And then I saw you on the Princess League, and instantly became a fan."
+msgstr ""
+
+msgctxt "1568_Haruka"
+msgid "You did? How nice!"
+msgstr ""
+
+msgctxt "1580_Asano"
+msgid ""
+"Hehe. And now that I've met you in person, you're just what I imagined! I "
+"guess I've got a good eye, right?"
+msgstr ""
+
+msgctxt "1592_Haruka"
+msgid "Hehe."
+msgstr ""
+
+msgctxt "1604_Asano"
+msgid "Well, thank you again. Remember, I'll be rooting for you! Best of luck!"
+msgstr ""
+
+msgctxt "1616_Haruka"
+msgid "Thanks so much!"
+msgstr ""
+
+msgctxt "1772_Haruka"
+msgid ""
+"All right, that's the end of the interview. Thank you very much for your "
+"time."
+msgstr ""
+
+msgctxt "1784_Haruka"
+msgid "Of course. Thank you for coming."
+msgstr ""
+
+msgctxt "1796_Asano"
+msgid ""
+"To be honest, the interview wasn't as exciting as I hoped. But I think "
+"you've given me enough to work with."
+msgstr ""
+
+msgctxt "1808_Haruka"
+msgid "Oh, I'm sorry. I hope so."
+msgstr ""
+
+msgctxt "1820_Asano"
+msgid "Yes, well, good luck to you. Maybe we can do this again sometime."
+msgstr ""
+
+msgctxt "1832_Haruka"
+msgid "I'd like that. Thank you."
+msgstr ""
+
+msgctxt "1988_Haruka"
+msgid ""
+"All right, that's the end of the interview. But... boy, the editor is "
+"really going to have my head over this one."
+msgstr ""
+
+msgctxt "2000_Haruka"
+msgid "I really apologize."
+msgstr ""
+
+msgctxt "2012_Asano"
+msgid "Yeah, well, nothing to do about it now. Thanks for your time."
+msgstr ""

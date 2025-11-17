@@ -1,0 +1,646 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "26980"
+msgid "Manager"
+msgstr ""
+
+msgctxt "26984"
+msgid "Take the Interview"
+msgstr ""
+
+msgctxt "26988"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "26992"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "26996"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "27000"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "27004"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "27008"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "27012"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "27016"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "27020"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "27024"
+msgid "I was drawn by the company's style."
+msgstr ""
+
+msgctxt "27028"
+msgid "I was attracted by the president's reputation."
+msgstr ""
+
+msgctxt "27032"
+msgid "I've dreamed of working in food processing."
+msgstr ""
+
+msgctxt "27036"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "27040"
+msgid "I knock balls out the park."
+msgstr ""
+
+msgctxt "27044"
+msgid "I like to get my balls rubbed."
+msgstr ""
+
+msgctxt "27048"
+msgid "I've got balls of steel."
+msgstr ""
+
+msgctxt "27052"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "27056"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "88_Manager"
+msgid ""
+"Ta-chan, you change your mind about the job interview? If you want, I can "
+"still set that up for you."
+msgstr ""
+
+msgctxt "112_Manager"
+msgid "Hey, Ta-chan! Good timing, man. I got a nifty little proposition for you."
+msgstr ""
+
+msgctxt "136_Shinada"
+msgid "Ooh, what is it?"
+msgstr ""
+
+msgctxt "148_Manager"
+msgid ""
+"I met this fellow at a bar. Said he's the president of a small company and "
+"he's looking to hire a secretary."
+msgstr ""
+
+msgctxt "160_Manager"
+msgid ""
+"The job calls for a single guy in his thirties with a brawny build and "
+"cheerful personality, and I instantly thought of you."
+msgstr ""
+
+msgctxt "172_Shinada"
+msgid ""
+"I can understand the cheerful personality part, but why would he want a "
+"secretary with a brawny build?"
+msgstr ""
+
+msgctxt "184_Manager"
+msgid "Who knows? Maybe you're supposed to be a bodyguard as well."
+msgstr ""
+
+msgctxt "196_Manager"
+msgid ""
+"He said he needs to see a résumé and there'll be an interview just as a "
+"formality, but apparently he can offer a pretty competitive salary."
+msgstr ""
+
+msgctxt "208_Manager"
+msgid ""
+"I also told him you work in the nightlife industry, but he doesn't see it "
+"as a problem."
+msgstr ""
+
+msgctxt "220_Manager"
+msgid ""
+"To me, it's a sweet deal. Aren't you always saying how you're up to your "
+"neck in debt? Couldn't hurt to at least check it out."
+msgstr ""
+
+msgctxt "232_Shinada"
+msgid "Hmm. Is this a full employee position with all the juicy benefits?"
+msgstr ""
+
+msgctxt "244_Manager"
+msgid ""
+"That's what he said. You'd be making good money on a steady basis. Doesn't "
+"get much better than that."
+msgstr ""
+
+msgctxt "256_Manager"
+msgid ""
+"It's not a very big company, but they are a legit business. Nothing shady "
+"about them."
+msgstr ""
+
+msgctxt "268_Shinada"
+msgid "Why would the president of a legit business need a bodyguard?"
+msgstr ""
+
+msgctxt "280_Manager"
+msgid ""
+"I just said bodyguard as a guess. Anyway, I can get you in touch with him "
+"if you want."
+msgstr ""
+
+msgctxt "292_Shinada"
+msgid "(It might not be a bad deal. What should I do?)"
+msgstr ""
+
+msgctxt "304_Shinada"
+msgid ""
+"Well, all right. I guess I could give it a shot. How do I go\r\n"
+"about getting this interview again?"
+msgstr ""
+
+msgctxt "316_Manager"
+msgid ""
+"Okay, so you need to prepare a résumé first. I have a few forms that our "
+"girls use. You can fill out one of those."
+msgstr ""
+
+msgctxt "340_Shinada"
+msgid ""
+"You know what? Thanks, but no thanks. I like my lifestyle－it keeps me "
+"worry-free."
+msgstr ""
+
+msgctxt "352_Manager"
+msgid ""
+"Fair enough. Tell me if you change your mind, though. The offer might still "
+"be open."
+msgstr ""
+
+msgctxt "376_Shinada"
+msgid "Hmm... Name, address, age, education, employment history... Uh, what else?"
+msgstr ""
+
+msgctxt "388_Shinada"
+msgid ""
+"Oh, right, my motives for wanting to join the company. Uh, what does this "
+"company do?"
+msgstr ""
+
+msgctxt "400_Manager"
+msgid "He said they're in food processing."
+msgstr ""
+
+msgctxt "412_Shinada"
+msgid "Food processing? I don't know squat about that! I'll just have to wing it."
+msgstr ""
+
+msgctxt "424_Shinada"
+msgid "(What reason should I give for applying?)"
+msgstr ""
+
+msgctxt "436_Shinada"
+msgid "\"I was drawn in by your company's style.\" There."
+msgstr ""
+
+msgctxt "448_Manager"
+msgid "What a bullshitter. You don't even know the company."
+msgstr ""
+
+msgctxt "460_Shinada"
+msgid "Well, you brought me this deal. All I know is what you told me."
+msgstr ""
+
+msgctxt "472_Manager"
+msgid "Heh, fair enough."
+msgstr ""
+
+msgctxt "484_Shinada"
+msgid ""
+"Okay, next, hobbies and skills. I don't need to BS this one. So, what to "
+"write?"
+msgstr ""
+
+msgctxt "496_Shinada"
+msgid "\"Knocking balls out the park,\" yo. \"I'm a home run hammering machine!\""
+msgstr ""
+
+msgctxt "508_Manager"
+msgid ""
+"That's a stretch. All you do is spend your time at the\r\n"
+"batting center, and you don't even play on a team.\r\n"
+"Is that even good enough?"
+msgstr ""
+
+msgctxt "520_Shinada"
+msgid "Good enough? This is a proper skill, as far as I'm concerned."
+msgstr ""
+
+msgctxt "532_Manager"
+msgid "If you say so."
+msgstr ""
+
+msgctxt "544_Shinada"
+msgid "There. The résumé's good as gold."
+msgstr ""
+
+msgctxt "556_Manager"
+msgid "Nice. Then let's get you over to that interview."
+msgstr ""
+
+msgctxt "568_Shinada"
+msgid "You mean, like, right now?"
+msgstr ""
+
+msgctxt "580_Manager"
+msgid ""
+"They're only looking for one new hire. You wouldn't want someone else to "
+"beat you to the punch, would you? I'll let the president know you're coming."
+msgstr ""
+
+msgctxt "592_Manager"
+msgid ""
+"Oh, and good luck. If you get the job, come back with your first paycheck. "
+"To celebrate, we'll hook you up with our Super Steamy VIP Special!"
+msgstr ""
+
+msgctxt "604_Shinada"
+msgid ""
+"Aww, you'd do that for little ol' me? You sure know how to motivate a guy. "
+"I'll head over there right now!"
+msgstr ""
+
+msgctxt "628_Shinada"
+msgid "\"I was attracted by the president's reputation.\" There."
+msgstr ""
+
+msgctxt "640_Manager"
+msgid "You never even met the guy. You are so full of it."
+msgstr ""
+
+msgctxt "652_Shinada"
+msgid "That's why I used the word \"reputation.\""
+msgstr ""
+
+msgctxt "664_Manager"
+msgid "I suppose that's true."
+msgstr ""
+
+msgctxt "676_Shinada"
+msgid "\"I've always dreamed of working in food processing.\" That'll do."
+msgstr ""
+
+msgctxt "688_Manager"
+msgid ""
+"You've never mentioned anything like that to me. And even\r\n"
+"if you had, I'd tell you to rethink your life."
+msgstr ""
+
+msgctxt "700_Shinada"
+msgid ""
+"What do you expect me to say? I'm not about to write, \"Because I want a "
+"steady job\" as my reason for applying."
+msgstr ""
+
+msgctxt "712_Manager"
+msgid "Yeah, I guess not."
+msgstr ""
+
+msgctxt "724_Shinada"
+msgid "\"I like to get my balls rubbed at massage parlors. Aww yeah.\""
+msgstr ""
+
+msgctxt "736_Manager"
+msgid ""
+"Are you <Italic>sure</Italic> you want to put that on your résumé? I'm in "
+"no position to talk, given my job, but still."
+msgstr ""
+
+msgctxt "748_Shinada"
+msgid ""
+"What, you think they're gonna run this by HR? But hey, you\r\n"
+"never know! They might appreciate my honesty."
+msgstr ""
+
+msgctxt "760_Manager"
+msgid "...I'm just gonna keep my mouth shut on this one."
+msgstr ""
+
+msgctxt "772_Shinada"
+msgid "\"I've got balls of steel AND exceptional brawn!\" How's that?"
+msgstr ""
+
+msgctxt "784_Manager"
+msgid ""
+"They did want someone with a brawny build, so maybe they would like that. I "
+"don't know about the balls part, though."
+msgstr ""
+
+msgctxt "796_Shinada"
+msgid ""
+"Either way, if this job really does turn out to be for a bodyguard, I think "
+"I'm out."
+msgstr ""
+
+msgctxt "808_Manager"
+msgid "You should ask about that at the interview."
+msgstr ""
+
+msgctxt "844_Manager"
+msgid ""
+"Ta-chan, you change your mind about the job interview? If you want, I can "
+"still set that up for you."
+msgstr ""
+
+msgctxt "868_Manager"
+msgid "Hey, Ta-chan! Good timing, man. I got a nifty little proposition for you."
+msgstr ""
+
+msgctxt "892_Shinada"
+msgid "Ooh, what is it?"
+msgstr ""
+
+msgctxt "904_Manager"
+msgid ""
+"I met this fellow at a bar. Said he's the president of a small company and "
+"he's looking to hire a secretary."
+msgstr ""
+
+msgctxt "916_Manager"
+msgid ""
+"The job calls for a single guy in his thirties with a brawny build and "
+"cheerful personality, and I instantly thought of you."
+msgstr ""
+
+msgctxt "928_Shinada"
+msgid ""
+"I can understand the cheerful personality part, but why would he want a "
+"secretary with a brawny build?"
+msgstr ""
+
+msgctxt "940_Manager"
+msgid "Who knows? Maybe you're supposed to be a bodyguard as well."
+msgstr ""
+
+msgctxt "952_Manager"
+msgid ""
+"He said he needs to see a résumé and there'll be an interview just as a "
+"formality, but apparently he can offer a pretty competitive salary."
+msgstr ""
+
+msgctxt "964_Manager"
+msgid ""
+"I also told him you work in the nightlife industry, but he doesn't see it "
+"as a problem."
+msgstr ""
+
+msgctxt "976_Manager"
+msgid ""
+"To me, it's a sweet deal. Aren't you always saying how you're up to your "
+"neck in debt? Couldn't hurt to at least check it out."
+msgstr ""
+
+msgctxt "988_Shinada"
+msgid "Hmm. Is this a full employee position with all the juicy benefits?"
+msgstr ""
+
+msgctxt "1000_Manager"
+msgid ""
+"That's what he said. You'd be making good money on a steady basis. Doesn't "
+"get much better than that."
+msgstr ""
+
+msgctxt "1012_Manager"
+msgid ""
+"It's not a very big company, but they are a legit business. Nothing shady "
+"about them."
+msgstr ""
+
+msgctxt "1024_Shinada"
+msgid "Why would the president of a legit business need a bodyguard?"
+msgstr ""
+
+msgctxt "1036_Manager"
+msgid ""
+"I just said bodyguard as a guess. Anyway, I can get you in touch with him "
+"if you want."
+msgstr ""
+
+msgctxt "1048_Shinada"
+msgid "(It might not be a bad deal. What should I do?)"
+msgstr ""
+
+msgctxt "1060_Shinada"
+msgid ""
+"Well, all right. I guess I could give it a shot. How do I go\r\n"
+"about getting this interview again?"
+msgstr ""
+
+msgctxt "1072_Manager"
+msgid ""
+"Okay, so you need to prepare a résumé first. I have a few forms that our "
+"girls use. You can fill out one of those."
+msgstr ""
+
+msgctxt "1096_Shinada"
+msgid ""
+"You know what? Thanks, but no thanks. I like my lifestyle－it keeps me "
+"worry-free."
+msgstr ""
+
+msgctxt "1108_Manager"
+msgid ""
+"Fair enough. Tell me if you change your mind, though. The offer might still "
+"be open."
+msgstr ""
+
+msgctxt "1132_Shinada"
+msgid "Hmm... Name, address, age, education, employment history... Uh, what else?"
+msgstr ""
+
+msgctxt "1144_Shinada"
+msgid ""
+"Oh, right, my motives for wanting to join the company. Uh, what does this "
+"company do?"
+msgstr ""
+
+msgctxt "1156_Manager"
+msgid "He said they're in food processing."
+msgstr ""
+
+msgctxt "1168_Shinada"
+msgid "Food processing? I don't know squat about that! I'll just have to wing it."
+msgstr ""
+
+msgctxt "1180_Shinada"
+msgid "(What reason should I give for applying?)"
+msgstr ""
+
+msgctxt "1192_Shinada"
+msgid "\"I was drawn in by your company's style.\" There."
+msgstr ""
+
+msgctxt "1204_Manager"
+msgid "What a bullshitter. You don't even know the company."
+msgstr ""
+
+msgctxt "1216_Shinada"
+msgid "Well, you brought me this deal. All I know is what you told me."
+msgstr ""
+
+msgctxt "1228_Manager"
+msgid "Heh, fair enough."
+msgstr ""
+
+msgctxt "1240_Shinada"
+msgid ""
+"Okay, next, hobbies and skills. I don't need to BS this one. So, what to "
+"write?"
+msgstr ""
+
+msgctxt "1252_Shinada"
+msgid "\"Knocking balls out the park,\" yo. \"I'm a home run hammering machine!\""
+msgstr ""
+
+msgctxt "1264_Manager"
+msgid ""
+"That's a stretch. All you do is spend your time at the\r\n"
+"batting center, and you don't even play on a team.\r\n"
+"Is that even good enough?"
+msgstr ""
+
+msgctxt "1276_Shinada"
+msgid "Good enough? This is a proper skill, as far as I'm concerned."
+msgstr ""
+
+msgctxt "1288_Manager"
+msgid "If you say so."
+msgstr ""
+
+msgctxt "1300_Shinada"
+msgid "There. The résumé's good as gold."
+msgstr ""
+
+msgctxt "1312_Manager"
+msgid "Nice. Then let's get you over to that interview."
+msgstr ""
+
+msgctxt "1324_Shinada"
+msgid "You mean, like, right now?"
+msgstr ""
+
+msgctxt "1336_Manager"
+msgid ""
+"They're only looking for one new hire. You wouldn't want someone else to "
+"beat you to the punch, would you? I'll let the president know you're coming."
+msgstr ""
+
+msgctxt "1348_Manager"
+msgid ""
+"Oh, and good luck. If you get the job, come back with your first paycheck. "
+"To celebrate, we'll hook you up with our Super Steamy VIP Special!"
+msgstr ""
+
+msgctxt "1360_Shinada"
+msgid ""
+"Aww, you'd do that for little ol' me? You sure know how to motivate a guy. "
+"I'll head over there right now!"
+msgstr ""
+
+msgctxt "1384_Shinada"
+msgid "\"I was attracted by the president's reputation.\" There."
+msgstr ""
+
+msgctxt "1396_Manager"
+msgid "You never even met the guy. You are so full of it."
+msgstr ""
+
+msgctxt "1408_Shinada"
+msgid "That's why I used the word \"reputation.\""
+msgstr ""
+
+msgctxt "1420_Manager"
+msgid "I suppose that's true."
+msgstr ""
+
+msgctxt "1432_Shinada"
+msgid "\"I've always dreamed of working in food processing.\" That'll do."
+msgstr ""
+
+msgctxt "1444_Manager"
+msgid ""
+"You've never mentioned anything like that to me. And even\r\n"
+"if you had, I'd tell you to rethink your life."
+msgstr ""
+
+msgctxt "1456_Shinada"
+msgid ""
+"What do you expect me to say? I'm not about to write, \"Because I want a "
+"steady job\" as my reason for applying."
+msgstr ""
+
+msgctxt "1468_Manager"
+msgid "Yeah, I guess not."
+msgstr ""
+
+msgctxt "1480_Shinada"
+msgid "\"I like to get my balls rubbed at massage parlors. Aww yeah.\""
+msgstr ""
+
+msgctxt "1492_Manager"
+msgid ""
+"Are you <Italic>sure</Italic> you want to put that on your résumé? I'm in "
+"no position to talk, given my job, but still."
+msgstr ""
+
+msgctxt "1504_Shinada"
+msgid ""
+"What, you think they're gonna run this by HR? But hey, you\r\n"
+"never know! They might appreciate my honesty."
+msgstr ""
+
+msgctxt "1516_Manager"
+msgid "...I'm just gonna keep my mouth shut on this one."
+msgstr ""
+
+msgctxt "1528_Shinada"
+msgid "\"I've got balls of steel AND exceptional brawn!\" How's that?"
+msgstr ""
+
+msgctxt "1540_Manager"
+msgid ""
+"They did want someone with a brawny build, so maybe they would like that. I "
+"don't know about the balls part, though."
+msgstr ""
+
+msgctxt "1552_Shinada"
+msgid ""
+"Either way, if this job really does turn out to be for a bodyguard, I think "
+"I'm out."
+msgstr ""
+
+msgctxt "1564_Manager"
+msgid "You should ask about that at the interview."
+msgstr ""

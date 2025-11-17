@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "172"
+msgid "Select the number of input devices to use."
+msgstr ""
+
+msgctxt "208"
+msgid "Select the game you want to play."
+msgstr ""
+
+msgctxt "268"
+msgid "Would you like to play again?"
+msgstr ""
+
+msgctxt "316"
+msgid "Another game will cost you 800 yen."
+msgstr ""
+
+msgctxt "364"
+msgid "This mode requires two input devices to play."
+msgstr ""
+
+msgctxt "376"
+msgid "Would you like to view the tutorial?"
+msgstr ""
+
+msgctxt "424"
+msgid "Another game will cost you 1,600 yen."
+msgstr ""
+
+msgctxt "472"
+msgid "Select your opponent."
+msgstr ""
+
+msgctxt "4580"
+msgid "One"
+msgstr ""
+
+msgctxt "4584"
+msgid "Two"
+msgstr ""
+
+msgctxt "4588"
+msgid "Nine-ball"
+msgstr ""
+
+msgctxt "4592"
+msgid "Rotation"
+msgstr ""
+
+msgctxt "4596"
+msgid "Eight-ball"
+msgstr ""
+
+msgctxt "4600"
+msgid "Four-ball"
+msgstr ""
+
+msgctxt "4604"
+msgid "Play Again"
+msgstr ""
+
+msgctxt "4608"
+msgid "Quit"
+msgstr ""
+
+msgctxt "4612"
+msgid "Pay 800 Yen"
+msgstr ""
+
+msgctxt "4616"
+msgid "Employee"
+msgstr ""
+
+msgctxt "4620"
+msgid "Yes"
+msgstr ""
+
+msgctxt "4624"
+msgid "No"
+msgstr ""
+
+msgctxt "4628"
+msgid "Pay 1,600 Yen"
+msgstr ""
+
+msgctxt "4632"
+msgid "Makoto Kano (Beginner)"
+msgstr ""
+
+msgctxt "4636"
+msgid "Shunichi Nihama (Intermediate)"
+msgstr ""
+
+msgctxt "4640"
+msgid "Kiko Hirakawa (Advanced)"
+msgstr ""
+
+msgctxt "4644"
+msgid "Seiji Nakazato (Expert)"
+msgstr ""
+
+msgctxt "4648"
+msgid "Play Alone"
+msgstr ""
+
+msgctxt "4652"
+msgid "Show"
+msgstr ""
+
+msgctxt "4656"
+msgid "Hide"
+msgstr ""
+
+msgctxt "352_Employee"
+msgid "Please come again."
+msgstr ""
+
+msgctxt "460_Employee"
+msgid "Please come again."
+msgstr ""
+
+msgctxt "544_One"
+msgid ""
+"Show the cue ball's predicted path?\r\n"
+"(Displaying the trajectory enables easier play.)"
+msgstr ""

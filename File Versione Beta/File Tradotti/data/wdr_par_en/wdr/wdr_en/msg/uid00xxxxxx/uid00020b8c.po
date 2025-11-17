@@ -1,0 +1,153 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "360"
+msgid "Change characters?"
+msgstr "Cambiare personaggi?"
+
+msgctxt "3752"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "3756"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "3760"
+msgid "adv5_205_1/akiyama_5_205_050"
+msgstr "adv5_205_1/akiyama_5_205_050"
+
+msgctxt "3768"
+msgid "Change Characters"
+msgstr "Cambia Personaggi"
+
+msgctxt "3772"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "3776"
+msgid "No"
+msgstr "No"
+
+msgctxt "3780"
+msgid "adv5_205_1/akiyama_5_205_080"
+msgstr "adv5_205_1/akiyama_5_205_080"
+
+msgctxt "3784"
+msgid "adv5_205_1/akiyama_5_205_090"
+msgstr "adv5_205_1/akiyama_5_205_090"
+
+msgctxt "3788"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "3792"
+msgid "adv5_205_1/kiryu_5_205_040"
+msgstr "adv5_205_1/kiryu_5_205_040"
+
+msgctxt "3796"
+msgid "adv5_205_1/akiyama_5_205_070"
+msgstr "adv5_205_1/akiyama_5_205_070"
+
+msgctxt "3800"
+msgid "adv5_205_1/saejima_5_205_030"
+msgstr "adv5_205_1/saejima_5_205_030"
+
+msgctxt "3804"
+msgid "adv5_205_1/shinada_5_205_030"
+msgstr "adv5_205_1/shinada_5_205_030"
+
+msgctxt "3808"
+msgid "adv5_205_1/akiyama_5_205_110"
+msgstr "adv5_205_1/akiyama_5_205_110"
+
+msgctxt "3812"
+msgid "adv5_205_1/kiryu_5_205_030"
+msgstr "adv5_205_1/kiryu_5_205_030"
+
+msgctxt "3816"
+msgid "adv5_205_1/akiyama_5_205_060"
+msgstr "adv5_205_1/akiyama_5_205_060"
+
+msgctxt "3820"
+msgid "adv5_205_1/saejima_5_205_020"
+msgstr "adv5_205_1/saejima_5_205_020"
+
+msgctxt "3824"
+msgid "adv5_205_1/shinada_5_205_020"
+msgstr "adv5_205_1/shinada_5_205_020"
+
+msgctxt "3828"
+msgid "adv5_205_1/akiyama_5_205_100"
+msgstr "adv5_205_1/akiyama_5_205_100"
+
+msgctxt "156_Akiyama"
+msgid "%s-san. You good and ready?"
+msgstr "%s-san. Sei a posto e pronto?"
+
+msgctxt "168_Akiyama"
+msgid "%s-san. Finished getting ready?"
+msgstr "%s-san. Hai finito di prepararti?"
+
+msgctxt "180_Akiyama"
+msgid "Finished getting ready?"
+msgstr "Hai finito di prepararti?"
+
+msgctxt "192_Player"
+msgid "No, I still have things to take care of."
+msgstr "No, ho ancora delle cose da sbrigare."
+
+msgctxt "204_Akiyama"
+msgid "All right. Let me know when you're done."
+msgstr "Ok. Fammi sapere quando hai finito."
+
+msgctxt "216_Player"
+msgid "No, still gotta tie up of a few loose ends."
+msgstr "No, devo ancora sistemare un paio di faccende in sospeso."
+
+msgctxt "228_Akiyama"
+msgid "All right. Let me know when you're done."
+msgstr "Ok. Fammi sapere quando hai finito."
+
+msgctxt "240_Player"
+msgid "Nope, still got some stuff I need to do."
+msgstr "Na, c'ho ancora un po' di roba da sbrigare."
+
+msgctxt "252_Akiyama"
+msgid "All right. Say the word when you're done."
+msgstr "Va bene. Quando hai fatto, dimmi pure."
+
+msgctxt "276_Player"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "288_Akiyama"
+msgid "Okay, it's almost time."
+msgstr "Ok, è quasi ora."
+
+msgctxt "300_Player"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "312_Akiyama"
+msgid "Okay, it's almost time."
+msgstr "Ok, è quasi ora."
+
+msgctxt "324_Player"
+msgid "Yes!"
+msgstr "Sì!"
+
+msgctxt "336_Akiyama"
+msgid "Good, it's almost time."
+msgstr "Bene, manca poco."

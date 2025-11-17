@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "624"
+msgid "You got <Color:8>Underground Casino Pass<Color:Default>."
+msgstr ""
+
+msgctxt "8108"
+msgid "Lottery Clerk"
+msgstr ""
+
+msgctxt "8112"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8116"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "8120"
+msgid "One"
+msgstr ""
+
+msgctxt "8124"
+msgid "Seven"
+msgstr ""
+
+msgctxt "8128"
+msgid "Nine"
+msgstr ""
+
+msgctxt "8132"
+msgid "Random"
+msgstr ""
+
+msgctxt "8136"
+msgid "Consecutive"
+msgstr ""
+
+msgctxt "8140"
+msgid "Scattered"
+msgstr ""
+
+msgctxt "8144"
+msgid "Losing Tickets"
+msgstr ""
+
+msgctxt "8148"
+msgid "Winning Tickets"
+msgstr ""
+
+msgctxt "8152"
+msgid "Three-Year-Old Tickets"
+msgstr ""
+
+msgctxt "72_Lottery Clerk"
+msgid "Hello. How may I help you?"
+msgstr ""
+
+msgctxt "84_Saejima"
+msgid "(What'd the voice on the phone say? The first bit of the password was...)"
+msgstr ""
+
+msgctxt "132_Saejima"
+msgid "(The next bit of the password was...)"
+msgstr ""
+
+msgctxt "180_Saejima"
+msgid "(And then finally...)"
+msgstr ""
+
+msgctxt "240_Saejima"
+msgid "One random losing ticket."
+msgstr ""
+
+msgctxt "252_Saejima"
+msgid "One random winning ticket."
+msgstr ""
+
+msgctxt "264_Saejima"
+msgid "One random three-year-old ticket."
+msgstr ""
+
+msgctxt "276_Saejima"
+msgid "One consecutive losing ticket."
+msgstr ""
+
+msgctxt "288_Saejima"
+msgid "One consecutive winning ticket."
+msgstr ""
+
+msgctxt "300_Saejima"
+msgid "One consecutive three-year-old ticket."
+msgstr ""
+
+msgctxt "312_Saejima"
+msgid "One scattered losing ticket."
+msgstr ""
+
+msgctxt "324_Saejima"
+msgid "One scattered winning ticket."
+msgstr ""
+
+msgctxt "336_Saejima"
+msgid "One scattered three-year-old ticket."
+msgstr ""
+
+msgctxt "348_Saejima"
+msgid "Seven random losing tickets."
+msgstr ""
+
+msgctxt "360_Saejima"
+msgid "Seven random winning tickets."
+msgstr ""
+
+msgctxt "372_Saejima"
+msgid "Seven random three-year-old tickets."
+msgstr ""
+
+msgctxt "384_Saejima"
+msgid "Seven consecutive losing tickets."
+msgstr ""
+
+msgctxt "396_Saejima"
+msgid "Seven consecutive winning tickets."
+msgstr ""
+
+msgctxt "408_Saejima"
+msgid "Seven consecutive three-year-old tickets."
+msgstr ""
+
+msgctxt "420_Saejima"
+msgid "Seven scattered losing tickets."
+msgstr ""
+
+msgctxt "432_Saejima"
+msgid "Seven scattered winning tickets."
+msgstr ""
+
+msgctxt "444_Saejima"
+msgid "Seven scattered three-year-old tickets."
+msgstr ""
+
+msgctxt "456_Saejima"
+msgid "Nine random losing tickets."
+msgstr ""
+
+msgctxt "468_Saejima"
+msgid "Nine random winning tickets."
+msgstr ""
+
+msgctxt "480_Saejima"
+msgid "Nine random three-year-old tickets."
+msgstr ""
+
+msgctxt "492_Saejima"
+msgid "Nine consecutive losing tickets."
+msgstr ""
+
+msgctxt "504_Saejima"
+msgid "Nine consecutive winning tickets."
+msgstr ""
+
+msgctxt "516_Saejima"
+msgid "Nine consecutive three-year-old tickets."
+msgstr ""
+
+msgctxt "528_Saejima"
+msgid "Nine scattered losing tickets."
+msgstr ""
+
+msgctxt "540_Saejima"
+msgid "Nine scattered winning tickets."
+msgstr ""
+
+msgctxt "552_Saejima"
+msgid "Nine scattered three-year old tickets."
+msgstr ""
+
+msgctxt "564_Lottery Clerk"
+msgid "Um..."
+msgstr ""
+
+msgctxt "576_Lottery Clerk"
+msgid "Could you not fool around, please?"
+msgstr ""
+
+msgctxt "588_Saejima"
+msgid "(Guess that was wrong.)"
+msgstr ""
+
+msgctxt "600_Lottery Clerk"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "612_Lottery Clerk"
+msgid "I know what that means!"
+msgstr ""
+
+msgctxt "648_Lottery Clerk"
+msgid "May Lady Luck be with you!"
+msgstr ""
+
+msgctxt "660_Saejima"
+msgid "'Preciate it."
+msgstr ""
+
+msgctxt "672_Saejima"
+msgid "(Finally got the damn pass! Now back to Ambitious.)"
+msgstr ""

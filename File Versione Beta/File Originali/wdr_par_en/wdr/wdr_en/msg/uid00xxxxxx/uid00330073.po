@@ -1,0 +1,571 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "268"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round when you are "
+"playing cho-han.\r\n"
+" "
+msgstr ""
+
+msgctxt "376"
+msgid "You got <Color:8>Haruka's Lunch<Color:Default>."
+msgstr ""
+
+msgctxt "436"
+msgid "You got <Color:8>Haruka's First-Aid Kit<Color:Default>."
+msgstr ""
+
+msgctxt "496"
+msgid "You got <Color:8>Red Jewel<Color:Default>."
+msgstr ""
+
+msgctxt "556"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr ""
+
+msgctxt "616"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr ""
+
+msgctxt "676"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr ""
+
+msgctxt "784"
+msgid "You got <Color:8>Morning Glory Belly Warmer<Color:Default>."
+msgstr ""
+
+msgctxt "2200"
+msgid "You got a <Color:8>Toughness Emperor<Color:Default>."
+msgstr ""
+
+msgctxt "2224"
+msgid "You got a <Color:8>Tauriner ++<Color:Default>."
+msgstr ""
+
+msgctxt "2284"
+msgid "You got a <Color:8>Toughness Infinity<Color:Default>."
+msgstr ""
+
+msgctxt "2308"
+msgid "You got a <Color:8>Tauriner Maximum<Color:Default>."
+msgstr ""
+
+msgctxt "2368"
+msgid "You got a <Color:8>Bulletproof Glass Amulet<Color:Default>."
+msgstr ""
+
+msgctxt "2428"
+msgid "You got a <Color:8>Battle Mail<Color:Default>."
+msgstr ""
+
+msgctxt "2488"
+msgid "You got a <Color:8>Goddess of Children Amulet<Color:Default>."
+msgstr ""
+
+msgctxt "2548"
+msgid "You got an <Color:8>Immovable Belt<Color:Default>."
+msgstr ""
+
+msgctxt "2608"
+msgid "You got a <Color:8>Gambler's Binding<Color:Default>."
+msgstr ""
+
+msgctxt "2668"
+msgid "You got a <Color:8>Payback Ring<Color:Default>."
+msgstr ""
+
+msgctxt "2728"
+msgid "You got an <Color:8>Antique Chain Mail<Color:Default>."
+msgstr ""
+
+msgctxt "2788"
+msgid "You got a <Color:8>Yakuza Training Gear<Color:Default>."
+msgstr ""
+
+msgctxt "2848"
+msgid "You got a <Color:8>High Win Rate Token<Color:Default>."
+msgstr ""
+
+msgctxt "2872"
+msgid "You got an <Color:8>Auto Token<Color:Default>."
+msgstr ""
+
+msgctxt "2932"
+msgid "You got a <Color:8>Chance Stone<Color:Default>."
+msgstr ""
+
+msgctxt "2956"
+msgid "You got a <Color:8>Gambler's Amulet<Color:Default>."
+msgstr ""
+
+msgctxt "3016"
+msgid "You got a <Color:8>Player's Piece<Color:Default>."
+msgstr ""
+
+msgctxt "3040"
+msgid "You got a <Color:8>Royal Joker Card<Color:Default>."
+msgstr ""
+
+msgctxt "3100"
+msgid "You got a <Color:8>Bust Amulet<Color:Default>."
+msgstr ""
+
+msgctxt "3124"
+msgid "You got a <Color:8>Lucky Hanafuda Card<Color:Default>."
+msgstr ""
+
+msgctxt "3184"
+msgid "You got <Color:8>Even Goro's Beads<Color:Default>."
+msgstr ""
+
+msgctxt "3208"
+msgid "You got a <Color:8>Lopsided Cigarette<Color:Default>."
+msgstr ""
+
+msgctxt "3268"
+msgid "You got a <Color:8>Red Jewel<Color:Default>."
+msgstr ""
+
+msgctxt "3292"
+msgid "You got a <Color:8>Zero Jewel<Color:Default>."
+msgstr ""
+
+msgctxt "3352"
+msgid "You got a <Color:8>1-2-3 Gum<Color:Default>."
+msgstr ""
+
+msgctxt "3376"
+msgid "You got a <Color:8>Trips Yokan<Color:Default>."
+msgstr ""
+
+msgctxt "3436"
+msgid "You got a <Color:8>Give-up Piece<Color:Default>."
+msgstr ""
+
+msgctxt "3460"
+msgid "You got a <Color:8>Piss Mountain Stone<Color:Default>."
+msgstr ""
+
+msgctxt "35908"
+msgid "Staff"
+msgstr ""
+
+msgctxt "35912"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "35916"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "35920"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "35924"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "35928"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "35932"
+msgid "dummy"
+msgstr ""
+
+msgctxt "35936"
+msgid "Buy Something"
+msgstr ""
+
+msgctxt "35940"
+msgid "Accept Prizes"
+msgstr ""
+
+msgctxt "35944"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "35948"
+msgid "Employee"
+msgstr ""
+
+msgctxt "76_Staff"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "88_Haruka"
+msgid "Uncle Kaz! Buy me a <Color:8>Bean Paste Bun<Color:Default>, please!"
+msgstr ""
+
+msgctxt "100_Kiryu"
+msgid "(Looks like Haruka wants a <Color:8>Bean Paste Bun<Color:Default>.)"
+msgstr ""
+
+msgctxt "124_Haruka"
+msgid "But I wanted a <Color:8>Bean Paste Bun<Color:Default>..."
+msgstr ""
+
+msgctxt "136_Staff"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "160_Haruka"
+msgid "Thank you, Uncle Kaz!"
+msgstr ""
+
+msgctxt "184_Kiryu"
+msgid "(Haruka sure seems happy.)"
+msgstr ""
+
+msgctxt "256_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! This is for you!\r\n"
+" "
+msgstr ""
+
+msgctxt "316_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come play cho-han with you next time, "
+"okay?\r\n"
+" "
+msgstr ""
+
+msgctxt "364_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I have a present for you!\r\n"
+" "
+msgstr ""
+
+msgctxt "424_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "484_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "544_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "604_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "664_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "760_Haruka"
+msgid ""
+"Thanks for doing all that stuff for me, Uncle Kaz!\r\n"
+" "
+msgstr ""
+
+msgctxt "772_Staff"
+msgid ""
+"Here, this is a special present, just for you!\r\n"
+" "
+msgstr ""
+
+msgctxt "796_Haruka"
+msgid "Thanks, Uncle Kaz! I love you!"
+msgstr ""
+
+msgctxt "832_Staff"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "844_Staff"
+msgid ""
+"I have some items from the Online Shop. Please take a look.\r\n"
+" "
+msgstr ""
+
+msgctxt "868_Staff"
+msgid "You received a package from the Online Shop.  "
+msgstr ""
+
+msgctxt "880_Staff"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "904_Staff"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "928_Staff"
+msgid "Thank you very much. Please come again."
+msgstr ""
+
+msgctxt "940_Staff"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "952_Staff"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "964_Employee"
+msgid ""
+"You're here to pick up your items? Which one would you like to pick up?\r\n"
+" "
+msgstr ""
+
+msgctxt "988_Staff"
+msgid "You got a <Color:8>Payback Ring<Color:Default>."
+msgstr ""
+
+msgctxt "1024_Staff"
+msgid "You got a <Color:8>Champion's Ring<Color:Default>."
+msgstr ""
+
+msgctxt "1060_Staff"
+msgid "You got <Color:8>Eager Earrings<Color:Default>."
+msgstr ""
+
+msgctxt "1096_Staff"
+msgid "You got an <Color:8>Immovable Belt<Color:Default>."
+msgstr ""
+
+msgctxt "1132_Staff"
+msgid "You got a <Color:8>Shachihoko<Color:Default>."
+msgstr ""
+
+msgctxt "1168_Staff"
+msgid "You got a <Color:8>Golden Pistol<Color:Default>."
+msgstr ""
+
+msgctxt "1204_Staff"
+msgid "You got a <Color:8>Dragon Scale<Color:Default>."
+msgstr ""
+
+msgctxt "1240_Staff"
+msgid "You got a <Color:8>Seal of the Dragon<Color:Default>."
+msgstr ""
+
+msgctxt "1276_Staff"
+msgid "You got a <Color:8>Toughness Pin<Color:Default>."
+msgstr ""
+
+msgctxt "1312_Staff"
+msgid "You got a <Color:8>Dragon Tail<Color:Default>."
+msgstr ""
+
+msgctxt "1348_Staff"
+msgid "You got a <Color:8>Lucky Binding<Color:Default>."
+msgstr ""
+
+msgctxt "1384_Staff"
+msgid "You got a <Color:8>Ebisu Socks<Color:Default>."
+msgstr ""
+
+msgctxt "1420_Staff"
+msgid "You got a <Color:8>Love Shine Sticks<Color:Default>."
+msgstr ""
+
+msgctxt "1456_Staff"
+msgid "You got a <Color:8>Beads of Good Fortune<Color:Default>."
+msgstr ""
+
+msgctxt "1492_Staff"
+msgid "You got a <Color:8>Leech Gloves<Color:Default>."
+msgstr ""
+
+msgctxt "1528_Staff"
+msgid "You got an <Color:8>Encounter Finder<Color:Default>."
+msgstr ""
+
+msgctxt "1564_Staff"
+msgid "You got a <Color:8>Snowman Hammer<Color:Default>."
+msgstr ""
+
+msgctxt "1600_Staff"
+msgid "You got a <Color:8>Celebrity Perfume<Color:Default>."
+msgstr ""
+
+msgctxt "1636_Staff"
+msgid "You got a <Color:8>Penguin Spear<Color:Default>."
+msgstr ""
+
+msgctxt "1672_Staff"
+msgid "You got a <Color:8>Fortune Mallet<Color:Default>."
+msgstr ""
+
+msgctxt "1708_Staff"
+msgid "You got a <Color:8>Tiger Mail<Color:Default>."
+msgstr ""
+
+msgctxt "1744_Staff"
+msgid "You got a <Color:8>Expulsion S-12<Color:Default>."
+msgstr ""
+
+msgctxt "1780_Staff"
+msgid "You got a <Color:8>Frozen Banana<Color:Default>."
+msgstr ""
+
+msgctxt "1816_Staff"
+msgid "You got a <Color:8>SPARK 20,000V<Color:Default>."
+msgstr ""
+
+msgctxt "1852_Staff"
+msgid "You got a <Color:8>Platinum Triangle Ruler<Color:Default>."
+msgstr ""
+
+msgctxt "1888_Staff"
+msgid "You got a <Color:8>Eye of the Dragon<Color:Default>."
+msgstr ""
+
+msgctxt "1924_Staff"
+msgid "You got a <Color:8>Master Ball<Color:Default>."
+msgstr ""
+
+msgctxt "1960_Staff"
+msgid "You got a <Color:8>Frozen Tuna<Color:Default>."
+msgstr ""
+
+msgctxt "1996_Staff"
+msgid "You got a <Color:8>Dragon-drive 99<Color:Default>."
+msgstr ""
+
+msgctxt "2032_Staff"
+msgid "You got a <Color:8>Sacrifice Stone<Color:Default>."
+msgstr ""
+
+msgctxt "2068_Staff"
+msgid "You got a <Color:8>Muramasa Blade<Color:Default>."
+msgstr ""
+
+msgctxt "2104_Staff"
+msgid "You got a <Color:8>Dragon Mail<Color:Default>."
+msgstr ""
+
+msgctxt "2140_Staff"
+msgid "You got a <Color:8>War God Talisman<Color:Default>."
+msgstr ""
+
+msgctxt "2176_Staff"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr ""
+
+msgctxt "2260_Staff"
+msgid "You got a <Color:8>Staminan Spark<Color:Default>."
+msgstr ""
+
+msgctxt "2344_Staff"
+msgid "You got an <Color:8>Assassin's Spear<Color:Default>."
+msgstr ""
+
+msgctxt "2404_Staff"
+msgid "You got a <Color:8>Ballbuster<Color:Default>."
+msgstr ""
+
+msgctxt "2464_Staff"
+msgid "You got a <Color:8>Brickshitter Beer<Color:Default>."
+msgstr ""
+
+msgctxt "2524_Staff"
+msgid "You got a <Color:8>Patriarch's Driver<Color:Default>."
+msgstr ""
+
+msgctxt "2584_Staff"
+msgid "You got a <Color:8>Sakura Storm<Color:Default>."
+msgstr ""
+
+msgctxt "2644_Staff"
+msgid "You got <Color:8>Double Leeks<Color:Default>."
+msgstr ""
+
+msgctxt "2704_Staff"
+msgid "You got a <Color:8>Zap Gun<Color:Default>."
+msgstr ""
+
+msgctxt "2764_Staff"
+msgid "You got a <Color:8>Drow-Z 55<Color:Default>."
+msgstr ""
+
+msgctxt "2824_Staff"
+msgid "You got a <Color:8>High Payout Token<Color:Default>."
+msgstr ""
+
+msgctxt "2908_Staff"
+msgid "You got a <Color:8>Get-Rich-Quick Charm<Color:Default>."
+msgstr ""
+
+msgctxt "2992_Staff"
+msgid "You got a <Color:8>Banker's Piece<Color:Default>."
+msgstr ""
+
+msgctxt "3076_Staff"
+msgid "You got a <Color:8>Blackjack Amulet<Color:Default>."
+msgstr ""
+
+msgctxt "3160_Staff"
+msgid "You got an <Color:8>All 1's Charm<Color:Default>."
+msgstr ""
+
+msgctxt "3244_Staff"
+msgid "You got a <Color:8>Black Jewel<Color:Default>."
+msgstr ""
+
+msgctxt "3328_Staff"
+msgid "You got a <Color:8>Lucky Tile<Color:Default>."
+msgstr ""
+
+msgctxt "3412_Staff"
+msgid "You got a <Color:8>10-10-1 Charm<Color:Default>."
+msgstr ""
+
+msgctxt "3496_Employee"
+msgid ""
+"I was told, \"I will only send an item pack once.\"  Please come again.\r\n"
+" \r\n"
+" "
+msgstr ""
+
+msgctxt "3508_Employee"
+msgid ""
+"I was told, \"I will send it again if you lose it.\" Please stop by "
+"anytime.\r\n"
+" \r\n"
+" "
+msgstr ""
+
+msgctxt "3520_Staff"
+msgid ""
+"You're not going to pick anything up? Hope to see you again.\r\n"
+" "
+msgstr ""
+
+msgctxt "3532_Staff"
+msgid ""
+"I currently don't have anything to give you. Please come again.\r\n"
+" "
+msgstr ""

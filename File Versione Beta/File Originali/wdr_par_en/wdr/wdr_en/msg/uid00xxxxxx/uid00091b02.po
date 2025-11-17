@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "428"
+msgid "You got <Color:8>Ghost Pine Photo<Color:Default>."
+msgstr ""
+
+msgctxt "500"
+msgid "You handed over <Color:8>Time Capsule<Color:Default>."
+msgstr ""
+
+msgctxt "680"
+msgid "You got <Color:8>Lighter Oil<Color:Default>."
+msgstr ""
+
+msgctxt "800"
+msgid "You got 500 experience points."
+msgstr ""
+
+msgctxt "8696"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "8700"
+msgid "Man in Squishy-Looking Coat"
+msgstr ""
+
+msgctxt "8704"
+msgid "Man from Tsukimino"
+msgstr ""
+
+msgctxt "8708"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "8712"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8716"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8720"
+msgid "2d_jm_yuki_yureimatsu"
+msgstr ""
+
+msgctxt "8724"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "8728"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "8732"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "8736"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "8740"
+msgid "Mission Added"
+msgstr ""
+
+msgctxt "116_Saejima"
+msgid "(Don't recognize this guy.)"
+msgstr ""
+
+msgctxt "140_Man in Squishy-Looking Coat"
+msgid "Uh, excuse me? Are you from this village?"
+msgstr ""
+
+msgctxt "152_Saejima"
+msgid "Uh, yeah. Guess so."
+msgstr ""
+
+msgctxt "164_Man from Tsukimino"
+msgid ""
+"I beg your pardon. I just arrived from Tsukimino. My father's place is in "
+"the village."
+msgstr ""
+
+msgctxt "176_Saejima"
+msgid "And what, ya lookin' for his house?"
+msgstr ""
+
+msgctxt "188_Man from Tsukimino"
+msgid ""
+"Not exactly. I'm actually looking for a certain tree on the mountain. It's "
+"called the Ghost Pine."
+msgstr ""
+
+msgctxt "200_Saejima"
+msgid "Ain't heard of it."
+msgstr ""
+
+msgctxt "212_Man from Tsukimino"
+msgid "I have a photo here. Do you recognize it?"
+msgstr ""
+
+msgctxt "236_Saejima"
+msgid "Definitely an odd shape for a tree. What's so special 'bout it?"
+msgstr ""
+
+msgctxt "248_Man from Tsukimino"
+msgid "When my father was a child, he buried a time capsule there."
+msgstr ""
+
+msgctxt "260_Man from Tsukimino"
+msgid ""
+"I want to dig it up, but I have no idea where that tree is. Plus, everyone "
+"here says it's too dangerous to even go on the mountain."
+msgstr ""
+
+msgctxt "272_Saejima"
+msgid "Don't yer father know where it is?"
+msgstr ""
+
+msgctxt "284_Man from Tsukimino"
+msgid "He passed away recently... That's why I came up here to find the capsule."
+msgstr ""
+
+msgctxt "296_Saejima"
+msgid "Sorry for yer loss."
+msgstr ""
+
+msgctxt "308_Man from Tsukimino"
+msgid ""
+"It's fine－we weren't close. I've hardly thought of him in the thirty years "
+"since I left this village."
+msgstr ""
+
+msgctxt "320_Man from Tsukimino"
+msgid "But when I heard he died, I suddenly thought of that time capsule."
+msgstr ""
+
+msgctxt "332_Man from Tsukimino"
+msgid ""
+"I felt this urge to find it, and take it to his grave. I know it's just for "
+"my own satisfaction, hahaha. But..."
+msgstr ""
+
+msgctxt "344_Saejima"
+msgid "(But death makes ya think, huh kid?)"
+msgstr ""
+
+msgctxt "356_Saejima"
+msgid "Hey, lend me the photo."
+msgstr ""
+
+msgctxt "368_Man from Tsukimino"
+msgid "Huh? Um. Why?"
+msgstr ""
+
+msgctxt "380_Saejima"
+msgid ""
+"'Cause I wanna help ya. I still hunt on the mountain, despite the dangers. "
+"I might spot yer tree while I'm up there."
+msgstr ""
+
+msgctxt "392_Man from Tsukimino"
+msgid "You're going to look for it?"
+msgstr ""
+
+msgctxt "404_Saejima"
+msgid "I'll keep an eye out. Just don't expect too much."
+msgstr ""
+
+msgctxt "416_Man from Tsukimino"
+msgid "Thank you so much! It means a lot to me."
+msgstr ""
+
+msgctxt "452_Mission Added"
+msgid "\"Find the Time Capsule\" was added to the list of missions."
+msgstr ""
+
+msgctxt "464_Man in Squishy-Looking Coat"
+msgid ""
+"My father said he buried his time capsule under a tree called the Ghost "
+"Pine. Please, it would mean a lot if you found it."
+msgstr ""
+
+msgctxt "476_Saejima"
+msgid "Sorry, I kept ya waitin'. Here's yer father's capsule."
+msgstr ""
+
+msgctxt "488_Man from Tsukimino"
+msgid "You actually found it! Wow!"
+msgstr ""
+
+msgctxt "524_Saejima"
+msgid "Wonder what yer dad put in there as a kid?"
+msgstr ""
+
+msgctxt "536_Man from Tsukimino"
+msgid "Let's see...!"
+msgstr ""
+
+msgctxt "548_Saejima"
+msgid "This should be interestin'."
+msgstr ""
+
+msgctxt "560_Man from Tsukimino"
+msgid ""
+"It's a tin of candy, a round rock, lots of bottle caps, and... a little tin "
+"figurine."
+msgstr ""
+
+msgctxt "572_Saejima"
+msgid ""
+"Heh. Maybe not that interestin'. But they musta been real treasures to yer "
+"dad when he was a boy. Take 'em to his grave; his spirit'll get a kick "
+"outta them."
+msgstr ""
+
+msgctxt "584_Man from Tsukimino"
+msgid "Yeah, why not."
+msgstr ""
+
+msgctxt "644_Man from Tsukimino"
+msgid "Thank you so much, really. Maybe I'll finally get some closure with my dad."
+msgstr ""
+
+msgctxt "656_Saejima"
+msgid "Glad I could help ya."
+msgstr ""
+
+msgctxt "668_Man from Tsukimino"
+msgid "Please take this as a token of my gratitude."
+msgstr ""
+
+msgctxt "704_Man from Tsukimino"
+msgid "I've got to be going."
+msgstr ""
+
+msgctxt "716_Saejima"
+msgid "Take care."
+msgstr ""

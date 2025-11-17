@@ -1,0 +1,61 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-25\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "281\tSKILL_NAME"
+msgid "Ice Walk"
+msgstr "Camminata sul Ghiaccio"
+
+msgctxt "290\tSKILL_NAME"
+msgid "Snowman"
+msgstr "Pupazzo di neve"
+
+msgctxt "298\tSKILL_NAME"
+msgid "Spotter"
+msgstr "Osservatore"
+
+msgctxt "306\tSKILL_NAME"
+msgid "Stealth"
+msgstr "Furtività"
+
+msgctxt "314\tSKILL_NAME"
+msgid "Deadeye"
+msgstr "Occhio di Falco"
+
+msgctxt "322\tSKILL_NAME"
+msgid "Mastery"
+msgstr "Maestria"
+
+msgctxt "330\tSKILL_EXPLANATION"
+msgid "Boost snow walking speed"
+msgstr "Aumenta la velocità di movimento nella neve"
+
+msgctxt "355\tSKILL_EXPLANATION"
+msgid "Cut blizzard health loss"
+msgstr "Riduce la perdita di salute da bufera"
+
+msgctxt "380\tSKILL_EXPLANATION"
+msgid "See animals on minimap"
+msgstr "Vedi animali sulla minimappa"
+
+msgctxt "403\tSKILL_EXPLANATION"
+msgid "Boost camo in crouch"
+msgstr "Aumenta la mimetica mentre sei accovacciato"
+
+msgctxt "424\tSKILL_EXPLANATION"
+msgid "Boost aim"
+msgstr "Potenzia la mira"
+
+msgctxt "434\tSKILL_EXPLANATION"
+msgid "Boost aim/decrease health loss"
+msgstr "Migliora la mira/Diminuisce la perdita di salute"

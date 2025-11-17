@@ -1,0 +1,724 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "23704"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "23708"
+msgid "Gruff Lady"
+msgstr ""
+
+msgctxt "23712"
+msgid "SS1_F_OBA_TAX_angry"
+msgstr ""
+
+msgctxt "23716"
+msgid "SS1_F_OBA_TAX_sleep_st"
+msgstr ""
+
+msgctxt "23720"
+msgid "SS1_F_OBA_TAX_sleep_lp"
+msgstr ""
+
+msgctxt "23724"
+msgid "Take the Long Way"
+msgstr ""
+
+msgctxt "23728"
+msgid "Take the Short Way"
+msgstr ""
+
+msgctxt "23732"
+msgid "Wake the Passenger and Ask"
+msgstr ""
+
+msgctxt "23736"
+msgid "SS1_F_OBA_TAX_sleep_ed"
+msgstr ""
+
+msgctxt "23740"
+msgid "SS1_P_TAX_nod_A"
+msgstr ""
+
+msgctxt "23744"
+msgid "SS1_F_OBA_TAX_question"
+msgstr ""
+
+msgctxt "23748"
+msgid "SS1_F_OBA_TAX_talk"
+msgstr ""
+
+msgctxt "23752"
+msgid "SS1_P_TAX_question"
+msgstr ""
+
+msgctxt "23756"
+msgid "SS1_F_OBA_TAX_no"
+msgstr ""
+
+msgctxt "23760"
+msgid "SS1_P_TAX_sad"
+msgstr ""
+
+msgctxt "23764"
+msgid "SS1_F_OBA_TAX_lookout_st"
+msgstr ""
+
+msgctxt "23768"
+msgid "SS1_F_OBA_TAX_lookout_ed"
+msgstr ""
+
+msgctxt "23772"
+msgid "SS1_P_TAX_no"
+msgstr ""
+
+msgctxt "23776"
+msgid "SS1_F_OBA_TAX_nod"
+msgstr ""
+
+msgctxt "23780"
+msgid "SS1_P_TAX_idle_hearing"
+msgstr ""
+
+msgctxt "23784"
+msgid "SS1_F_OBA_TAX_tefuri"
+msgstr ""
+
+msgctxt "23788"
+msgid "SS1_F_OBA_TAX_laugh"
+msgstr ""
+
+msgctxt "23792"
+msgid "Talk About Politics"
+msgstr ""
+
+msgctxt "23796"
+msgid "Tell a Dirty Joke"
+msgstr ""
+
+msgctxt "23800"
+msgid "Talk About Sports"
+msgstr ""
+
+msgctxt "23804"
+msgid " Ask the Passenger to Get Change"
+msgstr ""
+
+msgctxt "23808"
+msgid "Go and Get Change"
+msgstr ""
+
+msgctxt "23812"
+msgid "Consider the Change a Tip"
+msgstr ""
+
+msgctxt "44_Kiryu"
+msgid "What route would you like to go?"
+msgstr ""
+
+msgctxt "56_Gruff Lady"
+msgid "I ain't from 'round here, dolt! How the hell am I s'posed to know the way!?"
+msgstr ""
+
+msgctxt "68_Gruff Lady"
+msgid ""
+"I'll leave it to you. Just get us there however's best. I'm gonna have "
+"myself a little nap!"
+msgstr ""
+
+msgctxt "80_Gruff Lady"
+msgid "Zzz... Zzz..."
+msgstr ""
+
+msgctxt "92_Kiryu"
+msgid "(So the route is up to me, huh?)"
+msgstr ""
+
+msgctxt "104_Kiryu"
+msgid "(She'll never know if I take the long way.)"
+msgstr ""
+
+msgctxt "116_Gruff Lady"
+msgid "Hey, driver!"
+msgstr ""
+
+msgctxt "128_Kiryu"
+msgid "(She woke up...)"
+msgstr ""
+
+msgctxt "140_Kiryu"
+msgid "Yes?"
+msgstr ""
+
+msgctxt "152_Gruff Lady"
+msgid "How long till we get there?"
+msgstr ""
+
+msgctxt "164_Kiryu"
+msgid "About thirty minutes."
+msgstr ""
+
+msgctxt "176_Gruff Lady"
+msgid "What!? That can't be right! I heard it only takes about fifteen!"
+msgstr ""
+
+msgctxt "188_Kiryu"
+msgid "But you said you'd leave it up to－"
+msgstr ""
+
+msgctxt "200_Gruff Lady"
+msgid "Idiot! I meant I'd leave figurin' out the shortest route to you!"
+msgstr ""
+
+msgctxt "212_Gruff Lady"
+msgid ""
+"Who'd wanna spend any longer with you than they have to!? Take the quickest "
+"route!"
+msgstr ""
+
+msgctxt "224_Kiryu"
+msgid "Okay, sorry about that."
+msgstr ""
+
+msgctxt "236_Kiryu"
+msgid "(She's asleep, but taking the shortest route would be the best idea.)"
+msgstr ""
+
+msgctxt "248_Gruff Lady"
+msgid "Hey, driver!"
+msgstr ""
+
+msgctxt "260_Kiryu"
+msgid "(She woke up...)"
+msgstr ""
+
+msgctxt "272_Kiryu"
+msgid "Yes?"
+msgstr ""
+
+msgctxt "284_Gruff Lady"
+msgid "Where are we now?"
+msgstr ""
+
+msgctxt "296_Kiryu"
+msgid "<Color:22>Chikuzengawa Street<Color:Default>."
+msgstr ""
+
+msgctxt "308_Gruff Lady"
+msgid "Idiot! I ain't know the roads 'round here!"
+msgstr ""
+
+msgctxt "320_Gruff Lady"
+msgid ""
+"Ya sure this <Color:22>Chikuzengawa Street<Color:Default> is the quickest "
+"way to go?"
+msgstr ""
+
+msgctxt "332_Gruff Lady"
+msgid ""
+"Heh! Bet you're thinkin' you can rip me off just 'cause I'm not from 'round "
+"here!"
+msgstr ""
+
+msgctxt "344_Kiryu"
+msgid ""
+"No, this is definitely the shortest route. You can check it on the map if "
+"you'd like."
+msgstr ""
+
+msgctxt "356_Gruff Lady"
+msgid ""
+"Hmph. Never mind. If you insist, I'll have to trust ya. Just don't go "
+"gettin' in any accidents."
+msgstr ""
+
+msgctxt "368_Kiryu"
+msgid "I'll be careful."
+msgstr ""
+
+msgctxt "380_Kiryu"
+msgid ""
+"(It seems like she believed me. I should have confirmed the route in "
+"advance given that she doesn't know the lay of the land.)"
+msgstr ""
+
+msgctxt "392_Kiryu"
+msgid "(It'd be best to confirm the route with her.)"
+msgstr ""
+
+msgctxt "404_Kiryu"
+msgid "Excuse me?"
+msgstr ""
+
+msgctxt "416_Gruff Lady"
+msgid "What!? I'm tryin' to sleep here!"
+msgstr ""
+
+msgctxt "428_Kiryu"
+msgid ""
+"I just wanted to confirm the route with you. <Color:22>Nagasu "
+"Boulevard<Color:Default> is the most direct way there."
+msgstr ""
+
+msgctxt "440_Kiryu"
+msgid ""
+"But at this time of day it's pretty congested. I think we should take "
+"<Color:22>Chikuzengawa Street<Color:Default> instead."
+msgstr ""
+
+msgctxt "452_Gruff Lady"
+msgid "That so..."
+msgstr ""
+
+msgctxt "464_Kiryu"
+msgid "Would you like to check on the map?"
+msgstr ""
+
+msgctxt "476_Gruff Lady"
+msgid "Nah, you seem like the trustworthy type. That'll be fine!"
+msgstr ""
+
+msgctxt "488_Kiryu"
+msgid "Thank you. We should be there in fifteen minutes."
+msgstr ""
+
+msgctxt "500_Gruff Lady"
+msgid ""
+"When ya don't know a place, it's easy to get ripped off. I'm glad you're so "
+"thorough, driver!"
+msgstr ""
+
+msgctxt "512_Gruff Lady"
+msgid "All righty, let's go!"
+msgstr ""
+
+msgctxt "524_Kiryu"
+msgid "Hrm, I'm not sleepy anymore. Got any news to share, driver?"
+msgstr ""
+
+msgctxt "536_Kiryu"
+msgid "What sort of things are you interested in?"
+msgstr ""
+
+msgctxt "548_Gruff Lady"
+msgid "Current events, ya know? That sorta thing."
+msgstr ""
+
+msgctxt "560_Kiryu"
+msgid "Current events, huh?"
+msgstr ""
+
+msgctxt "572_Kiryu"
+msgid "Okay, well how about some political discussion?"
+msgstr ""
+
+msgctxt "584_Gruff Lady"
+msgid "Sure. Whaddya think of the current rulin' party, driver?"
+msgstr ""
+
+msgctxt "596_Kiryu"
+msgid "Well, I don't support all their policies..."
+msgstr ""
+
+msgctxt "608_Gruff Lady"
+msgid "And why the hell not!?"
+msgstr ""
+
+msgctxt "620_Kiryu"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "632_Gruff Lady"
+msgid ""
+"I'm a member of the National Women's Association for that party. That's why "
+"I'm here in Fukuoka!"
+msgstr ""
+
+msgctxt "644_Gruff Lady"
+msgid ""
+"What is it ya can't support!? Go on, spit it out! I'll tell ya exactly how "
+"wrong you are!"
+msgstr ""
+
+msgctxt "656_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "668_Gruff Lady"
+msgid "Heheh, got ya! I was only jokin'. Politics bore me to death, actually."
+msgstr ""
+
+msgctxt "680_Gruff Lady"
+msgid ""
+"You oughta know that politics, religion, and war are tricky subjects to "
+"bring up to someone ya just met."
+msgstr ""
+
+msgctxt "692_Gruff Lady"
+msgid ""
+"It ain't good to discuss sensitive subjects when you're in the service "
+"industry, driver."
+msgstr ""
+
+msgctxt "704_Kiryu"
+msgid "I see."
+msgstr ""
+
+msgctxt "716_Kiryu"
+msgid "(She's right. Who is this lady?)"
+msgstr ""
+
+msgctxt "728_Kiryu"
+msgid "Okay, how about a dirty joke?"
+msgstr ""
+
+msgctxt "740_Gruff Lady"
+msgid ""
+"What!? I ain't your drinkin' buddy, pal! I'm a passenger! And a woman at "
+"that!"
+msgstr ""
+
+msgctxt "752_Gruff Lady"
+msgid "How's a dirty joke a current event, anyway?"
+msgstr ""
+
+msgctxt "764_Kiryu"
+msgid "Right. Sorry about that."
+msgstr ""
+
+msgctxt "776_Gruff Lady"
+msgid ""
+"You better watch what ya say when dealin' with customers. Dirty jokes are a "
+"no-no."
+msgstr ""
+
+msgctxt "788_Gruff Lady"
+msgid ""
+"And that's not all. You should stay away from politics, religion, and war "
+"as well."
+msgstr ""
+
+msgctxt "800_Gruff Lady"
+msgid ""
+"It ain't good to discuss sensitive subjects when you're in the service "
+"industry, driver."
+msgstr ""
+
+msgctxt "812_Kiryu"
+msgid "I see."
+msgstr ""
+
+msgctxt "824_Kiryu"
+msgid "(She's right. Who is this lady?)"
+msgstr ""
+
+msgctxt "836_Kiryu"
+msgid "Well, how about we talk some sports?"
+msgstr ""
+
+msgctxt "848_Gruff Lady"
+msgid "Ah, good choice. You like baseball? I guess if you're from Fukuoka you'd－"
+msgstr ""
+
+msgctxt "860_Kiryu"
+msgid "I actually lived in Tokyo the longest."
+msgstr ""
+
+msgctxt "872_Gruff Lady"
+msgid ""
+"Then I guess you're a Tokyo Gigants fan? I'm Osaka born and bred, which "
+"makes us arch rivals!"
+msgstr ""
+
+msgctxt "884_Gruff Lady"
+msgid ""
+"Our team'll show the Gigants how it's done next season, mark my words! "
+"It'll be a legendary showdown!"
+msgstr ""
+
+msgctxt "896_Kiryu"
+msgid "(That seemed to spark her interest.)"
+msgstr ""
+
+msgctxt "908_Gruff Lady"
+msgid ""
+"Sports was the right thing to go with, driver. There's all sorts of topics "
+"out there, but ya can't just go sayin' whatever ya like."
+msgstr ""
+
+msgctxt "920_Gruff Lady"
+msgid ""
+"It ain't good to discuss sensitive subjects when you're in the service "
+"industry. And that goes double for dirty jokes."
+msgstr ""
+
+msgctxt "932_Kiryu"
+msgid "(She's right. Who is this lady?)"
+msgstr ""
+
+msgctxt "944_Kiryu"
+msgid "We're almost there, ma'am."
+msgstr ""
+
+msgctxt "956_Gruff Lady"
+msgid "Ah, great! Mind if I pay with a 10,000 yen note?"
+msgstr ""
+
+msgctxt "968_Kiryu"
+msgid "Oh?"
+msgstr ""
+
+msgctxt "980_Kiryu"
+msgid ""
+"(I've taken a lot of big notes today, so I don't think I'll have enough "
+"change for that.)"
+msgstr ""
+
+msgctxt "992_Gruff Lady"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "1004_Kiryu"
+msgid "I'm very sorry. I don't seem to have enough change on me."
+msgstr ""
+
+msgctxt "1016_Kiryu"
+msgid "You wouldn't happen to have anything smaller?"
+msgstr ""
+
+msgctxt "1028_Gruff Lady"
+msgid "Nope! All I got is 10,000 yen notes!"
+msgstr ""
+
+msgctxt "1040_Kiryu"
+msgid "You could also pay by credit card."
+msgstr ""
+
+msgctxt "1052_Gruff Lady"
+msgid ""
+"Nah. Never liked the things, so I don't carry one. Surely you can make a "
+"10,000 yen note work."
+msgstr ""
+
+msgctxt "1064_Kiryu"
+msgid "(Hmm.)"
+msgstr ""
+
+msgctxt "1076_Gruff Lady"
+msgid "Look! There's a convenience store over there!"
+msgstr ""
+
+msgctxt "1088_Kiryu"
+msgid "I'll park in front of the convenience store."
+msgstr ""
+
+msgctxt "1100_Kiryu"
+msgid "Can I ask you to go in and get some change?"
+msgstr ""
+
+msgctxt "1112_Gruff Lady"
+msgid "What? Ya want me to go!? The passenger!?"
+msgstr ""
+
+msgctxt "1124_Kiryu"
+msgid "I'll turn the meter off, of course."
+msgstr ""
+
+msgctxt "1136_Gruff Lady"
+msgid "That ain't the problem, driver."
+msgstr ""
+
+msgctxt "1148_Gruff Lady"
+msgid ""
+"I know I don't have any small bills on me either, but keepin' enough change "
+"on hand is your job."
+msgstr ""
+
+msgctxt "1160_Kiryu"
+msgid "That's true."
+msgstr ""
+
+msgctxt "1172_Gruff Lady"
+msgid "But sometimes ya run out of money to make change. It happens."
+msgstr ""
+
+msgctxt "1184_Gruff Lady"
+msgid "How ya deal with that when it happens is the important part."
+msgstr ""
+
+msgctxt "1196_Gruff Lady"
+msgid ""
+"And if ya do it right, you can turn the inconvenience into a positive "
+"impression."
+msgstr ""
+
+msgctxt "1208_Kiryu"
+msgid "I'm sorry. I'll go in and get change myself."
+msgstr ""
+
+msgctxt "1220_Gruff Lady"
+msgid "Yeah, you do that."
+msgstr ""
+
+msgctxt "1232_Kiryu"
+msgid "Is there anything you'd like me to buy while I'm in there?"
+msgstr ""
+
+msgctxt "1244_Gruff Lady"
+msgid ""
+"Hey, that's the way! Doin' somethin' thoughtful like that leaves a good "
+"impression. Can ya buy me a can of coffee, then?"
+msgstr ""
+
+msgctxt "1256_Kiryu"
+msgid "Of course."
+msgstr ""
+
+msgctxt "1268_Kiryu"
+msgid ""
+"(She looks like a typical passenger, but she seems well-versed in service "
+"skills.)"
+msgstr ""
+
+msgctxt "1280_Kiryu"
+msgid ""
+"I'm sorry about this, but would you mind waiting while I go in to the "
+"convenience store to get some change?"
+msgstr ""
+
+msgctxt "1292_Gruff Lady"
+msgid "Oh, not at all. I'll be right here."
+msgstr ""
+
+msgctxt "1304_Kiryu"
+msgid "Do you drink tea or coffee?"
+msgstr ""
+
+msgctxt "1316_Gruff Lady"
+msgid "I'm a coffee drinker. Why?"
+msgstr ""
+
+msgctxt "1328_Kiryu"
+msgid ""
+"Well, I need to buy something to get change, so I thought I could get you a "
+"drink to make up for the inconvenience."
+msgstr ""
+
+msgctxt "1340_Gruff Lady"
+msgid "Oh, that's very kind of ya, driver!"
+msgstr ""
+
+msgctxt "1352_Kiryu"
+msgid "It was my fault I ran out of change."
+msgstr ""
+
+msgctxt "1364_Gruff Lady"
+msgid "Still, everybody makes mistakes."
+msgstr ""
+
+msgctxt "1376_Gruff Lady"
+msgid "The important part is how ya handle them."
+msgstr ""
+
+msgctxt "1388_Gruff Lady"
+msgid ""
+"And how ya handled that just now completely made up for the whole thing. "
+"I'd even say it gives a better impression. Top marks for service!"
+msgstr ""
+
+msgctxt "1400_Kiryu"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "1412_Kiryu"
+msgid "(I seem to have handled that the right way.)"
+msgstr ""
+
+msgctxt "1424_Kiryu"
+msgid "Excuse me, ma'am."
+msgstr ""
+
+msgctxt "1436_Gruff Lady"
+msgid "Yes?"
+msgstr ""
+
+msgctxt "1448_Kiryu"
+msgid ""
+"Well, I was just thinking, some of my passengers like to leave me the "
+"change as a tip."
+msgstr ""
+
+msgctxt "1460_Gruff Lady"
+msgid "And?"
+msgstr ""
+
+msgctxt "1472_Kiryu"
+msgid ""
+"If you gave me the change from this 10,000 yen note as a tip, you wouldn't "
+"need any money back."
+msgstr ""
+
+msgctxt "1484_Gruff Lady"
+msgid ""
+"If I was in Osaka, I'd think you were makin' a joke. But you're dead "
+"serious, aren't ya!?"
+msgstr ""
+
+msgctxt "1496_Kiryu"
+msgid "Oh, uh..."
+msgstr ""
+
+msgctxt "1508_Gruff Lady"
+msgid "Ya moron! You're the one who ran out of change, right!?"
+msgstr ""
+
+msgctxt "1520_Kiryu"
+msgid "Right..."
+msgstr ""
+
+msgctxt "1532_Gruff Lady"
+msgid ""
+"It's only natural to make mistakes, but what's important is how ya deal "
+"with those mistakes."
+msgstr ""
+
+msgctxt "1544_Gruff Lady"
+msgid ""
+"The service industry is funny in that, dependin' on how ya handle a "
+"mistake, it can turn a negative experience into a positive one."
+msgstr ""
+
+msgctxt "1556_Gruff Lady"
+msgid ""
+"But you chose the absolute worst solution! Ya need to think about your "
+"customers more!"
+msgstr ""
+
+msgctxt "1568_Kiryu"
+msgid "I'm sorry. I'll go and get some change in the convenience store."
+msgstr ""
+
+msgctxt "1580_Gruff Lady"
+msgid "Yeah, you do that. And don't forget to stop the meter!"
+msgstr ""
+
+msgctxt "1592_Kiryu"
+msgid "Okay."
+msgstr ""
+
+msgctxt "1604_Kiryu"
+msgid ""
+"(She looks like a typical passenger, but she seems well-versed in service "
+"skills.)"
+msgstr ""

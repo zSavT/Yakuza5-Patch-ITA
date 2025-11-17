@@ -1,0 +1,294 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "9588"
+msgid "Hardened Gangster"
+msgstr "Gangster Incallito"
+
+msgctxt "9592"
+msgid "Younger Gangster"
+msgstr "Giovane teppista"
+
+msgctxt "9596"
+msgid "Kamiyama"
+msgstr "Kamiyama"
+
+msgctxt "9600"
+msgid "M_nml_stand"
+msgstr "M_nml_stand"
+
+msgctxt "9604"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "9608"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "9612"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "9616"
+msgid "M_NML_SET_stand_laugh_big"
+msgstr "M_NML_SET_stand_laugh_big"
+
+msgctxt "9620"
+msgid "M_NML_TLK_stand_kamae"
+msgstr "M_NML_TLK_stand_kamae"
+
+msgctxt "9624"
+msgid "M_NML_SET_stand_laugh"
+msgstr "M_NML_SET_stand_laugh"
+
+msgctxt "9628"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "9632"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "9636"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "9640"
+msgid "Nml_TurnL180"
+msgstr "Nml_TurnL180"
+
+msgctxt "9644"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "9648"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "60_Hardened Gangster"
+msgid "Hey, watch where you're going!"
+msgstr "Ehi, guarda dove vai!"
+
+msgctxt "72_Younger Gangster"
+msgid "Ow! Aniki, I... I think my shoulder's dislocated!"
+msgstr "Ouch! Aniki, mi... mi sa che mi si è lussata la spalla!"
+
+msgctxt "84_Kamiyama"
+msgid "But I barely..."
+msgstr "Ma io a malapena..."
+
+msgctxt "96_Kiryu"
+msgid "(This scam again... The victim looks kind of familiar, though.)"
+msgstr "(Di nuovo questa truffa... Però la vittima mi sembra familiare.)"
+
+msgctxt "108_Hardened Gangster"
+msgid ""
+"Oh man, that's a complex break in his arm for sure. How are you going to "
+"make this right?"
+msgstr ""
+"Accidenti, è di sicuro una brutta frattura al braccio. Come hai intenzione "
+"di rimettere le cose a posto?"
+
+msgctxt "120_Kamiyama"
+msgid "His arm? But... I bumped into his shoulder."
+msgstr "Il suo braccio? Ma... io l'ho urtato alla spalla."
+
+msgctxt "132_Hardened Gangster"
+msgid ""
+"Don't give me that shit. You must've bumped into him so hard, you broke them"
+" both!"
+msgstr ""
+"Non raccontarmi stronzate. Devi averlo urtato così forte da romperli "
+"entrambi!"
+
+msgctxt "144_Younger Gangster"
+msgid "Oof... Aniki, he messed up my leg, too!"
+msgstr "Uff... Aniki, mi ha conciato la gamba anche a me!"
+
+msgctxt "156_Hardened Gangster"
+msgid "Hang in there. I'll call a taxi to take us to the hospital!"
+msgstr "Tieni duro. Chiamo un taxi per portarci all'ospedale!"
+
+msgctxt "168_Hardened Gangster"
+msgid ""
+"Okay, fatcakes, cough it up! We're gonna need 100,000 yen for the taxi and "
+"the hospital!"
+msgstr ""
+"Allora, pagliacci, sganciate i soldi! Ci serviranno 100.000 yen per il taxi "
+"e l'ospedale!"
+
+msgctxt "180_Kamiyama"
+msgid "What!?"
+msgstr "Cosa!?"
+
+msgctxt "192_Kiryu"
+msgid "(Better help him out.)"
+msgstr "(Meglio che gli dia una mano.)"
+
+msgctxt "204_Kiryu"
+msgid "Hey."
+msgstr "Ehi."
+
+msgctxt "216_Hardened Gangster"
+msgid "Huh? What the hell do you want?"
+msgstr "Eh? Che cazzo vuoi?"
+
+msgctxt "228_Kiryu"
+msgid "Aren't you a little old to be pulling petty shakedowns like this?"
+msgstr ""
+"Non siete un po' troppo vecchi per tirare avanti con queste truffette da "
+"quattro soldi?"
+
+msgctxt "240_Younger Gangster"
+msgid ""
+"Hey, you mind, pops? I have to get to the hospital, so back the fuck off."
+msgstr ""
+"Ehi, ti dispiace, nonnetto? Devo andare all'ospedale, quindi levati dai "
+"coglioni."
+
+msgctxt "252_Kiryu"
+msgid "You look perfectly fine to me."
+msgstr "A me sembri stare benissimo."
+
+msgctxt "264_Hardened Gangster"
+msgid "Hey, guys, let's cut pops here some slack."
+msgstr "Ehi, raga, andiamoci piano col vecchio qui."
+
+msgctxt "276_Hardened Gangster"
+msgid ""
+"After all, I think what he's saying is that he wants to pay up instead of "
+"fatty fatkins here."
+msgstr "Dopotutto, penso che voglia pagare lui al posto di quel ciccione qui."
+
+msgctxt "288_Younger Gangster"
+msgid "Show me the money!"
+msgstr "Mostrami i soldi!"
+
+msgctxt "300_Kiryu"
+msgid ""
+"You guys just don't get it. I guess I'll have to teach you a lesson in "
+"honesty."
+msgstr "Non ci arrivate proprio. Mi sa che dovrò darvi una lezione di onestà."
+
+msgctxt "324_Hardened Gangster"
+msgid "Ugh..."
+msgstr "Ugh..."
+
+msgctxt "336_Kiryu"
+msgid ""
+"Now, if you really want to go to the hospital, I'd be happy to send you "
+"there."
+msgstr ""
+"Allora, se ci tieni proprio ad andare all'ospedale, ti ci mando io "
+"volentieri."
+
+msgctxt "348_Hardened Gangster"
+msgid "No, please!"
+msgstr "No, vi prego!"
+
+msgctxt "360_Younger Gangster"
+msgid "I never wanted to actually break any bones!"
+msgstr "Non ho mai voluto davvero spaccare le ossa a nessuno!"
+
+msgctxt "372_Hardened Gangster"
+msgid "We're really sorry!"
+msgstr "Siamo davvero spiacenti!"
+
+msgctxt "384_Kiryu"
+msgid "You all right?"
+msgstr "Stai bene?"
+
+msgctxt "396_Kamiyama"
+msgid "Thank you. I... Kiryu-san? Is that you?"
+msgstr "Grazie. Io... Kiryu-san? Sei tu?"
+
+msgctxt "408_Kiryu"
+msgid "Wait a second..."
+msgstr "Aspetta un attimo..."
+
+msgctxt "420_Kamiyama"
+msgid "It's me, Kamiyama. You know, the guy who mods stuff over in Kamurocho?"
+msgstr "Sono io, Kamiyama. Sai, il tipo che modifica la roba a Kamurocho?"
+
+msgctxt "432_Kiryu"
+msgid "(Oh, right, Kamiyama. The weapons guy.)"
+msgstr "(Ah, giusto, Kamiyama. Il tipo delle armi.)"
+
+msgctxt "444_Kiryu"
+msgid ""
+"(But no, I can't let him know it's me. You never know who might be "
+"listening.)"
+msgstr ""
+"(Ma no, non posso fargli sapere che sono io. Non si sa mai chi potrebbe "
+"ascoltare.)"
+
+msgctxt "456_Kiryu"
+msgid "You've got the wrong guy. The name's Suzuki."
+msgstr "Hai sbagliato persona. Il nome è Suzuki."
+
+msgctxt "468_Kamiyama"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "480_Kiryu"
+msgid "See you."
+msgstr "Ci vediamo."
+
+msgctxt "492_Kamiyama"
+msgid "No, wait!"
+msgstr "No, aspetta!"
+
+msgctxt "504_Kiryu"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "516_Kamiyama"
+msgid "Suzuki-san, right? Would you mind coming by my shop?"
+msgstr "Suzuki-san, giusto? Ti dispiacerebbe fare un salto al mio negozio?"
+
+msgctxt "528_Kiryu"
+msgid "Your shop?"
+msgstr "Il tuo negozio?"
+
+msgctxt "540_Kamiyama"
+msgid ""
+"Yes. You see, in addition to Kamurocho and Downtown Ryukyu, I've also set up"
+" shop in Nagasugai."
+msgstr ""
+"Sì. Vedi, oltre a Kamurocho e Downtown Ryukyu, ho aperto bottega anche a "
+"Nagasugai."
+
+msgctxt "552_Kamiyama"
+msgid ""
+"I'm sure someone like you will find something useful there. So how about it "
+"Kiry－ I mean, Suzuki-san?"
+msgstr ""
+"Sono sicuro che uno come te ci troverà qualcosa di utile. Allora, che ne "
+"dici Kiryu— volevo dire, Suzuki-san?"
+
+msgctxt "564_Kiryu"
+msgid ""
+"(Kamiyama's shop might prove useful if trouble comes looking for me. Hope I "
+"don't have to use it.)"
+msgstr ""
+"(Il negozio di Kamiyama potrebbe tornarmi utile se dovessi finire nei guai. "
+"Spero di non doverlo usare.)"
+
+msgctxt "576_Kiryu"
+msgid "All right, lead the way."
+msgstr "Va bene, fatti strada."
+
+msgctxt "588_Kamiyama"
+msgid "Heh... Hehe. Right this way, Suzuki-san."
+msgstr "Heh... Hehe. Di qua, Suzuki-san."

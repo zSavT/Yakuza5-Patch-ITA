@@ -1,0 +1,817 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "392"
+msgid "*knock* *knock*"
+msgstr ""
+
+msgctxt "584"
+msgid "*knock* *knock*"
+msgstr ""
+
+msgctxt "764"
+msgid "*knock* *knock*"
+msgstr ""
+
+msgctxt "1448"
+msgid "*knock* *knock*"
+msgstr ""
+
+msgctxt "1664"
+msgid "*knock* *knock*"
+msgstr ""
+
+msgctxt "34056"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "34060"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "34064"
+msgid "Maya"
+msgstr ""
+
+msgctxt "34068"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "34072"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "34076"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "34080"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "34084"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "34088"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "34092"
+msgid "Carry on for your fans."
+msgstr ""
+
+msgctxt "34096"
+msgid "Doubting yourself helps you grow."
+msgstr ""
+
+msgctxt "34100"
+msgid "Might be time to give it up."
+msgstr ""
+
+msgctxt "34104"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "34108"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "34112"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "34116"
+msgid "Man"
+msgstr ""
+
+msgctxt "34120"
+msgid "Sugihara"
+msgstr ""
+
+msgctxt "34124"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "34128"
+msgid "Production Assistant"
+msgstr ""
+
+msgctxt "34132"
+msgid "The magazine interview"
+msgstr ""
+
+msgctxt "34136"
+msgid "Love to See You Smile"
+msgstr ""
+
+msgctxt "34140"
+msgid "Sotenbori Love Check Quiz"
+msgstr ""
+
+msgctxt "34144"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "92_Akiyama"
+msgid "Good job, Maya-chan. Appreciate you bearing with me."
+msgstr ""
+
+msgctxt "104_Maya"
+msgid ""
+"Oh no, Akiyama-san, thank you for putting up with me. I'm\r\n"
+"sorry I'm so high-maintenance."
+msgstr ""
+
+msgctxt "116_Akiyama"
+msgid ""
+"Not at all, Maya-chan. You're doing all the work. I admire\r\n"
+"your commitment."
+msgstr ""
+
+msgctxt "128_Maya"
+msgid "Thank you..."
+msgstr ""
+
+msgctxt "140_Akiyama"
+msgid "Something wrong?"
+msgstr ""
+
+msgctxt "152_Maya"
+msgid ""
+"I don't know if I can keep this up much longer. It feels so\r\n"
+"forced and fake, trying to go forward with a character who's\r\n"
+"nothing like me."
+msgstr ""
+
+msgctxt "164_Akiyama"
+msgid ""
+"Hmm. What originally prompted you to market yourself this\r\n"
+"way?"
+msgstr ""
+
+msgctxt "176_Maya"
+msgid ""
+"My manager told me I would never make it if I took a\r\n"
+"conventional approach."
+msgstr ""
+
+msgctxt "188_Maya"
+msgid ""
+"But, it's really my fault... I'm usually so timid, and I get\r\n"
+"all flustered when I talk to people."
+msgstr ""
+
+msgctxt "200_Maya"
+msgid ""
+"What I really want is a job on a children's TV program,\r\n"
+"where I can sing together with the kids."
+msgstr ""
+
+msgctxt "212_Maya"
+msgid ""
+"I've always liked children, and I used to play with them\r\n"
+"every day."
+msgstr ""
+
+msgctxt "224_Akiyama"
+msgid ""
+"Really? Well, when you put it that way, your character might\r\n"
+"not be so out of line. Kids love that kind of thing, right?"
+msgstr ""
+
+msgctxt "236_Maya"
+msgid ""
+"I thought so, too, but... I've only ever appeared on variety\r\n"
+"programs. I haven't done a single job where I get to sing\r\n"
+"with kids."
+msgstr ""
+
+msgctxt "248_Maya"
+msgid ""
+"That's why I'm wondering if it's even worth it to keep\r\n"
+"pretending to be someone I'm not. What good is it if I can't\r\n"
+"even follow my dreams?"
+msgstr ""
+
+msgctxt "260_Maya"
+msgid "Maybe I'm just not cut out for this..."
+msgstr ""
+
+msgctxt "272_Akiyama"
+msgid ""
+"(The poor girl's exhausted. As her manager, I should try to\r\n"
+"cheer her up.)"
+msgstr ""
+
+msgctxt "284_Maya"
+msgid ""
+"Um, Akiyama-san, do you think I should drop the whole silly\r\n"
+"Strawberry Kingdom thing?"
+msgstr ""
+
+msgctxt "296_Akiyama"
+msgid ""
+"If you were to drop the character now, you'd be betraying\r\n"
+"all the fans who support you. I think you should stay the\r\n"
+"course, Maya-chan."
+msgstr ""
+
+msgctxt "308_Maya"
+msgid "Do you really think so?"
+msgstr ""
+
+msgctxt "320_Akiyama"
+msgid ""
+"The fact that you work so hard to stay in character could\r\n"
+"actually be part of your charm. I think kids will pick up on\r\n"
+"that."
+msgstr ""
+
+msgctxt "332_Akiyama"
+msgid ""
+"I watched you all day today. I think I get how your fans see\r\n"
+"you now."
+msgstr ""
+
+msgctxt "344_Maya"
+msgid "Akiyama-san... Thank you!"
+msgstr ""
+
+msgctxt "356_Maya"
+msgid ""
+"I feel much better about everything. I'll keep going as the\r\n"
+"princess of Strawberry Kingdom!"
+msgstr ""
+
+msgctxt "368_Akiyama"
+msgid "Yup. Hang in there."
+msgstr ""
+
+msgctxt "380_Maya"
+msgid ""
+"I'm so glad I got to get that off my chest, Akiyama-san.\r\n"
+"I don't dare speak to my real manager about this."
+msgstr ""
+
+msgctxt "404_Akiyama"
+msgid "Hm? You expecting someone?"
+msgstr ""
+
+msgctxt "416_Maya"
+msgid "Uh, well..."
+msgstr ""
+
+msgctxt "428_Akiyama"
+msgid "You know, doubting yourself that way often helps you grow."
+msgstr ""
+
+msgctxt "440_Maya"
+msgid "Pardon?"
+msgstr ""
+
+msgctxt "452_Akiyama"
+msgid ""
+"Everything you're going through now is helping to make you\r\n"
+"stronger, you know. Everyone on their way up suffers bouts\r\n"
+"of self-doubt."
+msgstr ""
+
+msgctxt "464_Akiyama"
+msgid ""
+"That self-doubt spurs creativity and innovation. It makes\r\n"
+"us grow."
+msgstr ""
+
+msgctxt "476_Akiyama"
+msgid ""
+"There's no need to find the answer right this instant－take\r\n"
+"all the time you need and find your own path."
+msgstr ""
+
+msgctxt "488_Maya"
+msgid "My own path..."
+msgstr ""
+
+msgctxt "500_Akiyama"
+msgid ""
+"Even those who have found success don't stop seeking their\r\n"
+"own path. If people stop doubting, they stop growing."
+msgstr ""
+
+msgctxt "512_Maya"
+msgid ""
+"I see. So it's only natural that I agonize over my career\r\n"
+"like this."
+msgstr ""
+
+msgctxt "524_Maya"
+msgid ""
+"Thank you so much, Akiyama-san. You've lifted a huge weight\r\n"
+"off my shoulders."
+msgstr ""
+
+msgctxt "536_Akiyama"
+msgid ""
+"I may have been completely out of line in saying that. I am\r\n"
+"just your manager for a day. It's not as though you have to\r\n"
+"take it to heart or anything."
+msgstr ""
+
+msgctxt "548_Maya"
+msgid ""
+"Oh no, please! You've given me the courage to keep going.\r\n"
+"I'll stay princess of Strawberry Kingdom, doubts and all!"
+msgstr ""
+
+msgctxt "560_Akiyama"
+msgid "Yeah. Keep up the good work."
+msgstr ""
+
+msgctxt "572_Maya"
+msgid ""
+"I'm so glad I got to get that off my chest, Akiyama-san.\r\n"
+"I don't dare speak to my real manager about this."
+msgstr ""
+
+msgctxt "596_Akiyama"
+msgid "Hm? You expecting someone?"
+msgstr ""
+
+msgctxt "608_Maya"
+msgid "Uh, well..."
+msgstr ""
+
+msgctxt "620_Akiyama"
+msgid "Yes, I think you should."
+msgstr ""
+
+msgctxt "632_Maya"
+msgid "Pardon?"
+msgstr ""
+
+msgctxt "644_Akiyama"
+msgid ""
+"From what I saw today, it's obvious you're forcing yourself\r\n"
+"to be someone you're not. You'd be better off losing that persona right "
+"away."
+msgstr ""
+
+msgctxt "656_Akiyama"
+msgid "Who thought up the whole Strawberry Kingdom premise anyway?"
+msgstr ""
+
+msgctxt "668_Maya"
+msgid "It was the agency president's idea..."
+msgstr ""
+
+msgctxt "680_Akiyama"
+msgid ""
+"Oh, it was your president's doing. That definitely makes it\r\n"
+"a little more difficult to drop the act."
+msgstr ""
+
+msgctxt "692_Maya"
+msgid "Then, what should I do?"
+msgstr ""
+
+msgctxt "704_Akiyama"
+msgid ""
+"Well, if you ask me, I think you should drop it. Still, it's\r\n"
+"up to you to tell your boss."
+msgstr ""
+
+msgctxt "716_Maya"
+msgid "Right..."
+msgstr ""
+
+msgctxt "728_Akiyama"
+msgid ""
+"I may have been completely out of line in saying that. I am\r\n"
+"just your manager for a day. It's not as though you have to\r\n"
+"take it to heart or anything."
+msgstr ""
+
+msgctxt "740_Maya"
+msgid "......"
+msgstr ""
+
+msgctxt "752_Akiyama"
+msgid ""
+"(I was out of line... It's tough to be a manager for a\r\n"
+"young girl.)"
+msgstr ""
+
+msgctxt "776_Akiyama"
+msgid "Hm? You expecting someone?"
+msgstr ""
+
+msgctxt "788_Maya"
+msgid "Uh, well..."
+msgstr ""
+
+msgctxt "860_Akiyama"
+msgid "And, uh, you are?"
+msgstr ""
+
+msgctxt "872_Man"
+msgid "Huh? Whaddya mean!? You dunno who I am!?"
+msgstr ""
+
+msgctxt "884_Akiyama"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "896_Maya"
+msgid "Sugihara-san!"
+msgstr ""
+
+msgctxt "908_Akiyama"
+msgid "Maya-chan, you know this guy?"
+msgstr ""
+
+msgctxt "920_Maya"
+msgid ""
+"Um, yes... Haven't you heard, Akiyama-san? Sugihara-san is a\r\n"
+"big name in the comedy world."
+msgstr ""
+
+msgctxt "932_Akiyama"
+msgid ""
+"Ah, right. I may have seen him on TV. So, Sugihara-san, what\r\n"
+"brings you here?"
+msgstr ""
+
+msgctxt "944_Maya"
+msgid ""
+"Um... Sugihara-san has been offering me a spot on one of his\r\n"
+"regular programs, but..."
+msgstr ""
+
+msgctxt "956_Sugihara"
+msgid ""
+"Say, Maya-chan, baby, why ya been avoidin' me? We should\r\n"
+"continue our discussion from before. Maybe somewhere private."
+msgstr ""
+
+msgctxt "968_Maya"
+msgid "Well, it's just I..."
+msgstr ""
+
+msgctxt "980_Sugihara"
+msgid ""
+"Not to worry. Come on my show, and you'll be ridin' my\r\n"
+"rocket to stardom!"
+msgstr ""
+
+msgctxt "992_Maya"
+msgid "Um, you see..."
+msgstr ""
+
+msgctxt "1004_Sugihara"
+msgid ""
+"Hey, I can understand your concerns. It's a big career move.\r\n"
+"Whaddya say we grab a bite somewhere and get to know each\r\n"
+"other a little better?"
+msgstr ""
+
+msgctxt "1016_Akiyama"
+msgid "Say, Maya-chan. Is this guy hounding you?"
+msgstr ""
+
+msgctxt "1028_Maya"
+msgid ""
+"Yes. I've been turning down his advances. People tell me I\r\n"
+"have to watch myself around Sugihara-san on account of his\r\n"
+"thing for newcomers."
+msgstr ""
+
+msgctxt "1040_Sugihara"
+msgid ""
+"Hey! Who the hell are you? You ain't the usual manager, are\r\n"
+"ya? Sounds to me like you should piss off!"
+msgstr ""
+
+msgctxt "1052_Akiyama"
+msgid "You're right. I'm not her manager."
+msgstr ""
+
+msgctxt "1064_Sugihara"
+msgid ""
+"Then get out! I got things to discuss with Maya-chan in\r\n"
+"private."
+msgstr ""
+
+msgctxt "1076_Akiyama"
+msgid "Sorry, pal. No can do."
+msgstr ""
+
+msgctxt "1088_Sugihara"
+msgid "What? You have any idea who you're talkin' to?"
+msgstr ""
+
+msgctxt "1100_Akiyama"
+msgid ""
+"So, you're a big name in comedy? Wouldn't you know it, I'm\r\n"
+"not involved in the entertainment industry in the slightest."
+msgstr ""
+
+msgctxt "1112_Sugihara"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "1124_Akiyama"
+msgid ""
+"In other words... You could be the emperor of entertainment,\r\n"
+"but as far as I'm concerned, you're just another sleaze."
+msgstr ""
+
+msgctxt "1136_Sugihara"
+msgid "What!?"
+msgstr ""
+
+msgctxt "1148_Akiyama"
+msgid ""
+"If you want to keep running your mouth, I suggest you keep\r\n"
+"that in mind."
+msgstr ""
+
+msgctxt "1160_Sugihara"
+msgid "Ngh... Screw you! Smug bastard!"
+msgstr ""
+
+msgctxt "1220_Akiyama"
+msgid "Thank you so much, Akiyama-san!"
+msgstr ""
+
+msgctxt "1232_Akiyama"
+msgid ""
+"Heh. Sad to think guys like that actually exist. Show\r\n"
+"business is a scary place."
+msgstr ""
+
+msgctxt "1244_Maya"
+msgid "Haha..."
+msgstr ""
+
+msgctxt "1256_Akiyama"
+msgid ""
+"I'll take you back to Sotenbori. It's been fun, but I'm\r\n"
+"afraid our time together is over."
+msgstr ""
+
+msgctxt "1268_Maya"
+msgid "...Yes, I suppose it is."
+msgstr ""
+
+msgctxt "1292_Akiyama"
+msgid ""
+"Phew. Well, that's it for Love to See You Smile, but we\r\n"
+"still have one more job to do."
+msgstr ""
+
+msgctxt "1304_Maya"
+msgid "Yes, it's a quiz program－Sotenbori Love Check Quiz."
+msgstr ""
+
+msgctxt "1316_Akiyama"
+msgid ""
+"Let me guess－to maintain the quirky image, you have to get\r\n"
+"the answers wrong, is that right?"
+msgstr ""
+
+msgctxt "1328_Maya"
+msgid ""
+"Yes, that's right. The agency told me I must not answer\r\n"
+"correctly."
+msgstr ""
+
+msgctxt "1340_Akiyama"
+msgid "They don't make it easy for you, do they?"
+msgstr ""
+
+msgctxt "1352_Maya"
+msgid ""
+"The quiz is made up of true or false questions. If I'm to\r\n"
+"answer incorrectly, I'll need to know which answer is\r\n"
+"actually correct."
+msgstr ""
+
+msgctxt "1364_Akiyama"
+msgid "Okay, I get that."
+msgstr ""
+
+msgctxt "1376_Maya"
+msgid ""
+"I'll need you to guide me with cue cards again. Will you\r\n"
+"please help me?"
+msgstr ""
+
+msgctxt "1388_Akiyama"
+msgid "Of course. I'm right behind you."
+msgstr ""
+
+msgctxt "1412_Akiyama"
+msgid ""
+"Here's your dressing room. Should I be using cue cards\r\n"
+"during the quiz so you can stay in character?"
+msgstr ""
+
+msgctxt "1424_Maya"
+msgid ""
+"Oh, yes, please. I'm still struggling to accept the\r\n"
+"character I'm supposed to be..."
+msgstr ""
+
+msgctxt "1436_Akiyama"
+msgid "Yeah, that's understandable."
+msgstr ""
+
+msgctxt "1460_Production Assistant"
+msgid "Excuse me. Strawberry Maya-san, we're ready for you."
+msgstr ""
+
+msgctxt "1472_Maya"
+msgid "Oh, yes!"
+msgstr ""
+
+msgctxt "1532_Production Assistant"
+msgid "I'll show you to the Love to See You Smile studio."
+msgstr ""
+
+msgctxt "1544_Akiyama"
+msgid "Huh? Wasn't it the quiz show?"
+msgstr ""
+
+msgctxt "1556_Production Assistant"
+msgid ""
+"Hm? No, Love to See You Smile comes first. That's how we\r\n"
+"scheduled things with Dyna Chair."
+msgstr ""
+
+msgctxt "1568_Akiyama"
+msgid "Uh... Right. Love to See You Smile comes first."
+msgstr ""
+
+msgctxt "1580_Maya"
+msgid "Huh!? Akiyama-san..."
+msgstr ""
+
+msgctxt "1592_Akiyama"
+msgid ""
+"Sorry, totally my bad. Luckily, the shows are recorded in\r\n"
+"the same building, so we're safe."
+msgstr ""
+
+msgctxt "1604_Maya"
+msgid "......"
+msgstr ""
+
+msgctxt "1616_Akiyama"
+msgid ""
+"(Nice going, idiot. Maya-chan's probably losing faith in you\r\n"
+"by the second.)"
+msgstr ""
+
+msgctxt "1640_Akiyama"
+msgid ""
+"This seems to be your dressing room. I guess we're just\r\n"
+"supposed to wait here?"
+msgstr ""
+
+msgctxt "1652_Maya"
+msgid "I don't know. I guess?"
+msgstr ""
+
+msgctxt "1676_Akiyama"
+msgid "Hm? Come in."
+msgstr ""
+
+msgctxt "1736_Production Assistant"
+msgid "Um, excuse me, are you Strawberry Maya-san?"
+msgstr ""
+
+msgctxt "1748_Maya"
+msgid "Yes, that's me."
+msgstr ""
+
+msgctxt "1760_Production Assistant"
+msgid ""
+"I noticed you coming in, but you're really early. Are you\r\n"
+"sure you got your times right?"
+msgstr ""
+
+msgctxt "1772_Akiyama"
+msgid "Huh? Really? That's odd."
+msgstr ""
+
+msgctxt "1784_Maya"
+msgid "Akiyama-san, did you maybe get the schedule mixed up?"
+msgstr ""
+
+msgctxt "1796_Akiyama"
+msgid "...I might have."
+msgstr ""
+
+msgctxt "1808_Maya"
+msgid ""
+"But that would be a disaster! We could be missing\r\n"
+"appointments!"
+msgstr ""
+
+msgctxt "1832_Akiyama"
+msgid ""
+"(She has three jobs today. If it's not the quiz, it's either\r\n"
+"Love to See You Smile or the magazine interview.)"
+msgstr ""
+
+msgctxt "1844_Akiyama"
+msgid "(What was her first job?)"
+msgstr ""
+
+msgctxt "1856_Akiyama"
+msgid ""
+"(She has three jobs today. If it's not Love to See You\r\n"
+"Smile, it's either the quiz show or the magazine\r\n"
+"interview.)"
+msgstr ""
+
+msgctxt "1868_Akiyama"
+msgid "(What was her first job?)"
+msgstr ""
+
+msgctxt "1880_Akiyama"
+msgid "That's right. We're here for Love to See You Smile."
+msgstr ""
+
+msgctxt "1892_Production Assistant"
+msgid ""
+"Uh, Love to See You Smile is recorded here, too, but you're\r\n"
+"really early for that, as well."
+msgstr ""
+
+msgctxt "1904_Akiyama"
+msgid "So, uh... we're supposed to be at the magazine interview?"
+msgstr ""
+
+msgctxt "1916_Maya"
+msgid "But... that means the interviewer's waiting for us!"
+msgstr ""
+
+msgctxt "1928_Akiyama"
+msgid ""
+"Well, mistakes happen. We can still make it. The interview's\r\n"
+"scheduled at Dyna Chair. Let's go."
+msgstr ""
+
+msgctxt "1940_Maya"
+msgid "Oh, yes! Please."
+msgstr ""
+
+msgctxt "1964_Akiyama"
+msgid "That's right. We're here for Sotenbori Love Check Quiz."
+msgstr ""
+
+msgctxt "1976_Production Assistant"
+msgid ""
+"Uh, Sotenbori Love Check Quiz is recorded here, too, but\r\n"
+"you're really early for that, as well."
+msgstr ""
+
+msgctxt "1988_Akiyama"
+msgid "So, uh... we're supposed to be at the magazine interview?"
+msgstr ""
+
+msgctxt "2000_Maya"
+msgid "But... that means the interviewer's waiting for us!"
+msgstr ""
+
+msgctxt "2012_Akiyama"
+msgid ""
+"Well, mistakes happen. We can still make it. The interview's\r\n"
+"scheduled at Dyna Chair. Let's go."
+msgstr ""
+
+msgctxt "2024_Maya"
+msgid "Oh, yes! Please."
+msgstr ""
+
+msgctxt "2048_Akiyama"
+msgid ""
+"Right, we're supposed to be at the magazine interview. We\r\n"
+"have to get to Dyna Chair."
+msgstr ""
+
+msgctxt "2060_Maya"
+msgid "Oh, yes! Please."
+msgstr ""

@@ -1,0 +1,1219 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-25\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "274\tCATEGORY"
+msgid "Terrain Moves"
+msgstr ""
+
+msgctxt "290\tCATEGORY"
+msgid "Barehanded"
+msgstr ""
+
+msgctxt "303\tCATEGORY"
+msgid "Finishing Moves"
+msgstr ""
+
+msgctxt "321\tCATEGORY"
+msgid "Weapon Moves"
+msgstr ""
+
+msgctxt "336\tCATEGORY"
+msgid "Climax Heat"
+msgstr ""
+
+msgctxt "348\tNAME"
+msgid "Wall Crush"
+msgstr ""
+
+msgctxt "359\tNAME"
+msgid "Back Crush"
+msgstr ""
+
+msgctxt "370\tNAME"
+msgid "Head Crush"
+msgstr ""
+
+msgctxt "381\tNAME"
+msgid "Essence of Pole Crush"
+msgstr ""
+
+msgctxt "403\tNAME"
+msgid "Essence of Butt Breaking"
+msgstr ""
+
+msgctxt "428\tNAME"
+msgid "Essence of Back Breaking"
+msgstr ""
+
+msgctxt "453\tNAME"
+msgid "Essence of Throwing"
+msgstr ""
+
+msgctxt "473\tNAME"
+msgid "Komaki Bowl Crusher"
+msgstr ""
+
+msgctxt "493\tNAME"
+msgid "Wall Smash"
+msgstr ""
+
+msgctxt "504\tNAME"
+msgid "Guard Rail Crush"
+msgstr ""
+
+msgctxt "521\tNAME"
+msgid "Pole Crush"
+msgstr ""
+
+msgctxt "532\tNAME"
+msgid "Essence of Wall Throwing"
+msgstr ""
+
+msgctxt "557\tNAME"
+msgid "Essence of Fence Bashing"
+msgstr ""
+
+msgctxt "582\tNAME"
+msgid "Essence of Fence Smashing"
+msgstr ""
+
+msgctxt "608\tNAME"
+msgid "Essence of Bell Ringing"
+msgstr ""
+
+msgctxt "632\tNAME"
+msgid "Essence of Wall Plastering"
+msgstr ""
+
+msgctxt "659\tNAME"
+msgid "Essence of Wall Pummel"
+msgstr ""
+
+msgctxt "682\tNAME"
+msgid "Essence of Snowman"
+msgstr ""
+
+msgctxt "701\tNAME"
+msgid "Essence of Door Slamming"
+msgstr ""
+
+msgctxt "726\tNAME"
+msgid "Essence of Triangle Jump"
+msgstr ""
+
+msgctxt "751\tNAME"
+msgid "Essence of Comebacks"
+msgstr ""
+
+msgctxt "772\tNAME"
+msgid "Essence of Clotheslining"
+msgstr ""
+
+msgctxt "797\tNAME"
+msgid "Essence of Smashing"
+msgstr ""
+
+msgctxt "817\tNAME"
+msgid "Cyclops Roll"
+msgstr ""
+
+msgctxt "830\tNAME"
+msgid "Hellish Swing"
+msgstr ""
+
+msgctxt "844\tNAME"
+msgid "Heavenly Swing"
+msgstr ""
+
+msgctxt "859\tNAME"
+msgid "Essence of Swinging"
+msgstr ""
+
+msgctxt "879\tNAME"
+msgid "Essence of Might"
+msgstr ""
+
+msgctxt "896\tNAME"
+msgid "Essence of Reversal"
+msgstr ""
+
+msgctxt "916\tNAME"
+msgid "Essence of Smoking"
+msgstr ""
+
+msgctxt "935\tNAME"
+msgid "Essence of Terror"
+msgstr ""
+
+msgctxt "953\tNAME"
+msgid "Essence of Hurling"
+msgstr ""
+
+msgctxt "972\tNAME"
+msgid "Komaki Fist Reversal"
+msgstr ""
+
+msgctxt "993\tNAME"
+msgid "Essence of Puppetry"
+msgstr ""
+
+msgctxt "1013\tNAME"
+msgid "Alpha Drive"
+msgstr ""
+
+msgctxt "1025\tNAME"
+msgid "Beta Drive"
+msgstr ""
+
+msgctxt "1036\tNAME"
+msgid "Gamma Drive"
+msgstr ""
+
+msgctxt "1048\tNAME"
+msgid "Essence of Heaving"
+msgstr ""
+
+msgctxt "1067\tNAME"
+msgid "Essence of Circle Throw"
+msgstr ""
+
+msgctxt "1091\tNAME"
+msgid "Essence of Knee Slam"
+msgstr ""
+
+msgctxt "1112\tNAME"
+msgid "Essence of Merciless Throwing"
+msgstr ""
+
+msgctxt "1142\tNAME"
+msgid "Essence of the Dragon"
+msgstr ""
+
+msgctxt "1164\tNAME"
+msgid "Essence of Backup Busting"
+msgstr ""
+
+msgctxt "1190\tNAME"
+msgid "Double Juggle"
+msgstr ""
+
+msgctxt "1204\tNAME"
+msgid "Essence of Self-Destruction"
+msgstr ""
+
+msgctxt "1232\tNAME"
+msgid "Komaki Swordless Rebirth"
+msgstr ""
+
+msgctxt "1257\tNAME"
+msgid "Essence of Combo Stomp"
+msgstr ""
+
+msgctxt "1280\tNAME"
+msgid "Essence of Falling Knee"
+msgstr ""
+
+msgctxt "1304\tNAME"
+msgid "Essence of Team Ascent"
+msgstr ""
+
+msgctxt "1327\tNAME"
+msgid "Essence of Loin Reaving"
+msgstr ""
+
+msgctxt "1351\tNAME"
+msgid "Essence of Seizing"
+msgstr ""
+
+msgctxt "1370\tNAME"
+msgid "Essence of Slamming"
+msgstr ""
+
+msgctxt "1390\tNAME"
+msgid "Essence of Face Grating"
+msgstr ""
+
+msgctxt "1414\tNAME"
+msgid "Essence of Iron Grip"
+msgstr ""
+
+msgctxt "1435\tNAME"
+msgid "Essence of Finishing"
+msgstr ""
+
+msgctxt "1456\tNAME"
+msgid "Essence of Ruthlessness"
+msgstr ""
+
+msgctxt "1480\tNAME"
+msgid "Essence of Finishing Stomp"
+msgstr ""
+
+msgctxt "1507\tNAME"
+msgid "Essence of Mounting"
+msgstr ""
+
+msgctxt "1527\tNAME"
+msgid "Essence of Finishing Knee"
+msgstr ""
+
+msgctxt "1553\tNAME"
+msgid "Essence of Finishing Kick"
+msgstr ""
+
+msgctxt "1579\tNAME"
+msgid "Essence of the Shachihoko"
+msgstr ""
+
+msgctxt "1605\tNAME"
+msgid "Essence of Armbarring"
+msgstr ""
+
+msgctxt "1627\tNAME"
+msgid "Essence of Head Press"
+msgstr ""
+
+msgctxt "1649\tNAME"
+msgid "Essence of Pressure Finish"
+msgstr ""
+
+msgctxt "1676\tNAME"
+msgid "Essence of Finishing Knuckle"
+msgstr ""
+
+msgctxt "1705\tNAME"
+msgid "Essence of Finishing Hammer"
+msgstr ""
+
+msgctxt "1733\tNAME"
+msgid "Essence of Weapon Finish"
+msgstr ""
+
+msgctxt "1758\tNAME"
+msgid "Essence of Heavy Weapons"
+msgstr ""
+
+msgctxt "1783\tNAME"
+msgid "Essence of Tonfa Beating"
+msgstr ""
+
+msgctxt "1808\tNAME"
+msgid "Essence of Brick Breaking"
+msgstr ""
+
+msgctxt "1834\tNAME"
+msgid "Essence of Signage"
+msgstr ""
+
+msgctxt "1853\tNAME"
+msgid "Essence of Beatdown"
+msgstr ""
+
+msgctxt "1873\tNAME"
+msgid "Heavy Maul: Fly Swatter"
+msgstr ""
+
+msgctxt "1897\tNAME"
+msgid "Dual Short Sword: Sly Wolf"
+msgstr ""
+
+msgctxt "1924\tNAME"
+msgid "Essence of Dagger"
+msgstr ""
+
+msgctxt "1942\tNAME"
+msgid "Essence of Stabbing"
+msgstr ""
+
+msgctxt "1962\tNAME"
+msgid "Essence of Nunchaku"
+msgstr ""
+
+msgctxt "1982\tNAME"
+msgid "Essence of Batting"
+msgstr ""
+
+msgctxt "2001\tNAME"
+msgid "Essence of Tonfas"
+msgstr ""
+
+msgctxt "2019\tNAME"
+msgid "Essence of Guzzling"
+msgstr ""
+
+msgctxt "2039\tNAME"
+msgid "Essence of Swordplay"
+msgstr ""
+
+msgctxt "2060\tNAME"
+msgid "Essence of Stun Gun"
+msgstr ""
+
+msgctxt "2080\tNAME"
+msgid "Essence of Bowling"
+msgstr ""
+
+msgctxt "2099\tNAME"
+msgid "Essence of Salting"
+msgstr ""
+
+msgctxt "2118\tNAME"
+msgid "Essence of Syringe"
+msgstr ""
+
+msgctxt "2137\tNAME"
+msgid "Essence of Golfing"
+msgstr ""
+
+msgctxt "2156\tNAME"
+msgid "Essence of Grilling"
+msgstr ""
+
+msgctxt "2176\tNAME"
+msgid "Essence of Pliers"
+msgstr ""
+
+msgctxt "2194\tNAME"
+msgid "Essence of Umbrella"
+msgstr ""
+
+msgctxt "2214\tNAME"
+msgid "Essence of Bike Riding"
+msgstr ""
+
+msgctxt "2237\tNAME"
+msgid "Essence of Superglue"
+msgstr ""
+
+msgctxt "2258\tNAME"
+msgid "Essence of Fireworks"
+msgstr ""
+
+msgctxt "2279\tNAME"
+msgid "Essence of Weapon Draw"
+msgstr ""
+
+msgctxt "2302\tNAME"
+msgid "Essence of Umbrella Spin"
+msgstr ""
+
+msgctxt "2327\tNAME"
+msgid "Essence of Furious Frenzy"
+msgstr ""
+
+msgctxt "2353\tNAME"
+msgid "Essence of Crazy Slashing"
+msgstr ""
+
+msgctxt "2379\tNAME"
+msgid "Essence of Iron Hammer"
+msgstr ""
+
+msgctxt "2402\tNAME"
+msgid "Essence of Lotus Staff"
+msgstr ""
+
+msgctxt "2425\tNAME"
+msgid "Essence of Kali Sticks"
+msgstr ""
+
+msgctxt "2448\tNAME"
+msgid "Blade Finisher: Heavens Converge"
+msgstr ""
+
+msgctxt "2481\tNAME"
+msgid "Komaki Firearm Flip"
+msgstr ""
+
+msgctxt "2501\tNAME"
+msgid "Hidden Blade: Raging Bull"
+msgstr ""
+
+msgctxt "2527\tNAME"
+msgid "Essence of Hammer"
+msgstr ""
+
+msgctxt "2545\tNAME"
+msgid "Kali Abuser"
+msgstr ""
+
+msgctxt "2557\tNAME"
+msgid "Essence of Bo Coiling"
+msgstr ""
+
+msgctxt "2579\tNAME"
+msgid "Essence of Furious Thrusts"
+msgstr ""
+
+msgctxt "2606\tNAME"
+msgid "Essence of Sweeping"
+msgstr ""
+
+msgctxt "2626\tNAME"
+msgid "Essence of Brass Knuckles"
+msgstr ""
+
+msgctxt "2652\tNAME"
+msgid "Essence of Crushing"
+msgstr ""
+
+msgctxt "2672\tNAME"
+msgid "Essence of Momentum"
+msgstr ""
+
+msgctxt "2692\tNAME"
+msgid "Essence of Spear Throwing"
+msgstr ""
+
+msgctxt "2718\tNAME"
+msgid "Essence of Pole Vaulting"
+msgstr ""
+
+msgctxt "2743\tNAME"
+msgid "Essence of Cyclone Slash"
+msgstr ""
+
+msgctxt "2768\tNAME"
+msgid "Essence of the Dragon King"
+msgstr ""
+
+msgctxt "2795\tNAME"
+msgid "Essence of Drunken Thrust"
+msgstr ""
+
+msgctxt "2821\tNAME"
+msgid "Ultimate Essence"
+msgstr ""
+
+msgctxt "2838\tNAME"
+msgid "Tiger Essence of Shockwave"
+msgstr ""
+
+msgctxt "2865\tNAME"
+msgid "Tiger Essence of Braining"
+msgstr ""
+
+msgctxt "2891\tNAME"
+msgid "Tiger Essence of Blitzing"
+msgstr ""
+
+msgctxt "2917\tNAME"
+msgid "Killer Kick Combo"
+msgstr ""
+
+msgctxt "2935\tNAME"
+msgid "Meteor Strike"
+msgstr ""
+
+msgctxt "2949\tNAME"
+msgid "Final Drive"
+msgstr ""
+
+msgctxt "2961\tNAME"
+msgid "My Dragging Essence"
+msgstr ""
+
+msgctxt "2981\tNAME"
+msgid "My Whirlwind Essence"
+msgstr ""
+
+msgctxt "3002\tNAME"
+msgid "My Bashing Combo Essence"
+msgstr ""
+
+msgctxt "4027\tEXPLANATION"
+msgid ""
+"Smash an opponent against a wall.\n"
+"The most basic of basic Heat Actions."
+msgstr ""
+
+msgctxt "4099\tEXPLANATION"
+msgid "Crush an opponent from behind."
+msgstr ""
+
+msgctxt "4130\tEXPLANATION"
+msgid "Smash an opponent's head against an object."
+msgstr ""
+
+msgctxt "4174\tEXPLANATION"
+msgid ""
+"Use a nearby pole to crush an unsuspecting\n"
+"opponent."
+msgstr ""
+
+msgctxt "4227\tEXPLANATION"
+msgid ""
+"A fierce attack that destroys an opponent's\n"
+"tailbone."
+msgstr ""
+
+msgctxt "4281\tEXPLANATION"
+msgid ""
+"Drop an opponent on a protruding object.\n"
+"It's a real brain buster."
+msgstr ""
+
+msgctxt "4348\tEXPLANATION"
+msgid ""
+"Quickly eliminate an opponent by throwing them\n"
+"off of a high place."
+msgstr ""
+
+msgctxt "4416\tEXPLANATION"
+msgid ""
+"An ancient attack that splits open an enemy's\n"
+"head using their own body weight. Learn from\n"
+"the past to protect the future."
+msgstr ""
+
+msgctxt "4539\tEXPLANATION"
+msgid ""
+"This deadly move will let you kick your opponent into\n"
+"the wall repeatedly."
+msgstr ""
+
+msgctxt "4614\tEXPLANATION"
+msgid ""
+"Kick and smash your opponent into a guard rail\n"
+"after throwing him with this relentless move."
+msgstr ""
+
+msgctxt "4707\tEXPLANATION"
+msgid ""
+"Use a pole to crash down on an enemy with your\n"
+"knees from a high altitude."
+msgstr ""
+
+msgctxt "4782\tEXPLANATION"
+msgid ""
+"Lift up an enemy and give him a giant heave into\n"
+"the wall. A move for Saejima only."
+msgstr ""
+
+msgctxt "4866\tEXPLANATION"
+msgid ""
+"Fling your opponent into a chain-link fence,\n"
+"and then fling yourself into your opponent."
+msgstr ""
+
+msgctxt "4955\tEXPLANATION"
+msgid ""
+"Smash an opponent against a fence and grate\n"
+"their head with it. Take a little off the top."
+msgstr ""
+
+msgctxt "5046\tEXPLANATION"
+msgid ""
+"Pick up an enemy and slam him into the wall.\n"
+"This is sure to terrify your opponent."
+msgstr ""
+
+msgctxt "5130\tEXPLANATION"
+msgid "Tackle an enemy near a wall and slam them against it."
+msgstr ""
+
+msgctxt "5184\tEXPLANATION"
+msgid ""
+"Knock down your enemy with a vicious strike after he is defenselessly "
+"plastered against a wall."
+msgstr ""
+
+msgctxt "5280\tEXPLANATION"
+msgid ""
+"Put an enemy on ice and turn them into a snowman. You'll need a carrot and "
+"a wooden carving."
+msgstr ""
+
+msgctxt "5373\tEXPLANATION"
+msgid ""
+"A brutal attack in which you slam your enemy's head in a car door with all "
+"your might."
+msgstr ""
+
+msgctxt "5460\tEXPLANATION"
+msgid "Mow down your enemies with a trinity of strikes."
+msgstr ""
+
+msgctxt "5509\tEXPLANATION"
+msgid ""
+"When you are in danger after your guard is broken, turn the tables with a "
+"backspin kick."
+msgstr ""
+
+msgctxt "5598\tEXPLANATION"
+msgid ""
+"Grab the legs of an enemy to give him a brutal\n"
+"clothesline and a nice view of the sky."
+msgstr ""
+
+msgctxt "5685\tEXPLANATION"
+msgid ""
+"Catch your opponents on guard! Sweep out the feet of guarding enemies to "
+"watch them crumble."
+msgstr ""
+
+msgctxt "5778\tEXPLANATION"
+msgid ""
+"Grab your opponent by the feet and ruthlessly\n"
+"plow them into a surface."
+msgstr ""
+
+msgctxt "5850\tEXPLANATION"
+msgid ""
+"Show your devilish side by picking up an enemy\n"
+"and swinging them into a wall. "
+msgstr ""
+
+msgctxt "5929\tEXPLANATION"
+msgid ""
+"Pick up a foe and swing them into a pole.\n"
+"Maybe catching a glimpse of heaven will help them\n"
+"realize the error of their ways."
+msgstr ""
+
+msgctxt "6054\tEXPLANATION"
+msgid ""
+"Swing a foe around and use them as a weapon.\n"
+"Those involved catch a glimpse into hell."
+msgstr ""
+
+msgctxt "6141\tEXPLANATION"
+msgid ""
+"Grab an opponent and smash them into the\n"
+"ground. Put all your strength, spirit, and weight\n"
+"into a single devastating blow!"
+msgstr ""
+
+msgctxt "6264\tEXPLANATION"
+msgid ""
+"Surprise an opponent while you're knocked down\n"
+"by breaking their shins."
+msgstr ""
+
+msgctxt "6336\tEXPLANATION"
+msgid ""
+"A secret street fighting technique. Skillfully\n"
+"use a lit cigarette to create an opening."
+msgstr ""
+
+msgctxt "6425\tEXPLANATION"
+msgid ""
+"Strike down your opponents with frightful\n"
+"speed."
+msgstr ""
+
+msgctxt "6474\tEXPLANATION"
+msgid ""
+"Show an enemy grabbing you that they should to keep their hands to "
+"themselves by piledriving them."
+msgstr ""
+
+msgctxt "6573\tEXPLANATION"
+msgid ""
+"Perform a powerful counter move against an enemy's attack. The move differs "
+"by direction."
+msgstr ""
+
+msgctxt "6663\tEXPLANATION"
+msgid ""
+"Grab an enemy's head and swing him around like a weapon, bludgeoning other "
+"enemies all around."
+msgstr ""
+
+msgctxt "6758\tEXPLANATION"
+msgid "Deliver a powerful strike to an airborne enemy, then slam him to the ground."
+msgstr ""
+
+msgctxt "6835\tEXPLANATION"
+msgid ""
+"Launch your enemy back into the air after slamming him down with Alpha "
+"Drive."
+msgstr ""
+
+msgctxt "6913\tEXPLANATION"
+msgid ""
+"After Beta Drive, violently kick your enemy away while he is still in the "
+"air."
+msgstr ""
+
+msgctxt "6992\tEXPLANATION"
+msgid "Pass between your enemy's legs after My Meteor Tackle then, send him flying."
+msgstr ""
+
+msgctxt "7069\tEXPLANATION"
+msgid "Take your enemy in your arms and throw him over your head."
+msgstr ""
+
+msgctxt "7128\tEXPLANATION"
+msgid "Viciously slam your knee into your enemy's vitals."
+msgstr ""
+
+msgctxt "7179\tEXPLANATION"
+msgid ""
+"Pull a fallen enemy up off the ground and mercilessly slam him back down. "
+"Time is money."
+msgstr ""
+
+msgctxt "7268\tEXPLANATION"
+msgid "Unleash after Dragon Spirit to mow down surrounding enemies all at once."
+msgstr ""
+
+msgctxt "7341\tEXPLANATION"
+msgid ""
+"Attack an enemy calling for backup, then smash his phone. No one's coming "
+"to save him now."
+msgstr ""
+
+msgctxt "7432\tEXPLANATION"
+msgid ""
+"Send one enemy into the air, and while he is helpless, slam another nearby "
+"enemy into him."
+msgstr ""
+
+msgctxt "7523\tEXPLANATION"
+msgid "Deliver a vicious attack by using an enemy's own large weapon against him."
+msgstr ""
+
+msgctxt "7598\tEXPLANATION"
+msgid "Deliver a powerful counterattack against an enemy's sword attack."
+msgstr ""
+
+msgctxt "7664\tEXPLANATION"
+msgid ""
+"After an ally smashes the back of your opponent's head into the ground with "
+"a powerbomb, cave in their face with a stomp."
+msgstr ""
+
+msgctxt "7786\tEXPLANATION"
+msgid ""
+"A secret technique where you jump and knee the face of an enemy that was "
+"picked up and thrown."
+msgstr ""
+
+msgctxt "7881\tEXPLANATION"
+msgid "Work with an ally to deliver a vicious blow."
+msgstr ""
+
+msgctxt "7926\tEXPLANATION"
+msgid ""
+"Turn your back on your enemy, then deliver a debilitating kick when he "
+"least expects it."
+msgstr ""
+
+msgctxt "8015\tEXPLANATION"
+msgid ""
+"Deliver a vicious strike, then steal your enemy's weapon. Does not work "
+"against certain weapons."
+msgstr ""
+
+msgctxt "8112\tEXPLANATION"
+msgid ""
+"Take out two birds with one stone by dropping\n"
+"one enemy onto another who's lying on the\n"
+"ground."
+msgstr ""
+
+msgctxt "8208\tEXPLANATION"
+msgid "Deal massive damage to an enemy by grating his face against the ground."
+msgstr ""
+
+msgctxt "8280\tEXPLANATION"
+msgid "Forcibly pull a fallen enemy to his feet, then slam him against a wall."
+msgstr ""
+
+msgctxt "8352\tEXPLANATION"
+msgid ""
+"Deliver a vicious attack to a fallen enemy. Acquire new finishing moves the "
+"more you use it."
+msgstr ""
+
+msgctxt "8445\tEXPLANATION"
+msgid "Deliver a vicious punch to the face of a fallen enemy."
+msgstr ""
+
+msgctxt "8500\tEXPLANATION"
+msgid ""
+"No need to damage your weapons this time.\n"
+"Just stomp on your opponent."
+msgstr ""
+
+msgctxt "8571\tEXPLANATION"
+msgid ""
+"Turn the tables by tackling the opponent and punching them while they're "
+"down. A vicious attack for a cornered attacker."
+msgstr ""
+
+msgctxt "8692\tEXPLANATION"
+msgid "A vicious drop to the face of a fallen enemy."
+msgstr ""
+
+msgctxt "8738\tEXPLANATION"
+msgid ""
+"Keep your weapons pristine and send your\n"
+"enemy flying with a well-placed kick. Make them\n"
+"wish you had used a weapon."
+msgstr ""
+
+msgctxt "8855\tEXPLANATION"
+msgid ""
+"Stretch the enemy into a shape of a shachihoko, then grab him to deliver "
+"another strike."
+msgstr ""
+
+msgctxt "8944\tEXPLANATION"
+msgid "Use your mastery of wrestling to perform one grappling move after another."
+msgstr ""
+
+msgctxt "9019\tEXPLANATION"
+msgid "Knee and headbutt a rising opponent to break his nose."
+msgstr ""
+
+msgctxt "9074\tEXPLANATION"
+msgid ""
+"A devastating attack. Just when the enemy\n"
+"thinks you're finished, come down upon them with\n"
+"all your might."
+msgstr ""
+
+msgctxt "9181\tEXPLANATION"
+msgid "Deliver a vicious punch to the face of a fallen enemy."
+msgstr ""
+
+msgctxt "9236\tEXPLANATION"
+msgid "Bring the hammer down on your foe. Literally."
+msgstr ""
+
+msgctxt "9282\tEXPLANATION"
+msgid ""
+"A simple and popular attack. Throw an object\n"
+"onto a downed enemy, putting the force of your\n"
+"body and soul behind it."
+msgstr ""
+
+msgctxt "9399\tEXPLANATION"
+msgid ""
+"Slam a gigantic weapon into your enemy then strike him again as only the "
+"powerfully built Saejima could."
+msgstr ""
+
+msgctxt "9504\tEXPLANATION"
+msgid ""
+"Mercilessly beat your enemy with a tonfa and deliver massive damage with "
+"each strike."
+msgstr ""
+
+msgctxt "9590\tEXPLANATION"
+msgid ""
+"Force something on an opponent's head and spin it. Then break them \n"
+"with a knife hand strike as though they were a pile of bricks."
+msgstr ""
+
+msgctxt "9721\tEXPLANATION"
+msgid "Slam the enemy with a signboard, then come down on it with all your weight."
+msgstr ""
+
+msgctxt "9797\tEXPLANATION"
+msgid "Pummel an enemy with a one-handed weapon, then deliver one mighty blow."
+msgstr ""
+
+msgctxt "9869\tEXPLANATION"
+msgid ""
+"Combine an ancient sword technique with the weight of a hammer. Swat down "
+"your foes as though they were but flies."
+msgstr ""
+
+msgctxt "9984\tEXPLANATION"
+msgid ""
+"This ancient sword technique is reminiscent of a wolf's swift and accurate "
+"strike."
+msgstr ""
+
+msgctxt "10067\tEXPLANATION"
+msgid ""
+"Charge an enemy with a short-bladed weapon and use your momentum to deliver "
+"a punishing strike."
+msgstr ""
+
+msgctxt "10163\tEXPLANATION"
+msgid "Pin your opponent's hand to the wall with a dagger."
+msgstr ""
+
+msgctxt "10215\tEXPLANATION"
+msgid ""
+"A graceful, majestic strike that uses nunchaku\n"
+"to their utmost potential."
+msgstr ""
+
+msgctxt "10289\tEXPLANATION"
+msgid "Send enemies out of the park with a powerful swing."
+msgstr ""
+
+msgctxt "10341\tEXPLANATION"
+msgid "An attack utilizing basic tonfa techniques."
+msgstr ""
+
+msgctxt "10385\tEXPLANATION"
+msgid ""
+"Force a mystery liquid down an enemy's throat.\n"
+"Does more psychological damage than physical.\n"
+"...Probably."
+msgstr ""
+
+msgctxt "10491\tEXPLANATION"
+msgid "Shove the enemy away, then deliver three sword slashes."
+msgstr ""
+
+msgctxt "10547\tEXPLANATION"
+msgid ""
+"Charge your stun gun with electrified passion,\n"
+"powering it up beyond its physical limits.\n"
+"Transcends modern understanding of physics."
+msgstr ""
+
+msgctxt "10681\tEXPLANATION"
+msgid ""
+"Get a strike on your opponent's shins and\n"
+"bowl them into the gutter. Spare no mercy."
+msgstr ""
+
+msgctxt "10766\tEXPLANATION"
+msgid ""
+"Rub salt into an enemy's eyes. Show your enemies what it truly means to be "
+"salty. Even works on those wearing glasses!"
+msgstr ""
+
+msgctxt "10885\tEXPLANATION"
+msgid ""
+"Inject a mysterious syringe into an opponent's\n"
+"posterior. Hopefully it isn't too dangerous."
+msgstr ""
+
+msgctxt "10977\tEXPLANATION"
+msgid ""
+"Send an opponent flying down range. Not a\n"
+"fair way to play, but a nice shot nonetheless."
+msgstr ""
+
+msgctxt "11066\tEXPLANATION"
+msgid ""
+"Grill an enemy's face with a gas burner. As simple as throwing a pie, and "
+"more painful than you can imagine."
+msgstr ""
+
+msgctxt "11175\tEXPLANATION"
+msgid "Give your opponent a free tooth extraction or manicure, street style."
+msgstr ""
+
+msgctxt "11245\tEXPLANATION"
+msgid "Use an umbrella's hooked handle to reel an enemy in and then cast them out."
+msgstr ""
+
+msgctxt "11321\tEXPLANATION"
+msgid "Ram a bike into your enemy putting all your weight behind it."
+msgstr ""
+
+msgctxt "11383\tEXPLANATION"
+msgid ""
+"Glue two enemies together with superglue, then watch them struggle before "
+"viciously tearing them apart."
+msgstr ""
+
+msgctxt "11487\tEXPLANATION"
+msgid "Launch a skyrocket at your enemy."
+msgstr ""
+
+msgctxt "11521\tEXPLANATION"
+msgid "Draw a weapon and deliver a lightning-quick strike."
+msgstr ""
+
+msgctxt "11573\tEXPLANATION"
+msgid ""
+"Spin an umbrella and deliver combos, ending with a final, devastating "
+"strike."
+msgstr ""
+
+msgctxt "11651\tEXPLANATION"
+msgid "Strike enemies over and over with flashy pole work."
+msgstr ""
+
+msgctxt "11703\tEXPLANATION"
+msgid "Deliver swift combos with a short-bladed weapon."
+msgstr ""
+
+msgctxt "11752\tEXPLANATION"
+msgid ""
+"Deliver a devastating blow with a giant piece of equipment ripped out of "
+"the ground."
+msgstr ""
+
+msgctxt "11837\tEXPLANATION"
+msgid ""
+"A basic attack passed down through the Lotus\n"
+"School. Trips the opponent, and then deals\n"
+"additional attacks."
+msgstr ""
+
+msgctxt "11945\tEXPLANATION"
+msgid ""
+"Use your Kali Sticks to rain blow after blow upon your opponent, rendering "
+"them helpless."
+msgstr ""
+
+msgctxt "12035\tEXPLANATION"
+msgid ""
+"An ancient sword technique. Epitomizes the ferocity of a unique "
+"double-bladed style."
+msgstr ""
+
+msgctxt "12120\tEXPLANATION"
+msgid "Stop enemies with firearms from shooting, then deliver a vicious strike."
+msgstr ""
+
+msgctxt "12193\tEXPLANATION"
+msgid "An ancient sword technique. Charge forward like a powerful bull."
+msgstr ""
+
+msgctxt "12258\tEXPLANATION"
+msgid ""
+"Use the weight of the hammer to pound enemies\n"
+"into the ground with a series of powerful\n"
+"blows."
+msgstr ""
+
+msgctxt "12353\tEXPLANATION"
+msgid ""
+"Use your Kali Sticks to rain blow after blow upon your opponent, rendering "
+"them helpless."
+msgstr ""
+
+msgctxt "12443\tEXPLANATION"
+msgid ""
+"Immobilize your enemy with a pole weapon, then use the leverage you have to "
+"hurl him away."
+msgstr ""
+
+msgctxt "12534\tEXPLANATION"
+msgid ""
+"Torment your enemy with a series of thrusts, then finish him off with one "
+"more violent thrust."
+msgstr ""
+
+msgctxt "12629\tEXPLANATION"
+msgid ""
+"Lift enemies up from between their legs and\n"
+"slam them onto the ground."
+msgstr ""
+
+msgctxt "12700\tEXPLANATION"
+msgid ""
+"A relentless three-punch combo using brass knuckles.\n"
+"You can use this when Saejima has brass knuckles equipped."
+msgstr ""
+
+msgctxt "12812\tEXPLANATION"
+msgid ""
+"Rattle an enemy's brains with a blow to the\n"
+"head, then finish him with a final blow."
+msgstr ""
+
+msgctxt "12897\tEXPLANATION"
+msgid ""
+"Drop something heavy on an enemy's head.\n"
+"Sometimes simple is best."
+msgstr ""
+
+msgctxt "12964\tEXPLANATION"
+msgid "Violently hurl a long pole like a javelin at a distant enemy."
+msgstr ""
+
+msgctxt "13026\tEXPLANATION"
+msgid ""
+"Use a long pole to launch your body high in the air and deliver a vicious "
+"attack."
+msgstr ""
+
+msgctxt "13108\tEXPLANATION"
+msgid "Leap from one enemy while attacking the rest with a sword."
+msgstr ""
+
+msgctxt "13167\tEXPLANATION"
+msgid ""
+"Climax Heat\n"
+"Build up power before delivering a savage kick."
+msgstr ""
+
+msgctxt "13227\tEXPLANATION"
+msgid ""
+"Climax Heat\n"
+"Thrust your body into your enemy for major damage."
+msgstr ""
+
+msgctxt "13290\tEXPLANATION"
+msgid ""
+"Climax Heat\n"
+"Perform the ultimate reversal move while on death's door."
+msgstr ""
+
+msgctxt "13360\tEXPLANATION"
+msgid ""
+"Climax Heat\n"
+"Pound the ground with built-up power to send enemies flying."
+msgstr ""
+
+msgctxt "13433\tEXPLANATION"
+msgid ""
+"Climax Heat\n"
+"Lift up an enemy you have grabbed, then slam him down."
+msgstr ""
+
+msgctxt "13500\tEXPLANATION"
+msgid ""
+"Climax Heat\n"
+"Charge forward and send your enemy flying. "
+msgstr ""
+
+msgctxt "13556\tEXPLANATION"
+msgid ""
+"Climax Heat\n"
+"Deliver a combo of assorted kicks."
+msgstr ""
+
+msgctxt "13603\tEXPLANATION"
+msgid ""
+"Climax Heat\n"
+"Deliver a devastating attack as you come hurtling down."
+msgstr ""
+
+msgctxt "13671\tEXPLANATION"
+msgid ""
+"Climax Heat\n"
+"Violently slam an airborne enemy down to the ground."
+msgstr ""
+
+msgctxt "13736\tEXPLANATION"
+msgid ""
+"Climax Heat\n"
+"Drag your enemy around on the pavement. Road rash is no joke."
+msgstr ""
+
+msgctxt "13810\tEXPLANATION"
+msgid ""
+"Climax Heat\n"
+"Mow down enemies with a long pole."
+msgstr ""
+
+msgctxt "13857\tEXPLANATION"
+msgid ""
+"Climax Heat\n"
+"Throw your weapon at the enemy, catch it as it bounces, and repeat."
+msgstr ""

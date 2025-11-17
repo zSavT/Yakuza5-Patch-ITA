@@ -1,0 +1,412 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "11640"
+msgid "Player"
+msgstr ""
+
+msgctxt "11644"
+msgid "kaiwabgm_fuon05"
+msgstr ""
+
+msgctxt "11648"
+msgid "C4280_SIN_TLK_close_MLK"
+msgstr ""
+
+msgctxt "11652"
+msgid "C4280_SIN_TLK_close_MLK_kamae"
+msgstr ""
+
+msgctxt "11656"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "11660"
+msgid "adv4_280/shinada_0367"
+msgstr ""
+
+msgctxt "11664"
+msgid "Milky"
+msgstr ""
+
+msgctxt "11668"
+msgid "C4280_MLK_TLK_kamae_B"
+msgstr ""
+
+msgctxt "11672"
+msgid "C4280_MLK_TLK_kamae_AtoB"
+msgstr ""
+
+msgctxt "11676"
+msgid "adv4_280/milk_0035a"
+msgstr ""
+
+msgctxt "11680"
+msgid "C4280_MLK_TLK_tape_hagashi"
+msgstr ""
+
+msgctxt "11684"
+msgid "C4280_SIN_TLK_tape_hagashi"
+msgstr ""
+
+msgctxt "11688"
+msgid "adv4_280/shinada_0368"
+msgstr ""
+
+msgctxt "11692"
+msgid "adv4_280/milk_0035"
+msgstr ""
+
+msgctxt "11696"
+msgid "kaiwabgm_fuon02"
+msgstr ""
+
+msgctxt "11700"
+msgid "C4280_SIN_TLK_dam_down"
+msgstr ""
+
+msgctxt "11704"
+msgid "C4280_TEN_TLK_atk_SIN"
+msgstr ""
+
+msgctxt "11708"
+msgid "C4280_USJ_TLK_phone_kamae"
+msgstr ""
+
+msgctxt "11712"
+msgid "C4280_SIN_TLK_sibari_dw_kamae"
+msgstr ""
+
+msgctxt "11716"
+msgid "ArmsID"
+msgstr ""
+
+msgctxt "11720"
+msgid "ACYAM0000"
+msgstr ""
+
+msgctxt "11724"
+msgid "C4280_USJ_TLK_kamae"
+msgstr ""
+
+msgctxt "11728"
+msgid "C4280_USJ_TLK_close_SIN"
+msgstr ""
+
+msgctxt "11732"
+msgid "C4280_SIN_TLK_sibari_kamae"
+msgstr ""
+
+msgctxt "11736"
+msgid "C4280_SIN_TLK_sibari_wakeup"
+msgstr ""
+
+msgctxt "11740"
+msgid "adv4_280/shinada_0369"
+msgstr ""
+
+msgctxt "11744"
+msgid "Ushijima"
+msgstr ""
+
+msgctxt "11748"
+msgid "adv4_280/ushijima_0043"
+msgstr ""
+
+msgctxt "11752"
+msgid "adv4_280/ushijima_0044"
+msgstr ""
+
+msgctxt "11756"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "11760"
+msgid "adv4_280/shinada_0370"
+msgstr ""
+
+msgctxt "11764"
+msgid "adv4_280/milk_0036"
+msgstr ""
+
+msgctxt "11768"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "11772"
+msgid "adv4_280/ushijima_0045"
+msgstr ""
+
+msgctxt "11776"
+msgid "adv4_280/shinada_0371"
+msgstr ""
+
+msgctxt "11780"
+msgid "C4280_SIN_TLK_sibari_no"
+msgstr ""
+
+msgctxt "11784"
+msgid "adv4_280/ushijima_0046"
+msgstr ""
+
+msgctxt "11788"
+msgid "adv4_280/shinada_0372"
+msgstr ""
+
+msgctxt "11792"
+msgid "adv4_280/ushijima_0047"
+msgstr ""
+
+msgctxt "11796"
+msgid "adv4_280/shinada_0373a"
+msgstr ""
+
+msgctxt "11800"
+msgid "adv4_280/shinada_0373b"
+msgstr ""
+
+msgctxt "11804"
+msgid "C4280_SIN_TLK_sibari_yes"
+msgstr ""
+
+msgctxt "11808"
+msgid "adv4_280/shinada_0373c"
+msgstr ""
+
+msgctxt "11812"
+msgid "adv4_280/milk_0037"
+msgstr ""
+
+msgctxt "11816"
+msgid "adv4_280/shinada_0374a"
+msgstr ""
+
+msgctxt "11820"
+msgid "C4280_SIN_TLK_sibari_tlk"
+msgstr ""
+
+msgctxt "11824"
+msgid "adv4_280/shinada_0374b"
+msgstr ""
+
+msgctxt "11828"
+msgid "adv4_280/ushijima_0048a"
+msgstr ""
+
+msgctxt "11832"
+msgid "adv4_280/ushijima_0048b"
+msgstr ""
+
+msgctxt "11836"
+msgid "adv4_280/shinada_0375a"
+msgstr ""
+
+msgctxt "11840"
+msgid "adv4_280/shinada_0375b"
+msgstr ""
+
+msgctxt "11844"
+msgid "adv4_280/ushijima_0049"
+msgstr ""
+
+msgctxt "11848"
+msgid "adv4_280/shinada_0376"
+msgstr ""
+
+msgctxt "11852"
+msgid "adv4_280/ushijima_0050"
+msgstr ""
+
+msgctxt "11856"
+msgid "adv4_280/shinada_0377a"
+msgstr ""
+
+msgctxt "11860"
+msgid "adv4_280/shinada_0377b"
+msgstr ""
+
+msgctxt "11864"
+msgid "Futo Momo Manager"
+msgstr ""
+
+msgctxt "11868"
+msgid "adv4_280/futomomo_0011"
+msgstr ""
+
+msgctxt "11872"
+msgid "adv4_280/milk_0038"
+msgstr ""
+
+msgctxt "11876"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "11880"
+msgid "adv4_280/futomomo_0012"
+msgstr ""
+
+msgctxt "11884"
+msgid "adv4_280/ushijima_0051"
+msgstr ""
+
+msgctxt "60_Player"
+msgid ""
+"(That's Warehouse 62 up ahead. Milky-chan and her brother\r\n"
+"might be inside!)"
+msgstr ""
+
+msgctxt "108_Player"
+msgid "Milky-chan, are you all right!?"
+msgstr ""
+
+msgctxt "120_Milky"
+msgid "Mmph! Mmmph!"
+msgstr ""
+
+msgctxt "144_Shinada"
+msgid "Milky-chan, where is he? Where'd they take your brother?"
+msgstr ""
+
+msgctxt "180_Player"
+msgid "Ta-chan, I'm sorry."
+msgstr ""
+
+msgctxt "312_Player"
+msgid "Ugh... Ushijima-san?"
+msgstr ""
+
+msgctxt "324_Ushijima"
+msgid "We got orders to take you out, Shinada."
+msgstr ""
+
+msgctxt "336_Ushijima"
+msgid "It's your fault for not heeding the warnings."
+msgstr ""
+
+msgctxt "348_Shinada"
+msgid "Ushijima-san..."
+msgstr ""
+
+msgctxt "360_Milky"
+msgid ""
+"If only you'd gotten scared away from all those incidents in town... it "
+"wouldn't have come to this."
+msgstr ""
+
+msgctxt "372_Ushijima"
+msgid "You wanted to know about the Nagoya Family so bad? Well here's your answer."
+msgstr ""
+
+msgctxt "384_Shinada"
+msgid "I don't believe it... I <Italic>won't</Italic> believe it."
+msgstr ""
+
+msgctxt "396_Ushijima"
+msgid ""
+"Any last words? We've known each other all of 15 years. I can listen to "
+"your will at least."
+msgstr ""
+
+msgctxt "408_Shinada"
+msgid ""
+"Hah. I know you're all good people. So you can stop playing the villain any "
+"time now."
+msgstr ""
+
+msgctxt "420_Ushijima"
+msgid "......"
+msgstr ""
+
+msgctxt "432_Shinada"
+msgid "Maybe I was too dumb for school, but I did learn how to read people."
+msgstr ""
+
+msgctxt "444_Shinada"
+msgid "And I know that every one of you opened your hearts to me!"
+msgstr ""
+
+msgctxt "456_Shinada"
+msgid "That's why I can't believe your little gangster act!"
+msgstr ""
+
+msgctxt "468_Milky"
+msgid "......"
+msgstr ""
+
+msgctxt "480_Shinada"
+msgid ""
+"Those accidents around town, and Sakai-san's death－you're saying you're "
+"behind all that!?"
+msgstr ""
+
+msgctxt "492_Shinada"
+msgid "You all sold out to the Nagoya Family!?"
+msgstr ""
+
+msgctxt "504_Ushijima"
+msgid ""
+"Buddy. We <Italic>are</Italic> the Nagoya Family. A group of ordinary "
+"citizens dedicated to the cause."
+msgstr ""
+
+msgctxt "516_Ushijima"
+msgid ""
+"Now I don't like the idea of being considered yakuza, but I\r\n"
+"guess that's how it goes."
+msgstr ""
+
+msgctxt "528_Shinada"
+msgid ""
+"Ushijima-san, if you really wanted to kill me, you could've\r\n"
+"done so anytime you wanted."
+msgstr ""
+
+msgctxt "540_Shinada"
+msgid "But you didn't. Why is that?"
+msgstr ""
+
+msgctxt "552_Ushijima"
+msgid "......"
+msgstr ""
+
+msgctxt "564_Shinada"
+msgid "Somebody's forcing you, aren't they?"
+msgstr ""
+
+msgctxt "576_Ushijima"
+msgid "......"
+msgstr ""
+
+msgctxt "588_Shinada"
+msgid "And you're only doing this because you're following their orders, right?"
+msgstr ""
+
+msgctxt "600_Shinada"
+msgid "Tell me who it is!"
+msgstr ""
+
+msgctxt "612_Futo Momo Manager"
+msgid "Milky, just do it already."
+msgstr ""
+
+msgctxt "624_Milky"
+msgid "What are you asking? You're gonna make a girl do it?"
+msgstr ""
+
+msgctxt "636_Futo Momo Manager"
+msgid "I, uh... Ushijima-san?"
+msgstr ""
+
+msgctxt "648_Ushijima"
+msgid "Fine then. I'll end it."
+msgstr ""

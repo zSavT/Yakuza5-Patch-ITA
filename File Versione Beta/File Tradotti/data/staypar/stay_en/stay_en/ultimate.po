@@ -1,0 +1,644 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-25\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "784\tCATEGORY"
+msgid "Melee"
+msgstr "Mani Nude"
+
+msgctxt "799\tCATEGORY"
+msgid "Challenge"
+msgstr "Sfida"
+
+msgctxt "818\tCATEGORY"
+msgid "Sprint"
+msgstr "Scatta"
+
+msgctxt "829\tCATEGORY"
+msgid "Ultimate"
+msgstr "Ultimate"
+
+msgctxt "842\tCATEGORY_EXP"
+msgid "Defeat multiple enemies under various situations and conditions."
+msgstr "Sconfiggi più nemici in varie situazioni e condizioni."
+
+msgctxt "916\tCATEGORY_EXP"
+msgid "Missions with a very unique victory condition."
+msgstr "Missioni con una condizione di vittoria davvero unica."
+
+msgctxt "972\tCATEGORY_EXP"
+msgid "Participate in chase battles in various situations and conditions."
+msgstr "Partecipa a inseguimenti in varie situazioni e condizioni."
+
+msgctxt "1043\tCATEGORY_EXP"
+msgid "Fight against strong enemies in back-to-back matches."
+msgstr "Combatti contro nemici tosti in scontri senza sosta."
+
+msgctxt "1101\tMENU_NAME"
+msgid "Match 1"
+msgstr "Partita 1"
+
+msgctxt "1109\tMENU_NAME"
+msgid "Match 2"
+msgstr "Partita 2"
+
+msgctxt "1117\tMENU_NAME"
+msgid "Match 3"
+msgstr "Partita 3"
+
+msgctxt "1125\tMENU_NAME"
+msgid "Match 4"
+msgstr "Partita 4"
+
+msgctxt "1133\tMENU_NAME"
+msgid "Match 5"
+msgstr "Partita 5"
+
+msgctxt "1141\tMENU_NAME"
+msgid "Match 6"
+msgstr "Partita 6"
+
+msgctxt "1149\tMENU_NAME"
+msgid "Match 7"
+msgstr "Partita 7"
+
+msgctxt "1157\tMENU_NAME"
+msgid "Match 8"
+msgstr "Partita 8"
+
+msgctxt "1165\tMENU_NAME"
+msgid "Match 9"
+msgstr "Partita 9"
+
+msgctxt "1173\tMENU_NAME"
+msgid "Match 10"
+msgstr "Partita 10"
+
+msgctxt "1182\tMENU_NAME"
+msgid "Match 1"
+msgstr "Partita 1"
+
+msgctxt "1190\tMENU_NAME"
+msgid "Match 2"
+msgstr "Partita 2"
+
+msgctxt "1198\tMENU_NAME"
+msgid "Match 3"
+msgstr "Partita 3"
+
+msgctxt "1206\tMENU_NAME"
+msgid "Match 4"
+msgstr "Partita 4"
+
+msgctxt "1214\tMENU_NAME"
+msgid "Match 5"
+msgstr "Partita 5"
+
+msgctxt "1222\tMENU_NAME"
+msgid "Match 6"
+msgstr "Partita 6"
+
+msgctxt "1230\tMENU_NAME"
+msgid "Match 7"
+msgstr "Partita 7"
+
+msgctxt "1238\tMENU_NAME"
+msgid "Match 8"
+msgstr "Partita 8"
+
+msgctxt "1246\tMENU_NAME"
+msgid "Match 9"
+msgstr "Partita 9"
+
+msgctxt "1254\tMENU_NAME"
+msgid "Match 10"
+msgstr "Partita 10"
+
+msgctxt "1263\tMENU_NAME"
+msgid "Match 1"
+msgstr "Partita 1"
+
+msgctxt "1271\tMENU_NAME"
+msgid "Match 2"
+msgstr "Partita 2"
+
+msgctxt "1279\tMENU_NAME"
+msgid "Match 3"
+msgstr "Partita 3"
+
+msgctxt "1287\tMENU_NAME"
+msgid "Match 4"
+msgstr "Partita 4"
+
+msgctxt "1295\tMENU_NAME"
+msgid "Match 5"
+msgstr "Partita 5"
+
+msgctxt "1303\tMENU_NAME"
+msgid "Match 1"
+msgstr "Partita 1"
+
+msgctxt "1311\tMENU_NAME"
+msgid "Match 2"
+msgstr "Partita 2"
+
+msgctxt "1319\tMENU_NAME"
+msgid "Match 3"
+msgstr "Partita 3"
+
+msgctxt "1327\tMENU_NAME"
+msgid "Match 4"
+msgstr "Partita 4"
+
+msgctxt "1335\tMENU_NAME"
+msgid "Match 5"
+msgstr "Partita 5"
+
+msgctxt "1343\tNAME"
+msgid "Match 1"
+msgstr "Partita 1"
+
+msgctxt "1351\tNAME"
+msgid "Match 2"
+msgstr "Partita 2"
+
+msgctxt "1359\tNAME"
+msgid "Match 3"
+msgstr "Partita 3"
+
+msgctxt "1367\tNAME"
+msgid "Match 4"
+msgstr "Partita 4"
+
+msgctxt "1375\tNAME"
+msgid "Match 5"
+msgstr "Partita 5"
+
+msgctxt "1383\tNAME"
+msgid "Match 6"
+msgstr "Partita 6"
+
+msgctxt "1391\tNAME"
+msgid "Match 7"
+msgstr "Partita 7"
+
+msgctxt "1399\tNAME"
+msgid "Match 8"
+msgstr "Partita 8"
+
+msgctxt "1407\tNAME"
+msgid "Match 9"
+msgstr "Partita 9"
+
+msgctxt "1415\tNAME"
+msgid "Match 10"
+msgstr "Partita 10"
+
+msgctxt "1424\tNAME"
+msgid "Match 1"
+msgstr "Partita 1"
+
+msgctxt "1432\tNAME"
+msgid "Match 2"
+msgstr "Partita 2"
+
+msgctxt "1440\tNAME"
+msgid "Match 3"
+msgstr "Partita 3"
+
+msgctxt "1448\tNAME"
+msgid "Match 4"
+msgstr "Partita 4"
+
+msgctxt "1456\tNAME"
+msgid "Match 5"
+msgstr "Partita 5"
+
+msgctxt "1464\tNAME"
+msgid "Match 6"
+msgstr "Partita 6"
+
+msgctxt "1472\tNAME"
+msgid "Match 7"
+msgstr "Partita 7"
+
+msgctxt "1480\tNAME"
+msgid "Match 8"
+msgstr "Partita 8"
+
+msgctxt "1488\tNAME"
+msgid "Match 9"
+msgstr "Partita 9"
+
+msgctxt "1496\tNAME"
+msgid "Match 10"
+msgstr "Partita 10"
+
+msgctxt "1505\tNAME"
+msgid "Match 1"
+msgstr "Partita 1"
+
+msgctxt "1513\tNAME"
+msgid "Match 2"
+msgstr "Partita 2"
+
+msgctxt "1521\tNAME"
+msgid "Match 3"
+msgstr "Partita 3"
+
+msgctxt "1529\tNAME"
+msgid "Match 4"
+msgstr "Partita 4"
+
+msgctxt "1537\tNAME"
+msgid "Match 5"
+msgstr "Partita 5"
+
+msgctxt "1545\tNAME"
+msgid "Match 1"
+msgstr "Partita 1"
+
+msgctxt "1553\tNAME"
+msgid "Match 2"
+msgstr "Partita 2"
+
+msgctxt "1561\tNAME"
+msgid "Match 3"
+msgstr "Partita 3"
+
+msgctxt "1569\tNAME"
+msgid "Match 4"
+msgstr "Partita 4"
+
+msgctxt "1577\tNAME"
+msgid "Match 5"
+msgstr "Partita 5"
+
+msgctxt "1585\tEXPLANATION"
+msgid "Wipe out the enemy before time runs out!"
+msgstr "Elimina il nemico prima che scada il tempo!"
+
+msgctxt "1626\tEXPLANATION"
+msgid "Wipe out the enemy before time runs out!"
+msgstr "Elimina il nemico prima che scada il tempo!"
+
+msgctxt "1667\tEXPLANATION"
+msgid "Defeat all enemies within the time limit only using weapons!"
+msgstr "Sconfiggi tutti i nemici entro il limite di tempo solo con le armi!"
+
+msgctxt "1728\tEXPLANATION"
+msgid "Wipe out the enemy before time runs out!"
+msgstr "Elimina il nemico prima che scada il tempo!"
+
+msgctxt "1769\tEXPLANATION"
+msgid "Defeat all enemies within the time limit while having 1 health!"
+msgstr "Sconfiggi tutti i nemici entro il limite di tempo con 1 di salute!"
+
+msgctxt "1833\tEXPLANATION"
+msgid "Defeat all enemies within the time limit using only weapon switching!"
+msgstr ""
+"Sconfiggi tutti i nemici entro il tempo limite usando solo il cambio arma!"
+
+msgctxt "1903\tEXPLANATION"
+msgid "Wipe out the enemy before time runs out!"
+msgstr "Elimina il nemico prima che scada il tempo!"
+
+msgctxt "1944\tEXPLANATION"
+msgid ""
+"Wipe out the enemy before time runs out! Shinada has a weapon equipped!"
+msgstr ""
+"Spazza via il nemico prima che scada il tempo! Shinada ha un'arma "
+"equipaggiata!"
+
+msgctxt "2016\tEXPLANATION"
+msgid "Capture the running man within the time limit!"
+msgstr "Cattura l'uomo che corre entro il tempo limite!"
+
+msgctxt "2063\tEXPLANATION"
+msgid "Defeat all enemies within the time limit while having 1 health!"
+msgstr "Sconfiggi tutti i nemici entro il limite di tempo con 1 di salute!"
+
+msgctxt "2127\tEXPLANATION"
+msgid ""
+"Defeat all enemies using only Heat Actions! You won't be able to damage the "
+"enemies with any other attacks!"
+msgstr ""
+"Sconfiggi tutti i nemici usando solo le Heat Actions! Non potrai danneggiare"
+" i nemici con nessun altro attacco!"
+
+msgctxt "2235\tEXPLANATION"
+msgid "Defeat enemies using only air attacks!"
+msgstr "Sconfiggi i nemici solo con attacchi aerei!"
+
+msgctxt "2274\tEXPLANATION"
+msgid "Avoid the enemies for 60 seconds! Do not attack the enemies!"
+msgstr "Evita i nemici per 60 secondi! Non attaccare i nemici!"
+
+msgctxt "2335\tEXPLANATION"
+msgid "Defeat all enemies, but finish off each enemy with a Finishing Blow!"
+msgstr ""
+"Sconfiggi tutti i nemici, ma dai il colpo di grazia a ogni nemico con un "
+"Colpo Finale!"
+
+msgctxt "2404\tEXPLANATION"
+msgid ""
+"Defeat the kappa without being caught! You can only damage the kappa by "
+"throwing weapons!"
+msgstr ""
+"Sconfiggi il kappa senza farti prendere! Puoi danneggiare il kappa solo "
+"lanciando armi!"
+
+msgctxt "2494\tEXPLANATION"
+msgid "Turn all enemies into snowmen!"
+msgstr "Trasforma tutti i nemici in pupazzi di neve!"
+
+msgctxt "2525\tEXPLANATION"
+msgid "Defeat all enemies before the Dragon Spirit wears off!"
+msgstr "Fai fuori tutti i nemici prima che lo Spirito del Drago svanisca!"
+
+msgctxt "2580\tEXPLANATION"
+msgid ""
+"Defeat the man in red, the man in yellow, then the man in blue, in that "
+"order! Do not attack anyone else!"
+msgstr ""
+"Sconfiggi l'uomo in rosso, l'uomo in giallo, poi l'uomo in blu, in "
+"quest'ordine! Non attaccare nessun altro!"
+
+msgctxt "2686\tEXPLANATION"
+msgid "Protect Haruka from the passionate fans!"
+msgstr "Proteggi Haruka dai fan scatenati!"
+
+msgctxt "2727\tEXPLANATION"
+msgid "Defeat all enemies with a single pitch within the time limit!"
+msgstr ""
+"Sconfiggi tutti i nemici con un singolo lancio entro il limite di tempo!"
+
+msgctxt "2789\tEXPLANATION"
+msgid "Sprint to Children's Park within the time limit!"
+msgstr "Corri a perdifiato al Parco dei Bambini entro il tempo limite!"
+
+msgctxt "2838\tEXPLANATION"
+msgid "Sprint without tipping over the trash cans!"
+msgstr "Sprinta senza buttare giù i cassonetti!"
+
+msgctxt "2882\tEXPLANATION"
+msgid "Escape the forklift before time runs out!"
+msgstr "Fuggi dal carrello elevatore prima che scada il tempo!"
+
+msgctxt "2924\tEXPLANATION"
+msgid "Ride your snowmobile to the end before time runs out!"
+msgstr "Guida la tua motoslitta fino al traguardo prima che il tempo scada!"
+
+msgctxt "2978\tEXPLANATION"
+msgid "Catch Ultimate Mack!"
+msgstr "Cattura il Mack Supremo!"
+
+msgctxt "2999\tEXPLANATION"
+msgid "Eliminate all rivals!"
+msgstr "Eliminate tutti i rivali!"
+
+msgctxt "3021\tEXPLANATION"
+msgid "Eliminate all rivals!"
+msgstr "Eliminate tutti i rivali!"
+
+msgctxt "3043\tEXPLANATION"
+msgid "Eliminate all rivals!"
+msgstr "Eliminate tutti i rivali!"
+
+msgctxt "3065\tEXPLANATION"
+msgid "Eliminate all rivals!"
+msgstr "Eliminate tutti i rivali!"
+
+msgctxt "3087\tEXPLANATION"
+msgid "Eliminate all rivals!"
+msgstr "Eliminate tutti i rivali!"
+
+msgctxt "3109\tLEVEL_DISP"
+msgid "Strongest Kiryu"
+msgstr "Il Kiryu più forte"
+
+msgctxt "3125\tLEVEL_DISP"
+msgid "Strongest Saejima"
+msgstr "Il più forte Saejima"
+
+msgctxt "3143\tLEVEL_DISP"
+msgid "Strongest Shinada"
+msgstr "Il più forte Shinada"
+
+msgctxt "3161\tLEVEL_DISP"
+msgid "Strongest Akiyama"
+msgstr "Il più forte Akiyama"
+
+msgctxt "3179\tLEVEL_DISP"
+msgid "Weakest Saejima"
+msgstr "Più debole Saejima"
+
+msgctxt "3195\tLEVEL_DISP"
+msgid "Weakest Shinada"
+msgstr "Il più debole Shinada"
+
+msgctxt "3211\tLEVEL_DISP"
+msgid "Strongest Saejima"
+msgstr "Il più forte Saejima"
+
+msgctxt "3229\tLEVEL_DISP"
+msgid "Strongest Shinada"
+msgstr "Il più forte Shinada"
+
+msgctxt "3247\tLEVEL_DISP"
+msgid "Strongest Akiyama"
+msgstr "Il più forte Akiyama"
+
+msgctxt "3265\tLEVEL_DISP"
+msgid "Weakest Kiryu"
+msgstr "Il Kiryu più debole"
+
+msgctxt "3279\tLEVEL_DISP"
+msgid "Strongest Kiryu"
+msgstr "Il Kiryu più forte"
+
+msgctxt "3295\tLEVEL_DISP"
+msgid "Strongest Akiyama"
+msgstr "Il più forte Akiyama"
+
+msgctxt "3313\tLEVEL_DISP"
+msgid "Weakest Saejima"
+msgstr "Più debole Saejima"
+
+msgctxt "3329\tLEVEL_DISP"
+msgid "Strongest Kiryu"
+msgstr "Il Kiryu più forte"
+
+msgctxt "3345\tLEVEL_DISP"
+msgid "Weakest Shinada"
+msgstr "Il più debole Shinada"
+
+msgctxt "3361\tLEVEL_DISP"
+msgid "Strongest Saejima"
+msgstr "Il più forte Saejima"
+
+msgctxt "3379\tLEVEL_DISP"
+msgid "Strongest Kiryu"
+msgstr "Il Kiryu più forte"
+
+msgctxt "3395\tLEVEL_DISP"
+msgid "Strongest Akiyama"
+msgstr "Il più forte Akiyama"
+
+msgctxt "3413\tLEVEL_DISP"
+msgid "Weakest Kiryu"
+msgstr "Il Kiryu più debole"
+
+msgctxt "3427\tLEVEL_DISP"
+msgid "Weakest Shinada"
+msgstr "Il più debole Shinada"
+
+msgctxt "3443\tLEVEL_DISP"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "3451\tLEVEL_DISP"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "3457\tLEVEL_DISP"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "3465\tLEVEL_DISP"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "3473\tLEVEL_DISP"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "3479\tLEVEL_DISP"
+msgid "Strongest Kiryu"
+msgstr "Il Kiryu più forte"
+
+msgctxt "3495\tLEVEL_DISP"
+msgid "Strongest Saejima"
+msgstr "Il più forte Saejima"
+
+msgctxt "3513\tLEVEL_DISP"
+msgid "Strongest Akiyama"
+msgstr "Il più forte Akiyama"
+
+msgctxt "3531\tLEVEL_DISP"
+msgid "Strongest Shinada"
+msgstr "Il più forte Shinada"
+
+msgctxt "3549\tLEVEL_DISP"
+msgid "Strongest Kiryu"
+msgstr "Il Kiryu più forte"
+
+msgctxt "3565\tLEVEL"
+msgid "Legendary"
+msgstr "Leggendario"
+
+msgctxt "3575\tLEVEL"
+msgid "Legendary"
+msgstr "Leggendario"
+
+msgctxt "3585\tLEVEL"
+msgid "Legendary"
+msgstr "Leggendario"
+
+msgctxt "3595\tLEVEL"
+msgid "Legendary"
+msgstr "Leggendario"
+
+msgctxt "3605\tLEVEL"
+msgid "Weakest"
+msgstr "Più debole"
+
+msgctxt "3613\tLEVEL"
+msgid "Weakest"
+msgstr "Più debole"
+
+msgctxt "3621\tLEVEL"
+msgid "Legendary"
+msgstr "Leggendario"
+
+msgctxt "3631\tLEVEL"
+msgid "Legendary"
+msgstr "Leggendario"
+
+msgctxt "3641\tLEVEL"
+msgid "Legendary"
+msgstr "Leggendario"
+
+msgctxt "3651\tLEVEL"
+msgid "Weakest"
+msgstr "Più debole"
+
+msgctxt "3659\tLEVEL"
+msgid "Legendary"
+msgstr "Leggendario"
+
+msgctxt "3669\tLEVEL"
+msgid "Legendary"
+msgstr "Leggendario"
+
+msgctxt "3679\tLEVEL"
+msgid "Weakest"
+msgstr "Più debole"
+
+msgctxt "3687\tLEVEL"
+msgid "Legendary"
+msgstr "Leggendario"
+
+msgctxt "3697\tLEVEL"
+msgid "Weakest"
+msgstr "Più debole"
+
+msgctxt "3705\tLEVEL"
+msgid "Legendary"
+msgstr "Leggendario"
+
+msgctxt "3715\tLEVEL"
+msgid "Legendary"
+msgstr "Leggendario"
+
+msgctxt "3725\tLEVEL"
+msgid "Legendary"
+msgstr "Leggendario"
+
+msgctxt "3735\tLEVEL"
+msgid "Weakest"
+msgstr "Più debole"
+
+msgctxt "3743\tLEVEL"
+msgid "Weakest"
+msgstr "Più debole"
+
+msgctxt "3761\tLEVEL"
+msgid "Legendary"
+msgstr "Leggendario"
+
+msgctxt "3771\tLEVEL"
+msgid "Legendary"
+msgstr "Leggendario"
+
+msgctxt "3781\tLEVEL"
+msgid "Legendary"
+msgstr "Leggendario"
+
+msgctxt "3791\tLEVEL"
+msgid "Legendary"
+msgstr "Leggendario"
+
+msgctxt "3801\tLEVEL"
+msgid "Legendary"
+msgstr "Leggendario"

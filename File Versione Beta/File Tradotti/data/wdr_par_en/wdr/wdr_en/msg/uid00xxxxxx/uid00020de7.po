@@ -1,0 +1,287 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "14908"
+msgid "Christina"
+msgstr "Christina"
+
+msgctxt "14912"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "14916"
+msgid "Get an Evaluation"
+msgstr "Fatti valutare"
+
+msgctxt "14920"
+msgid "No"
+msgstr "No"
+
+msgctxt "14924"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "14928"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "14932"
+msgid "\"So Much More!\""
+msgstr "Molto di più!"
+
+msgctxt "14936"
+msgid "\"Loneliness Loop\""
+msgstr "Ciclo della Solitudine"
+
+msgctxt "14940"
+msgid "\"Because I Have You\""
+msgstr "Perché ci sei tu"
+
+msgctxt "14944"
+msgid "Quit"
+msgstr "Esci"
+
+msgctxt "14948"
+msgid "An Easy Lesson"
+msgstr "Una Lezione Facile"
+
+msgctxt "14952"
+msgid "A Normal Lesson"
+msgstr "Una Lezione Normale"
+
+msgctxt "14956"
+msgid "A Hard Lesson"
+msgstr "Una Dura Lezione"
+
+msgctxt "14960"
+msgid "SS3_HAL_TLK_stand_stretch01"
+msgstr "SS3_HAL_TLK_stand_stretch01"
+
+msgctxt "14964"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "116_Christina"
+msgid "Oh, hello, Haruka. Come for a lesson, have you?"
+msgstr "Oh, ciao, Haruka. Sei venuta per una lezione, vero?"
+
+msgctxt "128_Player"
+msgid "Yes, please!"
+msgstr "Sì, per favore!"
+
+msgctxt "152_Christina"
+msgid ""
+"I'm glad to see your enthusiasm, but you look exhausted. If\r\n"
+"you can't focus properly, you may end up getting hurt. You\r\n"
+"really should rest first."
+msgstr ""
+"Sono felice di vedere il tuo entusiasmo, ma sembri esausta. Se\n"
+"non riesci a concentrarti come si deve, potresti finire per farti male. Dovresti\n"
+"proprio riposare prima."
+
+msgctxt "164_Haruka"
+msgid "All right. I understand."
+msgstr "Va bene. Capisco."
+
+msgctxt "176_Christina"
+msgid ""
+"Very well. Let's begin. Why don't you tell me what you'd\r\n"
+"like to work on?"
+msgstr ""
+"Molto bene. Cominciamo. Perché non mi dici su cosa ti piacerebbe\n"
+"lavorare?"
+
+msgctxt "188_Haruka"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "200_Haruka"
+msgid "(Which song should I choose?)"
+msgstr "(Quale canzone scelgo?)"
+
+msgctxt "212_Haruka"
+msgid "(How difficult of a lesson do I want?)"
+msgstr "(Quanto difficile voglio che sia la lezione?)"
+
+msgctxt "224_Haruka"
+msgid "(I think I'll try an easy \"So Much More!\" lesson.)"
+msgstr "(Credo che proverò una lezione facile di \"So Much More!\".)"
+
+msgctxt "296_Christina"
+msgid "Okay. I can do this!"
+msgstr "Ok. Posso farcela!"
+
+msgctxt "320_Haruka"
+msgid "(I think I'll try \"So Much More!\")"
+msgstr "(Credo che proverò \"So Much More!\")"
+
+msgctxt "392_Christina"
+msgid "Okay. I can do this!"
+msgstr "Ok. Posso farcela!"
+
+msgctxt "416_Haruka"
+msgid "(I think I'll try a hard \"So Much More!\" lesson.)"
+msgstr "(Credo che affronterò una lezione tosta di \"So Much More!\".)"
+
+msgctxt "488_Christina"
+msgid "Okay. I can do this!"
+msgstr "Ok. Posso farcela!"
+
+msgctxt "512_Haruka"
+msgid "(How difficult of a lesson do I want?)"
+msgstr "(Quanto difficile voglio che sia la lezione?)"
+
+msgctxt "524_Haruka"
+msgid "(I think I'll try an easy \"Loneliness Loop\" lesson.)"
+msgstr "(Penso che proverò una lezione facile di \"Loneliness Loop\".)"
+
+msgctxt "596_Christina"
+msgid "Okay. I can do this!"
+msgstr "Ok. Posso farcela!"
+
+msgctxt "620_Haruka"
+msgid "(I think I'll try \"Loneliness Loop.\")"
+msgstr "(Penso che proverò \"Loneliness Loop\".)"
+
+msgctxt "692_Christina"
+msgid "Okay. I can do this!"
+msgstr "Ok. Posso farcela!"
+
+msgctxt "716_Haruka"
+msgid "(I think I'll try a hard \"Loneliness Loop\" lesson.)"
+msgstr "(Mi sa che proverò una lezione difficile di \"Loneliness Loop\".)"
+
+msgctxt "788_Christina"
+msgid "Okay. I can do this!"
+msgstr "Ok. Posso farcela!"
+
+msgctxt "812_Haruka"
+msgid "(How difficult of a lesson do I want?)"
+msgstr "(Quanto difficile voglio che sia la lezione?)"
+
+msgctxt "824_Haruka"
+msgid "(I think I'll try an easy \"Because I Have You\" lesson.)"
+msgstr "(Penso che proverò una facile lezione di \"Because I Have You\".)"
+
+msgctxt "896_Christina"
+msgid "Okay. I can do this!"
+msgstr "Ok. Posso farcela!"
+
+msgctxt "920_Haruka"
+msgid "(I think I'll try \"Because I Have You.\")"
+msgstr "Penso che proverò \"Perché ho te\"."
+
+msgctxt "992_Christina"
+msgid "Okay. I can do this!"
+msgstr "Ok. Posso farcela!"
+
+msgctxt "1016_Haruka"
+msgid "(I think I'll try a hard \"Because I Have You\" lesson.)"
+msgstr "(Mi sa che proverò una lezione difficile di \"Because I Have You\".)"
+
+msgctxt "1088_Christina"
+msgid "Okay. I can do this!"
+msgstr "Ok. Posso farcela!"
+
+msgctxt "1112_Christina"
+msgid "I'm sorry, I guess I'm not ready for this right now."
+msgstr "Mi dispiace, credo di non essere pronto per questo adesso."
+
+msgctxt "1124_Christina"
+msgid ""
+"I see. All right, well, when you're ready for a lesson, just\r\n"
+"come let me know anytime."
+msgstr ""
+"Capisco. Va bene, beh, quando sei pronta per una lezione, vieni\n"
+"pure a dirmelo quando vuoi."
+
+msgctxt "1136_Player"
+msgid ""
+"Um... How am I doing so far? Do you really think I can win\r\n"
+"the Princess League?"
+msgstr ""
+"Uhm... Come sto andando finora? Credi davvero che io possa vincere\n"
+"la Princess League?"
+
+msgctxt "1148_Christina"
+msgid "With your abilities as they stand right now?"
+msgstr "Con le tue abilità, così come sono adesso?"
+
+msgctxt "1196_Christina"
+msgid ""
+"Well, to be honest, I think it'd be pretty difficult.\r\n"
+"There's still quite a gap between you and your opponents. You\r\n"
+"have to hone your skills."
+msgstr ""
+"Beh, a dire il vero, penso che sarebbe piuttosto difficile.\n"
+"C'è ancora un bel distacco tra te e le tue avversarie. Devi\n"
+"affinare le tue abilità."
+
+msgctxt "1208_Player"
+msgid "I see. Thank you. I'll keep practicing!"
+msgstr "Capisco. Grazie. Continuerò ad allenarmi!"
+
+msgctxt "1220_Christina"
+msgid ""
+"Hmm. It might be a little difficult. However, if you manage\r\n"
+"to pull off a particularly flawless performance, it could\r\n"
+"very well be possible."
+msgstr ""
+"Mmm. Potrebbe essere un po' difficile. Però, se riuscirai\n"
+"a tirar fuori una performance particolarmente impeccabile, potrebbe\n"
+"benissimo essere possibile."
+
+msgctxt "1232_Player"
+msgid "I see... Thank you."
+msgstr "Capisco... Grazie."
+
+msgctxt "1244_Christina"
+msgid ""
+"Yes, I think you have a real chance, but you have to be\r\n"
+"cautious. If you lose focus, your opponents could still\r\n"
+"catch you."
+msgstr ""
+"Sì, credo che tu abbia una vera chance, ma devi stare\n"
+"attenta. Se perdi la concentrazione, le tue avversarie potrebbero ancora\n"
+"raggungerti."
+
+msgctxt "1256_Player"
+msgid "Right. Thank you!"
+msgstr "Va bene. Grazie!"
+
+msgctxt "1268_Christina"
+msgid ""
+"You know, I think you can. Provided you don't make any serious\r\n"
+"mistakes and can perform to your usual ability, I'm almost\r\n"
+"certain you can win."
+msgstr ""
+"Sai, secondo me ce la puoi fare. A patto che tu non faccia errori gravi\n"
+"e riesca a esibirti al tuo solito meglio, sono quasi\n"
+"sicura che vincerai."
+
+msgctxt "1280_Player"
+msgid "Right! Thank you very much!"
+msgstr "Perfetto! Grazie mille!"
+
+msgctxt "1292_Player"
+msgid "No, I just dropped in to say hello."
+msgstr "No, ho fatto un salto solo per salutare."
+
+msgctxt "1304_Christina"
+msgid ""
+"Oh, did you? Well, when you're ready for a lesson, just let\r\n"
+"me know anytime."
+msgstr ""
+"Oh, davvero? Allora, quando sei pronta per una lezione, fammelo\n"
+"sapere quando vuoi."

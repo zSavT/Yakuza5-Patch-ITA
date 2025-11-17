@@ -1,0 +1,486 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-25\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "274\tCATEGORY"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "282\tCATEGORY"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "290\tCATEGORY"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "300\tCATEGORY"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "310\tCATEGORY"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "320\tCATEGORY"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "330\tCATEGORY"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "340\tCATEGORY"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "348\tNAME"
+msgid "Victory Road: Challenge 1"
+msgstr "Victory Road: Sfida 1"
+
+msgctxt "374\tNAME"
+msgid "Victory Road: Challenge 2"
+msgstr "Strada della Vittoria: Sfida 2"
+
+msgctxt "400\tNAME"
+msgid "Victory Road: Challenge 3"
+msgstr "Strada della Vittoria: Sfida 3"
+
+msgctxt "426\tNAME"
+msgid "Victory Road: Challenge 4"
+msgstr "Strada della Vittoria: Sfida 4"
+
+msgctxt "452\tNAME"
+msgid "Ranked Arena Grand Prix"
+msgstr "Gran Premio Classificato dell'Arena"
+
+msgctxt "476\tNAME"
+msgid "Maximum Grand Prix"
+msgstr "Gran Premio Massimo"
+
+msgctxt "495\tNAME"
+msgid "Twin Dragon Grand Prix"
+msgstr "Gran Premio dei Draghi Gemelli"
+
+msgctxt "518\tNAME"
+msgid "Weapon Master Grand Prix"
+msgstr "Gran Premio del Maestro d'Armi"
+
+msgctxt "543\tNAME"
+msgid "Street Fight Grand Prix"
+msgstr "Gran Premio di Street Fight"
+
+msgctxt "567\tNAME"
+msgid "Heat Bomber Grand Prix"
+msgstr "Heat Bomber Gran Premio"
+
+msgctxt "590\tNAME"
+msgid "Limited Berserk"
+msgstr "Berserk Limitato"
+
+msgctxt "606\tNAME"
+msgid "King of Kings"
+msgstr "Re dei Re"
+
+msgctxt "620\tNAME"
+msgid "Deathmatch 100"
+msgstr "Scontro a morte 100"
+
+msgctxt "635\tNAME"
+msgid "Breakout Grand Prix"
+msgstr "Gran Premio Breakout"
+
+msgctxt "655\tNAME"
+msgid "Victory Road: Challenge 1"
+msgstr "Victory Road: Sfida 1"
+
+msgctxt "681\tNAME"
+msgid "Victory Road: Challenge 2"
+msgstr "Strada della Vittoria: Sfida 2"
+
+msgctxt "707\tNAME"
+msgid "Victory Road: Challenge 3"
+msgstr "Strada della Vittoria: Sfida 3"
+
+msgctxt "733\tNAME"
+msgid "Ranked Arena Grand Prix"
+msgstr "Gran Premio Classificato dell'Arena"
+
+msgctxt "757\tNAME"
+msgid "Maximum Grand Prix"
+msgstr "Gran Premio Massimo"
+
+msgctxt "776\tNAME"
+msgid "Twin Dragon Grand Prix"
+msgstr "Gran Premio dei Draghi Gemelli"
+
+msgctxt "799\tNAME"
+msgid "Weapon Master Grand Prix"
+msgstr "Gran Premio del Maestro d'Armi"
+
+msgctxt "824\tNAME"
+msgid "Street Fight Grand Prix"
+msgstr "Gran Premio di Street Fight"
+
+msgctxt "848\tNAME"
+msgid "Heat Bomber Grand Prix"
+msgstr "Heat Bomber Gran Premio"
+
+msgctxt "871\tNAME"
+msgid "Limited Berserk"
+msgstr "Berserk Limitato"
+
+msgctxt "887\tNAME"
+msgid "King of Kings"
+msgstr "Re dei Re"
+
+msgctxt "901\tNAME"
+msgid "Deathmatch 100"
+msgstr "Scontro a morte 100"
+
+msgctxt "916\tNAME"
+msgid "Breakout Grand Prix"
+msgstr "Gran Premio Breakout"
+
+msgctxt "936\tNAME"
+msgid "Victory Road: Challenge 1"
+msgstr "Victory Road: Sfida 1"
+
+msgctxt "962\tNAME"
+msgid "Victory Road: Challenge 2"
+msgstr "Strada della Vittoria: Sfida 2"
+
+msgctxt "988\tNAME"
+msgid "Victory Road: Challenge 3"
+msgstr "Strada della Vittoria: Sfida 3"
+
+msgctxt "1014\tNAME"
+msgid "Victory Road: Challenge 4"
+msgstr "Strada della Vittoria: Sfida 4"
+
+msgctxt "1040\tNAME"
+msgid "Ranked Arena Grand Prix"
+msgstr "Gran Premio Classificato dell'Arena"
+
+msgctxt "1064\tNAME"
+msgid "Maximum Grand Prix"
+msgstr "Gran Premio Massimo"
+
+msgctxt "1083\tNAME"
+msgid "Twin Dragon Grand Prix"
+msgstr "Gran Premio dei Draghi Gemelli"
+
+msgctxt "1106\tNAME"
+msgid "Weapon Master Grand Prix"
+msgstr "Gran Premio del Maestro d'Armi"
+
+msgctxt "1131\tNAME"
+msgid "Street Fight Grand Prix"
+msgstr "Gran Premio di Street Fight"
+
+msgctxt "1155\tNAME"
+msgid "Heat Bomber Grand Prix"
+msgstr "Heat Bomber Gran Premio"
+
+msgctxt "1178\tNAME"
+msgid "Limited Berserk"
+msgstr "Berserk Limitato"
+
+msgctxt "1194\tNAME"
+msgid "King of Kings"
+msgstr "Re dei Re"
+
+msgctxt "1208\tNAME"
+msgid "Deathmatch 100"
+msgstr "Scontro a morte 100"
+
+msgctxt "1223\tNAME"
+msgid "Breakout Grand Prix"
+msgstr "Gran Premio Breakout"
+
+msgctxt "1243\tNAME"
+msgid "Victory Road: Challenge 1"
+msgstr "Victory Road: Sfida 1"
+
+msgctxt "1269\tNAME"
+msgid "Victory Road: Challenge 2"
+msgstr "Strada della Vittoria: Sfida 2"
+
+msgctxt "1295\tNAME"
+msgid "Victory Road: Challenge 3"
+msgstr "Strada della Vittoria: Sfida 3"
+
+msgctxt "1321\tNAME"
+msgid "Victory Road: Challenge 4"
+msgstr "Strada della Vittoria: Sfida 4"
+
+msgctxt "1347\tNAME"
+msgid "Ranked Arena Grand Prix"
+msgstr "Gran Premio Classificato dell'Arena"
+
+msgctxt "1371\tNAME"
+msgid "Maximum Grand Prix"
+msgstr "Gran Premio Massimo"
+
+msgctxt "1390\tNAME"
+msgid "Twin Dragon Grand Prix"
+msgstr "Gran Premio dei Draghi Gemelli"
+
+msgctxt "1413\tNAME"
+msgid "Weapon Master Grand Prix"
+msgstr "Gran Premio del Maestro d'Armi"
+
+msgctxt "1438\tNAME"
+msgid "Street Fight Grand Prix"
+msgstr "Gran Premio di Street Fight"
+
+msgctxt "1462\tNAME"
+msgid "Heat Bomber Grand Prix"
+msgstr "Heat Bomber Gran Premio"
+
+msgctxt "1485\tNAME"
+msgid "Limited Berserk"
+msgstr "Berserk Limitato"
+
+msgctxt "1501\tNAME"
+msgid "King of Kings"
+msgstr "Re dei Re"
+
+msgctxt "1515\tNAME"
+msgid "Deathmatch 100"
+msgstr "Scontro a morte 100"
+
+msgctxt "1530\tNAME"
+msgid "Breakout Grand Prix"
+msgstr "Gran Premio Breakout"
+
+msgctxt "1990\tEXPLANATION"
+msgid "Kiryu made it into the Victory Road preliminaries."
+msgstr "Kiryu ce l'ha fatta alle eliminatorie della Victory Road."
+
+msgctxt "2041\tEXPLANATION"
+msgid "Defeated Ren Higashino in the Victory Road preliminaries."
+msgstr "Sconfitto Ren Higashino nelle eliminatorie della Victory Road."
+
+msgctxt "2099\tEXPLANATION"
+msgid "Defeated Valery Garrett in the Victory Road preliminaries."
+msgstr "Sconfitto Valery Garrett nelle eliminatorie della Victory Road."
+
+msgctxt "2158\tEXPLANATION"
+msgid "Defeated Raiden in the Victory Road preliminaries finals."
+msgstr "Sconfitto Raiden nelle finali dei preliminari di Victory Road."
+
+msgctxt "2216\tEXPLANATION"
+msgid "You won the Ranked Arena Grand Prix as Kiryu."
+msgstr "Hai vinto il Gran Premio dell'Arena Classificata come Kiryu."
+
+msgctxt "2262\tEXPLANATION"
+msgid "You won the Maximum Grand Prix as Kiryu."
+msgstr "Hai vinto il Maximum Grand Prix con Kiryu."
+
+msgctxt "2303\tEXPLANATION"
+msgid "You won the Twin Dragon Grand Prix as Kiryu."
+msgstr "Hai vinto il Grand Prix dei Draghi Gemelli come Kiryu."
+
+msgctxt "2348\tEXPLANATION"
+msgid "You won the Weapon Master Grand Prix as Kiryu."
+msgstr "Hai vinto il Grand Prix Maestro d'Armi come Kiryu."
+
+msgctxt "2395\tEXPLANATION"
+msgid "You won the Street Fight Grand Prix as Kiryu."
+msgstr "Hai vinto lo Street Fight Grand Prix nei panni di Kiryu."
+
+msgctxt "2441\tEXPLANATION"
+msgid "You won Heat Bomber Grand Prix as Kiryu."
+msgstr "Hai vinto il Gran Premio Heat Bomber nei panni di Kiryu."
+
+msgctxt "2482\tEXPLANATION"
+msgid "You won Limited Berserk as Kiryu."
+msgstr "Hai vinto Berserk Limitato come Kiryu."
+
+msgctxt "2516\tEXPLANATION"
+msgid "You won King of Kings as Kiryu."
+msgstr "Hai vinto il Re dei Re con Kiryu."
+
+msgctxt "2548\tEXPLANATION"
+msgid "You won Deathmatch 100 as Kiryu."
+msgstr "Hai vinto il Deathmatch 100 nei panni di Kiryu."
+
+msgctxt "2581\tEXPLANATION"
+msgid "You won Breakout Grand Prix as Kiryu."
+msgstr "Hai vinto il Breakout Grand Prix nei panni di Kiryu."
+
+msgctxt "2619\tEXPLANATION"
+msgid "Saejima made it into the Victory Road preliminaries."
+msgstr "Saejima è riuscito a entrare nei preliminari della Victory Road."
+
+msgctxt "2672\tEXPLANATION"
+msgid "Defeated Kanta Shirosaka in the Victory Road preliminaries."
+msgstr "Sconfitto Kanta Shirosaka nelle eliminatorie della Victory Road."
+
+msgctxt "2732\tEXPLANATION"
+msgid "Defeated Makoto Tokita in the Victory Road preliminaries."
+msgstr "Sconfitto Makoto Tokita nelle eliminatorie della Victory Road."
+
+msgctxt "2790\tEXPLANATION"
+msgid "You won the Ranked Arena Grand Prix as Saejima."
+msgstr "Hai vinto il Grand Prix dell'Arena Classificata nei panni di Saejima."
+
+msgctxt "2838\tEXPLANATION"
+msgid "You won the Maximum Grand Prix as Saejima."
+msgstr "Hai vinto il Maximum Grand Prix come Saejima."
+
+msgctxt "2881\tEXPLANATION"
+msgid "You won the Twin Dragon Grand Prix as Saejima."
+msgstr "Hai vinto il Twin Dragon Grand Prix nei panni di Saejima."
+
+msgctxt "2928\tEXPLANATION"
+msgid "You won the Weapon Master Grand Prix as Saejima."
+msgstr "Hai vinto il Grand Prix Maestro d'Armi nei panni di Saejima."
+
+msgctxt "2977\tEXPLANATION"
+msgid "You won Street Fight Grand Prix as Saejima."
+msgstr "Hai vinto il Grand Prix di Lotta di Strada come Saejima."
+
+msgctxt "3021\tEXPLANATION"
+msgid "You won Heat Bomber Grand Prix as Saejima."
+msgstr "Hai vinto il Heat Bomber Grand Prix nei panni di Saejima."
+
+msgctxt "3064\tEXPLANATION"
+msgid "You won Limited Berserk as Saejima."
+msgstr "Hai vinto Berserk limitato con Saejima."
+
+msgctxt "3100\tEXPLANATION"
+msgid "You won King of Kings as Saejima."
+msgstr "Hai vinto il Re dei Re con Saejima."
+
+msgctxt "3134\tEXPLANATION"
+msgid "You won Deathmatch 100 as Saejima."
+msgstr "Hai vinto il Deathmatch 100 con Saejima."
+
+msgctxt "3169\tEXPLANATION"
+msgid "You won Breakout Grand Prix as Saejima."
+msgstr "Hai vinto il Gran Premio Breakout come Saejima."
+
+msgctxt "3209\tEXPLANATION"
+msgid "Akiyama made it into the Victory Road preliminaries."
+msgstr "Akiyama si è qualificato per i preliminari della Victory Road."
+
+msgctxt "3262\tEXPLANATION"
+msgid "Defeated Ryoichi Banba in the Victory Road preliminaries."
+msgstr "Sconfitto Ryoichi Banba nei preliminari di Victory Road."
+
+msgctxt "3320\tEXPLANATION"
+msgid "Defeated Hannya Kurokawa in the Victory Road preliminaries."
+msgstr "Sconfitto Hannya Kurokawa nelle eliminatorie di Victory Road."
+
+msgctxt "3380\tEXPLANATION"
+msgid "Defeated Homura Kongo in the Victory Road preliminaries."
+msgstr "Sconfitto Homura Kongo nei preliminari di Victory Road."
+
+msgctxt "3437\tEXPLANATION"
+msgid "You won the Ranked Arena Grand Prix as Akiyama."
+msgstr "Hai vinto il Grand Prix dell'Arena Classificata come Akiyama."
+
+msgctxt "3485\tEXPLANATION"
+msgid "You won the Maximum Grand Prix as Akiyama."
+msgstr "Hai vinto il Maximum Grand Prix nei panni di Akiyama."
+
+msgctxt "3528\tEXPLANATION"
+msgid "You won the Twin Dragon Grand Prix as Akiyama."
+msgstr "Hai vinto il Grand Prix del Drago Gemello come Akiyama."
+
+msgctxt "3575\tEXPLANATION"
+msgid "You won the Weapon Master Grand Prix as Akiyama."
+msgstr "Hai vinto il Grand Prix Maestro d'Armi nei panni di Akiyama."
+
+msgctxt "3624\tEXPLANATION"
+msgid "You won the Street Fight Grand Prix as Akiyama."
+msgstr "Hai vinto il Gran Premio Lotta di Strada come Akiyama."
+
+msgctxt "3672\tEXPLANATION"
+msgid "You won Heat Bomber Grand Prix as Akiyama."
+msgstr "Hai vinto l'Heat Bomber Grand Prix come Akiyama."
+
+msgctxt "3715\tEXPLANATION"
+msgid "You won Heat Limited Berserk as Akiyama."
+msgstr "Hai vinto Heat Limited Berserk nei panni di Akiyama."
+
+msgctxt "3756\tEXPLANATION"
+msgid "You won King of Kings as Akiyama."
+msgstr "Hai vinto Re dei Re nei panni di Akiyama."
+
+msgctxt "3790\tEXPLANATION"
+msgid "You won Deathmatch 100 as Akiyama."
+msgstr "Hai vinto Deathmatch 100 con Akiyama."
+
+msgctxt "3825\tEXPLANATION"
+msgid "You won Breakout Grand Prix as Akiyama."
+msgstr "Hai vinto il Breakout Grand Prix con Akiyama."
+
+msgctxt "3865\tEXPLANATION"
+msgid "Shinada made it into the Victory Road preliminaries."
+msgstr "Shinada è riuscito a entrare nelle eliminatorie della Victory Road."
+
+msgctxt "3918\tEXPLANATION"
+msgid "Defeated Kenichi Washino in the Victory Road preliminaries."
+msgstr "Sconfitto Kenichi Washino nei preliminari della Victory Road."
+
+msgctxt "3978\tEXPLANATION"
+msgid "Defeated Shoji Yonashiro in the Victory Road preliminaries."
+msgstr "Sconfitto Shoji Yonashiro nelle eliminatorie della Victory Road."
+
+msgctxt "4038\tEXPLANATION"
+msgid "Defeated Inzen Hozoin in the Victory Road preliminaries."
+msgstr "Sconfitto Inzen Hozoin nei preliminari di Victory Road."
+
+msgctxt "4095\tEXPLANATION"
+msgid "You won the Ranked Arena Grand Prix as Shinada."
+msgstr "Hai vinto il Grand Prix dell'Arena Classificata come Shinada."
+
+msgctxt "4143\tEXPLANATION"
+msgid "You won the Maximum Grand Prix as Shinada."
+msgstr "Hai vinto il Maximum Grand Prix come Shinada."
+
+msgctxt "4186\tEXPLANATION"
+msgid "You won the Twin Dragon Grand Prix as Shinada."
+msgstr "Hai vinto il Grand Prix Draghi Gemelli nei panni di Shinada."
+
+msgctxt "4233\tEXPLANATION"
+msgid "You won the Weapon Master Grand Prix as Shinada."
+msgstr "Hai vinto il Grand Prix Maestro delle Armi nei panni di Shinada."
+
+msgctxt "4282\tEXPLANATION"
+msgid "You won the Street Fight Grand Prix as Shinada."
+msgstr ""
+"Hai vinto il Gran Premio degli Scontri di Strada nei panni di Shinada."
+
+msgctxt "4330\tEXPLANATION"
+msgid "You won the Heat Bomber Grand Prix as Shinada."
+msgstr "Hai vinto il Grand Prix Heat Bomber come Shinada."
+
+msgctxt "4377\tEXPLANATION"
+msgid "You won Limited Berserk as Shinada."
+msgstr "Hai vinto Limited Berserk come Shinada."
+
+msgctxt "4413\tEXPLANATION"
+msgid "You won King of Kings as Shinada."
+msgstr "Hai vinto il Re dei Re nei panni di Shinada."
+
+msgctxt "4447\tEXPLANATION"
+msgid "You won Deathmatch 100 as Shinada."
+msgstr "Hai vinto il Deathmatch 100 come Shinada."
+
+msgctxt "4482\tEXPLANATION"
+msgid "You won Breakout Grand Prix as Shinada."
+msgstr "Hai vinto il Gran Premio Breakout come Shinada."

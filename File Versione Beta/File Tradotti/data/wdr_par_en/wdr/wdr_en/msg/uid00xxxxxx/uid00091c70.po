@@ -1,0 +1,296 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "10220"
+msgid "Nishina"
+msgstr "Nishina"
+
+msgctxt "10224"
+msgid "Narumi"
+msgstr "Narumi"
+
+msgctxt "10228"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "10232"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "10236"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "10240"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "10244"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "10248"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "10252"
+msgid "M_nml_stand"
+msgstr "M_nml_stand"
+
+msgctxt "10256"
+msgid "M_NML_TLK_stand_kamae"
+msgstr "M_NML_TLK_stand_kamae"
+
+msgctxt "10260"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "10264"
+msgid "C4210_TSG_TLK_munagura_st"
+msgstr "C4210_TSG_TLK_munagura_st"
+
+msgctxt "10268"
+msgid "C4210_UNO_TLK_munagura_st"
+msgstr "C4210_UNO_TLK_munagura_st"
+
+msgctxt "10272"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "10276"
+msgid "Sakurai"
+msgstr "Sakurai"
+
+msgctxt "10280"
+msgid "C4210_TSG_TLK_munagura_ed"
+msgstr "C4210_TSG_TLK_munagura_ed"
+
+msgctxt "10284"
+msgid "C4210_UNO_TLK_munagura_ed"
+msgstr "C4210_UNO_TLK_munagura_ed"
+
+msgctxt "10288"
+msgid "Kimiyo"
+msgstr "Kimiyo"
+
+msgctxt "10292"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "10296"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "10300"
+msgid "Mission Added"
+msgstr "Missione Aggiunta"
+
+msgctxt "72_Nishina"
+msgid ""
+"Do you have any idea what you've done? Did you even think about what this "
+"could do to us!?"
+msgstr ""
+"Hai la minima idea di cosa hai combinato?\n"
+"Hai anche solo pensato a cosa potrebbe farci questo!?"
+
+msgctxt "84_Narumi"
+msgid "Hah. Of course I did."
+msgstr "Ah. Certo che sì."
+
+msgctxt "96_Narumi"
+msgid ""
+"I was thinking about what a favor I was doing for you all. Or did you "
+"<Italic>want</Italic> to keep living terrified of some bear?"
+msgstr ""
+"Stavo pensando che razza di favore vi stessi facendo, a tutti voi. O "
+"<Italic>volevate</Italic> continuare a vivere terrorizzati da un orso "
+"qualunque?"
+
+msgctxt "108_Nishina"
+msgid "It's not some bear! It's Yama-oroshi."
+msgstr "Non è un orso qualunque! È Yama-oroshi."
+
+msgctxt "120_Narumi"
+msgid ""
+"See, that's what I'm talking about! You people have made this animal into "
+"some kind of god figure."
+msgstr ""
+"Visto, è proprio di questo che parlo! Voi altri avete trasformato "
+"quest'animale in una specie di divinità."
+
+msgctxt "132_Saejima"
+msgid "Everyone! Pipe down a sec. What happened, exactly?"
+msgstr "Ehi, tutti! Zitti un attimo. Cos'è successo, di preciso?"
+
+msgctxt "144_Narumi"
+msgid ""
+"These country bumpkins... They don't want anyone to take real action to "
+"solve a problem, I guess."
+msgstr ""
+"Questi zotici di montagna... Credo non vogliano che nessuno agisca sul serio"
+" per risolvere un problema."
+
+msgctxt "156_Nishina"
+msgid ""
+"This braying jackass has been scattering bear bait all over the mountain!"
+msgstr ""
+"Questo somaro che raglia ha sparso esca per orsi su tutta la montagna!"
+
+msgctxt "168_Saejima"
+msgid "What? Why're you doin' that?"
+msgstr "Cosa? Perché fai così?"
+
+msgctxt "180_Nishina"
+msgid "He's trying to lure out Yama-oroshi. We'll all be in danger!"
+msgstr ""
+"Sta cercando di attirare fuori lo Yama-oroshi. Saremo tutti in pericolo!"
+
+msgctxt "192_Saejima"
+msgid "Why? Ya think he'll come down here to the village?"
+msgstr "Perché? Pensi che verrà giù qui al villaggio?"
+
+msgctxt "204_Nishina"
+msgid ""
+"Not only that, all the other bears are going to smell the food, too. They'll"
+" wake up from hibernation."
+msgstr ""
+"Non solo, anche tutti gli altri orsi sentiranno l'odore del cibo. Si "
+"sveglieranno dal letargo."
+
+msgctxt "216_Nishina"
+msgid "...And they'll be crazed as a pack of wild dogs on the hunt!"
+msgstr "...E saranno impazziti come un branco di cani selvaggi a caccia!"
+
+msgctxt "228_Nishina"
+msgid "They're sure to bring their feeding frenzy to our village!"
+msgstr "Di certo porteranno la loro furia famelica nel nostro villaggio!"
+
+msgctxt "252_Narumi"
+msgid ""
+"So what? I'll kill the whole damn lot. All the bears I can shoot!\r\n"
+"This'll be the hunting trip of a lifetime."
+msgstr ""
+"E allora? Li faccio fuori tutti, quei maledetti. Tutti gli orsi che posso abbattere!\n"
+"Questa sarà la battuta di caccia della vita."
+
+msgctxt "264_Nishina"
+msgid "Asshole!"
+msgstr "Stronzo!"
+
+msgctxt "288_Sakurai"
+msgid "Hey! Nishina-san!"
+msgstr "Ehi! Nishina-san!"
+
+msgctxt "300_Sakurai"
+msgid "There was another bear sighting!"
+msgstr "C'è stato un altro avvistamento di orso!"
+
+msgctxt "312_Nishina"
+msgid "Was it Yama-oroshi?"
+msgstr "Era Yama-oroshi?"
+
+msgctxt "324_Sakurai"
+msgid "They couldn't tell; it took off right away. But they said it was huge."
+msgstr ""
+"Non sono riusciti a vederlo bene; è scappato subito. Ma hanno detto che era "
+"enorme."
+
+msgctxt "336_Nishina"
+msgid "Okay. Someone needs to tell everyone to get inside."
+msgstr "Ok. Qualcuno deve dire a tutti di rientrare."
+
+msgctxt "348_Kimiyo"
+msgid "I'll do it."
+msgstr "Lo farò."
+
+msgctxt "372_Narumi"
+msgid ""
+"That's right, you people go home and cower in a corner. That'll keep you out"
+" of my way!"
+msgstr ""
+"Esatto, voi altri andatevene a casa e rintanatevi in un angolo. Così non mi "
+"intralcerete!"
+
+msgctxt "396_Nishina"
+msgid "Jerk."
+msgstr "Stronzo."
+
+msgctxt "408_Sakurai"
+msgid "Is there anything else we can do?"
+msgstr "C'è qualcos'altro che possiamo fare?"
+
+msgctxt "420_Nishina"
+msgid "It's not too late to stop this. We can go pick up all the bait."
+msgstr ""
+"Non è troppo tardi per fermare tutto questo. Possiamo andare a prendere "
+"tutte le esche."
+
+msgctxt "432_Sakurai"
+msgid ""
+"But some bears are out and hungry already. We need all the men to stand "
+"guard."
+msgstr ""
+"Ma alcuni orsi sono già in giro e affamati. Ci servono tutti gli uomini di "
+"guardia."
+
+msgctxt "444_Saejima"
+msgid ""
+"I'll go get the bait. You two stay with the others to protect the village."
+msgstr ""
+"Vado io a prendere l'esca. Voi due restate con gli altri a proteggere il "
+"villaggio."
+
+msgctxt "456_Sakurai"
+msgid "Nishina-san?"
+msgstr "Nishina-san?"
+
+msgctxt "468_Nishina"
+msgid "We accept your help."
+msgstr "Accettiamo il tuo aiuto."
+
+msgctxt "480_Nishina"
+msgid ""
+"I know eight spots on the mountain where an experienced hunter would put "
+"bait. I'll mark them on a map for you. Got it?"
+msgstr ""
+"Conosco otto punti sulla montagna dove un cacciatore esperto metterebbe "
+"l'esca. Te li segno su una mappa. Capito?"
+
+msgctxt "492_Saejima"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "504_Sakurai"
+msgid "I'll get a pack ready for you at Okudera-san's. Meet me there."
+msgstr "Ti preparo uno zaino da Okudera-san. Ci vediamo lì."
+
+msgctxt "516_Sakurai"
+msgid ""
+"This is going to require a lot more time on the mountain compared to your "
+"last trip, so prep thoroughly, all right?"
+msgstr ""
+"Questa volta ti toccherà stare molto più a lungo in montagna rispetto "
+"all'ultima, quindi preparati per bene, capito?"
+
+msgctxt "528_Saejima"
+msgid "Got it."
+msgstr "Capito."
+
+msgctxt "540_Nishina"
+msgid "We're counting on you!"
+msgstr "Contiamo su di te!"
+
+msgctxt "576_Mission Added"
+msgid "\"Hubris\" was added."
+msgstr "«Superbia» è stata aggiunta."

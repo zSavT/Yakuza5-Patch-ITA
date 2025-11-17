@@ -1,0 +1,601 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "312"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Collana di Haruka<Color:Default>."
+
+msgctxt "372"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round when you are playing cho-han.\r\n"
+" "
+msgstr ""
+"Haruka d'ora in poi di tanto in tanto prevederà l'esito di una mano quando "
+"giochi a cho-han."
+
+msgctxt "420"
+msgid "You got <Color:8>Haruka's Lunch<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Il pranzo di Haruka<Color:Default>."
+
+msgctxt "480"
+msgid "You got <Color:8>Haruka's First-Aid Kit<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Kit di Primo Soccorso di Haruka<Color:Default>."
+
+msgctxt "540"
+msgid "You got <Color:8>Red Jewel<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Gemma Rossa<Color:Default>."
+
+msgctxt "600"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr "Hai ottenuto <Color:8>L'Amuleto di Haruka<Color:Default>."
+
+msgctxt "660"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr "Hai ottenuto <Color:8>il cioccolato di Haruka<Color:Default>."
+
+msgctxt "720"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Dolcetto di Haruka<Color:Default>."
+
+msgctxt "828"
+msgid "You got <Color:8>Morning Glory Belly Warmer<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Scaldapancia del Glicine<Color:Default>."
+
+msgctxt "30108"
+msgid "Staff"
+msgstr "Staff"
+
+msgctxt "30112"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "30116"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "30120"
+msgid "HAL_TLK_stand_unhappy"
+msgstr "HAL_TLK_stand_unhappy"
+
+msgctxt "30124"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "30128"
+msgid "HAL_TLK_stand_happy"
+msgstr "HAL_TLK_stand_happy"
+
+msgctxt "30132"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "30136"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "30140"
+msgid "Honoka"
+msgstr "Honoka"
+
+msgctxt "30144"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "30148"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "30152"
+msgid "HAL_TLK_stand_request02"
+msgstr "HAL_TLK_stand_request02"
+
+msgctxt "30156"
+msgid "Accept the Challenge"
+msgstr "Accetta la Sfida"
+
+msgctxt "30160"
+msgid "Not Right Now"
+msgstr "Non adesso"
+
+msgctxt "30164"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "30168"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "30172"
+msgid "Sing Together"
+msgstr "Cantare Insieme"
+
+msgctxt "30176"
+msgid "Don't Sing"
+msgstr "Non Cantare"
+
+msgctxt "30180"
+msgid "Sing Alone"
+msgstr "Canta da solo"
+
+msgctxt "30184"
+msgid "Invite Someone"
+msgstr "Invita qualcuno"
+
+msgctxt "30188"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "30192"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "30196"
+msgid "Nobody"
+msgstr "Nessuno"
+
+msgctxt "30200"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "156_Staff"
+msgid "Thank you very much."
+msgstr "Grazie mille."
+
+msgctxt "180_Haruka"
+msgid "Your performance was a bit off, Uncle Kaz."
+msgstr "La tua esibizione non era proprio il massimo, Zio Kaz."
+
+msgctxt "192_Kiryu"
+msgid "(Sorry about that, Haruka. I'll try to do a better job next time.)"
+msgstr ""
+"(Scusa per quello, Haruka. Cercherò di fare meglio la prossima volta.)"
+
+msgctxt "204_Staff"
+msgid "Thanks for cheering me on, Uncle Kaz! I was really able to sing well!"
+msgstr ""
+"Grazie per aver fatto il tifo per me, Zio Kaz! Sono riuscita a cantare "
+"davvero bene!"
+
+msgctxt "228_Staff"
+msgid "(Haruka sure seems happy.)"
+msgstr "(Haruka sembra proprio felice.)"
+
+msgctxt "300_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! This is for you!\r\n"
+" "
+msgstr "Grazie, Zio Kaz! Questo è per te!"
+
+msgctxt "360_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come play cho-han with you next time, okay?\r\n"
+" "
+msgstr ""
+"Grazie infinite, Zio Kaz! Voglio venire a giocare a cho-han con te la "
+"prossima volta, okay?"
+
+msgctxt "408_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I have a present for you!\r\n"
+" "
+msgstr "Grazie mille, Zio Kaz! Ho un regalo per te!"
+
+msgctxt "468_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "528_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "588_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "648_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "708_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "804_Haruka"
+msgid ""
+"Thanks for doing all that stuff for me, Uncle Kaz!\r\n"
+" "
+msgstr "Grazie per aver fatto tutte quelle cose per me, Zio Kaz!"
+
+msgctxt "816_Staff"
+msgid ""
+"Here, this is a special present, just for you!\r\n"
+" "
+msgstr "Ecco, questo è un regalo speciale, solo per te!"
+
+msgctxt "840_Haruka"
+msgid "Thanks, Uncle Kaz! I love you!"
+msgstr "Grazie, Zio Kaz! Ti voglio bene!"
+
+msgctxt "888_Staff"
+msgid "Thank you very much."
+msgstr "Grazie mille."
+
+msgctxt "960_Staff"
+msgid "Thank you very much."
+msgstr "Grazie mille."
+
+msgctxt "984_Staff"
+msgid "That was a lot of fun, Uncle Kaz! Call me again soon!"
+msgstr "Mi sono divertita un mondo, Zio Kaz! Richiamami presto!"
+
+msgctxt "996_Staff"
+msgid "Sure, I'll do that."
+msgstr "Certo, lo farò."
+
+msgctxt "1020_Staff"
+msgid "Did you have a good time today, Haruka?"
+msgstr "Ti sei divertita oggi, Haruka?"
+
+msgctxt "1032_Staff"
+msgid "Yeah! We should sing again sometime!"
+msgstr "Sì! Dovremmo farci un'altra cantata, prima o poi!"
+
+msgctxt "1068_Honoka"
+msgid "Well ain't you good at this, Akiyama-san? I'm kinda surprised!"
+msgstr ""
+"Cavolo, Akiyama-san, sei proprio un asso in questo! Sono un po' sorpreso!"
+
+msgctxt "1080_Honoka"
+msgid "That wasn't all that impressive, ya know."
+msgstr "Non è che fosse granché, sai."
+
+msgctxt "1092_Honoka"
+msgid "Yeah, now that's the ticket!"
+msgstr "Sì, questo è quello che ci voleva!"
+
+msgctxt "1116_Honoka"
+msgid "Gimme a call again sometime! <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Richiamami ancora qualche volta! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "1128_Honoka"
+msgid "I gotta get back to Tokyo now. <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Devo tornare a Tokyo ora. <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "1140_Staff"
+msgid "I had a lot of fun today, Akiyama-san. Give me a call again sometime!"
+msgstr ""
+"Mi sono divertita un sacco oggi, Akiyama-san. Chiamami di nuovo una di "
+"queste volte!"
+
+msgctxt "1152_Staff"
+msgid "I'm happy to hear that. I'll be sure to invite you along again."
+msgstr "Mi fa piacere sentirlo. Ti inviterò di sicuro di nuovo."
+
+msgctxt "1176_Staff"
+msgid "Today was lots of fun, Haruka. Will you give me a call again sometime?"
+msgstr ""
+"Oggi è stato proprio divertente, Haruka. Mi richiamerai un'altra volta?"
+
+msgctxt "1188_Staff"
+msgid "Sure! I'd love for us to sing together again!"
+msgstr "Certo! Mi piacerebbe tantissimo cantare di nuovo insieme!"
+
+msgctxt "1224_Staff"
+msgid "Thank you very much."
+msgstr "Grazie mille."
+
+msgctxt "1248_Staff"
+msgid ""
+"Welcome! It'll be 1,000 yen for the pair of you. Shall I show you to a room?"
+msgstr "Benvenuti! Saranno 1.000 yen per voi due. Vi accompagno in stanza?"
+
+msgctxt "1272_Haruka"
+msgid ""
+"Uncle Kaz, see if you can help me get <Color:8>at least 900 points on "
+"\"Because I Have You\"<Color:Default>!"
+msgstr ""
+"Zio Kaz, vedi se riesci a darmi una mano a fare <Color:8>almeno 900 punti a "
+"\"Because I Have You\"<Color:Default>!"
+
+msgctxt "1284_Kiryu"
+msgid ""
+"(Haruka wants to score <Color:8>at least 900 points on \"Because I Have "
+"You.\"<Color:Default>)"
+msgstr ""
+"(Haruka vuole fare <Color:8>almeno 900 punti su \"Because I Have "
+"You.\"<Color:Default>)"
+
+msgctxt "1308_Staff"
+msgid "Very well. If you'd follow me, please."
+msgstr "Molto bene. Mi segua, per favore."
+
+msgctxt "1368_Haruka"
+msgid "Okay. Maybe next time then..."
+msgstr "Va bene. Magari la prossima volta, allora..."
+
+msgctxt "1380_Staff"
+msgid "Very well. Please do come again."
+msgstr "Molto bene. Torni pure a trovarci."
+
+msgctxt "1404_Staff"
+msgid "(I don't have enough money...)"
+msgstr "(Non c'ho abbastanza soldi...)"
+
+msgctxt "1416_Staff"
+msgid "Sorry. I've got to be going."
+msgstr "Scusa. Devo andare."
+
+msgctxt "1428_Staff"
+msgid "Very well. Please do come again."
+msgstr "Molto bene. Torni pure a trovarci."
+
+msgctxt "1452_Staff"
+msgid ""
+"Welcome! It'll be 1,000 yen for the pair of you. Shall I show you to a room?"
+msgstr "Benvenuti! Saranno 1.000 yen per voi due. Vi accompagno in stanza?"
+
+msgctxt "1464_Staff"
+msgid "Yes, we'd like to sing."
+msgstr "Sì, ci piacerebbe cantare."
+
+msgctxt "1488_Staff"
+msgid "Very well. If you'd follow me, please."
+msgstr "Molto bene. Mi segua, per favore."
+
+msgctxt "1548_Staff"
+msgid "(I don't have enough money...)"
+msgstr "(Non c'ho abbastanza soldi...)"
+
+msgctxt "1560_Staff"
+msgid "Sorry. I've got to be going."
+msgstr "Scusa. Devo andare."
+
+msgctxt "1572_Staff"
+msgid "Very well. Please do come again."
+msgstr "Molto bene. Torni pure a trovarci."
+
+msgctxt "1596_Staff"
+msgid "Welcome. How many people are in your party?"
+msgstr "Benvenuti. In quanti siete?"
+
+msgctxt "1608_Player"
+msgid "Two, please."
+msgstr "Due, per favore."
+
+msgctxt "1620_Staff"
+msgid "(I don't have enough money...)"
+msgstr "(Non c'ho abbastanza soldi...)"
+
+msgctxt "1632_Staff"
+msgid "Sorry. I've got to be going."
+msgstr "Scusa. Devo andare."
+
+msgctxt "1644_Staff"
+msgid "Very well. Please do come again."
+msgstr "Molto bene. Torni pure a trovarci."
+
+msgctxt "1668_Staff"
+msgid "All right. That'll be 1,000 yen for the two of you."
+msgstr "Va bene. Sono 1.000 yen per voi due."
+
+msgctxt "1692_Staff"
+msgid "Have a good time."
+msgstr "Divertiti."
+
+msgctxt "1752_Staff"
+msgid "Welcome. How many people are in your party?"
+msgstr "Benvenuti. In quanti siete?"
+
+msgctxt "1776_Kiryu"
+msgid "Just one."
+msgstr "Solo uno."
+
+msgctxt "1788_Akiyama"
+msgid "One, please."
+msgstr "Uno, per favore."
+
+msgctxt "1800_Saejima"
+msgid "Just me."
+msgstr "Solo io."
+
+msgctxt "1812_Shinada"
+msgid "Just one!"
+msgstr "Solo uno!"
+
+msgctxt "1824_Haruka"
+msgid "One, please."
+msgstr "Uno, per favore."
+
+msgctxt "1848_Staff"
+msgid "Very well. If you'd follow me, please."
+msgstr "Molto bene. Mi segua, per favore."
+
+msgctxt "1860_Staff"
+msgid "(I don't have the money.)"
+msgstr "(Non ho i soldi.)"
+
+msgctxt "1884_Kiryu"
+msgid "Sorry. I've got to be going."
+msgstr "Scusa. Devo andare."
+
+msgctxt "1896_Akiyama"
+msgid "Sorry. I have some urgent business I need to take care of."
+msgstr "Mi dispiace. Ho degli affari urgenti di cui devo occuparmi."
+
+msgctxt "1908_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr "Mi dispiace, ma devo filare."
+
+msgctxt "1920_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr "Oh, mi dispiace. Ho una cosa..."
+
+msgctxt "1932_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr "Mi dispiace davvero. È saltato fuori un imprevisto."
+
+msgctxt "1944_Staff"
+msgid "Ah, I see. Please do come again."
+msgstr "Ah, capisco. Torni pure."
+
+msgctxt "1968_Staff"
+msgid "(Who should I call?)"
+msgstr "(Chi dovrei chiamare?)"
+
+msgctxt "1992_Player"
+msgid "There's someone else who'll be joining me."
+msgstr "C'è qualcun altro che si unirà a me."
+
+msgctxt "2004_Staff"
+msgid "Certainly. In that case, it'll be 1,000 yen for two people."
+msgstr "Certo. In tal caso, saranno 1.000 yen per due persone."
+
+msgctxt "2028_Player"
+msgid "(I'll call up Haruka.)"
+msgstr "(Chiamo Haruka.)"
+
+msgctxt "2040_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "2100_Haruka"
+msgid "Sorry to keep you waiting, Uncle Kaz!"
+msgstr "Scusa se ti ho fatto aspettare, zio Kaz!"
+
+msgctxt "2112_Staff"
+msgid "Have a good time."
+msgstr "Divertiti."
+
+msgctxt "2124_Player"
+msgid "There's someone else who'll be joining me."
+msgstr "C'è qualcun altro che si unirà a me."
+
+msgctxt "2136_Staff"
+msgid "Certainly. In that case, it'll be 1,000 yen for two people."
+msgstr "Certo. In tal caso, saranno 1.000 yen per due persone."
+
+msgctxt "2160_Player"
+msgid "(I should give Haruka-chan a call.)"
+msgstr "(Dovrei chiamare Haruka-chan.)"
+
+msgctxt "2172_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "2232_Haruka"
+msgid "Sorry to keep you waiting, Akiyama-san."
+msgstr "Scusa per averti fatto aspettare, Akiyama-san."
+
+msgctxt "2244_Staff"
+msgid "Have a good time."
+msgstr "Divertiti."
+
+msgctxt "2256_Staff"
+msgid "There's someone else who'll be joining me."
+msgstr "C'è qualcun altro che si unirà a me."
+
+msgctxt "2268_Staff"
+msgid "Certainly. In that case, it'll be 1,000 yen for two people."
+msgstr "Certo. In tal caso, saranno 1.000 yen per due persone."
+
+msgctxt "2292_Staff"
+msgid "(I'll call Uncle Kaz.)"
+msgstr "(Chiamo lo Zio Kaz.)"
+
+msgctxt "2304_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "2364_Kiryu"
+msgid "Sorry to keep you waiting, Haruka."
+msgstr "Scusa per averti fatto aspettare, Haruka."
+
+msgctxt "2376_Staff"
+msgid "Have a good time."
+msgstr "Divertiti."
+
+msgctxt "2388_Staff"
+msgid "There's someone else who'll be joining me."
+msgstr "C'è qualcun altro che si unirà a me."
+
+msgctxt "2400_Staff"
+msgid "Certainly. In that case, it'll be 1,000 yen for two people."
+msgstr "Certo. In tal caso, saranno 1.000 yen per due persone."
+
+msgctxt "2424_Staff"
+msgid "(I should give Honoka-chan a call.)"
+msgstr "(Dovrei chiamare Honoka-chan.)"
+
+msgctxt "2508_Honoka"
+msgid ""
+"Sorry to keep ya waitin'! <Color:255,200,200,255>♥<Color:Default> I've been "
+"wantin' to practice my singin', actually!"
+msgstr ""
+"Scusa se ti ho fatto aspettare! <Color:255,200,200,255>♥<Color:Default> A "
+"dire il vero, volevo proprio esercitarmi a cantare!"
+
+msgctxt "2520_Staff"
+msgid "Have a good time."
+msgstr "Divertiti."
+
+msgctxt "2532_Honoka"
+msgid ""
+"Ya called me up from Kamurocho, knowin' I'm a busy student lookin' for a "
+"job, just to sing karaoke? Is this some kinda joke?"
+msgstr ""
+"Mi hai chiamato fin da Kamurocho, sapendo che sono una studentessa impegnata"
+" in cerca di lavoro, solo per cantare al karaoke? Ma stai scherzando?"
+
+msgctxt "2544_Player"
+msgid "My deepest apologies."
+msgstr "Le mie più sentite scuse."
+
+msgctxt "2556_Staff"
+msgid "Have a good time."
+msgstr "Divertiti."
+
+msgctxt "2568_Staff"
+msgid "There's someone else who'll be joining me."
+msgstr "C'è qualcun altro che si unirà a me."
+
+msgctxt "2580_Staff"
+msgid "Certainly. In that case, it'll be 1,000 yen for two people."
+msgstr "Certo. In tal caso, saranno 1.000 yen per due persone."
+
+msgctxt "2604_Staff"
+msgid "(I should call Akiyama-san.)"
+msgstr "(Dovrei chiamare Akiyama-san.)"
+
+msgctxt "2616_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "2676_Akiyama"
+msgid "Sorry for the delay, Haruka-chan!"
+msgstr "Scusa il ritardo, Haruka-chan!"
+
+msgctxt "2688_Staff"
+msgid "Have a good time."
+msgstr "Divertiti."

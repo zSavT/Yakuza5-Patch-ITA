@@ -1,0 +1,223 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "488"
+msgid "You got <Color:8>Carved Wooden Doll<Color:Default>."
+msgstr ""
+
+msgctxt "560"
+msgid "You got <Color:8>2,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "596"
+msgid "You got <Color:8>Toughness ZZ<Color:Default>."
+msgstr ""
+
+msgctxt "644"
+msgid "You got <Color:8>3,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "680"
+msgid "You got <Color:8>Tauriner ++<Color:Default>."
+msgstr ""
+
+msgctxt "728"
+msgid "You got <Color:8>4,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "764"
+msgid "You got <Color:8>5,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "8680"
+msgid "Player"
+msgstr ""
+
+msgctxt "8684"
+msgid "Receptionist"
+msgstr ""
+
+msgctxt "8688"
+msgid "Play"
+msgstr ""
+
+msgctxt "8692"
+msgid "Read the Rules"
+msgstr ""
+
+msgctxt "8696"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "8700"
+msgid "Deathmatch Beginner"
+msgstr ""
+
+msgctxt "8704"
+msgid "Deathmatch Expert"
+msgstr ""
+
+msgctxt "8708"
+msgid "Battle Royale Beginner"
+msgstr ""
+
+msgctxt "8712"
+msgid "Battle Royale Intermediate"
+msgstr ""
+
+msgctxt "8716"
+msgid "Battle Royale Advanced"
+msgstr ""
+
+msgctxt "8720"
+msgid "Battle Royale Expert"
+msgstr ""
+
+msgctxt "8724"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "8728"
+msgid "Snowball Fights"
+msgstr ""
+
+msgctxt "92_Player"
+msgid "(I should come back when I'm alone.)"
+msgstr ""
+
+msgctxt "104_Receptionist"
+msgid "Would you like to participate in a snowball fight?"
+msgstr ""
+
+msgctxt "128_Player"
+msgid ""
+"I'm sorry, sir, but it costs 1,000 yen to enter. Please come back when you "
+"have the entry fee."
+msgstr ""
+
+msgctxt "140_Player"
+msgid "Please select a course."
+msgstr ""
+
+msgctxt "152_Player"
+msgid "I'll take your 1,000 yen entry fee, then."
+msgstr ""
+
+msgctxt "164_Player"
+msgid "Good luck to you!"
+msgstr ""
+
+msgctxt "188_Player"
+msgid "I'll take your 1,000 yen entry fee, then."
+msgstr ""
+
+msgctxt "200_Player"
+msgid "Good luck to you!"
+msgstr ""
+
+msgctxt "224_Player"
+msgid "I'll take your 1,000 yen entry fee, then."
+msgstr ""
+
+msgctxt "236_Player"
+msgid "Good luck to you!"
+msgstr ""
+
+msgctxt "260_Player"
+msgid "I'll take your 1,000 yen entry fee, then."
+msgstr ""
+
+msgctxt "272_Player"
+msgid "Good luck to you!"
+msgstr ""
+
+msgctxt "296_Player"
+msgid "I'll take your 1,000 yen entry fee, then."
+msgstr ""
+
+msgctxt "308_Player"
+msgid "Good luck to you!"
+msgstr ""
+
+msgctxt "332_Player"
+msgid "I'll take your 1,000 yen entry fee, then."
+msgstr ""
+
+msgctxt "344_Player"
+msgid "Good luck to you!"
+msgstr ""
+
+msgctxt "368_Player"
+msgid "Sorry, maybe some other time."
+msgstr ""
+
+msgctxt "380_Receptionist"
+msgid "I see. We'll look forward to you joining us."
+msgstr ""
+
+msgctxt "392_Snowball Fights"
+msgid ""
+"You may participate in a snowball fight by speaking to the receptionist.\r\n"
+"Each game costs 1,000 yen to play."
+msgstr ""
+
+msgctxt "404_Snowball Fights"
+msgid ""
+"The participants are ranked according to the points they earn during the "
+"regulation time, with the winner earning a prize."
+msgstr ""
+
+msgctxt "416_Snowball Fights"
+msgid ""
+"Points are awarded and subtracted as follows:\r\n"
+"\r\n"
+"Hit an enemy with a snowball (strike): +3 Pts\r\n"
+"Get hit by a snowball (hit): -2 Pts\r\n"
+"\r\n"
+"You cannot earn negative points. Scoring doubles in the final thirty "
+"seconds."
+msgstr ""
+
+msgctxt "428_Snowball Fights"
+msgid ""
+"You may not make your own snowballs. Get your snowballs from the restocking "
+"points in the four corners of the playing field."
+msgstr ""
+
+msgctxt "440_Snowball Fights"
+msgid ""
+"By winning battles, you can advance to more challenging courses. The "
+"tougher courses offer better prizes."
+msgstr ""
+
+msgctxt "452_Receptionist"
+msgid ""
+"I'm so sorry, but we stopped accepting new entries for our snowball fights. "
+"We hope you'll stick around to watch and take in the festival."
+msgstr ""
+
+msgctxt "476_Receptionist"
+msgid "Good try out there! Please take this consolation prize."
+msgstr ""
+
+msgctxt "512_Receptionist"
+msgid "We hope you'll participate again."
+msgstr ""
+
+msgctxt "524_Receptionist"
+msgid "Congratulations! Here's your prize. You deserve it!"
+msgstr ""
+
+msgctxt "788_Receptionist"
+msgid "We look forward to having you join us again."
+msgstr ""

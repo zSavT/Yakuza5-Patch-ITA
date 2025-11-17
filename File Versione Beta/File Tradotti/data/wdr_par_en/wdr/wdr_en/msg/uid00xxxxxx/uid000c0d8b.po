@@ -1,0 +1,163 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "3724"
+msgid "Guide"
+msgstr "Guida"
+
+msgctxt "3728"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "3732"
+msgid "HAL_TLK_stand_request02"
+msgstr "HAL_TLK_stand_request02"
+
+msgctxt "3736"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "3740"
+msgid "Give It a Try"
+msgstr "Provaci"
+
+msgctxt "3744"
+msgid "Forget It"
+msgstr "Lascia perdere"
+
+msgctxt "3748"
+msgid "HAL_TLK_stand_unhappy"
+msgstr "HAL_TLK_stand_unhappy"
+
+msgctxt "3752"
+msgid "I'm in."
+msgstr "Ci sto."
+
+msgctxt "3756"
+msgid "Never mind."
+msgstr "Lascia stare."
+
+msgctxt "3760"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "3764"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "3768"
+msgid "Talk_Info_L"
+msgstr "Talk_Info_L"
+
+msgctxt "3772"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "3776"
+msgid "Forget it."
+msgstr "Lascia perdere."
+
+msgctxt "76_Guide"
+msgid ""
+"Hey, now. If you want to play <Color:8>cee-lo<Color:Default>, you'll be "
+"needing more wooden tags."
+msgstr ""
+"Ehi, allora. Se vuoi giocare a <Color:8>cee-lo<Color:Default>, ti serviranno"
+" più gettoni di legno."
+
+msgctxt "88_Guide"
+msgid ""
+"The minimum bet is ten tags. You can play after you buy some more wooden "
+"tags."
+msgstr ""
+"La puntata minima è di dieci gettoni. Puoi giocare dopo aver comprato altri "
+"gettoni di legno."
+
+msgctxt "100_Guide"
+msgid ""
+"How about some <Color:8>cee-lo<Color:Default>? Can I interest you in a game?"
+msgstr ""
+"Che ne dici di un po' di <Color:8>cee-lo<Color:Default>? Ti va di fare una "
+"partita?"
+
+msgctxt "112_Haruka"
+msgid ""
+"Uncle Kaz! See if you can <Color:8>win 1,000 points or more at cee-"
+"lo<Color:Default>. I like seeing you win."
+msgstr ""
+"Zio Kaz! Vedi se riesci a <Color:8>vincere 1.000 punti o più a Cee-"
+"lo<Color:Default>. Mi piace vederti vincere."
+
+msgctxt "124_Kiryu"
+msgid ""
+"(Haruka wants me to <Color:8>win 1,000 points or more at cee-"
+"lo<Color:Default>.)"
+msgstr ""
+"(Haruka vuole che io <Color:8>vinca 1.000 punti o più a cee-"
+"lo<Color:Default>.)"
+
+msgctxt "148_Haruka"
+msgid "Aww, okay. Some other time."
+msgstr "Ah, va bene. Magari un'altra volta."
+
+msgctxt "160_Guide"
+msgid "No? Roll with us some other time, then."
+msgstr "No? Allora fatti un tiro con noi un'altra volta."
+
+msgctxt "172_Guide"
+msgid "Yeah? You're in?"
+msgstr "Sì? Ci stai?"
+
+msgctxt "184_Guide"
+msgid "Yeah, I'll play."
+msgstr "Sì, gioco."
+
+msgctxt "196_Guide"
+msgid "Come on over here then."
+msgstr "Vieni qua allora."
+
+msgctxt "208_Haruka"
+msgid "Good luck, Uncle Kaz!"
+msgstr "Buona fortuna, Zio Kaz!"
+
+msgctxt "232_Guide"
+msgid "No. I'll pass."
+msgstr "No. Passo."
+
+msgctxt "244_Guide"
+msgid "No? Another time, then."
+msgstr "No? Un'altra volta, allora."
+
+msgctxt "256_Guide"
+msgid ""
+"How about some <Color:8>cee-lo<Color:Default>? Can I interest you in a game?"
+msgstr ""
+"Che ne dici di un po' di <Color:8>cee-lo<Color:Default>? Ti va di fare una "
+"partita?"
+
+msgctxt "268_Guide"
+msgid "Yeah, I'll play."
+msgstr "Sì, gioco."
+
+msgctxt "280_Guide"
+msgid "Come on over here, then."
+msgstr "Dai, vieni qua, allora."
+
+msgctxt "304_Guide"
+msgid "No. I'll pass."
+msgstr "No. Passo."
+
+msgctxt "316_Guide"
+msgid "No? Another time, then."
+msgstr "No? Un'altra volta, allora."

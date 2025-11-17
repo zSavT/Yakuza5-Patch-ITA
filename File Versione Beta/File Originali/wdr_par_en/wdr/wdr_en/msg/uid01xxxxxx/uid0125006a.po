@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid "Select the number of input devices to use."
+msgstr ""
+
+msgctxt "112"
+msgid "Would you like to play again?"
+msgstr ""
+
+msgctxt "148"
+msgid "This mode requires two input devices to play."
+msgstr ""
+
+msgctxt "1000"
+msgid "One"
+msgstr ""
+
+msgctxt "1004"
+msgid "Two"
+msgstr ""
+
+msgctxt "1008"
+msgid "Play Again"
+msgstr ""
+
+msgctxt "1012"
+msgid "Quit"
+msgstr ""

@@ -1,0 +1,323 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "11428"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "11432"
+msgid "P_AKI_TLK_stand_call"
+msgstr ""
+
+msgctxt "11436"
+msgid "P_AKI_TLK_stand_ase"
+msgstr ""
+
+msgctxt "11440"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "11444"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "11448"
+msgid "P_AKI_TLK_stand_no"
+msgstr ""
+
+msgctxt "11452"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "11456"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "11460"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "11464"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "11468"
+msgid "P_AKI_TLK_stand_yes"
+msgstr ""
+
+msgctxt "11472"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "11476"
+msgid "P_AKI_TLK_stand_info_f"
+msgstr ""
+
+msgctxt "11480"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "11484"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "11488"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "11492"
+msgid "P_AKI_TLK_stand_think"
+msgstr ""
+
+msgctxt "11496"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "11500"
+msgid "P_AKI_TLK_stand_quest"
+msgstr ""
+
+msgctxt "11504"
+msgid "P_AKI_TLK_stand_ojigi"
+msgstr ""
+
+msgctxt "11508"
+msgid "0"
+msgstr ""
+
+msgctxt "11512"
+msgid "dummy"
+msgstr ""
+
+msgctxt "44_Akiyama"
+msgid "Hey there, guys. Could I talk to you all about something?"
+msgstr ""
+
+msgctxt "92_Akiyama"
+msgid ""
+"Some of you know this already, but in addition to my primary business of "
+"being a moneylender, I also run a cabaret club called Elise."
+msgstr ""
+
+msgctxt "104_Shinada"
+msgid ""
+"Oh man, for real? Sweet. I wish I could make bank at my day job and have a "
+"side-gig, too."
+msgstr ""
+
+msgctxt "116_Akiyama"
+msgid ""
+"Well, the truth is, business isn't so great. I may have to shut the club "
+"down soon."
+msgstr ""
+
+msgctxt "128_Saejima"
+msgid "Tough break."
+msgstr ""
+
+msgctxt "140_Kiryu"
+msgid "So what did you want to talk to us about?"
+msgstr ""
+
+msgctxt "152_Akiyama"
+msgid ""
+"I need to find girls who are ready and willing to work at Elise at a "
+"moment's notice."
+msgstr ""
+
+msgctxt "164_Akiyama"
+msgid ""
+"But with the recession, there's no one to hire. We can't find any girls in "
+"or around Kamurocho who fit the bill."
+msgstr ""
+
+msgctxt "176_Saejima"
+msgid "So you're up a shit creek then."
+msgstr ""
+
+msgctxt "188_Shinada"
+msgid ""
+"I'd heard rumors, but man, that's rough. I heard lots of folks are leaving "
+"Tokyo to look for work in Nagoya, too."
+msgstr ""
+
+msgctxt "200_Akiyama"
+msgid "And that's exactly my point, Shinada-san."
+msgstr ""
+
+msgctxt "212_Shinada"
+msgid "Wait, what'd I say?"
+msgstr ""
+
+msgctxt "224_Akiyama"
+msgid ""
+"If there are no top-tier hostesses to find in Kamurocho, then we need to "
+"get them from somewhere else."
+msgstr ""
+
+msgctxt "236_Akiyama"
+msgid ""
+"My plan is to scout the whole country, and snag the number one hostess in "
+"each of the big cities."
+msgstr ""
+
+msgctxt "248_Saejima"
+msgid "Good one."
+msgstr ""
+
+msgctxt "260_Kiryu"
+msgid "You've put a lot of thought into this, I see."
+msgstr ""
+
+msgctxt "272_Shinada"
+msgid ""
+"But if that's your plan, why aren't you out there busting your ass scouting "
+"right now?"
+msgstr ""
+
+msgctxt "284_Akiyama"
+msgid ""
+"Well, I can't exactly scour the whole country by myself, you know? The club "
+"would go kaput before I made anywhere near enough progress."
+msgstr ""
+
+msgctxt "296_Akiyama"
+msgid "So, I need your help."
+msgstr ""
+
+msgctxt "308_Shinada"
+msgid "Come again?"
+msgstr ""
+
+msgctxt "320_Saejima"
+msgid "Say what now?"
+msgstr ""
+
+msgctxt "332_Akiyama"
+msgid ""
+"Just hear me out! Kiryu-san can take "
+"<Color:255,200,200,255>Fukuoka<Color:Default>, and Saejima-san can do "
+"<Color:255,200,200,255>Sapporo<Color:Default>. Shinada-san, you have "
+"<Color:255,200,200,255>Nagoya<Color:Default>, and I'll do "
+"<Color:255,200,200,255>Osaka<Color:Default>. We've all spent time in those "
+"places, right?"
+msgstr ""
+
+msgctxt "344_Akiyama"
+msgid ""
+"I figured each of us would know a fair bit more about those cities than the "
+"average person."
+msgstr ""
+
+msgctxt "356_Kiryu"
+msgid "I get what you mean, but I think you're asking quite a lot of us."
+msgstr ""
+
+msgctxt "368_Kiryu"
+msgid ""
+"We didn't come here today just so we could sign up to be your personal "
+"talent scouts."
+msgstr ""
+
+msgctxt "380_Akiyama"
+msgid ""
+"I get it, but, if you have the time and inclination, please consider "
+"helping me out. All I'm asking is if you happen to go back to those places, "
+"just keep me in mind."
+msgstr ""
+
+msgctxt "392_Kiryu"
+msgid "Hmm."
+msgstr ""
+
+msgctxt "404_Akiyama"
+msgid ""
+"Think of it this way. If you visit a cabaret club in your city and happen "
+"to find the right girl, maybe try to persuade her to visit Tokyo."
+msgstr ""
+
+msgctxt "416_Saejima"
+msgid "What's that even mean? The \"right girl\"?"
+msgstr ""
+
+msgctxt "428_Akiyama"
+msgid ""
+"Well, you're asking these girls to leave their lives behind to come to "
+"Tokyo, so you'll need to get to know them personally."
+msgstr ""
+
+msgctxt "440_Shinada"
+msgid ""
+"You mean, like, <Color:255,200,200,255><Italic>know</Italic> her know "
+"her<Color:Default>?"
+msgstr ""
+
+msgctxt "452_Akiyama"
+msgid "Well, I was trying to be subtle."
+msgstr ""
+
+msgctxt "464_Saejima"
+msgid "Hmm."
+msgstr ""
+
+msgctxt "476_Akiyama"
+msgid ""
+"Of course, if you're already on good terms with a girl, even better. That "
+"way you can invite her as soon as possible."
+msgstr ""
+
+msgctxt "488_Akiyama"
+msgid ""
+"If nothing else, I just need them for some temp work. Once my club is "
+"making good money again, they can go back to their old lives."
+msgstr ""
+
+msgctxt "500_Akiyama"
+msgid ""
+"So, assuming you strike the right chord with a girl out there, they'll have "
+"a job waiting for them at Elise."
+msgstr ""
+
+msgctxt "512_Kiryu"
+msgid ""
+"All right, I'm with you. I'm not happy about this city having lost its "
+"edge, myself. I want to help Kamurocho get back to what it once was."
+msgstr ""
+
+msgctxt "524_Akiyama"
+msgid "Thanks, Kiryu-san!"
+msgstr ""
+
+msgctxt "536_Saejima"
+msgid ""
+"Hmph. Guess I can't really say no. I owe ya big for all yer help with the "
+"money, Akiyama."
+msgstr ""
+
+msgctxt "548_Shinada"
+msgid ""
+"Hey, you just leave it to me! As a top-notch adult entertainment "
+"journalist, I'll bring you the best hostess out there!"
+msgstr ""
+
+msgctxt "560_Akiyama"
+msgid "Saejima-san, Shinada-san."
+msgstr ""
+
+msgctxt "584_Akiyama"
+msgid "Thank you. Thank you all."
+msgstr ""
+
+msgctxt "596_Akiyama"
+msgid "Now then, let's all hit up our respective turfs and go find some hostesses!"
+msgstr ""

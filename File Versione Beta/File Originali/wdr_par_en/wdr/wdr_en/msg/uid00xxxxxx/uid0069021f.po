@@ -1,0 +1,483 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "29276"
+msgid "Player"
+msgstr ""
+
+msgctxt "29280"
+msgid "Staff"
+msgstr ""
+
+msgctxt "29284"
+msgid "Hinata"
+msgstr ""
+
+msgctxt "29288"
+msgid "Play Pool with Hinata"
+msgstr ""
+
+msgctxt "29292"
+msgid "Do Nothing"
+msgstr ""
+
+msgctxt "29296"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "29300"
+msgid "Riku"
+msgstr ""
+
+msgctxt "29304"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "29308"
+msgid "Honoka"
+msgstr ""
+
+msgctxt "29312"
+msgid "Kaguya"
+msgstr ""
+
+msgctxt "29316"
+msgid "Shion"
+msgstr ""
+
+msgctxt "29320"
+msgid "Invite Someone"
+msgstr ""
+
+msgctxt "29324"
+msgid "Play Alone"
+msgstr ""
+
+msgctxt "29328"
+msgid "View Puzzle Pool Rules"
+msgstr ""
+
+msgctxt "29332"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "29336"
+msgid "Puzzle Pool"
+msgstr ""
+
+msgctxt "29340"
+msgid "Puzzle Pool Rules 1"
+msgstr ""
+
+msgctxt "29344"
+msgid "Puzzle Pool Rules 2"
+msgstr ""
+
+msgctxt "29348"
+msgid "Puzzle Pool 3"
+msgstr ""
+
+msgctxt "29352"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "29356"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "92_Player"
+msgid "(This was fun. Maybe I'll do something else now.)"
+msgstr ""
+
+msgctxt "104_Player"
+msgid "A single game of pool will be 800 yen."
+msgstr ""
+
+msgctxt "116_Hinata"
+msgid "Let's play a game of pool!"
+msgstr ""
+
+msgctxt "128_Player"
+msgid "(Hinata wants to shoot some pool.)"
+msgstr ""
+
+msgctxt "152_Player"
+msgid "Okay, let's play a round."
+msgstr ""
+
+msgctxt "164_Hinata"
+msgid "Hehe. I won't go easy on you!"
+msgstr ""
+
+msgctxt "200_Player"
+msgid "Sorry, but I'd rather play alone."
+msgstr ""
+
+msgctxt "212_Hinata"
+msgid "What? Fine, I'll just watch."
+msgstr ""
+
+msgctxt "236_Player"
+msgid "Sorry. I don't have the money."
+msgstr ""
+
+msgctxt "248_Hinata"
+msgid "Wow, you're pretty broke."
+msgstr ""
+
+msgctxt "272_Player"
+msgid "Sorry, but I'm not feeling it."
+msgstr ""
+
+msgctxt "284_Hinata"
+msgid "What? Aren't we on a date?"
+msgstr ""
+
+msgctxt "296_Staff"
+msgid "Please come again."
+msgstr ""
+
+msgctxt "332_Riku"
+msgid "Wow, you're really good at this, Kiryu-san! I'm kinda impressed!"
+msgstr ""
+
+msgctxt "344_Riku"
+msgid "I win!"
+msgstr ""
+
+msgctxt "356_Riku"
+msgid "Aww, guess it's a draw. But I'll beat y'next time!"
+msgstr ""
+
+msgctxt "380_Riku"
+msgid ""
+"That was wicked fun! I'm headin' back to Hakata now! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "428_Riku"
+msgid ""
+"That was wicked fun! Call me again sometime! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "488_Honoka"
+msgid "You're really good, Akiyama-san! I'm kinda surprised!"
+msgstr ""
+
+msgctxt "500_Honoka"
+msgid "Yeah, I win! Gotta try a little harder than that, Akiyama-san!"
+msgstr ""
+
+msgctxt "512_Honoka"
+msgid "Wow, I can't believe it's a draw! Next time I'm definitely gonna win!"
+msgstr ""
+
+msgctxt "536_Honoka"
+msgid ""
+"That was super fun! But I gotta get back to Osaka now. "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "584_Honoka"
+msgid ""
+"That was loads of fun! Gimme a call again sometime! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "644_Kaguya"
+msgid "You're amazing, Saejima-san! I really have to hand it to you."
+msgstr ""
+
+msgctxt "656_Kaguya"
+msgid "I win! Better luck next time, Saejima-san!"
+msgstr ""
+
+msgctxt "668_Kaguya"
+msgid ""
+"Wow, I can't believe it was that close! That really got my blood pumping "
+"good!"
+msgstr ""
+
+msgctxt "692_Kaguya"
+msgid ""
+"That was so much fun! I need to get back home now, though. "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "740_Kaguya"
+msgid ""
+"That was so much fun! Please give me a call again sometime! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "800_Shion"
+msgid "Shinada-san, you're so good at this! You definitely have my admiration."
+msgstr ""
+
+msgctxt "812_Shion"
+msgid "Oh, I win! I knew I wouldn't lose to you, Shinada-san."
+msgstr ""
+
+msgctxt "824_Shion"
+msgid ""
+"How remarkable that we managed to have a draw! I'll be sure to win next "
+"time, though!"
+msgstr ""
+
+msgctxt "848_Shion"
+msgid ""
+"That was so much fun! I must be on my way back to Nagoya, now. "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "896_Shion"
+msgid ""
+"That was so much fun! Please do call me again sometime! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "956_Hinata"
+msgid "You're really good at that, Kiryu-san! I'm kind of surprised!"
+msgstr ""
+
+msgctxt "968_Hinata"
+msgid "Yay, I win! Looks like you have to practice some more, Kiryu-san!"
+msgstr ""
+
+msgctxt "980_Hinata"
+msgid "Wow, I can't believe it was a tie! But I'm gonna win next time!"
+msgstr ""
+
+msgctxt "992_Hinata"
+msgid ""
+"That was super fun! Ask me out again sometime! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1076_Player"
+msgid "A single game of pool will be 800 yen."
+msgstr ""
+
+msgctxt "1088_Player"
+msgid ""
+"Puzzle Pool is a fun and simple game for one player.\r\n"
+"You'll be faced with various table setups, the goal being to sink a target "
+"ball into the designated pocket in a single shot."
+msgstr ""
+
+msgctxt "1100_Player"
+msgid ""
+"There are 8 stages in total and you can attempt one stage per play.\r\n"
+"The game starts at Stage 1 and advances to the next when cleared.\r\n"
+"\r\n"
+"You have five attempts per game."
+msgstr ""
+
+msgctxt "1112_Player"
+msgid ""
+"Hit the cue ball (white) in order to sink the target ball (red) into the "
+"designated pocket.\r\n"
+"\r\n"
+"If you don't sink it in one shot, or sink it in the wrong pocket, you will "
+"lose one attempt."
+msgstr ""
+
+msgctxt "1124_Player"
+msgid ""
+"You also lose an attempt if the cue ball hits a foul ball (black).\r\n"
+"You will clear the stage if you can pocket the target ball before you run "
+"out of attempts."
+msgstr ""
+
+msgctxt "1136_Player"
+msgid ""
+"It is not a foul if the cue ball or target ball hits an assist ball "
+"(yellow).\r\n"
+"You do not need to sink assist balls. Try using assist balls if you are "
+"stuck on a shot－it may be the very key to your success."
+msgstr ""
+
+msgctxt "1160_Player"
+msgid "(I'm broke.)"
+msgstr ""
+
+msgctxt "1196_Player"
+msgid "Very well, sir. By the way, are you familiar with Puzzle Pool?"
+msgstr ""
+
+msgctxt "1208_Player"
+msgid "Puzzle Pool?"
+msgstr ""
+
+msgctxt "1220_Staff"
+msgid ""
+"It's a single-player version of pool. It's a fun and simple game that even "
+"inexperienced players can enjoy."
+msgstr ""
+
+msgctxt "1232_Staff"
+msgid ""
+"The goal is to sink a target ball into the designated pocket with a single "
+"shot, on a table set up with different challenges."
+msgstr ""
+
+msgctxt "1244_Player"
+msgid "Ah, I see."
+msgstr ""
+
+msgctxt "1256_Staff"
+msgid "I highly recommend giving it a try at least once, sir."
+msgstr ""
+
+msgctxt "1268_Staff"
+msgid "Enjoy, sir."
+msgstr ""
+
+msgctxt "1280_Player"
+msgid "Very well, sir. One of our staff can go over the rules in more detail."
+msgstr ""
+
+msgctxt "1304_Staff"
+msgid "Very well, sir. One of our staff can go over the rules in more detail."
+msgstr ""
+
+msgctxt "1328_Staff"
+msgid "I see. Please come again."
+msgstr ""
+
+msgctxt "1352_Player"
+msgid "(Who should I call?)"
+msgstr ""
+
+msgctxt "1376_Player"
+msgid "(I'll call up Riku.)"
+msgstr ""
+
+msgctxt "1460_Riku"
+msgid ""
+"Y'gotta be kiddin' me! Y'called me all the way out to Tokyo just to play "
+"some pool!?"
+msgstr ""
+
+msgctxt "1472_Player"
+msgid ""
+"Well, you can do some sightseeing before you head back, too. Shall we get "
+"started?"
+msgstr ""
+
+msgctxt "1484_Riku"
+msgid "Sorry to keep y'waiting! Go easy on me, okay?"
+msgstr ""
+
+msgctxt "1496_Player"
+msgid "Sure. Shall we get started?"
+msgstr ""
+
+msgctxt "1520_Player"
+msgid "(Guess I'll give Kaguya a call.)"
+msgstr ""
+
+msgctxt "1604_Kaguya"
+msgid ""
+"Going into work is enough of a pain as it is, but you go and call me all "
+"the way out here to Tokyo!? Unbelievable!"
+msgstr ""
+
+msgctxt "1616_Player"
+msgid "Didn't expect ya'd actually come..."
+msgstr ""
+
+msgctxt "1628_Kaguya"
+msgid ""
+"Sorry to keep you waiting! I used to come here all the time back when I was "
+"working in Tokyo."
+msgstr ""
+
+msgctxt "1640_Player"
+msgid "That so? Well, wanna get goin'?"
+msgstr ""
+
+msgctxt "1664_Player"
+msgid "(I should give Honoka-chan a call.)"
+msgstr ""
+
+msgctxt "1748_Honoka"
+msgid ""
+"Ya called up a student who's busy lookin' for a job all the way out in "
+"Osaka, just to play pool? If this is a joke, I ain't laughin'."
+msgstr ""
+
+msgctxt "1760_Player"
+msgid "My deepest apologies."
+msgstr ""
+
+msgctxt "1772_Honoka"
+msgid ""
+"Sorry for the wait! <Color:255,200,200,255>♥<Color:Default> I shoulda "
+"figured ya were a pool-playing sorta guy, Akiyama-san!"
+msgstr ""
+
+msgctxt "1784_Player"
+msgid "Want to get started?"
+msgstr ""
+
+msgctxt "1808_Player"
+msgid "(Maybe I should give Shion-chan a call.)"
+msgstr ""
+
+msgctxt "1892_Shion"
+msgid ""
+"It really is rather rude to make me come all the way from Nagoya for this, "
+"you know. Honestly, it's not like I don't have anything better to do."
+msgstr ""
+
+msgctxt "1904_Player"
+msgid "Yeah, sorry about that! I guess the travel costs must've been rough, too."
+msgstr ""
+
+msgctxt "1916_Shion"
+msgid ""
+"Apologies for keeping you waiting. You play pool as well, Shinada-san? Oh, "
+"how delightful!"
+msgstr ""
+
+msgctxt "1928_Player"
+msgid "Heheh. Let's get started!"
+msgstr ""
+
+msgctxt "1964_Player"
+msgid "(I'll call up Hinata.)"
+msgstr ""
+
+msgctxt "2036_Hinata"
+msgid ""
+"Sorry for the wait! <Color:255,200,200,255>♥<Color:Default> You play pool, "
+"Kiryu-san? I'm sort of impressed."
+msgstr ""
+
+msgctxt "2048_Player"
+msgid "Shall we get started?"
+msgstr ""
+
+msgctxt "2072_Player"
+msgid "(I should call up Hinata-chan.)"
+msgstr ""
+
+msgctxt "2132_Hinata"
+msgid "Temp) Sorry for the wait!"
+msgstr ""
+
+msgctxt "2144_Player"
+msgid "No problem. Want to get started?"
+msgstr ""

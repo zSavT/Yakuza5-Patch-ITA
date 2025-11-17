@@ -1,0 +1,87 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "100"
+msgid "You presented the Underground Casino Pass."
+msgstr "Hai presentato il Pass per il Casinò Sotterraneo."
+
+msgctxt "2616"
+msgid "Bartender"
+msgstr "Barista"
+
+msgctxt "2620"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "2624"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2628"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "2632"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "76_Bartender"
+msgid "You again."
+msgstr "Ancora tu."
+
+msgctxt "88_Saejima"
+msgid "Does this get me into the casino?"
+msgstr "È questo che mi fa entrare al casinò?"
+
+msgctxt "112_Bartender"
+msgid "Yup, you're good."
+msgstr "Sì, sei a posto."
+
+msgctxt "124_Bartender"
+msgid "Have a good time."
+msgstr "Divertiti."
+
+msgctxt "160_Bartender"
+msgid "Welcome."
+msgstr "Benvenuto."
+
+msgctxt "172_Bartender"
+msgid "Welcome."
+msgstr "Benvenuto."
+
+msgctxt "184_Saejima"
+msgid "How do I get into the casino?"
+msgstr "Come entro nel casinò?"
+
+msgctxt "196_Bartender"
+msgid "I don't know what you mean. This is a bar."
+msgstr "Non capisco cosa intendi. Questo è un bar."
+
+msgctxt "208_Saejima"
+msgid "Yeah, shoulda figured ya'd want a tip. How much?"
+msgstr "Già, dovevo immaginarmi che volevi una mancia. Quanto?"
+
+msgctxt "220_Bartender"
+msgid ""
+"I really have no idea what you're talking about. There's no gambling here. "
+"If it's a <Italic>drink</Italic> you want, I can do that. We are a bar, you "
+"know."
+msgstr ""
+"Non ho davvero idea di cosa tu stia parlando. Qui non c'è nessun gioco "
+"d'azzardo. Se è un <Italic>drink</Italic> quello che vuoi, posso fartelo. "
+"Siamo un bar, sai."
+
+msgctxt "232_Saejima"
+msgid "(He's not bitin'. What's up with this?)"
+msgstr "(Non abbocca. Che storia è questa?)"

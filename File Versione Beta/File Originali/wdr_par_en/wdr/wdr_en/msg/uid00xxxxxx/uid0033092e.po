@@ -1,0 +1,476 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1044"
+msgid "You got <Color:8>50,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "16640"
+msgid "Haruo"
+msgstr ""
+
+msgctxt "16644"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "16648"
+msgid "Give It a Try"
+msgstr ""
+
+msgctxt "16652"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "16656"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "16660"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "16664"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "16668"
+msgid "I'm ready."
+msgstr ""
+
+msgctxt "16672"
+msgid "Not yet."
+msgstr ""
+
+msgctxt "16676"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "16680"
+msgid "Akihiko"
+msgstr ""
+
+msgctxt "16684"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "16688"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "16692"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "16696"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "16700"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "16704"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "16708"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "16712"
+msgid "Talk_Get"
+msgstr ""
+
+msgctxt "16716"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "16720"
+msgid "Do Some Comedy"
+msgstr ""
+
+msgctxt "16724"
+msgid "Pass for Now"
+msgstr ""
+
+msgctxt "16728"
+msgid "Relationships"
+msgstr ""
+
+msgctxt "16732"
+msgid "Dreams"
+msgstr ""
+
+msgctxt "16736"
+msgid "Hobbies"
+msgstr ""
+
+msgctxt "16740"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "276_Haruo"
+msgid "Thanks for comin', Haruka-chan! Let's get back to auditioning for the show!"
+msgstr ""
+
+msgctxt "288_Haruka"
+msgid "Okay, I'll give it a shot. I'm a little nervous, but I'll do my best."
+msgstr ""
+
+msgctxt "300_Haruo"
+msgid "I know we can do this! Now, c'mon! Let's hustle to that event hall!"
+msgstr ""
+
+msgctxt "312_Haruka"
+msgid "Okay!"
+msgstr ""
+
+msgctxt "336_Haruka"
+msgid "Sorry, I'm not feeling confident enough yet."
+msgstr ""
+
+msgctxt "348_Haruo"
+msgid ""
+"I gotcha. I'm not gonna force ya or anything. If you change your mind, come "
+"on back again."
+msgstr ""
+
+msgctxt "360_Haruo"
+msgid ""
+"Thanks for comin', Haruka-chan! Let's go audition again. We gotta clear the "
+"second round!"
+msgstr ""
+
+msgctxt "372_Haruka"
+msgid "Okay, I'll give it a shot. I'm a little nervous, but I'll do my best."
+msgstr ""
+
+msgctxt "384_Haruo"
+msgid "I know we can do this! Now, c'mon! Let's hustle to that event hall!"
+msgstr ""
+
+msgctxt "396_Haruka"
+msgid "Okay!"
+msgstr ""
+
+msgctxt "420_Haruka"
+msgid "Sorry, I'm not feeling confident enough yet."
+msgstr ""
+
+msgctxt "432_Haruo"
+msgid ""
+"I gotcha. I'm not gonna force ya or anything. If you change your mind, come "
+"on back again."
+msgstr ""
+
+msgctxt "444_Haruo"
+msgid "We got some free time for now. Let's meet back here again later."
+msgstr ""
+
+msgctxt "456_Haruo"
+msgid ""
+"Like I told ya, next up is the final round. We've come this far, so I "
+"really wanna see it through till the end with ya, Haruka-chan."
+msgstr ""
+
+msgctxt "468_Haruo"
+msgid ""
+"It'd be awesome if you could help me out one last time. Sorry to keep "
+"askin' so much of ya, Haruka-chan."
+msgstr ""
+
+msgctxt "480_Haruka"
+msgid "Oh, don't worry about it. It's been a great experience."
+msgstr ""
+
+msgctxt "492_Haruo"
+msgid ""
+"I really appreciate ya sayin' that. There's still time to spare before the "
+"final round, so lemme know when you're ready."
+msgstr ""
+
+msgctxt "504_Haruo"
+msgid "I just need your help for one last round!"
+msgstr ""
+
+msgctxt "528_Haruo"
+msgid ""
+"Thanks for comin', Haruka-chan! It's time for the final round! Let's go do "
+"this!"
+msgstr ""
+
+msgctxt "540_Haruka"
+msgid "I'm ready! Let's give it our all!"
+msgstr ""
+
+msgctxt "564_Haruka"
+msgid "Sorry, I'm not feeling confident enough yet."
+msgstr ""
+
+msgctxt "576_Haruo"
+msgid ""
+"I gotcha. I'm not gonna force ya or anything. If you change your mind, come "
+"on back again."
+msgstr ""
+
+msgctxt "588_Haruo"
+msgid ""
+"Thanks for comin', Haruka-chan! Let's take another crack at the audition! "
+"We gotta see if we can pass the final round this time!"
+msgstr ""
+
+msgctxt "600_Haruka"
+msgid "Okay! Let's do our best!"
+msgstr ""
+
+msgctxt "624_Haruka"
+msgid "Sorry, I'm not feeling confident enough yet."
+msgstr ""
+
+msgctxt "636_Haruo"
+msgid ""
+"I gotcha. I'm not gonna force ya or anything. If you change your mind, come "
+"on back again."
+msgstr ""
+
+msgctxt "648_Haruo"
+msgid "We got some time to spare for now. Let's meet back here again later."
+msgstr ""
+
+msgctxt "660_Haruo"
+msgid ""
+"I been thinking, Haruka-chan. What would ya say to carryin' on as my "
+"partner?"
+msgstr ""
+
+msgctxt "672_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "684_Haruo"
+msgid ""
+"We got real chemistry as a team, and passin' this audition's bound to get "
+"us gigs on other TV shows, too."
+msgstr ""
+
+msgctxt "696_Haruka"
+msgid "But..."
+msgstr ""
+
+msgctxt "720_Haruo"
+msgid "Haruo! There ya are!"
+msgstr ""
+
+msgctxt "732_Haruo"
+msgid "Akihiko! What's up? I thought ya found yourself a job."
+msgstr ""
+
+msgctxt "744_Akihiko"
+msgid "Yeah, but I changed my mind."
+msgstr ""
+
+msgctxt "756_Haruo"
+msgid "Say what!?"
+msgstr ""
+
+msgctxt "768_Akihiko"
+msgid "I went to the job interview, but I pulled out at the last minute."
+msgstr ""
+
+msgctxt "780_Akihiko"
+msgid ""
+"They asked me what my goal was. I had a good, hard think about that one. "
+"What is it I really want outta life?"
+msgstr ""
+
+msgctxt "792_Akihiko"
+msgid ""
+"After 'bout three minutes of the ol' gears turnin', I told 'em all I wanna "
+"do is conquer the comedy world, then I up and left."
+msgstr ""
+
+msgctxt "804_Haruo"
+msgid "Man..."
+msgstr ""
+
+msgctxt "816_Akihiko"
+msgid ""
+"Sorry for what I did to ya, Haruo. I realized I really do wanna do comedy "
+"with ya. Will ya team up with me again?"
+msgstr ""
+
+msgctxt "828_Haruo"
+msgid "Say what!?"
+msgstr ""
+
+msgctxt "840_Akihiko"
+msgid "Come on! We'll crush it together!"
+msgstr ""
+
+msgctxt "852_Haruo"
+msgid "......"
+msgstr ""
+
+msgctxt "864_Haruka"
+msgid "Congratulations on getting the team back together!"
+msgstr ""
+
+msgctxt "876_Haruo"
+msgid "Haruka-chan?"
+msgstr ""
+
+msgctxt "888_Akihiko"
+msgid "Huh? Who's this cutie?"
+msgstr ""
+
+msgctxt "900_Haruka"
+msgid "My name is Haruka-chan. Nice to meet you. I'm one of Haruo's fans."
+msgstr ""
+
+msgctxt "912_Haruo"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "924_Akihiko"
+msgid "For real!? That's awesome!"
+msgstr ""
+
+msgctxt "936_Haruka"
+msgid ""
+"I'll be rooting for you, Haruo. I know one day you're going to rock the "
+"comedy world."
+msgstr ""
+
+msgctxt "948_Haruo"
+msgid "Yeah... Yeah!"
+msgstr ""
+
+msgctxt "960_Haruo"
+msgid ""
+"I guess comedians and pop idols live in two different worlds. We gotta walk "
+"our own paths."
+msgstr ""
+
+msgctxt "972_Akihiko"
+msgid "What're ya talkin' about? Idols?"
+msgstr ""
+
+msgctxt "984_Haruo"
+msgid "Nah, never mind."
+msgstr ""
+
+msgctxt "996_Haruo"
+msgid "Anyway, whatever! We're a team again. Let's make this happen!"
+msgstr ""
+
+msgctxt "1008_Akihiko"
+msgid "Thanks, Haruo!"
+msgstr ""
+
+msgctxt "1020_Haruo"
+msgid ""
+"I guess this is goodbye, Haruka-chan. Maybe we'll run into each other on a "
+"TV show someday."
+msgstr ""
+
+msgctxt "1032_Haruo"
+msgid ""
+"This's your share of the audition prize money.\r\n"
+"Take it, Haruka-chan."
+msgstr ""
+
+msgctxt "1056_Haruka"
+msgid ""
+"Thank you. This was a great experience for me. Comedy is pretty "
+"interesting. I'd love to give it another shot sometime."
+msgstr ""
+
+msgctxt "1068_Haruo"
+msgid ""
+"Glad to hear it! Oh, yeah. If ya ever feel like doin' some comedy again, "
+"just let me know."
+msgstr ""
+
+msgctxt "1080_Haruo"
+msgid ""
+"You'll usually find me 'round these parts. No more auditions for us, but "
+"that don't mean we can't practice our comedy routine together."
+msgstr ""
+
+msgctxt "1092_Haruo"
+msgid ""
+"All right, Akihiko. Let's set course for the stars! We can talk over some "
+"joke ideas in the park over there!"
+msgstr ""
+
+msgctxt "1104_Akihiko"
+msgid "Yeah! Let's ready up for the next audition!"
+msgstr ""
+
+msgctxt "1116_Haruo"
+msgid "Yep! We'll pass it this time, too!"
+msgstr ""
+
+msgctxt "1128_Akihiko"
+msgid "Whaddya mean, \"this time, too\"?"
+msgstr ""
+
+msgctxt "1152_Haruo"
+msgid ""
+"Nothin' beats good comedy! Just say the word if ya ever feel like doin' "
+"some more!"
+msgstr ""
+
+msgctxt "1164_Haruo"
+msgid "Hey, Haruka-chan! Feel like practicin' your comedy with me?"
+msgstr ""
+
+msgctxt "1176_Haruka"
+msgid "Yes, that'd be great."
+msgstr ""
+
+msgctxt "1188_Haruo"
+msgid "All right! Which topic'll we go with?"
+msgstr ""
+
+msgctxt "1200_Haruka"
+msgid "Let's try relationships."
+msgstr ""
+
+msgctxt "1212_Haruo"
+msgid "Okay! Let's head to the practice area and give it a shot!"
+msgstr ""
+
+msgctxt "1236_Haruka"
+msgid "Let's try dreams."
+msgstr ""
+
+msgctxt "1248_Haruo"
+msgid "Okay! Let's head to the practice area and give it a shot!"
+msgstr ""
+
+msgctxt "1272_Haruka"
+msgid "Let's try hobbies."
+msgstr ""
+
+msgctxt "1284_Haruo"
+msgid "Okay! Let's head to the practice area and give it a shot!"
+msgstr ""
+
+msgctxt "1308_Haruka"
+msgid "Sorry, I think I'll pass, actually."
+msgstr ""
+
+msgctxt "1320_Haruo"
+msgid "Gotcha. Well, if you ever get the urge, say the word."
+msgstr ""

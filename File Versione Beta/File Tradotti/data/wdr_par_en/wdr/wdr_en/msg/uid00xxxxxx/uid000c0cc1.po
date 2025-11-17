@@ -1,0 +1,273 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "9468"
+msgid "Magutako Manager"
+msgstr "Manager del Magutako"
+
+msgctxt "9472"
+msgid "Eat Some Takoyaki"
+msgstr "Mangiate del Takoyaki"
+
+msgctxt "9476"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "9480"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "9484"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "9488"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "9492"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "9496"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "9500"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "9504"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "9508"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "9512"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "9516"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "9520"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "9524"
+msgid "Owner"
+msgstr "Proprietario"
+
+msgctxt "9528"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "92_Magutako Manager"
+msgid ""
+"Hey there, Haruka-chan. How about havin' some of our pipin' hot takoyaki "
+"now? For you, it's free! Don't be shy now."
+msgstr ""
+"Ehi, Haruka-chan. Che ne dici di assaggiare un po' dei nostri takoyaki "
+"fumanti, adesso? Per te, sono gratis! Non fare la timida, eh."
+
+msgctxt "104_Magutako Manager"
+msgid "Not right now, thank you, but definitely next time!"
+msgstr "Adesso no, grazie, ma la prossima volta non manco di certo!"
+
+msgctxt "116_Magutako Manager"
+msgid "Ya promise? I'll be waitin' for ya!"
+msgstr "Me lo prometti? Ti aspetto!"
+
+msgctxt "128_Magutako Manager"
+msgid "All right. I'll have a little taste."
+msgstr "Ok. Ne assaggio un po'."
+
+msgctxt "140_Magutako Manager"
+msgid ""
+"Attagirl! Here ya go. Real Magutako takoyaki! Nothin' screams Osaka more'n "
+"these juicy bites of octopus, lemme tell ya!"
+msgstr ""
+"Brava! Ecco a voi. I veri takoyaki Magutako! Niente urla 'Osaka' più di "
+"questi bocconcini succosi di polpo, te lo dico io!"
+
+msgctxt "152_Haruka"
+msgid "Thank you very much."
+msgstr "Grazie mille."
+
+msgctxt "212_Haruka"
+msgid "Phew! It's hot!"
+msgstr "Uff! Fa caldo!"
+
+msgctxt "224_Magutako Manager"
+msgid "So, whaddya think? Good, huh?"
+msgstr "Allora, che ne dici? Bello, no?"
+
+msgctxt "236_Haruka"
+msgid "Mmm! It really is! It's delicious!"
+msgstr "Mmm! Lo è davvero! È buonissimo!"
+
+msgctxt "248_Magutako Manager"
+msgid ""
+"See? Told ya! Best in the city, if I do say so myself. I just can't figure "
+"out why people ain't linin' up to come get it!"
+msgstr ""
+"Visto? Te l'avevo detto! È il migliore in città, modestamente. Non riesco "
+"proprio a capire perché la gente non si metta in fila per prenderlo!"
+
+msgctxt "260_Magutako Manager"
+msgid ""
+"Maybe I gotta advertise more, or spruce up my stand or somethin'? I tell ya,"
+" I'm stumped!"
+msgstr ""
+"Magari dovrei farmi più pubblicità, o dare una bella sistemata al mio "
+"chiosco o roba del genere? Guarda, non so più che pesci pigliare!"
+
+msgctxt "272_Haruka"
+msgid "If only people would try a bite, they'd be hooked, I'm sure."
+msgstr ""
+"Se solo la gente provasse un boccone, ci prenderebbe subito gusto, ne sono "
+"sicura."
+
+msgctxt "284_Magutako Manager"
+msgid "Ya think so? That's awfully kind of ya to say. Thank you, Haruka-chan!"
+msgstr ""
+"Dici davvero? È davvero un tesoro da parte tua dirlo. Grazie, Haruka-chan!"
+
+msgctxt "296_Magutako Manager"
+msgid "Hey, if ya ever get a chance, maybe you can talk this place up on TV!"
+msgstr ""
+"Senti, se mai ti capita l'occasione, magari potresti farci un po' di "
+"pubblicità in TV!"
+
+msgctxt "308_Haruka"
+msgid ""
+"Oh, I don't know. I don't get many chances to say whatever I want on TV..."
+msgstr ""
+"Ah, non saprei. Non ho molte occasioni di dire quello che mi pare in TV..."
+
+msgctxt "320_Magutako Manager"
+msgid ""
+"Ha ha! I was just pullin' your leg. You're an idol, after all. It's not like"
+" you're a comedian or anything!"
+msgstr ""
+"Ah ah! Ti stavo solo prendendo in giro. Sei un'idol, dopotutto. Non è che "
+"sei una comica o qualcosa del genere!"
+
+msgctxt "332_Haruka"
+msgid "I'm sorry."
+msgstr "Mi dispiace."
+
+msgctxt "344_Magutako Manager"
+msgid ""
+"Hey, I know! Wanna be my \"manager for a day\"? If you'd do that for me, I "
+"can't tell ya how much I'd appreciate it!"
+msgstr ""
+"Ehi, mi è venuta un'idea! Che ne diresti di farmi da \"manager per un "
+"giorno\"? Se mi dessi una mano, non ti dico quanto te ne sarei grata!"
+
+msgctxt "356_Haruka"
+msgid "Manager for a day? What would I do?"
+msgstr "Responsabile per un giorno? Che dovrei fare?"
+
+msgctxt "368_Magutako Manager"
+msgid ""
+"Hmm. I dunno. Just stand in front of the shop, maybe? That oughta do the "
+"trick!"
+msgstr ""
+"Mmm. Boh, non so. Mettiti lì davanti al negozio, magari? Dovrebbe bastare!"
+
+msgctxt "380_Haruka"
+msgid "You really think that'll get customers to buy takoyaki?"
+msgstr "Ma davvero pensi che così i clienti compreranno takoyaki?"
+
+msgctxt "392_Magutako Manager"
+msgid ""
+"Hell yeah it would! I know I'd stop for some takoyaki if a cute idol like "
+"you was hawkin' it!"
+msgstr ""
+"Diavolo, se lo farei! So che mi fermerei per dei takoyaki se un'idol carina "
+"come te li stesse piazzando!"
+
+msgctxt "404_Haruka"
+msgid "Well, then... How about a handshake event?"
+msgstr "Dunque... Che ne dici di un evento di stretta di mano?"
+
+msgctxt "416_Haruka"
+msgid "I can shake hands with people who buy some takoyaki."
+msgstr "Posso stringere la mano a chi compra dei takoyaki."
+
+msgctxt "428_Magutako Manager"
+msgid "Huh? You'd really do that for me?"
+msgstr "Eh? Lo faresti davvero per me?"
+
+msgctxt "440_Haruka"
+msgid ""
+"Of course! Oh, but wait. I'd better check with my agency to make sure it's "
+"all right. I don't think they'll have any objections, though."
+msgstr ""
+"Certo! Oh, ma aspetta un attimo. È meglio che controlli con la mia agenzia "
+"per essere sicura che sia tutto a posto. Non credo che avranno obiezioni, "
+"però."
+
+msgctxt "452_Magutako Manager"
+msgid "It'd be awesome if ya could!"
+msgstr "Sarebbe il massimo se potessi!"
+
+msgctxt "500_Magutako Manager"
+msgid ""
+"They said yes. They thought it was a great idea to help out a local "
+"business."
+msgstr ""
+"Hanno detto di sì. Hanno pensato che fosse una gran bella idea dare una mano"
+" a un'attività locale."
+
+msgctxt "512_Magutako Manager"
+msgid ""
+"They did!? That's fantastic! I'll start gettin' ready right away, then!"
+msgstr "L'hanno fatto!? È fantastico! Mi preparo subito, allora!"
+
+msgctxt "524_Haruka"
+msgid "And I'll change into my work outfit!"
+msgstr "E mi metto la mia tenuta da lavoro!"
+
+msgctxt "560_Owner"
+msgid "Hi! Welcome! Get yer pipin' hot takoyaki here!"
+msgstr "Ciao! Benvenuti! Takoyaki fumanti, venite a prenderli!"
+
+msgctxt "572_Player"
+msgid "(Magutako, huh? Maybe I can tell Tatsuya about this place.)"
+msgstr "(Magutako, eh? Forse potrei parlare a Tatsuya di questo posto.)"
+
+msgctxt "596_Owner"
+msgid "Thank you kindly! Come again, y'hear?"
+msgstr "Grazie mille! Tornate a trovarci, mi raccomando!"
+
+msgctxt "608_Owner"
+msgid "Ah, well! Buy somethin' next time, y'hear?"
+msgstr "Ah, beh! Compra qualcosa la prossima volta, mi raccomando!"
+
+msgctxt "620_Owner"
+msgid "Hi! Welcome! Get yer pipin' hot takoyaki here!"
+msgstr "Ciao! Benvenuti! Takoyaki fumanti, venite a prenderli!"
+
+msgctxt "644_Owner"
+msgid "Thank you kindly! Come again, hear?"
+msgstr "Mille grazie! Passi a trovarci ancora, mi raccomando!"
+
+msgctxt "656_Owner"
+msgid "Ah, well! Buy somethin' next time, y'hear?"
+msgstr "Ah, beh! Compra qualcosa la prossima volta, mi raccomando!"

@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1848"
+msgid "Player"
+msgstr ""
+
+msgctxt "1852"
+msgid "Start Fishing"
+msgstr ""
+
+msgctxt "1856"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "1860"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "60_Player"
+msgid "(It looks like I could fish here. Maybe I'll drop a line in for a bit.)"
+msgstr ""
+
+msgctxt "84_Player"
+msgid "(Okay, let's give it a go!)"
+msgstr ""
+
+msgctxt "108_Player"
+msgid "(I don't have any bait to use.)"
+msgstr ""
+
+msgctxt "120_Player"
+msgid "(I guess I'll come back later.)"
+msgstr ""
+
+msgctxt "132_Player"
+msgid "(This spot could work for fishing. I might drop a line in for a while.)"
+msgstr ""
+
+msgctxt "156_Player"
+msgid "(Okay, let's give it a try.)"
+msgstr ""
+
+msgctxt "180_Player"
+msgid "(I don't have anything to use for bait.)"
+msgstr ""
+
+msgctxt "192_Player"
+msgid "(Maybe some other time.)"
+msgstr ""

@@ -1,0 +1,1820 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1076"
+msgid "You handed over the <Color:8>Mystery Envelope<Color:Default>."
+msgstr ""
+
+msgctxt "2192"
+msgid "You handed over <Color:8>Mystery Item<Color:Default>."
+msgstr ""
+
+msgctxt "2432"
+msgid "You got <Color:8>Mystery Item<Color:Default>."
+msgstr ""
+
+msgctxt "60556"
+msgid "Kugihara"
+msgstr ""
+
+msgctxt "60560"
+msgid "adv2_100/kugihara_0005"
+msgstr ""
+
+msgctxt "60564"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "60568"
+msgid "adv2_100/saejima_0150"
+msgstr ""
+
+msgctxt "60572"
+msgid "kaiwabgm_fuon05"
+msgstr ""
+
+msgctxt "60576"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "60580"
+msgid "adv2_100/kugihara_0006a"
+msgstr ""
+
+msgctxt "60584"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "60588"
+msgid "adv2_100/kugihara_0006b"
+msgstr ""
+
+msgctxt "60592"
+msgid "adv2_100/saejima_0151"
+msgstr ""
+
+msgctxt "60596"
+msgid "C2100_P_SAE_nomi_kamae"
+msgstr ""
+
+msgctxt "60600"
+msgid "C2100_P_SAE_pickup_nomi"
+msgstr ""
+
+msgctxt "60604"
+msgid "adv2_100/kugihara_0007a"
+msgstr ""
+
+msgctxt "60608"
+msgid "adv2_100/kugihara_0007b"
+msgstr ""
+
+msgctxt "60612"
+msgid "adv2_100/saejima_0152a"
+msgstr ""
+
+msgctxt "60616"
+msgid "C2100_P_SAE_nomi_yes"
+msgstr ""
+
+msgctxt "60620"
+msgid "adv2_100/saejima_0152b"
+msgstr ""
+
+msgctxt "60624"
+msgid "C2100_P_SAE_nomi_aiduti"
+msgstr ""
+
+msgctxt "60628"
+msgid "adv2_100/kugihara_0008"
+msgstr ""
+
+msgctxt "60632"
+msgid "adv2_100/saejima_0153a"
+msgstr ""
+
+msgctxt "60636"
+msgid "adv2_100/saejima_0153b"
+msgstr ""
+
+msgctxt "60640"
+msgid "adv2_100/kugihara_0009a"
+msgstr ""
+
+msgctxt "60644"
+msgid "adv2_100/kugihara_0009b"
+msgstr ""
+
+msgctxt "60648"
+msgid "adv2_100/saejima_0154"
+msgstr ""
+
+msgctxt "60652"
+msgid "P_SAE_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "60656"
+msgid "C2100_P_SAE_receive_nomi"
+msgstr ""
+
+msgctxt "60660"
+msgid "Himura"
+msgstr ""
+
+msgctxt "60664"
+msgid "adv2_100/himura_0088"
+msgstr ""
+
+msgctxt "60668"
+msgid "adv2_100/kugihara_0010a"
+msgstr ""
+
+msgctxt "60672"
+msgid "adv2_100/kugihara_0010b"
+msgstr ""
+
+msgctxt "60676"
+msgid "adv2_100/saejima_0155"
+msgstr ""
+
+msgctxt "60680"
+msgid "adv2_100/kugihara_0011"
+msgstr ""
+
+msgctxt "60684"
+msgid "adv2_100/saejima_0156"
+msgstr ""
+
+msgctxt "60688"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "60692"
+msgid "adv2_100/kugihara_0012a"
+msgstr ""
+
+msgctxt "60696"
+msgid "adv2_100/kugihara_0012b"
+msgstr ""
+
+msgctxt "60700"
+msgid "adv2_100/saejima_0157"
+msgstr ""
+
+msgctxt "60704"
+msgid "adv2_100/kugihara_0013a"
+msgstr ""
+
+msgctxt "60708"
+msgid "adv2_100/kugihara_0013b"
+msgstr ""
+
+msgctxt "60712"
+msgid "adv2_100/kugihara_0014"
+msgstr ""
+
+msgctxt "60716"
+msgid "adv2_100/kugihara_0015a"
+msgstr ""
+
+msgctxt "60720"
+msgid "adv2_100/kugihara_0015b"
+msgstr ""
+
+msgctxt "60724"
+msgid "2d_yk_2100_kugihara02"
+msgstr ""
+
+msgctxt "60728"
+msgid "adv2_100/kugihara_0015c"
+msgstr ""
+
+msgctxt "60732"
+msgid "adv2_100/kugihara_0015d"
+msgstr ""
+
+msgctxt "60736"
+msgid "2d_yk_2100_kugihara01"
+msgstr ""
+
+msgctxt "60740"
+msgid "adv2_100/kugihara_0015e"
+msgstr ""
+
+msgctxt "60744"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "60748"
+msgid "P_SAE_TLK_stand_udekumi_lp"
+msgstr ""
+
+msgctxt "60752"
+msgid "Oshima"
+msgstr ""
+
+msgctxt "60756"
+msgid "adv2_090_10/oshima_2_090_030"
+msgstr ""
+
+msgctxt "60760"
+msgid "P_SAE_TLK_stand_udekumi_ed"
+msgstr ""
+
+msgctxt "60764"
+msgid "adv2_090_10/saejima_2_090_060"
+msgstr ""
+
+msgctxt "60768"
+msgid "adv2_090_10/oshima_2_090_040"
+msgstr ""
+
+msgctxt "60772"
+msgid "adv2_090_10/saejima_2_090_070"
+msgstr ""
+
+msgctxt "60776"
+msgid "adv2_090_10/oshima_2_090_050"
+msgstr ""
+
+msgctxt "60780"
+msgid "adv2_090_10/himura_2_090_070"
+msgstr ""
+
+msgctxt "60784"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "60788"
+msgid "adv2_090_10/oshima_2_090_060"
+msgstr ""
+
+msgctxt "60792"
+msgid "adv2_090_10/himura_2_090_080"
+msgstr ""
+
+msgctxt "60796"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "60800"
+msgid "adv2_090_10/oshima_2_090_070"
+msgstr ""
+
+msgctxt "60804"
+msgid "adv2_090_10/himura_2_090_090"
+msgstr ""
+
+msgctxt "60808"
+msgid "adv2_090_10/himura_2_090_100"
+msgstr ""
+
+msgctxt "60812"
+msgid "adv2_090_10/oshima_2_090_080"
+msgstr ""
+
+msgctxt "60816"
+msgid "adv2_090_10/himura_2_090_110"
+msgstr ""
+
+msgctxt "60820"
+msgid "adv2_090_10/oshima_2_090_090"
+msgstr ""
+
+msgctxt "60824"
+msgid "adv2_090_10/saejima_2_090_080"
+msgstr ""
+
+msgctxt "60828"
+msgid "adv2_090_10/oshima_2_090_100"
+msgstr ""
+
+msgctxt "60832"
+msgid "adv2_090_10/saejima_2_090_090"
+msgstr ""
+
+msgctxt "60836"
+msgid "Prison Guard"
+msgstr ""
+
+msgctxt "60840"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "60844"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "60848"
+msgid "adv2_090_8/oshima_2_090_020"
+msgstr ""
+
+msgctxt "60852"
+msgid "adv2_090_8/saejima_2_090_050"
+msgstr ""
+
+msgctxt "60856"
+msgid "adv2_090_8/oshima_0069"
+msgstr ""
+
+msgctxt "60860"
+msgid "adv2_090_8/himura_0074"
+msgstr ""
+
+msgctxt "60864"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "60868"
+msgid "adv2_090_8/saejima_0142"
+msgstr ""
+
+msgctxt "60872"
+msgid "adv2_090_8/himura_0075a"
+msgstr ""
+
+msgctxt "60876"
+msgid "adv2_090_8/himura_0075b"
+msgstr ""
+
+msgctxt "60880"
+msgid "adv2_090_8/saejima_0143"
+msgstr ""
+
+msgctxt "60884"
+msgid "adv2_090_8/oshima_0070"
+msgstr ""
+
+msgctxt "60888"
+msgid "adv2_090_8/himura_0076"
+msgstr ""
+
+msgctxt "60892"
+msgid "adv2_090_8/oshima_0071"
+msgstr ""
+
+msgctxt "60896"
+msgid "adv2_090_8/himura_0077"
+msgstr ""
+
+msgctxt "60900"
+msgid "adv2_090_8/oshima_0072"
+msgstr ""
+
+msgctxt "60904"
+msgid "adv2_090_8/himura_0078a"
+msgstr ""
+
+msgctxt "60908"
+msgid "adv2_090_8/himura_0078b"
+msgstr ""
+
+msgctxt "60912"
+msgid "adv2_090_8/oshima_0073"
+msgstr ""
+
+msgctxt "60916"
+msgid "adv2_090_8/himura_0079"
+msgstr ""
+
+msgctxt "60920"
+msgid "adv2_090_8/oshima_0074"
+msgstr ""
+
+msgctxt "60924"
+msgid "adv2_090_8/himura_0080a"
+msgstr ""
+
+msgctxt "60928"
+msgid "adv2_090_8/himura_0080b"
+msgstr ""
+
+msgctxt "60932"
+msgid "adv2_090_8/saejima_0145"
+msgstr ""
+
+msgctxt "60936"
+msgid "adv2_090_8/oshima_0075"
+msgstr ""
+
+msgctxt "60940"
+msgid "adv2_090_8/himura_0081"
+msgstr ""
+
+msgctxt "60944"
+msgid "adv2_090_8/oshima_0076a"
+msgstr ""
+
+msgctxt "60948"
+msgid "adv2_090_8/oshima_0076b"
+msgstr ""
+
+msgctxt "60952"
+msgid "adv2_090_8/himura_0082"
+msgstr ""
+
+msgctxt "60956"
+msgid "adv2_090_8/oshima_0077a"
+msgstr ""
+
+msgctxt "60960"
+msgid "adv2_090_8/oshima_0077b"
+msgstr ""
+
+msgctxt "60964"
+msgid "adv2_090_8/himura_0083"
+msgstr ""
+
+msgctxt "60968"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "60972"
+msgid "adv2_090_8/oshima_0078"
+msgstr ""
+
+msgctxt "60976"
+msgid "adv2_090_8/himura_0084"
+msgstr ""
+
+msgctxt "60980"
+msgid "adv2_090_8/oshima_0079a"
+msgstr ""
+
+msgctxt "60984"
+msgid "adv2_090_8/oshima_0079b"
+msgstr ""
+
+msgctxt "60988"
+msgid "adv2_090_8/saejima_0146"
+msgstr ""
+
+msgctxt "60992"
+msgid "adv2_090_8/himura_0085a"
+msgstr ""
+
+msgctxt "60996"
+msgid "adv2_090_8/himura_0085b"
+msgstr ""
+
+msgctxt "61000"
+msgid "adv2_090_8/oshima_0080a"
+msgstr ""
+
+msgctxt "61004"
+msgid "adv2_090_8/oshima_0080b"
+msgstr ""
+
+msgctxt "61008"
+msgid "adv2_090_8/saejima_0147"
+msgstr ""
+
+msgctxt "61012"
+msgid "adv2_090_8/oshima_0081"
+msgstr ""
+
+msgctxt "61016"
+msgid "adv2_090_8/himura_0086"
+msgstr ""
+
+msgctxt "61020"
+msgid "adv2_090_8/saejima_0148"
+msgstr ""
+
+msgctxt "61024"
+msgid "adv2_090_8/himura_0087a"
+msgstr ""
+
+msgctxt "61028"
+msgid "adv2_090_8/himura_0087b"
+msgstr ""
+
+msgctxt "61032"
+msgid "adv2_090_8/himura_0087c"
+msgstr ""
+
+msgctxt "61036"
+msgid "adv2_090_8/saejima_0149"
+msgstr ""
+
+msgctxt "61040"
+msgid "dummy"
+msgstr ""
+
+msgctxt "61044"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "61048"
+msgid "0"
+msgstr ""
+
+msgctxt "61052"
+msgid "adv2_090_5/himura_2_090_010"
+msgstr ""
+
+msgctxt "61056"
+msgid "adv2_090_5/himura_2_090_020"
+msgstr ""
+
+msgctxt "61060"
+msgid "adv2_090_5/himura_2_090_030"
+msgstr ""
+
+msgctxt "61064"
+msgid "adv2_090_5/oshima_0053"
+msgstr ""
+
+msgctxt "61068"
+msgid "adv2_090_5/himura_0057"
+msgstr ""
+
+msgctxt "61072"
+msgid "adv2_090_5/saejima_0133"
+msgstr ""
+
+msgctxt "61076"
+msgid "adv2_090_5/himura_0058"
+msgstr ""
+
+msgctxt "61080"
+msgid "adv2_090_5/oshima_0054"
+msgstr ""
+
+msgctxt "61084"
+msgid "adv2_090_5/himura_0059"
+msgstr ""
+
+msgctxt "61088"
+msgid "adv2_090_5/oshima_0055"
+msgstr ""
+
+msgctxt "61092"
+msgid "adv2_090_5/himura_0060"
+msgstr ""
+
+msgctxt "61096"
+msgid "adv2_090_5/oshima_0056"
+msgstr ""
+
+msgctxt "61100"
+msgid "adv2_090_5/himura_0061a"
+msgstr ""
+
+msgctxt "61104"
+msgid "adv2_090_5/himura_0061b"
+msgstr ""
+
+msgctxt "61108"
+msgid "adv2_090_5/oshima_0057"
+msgstr ""
+
+msgctxt "61112"
+msgid "adv2_090_5/saejima_0134"
+msgstr ""
+
+msgctxt "61116"
+msgid "adv2_090_5/oshima_0058"
+msgstr ""
+
+msgctxt "61120"
+msgid "adv2_090_5/himura_0062a"
+msgstr ""
+
+msgctxt "61124"
+msgid "adv2_090_5/himura_0062b"
+msgstr ""
+
+msgctxt "61128"
+msgid "adv2_090_5/oshima_0059"
+msgstr ""
+
+msgctxt "61132"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "61136"
+msgid "adv2_090_5/himura_0063"
+msgstr ""
+
+msgctxt "61140"
+msgid "adv2_090_5/oshima_0060"
+msgstr ""
+
+msgctxt "61144"
+msgid "adv2_090_5/himura_0064a"
+msgstr ""
+
+msgctxt "61148"
+msgid "adv2_090_5/himura_0064b"
+msgstr ""
+
+msgctxt "61152"
+msgid "adv2_090_5/saejima_0136"
+msgstr ""
+
+msgctxt "61156"
+msgid "adv2_090_5/himura_0065a"
+msgstr ""
+
+msgctxt "61160"
+msgid "adv2_090_5/himura_0065b"
+msgstr ""
+
+msgctxt "61164"
+msgid "adv2_090_5/himura_0065c"
+msgstr ""
+
+msgctxt "61168"
+msgid "adv2_090_5/saejima_0137"
+msgstr ""
+
+msgctxt "61172"
+msgid "adv2_090_5/oshima_0061"
+msgstr ""
+
+msgctxt "61176"
+msgid "adv2_090_5/himura_0066a"
+msgstr ""
+
+msgctxt "61180"
+msgid "adv2_090_5/himura_0066b"
+msgstr ""
+
+msgctxt "61184"
+msgid "adv2_090_5/himura_0066c"
+msgstr ""
+
+msgctxt "61188"
+msgid "adv2_090_5/himura_0066d"
+msgstr ""
+
+msgctxt "61192"
+msgid "adv2_090_5/oshima_0062"
+msgstr ""
+
+msgctxt "61196"
+msgid "adv2_090_5/saejima_0138"
+msgstr ""
+
+msgctxt "61200"
+msgid "adv2_090_5/himura_0067a"
+msgstr ""
+
+msgctxt "61204"
+msgid "adv2_090_5/himura_0067b"
+msgstr ""
+
+msgctxt "61208"
+msgid "adv2_090_5/saejima_0139"
+msgstr ""
+
+msgctxt "61212"
+msgid "adv2_090_5/oshima_0063"
+msgstr ""
+
+msgctxt "61216"
+msgid "adv2_090_5/himura_0068"
+msgstr ""
+
+msgctxt "61220"
+msgid "adv2_090_5/oshima_0064"
+msgstr ""
+
+msgctxt "61224"
+msgid "adv2_090_5/himura_0069a"
+msgstr ""
+
+msgctxt "61228"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "61232"
+msgid "adv2_090_5/himura_0069b"
+msgstr ""
+
+msgctxt "61236"
+msgid "adv2_090_5/oshima_0065"
+msgstr ""
+
+msgctxt "61240"
+msgid "adv2_090_5/saejima_0140"
+msgstr ""
+
+msgctxt "61244"
+msgid "adv2_090_5/himura_0070a"
+msgstr ""
+
+msgctxt "61248"
+msgid "adv2_090_5/himura_0070b"
+msgstr ""
+
+msgctxt "61252"
+msgid "adv2_090_5/oshima_0066"
+msgstr ""
+
+msgctxt "61256"
+msgid "adv2_090_5/himura_0071a"
+msgstr ""
+
+msgctxt "61260"
+msgid "adv2_090_5/himura_0071b"
+msgstr ""
+
+msgctxt "61264"
+msgid "adv2_090_5/oshima_0067"
+msgstr ""
+
+msgctxt "61268"
+msgid "adv2_090_5/himura_0072a"
+msgstr ""
+
+msgctxt "61272"
+msgid "adv2_090_5/himura_0072b"
+msgstr ""
+
+msgctxt "61276"
+msgid "adv2_090_5/oshima_0068"
+msgstr ""
+
+msgctxt "61280"
+msgid "adv2_090_5/saejima_0141"
+msgstr ""
+
+msgctxt "61284"
+msgid "adv2_090_5/himura_0073"
+msgstr ""
+
+msgctxt "61288"
+msgid "adv2_090_5/saejima_2_090_020"
+msgstr ""
+
+msgctxt "61292"
+msgid "adv2_090_5/himura_2_090_040"
+msgstr ""
+
+msgctxt "61296"
+msgid "adv2_090_5/oshima_2_090_010"
+msgstr ""
+
+msgctxt "61300"
+msgid "adv2_090_5/himura_2_090_050"
+msgstr ""
+
+msgctxt "61304"
+msgid "adv2_090_5/saejima_2_090_030"
+msgstr ""
+
+msgctxt "61308"
+msgid "adv2_090_1/oshima_0050"
+msgstr ""
+
+msgctxt "61312"
+msgid "adv2_090_1/himura_0054"
+msgstr ""
+
+msgctxt "61316"
+msgid "adv2_090_1/oshima_0051a"
+msgstr ""
+
+msgctxt "61320"
+msgid "adv2_090_1/oshima_0051b"
+msgstr ""
+
+msgctxt "61324"
+msgid "adv2_090_1/himura_0055"
+msgstr ""
+
+msgctxt "61328"
+msgid "adv2_090_1/oshima_0052"
+msgstr ""
+
+msgctxt "61332"
+msgid "adv2_090_1/himura_0056a"
+msgstr ""
+
+msgctxt "61336"
+msgid "adv2_090_1/himura_0056b"
+msgstr ""
+
+msgctxt "61340"
+msgid "adv2_090_1/saejima_0132"
+msgstr ""
+
+msgctxt "61348"
+msgid "翌日……　昼・運動時間"
+msgstr ""
+
+msgctxt "61352"
+msgid "Shady Inmate"
+msgstr ""
+
+msgctxt "61356"
+msgid "adv2_030/kugihara_buka1_0001"
+msgstr ""
+
+msgctxt "61360"
+msgid "Baba"
+msgstr ""
+
+msgctxt "61364"
+msgid "adv2_030/baba_0014"
+msgstr ""
+
+msgctxt "61368"
+msgid "kaiwabgm_fuon04"
+msgstr ""
+
+msgctxt "61372"
+msgid "P_SAE_TLK_sitchr_kamae_ed"
+msgstr ""
+
+msgctxt "61376"
+msgid "adv2_030/saejima_0093"
+msgstr ""
+
+msgctxt "61380"
+msgid "adv2_030/kugihara_buka1_0002"
+msgstr ""
+
+msgctxt "61384"
+msgid "adv2_030/baba_0015"
+msgstr ""
+
+msgctxt "61388"
+msgid "adv2_030/saejima_0094"
+msgstr ""
+
+msgctxt "61392"
+msgid "adv2_030/kugihara_buka1_0003a"
+msgstr ""
+
+msgctxt "61396"
+msgid "adv2_030/kugihara_buka1_0003b"
+msgstr ""
+
+msgctxt "61400"
+msgid "adv2_030/saejima_0095"
+msgstr ""
+
+msgctxt "61404"
+msgid "adv2_030/kugihara_buka1_0004"
+msgstr ""
+
+msgctxt "296_Kugihara"
+msgid "Uh-oh, angry face! You maaad about something?"
+msgstr ""
+
+msgctxt "308_Saejima"
+msgid "It's me you want. You didn't need to drag Baba into this."
+msgstr ""
+
+msgctxt "320_Kugihara"
+msgid "Of course I did. He's the one who stabbed my boy!"
+msgstr ""
+
+msgctxt "332_Kugihara"
+msgid "Poor Owada, he'll be feeling that for the rest of his life."
+msgstr ""
+
+msgctxt "344_Saejima"
+msgid "You're gonna regret this."
+msgstr ""
+
+msgctxt "356_Kugihara"
+msgid "Whooooa, tough guy, what are you saying?"
+msgstr ""
+
+msgctxt "368_Kugihara"
+msgid "You going to pull a Baba and stab us? Hehehe..."
+msgstr ""
+
+msgctxt "380_Saejima"
+msgid "This is the chisel they say Baba used. It's yours, ain't it?"
+msgstr ""
+
+msgctxt "392_Saejima"
+msgid "Your tools have disappeared from the woodshop. Only yours."
+msgstr ""
+
+msgctxt "404_Kugihara"
+msgid "Hm!?"
+msgstr ""
+
+msgctxt "416_Saejima"
+msgid "I know ya threatened Baba and dragged him off."
+msgstr ""
+
+msgctxt "428_Saejima"
+msgid "So quit playin' dumb and fess up!"
+msgstr ""
+
+msgctxt "440_Kugihara"
+msgid "Moron. Why would you even want to help that waste of space?"
+msgstr ""
+
+msgctxt "452_Kugihara"
+msgid "It's not like they'll move up your parole."
+msgstr ""
+
+msgctxt "464_Saejima"
+msgid ""
+"I don't give two shits about that. Right now you and I are goin' to the "
+"guards and settlin' this."
+msgstr ""
+
+msgctxt "476_Himura"
+msgid "Baba-chan was up for parole. And then you had to screw it all up!"
+msgstr ""
+
+msgctxt "488_Kugihara"
+msgid "Well, if he'd only been a good little boy, he could've avoided all this."
+msgstr ""
+
+msgctxt "500_Kugihara"
+msgid "He should have been more obedient."
+msgstr ""
+
+msgctxt "512_Saejima"
+msgid "What're ya talkin' about?"
+msgstr ""
+
+msgctxt "524_Kugihara"
+msgid ""
+"Heh, last night I ordered him to kill you in your sleep, as soon as you "
+"were out of solitary."
+msgstr ""
+
+msgctxt "536_Saejima"
+msgid "What!?"
+msgstr ""
+
+msgctxt "548_Kugihara"
+msgid ""
+"Hey, it's not like I asked him to do it for free! I'm a reasonable man... I "
+"promised your boy a job when he got out."
+msgstr ""
+
+msgctxt "560_Kugihara"
+msgid ""
+"Since his family ditched him, he's been scared shitless about being out "
+"there all alone. All I did was try to help him."
+msgstr ""
+
+msgctxt "572_Saejima"
+msgid "You..."
+msgstr ""
+
+msgctxt "584_Kugihara"
+msgid "But your idiot boy said no. After I was so generous!"
+msgstr ""
+
+msgctxt "596_Kugihara"
+msgid "So, I applied a little discipline. Bye-bye, parole!"
+msgstr ""
+
+msgctxt "608_Saejima"
+msgid "Hm!?"
+msgstr ""
+
+msgctxt "620_Kugihara"
+msgid "Here's how I made it go down..."
+msgstr ""
+
+msgctxt "632_Saejima"
+msgid "(Fuckin' bastard...)"
+msgstr ""
+
+msgctxt "644_Kugihara"
+msgid "First, I had my men fight themselves."
+msgstr ""
+
+msgctxt "656_Kugihara"
+msgid ""
+"Hehe, and the chisel stabbing－I must admit that was my favorite part. One "
+"of my better ideas."
+msgstr ""
+
+msgctxt "668_Kugihara"
+msgid "Then little Baba comes along."
+msgstr ""
+
+msgctxt "680_Kugihara"
+msgid "I pretend that I'm breaking up the scuffle, and I hand the chisel to Baba."
+msgstr ""
+
+msgctxt "692_Kugihara"
+msgid ""
+"He didn't even think twice－he just took it! Haha! And of course, you know "
+"the rest."
+msgstr ""
+
+msgctxt "776_Oshima"
+msgid "Saejima."
+msgstr ""
+
+msgctxt "788_Saejima"
+msgid "How'd it go?"
+msgstr ""
+
+msgctxt "800_Oshima"
+msgid "Hah. I've had farts tougher to sneak out."
+msgstr ""
+
+msgctxt "812_Saejima"
+msgid "So..."
+msgstr ""
+
+msgctxt "824_Oshima"
+msgid "Yup. It's been done."
+msgstr ""
+
+msgctxt "836_Himura"
+msgid "Way to go, Heihachiro!"
+msgstr ""
+
+msgctxt "848_Oshima"
+msgid "Idiot! Keep your voice down."
+msgstr ""
+
+msgctxt "860_Himura"
+msgid "Oh, uh, sorry..."
+msgstr ""
+
+msgctxt "872_Oshima"
+msgid "You sure you were a detective, Himura?"
+msgstr ""
+
+msgctxt "884_Himura"
+msgid "I'll have you know, I was considered pretty sharp in the precinct."
+msgstr ""
+
+msgctxt "896_Himura"
+msgid "So the chisel. Whose was it?"
+msgstr ""
+
+msgctxt "908_Oshima"
+msgid "Just as we thought, it belongs to that Kugihara creep."
+msgstr ""
+
+msgctxt "920_Himura"
+msgid "Number 134... Yep, it's his."
+msgstr ""
+
+msgctxt "932_Oshima"
+msgid "We should take this to Kosaka right away."
+msgstr ""
+
+msgctxt "944_Saejima"
+msgid "Wait."
+msgstr ""
+
+msgctxt "980_Oshima"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "1004_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "1040_Saejima"
+msgid "(Whew... That should do it.)"
+msgstr ""
+
+msgctxt "1052_Prison Guard"
+msgid "*huff* *wheeze* Wha－ What have you got there!? Show it!"
+msgstr ""
+
+msgctxt "1064_Saejima"
+msgid "You mean this?"
+msgstr ""
+
+msgctxt "1100_Prison Guard"
+msgid "What? An envelope? There's a note inside..."
+msgstr ""
+
+msgctxt "1112_Prison Guard"
+msgid "\"Nice jog\"!? You bastard!"
+msgstr ""
+
+msgctxt "1124_Saejima"
+msgid "(Sorry, guardman... Just indulgin' some old-timer's weird sense of humor.)"
+msgstr ""
+
+msgctxt "1136_Prison Guard"
+msgid ""
+"Big demerits are coming down on you, let me tell ya! What's your name? "
+"Saejima, right?"
+msgstr ""
+
+msgctxt "1148_Saejima"
+msgid "(Great, just great...)"
+msgstr ""
+
+msgctxt "1172_Prison Guard"
+msgid "What?"
+msgstr ""
+
+msgctxt "1184_Saejima"
+msgid "(Don't know what to do here.)"
+msgstr ""
+
+msgctxt "1196_Prison Guard"
+msgid "I asked you a question! What do you want?"
+msgstr ""
+
+msgctxt "1208_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "1220_Prison Guard"
+msgid "You little－!"
+msgstr ""
+
+msgctxt "1244_Prison Guard"
+msgid "Hey! Freeze!"
+msgstr ""
+
+msgctxt "1280_Oshima"
+msgid ""
+"So we know the chisel came from the woodworking crew. Now we just need to "
+"figure out exactly who owns it."
+msgstr ""
+
+msgctxt "1292_Saejima"
+msgid "We could do that if we just got our hands on it."
+msgstr ""
+
+msgctxt "1304_Oshima"
+msgid "Yeah, but the guards took it when they hauled off Baba."
+msgstr ""
+
+msgctxt "1316_Himura"
+msgid "All we need is a quick glance. Maybe a guard will let us see it..."
+msgstr ""
+
+msgctxt "1328_Saejima"
+msgid ""
+"Heh. Sure, we'll just put in a check-out request with the guard shank "
+"library. Easy."
+msgstr ""
+
+msgctxt "1340_Himura"
+msgid "Okay. Point taken."
+msgstr ""
+
+msgctxt "1352_Himura"
+msgid ""
+"*sigh* In fact, if a guard catches wind of this at all, we're all going to "
+"end up in solitary."
+msgstr ""
+
+msgctxt "1364_Saejima"
+msgid "So, any other bright ideas?"
+msgstr ""
+
+msgctxt "1376_Oshima"
+msgid "Yeah. Let me do what I'm good at."
+msgstr ""
+
+msgctxt "1388_Himura"
+msgid "Which is what?"
+msgstr ""
+
+msgctxt "1400_Oshima"
+msgid "Stealing shit."
+msgstr ""
+
+msgctxt "1412_Saejima"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "1424_Himura"
+msgid "You can't be serious. Do you know what'll happen if you get caught?"
+msgstr ""
+
+msgctxt "1436_Oshima"
+msgid "Yup, I do."
+msgstr ""
+
+msgctxt "1448_Himura"
+msgid ""
+"This is prison, man! If you get nabbed stealing from a guard, solitary is "
+"the least of your problems!"
+msgstr ""
+
+msgctxt "1460_Himura"
+msgid "Hell, they could even extend your sentence..."
+msgstr ""
+
+msgctxt "1472_Oshima"
+msgid "Don't worry. I won't get caught."
+msgstr ""
+
+msgctxt "1484_Himura"
+msgid "Wait... Are you...?"
+msgstr ""
+
+msgctxt "1496_Oshima"
+msgid "Over 15,000 counts of theft, zero arrests. Behold, Businessman Heihachiro."
+msgstr ""
+
+msgctxt "1508_Himura"
+msgid "Yeah, I've heard of you! When I made detective, you were already a legend."
+msgstr ""
+
+msgctxt "1520_Himura"
+msgid ""
+"The talk was you'd retired, but listening to the stories, I started to "
+"doubt you ever really existed."
+msgstr ""
+
+msgctxt "1532_Saejima"
+msgid ""
+"High praise for a thief. If you're as good as ya say, with zero arrests, "
+"how'd ya end up in the slammer?"
+msgstr ""
+
+msgctxt "1544_Oshima"
+msgid "I turned myself in. For my sixtieth birthday."
+msgstr ""
+
+msgctxt "1556_Himura"
+msgid "Why?"
+msgstr ""
+
+msgctxt "1568_Oshima"
+msgid "All those years, my crimes were a secret I kept from my wife."
+msgstr ""
+
+msgctxt "1580_Oshima"
+msgid ""
+"Every day, I pretended to be a businessman, put on a suit and tie, and went "
+"out on my heists."
+msgstr ""
+
+msgctxt "1592_Himura"
+msgid "Yeah, that's why you were Businessman Heihachiro..."
+msgstr ""
+
+msgctxt "1604_Oshima"
+msgid "I promised myself that I'd leave the life behind on my sixtieth birthday."
+msgstr ""
+
+msgctxt "1616_Oshima"
+msgid "But on that day, I came home to find my wife gone."
+msgstr ""
+
+msgctxt "1628_Himura"
+msgid "Whoa, what'd she do? Commit suicide after finding you out?"
+msgstr ""
+
+msgctxt "1640_Oshima"
+msgid ""
+"What? No! Geez, you're desperate for entertainment. No... She left me. For "
+"another man."
+msgstr ""
+
+msgctxt "1652_Himura"
+msgid "Haha..."
+msgstr ""
+
+msgctxt "1664_Oshima"
+msgid ""
+"Shut up! Don't you see what I realized that day? All that time I was "
+"thieving, I hadn't noticed I was the one being robbed... of the most "
+"valuable thing in the world."
+msgstr ""
+
+msgctxt "1676_Oshima"
+msgid "I was disgusted with myself. So I turned myself in."
+msgstr ""
+
+msgctxt "1688_Saejima"
+msgid "...Everyone's got a story."
+msgstr ""
+
+msgctxt "1700_Himura"
+msgid "A big yakuza boss, a legendary thief, and a detective."
+msgstr ""
+
+msgctxt "1712_Himura"
+msgid "Yup, there's really no telling who you'll come across in life."
+msgstr ""
+
+msgctxt "1724_Oshima"
+msgid "I swore I'd never steal again, but I'll do it for Baba."
+msgstr ""
+
+msgctxt "1736_Oshima"
+msgid "I can swipe that chisel from the guards, guaranteed."
+msgstr ""
+
+msgctxt "1748_Saejima"
+msgid "Fine. It's all on you."
+msgstr ""
+
+msgctxt "1760_Oshima"
+msgid "Got it."
+msgstr ""
+
+msgctxt "1772_Himura"
+msgid "All right, Oshima-san will deal with that issue..."
+msgstr ""
+
+msgctxt "1784_Saejima"
+msgid "And us?"
+msgstr ""
+
+msgctxt "1796_Himura"
+msgid "We should collect witness accounts. As many as we can."
+msgstr ""
+
+msgctxt "1808_Himura"
+msgid ""
+"We've got some time, since Kugihara's gang is being interrogated by the "
+"guards right now."
+msgstr ""
+
+msgctxt "1820_Himura"
+msgid "When we're done, we'll meet up here again."
+msgstr ""
+
+msgctxt "1832_Saejima"
+msgid "Okay."
+msgstr ""
+
+msgctxt "1904_Saejima"
+msgid "When you say witness accounts, what kinda info you lookin' for?"
+msgstr ""
+
+msgctxt "1916_Himura"
+msgid ""
+"Well, we already know where the chisel came from－the woodworking crew. But "
+"we need to find out who was using it."
+msgstr ""
+
+msgctxt "1928_Himura"
+msgid ""
+"We combine that intel with the appearance of the chisel itself, and that "
+"should be enough evidence to prove Baba-chan's innocence."
+msgstr ""
+
+msgctxt "1940_Saejima"
+msgid "Got it. I know a guy. I'll ask him."
+msgstr ""
+
+msgctxt "1952_Himura"
+msgid "Ten-four. I'll chase up other leads. Later, then!"
+msgstr ""
+
+msgctxt "2012_Saejima"
+msgid "(I'm bein' watched. S'pose just runnin' up is too obvious.)"
+msgstr ""
+
+msgctxt "2024_Saejima"
+msgid "(Better turn around and try again.)"
+msgstr ""
+
+msgctxt "2108_Saejima"
+msgid "(I'm bein' watched. They suspicious?)"
+msgstr ""
+
+msgctxt "2120_Saejima"
+msgid "(Better turn around and try again.)"
+msgstr ""
+
+msgctxt "2216_Saejima"
+msgid "(Okay, that's done. I can talk to the old-timer now.)"
+msgstr ""
+
+msgctxt "2252_Saejima"
+msgid "(I'm bein' watched. S'pose just runnin' up is too obvious.)"
+msgstr ""
+
+msgctxt "2264_Saejima"
+msgid "(Better turn around and try again.)"
+msgstr ""
+
+msgctxt "2348_Saejima"
+msgid "(I'm bein' watched. They suspicious?)"
+msgstr ""
+
+msgctxt "2360_Saejima"
+msgid "(Better turn around and try again.)"
+msgstr ""
+
+msgctxt "2528_Himura"
+msgid "Saejima-san."
+msgstr ""
+
+msgctxt "2540_Himura"
+msgid "How'd it go?"
+msgstr ""
+
+msgctxt "2552_Saejima"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "2564_Himura"
+msgid "Oh. Not good?"
+msgstr ""
+
+msgctxt "2636_Oshima"
+msgid ""
+"Basically, no one claimed they saw Baba do it, but nobody said he didn't, "
+"either."
+msgstr ""
+
+msgctxt "2648_Himura"
+msgid "Oh. Hm."
+msgstr ""
+
+msgctxt "2660_Saejima"
+msgid "But doesn't it mean the guards can't prove he's the perp?"
+msgstr ""
+
+msgctxt "2672_Himura"
+msgid "Well, I wouldn't count on that."
+msgstr ""
+
+msgctxt "2684_Oshima"
+msgid "No?"
+msgstr ""
+
+msgctxt "2696_Himura"
+msgid ""
+"The victim himself said Baba stabbed him. So that's direct evidence right "
+"there."
+msgstr ""
+
+msgctxt "2708_Oshima"
+msgid "Direct evidence?"
+msgstr ""
+
+msgctxt "2720_Himura"
+msgid ""
+"Yes, that's directly observing a crime happening. See, it's different from "
+"circumstantial evidence, which is observing something that logically "
+"indicates a crime is happening, or did."
+msgstr ""
+
+msgctxt "2732_Oshima"
+msgid ""
+"Thanks for the mystery novel advice, but can we talk about what's "
+"important? Like whether the victim's account is enough to prove Baba's "
+"guilt?"
+msgstr ""
+
+msgctxt "2744_Himura"
+msgid ""
+"By itself, it's not enough. But paired with the fact that Baba-chan was "
+"holding the bloody chisel..."
+msgstr ""
+
+msgctxt "2756_Himura"
+msgid ""
+"See, that's a piece of circumstantial evidence, and a damn strong one. It "
+"perfectly backs up the direct evidence of the eyewitness testimony."
+msgstr ""
+
+msgctxt "2768_Oshima"
+msgid "Himura, where'd you learn all this?"
+msgstr ""
+
+msgctxt "2780_Saejima"
+msgid "Baba said he didn't do it. Doncha believe 'im?"
+msgstr ""
+
+msgctxt "2792_Oshima"
+msgid "Yeah, we gotta believe Baba. The victim and his bunch are lying!"
+msgstr ""
+
+msgctxt "2804_Himura"
+msgid "Naturally, that's a possibility."
+msgstr ""
+
+msgctxt "2816_Himura"
+msgid "But, there's nothing to back up that assertion."
+msgstr ""
+
+msgctxt "2828_Saejima"
+msgid "(Damn...)"
+msgstr ""
+
+msgctxt "2840_Oshima"
+msgid "So, that's it? There's nothing we can do?"
+msgstr ""
+
+msgctxt "2852_Himura"
+msgid "Well, there is one way..."
+msgstr ""
+
+msgctxt "2864_Oshima"
+msgid "What?"
+msgstr ""
+
+msgctxt "2876_Himura"
+msgid "Rather than trying to prove Baba-chan didn't do it..."
+msgstr ""
+
+msgctxt "2888_Himura"
+msgid "We look for evidence that the woodworking crew is lying."
+msgstr ""
+
+msgctxt "2900_Saejima"
+msgid "How do we do that?"
+msgstr ""
+
+msgctxt "2912_Himura"
+msgid "With the chisel."
+msgstr ""
+
+msgctxt "2924_Himura"
+msgid "It had to be provided by either the victim himself or his pals."
+msgstr ""
+
+msgctxt "2936_Himura"
+msgid ""
+"Because, I mean, it's a woodworking tool. Where would Baba-chan even get "
+"it? He's not in the woodworking crew."
+msgstr ""
+
+msgctxt "2948_Saejima"
+msgid "True..."
+msgstr ""
+
+msgctxt "2960_Oshima"
+msgid "Baba could've taken the weapon from them."
+msgstr ""
+
+msgctxt "2972_Himura"
+msgid "Sure. But that theory is pretty shaky."
+msgstr ""
+
+msgctxt "2984_Himura"
+msgid ""
+"Because at the scene, the victim claimed Baba-chan just stabbed him out of "
+"the blue."
+msgstr ""
+
+msgctxt "2996_Himura"
+msgid ""
+"\"Out of the blue\" is not a phrase you would use if the weapon was taken "
+"from you or your friends."
+msgstr ""
+
+msgctxt "3008_Himura"
+msgid "It's a phrase that implies the weapon was already in Baba-chan's possession."
+msgstr ""
+
+msgctxt "3020_Oshima"
+msgid "Ah..."
+msgstr ""
+
+msgctxt "3032_Saejima"
+msgid ""
+"So, we still gotta find out where the chisel came from, then prove there "
+"was no way Baba coulda got his hands on it."
+msgstr ""
+
+msgctxt "3044_Himura"
+msgid "Yes! If we can prove that, it'll refute the victim's statement."
+msgstr ""
+
+msgctxt "3056_Himura"
+msgid "And of course, strengthen the argument that Baba-chan wasn't the perp."
+msgstr ""
+
+msgctxt "3068_Saejima"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "3080_Oshima"
+msgid "Himura?"
+msgstr ""
+
+msgctxt "3092_Himura"
+msgid "Yes?"
+msgstr ""
+
+msgctxt "3104_Oshima"
+msgid "Why do you know so much about evidence and all?"
+msgstr ""
+
+msgctxt "3116_Himura"
+msgid "Uh... Well, I'd appreciate it if you could keep this on the down low..."
+msgstr ""
+
+msgctxt "3128_Himura"
+msgid ""
+"But you see, I was, uh... I used to be a detective with the Hokkaido "
+"Prefectural Police. Homicide, even."
+msgstr ""
+
+msgctxt "3140_Oshima"
+msgid "What!?"
+msgstr ""
+
+msgctxt "3152_Saejima"
+msgid "What's a detective doin' behind bars?"
+msgstr ""
+
+msgctxt "3164_Himura"
+msgid "Well, given the job, there's always... temptation."
+msgstr ""
+
+msgctxt "3176_Himura"
+msgid ""
+"I just... you know... got swept up in just a little teeny bit of "
+"corruption, is all."
+msgstr ""
+
+msgctxt "3188_Oshima"
+msgid "And you didn't tell us."
+msgstr ""
+
+msgctxt "3200_Himura"
+msgid "Oshima, my job was finding and arresting criminals."
+msgstr ""
+
+msgctxt "3212_Himura"
+msgid ""
+"What do you think these inmates would do to me if they knew I used to be "
+"their enemy?"
+msgstr ""
+
+msgctxt "3224_Oshima"
+msgid "Yeah, good point."
+msgstr ""
+
+msgctxt "3236_Himura"
+msgid ""
+"It was just bribery. Heh. To be honest, my term's so short I thought there "
+"was a good chance I'd get out of here without anyone ever finding out about "
+"my background."
+msgstr ""
+
+msgctxt "3248_Himura"
+msgid ""
+"But now I've got a cellmate in deep trouble... a kid I break bread with "
+"every day. I can't just stand by and watch him go down."
+msgstr ""
+
+msgctxt "3260_Oshima"
+msgid ""
+"I get it. And... hey, I think I've got some respect for you, even if you "
+"are a cop."
+msgstr ""
+
+msgctxt "3272_Saejima"
+msgid "So, what's the plan?"
+msgstr ""
+
+msgctxt "3284_Himura"
+msgid "The quickest way out of this mess is finding out where the chisel came from."
+msgstr ""
+
+msgctxt "3296_Saejima"
+msgid "Okay. So we ask around about that."
+msgstr ""
+
+msgctxt "3308_Himura"
+msgid "Right. Let's split up and do some legwork."
+msgstr ""
+
+msgctxt "3320_Oshima"
+msgid "Hah. Spoken like a true detective."
+msgstr ""
+
+msgctxt "3332_Himura"
+msgid "I'm getting pumped! Let's do this!"
+msgstr ""
+
+msgctxt "3344_Saejima"
+msgid "Uh-huh."
+msgstr ""
+
+msgctxt "3368_Oshima"
+msgid "This is bad!"
+msgstr ""
+
+msgctxt "3380_Himura"
+msgid "Baba-chan wouldn't do something like that!"
+msgstr ""
+
+msgctxt "3392_Oshima"
+msgid "Of course not! He just submitted his request for parole."
+msgstr ""
+
+msgctxt "3404_Oshima"
+msgid "No one in his position would do anything that might extend his sentence."
+msgstr ""
+
+msgctxt "3416_Himura"
+msgid "So true..."
+msgstr ""
+
+msgctxt "3428_Oshima"
+msgid "Saejima, what do you make of this?"
+msgstr ""
+
+msgctxt "3440_Saejima"
+msgid "(Prison's a rough place, is what I make of it.)"
+msgstr ""
+
+msgctxt "3452_Himura"
+msgid "There's too much that we don't know."
+msgstr ""
+
+msgctxt "3464_Himura"
+msgid "Why don't we ask around to see if anyone can fill us in?"
+msgstr ""
+
+msgctxt "3476_Saejima"
+msgid "All right..."
+msgstr ""
+
+msgctxt "3512_Saejima"
+msgid "(Treatment took longer than I thought.)"
+msgstr ""
+
+msgctxt "3524_Saejima"
+msgid "(Baba-chan wasn't in the cell block. Is he out in the exercise yard?)"
+msgstr ""
+
+msgctxt "3608_Shady Inmate"
+msgid "Heheh..."
+msgstr ""
+
+msgctxt "3620_Baba"
+msgid "Those guys are in the woodworking crew."
+msgstr ""
+
+msgctxt "3632_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "3644_Saejima"
+msgid "What do you want?"
+msgstr ""
+
+msgctxt "3656_Shady Inmate"
+msgid "You know what we want. The crew chief wants to see you."
+msgstr ""
+
+msgctxt "3668_Baba"
+msgid "Who are these guys, Saejima-aniki?"
+msgstr ""
+
+msgctxt "3680_Saejima"
+msgid "Stay out of this."
+msgstr ""
+
+msgctxt "3692_Shady Inmate"
+msgid ""
+"You got some kid you're trying to hide? Oh, if it isn't your little "
+"cellmate!"
+msgstr ""
+
+msgctxt "3704_Shady Inmate"
+msgid ""
+"I get it. You're recruiting soldiers－nice, young ones you can turn into "
+"obedient little drones."
+msgstr ""
+
+msgctxt "3716_Saejima"
+msgid "Not another word about the kid. I'm the one you want."
+msgstr ""
+
+msgctxt "3728_Shady Inmate"
+msgid "Fine, then. Come on."
+msgstr ""
+
+msgctxt "3764_Saejima"
+msgid ""
+"(Huh, so Baba-chan's a killer. He seemed like such a friendly kid. Who "
+"woulda thought?)"
+msgstr ""
+
+msgctxt "3776_Saejima"
+msgid "(Where'd I see Baba-chan? On a bench up ahead, maybe.)"
+msgstr ""
+
+msgctxt "3800_Saejima"
+msgid "(Guess they don't cancel rec time no matter how cold it is.)"
+msgstr ""
+
+msgctxt "3812_Saejima"
+msgid "(Let's see... Anyone I know around?)"
+msgstr ""

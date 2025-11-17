@@ -1,0 +1,176 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "4000"
+msgid "Guide"
+msgstr "Guida"
+
+msgctxt "4004"
+msgid "Play"
+msgstr "Gioca"
+
+msgctxt "4008"
+msgid "Don't Play"
+msgstr "Non giocare"
+
+msgctxt "4012"
+msgid "Learn the Rules"
+msgstr "Impara le Regole"
+
+msgctxt "4016"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "4020"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4024"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "4028"
+msgid "Ask About Cho-han"
+msgstr "Chiedi del Cho-han"
+
+msgctxt "4032"
+msgid "Ask About Guessing One Die"
+msgstr "Come indovinare un dado?"
+
+msgctxt "4036"
+msgid "Ask About Guessing Both Dice"
+msgstr "Chiedi come si indovinano entrambi i dadi"
+
+msgctxt "4040"
+msgid "Ask About Playing Against the House"
+msgstr "Chiedi informazioni sul gioco contro il banco"
+
+msgctxt "4044"
+msgid "Go Back"
+msgstr "Torna Indietro"
+
+msgctxt "4048"
+msgid "Ask About Other Players"
+msgstr "Chiedi degli altri giocatori"
+
+msgctxt "4052"
+msgid "How to Play Cho-han"
+msgstr "Come si gioca a Cho-han"
+
+msgctxt "4056"
+msgid "Guessing the Number on One Die"
+msgstr "Indovinare il Numero su un Dado"
+
+msgctxt "4060"
+msgid "Guessing the Numbers on Both Dice"
+msgstr "Indovinare i numeri su entrambi i dadi"
+
+msgctxt "4064"
+msgid "Playing Against the House"
+msgstr "Giocare contro il Banco"
+
+msgctxt "4068"
+msgid "Other Players"
+msgstr "Altri giocatori"
+
+msgctxt "56_Guide"
+msgid ""
+"Feelin' lucky? How 'bout a game of cho-han? Wait a sec,  you ain't got no "
+"chips. Go buy some at the front, then come see me."
+msgstr ""
+"Ti senti fortunato, eh? Che ne dici di una mano a cho-han? Ehi, aspetta un "
+"attimo, non hai manco una fiches. Va' a prenderne un po' lì davanti, e poi "
+"torna qui da me."
+
+msgctxt "68_Guide"
+msgid "How about some cho-han? Feel like a game today?"
+msgstr "Che ne dici di fare una mano a cho-han? Ti senti in vena oggi?"
+
+msgctxt "80_Guide"
+msgid "How about some cho-han? Feel like a game today?"
+msgstr "Che ne dici di fare una mano a cho-han? Ti senti in vena oggi?"
+
+msgctxt "92_Guide"
+msgid "Yeah, I'll play."
+msgstr "Sì, gioco."
+
+msgctxt "104_Guide"
+msgid "That's what I like to hear! Let's go, then."
+msgstr "Così mi piaci! Dai, andiamo allora."
+
+msgctxt "128_Guide"
+msgid "No, I'll pass."
+msgstr "No, passo."
+
+msgctxt "140_Guide"
+msgid "Well, all right. I hope you'll play next time!"
+msgstr "Va bene, dai. Spero che giocherai la prossima volta!"
+
+msgctxt "152_Guide"
+msgid "Whaddaya wanna know?"
+msgstr "Che vuoi sapere?"
+
+msgctxt "164_Guide"
+msgid ""
+"Cho-han is a gambling game where players predict whether the total value of "
+"two dice rolls will end up odd or even."
+msgstr ""
+"Il Cho-han è un gioco d'azzardo in cui i giocatori scommettono se la somma "
+"dei due dadi risulterà dispari o pari."
+
+msgctxt "176_Guide"
+msgid "The payout is based on how much you and the other players wagered."
+msgstr "La vincita si basa su quanto tu e gli altri giocatori avete puntato."
+
+msgctxt "188_Guide"
+msgid ""
+"You can bet on what number will show on one of the two dice.\r\n"
+"If you guess right, you can earn even more chips by simply guessing odd or even."
+msgstr ""
+"Puoi puntare su che numero uscirà su uno dei due dadi.\n"
+"Se ci prendi, puoi portarti a casa ancora più fiches semplicemente puntando su pari o dispari."
+
+msgctxt "200_Guide"
+msgid ""
+"You can also bet on which numbers will show on both dice.\r\n"
+"If you guess right, you get all of the money in the current pot."
+msgstr ""
+"Puoi anche puntare su quali numeri usciranno su entrambi i dadi.\n"
+"Se azzecchi, ti intaschi tutti i soldi nel piatto."
+
+msgctxt "212_Guide"
+msgid ""
+"When playing against the house, you will guess either odd or even. Guess right, and you win twice the amount of chips you bet.\r\n"
+"You can roll up to five times."
+msgstr ""
+"Quando giochi contro il banco, dovrai indovinare se uscirà pari o dispari. Se indovini, vinci il doppio delle fiches che hai puntato.\n"
+"Puoi tirare i dadi fino a cinque volte."
+
+msgctxt "224_Guide"
+msgid ""
+"Some of the other players might be on a roll. Others may be on a terrible "
+"losing streak, or having just average luck."
+msgstr ""
+"Alcuni degli altri giocatori potrebbero avere la mano calda. Altri, invece, "
+"potrebbero essere in una terribile striscia perdente, o avere una fortuna "
+"nella norma."
+
+msgctxt "236_Guide"
+msgid ""
+"If you can identify who has a hot hand, you can tag along with your bets. "
+"However, luck never holds－a steady winner may suddenly turn stone cold."
+msgstr ""
+"Se riesci a capire chi ha la mano calda, puoi accodarti con le tue puntate. "
+"Però, la fortuna non si mantiene－un vincitore costante può improvvisamente "
+"iniziare a perdere di brutto."

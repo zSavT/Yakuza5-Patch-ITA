@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2284"
+msgid "Employee"
+msgstr ""
+
+msgctxt "2288"
+msgid "P_TLK_sitcnt_kamae"
+msgstr ""
+
+msgctxt "2292"
+msgid "Player"
+msgstr ""
+
+msgctxt "2296"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "72_Employee"
+msgid "Welcome. May I take your order?"
+msgstr ""
+
+msgctxt "120_Employee"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "156_Player"
+msgid "(I don't need to eat right now.)"
+msgstr ""
+
+msgctxt "168_Player"
+msgid "(I don't need to eat right now.)"
+msgstr ""
+
+msgctxt "180_Player"
+msgid "(Don't need food now.)"
+msgstr ""
+
+msgctxt "192_Player"
+msgid "(Not hungry yet.)"
+msgstr ""
+
+msgctxt "204_Player"
+msgid "(I'm full now.)"
+msgstr ""
+
+msgctxt "228_Player"
+msgid "Sorry, something came up."
+msgstr ""
+
+msgctxt "240_Player"
+msgid "Excuse me. I've got an urgent errand."
+msgstr ""
+
+msgctxt "252_Player"
+msgid "Sorry. Gotta run."
+msgstr ""
+
+msgctxt "264_Player"
+msgid "Sorry, I forgot I had to do something."
+msgstr ""
+
+msgctxt "276_Player"
+msgid "I'm so sorry. I have to go."
+msgstr ""
+
+msgctxt "288_Employee"
+msgid "All right. Please come again soon."
+msgstr ""

@@ -1,0 +1,103 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "3008"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "3016"
+msgid "E9745_stand_tsukitobashi_S"
+msgstr "E9745_stand_tsukitobashi_S"
+
+msgctxt "3020"
+msgid "Nml_TurnR180"
+msgstr "Nml_TurnR180"
+
+msgctxt "3024"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "3028"
+msgid "0"
+msgstr "0"
+
+msgctxt "3032"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "3036"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "3040"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "3044"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "92_Man"
+msgid "So you are %s. I hear you've been on a bit of a rampage around here."
+msgstr ""
+"Quindi tu sei %s. Ho sentito dire che hai fatto un po' il diavolo a quattro "
+"qui in giro."
+
+msgctxt "104_Man"
+msgid "Let's see how good you are."
+msgstr "Vediamo quanto vali."
+
+msgctxt "128_Man"
+msgid "Hmm. Seems you can hold your own."
+msgstr "Hmm. Sembra che tu sappia il fatto tuo."
+
+msgctxt "140_Man"
+msgid "Next time we meet, I won't hold anything back."
+msgstr "Alla prossima che ci vediamo, non farò sconti."
+
+msgctxt "200_Man"
+msgid "Hmph. That's the best you can do? Pathetic."
+msgstr "Tsk. È tutto qui? Patetico."
+
+msgctxt "212_Man"
+msgid ""
+"You'd better train harder. Next time we meet, you'll be in for a lot more "
+"pain."
+msgstr ""
+"Ti conviene allenarti di più.\n"
+"La prossima volta che ci becchiamo, ne prenderai ancora di più."
+
+msgctxt "224_Kiryu"
+msgid "(Damn, he's got some skills, all right. Who is he?)"
+msgstr "(Accidenti, ha delle gran abilità, non c'è che dire. Chi è?)"
+
+msgctxt "236_Akiyama"
+msgid "(That was quite the show. Who is this guy?)"
+msgstr "(Che spettacolo! Chi è questo tizio?)"
+
+msgctxt "248_Saejima"
+msgid "(Ain't fought anyone that strong in a while. Wonder who he is.)"
+msgstr "(Non mi battevo con uno così forte da un po'. Chissà chi è.)"
+
+msgctxt "260_Shinada"
+msgid ""
+"(Ow... That guy was something else. Is this how everyone fights here in "
+"Kamurocho?)"
+msgstr ""
+"(Ahia... Quel tipo era di un altro livello. Tutti combattono così qui a "
+"Kamurocho?)"
+
+msgctxt "272_Man"
+msgid "Hi, I'm Haruka."
+msgstr "Ciao, sono Haruka."

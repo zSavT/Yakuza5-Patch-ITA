@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "616"
+msgid "You got <Color:8>20,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "11136"
+msgid "Kidnapper"
+msgstr ""
+
+msgctxt "11140"
+msgid "Mother"
+msgstr ""
+
+msgctxt "11144"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "11148"
+msgid "Yuta"
+msgstr ""
+
+msgctxt "11152"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "11156"
+msgid "P_TLK_stand_odosu"
+msgstr ""
+
+msgctxt "11160"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "11164"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "11168"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "11172"
+msgid "M_NML_SET_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "11176"
+msgid "M_YKZ_TLK_stand_odosu"
+msgstr ""
+
+msgctxt "11180"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "11184"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "11188"
+msgid "M_NML_TLK_stand_odosu"
+msgstr ""
+
+msgctxt "11192"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "11196"
+msgid "dummy"
+msgstr ""
+
+msgctxt "11200"
+msgid "M_CLD_TLK_stand_crybig_ed"
+msgstr ""
+
+msgctxt "11204"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "76_Kidnapper"
+msgid "You better not get in our way, asshole!"
+msgstr ""
+
+msgctxt "88_Mother"
+msgid "Yuta! Oh god..."
+msgstr ""
+
+msgctxt "100_Yuta"
+msgid "Mom! Help!"
+msgstr ""
+
+msgctxt "112_Kiryu"
+msgid "Let the kid go. You and I need to have a little talk."
+msgstr ""
+
+msgctxt "124_Kidnapper"
+msgid ""
+"You think we're just gonna sit down and chat!? Nice fuckin'\r\n"
+"try! Now if you don't scram this instant, we're putting you\r\n"
+"in the ground!"
+msgstr ""
+
+msgctxt "136_Mother"
+msgid "Wait... Is that you, Itoda-san?"
+msgstr ""
+
+msgctxt "148_Kidnapper"
+msgid "What?"
+msgstr ""
+
+msgctxt "160_Kiryu"
+msgid "Do you know this guy?"
+msgstr ""
+
+msgctxt "172_Mother"
+msgid ""
+"I can't see his face, but I recognize that voice. I think he's a former "
+"employee of ours. My husband fired him the other day for embezzling company "
+"funds."
+msgstr ""
+
+msgctxt "184_Kidnapper"
+msgid ""
+"But I gave the money back! And now I'm in debt up to my eyeballs. This was "
+"my only play!"
+msgstr ""
+
+msgctxt "196_Mother"
+msgid "Please, Itoda-san! Let Yuta go! I promise I won't tell the police!"
+msgstr ""
+
+msgctxt "208_Kidnapper"
+msgid "This isn't how I thought it'd go down... I went about it all wrong!"
+msgstr ""
+
+msgctxt "220_Kidnapper"
+msgid ""
+"I should have kidnapped the wife along with the kid! Look at all this extra "
+"bullshit I have to go through!"
+msgstr ""
+
+msgctxt "232_Mother"
+msgid "What...!?"
+msgstr ""
+
+msgctxt "244_Kidnapper"
+msgid ""
+"You're coming along for the ride, too, mystery man. I'm taking all your "
+"asses hostage! Now get over here!"
+msgstr ""
+
+msgctxt "316_Kidnapper"
+msgid "What? Don't give me that look. You want me to turn you into worm food!?"
+msgstr ""
+
+msgctxt "328_Kidnapper"
+msgid ""
+"You really have no idea how much pain you're causing these\r\n"
+"people... Maybe I need to give you a taste of it firsthand."
+msgstr ""
+
+msgctxt "340_Kidnapper"
+msgid ""
+"Yeah? Well, how 'bout I make you taste your own <Italic>blood</Italic>\r\n"
+"firsthand!? Your corpse won't even look human by the time we're done with "
+"you!"
+msgstr ""
+
+msgctxt "364_Kidnapper"
+msgid "Sorry... I couldn't do it. Those guys were too fast."
+msgstr ""
+
+msgctxt "376_Kidnapper"
+msgid "Oh no... What about my little boy!?"
+msgstr ""
+
+msgctxt "388_Kidnapper"
+msgid "I hope he's okay. Have you called the police?"
+msgstr ""
+
+msgctxt "400_Kidnapper"
+msgid "Yes. But who knows if they'll ever find that car?"
+msgstr ""
+
+msgctxt "412_Kidnapper"
+msgid "Damn..."
+msgstr ""
+
+msgctxt "448_Yuta"
+msgid "Mom! I was so scared..."
+msgstr ""
+
+msgctxt "460_Mother"
+msgid "Thank you so much! You aren't hurt, are you?"
+msgstr ""
+
+msgctxt "472_Kiryu"
+msgid ""
+"Don't worry about me. I'm just glad you two are okay. Now what should we do "
+"with these guys..."
+msgstr ""
+
+msgctxt "496_Kidnapper"
+msgid "I've already called the police. They'll be here any moment."
+msgstr ""
+
+msgctxt "508_Kidnapper"
+msgid ""
+"Oh, come on! Give us a break, lady! You got your kid back alive, didn't "
+"you!?"
+msgstr ""
+
+msgctxt "520_Kiryu"
+msgid ""
+"You're not getting off the hook that easy! Do you seriously think giving "
+"back the money and the kid makes up for what you did!?"
+msgstr ""
+
+msgctxt "532_Kidnapper"
+msgid "Well..."
+msgstr ""
+
+msgctxt "544_Kiryu"
+msgid ""
+"You need to wake up and realize you can't just do whatever\r\n"
+"you want, using your problems as an excuse. But I'm sure\r\n"
+"you'll have plenty of time to think about that behind bars."
+msgstr ""
+
+msgctxt "556_Kidnapper"
+msgid ""
+"Why you... Who the hell are you, anyway? You sure don't act like a taxi "
+"driver!"
+msgstr ""
+
+msgctxt "568_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "580_Mother"
+msgid ""
+"I really appreciate what you've done. If it wasn't for you, who knows what "
+"would have happened to Yuta? I can't thank you enough."
+msgstr ""
+
+msgctxt "592_Kiryu"
+msgid ""
+"Hey, don't worry about it. I just happened to be in the right place at the "
+"right time."
+msgstr ""
+
+msgctxt "604_Mother"
+msgid ""
+"There must be something I can do to express my gratitude.\r\n"
+"Here, this is the least I can give you."
+msgstr ""
+
+msgctxt "640_Kidnapper"
+msgid ""
+"I'll never forget the way you helped us today! I hope you\r\n"
+"know how wonderful you are..."
+msgstr ""
+
+msgctxt "652_Yuta"
+msgid "For real! You kicked some royal ass back there, sir!"
+msgstr ""

@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "924"
+msgid "Employee"
+msgstr "Cameriere"
+
+msgctxt "928"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "932"
+msgid "I'm here to buy."
+msgstr "Sono qui per comprare."
+
+msgctxt "936"
+msgid "I'm here to sell."
+msgstr "Sono qui per piazzare."
+
+msgctxt "940"
+msgid "Never mind."
+msgstr "Lascia stare."
+
+msgctxt "944"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "44_Employee"
+msgid "Welcome! What'll it be?"
+msgstr "Benvenuti! Cosa prendete?"
+
+msgctxt "56_Employee"
+msgid "Sure. What can I get you?"
+msgstr "Certo. Cosa ti posso dare?"
+
+msgctxt "80_Employee"
+msgid "Thank you very much."
+msgstr "Grazie mille."
+
+msgctxt "92_Employee"
+msgid "Sure. What would you like to sell?"
+msgstr "Certo. Cosa vorresti vendere?"

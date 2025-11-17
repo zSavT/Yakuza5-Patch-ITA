@@ -1,0 +1,439 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "236"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Collana di Haruka<Color:Default>."
+
+msgctxt "296"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round when you are playing cho-han.\r\n"
+" "
+msgstr ""
+"Haruka d'ora in poi di tanto in tanto prevederà l'esito di una mano quando "
+"giochi a cho-han."
+
+msgctxt "344"
+msgid "You got <Color:8>Haruka's Lunch<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Il pranzo di Haruka<Color:Default>."
+
+msgctxt "404"
+msgid "You got <Color:8>Haruka's First-Aid Kit<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Kit di Primo Soccorso di Haruka<Color:Default>."
+
+msgctxt "464"
+msgid "You got <Color:8>Red Jewel<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Gemma Rossa<Color:Default>."
+
+msgctxt "524"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr "Hai ottenuto <Color:8>L'Amuleto di Haruka<Color:Default>."
+
+msgctxt "584"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr "Hai ottenuto <Color:8>il cioccolato di Haruka<Color:Default>."
+
+msgctxt "644"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Dolcetto di Haruka<Color:Default>."
+
+msgctxt "752"
+msgid "You got <Color:8>Morning Glory Belly Warmer<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Scaldapancia del Glicine<Color:Default>."
+
+msgctxt "20908"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "20912"
+msgid "HAL_TLK_stand_unhappy"
+msgstr "HAL_TLK_stand_unhappy"
+
+msgctxt "20916"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "20920"
+msgid "HAL_TLK_stand_happy"
+msgstr "HAL_TLK_stand_happy"
+
+msgctxt "20924"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "20928"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "20932"
+msgid "Staff"
+msgstr "Staff"
+
+msgctxt "20936"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "20940"
+msgid "Beginner Course"
+msgstr "Corso per principianti"
+
+msgctxt "20944"
+msgid "Intermediate Course"
+msgstr "Corso Intermedio"
+
+msgctxt "20948"
+msgid "Advanced Course"
+msgstr "Corso Avanzato"
+
+msgctxt "20952"
+msgid "Pro Course"
+msgstr "Corso Pro"
+
+msgctxt "20956"
+msgid "Never Mind"
+msgstr "Lascia perdere"
+
+msgctxt "20960"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "20964"
+msgid "No"
+msgstr "No"
+
+msgctxt "20968"
+msgid "HAL_TLK_stand_request02"
+msgstr "HAL_TLK_stand_request02"
+
+msgctxt "20972"
+msgid "Give It a Try"
+msgstr "Provaci"
+
+msgctxt "20976"
+msgid "Forget It"
+msgstr "Lascia perdere"
+
+msgctxt "104_Haruka"
+msgid "Hmm... Not too sharp today, Uncle Kaz."
+msgstr "Hmm... Non sei molto in forma oggi, Zio Kaz."
+
+msgctxt "116_Kiryu"
+msgid "(I'm sorry, Haruka. I'll try to do better next time.)"
+msgstr "(Mi dispiace, Haruka. La prossima volta cercherò di fare di meglio.)"
+
+msgctxt "128_Haruka"
+msgid "Yes! You're awesome, Uncle Kaz. You really can do anything."
+msgstr "Sì! Sei un mito, Zio Kaz. Sai fare davvero di tutto."
+
+msgctxt "152_Kiryu"
+msgid "(Haruka sure seems happy.)"
+msgstr "(Haruka sembra proprio felice.)"
+
+msgctxt "224_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! This is for you!\r\n"
+" "
+msgstr "Grazie, Zio Kaz! Questo è per te!"
+
+msgctxt "284_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come play cho-han with you next time, okay?\r\n"
+" "
+msgstr ""
+"Grazie infinite, Zio Kaz! Voglio venire a giocare a cho-han con te la "
+"prossima volta, okay?"
+
+msgctxt "332_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I have a present for you!\r\n"
+" "
+msgstr "Grazie mille, Zio Kaz! Ho un regalo per te!"
+
+msgctxt "392_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "452_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "512_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "572_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "632_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "728_Haruka"
+msgid ""
+"Thanks for doing all that stuff for me, Uncle Kaz!\r\n"
+" "
+msgstr "Grazie per aver fatto tutte quelle cose per me, Zio Kaz!"
+
+msgctxt "740_Haruka"
+msgid ""
+"Here, this is a special present, just for you!\r\n"
+" "
+msgstr "Ecco, questo è un regalo speciale, solo per te!"
+
+msgctxt "764_Haruka"
+msgid "Thanks, Uncle Kaz! I love you!"
+msgstr "Grazie, Zio Kaz! Ti voglio bene!"
+
+msgctxt "800_Kiryu"
+msgid "(We should be going.)"
+msgstr "(Dovremmo andare.)"
+
+msgctxt "824_Haruka"
+msgid "Thank you for playing. Would you like to play again?"
+msgstr "Grazie per aver giocato. Ti va di giocare ancora?"
+
+msgctxt "836_Staff"
+msgid "Welcome. Which course would you like to play?"
+msgstr "Benvenuto. Quale percorso vorresti fare?"
+
+msgctxt "848_Haruka"
+msgid ""
+"On the Beginner Course, aim for targets and score points to win a prize. You"
+" get ten balls. The six targets are relatively easy to hit."
+msgstr ""
+"Nel Percorso Principianti, punta ai bersagli e fai punti per vincere un "
+"premio. Hai dieci colpi a disposizione. I sei bersagli sono relativamente "
+"facili da colpire."
+
+msgctxt "860_Haruka"
+msgid "Will you play the Beginner Course? It's 500 yen."
+msgstr "Vuoi fare il Percorso Principianti? Costa 500 yen."
+
+msgctxt "884_Staff"
+msgid "Thank you. Enjoy yourself."
+msgstr "Grazie. Si diverta."
+
+msgctxt "908_Haruka"
+msgid ""
+"The Intermediate Course is like the Beginner Course. Aim for fixed targets "
+"and score points. You get ten balls, and the targets are harder to hit."
+msgstr ""
+"Il Corso Intermedio è come il Corso per Principianti. Mira a bersagli fissi "
+"e fai punti. Hai dieci colpi, e i bersagli sono più ostici da colpire."
+
+msgctxt "920_Haruka"
+msgid "Will you play the Intermediate Course? It's 500 yen."
+msgstr "Vuoi giocare al Corso Intermedio? Sono 500 yen."
+
+msgctxt "944_Staff"
+msgid "Thank you. Enjoy yourself."
+msgstr "Grazie. Si diverta."
+
+msgctxt "968_Haruka"
+msgid ""
+"The Advanced Course has targets that flip over when hit, so you can't score "
+"off the same target twice. Hit them all to flip them back. You get twelve "
+"balls."
+msgstr ""
+"Il Corso Avanzato ha bersagli che si capovolgono quando colpiti, quindi non "
+"puoi fare punti sullo stesso bersaglio due volte. Colpiscili tutti per farli"
+" tornare a posto. Hai dodici palline."
+
+msgctxt "980_Haruka"
+msgid "Will you play the Advanced Course? It's 500 yen."
+msgstr "Vuoi giocare al Corso Avanzato? Sono 500 yen."
+
+msgctxt "1004_Staff"
+msgid "Thank you. Enjoy yourself."
+msgstr "Grazie. Si diverta."
+
+msgctxt "1028_Haruka"
+msgid ""
+"The Pro Course also has targets that flip over when hit, so you can't score "
+"off the same target twice. Hit them all to flip them back. You get fifteen "
+"balls."
+msgstr ""
+"Il Corso Pro ha anche dei bersagli che si ribaltano quando vengono colpiti, "
+"quindi non puoi fare punti sullo stesso bersaglio due volte. Colpiscili "
+"tutti per farli tornare indietro. Hai quindici palline."
+
+msgctxt "1040_Haruka"
+msgid "Will you play the Pro Course? It's 500 yen."
+msgstr "Vuoi giocare al Corso Pro? Sono 500 yen."
+
+msgctxt "1064_Staff"
+msgid "Thank you. Enjoy yourself."
+msgstr "Grazie. Si diverta."
+
+msgctxt "1088_Haruka"
+msgid "Will you play the Ranking Course? It's 500 yen."
+msgstr "Vuoi giocare al Percorso Classifica? Costa 500 yen."
+
+msgctxt "1112_Staff"
+msgid "Thank you. Enjoy yourself."
+msgstr "Grazie. Si diverta."
+
+msgctxt "1136_Staff"
+msgid "I see. We look forward to having you join us. Please come again."
+msgstr "Capisco. Non vediamo l'ora di averti di nuovo qui. Torna a trovarci."
+
+msgctxt "1160_Staff"
+msgid "Look, I don't run a charity here. Nobody gets to play for free."
+msgstr ""
+"Senti, non sono mica un ente di beneficenza, io. Nessuno gioca gratis."
+
+msgctxt "1184_Staff"
+msgid "Welcome."
+msgstr "Benvenuto."
+
+msgctxt "1196_Haruka"
+msgid ""
+"Uncle Kaz! I want to see you <Color:8>get at least 650 points on "
+"Intermediate<Color:Default>!"
+msgstr ""
+"Zio Kaz! Voglio vederti <Color:8>fare almeno 650 punti "
+"nell'Intermedio<Color:Default>!"
+
+msgctxt "1208_Kiryu"
+msgid ""
+"(Haruka wants me to <Color:8>score at least 650 points on "
+"Intermediate<Color:Default>.)"
+msgstr ""
+"(Haruka vuole che io <Color:8>faccia almeno 650 punti "
+"all'Intermedio<Color:Default>.)"
+
+msgctxt "1232_Haruka"
+msgid "Aww, okay. Some other time."
+msgstr "Ah, va bene. Magari un'altra volta."
+
+msgctxt "1256_Haruka"
+msgid "Thank ya kindly. Enjoy yourself."
+msgstr "Ti ringrazio tanto. Divertiti."
+
+msgctxt "1268_Haruka"
+msgid "Good luck, Uncle Kaz!"
+msgstr "Buona fortuna, Zio Kaz!"
+
+msgctxt "1292_Staff"
+msgid "Oh? You're not playing? Please come again."
+msgstr "Oh? Non stai giocando? Torna a trovarci."
+
+msgctxt "1316_Haruka"
+msgid "No, no. No one plays for free."
+msgstr "No, no. Nessuno gioca gratis."
+
+msgctxt "1340_Staff"
+msgid "Welcome. Which course would you like to play?"
+msgstr "Benvenuto. Quale percorso vorresti fare?"
+
+msgctxt "1352_Staff"
+msgid "Which course would you like to play?"
+msgstr "Quale percorso vuoi fare?"
+
+msgctxt "1364_Haruka"
+msgid ""
+"On the Beginner Course, aim for targets and score points to win a prize. You"
+" get ten balls. The six targets are relatively easy to hit."
+msgstr ""
+"Nel Percorso Principianti, punta ai bersagli e fai punti per vincere un "
+"premio. Hai dieci colpi a disposizione. I sei bersagli sono relativamente "
+"facili da colpire."
+
+msgctxt "1376_Haruka"
+msgid "Will you play the Beginner Course? It's 500 yen."
+msgstr "Vuoi fare il Percorso Principianti? Costa 500 yen."
+
+msgctxt "1400_Staff"
+msgid "Thank you. Enjoy yourself."
+msgstr "Grazie. Si diverta."
+
+msgctxt "1424_Haruka"
+msgid ""
+"The Intermediate Course is like the Beginner Course. Aim for fixed targets "
+"and score points. You get ten balls, and the targets are harder to hit."
+msgstr ""
+"Il Corso Intermedio è come il Corso per Principianti. Mira a bersagli fissi "
+"e fai punti. Hai dieci colpi, e i bersagli sono più ostici da colpire."
+
+msgctxt "1436_Haruka"
+msgid "Will you play the Intermediate Course? It's 500 yen."
+msgstr "Vuoi giocare al Corso Intermedio? Sono 500 yen."
+
+msgctxt "1460_Staff"
+msgid "Thank you. Enjoy yourself."
+msgstr "Grazie. Si diverta."
+
+msgctxt "1484_Haruka"
+msgid ""
+"The Advanced Course has targets that flip over when hit, so you can't score "
+"off the same target twice. Hit them all to flip them back. You get twelve "
+"balls."
+msgstr ""
+"Il Corso Avanzato ha bersagli che si capovolgono quando colpiti, quindi non "
+"puoi fare punti sullo stesso bersaglio due volte. Colpiscili tutti per farli"
+" tornare a posto. Hai dodici palline."
+
+msgctxt "1496_Haruka"
+msgid "Will you play the Advanced Course? It's 500 yen."
+msgstr "Vuoi giocare al Corso Avanzato? Sono 500 yen."
+
+msgctxt "1520_Staff"
+msgid "Thank you. Enjoy yourself."
+msgstr "Grazie. Si diverta."
+
+msgctxt "1544_Haruka"
+msgid ""
+"The Pro Course also has targets that flip over when hit, so you can't score "
+"off the same target twice. Hit them all to flip them back. You get fifteen "
+"balls."
+msgstr ""
+"Il Corso Pro ha anche dei bersagli che si ribaltano quando vengono colpiti, "
+"quindi non puoi fare punti sullo stesso bersaglio due volte. Colpiscili "
+"tutti per farli tornare indietro. Hai quindici palline."
+
+msgctxt "1556_Haruka"
+msgid "Will you play the Pro Course? It's 500 yen."
+msgstr "Vuoi giocare al Corso Pro? Sono 500 yen."
+
+msgctxt "1580_Staff"
+msgid "Thank you. Enjoy yourself."
+msgstr "Grazie. Si diverta."
+
+msgctxt "1604_Haruka"
+msgid "Will you play the Ranking Course? It's 500 yen."
+msgstr "Vuoi giocare al Percorso Classifica? Costa 500 yen."
+
+msgctxt "1628_Staff"
+msgid "Thank you. Enjoy yourself."
+msgstr "Grazie. Si diverta."
+
+msgctxt "1652_Staff"
+msgid "Oh? You're not playing? Please come again."
+msgstr "Oh? Non stai giocando? Torna a trovarci."
+
+msgctxt "1676_Staff"
+msgid "Look, I don't run a charity here. Nobody gets to play for free."
+msgstr ""
+"Senti, non sono mica un ente di beneficenza, io. Nessuno gioca gratis."

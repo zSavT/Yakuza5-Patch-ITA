@@ -1,0 +1,464 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1472"
+msgid "You won <Color:8>30,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1520"
+msgid "You got 2,500 experience points."
+msgstr ""
+
+msgctxt "1700"
+msgid "You won <Color:8>10,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1748"
+msgid "You got 2,100 experience points."
+msgstr ""
+
+msgctxt "1964"
+msgid "You got 1,300 experience points."
+msgstr ""
+
+msgctxt "21980"
+msgid "dummy"
+msgstr ""
+
+msgctxt "21984"
+msgid "Game Show Host"
+msgstr ""
+
+msgctxt "21988"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "21992"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "21996"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "22000"
+msgid "kaiwabgm_quiz"
+msgstr ""
+
+msgctxt "22004"
+msgid "Which is the name of a bar in Sotenbori?(改行)(改行)"
+msgstr ""
+
+msgctxt "22008"
+msgid "\"Style Bar.\""
+msgstr ""
+
+msgctxt "22012"
+msgid "\"Stijl Bar.\""
+msgstr ""
+
+msgctxt "22016"
+msgid ""
+"There's a giant cat figurine at the entrance(改行)to the fried pork skewer "
+"restaurant Daruma.(改行)"
+msgstr ""
+
+msgctxt "22020"
+msgid "That's true!"
+msgstr ""
+
+msgctxt "22024"
+msgid "That's false."
+msgstr ""
+
+msgctxt "22028"
+msgid ""
+"There are four tecchiri nabe sets at(改行)Zuboraya. The cheapest is the "
+"\"Benten.\"(改行)"
+msgstr ""
+
+msgctxt "22032"
+msgid "I think that's false."
+msgstr ""
+
+msgctxt "22036"
+msgid "Magutako's most expensive product is its(改行)twelve-piece takoyaki set.(改行)"
+msgstr ""
+
+msgctxt "22040"
+msgid "True, of course!"
+msgstr ""
+
+msgctxt "22044"
+msgid "That's false!"
+msgstr ""
+
+msgctxt "22048"
+msgid ""
+"At Sotenbori's Ganko Sushi, there is a kaiseki(改行)course that costs more "
+"than 10,000 yen.(改行)"
+msgstr ""
+
+msgctxt "22052"
+msgid "There is a hostess club in Sotenbori named(改行)\"Elise.\" True or false?(改行)"
+msgstr ""
+
+msgctxt "22056"
+msgid "Of course that's true!"
+msgstr ""
+
+msgctxt "22060"
+msgid "That's false, of course!"
+msgstr ""
+
+msgctxt "22064"
+msgid ""
+"How many places are there in Sotenbori where(改行)it's easy to grab a "
+"taxi?(改行)"
+msgstr ""
+
+msgctxt "22068"
+msgid "Five places."
+msgstr ""
+
+msgctxt "22072"
+msgid "Four places."
+msgstr ""
+
+msgctxt "22076"
+msgid "What is the Princess League's MC's name?(改行)(改行)"
+msgstr ""
+
+msgctxt "22080"
+msgid "Dolce Kamiya."
+msgstr ""
+
+msgctxt "22084"
+msgid "Dolce Kamaya."
+msgstr ""
+
+msgctxt "22088"
+msgid "What shape is Ashitaba Park in southeast(改行)Sotenbori?(改行)"
+msgstr ""
+
+msgctxt "22092"
+msgid "A pentagon!"
+msgstr ""
+
+msgctxt "22096"
+msgid "A triangle!"
+msgstr ""
+
+msgctxt "22100"
+msgid ""
+"What beer is advertised on the huge neon(改行)yellow sign you can see from "
+"Iwao Bridge?(改行)"
+msgstr ""
+
+msgctxt "22104"
+msgid "Hustle Beer."
+msgstr ""
+
+msgctxt "22108"
+msgid "Muscle Beer."
+msgstr ""
+
+msgctxt "80_dummy"
+msgid ""
+"Sawamura-san! This is your third time on the show now. Are you finally "
+"getting used to this?"
+msgstr ""
+
+msgctxt "92_Haruka"
+msgid "I think so, yes."
+msgstr ""
+
+msgctxt "104_Game Show Host"
+msgid "Maybe it's time we stopped being so formal with each other."
+msgstr ""
+
+msgctxt "116_Haruka"
+msgid "Pardon?"
+msgstr ""
+
+msgctxt "128_Game Show Host"
+msgid "Do you mind if I call you by your first name?"
+msgstr ""
+
+msgctxt "140_Haruka"
+msgid "Oh, I wouldn't mind at all."
+msgstr ""
+
+msgctxt "152_Game Show Host"
+msgid ""
+"All right. In that case, I will. Are you ready for today's quiz, "
+"Sawamura-san?"
+msgstr ""
+
+msgctxt "164_Haruka"
+msgid "Yes! But I think you forgot to call me by my first name."
+msgstr ""
+
+msgctxt "176_Game Show Host"
+msgid "Haha! So I did. I guess old habits die hard."
+msgstr ""
+
+msgctxt "188_Game Show Host"
+msgid "Anyway, let's get started."
+msgstr ""
+
+msgctxt "200_Game Show Host"
+msgid "Sotenbori Love Check Quiz－begin!"
+msgstr ""
+
+msgctxt "296_dummy"
+msgid ""
+"Excellent! I hope you can keep up the good\r\n"
+"work. Now, on to the next question."
+msgstr ""
+
+msgctxt "320_dummy"
+msgid ""
+"I'm sorry. I'm afraid that's incorrect.\r\n"
+"Better luck on the next question!"
+msgstr ""
+
+msgctxt "344_dummy"
+msgid ""
+"I'm sorry. I'm afraid you're out of time.\r\n"
+"Let's go on to the next question."
+msgstr ""
+
+msgctxt "404_dummy"
+msgid ""
+"Excellent! I hope you can keep up the good\r\n"
+"work. Now, on to the next question."
+msgstr ""
+
+msgctxt "428_dummy"
+msgid ""
+"I'm sorry. I'm afraid that's incorrect.\r\n"
+"Better luck on the next question!"
+msgstr ""
+
+msgctxt "452_dummy"
+msgid ""
+"I'm sorry. I'm afraid you're out of time.\r\n"
+"Let's go on to the next question."
+msgstr ""
+
+msgctxt "512_dummy"
+msgid ""
+"Excellent! I hope you can keep up the good\r\n"
+"work. Now, on to the next question."
+msgstr ""
+
+msgctxt "536_dummy"
+msgid ""
+"I'm sorry. I'm afraid that's incorrect.\r\n"
+"Better luck on the next question!"
+msgstr ""
+
+msgctxt "560_dummy"
+msgid ""
+"I'm sorry. I'm afraid you're out of time.\r\n"
+"Let's go on to the next question."
+msgstr ""
+
+msgctxt "620_dummy"
+msgid ""
+"Excellent! I hope you can keep up the good\r\n"
+"work. Now, on to the next question."
+msgstr ""
+
+msgctxt "644_dummy"
+msgid ""
+"I'm sorry. I'm afraid that's incorrect.\r\n"
+"Better luck on the next question!"
+msgstr ""
+
+msgctxt "668_dummy"
+msgid ""
+"I'm sorry. I'm afraid you're out of time.\r\n"
+"Let's go on to the next question."
+msgstr ""
+
+msgctxt "728_dummy"
+msgid ""
+"Excellent! I hope you can keep up the good\r\n"
+"work. Now, on to the next question."
+msgstr ""
+
+msgctxt "752_dummy"
+msgid ""
+"I'm sorry. I'm afraid that's incorrect.\r\n"
+"Better luck on the next question!"
+msgstr ""
+
+msgctxt "776_dummy"
+msgid ""
+"I'm sorry. I'm afraid you're out of time.\r\n"
+"Let's go on to the next question."
+msgstr ""
+
+msgctxt "836_dummy"
+msgid ""
+"Excellent! I hope you can keep up the good\r\n"
+"work. Now, on to the next question."
+msgstr ""
+
+msgctxt "860_dummy"
+msgid ""
+"I'm sorry. I'm afraid that's incorrect.\r\n"
+"Better luck on the next question!"
+msgstr ""
+
+msgctxt "884_dummy"
+msgid ""
+"I'm sorry. I'm afraid you're out of time.\r\n"
+"Let's go on to the next question."
+msgstr ""
+
+msgctxt "944_dummy"
+msgid ""
+"Excellent! I hope you can keep up the good\r\n"
+"work. Now, on to the next question."
+msgstr ""
+
+msgctxt "968_dummy"
+msgid ""
+"I'm sorry. I'm afraid that's incorrect.\r\n"
+"Better luck on the next question!"
+msgstr ""
+
+msgctxt "992_dummy"
+msgid ""
+"I'm sorry. I'm afraid you're out of time.\r\n"
+"Let's go on to the next question."
+msgstr ""
+
+msgctxt "1052_dummy"
+msgid ""
+"Excellent! I hope you can keep up the good\r\n"
+"work. Now, on to the next question."
+msgstr ""
+
+msgctxt "1076_dummy"
+msgid ""
+"I'm sorry. I'm afraid that's incorrect.\r\n"
+"Better luck on the next question!"
+msgstr ""
+
+msgctxt "1100_dummy"
+msgid ""
+"I'm sorry. I'm afraid you're out of time.\r\n"
+"Let's go on to the next question."
+msgstr ""
+
+msgctxt "1160_dummy"
+msgid ""
+"Excellent! I hope you can keep up the good\r\n"
+"work. Now, on to the next question."
+msgstr ""
+
+msgctxt "1184_dummy"
+msgid ""
+"I'm sorry. I'm afraid that's incorrect.\r\n"
+"Better luck on the next question!"
+msgstr ""
+
+msgctxt "1208_dummy"
+msgid ""
+"I'm sorry. I'm afraid you're out of time.\r\n"
+"Let's go on to the next question."
+msgstr ""
+
+msgctxt "1268_dummy"
+msgid "You are correct!"
+msgstr ""
+
+msgctxt "1292_dummy"
+msgid "I'm afraid you are incorrect."
+msgstr ""
+
+msgctxt "1316_dummy"
+msgid "I'm afraid you're out of time."
+msgstr ""
+
+msgctxt "1352_dummy"
+msgid "Now, Sawamura-san, let's see how you did!"
+msgstr ""
+
+msgctxt "1436_dummy"
+msgid "You got all ten questions correct!"
+msgstr ""
+
+msgctxt "1448_Haruka"
+msgid "I did it!"
+msgstr ""
+
+msgctxt "1460_Game Show Host"
+msgid ""
+"With all ten questions correct, you win the title of \"Sotenbori Fanatic\" "
+"and 30,000 yen!"
+msgstr ""
+
+msgctxt "1484_Haruka"
+msgid "Thank you very much!"
+msgstr ""
+
+msgctxt "1496_Game Show Host"
+msgid "So that's it. Join us next time, on Sotenbori Love Check Quiz!"
+msgstr ""
+
+msgctxt "1664_dummy"
+msgid "You did very well!"
+msgstr ""
+
+msgctxt "1676_Haruka"
+msgid "Oh, I'm so glad!"
+msgstr ""
+
+msgctxt "1688_Game Show Host"
+msgid ""
+"For meeting the seven-question goal, you win the title of \"Sotenbori "
+"Buff\" and 10,000 yen!"
+msgstr ""
+
+msgctxt "1712_Haruka"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "1724_Game Show Host"
+msgid "So that's it. Join us next time, on Sotenbori Love Check Quiz!"
+msgstr ""
+
+msgctxt "1892_dummy"
+msgid "I'm sorry, but you weren't a winner this time."
+msgstr ""
+
+msgctxt "1904_Haruka"
+msgid "Oh, darn."
+msgstr ""
+
+msgctxt "1916_Game Show Host"
+msgid "I hope this doesn't mean you're lacking in love for good ol' Sotenbori!"
+msgstr ""
+
+msgctxt "1928_Haruka"
+msgid "No, of course not."
+msgstr ""
+
+msgctxt "1940_Game Show Host"
+msgid "So that's it. Join us next time, on Sotenbori Love Check Quiz!"
+msgstr ""

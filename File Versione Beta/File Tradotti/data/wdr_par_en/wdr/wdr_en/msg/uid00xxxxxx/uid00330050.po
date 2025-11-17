@@ -1,0 +1,323 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "10776"
+msgid "Owner"
+msgstr "Proprietario"
+
+msgctxt "10780"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "10784"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "10788"
+msgid "Exchange Shogi Points"
+msgstr "Scambia Punti Shogi"
+
+msgctxt "10792"
+msgid "Play Ranked Match"
+msgstr "Gioca Partita Classificata"
+
+msgctxt "10796"
+msgid "Play Challenges"
+msgstr "Gioca Sfide"
+
+msgctxt "10800"
+msgid "Read the Rules"
+msgstr "Leggi le Regole"
+
+msgctxt "10804"
+msgid "Never Mind"
+msgstr "Lascia perdere"
+
+msgctxt "10808"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "10812"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "10816"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "10820"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "10824"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "10828"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "10832"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "60_Owner"
+msgid "How was it? Have a good game? Thanks for stopping by."
+msgstr "Com'è andata? Hai fatto una bella partita? Grazie per essere passato."
+
+msgctxt "120_Play Ranked Match"
+msgid "Want to play shogi? It's 500 yen a game."
+msgstr "Vuoi giocare a shogi? Sono 500 yen a partita."
+
+msgctxt "156_Kiryu"
+msgid "Sure, I'll play."
+msgstr "Certo, ci sto."
+
+msgctxt "168_Akiyama"
+msgid "Sure, I'll play."
+msgstr "Certo, ci sto."
+
+msgctxt "180_Saejima"
+msgid "Sure. I'll play."
+msgstr "Certo. Ci sto."
+
+msgctxt "192_Shinada"
+msgid "Sure, I'll play."
+msgstr "Certo, ci sto."
+
+msgctxt "204_Haruka"
+msgid "Yes, please. I want to play."
+msgstr "Sì, per favore. Voglio giocare."
+
+msgctxt "216_Owner"
+msgid "Great! Who would you like to challenge?"
+msgstr "Ottimo! Chi vorresti sfidare?"
+
+msgctxt "240_Owner"
+msgid "Good luck to you, then."
+msgstr "In bocca al lupo, allora."
+
+msgctxt "288_Kiryu"
+msgid "Sure, I'll play."
+msgstr "Certo, ci sto."
+
+msgctxt "300_Akiyama"
+msgid "Sure, I'll play."
+msgstr "Certo, ci sto."
+
+msgctxt "312_Saejima"
+msgid "Sure. I'll play."
+msgstr "Certo. Ci sto."
+
+msgctxt "324_Shinada"
+msgid "Sure, I'll play."
+msgstr "Certo, ci sto."
+
+msgctxt "336_Haruka"
+msgid "Yes, please. I want to play."
+msgstr "Sì, per favore. Voglio giocare."
+
+msgctxt "348_Owner"
+msgid "Great! Who would you like to challenge?"
+msgstr "Ottimo! Chi vorresti sfidare?"
+
+msgctxt "384_Owner"
+msgid "Good luck to you, then."
+msgstr "In bocca al lupo, allora."
+
+msgctxt "408_Owner"
+msgid ""
+"Ah, a board with a move limit. When you play on this board, you have to "
+"corner your opponent within a set number of moves."
+msgstr ""
+"Ah, una scacchiera con un limite di mosse. Quando giochi qui, devi mettere "
+"all'angolo il tuo avversario entro un numero prestabilito di mosse."
+
+msgctxt "420_Owner"
+msgid ""
+"You can take back any move as often as you like,   so you can rely on a bit "
+"of trial and error to solve the puzzle. Enjoy the challenge."
+msgstr ""
+"Puoi annullare qualsiasi mossa quante volte ti pare, così puoi andare per "
+"tentativi per risolvere il rompicapo. Goditi la sfida."
+
+msgctxt "456_Kiryu"
+msgid "No, I'll pass."
+msgstr "No, passo."
+
+msgctxt "468_Akiyama"
+msgid "Sorry, no. Not right now."
+msgstr "Spiacente, no. Non adesso."
+
+msgctxt "480_Saejima"
+msgid "No, I'll pass."
+msgstr "No, passo."
+
+msgctxt "492_Shinada"
+msgid "Sorry, no. Not right now."
+msgstr "Spiacente, no. Non adesso."
+
+msgctxt "504_Haruka"
+msgid "I'm sorry, I'm not going to play."
+msgstr "Mi dispiace, non giocherò."
+
+msgctxt "516_Owner"
+msgid "Okay, then. Drop in whenever you want to play."
+msgstr "Va bene, allora. Passa quando vuoi giocare."
+
+msgctxt "540_Kiryu"
+msgid "Tell me about this place."
+msgstr "Dimmi di questo posto."
+
+msgctxt "552_Akiyama"
+msgid "Tell me about this place."
+msgstr "Dimmi di questo posto."
+
+msgctxt "564_Saejima"
+msgid "What's this place about?"
+msgstr "Cos'è 'sto posto?"
+
+msgctxt "576_Shinada"
+msgid "So what is this place, anyway?"
+msgstr "Allora, che cos'è 'sto posto, insomma?"
+
+msgctxt "588_Haruka"
+msgid "Can you tell me more about your shop?"
+msgstr "Puoi dirmi di più sul tuo negozio?"
+
+msgctxt "612_Play Ranked Match"
+msgid ""
+"I haven't seen you much in this place, buddy. So you wanna start playing "
+"shogi? That's great to hear."
+msgstr ""
+"Non ti si vede molto in giro da queste parti, compare.\n"
+"Allora, vuoi darti allo shogi? Ottimo, mi fa piacere sentirlo."
+
+msgctxt "624_Owner"
+msgid ""
+"At our place, you can play ranked matches if you're aiming for the top, and "
+"shogi Challenges to test your skill."
+msgstr ""
+"Da noi, puoi giocare partite classificate se punti alla vetta, e sfide di "
+"shogi per mettere alla prova la tua abilità."
+
+msgctxt "636_Owner"
+msgid ""
+"In a ranked match, you pick opponents closest to your current ranking. If "
+"you wanna play against tough players, you'll have to climb the ranks."
+msgstr ""
+"In una partita classificata, scegli gli avversari più vicini al tuo ranking "
+"attuale. Se vuoi giocartela contro giocatori tosti, dovrai scalare la "
+"classifica."
+
+msgctxt "648_Owner"
+msgid ""
+"As far as ranks are concerned, by beating opponents higher rank than you, "
+"you'll take their rank. Just aim to keep going up and up."
+msgstr ""
+"Per quanto riguarda i ranghi, sconfiggendo avversari di rango superiore al "
+"tuo, prenderai il loro rango. Punta solo a continuare a salire sempre più in"
+" alto."
+
+msgctxt "660_Owner"
+msgid ""
+"The board is a bit special when it comes to Challenges. When you start off, "
+"the board'll be more advantageous for you, but it'll gradually get harder."
+msgstr ""
+"La scacchiera è un po' speciale quando si tratta di Sfide. Quando parti, la "
+"scacchiera sarà più vantaggiosa per te, ma diventerà via via più difficile."
+
+msgctxt "672_Owner"
+msgid ""
+"It'll cost you 500 yen to play, but you can get some nice prizes if you win."
+" Good luck."
+msgstr ""
+"Ti costerà 500 yen giocare, ma se vinci puoi portarti a casa dei bei premi. "
+"In bocca al lupo!"
+
+msgctxt "684_Owner"
+msgid "What's that buddy, you got no money? Come back when you have 500 yen."
+msgstr "Che c'è, ragazzo, non hai un soldo? Torna quando hai 500 yen."
+
+msgctxt "696_Play Ranked Match"
+msgid ""
+"Welcome! We're celebrating the emergence of a new Shogi King. For the "
+"duration, you can play with us for free."
+msgstr ""
+"Benvenuto! Stiamo festeggiando l'emergere di un nuovo Re dello Shogi. Per "
+"tutta la durata, puoi giocare con noi gratuitamente."
+
+msgctxt "720_Kiryu"
+msgid "Sure, I'll play."
+msgstr "Certo, ci sto."
+
+msgctxt "732_Akiyama"
+msgid "Sure, I'll play."
+msgstr "Certo, ci sto."
+
+msgctxt "744_Saejima"
+msgid "Yeah, I'll play."
+msgstr "Sì, gioco."
+
+msgctxt "756_Shinada"
+msgid "Yeah, sure. Let me play."
+msgstr "Sì, certo. Fammi giocare."
+
+msgctxt "768_Haruka"
+msgid "Yes, please. I want to play."
+msgstr "Sì, per favore. Voglio giocare."
+
+msgctxt "780_Owner"
+msgid "Got it. Who would you like to challenge?"
+msgstr "Capito. Chi vuoi sfidare?"
+
+msgctxt "804_Owner"
+msgid "Good luck!"
+msgstr "Buona fortuna!"
+
+msgctxt "840_Kiryu"
+msgid "Sure, I'll play."
+msgstr "Certo, ci sto."
+
+msgctxt "852_Akiyama"
+msgid "Sure, I'll play."
+msgstr "Certo, ci sto."
+
+msgctxt "864_Saejima"
+msgid "Yeah, I'll play."
+msgstr "Sì, gioco."
+
+msgctxt "876_Shinada"
+msgid "Yeah, sure. Let me play."
+msgstr "Sì, certo. Fammi giocare."
+
+msgctxt "888_Haruka"
+msgid "Yes, please. I want to play."
+msgstr "Sì, per favore. Voglio giocare."
+
+msgctxt "900_Owner"
+msgid "Great! Who would you like to challenge?"
+msgstr "Ottimo! Chi vorresti sfidare?"
+
+msgctxt "924_Owner"
+msgid "Good luck to you, then."
+msgstr "In bocca al lupo, allora."
+
+msgctxt "960_Owner"
+msgid "Sure. You're exchanging your Shogi Points? What would you like back?"
+msgstr "Certo. Stai scambiando i tuoi Punti Shogi? Cosa vorresti in cambio?"
+
+msgctxt "972_Owner"
+msgid "Sure thing. Come again."
+msgstr "Certo. Torna a trovarci."

@@ -1,0 +1,37 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "612"
+msgid "Policeman"
+msgstr "Poliziotto"
+
+msgctxt "616"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "620"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "60_Policeman"
+msgid "Hey, you there. I know you..."
+msgstr "Ehi, tu! Ti conosco..."
+
+msgctxt "72_Player"
+msgid "(Shit! Looks like my cover's blown!)"
+msgstr "(Merda! Sembra che la mia copertura sia saltata!)"
+
+msgctxt "84_Policeman"
+msgid "You're that prison escapee, Saejima! Hold it right there!"
+msgstr "Sei tu quell'evaso, Saejima! Fermo lì!"

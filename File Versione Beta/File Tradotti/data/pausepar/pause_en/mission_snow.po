@@ -1,0 +1,137 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-25\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "473\tNAME"
+msgid "Rescue Baba"
+msgstr "Salva Baba"
+
+msgctxt "485\tNAME"
+msgid "Gather Food"
+msgstr "Raccogli Cibo"
+
+msgctxt "497\tNAME"
+msgid "Get Food and Skins"
+msgstr "Procurati Cibo e Pelli"
+
+msgctxt "516\tNAME"
+msgid "Locate the Lost Hunter"
+msgstr "Rintraccia il Cacciatore Smarrito"
+
+msgctxt "539\tNAME"
+msgid "Temp"
+msgstr "Temporaneo"
+
+msgctxt "544\tNAME"
+msgid "Temp"
+msgstr "Temporaneo"
+
+msgctxt "549\tNAME"
+msgid "Temp"
+msgstr "Temporaneo"
+
+msgctxt "554\tNAME"
+msgid "Temp"
+msgstr "Temporaneo"
+
+msgctxt "559\tNAME"
+msgid "Attach the Transmitter"
+msgstr "Attacca il Trasmettitore"
+
+msgctxt "582\tNAME"
+msgid "Okudera's Escort"
+msgstr "Scorta di Okudera"
+
+msgctxt "599\tNAME"
+msgid "Follow Okudera"
+msgstr "Segui Okudera"
+
+msgctxt "614\tNAME"
+msgid "Defeat Yama-oroshi"
+msgstr "Sconfiggi Yama-oroshi"
+
+msgctxt "633\tEXPLANATION"
+msgid "Temp"
+msgstr "Temporaneo"
+
+msgctxt "638\tEXPLANATION"
+msgid "Temp"
+msgstr "Temporaneo"
+
+msgctxt "643\tEXPLANATION"
+msgid "Temp"
+msgstr "Temporaneo"
+
+msgctxt "648\tEXPLANATION"
+msgid "I guess I should go help that hunter..."
+msgstr "Mi sa che dovrei andare ad aiutare quel cacciatore..."
+
+msgctxt "688\tEXPLANATION"
+msgid "Temp"
+msgstr "Temporaneo"
+
+msgctxt "693\tEXPLANATION"
+msgid "Temp"
+msgstr "Temporaneo"
+
+msgctxt "698\tEXPLANATION"
+msgid "Temp"
+msgstr "Temporaneo"
+
+msgctxt "703\tEXPLANATION"
+msgid "Temp"
+msgstr "Temporaneo"
+
+msgctxt "708\tEXPLANATION"
+msgid "I gotta go shoot Yama-oroshi with one of these transmitters"
+msgstr "Devo andare a sparare a Yama-oroshi con uno di questi trasmettitori"
+
+msgctxt "768\tEXPLANATION"
+msgid "Looks like we can locate Yama-oroshi. I gotta track 'im down."
+msgstr "Pare che possiamo localizzare Yama-oroshi. Devo rintracciarlo."
+
+msgctxt "830\tEXPLANATION"
+msgid ""
+"Okudera-han went up by himself. The man's still too weak for that. Gotta "
+"help him."
+msgstr ""
+"Okudera-han è salito da solo. Quell'uomo è ancora troppo debole per una cosa"
+" del genere. Devo aiutarlo."
+
+msgctxt "913\tEXPLANATION"
+msgid "I was finally able to locate Yama-oroshi. I'll finish 'im."
+msgstr "Finalmente sono riuscito a rintracciare Yama-oroshi. Lo farò fuori."
+
+msgctxt "1188\tNOTCOMP_STATE"
+msgid ""
+"d/%d\n"
+"兎の肉:%d/%d"
+msgstr ""
+"d/%d\n"
+"兎の肉:%d/%d"
+
+msgctxt "1223\tNOTCOMP_STATE"
+msgid "d/%d"
+msgstr "d/%d"
+
+msgctxt "1259\tCOMP_STATE"
+msgid ""
+"d/%d\n"
+"兎の肉:%d/%d"
+msgstr ""
+"d/%d\n"
+"兎の肉:%d/%d"
+
+msgctxt "1294\tCOMP_STATE"
+msgid "d/%d"
+msgstr "d/%d"

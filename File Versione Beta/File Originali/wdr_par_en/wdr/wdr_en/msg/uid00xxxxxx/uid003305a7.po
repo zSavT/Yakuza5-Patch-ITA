@@ -1,0 +1,682 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1424"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr ""
+
+msgctxt "1484"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round when you are "
+"playing cho-han.\r\n"
+" "
+msgstr ""
+
+msgctxt "1532"
+msgid "You got <Color:8>Haruka's Lunch<Color:Default>."
+msgstr ""
+
+msgctxt "1592"
+msgid "You got <Color:8>Haruka's First-Aid Kit<Color:Default>."
+msgstr ""
+
+msgctxt "1652"
+msgid "You got <Color:8>Red Jewel<Color:Default>."
+msgstr ""
+
+msgctxt "1712"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr ""
+
+msgctxt "1772"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr ""
+
+msgctxt "1832"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr ""
+
+msgctxt "1940"
+msgid "You got <Color:8>Morning Glory Belly Warmer<Color:Default>."
+msgstr ""
+
+msgctxt "2480"
+msgid "You got a Prize Ticket."
+msgstr ""
+
+msgctxt "3152"
+msgid "You got a Prize Ticket."
+msgstr ""
+
+msgctxt "36224"
+msgid "Staff"
+msgstr ""
+
+msgctxt "36228"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "36232"
+msgid "P_TLK_sitchr_kamae"
+msgstr ""
+
+msgctxt "36236"
+msgid "Shion"
+msgstr ""
+
+msgctxt "36240"
+msgid "Player"
+msgstr ""
+
+msgctxt "36244"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "36248"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "36252"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "36256"
+msgid "○Bring your friends next time."
+msgstr ""
+
+msgctxt "36260"
+msgid "□That's a bit silly."
+msgstr ""
+
+msgctxt "36264"
+msgid "△You should introduce me."
+msgstr ""
+
+msgctxt "36268"
+msgid "dummy"
+msgstr ""
+
+msgctxt "36272"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "36276"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "36280"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "36284"
+msgid "P_TLK_sitchr_no"
+msgstr ""
+
+msgctxt "36288"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "36292"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "36296"
+msgid "P_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "36300"
+msgid "P_TLK_sitchr_yes"
+msgstr ""
+
+msgctxt "36304"
+msgid "ArmsID"
+msgstr ""
+
+msgctxt "36308"
+msgid "HAL_TLK_sitchr_eat_noodle_min"
+msgstr ""
+
+msgctxt "36312"
+msgid "HAL_TLK_sitchr_kamae"
+msgstr ""
+
+msgctxt "36316"
+msgid "HAL_TLK_sitchr_smile"
+msgstr ""
+
+msgctxt "36320"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "36324"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "36328"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "36332"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "36336"
+msgid "0"
+msgstr ""
+
+msgctxt "36340"
+msgid "Idle"
+msgstr ""
+
+msgctxt "92_Staff"
+msgid "Welcome. If you'll please follow me."
+msgstr ""
+
+msgctxt "164_Staff"
+msgid "May I take your order?"
+msgstr ""
+
+msgctxt "176_Shion"
+msgid ""
+"Oh, <Color:8>Miso Stewed Udon with Nagoya Cochin Chicken<Color:Default>! "
+"That looks delicious!"
+msgstr ""
+
+msgctxt "188_Player"
+msgid ""
+"(Shion-chan's got her eye on that <Color:8>Miso Stewed Udon with Nagoya "
+"Cochin Chicken<Color:Default>.)"
+msgstr ""
+
+msgctxt "260_Shion"
+msgid "Cheers!"
+msgstr ""
+
+msgctxt "320_Shion"
+msgid "Do you come here often, Shinada-san?"
+msgstr ""
+
+msgctxt "332_Player"
+msgid "Not really. Why do you ask?"
+msgstr ""
+
+msgctxt "344_Shion"
+msgid ""
+"I've wanted to come here for some time, but I didn't know anyone who could "
+"introduce me, so I wasn't afforded the opportunity."
+msgstr ""
+
+msgctxt "356_Player"
+msgid "What's wrong with coming here by yourself? That's what I've always done."
+msgstr ""
+
+msgctxt "368_Shion"
+msgid "And you didn't have a letter of introduction?"
+msgstr ""
+
+msgctxt "380_Player"
+msgid ""
+"A what? I don't think there are any places around here that'd need "
+"something like that."
+msgstr ""
+
+msgctxt "392_Shion"
+msgid ""
+"Oh, really? I always get introduced to new establishments by my friends, "
+"and so I'd assumed this place was like that as well."
+msgstr ""
+
+msgctxt "404_Player"
+msgid "Bring your friends next time. Then you can be the one to introduce them."
+msgstr ""
+
+msgctxt "416_Shion"
+msgid ""
+"Good idea! And I'll have to tell my friends all about you, Shinada-san, "
+"won't I?"
+msgstr ""
+
+msgctxt "428_Player"
+msgid "About me? Uh, no, you don't have to do that."
+msgstr ""
+
+msgctxt "440_Shion"
+msgid ""
+"No, I simply must! It would reflect poorly on me to not pay proper respects "
+"to the person who introduced me to this place."
+msgstr ""
+
+msgctxt "452_Player"
+msgid "It's really not that big a thing..."
+msgstr ""
+
+msgctxt "464_Shion"
+msgid ""
+"Making your name a topic of conversation can spread the word about you. "
+"Talking only of oneself is much too tedious and gauche."
+msgstr ""
+
+msgctxt "476_Player"
+msgid ""
+"Gau... che? Aw geez, this is another one of your fancy high society rules, "
+"isn't it?"
+msgstr ""
+
+msgctxt "488_Player"
+msgid "That's a bit silly. Not many places are that picky about who comes in."
+msgstr ""
+
+msgctxt "500_Shion"
+msgid ""
+"But haven't you ever been invited to a new place by the owner when it's "
+"first opened?"
+msgstr ""
+
+msgctxt "512_Player"
+msgid ""
+"Oh, yeah, I guess I have! Like a new parlor will open up and they'll be "
+"all, \"Hey, come on by, it's on the house!\""
+msgstr ""
+
+msgctxt "524_Player"
+msgid ""
+"I guess they want to make a good impression, so I'll give them a glowing "
+"write-up and bring in more customers for them."
+msgstr ""
+
+msgctxt "536_Shion"
+msgid ""
+"Precisely! By starting with people whom they trust as guests, an "
+"establishment can build a much better reputation."
+msgstr ""
+
+msgctxt "548_Shion"
+msgid ""
+"I've heard stories of places that have opened to the general public first, "
+"only to have rivals send people in to cause embarrassing incidents."
+msgstr ""
+
+msgctxt "560_Player"
+msgid ""
+"Oh, wow! I know lots of places that failed pretty quickly. I didn't realize "
+"competition was so intense!"
+msgstr ""
+
+msgctxt "572_Player"
+msgid ""
+"You should introduce me! I'd love to go to a place like that! Then once "
+"you've introduced me, I can go by myself, right?"
+msgstr ""
+
+msgctxt "584_Shion"
+msgid ""
+"I don't mind introducing you, Shinada-san, but if you go back after that, "
+"then you need to introduce another friend of your own."
+msgstr ""
+
+msgctxt "596_Player"
+msgid "What? Why?"
+msgstr ""
+
+msgctxt "608_Shion"
+msgid ""
+"These places earn their business through their clientele introducing new "
+"customers. If you keep coming alone, they don't make any money."
+msgstr ""
+
+msgctxt "620_Shion"
+msgid ""
+"That's why it would be rude of me to introduce someone who would not "
+"continue the pattern of bringing someone new on their next visit."
+msgstr ""
+
+msgctxt "632_Player"
+msgid "Oh, I get it. Since it's so exclusive, they need people to help them grow."
+msgstr ""
+
+msgctxt "644_Player"
+msgid ""
+"If you ask me, seems like less trouble to just let everyone in to begin "
+"with."
+msgstr ""
+
+msgctxt "704_Shion"
+msgid "Thank you for treating me!"
+msgstr ""
+
+msgctxt "764_Staff"
+msgid "Here's your check. Thank you very much."
+msgstr ""
+
+msgctxt "824_Staff"
+msgid "Sorry, something came up all of a sudden. I have to go."
+msgstr ""
+
+msgctxt "836_Staff"
+msgid "I see. Well, please come again."
+msgstr ""
+
+msgctxt "872_Staff"
+msgid "Welcome. If you'll please follow me."
+msgstr ""
+
+msgctxt "896_Player"
+msgid "(I'm broke.)"
+msgstr ""
+
+msgctxt "920_Player"
+msgid "Sorry, I just remembered I have something to do."
+msgstr ""
+
+msgctxt "932_Staff"
+msgid "Ah, I see. Please do come again."
+msgstr ""
+
+msgctxt "1004_Staff"
+msgid "May I take your order?"
+msgstr ""
+
+msgctxt "1016_Haruka"
+msgid ""
+"Uncle Kaz, I'd really like some <Color:8>Miso Stewed Udon with Choice "
+"Kurobuta<Color:Default>."
+msgstr ""
+
+msgctxt "1028_Kiryu"
+msgid ""
+"(Haruka wants to have some <Color:8>Miso Stewed Udon with Choice "
+"Kurobuta<Color:Default>.)"
+msgstr ""
+
+msgctxt "1052_Staff"
+msgid ""
+"But I wanted some <Color:8>Miso Stewed Udon with Choice "
+"Kurobuta<Color:Default>."
+msgstr ""
+
+msgctxt "1064_Staff"
+msgid "I see. Well, please come again."
+msgstr ""
+
+msgctxt "1112_Staff"
+msgid "This looks really tasty! Thanks, Uncle Kaz!"
+msgstr ""
+
+msgctxt "1256_Haruka"
+msgid "Thanks for treating me!"
+msgstr ""
+
+msgctxt "1268_Staff"
+msgid "(Haruka sure seems happy.)"
+msgstr ""
+
+msgctxt "1364_Staff"
+msgid "That was delicious!"
+msgstr ""
+
+msgctxt "1412_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! This is for you!\r\n"
+" "
+msgstr ""
+
+msgctxt "1472_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come play cho-han with you next time, "
+"okay?\r\n"
+" "
+msgstr ""
+
+msgctxt "1520_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I have a present for you!\r\n"
+" "
+msgstr ""
+
+msgctxt "1580_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "1640_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "1700_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "1760_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "1820_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "1916_Haruka"
+msgid ""
+"Thanks for doing all that stuff for me, Uncle Kaz!\r\n"
+" "
+msgstr ""
+
+msgctxt "1928_Staff"
+msgid ""
+"Here, this is a special present, just for you!\r\n"
+" "
+msgstr ""
+
+msgctxt "1952_Haruka"
+msgid "Thanks, Uncle Kaz! I love you!"
+msgstr ""
+
+msgctxt "1988_Staff"
+msgid "Thank you very much. I hope that was to your liking."
+msgstr ""
+
+msgctxt "2000_Staff"
+msgid "Please come again."
+msgstr ""
+
+msgctxt "2024_Staff"
+msgid "Welcome. If you'll please follow me."
+msgstr ""
+
+msgctxt "2072_Kiryu"
+msgid "(I don't need to eat right now.)"
+msgstr ""
+
+msgctxt "2084_Akiyama"
+msgid "(I'm not hungry right now.)"
+msgstr ""
+
+msgctxt "2096_Saejima"
+msgid "(I'm still full.)"
+msgstr ""
+
+msgctxt "2108_Shinada"
+msgid "(Unfortunately, I'm kinda full.)"
+msgstr ""
+
+msgctxt "2120_Haruka"
+msgid "(I'm stuffed.)"
+msgstr ""
+
+msgctxt "2144_Player"
+msgid "(I'm broke.)"
+msgstr ""
+
+msgctxt "2180_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr ""
+
+msgctxt "2192_Akiyama"
+msgid "Sorry. I have some urgent business."
+msgstr ""
+
+msgctxt "2204_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr ""
+
+msgctxt "2216_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr ""
+
+msgctxt "2228_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr ""
+
+msgctxt "2240_Staff"
+msgid "Ah, I see. Please do come again."
+msgstr ""
+
+msgctxt "2336_Staff"
+msgid "May I take your order?"
+msgstr ""
+
+msgctxt "2384_Staff"
+msgid "Here's your check. Thank you very much."
+msgstr ""
+
+msgctxt "2468_Staff"
+msgid "Please take this. No charge."
+msgstr ""
+
+msgctxt "2576_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr ""
+
+msgctxt "2588_Akiyama"
+msgid "Sorry. I have some urgent business."
+msgstr ""
+
+msgctxt "2600_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr ""
+
+msgctxt "2612_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr ""
+
+msgctxt "2624_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr ""
+
+msgctxt "2636_Staff"
+msgid "Ah, I see. Please do come again."
+msgstr ""
+
+msgctxt "2696_Staff"
+msgid "Thank you very much. Please come by again."
+msgstr ""
+
+msgctxt "2720_Staff"
+msgid "Welcome. If you'll please follow me."
+msgstr ""
+
+msgctxt "2768_Kiryu"
+msgid "(I don't need to eat right now.)"
+msgstr ""
+
+msgctxt "2780_Akiyama"
+msgid "(I'm not hungry right now.)"
+msgstr ""
+
+msgctxt "2792_Saejima"
+msgid "(I'm still full.)"
+msgstr ""
+
+msgctxt "2804_Shinada"
+msgid "(Unfortunately, I'm kinda full.)"
+msgstr ""
+
+msgctxt "2816_Haruka"
+msgid "(I'm stuffed.)"
+msgstr ""
+
+msgctxt "2840_Player"
+msgid "(I'm broke.)"
+msgstr ""
+
+msgctxt "2876_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr ""
+
+msgctxt "2888_Akiyama"
+msgid "Sorry. I have some urgent business."
+msgstr ""
+
+msgctxt "2900_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr ""
+
+msgctxt "2912_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr ""
+
+msgctxt "2924_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr ""
+
+msgctxt "2936_Staff"
+msgid "Ah, I see. Please do come again."
+msgstr ""
+
+msgctxt "3032_Staff"
+msgid "May I take your order?"
+msgstr ""
+
+msgctxt "3056_Staff"
+msgid "Here's your check. Thank you very much."
+msgstr ""
+
+msgctxt "3140_Staff"
+msgid "Please take this. No charge."
+msgstr ""
+
+msgctxt "3248_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr ""
+
+msgctxt "3260_Akiyama"
+msgid "Sorry. I have some urgent business."
+msgstr ""
+
+msgctxt "3272_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr ""
+
+msgctxt "3284_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr ""
+
+msgctxt "3296_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr ""
+
+msgctxt "3308_Staff"
+msgid "I see. Well, please come again."
+msgstr ""
+
+msgctxt "3368_Staff"
+msgid "Thank you very much. Please come again."
+msgstr ""

@@ -1,0 +1,413 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-25\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "848\tNAME"
+msgid "Sakura"
+msgstr "Sakura"
+
+msgctxt "855\tNAME"
+msgid "Nabe"
+msgstr "Nabe"
+
+msgctxt "860\tNAME"
+msgid "Shizuka"
+msgstr "Shizuka"
+
+msgctxt "868\tNAME"
+msgid "Yuzu"
+msgstr "Yuzu"
+
+msgctxt "873\tNAME"
+msgid "Attila"
+msgstr "Attila"
+
+msgctxt "880\tNAME"
+msgid "Georgina"
+msgstr "Georgina"
+
+msgctxt "889\tNAME"
+msgid "Yuko"
+msgstr "Yuko"
+
+msgctxt "894\tNAME"
+msgid "Mermaid"
+msgstr "Sirena"
+
+msgctxt "902\tNAME"
+msgid "Autumn Dew"
+msgstr "Rugiada d'Autunno"
+
+msgctxt "913\tNAME"
+msgid "Wasabi"
+msgstr "Wasabi"
+
+msgctxt "920\tNAME"
+msgid "Best in Show"
+msgstr "Il migliore dello show"
+
+msgctxt "933\tNAME"
+msgid "Debutante"
+msgstr "Debuttante"
+
+msgctxt "943\tNAME"
+msgid "Esmeralda"
+msgstr "Esmeralda"
+
+msgctxt "953\tNAME"
+msgid "Fairy Dust"
+msgstr "Polvere di Fata"
+
+msgctxt "964\tNAME"
+msgid "Olivia"
+msgstr "Olivia"
+
+msgctxt "971\tNAME"
+msgid "Justine"
+msgstr "Justine"
+
+msgctxt "979\tNAME"
+msgid "Mathilda"
+msgstr "Mathilda"
+
+msgctxt "988\tNAME"
+msgid "Fab"
+msgstr "Favoloso"
+
+msgctxt "992\tNAME"
+msgid "Miyu"
+msgstr "Miyu"
+
+msgctxt "997\tNAME"
+msgid "Iris"
+msgstr "Iris"
+
+msgctxt "1002\tNAME"
+msgid "Battleaxe"
+msgstr "Megera"
+
+msgctxt "1012\tNAME"
+msgid "Sweetbeak"
+msgstr "Dolceparola"
+
+msgctxt "1022\tNAME"
+msgid "Anastasia"
+msgstr "Anastasia"
+
+msgctxt "1032\tNAME"
+msgid "Kiss Kiss"
+msgstr "Bacio Bacio"
+
+msgctxt "1042\tNAME"
+msgid "Apple"
+msgstr "Mela"
+
+msgctxt "1048\tNAME"
+msgid "Croque Madame"
+msgstr "Croque Madame"
+
+msgctxt "1062\tNAME"
+msgid "Momma"
+msgstr "Mamma"
+
+msgctxt "1068\tNAME"
+msgid "Anastasia"
+msgstr "Anastasia"
+
+msgctxt "1078\tNAME"
+msgid "Edamame"
+msgstr "Edamame"
+
+msgctxt "1086\tNAME"
+msgid "Icicle Paulie"
+msgstr "Paulie Ghiacciolo"
+
+msgctxt "1100\tNAME"
+msgid "Tachibana"
+msgstr "Tachibana"
+
+msgctxt "1110\tNAME"
+msgid "Zen"
+msgstr "Zen"
+
+msgctxt "1114\tNAME"
+msgid "Oolong"
+msgstr "Oolong"
+
+msgctxt "1121\tNAME"
+msgid "Ocean Breeze"
+msgstr "Brezza Marina"
+
+msgctxt "1134\tNAME"
+msgid "Sunshine"
+msgstr "Sunshine"
+
+msgctxt "1143\tNAME"
+msgid "Cinnamon Roll"
+msgstr "Rotolo alla cannella"
+
+msgctxt "1157\tNAME"
+msgid "Pink Eye"
+msgstr "Occhio Rosa"
+
+msgctxt "1166\tNAME"
+msgid "Darling"
+msgstr "Tesoro"
+
+msgctxt "1174\tNAME"
+msgid "Buttercup"
+msgstr "Buttercup"
+
+msgctxt "1184\tNAME"
+msgid "Lindsey"
+msgstr "Lindsey"
+
+msgctxt "1192\tNAME"
+msgid "Monika"
+msgstr "Monika"
+
+msgctxt "1199\tNAME"
+msgid "Petunia"
+msgstr "Petunia"
+
+msgctxt "1207\tNAME"
+msgid "Guardian"
+msgstr "Guardiano"
+
+msgctxt "1216\tNAME"
+msgid "Sally"
+msgstr "Sally"
+
+msgctxt "1222\tNAME"
+msgid "Empty Nester"
+msgstr "Nido vuoto"
+
+msgctxt "1235\tNAME"
+msgid "Ai"
+msgstr "Ai"
+
+msgctxt "1238\tNAME"
+msgid "Isha"
+msgstr "Isha"
+
+msgctxt "1243\tNAME"
+msgid "Diamond"
+msgstr "Diamante"
+
+msgctxt "1251\tNAME"
+msgid "Chamomile"
+msgstr "Camomilla"
+
+msgctxt "1261\tNAME"
+msgid "Mina"
+msgstr "Mina"
+
+msgctxt "1266\tNAME"
+msgid "Matriarch"
+msgstr "Matriarca"
+
+msgctxt "1276\tNAME"
+msgid "Mint Julip"
+msgstr "Mint Julip"
+
+msgctxt "1287\tNAME"
+msgid "Ruby"
+msgstr "Rubino"
+
+msgctxt "1292\tNAME"
+msgid "Fumiko"
+msgstr "Fumiko"
+
+msgctxt "1299\tNAME"
+msgid "Flan"
+msgstr "Flan"
+
+msgctxt "1304\tNAME"
+msgid "Sayako"
+msgstr "Sayako"
+
+msgctxt "1311\tNAME"
+msgid "Magdalena"
+msgstr "Magdalena"
+
+msgctxt "1321\tNAME"
+msgid "Adriana"
+msgstr "Adriana"
+
+msgctxt "1329\tNAME"
+msgid "Atsuko"
+msgstr "Atsuko"
+
+msgctxt "1336\tNAME"
+msgid "Ginger"
+msgstr "Ginger"
+
+msgctxt "1343\tNAME"
+msgid "Dorothy"
+msgstr "Dorothy"
+
+msgctxt "1351\tNAME"
+msgid "Jade"
+msgstr "Jade"
+
+msgctxt "1356\tNAME"
+msgid "Emerald"
+msgstr "Smeraldo"
+
+msgctxt "1364\tNAME"
+msgid "Ruby"
+msgstr "Rubino"
+
+msgctxt "1369\tNAME"
+msgid "Angel Tears"
+msgstr "Lacrime d'Angelo"
+
+msgctxt "1381\tNAME"
+msgid "Nutmeg"
+msgstr "Noce moscata"
+
+msgctxt "1388\tNAME"
+msgid "Supernova"
+msgstr "Supernova"
+
+msgctxt "1398\tNAME"
+msgid "Airi"
+msgstr "Airi"
+
+msgctxt "1403\tNAME"
+msgid "Dorothy"
+msgstr "Dorothy"
+
+msgctxt "1411\tNAME"
+msgid "Marinara"
+msgstr "Marinara"
+
+msgctxt "1420\tNAME"
+msgid "Rena"
+msgstr "Rena"
+
+msgctxt "1425\tNAME"
+msgid "Rebecca"
+msgstr "Rebecca"
+
+msgctxt "1433\tNAME"
+msgid "Helen Helena"
+msgstr "Helen Helena"
+
+msgctxt "1446\tNAME"
+msgid "Josephine"
+msgstr "Josephine"
+
+msgctxt "1456\tNAME"
+msgid "Sunrise"
+msgstr "Alba"
+
+msgctxt "1464\tNAME"
+msgid "Samantha"
+msgstr "Samantha"
+
+msgctxt "1473\tNAME"
+msgid "Diva"
+msgstr "Diva"
+
+msgctxt "1478\tNAME"
+msgid "Medusa"
+msgstr "Medusa"
+
+msgctxt "1485\tNAME"
+msgid "Haley"
+msgstr "Haley"
+
+msgctxt "1491\tNAME"
+msgid "Shio"
+msgstr "Shio"
+
+msgctxt "1496\tNAME"
+msgid "Duchess"
+msgstr "Duchessa"
+
+msgctxt "1504\tNAME"
+msgid "Peaches"
+msgstr "Pesche"
+
+msgctxt "1512\tNAME"
+msgid "Chashu"
+msgstr "Chashu"
+
+msgctxt "1519\tNAME"
+msgid "Mariah"
+msgstr "Mariah"
+
+msgctxt "1526\tNAME"
+msgid "Makoto"
+msgstr "Makoto"
+
+msgctxt "1533\tNAME"
+msgid "Priestess"
+msgstr "Sacerdotessa"
+
+msgctxt "1543\tNAME"
+msgid "Rika"
+msgstr "Rika"
+
+msgctxt "1548\tNAME"
+msgid "Angel"
+msgstr "Angelo"
+
+msgctxt "1554\tNAME"
+msgid "Shrine Maiden"
+msgstr "Fanciulla del Santuario"
+
+msgctxt "1568\tNAME"
+msgid "Atlanta"
+msgstr "Atlanta"
+
+msgctxt "1576\tNAME"
+msgid "Sumi"
+msgstr "Sumi"
+
+msgctxt "1581\tNAME"
+msgid "Salmon"
+msgstr "Salmone"
+
+msgctxt "1588\tNAME"
+msgid "Celestia"
+msgstr "Celestia"
+
+msgctxt "1601\tNAME"
+msgid "Shizuna"
+msgstr "Shizuna"
+
+msgctxt "1613\tNAME"
+msgid "Aphrodite"
+msgstr "Afrodite"
+
+msgctxt "1627\tNAME"
+msgid "Mobius"
+msgstr "Mobius"
+
+msgctxt "1638\tNAME"
+msgid "Himiko"
+msgstr "Himiko"
+
+msgctxt "1649\tNAME"
+msgid "Artemis"
+msgstr "Artemis"
+
+msgctxt "1661\tNAME"
+msgid "Mercurius"
+msgstr "Mercurio"
+
+msgctxt "1675\tNAME"
+msgid "Her Majesty"
+msgstr "Sua Maestà"

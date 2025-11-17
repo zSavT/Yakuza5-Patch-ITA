@@ -1,0 +1,2006 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "876"
+msgid "You got a <Color:8>Staminan XX<Color:Default>."
+msgstr ""
+
+msgctxt "996"
+msgid "You learned <Color:9>Slash Kick Plus<Color:Default>."
+msgstr ""
+
+msgctxt "1116"
+msgid "You learned <Color:9>Quickstep Attack<Color:Default>."
+msgstr ""
+
+msgctxt "1236"
+msgid "You learned <Color:9>Meteor Strike (Climax Heat)<Color:Default>."
+msgstr ""
+
+msgctxt "1356"
+msgid "You learned <Color:9>Launch Strike Plus<Color:Default>."
+msgstr ""
+
+msgctxt "2136"
+msgid "You learned <Color:9>Counter Kick<Color:Default>."
+msgstr ""
+
+msgctxt "2916"
+msgid "You learned <Color:9>Final Drive (Climax Heat)<Color:Default>."
+msgstr ""
+
+msgctxt "88856"
+msgid "Player"
+msgstr ""
+
+msgctxt "88860"
+msgid "Young Man"
+msgstr ""
+
+msgctxt "88864"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "88868"
+msgid "Sunglassed Man"
+msgstr ""
+
+msgctxt "88872"
+msgid "P_SAE_TLK_stand_udekumi_yes"
+msgstr ""
+
+msgctxt "88876"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "88880"
+msgid "Saigo"
+msgstr ""
+
+msgctxt "88884"
+msgid "P_SAE_TLK_stand_udekumi_lp"
+msgstr ""
+
+msgctxt "88888"
+msgid "Talk_Udekumi_Yes"
+msgstr ""
+
+msgctxt "88892"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "88896"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "88900"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "88904"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "88908"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "88912"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "88916"
+msgid "Talk_Udekumi_No"
+msgstr ""
+
+msgctxt "88920"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "88924"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "88928"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "88932"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "88936"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "88940"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "88944"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "88948"
+msgid "Talk_Kosite_Yes"
+msgstr ""
+
+msgctxt "88952"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "88956"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "88960"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "88964"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "88968"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "88972"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "88976"
+msgid "Man in Black"
+msgstr ""
+
+msgctxt "88980"
+msgid "ACYAM2000"
+msgstr ""
+
+msgctxt "88984"
+msgid "M_NML_TLK_stand_gun_kamae"
+msgstr ""
+
+msgctxt "88988"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "88992"
+msgid "M_NML_SET_sitgrd_down_kamae"
+msgstr ""
+
+msgctxt "88996"
+msgid "Talk_Syagamu_st"
+msgstr ""
+
+msgctxt "89000"
+msgid "Talk_Syagamu_ed"
+msgstr ""
+
+msgctxt "89004"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "89008"
+msgid "P_AKI_stand_btl_lp"
+msgstr ""
+
+msgctxt "89012"
+msgid "P_AKI_stand_btl_st"
+msgstr ""
+
+msgctxt "89016"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "89020"
+msgid "???"
+msgstr ""
+
+msgctxt "89024"
+msgid "P_AKI_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "89028"
+msgid "P_AKI_stand_btl_en"
+msgstr ""
+
+msgctxt "89032"
+msgid "Saigo's Student"
+msgstr ""
+
+msgctxt "89036"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "89040"
+msgid "Akiyama's Voice"
+msgstr ""
+
+msgctxt "89044"
+msgid "Ready"
+msgstr ""
+
+msgctxt "89048"
+msgid "Not Yet"
+msgstr ""
+
+msgctxt "89052"
+msgid "Train"
+msgstr ""
+
+msgctxt "89056"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "89060"
+msgid "Saigo's Training"
+msgstr ""
+
+msgctxt "89064"
+msgid "Suicidal Running"
+msgstr ""
+
+msgctxt "89068"
+msgid "Suicidal Shooting"
+msgstr ""
+
+msgctxt "89072"
+msgid "Suicidal Combat"
+msgstr ""
+
+msgctxt "89076"
+msgid "True Suicidal Running"
+msgstr ""
+
+msgctxt "89080"
+msgid "True Suicidal Shooting"
+msgstr ""
+
+msgctxt "89084"
+msgid "True Suicidal Combat"
+msgstr ""
+
+msgctxt "89088"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "264_Player"
+msgid "(I should come back here when I'm alone.)"
+msgstr ""
+
+msgctxt "288_Young Man"
+msgid "I have a question, Master!"
+msgstr ""
+
+msgctxt "300_Sunglassed Man"
+msgid "Okay, let's hear it."
+msgstr ""
+
+msgctxt "432_Young Man"
+msgid "Is it true that nothing is certain?"
+msgstr ""
+
+msgctxt "444_Sunglassed Man"
+msgid "Excellent question. I will answer it by saying this..."
+msgstr ""
+
+msgctxt "456_Sunglassed Man"
+msgid "I love curry! That is the only thing that is certain!"
+msgstr ""
+
+msgctxt "468_Young Man"
+msgid "Is it true that having someone special in your life makes you stronger?"
+msgstr ""
+
+msgctxt "480_Sunglassed Man"
+msgid "Excellent question. I will answer it by saying this..."
+msgstr ""
+
+msgctxt "492_Sunglassed Man"
+msgid ""
+"If you have time to find someone special, use it to do squats! That's "
+"guaranteed to make you stronger!"
+msgstr ""
+
+msgctxt "504_Young Man"
+msgid "Everyone puts a different kind of meat in curry. Which one's the right one?"
+msgstr ""
+
+msgctxt "516_Sunglassed Man"
+msgid "Excellent question. I will answer it by saying this..."
+msgstr ""
+
+msgctxt "528_Sunglassed Man"
+msgid ""
+"No matter what you put in curry, it still tastes like curry! Nothing you "
+"add can change that!"
+msgstr ""
+
+msgctxt "540_Young Man"
+msgid "My feet have been really stinky lately. What should I do?"
+msgstr ""
+
+msgctxt "552_Sunglassed Man"
+msgid "Excellent question. I will answer it by saying this..."
+msgstr ""
+
+msgctxt "564_Sunglassed Man"
+msgid ""
+"Wash between your toes! Most people only wash the bottom and sides of their "
+"feet!"
+msgstr ""
+
+msgctxt "576_Young Man"
+msgid "I waste money like crazy. How can I become more frugal?"
+msgstr ""
+
+msgctxt "588_Sunglassed Man"
+msgid "Excellent question. I will answer it by saying this..."
+msgstr ""
+
+msgctxt "600_Sunglassed Man"
+msgid ""
+"Donate all your money to charity! Then you won't have to worry about "
+"wasting it anymore!"
+msgstr ""
+
+msgctxt "612_Young Man"
+msgid ""
+"Aren't they overdoing it with all the \"Now serving chilled ramen\" signs "
+"around town?"
+msgstr ""
+
+msgctxt "624_Sunglassed Man"
+msgid "Excellent question. I will answer it by saying this..."
+msgstr ""
+
+msgctxt "636_Sunglassed Man"
+msgid ""
+"The real question is why chilled ramen is almost always the same! I prefer "
+"mine with sesame seed sauce!"
+msgstr ""
+
+msgctxt "648_Young Man"
+msgid ""
+"There are many theories about why the dinosaurs went extinct, but what do "
+"you think, Master?"
+msgstr ""
+
+msgctxt "660_Sunglassed Man"
+msgid "Excellent question. I will answer it by saying this..."
+msgstr ""
+
+msgctxt "672_Sunglassed Man"
+msgid "I am the one who made the dinosaurs go extinct!"
+msgstr ""
+
+msgctxt "684_Young Man"
+msgid ""
+"When I go out with friends, they always want to split the check evenly. The "
+"problem is I don't drink, so I feel cheated. What should I do?"
+msgstr ""
+
+msgctxt "696_Sunglassed Man"
+msgid "Excellent question. I will answer it by saying this..."
+msgstr ""
+
+msgctxt "708_Sunglassed Man"
+msgid ""
+"Make up the difference by pigging out! And focus on the most expensive "
+"dishes!"
+msgstr ""
+
+msgctxt "720_Young Man"
+msgid "I always feel kind of sad as winter nears. How about you, Master?"
+msgstr ""
+
+msgctxt "732_Sunglassed Man"
+msgid "Excellent question. I will answer it by saying this..."
+msgstr ""
+
+msgctxt "744_Sunglassed Man"
+msgid "When I dress up as Santa, children run the other way! It really bums me out!"
+msgstr ""
+
+msgctxt "756_Young Man"
+msgid ""
+"Maybe it's because of all the terrorism and war around the world. Is there "
+"anything we can do about it?"
+msgstr ""
+
+msgctxt "768_Sunglassed Man"
+msgid "Excellent question. I will answer it by saying this..."
+msgstr ""
+
+msgctxt "780_Sunglassed Man"
+msgid ""
+"Don't forget that feeling! And make sure not to fight! If everyone did "
+"that, violence would vanish from the world!"
+msgstr ""
+
+msgctxt "792_Young Man"
+msgid "I understand! Thank you, Master!"
+msgstr ""
+
+msgctxt "804_Saigo"
+msgid "What's wrong with you!? That was one big, epic fail!"
+msgstr ""
+
+msgctxt "816_Saigo"
+msgid "Make sure you're prepared in both body and spirit before you try again!"
+msgstr ""
+
+msgctxt "828_Saigo"
+msgid "All right, dismissed!"
+msgstr ""
+
+msgctxt "852_Saigo"
+msgid "Okay. You pass!"
+msgstr ""
+
+msgctxt "864_Saigo"
+msgid "Here's a reward. There's nothing better to soothe your post-training aches."
+msgstr ""
+
+msgctxt "900_Saigo"
+msgid "Repeating your training is a magnificent thing. Don't you ever forget that!"
+msgstr ""
+
+msgctxt "912_Saigo"
+msgid "All right, dismissed!"
+msgstr ""
+
+msgctxt "924_Saigo"
+msgid "Okay. You pass!"
+msgstr ""
+
+msgctxt "936_Saigo"
+msgid "Watching you reminds me of that one time..."
+msgstr ""
+
+msgctxt "948_Saigo"
+msgid ""
+"I ran alongside my war buddy's fighter plane to hand him his wallet after "
+"he forgot it."
+msgstr ""
+
+msgctxt "960_Akiyama"
+msgid ""
+"There's no way you could run that fast! Besides, who needs a wallet to fly "
+"a warplane?"
+msgstr ""
+
+msgctxt "972_Saigo"
+msgid "So, what did you learn this time?"
+msgstr ""
+
+msgctxt "984_Akiyama"
+msgid ""
+"Hmm... I'm more nimble now, and it feels like my sense of balance has "
+"improved."
+msgstr ""
+
+msgctxt "1008_Saigo"
+msgid ""
+"Your fighting style is based on kicking, so you must train both your legs "
+"equally. Don't focus solely on your dominant one."
+msgstr ""
+
+msgctxt "1020_Saigo"
+msgid "Remember that every time you go into battle!"
+msgstr ""
+
+msgctxt "1032_Saigo"
+msgid "All right, dismissed!"
+msgstr ""
+
+msgctxt "1044_Saigo"
+msgid "Okay. You pass!"
+msgstr ""
+
+msgctxt "1056_Saigo"
+msgid "Watching you reminds me of that one time..."
+msgstr ""
+
+msgctxt "1068_Saigo"
+msgid ""
+"I was out of ammo and about to die when one of my wisdom teeth fell out. "
+"So, I loaded it in and blew away my enemy. That was one close shave!"
+msgstr ""
+
+msgctxt "1080_Akiyama"
+msgid ""
+"I've never heard of wisdom teeth suddenly falling out like that. And how "
+"could you possibly fire a tooth from a gun, anyway?"
+msgstr ""
+
+msgctxt "1092_Saigo"
+msgid "So, what did you learn this time?"
+msgstr ""
+
+msgctxt "1104_Akiyama"
+msgid ""
+"Hmm... I feel like I can literally dodge bullets after being shot at like "
+"that."
+msgstr ""
+
+msgctxt "1128_Saigo"
+msgid ""
+"Dodging won't take out your enemy, so it's important to attack at the same "
+"time."
+msgstr ""
+
+msgctxt "1140_Saigo"
+msgid "Remember that every time you go into battle!"
+msgstr ""
+
+msgctxt "1152_Saigo"
+msgid "All right, dismissed!"
+msgstr ""
+
+msgctxt "1164_Saigo"
+msgid "Okay. You pass!"
+msgstr ""
+
+msgctxt "1176_Saigo"
+msgid "Watching you reminds me of that one time..."
+msgstr ""
+
+msgctxt "1188_Saigo"
+msgid ""
+"After everyone in camp went to sleep, my war buddy and I secretly enjoyed a "
+"late night snack of hardtack."
+msgstr ""
+
+msgctxt "1200_Akiyama"
+msgid ""
+"You sound like a couple of kids on a campout! But memories like that can "
+"put a smile on your face, I guess."
+msgstr ""
+
+msgctxt "1212_Saigo"
+msgid "So, what did you learn this time?"
+msgstr ""
+
+msgctxt "1224_Akiyama"
+msgid ""
+"I guess actual fighting's the best training. I thought of a move that can "
+"really turn the tables in a fight."
+msgstr ""
+
+msgctxt "1248_Saigo"
+msgid ""
+"Big moves can also be your greatest defense if it means you can take out an "
+"enemy before he strikes."
+msgstr ""
+
+msgctxt "1260_Saigo"
+msgid "Remember that every time you go into battle!"
+msgstr ""
+
+msgctxt "1272_Saigo"
+msgid "All right, dismissed!"
+msgstr ""
+
+msgctxt "1284_Saigo"
+msgid "Okay. You pass!"
+msgstr ""
+
+msgctxt "1296_Saigo"
+msgid "Watching you reminds me of that one time..."
+msgstr ""
+
+msgctxt "1308_Saigo"
+msgid ""
+"I learned how to step forward with my left leg while my right leg was still "
+"off the ground."
+msgstr ""
+
+msgctxt "1320_Akiyama"
+msgid ""
+"That would mean you were floating in midair like a ninja. Wait, is that a "
+"ninja thing or not?"
+msgstr ""
+
+msgctxt "1332_Saigo"
+msgid "So, what did you learn this time?"
+msgstr ""
+
+msgctxt "1344_Akiyama"
+msgid ""
+"With all those grenades you made me dodge, I felt so light on my feet. The "
+"lightest ever."
+msgstr ""
+
+msgctxt "1368_Saigo"
+msgid ""
+"If you don't give your enemy an opportunity to counterattack, it's more "
+"effective than hardening your defenses."
+msgstr ""
+
+msgctxt "1380_Saigo"
+msgid "Remember that every time you go into battle!"
+msgstr ""
+
+msgctxt "1392_Akiyama"
+msgid "Yeah, yeah, I'll keep that in mind. But I was wondering..."
+msgstr ""
+
+msgctxt "1404_Saigo"
+msgid "What, you have a question? If you have a question, raise your hand."
+msgstr ""
+
+msgctxt "1416_Akiyama"
+msgid ""
+"Yeah. Aren't you going to go see your wife and daughter now that you're "
+"back in Japan?"
+msgstr ""
+
+msgctxt "1428_Akiyama"
+msgid "You said before that you can't go home, but why not?"
+msgstr ""
+
+msgctxt "1440_Saigo"
+msgid ""
+"You can't stop fixating on matters that have nothing to do with your "
+"mission, can you?"
+msgstr ""
+
+msgctxt "1452_Akiyama"
+msgid ""
+"It's just, you used to talk about your daughter like she was everything to "
+"you."
+msgstr ""
+
+msgctxt "1464_Saigo"
+msgid "Talking about one's family is almost a taboo on the battlefield, but..."
+msgstr ""
+
+msgctxt "1476_Saigo"
+msgid "I... didn't return to the Middle East just to polish my skills."
+msgstr ""
+
+msgctxt "1488_Akiyama"
+msgid "Wow, you're being unusually serious."
+msgstr ""
+
+msgctxt "1500_Saigo"
+msgid ""
+"Mercenaries like me end up learning things－things that many would rather "
+"keep hidden."
+msgstr ""
+
+msgctxt "1512_Saigo"
+msgid ""
+"And being mercenaries, once a war is over, we're about as useful as a car "
+"without wheels."
+msgstr ""
+
+msgctxt "1524_Saigo"
+msgid ""
+"In short, we're expendable, but we also have top-secret information that "
+"stays with us as we return to our home countries."
+msgstr ""
+
+msgctxt "1536_Akiyama"
+msgid "I could see how that could be a problem."
+msgstr ""
+
+msgctxt "1548_Saigo"
+msgid "As a mercenary field commander, I was no exception."
+msgstr ""
+
+msgctxt "1560_Saigo"
+msgid ""
+"I was privy to top-secret info relating to the nation that hired me, and "
+"they didn't consider confidentiality until the war was over."
+msgstr ""
+
+msgctxt "1572_Saigo"
+msgid ""
+"But then my former employer started to worry about damaging secrets getting "
+"out."
+msgstr ""
+
+msgctxt "1584_Akiyama"
+msgid "Are you saying..."
+msgstr ""
+
+msgctxt "1596_Saigo"
+msgid ""
+"Exactly. I didn't feel safe here and decided to leave the country for a "
+"while."
+msgstr ""
+
+msgctxt "1608_Akiyama"
+msgid "I see. You left because you don't want to get your family involved."
+msgstr ""
+
+msgctxt "1620_Saigo"
+msgid "I can't go into the details, as that would put you at risk, too."
+msgstr ""
+
+msgctxt "1632_Saigo"
+msgid "And needless to say, let's keep this between you and me. Understood?"
+msgstr ""
+
+msgctxt "1644_Akiyama"
+msgid "Relax, we moneylenders are quite discreet. It's part of doing business."
+msgstr ""
+
+msgctxt "1656_Saigo"
+msgid "I'll take your word on that. Now, enough of this idle chat."
+msgstr ""
+
+msgctxt "1668_Saigo"
+msgid "Dismissed!"
+msgstr ""
+
+msgctxt "1680_Saigo"
+msgid "Dismissed－ No, wait."
+msgstr ""
+
+msgctxt "1692_Akiyama"
+msgid "What? Something wrong?"
+msgstr ""
+
+msgctxt "1704_Saigo"
+msgid "I think we're being watched."
+msgstr ""
+
+msgctxt "1716_Akiyama"
+msgid ""
+"Man, you're just being paranoid. We were just talking about clandestine spy "
+"stuff, after all."
+msgstr ""
+
+msgctxt "1728_Saigo"
+msgid ""
+"No, I feel an ominous stare on me. I have felt this many times... right "
+"before a sniper opens fire."
+msgstr ""
+
+msgctxt "1740_Akiyama"
+msgid "A sniper!? What've you dragged me into!?"
+msgstr ""
+
+msgctxt "1752_Saigo"
+msgid ""
+"Quiet! Listen to me carefully. When I give the signal, spring back and hide "
+"in the shadows."
+msgstr ""
+
+msgctxt "1764_Saigo"
+msgid "Three... two... one... now!"
+msgstr ""
+
+msgctxt "1848_Akiyama"
+msgid "Whoa, you weren't kidding. What the hell's going on here?"
+msgstr ""
+
+msgctxt "1860_Saigo"
+msgid ""
+"We should be okay for now. Once a sniper loses the element of surprise, he "
+"usually backs off until the next time."
+msgstr ""
+
+msgctxt "1872_Akiyama"
+msgid "I'll have to take your word on that."
+msgstr ""
+
+msgctxt "1884_Saigo"
+msgid "It didn't take them long to discover that I was back in Japan."
+msgstr ""
+
+msgctxt "1896_Akiyama"
+msgid ""
+"You mean the people you were talking about? The ones who want to keep you "
+"quiet?"
+msgstr ""
+
+msgctxt "1908_Saigo"
+msgid "That's the most likely scenario, and the worst possible one, too."
+msgstr ""
+
+msgctxt "1920_Saigo"
+msgid ""
+"If they figure out I know they're after me, they might go after my family "
+"to draw me out."
+msgstr ""
+
+msgctxt "1932_Akiyama"
+msgid "Are we talking about a hostage situation here!? This is bad."
+msgstr ""
+
+msgctxt "1944_Saigo"
+msgid "I can't warn my family, either, because that could reveal their location."
+msgstr ""
+
+msgctxt "1956_Saigo"
+msgid "I'll have to put an end to this myself."
+msgstr ""
+
+msgctxt "1968_Saigo"
+msgid "I'm sorry, Akiyama-kun. I didn't mean to drag you into all this."
+msgstr ""
+
+msgctxt "1980_Akiyama"
+msgid ""
+"Truth be told, I never expected anything involving you to take such a "
+"serious turn."
+msgstr ""
+
+msgctxt "1992_Akiyama"
+msgid ""
+"But this is no laughing matter. If there's anything I can do to help, let "
+"me know."
+msgstr ""
+
+msgctxt "2004_Saigo"
+msgid "I appreciate that. You be careful now, okay?"
+msgstr ""
+
+msgctxt "2016_Saigo"
+msgid ""
+"As for me, I'll avoid making any big moves for now. Better to assess the "
+"situation first."
+msgstr ""
+
+msgctxt "2028_Saigo"
+msgid "Well, dismissed."
+msgstr ""
+
+msgctxt "2064_Saigo"
+msgid "Okay. You pass!"
+msgstr ""
+
+msgctxt "2076_Saigo"
+msgid "Watching you reminds me of that one time..."
+msgstr ""
+
+msgctxt "2088_Saigo"
+msgid ""
+"I stole the enemy's new mobile weaponized suit and won a battle up in the "
+"stratosphere."
+msgstr ""
+
+msgctxt "2100_Akiyama"
+msgid ""
+"Sounds like a sci-fi movie! But if you have access to those sorts of "
+"weapons, why even bother with training?"
+msgstr ""
+
+msgctxt "2112_Saigo"
+msgid "So, what did you learn this time?"
+msgstr ""
+
+msgctxt "2124_Akiyama"
+msgid ""
+"When you're surrounded, and the enemy's unloading on you, your only chance "
+"is to quickly exploit a gap in your enemy's defenses."
+msgstr ""
+
+msgctxt "2148_Saigo"
+msgid ""
+"Even the most skilled enemies are vulnerable just as they begin an attack. "
+"Never fail to take advantage of that."
+msgstr ""
+
+msgctxt "2160_Saigo"
+msgid "Remember that every time you go into battle!"
+msgstr ""
+
+msgctxt "2172_Akiyama"
+msgid "Yeah, yeah, I'll keep that in mind. But I was wondering..."
+msgstr ""
+
+msgctxt "2184_Saigo"
+msgid "What, you have a question? If you have a question, raise your hand."
+msgstr ""
+
+msgctxt "2196_Akiyama"
+msgid ""
+"Yeah. Aren't you going to go see your wife and daughter now that you're "
+"back in Japan?"
+msgstr ""
+
+msgctxt "2208_Akiyama"
+msgid "You said before that you can't go home, but why not?"
+msgstr ""
+
+msgctxt "2220_Saigo"
+msgid ""
+"You can't stop fixating on matters that have nothing to do with your "
+"mission, can you?"
+msgstr ""
+
+msgctxt "2232_Akiyama"
+msgid ""
+"It's just, you used to talk about your daughter like she was everything to "
+"you."
+msgstr ""
+
+msgctxt "2244_Saigo"
+msgid "Talking about one's family is almost a taboo on the battlefield, but..."
+msgstr ""
+
+msgctxt "2256_Saigo"
+msgid "I... didn't return to the Middle East just to polish my skills."
+msgstr ""
+
+msgctxt "2268_Akiyama"
+msgid "Wow, you're being unusually serious."
+msgstr ""
+
+msgctxt "2280_Saigo"
+msgid ""
+"Mercenaries like me end up learning things－things that many would rather "
+"keep hidden."
+msgstr ""
+
+msgctxt "2292_Saigo"
+msgid ""
+"And being mercenaries, once a war is over, we're about as useful as a car "
+"without wheels."
+msgstr ""
+
+msgctxt "2304_Saigo"
+msgid ""
+"In short, we're expendable. But we also have top-secret information that "
+"stays with us as we return to our home countries."
+msgstr ""
+
+msgctxt "2316_Akiyama"
+msgid "I could see how that could be a problem."
+msgstr ""
+
+msgctxt "2328_Saigo"
+msgid "As a mercenary field commander, I was no exception."
+msgstr ""
+
+msgctxt "2340_Saigo"
+msgid ""
+"I was privy to top-secret info relating to the nation that hired me, and "
+"they didn't consider confidentiality until the war was over."
+msgstr ""
+
+msgctxt "2352_Saigo"
+msgid ""
+"But then my former employer started to worry about damaging secrets getting "
+"out."
+msgstr ""
+
+msgctxt "2364_Akiyama"
+msgid "Are you saying..."
+msgstr ""
+
+msgctxt "2376_Saigo"
+msgid ""
+"Exactly. I didn't feel safe here and decided to leave the country for a "
+"while."
+msgstr ""
+
+msgctxt "2388_Akiyama"
+msgid "I see. You left because you don't want to get your family involved."
+msgstr ""
+
+msgctxt "2400_Saigo"
+msgid "I can't go into the details, as that would put you at risk, too."
+msgstr ""
+
+msgctxt "2412_Saigo"
+msgid "And needless to say, let's keep this between you and me. Understood?"
+msgstr ""
+
+msgctxt "2424_Akiyama"
+msgid "Relax, we moneylenders are quite discreet. It's part of doing business."
+msgstr ""
+
+msgctxt "2436_Saigo"
+msgid "I'll take your word on that. Now, enough of this idle chat."
+msgstr ""
+
+msgctxt "2448_Saigo"
+msgid "Dismissed!"
+msgstr ""
+
+msgctxt "2460_Saigo"
+msgid "Dismissed－ No, wait."
+msgstr ""
+
+msgctxt "2472_Akiyama"
+msgid "What? Something wrong?"
+msgstr ""
+
+msgctxt "2484_Saigo"
+msgid "I think we're being watched."
+msgstr ""
+
+msgctxt "2496_Akiyama"
+msgid ""
+"Man, you're just being paranoid. We were just talking about clandestine spy "
+"stuff, after all."
+msgstr ""
+
+msgctxt "2508_Saigo"
+msgid ""
+"No, I feel an ominous stare on me. I have felt this many times... right "
+"before a sniper opens fire."
+msgstr ""
+
+msgctxt "2520_Akiyama"
+msgid "A sniper!? What've you dragged me into!?"
+msgstr ""
+
+msgctxt "2532_Saigo"
+msgid ""
+"Quiet! Listen to me carefully. When I give the signal, spring back and hide "
+"in the shadows."
+msgstr ""
+
+msgctxt "2544_Saigo"
+msgid "Three... two... one... now!"
+msgstr ""
+
+msgctxt "2628_Akiyama"
+msgid "Whoa, you weren't kidding. What the hell's going on here?"
+msgstr ""
+
+msgctxt "2640_Saigo"
+msgid ""
+"We should be okay for now. Once a sniper loses the element of surprise, he "
+"usually backs off until the next time."
+msgstr ""
+
+msgctxt "2652_Akiyama"
+msgid "I'll have to take your word on that."
+msgstr ""
+
+msgctxt "2664_Saigo"
+msgid "It didn't take them long to discover that I was back in Japan."
+msgstr ""
+
+msgctxt "2676_Akiyama"
+msgid ""
+"You mean the people you were talking about? The ones who want to keep you "
+"quiet?"
+msgstr ""
+
+msgctxt "2688_Saigo"
+msgid "That's the most likely scenario, and the worst possible one, too."
+msgstr ""
+
+msgctxt "2700_Saigo"
+msgid ""
+"If they figure out I know they're after me, they might go after my family "
+"to draw me out."
+msgstr ""
+
+msgctxt "2712_Akiyama"
+msgid "Are we talking about a hostage situation here!? This is bad."
+msgstr ""
+
+msgctxt "2724_Saigo"
+msgid "I can't warn my family, either, because that could reveal their location."
+msgstr ""
+
+msgctxt "2736_Saigo"
+msgid "I'll have to put an end to this myself."
+msgstr ""
+
+msgctxt "2748_Saigo"
+msgid "I'm sorry, Akiyama-kun. I didn't mean to drag you into all this."
+msgstr ""
+
+msgctxt "2760_Akiyama"
+msgid ""
+"Truth be told, I never expected anything involving you to take such a "
+"serious turn."
+msgstr ""
+
+msgctxt "2772_Akiyama"
+msgid ""
+"But this is no laughing matter. If there's anything I can do to help, let "
+"me know."
+msgstr ""
+
+msgctxt "2784_Saigo"
+msgid "I appreciate that. You be careful now, okay?"
+msgstr ""
+
+msgctxt "2796_Saigo"
+msgid ""
+"As for me, I'll avoid making any big moves for now. Better to assess the "
+"situation first."
+msgstr ""
+
+msgctxt "2808_Saigo"
+msgid "Well, dismissed."
+msgstr ""
+
+msgctxt "2844_Saigo"
+msgid "Okay. You pass!"
+msgstr ""
+
+msgctxt "2856_Saigo"
+msgid "Watching you reminds me of that one time..."
+msgstr ""
+
+msgctxt "2868_Saigo"
+msgid ""
+"I returned home despondent after my war buddy died in action, only to learn "
+"it was a prank."
+msgstr ""
+
+msgctxt "2880_Akiyama"
+msgid "That's a terrible prank. I mean, you were soldiers, not frat boys!"
+msgstr ""
+
+msgctxt "2892_Saigo"
+msgid "So, what did you learn this time?"
+msgstr ""
+
+msgctxt "2904_Akiyama"
+msgid ""
+"Even when things get chaotic, I need to keep looking for a chance to land a "
+"big blow."
+msgstr ""
+
+msgctxt "2928_Saigo"
+msgid ""
+"You don't get many chances to quickly finish off your enemy. Whether or not "
+"you can spot those chances will decide the tide of battle."
+msgstr ""
+
+msgctxt "2940_Saigo"
+msgid "Remember that every time you go into battle!"
+msgstr ""
+
+msgctxt "2952_Akiyama"
+msgid "Roger that. By the way, what happened after that sniper incident?"
+msgstr ""
+
+msgctxt "2964_Saigo"
+msgid ""
+"I haven't learned anything more since then, and they don't seem to be "
+"watching me anymore."
+msgstr ""
+
+msgctxt "2976_Saigo"
+msgid "Hm!?"
+msgstr ""
+
+msgctxt "3000_Saigo"
+msgid "Who are you!?"
+msgstr ""
+
+msgctxt "3012_Man in Black"
+msgid ""
+"I must commend you, Daijiro Saigo. Few have ever been in my sights and "
+"lived to tell of it."
+msgstr ""
+
+msgctxt "3024_Akiyama"
+msgid "You're the sniper who shot at him!?"
+msgstr ""
+
+msgctxt "3036_Man in Black"
+msgid "Shun Akiyama, owner of Sky Finance, I presume?"
+msgstr ""
+
+msgctxt "3048_Akiyama"
+msgid "You've obviously done your homework."
+msgstr ""
+
+msgctxt "3060_Man in Black"
+msgid ""
+"I don't know how much Saigo has told you, but everyone who knows what he "
+"knows must be eliminated."
+msgstr ""
+
+msgctxt "3072_Akiyama"
+msgid ""
+"Whoa, whoa! Let's take this down a notch. I'm guessing that's not a toy "
+"gun... right?"
+msgstr ""
+
+msgctxt "3084_Saigo"
+msgid "Enough! Akiyama-kun doesn't know a thing!"
+msgstr ""
+
+msgctxt "3096_Man in Black"
+msgid "It doesn't matter. Now that he knows about me, I can't let him live."
+msgstr ""
+
+msgctxt "3108_Akiyama"
+msgid ""
+"Just calm down and lower your weapon, okay? We can talk it over like "
+"civilized people."
+msgstr ""
+
+msgctxt "3120_Akiyama"
+msgid "Besides, how could I possibly benefit from telling anyone about you?"
+msgstr ""
+
+msgctxt "3132_Man in Black"
+msgid ""
+"You're just wasting your breath. Once we have a target, we never fail to "
+"take them out. Not a single one has ever escaped."
+msgstr ""
+
+msgctxt "3144_Man in Black"
+msgid "Enough talk. I'm putting you both in the ground."
+msgstr ""
+
+msgctxt "3204_Akiyama"
+msgid "Saigo-san! Why'd you do that!?"
+msgstr ""
+
+msgctxt "3216_Saigo"
+msgid "Run, Akiyama-kun. You must live."
+msgstr ""
+
+msgctxt "3228_Akiyama"
+msgid "This can't be happening. It's all a bad dream, right?"
+msgstr ""
+
+msgctxt "3240_Saigo"
+msgid "Tell my family... Tell them I put up a good fight till the bitter end."
+msgstr ""
+
+msgctxt "3252_Saigo"
+msgid "......"
+msgstr ""
+
+msgctxt "3264_Akiyama"
+msgid "Saigo-san! Come on, Saigo-san!"
+msgstr ""
+
+msgctxt "3276_Akiyama"
+msgid "Come on, this isn't funny..."
+msgstr ""
+
+msgctxt "3288_Man in Black"
+msgid "You were supposed to go first, but no matter. You won't escape."
+msgstr ""
+
+msgctxt "3300_Man in Black"
+msgid "You'll meet Saigo again in hell."
+msgstr ""
+
+msgctxt "3312_Akiyama"
+msgid "Shut up."
+msgstr ""
+
+msgctxt "3324_Man in Black"
+msgid "What?"
+msgstr ""
+
+msgctxt "3336_Akiyama"
+msgid "You won't get away with this."
+msgstr ""
+
+msgctxt "3348_Akiyama"
+msgid ""
+"I'm not about to give up so easily, not after Saigo-san gave his life for "
+"me."
+msgstr ""
+
+msgctxt "3360_Man in Black"
+msgid "Well now, do you think you have a chance against me?"
+msgstr ""
+
+msgctxt "3372_Akiyama"
+msgid ""
+"He may have had a military fetish and was always saying and doing strange "
+"things, but..."
+msgstr ""
+
+msgctxt "3384_Akiyama"
+msgid ""
+"Saigo-san was a good man. He was working hard to teach young people about "
+"risk management."
+msgstr ""
+
+msgctxt "3396_Akiyama"
+msgid "And most of all, he treasured his family."
+msgstr ""
+
+msgctxt "3408_Man in Black"
+msgid "Why should I care about any of that?"
+msgstr ""
+
+msgctxt "3420_Akiyama"
+msgid "I could say the same thing. What does any of this have to do with me?"
+msgstr ""
+
+msgctxt "3432_Akiyama"
+msgid ""
+"I'm not letting you kill me! You're going to pay for what you did to "
+"Saigo-san!"
+msgstr ""
+
+msgctxt "3492_???"
+msgid "And cut!"
+msgstr ""
+
+msgctxt "3504_Akiyama"
+msgid "Oh, yeah! I'm going to cut loose on this bastard! Wait..."
+msgstr ""
+
+msgctxt "3516_Akiyama"
+msgid "Cut? What do you mean, cut?"
+msgstr ""
+
+msgctxt "3540_Saigo"
+msgid "That was a great scene. You get all that?"
+msgstr ""
+
+msgctxt "3552_Saigo's Student"
+msgid "That was an award-winning performance, Master! It almost moved me to tears!"
+msgstr ""
+
+msgctxt "3564_Saigo"
+msgid ""
+"Well all right, then! That's a wrap! We'll celebrate with some drinks "
+"tonight!"
+msgstr ""
+
+msgctxt "3576_Akiyama"
+msgid "Um, excuse me. Would someone explain what's going on here?"
+msgstr ""
+
+msgctxt "3588_Saigo"
+msgid ""
+"You gave an amazing performance, too, Akiyama-kun! I'm talking Best "
+"Supporting Actor nomination!"
+msgstr ""
+
+msgctxt "3600_Akiyama"
+msgid "I... What? I still don't get it."
+msgstr ""
+
+msgctxt "3612_Akiyama"
+msgid "Whatever. Listen up, Saigo-san. Listen carefully."
+msgstr ""
+
+msgctxt "3624_Akiyama"
+msgid "I have absolutely no idea what's going on here. None. Whatsoever."
+msgstr ""
+
+msgctxt "3636_Akiyama"
+msgid ""
+"I just saw you get shot to death... But now you're standing in front of me, "
+"perfectly fine."
+msgstr ""
+
+msgctxt "3648_Saigo"
+msgid "Of course I am. That was a replica gun."
+msgstr ""
+
+msgctxt "3660_Akiyama"
+msgid "And the sniper?"
+msgstr ""
+
+msgctxt "3672_Saigo"
+msgid "One of my students."
+msgstr ""
+
+msgctxt "3684_Akiyama"
+msgid "And the guy who shouted, \"Cut\"?"
+msgstr ""
+
+msgctxt "3696_Saigo"
+msgid "Another one of my students. A member of my film crew to be exact."
+msgstr ""
+
+msgctxt "3708_Akiyama"
+msgid "What... What film crew?"
+msgstr ""
+
+msgctxt "3720_Saigo"
+msgid ""
+"Great question! They're helping me create promotional videos for my "
+"organization."
+msgstr ""
+
+msgctxt "3732_Saigo"
+msgid ""
+"It's part of a series I'm calling \"Daijiro Saigo's Life on the "
+"Battlefield\"!"
+msgstr ""
+
+msgctxt "3744_Akiyama"
+msgid "Are you telling me this was all fake? Part of some awful action movie!?"
+msgstr ""
+
+msgctxt "3756_Saigo"
+msgid "Fake? Awful!? Do you have a problem with the script I wrote, Akiyama-kun!?"
+msgstr ""
+
+msgctxt "3768_Saigo"
+msgid ""
+"I went through a lot of trouble to do this. I mean, I even got this "
+"hairpiece."
+msgstr ""
+
+msgctxt "3780_Akiyama"
+msgid "What!? That's why you're wearing a hairpiece?"
+msgstr ""
+
+msgctxt "3792_Akiyama"
+msgid "Wait, so how long were you filming? I'm not sure what was real anymore."
+msgstr ""
+
+msgctxt "3804_Saigo"
+msgid ""
+"The video starts with my student rushing to help me as I collapse, my last "
+"ounce of energy spent on the battlefield."
+msgstr ""
+
+msgctxt "3816_Akiyama"
+msgid "All the way back that far? You only collapsed because you were hungry!"
+msgstr ""
+
+msgctxt "3828_Saigo's Student"
+msgid "With a few edits, that scene will really shine!"
+msgstr ""
+
+msgctxt "3840_Akiyama"
+msgid "Right..."
+msgstr ""
+
+msgctxt "3852_Saigo"
+msgid "How is the editing coming along on the climax scene we just shot?"
+msgstr ""
+
+msgctxt "3864_Saigo's Student"
+msgid "We have a rough cut ready. Akiyama-san's line is killer, too. Here."
+msgstr ""
+
+msgctxt "3876_Akiyama's Voice"
+msgid ""
+"\"Saigo was a good man. He was working hard to teach young people about "
+"risk management.\""
+msgstr ""
+
+msgctxt "3888_Akiyama"
+msgid ""
+"Wait a second! You cut the part where I called him a strange guy with a "
+"military fetish!"
+msgstr ""
+
+msgctxt "3900_Saigo"
+msgid ""
+"That was epic, Akiyama-kun! You delivered that line like you were on some "
+"big budget TV show!"
+msgstr ""
+
+msgctxt "3912_Akiyama"
+msgid "Oh, whatever. I'm too tired to argue."
+msgstr ""
+
+msgctxt "3924_Saigo"
+msgid "Hey, don't be like that. I'll send you a copy once we're done."
+msgstr ""
+
+msgctxt "3936_Akiyama"
+msgid "Gee, thanks..."
+msgstr ""
+
+msgctxt "3948_Saigo"
+msgid "But I must say, I was really moved by how angry you got when you saw me die."
+msgstr ""
+
+msgctxt "3960_Saigo"
+msgid "It's going to be tough living up to all that stuff you said."
+msgstr ""
+
+msgctxt "3972_Akiyama"
+msgid "Tough for you? You know how embarrassed I feel right now?"
+msgstr ""
+
+msgctxt "3984_Saigo"
+msgid ""
+"Listen, this video is just a way to promote my work. My core mission is "
+"teaching young people about the importance of risk management."
+msgstr ""
+
+msgctxt "3996_Saigo"
+msgid ""
+"That's what I'm devoting my life to. I hope I'll live up to your "
+"expectations in that department."
+msgstr ""
+
+msgctxt "4008_Akiyama"
+msgid "I'm impressed, Saigo-san."
+msgstr ""
+
+msgctxt "4020_Saigo"
+msgid ""
+"But you're not off the hook, either! You, too, must devote yourself to "
+"training hard every day!"
+msgstr ""
+
+msgctxt "4032_Saigo"
+msgid "And I'll be waiting here anytime you need to brush up."
+msgstr ""
+
+msgctxt "4044_Akiyama"
+msgid "Haha, I should've figured my training doesn't end here."
+msgstr ""
+
+msgctxt "4056_Akiyama"
+msgid "Still, you give good advice, Saigo-san. I'll take it to heart."
+msgstr ""
+
+msgctxt "4068_Saigo"
+msgid "Did you get that!?"
+msgstr ""
+
+msgctxt "4080_Saigo's Student"
+msgid "Yep!"
+msgstr ""
+
+msgctxt "4092_Akiyama's Voice"
+msgid "\"You give good advice, Saigo-san.\""
+msgstr ""
+
+msgctxt "4104_Akiyama"
+msgid "Oh, I give up."
+msgstr ""
+
+msgctxt "4152_Saigo"
+msgid "All right, Suicidal Shooting it is."
+msgstr ""
+
+msgctxt "4164_Saigo"
+msgid ""
+"In this exercise, my students and I will shoot at you as you make your way "
+"from here to the goal."
+msgstr ""
+
+msgctxt "4176_Saigo"
+msgid "You pass if you're able to take us out by returning fire."
+msgstr ""
+
+msgctxt "4188_Akiyama"
+msgid "So we'll be using guns?"
+msgstr ""
+
+msgctxt "4200_Saigo"
+msgid "What else would we use? I've got everything we need right here, don't worry."
+msgstr ""
+
+msgctxt "4212_Akiyama"
+msgid ""
+"I'm tired of stating the obvious, but don't you see any problem with waging "
+"a gun battle in the middle of town?"
+msgstr ""
+
+msgctxt "4224_Saigo"
+msgid "This is urban warfare training, so I'd say we're in the perfect place."
+msgstr ""
+
+msgctxt "4236_Akiyama"
+msgid "Right..."
+msgstr ""
+
+msgctxt "4248_Saigo"
+msgid ""
+"Of course, we'll be using replica guns. As much as I'd like to use live "
+"rounds, I felt we should do the neighbors a favor."
+msgstr ""
+
+msgctxt "4260_Akiyama"
+msgid "I actually agree with you for once."
+msgstr ""
+
+msgctxt "4272_Saigo"
+msgid "Are you ready?"
+msgstr ""
+
+msgctxt "4284_Saigo"
+msgid "All right then, begin!"
+msgstr ""
+
+msgctxt "4308_Akiyama"
+msgid "Hold on! I just remembered something I have to do."
+msgstr ""
+
+msgctxt "4320_Saigo"
+msgid ""
+"The battlefield waits for no one! Get your errands and bathroom breaks done "
+"beforehand!"
+msgstr ""
+
+msgctxt "4332_Saigo"
+msgid "But I'll make an exception this time. Come on back when you're ready."
+msgstr ""
+
+msgctxt "4380_Saigo"
+msgid "Just the man I wanted to see! Ready for some training?"
+msgstr ""
+
+msgctxt "4392_Akiyama"
+msgid "Not now. Maybe I'll come back later."
+msgstr ""
+
+msgctxt "4404_Saigo"
+msgid "Oh, well all right, then. You know where to find me."
+msgstr ""
+
+msgctxt "4440_Akiyama"
+msgid "Hold on! I just remembered something I have to do."
+msgstr ""
+
+msgctxt "4452_Saigo"
+msgid ""
+"The battlefield waits for no one! Get your errands and bathroom breaks done "
+"beforehand!"
+msgstr ""
+
+msgctxt "4464_Saigo"
+msgid "But I'll make an exception this time. Come on back when you're ready."
+msgstr ""
+
+msgctxt "4500_Akiyama"
+msgid "Yes, please."
+msgstr ""
+
+msgctxt "4512_Saigo's Training"
+msgid ""
+"<Color:7>Heat Actions are not available<Color:Default> in training battles. "
+"Make sure you are fully prepared, as Saigo's training can be demanding."
+msgstr ""
+
+msgctxt "4524_Saigo"
+msgid "Okay, pick your poison."
+msgstr ""
+
+msgctxt "4536_Saigo"
+msgid "Okay, let's move this elsewhere."
+msgstr ""
+
+msgctxt "4608_Saigo"
+msgid "All right, Suicidal Running it is."
+msgstr ""
+
+msgctxt "4620_Saigo"
+msgid ""
+"In this exercise, you'll chase me through the streets of Sotenbori. Catch "
+"me, and the training is complete."
+msgstr ""
+
+msgctxt "4632_Akiyama"
+msgid "But won't dashing around town like that be a major nuisance to others?"
+msgstr ""
+
+msgctxt "4644_Saigo"
+msgid ""
+"I have it covered. My students will be directing pedestrians and traffic to "
+"minimize potential problems."
+msgstr ""
+
+msgctxt "4656_Akiyama"
+msgid ""
+"That's an even bigger nuisance! Couldn't you have picked a more appropriate "
+"location?"
+msgstr ""
+
+msgctxt "4680_Akiyama"
+msgid ""
+"Crap, you already have everyone in place. Fine, let's finish this before "
+"the cops come."
+msgstr ""
+
+msgctxt "4692_Saigo"
+msgid ""
+"Relax. I've used this method of training before without causing any "
+"problems."
+msgstr ""
+
+msgctxt "4704_Akiyama"
+msgid "I think everyone's just too shocked to complain."
+msgstr ""
+
+msgctxt "4716_Saigo"
+msgid "Are you ready?"
+msgstr ""
+
+msgctxt "4728_Saigo"
+msgid "Okay. Let's get started!"
+msgstr ""
+
+msgctxt "4752_Saigo"
+msgid "Okay, let's move this elsewhere."
+msgstr ""
+
+msgctxt "4788_Saigo"
+msgid "Okay, let's get ready."
+msgstr ""
+
+msgctxt "4860_Saigo"
+msgid "All right, Suicidal Combat it is."
+msgstr ""
+
+msgctxt "4872_Saigo"
+msgid ""
+"In this exercise, we'll battle each other one-on-one, as if it were a real "
+"war."
+msgstr ""
+
+msgctxt "4884_Saigo"
+msgid "This is an all-out, no-holds-barred battle. Defeat me, and you pass."
+msgstr ""
+
+msgctxt "4896_Akiyama"
+msgid "We stand here and hit each other? Sounds simple enough."
+msgstr ""
+
+msgctxt "4908_Saigo"
+msgid ""
+"But it wouldn't be much of a training exercise if we slugged it out "
+"barehanded. That's why I'll be using a machine gun."
+msgstr ""
+
+msgctxt "4920_Akiyama"
+msgid ""
+"A machine gun!? You weren't kidding when you said this was called Suicidal "
+"Combat!"
+msgstr ""
+
+msgctxt "4932_Saigo"
+msgid ""
+"This is a high-performance replica gun that's been customized for training "
+"purposes. It'll definitely hurt, but it's not going to kill you."
+msgstr ""
+
+msgctxt "4944_Akiyama"
+msgid ""
+"If you're going to customize a special gun, why not make it so it doesn't "
+"hurt?"
+msgstr ""
+
+msgctxt "4956_Saigo"
+msgid ""
+"Don't be such a baby! Your superior officer's orders are absolute, and I "
+"order you not to be afraid!"
+msgstr ""
+
+msgctxt "4968_Akiyama"
+msgid ""
+"You're not my superior officer, or anyone's superior officer for that "
+"matter! But whatever. I'll trust you. I can trust you, right?"
+msgstr ""
+
+msgctxt "4980_Saigo"
+msgid "Good. Trust between comrades can turn the tide of battle."
+msgstr ""
+
+msgctxt "4992_Saigo"
+msgid "Are you ready?"
+msgstr ""
+
+msgctxt "5004_Saigo"
+msgid "Okay. Let's get started!"
+msgstr ""
+
+msgctxt "5028_Saigo"
+msgid "Okay, let's move this elsewhere."
+msgstr ""
+
+msgctxt "5100_Saigo"
+msgid "All right, True Suicidal Running it is!"
+msgstr ""
+
+msgctxt "5112_Saigo"
+msgid ""
+"This one is like the previous Suicidal Running exercise in that you'll "
+"chase me through the streets of Sotenbori. Catch me, and you pass."
+msgstr ""
+
+msgctxt "5124_Saigo"
+msgid "The only difference is I won't hold back this time."
+msgstr ""
+
+msgctxt "5136_Akiyama"
+msgid "You were holding back? So, what? You'll be running faster this time?"
+msgstr ""
+
+msgctxt "5148_Saigo"
+msgid "No, I'll lob grenades at you while you chase me."
+msgstr ""
+
+msgctxt "5160_Akiyama"
+msgid "You'll lob what at me!?"
+msgstr ""
+
+msgctxt "5172_Saigo"
+msgid ""
+"You know, grenades. Hand grenades. I know you civvies aren't too familiar "
+"with a mercenary's tools of the trade."
+msgstr ""
+
+msgctxt "5184_Akiyama"
+msgid ""
+"No, I know exactly what a grenade is. It's just, I mean, we're still in "
+"Japan, right?"
+msgstr ""
+
+msgctxt "5196_Saigo"
+msgid "Don't be a smart ass. Besides, a battlefield is wherever you make it."
+msgstr ""
+
+msgctxt "5208_Saigo"
+msgid ""
+"Like before, my students will direct traffic. However, they'll also be "
+"lobbing grenades at you, too, so watch out."
+msgstr ""
+
+msgctxt "5220_Akiyama"
+msgid ""
+"They'll be coming from all directions, huh? You are one devious bastard. "
+"Hats off to you."
+msgstr ""
+
+msgctxt "5232_Saigo"
+msgid ""
+"Respect for your superior officer is a given, but flattery won't get you "
+"promoted."
+msgstr ""
+
+msgctxt "5244_Akiyama"
+msgid "I'm more than happy to remain a private."
+msgstr ""
+
+msgctxt "5256_Saigo"
+msgid "Well, are you ready?"
+msgstr ""
+
+msgctxt "5268_Saigo"
+msgid "Okay. Let's get started!"
+msgstr ""
+
+msgctxt "5292_Saigo"
+msgid "Okay, let's get ready."
+msgstr ""
+
+msgctxt "5364_Saigo"
+msgid "All right, True Suicidal Shooting it is!"
+msgstr ""
+
+msgctxt "5376_Saigo"
+msgid "This time, I and three of my students will try to shoot you."
+msgstr ""
+
+msgctxt "5388_Saigo"
+msgid "You'll pass if you defeat us all."
+msgstr ""
+
+msgctxt "5400_Akiyama"
+msgid ""
+"I don't get a gun this time? So it's four armed opponents against me, "
+"barehanded?"
+msgstr ""
+
+msgctxt "5412_Saigo"
+msgid "What? Do you have a problem with that?"
+msgstr ""
+
+msgctxt "5424_Akiyama"
+msgid ""
+"Listen, those replica guns really hurt. And this time, I'm the only one on "
+"the receiving end of said pain?"
+msgstr ""
+
+msgctxt "5436_Saigo"
+msgid ""
+"You big baby. If you're scared of a little pain, what're you going to do "
+"when you're seriously wounded in battle?"
+msgstr ""
+
+msgctxt "5448_Akiyama"
+msgid "You do realize this is Japan and not some war-torn country, right?"
+msgstr ""
+
+msgctxt "5460_Saigo"
+msgid "Stop fooling yourself! Life itself is a battlefield!"
+msgstr ""
+
+msgctxt "5472_Akiyama"
+msgid ""
+"I should've figured you'd say that. I better quit while I'm ahead. Fine, "
+"let's do this."
+msgstr ""
+
+msgctxt "5484_Saigo"
+msgid "Are you ready?"
+msgstr ""
+
+msgctxt "5496_Saigo"
+msgid "Okay. Let's get started!"
+msgstr ""
+
+msgctxt "5520_Saigo"
+msgid "Okay, let's get ready."
+msgstr ""
+
+msgctxt "5592_Saigo"
+msgid "All right, True Suicidal Combat it is!"
+msgstr ""
+
+msgctxt "5604_Saigo"
+msgid ""
+"In this exercise, we'll battle each other one-on-one. Defeat me, and you "
+"pass."
+msgstr ""
+
+msgctxt "5616_Saigo"
+msgid ""
+"I won't be holding back this time. Naturally, I'll be using a machine gun "
+"again."
+msgstr ""
+
+msgctxt "5628_Akiyama"
+msgid ""
+"I don't see anything natural about it, but I guess complaining won't change "
+"anything."
+msgstr ""
+
+msgctxt "5640_Saigo"
+msgid ""
+"And my students will back me up by lobbing grenades at you from outside the "
+"combat zone."
+msgstr ""
+
+msgctxt "5652_Akiyama"
+msgid ""
+"Nothing you could say fazes me anymore. Besides, you're just as likely to "
+"be blown to bits as me."
+msgstr ""
+
+msgctxt "5664_Saigo"
+msgid ""
+"Think again, Akiyama-kun. I'll be wearing the latest cutting-edge ballistic "
+"armor."
+msgstr ""
+
+msgctxt "5676_Saigo"
+msgid "I can keep on fighting without worrying about grenade explosions."
+msgstr ""
+
+msgctxt "5688_Akiyama"
+msgid "Hey, no fair!"
+msgstr ""
+
+msgctxt "5700_Saigo"
+msgid ""
+"Relax. The gunfire and explosions are only for training purposes. They may "
+"leave a mark and hurt like hell, but they won't kill you."
+msgstr ""
+
+msgctxt "5712_Akiyama"
+msgid ""
+"You're always so reassuring in your own special way. But fine, whatever. "
+"I'm used to it by now."
+msgstr ""
+
+msgctxt "5724_Saigo"
+msgid "Are you ready?"
+msgstr ""
+
+msgctxt "5736_Saigo"
+msgid "Okay. Let's get started!"
+msgstr ""

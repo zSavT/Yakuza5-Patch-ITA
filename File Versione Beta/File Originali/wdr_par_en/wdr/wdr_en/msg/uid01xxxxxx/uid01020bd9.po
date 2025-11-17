@@ -1,0 +1,2441 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2256"
+msgid "You got 3,200 experience points."
+msgstr ""
+
+msgctxt "2340"
+msgid "You got 2,800 experience points."
+msgstr ""
+
+msgctxt "2424"
+msgid "You got 2,500 experience points."
+msgstr ""
+
+msgctxt "81188"
+msgid "Horie"
+msgstr ""
+
+msgctxt "81192"
+msgid "adv3_250_1/horie_0086a"
+msgstr ""
+
+msgctxt "81196"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "81200"
+msgid "adv3_250_1/horie_0086b"
+msgstr ""
+
+msgctxt "81204"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "81208"
+msgid "adv3_250_1/horie_0087"
+msgstr ""
+
+msgctxt "81212"
+msgid "adv3_250_1/haruka_0113"
+msgstr ""
+
+msgctxt "81216"
+msgid "adv3_250_1/horie_0088a"
+msgstr ""
+
+msgctxt "81220"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "81224"
+msgid "adv3_250_1/horie_0088b"
+msgstr ""
+
+msgctxt "81228"
+msgid "adv3_250_1/haruka_0114"
+msgstr ""
+
+msgctxt "81232"
+msgid "adv3_250_1/horie_0089a"
+msgstr ""
+
+msgctxt "81236"
+msgid "adv3_250_1/horie_0089b"
+msgstr ""
+
+msgctxt "81240"
+msgid "adv3_250_1/horie_0089c"
+msgstr ""
+
+msgctxt "81244"
+msgid "adv3_250_1/haruka_0115"
+msgstr ""
+
+msgctxt "81248"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "81252"
+msgid "adv3_250_1/horie_0090"
+msgstr ""
+
+msgctxt "81256"
+msgid "adv3_250_1/haruka_0116"
+msgstr ""
+
+msgctxt "81260"
+msgid "adv3_195_2/haruka_3_196_010"
+msgstr ""
+
+msgctxt "81264"
+msgid "Akari"
+msgstr ""
+
+msgctxt "81268"
+msgid "adv3_195_2/akari_3_196_010"
+msgstr ""
+
+msgctxt "81272"
+msgid "C3200_CRS_TLK_stand_ed"
+msgstr ""
+
+msgctxt "81276"
+msgid "adv3_195_2/akari_3_196_020"
+msgstr ""
+
+msgctxt "81280"
+msgid "adv3_195_2/haruka_3_196_020"
+msgstr ""
+
+msgctxt "81284"
+msgid "Christina"
+msgstr ""
+
+msgctxt "81288"
+msgid "adv3_195_2/christina_3_196_010"
+msgstr ""
+
+msgctxt "81292"
+msgid "adv3_195_2/haruka_3_196_030"
+msgstr ""
+
+msgctxt "81296"
+msgid "adv3_195_2/akari_3_196_030"
+msgstr ""
+
+msgctxt "81300"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "81304"
+msgid "adv3_195_2/akari_3_196_040"
+msgstr ""
+
+msgctxt "81308"
+msgid "adv3_195_2/akari_3_196_050"
+msgstr ""
+
+msgctxt "81312"
+msgid "adv3_195_2/christina_3_196_020"
+msgstr ""
+
+msgctxt "81316"
+msgid "adv3_195_2/akari_3_196_060"
+msgstr ""
+
+msgctxt "81320"
+msgid "adv3_195_2/christina_3_196_030"
+msgstr ""
+
+msgctxt "81324"
+msgid "adv3_195_2/akari_3_196_070"
+msgstr ""
+
+msgctxt "81328"
+msgid "adv3_195_2/christina_3_196_040"
+msgstr ""
+
+msgctxt "81332"
+msgid "kaiwabgm_fuon03"
+msgstr ""
+
+msgctxt "81336"
+msgid "adv3_195_2/akari_3_196_080"
+msgstr ""
+
+msgctxt "81340"
+msgid "adv3_195_2/christina_3_196_050"
+msgstr ""
+
+msgctxt "81344"
+msgid "adv3_195_2/christina_3_196_060"
+msgstr ""
+
+msgctxt "81348"
+msgid "adv3_195_2/christina_3_196_070"
+msgstr ""
+
+msgctxt "81352"
+msgid "adv3_195_2/akari_3_196_090"
+msgstr ""
+
+msgctxt "81356"
+msgid "adv3_195_2/christina_3_196_080"
+msgstr ""
+
+msgctxt "81360"
+msgid "adv3_195_2/christina_3_196_090"
+msgstr ""
+
+msgctxt "81364"
+msgid "adv3_195_2/christina_3_196_100"
+msgstr ""
+
+msgctxt "81368"
+msgid "adv3_195_2/akari_3_196_100"
+msgstr ""
+
+msgctxt "81372"
+msgid "adv3_195_2/christina_3_196_110"
+msgstr ""
+
+msgctxt "81376"
+msgid "adv3_195_2/akari_3_196_110"
+msgstr ""
+
+msgctxt "81380"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "81384"
+msgid "adv3_195_2/haruka_3_196_050"
+msgstr ""
+
+msgctxt "81388"
+msgid "adv3_195_2/akari_3_196_120"
+msgstr ""
+
+msgctxt "81392"
+msgid "adv3_195_2/haruka_3_196_060"
+msgstr ""
+
+msgctxt "81396"
+msgid "adv3_195_2/christina_3_196_120"
+msgstr ""
+
+msgctxt "81400"
+msgid "adv3_195_2/christina_3_196_130"
+msgstr ""
+
+msgctxt "81404"
+msgid "adv3_195_2/haruka_3_196_080"
+msgstr ""
+
+msgctxt "81408"
+msgid "adv3_195_2/christina_3_196_140"
+msgstr ""
+
+msgctxt "81412"
+msgid "adv3_195_2/haruka_3_196_090"
+msgstr ""
+
+msgctxt "81416"
+msgid "adv3_195_2/christina_3_196_150"
+msgstr ""
+
+msgctxt "81420"
+msgid "adv3_195_2/haruka_3_196_100"
+msgstr ""
+
+msgctxt "81424"
+msgid "adv3_195_2/christina_3_196_160"
+msgstr ""
+
+msgctxt "81428"
+msgid "adv3_195_2/haruka_3_196_110"
+msgstr ""
+
+msgctxt "81432"
+msgid "adv3_195_2/christina_3_196_170"
+msgstr ""
+
+msgctxt "81436"
+msgid "adv3_195_2/haruka_3_196_120"
+msgstr ""
+
+msgctxt "81440"
+msgid "adv3_195_2/christina_3_196_180"
+msgstr ""
+
+msgctxt "81444"
+msgid "adv3_195_1/akari_3_195_010"
+msgstr ""
+
+msgctxt "81448"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "81452"
+msgid "adv3_195_1/akari_3_195_020"
+msgstr ""
+
+msgctxt "81456"
+msgid "adv3_195_1/christina_3_195_010"
+msgstr ""
+
+msgctxt "81460"
+msgid "adv3_195_1/akari_3_195_030a"
+msgstr ""
+
+msgctxt "81464"
+msgid "adv3_195_1/akari_3_195_030b"
+msgstr ""
+
+msgctxt "81468"
+msgid "adv3_195_1/christina_3_195_020"
+msgstr ""
+
+msgctxt "81472"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "81476"
+msgid "adv3_195_1/haruka_3_195_010"
+msgstr ""
+
+msgctxt "81480"
+msgid "adv3_195_1/akari_3_195_040"
+msgstr ""
+
+msgctxt "81484"
+msgid "adv3_195_1/akari_3_195_050"
+msgstr ""
+
+msgctxt "81488"
+msgid "adv3_195_1/haruka_3_195_020"
+msgstr ""
+
+msgctxt "81492"
+msgid "adv3_195_1/akari_3_195_060"
+msgstr ""
+
+msgctxt "81496"
+msgid "F_YNG_TLK_stand_kansin"
+msgstr ""
+
+msgctxt "81500"
+msgid "adv3_195_1/akari_3_195_070"
+msgstr ""
+
+msgctxt "81504"
+msgid "adv3_195_1/akari_3_195_080a"
+msgstr ""
+
+msgctxt "81508"
+msgid "adv3_195_1/akari_3_195_080b"
+msgstr ""
+
+msgctxt "81512"
+msgid "adv3_195_1/haruka_3_195_030"
+msgstr ""
+
+msgctxt "81516"
+msgid "adv3_195_1/akari_3_195_090a"
+msgstr ""
+
+msgctxt "81520"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "81524"
+msgid "adv3_195_1/akari_3_195_090b"
+msgstr ""
+
+msgctxt "81528"
+msgid "adv3_195_1/christina_3_195_050"
+msgstr ""
+
+msgctxt "81532"
+msgid "adv3_195_1/akari_3_195_100"
+msgstr ""
+
+msgctxt "81536"
+msgid "adv3_195_1/christina_3_195_060"
+msgstr ""
+
+msgctxt "81540"
+msgid "adv3_195_1/haruka_3_195_040"
+msgstr ""
+
+msgctxt "81544"
+msgid "adv3_195_1/christina_3_195_070"
+msgstr ""
+
+msgctxt "81548"
+msgid "adv3_195_1/christina_3_195_080a"
+msgstr ""
+
+msgctxt "81552"
+msgid "C3200_CRS_TLK_stand_lp"
+msgstr ""
+
+msgctxt "81556"
+msgid "C3200_CRS_TLK_stand_st"
+msgstr ""
+
+msgctxt "81560"
+msgid "adv3_195_1/christina_3_195_080b"
+msgstr ""
+
+msgctxt "81564"
+msgid "adv3_195_1/christina_3_195_090"
+msgstr ""
+
+msgctxt "81568"
+msgid "C3200_CRS_TLK_stand_yes"
+msgstr ""
+
+msgctxt "81572"
+msgid "adv3_195_1/haruka_3_195_070"
+msgstr ""
+
+msgctxt "81576"
+msgid "Female Employee"
+msgstr ""
+
+msgctxt "81580"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "81584"
+msgid "Businessman"
+msgstr ""
+
+msgctxt "81588"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "81592"
+msgid "Of course."
+msgstr ""
+
+msgctxt "81596"
+msgid "I'm afraid not."
+msgstr ""
+
+msgctxt "81600"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "81604"
+msgid "adv3_140/horie_0043a"
+msgstr ""
+
+msgctxt "81608"
+msgid "adv3_140/horie_3_140_010"
+msgstr ""
+
+msgctxt "81612"
+msgid "adv3_140/haruka_3_140_010"
+msgstr ""
+
+msgctxt "81616"
+msgid "Uda"
+msgstr ""
+
+msgctxt "81620"
+msgid "dummy"
+msgstr ""
+
+msgctxt "81624"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "81628"
+msgid "Shady Woman"
+msgstr ""
+
+msgctxt "81632"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "81636"
+msgid "Yoko"
+msgstr ""
+
+msgctxt "81640"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "81644"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "81648"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "81652"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "81656"
+msgid "adv3_050_4/akari_3_051_010"
+msgstr ""
+
+msgctxt "81660"
+msgid "adv3_050_4/haruka_3_051_010"
+msgstr ""
+
+msgctxt "81664"
+msgid "Talk_Cry"
+msgstr ""
+
+msgctxt "81668"
+msgid "adv3_050_4/akari_3_051_015"
+msgstr ""
+
+msgctxt "81672"
+msgid "adv3_050_4/haruka_3_051_020"
+msgstr ""
+
+msgctxt "81676"
+msgid "adv3_050_4/akari_3_051_020a"
+msgstr ""
+
+msgctxt "81680"
+msgid "adv3_050_4/akari_3_051_020b"
+msgstr ""
+
+msgctxt "81684"
+msgid "adv3_050_4/akari_3_051_030"
+msgstr ""
+
+msgctxt "81688"
+msgid "adv3_050_4/haruka_3_051_030"
+msgstr ""
+
+msgctxt "81692"
+msgid "adv3_050_4/akari_3_051_040"
+msgstr ""
+
+msgctxt "81696"
+msgid "adv3_050_4/haruka_3_051_040a"
+msgstr ""
+
+msgctxt "81700"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "81704"
+msgid "adv3_050_4/haruka_3_051_040b"
+msgstr ""
+
+msgctxt "81708"
+msgid "adv3_050_4/haruka_3_051_050"
+msgstr ""
+
+msgctxt "81712"
+msgid "adv3_050_4/akari_3_051_050"
+msgstr ""
+
+msgctxt "81716"
+msgid "adv3_050_4/haruka_3_051_060"
+msgstr ""
+
+msgctxt "81720"
+msgid "adv3_050_4/akari_3_051_060a"
+msgstr ""
+
+msgctxt "81724"
+msgid "adv3_050_4/akari_3_051_070"
+msgstr ""
+
+msgctxt "81728"
+msgid "adv3_050_4/haruka_3_051_070"
+msgstr ""
+
+msgctxt "81732"
+msgid "adv3_050_4/akari_3_051_080"
+msgstr ""
+
+msgctxt "81736"
+msgid "adv3_050_4/haruka_3_051_080"
+msgstr ""
+
+msgctxt "81740"
+msgid "adv3_050_4/akari_3_051_090"
+msgstr ""
+
+msgctxt "81744"
+msgid "adv3_050_4/haruka_3_051_090"
+msgstr ""
+
+msgctxt "81748"
+msgid "adv3_050_4/akari_3_051_100"
+msgstr ""
+
+msgctxt "81752"
+msgid "Dance Battles"
+msgstr ""
+
+msgctxt "81756"
+msgid "kaiwabgm_happy01"
+msgstr ""
+
+msgctxt "81760"
+msgid "adv3_050_3/akari_3_050_010"
+msgstr ""
+
+msgctxt "81764"
+msgid "adv3_050_3/haruka_3_050_010"
+msgstr ""
+
+msgctxt "81768"
+msgid "adv3_050_3/akari_3_050_020"
+msgstr ""
+
+msgctxt "81772"
+msgid "adv3_050_3/haruka_3_050_020a"
+msgstr ""
+
+msgctxt "81776"
+msgid "adv3_050_3/haruka_3_050_020b"
+msgstr ""
+
+msgctxt "81780"
+msgid "adv3_050_3/akari_3_050_030a"
+msgstr ""
+
+msgctxt "81784"
+msgid "adv3_050_3/akari_3_050_030b"
+msgstr ""
+
+msgctxt "81788"
+msgid "adv3_050_3/haruka_3_050_030"
+msgstr ""
+
+msgctxt "81792"
+msgid "adv3_050_3/akari_3_050_040"
+msgstr ""
+
+msgctxt "81796"
+msgid "adv3_050_3/haruka_3_050_040"
+msgstr ""
+
+msgctxt "81800"
+msgid "adv3_050_3/akari_3_050_050a"
+msgstr ""
+
+msgctxt "81804"
+msgid "adv3_050_3/akari_3_050_050b"
+msgstr ""
+
+msgctxt "81808"
+msgid "adv3_050_3/haruka_3_050_050"
+msgstr ""
+
+msgctxt "81812"
+msgid "adv3_050_3/akari_3_050_060"
+msgstr ""
+
+msgctxt "81816"
+msgid "adv3_050_3/akari_3_050_070"
+msgstr ""
+
+msgctxt "81820"
+msgid "adv3_050_3/haruka_3_050_060"
+msgstr ""
+
+msgctxt "81824"
+msgid "adv3_050_3/akari_3_050_080a"
+msgstr ""
+
+msgctxt "81828"
+msgid "adv3_050_3/akari_3_050_080b"
+msgstr ""
+
+msgctxt "81832"
+msgid "adv3_050_3/haruka_3_050_070"
+msgstr ""
+
+msgctxt "81836"
+msgid "adv3_050_3/akari_3_050_090"
+msgstr ""
+
+msgctxt "81840"
+msgid "adv3_050_3/haruka_3_050_080"
+msgstr ""
+
+msgctxt "81844"
+msgid "adv3_050_3/akari_3_050_100"
+msgstr ""
+
+msgctxt "81848"
+msgid "adv3_050_3/haruka_3_050_090"
+msgstr ""
+
+msgctxt "81852"
+msgid "adv3_050_3/akari_3_050_110a"
+msgstr ""
+
+msgctxt "81856"
+msgid "adv3_050_3/akari_3_050_110b"
+msgstr ""
+
+msgctxt "81860"
+msgid "adv3_050_3/haruka_3_050_100"
+msgstr ""
+
+msgctxt "81864"
+msgid "adv3_050_3/akari_3_050_120"
+msgstr ""
+
+msgctxt "81868"
+msgid "adv3_050_3/haruka_3_050_110"
+msgstr ""
+
+msgctxt "81872"
+msgid "adv3_050_3/akari_3_050_130a"
+msgstr ""
+
+msgctxt "81876"
+msgid "adv3_050_3/akari_3_050_130b"
+msgstr ""
+
+msgctxt "81880"
+msgid "adv3_050_3/haruka_3_050_120"
+msgstr ""
+
+msgctxt "81884"
+msgid "adv3_050_3/akari_3_050_140"
+msgstr ""
+
+msgctxt "81888"
+msgid "adv3_050_3/haruka_3_050_130"
+msgstr ""
+
+msgctxt "81892"
+msgid "adv3_050_3/akari_3_050_150a"
+msgstr ""
+
+msgctxt "81896"
+msgid "adv3_050_3/akari_3_050_150b"
+msgstr ""
+
+msgctxt "81900"
+msgid "adv3_050_3/haruka_3_050_140"
+msgstr ""
+
+msgctxt "81904"
+msgid "adv3_050_3/akari_3_050_160"
+msgstr ""
+
+msgctxt "81908"
+msgid "adv3_050_3/akari_3_050_170"
+msgstr ""
+
+msgctxt "81912"
+msgid "adv3_050_3/haruka_3_050_150"
+msgstr ""
+
+msgctxt "81916"
+msgid "adv3_050_3/akari_3_050_180a"
+msgstr ""
+
+msgctxt "81920"
+msgid "adv3_050_3/akari_3_050_180b"
+msgstr ""
+
+msgctxt "81924"
+msgid "adv3_050_3/haruka_3_050_160"
+msgstr ""
+
+msgctxt "81928"
+msgid "adv3_050_3/akari_3_050_190"
+msgstr ""
+
+msgctxt "81932"
+msgid "adv3_050_3/haruka_3_050_170"
+msgstr ""
+
+msgctxt "81936"
+msgid "adv3_050_3/akari_3_050_200a"
+msgstr ""
+
+msgctxt "81940"
+msgid "adv3_050_3/akari_3_050_200b"
+msgstr ""
+
+msgctxt "81944"
+msgid "adv3_050_3/haruka_3_050_180"
+msgstr ""
+
+msgctxt "81948"
+msgid "adv3_050_3/akari_3_050_210"
+msgstr ""
+
+msgctxt "81952"
+msgid "adv3_050_3/haruka_3_050_190"
+msgstr ""
+
+msgctxt "81956"
+msgid "adv3_050_3/akari_3_050_220a"
+msgstr ""
+
+msgctxt "81960"
+msgid "adv3_050_3/akari_3_050_220b"
+msgstr ""
+
+msgctxt "81964"
+msgid "adv3_050_3/haruka_3_050_200"
+msgstr ""
+
+msgctxt "81968"
+msgid "adv3_050_3/akari_3_050_230a"
+msgstr ""
+
+msgctxt "81972"
+msgid "adv3_050_3/akari_3_050_230b"
+msgstr ""
+
+msgctxt "81976"
+msgid "adv3_050_3/haruka_3_050_210a"
+msgstr ""
+
+msgctxt "81980"
+msgid "adv3_050_3/haruka_3_050_210b"
+msgstr ""
+
+msgctxt "81984"
+msgid "adv3_050_4/akari_3_050_240"
+msgstr ""
+
+msgctxt "81988"
+msgid "adv3_045_1/horie_3_045_010"
+msgstr ""
+
+msgctxt "81992"
+msgid "adv3_045_1/haruka_3_045_010"
+msgstr ""
+
+msgctxt "81996"
+msgid "adv3_045_1/horie_3_045_020"
+msgstr ""
+
+msgctxt "82000"
+msgid "adv3_045_1/haruka_3_045_020"
+msgstr ""
+
+msgctxt "82004"
+msgid "adv3_045_1/horie_3_045_030"
+msgstr ""
+
+msgctxt "82008"
+msgid "adv3_045_1/horie_3_045_040"
+msgstr ""
+
+msgctxt "82012"
+msgid "adv3_045_1/horie_3_045_050"
+msgstr ""
+
+msgctxt "82016"
+msgid "adv3_045_1/haruka_3_045_030"
+msgstr ""
+
+msgctxt "82020"
+msgid "adv3_045_1/haruka_3_045_040"
+msgstr ""
+
+msgctxt "82024"
+msgid "adv3_045_1/horie_3_045_090"
+msgstr ""
+
+msgctxt "82028"
+msgid "adv3_045_1/horie_3_045_100"
+msgstr ""
+
+msgctxt "82032"
+msgid "kaiwabgm_heartwarm02"
+msgstr ""
+
+msgctxt "82036"
+msgid "adv3_045_1/haruka_3_045_060"
+msgstr ""
+
+msgctxt "82040"
+msgid "adv3_045_1/horie_3_045_110"
+msgstr ""
+
+msgctxt "82044"
+msgid "adv3_045_1/haruka_3_045_070"
+msgstr ""
+
+msgctxt "82048"
+msgid "adv3_045_1/horie_3_045_120"
+msgstr ""
+
+msgctxt "82052"
+msgid "adv3_045_1/haruka_3_045_080"
+msgstr ""
+
+msgctxt "82056"
+msgid "adv3_045_1/horie_3_045_130"
+msgstr ""
+
+msgctxt "82060"
+msgid "adv3_045_1/haruka_3_045_090"
+msgstr ""
+
+msgctxt "82064"
+msgid "adv3_045_1/horie_3_045_140"
+msgstr ""
+
+msgctxt "82068"
+msgid "adv3_045_1/horie_3_045_150"
+msgstr ""
+
+msgctxt "82072"
+msgid "adv3_045_1/horie_3_045_160"
+msgstr ""
+
+msgctxt "82076"
+msgid "adv3_045_1/horie_3_045_170"
+msgstr ""
+
+msgctxt "82080"
+msgid "adv3_045_1/haruka_3_045_100"
+msgstr ""
+
+msgctxt "82084"
+msgid "adv3_045_1/horie_3_045_180"
+msgstr ""
+
+msgctxt "82088"
+msgid "adv3_045_1/horie_3_045_190"
+msgstr ""
+
+msgctxt "82092"
+msgid "adv3_045_1/haruka_3_045_110"
+msgstr ""
+
+msgctxt "82096"
+msgid "adv3_045_1/horie_3_045_200"
+msgstr ""
+
+msgctxt "82100"
+msgid "adv3_045_1/horie_3_045_210"
+msgstr ""
+
+msgctxt "82104"
+msgid "adv3_045_1/horie_3_045_220"
+msgstr ""
+
+msgctxt "82108"
+msgid "adv3_045_1/haruka_3_045_120"
+msgstr ""
+
+msgctxt "82112"
+msgid "adv3_045_1/horie_3_045_230"
+msgstr ""
+
+msgctxt "82116"
+msgid "adv3_045_1/haruka_3_045_130"
+msgstr ""
+
+msgctxt "82120"
+msgid "大阪　蒼天堀"
+msgstr ""
+
+msgctxt "252_Horie"
+msgid ""
+"This is wonderful! Seems like the tide is really turning in\r\n"
+"our favor."
+msgstr ""
+
+msgctxt "264_Horie"
+msgid "Only thing left to do is ride the wave!"
+msgstr ""
+
+msgctxt "276_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "288_Horie"
+msgid "Huh? What's wrong?"
+msgstr ""
+
+msgctxt "300_Haruka"
+msgid "I'm a little nervous..."
+msgstr ""
+
+msgctxt "312_Horie"
+msgid "Hey, none of that, now! You're going to be just fine!"
+msgstr ""
+
+msgctxt "324_Horie"
+msgid ""
+"Christina is here for you, and you know Park-san and I are\r\n"
+"always in your corner. So chin up!"
+msgstr ""
+
+msgctxt "336_Haruka"
+msgid "You're right... I can do this!"
+msgstr ""
+
+msgctxt "348_Horie"
+msgid "Yeah, that's the spirit!"
+msgstr ""
+
+msgctxt "360_Horie"
+msgid ""
+"Oh, I just remembered. I gotta head back to the agency, but\r\n"
+"you should run on home."
+msgstr ""
+
+msgctxt "372_Horie"
+msgid "You sure had a lot on your plate today. You must be exhausted!"
+msgstr ""
+
+msgctxt "384_Haruka"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "396_Horie"
+msgid "I'll see ya tomorrow, then. Be safe getting home!"
+msgstr ""
+
+msgctxt "408_Haruka"
+msgid "I will."
+msgstr ""
+
+msgctxt "468_Haruka"
+msgid "(Horie-san is right. It was quite a day...)"
+msgstr ""
+
+msgctxt "480_Haruka"
+msgid "(I think I'll hurry home and get some sleep.)"
+msgstr ""
+
+msgctxt "504_Haruka"
+msgid "(Horie-san's waiting for me at the taxi stand.)"
+msgstr ""
+
+msgctxt "528_Haruka"
+msgid "*pant* *pant*"
+msgstr ""
+
+msgctxt "540_Akari"
+msgid "*pant* ...Well, Christina-san, what did you think?"
+msgstr ""
+
+msgctxt "588_Akari"
+msgid "......"
+msgstr ""
+
+msgctxt "624_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "636_Christina"
+msgid "I have a feeling you and I will have a good talk, Haruka."
+msgstr ""
+
+msgctxt "648_Haruka"
+msgid "Christina-san..."
+msgstr ""
+
+msgctxt "660_Akari"
+msgid "What!? Why!?"
+msgstr ""
+
+msgctxt "684_Akari"
+msgid ""
+"Sure, Haruka danced well, but she wasn't <Italic>that</Italic> much "
+"better\r\n"
+"than me! So what gives!?"
+msgstr ""
+
+msgctxt "696_Akari"
+msgid "My performance was better than hers! It doesn't make any sense!"
+msgstr ""
+
+msgctxt "708_Christina"
+msgid ""
+"It's just as I told you before, Akari-san. I only work with\r\n"
+"dancers I'm interested in."
+msgstr ""
+
+msgctxt "720_Akari"
+msgid "But...!"
+msgstr ""
+
+msgctxt "732_Christina"
+msgid ""
+"Look, I'm in a good mood today, so I'll share with you why\r\n"
+"I chose Haruka."
+msgstr ""
+
+msgctxt "744_Akari"
+msgid "Why?"
+msgstr ""
+
+msgctxt "756_Christina"
+msgid ""
+"Dancing is more than just technique. It's about how you\r\n"
+"express your feelings, how you let others see what's in your\r\n"
+"heart. That's the key."
+msgstr ""
+
+msgctxt "768_Akari"
+msgid "My heart...?"
+msgstr ""
+
+msgctxt "780_Christina"
+msgid ""
+"I've judged countless auditions, and I've seen more dancers\r\n"
+"than I can remember."
+msgstr ""
+
+msgctxt "792_Christina"
+msgid ""
+"But the dancers who fail their auditions all have one very\r\n"
+"basic thing in common."
+msgstr ""
+
+msgctxt "804_Christina"
+msgid ""
+"They've let themselves become robotic, just dancing\r\n"
+"machines."
+msgstr ""
+
+msgctxt "816_Akari"
+msgid "Machines..."
+msgstr ""
+
+msgctxt "828_Christina"
+msgid ""
+"They perform perfectly calculated dances, without even the\r\n"
+"slightest error. And yes, said precise movements are quite\r\n"
+"impressive... at first."
+msgstr ""
+
+msgctxt "840_Christina"
+msgid ""
+"But precision isn't what fascinates people. A true dancer\r\n"
+"moves the audience with her ability to express emotion\r\n"
+"through movement."
+msgstr ""
+
+msgctxt "852_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "864_Christina"
+msgid ""
+"That's the difference between those who get their chance in\r\n"
+"the spotlight and those who are backup dancers for life－the\r\n"
+"difference between you and Haruka right now."
+msgstr ""
+
+msgctxt "876_Akari"
+msgid "That's..."
+msgstr ""
+
+msgctxt "888_Christina"
+msgid ""
+"Don't dance for others' approval, Akari-san. Dance from the\r\n"
+"heart. Show the world how you feel."
+msgstr ""
+
+msgctxt "900_Akari"
+msgid "What are you talking about!? What's wrong with the way I dance!?"
+msgstr ""
+
+msgctxt "912_Haruka"
+msgid "Akari..."
+msgstr ""
+
+msgctxt "924_Akari"
+msgid "Forget it! I'm never going to dance again!"
+msgstr ""
+
+msgctxt "948_Haruka"
+msgid "Akari!"
+msgstr ""
+
+msgctxt "960_Christina"
+msgid "Let her be for now, Haruka."
+msgstr ""
+
+msgctxt "972_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "984_Christina"
+msgid ""
+"She needs to figure things out for herself. It won't be\r\n"
+"easy, but it'll be best for her in the long run."
+msgstr ""
+
+msgctxt "996_Haruka"
+msgid ""
+"But Akari's right. She's the one who showed me how much fun\r\n"
+"dancing can be. She's been a good friend to me."
+msgstr ""
+
+msgctxt "1008_Christina"
+msgid ""
+"In that case, you be a good friend to her, and show her that\r\n"
+"friends support one another and help each other grow."
+msgstr ""
+
+msgctxt "1020_Haruka"
+msgid "...Right. I will."
+msgstr ""
+
+msgctxt "1032_Christina"
+msgid ""
+"All right. That's enough of a lecture. It's time now for\r\n"
+"that talk I promised you. Something about work, was it?"
+msgstr ""
+
+msgctxt "1044_Haruka"
+msgid "Yes. I wanted to ask you to be my dance instructor."
+msgstr ""
+
+msgctxt "1056_Christina"
+msgid "Me?"
+msgstr ""
+
+msgctxt "1068_Haruka"
+msgid ""
+"Yes. Park-san, the president of my agency, Dyna Chair, would\r\n"
+"like to speak to you about it."
+msgstr ""
+
+msgctxt "1080_Christina"
+msgid ""
+"And instead of coming to see me, she sent the dancer\r\n"
+"herself... Actions speak louder, as they say. Heh, that's\r\n"
+"quite a competent president you have!"
+msgstr ""
+
+msgctxt "1092_Haruka"
+msgid ""
+"So, if you wouldn't mind, I'd like you to come with me to my\r\n"
+"agency to meet her."
+msgstr ""
+
+msgctxt "1104_Christina"
+msgid "Very well. Lead the way."
+msgstr ""
+
+msgctxt "1128_Akari"
+msgid "There. See that man? That's Christina."
+msgstr ""
+
+msgctxt "1140_Akari"
+msgid "Christina-san!"
+msgstr ""
+
+msgctxt "1164_Christina"
+msgid ""
+"Hmm? You're that dancer from before, aren't you? I believe I\r\n"
+"told you we didn't have anything further to discuss..."
+msgstr ""
+
+msgctxt "1176_Akari"
+msgid "Yes, I know, but please give me one more chance!"
+msgstr ""
+
+msgctxt "1188_Akari"
+msgid "And this time, I brought a pro."
+msgstr ""
+
+msgctxt "1200_Christina"
+msgid "A pro?"
+msgstr ""
+
+msgctxt "1212_Haruka"
+msgid "Akari, I don't understand."
+msgstr ""
+
+msgctxt "1224_Akari"
+msgid ""
+"Well, actually, some of my dancer friends told me earlier\r\n"
+"that Christina was in Sotenbori, so I already came and had\r\n"
+"him watch me dance."
+msgstr ""
+
+msgctxt "1236_Akari"
+msgid "But when I was done, he said he wasn't interested in me..."
+msgstr ""
+
+msgctxt "1248_Haruka"
+msgid "What!?"
+msgstr ""
+
+msgctxt "1260_Akari"
+msgid ""
+"Christina-san, please give me another chance! Won't you\r\n"
+"watch me dance just one more time?"
+msgstr ""
+
+msgctxt "1272_Akari"
+msgid ""
+"I really want you to take me on as your dance student! I\r\n"
+"want it more than anything!"
+msgstr ""
+
+msgctxt "1284_Christina"
+msgid "......"
+msgstr ""
+
+msgctxt "1296_Akari"
+msgid ""
+"I brought a friend with me this time. She's a pro, a real\r\n"
+"pop idol!"
+msgstr ""
+
+msgctxt "1308_Akari"
+msgid ""
+"That's got to be interesting enough to let me have another\r\n"
+"try, right?"
+msgstr ""
+
+msgctxt "1320_Christina"
+msgid "......"
+msgstr ""
+
+msgctxt "1332_Haruka"
+msgid "Akari, I don't know about this..."
+msgstr ""
+
+msgctxt "1344_Akari"
+msgid "Come on, Haruka! Please!? Be a friend!"
+msgstr ""
+
+msgctxt "1356_Akari"
+msgid ""
+"I don't have the looks or the connections you do. I can't\r\n"
+"let this chance slip away!"
+msgstr ""
+
+msgctxt "1368_Christina"
+msgid ""
+"...I don't know what's going on between the two of you, but,\r\n"
+"very well. I'll watch you both dance."
+msgstr ""
+
+msgctxt "1380_Akari"
+msgid "You mean it!?"
+msgstr ""
+
+msgctxt "1392_Christina"
+msgid "I do."
+msgstr ""
+
+msgctxt "1404_Haruka"
+msgid ""
+"Wait a minute! I'm actually here because I wanted to talk to\r\n"
+"Christina-san about work..."
+msgstr ""
+
+msgctxt "1416_Christina"
+msgid "Dance first. Then we can talk."
+msgstr ""
+
+msgctxt "1428_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "1440_Christina"
+msgid "I only work with dancers I'm interested in, you see."
+msgstr ""
+
+msgctxt "1452_Christina"
+msgid ""
+"If you want to talk to me, you'll have to first draw my\r\n"
+"interest by dancing."
+msgstr ""
+
+msgctxt "1464_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "1476_Christina"
+msgid "So what will it be?"
+msgstr ""
+
+msgctxt "1488_Haruka"
+msgid "All right... I'll do it. Let's show him what we can do, Akari!"
+msgstr ""
+
+msgctxt "1524_Haruka"
+msgid "(Trying to sober up, huh? Maybe he's taking a walk?)"
+msgstr ""
+
+msgctxt "1536_Akari"
+msgid "Hi, Haruka."
+msgstr ""
+
+msgctxt "1548_Haruka"
+msgid "Huh? Oh, Akari! What a coincidence!"
+msgstr ""
+
+msgctxt "1560_Akari"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "1572_Haruka"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "1584_Akari"
+msgid "Oh, nothing. So what are you doing? Shopping?"
+msgstr ""
+
+msgctxt "1596_Haruka"
+msgid ""
+"I'm looking for a man named Christina. He supposedly has\r\n"
+"really tan skin and wears a lot of flashy clothes. You\r\n"
+"haven't seen anyone like that, have you...?"
+msgstr ""
+
+msgctxt "1608_Akari"
+msgid "No way... I don't believe it."
+msgstr ""
+
+msgctxt "1620_Haruka"
+msgid "What is it? You're acting kind of funny, Akari."
+msgstr ""
+
+msgctxt "1632_Akari"
+msgid ""
+"Christina, right? Yeah, I know him. As a matter of fact, I\r\n"
+"just saw him."
+msgstr ""
+
+msgctxt "1644_Haruka"
+msgid "Hm? Really?"
+msgstr ""
+
+msgctxt "1656_Akari"
+msgid ""
+"Sure. He was just on the Sotenbori Footpath. He might still\r\n"
+"be there. Come on!"
+msgstr ""
+
+msgctxt "1668_Haruka"
+msgid "Okay!"
+msgstr ""
+
+msgctxt "1692_Haruka"
+msgid ""
+"Excuse me. Do you mind if I ask you a question? Were you\r\n"
+"just inside this bar?"
+msgstr ""
+
+msgctxt "1704_Female Employee"
+msgid "Yeah. Why do you ask?"
+msgstr ""
+
+msgctxt "1716_Haruka"
+msgid ""
+"Did you happen to see someone with tan skin and flashy\r\n"
+"clothes in there? I'm looking for him."
+msgstr ""
+
+msgctxt "1728_Female Employee"
+msgid ""
+"Tan skin and flashy clothes, huh...? Hmm. I don't think so.\r\n"
+"I probably would've noticed somebody like that."
+msgstr ""
+
+msgctxt "1740_Female Employee"
+msgid "Hey, you see an old guy with tan skin and flashy clothes in there?"
+msgstr ""
+
+msgctxt "1752_Haruka"
+msgid "I, um, didn't say he was old..."
+msgstr ""
+
+msgctxt "1764_Businessman"
+msgid "Hmm? Nope. Don't think so."
+msgstr ""
+
+msgctxt "1776_Businessman"
+msgid "I didn't see anybody like that, either."
+msgstr ""
+
+msgctxt "1788_Female Employee"
+msgid "Well, there's your answer. Guess not."
+msgstr ""
+
+msgctxt "1800_Haruka"
+msgid "I see. Sorry for taking your time. Thanks, anyway!"
+msgstr ""
+
+msgctxt "1812_Female Employee"
+msgid "Hey, you're pretty young. Should you really be out this late?"
+msgstr ""
+
+msgctxt "1836_Horie"
+msgid ""
+"Park-san said Christina might be drinking at a bar or\r\n"
+"something right now, didn't she?"
+msgstr ""
+
+msgctxt "1848_Horie"
+msgid "Do you know what Christina looks like?"
+msgstr ""
+
+msgctxt "1860_Haruka"
+msgid "Of course I do. He's famous, right?"
+msgstr ""
+
+msgctxt "1872_Horie"
+msgid "...You sure?"
+msgstr ""
+
+msgctxt "1884_Haruka"
+msgid "No, I'm sorry. I'm not really sure."
+msgstr ""
+
+msgctxt "1896_Horie"
+msgid ""
+"Thought so. He might be famous in our industry, but not much\r\n"
+"is known about him outside of it. Since when did you try to\r\n"
+"be such a know-it-all?"
+msgstr ""
+
+msgctxt "1908_Haruka"
+msgid "I'm sorry..."
+msgstr ""
+
+msgctxt "1920_Haruka"
+msgid "I'm sorry. I'm afraid I've never even heard of him..."
+msgstr ""
+
+msgctxt "1932_Horie"
+msgid ""
+"Well, that ain't surprising. He's famous in our industry,\r\n"
+"but not much is known about him outside of it."
+msgstr ""
+
+msgctxt "1944_Horie"
+msgid "Actually, I've only ever seen a picture of him once myself."
+msgstr ""
+
+msgctxt "1956_Haruka"
+msgid "What does he look like?"
+msgstr ""
+
+msgctxt "1968_Horie"
+msgid ""
+"Let's see. In the picture I saw, he had a tan, and he was\r\n"
+"wearin' a pretty flashy outfit. Really looked the part, ya\r\n"
+"know?"
+msgstr ""
+
+msgctxt "1980_Horie"
+msgid ""
+"You'd think he'd stand out in a crowd, but I guess that ain't much to go on "
+"when it comes to actually tryin' to find the guy."
+msgstr ""
+
+msgctxt "1992_Haruka"
+msgid "Well, we could ask around. Maybe someone's seen him."
+msgstr ""
+
+msgctxt "2004_Horie"
+msgid ""
+"That's true. Okay, where are the best places to go\r\n"
+"barhopping around here...? Hmm..."
+msgstr ""
+
+msgctxt "2016_Horie"
+msgid ""
+"Watami and Stijl Bar on Sotenbori Street are pretty famous.\r\n"
+"And Crest Bar in Hoganji Yokocho is pretty popular with\r\n"
+"those in the know."
+msgstr ""
+
+msgctxt "2028_Horie"
+msgid ""
+"How 'bout you go check out those three, and I'll go search\r\n"
+"some of the less popular places?"
+msgstr ""
+
+msgctxt "2040_Haruka"
+msgid "All right!"
+msgstr ""
+
+msgctxt "2052_Horie"
+msgid "We'll meet up later. Good luck!"
+msgstr ""
+
+msgctxt "2076_Haruka"
+msgid "(Okay. I'll go take a look.)"
+msgstr ""
+
+msgctxt "2100_Horie"
+msgid "Okay, next up is continuing your lessons from yesterday."
+msgstr ""
+
+msgctxt "2112_Horie"
+msgid ""
+"But you must be tired after that. Why not take a little\r\n"
+"break and clear your head? I'll be back at the office."
+msgstr ""
+
+msgctxt "2124_Haruka"
+msgid "Thank you. I'll see you there a little later."
+msgstr ""
+
+msgctxt "2172_Horie"
+msgid "Well, we'll be going now. Thank you for everything!"
+msgstr ""
+
+msgctxt "2184_Uda"
+msgid "No, no. Thank you."
+msgstr ""
+
+msgctxt "2196_Haruka"
+msgid "Thank you. Goodbye!"
+msgstr ""
+
+msgctxt "2532_Horie"
+msgid "Okay. Let's head back to the office, shall we?"
+msgstr ""
+
+msgctxt "2544_Haruka"
+msgid "All right."
+msgstr ""
+
+msgctxt "2568_Horie"
+msgid "Uh-oh! Careful, Haruka-chan!"
+msgstr ""
+
+msgctxt "2580_Haruka"
+msgid "What is it? What's wrong?"
+msgstr ""
+
+msgctxt "2592_Horie"
+msgid "Look over there."
+msgstr ""
+
+msgctxt "2604_Horie"
+msgid ""
+"See that woman? She's been watchin' you this whole time.\r\n"
+"Pretty suspicious if you ask me... She could be dangerous."
+msgstr ""
+
+msgctxt "2616_Haruka"
+msgid "Dangerous?"
+msgstr ""
+
+msgctxt "2628_Horie"
+msgid ""
+"Yeah. Some fans can get so carried away they start stalkin'\r\n"
+"or harassin' their idol. You hear about that a lot these\r\n"
+"days."
+msgstr ""
+
+msgctxt "2640_Horie"
+msgid ""
+"As your manager, I can't let anythin' like that happen to\r\n"
+"you. You stay right here. I'll go get rid of her!"
+msgstr ""
+
+msgctxt "2652_Haruka"
+msgid "Wait, Horie-san!"
+msgstr ""
+
+msgctxt "2664_Horie"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt "2676_Shady Woman"
+msgid "Are you talking to me?"
+msgstr ""
+
+msgctxt "2688_Horie"
+msgid ""
+"You bet I'm talkin' to you! I saw you starin' at Haruka.\r\n"
+"What's the big idea!?"
+msgstr ""
+
+msgctxt "2700_Shady Woman"
+msgid ""
+"What? And just what are you accusing me of? You think I\r\n"
+"have any interest in that little country bumpkin!?"
+msgstr ""
+
+msgctxt "2712_Haruka"
+msgid "Bumpkin...?"
+msgstr ""
+
+msgctxt "2724_Horie"
+msgid "Then, what were you looking at?"
+msgstr ""
+
+msgctxt "2736_Shady Woman"
+msgid ""
+"Well! If you must know, I was watching my ex-boyfriend. I\r\n"
+"just arrived in town, you see, so I thought I'd look him up."
+msgstr ""
+
+msgctxt "2748_Horie"
+msgid "Ex-boyfriend...?"
+msgstr ""
+
+msgctxt "2772_Horie"
+msgid "......"
+msgstr ""
+
+msgctxt "2784_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "2796_Shady Woman"
+msgid ""
+"What's wrong with that!? Do I need your permission?\r\n"
+"You'd better apologize for throwing around such outrageous\r\n"
+"accusations!"
+msgstr ""
+
+msgctxt "2808_Horie"
+msgid ""
+"I'm sorry... That was a terrible mistake on my par－ Wait a\r\n"
+"minute!"
+msgstr ""
+
+msgctxt "2820_Horie"
+msgid "It's you!"
+msgstr ""
+
+msgctxt "2832_Haruka"
+msgid "Horie-san, you know her?"
+msgstr ""
+
+msgctxt "2844_Horie"
+msgid "You're Yoko-san, the famous stylist!"
+msgstr ""
+
+msgctxt "2856_Haruka"
+msgid "Yoko-san?"
+msgstr ""
+
+msgctxt "2868_Horie"
+msgid ""
+"Haruka-chan, you didn't know? Yoko-san is a world-famous\r\n"
+"stylist!"
+msgstr ""
+
+msgctxt "2880_Horie"
+msgid ""
+"With her hairstylin', her makeup techniques, and her\r\n"
+"theories on health and beauty, she's second to none when it\r\n"
+"comes to lookin' fabulous!"
+msgstr ""
+
+msgctxt "2892_Haruka"
+msgid "Oh, wow! It's an honor to meet you."
+msgstr ""
+
+msgctxt "2904_Yoko"
+msgid ""
+"Oh, that's all behind me now. I'm not in the stylist biz\r\n"
+"anymore. These days, I'm just a regular okama in heavy\r\n"
+"makeup."
+msgstr ""
+
+msgctxt "2916_Horie"
+msgid ""
+"With your talent!? That's such a waste! Say... I know! Won't\r\n"
+"ya consider stylin' our Haruka Sawamura here!?"
+msgstr ""
+
+msgctxt "2928_Haruka"
+msgid "Me?"
+msgstr ""
+
+msgctxt "2940_Horie"
+msgid ""
+"Haruka-chan, if you were styled by the famous Yoko-san,\r\n"
+"you'd be top class! Oh, Yoko-san, please say you'll do it!"
+msgstr ""
+
+msgctxt "2952_Yoko"
+msgid ""
+"Like I said, I don't do stylist work anymore... Besides,\r\n"
+"there's no way this little potato face here's gonna turn out\r\n"
+"to be some diamond in the rough."
+msgstr ""
+
+msgctxt "2964_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "2976_Yoko"
+msgid "......"
+msgstr ""
+
+msgctxt "2988_Yoko"
+msgid "...Hehe."
+msgstr ""
+
+msgctxt "3000_Horie"
+msgid ""
+"No? That's a shame... We really coulda used your help to get\r\n"
+"through the Princess League."
+msgstr ""
+
+msgctxt "3012_Yoko"
+msgid "Princess League?"
+msgstr ""
+
+msgctxt "3024_Horie"
+msgid ""
+"Yeah, it's a TV show that decides the number one pop idol\r\n"
+"in Osaka."
+msgstr ""
+
+msgctxt "3036_Horie"
+msgid ""
+"Haruka here is just about to go on for round one of the\r\n"
+"finals. Would you like to come along? Just to cheer her on,\r\n"
+"I mean.  Right, Haruka-chan?"
+msgstr ""
+
+msgctxt "3048_Haruka"
+msgid "Oh, yes! We'd love for you to come!"
+msgstr ""
+
+msgctxt "3060_Yoko"
+msgid "......"
+msgstr ""
+
+msgctxt "3072_Horie"
+msgid ""
+"Well, we'll be going, then. Apologies again for my mistake.\r\n"
+"Take care!"
+msgstr ""
+
+msgctxt "3108_Yoko"
+msgid ""
+"Hmph. So, the little country bumpkin wants to turn herself\r\n"
+"into a princess?"
+msgstr ""
+
+msgctxt "3120_Yoko"
+msgid "......"
+msgstr ""
+
+msgctxt "3144_Horie"
+msgid "This is the place. Wonder where the staff is..."
+msgstr ""
+
+msgctxt "3156_Uda"
+msgid ""
+"Good morning. I'm Uda, chairman of the Sotenbori Merchants\r\n"
+"Association."
+msgstr ""
+
+msgctxt "3168_Uda"
+msgid ""
+"The Merchants Association sponsors Sawamura-san's fan club.\r\n"
+"It's very nice to meet you!"
+msgstr ""
+
+msgctxt "3180_Haruka"
+msgid "Hello, Uda-san. It's very nice to meet you, too."
+msgstr ""
+
+msgctxt "3192_Horie"
+msgid ""
+"And I'm Horie, from Dyna Chair. Thank you for having us\r\n"
+"today."
+msgstr ""
+
+msgctxt "3204_Uda"
+msgid "Well, right this way, then..."
+msgstr ""
+
+msgctxt "3240_Akari"
+msgid ""
+"Phew! Well, I lost. You're really good, Haruka. Silly of me\r\n"
+"to go up against a pro!"
+msgstr ""
+
+msgctxt "3252_Haruka"
+msgid ""
+"*pant* *pant* Don't sell yourself short... You had all kinds\r\n"
+"of moves I'd never even seen before!"
+msgstr ""
+
+msgctxt "3264_Akari"
+msgid ""
+"Whew...! That was a close one... You're really good, Haruka.\r\n"
+"Are you sure you've never done this before? Not sure what I\r\n"
+"was thinking, going up against a pro..."
+msgstr ""
+
+msgctxt "3276_Haruka"
+msgid ""
+"*pant* *pant* Don't sell yourself short... You had all kinds\r\n"
+"of moves I'd never even seen before!"
+msgstr ""
+
+msgctxt "3288_Akari"
+msgid "That's the great thing about dance battles."
+msgstr ""
+
+msgctxt "3300_Akari"
+msgid "Win or lose, you get to see new dance moves up close."
+msgstr ""
+
+msgctxt "3312_Akari"
+msgid "That was a great workout! So what did you think of your very first battle?"
+msgstr ""
+
+msgctxt "3324_Haruka"
+msgid "It was tiring, but it was a lot of fun!"
+msgstr ""
+
+msgctxt "3336_Akari"
+msgid "I'm glad you liked it!"
+msgstr ""
+
+msgctxt "3348_Haruka"
+msgid "I realized something today, dancing with you."
+msgstr ""
+
+msgctxt "3360_Haruka"
+msgid ""
+"I've had so many dance lessons lately, I was starting to\r\n"
+"think of dancing as work."
+msgstr ""
+
+msgctxt "3372_Haruka"
+msgid "But dancing is more than that. It's supposed to be fun, right?"
+msgstr ""
+
+msgctxt "3384_Akari"
+msgid "Right! And it's even more fun when you dance with a friend."
+msgstr ""
+
+msgctxt "3396_Haruka"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "3408_Akari"
+msgid ""
+"There are tons of dancers around here. If you ever want to\r\n"
+"try another battle, just go up and ask."
+msgstr ""
+
+msgctxt "3420_Akari"
+msgid ""
+"They might look scary, but they're good people. I'm sure\r\n"
+"they'd be glad to take you on."
+msgstr ""
+
+msgctxt "3432_Haruka"
+msgid "Will do."
+msgstr ""
+
+msgctxt "3444_Akari"
+msgid ""
+"There are some things in dance you can only learn on the\r\n"
+"streets. I bet it'll help you out in your career, too!"
+msgstr ""
+
+msgctxt "3456_Haruka"
+msgid ""
+"I bet it would. Thanks for teaching me all of that stuff\r\n"
+"today, Akari-chan."
+msgstr ""
+
+msgctxt "3468_Akari"
+msgid "Hey, no need to be so formal. That's what friends are for, right?"
+msgstr ""
+
+msgctxt "3480_Haruka"
+msgid "Hehe. Right."
+msgstr ""
+
+msgctxt "3492_Akari"
+msgid ""
+"Hehe. Well, I guess I'd better get going. Good luck with\r\n"
+"everything!"
+msgstr ""
+
+msgctxt "3516_Haruka"
+msgid ""
+"(That dance battle was a lot of fun... Okay, I guess I'd\r\n"
+"better get back to the office.)"
+msgstr ""
+
+msgctxt "3528_Dance Battles"
+msgid ""
+"Dance battles let you build up your Performance ability much\r\n"
+"more easily than you would during work or lessons.\r\n"
+"\r\n"
+"Challenge dancers on the street and improve your skills for\r\n"
+"the Princess League finals!\r\n"
+"\r\n"
+"View the rules and controls by pressing "
+"<Action:Button_Options@Princess_League> during a\r\n"
+"dance battle."
+msgstr ""
+
+msgctxt "3564_Akari"
+msgid "Huh? Aren't you Sawamura-san?"
+msgstr ""
+
+msgctxt "3576_Haruka"
+msgid "Oh! Yes, um..."
+msgstr ""
+
+msgctxt "3588_Akari"
+msgid ""
+"Akari. Akari Natsukawa. I'm in the class next to yours at\r\n"
+"school. Don't you remember me?"
+msgstr ""
+
+msgctxt "3600_Haruka"
+msgid "Oh, we're in the same home ec class..."
+msgstr ""
+
+msgctxt "3612_Haruka"
+msgid ""
+"I'm sorry. I don't know many people at school yet. I'm\r\n"
+"having a hard enough time just remembering the kids in my own class."
+msgstr ""
+
+msgctxt "3624_Akari"
+msgid ""
+"I know how you feel. We both transferred in for high school,\r\n"
+"and they've all been together since middle school."
+msgstr ""
+
+msgctxt "3636_Akari"
+msgid ""
+"And we're not from Kansai, either, so it's hard to get into\r\n"
+"their rhythm."
+msgstr ""
+
+msgctxt "3648_Haruka"
+msgid "Oh, you're not from Kansai, either?"
+msgstr ""
+
+msgctxt "3660_Akari"
+msgid ""
+"Nah. I'm from Tokyo. We just moved to Osaka this year\r\n"
+"because of my father's job."
+msgstr ""
+
+msgctxt "3672_Haruka"
+msgid "Oh, I see."
+msgstr ""
+
+msgctxt "3684_Akari"
+msgid "I've been noticing you at school."
+msgstr ""
+
+msgctxt "3696_Akari"
+msgid ""
+"You look like you're having a hard time fitting in, and\r\n"
+"you're usually by yourself."
+msgstr ""
+
+msgctxt "3708_Haruka"
+msgid ""
+"It's my own fault, though. I can't seem to work up the\r\n"
+"courage to talk to my classmates much."
+msgstr ""
+
+msgctxt "3720_Akari"
+msgid ""
+"It's not your fault. I mean, Kansai kids talk really fast.\r\n"
+"It makes chiming in kinda hard, ya know?"
+msgstr ""
+
+msgctxt "3732_Akari"
+msgid ""
+"And I'm sure everybody in your class is shy around you. You\r\n"
+"know, holding back a little."
+msgstr ""
+
+msgctxt "3744_Haruka"
+msgid "Why's that?"
+msgstr ""
+
+msgctxt "3756_Akari"
+msgid "Well, you are in the entertainment business!"
+msgstr ""
+
+msgctxt "3768_Akari"
+msgid ""
+"You have this special aura about you. I think that makes it\r\n"
+"hard for the other kids to approach you."
+msgstr ""
+
+msgctxt "3780_Haruka"
+msgid "But I'm really just a regular girl!"
+msgstr ""
+
+msgctxt "3792_Akari"
+msgid ""
+"I'm from Tokyo, so you and I have the same slower pace. It's\r\n"
+"easy for us to talk."
+msgstr ""
+
+msgctxt "3804_Haruka"
+msgid "I think so, too, Natsukawa-san."
+msgstr ""
+
+msgctxt "3816_Akari"
+msgid "Just call me Akari. Can I call you Haruka, Sawamura-san?"
+msgstr ""
+
+msgctxt "3828_Haruka"
+msgid "Sure!"
+msgstr ""
+
+msgctxt "3840_Akari"
+msgid "Here's to the two latecomers, then!"
+msgstr ""
+
+msgctxt "3852_Akari"
+msgid ""
+"You must be tired, going to school and working all the time.\r\n"
+"If you ever need somebody to talk to, I'm here."
+msgstr ""
+
+msgctxt "3864_Haruka"
+msgid "Okay. Thanks."
+msgstr ""
+
+msgctxt "3876_Akari"
+msgid "Uh-oh! I'm supposed to be at dance practice right now!"
+msgstr ""
+
+msgctxt "3888_Haruka"
+msgid "Oh, you're studying dance?"
+msgstr ""
+
+msgctxt "3900_Akari"
+msgid ""
+"Well, nothing all that formal. What I do is more like street\r\n"
+"dancing..."
+msgstr ""
+
+msgctxt "3912_Akari"
+msgid "I find people dancing around town and practice with them."
+msgstr ""
+
+msgctxt "3924_Haruka"
+msgid "Wow! You must be pretty assertive, Akari-chan."
+msgstr ""
+
+msgctxt "3936_Akari"
+msgid ""
+"Well, I can't take lessons like you do, so I have to do what\r\n"
+"I can on my own, right?"
+msgstr ""
+
+msgctxt "3948_Haruka"
+msgid "You really love to dance, don't you?"
+msgstr ""
+
+msgctxt "3960_Akari"
+msgid "I do! I want to be a choreographer someday."
+msgstr ""
+
+msgctxt "3972_Akari"
+msgid ""
+"I want to teach pop idols like you super-cool moves and\r\n"
+"dance along with them. Wouldn't that be great?"
+msgstr ""
+
+msgctxt "3984_Haruka"
+msgid "Yeah!"
+msgstr ""
+
+msgctxt "3996_Akari"
+msgid ""
+"That's why I'm putting so much effort into my own dancing\r\n"
+"now."
+msgstr ""
+
+msgctxt "4008_Akari"
+msgid "And Sotenbori's a major hotspot for dance, so it's perfect."
+msgstr ""
+
+msgctxt "4020_Haruka"
+msgid "It is? I didn't know that."
+msgstr ""
+
+msgctxt "4032_Akari"
+msgid ""
+"Mhm. I heard Osaka is where break dancing was first\r\n"
+"introduced into Japan."
+msgstr ""
+
+msgctxt "4044_Akari"
+msgid ""
+"People come here from all over the country in the hopes of\r\n"
+"making it as a dancer. Didn't you know that?"
+msgstr ""
+
+msgctxt "4056_Haruka"
+msgid ""
+"I didn't. But I did notice there were a lot of people\r\n"
+"dancing on the street."
+msgstr ""
+
+msgctxt "4068_Akari"
+msgid ""
+"We all get together and have dance battles. The competition\r\n"
+"helps us hone our skills, you know?"
+msgstr ""
+
+msgctxt "4080_Haruka"
+msgid "Dance battles?"
+msgstr ""
+
+msgctxt "4092_Akari"
+msgid ""
+"Yeah. Two people dance to the same music and compete for the\r\n"
+"best performance."
+msgstr ""
+
+msgctxt "4104_Akari"
+msgid ""
+"It's a lot more interesting than taking lessons at a dance\r\n"
+"studio, and harder too, I bet!"
+msgstr ""
+
+msgctxt "4116_Haruka"
+msgid "You're probably right."
+msgstr ""
+
+msgctxt "4128_Akari"
+msgid ""
+"Hey, I know! Why don't you try one out? You could go up\r\n"
+"against me!"
+msgstr ""
+
+msgctxt "4140_Haruka"
+msgid "What!? Me?"
+msgstr ""
+
+msgctxt "4152_Akari"
+msgid "Sure! Why not? You'd love street dancing! It's loads of fun!"
+msgstr ""
+
+msgctxt "4164_Akari"
+msgid "And it'd be great practice, too!"
+msgstr ""
+
+msgctxt "4176_Haruka"
+msgid "But..."
+msgstr ""
+
+msgctxt "4188_Akari"
+msgid "Oh, come on! Give it a try!"
+msgstr ""
+
+msgctxt "4200_Akari"
+msgid "Wouldn't it be nice to do something fun with a friend for a change?"
+msgstr ""
+
+msgctxt "4212_Haruka"
+msgid "...Yeah. Okay, I'll do it!"
+msgstr ""
+
+msgctxt "4224_Haruka"
+msgid ""
+"I've never done it before, though, so I might make lots of\r\n"
+"mistakes..."
+msgstr ""
+
+msgctxt "4236_Akari"
+msgid ""
+"Don't worry about that! I'll be there to help you through\r\n"
+"it! Come on!"
+msgstr ""
+
+msgctxt "4260_Horie"
+msgid "All righty, shall we head out?"
+msgstr ""
+
+msgctxt "4272_Haruka"
+msgid "Okay."
+msgstr ""
+
+msgctxt "4308_Horie"
+msgid "You're really giving it your all every day, aren't you?"
+msgstr ""
+
+msgctxt "4320_Haruka"
+msgid ""
+"This is all so new to me, I have to work even harder if I\r\n"
+"want to catch up."
+msgstr ""
+
+msgctxt "4332_Horie"
+msgid ""
+"But you've only been taking lessons－or been in this\r\n"
+"industry at all－for about six months, right?"
+msgstr ""
+
+msgctxt "4344_Horie"
+msgid ""
+"And you still managed to win your way to the finals of the\r\n"
+"Princess League. That's pretty amazin', if you ask me!"
+msgstr ""
+
+msgctxt "4356_Horie"
+msgid ""
+"Park-san really knew what she was doing when she signed you.\r\n"
+"You've got real talent."
+msgstr ""
+
+msgctxt "4368_Haruka"
+msgid ""
+"I still have a long way to go, though. Just today alone, I\r\n"
+"got yelled at so many times!"
+msgstr ""
+
+msgctxt "4380_Haruka"
+msgid "But that's very nice of you to say. Thank you, Horie-san."
+msgstr ""
+
+msgctxt "4392_Horie"
+msgid "You're very welcome. Hey, there's that smile I love to see!"
+msgstr ""
+
+msgctxt "4404_Horie"
+msgid "By the way, how's school going? Gettin' used to things?"
+msgstr ""
+
+msgctxt "4416_Haruka"
+msgid "Hmm... I'm not sure."
+msgstr ""
+
+msgctxt "4428_Horie"
+msgid "Not going well?"
+msgstr ""
+
+msgctxt "4440_Haruka"
+msgid ""
+"Well, I'm managing to keep up with my studies. It's just...\r\n"
+"I don't have many friends yet."
+msgstr ""
+
+msgctxt "4452_Horie"
+msgid ""
+"I see. Yeah, as busy as you are, I don't imagine you have\r\n"
+"a whole lot of time to just go hang out, huh?"
+msgstr ""
+
+msgctxt "4464_Haruka"
+msgid ""
+"Exactly. And, well, some of the kids have things to say\r\n"
+"about the kind of work I do..."
+msgstr ""
+
+msgctxt "4476_Horie"
+msgid "Never mind what kids like that say! They're just jealous!"
+msgstr ""
+
+msgctxt "4488_Haruka"
+msgid ""
+"I try not to let it bother me, but... maybe it is kind of\r\n"
+"weird. What I do, I mean."
+msgstr ""
+
+msgctxt "4500_Horie"
+msgid ""
+"I think what you and I do gives the audience a chance to\r\n"
+"dream."
+msgstr ""
+
+msgctxt "4512_Horie"
+msgid ""
+"And speaking as a pop idol fan myself, your performances\r\n"
+"are really something special."
+msgstr ""
+
+msgctxt "4524_Horie"
+msgid ""
+"I say you should have confidence in yourself! Hold your head\r\n"
+"high and proudly proclaim that you're a pop idol!"
+msgstr ""
+
+msgctxt "4536_Horie"
+msgid ""
+"But truth be told, I get yelled at even more than you do, so\r\n"
+"I'm probably not very convincin'."
+msgstr ""
+
+msgctxt "4548_Haruka"
+msgid "That's not..."
+msgstr ""
+
+msgctxt "4560_Horie"
+msgid ""
+"Haruka-chan, I'm still pretty green at this manager thing,\r\n"
+"but I'm gonna do everything in my power to support you."
+msgstr ""
+
+msgctxt "4572_Horie"
+msgid "If you ever need anythin' at all, you just let me know!"
+msgstr ""
+
+msgctxt "4584_Haruka"
+msgid "...Thank you. That's very nice of you, Horie-san."
+msgstr ""
+
+msgctxt "4596_Horie"
+msgid "I really mean it."
+msgstr ""
+
+msgctxt "4632_Horie"
+msgid "Oh, look. We're here."
+msgstr ""
+
+msgctxt "4656_Horie"
+msgid ""
+"The Princess League finals start tomorrow! And you've got\r\n"
+"work in the morning too, so be sure to get plenty of rest."
+msgstr ""
+
+msgctxt "4668_Haruka"
+msgid "I will."
+msgstr ""
+
+msgctxt "4680_Horie"
+msgid "Great work today. Good night!"
+msgstr ""
+
+msgctxt "4692_Haruka"
+msgid "Good night."
+msgstr ""

@@ -1,0 +1,583 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "736"
+msgid "You got a <Color:8>Mystery Stone<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Pietra Misteriosa<Color:Default>."
+
+msgctxt "988"
+msgid "You got 1,800 experience points."
+msgstr "Hai ottenuto 1.800 punti esperienza."
+
+msgctxt "21464"
+msgid "Snow Festival Staffer"
+msgstr "Membro dello staff del Festival della Neve"
+
+msgctxt "21468"
+msgid "Describe the Site Layout"
+msgstr "Descrivi la disposizione del sito"
+
+msgctxt "21472"
+msgid "Not Yet"
+msgstr "Non ancora"
+
+msgctxt "21476"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "21480"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "21484"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "21488"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "21492"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "21496"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "21500"
+msgid "kaiwabgm_subkanjyonashi"
+msgstr "kaiwabgm_subkanjyonashi"
+
+msgctxt "21504"
+msgid "A Bear"
+msgstr "Un Orso"
+
+msgctxt "21508"
+msgid "A Snowman"
+msgstr "Un pupazzo di neve"
+
+msgctxt "21512"
+msgid "A Magic Girl"
+msgstr "Una Ragazza Magica"
+
+msgctxt "21516"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "21520"
+msgid "Some Seals"
+msgstr "Alcune Foche"
+
+msgctxt "21524"
+msgid "A Snow Crystal"
+msgstr "Un Cristallo di Neve"
+
+msgctxt "21528"
+msgid "A Slide"
+msgstr "Uno scivolo"
+
+msgctxt "21532"
+msgid "A Treasure Ship"
+msgstr "Una Nave del Tesoro"
+
+msgctxt "21536"
+msgid "A Whale"
+msgstr "Una Balena"
+
+msgctxt "21540"
+msgid "A Dragon"
+msgstr "Un Drago"
+
+msgctxt "21544"
+msgid "A Fox"
+msgstr "Una volpe"
+
+msgctxt "21548"
+msgid "Hatsune Miku"
+msgstr "Hatsune Miku"
+
+msgctxt "21552"
+msgid "Part-time Staffer"
+msgstr "Addetto a tempo parziale"
+
+msgctxt "21556"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "21560"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "21564"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "21568"
+msgid "F_NML_TLK_stand_angry"
+msgstr "F_NML_TLK_stand_angry"
+
+msgctxt "21572"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "21576"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "76_Snow Festival Staffer"
+msgid "So, uh, were you able to check out the snow statue locations?"
+msgstr ""
+"Allora, uhm, sei riuscito a dare un'occhiata alle posizioni delle statue di "
+"neve?"
+
+msgctxt "88_Snow Festival Staffer"
+msgid "No, not yet."
+msgstr "No, non ancora."
+
+msgctxt "100_Snow Festival Staffer"
+msgid ""
+"Oh, geez... I'm sorry, but could I ask you to please hurry? We really need "
+"the info right away!"
+msgstr ""
+"Oh, cavolo... Mi scusi, ma potrebbe darsi una mossa, per favore? Abbiamo "
+"davvero bisogno di quelle informazioni subito!"
+
+msgctxt "112_Snow Festival Staffer"
+msgid ""
+"I'd go, but I have to stay in this spot, so please tell me when you figure "
+"out where they all are. Thank you!"
+msgstr ""
+"Ci andrei, ma sono bloccato qui, quindi per favore dimmi quando hai capito "
+"dove si trovano tutti. Grazie!"
+
+msgctxt "136_Snow Festival Staffer"
+msgid "Are you sure you remember it all correctly?"
+msgstr "Sei sicuro di ricordarti tutto giusto?"
+
+msgctxt "148_Snow Festival Staffer"
+msgid "Yeah. I can tell ya where the snow statues are."
+msgstr "Sì. Posso dirti dove stanno le statue di neve."
+
+msgctxt "160_Snow Festival Staffer"
+msgid "Fantastic! Let's get right to it, while your memory's fresh."
+msgstr "Fantastico! Andiamo dritti al sodo, finché hai la memoria fresca."
+
+msgctxt "172_Snow Festival Staffer"
+msgid ""
+"So, looking at the site from here, there's a giant slide. Facing the slide "
+"from the front, what's to your right?"
+msgstr ""
+"Allora, guardando il sito da qui, c'è uno scivolo gigante. Mettendoti di "
+"fronte allo scivolo, cosa c'è alla tua destra?"
+
+msgctxt "184_Snow Festival Staffer"
+msgid "Facing the slide, to the right, was a bear."
+msgstr "Di fronte allo scivolo, a destra, c'era un orso."
+
+msgctxt "196_Snow Festival Staffer"
+msgid "Okay, the bear. Next one..."
+msgstr "Ok, l'orso. Il prossimo..."
+
+msgctxt "208_Snow Festival Staffer"
+msgid "Facing the slide, to the right, was a snowman."
+msgstr "Di fronte allo scivolo, sulla destra, c'era un pupazzo di neve."
+
+msgctxt "220_Snow Festival Staffer"
+msgid "A snowman? Somebody entered that?"
+msgstr "Un pupazzo di neve? Qualcuno l'ha iscritto?"
+
+msgctxt "232_Saejima"
+msgid "Saw it with my own eyes."
+msgstr "L'ho visto con i miei occhi."
+
+msgctxt "244_Snow Festival Staffer"
+msgid ""
+"Uh, right, of course. Sorry, I didn't mean to imply I doubted you. Anyway..."
+msgstr ""
+"Uh, giusto, certo. Scusa, non volevo mica farti credere che dubitassi di te."
+" Comunque..."
+
+msgctxt "256_Snow Festival Staffer"
+msgid ""
+"Facing the slide, to the right, was some girl with a wand? Not sure what "
+"she's s'posed to be."
+msgstr ""
+"Di fronte allo scivolo, sulla destra, c'era una tipa con una bacchetta? Non "
+"so che razza di cosa dovrebbe rappresentare."
+
+msgctxt "268_Snow Festival Staffer"
+msgid ""
+"Oh, yes, yes, that's right! I remember now. That's the magic girl statue."
+msgstr ""
+"Ah, sì, sì, esatto! Ora ricordo. Quella è la statua della ragazzina magica."
+
+msgctxt "280_Snow Festival Staffer"
+msgid "Okay, the next one I need to know about..."
+msgstr "Ok, il prossimo che mi serve sapere..."
+
+msgctxt "292_Snow Festival Staffer"
+msgid "Which snow statue is right in the middle?"
+msgstr "Quale statua di neve è proprio al centro?"
+
+msgctxt "304_Snow Festival Staffer"
+msgid "Some seals were smack dab in the middle."
+msgstr "Alcune foche erano nel bel mezzo."
+
+msgctxt "316_Snow Festival Staffer"
+msgid "Oh, right, there were seals! This is very helpful."
+msgstr "Ah, giusto, c'erano i sigilli! Questo è molto d'aiuto."
+
+msgctxt "328_Snow Festival Staffer"
+msgid "There was a snow crystal right smack dab in the middle."
+msgstr "C'era un cristallo di neve proprio nel bel mezzo."
+
+msgctxt "340_Snow Festival Staffer"
+msgid "A snow crystal? Was there, really? Don't remember that one."
+msgstr "Un cristallo di neve? C'era, davvero? Non me lo ricordo proprio."
+
+msgctxt "352_Saejima"
+msgid "Yeah. No mistake."
+msgstr "Sì. Nessun errore."
+
+msgctxt "364_Snow Festival Staffer"
+msgid "I see. A snow crystal right in the middle, huh?"
+msgstr "Capisco. Un cristallo di neve proprio al centro, eh?"
+
+msgctxt "376_Snow Festival Staffer"
+msgid "There was a slide right smack dab in the middle."
+msgstr "C'era uno scivolo proprio lì in mezzo."
+
+msgctxt "388_Snow Festival Staffer"
+msgid ""
+"Hm? No, that can't be right. The slide is one of the giant dioramas flanking"
+" the site."
+msgstr ""
+"Hm? No, non torna. Lo scivolo è uno dei diorami giganti che fiancheggiano il"
+" sito."
+
+msgctxt "400_Saejima"
+msgid "Oh... I guess it was."
+msgstr "Oh... immagino di sì."
+
+msgctxt "412_Snow Festival Staffer"
+msgid "Hmm... Maybe you should go check the statues again?"
+msgstr "Mmm... Magari dovresti andare a ricontrollare le statue?"
+
+msgctxt "424_Snow Festival Staffer"
+msgid ""
+"Across from the slide, there's another diorama, a massive one if I recall. "
+"What did it feature?"
+msgstr ""
+"Di fronte allo scivolo, ce n'è un altro di diorama, uno mastodontico, se non"
+" erro. Cosa raffigurava?"
+
+msgctxt "436_Snow Festival Staffer"
+msgid "That'd be a treasure ship."
+msgstr "Sarebbe una nave del tesoro."
+
+msgctxt "448_Snow Festival Staffer"
+msgid ""
+"A treasure ship...? My memory must be slipping. I don't remember a treasure "
+"ship at all."
+msgstr ""
+"Una nave del tesoro...? La mia memoria deve starmi giocando brutti scherzi. "
+"Non ricordo proprio nessuna nave del tesoro."
+
+msgctxt "460_Snow Festival Staffer"
+msgid "That'd be a whale."
+msgstr "Quella sarebbe una balena."
+
+msgctxt "472_Snow Festival Staffer"
+msgid "Oh yeah. I completely forgot about the whale. Even though it's so big!"
+msgstr "Ah, sì. Me l'ero proprio scordata, la balena. E dire che è enorme!"
+
+msgctxt "484_Snow Festival Staffer"
+msgid "That'd be a dragon."
+msgstr "Sarebbe un drago."
+
+msgctxt "496_Snow Festival Staffer"
+msgid "Huh? That's not right. The dragon was a smaller statue. I'm sure."
+msgstr ""
+"Ma come? Non è giusto. Quella del drago era una statua più piccola. Ne sono "
+"certo."
+
+msgctxt "508_Saejima"
+msgid "Oh... I guess it was."
+msgstr "Oh... immagino di sì."
+
+msgctxt "520_Snow Festival Staffer"
+msgid "Hmm... Maybe you should go check the statues again?"
+msgstr "Mmm... Magari dovresti andare a ricontrollare le statue?"
+
+msgctxt "532_Snow Festival Staffer"
+msgid ""
+"There's only one statue left to confirm. What was the small one next to the "
+"penguin?"
+msgstr ""
+"Manca solo una statua da confermare. Qual era quella piccola accanto al "
+"pinguino?"
+
+msgctxt "544_Snow Festival Staffer"
+msgid "A fox."
+msgstr "Una volpe."
+
+msgctxt "556_Snow Festival Staffer"
+msgid ""
+"Ahhh, that's where the fox is. Okay! I know the locations of all the statues"
+" now."
+msgstr "Ahhh, ecco dov'è la volpe. Ok! Ora so dove sono tutte le statue."
+
+msgctxt "568_Snow Festival Staffer"
+msgid ""
+"I dunno who she is, but it's a girl with her hair in two really long "
+"pigtails."
+msgstr ""
+"Non so chi diavolo sia, ma è una ragazza con i capelli a due codini davvero "
+"lunghi."
+
+msgctxt "580_Snow Festival Staffer"
+msgid ""
+"Ah, that would be Hatsune Miku. Of course someone sculpted her; she's such a"
+" popular character. Well, you did it! Now I know where all the statues are."
+msgstr ""
+"Ah, quella sarebbe Hatsune Miku. Certo, qualcuno l'ha scolpita; è un "
+"personaggio così popolare. Bene, ce l'hai fatta! Ora so dove sono tutte le "
+"statue."
+
+msgctxt "592_Snow Festival Staffer"
+msgid "I think it was a dragon."
+msgstr "Credo che fosse un drago."
+
+msgctxt "604_Snow Festival Staffer"
+msgid ""
+"Oh, that's where the dragon is. Okay! Now I know where all the statues are!"
+msgstr "Oh, ecco dov'è il drago. Ok! Ora so dove sono tutte le statue!"
+
+msgctxt "616_Snow Festival Staffer"
+msgid "Well, thank you very much! You can't imagine what a big help that was."
+msgstr ""
+"Beh, ti ringrazio proprio tanto! Non puoi immaginare che grande aiuto è "
+"stato."
+
+msgctxt "628_Snow Festival Staffer"
+msgid "Oy! You there!"
+msgstr "Ehi! Tu lì!"
+
+msgctxt "640_Part-time Staffer"
+msgid "Yes?"
+msgstr "Sì?"
+
+msgctxt "652_Snow Festival Staffer"
+msgid ""
+"I got the site layout with all the statue locations. It's all on this note, "
+"so go have the site map printed, okay?"
+msgstr ""
+"Ho il layout del sito con tutte le posizioni delle statue. È tutto su questo"
+" appunto, quindi vai a far stampare la mappa del sito, va bene?"
+
+msgctxt "676_Snow Festival Staffer"
+msgid "Understood."
+msgstr "Capito."
+
+msgctxt "700_Snow Festival Staffer"
+msgid "I'll place an order with the printers now."
+msgstr "Ora farò l'ordine alla tipografia."
+
+msgctxt "712_Snow Festival Staffer"
+msgid ""
+"Thank you again! We couldn't have done it without you. Please accept this as"
+" a souvenir of the event."
+msgstr ""
+"Grazie ancora! Non ce l'avremmo fatta senza di te. Accetta questo come "
+"ricordo dell'evento, per favore."
+
+msgctxt "760_Snow Festival Staffer"
+msgid "Thanks. And hey, good luck. Lookin' forward to yer snow festival."
+msgstr ""
+"Grazie. Ehi, buona fortuna. Non vedo l'ora del tuo festival della neve."
+
+msgctxt "772_Snow Festival Staffer"
+msgid "Huh? Hold on a second, one of these locations isn't right!"
+msgstr "Eh? Aspetta un attimo, una di queste posizioni non è giusta!"
+
+msgctxt "784_Snow Festival Staffer"
+msgid "What's that?"
+msgstr "Cos'è?"
+
+msgctxt "796_Part-time Staffer"
+msgid ""
+"I was on-site earlier, helping with setup. So I remember where at least some"
+" of the statues are..."
+msgstr ""
+"Sono stato sul posto prima, a dare una mano con l'allestimento. Quindi mi "
+"ricordo dove sono almeno alcune delle statue..."
+
+msgctxt "808_Snow Festival Staffer"
+msgid ""
+"I see. I guess the gentleman here gave me wrong info about one of the "
+"statues... which means I can't really trust any other information he brought"
+" me..."
+msgstr ""
+"Ah, capisco. Immagino che il tizio qui mi abbia dato una dritta sbagliata su"
+" una delle statue... il che vuol dire che non posso mica fidarmi di tutte le"
+" altre informazioni che mi ha portato..."
+
+msgctxt "820_Snow Festival Staffer"
+msgid "I'm sorry. I shouldn't have given you this task."
+msgstr "Mi dispiace. Non avrei dovuto darti questo compito."
+
+msgctxt "832_Snow Festival Staffer"
+msgid ""
+"I hope you don't expect a reward. I mean, I know you put in some effort and "
+"all, but..."
+msgstr ""
+"Spero tu non ti aspetti una ricompensa. Cioè, so che ti sei impegnato e "
+"tutto il resto, ma..."
+
+msgctxt "844_Saejima"
+msgid "No, forget it. Guess I got a bit confused, there."
+msgstr "No, lascia perdere. Mi sa che mi sono un po' confuso, lì."
+
+msgctxt "856_Snow Festival Staffer"
+msgid "No, no, it's my fault..."
+msgstr "No, no, è colpa mia..."
+
+msgctxt "868_Part-time Staffer"
+msgid "Should I go take a look at them?"
+msgstr "Dovrei andare a darci un'occhiata?"
+
+msgctxt "880_Snow Festival Staffer"
+msgid ""
+"No. I don't feel comfortable delegating anymore. If you want a job done "
+"right, you have to do it yourself."
+msgstr ""
+"No. Non mi sento più di delegare. Se un lavoro lo vuoi fatto bene, devi "
+"fartelo da solo."
+
+msgctxt "892_Saejima"
+msgid "Good luck gettin' it done. Lookin' forward to the snow festival."
+msgstr ""
+"In bocca al lupo a sistemare la cosa. Non vedo l'ora del festival della "
+"neve."
+
+msgctxt "904_Snow Festival Staffer"
+msgid "Yes, I think we'll really need it now, after this fiasco."
+msgstr "Sì, credo che ne avremo proprio bisogno ora, dopo questo fiasco."
+
+msgctxt "916_Saejima"
+msgid "(...Right.)"
+msgstr "(...Giusto.)"
+
+msgctxt "1000_Snow Festival Staffer"
+msgid "Why can't people ever do things right?"
+msgstr "Perché la gente non riesce mai a fare le cose come si deve?"
+
+msgctxt "1012_Saejima"
+msgid "What's wrong?"
+msgstr "Che succede?"
+
+msgctxt "1024_Snow Festival Staffer"
+msgid ""
+"Oh! Um, I'm the snow festival operations manager. My staff pulled a bonehead"
+" move that might ruin everything."
+msgstr ""
+"Oh! Ehm, sono il responsabile delle operazioni del festival della neve. Il "
+"mio staff ha combinato una cavolata pazzesca che potrebbe rovinare tutto."
+
+msgctxt "1036_Snow Festival Staffer"
+msgid "I just learned that no one ordered site maps for the visitors."
+msgstr ""
+"Ho appena scoperto che nessuno ha ordinato le mappe del sito per i "
+"visitatori."
+
+msgctxt "1048_Snow Festival Staffer"
+msgid ""
+"If we don't order them right now, the printers won't have enough time, "
+"but... Aargh! Darn it!"
+msgstr ""
+"Se non li ordiniamo subito, le tipografie non avranno tempo, ma... Aargh! "
+"Dannazione!"
+
+msgctxt "1060_Saejima"
+msgid "What's keepin' ya? Order it now."
+msgstr "Che aspetti? Ordinalo subito."
+
+msgctxt "1072_Snow Festival Staffer"
+msgid ""
+"I'd love to, but my memory is foggy when it comes to which snow statues are "
+"at which locations."
+msgstr ""
+"Mi piacerebbe un sacco, ma ho la memoria un po' annebbiata quando si tratta "
+"di quali statue di neve sono in quali posizioni."
+
+msgctxt "1084_Snow Festival Staffer"
+msgid ""
+"And I can't leave my post to go check, and my staff is too busy doing a "
+"million other things."
+msgstr ""
+"E non posso mica lasciare la mia postazione per andare a controllare, e il "
+"mio staff è troppo impegnato con un milione di altre cose."
+
+msgctxt "1096_Saejima"
+msgid "I get it. You're undermanned."
+msgstr "Capisco. Siete a corto di personale."
+
+msgctxt "1108_Snow Festival Staffer"
+msgid ""
+"Exactly! You understand. Hey, wait a minute... Maybe you have some spare "
+"time?"
+msgstr ""
+"Esatto! Hai capito. Ehi, aspetta un attimo... Forse hai un po' di tempo "
+"libero?"
+
+msgctxt "1120_Saejima"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "1132_Snow Festival Staffer"
+msgid ""
+"I hate to impose, but... would you be willing to check the snow statue "
+"locations?"
+msgstr ""
+"Mi dispiace darti disturbo, ma... potresti dare un'occhiata alle posizioni "
+"delle statue di neve?"
+
+msgctxt "1144_Saejima"
+msgid "Me?"
+msgstr "Io?"
+
+msgctxt "1156_Snow Festival Staffer"
+msgid ""
+"I can't pay you, but I could give you a festival souvenir for your efforts. "
+"It shouldn't take long, and it would be a huge help."
+msgstr ""
+"Non posso pagarti, ma potrei darti un souvenir del festival per i tuoi "
+"sforzi. Non dovrebbe volerci molto, e sarebbe un aiuto enorme."
+
+msgctxt "1168_Saejima"
+msgid "Don't know. That's askin' a lot."
+msgstr "Non so. È chiedere un bel po'."
+
+msgctxt "1180_Snow Festival Staffer"
+msgid "Oh, please! We're desperate."
+msgstr "Oh, ti prego! Siamo disperati."
+
+msgctxt "1192_Saejima"
+msgid "So, ya want me to see what statues are on the site and where, right?"
+msgstr "Allora, vuoi che veda quali statue ci sono sul sito e dove, giusto?"
+
+msgctxt "1204_Snow Festival Staffer"
+msgid "Yes! I'll be right here when you come back. I have to be, after all!"
+msgstr "Sì! Sarò proprio qui quando tornerai. Devo esserci, dopotutto!"

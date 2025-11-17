@@ -1,0 +1,249 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "252"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Collana di Haruka<Color:Default>."
+
+msgctxt "312"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round when you are playing cho-han.\r\n"
+" "
+msgstr ""
+"Haruka d'ora in poi di tanto in tanto prevederà l'esito di una mano quando "
+"giochi a cho-han."
+
+msgctxt "360"
+msgid "You got <Color:8>Haruka's Lunch<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Il pranzo di Haruka<Color:Default>."
+
+msgctxt "420"
+msgid "You got <Color:8>Haruka's First-Aid Kit<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Kit di Primo Soccorso di Haruka<Color:Default>."
+
+msgctxt "480"
+msgid "You got <Color:8>Red Jewel<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Gemma Rossa<Color:Default>."
+
+msgctxt "540"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr "Hai ottenuto <Color:8>L'Amuleto di Haruka<Color:Default>."
+
+msgctxt "600"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr "Hai ottenuto <Color:8>il cioccolato di Haruka<Color:Default>."
+
+msgctxt "660"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Dolcetto di Haruka<Color:Default>."
+
+msgctxt "768"
+msgid "You got <Color:8>Morning Glory Belly Warmer<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Scaldapancia del Glicine<Color:Default>."
+
+msgctxt "10240"
+msgid "Manager"
+msgstr "Manager"
+
+msgctxt "10244"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "10248"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "10252"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "10256"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "10260"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "10264"
+msgid "Staff"
+msgstr "Staff"
+
+msgctxt "10268"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "10272"
+msgid "M_SHP_TLK_stand_yes"
+msgstr "M_SHP_TLK_stand_yes"
+
+msgctxt "10276"
+msgid "P_TLK_stand_yes"
+msgstr "P_TLK_stand_yes"
+
+msgctxt "10280"
+msgid "M_NML_TLK_stand_yes_02"
+msgstr "M_NML_TLK_stand_yes_02"
+
+msgctxt "10284"
+msgid "P_TLK_stand_think"
+msgstr "P_TLK_stand_think"
+
+msgctxt "60_Manager"
+msgid "Welcome."
+msgstr "Benvenuto."
+
+msgctxt "72_Haruka"
+msgid "Uncle Kaz, I'd like a <Color:8>Strawberry Parfait<Color:Default>."
+msgstr "Zio Kaz, vorrei un <Color:8>Parfait alla fragola<Color:Default>."
+
+msgctxt "84_Kiryu"
+msgid "(Haruka wants to have a <Color:8>Strawberry Parfait<Color:Default>.)"
+msgstr "(Haruka vuole un <Color:8>Parfait alla fragola<Color:Default>.)"
+
+msgctxt "108_Haruka"
+msgid "But I wanted a <Color:8>Strawberry Parfait<Color:Default>."
+msgstr "Ma volevo un <Color:8>Parfait alla fragola<Color:Default>."
+
+msgctxt "120_Manager"
+msgid "Thank you very much."
+msgstr "Grazie mille."
+
+msgctxt "144_Haruka"
+msgid "Thanks, Uncle Kaz!"
+msgstr "Grazie, Zio Kaz!"
+
+msgctxt "168_Kiryu"
+msgid "(Haruka sure seems happy.)"
+msgstr "(Haruka sembra proprio felice.)"
+
+msgctxt "240_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! This is for you!\r\n"
+" "
+msgstr "Grazie, Zio Kaz! Questo è per te!"
+
+msgctxt "300_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come play cho-han with you next time, okay?\r\n"
+" "
+msgstr ""
+"Grazie infinite, Zio Kaz! Voglio venire a giocare a cho-han con te la "
+"prossima volta, okay?"
+
+msgctxt "348_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I have a present for you!\r\n"
+" "
+msgstr "Grazie mille, Zio Kaz! Ho un regalo per te!"
+
+msgctxt "408_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "468_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "528_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "588_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "648_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "744_Haruka"
+msgid ""
+"Thanks for doing all that stuff for me, Uncle Kaz!\r\n"
+" "
+msgstr "Grazie per aver fatto tutte quelle cose per me, Zio Kaz!"
+
+msgctxt "756_Manager"
+msgid ""
+"Here, this is a special present, just for you!\r\n"
+" "
+msgstr "Ecco, questo è un regalo speciale, solo per te!"
+
+msgctxt "780_Haruka"
+msgid "Thanks, Uncle Kaz! I love you!"
+msgstr "Grazie, Zio Kaz! Ti voglio bene!"
+
+msgctxt "816_Staff"
+msgid "Welcome. May I take your order?"
+msgstr "Benvenuto. Posso prendere la sua ordinazione?"
+
+msgctxt "840_Staff"
+msgid "Thank you very much."
+msgstr "Grazie mille."
+
+msgctxt "900_Staff"
+msgid ""
+"Sir, are you familiar with the concept of edible tea? It's all the rage at "
+"tea salons these days."
+msgstr ""
+"Signore, le è familiare il concetto di tè commestibile? Fa furore nei saloni"
+" da tè di questi tempi."
+
+msgctxt "912_Player"
+msgid "Edible tea?"
+msgstr "Tè commestibile?"
+
+msgctxt "924_Staff"
+msgid ""
+"Yes. While snacks with black tea mixed in are fairly common, meals prepared "
+"with tea are a new trend that is quite popular amongst black tea "
+"aficionados."
+msgstr ""
+"Sì. Mentre gli snack che contengono tè nero sono abbastanza comuni, i pasti "
+"preparati con il tè sono una nuova tendenza che è piuttosto popolare tra gli"
+" intenditori di tè nero."
+
+msgctxt "936_Player"
+msgid "Oh? What kind of dishes are there?"
+msgstr "Oh? Che piatti ci sono?"
+
+msgctxt "948_Staff"
+msgid ""
+"For example, they boil tea to make tea syrup and steak sauce, which is then "
+"served along with the food itself."
+msgstr ""
+"Ad esempio, fanno bollire il tè per creare sciroppo al tè e salsa per la "
+"bistecca, che poi viene servito assieme al cibo stesso."
+
+msgctxt "960_Staff"
+msgid ""
+"This allows you to better appreciate the flavor of black tea incorporated in"
+" the dish, rather than simply pairing tea with food."
+msgstr ""
+"Questo ti permette di gustare meglio il sapore del tè nero incorporato nel "
+"piatto, invece di limitarti ad abbinare il tè al cibo."
+
+msgctxt "972_Player"
+msgid "(Edible tea, huh? Maybe I could talk about it at the cabaret club.)"
+msgstr "Tè commestibile, eh? Magari potrei parlarne al club per hostess."

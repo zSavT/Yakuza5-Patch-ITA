@@ -1,0 +1,672 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "784"
+msgid "You got 3,600 experience points."
+msgstr ""
+
+msgctxt "27592"
+msgid "Kurata"
+msgstr ""
+
+msgctxt "27596"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "27600"
+msgid "F_NML_TLK_stand_syagamu_ed"
+msgstr ""
+
+msgctxt "27604"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "27608"
+msgid "Yamaura"
+msgstr ""
+
+msgctxt "27612"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "27616"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "27620"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "27624"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "27628"
+msgid "Yamaura & Kurata"
+msgstr ""
+
+msgctxt "27632"
+msgid "0"
+msgstr ""
+
+msgctxt "27636"
+msgid "dummy"
+msgstr ""
+
+msgctxt "27640"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "27644"
+msgid "Accept Her Challenge"
+msgstr ""
+
+msgctxt "27648"
+msgid "Back Off"
+msgstr ""
+
+msgctxt "27652"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "27656"
+msgid "Staff"
+msgstr ""
+
+msgctxt "27660"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "27664"
+msgid "kaiwabgm_subfuon"
+msgstr ""
+
+msgctxt "27668"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "124_Kurata"
+msgid "*pant* *pant*"
+msgstr ""
+
+msgctxt "136_Kurata"
+msgid "You're good!"
+msgstr ""
+
+msgctxt "148_Haruka"
+msgid "So I won?"
+msgstr ""
+
+msgctxt "160_Kurata"
+msgid ""
+"Yeah, fair and square. I guess I underestimated you,\r\n"
+"thinking you were just some silly idol."
+msgstr ""
+
+msgctxt "172_Kurata"
+msgid ""
+"Can't really call myself a dancer anymore, can I? Maybe\r\n"
+"I'll stick to talk shows."
+msgstr ""
+
+msgctxt "196_Haruka"
+msgid "Gee, Kurata-san, I－"
+msgstr ""
+
+msgctxt "208_Yamaura"
+msgid "Haruka!"
+msgstr ""
+
+msgctxt "220_Haruka"
+msgid "Yamaura-san! How did you know where I was?"
+msgstr ""
+
+msgctxt "232_Yamaura"
+msgid "What're ya doin' here with Ayu!?"
+msgstr ""
+
+msgctxt "244_Haruka"
+msgid "Well, you see－"
+msgstr ""
+
+msgctxt "256_Kurata"
+msgid "Misa. You sure found a good one in this girl, didn't ya?"
+msgstr ""
+
+msgctxt "268_Yamaura"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "280_Kurata"
+msgid ""
+"Idols do all kinds of things, right? They don't just perform. They get "
+"their pictures taken, make appearances on variety shows, greet fans at "
+"events..."
+msgstr ""
+
+msgctxt "292_Kurata"
+msgid ""
+"So I always thought they didn't have time to focus on\r\n"
+"training and nobody cared if they couldn't dance."
+msgstr ""
+
+msgctxt "304_Kurata"
+msgid ""
+"I never understood why people fawned all over the no-talent\r\n"
+"idols and ignored us real entertainers."
+msgstr ""
+
+msgctxt "316_Yamaura"
+msgid "......"
+msgstr ""
+
+msgctxt "328_Kurata"
+msgid ""
+"So imagine how surprised I was to find out there's an idol\r\n"
+"who takes such pride in her performance on stage, both\r\n"
+"singing and dancing."
+msgstr ""
+
+msgctxt "340_Haruka"
+msgid "Kurata-san..."
+msgstr ""
+
+msgctxt "352_Yamaura"
+msgid "Well, we never were idols, that's for sure."
+msgstr ""
+
+msgctxt "364_Kurata"
+msgid ""
+"But we sang and danced up there on the stage, just like they\r\n"
+"do. I wish we could have gone further together, you and me."
+msgstr ""
+
+msgctxt "376_Kurata"
+msgid "But I guess it just wasn't meant to be."
+msgstr ""
+
+msgctxt "388_Yamaura"
+msgid "Ayu..."
+msgstr ""
+
+msgctxt "400_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "412_Kurata"
+msgid ""
+"Nowadays, I'm a TV personality, and I never sing or dance\r\n"
+"anymore, but, truth be told, I still miss it."
+msgstr ""
+
+msgctxt "424_Kurata"
+msgid ""
+"Don't you miss it, too, Misa? Don't ya just hate bein'\r\n"
+"nothing but a voice coach?"
+msgstr ""
+
+msgctxt "436_Yamaura"
+msgid "Well, I..."
+msgstr ""
+
+msgctxt "448_Kurata"
+msgid ""
+"I'm a lousy singer, but you? Doesn't it just rankle ya to\r\n"
+"hafta listen to terrible, amateur singing all day when you\r\n"
+"know you're so much better?"
+msgstr ""
+
+msgctxt "460_Yamaura"
+msgid "......"
+msgstr ""
+
+msgctxt "472_Kurata"
+msgid "I bet ya still miss the old days, just like I do－"
+msgstr ""
+
+msgctxt "484_Yamaura"
+msgid "Nope."
+msgstr ""
+
+msgctxt "496_Kurata"
+msgid "...!"
+msgstr ""
+
+msgctxt "508_Yamaura"
+msgid ""
+"I may not cling to my old dreams like you do, but that\r\n"
+"doesn't mean I've given up on dreams altogether."
+msgstr ""
+
+msgctxt "520_Yamaura"
+msgid "My new dream is to see this kid here have a successful debut."
+msgstr ""
+
+msgctxt "532_Haruka"
+msgid "Yamaura-san!"
+msgstr ""
+
+msgctxt "544_Kurata"
+msgid "Misa..."
+msgstr ""
+
+msgctxt "556_Yamaura"
+msgid ""
+"The same is true for Park, Horie, and Christina, too.\r\n"
+"Show business is a place where dreams are passed on from one\r\n"
+"to another."
+msgstr ""
+
+msgctxt "568_Yamaura"
+msgid ""
+"So it didn't work out for me. At least I can still help make\r\n"
+"someone else's dream come true. That's what keeps me going."
+msgstr ""
+
+msgctxt "580_Yamaura"
+msgid ""
+"Otherwise, I would've left this business ages ago and found\r\n"
+"myself a husband or something."
+msgstr ""
+
+msgctxt "592_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "604_Kurata"
+msgid "Heh, same old Misa."
+msgstr ""
+
+msgctxt "616_Kurata"
+msgid ""
+"Haruka, you've got yourself a great teacher here, so you\r\n"
+"better study hard and have a hell of a debut, or you'll be\r\n"
+"hearing from me!"
+msgstr ""
+
+msgctxt "628_Haruka"
+msgid "I will!"
+msgstr ""
+
+msgctxt "640_Kurata"
+msgid ""
+"Also, Misa, I dunno why ya think you'd find a husband so\r\n"
+"easily. You looked in a mirror lately?"
+msgstr ""
+
+msgctxt "652_Yamaura"
+msgid ""
+"Ha! What about you!? All these years in the business, and I\r\n"
+"haven't heard jack squat about your love life."
+msgstr ""
+
+msgctxt "664_Kurata"
+msgid ""
+"That's because I keep my private life private. Ya don't need\r\n"
+"to worry about my love affairs, thank you very much."
+msgstr ""
+
+msgctxt "676_Yamaura"
+msgid "Oh, yeah? Name one boyfriend, then! Ya can't, can ya!?"
+msgstr ""
+
+msgctxt "688_Kurata"
+msgid "What!?"
+msgstr ""
+
+msgctxt "700_Haruka"
+msgid "Hehe... Hahaha!"
+msgstr ""
+
+msgctxt "712_Haruka"
+msgid "You two really do like each other after all, don't you?"
+msgstr ""
+
+msgctxt "724_Yamaura & Kurata"
+msgid "We do not!"
+msgstr ""
+
+msgctxt "796_Kurata"
+msgid "Now whaddya want? Come to pick another fight?"
+msgstr ""
+
+msgctxt "808_Haruka"
+msgid ""
+"I still want you to take back what you said about singing\r\n"
+"skill not being important!"
+msgstr ""
+
+msgctxt "820_Kurata"
+msgid ""
+"That stuff again? I bet you're just all hung up on singing\r\n"
+"because you're a terrible dancer."
+msgstr ""
+
+msgctxt "832_Haruka"
+msgid "That's not true!"
+msgstr ""
+
+msgctxt "844_Kurata"
+msgid ""
+"In that case, you know what I want. A dance battle, you\r\n"
+"against me!"
+msgstr ""
+
+msgctxt "856_Haruka"
+msgid ""
+"(It would be crazy to take on a former pro, but I can't let\r\n"
+"her get away with the things she said. What do I do?)"
+msgstr ""
+
+msgctxt "868_Haruka"
+msgid "Well..."
+msgstr ""
+
+msgctxt "880_Kurata"
+msgid ""
+"What? Ya come lookin' for a fight then back out!? Pretty\r\n"
+"pathetic, if you ask me..."
+msgstr ""
+
+msgctxt "892_Kurata"
+msgid ""
+"But I guess that's about what I'd expect from a student of\r\n"
+"Misa's. Whatever."
+msgstr ""
+
+msgctxt "904_Haruka"
+msgid ""
+"(I hate to walk away, but I just don't think I'm ready yet.\r\n"
+"I'll come back later!)"
+msgstr ""
+
+msgctxt "916_Haruka"
+msgid ""
+"Fine. You're on! But if I win, you have to take back what\r\n"
+"you said!"
+msgstr ""
+
+msgctxt "928_Kurata"
+msgid ""
+"Oh, sure. Tell ya what. If by some miracle you do win, I'll\r\n"
+"get down on my knees to apologize and everything."
+msgstr ""
+
+msgctxt "940_Kurata"
+msgid "Let's do it, then! I'll show ya what a real pro can do!"
+msgstr ""
+
+msgctxt "964_Kurata"
+msgid "*pant* *pant*"
+msgstr ""
+
+msgctxt "976_Kurata"
+msgid ""
+"Hmph. Ya gave me that big speech about both skills being so\r\n"
+"important, and that's all ya got?"
+msgstr ""
+
+msgctxt "988_Kurata"
+msgid ""
+"Maybe learn how to dance before ya try lecturin' people\r\n"
+"again, eh?"
+msgstr ""
+
+msgctxt "1000_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "1012_Haruka"
+msgid ""
+"(Darn. I'm still no match for her. I'd better train extra\r\n"
+"hard and try again later.)"
+msgstr ""
+
+msgctxt "1024_Kurata"
+msgid ""
+"Can you believe that girl? She seriously thinks she's gonna\r\n"
+"be a big star someday with mediocre talent like that?"
+msgstr ""
+
+msgctxt "1036_Kurata"
+msgid ""
+"She was doing her best to sing, but she was all outta\r\n"
+"breath, and her moves were sloppy, too. I tell ya, that was\r\n"
+"some pretty low-level stuff."
+msgstr ""
+
+msgctxt "1048_Staff"
+msgid ""
+"And you oughta know. I remember you used to be able to sing\r\n"
+"and dance at the same time like it was nothing."
+msgstr ""
+
+msgctxt "1060_Kurata"
+msgid ""
+"Don't be silly! That was lip-syncing. What else? All these\r\n"
+"pre-recorded deals use lip-syncing! Especially idol shows!"
+msgstr ""
+
+msgctxt "1072_Staff"
+msgid "Really!? I didn't know that."
+msgstr ""
+
+msgctxt "1084_Haruka"
+msgid "(...!)"
+msgstr ""
+
+msgctxt "1096_Kurata"
+msgid ""
+"There are all kinds of ways to fake it, so it doesn't really\r\n"
+"matter how well ya sing. What's really important is the dancing."
+msgstr ""
+
+msgctxt "1108_Kurata"
+msgid ""
+"And ya can't fake dancing. So if you're gonna be good at one\r\n"
+"thing or the other, it better be dancing. That's what people\r\n"
+"really notice."
+msgstr ""
+
+msgctxt "1120_Staff"
+msgid "Hmm. I see."
+msgstr ""
+
+msgctxt "1132_Kurata"
+msgid ""
+"The only people who oughta worry about singing are those who\r\n"
+"can already dance."
+msgstr ""
+
+msgctxt "1144_Kurata"
+msgid ""
+"If singing's the only thing you can do, you're pretty much\r\n"
+"screwed."
+msgstr ""
+
+msgctxt "1156_Haruka"
+msgid ""
+"(Wow, how rude! They're equally important, and we all work\r\n"
+"really hard on both!)"
+msgstr ""
+
+msgctxt "1168_Haruka"
+msgid "Excuse me!"
+msgstr ""
+
+msgctxt "1180_Haruka"
+msgid "I'd like you to take that back!"
+msgstr ""
+
+msgctxt "1192_Kurata"
+msgid "Oh, it's you. You're Misa's student, right?"
+msgstr ""
+
+msgctxt "1204_Haruka"
+msgid "That's right. Haruka Sawamura."
+msgstr ""
+
+msgctxt "1216_Kurata"
+msgid "Well? Whaddya want?"
+msgstr ""
+
+msgctxt "1228_Haruka"
+msgid ""
+"Do you really believe that all idols use lip-sync, and that\r\n"
+"singing skill doesn't really matter?"
+msgstr ""
+
+msgctxt "1240_Kurata"
+msgid ""
+"Of course! When it comes to idols, it's all about the\r\n"
+"visual."
+msgstr ""
+
+msgctxt "1252_Kurata"
+msgid ""
+"You don't amount to nothin' without charisma, no matter how\r\n"
+"well ya sing. If you don't have visual appeal, ya might as\r\n"
+"well be on the radio."
+msgstr ""
+
+msgctxt "1264_Haruka"
+msgid "But...!"
+msgstr ""
+
+msgctxt "1276_Kurata"
+msgid ""
+"These kids nowadays have nothing but looks, and dancing's\r\n"
+"little more than a game to them. They call themselves\r\n"
+"artists! Gimme a break!"
+msgstr ""
+
+msgctxt "1288_Haruka"
+msgid ""
+"I think you're being very disrespectful! The idols I know\r\n"
+"are all very serious about both their singing and dancing.\r\n"
+"They work very, very hard!"
+msgstr ""
+
+msgctxt "1300_Haruka"
+msgid "And so do the voice coaches who train them!"
+msgstr ""
+
+msgctxt "1312_Kurata"
+msgid ""
+"Hmph. Whatever. I bet you're just like Misa－no confidence\r\n"
+"in your dancing abilities, so ya try to make up for it with\r\n"
+"singing."
+msgstr ""
+
+msgctxt "1324_Kurata"
+msgid ""
+"Look, if ya wanna make it on TV, don't waste your time on\r\n"
+"all that voice training crap. Just focus on not embarrassing\r\n"
+"yourself with mediocre dancing!"
+msgstr ""
+
+msgctxt "1336_Haruka"
+msgid "...!"
+msgstr ""
+
+msgctxt "1348_Kurata"
+msgid "Now, if ya don't mind, I'm a little busy."
+msgstr ""
+
+msgctxt "1372_Haruka"
+msgid "But I do have confidence in my dancing abilities!"
+msgstr ""
+
+msgctxt "1384_Kurata"
+msgid "...?"
+msgstr ""
+
+msgctxt "1396_Haruka"
+msgid ""
+"I know I can dance! Idols train really hard in both singing\r\n"
+"and dancing! That's just what we do!"
+msgstr ""
+
+msgctxt "1408_Kurata"
+msgid "Well, well... Those are some pretty feisty words."
+msgstr ""
+
+msgctxt "1420_Kurata"
+msgid ""
+"How about I put ya to a little test, then? A dance battle,\r\n"
+"you against me."
+msgstr ""
+
+msgctxt "1432_Haruka"
+msgid "Pardon?"
+msgstr ""
+
+msgctxt "1444_Kurata"
+msgid ""
+"You said you can dance, didn't ya? Or were you just blowin'\r\n"
+"smoke?"
+msgstr ""
+
+msgctxt "1456_Haruka"
+msgid "No, I－"
+msgstr ""
+
+msgctxt "1468_Kurata"
+msgid ""
+"Hmph. It's Misa all over again－a big mouth, and nothin' to\r\n"
+"back it up."
+msgstr ""
+
+msgctxt "1480_Haruka"
+msgid ""
+"(It would be crazy to take on a former pro, but I can't let\r\n"
+"her get away with the things she said. What do I do?)"
+msgstr ""
+
+msgctxt "1492_Haruka"
+msgid "Well..."
+msgstr ""
+
+msgctxt "1504_Kurata"
+msgid ""
+"What? Ya come lookin' for a fight, then back out!? Pretty\r\n"
+"pathetic, if you ask me..."
+msgstr ""
+
+msgctxt "1516_Kurata"
+msgid ""
+"But I guess that's about what I'd expect from a student of\r\n"
+"Misa's. Whatever."
+msgstr ""
+
+msgctxt "1528_Haruka"
+msgid ""
+"(I hate to walk away, but I just don't think I'm ready yet.\r\n"
+"I'll come back later!)"
+msgstr ""
+
+msgctxt "1540_Haruka"
+msgid ""
+"Fine. You're on! But if I win, you have to take back what\r\n"
+"you said!"
+msgstr ""
+
+msgctxt "1552_Kurata"
+msgid ""
+"Oh, sure. Tell ya what. If by some miracle you do win, I'll\r\n"
+"get down on my knees to apologize and everything."
+msgstr ""
+
+msgctxt "1564_Kurata"
+msgid "Let's do it, then! I'll show ya what a real pro can do!"
+msgstr ""

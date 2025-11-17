@@ -1,0 +1,382 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "268"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round when you are "
+"playing cho-han.\r\n"
+" "
+msgstr ""
+
+msgctxt "376"
+msgid "You got <Color:8>Haruka's Lunch<Color:Default>."
+msgstr ""
+
+msgctxt "436"
+msgid "You got <Color:8>Haruka's First-Aid Kit<Color:Default>."
+msgstr ""
+
+msgctxt "496"
+msgid "You got <Color:8>Red Jewel<Color:Default>."
+msgstr ""
+
+msgctxt "556"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr ""
+
+msgctxt "616"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr ""
+
+msgctxt "676"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr ""
+
+msgctxt "784"
+msgid "You got <Color:8>Morning Glory Belly Warmer<Color:Default>."
+msgstr ""
+
+msgctxt "16640"
+msgid "Staff"
+msgstr ""
+
+msgctxt "16644"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "16648"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "16652"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "16656"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "16660"
+msgid "dummy"
+msgstr ""
+
+msgctxt "16664"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "16668"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "16672"
+msgid "Player"
+msgstr ""
+
+msgctxt "16676"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "76_Staff"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "88_Haruka"
+msgid ""
+"Uncle Kaz! I want some <Color:8>Sea Urchin Cream Sauce "
+"Spaghetti<Color:Default>! It's a delicacy, you know!"
+msgstr ""
+
+msgctxt "100_Kiryu"
+msgid ""
+"(Hmm. Looks like Haruka wants some <Color:8>Sea Urchin Cream Sauce "
+"Spaghetti<Color:Default>.)"
+msgstr ""
+
+msgctxt "124_Haruka"
+msgid ""
+"Aw. I wanted a bite of the <Color:8>Sea Urchin Cream Sauce "
+"Spaghetti<Color:Default>."
+msgstr ""
+
+msgctxt "136_Staff"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "160_Haruka"
+msgid "Thank you, Uncle Kaz!"
+msgstr ""
+
+msgctxt "184_Kiryu"
+msgid "(Haruka sure seems happy.)"
+msgstr ""
+
+msgctxt "256_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! This is for you!\r\n"
+" "
+msgstr ""
+
+msgctxt "316_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come play cho-han with you next time, "
+"okay?\r\n"
+" "
+msgstr ""
+
+msgctxt "364_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I have a present for you!\r\n"
+" "
+msgstr ""
+
+msgctxt "424_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "484_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "544_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "604_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "664_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr ""
+
+msgctxt "760_Haruka"
+msgid ""
+"Thanks for doing all that stuff for me, Uncle Kaz!\r\n"
+" "
+msgstr ""
+
+msgctxt "772_Staff"
+msgid ""
+"Here, this is a special present, just for you!\r\n"
+" "
+msgstr ""
+
+msgctxt "796_Haruka"
+msgid "Thanks, Uncle Kaz! I love you!"
+msgstr ""
+
+msgctxt "832_Staff"
+msgid "Welcome. May I take your order? Anything to drink?"
+msgstr ""
+
+msgctxt "868_Staff"
+msgid "Here's the food menu."
+msgstr ""
+
+msgctxt "904_Staff"
+msgid "Thank you. Your total comes to %s."
+msgstr ""
+
+msgctxt "916_Staff"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "940_Staff"
+msgid "Thank you. Your total comes to %s."
+msgstr ""
+
+msgctxt "952_Staff"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "976_Player"
+msgid "(I don't need to eat now.)"
+msgstr ""
+
+msgctxt "988_Player"
+msgid "(I don't need to eat now.)"
+msgstr ""
+
+msgctxt "1000_Player"
+msgid "(Don't need food now.)"
+msgstr ""
+
+msgctxt "1012_Player"
+msgid "(Don't need food now.)"
+msgstr ""
+
+msgctxt "1024_Player"
+msgid "(Not hungry yet.)"
+msgstr ""
+
+msgctxt "1048_Player"
+msgid "Sorry. Something came up."
+msgstr ""
+
+msgctxt "1060_Player"
+msgid "Excuse me. I've got an urgent errand."
+msgstr ""
+
+msgctxt "1072_Player"
+msgid "Sorry. Gotta run."
+msgstr ""
+
+msgctxt "1084_Player"
+msgid "Sorry, I forgot I had to do something."
+msgstr ""
+
+msgctxt "1096_Player"
+msgid "I'm so sorry. I have to go."
+msgstr ""
+
+msgctxt "1108_Staff"
+msgid "That's fine. Come again."
+msgstr ""
+
+msgctxt "1120_Staff"
+msgid "Here's the food menu."
+msgstr ""
+
+msgctxt "1156_Staff"
+msgid "Thank you. Your total comes to %s."
+msgstr ""
+
+msgctxt "1168_Staff"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "1180_Staff"
+msgid "Welcome. May I take your order? Anything to drink?"
+msgstr ""
+
+msgctxt "1216_Player"
+msgid "(I'm drinking too much.)"
+msgstr ""
+
+msgctxt "1240_Player"
+msgid "(Not hungry, either.)"
+msgstr ""
+
+msgctxt "1264_Player"
+msgid "Let's see the food menu."
+msgstr ""
+
+msgctxt "1276_Player"
+msgid "Can I see the food menu?"
+msgstr ""
+
+msgctxt "1288_Player"
+msgid "Lemme see the food menu."
+msgstr ""
+
+msgctxt "1300_Player"
+msgid "Can you show me the food menu?"
+msgstr ""
+
+msgctxt "1312_Player"
+msgid "May I see the food menu please?"
+msgstr ""
+
+msgctxt "1360_Haruka"
+msgid "(I can't have any alcohol.)"
+msgstr ""
+
+msgctxt "1384_Staff"
+msgid "Here's the food menu."
+msgstr ""
+
+msgctxt "1420_Staff"
+msgid "Thank you very much. Your total comes to %s."
+msgstr ""
+
+msgctxt "1432_Staff"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "1456_Staff"
+msgid "Thank you very much. Your total comes to %s."
+msgstr ""
+
+msgctxt "1468_Staff"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "1492_Player"
+msgid "(I don't need to eat now.)"
+msgstr ""
+
+msgctxt "1504_Player"
+msgid "(I don't need to eat now.)"
+msgstr ""
+
+msgctxt "1516_Player"
+msgid "(Don't need food now.)"
+msgstr ""
+
+msgctxt "1528_Player"
+msgid "(Not hungry yet.)"
+msgstr ""
+
+msgctxt "1540_Player"
+msgid "(I'm full now.)"
+msgstr ""
+
+msgctxt "1564_Player"
+msgid "Sorry. Something came up."
+msgstr ""
+
+msgctxt "1576_Player"
+msgid "Excuse me. I've got an urgent errand."
+msgstr ""
+
+msgctxt "1588_Player"
+msgid "Sorry. Gotta run."
+msgstr ""
+
+msgctxt "1600_Player"
+msgid "Sorry, I forgot I had to do something."
+msgstr ""
+
+msgctxt "1612_Player"
+msgid "I'm so sorry. I have to go."
+msgstr ""
+
+msgctxt "1624_Staff"
+msgid "Very well. We look forward to your next visit."
+msgstr ""
+
+msgctxt "1636_Staff"
+msgid "This is our food menu."
+msgstr ""
+
+msgctxt "1672_Staff"
+msgid "Thank you. Your total comes to %s."
+msgstr ""
+
+msgctxt "1684_Staff"
+msgid "Thank you."
+msgstr ""

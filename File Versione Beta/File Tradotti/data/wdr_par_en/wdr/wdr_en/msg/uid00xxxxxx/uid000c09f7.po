@@ -1,0 +1,660 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1412"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Collana di Haruka<Color:Default>."
+
+msgctxt "1472"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round when you are playing cho-han.\r\n"
+" "
+msgstr ""
+"Haruka d'ora in poi di tanto in tanto prevederà l'esito di una mano quando "
+"giochi a cho-han."
+
+msgctxt "1520"
+msgid "You got <Color:8>Haruka's Lunch<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Il pranzo di Haruka<Color:Default>."
+
+msgctxt "1580"
+msgid "You got <Color:8>Haruka's First-Aid Kit<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Kit di Primo Soccorso di Haruka<Color:Default>."
+
+msgctxt "1640"
+msgid "You got <Color:8>Red Jewel<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Gemma Rossa<Color:Default>."
+
+msgctxt "1700"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr "Hai ottenuto <Color:8>L'Amuleto di Haruka<Color:Default>."
+
+msgctxt "1760"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr "Hai ottenuto <Color:8>il cioccolato di Haruka<Color:Default>."
+
+msgctxt "1820"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Dolcetto di Haruka<Color:Default>."
+
+msgctxt "1928"
+msgid "You got <Color:8>Morning Glory Belly Warmer<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Scaldapancia del Glicine<Color:Default>."
+
+msgctxt "28932"
+msgid "Staff"
+msgstr "Staff"
+
+msgctxt "28936"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "28940"
+msgid "Talk_Info_L"
+msgstr "Talk_Info_L"
+
+msgctxt "28944"
+msgid "P_TLK_sitchr_kamae"
+msgstr "P_TLK_sitchr_kamae"
+
+msgctxt "28948"
+msgid "Manager"
+msgstr "Manager"
+
+msgctxt "28952"
+msgid "Honoka"
+msgstr "Honoka"
+
+msgctxt "28956"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "28960"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "28964"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "28968"
+msgid "○I'd be okay with that."
+msgstr "○Mi andrebbe bene."
+
+msgctxt "28972"
+msgid "□No way would I go for that."
+msgstr "□Col cavolo che ci starei."
+
+msgctxt "28976"
+msgid "△Depends on the situation."
+msgstr "△Dipende dalla situazione."
+
+msgctxt "28980"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "28984"
+msgid "Talk_Kamae"
+msgstr "Talk_Kamae"
+
+msgctxt "28988"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "28992"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "28996"
+msgid "P_TLK_stand_kamae"
+msgstr "P_TLK_stand_kamae"
+
+msgctxt "29000"
+msgid "P_TLK_sitchr_yes"
+msgstr "P_TLK_sitchr_yes"
+
+msgctxt "29004"
+msgid "ArmsID"
+msgstr "ID Armi"
+
+msgctxt "29008"
+msgid "HAL_TLK_sitchr_eat_sushi_max"
+msgstr "HAL_TLK_sitchr_eat_sushi_max"
+
+msgctxt "29012"
+msgid "HAL_TLK_sitchr_kamae"
+msgstr "HAL_TLK_sitchr_kamae"
+
+msgctxt "29016"
+msgid "HAL_TLK_sitchr_smile"
+msgstr "HAL_TLK_sitchr_smile"
+
+msgctxt "29020"
+msgid "P_stand"
+msgstr "P_stand"
+
+msgctxt "29024"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "29028"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "29032"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "29036"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "29040"
+msgid "0"
+msgstr "0"
+
+msgctxt "29044"
+msgid "Idle"
+msgstr "Inattivo"
+
+msgctxt "104_Staff"
+msgid "Welcome."
+msgstr "Benvenuto."
+
+msgctxt "116_Staff"
+msgid "Let me show you to your table. If you'll please follow me."
+msgstr "Le mostro il suo tavolo. Mi segua pure."
+
+msgctxt "164_Staff"
+msgid "Welcome! What can I get you?"
+msgstr "Benvenuto! Cosa ti porto?"
+
+msgctxt "176_Honoka"
+msgid "Oh, I'd like a <Color:8>Sotenbori Set<Color:Default>!"
+msgstr "Oh, vorrei un <Color:8>Sotenbori Set<Color:Default>!"
+
+msgctxt "188_Player"
+msgid "(Honoka-chan wants to eat a <Color:8>Sotenbori Set<Color:Default>.)"
+msgstr ""
+"(Honoka-chan vuole mangiare un <Color:8>Sotenbori Set<Color:Default>.)"
+
+msgctxt "260_Honoka"
+msgid "This looks delish!"
+msgstr "Sembra una delizia!"
+
+msgctxt "320_Honoka"
+msgid "Did you see the guy outside tryin' to hit on girls?"
+msgstr "Hai visto quel tizio fuori che ci provava con le ragazze?"
+
+msgctxt "332_Player"
+msgid "Oh, was there a guy? I didn't even notice."
+msgstr "Oh, c'era un tipo? Non ci ho nemmeno fatto caso."
+
+msgctxt "344_Honoka"
+msgid ""
+"Yeah, he's been there since before I got to work today. He's been hittin' on"
+" girls all day."
+msgstr ""
+"Eh sì, è lì da prima che venissi a lavorare oggi. Ha passato tutto il giorno"
+" a provarci con le ragazze."
+
+msgctxt "356_Player"
+msgid ""
+"Guess he isn't having much luck. I don't know how a guy can keep that up for"
+" so long."
+msgstr ""
+"Mi sa che non sta avendo molta fortuna. Non so come faccia uno a reggere per"
+" così tanto."
+
+msgctxt "368_Honoka"
+msgid "Do you ever do that sorta thing, Akiyama-san?"
+msgstr "Ti capita mai di fare cose del genere, Akiyama-san?"
+
+msgctxt "380_Player"
+msgid "I don't. Not under most circumstances, anyway."
+msgstr "Non lo faccio. Non nella maggior parte dei casi, comunque."
+
+msgctxt "392_Honoka"
+msgid ""
+"For real? Ya don't think you'd be able to get a ton of girls, Akiyama-san?"
+msgstr ""
+"Sul serio? Non pensi che saresti capace di rimorchiare un sacco di ragazze, "
+"Akiyama-san?"
+
+msgctxt "404_Player"
+msgid ""
+"It's not about whether I could or not. I prefer to treat meeting people more"
+" seriously."
+msgstr ""
+"Non è tanto se potrei o no. Preferisco prendere gli incontri con le persone "
+"con più serietà."
+
+msgctxt "416_Honoka"
+msgid "Hmm. Okay, what if some cute girl were to try and pick you up?"
+msgstr "Mmm. Okay, e se una ragazza carina provasse a rimorchiarti?"
+
+msgctxt "428_Player"
+msgid "I'd be okay with that. I could never say no to a pretty lady."
+msgstr ""
+"Per me andrebbe benissimo. Non potrei mai dire di no a una bella donna."
+
+msgctxt "440_Honoka"
+msgid ""
+"Whaaat? But you were just sayin' ya take meetin' people more seriously than "
+"that!"
+msgstr ""
+"Ma coooosa? Ma non stavi appena dicendo che prendevi l'incontrare la gente "
+"più sul serio di così!"
+
+msgctxt "452_Player"
+msgid ""
+"It's not like that. It's a pretty rare thing for a girl to be the one to "
+"make a move like that. I wouldn't want to waste such a unique chance."
+msgstr ""
+"Non è così. È piuttosto raro che sia una ragazza a farsi avanti in quel "
+"modo. Non vorrei sprecare un'occasione così unica."
+
+msgctxt "464_Honoka"
+msgid "Even if she wasn't your type?"
+msgstr "Anche se non era il tuo tipo?"
+
+msgctxt "476_Player"
+msgid ""
+"It's not like we're going to start dating on the spot, but there's nothing "
+"wrong with having a coffee date or something."
+msgstr ""
+"Non è che ci mettiamo insieme su due piedi, ma non c'è niente di male a "
+"prenderci un caffè o qualcosa del genere."
+
+msgctxt "488_Honoka"
+msgid ""
+"So what you're sayin' is that ya've got no standards if some random girl "
+"asks ya out. Ain't you quite the flirt?"
+msgstr ""
+"Quindi stai dicendo che non hai pretese se una ragazza a caso ti chiede di "
+"uscire. Non sei mica un gran farfallone?"
+
+msgctxt "500_Player"
+msgid "That's harsh."
+msgstr "Questa è pesante."
+
+msgctxt "512_Player"
+msgid ""
+"No way would I go for that. Going on a date with a girl who picks up guys "
+"like that is sure to end in disaster."
+msgstr ""
+"Col cavolo che ci starei. Uscire con una ragazza che si attacca ai tipi così"
+" è sicuro che finisca in un casino."
+
+msgctxt "524_Honoka"
+msgid "For serious? Why's that?"
+msgstr "Ma sul serio? Come mai?"
+
+msgctxt "536_Player"
+msgid ""
+"Well, if they're hitting on you in the middle of the street, they're only "
+"judging you by your looks."
+msgstr ""
+"Beh, se ti ci provano in mezzo alla strada, ti giudicano solo dall'aspetto."
+
+msgctxt "548_Player"
+msgid ""
+"It seems obvious that there's a high likelihood of our personalities or "
+"interests not matching, and a quick breakup will be inevitable."
+msgstr ""
+"Sembra palese che ci siano alte probabilità che le nostre personalità o i "
+"nostri interessi non combacino per niente, e che una rottura lampo sarà "
+"inevitabile."
+
+msgctxt "560_Honoka"
+msgid ""
+"Yeah, I guess that's true. For me, if a guy said he didn't like stand-up "
+"comedy, then it's game over, no matter how good he looks."
+msgstr ""
+"Sì, immagino sia vero. Per me, se un ragazzo dicesse che non gli piace la "
+"stand-up comedy, allora è game over, non importa quanto sia bello."
+
+msgctxt "572_Player"
+msgid ""
+"See? That's why I prefer to take my time to get to know the other person "
+"first."
+msgstr ""
+"Vedi? È per questo che preferisco prendermela con calma per conoscere prima "
+"l'altra persona."
+
+msgctxt "584_Honoka"
+msgid ""
+"Aha! You're not as much of a playboy as ya look, Akiyama-san! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Ahah! Non sei mica il playboy che sembri, Akiyama-san! "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "596_Player"
+msgid "Uh, thanks."
+msgstr "Uh, grazie."
+
+msgctxt "608_Player"
+msgid "Depends on the situation."
+msgstr "Dipende dalla situazione."
+
+msgctxt "620_Honoka"
+msgid "What kinda situation?"
+msgstr "Che razza di situazione?"
+
+msgctxt "632_Player"
+msgid ""
+"Well, let's say if the girl's my type. If she isn't, I wouldn't go on a date"
+" with her."
+msgstr ""
+"Beh, diciamo che se la ragazza è il mio tipo. Se non lo è, non ci uscirei."
+
+msgctxt "644_Honoka"
+msgid "So if she's yer type it's okay?"
+msgstr "Quindi, se è il tuo tipo, va bene?"
+
+msgctxt "656_Player"
+msgid ""
+"Yeah. If she struck me as sketchy, then I'd obviously keep my distance."
+msgstr ""
+"Sì. Se mi fosse sembrata losca, allora ovviamente mi terrei alla larga."
+
+msgctxt "668_Honoka"
+msgid "What do ya mean by sketchy?"
+msgstr "Che vuoi dire con 'losco'?"
+
+msgctxt "680_Player"
+msgid ""
+"Well, you've heard of badger games, right? When a good-looking lady tricks "
+"some dumb schmuck in order to blackmail him?"
+msgstr ""
+"Beh, hai sentito parlare delle truffe del ricatto, giusto? Quando una bella "
+"signorina raggira qualche allocco stupido per ricattarlo?"
+
+msgctxt "692_Player"
+msgid ""
+"Pretty women usually can't keep guys away from them, so when they approach a"
+" man it's kind of suspicious. I know I'd be on my guard then."
+msgstr ""
+"Le belle donne di solito non riescono a tenere a bada i tipi, quindi quando "
+"si avvicinano a un uomo, la cosa puzza un po'. Io, di sicuro, starei "
+"all'erta."
+
+msgctxt "704_Honoka"
+msgid ""
+"Ooh, you're so calculating, Akiyama-san! I would never have thought of that."
+" I'd just blindly follow the guy if he's my type."
+msgstr ""
+"Ooh, sei così furbo, Akiyama-san! Non ci avrei mai pensato. Io seguirei "
+"ciecamente il tipo, se è il mio tipo."
+
+msgctxt "716_Player"
+msgid "Then you should be more careful from now on."
+msgstr "Allora dovresti stare più attento d'ora in poi."
+
+msgctxt "776_Honoka"
+msgid "Thanks for treatin' me!"
+msgstr "Grazie per avermi offerto!"
+
+msgctxt "836_Staff"
+msgid "Here is your check."
+msgstr "Ecco il suo conto."
+
+msgctxt "860_Staff"
+msgid "Thank you very much. Please come again."
+msgstr "Grazie mille. Torni a trovarci."
+
+msgctxt "872_Staff"
+msgid "Thank you very much. Please come again."
+msgstr "Grazie mille. Torni a trovarci."
+
+msgctxt "908_Staff"
+msgid "Welcome."
+msgstr "Benvenuto."
+
+msgctxt "920_Staff"
+msgid "Let me show you to your table."
+msgstr "Lasci che la accompagni al suo tavolo."
+
+msgctxt "944_Player"
+msgid "(I'm broke.)"
+msgstr "(Sono al verde.)"
+
+msgctxt "956_Staff"
+msgid "Sorry. There's something I need to take care of."
+msgstr "Scusa. Ho una cosa da sbrigare."
+
+msgctxt "968_Staff"
+msgid "I see. Well, please come again."
+msgstr "Capisco. Beh, torni pure."
+
+msgctxt "1016_Staff"
+msgid "Welcome! What can I get you?"
+msgstr "Benvenuto! Cosa ti porto?"
+
+msgctxt "1028_Haruka"
+msgid ""
+"Uncle Kaz, I'd really like some <Color:8>Garlic Chicken<Color:Default>."
+msgstr ""
+"Zio Kaz, mi andrebbe proprio del <Color:8>Pollo all'aglio<Color:Default>."
+
+msgctxt "1040_Kiryu"
+msgid "(Haruka wants some <Color:8>Garlic Chicken<Color:Default>...)"
+msgstr "(Haruka vuole del <Color:8>pollo all'aglio<Color:Default>...)"
+
+msgctxt "1064_Staff"
+msgid "But I wanted some <Color:8>Garlic Chicken<Color:Default>..."
+msgstr "Ma volevo del <Color:8>Pollo all'aglio<Color:Default>..."
+
+msgctxt "1100_Staff"
+msgid "This looks really tasty! Thanks, Uncle Kaz!"
+msgstr "Sembra una vera delizia! Grazie, zio Kaz!"
+
+msgctxt "1256_Haruka"
+msgid "Thanks for treating me!"
+msgstr "Grazie per avermi offerto!"
+
+msgctxt "1268_Staff"
+msgid "(Haruka sure seems happy.)"
+msgstr "(Haruka sembra proprio felice.)"
+
+msgctxt "1352_Staff"
+msgid "That was delicious!"
+msgstr "Era delizioso!"
+
+msgctxt "1400_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! This is for you!\r\n"
+" "
+msgstr "Grazie, Zio Kaz! Questo è per te!"
+
+msgctxt "1460_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come play cho-han with you next time, okay?\r\n"
+" "
+msgstr ""
+"Grazie infinite, Zio Kaz! Voglio venire a giocare a cho-han con te la "
+"prossima volta, okay?"
+
+msgctxt "1508_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I have a present for you!\r\n"
+" "
+msgstr "Grazie mille, Zio Kaz! Ho un regalo per te!"
+
+msgctxt "1568_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "1628_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "1688_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "1748_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "1808_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "1904_Haruka"
+msgid ""
+"Thanks for doing all that stuff for me, Uncle Kaz!\r\n"
+" "
+msgstr "Grazie per aver fatto tutte quelle cose per me, Zio Kaz!"
+
+msgctxt "1916_Staff"
+msgid ""
+"Here, this is a special present, just for you!\r\n"
+" "
+msgstr "Ecco, questo è un regalo speciale, solo per te!"
+
+msgctxt "1940_Haruka"
+msgid "Thanks, Uncle Kaz! I love you!"
+msgstr "Grazie, Zio Kaz! Ti voglio bene!"
+
+msgctxt "1976_Staff"
+msgid "I hope that was to your liking. Please come again."
+msgstr "Spero ti sia piaciuto. Torna a trovarci."
+
+msgctxt "2000_Staff"
+msgid "Thank you very much. Please come again."
+msgstr "Grazie mille. Torni a trovarci."
+
+msgctxt "2024_Staff"
+msgid "Welcome."
+msgstr "Benvenuto."
+
+msgctxt "2036_Staff"
+msgid "Let me show you to your table. If you'll please follow me."
+msgstr "Le mostro il suo tavolo. Mi segua pure."
+
+msgctxt "2072_Player"
+msgid "(I'm broke.)"
+msgstr "(Sono al verde.)"
+
+msgctxt "2108_Kiryu"
+msgid "(I don't need to eat right now.)"
+msgstr "(Non ho bisogno di mangiare adesso.)"
+
+msgctxt "2120_Akiyama"
+msgid "(I'm not hungry right now.)"
+msgstr "(Non ho fame in questo momento.)"
+
+msgctxt "2132_Saejima"
+msgid "(I'm still full.)"
+msgstr "(Sono ancora pieno.)"
+
+msgctxt "2144_Shinada"
+msgid "(Unfortunately, I'm kinda full.)"
+msgstr "(Purtroppo, sono un po' pieno.)"
+
+msgctxt "2156_Haruka"
+msgid "(I'm stuffed.)"
+msgstr "(Sono strapieno.)"
+
+msgctxt "2192_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr "Scusa. Ho una cosa da sbrigare."
+
+msgctxt "2204_Akiyama"
+msgid "Sorry. I have some urgent business to take care of."
+msgstr "Scusa. Ho degli affari urgenti da sbrigare."
+
+msgctxt "2216_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr "Mi dispiace, ma devo filare."
+
+msgctxt "2228_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr "Oh, mi dispiace. Ho una cosa..."
+
+msgctxt "2240_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr "Mi dispiace davvero. È saltato fuori un imprevisto."
+
+msgctxt "2252_Staff"
+msgid "I see. Well, please come again."
+msgstr "Capisco. Beh, torni pure."
+
+msgctxt "2312_Staff"
+msgid "Welcome! What can I get you?"
+msgstr "Benvenuto! Cosa ti porto?"
+
+msgctxt "2336_Kiryu"
+msgid "(What do I want to eat?)"
+msgstr "(Cosa voglio mangiare?)"
+
+msgctxt "2348_Akiyama"
+msgid "(What should I get?)"
+msgstr "(Cosa prendo?)"
+
+msgctxt "2360_Saejima"
+msgid "(What do I wanna eat?)"
+msgstr "(Cosa mi va di mangiare?)"
+
+msgctxt "2372_Shinada"
+msgid "(Okay, what do I want to get?)"
+msgstr "(Okay, cosa mi prendo?)"
+
+msgctxt "2384_Haruka"
+msgid "(Hmm. I wonder what's good?)"
+msgstr "(Mmh. Mi chiedo cosa c'è di buono?)"
+
+msgctxt "2432_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr "Scusa. Ho una cosa da sbrigare."
+
+msgctxt "2444_Akiyama"
+msgid "Sorry. I have some urgent business I need to take care of."
+msgstr "Mi dispiace. Ho degli affari urgenti di cui devo occuparmi."
+
+msgctxt "2456_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr "Mi dispiace, ma devo filare."
+
+msgctxt "2468_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr "Oh, mi dispiace. Ho una cosa..."
+
+msgctxt "2480_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr "Mi dispiace davvero. È saltato fuori un imprevisto."
+
+msgctxt "2492_Manager"
+msgid "Ah, I see. Please do come again."
+msgstr "Ah, capisco. Torni pure."
+
+msgctxt "2540_Staff"
+msgid "Here is your check."
+msgstr "Ecco il suo conto."
+
+msgctxt "2564_Staff"
+msgid "Thank you very much. Please come again."
+msgstr "Grazie mille. Torni a trovarci."

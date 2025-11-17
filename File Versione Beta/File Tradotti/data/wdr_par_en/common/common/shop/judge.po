@@ -1,0 +1,212 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-25\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Cancel"
+msgstr "Annulla"
+
+msgctxt "4"
+msgid "Cancel"
+msgstr "Annulla"
+
+msgctxt "8"
+msgid "Cancel"
+msgstr "Annulla"
+
+msgctxt "12"
+msgid "Cancel"
+msgstr "Annulla"
+
+msgctxt "16"
+msgid "Cancel"
+msgstr "Annulla"
+
+msgctxt "20"
+msgid "Exit the appraisal screen."
+msgstr "Esci dalla schermata di valutazione."
+
+msgctxt "24"
+msgid "Exit the appraisal screen."
+msgstr "Esci dalla schermata di valutazione."
+
+msgctxt "28"
+msgid "Exit the appraisal screen."
+msgstr "Esci dalla schermata di valutazione."
+
+msgctxt "32"
+msgid "Exit the appraisal screen."
+msgstr "Esci dalla schermata di valutazione."
+
+msgctxt "36"
+msgid "Exit the appraisal screen."
+msgstr "Esci dalla schermata di valutazione."
+
+msgctxt "40"
+msgid "Appraise"
+msgstr "Valutare"
+
+msgctxt "44"
+msgid "Appraise"
+msgstr "Valutare"
+
+msgctxt "48"
+msgid "Appraise"
+msgstr "Valutare"
+
+msgctxt "52"
+msgid "Appraise"
+msgstr "Valutare"
+
+msgctxt "56"
+msgid "Appraise"
+msgstr "Valutare"
+
+msgctxt "60"
+msgid "Appraise an item."
+msgstr "Valuta un oggetto."
+
+msgctxt "64"
+msgid "Appraise an item."
+msgstr "Valuta un oggetto."
+
+msgctxt "68"
+msgid "Appraise an item."
+msgstr "Valuta un oggetto."
+
+msgctxt "72"
+msgid "Appraise an item."
+msgstr "Valuta un oggetto."
+
+msgctxt "76"
+msgid "Appraise an item."
+msgstr "Valuta un oggetto."
+
+msgctxt "80"
+msgid "Total"
+msgstr "Totale"
+
+msgctxt "84"
+msgid "Total"
+msgstr "Totale"
+
+msgctxt "88"
+msgid "Total"
+msgstr "Totale"
+
+msgctxt "92"
+msgid "Total"
+msgstr "Totale"
+
+msgctxt "96"
+msgid "Total"
+msgstr "Totale"
+
+msgctxt "100"
+msgid "Free"
+msgstr "Gratis"
+
+msgctxt "104"
+msgid "Free"
+msgstr "Gratis"
+
+msgctxt "108"
+msgid "Free"
+msgstr "Gratis"
+
+msgctxt "112"
+msgid "Free"
+msgstr "Gratis"
+
+msgctxt "116"
+msgid "Free"
+msgstr "Gratis"
+
+msgctxt "120"
+msgid "Owned"
+msgstr "Di proprietà"
+
+msgctxt "124"
+msgid "Owned"
+msgstr "Di proprietà"
+
+msgctxt "128"
+msgid "Owned"
+msgstr "Di proprietà"
+
+msgctxt "132"
+msgid "Owned"
+msgstr "Di proprietà"
+
+msgctxt "136"
+msgid "Owned"
+msgstr "Di proprietà"
+
+msgctxt "140"
+msgid "(I don't have anything I can get appraised.)"
+msgstr "(Non ho niente da far valutare.)"
+
+msgctxt "144"
+msgid "(Don't have anything to appraise.)"
+msgstr "(Non hai niente da valutare.)"
+
+msgctxt "148"
+msgid "(Don't got anythin' to appraise.)"
+msgstr "(Non c'ho niente da valutare.)"
+
+msgctxt "152"
+msgid "(I don't have anything that can be appraised.)  "
+msgstr "(Non ho niente che possa essere valutato.)"
+
+msgctxt "156"
+msgid "(I don't have anything to appraise.)"
+msgstr "(Non ho niente da valutare.)"
+
+msgctxt "160"
+msgid "You want to appraise %d, huh? "
+msgstr "Vuoi valutare %d, eh?"
+
+msgctxt "164"
+msgid "You want to appraise %d, huh? "
+msgstr "Vuoi valutare %d, eh?"
+
+msgctxt "168"
+msgid "You want to appraise %d, huh? "
+msgstr "Vuoi valutare %d, eh?"
+
+msgctxt "172"
+msgid "You want to appraise %d, huh? "
+msgstr "Vuoi valutare %d, eh?"
+
+msgctxt "176"
+msgid "You want to appraise %d, huh? "
+msgstr "Vuoi valutare %d, eh?"
+
+msgctxt "180"
+msgid "%d相当のエコだね。ありがとう。"
+msgstr "%d相当のエコだね。ありがとう。"
+
+msgctxt "184"
+msgid "%d相当のエコだね。ありがとう。"
+msgstr "%d相当のエコだね。ありがとう。"
+
+msgctxt "188"
+msgid "%d相当のエコだね。ありがとう。"
+msgstr "%d相当のエコだね。ありがとう。"
+
+msgctxt "192"
+msgid "%d相当のエコだね。ありがとう。"
+msgstr "%d相当のエコだね。ありがとう。"
+
+msgctxt "196"
+msgid "%d相当のエコだね。ありがとう。"
+msgstr "%d相当のエコだね。ありがとう。"

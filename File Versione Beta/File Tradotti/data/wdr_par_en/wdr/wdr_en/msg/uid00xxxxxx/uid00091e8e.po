@@ -1,0 +1,316 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "504"
+msgid "You handed over <Color:8>Gold Stag Meat<Color:Default>."
+msgstr "Hai consegnato <Color:8>Carne di Cervo Dorato<Color:Default>."
+
+msgctxt "624"
+msgid "You got 500 experience points."
+msgstr "Hai ottenuto 500 punti esperienza."
+
+msgctxt "732"
+msgid "You got <Color:8>Goddess of Children Amulet<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Amuleto della Dea dei Bambini<Color:Default>."
+
+msgctxt "9676"
+msgid "Young Man"
+msgstr "Giovane"
+
+msgctxt "9680"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "9684"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "9688"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "9692"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "9696"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "9700"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "9704"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "9708"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "9712"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "9716"
+msgid "Talk_Cry"
+msgstr "Talk_Cry"
+
+msgctxt "9720"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "9724"
+msgid "Mission Added"
+msgstr "Missione Aggiunta"
+
+msgctxt "9728"
+msgid "Hand Over the Gold Stag Meat"
+msgstr "Consegna la Carne di Cervo Dorato"
+
+msgctxt "9732"
+msgid "Keep the Gold Stag Meat"
+msgstr "Tieni la Carne di Cervo Dorato"
+
+msgctxt "9736"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "9740"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "9744"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "9748"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "9752"
+msgid "Talk_Get"
+msgstr "Talk_Get"
+
+msgctxt "120_Young Man"
+msgid "I have to go. It's the only way."
+msgstr "Devo andare. È l'unico modo."
+
+msgctxt "132_Saejima"
+msgid "Yo, there! Are ya talkin' about goin' up the mountain?"
+msgstr "Ehilà! Stai parlando di andare su in montagna?"
+
+msgctxt "144_Young Man"
+msgid "Yes, that's right."
+msgstr "Sì, esatto."
+
+msgctxt "156_Saejima"
+msgid ""
+"S'posed to be dangerous, but ya seem pretty determined. Why're ya goin'?"
+msgstr ""
+"Dovrebbe essere pericoloso, ma sembri piuttosto determinato. Perché ci vai?"
+
+msgctxt "168_Young Man"
+msgid "No reason. I just feel like it."
+msgstr "Nessun motivo. Mi va e basta."
+
+msgctxt "180_Saejima"
+msgid "Ya think I'm some idiot? C'mon, out with it."
+msgstr "Mi prendi per un idiota? Dai, sputa il rospo."
+
+msgctxt "192_Young Man"
+msgid "Okay, well..."
+msgstr "Beh, allora..."
+
+msgctxt "204_Young Man"
+msgid "Have you ever heard of the gold stag?"
+msgstr "Hai mai sentito parlare del cervo dorato?"
+
+msgctxt "216_Saejima"
+msgid "Gold? Nah. Is it around here?"
+msgstr "Oro? Naaah. È da queste parti?"
+
+msgctxt "228_Young Man"
+msgid ""
+"Only according to rumor. It might not even exist, but it's the only chance I"
+" have left."
+msgstr ""
+"Solo per sentito dire. Magari non esiste nemmeno, ma è l'unica speranza che "
+"mi è rimasta."
+
+msgctxt "240_Saejima"
+msgid "Whaddya mean?"
+msgstr "Che vuoi dire?"
+
+msgctxt "252_Young Man"
+msgid "My mother's sick."
+msgstr "Mia madre è malata."
+
+msgctxt "264_Young Man"
+msgid "We spent what little savings we had going to big hospitals all over."
+msgstr ""
+"Abbiamo speso quel poco di risparmi che avevamo per girare tutti i grandi "
+"ospedali."
+
+msgctxt "276_Young Man"
+msgid ""
+"And still, no one could diagnose her! We were desperate. That's when I heard"
+" about the gold stag－its meat can cure any disease!"
+msgstr ""
+"E ancora, nessuno riusciva a capire cos'avesse! Eravamo disperati. È lì che "
+"ho sentito parlare del cervo dorato—la sua carne può curare qualsiasi "
+"malattia!"
+
+msgctxt "288_Saejima"
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgctxt "300_Young Man"
+msgid "I know, I know. It sounds like a fairy tale."
+msgstr "Lo so, lo so. Sembra una favola."
+
+msgctxt "312_Young Man"
+msgid ""
+"But I have no other options. And even if it's a one-in-a-million chance..."
+msgstr "Ma non ho altra scelta. E anche se è una possibilità su un milione..."
+
+msgctxt "324_Saejima"
+msgid "(Geez. Poor kid.)"
+msgstr "(Accidenti. Povero ragazzo.)"
+
+msgctxt "336_Saejima"
+msgid ""
+"Hey, I get it; ya would do anything for yer ma. But think about this－what is"
+" she gonna do if ya get killed out there?"
+msgstr ""
+"Ehi, capisco; faresti di tutto per la tua mamma. Ma pensaci－cosa farà lei se"
+" vieni ucciso là fuori?"
+
+msgctxt "348_Young Man"
+msgid "I..."
+msgstr "Io..."
+
+msgctxt "360_Saejima"
+msgid ""
+"Look, I don't believe in fairy tales, but I'll take care of this one for ya."
+" The last thing yer ma needs is you puttin' yer life on the line."
+msgstr ""
+"Guarda, non credo alle favole, ma me ne occuperò io per te. L'ultima cosa di"
+" cui tua madre ha bisogno è che tu rischi la vita."
+
+msgctxt "372_Young Man"
+msgid "Wait, you'll hunt the stag for me?"
+msgstr "Aspetta, caccierai il cervo per me?"
+
+msgctxt "384_Saejima"
+msgid ""
+"I'll look for it whenever I happen to be on the mountain. Meanwhile, you'll "
+"be down here thinkin' of more practical ways to help yer ma, 'cause this "
+"ain't no guarantee. Sound good?"
+msgstr ""
+"Ci darò un'occhiata ogni volta che mi capiterà di essere in montagna. "
+"Intanto tu qui giù penserai a modi più pratici per aiutare tua madre, perché"
+" questa non è mica una garanzia. Ci siamo?"
+
+msgctxt "396_Young Man"
+msgid "Yes, but... Why would you do this for me?"
+msgstr "Sì, ma... Perché lo faresti per me?"
+
+msgctxt "408_Saejima"
+msgid ""
+"Ya don't wanna regret anythin' later on. I know that all too well, that's "
+"all."
+msgstr ""
+"Non vorrai mica pentirti di qualcosa più avanti. Lo so fin troppo bene, "
+"tutto qua."
+
+msgctxt "420_Young Man"
+msgid "Well. Thank you!"
+msgstr "Beh. Grazie!"
+
+msgctxt "432_Mission Added"
+msgid "\"Hunt a Gold Stag\" was added to the list of missions."
+msgstr "\"Caccia al cervo dorato\" è stata aggiunta alla lista delle missioni."
+
+msgctxt "456_Young Man"
+msgid "So... was the gold stag just a myth after all?"
+msgstr "Allora... il cervo dorato era solo un mito, dopotutto?"
+
+msgctxt "480_Saejima"
+msgid "(Should I give 'im the gold stag meat?)"
+msgstr "(Dovrei dargli la carne di cervo dorato?)"
+
+msgctxt "492_Saejima"
+msgid "Turns out it's real. Here ya go."
+msgstr "Si è rivelato vero. Eccoti qua."
+
+msgctxt "528_Young Man"
+msgid "Oh my gosh! Really...?"
+msgstr "Mamma mia! Davvero...?"
+
+msgctxt "540_Saejima"
+msgid "Yeah. Go. Take it to yer mother."
+msgstr "Sì. Vai. Portalo a tua madre."
+
+msgctxt "552_Young Man"
+msgid "Sir, I'm forever indebted to you. Truly."
+msgstr "Signore, le sono eternamente grato. Veramente."
+
+msgctxt "648_Young Man"
+msgid ""
+"I feel terrible that you're doing something so dangerous for me. But... "
+"you're my only hope."
+msgstr ""
+"Mi dispiace un casino che tu stia facendo una cosa così pericolosa per me. "
+"Ma... sei la mia unica speranza."
+
+msgctxt "660_Young Man"
+msgid "Oh! Saejima-san!"
+msgstr "Oh! Saejima-san!"
+
+msgctxt "672_Saejima"
+msgid "How's yer mother?"
+msgstr "Come sta tua madre?"
+
+msgctxt "684_Young Man"
+msgid "She's getting better! It's a miracle!"
+msgstr "Sta migliorando! È un miracolo!"
+
+msgctxt "696_Young Man"
+msgid "You saved her life. Mine too, for that matter. Thank you."
+msgstr "Le hai salvato la vita. E in fin dei conti, anche la mia. Grazie."
+
+msgctxt "708_Saejima"
+msgid ""
+"Heh, we'll never really know if it was the meat that healed 'er. But yer "
+"welcome."
+msgstr ""
+"Heh, non lo sapremo mai per certo se sia stata la carne a rimetterla in "
+"sesto. Ma prego."
+
+msgctxt "720_Young Man"
+msgid ""
+"I'm convinced it was the meat. So, may I offer this to you in gratitude?"
+msgstr ""
+"Sono convinto che sia stata la carne. Dunque, posso offrirti questo in segno"
+" di gratitudine?"
+
+msgctxt "756_Saejima"
+msgid "Sure. 'Preciate it."
+msgstr "Certo. Ti ringrazio."
+
+msgctxt "768_Young Man"
+msgid "You were a blessing to us."
+msgstr "Sei stato una benedizione per noi."

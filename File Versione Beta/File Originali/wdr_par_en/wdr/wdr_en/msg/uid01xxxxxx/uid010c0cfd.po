@@ -1,0 +1,561 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "112"
+msgid "You got a <Color:8>Calming Towel<Color:Default>."
+msgstr ""
+
+msgctxt "220"
+msgid "You got a <Color:8>Tauriner ++<Color:Default>."
+msgstr ""
+
+msgctxt "544"
+msgid "*buzz* *buzz*"
+msgstr ""
+
+msgctxt "964"
+msgid "You got 1,900 experience points."
+msgstr ""
+
+msgctxt "26252"
+msgid "Kiyokawa"
+msgstr ""
+
+msgctxt "26256"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "26260"
+msgid "Muramatsu"
+msgstr ""
+
+msgctxt "26264"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "26268"
+msgid "Ishimori"
+msgstr ""
+
+msgctxt "26272"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "26276"
+msgid "Nakayama"
+msgstr ""
+
+msgctxt "26280"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "26284"
+msgid "Kondo"
+msgstr ""
+
+msgctxt "26288"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "26292"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "26296"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "26300"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "26304"
+msgid "F_NML_MOV_stand_phone_st"
+msgstr ""
+
+msgctxt "26308"
+msgid "ACYAM0100"
+msgstr ""
+
+msgctxt "26312"
+msgid "HAL_TLK_stand_phone_lp"
+msgstr ""
+
+msgctxt "26316"
+msgid "F_NML_MOV_stand_phone_ed"
+msgstr ""
+
+msgctxt "26320"
+msgid "Wada"
+msgstr ""
+
+msgctxt "26324"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "26328"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "26332"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "26336"
+msgid "Okay, I'll help out."
+msgstr ""
+
+msgctxt "26340"
+msgid "I think I'll pass."
+msgstr ""
+
+msgctxt "26344"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "26348"
+msgid "M_NML_TLK_stand_smile"
+msgstr ""
+
+msgctxt "88_Kiyokawa"
+msgid ""
+"The mixer was a big success thanks to you, Suzuki-san! You're the man! "
+"Here, I want to give you this as my way of saying thanks."
+msgstr ""
+
+msgctxt "136_Kiyokawa"
+msgid "So... How did you like our get-together today?"
+msgstr ""
+
+msgctxt "148_Ishimori"
+msgid ""
+"It was super fun... Although, you're a bit too young for me to take you "
+"seriously. Still, we should do this again sometime!"
+msgstr ""
+
+msgctxt "160_Nakayama"
+msgid "Yeah, I had a blast! Gyahawhawhaw!"
+msgstr ""
+
+msgctxt "172_Kondo"
+msgid "I had a really great time, too. Thank you for having us."
+msgstr ""
+
+msgctxt "184_Kiyokawa"
+msgid "Oh, not at all! Thank <Italic>you</Italic>!"
+msgstr ""
+
+msgctxt "196_Kiyokawa"
+msgid ""
+"We survived that mixer unscathed thanks to you, Suzuki-san. Here, this is "
+"for you."
+msgstr ""
+
+msgctxt "244_Kiyokawa"
+msgid "So... How did you like our get-together today?"
+msgstr ""
+
+msgctxt "256_Ishimori"
+msgid "Ah, I thought it was all right. Pretty average, really."
+msgstr ""
+
+msgctxt "268_Nakayama"
+msgid "For real! *chortle*"
+msgstr ""
+
+msgctxt "280_Kondo"
+msgid "That's not a very nice thing to say. I'd just like to say thank you."
+msgstr ""
+
+msgctxt "292_Kiyokawa"
+msgid "Oh, well, uh... Thank <Italic>you</Italic>!"
+msgstr ""
+
+msgctxt "304_Kiyokawa"
+msgid ""
+"So I guess you're not that great at mixers, huh, Suzuki-san? I know it was "
+"my idea and all... but you kind of ruined the whole thing."
+msgstr ""
+
+msgctxt "316_Kiryu"
+msgid "Sorry."
+msgstr ""
+
+msgctxt "328_Muramatsu"
+msgid "So... How did you like our get-together today?"
+msgstr ""
+
+msgctxt "340_Ishimori"
+msgid ""
+"It was absolute hell! I mean, like, who do you guys think you are!? I'm "
+"never going out with you again!"
+msgstr ""
+
+msgctxt "352_Nakayama"
+msgid "Stick it to 'em, girl! *chortle*"
+msgstr ""
+
+msgctxt "364_Kondo"
+msgid "That's not a very nice thing to say. I'd just like to say thank you."
+msgstr ""
+
+msgctxt "376_Kiyokawa"
+msgid "Kondo-san... You're too good to us."
+msgstr ""
+
+msgctxt "388_Kiyokawa"
+msgid "Welp, time for our appointment at the beauty salon. We're outtie! Bye!"
+msgstr ""
+
+msgctxt "412_Kiyokawa"
+msgid "I'd better go, too. So long."
+msgstr ""
+
+msgctxt "436_Kiyokawa"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "448_Muramatsu"
+msgid "Kondo-san..."
+msgstr ""
+
+msgctxt "460_Kiyokawa"
+msgid ""
+"If I just let her leave, nothing will change... I have to gather up my "
+"courage and tell her how I feel!"
+msgstr ""
+
+msgctxt "472_Muramatsu"
+msgid "Yeah! You're right! You can do this!"
+msgstr ""
+
+msgctxt "484_Muramatsu"
+msgid "Hey, uh－ Kondo-san!"
+msgstr ""
+
+msgctxt "508_Kiyokawa"
+msgid "Listen, we, um..."
+msgstr ""
+
+msgctxt "520_Muramatsu"
+msgid "If you don't mind, maybe we could like... grab some tea, or..."
+msgstr ""
+
+msgctxt "532_Kondo"
+msgid "Oh, hold on."
+msgstr ""
+
+msgctxt "568_Kiyokawa"
+msgid ""
+"Oh, hello? Is that you, Ryo-kun? Why didn't you call me yesterday? I missed "
+"you!"
+msgstr ""
+
+msgctxt "580_Kondo"
+msgid ""
+"What am I doing now? I got dragged to a co-worker's mixer because she "
+"needed a third girl. Don't worry, nothing happened."
+msgstr ""
+
+msgctxt "592_Muramatsu"
+msgid "......"
+msgstr ""
+
+msgctxt "604_Kondo"
+msgid ""
+"I'm telling you the truth. I wouldn't do that. You're the only one for me, "
+"Ryo-kun. Teehee."
+msgstr ""
+
+msgctxt "616_Kondo"
+msgid ""
+"Huh? Now? Sure, I'm free. I'll see you at your place, then. I'll buy some "
+"beer on the way. See you soon, sweetie."
+msgstr ""
+
+msgctxt "628_Kiyokawa"
+msgid "I'm sorry about that. What was it you were saying?"
+msgstr ""
+
+msgctxt "640_Muramatsu"
+msgid "Oh, uh..."
+msgstr ""
+
+msgctxt "652_Kiyokawa"
+msgid "Nothing... We were just saying bye."
+msgstr ""
+
+msgctxt "664_Kondo"
+msgid "Okay. Thanks again for taking me out!"
+msgstr ""
+
+msgctxt "688_Kiyokawa"
+msgid "...They're just full of surprises, aren't they?"
+msgstr ""
+
+msgctxt "700_Kiyokawa"
+msgid "Tell me about it... I think I've had enough of the dating game for now."
+msgstr ""
+
+msgctxt "712_Muramatsu"
+msgid "Same here. Let's just focus on work. At least our taxis will always love us."
+msgstr ""
+
+msgctxt "724_Kiyokawa"
+msgid "Right."
+msgstr ""
+
+msgctxt "736_Wada"
+msgid "Oh, hey, what are the boys up to tonight?"
+msgstr ""
+
+msgctxt "748_Kiryu"
+msgid "You missed out, Wada-san."
+msgstr ""
+
+msgctxt "760_Kiryu"
+msgid ""
+"We just had a mixer, and Kiyokawa and Muramatsu-san are still reeling from "
+"the rejection."
+msgstr ""
+
+msgctxt "772_Wada"
+msgid ""
+"Ouch. Sorry to hear that, gents. I guess you guys are gonna\r\n"
+"want to come along, then?"
+msgstr ""
+
+msgctxt "784_Muramatsu"
+msgid "Come along where?"
+msgstr ""
+
+msgctxt "796_Wada"
+msgid ""
+"To the cabaret club, of course! Going after regular girls will only get "
+"your heart ripped out. Mixers are a waste of time!"
+msgstr ""
+
+msgctxt "808_Muramatsu"
+msgid "I dunno... Cabaret clubs aren't really my thing."
+msgstr ""
+
+msgctxt "820_Wada"
+msgid ""
+"Oh, don't be such a stick in the mud! Cabarets are the best!\r\n"
+"Where else can you go and have a beautiful woman pour you\r\n"
+"drinks, light your smoke, and listen to all your bullshit?"
+msgstr ""
+
+msgctxt "832_Wada"
+msgid ""
+"I've been single all my life, and sure, it gets lonely at times. But thanks "
+"to cabaret clubs and the wonderful ladies who work there, I've made it "
+"where I am today."
+msgstr ""
+
+msgctxt "844_Kiyokawa"
+msgid "You're single, Wada-san!?"
+msgstr ""
+
+msgctxt "856_Wada"
+msgid ""
+"Forget about that－let's just head to a club already! Tab's on me tonight. "
+"Time to buy us some love and affection!"
+msgstr ""
+
+msgctxt "868_Kiyokawa"
+msgid ""
+"Well, when you put it that way, I'm in! Hehe, now I'm actually glad we did "
+"that mixer!"
+msgstr ""
+
+msgctxt "880_Muramatsu"
+msgid ""
+"Yeah, you sure convinced me. Now show us how it's done! Oh, and see you "
+"around, Suzuki-san!"
+msgstr ""
+
+msgctxt "904_Kiyokawa"
+msgid ""
+"(Heh. Leave it to a cabaret club to cheer up two lonely men. I guess all's "
+"well that ends well.)"
+msgstr ""
+
+msgctxt "976_Kiyokawa"
+msgid ""
+"Oh, hey, Suzuki-san! Could you help us out after all?\r\n"
+"We could really use another mixer buddy."
+msgstr ""
+
+msgctxt "988_Kiyokawa"
+msgid "Okay, I'll help out if I can."
+msgstr ""
+
+msgctxt "1000_Kiyokawa"
+msgid ""
+"Great! That makes an even count, and now we have an absolute\r\n"
+"ladykiller on our side! Now quick, hook us up with advice!"
+msgstr ""
+
+msgctxt "1024_Kiyokawa"
+msgid "No, I think I'll pass."
+msgstr ""
+
+msgctxt "1036_Kiyokawa"
+msgid ""
+"Really? Well... That's too bad. I guess, let me know if you\r\n"
+"decide to change your mind? But dang, what are we gonna do\r\n"
+"now?"
+msgstr ""
+
+msgctxt "1072_Kiyokawa"
+msgid "Well hey! What's new, Suzuki-san?"
+msgstr ""
+
+msgctxt "1084_Kiryu"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "1108_Kiyokawa"
+msgid ""
+"Oh, Kiyokawa? And Muramatsu-san? What are you two up to?\r\n"
+"Out for some dinner?"
+msgstr ""
+
+msgctxt "1120_Kiyokawa"
+msgid "Nope! We are going... to a mixer!"
+msgstr ""
+
+msgctxt "1132_Kiryu"
+msgid "A mixer?"
+msgstr ""
+
+msgctxt "1144_Kiyokawa"
+msgid ""
+"Yeah, one of those group date sort of things! See, I met this girl online, "
+"and she agreed to meet me with some of her friends!"
+msgstr ""
+
+msgctxt "1156_Kiyokawa"
+msgid "Hehe, who knows? Today could be the day I finally get myself a girlfriend!"
+msgstr ""
+
+msgctxt "1168_Kiyokawa"
+msgid "Oh yeah... <Italic>Oh yeah!</Italic> Wahahaha!"
+msgstr ""
+
+msgctxt "1180_Kiryu"
+msgid ""
+"Huh. Kiyokawa going to a mixer, that I can understand. But I never imagined "
+"you'd want to tag along."
+msgstr ""
+
+msgctxt "1192_Muramatsu"
+msgid ""
+"Oh, it's not like I wanted to go. This horndog here practically begged me "
+"to join him."
+msgstr ""
+
+msgctxt "1204_Kiyokawa"
+msgid ""
+"Come on, Muramatsu-san! When we were out drinking the other day, you were "
+"crying in your beer, saying you didn't want to die a virgin!"
+msgstr ""
+
+msgctxt "1216_Muramatsu"
+msgid "Hey, you promised never to mention that!"
+msgstr ""
+
+msgctxt "1228_Kiyokawa"
+msgid ""
+"Ahem... All I'm trying to get at is, if today's mixer goes well, we can "
+"kiss our lonely days goodbye!"
+msgstr ""
+
+msgctxt "1240_Muramatsu"
+msgid ""
+"You think the two of us can actually pull this off? To be honest, I'm not "
+"all that sure I can keep a woman entertained the whole evening."
+msgstr ""
+
+msgctxt "1252_Kiyokawa"
+msgid ""
+"Yeah, come to think of it, I'm not much of a smooth talker myself. I always "
+"end up trying too hard. What do we do?"
+msgstr ""
+
+msgctxt "1264_Muramatsu"
+msgid ""
+"Besides, aren't there three of them on their way? We're one\r\n"
+"man short. Won't they be pissed off?"
+msgstr ""
+
+msgctxt "1276_Kiyokawa"
+msgid ""
+"I guess that could be a problem. But it's not like we've got anyone else we "
+"could invite."
+msgstr ""
+
+msgctxt "1288_Kiryu"
+msgid "...Well, good luck. I better get going."
+msgstr ""
+
+msgctxt "1300_Kiyokawa"
+msgid "Oh, wait! Hold up, Suzuki-san!"
+msgstr ""
+
+msgctxt "1312_Kiryu"
+msgid "...What?"
+msgstr ""
+
+msgctxt "1324_Kiyokawa"
+msgid "Could you, uh... join us at the mixer?"
+msgstr ""
+
+msgctxt "1336_Kiryu"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "1348_Kiyokawa"
+msgid ""
+"I bet you're pretty suave with the ladies. At this rate, we're destined to "
+"mess things up. But if you came along, you could pass your worldly wisdom "
+"on to us!"
+msgstr ""
+
+msgctxt "1360_Muramatsu"
+msgid ""
+"Yeah. I hate asking for help, but fighting a losing battle is even worse. "
+"Will you come with us, Suzuki-san?"
+msgstr ""
+
+msgctxt "1372_Kiyokawa"
+msgid "Okay, I'll help you guys out. Assuming that I can."
+msgstr ""
+
+msgctxt "1384_Kiyokawa"
+msgid ""
+"Great! That makes an even count, and now we have an absolute\r\n"
+"ladykiller on our side! Now quick, hook us up with advice!"
+msgstr ""
+
+msgctxt "1408_Kiyokawa"
+msgid "No, I think I'll pass."
+msgstr ""
+
+msgctxt "1420_Kiyokawa"
+msgid ""
+"Really? Well... That's too bad. I guess, let me know if you\r\n"
+"decide to change your mind? But dang, what are we gonna do\r\n"
+"now?"
+msgstr ""

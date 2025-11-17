@@ -1,0 +1,215 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "7936"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "7940"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "7944"
+msgid "Lead Santa Hunter"
+msgstr "Cacciatore di Babbo Natale Capo"
+
+msgctxt "7948"
+msgid "M_YNG_TLK_stand_ok"
+msgstr "M_YNG_TLK_stand_ok"
+
+msgctxt "7952"
+msgid "Santa Hunter"
+msgstr "Cacciatore di Babbo Natale"
+
+msgctxt "7956"
+msgid "M_YKZ_TLK_stand_odosu"
+msgstr "M_YKZ_TLK_stand_odosu"
+
+msgctxt "7960"
+msgid "Energetic Child"
+msgstr "Bambino Energico"
+
+msgctxt "7964"
+msgid "M_CLD_TLK_stand_no"
+msgstr "M_CLD_TLK_stand_no"
+
+msgctxt "7968"
+msgid "M_CLD_TLK_stand_ok"
+msgstr "M_CLD_TLK_stand_ok"
+
+msgctxt "7972"
+msgid "Cheerful Child"
+msgstr "Bambino Allegro"
+
+msgctxt "7976"
+msgid "ArmsID"
+msgstr "ID Armi"
+
+msgctxt "7980"
+msgid "M_CLD_TLK_stand_kansin"
+msgstr "M_CLD_TLK_stand_kansin"
+
+msgctxt "72_Saejima"
+msgid "(Good thing I got away from all that...)"
+msgstr "(Meno male che me ne sono andato da tutto quel casino...)"
+
+msgctxt "84_Man"
+msgid "Hey Santa, got some presents for us?"
+msgstr "Ehi Babbo, hai qualche regalo per noi?"
+
+msgctxt "96_Saejima"
+msgid "Ah, you must be the Santa hunters. I been lookin' for you."
+msgstr ""
+"Ah, voi dovete essere i cacciatori di Babbo Natale. È da un po' che vi "
+"cerco."
+
+msgctxt "108_Lead Santa Hunter"
+msgid ""
+"You found us, old Nick! And we're so happy to see you... our third Santa "
+"today!"
+msgstr ""
+"Ci hai scovato, vecchio Nick! E siamo così contenti di vederti... il nostro "
+"terzo Babbo Natale oggi!"
+
+msgctxt "120_Santa Hunter"
+msgid ""
+"We're the town's best Christmas carolers! Bashing your head in the snow... "
+"in a one-horse open slay... O'er the killing fields we go, laughing all the "
+"way!"
+msgstr ""
+"Siamo i migliori cantori natalizi della città!\n"
+"Spaccandoti la testa nella neve...\n"
+"in una slitta aperta trainata da un cavallo... da sterminio...\n"
+"Sui campi di sterminio andiamo, ridendo per tutta la strada!"
+
+msgctxt "132_Saejima"
+msgid "Why're ya doin' this?"
+msgstr "Perché lo stai a fa'?"
+
+msgctxt "144_Lead Santa Hunter"
+msgid ""
+"Trust me, we're just doing what everyone else wishes they could do. Who "
+"isn't sick of all this Christmas shit every fucking year?"
+msgstr ""
+"Fidati, stiamo solo facendo quello che tutti gli altri si sognano di fare. "
+"Chi non ne ha le palle piene di tutta questa merda natalizia ogni "
+"fottutissimo anno?"
+
+msgctxt "156_Santa Hunter"
+msgid "Yeah, just look at what you're wearin', man. Fuckin' stupid..."
+msgstr ""
+"Sì, guarda un po' cosa ti sei messo addosso, amico. Roba da coglioni..."
+
+msgctxt "168_Saejima"
+msgid "Ain't ya got girlfriends or somethin'?"
+msgstr "Non hai delle ragazze o roba del genere?"
+
+msgctxt "180_Lead Santa Hunter"
+msgid "Shut up! Just shut the hell up."
+msgstr "Zitto! Chiudi quella maledetta bocca e basta."
+
+msgctxt "192_Lead Santa Hunter"
+msgid ""
+"Too bad your girlfriend won't be here to wash the blood out of your dinky "
+"suit!"
+msgstr ""
+"Peccato che la tua ragazza non sarà qui a lavare via il sangue dal tuo "
+"patetico completo!"
+
+msgctxt "216_Lead Santa Hunter"
+msgid "Stop, stop! We're sorry! Real sorry!"
+msgstr "Basta, basta! Ci dispiace! Ci dispiace un casino!"
+
+msgctxt "228_Saejima"
+msgid ""
+"Let me sing you a carol now. \"He's makin' a list, and checkin' it twice. "
+"Gonna find out who's naughty or nice...\""
+msgstr ""
+"Ora ti canto una cosa. \"Sta facendo una lista, e la controlla due volte. "
+"Scoprirà chi è stato cattivo o buono...\""
+
+msgctxt "240_Energetic Child"
+msgid "Santa Claus is coming to tooown!"
+msgstr "Babbo Natale sta arrivando in città!"
+
+msgctxt "252_Saejima"
+msgid "You kids! Like I said, I ain't got nothin' for ya."
+msgstr "Voi ragazzi! Come ho detto, non c'ho niente per voi."
+
+msgctxt "264_Energetic Child"
+msgid "Come onnn! You're Santa, how could you not have presents?"
+msgstr "Ma daiii! Sei Babbo Natale, come fai a non avere regali?"
+
+msgctxt "276_Saejima"
+msgid "I'm all out. Well... 'cept for these things here, I guess."
+msgstr "Sono a secco. Beh... a parte 'ste cose qui, credo."
+
+msgctxt "288_Lead Santa Hunter"
+msgid "Wait, those are ours..."
+msgstr "Aspetta, quelli sono nostri..."
+
+msgctxt "300_Energetic Child"
+msgid "Wow, baseball bats! Just what I wanted!"
+msgstr "Caspita, mazze da baseball! Proprio quello che volevo!"
+
+msgctxt "312_Saejima"
+msgid "Sports fan, huh? Take as many as ya like, then."
+msgstr "Fanatico di sport, eh? Pigline quanti ne vuoi, allora."
+
+msgctxt "324_Energetic Child"
+msgid "Awesome!"
+msgstr "Grande!"
+
+msgctxt "336_Cheerful Child"
+msgid "I want this thing over here, Santa!"
+msgstr "Voglio questa cosa qui, Babbo Natale!"
+
+msgctxt "348_Saejima"
+msgid "Nunchaku? Ya like kung fu?"
+msgstr "Nunchaku? Ti piace il kung fu?"
+
+msgctxt "360_Cheerful Child"
+msgid "Yeah! I watch kung fu movies all the time! Hi-yah!"
+msgstr "Sì! Guardo sempre film di kung fu! Hiyà!"
+
+msgctxt "372_Santa Hunter"
+msgid "Not my nunchaku! They cost me a fortune!"
+msgstr "Non i miei nunchaku! Mi sono costati un occhio della testa!"
+
+msgctxt "384_Saejima"
+msgid ""
+"Seems fair to me. The kids could use some real Christmas cheer after you "
+"takin' it from them all season."
+msgstr ""
+"Ci sta. I ragazzini potrebbero usare un po' di vero spirito natalizio, dopo "
+"che gliel'hai tolto per tutta la stagione."
+
+msgctxt "396_Saejima"
+msgid "If ya got a problem with that, though, I'm all ears. Your call."
+msgstr "Se hai problemi con quello, però, dimmi pure. Decidi tu."
+
+msgctxt "408_Lead Santa Hunter"
+msgid "Uh, it's okay... Go ahead, little bros, take all you want..."
+msgstr ""
+"Uh, va bene... Avanti, fratellini, prendete tutto quello che volete..."
+
+msgctxt "420_Cheerful Child"
+msgid "Yay! This is the best Christmas ever! Thanks, Santa!"
+msgstr "Evviva! Questo è il miglior Natale di sempre! Grazie, Babbo Natale!"
+
+msgctxt "432_Saejima"
+msgid "Heh, I could get used to this Santa gig. Merry Christmas, everyone!"
+msgstr ""
+"Eh, mi ci potrei abituare a questa faccenda da Babbo Natale. Buon Natale a "
+"tutti!"

@@ -1,0 +1,93 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "128"
+msgid "You got <Color:8>Leghold Trap<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Tagliola<Color:Default>."
+
+msgctxt "2008"
+msgid "Kihachi"
+msgstr "Kihachi"
+
+msgctxt "2012"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "2016"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "2020"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2024"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "2028"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "2032"
+msgid "Talk_Get"
+msgstr "Talk_Get"
+
+msgctxt "2036"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2040"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "44_Kihachi"
+msgid "Oh, hey! Saejima-san, right?"
+msgstr "Ah, ehi! Saejima-san, giusto?"
+
+msgctxt "56_Kihachi"
+msgid "You and Nishina-san saved my life! Thank you."
+msgstr "Tu e Nishina-san mi avete salvato la vita! Grazie."
+
+msgctxt "68_Saejima"
+msgid ""
+"Nah, Nishina-han alone saved ya. And he saved me, too. I was jus' a burden "
+"in the end."
+msgstr ""
+"Nah, Nishina-han da solo ti ha salvato. E ha salvato anche me. Alla fine, "
+"ero solo un peso."
+
+msgctxt "80_Kihachi"
+msgid "But you gave me food, and hope! Here, take this."
+msgstr "Ma mi hai dato da mangiare e speranza! Tieni, prendi questo."
+
+msgctxt "92_Saejima"
+msgid "But..."
+msgstr "Ma..."
+
+msgctxt "104_Kihachi"
+msgid "Go on, take it. Please, it would make me happy!"
+msgstr "Dai, prendilo. Ti prego, mi farebbe felice!"
+
+msgctxt "116_Saejima"
+msgid "Oh, all right. 'Preciate it."
+msgstr "Ah, va bene. Apprezzo."
+
+msgctxt "152_Kihachi"
+msgid "We got lucky this time. Be careful out there."
+msgstr "Ci è andata bene questa volta. Fai attenzione là fuori."
+
+msgctxt "164_Saejima"
+msgid "Yeah. I will."
+msgstr "Sì. Lo farò."

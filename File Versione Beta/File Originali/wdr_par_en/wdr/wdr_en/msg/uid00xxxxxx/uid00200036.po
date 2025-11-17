@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "672"
+msgid "You got 2,000 experience points."
+msgstr ""
+
+msgctxt "9020"
+msgid "???"
+msgstr ""
+
+msgctxt "9024"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "9028"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "9032"
+msgid "Tokita"
+msgstr ""
+
+msgctxt "9036"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "9040"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "9044"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "9048"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "9052"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "9056"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9060"
+msgid "E_stand_nml"
+msgstr ""
+
+msgctxt "9064"
+msgid "M_YKZS_TLK_damage_no"
+msgstr ""
+
+msgctxt "9068"
+msgid "Tournament Staff"
+msgstr ""
+
+msgctxt "9072"
+msgid "M_NML_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "9076"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "9080"
+msgid "dummy"
+msgstr ""
+
+msgctxt "9084"
+msgid "Passed Tsukimino Qualifiers"
+msgstr ""
+
+msgctxt "60_???"
+msgid "Who'd have thought I'd run into you on the Victory Road here, huh?"
+msgstr ""
+
+msgctxt "72_???"
+msgid ""
+"It's been quite a while, Saejima-san. Last time I saw you was at Sodachi "
+"Dojo."
+msgstr ""
+
+msgctxt "84_Saejima"
+msgid "Well if it ain't Tokita! How 'bout that? Thought it might be you."
+msgstr ""
+
+msgctxt "96_Tokita"
+msgid "What? Aren't you pleased to see me?"
+msgstr ""
+
+msgctxt "108_Tokita"
+msgid ""
+"Oh, I get it! It must be sour grapes about getting overshadowed by your "
+"former apprentice. That's gotta suck!"
+msgstr ""
+
+msgctxt "120_Saejima"
+msgid "You ain't changed a lick, I see."
+msgstr ""
+
+msgctxt "132_Tokita"
+msgid ""
+"Hah. You must mean these good looks of mine, right? Yeah. I still enjoy "
+"admiring myself every day."
+msgstr ""
+
+msgctxt "144_Saejima"
+msgid "Admirin' yourself?"
+msgstr ""
+
+msgctxt "156_Tokita"
+msgid ""
+"Looking at myself in the mirror. Buck naked, usually. There's nothing quite "
+"like basking in your own glory."
+msgstr ""
+
+msgctxt "168_Saejima"
+msgid "Get to the point. Did ya stop me to brawl or not?"
+msgstr ""
+
+msgctxt "180_Tokita"
+msgid ""
+"No need to be a sourpuss, Saejima. I've been training in the icy north ever "
+"since I left Sodachi Dojo, honing my strength."
+msgstr ""
+
+msgctxt "192_Tokita"
+msgid ""
+"And now I'm taking part in the Victory Road qualifiers here. I haven't lost "
+"once. Nobody can touch me!"
+msgstr ""
+
+msgctxt "204_Saejima"
+msgid "Huh. Good for you."
+msgstr ""
+
+msgctxt "216_Tokita"
+msgid "What? Are you mocking me?"
+msgstr ""
+
+msgctxt "228_Tokita"
+msgid "I'll admit, I used to psych myself up a bit to get me motivated."
+msgstr ""
+
+msgctxt "240_Tokita"
+msgid ""
+"But now it's different. My inner strength has finally caught up with my "
+"outer beauty."
+msgstr ""
+
+msgctxt "252_Tokita"
+msgid "And the cherry on top will be taking you down, Saejima-san."
+msgstr ""
+
+msgctxt "264_Saejima"
+msgid "Heh, you've set your sights high."
+msgstr ""
+
+msgctxt "276_Tokita"
+msgid ""
+"I know it's hard to face, but you're getting old. It's time to put you out "
+"to pasture."
+msgstr ""
+
+msgctxt "288_Tokita"
+msgid "Brace yourself! My beauty and brawn will leave you a whimpering mess!"
+msgstr ""
+
+msgctxt "300_Saejima"
+msgid "Let's put that to the test then, yeah? Bring it!"
+msgstr ""
+
+msgctxt "324_Tokita"
+msgid "You hit like a freight train. I had no idea you were this tough!"
+msgstr ""
+
+msgctxt "336_Saejima"
+msgid "You did better than I expected, too. Ya musta trained hard."
+msgstr ""
+
+msgctxt "348_Tokita"
+msgid ""
+"Well, one punch from you snapped me out of my delusions. I can see how far "
+"I still have to go now."
+msgstr ""
+
+msgctxt "360_Tokita"
+msgid "I'll never be more beautiful than I am now, but I know I can be stronger."
+msgstr ""
+
+msgctxt "372_Tournament Staff"
+msgid "Well fought, Saejima-san."
+msgstr ""
+
+msgctxt "384_Saejima"
+msgid "You're with the Victory Road, huh?"
+msgstr ""
+
+msgctxt "396_Tournament Staff"
+msgid ""
+"Yes, I'm supervising the tournament. With this win, you've qualified to "
+"fight in the Coliseum."
+msgstr ""
+
+msgctxt "408_Tournament Staff"
+msgid ""
+"Nobody in this town can best you, so you've earned a place in the Victory "
+"Road finals."
+msgstr ""
+
+msgctxt "420_Saejima"
+msgid "Coliseum? Victory Road finals?"
+msgstr ""
+
+msgctxt "432_Tournament Staff"
+msgid ""
+"Indeed. They'll be held at the Underground Coliseum. I'm sure you're "
+"familiar with it."
+msgstr ""
+
+msgctxt "444_Tournament Staff"
+msgid "We'll ask you to head there once all the competitors are decided."
+msgstr ""
+
+msgctxt "456_Tournament Staff"
+msgid "The strongest fighters in the country all end up there sooner or later."
+msgstr ""
+
+msgctxt "468_Tournament Staff"
+msgid "You may even meet your match there, too."
+msgstr ""
+
+msgctxt "480_Saejima"
+msgid "Huh."
+msgstr ""
+
+msgctxt "492_Tokita"
+msgid ""
+"Looks like you beat me to the punch, so to speak, but I haven't given up "
+"yet. I'll catch up with you one day!"
+msgstr ""
+
+msgctxt "504_Tokita"
+msgid ""
+"I bet I'll look glorious standing in that Coliseum with the spotlight "
+"shining down on me."
+msgstr ""
+
+msgctxt "516_Saejima"
+msgid "Heh. Yeah, yeah."
+msgstr ""
+
+msgctxt "528_???"
+msgid ""
+"We'll meet again soon, Saejima. I'll see you at the Coliseum in the Victory "
+"Road finals!"
+msgstr ""
+
+msgctxt "540_???"
+msgid "Heh. Maybe we'll even be on the same team."
+msgstr ""
+
+msgctxt "564_???"
+msgid "(Heh... I wouldn't expect any less of you, Tokita.)"
+msgstr ""
+
+msgctxt "636_???"
+msgid ""
+"Congratulations on passing the qualifiers. The Victory Road finals will be "
+"held in a certain pleasure quarter once the qualifiers in each city have "
+"been completed."
+msgstr ""
+
+msgctxt "648_???"
+msgid ""
+"Though you have secured a place in the finals, Victory Road competitors "
+"will still challenge you in the street to test their skills. Keep fighting "
+"to stay in peak condition."
+msgstr ""

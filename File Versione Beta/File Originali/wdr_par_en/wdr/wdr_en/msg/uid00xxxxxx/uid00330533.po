@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "9064"
+msgid "Honoka"
+msgstr ""
+
+msgctxt "9068"
+msgid "Player"
+msgstr ""
+
+msgctxt "9072"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "9076"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9080"
+msgid "○Don't need to buy everything."
+msgstr ""
+
+msgctxt "9084"
+msgid "□Wait for things to get cheaper."
+msgstr ""
+
+msgctxt "9088"
+msgid "△I could buy something for you."
+msgstr ""
+
+msgctxt "9092"
+msgid "dummy"
+msgstr ""
+
+msgctxt "9096"
+msgid "Staff"
+msgstr ""
+
+msgctxt "9100"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "9104"
+msgid "Employee"
+msgstr ""
+
+msgctxt "72_Honoka"
+msgid "Aww, darn it."
+msgstr ""
+
+msgctxt "84_Player"
+msgid "Huh? What's wrong?"
+msgstr ""
+
+msgctxt "96_Honoka"
+msgid "There was somethin' here that I'd had my eye on when I came by today."
+msgstr ""
+
+msgctxt "108_Honoka"
+msgid ""
+"But now that I'm here there's this other thing, and another thing, and a "
+"new thing that I want, and now I can't decide on what to get!"
+msgstr ""
+
+msgctxt "120_Player"
+msgid ""
+"I know the feeling. Worse than not being able to decide is the "
+"ever-increasing number of things you want to buy."
+msgstr ""
+
+msgctxt "132_Honoka"
+msgid "But tryin' to buy all of the different things I want would be crazy talk."
+msgstr ""
+
+msgctxt "144_Honoka"
+msgid "I've gotta save up more money."
+msgstr ""
+
+msgctxt "156_Player"
+msgid ""
+"You don't need to buy everything. It's better to buy only what you can "
+"afford."
+msgstr ""
+
+msgctxt "168_Honoka"
+msgid ""
+"I could buy any one of these things, no problem. Not bein' able to afford "
+"all of 'em is why I can't decide what to buy."
+msgstr ""
+
+msgctxt "180_Player"
+msgid "Which is the most important thing for you to have?"
+msgstr ""
+
+msgctxt "192_Honoka"
+msgid "Hm. I can't really rank 'em in order of importance."
+msgstr ""
+
+msgctxt "204_Player"
+msgid ""
+"Why not? If there's something you need right now, or something available "
+"only for a limited time, you should get one of those."
+msgstr ""
+
+msgctxt "216_Honoka"
+msgid "Huh? But I want all of 'em now."
+msgstr ""
+
+msgctxt "228_Player"
+msgid "I'm not talking about what you want. I'm talking about what you need."
+msgstr ""
+
+msgctxt "240_Honoka"
+msgid "I mean none of it's particularly essential."
+msgstr ""
+
+msgctxt "252_Player"
+msgid "Oh, I see. Why don't you do whatever you feel like, then?"
+msgstr ""
+
+msgctxt "264_Honoka"
+msgid "Don't say that. I'm in a bind 'cause I can't decide what I feel like..."
+msgstr ""
+
+msgctxt "276_Player"
+msgid "Good grief."
+msgstr ""
+
+msgctxt "288_Player"
+msgid ""
+"Wait for things to get cheaper. If it's something new, put off buying it "
+"right away."
+msgstr ""
+
+msgctxt "300_Honoka"
+msgid ""
+"True. But by the time it's cheap, it'll be out of style, won't it? If I'm "
+"gonna buy it, I should do it now."
+msgstr ""
+
+msgctxt "312_Player"
+msgid "I guess that's true. So why not buy the thing that's most popular?"
+msgstr ""
+
+msgctxt "324_Honoka"
+msgid ""
+"'Cause if I wait a bit longer, maybe somethin' better will come out. So in "
+"that case, I shouldn't buy anythin' right away."
+msgstr ""
+
+msgctxt "336_Player"
+msgid ""
+"Well, yes. But with that attitude, you'll never be able to buy anything. "
+"Why not decide based on whether you want it right now or not?"
+msgstr ""
+
+msgctxt "348_Honoka"
+msgid "Huh? How am I s'posed to do that?"
+msgstr ""
+
+msgctxt "360_Player"
+msgid "How am I supposed to know? Geez, could you be any more wishy-washy?"
+msgstr ""
+
+msgctxt "372_Player"
+msgid "I could buy something for you."
+msgstr ""
+
+msgctxt "384_Honoka"
+msgid "Wow, really? That's so generous of ya, Akiyama-san!"
+msgstr ""
+
+msgctxt "396_Player"
+msgid ""
+"Just one thing now, mind you. I can't afford to get you everything you've "
+"got your eye on."
+msgstr ""
+
+msgctxt "408_Honoka"
+msgid "Now, what should I have ya get for me? I guess the most expensive thing!"
+msgstr ""
+
+msgctxt "420_Honoka"
+msgid "Oh, but if we're gonna do that, maybe we should go to a different store."
+msgstr ""
+
+msgctxt "432_Player"
+msgid "That's fine by me. But why?"
+msgstr ""
+
+msgctxt "444_Honoka"
+msgid ""
+"'Cause the stuff here's all at bargain basement prices. If yer buyin' me "
+"somethin', we should hit up someplace more expensive!"
+msgstr ""
+
+msgctxt "456_Player"
+msgid "Whatever you like, miss."
+msgstr ""
+
+msgctxt "516_Staff"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "528_Honoka"
+msgid ""
+"Ooh, I want some <Color:8>JANJAN Yakisoba Koku Sauce<Color:Default>. It's "
+"super tasty!"
+msgstr ""
+
+msgctxt "540_Player"
+msgid ""
+"(Honoka-chan wants to have some <Color:8>JANJAN Yakisoba Koku "
+"Sauce<Color:Default>.)"
+msgstr ""
+
+msgctxt "612_Staff"
+msgid "Thank you very much. Please come again."
+msgstr ""
+
+msgctxt "624_Employee"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "660_Staff"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "684_Staff"
+msgid "Thank you very much."
+msgstr ""

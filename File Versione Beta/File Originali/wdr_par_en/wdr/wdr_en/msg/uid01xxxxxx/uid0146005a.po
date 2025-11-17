@@ -1,0 +1,626 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "22920"
+msgid "Hinata"
+msgstr ""
+
+msgctxt "22924"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "22928"
+msgid "P_TLK_stand_yes"
+msgstr ""
+
+msgctxt "22932"
+msgid "P_TLK_stand_no"
+msgstr ""
+
+msgctxt "22936"
+msgid "F_SXY_TLK_stand_no"
+msgstr ""
+
+msgctxt "22940"
+msgid "F_SXY_TLK_stand_yes"
+msgstr ""
+
+msgctxt "22944"
+msgid "F_SXY_TLK_stand_smile"
+msgstr ""
+
+msgctxt "22948"
+msgid "F_SXY_TLK_stand_sync_dakiA_st"
+msgstr ""
+
+msgctxt "22952"
+msgid "P_TLK_stand_sync_dakiA_st"
+msgstr ""
+
+msgctxt "22956"
+msgid "dummy"
+msgstr ""
+
+msgctxt "22960"
+msgid "Middle-aged Man"
+msgstr ""
+
+msgctxt "22964"
+msgid "M_NML_TLK_stand_away"
+msgstr ""
+
+msgctxt "22968"
+msgid "P_TLK_stand_think"
+msgstr ""
+
+msgctxt "22972"
+msgid "M_NML_TLK_stand_smile"
+msgstr ""
+
+msgctxt "22976"
+msgid "P_TLK_stand_ase"
+msgstr ""
+
+msgctxt "22980"
+msgid "M_NML_TLK_stand_call"
+msgstr ""
+
+msgctxt "22984"
+msgid "P_TLK_stand_send"
+msgstr ""
+
+msgctxt "22988"
+msgid "M_NML_TLK_stand_no"
+msgstr ""
+
+msgctxt "22992"
+msgid "M_NML_TLK_stand_gakkari"
+msgstr ""
+
+msgctxt "22996"
+msgid "0"
+msgstr ""
+
+msgctxt "23000"
+msgid "F_SXY_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "23004"
+msgid "M_NML_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "23008"
+msgid "M_NML_TLK_stand_quest"
+msgstr ""
+
+msgctxt "23012"
+msgid "M_NML_TLK_stand_ok"
+msgstr ""
+
+msgctxt "23016"
+msgid "P_TLK_stand_surp"
+msgstr ""
+
+msgctxt "23020"
+msgid "M_NML_TLK_stand_surp"
+msgstr ""
+
+msgctxt "23024"
+msgid "M_NML_TLK_stand_angry"
+msgstr ""
+
+msgctxt "23028"
+msgid "M_NML_TLK_stand_yes"
+msgstr ""
+
+msgctxt "23032"
+msgid "M_NML_TLK_stand_info_f"
+msgstr ""
+
+msgctxt "23036"
+msgid "M_NML_TLK_stand_nobig"
+msgstr ""
+
+msgctxt "23040"
+msgid "M_NML_TLK_stand_help"
+msgstr ""
+
+msgctxt "76_Hinata"
+msgid "Hey, Kiryu-san?"
+msgstr ""
+
+msgctxt "88_Hinata"
+msgid "Why'd you do all this for me?"
+msgstr ""
+
+msgctxt "100_Kiryu"
+msgid "Is it so strange for a man to go after a girl he desires?"
+msgstr ""
+
+msgctxt "112_Hinata"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "124_Kiryu"
+msgid ""
+"Heh, sorry that was a joke. But that's what a relationship between a man "
+"and a woman is like. You don't need a reason."
+msgstr ""
+
+msgctxt "136_Hinata"
+msgid ""
+"I... I just don't know. Why am I so repulsed by the idea of doing sexual "
+"things with a guy?"
+msgstr ""
+
+msgctxt "148_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "160_Hinata"
+msgid ""
+"I thought I could ignore my feelings and just do it, if that's what it took "
+"to make my dream come true."
+msgstr ""
+
+msgctxt "172_Kiryu"
+msgid ""
+"I see. So, this wasn't about you becoming the number one girl. It was about "
+"you trying to get over your anxiety of having a sexual relationship."
+msgstr ""
+
+msgctxt "184_Hinata"
+msgid ""
+"Ugh, but I doubt anything's changed. If I had followed that guy, I bet I "
+"would've just backed out at the last moment."
+msgstr ""
+
+msgctxt "196_Hinata"
+msgid "Now, I just regret the whole thing. I'm such an idiot."
+msgstr ""
+
+msgctxt "208_Kiryu"
+msgid ""
+"Hey, come on. Let's get back to Elise. I'll go all out to make you the "
+"number one girl."
+msgstr ""
+
+msgctxt "232_Hinata"
+msgid "Oh, Kiryu-san!"
+msgstr ""
+
+msgctxt "256_Hinata"
+msgid "Not that way."
+msgstr ""
+
+msgctxt "268_Kiryu"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "280_Hinata"
+msgid ""
+"You were willing to spend five million yen to help me. Don't you think that "
+"gives you the right to spend a night with me?"
+msgstr ""
+
+msgctxt "304_Kiryu"
+msgid ""
+"I don't understand. You were just saying that you didn't want to do that "
+"sort of thing."
+msgstr ""
+
+msgctxt "316_Hinata"
+msgid ""
+"I was talking about with that other guy. Maybe with you it'll be different, "
+"Kiryu-san."
+msgstr ""
+
+msgctxt "328_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "340_Hinata"
+msgid ""
+"Right now, it's not about me becoming number one, or overcoming my fear, or "
+"anything like that."
+msgstr ""
+
+msgctxt "352_Hinata"
+msgid "Right now, all I want is to be with you, Kiryu-san. Honestly."
+msgstr ""
+
+msgctxt "364_Kiryu"
+msgid "Hinata..."
+msgstr ""
+
+msgctxt "376_Hinata"
+msgid "That's all right, isn't it?"
+msgstr ""
+
+msgctxt "388_Kiryu"
+msgid "Whatever you'd like."
+msgstr ""
+
+msgctxt "436_Middle-aged Man"
+msgid ""
+"You again? This conversation is between me and her, amigo. You can just go "
+"and butt right out!"
+msgstr ""
+
+msgctxt "448_Middle-aged Man"
+msgid "Unless you're going to tell me you've got the five million yen?"
+msgstr ""
+
+msgctxt "472_Kiryu"
+msgid "No... I do not."
+msgstr ""
+
+msgctxt "484_Middle-aged Man"
+msgid "Hahaha. Yeah, that's what I thought."
+msgstr ""
+
+msgctxt "496_Hinata"
+msgid "Kiryu-san..."
+msgstr ""
+
+msgctxt "508_Middle-aged Man"
+msgid ""
+"She wants to be the number one girl pronto, buddy. If you want to challenge "
+"me for that, you'd better run along and find that yen."
+msgstr ""
+
+msgctxt "520_Kiryu"
+msgid "Damn!"
+msgstr ""
+
+msgctxt "532_Middle-aged Man"
+msgid "Now then, Hinata-chan. Come with me."
+msgstr ""
+
+msgctxt "544_Hinata"
+msgid "......"
+msgstr ""
+
+msgctxt "556_Kiryu"
+msgid ""
+"(Nothing's going to be resolved here unless I get that money. I'll have to "
+"come back.)"
+msgstr ""
+
+msgctxt "568_Kiryu"
+msgid "You were saying? I take it there's no problem."
+msgstr ""
+
+msgctxt "580_Middle-aged Man"
+msgid "No way!"
+msgstr ""
+
+msgctxt "592_Kiryu"
+msgid "Now then, Hinata. Who's it going to be?"
+msgstr ""
+
+msgctxt "604_Hinata"
+msgid "You of course, Kiryu-san!"
+msgstr ""
+
+msgctxt "616_Middle-aged Man"
+msgid "What!"
+msgstr ""
+
+msgctxt "628_Kiryu"
+msgid "Heh."
+msgstr ""
+
+msgctxt "676_Kiryu"
+msgid "(There's Hinata. But who's that with her?)"
+msgstr ""
+
+msgctxt "688_Middle-aged Man"
+msgid "Come on now, it'll be fine. You do want to be number one, don't you?"
+msgstr ""
+
+msgctxt "700_Hinata"
+msgid "......"
+msgstr ""
+
+msgctxt "712_Middle-aged Man"
+msgid ""
+"If you spend this one night with me, I swear I'll spend three million yen "
+"on you at the club."
+msgstr ""
+
+msgctxt "724_Hinata"
+msgid "......"
+msgstr ""
+
+msgctxt "736_Kiryu"
+msgid "(This guy's a scumbag. He's trying to win Hinata over with money.)"
+msgstr ""
+
+msgctxt "748_Middle-aged Man"
+msgid "Hey, are you even listening to me?"
+msgstr ""
+
+msgctxt "760_Hinata"
+msgid "Um..."
+msgstr ""
+
+msgctxt "772_Middle-aged Man"
+msgid "So? What's it gonna be, girl?"
+msgstr ""
+
+msgctxt "784_Hinata"
+msgid "You'll... really spend three million?"
+msgstr ""
+
+msgctxt "796_Middle-aged Man"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "808_Kiryu"
+msgid "(What!?)"
+msgstr ""
+
+msgctxt "820_Middle-aged Man"
+msgid ""
+"Yeah, of course! There isn't a girl as spectacular as you in all of "
+"Kamurocho! Hell, in all of Tokyo, even!"
+msgstr ""
+
+msgctxt "832_Middle-aged Man"
+msgid ""
+"And you need my help, little lady. What kind of man would I be if I left my "
+"damsel in distress?"
+msgstr ""
+
+msgctxt "844_Hinata"
+msgid "......"
+msgstr ""
+
+msgctxt "868_Kiryu"
+msgid "Hinata."
+msgstr ""
+
+msgctxt "880_Hinata"
+msgid "Ah! Kiryu-san!"
+msgstr ""
+
+msgctxt "892_Middle-aged Man"
+msgid "Hm? Hey, who in the heck are you!?"
+msgstr ""
+
+msgctxt "904_Kiryu"
+msgid "You're not going to do what he says, are you?"
+msgstr ""
+
+msgctxt "916_Hinata"
+msgid "I..."
+msgstr ""
+
+msgctxt "928_Kiryu"
+msgid ""
+"If you've truly gotten past your fear of having a sexual relationship with "
+"a man, then I won't stop you. I have no reason to."
+msgstr ""
+
+msgctxt "940_Kiryu"
+msgid "But if you're still unable to actually open up your heart to a man, then..."
+msgstr ""
+
+msgctxt "952_Kiryu"
+msgid "This will only end in regret. You shouldn't go with him, Hinata."
+msgstr ""
+
+msgctxt "964_Hinata"
+msgid "......"
+msgstr ""
+
+msgctxt "976_Middle-aged Man"
+msgid "Hey, butt out, pal! I'm doing this to help her fulfill her dreams!"
+msgstr ""
+
+msgctxt "988_Kiryu"
+msgid "Her dreams?"
+msgstr ""
+
+msgctxt "1000_Middle-aged Man"
+msgid ""
+"She just needs to give me a night of <Italic>my</Italic> dreams first. In "
+"return, I'll drop three million on her at the club and make her number one!"
+msgstr ""
+
+msgctxt "1012_Middle-aged Man"
+msgid ""
+"Look, big guy. I'm not forcing her to do anything－the choice is all hers. "
+"Do you have some kind of problem with that?"
+msgstr ""
+
+msgctxt "1024_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "1036_Hinata"
+msgid "Kiryu-san, I..."
+msgstr ""
+
+msgctxt "1048_Kiryu"
+msgid "Hinata, tell me just one thing."
+msgstr ""
+
+msgctxt "1060_Hinata"
+msgid "Yes?"
+msgstr ""
+
+msgctxt "1072_Kiryu"
+msgid "Is your dream still to become the number one girl at Elise?"
+msgstr ""
+
+msgctxt "1084_Hinata"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "1096_Kiryu"
+msgid ""
+"And you want to make that dream come true, even if it involves letting this "
+"man do what he wants to do?"
+msgstr ""
+
+msgctxt "1108_Hinata"
+msgid "...Yes."
+msgstr ""
+
+msgctxt "1120_Kiryu"
+msgid "I see."
+msgstr ""
+
+msgctxt "1132_Middle-aged Man"
+msgid ""
+"Hahaha! I knew you'd see things my way. Now that's what I call a successful "
+"negotiation."
+msgstr ""
+
+msgctxt "1144_Hinata"
+msgid "......"
+msgstr ""
+
+msgctxt "1156_Middle-aged Man"
+msgid ""
+"Don't feel bad, chief. You need money if you're going to make a hostess "
+"happy."
+msgstr ""
+
+msgctxt "1168_Middle-aged Man"
+msgid ""
+"And if you don't like that, well, you'll just have to come up with some "
+"serious dough like me."
+msgstr ""
+
+msgctxt "1180_Kiryu"
+msgid "You misunderstood me. I wasn't accepting defeat."
+msgstr ""
+
+msgctxt "1192_Hinata"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "1204_Middle-aged Man"
+msgid "Eh!?"
+msgstr ""
+
+msgctxt "1216_Kiryu"
+msgid ""
+"You're right about one thing. It is going to take money to make Hinata's "
+"dream come true."
+msgstr ""
+
+msgctxt "1228_Kiryu"
+msgid ""
+"Which means that if I can pay more than you can, Hinata has no reason to go "
+"along with you."
+msgstr ""
+
+msgctxt "1240_Hinata"
+msgid "Kiryu-san!"
+msgstr ""
+
+msgctxt "1252_Middle-aged Man"
+msgid ""
+"Get real, you poser! If you really had more money than me, you'd need to "
+"cough up at least <Color:255,200,200,255>five million yen<Color:Default>!"
+msgstr ""
+
+msgctxt "1264_Middle-aged Man"
+msgid ""
+"Besides, we've already made an agreement. You can't just waltz in after the "
+"fact and take her for yourself!"
+msgstr ""
+
+msgctxt "1276_Kiryu"
+msgid "The choice is Hinata's to make. You even said so yourself."
+msgstr ""
+
+msgctxt "1288_Middle-aged Man"
+msgid "Gah!"
+msgstr ""
+
+msgctxt "1300_Kiryu"
+msgid "So what'll it be, Hinata? I want to hear your answer."
+msgstr ""
+
+msgctxt "1312_Hinata"
+msgid "......"
+msgstr ""
+
+msgctxt "1324_Middle-aged Man"
+msgid "Hold up there, big boy! You really have five million on you? Let me see it!"
+msgstr ""
+
+msgctxt "1348_Kiryu"
+msgid "Well, I don't have it on me right now."
+msgstr ""
+
+msgctxt "1360_Middle-aged Man"
+msgid "Hahaha. Yeah, that's what I thought."
+msgstr ""
+
+msgctxt "1372_Hinata"
+msgid "Kiryu-san..."
+msgstr ""
+
+msgctxt "1384_Middle-aged Man"
+msgid ""
+"She wants to be the number one girl pronto, buddy. If you want to challenge "
+"me for that, you'd better run along and find that yen."
+msgstr ""
+
+msgctxt "1396_Kiryu"
+msgid "Damn!"
+msgstr ""
+
+msgctxt "1408_Middle-aged Man"
+msgid "Now then, Hinata-chan. Come with me."
+msgstr ""
+
+msgctxt "1420_Hinata"
+msgid "......"
+msgstr ""
+
+msgctxt "1432_Kiryu"
+msgid ""
+"(Nothing's going to be resolved here unless I get that money. I'll have to "
+"come back.)"
+msgstr ""
+
+msgctxt "1444_Kiryu"
+msgid "You were saying? I take it there's no problem."
+msgstr ""
+
+msgctxt "1456_Middle-aged Man"
+msgid "No way!"
+msgstr ""
+
+msgctxt "1468_Kiryu"
+msgid "Now then, Hinata. Who's it going to be?"
+msgstr ""
+
+msgctxt "1480_Hinata"
+msgid "You of course, Kiryu-san!"
+msgstr ""
+
+msgctxt "1492_Middle-aged Man"
+msgid "Ugh!"
+msgstr ""
+
+msgctxt "1504_Kiryu"
+msgid "Heh."
+msgstr ""

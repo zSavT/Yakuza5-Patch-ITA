@@ -1,0 +1,45 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-25\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "209\tSHOP_NAME"
+msgid "D World"
+msgstr "D Mondo"
+
+msgctxt "217\tSHOP_NAME"
+msgid "Import.net"
+msgstr "Import.net"
+
+msgctxt "228\tSHOP_NAME"
+msgid "Sportsman Web"
+msgstr "Sportivo Web"
+
+msgctxt "242\tSHOP_NAME"
+msgid "M Store Online"
+msgstr "M Negozio Online"
+
+msgctxt "257\tSHOP_EXPLANATION"
+msgid "Order CDs online!"
+msgstr "Ordina i CD online!"
+
+msgctxt "275\tSHOP_EXPLANATION"
+msgid "An online store for imported goods."
+msgstr "Un negozio online di articoli importati."
+
+msgctxt "311\tSHOP_EXPLANATION"
+msgid "For all your sporting goods."
+msgstr "Tutto per lo sport."
+
+msgctxt "340\tSHOP_EXPLANATION"
+msgid "Get your M Store products delivered!"
+msgstr "Fatti consegnare a domicilio i prodotti M Store!"

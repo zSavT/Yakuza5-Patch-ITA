@@ -1,0 +1,251 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "9900"
+msgid "Barkeep"
+msgstr "Barista"
+
+msgctxt "9904"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "9908"
+msgid "Honoka"
+msgstr "Honoka"
+
+msgctxt "9912"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "9916"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "9920"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "9924"
+msgid "Did you see a dance instructor?"
+msgstr "Hai visto un istruttore di danza?"
+
+msgctxt "9928"
+msgid "Did you see a flashy, tanned man?"
+msgstr "Hai visto un uomo appariscente e abbronzato?"
+
+msgctxt "9932"
+msgid "Have you seen a Christina?"
+msgstr "Ha visto Christina?"
+
+msgctxt "9936"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "9940"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "9944"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "92_Barkeep"
+msgid "Welcome."
+msgstr "Benvenuto."
+
+msgctxt "104_Honoka"
+msgid "I'd like some <Color:8>Ballantine's 30 Years<Color:Default>."
+msgstr "Vorrei un <Color:8>Ballantine's 30 Years<Color:Default>."
+
+msgctxt "116_Player"
+msgid ""
+"(Honoka-chan wants to drink some <Color:8>Ballantine's 30 "
+"Years<Color:Default>.)"
+msgstr ""
+"(Honoka-chan vuole bere del <Color:8>Ballantine's 30 Years<Color:Default>.)"
+
+msgctxt "188_Honoka"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "248_Honoka"
+msgid "Thanks for the drink!"
+msgstr "Grazie per il drink!"
+
+msgctxt "260_Barkeep"
+msgid "Please come again anytime."
+msgstr "Torni pure quando vuole."
+
+msgctxt "284_Barkeep"
+msgid "I see. We hope you'll come by again."
+msgstr "Capisco. Speriamo che tornerai a trovarci."
+
+msgctxt "320_Barkeep"
+msgid ""
+"You're underage, aren't you, miss? I'm sorry, but I can't serve you alcohol."
+msgstr ""
+"Sei minorenne, giusto, signorina? Mi dispiace, ma non posso servirti alcol."
+
+msgctxt "332_Haruka"
+msgid ""
+"I'm sorry to bother you. I'm actually looking for someone, and I think they "
+"may have been here."
+msgstr ""
+"Mi scusi il disturbo. In realtà sto cercando qualcuno, e penso che "
+"potrebbero essere stati qui."
+
+msgctxt "344_Haruka"
+msgid "(How should I ask him about Christina-san?)"
+msgstr "(Come dovrei chiedergli di Christina-san?)"
+
+msgctxt "356_Haruka"
+msgid "Did you see someone who looked like a dance instructor?"
+msgstr "Hai visto in giro qualcuno che pareva un istruttore di ballo?"
+
+msgctxt "368_Barkeep"
+msgid "A dance instructor? I'm not sure I'd know one if I saw one."
+msgstr ""
+"Un istruttore di ballo? Non saprei mica riconoscerne uno, nemmeno se me lo "
+"trovassi davanti."
+
+msgctxt "380_Haruka"
+msgid "Um, I'm sorry. That was too vague, wasn't it?"
+msgstr "Ehm, scusa. Era troppo vago, vero?"
+
+msgctxt "392_Haruka"
+msgid ""
+"(Maybe I just asked the wrong question. What if I tried asking a different "
+"way?)"
+msgstr ""
+"(Forse ho fatto la domanda sbagliata. E se provassi a chiedere in un altro "
+"modo?)"
+
+msgctxt "416_Haruka"
+msgid "Have you seen someone who looked like a Christina?"
+msgstr "Hai visto qualcuno che sembrava una Christina?"
+
+msgctxt "428_Barkeep"
+msgid "How am I supposed to know someone's name just from looking at them?"
+msgstr "Come faccio a sapere il nome di qualcuno solo a guardarlo?"
+
+msgctxt "440_Haruka"
+msgid "I... I guess you're right. I'm sorry."
+msgstr "Io... suppongo tu abbia ragione. Mi dispiace."
+
+msgctxt "452_Haruka"
+msgid "(I should have said something more specific! Haruka, you idiot.)"
+msgstr "(Avrei dovuto essere più specifica! Haruka, sei un'idiota.)"
+
+msgctxt "464_Haruka"
+msgid ""
+"(Maybe I just asked the wrong question. What if I tried asking a different "
+"way?)"
+msgstr ""
+"(Forse ho fatto la domanda sbagliata. E se provassi a chiedere in un altro "
+"modo?)"
+
+msgctxt "488_Haruka"
+msgid "Was there a man here that was really tanned and dressed all flashy?"
+msgstr "C'è stato qui un tipo, molto abbronzato e vestito tutto vistoso?"
+
+msgctxt "500_Barkeep"
+msgid "Oh, that guy? Yeah, he was here a little while ago."
+msgstr "Oh, quel tizio? Sì, era qui poco fa."
+
+msgctxt "512_Haruka"
+msgid "Really!?"
+msgstr "Davvero!?"
+
+msgctxt "524_Barkeep"
+msgid "He said he drank too much, so maybe he went to go sober up somewhere."
+msgstr ""
+"Ha detto che ha bevuto troppo, quindi magari è andato a smaltire la sbronza "
+"da qualche parte."
+
+msgctxt "536_Haruka"
+msgid "Thank you so much! I'll be on my way!"
+msgstr "Grazie mille! Mi avvio!"
+
+msgctxt "560_Barkeep"
+msgid ""
+"You're underage, aren't you, miss? I'm sorry, but I can't serve you alcohol."
+msgstr ""
+"Sei minorenne, giusto, signorina? Mi dispiace, ma non posso servirti alcol."
+
+msgctxt "584_Barkeep"
+msgid "Welcome. Would you care for something to drink?"
+msgstr "Benvenuto. Desidera qualcosa da bere?"
+
+msgctxt "668_Barkeep"
+msgid "Sir, I think you've had enough. You may want to take it easy."
+msgstr ""
+"Signore, credo che ne abbia avuto abbastanza. Farebbe bene a darsi una "
+"calmata."
+
+msgctxt "680_Barkeep"
+msgid "Care for another round, sir?"
+msgstr "Vuole un altro giro, signore?"
+
+msgctxt "692_Barkeep"
+msgid ""
+"I'm not sure if you are aware, sir, but word is that nonalcoholic cocktails "
+"are selling like hotcakes nowadays."
+msgstr ""
+"Non so se lo sapete, signore, ma corre voce che i cocktail analcolici vanno "
+"a ruba al giorno d'oggi."
+
+msgctxt "704_Player"
+msgid "What? Cocktails without alcohol?"
+msgstr "Cosa? Cocktail senza alcol?"
+
+msgctxt "716_Barkeep"
+msgid ""
+"Yes. Not only do they not have alcohol, but they also have zero calories and"
+" are sugar-free."
+msgstr ""
+"Sì. Non solo non contengono alcol, ma sono anche a zero calorie e senza "
+"zucchero."
+
+msgctxt "728_Player"
+msgid "Sounds almost too good to be true."
+msgstr "Sembra quasi troppo bello per essere vero."
+
+msgctxt "740_Barkeep"
+msgid ""
+"Unlike normal cocktails, you can drink as much as you want and not get drunk"
+" or put on weight. They're perfect for a lady's night out."
+msgstr ""
+"A differenza dei normali cocktail, ne puoi bere a volontà senza sbronzarti "
+"né ingrassare. Sono perfetti per una serata tra ragazze."
+
+msgctxt "752_Barkeep"
+msgid ""
+"They're also good for people who don't have a high alcohol tolerance, so "
+"they can still enjoy cocktails."
+msgstr ""
+"Sono ottimi anche per chi non ha la testa da bere, così possono godersi lo "
+"stesso i cocktail."
+
+msgctxt "764_Player"
+msgid ""
+"(Non-alcoholic cocktails, huh? I could talk about that at the cabaret club.)"
+msgstr "(Cocktail analcolici, eh? Potrei parlarne al cabaret club.)"
+
+msgctxt "776_Barkeep"
+msgid "Very well."
+msgstr "Molto bene."
+
+msgctxt "788_Barkeep"
+msgid "Please come again anytime."
+msgstr "Torni pure quando vuole."

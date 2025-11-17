@@ -1,0 +1,285 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-25\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1819\tPOPUP"
+msgid "Hey there."
+msgstr "Ciao."
+
+msgctxt "1830\tPOPUP"
+msgid "See ya."
+msgstr "Ci si vede."
+
+msgctxt "1838\tPOPUP"
+msgid "Let's play."
+msgstr "Giochiamo."
+
+msgctxt "1850\tPOPUP"
+msgid "Oh, yeah!"
+msgstr "Oh, sì!"
+
+msgctxt "1860\tPOPUP"
+msgid "Bah!"
+msgstr "Bah!"
+
+msgctxt "1865\tPOPUP"
+msgid "I won."
+msgstr "Ho vinto."
+
+msgctxt "1872\tPOPUP"
+msgid "Lost that one."
+msgstr "Persa questa."
+
+msgctxt "1887\tPOPUP"
+msgid "dealer_throw"
+msgstr "dealer_throw"
+
+msgctxt "1900\tPOPUP"
+msgid "Sitting this one out."
+msgstr "Salto questo giro."
+
+msgctxt "1922\tPOPUP"
+msgid "This is a sure bet!"
+msgstr "Questa è una botta sicura!"
+
+msgctxt "1942\tPOPUP"
+msgid "I'll go with this!"
+msgstr "Vado con questo!"
+
+msgctxt "1961\tPOPUP"
+msgid "no_more_bet"
+msgstr "no_more_bet"
+
+msgctxt "1973\tPOPUP"
+msgid "Hello."
+msgstr "Salve."
+
+msgctxt "1980\tPOPUP"
+msgid "Goodbye."
+msgstr "Addio."
+
+msgctxt "1989\tPOPUP"
+msgid "Let's play."
+msgstr "Giochiamo."
+
+msgctxt "2001\tPOPUP"
+msgid "I won."
+msgstr "Ho vinto."
+
+msgctxt "2008\tPOPUP"
+msgid "I lost..."
+msgstr "Ho perso..."
+
+msgctxt "2018\tPOPUP"
+msgid "dealer_throw"
+msgstr "dealer_throw"
+
+msgctxt "2031\tPOPUP"
+msgid "Here's my bet."
+msgstr "Ecco la mia puntata."
+
+msgctxt "2046\tPOPUP"
+msgid "How about this?"
+msgstr "Che ne dici di questo?"
+
+msgctxt "2062\tPOPUP"
+msgid "Here goes!"
+msgstr "Si parte!"
+
+msgctxt "2073\tPOPUP"
+msgid "Time to spin!"
+msgstr "È ora di girare!"
+
+msgctxt "2087\tPOPUP"
+msgid "That's quite a bet, <!--Name-->-san."
+msgstr "È una bella puntata, <!--Name-->-san."
+
+msgctxt "2124\tPOPUP"
+msgid "You should try again, <!--Name-->-san."
+msgstr "Dovresti riprovare, <!--Name-->-san."
+
+msgctxt "2163\tPOPUP"
+msgid "Wassup!"
+msgstr "Bella!"
+
+msgctxt "2171\tPOPUP"
+msgid "I'm outta here."
+msgstr "Me ne vado."
+
+msgctxt "2187\tPOPUP"
+msgid "Game on!"
+msgstr "Si gioca!"
+
+msgctxt "2196\tPOPUP"
+msgid "Booyah!"
+msgstr "Evvai!"
+
+msgctxt "2204\tPOPUP"
+msgid "Argh!"
+msgstr "Argh!"
+
+msgctxt "2210\tPOPUP"
+msgid "I won, man!"
+msgstr "Ho vinto, compare!"
+
+msgctxt "2222\tPOPUP"
+msgid "Man, I lost..."
+msgstr "Mannaggia, ho perso..."
+
+msgctxt "2237\tPOPUP"
+msgid "dealer_throw"
+msgstr "dealer_throw"
+
+msgctxt "2250\tPOPUP"
+msgid "Meh..."
+msgstr "Mah..."
+
+msgctxt "2257\tPOPUP"
+msgid "Right here!"
+msgstr "Proprio qui!"
+
+msgctxt "2269\tPOPUP"
+msgid "I'm going with this."
+msgstr "Ci vado con questo."
+
+msgctxt "2290\tPOPUP"
+msgid "no_more_bet"
+msgstr "no_more_bet"
+
+msgctxt "2302\tPOPUP"
+msgid "Shall we begin?"
+msgstr "Iniziamo?"
+
+msgctxt "2318\tPOPUP"
+msgid "Farewell."
+msgstr "Addio."
+
+msgctxt "2328\tPOPUP"
+msgid "Here we go."
+msgstr "Eccoci qua."
+
+msgctxt "2340\tPOPUP"
+msgid "Yes!"
+msgstr "Sì!"
+
+msgctxt "2345\tPOPUP"
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgctxt "2352\tPOPUP"
+msgid "Victory!"
+msgstr "Vittoria!"
+
+msgctxt "2361\tPOPUP"
+msgid "Defeat..."
+msgstr "Sconfitta..."
+
+msgctxt "2371\tPOPUP"
+msgid "dealer_throw"
+msgstr "dealer_throw"
+
+msgctxt "2384\tPOPUP"
+msgid "I'll sit this one out."
+msgstr "Stavolta passo."
+
+msgctxt "2407\tPOPUP"
+msgid "This is the one!"
+msgstr "È questa!"
+
+msgctxt "2424\tPOPUP"
+msgid "Here's my wager."
+msgstr "Ecco la mia puntata."
+
+msgctxt "2441\tPOPUP"
+msgid "no_more_bet"
+msgstr "no_more_bet"
+
+msgctxt "2453\tPOPUP"
+msgid "Let's get started."
+msgstr "Iniziamo."
+
+msgctxt "2472\tPOPUP"
+msgid "Hmph."
+msgstr "Hmph."
+
+msgctxt "2478\tPOPUP"
+msgid "Okay, let's go."
+msgstr "Ok, andiamo."
+
+msgctxt "2494\tPOPUP"
+msgid "That's how it goes."
+msgstr "Va così."
+
+msgctxt "2514\tPOPUP"
+msgid "What the...?"
+msgstr "Ma che...?"
+
+msgctxt "2527\tPOPUP"
+msgid "dealer_throw"
+msgstr "dealer_throw"
+
+msgctxt "2540\tPOPUP"
+msgid "Now, here's my bet."
+msgstr "Ora, ecco la mia puntata."
+
+msgctxt "2560\tPOPUP"
+msgid "This game's on!"
+msgstr "Si gioca!"
+
+msgctxt "2576\tPOPUP"
+msgid "Let's play!"
+msgstr "Giochiamo!"
+
+msgctxt "2588\tPOPUP"
+msgid "I'm leaving!"
+msgstr "Me ne vado!"
+
+msgctxt "2601\tPOPUP"
+msgid "Here goes!"
+msgstr "Si parte!"
+
+msgctxt "2612\tPOPUP"
+msgid "Yeah!"
+msgstr "Sì!"
+
+msgctxt "2618\tPOPUP"
+msgid "Tsk!"
+msgstr "Accidenti!"
+
+msgctxt "2623\tPOPUP"
+msgid "Sweet!"
+msgstr "Che bello!"
+
+msgctxt "2630\tPOPUP"
+msgid "Boo!"
+msgstr "Bu!"
+
+msgctxt "2635\tPOPUP"
+msgid "dealer_throw"
+msgstr "dealer_throw"
+
+msgctxt "2648\tPOPUP"
+msgid "I'll bet next time."
+msgstr "Scommetto la prossima volta."
+
+msgctxt "2668\tPOPUP"
+msgid "Come on!"
+msgstr "Forza!"
+
+msgctxt "2677\tPOPUP"
+msgid "That should do it."
+msgstr "Dovrebbe bastare."
+
+msgctxt "2696\tPOPUP"
+msgid "no_more_bet"
+msgstr "no_more_bet"
