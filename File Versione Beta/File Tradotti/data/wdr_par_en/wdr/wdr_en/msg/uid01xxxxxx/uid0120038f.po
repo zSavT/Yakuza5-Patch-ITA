@@ -1,0 +1,51 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1096"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "1100"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "1104"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1108"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "1112"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "136_Haruka"
+msgid "Thank you, Uncle Kaz! I'll treasure it!"
+msgstr "Grazie, Zio Kaz! Ne farò tesoro!"
+
+msgctxt "160_Haruka"
+msgid "Aw. What a shame. Well, try again some time, okay?"
+msgstr "Ah. Che peccato. Beh, riprova un'altra volta, ok?"
+
+msgctxt "184_Haruka"
+msgid "Oh, look! A <Color:8>Jumbo Bun-chan<Color:Default>!"
+msgstr "Oh, guarda! Un <Color:8>Jumbo Bun-chan<Color:Default>!"
+
+msgctxt "196_Kiryu"
+msgid ""
+"(Hmm. Looks like Haruka wants a <Color:8>Jumbo Bun-chan<Color:Default>.)"
+msgstr ""
+"(Mmm. Sembra che Haruka voglia un <Color:8>Jumbo Bun-chan<Color:Default>.)"

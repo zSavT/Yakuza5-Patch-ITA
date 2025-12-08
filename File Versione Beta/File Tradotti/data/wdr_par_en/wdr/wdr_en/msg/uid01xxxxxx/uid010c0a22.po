@@ -1,0 +1,288 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "156"
+msgid "You got some <Color:8>Pocket Tissues<Color:Default>."
+msgstr "Hai preso dei <Color:8>fazzoletti di carta<Color:Default>."
+
+msgctxt "456"
+msgid "You got 500 experience points."
+msgstr "Hai ottenuto 500 punti esperienza."
+
+msgctxt "9992"
+msgid "Takeshita"
+msgstr "Takeshita"
+
+msgctxt "9996"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "10000"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "10004"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "10008"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "10012"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "10016"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "10020"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "10024"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "10028"
+msgid "Talk_Get"
+msgstr "Talk_Get"
+
+msgctxt "10032"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "10036"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "10040"
+msgid "SS4_M_NML_TLK_stand_shame_lp"
+msgstr "SS4_M_NML_TLK_stand_shame_lp"
+
+msgctxt "10044"
+msgid "SS4_M_NML_TLK_stand_shame_st"
+msgstr "SS4_M_NML_TLK_stand_shame_st"
+
+msgctxt "10048"
+msgid "Hyped Man"
+msgstr "Il tipo gasato"
+
+msgctxt "10052"
+msgid "SS4_M_NML_TLK_stand_shame_en"
+msgstr "SS4_M_NML_TLK_stand_shame_en"
+
+msgctxt "10056"
+msgid "Kotetsu"
+msgstr "Kotetsu"
+
+msgctxt "10060"
+msgid "ACYAM0101"
+msgstr "ACYAM0101"
+
+msgctxt "10064"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "10068"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "10072"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "10076"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "60_Takeshita"
+msgid ""
+"I don't get it. How did you do that so easily? It's like you read my every "
+"move... Agh, I'm a terrible pitcher!"
+msgstr ""
+"Non ci arrivo. Come hai fatto così facilmente? È come se avessi letto ogni "
+"mia mossa... Agh, faccio schifo come lanciatore!"
+
+msgctxt "72_Shinada"
+msgid ""
+"(His pitching's really not that great, but he doesn't have to get so down on"
+" himself...)"
+msgstr "(Il suo lancio non è un granché, ma non deve buttarsi giù così...)"
+
+msgctxt "84_Shinada"
+msgid "Uh, well, I thought your pitching was stellar. Maybe I just got lucky."
+msgstr ""
+"Uh, beh, pensavo che il tuo lancio fosse eccezionale. Magari sono stato solo"
+" fortunato."
+
+msgctxt "96_Takeshita"
+msgid "You think so!?"
+msgstr "Davvero!?"
+
+msgctxt "108_Shinada"
+msgid "Oh, yeah. Like you said, these pitching machines got nothing on you."
+msgstr ""
+"Oh, sì. Come hai detto, queste macchine lanciapalle non ti fanno un baffo."
+
+msgctxt "120_Takeshita"
+msgid "Awesome! I knew it, my pitching is special. Welp, bye and thank you!"
+msgstr "Fantastico! Lo sapevo, il mio lancio è speciale. Beh, ciao e grazie!"
+
+msgctxt "132_Shinada"
+msgid "Hey, not so fast! Where's my spectacular reward?"
+msgstr "Ehi, non così in fretta! Dov'è la mia ricompensa spettacolare?"
+
+msgctxt "144_Takeshita"
+msgid "Oh. Um... How's this?"
+msgstr "Oh. Ehm... che ne dici?"
+
+msgctxt "180_Takeshita"
+msgid "What about this is spectacular!?"
+msgstr "Cosa c'è di spettacolare in questo!?"
+
+msgctxt "192_Takeshita"
+msgid "Okay, I have to go! Please let me challenge you again!"
+msgstr "Ok, devo scappare! Ti prego, fammi sfidare di nuovo!"
+
+msgctxt "204_Takeshita"
+msgid "(...Hell no.)"
+msgstr "(...Col cavolo.)"
+
+msgctxt "228_Takeshita"
+msgid "Ka-shunk!"
+msgstr "Ka-shunk!"
+
+msgctxt "240_Shinada"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "252_Shinada"
+msgid "What's the big idea, taking my picture like that?"
+msgstr "Che ti salta in mente, a farmi foto così?"
+
+msgctxt "264_Hyped Man"
+msgid ""
+"Wicked mystery batter appears at the batting center! Challengers wanted! "
+"Share if you like this content!"
+msgstr ""
+"Un fenomenale battitore misterioso appare al centro di battuta! Cercasi "
+"sfidanti! Condividi se ti piace questo contenuto!"
+
+msgctxt "276_Shinada"
+msgid "Hey, are you listening?"
+msgstr "Ehi, mi stai ascoltando?"
+
+msgctxt "288_Takeshita"
+msgid "Oops, sorry! Didn't mean to ignore. I'm Kotetsu, the blogger."
+msgstr "Ops, scusa! Non volevo ignorarti. Sono Kotetsu, il blogger."
+
+msgctxt "300_Shinada"
+msgid "You blog on that flip phone?"
+msgstr "Blogghi su quel telefonino a conchiglia?"
+
+msgctxt "312_Kotetsu"
+msgid ""
+"Sure do. I blog about basically anything baseball. Got me some mad page "
+"views, my boy!"
+msgstr ""
+"Certo che sì. Bloggo praticamente di ogni cosa sul baseball. Ho un botto di "
+"visualizzazioni, ragazzo!"
+
+msgctxt "324_Shinada"
+msgid ""
+"Okay. So what makes a blogger take a photo of me? Unwarranted, might I add."
+msgstr ""
+"Allora. Che gli salta in mente a un blogger di farmi una foto? E, per "
+"inciso, senza alcun motivo."
+
+msgctxt "336_Kotetsu"
+msgid ""
+"Because your batting is supernatural, man! I wanted everyone to know, so "
+"naturally I snapped a sick still life and posted you up online."
+msgstr ""
+"Perché la tua battuta è sovrannaturale, ragazzo! Volevo che tutti lo "
+"sapessero, così, naturalmente, ho scattato uno scatto da urlo e ti ho "
+"pubblicato online."
+
+msgctxt "348_Shinada"
+msgid ""
+"Wait, my face is on the internet now!? You gotta be kidding me! Not cool, "
+"man!"
+msgstr ""
+"Aspetta, la mia faccia è finita su internet adesso!? Ma stai scherzando!? "
+"Non è giusto, ragazzo!"
+
+msgctxt "360_Kotetsu"
+msgid ""
+"What, I don't see any problem. It's not costing you anything. I might even "
+"compensate you someday."
+msgstr ""
+"Che, non vedo alcun problema. Non ti sta costando niente. Magari un giorno "
+"ti ricompenserò pure."
+
+msgctxt "372_Shinada"
+msgid "Look, you can't just－"
+msgstr "Senti, non puoi mica—"
+
+msgctxt "384_Kotetsu"
+msgid ""
+"Incidentally, lots of big baseball people read my blog. You may be getting "
+"challenges from some of them."
+msgstr ""
+"Tra l'altro, un sacco di pezzi grossi del baseball leggono il mio blog. "
+"Potresti ricevere delle sfide da alcuni di loro."
+
+msgctxt "396_Shinada"
+msgid "Aww, come on. That just sounds like a pain in the ass."
+msgstr "Ma dai! Quella mi sembra proprio una rottura di scatole."
+
+msgctxt "408_Kotetsu"
+msgid ""
+"Goodness, would you look at the time? Gotta run! See you at the cages again!"
+msgstr ""
+"Accidenti, hai visto che ore sono? Devo scappare! Ci vediamo di nuovo alle "
+"gabbie!"
+
+msgctxt "432_Takeshita"
+msgid "(What is with that guy? I got a bad feeling about this...)"
+msgstr "(Ma che ha quel tipo? Ho un brutto presentimento su questa storia...)"
+
+msgctxt "504_Takeshita"
+msgid "There! I did it. I knew I'm the greatest!"
+msgstr "Ecco! Ce l'ho fatta. Sapevo di essere il migliore!"
+
+msgctxt "516_Takeshita"
+msgid ""
+"Oh, but you are a wicked batter. The way you stand in the box－it was really "
+"intimidating!"
+msgstr ""
+"Oh, ma sei un battitore micidiale. Il modo in cui stai nel box—era davvero "
+"intimidatorio!"
+
+msgctxt "528_Takeshita"
+msgid ""
+"Let's have a rematch sometime, so you can get that spectacular reward! Bye!"
+msgstr ""
+"Dai, facciamo una rivincita un'altra volta, così ti becchi quella ricompensa"
+" spettacolare! Ciao!"
+
+msgctxt "540_Shinada"
+msgid ""
+"(Oh, boy. I have to see this guy again? I am curious about that spectacular "
+"reward, though.)"
+msgstr ""
+"(Uffa. Devo rivedere questo tipo? Però sono curioso di quella ricompensa "
+"spettacolare.)"

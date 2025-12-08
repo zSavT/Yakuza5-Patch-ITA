@@ -1,0 +1,119 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "3056"
+msgid "Passenger"
+msgstr "Passeggero"
+
+msgctxt "3060"
+msgid "Grandma on a Mission"
+msgstr "Nonna in missione"
+
+msgctxt "3064"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "3068"
+msgid "○Want to take the wheel yourself?"
+msgstr "○Vuoi guidare tu?"
+
+msgctxt "3072"
+msgid "△I'll do everything I can."
+msgstr "△Farò il possibile."
+
+msgctxt "3076"
+msgid "□I'll put the pedal to the metal."
+msgstr "□Andrò a tavoletta."
+
+msgctxt "3080"
+msgid "○Relax, everything will be fine."
+msgstr "○Stia tranquilla, andrà tutto bene."
+
+msgctxt "3084"
+msgid "△You might as well give up, then."
+msgstr "△Tanto vale che si arrenda, allora."
+
+msgctxt "3088"
+msgid "□Want to stop here?"
+msgstr "□Vuole fermarsi qui?"
+
+msgctxt "108_Passenger"
+msgid "Grr! I told you I was in a hurry! That's it. I'm just going to walk."
+msgstr ""
+"Grrr! Le avevo detto che avevo fretta! Basta così. Vado a piedi e basta."
+
+msgctxt "120_Grandma on a Mission"
+msgid "You're an awful driver! No way I'm riding in a death taxi like this!"
+msgstr ""
+"Sei un guidatore di merda! Col cavolo che mi faccio portare in un taxi della"
+" morte come questo!"
+
+msgctxt "132_Grandma on a Mission"
+msgid "Just get me there on the double!"
+msgstr "Portami lì, e sbrigati!"
+
+msgctxt "144_Grandma on a Mission"
+msgid "I can't afford to be late today."
+msgstr "Non posso assolutamente fare tardi oggi."
+
+msgctxt "168_Passenger"
+msgid "What are you talking about? Driving's your job."
+msgstr "Ma cosa sta dicendo? Guidare è il suo lavoro."
+
+msgctxt "180_Passenger"
+msgid "Great! That's reassuring!"
+msgstr "Ottimo! Questo mi rassicura!"
+
+msgctxt "192_Passenger"
+msgid "Thanks! But do drive carefully. I wouldn't want you to crash."
+msgstr ""
+"Grazie! Ma mi raccomando, guidi con attenzione. Non vorrei che facesse un "
+"incidente."
+
+msgctxt "204_Passenger"
+msgid "Hello? You listening?"
+msgstr "Senta? Mi sta ascoltando?"
+
+msgctxt "216_Grandma on a Mission"
+msgid ""
+"Today is my grandson's birthday. I wanted to look my best, but ending up "
+"taking too long to get ready."
+msgstr ""
+"Oggi è il compleanno di mio nipote. Volevo apparire al meglio, ma alla fine "
+"ci ho messo troppo a prepararmi."
+
+msgctxt "228_Grandma on a Mission"
+msgid ""
+"Oh, I got a text from my grandson. He says they're going to start without "
+"me! This is a disaster!"
+msgstr ""
+"Oh, ho ricevuto un messaggio da mio nipote. Ha detto che inizieranno senza "
+"di me! È un disastro!"
+
+msgctxt "252_Passenger"
+msgid "Really? Well, I'm in your hands now. Let's not waste any time!"
+msgstr "Davvero? Beh, ora sono nelle sue mani. Sbrigamoci!"
+
+msgctxt "264_Passenger"
+msgid "Give up? How could you say that? Just hurry up and get me there!"
+msgstr "Mollare? Ma come le salta in mente? Si sbrighi e mi ci porti!"
+
+msgctxt "276_Passenger"
+msgid ""
+"And what good would that do? Ugh, just hurry up and get me there already!"
+msgstr "E a che pro? Ugh, si sbrighi e mi ci porti!"
+
+msgctxt "288_Passenger"
+msgid "Are you ignoring me!? Come on, step on it!"
+msgstr "Mi sta ignorando!? Dai, si sbrighi!"

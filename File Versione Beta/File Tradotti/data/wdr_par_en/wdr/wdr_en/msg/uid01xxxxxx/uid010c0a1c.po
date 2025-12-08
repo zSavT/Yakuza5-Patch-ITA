@@ -1,0 +1,234 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "7684"
+msgid "Excitable Man"
+msgstr "Un Esaltato"
+
+msgctxt "7688"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "7692"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "7696"
+msgid "Takeshita"
+msgstr "Takeshita"
+
+msgctxt "7700"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "7704"
+msgid "Excited Voice"
+msgstr "Voce Esaltata"
+
+msgctxt "7708"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "7712"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "7716"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "7720"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "7724"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "7728"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "7732"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "7736"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "72_Excitable Man"
+msgid ""
+"Hello! We meet again. It's me, Takeshita, the pitching genius. I'm back for "
+"another challenge!"
+msgstr ""
+"Ehilà! Ci rivediamo. Sono io, Takeshita, il genio del lancio. Sono tornato "
+"per un'altra sfida!"
+
+msgctxt "84_Shinada"
+msgid ""
+"Oh, right. You throw ten pitches, right? If I get even one hit off you..."
+msgstr ""
+"Ah, giusto. Lanci dieci palle, vero? Se ti batto anche solo una palla..."
+
+msgctxt "96_Takeshita"
+msgid ""
+"You win a spectacular reward! But I'm going to shut you down again anyway."
+msgstr "Vinci una ricompensa spettacolare! Ma ti bloccherò di nuovo comunque."
+
+msgctxt "120_Excited Voice"
+msgid "Uhhh, excuse me! You, there! Yes, you!"
+msgstr "Ehm... scusa! Ehi, tu! Sì, proprio tu!"
+
+msgctxt "132_Shinada"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "144_Excitable Man"
+msgid ""
+"Hot diggity dog, it <Italic>is</Italic> you! Boy, I've been looking all over"
+" for you!"
+msgstr ""
+"Porca miseria, sei <Italic>proprio</Italic> tu! Amico, ti ho cercato "
+"dappertutto!"
+
+msgctxt "156_Shinada"
+msgid ""
+"And you are...? Oh wait, do I owe you money? Sorry, but I'm all tapped out "
+"at the moment."
+msgstr ""
+"E tu chi saresti...? Ah, aspetta, ti devo dei soldi? Scusa, ma al momento "
+"sono completamente al verde."
+
+msgctxt "168_Excitable Man"
+msgid ""
+"Pardon? What's all this about money? I don't recall lending you anything."
+msgstr ""
+"Scusa? Che storia è questa dei soldi? Non ricordo di averti prestato nulla."
+
+msgctxt "180_Shinada"
+msgid "Oh, for real? Then who are you?"
+msgstr "Ah, davvero? E allora chi saresti?"
+
+msgctxt "192_Excitable Man"
+msgid ""
+"My name's Takeshita. I've seen you bat here before, and lemme tell ya, "
+"you're a monster in disguise!"
+msgstr ""
+"Sono Takeshita. Ti ho visto battere qui prima d'ora, e lascia che te lo "
+"dica, sei un mostro in incognito!"
+
+msgctxt "204_Shinada"
+msgid "Oh, uh. Thank you?"
+msgstr "Oh, ehm. Grazie?"
+
+msgctxt "216_Takeshita"
+msgid ""
+"I've been pitching since I was a kid, see. I got a pretty mean throw, if I "
+"do say so myself. So I'm wondering if I can challenge you."
+msgstr ""
+"Lancio da quando ero un ragazzino, sai. Ho un lancio niente male, se posso "
+"dirlo io stesso. Quindi mi chiedevo se posso sfidarti."
+
+msgctxt "228_Shinada"
+msgid "Challenge me as in, \"Try to hit my pitches\"?"
+msgstr "Sfidarmi, tipo \"provare a battere i miei lanci\"?"
+
+msgctxt "240_Takeshita"
+msgid ""
+"Yup, that's it! These pitching machines got nothing on me, so you'd better "
+"not underestimate me!"
+msgstr ""
+"Esatto! Queste macchine lanciapalle non mi fanno un baffo, quindi faresti "
+"meglio a non sottovalutarmi!"
+
+msgctxt "252_Shinada"
+msgid "That's nice. But I'll pass."
+msgstr "Ah, bello. Ma passo."
+
+msgctxt "264_Takeshita"
+msgid "Huh? Why?"
+msgstr "Eh? Perché?"
+
+msgctxt "276_Shinada"
+msgid "Well, what's in it for me?"
+msgstr "Beh, e io cosa ci ricavo?"
+
+msgctxt "288_Takeshita"
+msgid ""
+"Well, I can throw better than any machine, and I'll even do it for free. I "
+"can throw a hundred pitches your way!"
+msgstr ""
+"Beh, posso lanciare meglio di qualsiasi macchina, e lo farò pure gratis. "
+"Posso farti cento lanci!"
+
+msgctxt "300_Shinada"
+msgid "Nope. Don't have that kind of time."
+msgstr "No. Non ho tutto quel tempo."
+
+msgctxt "312_Takeshita"
+msgid "Well, how about fifty?"
+msgstr "Beh, e cinquanta?"
+
+msgctxt "324_Shinada"
+msgid "Not feeling it."
+msgstr "Non me la sento."
+
+msgctxt "336_Takeshita"
+msgid "Ten! How about ten? I'm sure you can do ten pitches."
+msgstr "Dieci! E dieci? Sono sicuro che dieci lanci li fai."
+
+msgctxt "348_Shinada"
+msgid "I said no!"
+msgstr "Ho detto di no!"
+
+msgctxt "360_Takeshita"
+msgid "Why on earth would you be coming to the batting center, then?"
+msgstr "Ma perché diavolo saresti venuto al centro di battuta, allora?"
+
+msgctxt "372_Shinada"
+msgid "For gift certifi－ Look, it's none of your business, okay!?"
+msgstr "Per dei certifica－ Senti, non sono affari tuoi, ok!?"
+
+msgctxt "384_Takeshita"
+msgid ""
+"Oh, I see! You're a bounty hunter batter! Very well. If you can get a hit "
+"off me, I'll give you a reward."
+msgstr ""
+"Oh, capisco! Sei un battitore cacciatore di taglie! Molto bene. Se riesci a "
+"battere un mio lancio, ti darò una ricompensa."
+
+msgctxt "396_Shinada"
+msgid "A reward? Like what?"
+msgstr "Una ricompensa? Tipo cosa?"
+
+msgctxt "408_Takeshita"
+msgid "Uh, well... It will be something spectacular, I can assure you."
+msgstr "Uh, beh... Sarà qualcosa di spettacolare, te lo assicuro."
+
+msgctxt "420_Takeshita"
+msgid ""
+"Please! If you can get one hit off me in ten pitches, you win. That's all "
+"you need to do. Okay?"
+msgstr ""
+"Ti prego! Se riesci a battere un mio lancio in dieci lanci, vinci. È tutto "
+"quello che devi fare. Ok?"
+
+msgctxt "432_Shinada"
+msgid "All right. You better make good on that prize, though."
+msgstr "Va bene. Però faresti meglio a mantenere la parola su quel premio."
+
+msgctxt "444_Takeshita"
+msgid "That's what I wanted to hear!"
+msgstr "È proprio quello che volevo sentire!"

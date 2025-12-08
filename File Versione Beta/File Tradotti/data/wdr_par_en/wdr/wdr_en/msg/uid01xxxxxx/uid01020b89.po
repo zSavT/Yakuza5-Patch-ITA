@@ -1,0 +1,460 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "400"
+msgid "Rest until noon tomorrow?"
+msgstr "Riposare fino a domani a mezzogiorno?"
+
+msgctxt "508"
+msgid "Rest until this evening?"
+msgstr "Riposare fino a questa sera?"
+
+msgctxt "688"
+msgid ""
+"<Color:7><Color:Default>Each character's funds have been pooled.\r\n"
+"A shared Item Box has also been added."
+msgstr ""
+"<Color:7><Color:Default>I fondi di ogni personaggio sono stati messi in comune.\n"
+"È stato anche aggiunto un Magazzino oggetti condiviso."
+
+msgctxt "700"
+msgid ""
+"When you access the Item Box, you can now\r\n"
+"use items from other characters."
+msgstr ""
+"Quando accedi al Magazzino oggetti, ora puoi\n"
+"usare oggetti dagli altri personaggi."
+
+msgctxt "712"
+msgid ""
+"You can change characters now.\r\n"
+"Select a character from the hideout menu."
+msgstr ""
+"Ora puoi cambiare personaggio.\n"
+"Seleziona un personaggio dal menu del rifugio."
+
+msgctxt "11816"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "11820"
+msgid "news04"
+msgstr "news04"
+
+msgctxt "11824"
+msgid "adv5_220/akiyama_0496"
+msgstr "adv5_220/akiyama_0496"
+
+msgctxt "11828"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "11832"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "11836"
+msgid "adv5_220/kiryu_0546"
+msgstr "adv5_220/kiryu_0546"
+
+msgctxt "11840"
+msgid "P_stand"
+msgstr "P_stand"
+
+msgctxt "11844"
+msgid "P_SAE_stand"
+msgstr "P_SAE_stand"
+
+msgctxt "11848"
+msgid "P_AKI_stand"
+msgstr "P_AKI_stand"
+
+msgctxt "11852"
+msgid "P_SIN_stand"
+msgstr "P_SIN_stand"
+
+msgctxt "11856"
+msgid "C5220_MAM_TLK_kamae"
+msgstr "C5220_MAM_TLK_kamae"
+
+msgctxt "11860"
+msgid "C5220_MAM_TLK_dash_in"
+msgstr "C5220_MAM_TLK_dash_in"
+
+msgctxt "11864"
+msgid "Mama"
+msgstr "Mama"
+
+msgctxt "11868"
+msgid "adv5_220/mama_0012"
+msgstr "adv5_220/mama_0012"
+
+msgctxt "11872"
+msgid "adv5_220/kiryu_0547"
+msgstr "adv5_220/kiryu_0547"
+
+msgctxt "11876"
+msgid "adv5_220/mama_0013"
+msgstr "adv5_220/mama_0013"
+
+msgctxt "11880"
+msgid "C5220_MAM_TLK_TV"
+msgstr "C5220_MAM_TLK_TV"
+
+msgctxt "11884"
+msgid "P_AKI_TLK_stand_kamae"
+msgstr "P_AKI_TLK_stand_kamae"
+
+msgctxt "11888"
+msgid "C5220_AKI_TLK_standup_TVon"
+msgstr "C5220_AKI_TLK_standup_TVon"
+
+msgctxt "11892"
+msgid "P_SIN_TLK_stand_kamae"
+msgstr "P_SIN_TLK_stand_kamae"
+
+msgctxt "11896"
+msgid "P_SAE_TLK_stand_kamae"
+msgstr "P_SAE_TLK_stand_kamae"
+
+msgctxt "11900"
+msgid "C5220_SIN_TLK_standup"
+msgstr "C5220_SIN_TLK_standup"
+
+msgctxt "11904"
+msgid "C5220_SAE_TLK_standup"
+msgstr "C5220_SAE_TLK_standup"
+
+msgctxt "11908"
+msgid "P_TLK_stand_kamae"
+msgstr "P_TLK_stand_kamae"
+
+msgctxt "11912"
+msgid "C5220_KRU_TLK_standup"
+msgstr "C5220_KRU_TLK_standup"
+
+msgctxt "11916"
+msgid "Newscaster"
+msgstr "Annunciatore"
+
+msgctxt "11920"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "11924"
+msgid "kaiwabgm_tension01"
+msgstr "kaiwabgm_tension01"
+
+msgctxt "11928"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "11932"
+msgid "adv5_220/saejima_0625"
+msgstr "adv5_220/saejima_0625"
+
+msgctxt "11936"
+msgid "adv5_220/akiyama_0497"
+msgstr "adv5_220/akiyama_0497"
+
+msgctxt "11940"
+msgid "adv5_220/kiryu_0548"
+msgstr "adv5_220/kiryu_0548"
+
+msgctxt "11944"
+msgid "C5220_AKI_TLK_go_out"
+msgstr "C5220_AKI_TLK_go_out"
+
+msgctxt "11948"
+msgid "C5220_SIN_TLK_go_out"
+msgstr "C5220_SIN_TLK_go_out"
+
+msgctxt "11952"
+msgid "C5220_SAE_TLK_go_out"
+msgstr "C5220_SAE_TLK_go_out"
+
+msgctxt "11956"
+msgid "C5220_KRU_TLK_go_out"
+msgstr "C5220_KRU_TLK_go_out"
+
+msgctxt "11960"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "11964"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "11968"
+msgid "Rest"
+msgstr "Resto"
+
+msgctxt "11972"
+msgid "Not Yet"
+msgstr "Non ancora"
+
+msgctxt "11976"
+msgid "adv5_205_1/akiyama_5_205_010"
+msgstr "adv5_205_1/akiyama_5_205_010"
+
+msgctxt "11980"
+msgid "adv5_205_1/shinada_5_205_010"
+msgstr "adv5_205_1/shinada_5_205_010"
+
+msgctxt "11984"
+msgid "adv5_205_1/saejima_5_205_010"
+msgstr "adv5_205_1/saejima_5_205_010"
+
+msgctxt "11988"
+msgid "adv5_205_1/kiryu_5_205_010"
+msgstr "adv5_205_1/kiryu_5_205_010"
+
+msgctxt "11992"
+msgid "adv5_205_1/akiyama_5_205_020a"
+msgstr "adv5_205_1/akiyama_5_205_020a"
+
+msgctxt "11996"
+msgid "adv5_205_1/akiyama_5_205_020b"
+msgstr "adv5_205_1/akiyama_5_205_020b"
+
+msgctxt "12000"
+msgid "adv5_205_1/akiyama_5_205_030"
+msgstr "adv5_205_1/akiyama_5_205_030"
+
+msgctxt "12004"
+msgid "adv5_205_1/kiryu_5_205_020"
+msgstr "adv5_205_1/kiryu_5_205_020"
+
+msgctxt "12008"
+msgid "adv5_205_1/akiyama_5_205_040"
+msgstr "adv5_205_1/akiyama_5_205_040"
+
+msgctxt "12012"
+msgid "0"
+msgstr "0"
+
+msgctxt "12016"
+msgid "Until Tomorrow Evening"
+msgstr "Fino a domani sera"
+
+msgctxt "12020"
+msgid "Information"
+msgstr "Informazioni"
+
+msgctxt "76_Akiyama"
+msgid "Well, shall we get over to the Japan Dome?"
+msgstr "Allora, andiamo al Japan Dome?"
+
+msgctxt "88_Kiryu"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "124_Mama"
+msgid "We've got a problem!"
+msgstr "Abbiamo un problema!"
+
+msgctxt "136_Kiryu"
+msgid "What's wrong?"
+msgstr "Che succede?"
+
+msgctxt "148_Mama"
+msgid "The TV. Turn on the TV!"
+msgstr "La TV. Accendi la TV!"
+
+msgctxt "196_Newscaster"
+msgid ""
+"Breaking news: just after 5:00 PM today, the Tokyo\r\n"
+"Metropolitan Police issued this announcement."
+msgstr ""
+"Ultime notizie: poco dopo le 17:00 di oggi, la Polizia\n"
+"metropolitana di Tokyo ha rilasciato questo annuncio."
+
+msgctxt "208_Newscaster"
+msgid ""
+"The Millennium Tower in Kamurocho has\r\n"
+"been seized by an unidentified group."
+msgstr ""
+"La Millennium Tower a Kamurocho è stata\n"
+"occupata da un gruppo non identificato."
+
+msgctxt "220_Newscaster"
+msgid ""
+"They have taken a hostage－Goro Majima, a high-ranking\r\n"
+"member of a criminal organization known as the Tojo Clan."
+msgstr ""
+"Hanno preso un ostaggio－Goro Majima, un membro di alto rango\n"
+"di un'organizzazione criminale conosciuta come il Clan Tojo."
+
+msgctxt "232_Newscaster"
+msgid ""
+"He is being held on the top floor. I repeat, at just after 5:00 PM today..."
+msgstr "È tenuto all'ultimo piano. Ripeto, poco dopo le 17:00 di oggi..."
+
+msgctxt "244_Saejima"
+msgid "What the... Majima?"
+msgstr "Ma che... Majima?"
+
+msgctxt "256_Akiyama"
+msgid "What's our move? The concert is starting soon."
+msgstr "Qual è la nostra mossa? Il concerto sta per iniziare."
+
+msgctxt "268_Kiryu"
+msgid "Let's get to Millennium Tower."
+msgstr "Andiamo alla Millennium Tower."
+
+msgctxt "340_Kiryu"
+msgid "There's still time before tomorrow evening."
+msgstr "C'è ancora tempo prima di domani sera."
+
+msgctxt "352_Akiyama"
+msgid "Tomorrow evening, huh? Looks like I have some time to kill."
+msgstr "Domani sera, eh? Mi sa che ho un po' di tempo da ammazzare."
+
+msgctxt "364_Saejima"
+msgid "We're meetin' up tomorrow evening. Got some time on my hands now."
+msgstr "Ci vediamo domani sera. Adesso ho un po' di tempo libero."
+
+msgctxt "376_Shinada"
+msgid "Tomorrow evening's still a while off. Guess I can do some other stuff."
+msgstr ""
+"C'è ancora un po' di tempo prima di domani sera. Mi sa che posso fare "
+"qualcos'altro."
+
+msgctxt "388_Haruka"
+msgid "dummy."
+msgstr "dummy."
+
+msgctxt "448_Kiryu"
+msgid "There's still time before this evening."
+msgstr "C'è ancora tempo prima di stasera."
+
+msgctxt "460_Akiyama"
+msgid "This evening, huh? Looks like I have some time to kill."
+msgstr "Stasera, eh? Mi sa che ho un po' di tempo da ammazzare."
+
+msgctxt "472_Saejima"
+msgid "We're meetin' up this evening. Got some time on my hands now."
+msgstr "Ci vediamo stasera. Adesso ho un po' di tempo libero."
+
+msgctxt "484_Shinada"
+msgid "This evening's still a while off. Guess I can do some other stuff."
+msgstr ""
+"C'è ancora un po' di tempo prima di stasera. Mi sa che posso fare "
+"qualcos'altro."
+
+msgctxt "496_Haruka"
+msgid "dummy."
+msgstr "dummy."
+
+msgctxt "532_Akiyama"
+msgid "Okay, how about we each do our own thing until it's time?"
+msgstr "Ok, che ne dite se ognuno per conto suo finché non è ora?"
+
+msgctxt "544_Shinada"
+msgid "Yeah, I'm guessing we all have other things to take care of."
+msgstr "Già, mi sa che abbiamo tutti altro da fare."
+
+msgctxt "556_Saejima"
+msgid "That works."
+msgstr "Va bene."
+
+msgctxt "568_Kiryu"
+msgid "Sounds good."
+msgstr "Mi sembra una buona idea."
+
+msgctxt "580_Akiyama"
+msgid "Mama said we're welcome to make ourselves at home here."
+msgstr "Mama ha detto che possiamo fare come se fossimo a casa nostra qui."
+
+msgctxt "592_Akiyama"
+msgid ""
+"There's blankets, so feel free to doze off if you need to\r\n"
+"rest up."
+msgstr ""
+"Ci sono coperte, quindi non farti problemi a schiacciare un pisolino se hai "
+"bisogno di\\nriposarti."
+
+msgctxt "604_Akiyama"
+msgid ""
+"I think that covers it. Let's meet back here once we're all set to go. Sound"
+" good?"
+msgstr ""
+"Direi che ci siamo detti tutto. Ci rivediamo qui quando siamo tutti pronti a"
+" partire. Va bene?"
+
+msgctxt "616_Kiryu"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "628_Akiyama"
+msgid "Oh yeah, we might as well share what we've got on us, right?"
+msgstr "Ah già, tanto vale condividere quello che abbiamo, no?"
+
+msgctxt "640_Akiyama"
+msgid ""
+"We're all in this together, and I imagine at least one of us is strapped for"
+" cash."
+msgstr ""
+"Siamo tutti nella stessa barca, e mi sa che almeno uno di noi è a corto di "
+"soldi."
+
+msgctxt "652_Saejima"
+msgid ""
+"You're the one who's probably carryin' the most. So I don't mind if you "
+"don't."
+msgstr ""
+"Sei tu quello che probabilmente c'hai più roba addosso. Quindi, non mi "
+"faccio problemi se non lo fai."
+
+msgctxt "664_Kiryu"
+msgid "Yeah, suits me."
+msgstr "Già, mi va bene."
+
+msgctxt "676_Shinada"
+msgid "No complaints here!"
+msgstr "Nessun problema!"
+
+msgctxt "724_Akiyama"
+msgid "We'll get started tomorrow evening, then!"
+msgstr "Allora, si comincia domani sera!"
+
+msgctxt "784_Until Tomorrow Evening"
+msgid ""
+"You're free to explore from now until tomorrow evening.\r\n"
+"\r\n"
+"Use the blankets at New Serena to move time forward.\r\n"
+"Once you've done all you want, talk to Kiryu if you are\r\n"
+"controlling Akiyama, or otherwise talk to Akiyama."
+msgstr ""
+"Sei libero di esplorare da adesso fino a domani sera.\n"
+"\n"
+"Usa le coperte al New Serena per far passare il tempo.\n"
+"Una volta che hai finito di fare quello che ti pare, parla con Kiryu se stai\n"
+"controllando Akiyama, o altrimenti parla con Akiyama."
+
+msgctxt "796_Information"
+msgid ""
+"You can travel to the cities each character is\r\n"
+"linked to by taxi.\r\n"
+"\r\n"
+"You can also change characters in each city.\r\n"
+"Upon changing characters, you will resume play\r\n"
+"in Kamurocho."
+msgstr ""
+"Puoi raggiungere le città a cui ogni personaggio è\n"
+"collegato, usando un taxi.\n"
+"\n"
+"Puoi anche cambiare personaggio in ogni città.\n"
+"Al cambio di personaggio, riprenderai a giocare\n"
+"a Kamurocho."

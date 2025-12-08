@@ -1,0 +1,97 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2024"
+msgid "Mysterious Man"
+msgstr "Uomo Misterioso"
+
+msgctxt "2028"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "2032"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "2036"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "2040"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "2044"
+msgid "Talk_Get"
+msgstr "Talk_Get"
+
+msgctxt "2048"
+msgid "SS3_HAL_TLK_look_puri_lp"
+msgstr "SS3_HAL_TLK_look_puri_lp"
+
+msgctxt "2052"
+msgid "Letter"
+msgstr "Lettera"
+
+msgctxt "44_Mysterious Man"
+msgid "Are you Haruka Sawamura-san?"
+msgstr "È lei Haruka Sawamura?"
+
+msgctxt "56_Haruka"
+msgid "Hm? Oh, yes, that's me. Who are you?"
+msgstr "Oh? Oh, sì, sono io. Chi sei tu?"
+
+msgctxt "68_Mysterious Man"
+msgid "I serve the Amon Clan. I have a letter to give you."
+msgstr "Sono al servizio del Clan Amon. Ho una lettera da consegnarti."
+
+msgctxt "80_Haruka"
+msgid "Amon?"
+msgstr "Amon?"
+
+msgctxt "92_Mysterious Man"
+msgid "Go ahead. Take it."
+msgstr "Prego. Prendila."
+
+msgctxt "116_Mysterious Man"
+msgid "You got a letter from the Amon Clan."
+msgstr "Hai ricevuto una lettera dal Clan Amon."
+
+msgctxt "128_Mysterious Man"
+msgid "My business with you is done."
+msgstr "La mia faccenda con te è finita."
+
+msgctxt "140_Haruka"
+msgid ""
+"(Who in the world is the Amon Clan? I guess I'd better read the letter and "
+"find out.)"
+msgstr ""
+"(Chi diavolo è questo Clan Amon? Sarà meglio che legga la lettera e lo "
+"scopra.)"
+
+msgctxt "152_Letter"
+msgid ""
+"(To Haruka Sawamura, my archrival. I await you in the parking lot of "
+"southwest Sotenbori. There we will settle things between us. -Noa Amon)"
+msgstr ""
+"(A Haruka Sawamura, la mia arcinemica. Ti aspetto nel parcheggio a sud-ovest"
+" di Sotenbori. Lì regoleremo i conti tra noi. -Noa Amon)"
+
+msgctxt "164_Haruka"
+msgid ""
+"(What could this possibly be about? Who is Noa Amon? And what does she mean,"
+" \"settle things\"? I'd better head to the parking lot and figure this out.)"
+msgstr ""
+"(Cosa diavolo potrebbe essere? Chi è Noa Amon? E cosa intende con \"regolare"
+" i conti\"? Sarà meglio che vada al parcheggio a vederci chiaro.)"

@@ -1,0 +1,61 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2944"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "2948"
+msgid "SS2_P_HNT_squat_nml"
+msgstr "SS2_P_HNT_squat_nml"
+
+msgctxt "2952"
+msgid "SS2_P_HNT_squat_nml_st"
+msgstr "SS2_P_HNT_squat_nml_st"
+
+msgctxt "2956"
+msgid "Okudera"
+msgstr "Okudera"
+
+msgctxt "2960"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "104_Saejima"
+msgid "Okudera-han!"
+msgstr "Okudera!"
+
+msgctxt "152_Okudera"
+msgid "Gah!"
+msgstr "Gah!"
+
+msgctxt "176_Saejima"
+msgid "He's leavin'. Okudera-han, are ya alright?"
+msgstr "Se ne sta andando. Okudera, stai bene?"
+
+msgctxt "188_Okudera"
+msgid "I'm fine."
+msgstr "Sto bene."
+
+msgctxt "200_Okudera"
+msgid "*groan*"
+msgstr "*gemito*"
+
+msgctxt "212_Saejima"
+msgid "No, yer not fine..."
+msgstr "No, non stai bene..."
+
+msgctxt "224_Okudera"
+msgid "This is nothing. Let's just go back to the village."
+msgstr "Non è niente. Torniamo al villaggio e basta."

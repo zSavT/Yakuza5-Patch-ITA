@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1368"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "1372"
+msgid "Play"
+msgstr "Gioca"
+
+msgctxt "1376"
+msgid "Don't Play"
+msgstr "Non giocare"
+
+msgctxt "76_Player"
+msgid "(Sawada... Nope. Not in the mood for this now.)"
+msgstr "(Sawada... Naah. Non mi va adesso.)"
+
+msgctxt "88_Player"
+msgid "(The Sawada Course costs 300 yen to play. Should I go for it?)"
+msgstr "(Il percorso Sawada costa 300 yen per giocare. Ci provo?)"
+
+msgctxt "112_Player"
+msgid "(Oops. I'm too broke.)"
+msgstr "(Ops. Sono al verde.)"
+
+msgctxt "124_Player"
+msgid "(Okay, let's do this.)"
+msgstr "(Va bene, facciamolo.)"
+
+msgctxt "148_Player"
+msgid "(Nope. Not now.)"
+msgstr "(Naah. Non adesso.)"
+
+msgctxt "160_Player"
+msgid "(The level's too high. It's a bit more than I can handle now.)"
+msgstr "(Il livello è troppo alto. È un po' troppo per me adesso.)"

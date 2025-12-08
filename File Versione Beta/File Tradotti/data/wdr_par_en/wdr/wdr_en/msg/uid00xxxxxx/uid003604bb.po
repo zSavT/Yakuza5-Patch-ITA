@@ -1,0 +1,29 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "668"
+msgid "かんたん"
+msgstr "かんたん"
+
+msgctxt "672"
+msgid "ふつう"
+msgstr "ふつう"
+
+msgctxt "676"
+msgid "むずかしい"
+msgstr "むずかしい"
+
+msgctxt "44_かんたん"
+msgid "どの難易度の握手会に行きますか？"
+msgstr "どの難易度の握手会に行きますか？"

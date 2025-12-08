@@ -1,0 +1,405 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "9080"
+msgid "Yakuza"
+msgstr "Yakuza"
+
+msgctxt "9084"
+msgid "Woman"
+msgstr "Donna"
+
+msgctxt "9088"
+msgid "SS1_F_NML_TAX_lookout_g1_st"
+msgstr "SS1_F_NML_TAX_lookout_g1_st"
+
+msgctxt "9092"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "9096"
+msgid "SS1_F_NML_TAX_lookout_g1_lp"
+msgstr "SS1_F_NML_TAX_lookout_g1_lp"
+
+msgctxt "9100"
+msgid "Are you two on a date?"
+msgstr "Siete a un appuntamento, voi due?"
+
+msgctxt "9104"
+msgid "Are you two quarreling?"
+msgstr "State litigando, voi due?"
+
+msgctxt "9108"
+msgid "You make a good couple."
+msgstr "Siete una bella coppia, voi due."
+
+msgctxt "9112"
+msgid "SS1_P_TAX_Lookback"
+msgstr "SS1_P_TAX_Lookback"
+
+msgctxt "9116"
+msgid "SS1_F_NML_TAX_lookout_g1_ed"
+msgstr "SS1_F_NML_TAX_lookout_g1_ed"
+
+msgctxt "9120"
+msgid "SS1_M_CPR_TAX_laugh"
+msgstr "SS1_M_CPR_TAX_laugh"
+
+msgctxt "9124"
+msgid "SS1_P_TAX_question"
+msgstr "SS1_P_TAX_question"
+
+msgctxt "9128"
+msgid "SS1_M_CPR_TAX_no"
+msgstr "SS1_M_CPR_TAX_no"
+
+msgctxt "9132"
+msgid "SS1_P_TAX_nod_A"
+msgstr "SS1_P_TAX_nod_A"
+
+msgctxt "9136"
+msgid "SS1_P_TAX_no"
+msgstr "SS1_P_TAX_no"
+
+msgctxt "9140"
+msgid "SS1_M_CPR_TAX_look_g1_st"
+msgstr "SS1_M_CPR_TAX_look_g1_st"
+
+msgctxt "9144"
+msgid "SS1_M_CPR_TAX_look_g1_lp"
+msgstr "SS1_M_CPR_TAX_look_g1_lp"
+
+msgctxt "9148"
+msgid "SS1_F_NML_TAX_look_r_g1_st"
+msgstr "SS1_F_NML_TAX_look_r_g1_st"
+
+msgctxt "9152"
+msgid "SS1_M_CPR_TAX_look_g1_ed"
+msgstr "SS1_M_CPR_TAX_look_g1_ed"
+
+msgctxt "9156"
+msgid "SS1_F_NML_TAX_look_r_g1_ed"
+msgstr "SS1_F_NML_TAX_look_r_g1_ed"
+
+msgctxt "9160"
+msgid "SS1_F_NML_TAX__sigh_g1"
+msgstr "SS1_F_NML_TAX__sigh_g1"
+
+msgctxt "9164"
+msgid "SS1_M_CPR_TAX_talk"
+msgstr "SS1_M_CPR_TAX_talk"
+
+msgctxt "9168"
+msgid "SS1_F_NML_TAX_restrain_g1"
+msgstr "SS1_F_NML_TAX_restrain_g1"
+
+msgctxt "9172"
+msgid "SS1_M_CPR_TAX_restrain_woman"
+msgstr "SS1_M_CPR_TAX_restrain_woman"
+
+msgctxt "9176"
+msgid "SS1_P_TAX_Lookback_angry"
+msgstr "SS1_P_TAX_Lookback_angry"
+
+msgctxt "9180"
+msgid "SS1_F_NML_TAX_sad"
+msgstr "SS1_F_NML_TAX_sad"
+
+msgctxt "9184"
+msgid "SS1_M_CPR_TAX_look_kiryu_st"
+msgstr "SS1_M_CPR_TAX_look_kiryu_st"
+
+msgctxt "9188"
+msgid "SS1_M_CPR_TAX_look_kiryu_lp"
+msgstr "SS1_M_CPR_TAX_look_kiryu_lp"
+
+msgctxt "9192"
+msgid "SS1_M_CPR_TAX_look_kiryu_ed"
+msgstr "SS1_M_CPR_TAX_look_kiryu_ed"
+
+msgctxt "9196"
+msgid "Discreetly Head to Police Station"
+msgstr "Dirigiti con discrezione al Commissariato"
+
+msgctxt "9200"
+msgid "Stay on Course"
+msgstr "Mantieni la rotta"
+
+msgctxt "9204"
+msgid "SS1_M_CPR_TAX_look_around"
+msgstr "SS1_M_CPR_TAX_look_around"
+
+msgctxt "9208"
+msgid "ACYAM2000"
+msgstr "ACYAM2000"
+
+msgctxt "9212"
+msgid "SS1_M_CPR_TAX_thrust_gun_st"
+msgstr "SS1_M_CPR_TAX_thrust_gun_st"
+
+msgctxt "9216"
+msgid "SS1_F_NML_TAX_look_gun_g1_st"
+msgstr "SS1_F_NML_TAX_look_gun_g1_st"
+
+msgctxt "9220"
+msgid "SS1_M_CPR_TAX_thrust_gun_lp"
+msgstr "SS1_M_CPR_TAX_thrust_gun_lp"
+
+msgctxt "9224"
+msgid "SS1_F_NML_TAX_look_gun_g1_ed"
+msgstr "SS1_F_NML_TAX_look_gun_g1_ed"
+
+msgctxt "9228"
+msgid "SS1_M_CPR_TAX_gun_tlk_g1"
+msgstr "SS1_M_CPR_TAX_gun_tlk_g1"
+
+msgctxt "9232"
+msgid "SS1_F_NML_TAX_look_r_g1_lp"
+msgstr "SS1_F_NML_TAX_look_r_g1_lp"
+
+msgctxt "9236"
+msgid "SS1_M_CPR_TAX_gun_tlk_kiryu"
+msgstr "SS1_M_CPR_TAX_gun_tlk_kiryu"
+
+msgctxt "44_Yakuza"
+msgid "......"
+msgstr "......"
+
+msgctxt "56_Woman"
+msgid "......"
+msgstr "......"
+
+msgctxt "68_Kiryu"
+msgid "(They're quiet. Maybe they had a fight? I'll try making small talk.)"
+msgstr ""
+"(Sono silenziosi. Forse hanno litigato? Proverò a fare due chiacchiere.)"
+
+msgctxt "80_Yakuza"
+msgid "Are you two on a date today?"
+msgstr "Siete a un appuntamento oggi, voi due?"
+
+msgctxt "92_Yakuza"
+msgid "That's right! We're heading out for some fun!"
+msgstr "Esatto! Andiamo a divertirci!"
+
+msgctxt "104_Kiryu"
+msgid "Ah. What do you have planned?"
+msgstr "Ah. Cosa avete in programma?"
+
+msgctxt "116_Yakuza"
+msgid "Can't tell you that. I'm taking the lady here on a surprise date!"
+msgstr ""
+"Non posso dirtelo. Porto la signorina qui a un appuntamento a sorpresa!"
+
+msgctxt "128_Kiryu"
+msgid "I see. That sounds exciting."
+msgstr "Capisco. Sembra divertente."
+
+msgctxt "140_Woman"
+msgid "......"
+msgstr "......"
+
+msgctxt "152_Kiryu"
+msgid ""
+"(The woman doesn't look very happy to be here. Is she not having a good "
+"time?)"
+msgstr ""
+"(La donna non sembra molto felice di essere qui. Non si sta divertendo?)"
+
+msgctxt "164_Yakuza"
+msgid "Sorry to intrude, but are you two quarreling?"
+msgstr "Scusate l'intrusione, ma voi due state litigando?"
+
+msgctxt "176_Yakuza"
+msgid "Hahaha! Quarreling? Who even uses that word these days!?"
+msgstr ""
+"Hahaha! Litigando? Ma chi la usa più, quella parola, di questi tempi!?"
+
+msgctxt "188_Kiryu"
+msgid "I was just trying to be polite."
+msgstr "Stavo solo cercando di essere educato."
+
+msgctxt "200_Yakuza"
+msgid "Haha. Quarreling. That's a classic. Funny, huh?"
+msgstr "Haha. Litigando. Questa è una perla. Fa ridere, no?"
+
+msgctxt "212_Woman"
+msgid "Yes..."
+msgstr "Sì..."
+
+msgctxt "224_Kiryu"
+msgid "(It looks like her mind is elsewhere.)"
+msgstr "(Sembra che la sua mente sia altrove.)"
+
+msgctxt "236_Yakuza"
+msgid "You make a good couple."
+msgstr "Siete una bella coppia."
+
+msgctxt "248_Yakuza"
+msgid "The two of us? Heh, well isn't that a riot? Hahaha!"
+msgstr "Noi due? Eh, beh, non è uno spasso? Hahaha!"
+
+msgctxt "260_Woman"
+msgid "......"
+msgstr "......"
+
+msgctxt "272_Kiryu"
+msgid ""
+"(Maybe these two aren't a couple, after all. The woman looks like she "
+"doesn't want to be here.)"
+msgstr ""
+"(Forse questi due non sono una coppia, dopotutto. La donna sembra che non "
+"voglia essere qui.)"
+
+msgctxt "284_Yakuza"
+msgid "Your friend is the quiet type, huh?"
+msgstr "Il tuo amico è di poche parole, eh?"
+
+msgctxt "296_Woman"
+msgid "......"
+msgstr "......"
+
+msgctxt "308_Yakuza"
+msgid "Yeah, she's－"
+msgstr "Già, lei è—"
+
+msgctxt "320_Woman"
+msgid "Driver! This man, he's ab－"
+msgstr "Tassista! Quest'uomo, mi sta rap—"
+
+msgctxt "332_Yakuza"
+msgid "Shut it! No talking!"
+msgstr "Sta' zitto! Niente chiacchiere!"
+
+msgctxt "344_Kiryu"
+msgid "Huh!?"
+msgstr "Eh!?"
+
+msgctxt "356_Yakuza"
+msgid ""
+"Hahaha. Sorry about that. She may look all docile, but once she gets "
+"started, you can't shut her up."
+msgstr ""
+"Hahaha. Scusa per quello. Sembrerà pure docile, ma una volta che parte, non "
+"la fermi più."
+
+msgctxt "368_Yakuza"
+msgid "Wouldn't want her distracting you or anything."
+msgstr "Non vorrei che ti distraesse o roba simile."
+
+msgctxt "380_Kiryu"
+msgid "(I smell trouble. Maybe this woman's caught up in something.)"
+msgstr "(Sento puzza di guai. Forse questa donna è invischiata in qualcosa.)"
+
+msgctxt "392_Yakuza"
+msgid "(I'll turn towards the police station.)"
+msgstr "(Mi dirigerò verso la stazione di polizia.)"
+
+msgctxt "404_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "416_Yakuza"
+msgid "Think you took a wrong turn, driver!"
+msgstr "Mi sa che hai sbagliato strada, tassista!"
+
+msgctxt "428_Kiryu"
+msgid "I did? Sorry about that."
+msgstr "Ho sbagliato? Scusa per quello."
+
+msgctxt "440_Yakuza"
+msgid ""
+"Don't play dumb with me, asshole! You were trying to go to the police, "
+"weren't you!?"
+msgstr ""
+"Non fare il finto tonto con me, stronzo! Stavi cercando di andare dalla "
+"polizia, non è vero!?"
+
+msgctxt "452_Yakuza"
+msgid ""
+"I'm taking this girl because she owes me money! If you want to get back in "
+"one piece, best take me where I want to go. And no funny business!"
+msgstr ""
+"Mi porto via questa ragazza perché mi deve dei soldi! Se vuoi tornartene a "
+"casa tutto intero, è meglio che mi porti dove dico io. E niente scherzi!"
+
+msgctxt "464_Woman"
+msgid "I don't owe you a thing!"
+msgstr "Non ti devo niente!"
+
+msgctxt "476_Yakuza"
+msgid "You signed on as a guarantor. Same thing."
+msgstr "Hai firmato come garante. Stessa cosa."
+
+msgctxt "488_Yakuza"
+msgid ""
+"Either way, it's got nothing to do with our driver friend. Now step on it!"
+msgstr ""
+"In ogni caso, non ha niente a che fare col nostro amico tassista. Ora dai "
+"gas!"
+
+msgctxt "500_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "512_Yakuza"
+msgid ""
+"(She may be mixed up in something, but it's my job to follow the customer's "
+"instructions.)"
+msgstr ""
+"(Forse è invischiata in qualcosa, ma è il mio lavoro seguire le istruzioni "
+"del cliente.)"
+
+msgctxt "524_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "536_Woman"
+msgid "Driver, please help! This man abducted me!"
+msgstr "Tassista, aiuto, ti prego! Quest'uomo mi ha rapito!"
+
+msgctxt "548_Kiryu"
+msgid "Huh!?"
+msgstr "Eh!?"
+
+msgctxt "560_Yakuza"
+msgid "You little bitch!"
+msgstr "Piccola stronza!"
+
+msgctxt "572_Yakuza"
+msgid ""
+"I'm taking this girl because she owes me money! If you want to get back in "
+"one piece, best take me where I want to go. And no funny business!"
+msgstr ""
+"Mi porto via questa ragazza perché mi deve dei soldi! Se vuoi tornartene a "
+"casa tutto intero, è meglio che mi porti dove dico io. E niente scherzi!"
+
+msgctxt "596_Yakuza"
+msgid "I don't owe you a thing!"
+msgstr "Non ti devo niente!"
+
+msgctxt "608_Yakuza"
+msgid "You signed on as a guarantor. Same thing."
+msgstr "Hai firmato come garante. Stessa cosa."
+
+msgctxt "620_Yakuza"
+msgid ""
+"Either way, it's got nothing to do with our driver friend. Now step on it!"
+msgstr ""
+"In ogni caso, non ha niente a che fare col nostro amico tassista. Ora dai "
+"gas!"
+
+msgctxt "632_Kiryu"
+msgid "......"
+msgstr "......"

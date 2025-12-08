@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2944"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "2948"
+msgid "Schedule"
+msgstr "Programma"
+
+msgctxt "2952"
+msgid "Statistics"
+msgstr "Statistiche"
+
+msgctxt "2956"
+msgid "Nothing"
+msgstr "Niente"
+
+msgctxt "2960"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "44_Haruka"
+msgid "(What should I check?)"
+msgstr "(Cosa dovrei controllare?)"
+
+msgctxt "68_Haruka"
+msgid "(Whew, I'm really tired. I'd better take a break.)"
+msgstr "(Uff, sono davvero stanca. Farei meglio a prendermi una pausa.)"
+
+msgctxt "80_Haruka"
+msgid "(I think I'll check out the job schedule.)"
+msgstr "(Credo che darò un'occhiata al programma di lavoro.)"
+
+msgctxt "116_Haruka"
+msgid "(I think I'll check out the statistics.)"
+msgstr "(Credo che darò un'occhiata alle statistiche.)"

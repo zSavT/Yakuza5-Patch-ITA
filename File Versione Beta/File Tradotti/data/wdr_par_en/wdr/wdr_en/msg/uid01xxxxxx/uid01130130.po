@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "752"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "756"
+msgid "default"
+msgstr "default"
+
+msgctxt "44_Player"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "68_Player"
+msgid "(There's Baba-chan! Is he lookin' for me?)"
+msgstr "(Ecco Baba-chan! Mi sta cercando?)"
+
+msgctxt "80_Player"
+msgid "(Gotta cross the road and meet up.)"
+msgstr "(Devo attraversare la strada e incontrarlo.)"

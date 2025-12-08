@@ -1,0 +1,302 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "8616"
+msgid "Momiyama"
+msgstr "Momiyama"
+
+msgctxt "8620"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "8624"
+msgid "Maybe later."
+msgstr "Magari dopo."
+
+msgctxt "8628"
+msgid "I won't lose this time."
+msgstr "Non perderò stavolta."
+
+msgctxt "8632"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "8636"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "8640"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "8644"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "8648"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "8652"
+msgid "Talk_SmileBig_st"
+msgstr "Talk_SmileBig_st"
+
+msgctxt "8656"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "8660"
+msgid "Talk_SmileBig_ed"
+msgstr "Talk_SmileBig_ed"
+
+msgctxt "8664"
+msgid "Talk_CryBig_st"
+msgstr "Talk_CryBig_st"
+
+msgctxt "8668"
+msgid "Talk_CryBig_ed"
+msgstr "Talk_CryBig_ed"
+
+msgctxt "8672"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "8676"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "8680"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "8684"
+msgid "HAL_TLK_stand_happy"
+msgstr "HAL_TLK_stand_happy"
+
+msgctxt "8688"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "8692"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "8696"
+msgid "0"
+msgstr "0"
+
+msgctxt "8700"
+msgid "???"
+msgstr "???"
+
+msgctxt "8704"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "92_Momiyama"
+msgid "Interested in another dance battle against me?"
+msgstr "Ti va un'altra sfida di ballo contro di me?"
+
+msgctxt "104_Haruka"
+msgid "Maybe later, okay?"
+msgstr "Magari dopo, va bene?"
+
+msgctxt "116_Momiyama"
+msgid "Heh. Well, you know where to find me."
+msgstr "Beh. Sai dove trovarmi."
+
+msgctxt "128_Haruka"
+msgid "I won't lose to you this time!"
+msgstr "Non perderò contro di te stavolta!"
+
+msgctxt "140_Momiyama"
+msgid ""
+"You're on! And if you win, your treatment is free! Well, it's time to bust a"
+" move!"
+msgstr ""
+"Ci sto! E se vinci, il trattamento è gratis! Beh, è ora di scatenarsi!"
+
+msgctxt "176_Momiyama"
+msgid "Whoa! Did I actually win!?"
+msgstr "Urca! Ho davvero vinto!?"
+
+msgctxt "188_Haruka"
+msgid "No way..."
+msgstr "Non è possibile..."
+
+msgctxt "200_Momiyama"
+msgid ""
+"I guess you're just no match for me, Haruka-san! Come on back when you're "
+"ready to try again."
+msgstr ""
+"Immagino che tu non sia proprio alla mia altezza, Haruka-san! Torna pure "
+"quando sarai pronta a riprovarci."
+
+msgctxt "224_Momiyama"
+msgid "No way! Did I actually lose!?"
+msgstr "Non è possibile! Ho davvero perso!?"
+
+msgctxt "236_Haruka"
+msgid "I... I did it!"
+msgstr "Ce... ce l'ho fatta!"
+
+msgctxt "248_Momiyama"
+msgid "Impressive. No wonder you've made it to the Princess League finals."
+msgstr ""
+"Impressionante. Non c'è da stupirsi che tu sia arrivata alle finali della "
+"Princess League."
+
+msgctxt "260_Haruka"
+msgid "You know about that?"
+msgstr "Lo sai?"
+
+msgctxt "272_Momiyama"
+msgid "Yep. Been rooted to the TV cheering you on."
+msgstr "Sì. Sono stato incollato alla TV a fare il tifo per te."
+
+msgctxt "284_Haruka"
+msgid "Wow, thank you!"
+msgstr "Wow, grazie mille!"
+
+msgctxt "296_Momiyama"
+msgid ""
+"Now get ready for the treatment of your life, free of charge, just as "
+"promised."
+msgstr ""
+"Ora preparati per il trattamento della tua vita, gratis, proprio come "
+"promesso."
+
+msgctxt "308_Haruka"
+msgid "Wait, are you saying you're the stylist!?"
+msgstr "Aspetta, vuoi dire che sei tu lo stylist!?"
+
+msgctxt "320_Momiyama"
+msgid "Hehe, were you expecting someone else?"
+msgstr "Hehe, ti aspettavi mica qualcun altro?"
+
+msgctxt "332_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "392_Momiyama"
+msgid "Well, what do you think?"
+msgstr "Beh, che ne dici?"
+
+msgctxt "404_Haruka"
+msgid "That... That felt... amazing!"
+msgstr "Mi... Mi sono sentito... incredibile!"
+
+msgctxt "416_Momiyama"
+msgid "Yeah? Well, I'm glad you liked it!"
+msgstr "Sì? Beh, sono contento che ti sia piaciuto!"
+
+msgctxt "428_Haruka"
+msgid ""
+"I feel so refreshed! And my body... I feel like a huge weight has been "
+"lifted off my shoulders!"
+msgstr ""
+"Mi sento così rinfrescato! E il mio corpo... Mi sento come se un peso enorme"
+" mi fosse stato tolto dalle spalle!"
+
+msgctxt "440_Momiyama"
+msgid ""
+"I don't mean to brag, but I'm known around the world for my work, so..."
+msgstr ""
+"Non per vantarmi, ma sono conosciuto in tutto il mondo per il mio lavoro, "
+"quindi..."
+
+msgctxt "452_Haruka"
+msgid "Wow! Really!?"
+msgstr "Wow! Davvero!?"
+
+msgctxt "464_Momiyama"
+msgid ""
+"Yeah, but I also have a partner in Tokyo. We practice hard on each other, "
+"and as a result－"
+msgstr ""
+"Sì, ma ho anche un partner a Tokyo. Ci alleniamo duro a vicenda, e, come "
+"risultato—"
+
+msgctxt "476_Haruka"
+msgid ""
+"Oh, sorry, but could we continue this another time? I have to go. Thank you "
+"so much!"
+msgstr ""
+"Oh, scusa, ma potremmo continuare un'altra volta? Devo andare. Grazie mille!"
+
+msgctxt "512_Momiyama"
+msgid ""
+"Ah, right. You're probably a little young to hear all the gory details, "
+"hehe."
+msgstr ""
+"Ah, giusto. Sei probabilmente un po' troppo giovane per sentire tutti i "
+"dettagli più scabrosi, hehe."
+
+msgctxt "560_Haruka"
+msgid "Excuse me..."
+msgstr "Scusi..."
+
+msgctxt "572_???"
+msgid "Oh, hello there, little lady. What can I do for you?"
+msgstr "Oh, salve, signorina. Cosa posso fare per te?"
+
+msgctxt "584_Haruka"
+msgid "Umm, are you the salon manager? The one Yoko-san is friends with?"
+msgstr "Ehm, sei il manager del salone? Quello con cui Yoko-san è amica?"
+
+msgctxt "596_???"
+msgid "Yep, that's me. You must be the one Yoko-chan told me about."
+msgstr "Sì, sono io. Devi essere tu quello di cui mi ha parlato Yoko-chan."
+
+msgctxt "608_???"
+msgid "I'm Momiyama, manager of this salon. I'm also the head masseur."
+msgstr ""
+"Sono Momiyama, il manager di questo salone. Sono anche il capo "
+"massaggiatore."
+
+msgctxt "620_Haruka"
+msgid "I'm Haruka Sawamura. I heard you were into dance battles."
+msgstr "Sono Haruka Sawamura. Ho sentito dire che fai dance battle."
+
+msgctxt "632_Momiyama"
+msgid ""
+"You heard right. I know I should really act my age, but I just love to "
+"dance. Can't get enough of shaking my booty, you know?"
+msgstr ""
+"Hai sentito bene. So che dovrei darmi un contegno per la mia età, ma adoro "
+"semplicemente ballare. Non mi stanco mai di scuotere il fondoschiena, sai?"
+
+msgctxt "644_Momiyama"
+msgid "Are you up for a dance battle, Haruka-san?"
+msgstr "Te la senti di fare una dance battle, Haruka-san?"
+
+msgctxt "656_Haruka"
+msgid "Yes, of course."
+msgstr "Sì, certo."
+
+msgctxt "668_Momiyama"
+msgid "Mwahahaha!"
+msgstr "Mwahahaha!"
+
+msgctxt "680_Haruka"
+msgid "What are you laughing at?"
+msgstr "Di cosa stai ridendo?"
+
+msgctxt "692_Momiyama"
+msgid ""
+"You're on! And if you win, your treatment is free! Well, it's time to bust a"
+" move!"
+msgstr ""
+"Ci siamo! E se vinci, il tuo trattamento è gratuito! Bene, è ora di "
+"scatenarsi!"

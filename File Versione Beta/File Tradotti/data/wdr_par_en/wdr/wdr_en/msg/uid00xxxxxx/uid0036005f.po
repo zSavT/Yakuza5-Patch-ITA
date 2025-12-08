@@ -1,0 +1,153 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "4932"
+msgid "Riku"
+msgstr "Riku"
+
+msgctxt "4940"
+msgid "Sing"
+msgstr "Canta"
+
+msgctxt "4944"
+msgid "Don't Sing"
+msgstr "Non Cantare"
+
+msgctxt "4948"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "4952"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4956"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "156_Riku"
+msgid "I'm gonna sing my heart out!"
+msgstr "Canterò con tutto il cuore!"
+
+msgctxt "168_Riku"
+msgid ""
+"Now, what to sing... <Color:255,200,200,255>\"Ring\"<Color:Default> is "
+"always a good one."
+msgstr ""
+"Ora, cosa cantare... <Color:255,200,200,255>\"Ring\"<Color:Default> è sempre"
+" una buona scelta."
+
+msgctxt "180_Riku"
+msgid ""
+"That was a blast. <Color:255,200,200,255>♥<Color:Default> And you really got"
+" the party started, %s-san!"
+msgstr ""
+"È stato uno spasso. <Color:255,200,200,255>♥<Color:Default> E hai davvero "
+"fatto scatenare la festa, %s-san!"
+
+msgctxt "192_Riku"
+msgid ""
+"Now I wanna hear you sing, %s-san. <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Ora voglio sentirti cantare, %s-san. <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "204_Player"
+msgid "Sure, I'm game."
+msgstr "Certo, ci sto."
+
+msgctxt "216_Riku"
+msgid ""
+"Hehe, <Color:255,200,200,255>♥<Color:Default> I can't wait, %s-san. "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Hehe, <Color:255,200,200,255>♥<Color:Default> Non vedo l'ora, %s-san. "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "228_Player"
+msgid "No, I think I'll pass."
+msgstr "No, direi che passo."
+
+msgctxt "240_Riku"
+msgid "Really? Aww, I wanted to hear you sing, %s-san..."
+msgstr "Davvero? Ah, volevo sentirti cantare, %s-san..."
+
+msgctxt "252_Riku"
+msgid "Wow, that was rough..."
+msgstr "Wow, è stata dura..."
+
+msgctxt "264_Player"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "276_Riku"
+msgid ""
+"That felt great! <Color:255,200,200,255>♥<Color:Default> And you really "
+"helped me get into it, %s-san."
+msgstr ""
+"Mi sono sentito alla grande! <Color:255,200,200,255>♥<Color:Default> E mi "
+"hai davvero aiutato a sciogliermi, %s-san."
+
+msgctxt "288_Riku"
+msgid ""
+"Now I wanna hear you sing, %s-san. <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Ora voglio sentirti cantare, %s-san. <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "300_Player"
+msgid "Sure, I'm game."
+msgstr "Certo, ci sto."
+
+msgctxt "312_Riku"
+msgid ""
+"Hehe. <Color:255,200,200,255>♥<Color:Default> Can't wait to hear you sing, "
+"%s-san. <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Hehe. <Color:255,200,200,255>♥<Color:Default> Non vedo l'ora di sentirti "
+"cantare, %s-san. <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "324_Player"
+msgid "No, I think I'll pass."
+msgstr "No, direi che passo."
+
+msgctxt "336_Riku"
+msgid "Really? Aww, I wanted to hear you sing, %s-san..."
+msgstr "Davvero? Ah, volevo sentirti cantare, %s-san..."
+
+msgctxt "348_Riku"
+msgid "That was great! You really know how to belt out a tune, Kiryu-san."
+msgstr "È stato fantastico! Sai proprio come tirare fuori la voce, Kiryu-san."
+
+msgctxt "360_Player"
+msgid "I have my moments."
+msgstr "Ho i miei momenti."
+
+msgctxt "372_Riku"
+msgid "Well, that was... umm... different."
+msgstr "Beh, è stato... ehm... diverso."
+
+msgctxt "384_Player"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "396_Riku"
+msgid ""
+"I couldn't take my eyes off you. <Color:255,200,200,255>♥<Color:Default> "
+"You're an amazin' singer, Kiryu-san!"
+msgstr ""
+"Non riuscivo a staccarti gli occhi di dosso. "
+"<Color:255,200,200,255>♥<Color:Default> Sai cantare da dio, Kiryu-san!"
+
+msgctxt "408_Player"
+msgid "Heh, thanks."
+msgstr "Eh, grazie."

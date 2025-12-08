@@ -1,0 +1,85 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1680"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1684"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "1688"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1692"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1696"
+msgid "Refuse"
+msgstr "Rifiuta"
+
+msgctxt "1700"
+msgid "Accept"
+msgstr "Accetta"
+
+msgctxt "1704"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "1708"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1712"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "1716"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "72_Man"
+msgid ""
+"Sheesh. You're in a different class. That'll teach me to challenge "
+"strangers..."
+msgstr ""
+"Cavolo. Sei proprio un'altra categoria. Così imparo a sfidare gli "
+"sconosciuti..."
+
+msgctxt "84_Man"
+msgid "Heh, that was entertaining. Thanks."
+msgstr "Eheh, mi sono divertito. Grazie."
+
+msgctxt "96_Man"
+msgid "Say, there. If you have the time, how about a game of billiards?"
+msgstr "Senti un po'. Se hai tempo, che ne dici di una partita a biliardo?"
+
+msgctxt "108_Player"
+msgid "Sorry. Ain't got that sort of time."
+msgstr "Scusa. Non ho mica quel tipo di tempo."
+
+msgctxt "120_Man"
+msgid "That so? Too bad."
+msgstr "Ah sì? Peccato."
+
+msgctxt "132_Player"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "144_Man"
+msgid "Heh, this should be good."
+msgstr "Eheh, questa sarà bella."

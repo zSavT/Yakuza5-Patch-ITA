@@ -1,0 +1,98 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "3020"
+msgid "Staff"
+msgstr "Staff"
+
+msgctxt "3024"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "3028"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "3032"
+msgid "P_TLK_sitchr_kamae"
+msgstr "P_TLK_sitchr_kamae"
+
+msgctxt "3036"
+msgid "Nakajima"
+msgstr "Nakajima"
+
+msgctxt "3040"
+msgid "ArmsID"
+msgstr "ID Armi"
+
+msgctxt "3044"
+msgid "M_NML_SET_sitcnt_drink_glass"
+msgstr "M_NML_SET_sitcnt_drink_glass"
+
+msgctxt "3048"
+msgid "M_NML_TLK_sitcnt_kamae"
+msgstr "M_NML_TLK_sitcnt_kamae"
+
+msgctxt "3052"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "3056"
+msgid "M_NML_TLK_stand_kamae"
+msgstr "M_NML_TLK_stand_kamae"
+
+msgctxt "3060"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "44_Staff"
+msgid "Welcome!"
+msgstr "Benvenuto!"
+
+msgctxt "56_Staff"
+msgid "Table for two? Take any spot you like."
+msgstr "Tavolo per due? Accomodatevi dove vi pare."
+
+msgctxt "116_Nakajima"
+msgid ""
+"Folks would fight each other off with a stick for a taste o' this place's "
+"mizutaki. Y'can only get that kinda chicken hot pot right here in beautiful "
+"Fukuoka!"
+msgstr ""
+"La gente si prenderebbe a bastonate pur di assaggiare il mizutaki di questo "
+"posto. Un hot pot di pollo del genere lo puoi trovare solo qui, nella "
+"splendida Fukuoka!"
+
+msgctxt "128_Nakajima"
+msgid ""
+"But don't lemme stop ya from orderin' what y'want! Go on, don't be shy."
+msgstr ""
+"Ma non ti voglio mica impedire di ordinare quello che ti pare! Su, non fare "
+"il timido."
+
+msgctxt "152_Nakajima"
+msgid "Ahhh, nothin' beats a drink after a hard day's work!"
+msgstr "Ahhh, niente batte una bevuta dopo aver sgobbato tutto il giorno!"
+
+msgctxt "164_Nakajima"
+msgid "Oh, and here comes the food. Let's dig in, Suzuki-san."
+msgstr "Oh, ecco che arriva il cibo. Mettiamoci sotto, Suzuki-san."
+
+msgctxt "212_Staff"
+msgid "Thank you very much."
+msgstr "Grazie mille."
+
+msgctxt "236_Player"
+msgid "(I should probably order something.)"
+msgstr "(Dovrei forse ordinare qualcosa.)"

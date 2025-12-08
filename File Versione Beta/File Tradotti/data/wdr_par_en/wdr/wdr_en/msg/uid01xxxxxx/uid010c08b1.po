@@ -1,0 +1,416 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "156"
+msgid "You got <Color:8>10,000 yen<Color:Default>."
+msgstr "Hai ottenuto <Color:8>10.000 yen<Color:Default>."
+
+msgctxt "276"
+msgid "You got 400 experience points."
+msgstr "Hai ottenuto 400 punti esperienza."
+
+msgctxt "14244"
+msgid "Really Injured Man"
+msgstr "Uomo Seriamente Ferito"
+
+msgctxt "14248"
+msgid "Fake Passenger Lady"
+msgstr "Finta Passeggera"
+
+msgctxt "14252"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "14256"
+msgid "Young Passerby"
+msgstr "Giovane Passante"
+
+msgctxt "14260"
+msgid "M_nml_stand"
+msgstr "M_nml_stand"
+
+msgctxt "14264"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "14268"
+msgid "Broke Actor"
+msgstr "Attore Squattrinato"
+
+msgctxt "14272"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "14276"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "14280"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "14284"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "14288"
+msgid "Old Man"
+msgstr "Anziano"
+
+msgctxt "14292"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "14296"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "14300"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "14304"
+msgid "0"
+msgstr "0"
+
+msgctxt "14308"
+msgid "Man on the Ground"
+msgstr "Uomo a terra"
+
+msgctxt "14312"
+msgid "Lady in a Hurry"
+msgstr "Signora Frettolosa"
+
+msgctxt "14316"
+msgid "Aghast Man"
+msgstr "Uomo Sbigottito"
+
+msgctxt "14320"
+msgid "Suspiciously Timed Bystander"
+msgstr "Passante dal tempismo sospetto"
+
+msgctxt "14324"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "14328"
+msgid "Suddenly Crying Lady"
+msgstr "Signora Improvvisamente Piangente"
+
+msgctxt "14332"
+msgid "Talk_Cry"
+msgstr "Talk_Cry"
+
+msgctxt "14336"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "14340"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "14344"
+msgid "Man's Voice"
+msgstr "Voce maschile"
+
+msgctxt "14348"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "14352"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "14356"
+msgid "StandUp"
+msgstr "Rialzarsi"
+
+msgctxt "14360"
+msgid "Not Really Injured Man"
+msgstr "Uomo non realmente ferito"
+
+msgctxt "60_Really Injured Man"
+msgid "Oof... I never met a taxi driver who could fight like that."
+msgstr "Uff... Non ho mai beccato un tassista che menasse le mani così."
+
+msgctxt "72_Fake Passenger Lady"
+msgid "I told you we should stop doing this!"
+msgstr "Te l'avevo detto che dovevamo piantarla!"
+
+msgctxt "84_Fake Passenger Lady"
+msgid "It's just mean to do this as a way to cover the theater costs."
+msgstr "È proprio da stronzi fare questo per coprire i costi del teatro."
+
+msgctxt "96_Really Injured Man"
+msgid "I guess we should stick to acting."
+msgstr "Mi sa che dovremmo proprio limitarci a recitare."
+
+msgctxt "108_Really Injured Man"
+msgid ""
+"Sorry, man. We're all just struggling actors at a little theater. We didn't "
+"have the money to pay the upkeep, so we turned to this..."
+msgstr ""
+"Scusa, amico. Siamo tutti attori che sbarcano il lunario in un piccolo "
+"teatro. Non avevamo i soldi per coprire le spese, così ci siamo dati a "
+"questo..."
+
+msgctxt "120_Really Injured Man"
+msgid "We'll change our ways and build up the troupe again!"
+msgstr "Cambieremo modo di fare e ricostruiremo la compagnia!"
+
+msgctxt "132_Fake Passenger Lady"
+msgid ""
+"I really apologize for all this. Here's the fare, and a tip to show how "
+"sorry we are."
+msgstr ""
+"Mi dispiace un casino per tutto questo. Ecco i soldi della corsa, e una "
+"mancia per farti capire quanto ci spiace."
+
+msgctxt "180_Really Injured Man"
+msgid "We won't try anything stupid like this again. Promise!"
+msgstr "Non faremo più niente di stupido come questo. Promesso!"
+
+msgctxt "192_Old Man"
+msgid "Well, they say they're sorry. Are you gonna give them a pass?"
+msgstr "Beh, dicono che gli dispiace. Li lasci perdere?"
+
+msgctxt "204_Kiryu"
+msgid "Yes. And thank you for speaking up."
+msgstr "Sì. E grazie per esserti fatto sentire."
+
+msgctxt "216_Old Man"
+msgid ""
+"No need for thanks. I've got lots of time on my hands these days. I'm happy "
+"to help out."
+msgstr ""
+"Figurati. Ho un sacco di tempo libero in questi giorni. Sono felice di dare "
+"una mano."
+
+msgctxt "228_Old Man"
+msgid ""
+"If you lot really wanna be successful actors, you'd better not try any more "
+"monkey business like this."
+msgstr ""
+"Se voi altri volete davvero diventare attori di successo, fareste meglio a "
+"non fare più magheggi del genere."
+
+msgctxt "240_Really Injured Man"
+msgid "Yes, sir!"
+msgstr "Sì, signore!"
+
+msgctxt "252_Kiryu"
+msgid ""
+"(That old man saved the day. I'll have to keep an eye out for schemes like "
+"this.)"
+msgstr ""
+"(Quel vecchietto ha sistemato tutto. Dovrò tenere gli occhi aperti per "
+"magheggi del genere.)"
+
+msgctxt "300_Kiryu"
+msgid "Are you okay!?"
+msgstr "Stai bene!?"
+
+msgctxt "312_Man on the Ground"
+msgid "Ow ow ow. I think I... broke something..."
+msgstr "Ahi ahi ahi. Mi sa che ho... rotto qualcosa..."
+
+msgctxt "324_Lady in a Hurry"
+msgid "Hey! He looks pretty bad!"
+msgstr "Ehi! Sta messo proprio male!"
+
+msgctxt "336_Kiryu"
+msgid "(Hmm. Something's up. It didn't feel like I hit him.)"
+msgstr "(Hmm. Qualcosa non torna. Non mi è sembrato di averlo colpito.)"
+
+msgctxt "360_Really Injured Man"
+msgid "Hey, are you okay?"
+msgstr "Ehi, stai bene?"
+
+msgctxt "372_Man on the Ground"
+msgid "This taxi drove right into me, at a very high speed!"
+msgstr "Questo taxi mi è venuto addosso, a tutta velocità!"
+
+msgctxt "396_Really Injured Man"
+msgid "On this little road? Was the driver crazy!?"
+msgstr "Su questa stradina? Ma era impazzito il tassista!?"
+
+msgctxt "408_Kiryu"
+msgid "Hold on. I admit I was going fast, but I'm sure I stopped in time."
+msgstr ""
+"Un momento. Ammetto che andavo veloce, ma sono sicuro di essermi fermato in "
+"tempo."
+
+msgctxt "432_Really Injured Man"
+msgid "How can we be sure of that? Let's see what your passenger has to say."
+msgstr ""
+"Come possiamo esserne sicuri? Sentiamo cosa ha da dire il tuo passeggero."
+
+msgctxt "444_Really Injured Man"
+msgid "Yeah. So, what happened?"
+msgstr "Già. Allora, che è successo?"
+
+msgctxt "456_Lady in a Hurry"
+msgid "The driver hit him, I'm certain of it!"
+msgstr "L'autista gli è venuto addosso, ne sono certa!"
+
+msgctxt "468_Kiryu"
+msgid "Huh!?"
+msgstr "Eh!?"
+
+msgctxt "480_Suddenly Crying Lady"
+msgid ""
+"I was telling him to please slow down and drive safely, but he just kept on "
+"speeding!"
+msgstr ""
+"Gli stavo dicendo di andarci piano e guidare sicuro, ma lui continuava solo "
+"ad accelerare!"
+
+msgctxt "492_Kiryu"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "504_Man on the Ground"
+msgid ""
+"Look, normally I'd go straight to the police with this, but I don't want to "
+"ruin your life."
+msgstr ""
+"Senti, normalmente per una cosa del genere andrei dritto alla polizia, ma "
+"non voglio rovinarti la vita."
+
+msgctxt "516_Man on the Ground"
+msgid ""
+"If your license got revoked, you wouldn't be able to make a living, right? "
+"We could just settle this right here, if you want."
+msgstr ""
+"Se ti revocassero la patente, non potresti più campare, giusto? Potremmo "
+"chiuderla qui, se vuoi."
+
+msgctxt "528_Really Injured Man"
+msgid "That is so kind of you, given such unusual circumstances."
+msgstr "È molto gentile da parte tua, date le circostanze così insolite."
+
+msgctxt "540_Really Injured Man"
+msgid "Hey, man, you're lucky you hit someone willing to give you a break!"
+msgstr ""
+"Senti, amico, sei fortunato che hai colpito qualcuno disposto a venirti "
+"incontro!"
+
+msgctxt "552_Man on the Ground"
+msgid ""
+"How about you compensate me 500,000 yen to cover my medical bills, and then "
+"we can pretend this never happened?"
+msgstr ""
+"Che ne dici di risarcirmi 500.000 yen per coprire le mie spese mediche, e "
+"poi possiamo far finta che non sia mai successo?"
+
+msgctxt "564_Really Injured Man"
+msgid "Wow! You're getting off so lightly!"
+msgstr "Accidenti! Te la stai cavando fin troppo bene!"
+
+msgctxt "576_Man on the Ground"
+msgid ""
+"Come on, let's do this quickly. If you don't have money on you, there's an "
+"ATM just around that－"
+msgstr ""
+"Dai, sbrighiamoci. Se non hai soldi addosso, c'è un bancomat proprio lì "
+"dietro－"
+
+msgctxt "588_Man's Voice"
+msgid "Wait just a minute!"
+msgstr "Aspetta un attimo!"
+
+msgctxt "600_Man on the Ground"
+msgid "Huh!?"
+msgstr "Eh!?"
+
+msgctxt "612_Old Man"
+msgid ""
+"I saw the whole thing from my window. That taxi driver never hit you, he "
+"braked in plenty of time."
+msgstr ""
+"Ho visto tutto quanto dalla mia finestra. Quel tassista non ti ha proprio "
+"colpito, ha frenato con largo anticipo."
+
+msgctxt "624_Man on the Ground"
+msgid "Who the hell's this guy?"
+msgstr "Chi diavolo è questo tizio?"
+
+msgctxt "636_Really Injured Man"
+msgid "He's not with us."
+msgstr "Non è con noi."
+
+msgctxt "648_Really Injured Man"
+msgid ""
+"What, some old guy just happened to be watching from the window of his home?"
+" I don't believe it!"
+msgstr ""
+"Ma come, un vecchio qualsiasi si è trovato a guardare per caso dalla "
+"finestra di casa sua? Non ci credo!"
+
+msgctxt "660_Old Man"
+msgid ""
+"I've actually been watching all of you for a while. You were acting "
+"suspicious."
+msgstr ""
+"A dire il vero, è da un po' che vi tengo d'occhio, tutti quanti. Vi stavate "
+"comportando in maniera sospetta."
+
+msgctxt "672_Old Man"
+msgid "I saw you hiding out along the road. What exactly are you up to?"
+msgstr "Ti ho visto appostati lungo la strada. Cosa diavolo state combinando?"
+
+msgctxt "684_Man on the Ground"
+msgid "Uh-oh..."
+msgstr "Oh-oh..."
+
+msgctxt "696_Old Man"
+msgid "Wait a minute... You're scammers, aren't you!?"
+msgstr "Aspettate un attimo... Siete dei truffatori, vero!?"
+
+msgctxt "708_Man on the Ground"
+msgid "Damn it!"
+msgstr "Maledizione!"
+
+msgctxt "720_Old Man"
+msgid ""
+"The passenger, the victim, and the passersby. You were all in on it, huh? "
+"Crafty bastards."
+msgstr ""
+"Il passeggero, la vittima e i passanti. Ci siete dentro tutti, eh? Bastardi "
+"furbi."
+
+msgctxt "732_Not Really Injured Man"
+msgid ""
+"Fine, you got us. But now we've got a problem, see? We can't afford to let "
+"you squeal!"
+msgstr ""
+"Va bene, ci hai beccati. Ma ora abbiamo un problema, capisci? Non possiamo "
+"permetterci che tu vada a spifferare tutto!"
+
+msgctxt "744_Not Really Injured Man"
+msgid "Looks like we better persuade you to keep your mouth shut."
+msgstr "Mi sa che faremmo meglio a convincerti a non spifferare tutto."
+
+msgctxt "756_Kiryu"
+msgid "Please, let me handle this."
+msgstr "Per favore, lascia che ci pensi io."
+
+msgctxt "768_Old Man"
+msgid "I appreciate it. Come on, young lady."
+msgstr "Apprezzo. Dai, ragazzina."
+
+msgctxt "792_Really Injured Man"
+msgid "Even better! No need to hold back, let's maul this guy!"
+msgstr ""
+"Ancora meglio! Non c'è bisogno di trattenersi, massacriamo questo tizio!"

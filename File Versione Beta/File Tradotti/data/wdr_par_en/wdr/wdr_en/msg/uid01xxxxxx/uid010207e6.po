@@ -1,0 +1,151 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2992"
+msgid "Nakajima"
+msgstr "Nakajima"
+
+msgctxt "2996"
+msgid "adv1_010/nakajima_1_010_010"
+msgstr "adv1_010/nakajima_1_010_010"
+
+msgctxt "3000"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "3004"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "3008"
+msgid "adv1_010/kiryu_0024"
+msgstr "adv1_010/kiryu_0024"
+
+msgctxt "3012"
+msgid "adv1_010/nakajima_0005"
+msgstr "adv1_010/nakajima_0005"
+
+msgctxt "3016"
+msgid "adv1_010/kiryu_0025"
+msgstr "adv1_010/kiryu_0025"
+
+msgctxt "3020"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "3024"
+msgid "adv1_010/nakajima_1_010_020"
+msgstr "adv1_010/nakajima_1_010_020"
+
+msgctxt "3028"
+msgid "adv1_010/kiryu_1_010_010"
+msgstr "adv1_010/kiryu_1_010_010"
+
+msgctxt "3032"
+msgid "adv1_010/nakajima_1_010_030"
+msgstr "adv1_010/nakajima_1_010_030"
+
+msgctxt "3036"
+msgid "adv1_010/kiryu_1_010_020"
+msgstr "adv1_010/kiryu_1_010_020"
+
+msgctxt "3040"
+msgid "adv1_010/nakajima_1_010_040"
+msgstr "adv1_010/nakajima_1_010_040"
+
+msgctxt "3044"
+msgid "adv1_010/nakajima_1_010_050"
+msgstr "adv1_010/nakajima_1_010_050"
+
+msgctxt "3048"
+msgid "adv1_010/kiryu_1_010_030a"
+msgstr "adv1_010/kiryu_1_010_030a"
+
+msgctxt "3052"
+msgid "adv1_010/nakajima_1_010_070"
+msgstr "adv1_010/nakajima_1_010_070"
+
+msgctxt "3056"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "44_Nakajima"
+msgid ""
+"So... you took on a passenger from the middle of the line today, right? "
+"<Color:7>Tenjin Transportation<Color:Default> came bellyachin' about it."
+msgstr ""
+"Allora... oggi hai preso un passeggero a metà della fila, vero? La "
+"<Color:7>Tenjin Transportation<Color:Default> è venuta a frignare per "
+"questo."
+
+msgctxt "56_Kiryu"
+msgid "Oh..."
+msgstr "Oh..."
+
+msgctxt "68_Nakajima"
+msgid ""
+"We get enough flak from the other firms as it is. Mind bein' a bit more "
+"careful?"
+msgstr ""
+"Ci becchiamo già abbastanza grane dalle altre ditte. Faresti un po' più "
+"d'attenzione?"
+
+msgctxt "80_Kiryu"
+msgid "Sorry for the trouble, sir. It was an amateur mistake."
+msgstr "Mi dispiace per la grana, signore. È stato un errore da pivello."
+
+msgctxt "92_Nakajima"
+msgid ""
+"Ah, don't be so hard on yerself. I'm about to head over there with some "
+"cakes or what have ya and apologize."
+msgstr ""
+"Ah, non prendertela. Sto per farci un salto con qualche torta o quel che sia"
+" e chiedere scusa."
+
+msgctxt "104_Kiryu"
+msgid "No. I should be the one to go."
+msgstr "No. Dovrei essere io ad andarci."
+
+msgctxt "116_Nakajima"
+msgid "Like heck ya should. It's my company, so I've gotta do this."
+msgstr "Col cavolo dovresti. È la mia ditta, quindi devo farlo io."
+
+msgctxt "128_Kiryu"
+msgid "Please, I insist."
+msgstr "Per favore, insisto."
+
+msgctxt "140_Nakajima"
+msgid "Yeah? Guess I'll leave it in yer hands, then."
+msgstr "Sì? Allora, immagino che lo lascio a te."
+
+msgctxt "152_Nakajima"
+msgid ""
+"You know where Tenjin Transportation is, right? Over on West Gion Street."
+msgstr "Sai dov'è la Tenjin Transportation, vero? Lì su West Gion Street."
+
+msgctxt "164_Kiryu"
+msgid "Got it."
+msgstr "Capito."
+
+msgctxt "176_Nakajima"
+msgid "Well, hope everythin' goes well. Call me after you're done there."
+msgstr "Allora, spero che vada tutto liscio. Chiamami quando hai finito lì."
+
+msgctxt "200_Kiryu"
+msgid ""
+"(I need to go to Tenjin Transportation and apologize. That should set things"
+" right.)"
+msgstr ""
+"(Devo andare alla Tenjin Transportation e chiedere scusa. Così dovremmo "
+"mettere le cose a posto.)"

@@ -1,0 +1,114 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "96"
+msgid "You got a <Color:8>Staminan Spark<Color:Default>."
+msgstr "Hai un <Color:8>Staminan Spark<Color:Default>."
+
+msgctxt "180"
+msgid "You got 1,000 experience points."
+msgstr "Hai 1.000 punti esperienza."
+
+msgctxt "4004"
+msgid "High School Slugger"
+msgstr "Fuoriclasse del Liceo"
+
+msgctxt "4008"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "4012"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "4016"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "4020"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "4024"
+msgid "Talk_Get"
+msgstr "Talk_Get"
+
+msgctxt "4028"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4032"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "4036"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "4040"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "4044"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "60_High School Slugger"
+msgid "Wow! That was an eye-opener."
+msgstr "Wow! È stato illuminante."
+
+msgctxt "72_Shinada"
+msgid "Heh. Hope so."
+msgstr "Heh. Spero di sì."
+
+msgctxt "84_High School Slugger"
+msgid "I think I can do this now. Thank you! Please, take this."
+msgstr "Credo di farcela ora. Grazie! Per favore, prendi questo."
+
+msgctxt "120_Shinada"
+msgid ""
+"Go for it, guy. Once you master it, you'll be much tougher to pitch against."
+msgstr ""
+"Dacci dentro, amico. Una volta che lo padroneggi, sarà molto più difficile "
+"lanciarti contro."
+
+msgctxt "132_High School Slugger"
+msgid "That's right! I'm gonna do it!"
+msgstr "Proprio così! Ce la farò!"
+
+msgctxt "156_High School Slugger"
+msgid "(Heh, well that sure brings back memories. Hope I wasn't too preachy.)"
+msgstr ""
+"(Heh, beh, questo mi fa tornare in mente un sacco di ricordi. Spero di non "
+"aver fatto troppe prediche.)"
+
+msgctxt "228_High School Slugger"
+msgid "Huh? Weren't you going to foul off three pitches?"
+msgstr "Eh? Non dovevi battere in fallo tre lanci?"
+
+msgctxt "240_Shinada"
+msgid "I, uh... kind of screwed it up there."
+msgstr "Io, uh... ho fatto un po' un casino lì."
+
+msgctxt "252_High School Slugger"
+msgid ""
+"Oh, I see how it is. You're one of those old guys who give all kinds of "
+"advice that they themselves don't follow. Well, that's disappointing."
+msgstr ""
+"Ah, ho capito com'è. Sei uno di quei vecchietti che danno un sacco di "
+"consigli che poi non seguono loro stessi. Beh, è deludente."
+
+msgctxt "264_High School Slugger"
+msgid "(Urgh... I don't even have a comeback!)"
+msgstr "(Urgh... non ho nemmeno una replica!)"

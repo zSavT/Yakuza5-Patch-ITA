@@ -1,0 +1,101 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "3528"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "3532"
+msgid "Exit"
+msgstr "Esci"
+
+msgctxt "3536"
+msgid "Casino"
+msgstr "Casinò"
+
+msgctxt "3540"
+msgid "Don't Leave"
+msgstr "Non uscire"
+
+msgctxt "3544"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "3548"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "3552"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "3556"
+msgid "Forget it."
+msgstr "Lascia perdere."
+
+msgctxt "3560"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "3564"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "60_Player"
+msgid "(Where to?)"
+msgstr "(Dove andare?)"
+
+msgctxt "96_Player"
+msgid "(No, forget it.)"
+msgstr "(No, lascia perdere.)"
+
+msgctxt "120_Kiryu"
+msgid "(Where to?)"
+msgstr "(Dove andare?)"
+
+msgctxt "132_Akiyama"
+msgid "(Where should I go?)"
+msgstr "(Dove andare?)"
+
+msgctxt "144_Saejima"
+msgid "(Now, where to?)"
+msgstr "(Ora, dove andare?)"
+
+msgctxt "156_Shinada"
+msgid "(Okay, where do I want to go?)"
+msgstr "(Ok, dove voglio andare?)"
+
+msgctxt "168_Haruka"
+msgid "(Where should I go?)"
+msgstr "(Dove andare?)"
+
+msgctxt "216_Player"
+msgid "(No, forget it.)"
+msgstr "(No, lascia perdere.)"
+
+msgctxt "228_Player"
+msgid "(No, let's stick around here.)"
+msgstr "(No, rimaniamo qui.)"
+
+msgctxt "240_Player"
+msgid "(No. Not yet.)"
+msgstr "(No. Non ancora.)"
+
+msgctxt "252_Player"
+msgid "(No, let's not leave yet.)"
+msgstr "(No, non andiamo via ancora.)"
+
+msgctxt "264_Player"
+msgid "(No, I should stay.)"
+msgstr "(No, dovrei restare.)"

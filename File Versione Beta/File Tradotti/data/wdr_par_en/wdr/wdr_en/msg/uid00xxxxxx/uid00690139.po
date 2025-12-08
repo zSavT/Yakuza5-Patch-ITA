@@ -1,0 +1,309 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1128"
+msgid "Received a <Color:8>1,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Hai ricevuto una mancia di <Color:8>1.000 yen<Color:Default> dal pubblico."
+
+msgctxt "1140"
+msgid "Received a <Color:8>2,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Hai ricevuto una mancia di <Color:8>2.000 yen<Color:Default> dal pubblico."
+
+msgctxt "1152"
+msgid "Received a <Color:8>4,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Hai ricevuto una mancia di <Color:8>4.000 yen<Color:Default> dal pubblico."
+
+msgctxt "1164"
+msgid "Received a <Color:8>6,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Hai ricevuto una mancia di <Color:8>6.000 yen<Color:Default> dal pubblico."
+
+msgctxt "1368"
+msgid "Received a <Color:8>500 yen<Color:Default> tip from the audience."
+msgstr ""
+"Hai ricevuto una mancia di <Color:8>500 yen<Color:Default> dal pubblico."
+
+msgctxt "1380"
+msgid "Received a <Color:8>1,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Hai ricevuto una mancia di <Color:8>1.000 yen<Color:Default> dal pubblico."
+
+msgctxt "1392"
+msgid "Received a <Color:8>1,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Hai ricevuto una mancia di <Color:8>1.000 yen<Color:Default> dal pubblico."
+
+msgctxt "1404"
+msgid "Received a <Color:8>2,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Hai ricevuto una mancia di <Color:8>2.000 yen<Color:Default> dal pubblico."
+
+msgctxt "27280"
+msgid "Tomoka"
+msgstr "Tomoka"
+
+msgctxt "27284"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "27288"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "27292"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "27296"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "27300"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "27304"
+msgid "Adjust Dance Heat Settings"
+msgstr "Regola le impostazioni di Heat della danza"
+
+msgctxt "27308"
+msgid "No"
+msgstr "No"
+
+msgctxt "27312"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "27316"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "27320"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "27324"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "27328"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "216_Tomoka"
+msgid "Wow! I didn't know there was anybody as good as you around!"
+msgstr "Wow! Non pensavo che ci fosse qualcuno così bravo come te in giro!"
+
+msgctxt "252_Tomoka"
+msgid ""
+"Sheesh, you weren't what I expected at all. I'm a little disappointed, to "
+"tell the truth."
+msgstr ""
+"Accidenti, non eri affatto quello che mi aspettavo. Sono un po' delusa, a "
+"dire la verità."
+
+msgctxt "288_Tomoka"
+msgid "Wait. Don't tell me you're looking for a dance battle..."
+msgstr "Aspetta. Non dirmi che stai cercando una battaglia di danza..."
+
+msgctxt "384_Haruka"
+msgid "No, I'm not."
+msgstr "No, non lo sono."
+
+msgctxt "396_Tomoka"
+msgid "Oh. My mistake."
+msgstr "Oh. Errore mio."
+
+msgctxt "432_Tomoka"
+msgid ""
+"Sheesh, when you're all wrung out like that? You'd better get some rest "
+"first."
+msgstr "Accidenti, ridotta a pezzi così? Faresti meglio a riposare prima."
+
+msgctxt "444_Haruka"
+msgid "Oh, okay. I guess you're right."
+msgstr "Oh, va bene. Suppongo tu abbia ragione."
+
+msgctxt "480_Tomoka"
+msgid "Wait. Don't tell me you're looking for a dance battle..."
+msgstr "Aspetta. Non dirmi che stai cercando una battaglia di danza..."
+
+msgctxt "576_Haruka"
+msgid "No, not really."
+msgstr "No, non proprio."
+
+msgctxt "588_Tomoka"
+msgid "Oh. My mistake."
+msgstr "Oh. Errore mio."
+
+msgctxt "624_Tomoka"
+msgid ""
+"Sheesh, when you're all wrung out like that? You'd better get some rest "
+"first."
+msgstr "Accidenti, ridotta a pezzi così? Faresti meglio a riposare prima."
+
+msgctxt "636_Haruka"
+msgid "Oh, okay. I guess you're right."
+msgstr "Oh, va bene. Suppongo tu abbia ragione."
+
+msgctxt "672_Tomoka"
+msgid "Wait. Don't tell me you're looking for a dance battle..."
+msgstr "Aspetta. Non dirmi che stai cercando una battaglia di danza..."
+
+msgctxt "744_Haruka"
+msgid "No, not really."
+msgstr "No, non proprio."
+
+msgctxt "756_Tomoka"
+msgid "Oh. My mistake."
+msgstr "Oh. Errore mio."
+
+msgctxt "792_Haruka"
+msgid "I am, actually. Would you mind?"
+msgstr "Lo sono, in effetti. Ti dispiacerebbe?"
+
+msgctxt "804_Tomoka"
+msgid "Of course not! Plus, you look like you'd put up a good fight."
+msgstr "Certo che no! E poi, sembri uno che darebbe del filo da torcere."
+
+msgctxt "840_Tomoka"
+msgid "Wait. Don't tell me you're looking for a dance battle..."
+msgstr "Aspetta. Non dirmi che stai cercando una battaglia di danza..."
+
+msgctxt "912_Haruka"
+msgid "No, not really."
+msgstr "No, non proprio."
+
+msgctxt "924_Tomoka"
+msgid "Oh. My mistake."
+msgstr "Oh. Errore mio."
+
+msgctxt "960_Haruka"
+msgid "I am, actually. Would you mind?"
+msgstr "Lo sono, in effetti. Ti dispiacerebbe?"
+
+msgctxt "972_Tomoka"
+msgid "Of course not! Plus, you look like you'd put up a good fight."
+msgstr "Certo che no! E poi, sembri uno che darebbe del filo da torcere."
+
+msgctxt "1020_Tomoka"
+msgid "Wow! I didn't know there was anybody as good as you around!"
+msgstr "Wow! Non sapevo ci fosse qualcuno bravo come te in giro!"
+
+msgctxt "1212_Tomoka"
+msgid ""
+"Sheesh, you weren't what I expected at all. I'm a little disappointed, to "
+"tell the truth."
+msgstr ""
+"Cavolo, non sei stato per niente come mi aspettavo. Sono un po' deluso, a "
+"dire la verità."
+
+msgctxt "1260_Tomoka"
+msgid "Wow! I didn't know there was anybody as good as you around!"
+msgstr "Wow! Non sapevo ci fosse qualcuno bravo come te in giro!"
+
+msgctxt "1452_Tomoka"
+msgid ""
+"Sheesh, you weren't what I expected at all. I'm a little disappointed, to "
+"tell the truth."
+msgstr ""
+"Cavolo, non sei stato per niente come mi aspettavo. Sono un po' deluso, a "
+"dire la verità."
+
+msgctxt "1488_Tomoka"
+msgid "Wait. Don't tell me you're looking for a dance battle..."
+msgstr "Aspetta. Non dirmi che stai cercando una battaglia di danza..."
+
+msgctxt "1608_Tomoka"
+msgid "No, not really."
+msgstr "No, non proprio."
+
+msgctxt "1620_Tomoka"
+msgid "Oh. My mistake."
+msgstr "Oh. Errore mio."
+
+msgctxt "1656_Tomoka"
+msgid ""
+"Sheesh, when you're all wrung out like that? You'd better get some rest "
+"first."
+msgstr "Cavolo, quando sei spremuto così? Faresti meglio a riposare prima."
+
+msgctxt "1668_Haruka"
+msgid "Oh, okay. I guess you're right."
+msgstr "Oh, ok. Immagino tu abbia ragione."
+
+msgctxt "1704_Tomoka"
+msgid "Wait. Don't tell me you're looking for a dance battle..."
+msgstr "Aspetta. Non dirmi che stai cercando una battaglia di danza..."
+
+msgctxt "1824_Tomoka"
+msgid "No, not really."
+msgstr "No, non proprio."
+
+msgctxt "1836_Tomoka"
+msgid "Oh. My mistake."
+msgstr "Oh. Errore mio."
+
+msgctxt "1872_Tomoka"
+msgid ""
+"Sheesh, when you're all wrung out like that? You'd better get some rest "
+"first."
+msgstr "Cavolo, quando sei spremuto così? Faresti meglio a riposare prima."
+
+msgctxt "1884_Haruka"
+msgid "Oh, okay. I guess you're right."
+msgstr "Oh, ok. Immagino tu abbia ragione."
+
+msgctxt "1920_Tomoka"
+msgid "Wait. Don't tell me you're looking for a dance battle..."
+msgstr "Aspetta. Non dirmi che stai cercando una battaglia di danza..."
+
+msgctxt "2016_Tomoka"
+msgid "No, not really."
+msgstr "No, non proprio."
+
+msgctxt "2028_Tomoka"
+msgid "Oh. My mistake."
+msgstr "Oh. Errore mio."
+
+msgctxt "2064_Tomoka"
+msgid "I am, actually. Would you mind?"
+msgstr "Lo sono, in effetti. Ti dispiacerebbe?"
+
+msgctxt "2076_Tomoka"
+msgid "Of course not! Plus, you look like you'd put up a good fight."
+msgstr "Certo che no! E poi, hai tutta l'aria di darmi del filo da torcere."
+
+msgctxt "2112_Tomoka"
+msgid "Wait. Don't tell me you're looking for a dance battle..."
+msgstr "Aspetta. Non dimmi che stai cercando una battaglia di danza..."
+
+msgctxt "2208_Tomoka"
+msgid "No, not really."
+msgstr "No, non proprio."
+
+msgctxt "2220_Tomoka"
+msgid "Oh. My mistake."
+msgstr "Oh. Errore mio."
+
+msgctxt "2256_Tomoka"
+msgid "I am, actually. Would you mind?"
+msgstr "Lo sono, in effetti. Ti dispiacerebbe?"
+
+msgctxt "2268_Tomoka"
+msgid "Of course not! Plus, you look like you'd put up a good fight."
+msgstr "Certo che no! E poi, hai tutta l'aria di darmi del filo da torcere."

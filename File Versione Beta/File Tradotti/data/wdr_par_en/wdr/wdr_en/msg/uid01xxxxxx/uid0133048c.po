@@ -1,0 +1,85 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1924"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "1928"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "1932"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "1936"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "1940"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "1944"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "1948"
+msgid "Play"
+msgstr "Gioca"
+
+msgctxt "1952"
+msgid "Don't Play"
+msgstr "Non giocare"
+
+msgctxt "88_Kiryu"
+msgid "(It's out of order...)"
+msgstr "(È fuori servizio...)"
+
+msgctxt "100_Akiyama"
+msgid "(Nope. Out of order.)"
+msgstr "(No. È fuori servizio.)"
+
+msgctxt "112_Saejima"
+msgid "(Looks like it's busted.)"
+msgstr "(Sembra che sia fuori servizio.)"
+
+msgctxt "124_Shinada"
+msgid "(Huh. It's broken.)"
+msgstr "(Eh. È fuori servizio.)"
+
+msgctxt "136_Haruka"
+msgid "(Oh. It's out of order.)"
+msgstr "(Oh. È fuori servizio.)"
+
+msgctxt "148_Player"
+msgid "(The Challenge Course costs 300 yen to play. Should I give it a try?)"
+msgstr "(Il Percorso sfida costa 300 yen per giocare. Dovrei provarci?)"
+
+msgctxt "172_Player"
+msgid "(Oops. I'm too broke.)"
+msgstr "(Ops. Sono troppo al verde.)"
+
+msgctxt "184_Player"
+msgid "(All right. Let's do this.)"
+msgstr "(Va bene. Facciamolo.)"
+
+msgctxt "208_Player"
+msgid "(Nope. Not now.)"
+msgstr "(No. Non adesso.)"
+
+msgctxt "220_Player"
+msgid "(The level's too high. It's a bit more than I can handle now.)"
+msgstr "(Il livello è troppo alto. È un po' troppo per me adesso.)"

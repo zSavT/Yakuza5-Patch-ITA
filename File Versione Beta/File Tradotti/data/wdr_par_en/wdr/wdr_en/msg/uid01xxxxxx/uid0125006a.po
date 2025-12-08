@@ -1,0 +1,41 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "76"
+msgid "Select the number of input devices to use."
+msgstr "Seleziona il numero di dispositivi di input da usare."
+
+msgctxt "112"
+msgid "Would you like to play again?"
+msgstr "Vuoi giocare di nuovo?"
+
+msgctxt "148"
+msgid "This mode requires two input devices to play."
+msgstr "Questa modalità richiede due dispositivi di input per giocare."
+
+msgctxt "1000"
+msgid "One"
+msgstr "Uno"
+
+msgctxt "1004"
+msgid "Two"
+msgstr "Due"
+
+msgctxt "1008"
+msgid "Play Again"
+msgstr "Gioca ancora"
+
+msgctxt "1012"
+msgid "Quit"
+msgstr "Esci"

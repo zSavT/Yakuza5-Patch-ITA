@@ -1,0 +1,56 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1144"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "1148"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "1152"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1156"
+msgid "HAL_TLK_stand_request02"
+msgstr "HAL_TLK_stand_request02"
+
+msgctxt "1160"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "136_Haruka"
+msgid "You're incredible, Uncle Kaz! That was too easy for you!"
+msgstr "Sei incredibile, Zio Kaz! È stato troppo facile per te!"
+
+msgctxt "160_Haruka"
+msgid "Well, better luck next time."
+msgstr "Vabbè, sarà per la prossima."
+
+msgctxt "184_Haruka"
+msgid ""
+"Uncle Kaz! Can you <Color:8>clear single-player nine-ball without "
+"fouling<Color:Default>? Pocket those balls, Uncle Kaz!"
+msgstr ""
+"Zio Kaz! Riesci a <Color:8>vincere il nine-ball in singolo senza fare "
+"fallo<Color:Default>? Inbuca quelle palle, Zio Kaz!"
+
+msgctxt "196_Kiryu"
+msgid ""
+"(Hmm. Looks like Haruka wants me to play <Color:8>pool<Color:Default>.)"
+msgstr ""
+"(Hmm. Sembra che Haruka voglia che giochi a "
+"<Color:8>biliardo<Color:Default>.)"

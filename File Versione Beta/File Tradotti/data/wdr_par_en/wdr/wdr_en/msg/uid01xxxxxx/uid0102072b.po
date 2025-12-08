@@ -1,0 +1,354 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "9080"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "9084"
+msgid "adv2_040/saejima_0099"
+msgstr "adv2_040/saejima_0099"
+
+msgctxt "9088"
+msgid "C2040_P_SAE_agura_kamae"
+msgstr "C2040_P_SAE_agura_kamae"
+
+msgctxt "9092"
+msgid "C2040_P_SAE_sleep_wakeup"
+msgstr "C2040_P_SAE_sleep_wakeup"
+
+msgctxt "9096"
+msgid "Kosaka"
+msgstr "Kosaka"
+
+msgctxt "9100"
+msgid "adv2_040/kosaka_0005"
+msgstr "adv2_040/kosaka_0005"
+
+msgctxt "9104"
+msgid "adv2_040/kosaka_0006"
+msgstr "adv2_040/kosaka_0006"
+
+msgctxt "9108"
+msgid "kaiwabgm_serious01"
+msgstr "kaiwabgm_serious01"
+
+msgctxt "9112"
+msgid "adv2_040/saejima_0100"
+msgstr "adv2_040/saejima_0100"
+
+msgctxt "9116"
+msgid "adv2_040/kosaka_0007"
+msgstr "adv2_040/kosaka_0007"
+
+msgctxt "9120"
+msgid "adv2_040/saejima_0101"
+msgstr "adv2_040/saejima_0101"
+
+msgctxt "9124"
+msgid "C2040_P_SAE_agura_no"
+msgstr "C2040_P_SAE_agura_no"
+
+msgctxt "9128"
+msgid "adv2_040/kosaka_0008"
+msgstr "adv2_040/kosaka_0008"
+
+msgctxt "9132"
+msgid "adv2_040/kosaka_0009"
+msgstr "adv2_040/kosaka_0009"
+
+msgctxt "9136"
+msgid "adv2_040/kosaka_0010"
+msgstr "adv2_040/kosaka_0010"
+
+msgctxt "9140"
+msgid "adv2_040/kosaka_0011a"
+msgstr "adv2_040/kosaka_0011a"
+
+msgctxt "9144"
+msgid "adv2_040/kosaka_0011b"
+msgstr "adv2_040/kosaka_0011b"
+
+msgctxt "9148"
+msgid "adv2_040/kosaka_0012a"
+msgstr "adv2_040/kosaka_0012a"
+
+msgctxt "9152"
+msgid "adv2_040/kosaka_0012b"
+msgstr "adv2_040/kosaka_0012b"
+
+msgctxt "9156"
+msgid "adv2_040/kosaka_0013a"
+msgstr "adv2_040/kosaka_0013a"
+
+msgctxt "9160"
+msgid "adv2_040/kosaka_0013b"
+msgstr "adv2_040/kosaka_0013b"
+
+msgctxt "9164"
+msgid "adv2_040/kosaka_0014"
+msgstr "adv2_040/kosaka_0014"
+
+msgctxt "9168"
+msgid "adv2_040/saejima_0107"
+msgstr "adv2_040/saejima_0107"
+
+msgctxt "9172"
+msgid "adv2_040/kosaka_0015"
+msgstr "adv2_040/kosaka_0015"
+
+msgctxt "9176"
+msgid "adv2_040/saejima_0108"
+msgstr "adv2_040/saejima_0108"
+
+msgctxt "9180"
+msgid "C2040_P_SAE_agura_yes"
+msgstr "C2040_P_SAE_agura_yes"
+
+msgctxt "9184"
+msgid "adv2_040/kosaka_0016"
+msgstr "adv2_040/kosaka_0016"
+
+msgctxt "9188"
+msgid "adv2_040/saejima_0109a"
+msgstr "adv2_040/saejima_0109a"
+
+msgctxt "9192"
+msgid "adv2_040/saejima_0109b"
+msgstr "adv2_040/saejima_0109b"
+
+msgctxt "9196"
+msgid "adv2_040/kosaka_0017"
+msgstr "adv2_040/kosaka_0017"
+
+msgctxt "9200"
+msgid "adv2_040/kosaka_0018a"
+msgstr "adv2_040/kosaka_0018a"
+
+msgctxt "9204"
+msgid "adv2_040/kosaka_0018b"
+msgstr "adv2_040/kosaka_0018b"
+
+msgctxt "9208"
+msgid "adv2_040/kosaka_0018c"
+msgstr "adv2_040/kosaka_0018c"
+
+msgctxt "9212"
+msgid "adv2_040/saejima_0111"
+msgstr "adv2_040/saejima_0111"
+
+msgctxt "9216"
+msgid "C2040_P_SAE_agura_quest"
+msgstr "C2040_P_SAE_agura_quest"
+
+msgctxt "9220"
+msgid "adv2_040/kosaka_0019a"
+msgstr "adv2_040/kosaka_0019a"
+
+msgctxt "9224"
+msgid "adv2_040/kosaka_0019b"
+msgstr "adv2_040/kosaka_0019b"
+
+msgctxt "9228"
+msgid "adv2_040/saejima_0112"
+msgstr "adv2_040/saejima_0112"
+
+msgctxt "9232"
+msgid "C2040_P_SAE_agura_ojigi"
+msgstr "C2040_P_SAE_agura_ojigi"
+
+msgctxt "44_Saejima"
+msgid "Ugh..."
+msgstr "Ugh..."
+
+msgctxt "68_Kosaka"
+msgid "Your meal."
+msgstr "Il tuo pasto."
+
+msgctxt "92_Kosaka"
+msgid "Something stopping you?"
+msgstr "Qualcosa ti blocca?"
+
+msgctxt "104_Saejima"
+msgid "Deputy Warden... Why're ya here?"
+msgstr "Vice-direttore... Perché sei qui?"
+
+msgctxt "116_Kosaka"
+msgid "Answer my question. What's stopping you?"
+msgstr "Rispondi alla mia domanda. Cosa ti blocca?"
+
+msgctxt "128_Saejima"
+msgid "Nothin'. Just can't force nothin' down right now."
+msgstr "Niente. Non riesco a buttar giù niente adesso."
+
+msgctxt "140_Kosaka"
+msgid "I don't mean the food. I mean Kugihara."
+msgstr "Non intendo il cibo. Intendo Kugihara."
+
+msgctxt "152_Kosaka"
+msgid ""
+"I know his men have been assaulting you. Why have you kept silent about it?"
+msgstr "So che i suoi uomini ti stanno pestando. Perché non hai detto niente?"
+
+msgctxt "164_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "176_Kosaka"
+msgid ""
+"Do you think that being a model prisoner will get you out on parole sooner?"
+msgstr "Pensi che fare il detenuto modello ti farà uscire prima sulla parola?"
+
+msgctxt "188_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "200_Kosaka"
+msgid ""
+"Don't count on it. In my penitentiary, no one who brings disorder is a model"
+" prisoner, even if he brings it unwillingly."
+msgstr ""
+"Non contarci. Nel mio penitenziario, nessuno che crei disordini è un "
+"detenuto modello, anche se lo fa involontariamente."
+
+msgctxt "212_Kosaka"
+msgid ""
+"...That's especially true for those who plan to return to the underworld "
+"upon their release."
+msgstr ""
+"Questo è particolarmente vero per quelli che contano di tornare nella "
+"malavita una volta rilasciati."
+
+msgctxt "236_Saejima"
+msgid "(...How does he know that?)"
+msgstr "(...Come fa a saperlo?)"
+
+msgctxt "248_Kosaka"
+msgid ""
+"However, I'm also a prison officer. I can't turn a blind eye to physical "
+"attacks on an inmate under my care."
+msgstr ""
+"Però, sono anche un agente penitenziario. Non posso chiudere un occhio sui "
+"pestaggi di un detenuto sotto la mia custodia."
+
+msgctxt "260_Kosaka"
+msgid "I can take steps to ensure you're kept away from Kugihara's gang."
+msgstr ""
+"Posso prendere provvedimenti per tenerti lontano dagli uomini di Kugihara."
+
+msgctxt "272_Saejima"
+msgid "(Ya think you're some guardian angel, eh?)"
+msgstr "(Credi di essere un angelo custode, eh?)"
+
+msgctxt "284_Kosaka"
+msgid ""
+"If you request it, I can keep you in solitary for the duration of your term."
+msgstr ""
+"Se lo richiedi, posso tenerti in isolamento per la durata della tua pena."
+
+msgctxt "296_Kosaka"
+msgid ""
+"All it would take is for me to inform the warden that you show no sign of "
+"remorse."
+msgstr ""
+"Basterebbe che informassi il direttore che non mostri alcun segno di "
+"rimorso."
+
+msgctxt "308_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "320_Kosaka"
+msgid "Well?"
+msgstr "Allora?"
+
+msgctxt "332_Saejima"
+msgid "Stay out of this."
+msgstr "Non ti impicciare."
+
+msgctxt "344_Kosaka"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "356_Saejima"
+msgid ""
+"If I stay in solitary, the gang might go after the other guys in my cell."
+msgstr ""
+"Se resto in isolamento, la banda potrebbe prendersela con gli altri compagni"
+" di cella."
+
+msgctxt "368_Kosaka"
+msgid "So, you think they're your friends just because you share a cell."
+msgstr ""
+"Allora, credi che siano tuoi amici solo perché siete nella stessa cella."
+
+msgctxt "380_Saejima"
+msgid ""
+"Nah, nothin' like that. But I know if it ain't me, it'll be them gettin' "
+"beat. And they can't take it like I can. They'll end up leavin' prison feet-"
+"first."
+msgstr ""
+"No, macché. Ma so che se non sono io a beccarmele, saranno loro. E loro non "
+"reggono il colpo come me. Finiranno per uscire di prigione con i piedi "
+"avanti."
+
+msgctxt "392_Saejima"
+msgid "Me, I can take being Kugihara's toy."
+msgstr "Io, posso reggere di essere il giocattolo di Kugihara."
+
+msgctxt "404_Kosaka"
+msgid ""
+"So you think you're saving others by serving yourself up? You think you're "
+"some guardian angel?"
+msgstr ""
+"Quindi credi di salvare gli altri offrendoti? Credi di essere un angelo "
+"custode?"
+
+msgctxt "416_Saejima"
+msgid "(...Me and this guy might be more alike than I wanna admit.)"
+msgstr ""
+"(...Io e 'sto tipo potremmo essere più simili di quanto voglia ammettere.)"
+
+msgctxt "428_Kosaka"
+msgid "I hate to break it to ya, but their only target is you."
+msgstr "Mi tocca proprio dirtelo, ma il loro unico bersaglio sei tu."
+
+msgctxt "440_Kosaka"
+msgid ""
+"Kugihara likes to cause trouble, but he's not stupid enough to assault just "
+"any random inmate."
+msgstr ""
+"A Kugihara piace far casino, ma non è mica così stupido da pestare un "
+"detenuto a caso."
+
+msgctxt "452_Kosaka"
+msgid ""
+"So you're not accomplishing anything by putting up with such treatment."
+msgstr "Quindi non concludi nulla sopportando un trattamento del genere."
+
+msgctxt "464_Saejima"
+msgid "Are ya done?"
+msgstr "Hai finito?"
+
+msgctxt "476_Kosaka"
+msgid "When you're finished eating, I'll let you out."
+msgstr "Quando hai finito di mangiare, ti faccio uscire."
+
+msgctxt "488_Kosaka"
+msgid "That's the only thing you want from me, isn't it?"
+msgstr "È l'unica cosa che vuoi da me, vero?"
+
+msgctxt "500_Saejima"
+msgid "'Preciate it."
+msgstr "Lo apprezzo."

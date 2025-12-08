@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "56"
+msgid "You got <Color:8>Staminan XX<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Staminan XX<Color:Default>."
+
+msgctxt "576"
+msgid "Employee"
+msgstr "Cameriere"
+
+msgctxt "44_Employee"
+msgid ""
+"Oh my, looks like you won a <Color:8>Staminan XX<Color:Default>. Congratulations!\r\n"
+" "
+msgstr ""
+"Oh cavolo, a quanto pare hai vinto un <Color:8>Staminan XX<Color:Default>. "
+"Congratulazioni!"
+
+msgctxt "80_Employee"
+msgid "."
+msgstr "."

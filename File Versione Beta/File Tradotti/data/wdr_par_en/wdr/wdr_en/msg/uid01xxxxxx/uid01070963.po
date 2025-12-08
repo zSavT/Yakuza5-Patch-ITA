@@ -1,0 +1,105 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2788"
+msgid "Incompetent Kondo"
+msgstr "Incompetent Kondo"
+
+msgctxt "380_Incompetent Kondo"
+msgid "First, we pick the banker."
+msgstr "Innanzitutto, scegliamo il banchiere."
+
+msgctxt "392_Incompetent Kondo"
+msgid "I'll be the banker."
+msgstr "Faccio io il banchiere."
+
+msgctxt "404_Incompetent Kondo"
+msgid "How much are you gonna bet?"
+msgstr "Quanto ti giochi?"
+
+msgctxt "416_Incompetent Kondo"
+msgid "Let's start the game."
+msgstr "Iniziamo il gioco."
+
+msgctxt "428_Incompetent Kondo"
+msgid "My turn."
+msgstr "Tocca a me."
+
+msgctxt "440_Incompetent Kondo"
+msgid "(This line should not appear.)"
+msgstr "(Questa riga non dovrebbe apparire.)"
+
+msgctxt "452_Incompetent Kondo"
+msgid "Let's settle up."
+msgstr "Saldiamo i conti."
+
+msgctxt "464_Incompetent Kondo"
+msgid "You'll be the banker."
+msgstr "Fai tu il banchiere."
+
+msgctxt "476_Incompetent Kondo"
+msgid "Let's change bankers."
+msgstr "Dai, cambiamo banchiere."
+
+msgctxt "488_Incompetent Kondo"
+msgid "Wanna try again?"
+msgstr "Vuoi riprovare?"
+
+msgctxt "500_Incompetent Kondo"
+msgid "I'm cleaned out... I'd better call it quits."
+msgstr "Sono a secco... Meglio che molli."
+
+msgctxt "512_Incompetent Kondo"
+msgid "Well well, looks like you're cleaned out. See you next time."
+msgstr "Bene bene, a quanto pare sei a secco. Alla prossima."
+
+msgctxt "524_Incompetent Kondo"
+msgid "Banker's Bet-Settling Messages"
+msgstr "Messaggi di saldo puntate del banchiere"
+
+msgctxt "536_Incompetent Kondo"
+msgid "A banker rolling 1-3-5 earns a 3."
+msgstr "Un banchiere che fa 1-3-5 guadagna un 3."
+
+msgctxt "548_Incompetent Kondo"
+msgid "A 1-3-5 by the first player earns a 3."
+msgstr "Un 1-3-5 che fa il primo giocatore guadagna un 3."
+
+msgctxt "560_Incompetent Kondo"
+msgid "A 1-3-5 changes to the previous player's roll."
+msgstr "Un 1-3-5 cambia al tiro del giocatore precedente."
+
+msgctxt "572_Incompetent Kondo"
+msgid "A banker rolling 2-4-6 earns a 4."
+msgstr "Un banchiere che fa 2-4-6 guadagna un 4."
+
+msgctxt "584_Incompetent Kondo"
+msgid "A 2-4-6 changes to the next player's roll."
+msgstr "Un 2-4-6 cambia al tiro del giocatore successivo."
+
+msgctxt "596_Incompetent Kondo"
+msgid "A 2-4-6 by the last player earns a 4."
+msgstr "Un 2-4-6 che fa l'ultimo giocatore guadagna un 4."
+
+msgctxt "608_Incompetent Kondo"
+msgid "A 2-4-6 changes to the last player's roll."
+msgstr "Un 2-4-6 cambia al tiro dell'ultimo giocatore."
+
+msgctxt "620_Incompetent Kondo"
+msgid "A 1-3-5 was rolled after a 2-4-6."
+msgstr "Un 1-3-5 è stato fatto dopo un 2-4-6."
+
+msgctxt "632_Incompetent Kondo"
+msgid "A 6-3-4!"
+msgstr "Un 6-3-4!"

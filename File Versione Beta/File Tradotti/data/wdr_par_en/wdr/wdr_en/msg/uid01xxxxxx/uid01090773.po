@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "224"
+msgid "You used a <Color:8>Trap Repair Kit<Color:Default>."
+msgstr "Hai usato un <Color:8>Kit di riparazione trappole<Color:Default>."
+
+msgctxt "2240"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "2244"
+msgid "Pick Up Trap"
+msgstr "Raccogli Trappola"
+
+msgctxt "2248"
+msgid "Repair Trap"
+msgstr "Ripara Trappola"
+
+msgctxt "2252"
+msgid "Cancel"
+msgstr "Annulla"
+
+msgctxt "2256"
+msgid "SS2_P_HNT_set_trap"
+msgstr "SS2_P_HNT_set_trap"
+
+msgctxt "44_Player"
+msgid "(The trap's busted.)"
+msgstr "(La trappola è andata.)"
+
+msgctxt "56_Player"
+msgid "(It's busted. I'll pull it up and chuck it out.)"
+msgstr "(È andata. La tiro su e la butto via.)"
+
+msgctxt "128_Player"
+msgid "(That'll do it.)"
+msgstr "(E con questo, è fatta.)"
+
+msgctxt "152_Player"
+msgid "(This can be repaired.)"
+msgstr "(Questa si può riparare.)"
+
+msgctxt "248_Player"
+msgid "That'll do it."
+msgstr "E con questo, è fatta."
+
+msgctxt "260_Player"
+msgid "(Got no trap repair kit.)"
+msgstr "(Non ho un kit di riparazione trappole.)"
+
+msgctxt "272_Player"
+msgid "(I'll just leave it for now.)"
+msgstr "(La lascio stare per adesso.)"

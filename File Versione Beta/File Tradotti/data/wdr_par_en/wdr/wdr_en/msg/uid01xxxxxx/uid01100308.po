@@ -1,0 +1,101 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2860"
+msgid "Dealer"
+msgstr "Croupier"
+
+msgctxt "364_Dealer"
+msgid "Snake eyes, even!"
+msgstr "Uno e uno, pari!"
+
+msgctxt "376_Dealer"
+msgid "1-2, odd!"
+msgstr "Uno-due, dispari!"
+
+msgctxt "388_Dealer"
+msgid "3-1, even!"
+msgstr "3-1, pari!"
+
+msgctxt "400_Dealer"
+msgid "4-1, odd!"
+msgstr "4-1, dispari!"
+
+msgctxt "412_Dealer"
+msgid "5-1, even!"
+msgstr "Cinque e uno, pari!"
+
+msgctxt "424_Dealer"
+msgid "6-1, odd!"
+msgstr "Sei e uno, dispari!"
+
+msgctxt "436_Dealer"
+msgid "2-2, even!"
+msgstr "Due-due, pari!"
+
+msgctxt "448_Dealer"
+msgid "3-2, odd!"
+msgstr "Tre e due, dispari!"
+
+msgctxt "460_Dealer"
+msgid "4-2, even!"
+msgstr "Quattro-due, pari!"
+
+msgctxt "472_Dealer"
+msgid "5-2, odd!"
+msgstr "Cinque-due, dispari!"
+
+msgctxt "484_Dealer"
+msgid "6-2, even!"
+msgstr "Sei e due, pari!"
+
+msgctxt "496_Dealer"
+msgid "3-3, even!"
+msgstr "3-3, pari!"
+
+msgctxt "508_Dealer"
+msgid "4-3, odd!"
+msgstr "Quattro-tre, dispari!"
+
+msgctxt "520_Dealer"
+msgid "5-3, even!"
+msgstr "Cinque-tre, pari!"
+
+msgctxt "532_Dealer"
+msgid "6-3, odd!"
+msgstr "Sei-tre, dispari!"
+
+msgctxt "544_Dealer"
+msgid "4-4, even!"
+msgstr "Quattro-quattro, pari!"
+
+msgctxt "556_Dealer"
+msgid "5-4, odd!"
+msgstr "Cinque-quattro, dispari!"
+
+msgctxt "568_Dealer"
+msgid "6-4, even!"
+msgstr "Sei e quattro, pari!"
+
+msgctxt "580_Dealer"
+msgid "5-5, even!"
+msgstr "Cinque-cinque, pari!"
+
+msgctxt "592_Dealer"
+msgid "6-5, odd!"
+msgstr "Sei-cinque, dispari!"
+
+msgctxt "604_Dealer"
+msgid "6-6, even!"
+msgstr "Sei-sei, pari!"

@@ -1,0 +1,88 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2244"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "2248"
+msgid "Okudera"
+msgstr "Okudera"
+
+msgctxt "2252"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2256"
+msgid "Tracks"
+msgstr "Tracce"
+
+msgctxt "2260"
+msgid "Leading Your Companion"
+msgstr "Guidare il tuo Compagno"
+
+msgctxt "2264"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "56_Saejima"
+msgid "Okudera-han, whaddya make of these tracks?"
+msgstr "Okudera-han, che ne dici di queste Tracce?"
+
+msgctxt "68_Okudera"
+msgid ""
+"Definitely deer tracks, and they're fresh. The deer are probably close by."
+msgstr ""
+"Di certo Tracce di cervo, e sono fresche. I cervi sono probabilmente qui "
+"intorno."
+
+msgctxt "80_Tracks"
+msgid ""
+"You may find animal tracks on the mountain.\r\n"
+"Follow them to locate prey."
+msgstr ""
+"Potresti trovare Tracce di animali sulla montagna.\n"
+"Seguile per localizzare la preda."
+
+msgctxt "92_Saejima"
+msgid "So, follow 'em?"
+msgstr "Allora, le seguiamo?"
+
+msgctxt "104_Okudera"
+msgid ""
+"Yes, and from here on out, keep the chatter to a minimum. Let's use hand "
+"signals."
+msgstr ""
+"Sì, e da qui in avanti, chiacchiere al minimo. Usiamo i segnali a mano."
+
+msgctxt "116_Leading Your Companion"
+msgid ""
+"Press <Action:Button_L2@Hunter_And_Killer> to signal your (NPC) companion. There\r\n"
+"are two commands: \"Come with me\" and \"Stay put.\""
+msgstr ""
+"Premi <Action:Button_L2@Hunter_And_Killer> per segnalare il tuo (NPC) compagno. Ci\n"
+"sono due comandi: \"Vieni con me\" e \"Stai fermo.\""
+
+msgctxt "128_Okudera"
+msgid ""
+"Okay, listen. If you spot some deer, approach them from behind carefully."
+msgstr "Senti un po'. Se avvisti dei cervi, avvicinali con cautela da dietro."
+
+msgctxt "140_Okudera"
+msgid "Get as close as possible, then shoot. Got that?"
+msgstr "Avvicinati il più possibile, poi spara. Capito?"
+
+msgctxt "152_Saejima"
+msgid "Yup."
+msgstr "Già."

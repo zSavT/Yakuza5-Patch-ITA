@@ -1,0 +1,580 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "15400"
+msgid "Daigo"
+msgstr "Daigo"
+
+msgctxt "15404"
+msgid "adv5_270/daigo_0162"
+msgstr "adv5_270/daigo_0162"
+
+msgctxt "15408"
+msgid "Kurosawa"
+msgstr "Kurosawa"
+
+msgctxt "15412"
+msgid "adv5_270/kurosawa_0183a"
+msgstr "adv5_270/kurosawa_0183a"
+
+msgctxt "15416"
+msgid "kaiwabgm_hisou"
+msgstr "kaiwabgm_hisou"
+
+msgctxt "15420"
+msgid "adv5_270/kurosawa_0183b"
+msgstr "adv5_270/kurosawa_0183b"
+
+msgctxt "15424"
+msgid "adv5_270/kurosawa_0183c"
+msgstr "adv5_270/kurosawa_0183c"
+
+msgctxt "15428"
+msgid "adv5_270/kurosawa_0183d"
+msgstr "adv5_270/kurosawa_0183d"
+
+msgctxt "15432"
+msgid "C5270_KSW_TLK_agura_kamae"
+msgstr "C5270_KSW_TLK_agura_kamae"
+
+msgctxt "15436"
+msgid "C5270_KSW_TLK_agura_laugh"
+msgstr "C5270_KSW_TLK_agura_laugh"
+
+msgctxt "15440"
+msgid "Katsuya"
+msgstr "Katsuya"
+
+msgctxt "15444"
+msgid "adv5_270/katsuya_0118"
+msgstr "adv5_270/katsuya_0118"
+
+msgctxt "15448"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "15452"
+msgid "adv5_270/saejima_0680"
+msgstr "adv5_270/saejima_0680"
+
+msgctxt "15456"
+msgid "adv5_270/kurosawa_0184a"
+msgstr "adv5_270/kurosawa_0184a"
+
+msgctxt "15460"
+msgid "adv5_270/kurosawa_0184b"
+msgstr "adv5_270/kurosawa_0184b"
+
+msgctxt "15464"
+msgid "adv5_270/kurosawa_0184c"
+msgstr "adv5_270/kurosawa_0184c"
+
+msgctxt "15468"
+msgid "adv5_270/kurosawa_0184d"
+msgstr "adv5_270/kurosawa_0184d"
+
+msgctxt "15472"
+msgid "adv5_270/kurosawa_0184e"
+msgstr "adv5_270/kurosawa_0184e"
+
+msgctxt "15476"
+msgid "C5270_KSW_TLK_agura_no"
+msgstr "C5270_KSW_TLK_agura_no"
+
+msgctxt "15480"
+msgid "adv5_270/kurosawa_0184f"
+msgstr "adv5_270/kurosawa_0184f"
+
+msgctxt "15484"
+msgid "Majima"
+msgstr "Majima"
+
+msgctxt "15488"
+msgid "adv5_270/majima_0077"
+msgstr "adv5_270/majima_0077"
+
+msgctxt "15492"
+msgid "adv5_270/kurosawa_0185a"
+msgstr "adv5_270/kurosawa_0185a"
+
+msgctxt "15496"
+msgid "adv5_270/kurosawa_0185b"
+msgstr "adv5_270/kurosawa_0185b"
+
+msgctxt "15500"
+msgid "adv5_270/kurosawa_0185c"
+msgstr "adv5_270/kurosawa_0185c"
+
+msgctxt "15504"
+msgid "adv5_230/saejima_0653"
+msgstr "adv5_230/saejima_0653"
+
+msgctxt "15508"
+msgid "adv5_230/kurosawa_0160a"
+msgstr "adv5_230/kurosawa_0160a"
+
+msgctxt "15512"
+msgid "adv5_230/kurosawa_0160b"
+msgstr "adv5_230/kurosawa_0160b"
+
+msgctxt "15516"
+msgid "kaiwabgm_fuon02"
+msgstr "kaiwabgm_fuon02"
+
+msgctxt "15520"
+msgid "P_SAE_TLK_stand_kamae"
+msgstr "P_SAE_TLK_stand_kamae"
+
+msgctxt "15524"
+msgid "ACDEV0260"
+msgstr "ACDEV0260"
+
+msgctxt "15528"
+msgid "adv5_230/saejima_0654"
+msgstr "adv5_230/saejima_0654"
+
+msgctxt "15532"
+msgid "adv5_230/kurosawa_0161a"
+msgstr "adv5_230/kurosawa_0161a"
+
+msgctxt "15536"
+msgid "adv5_230/kurosawa_0161b"
+msgstr "adv5_230/kurosawa_0161b"
+
+msgctxt "15540"
+msgid "adv5_230/kurosawa_0161c"
+msgstr "adv5_230/kurosawa_0161c"
+
+msgctxt "15544"
+msgid "adv5_230/saejima_0655"
+msgstr "adv5_230/saejima_0655"
+
+msgctxt "15548"
+msgid "adv5_230/kurosawa_0162a"
+msgstr "adv5_230/kurosawa_0162a"
+
+msgctxt "15552"
+msgid "adv5_230/kurosawa_0162b"
+msgstr "adv5_230/kurosawa_0162b"
+
+msgctxt "15556"
+msgid "adv5_230/saejima_0656"
+msgstr "adv5_230/saejima_0656"
+
+msgctxt "15560"
+msgid "adv5_230/kurosawa_0163"
+msgstr "adv5_230/kurosawa_0163"
+
+msgctxt "15564"
+msgid "adv5_230/saejima_0657"
+msgstr "adv5_230/saejima_0657"
+
+msgctxt "15568"
+msgid "adv5_230/saejima_0658"
+msgstr "adv5_230/saejima_0658"
+
+msgctxt "15572"
+msgid "adv5_230/majima_0059a"
+msgstr "adv5_230/majima_0059a"
+
+msgctxt "15576"
+msgid "adv5_230/majima_0059b"
+msgstr "adv5_230/majima_0059b"
+
+msgctxt "15580"
+msgid "C5230_MJM_TLK_haya_nugi"
+msgstr "C5230_MJM_TLK_haya_nugi"
+
+msgctxt "15584"
+msgid "adv5_230/saejima_0659"
+msgstr "adv5_230/saejima_0659"
+
+msgctxt "15588"
+msgid "adv5_230/majima_0060"
+msgstr "adv5_230/majima_0060"
+
+msgctxt "15592"
+msgid "adv5_230/saejima_0660"
+msgstr "adv5_230/saejima_0660"
+
+msgctxt "15596"
+msgid "adv5_230/saejima_0661"
+msgstr "adv5_230/saejima_0661"
+
+msgctxt "15600"
+msgid "adv5_230/majima_0062"
+msgstr "adv5_230/majima_0062"
+
+msgctxt "15604"
+msgid "adv5_230/saejima_0662"
+msgstr "adv5_230/saejima_0662"
+
+msgctxt "15608"
+msgid "adv5_230/majima_0063"
+msgstr "adv5_230/majima_0063"
+
+msgctxt "15612"
+msgid "adv5_230/saejima_0663"
+msgstr "adv5_230/saejima_0663"
+
+msgctxt "15616"
+msgid "adv5_230/majima_0064"
+msgstr "adv5_230/majima_0064"
+
+msgctxt "15620"
+msgid "adv5_230/saejima_0664"
+msgstr "adv5_230/saejima_0664"
+
+msgctxt "15624"
+msgid "adv5_230/majima_0065a"
+msgstr "adv5_230/majima_0065a"
+
+msgctxt "15628"
+msgid "adv5_230/majima_0065b"
+msgstr "adv5_230/majima_0065b"
+
+msgctxt "15632"
+msgid "adv5_230/saejima_0665"
+msgstr "adv5_230/saejima_0665"
+
+msgctxt "15636"
+msgid "adv5_230/majima_0066"
+msgstr "adv5_230/majima_0066"
+
+msgctxt "15640"
+msgid "adv5_230/saejima_0666"
+msgstr "adv5_230/saejima_0666"
+
+msgctxt "15644"
+msgid "adv5_230/majima_0067a"
+msgstr "adv5_230/majima_0067a"
+
+msgctxt "15648"
+msgid "adv5_230/majima_0067b"
+msgstr "adv5_230/majima_0067b"
+
+msgctxt "15652"
+msgid "adv5_230/saejima_0667"
+msgstr "adv5_230/saejima_0667"
+
+msgctxt "15656"
+msgid "adv5_230/majima_0068a"
+msgstr "adv5_230/majima_0068a"
+
+msgctxt "15660"
+msgid "adv5_230/majima_0068b"
+msgstr "adv5_230/majima_0068b"
+
+msgctxt "15664"
+msgid "adv5_230/saejima_0668"
+msgstr "adv5_230/saejima_0668"
+
+msgctxt "15668"
+msgid "adv5_230/majima_0069"
+msgstr "adv5_230/majima_0069"
+
+msgctxt "15672"
+msgid "adv5_230/majima_0070"
+msgstr "adv5_230/majima_0070"
+
+msgctxt "72_Daigo"
+msgid "I would've never guessed Aizawa was your son."
+msgstr "Non avrei mai immaginato che Aizawa fosse tuo figlio."
+
+msgctxt "84_Kurosawa"
+msgid ""
+"When I first joined the yakuza, it was nothing but setback after setback for"
+" me."
+msgstr ""
+"Quando sono entrato nella yakuza, all'inizio, non ho avuto che una batosta "
+"dietro l'altra."
+
+msgctxt "96_Kurosawa"
+msgid "The first family I joined was some minor, fourth-tier group."
+msgstr ""
+"La prima famiglia in cui sono entrato era un gruppo minore, di quarto "
+"livello."
+
+msgctxt "108_Kurosawa"
+msgid ""
+"But I finally started climbing the ranks by doing the dirty work no one else"
+" wanted to do."
+msgstr ""
+"Ma alla fine ho iniziato a scalare i ranghi facendo il lavoro sporco che "
+"nessun altro voleva fare."
+
+msgctxt "120_Kurosawa"
+msgid ""
+"Any of you ever taken the fall for a botched job by "
+"<Italic>literally</Italic> eating shit?"
+msgstr ""
+"Qualcuno di voi ha mai pagato per un lavoretto andato a rotoli "
+"<Italic>letteralmente</Italic> mangiando merda?"
+
+msgctxt "132_Katsuya"
+msgid "......"
+msgstr "......"
+
+msgctxt "144_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "156_Kurosawa"
+msgid ""
+"People who make it to the top with their pride intact... they were only able"
+" to do that because they had a ton of support from many others. I would have"
+" loved to keep my pride and integrity..."
+msgstr ""
+"Quelli che arrivano in cima col loro orgoglio intatto... ci sono riusciti "
+"solo perché hanno avuto un sacco di supporto da parte di tanti altri. Avrei "
+"voluto un casino mantenere il mio orgoglio e la mia integrità..."
+
+msgctxt "168_Kurosawa"
+msgid "But nobody had my back."
+msgstr "Ma nessuno mi copriva le spalle."
+
+msgctxt "180_Kurosawa"
+msgid ""
+"To get where I am, I had to murder my own aniki.\r\n"
+"I had to kill my boss."
+msgstr ""
+"Per arrivare dove sono, ho dovuto ammazzare il mio stesso aniki.\n"
+"Ho dovuto uccidere il mio capo."
+
+msgctxt "192_Kurosawa"
+msgid "...Yes. I got here by wading neck-deep through blood and sweat."
+msgstr "...Sì. Sono arrivato qui con il sangue e il sudore fino al collo."
+
+msgctxt "204_Kurosawa"
+msgid "And after sacrificing everything to claw my way up..."
+msgstr "E dopo aver sacrificato tutto per farmi strada..."
+
+msgctxt "216_Kurosawa"
+msgid "The only thing I had, in the end, was power. Nothing else."
+msgstr ""
+"L'unica cosa che mi era rimasta, alla fine, era il potere. Nient'altro."
+
+msgctxt "228_Majima"
+msgid "......"
+msgstr "......"
+
+msgctxt "240_Kurosawa"
+msgid ""
+"Then, six months ago... I thought I just had a touch of pneumonia, but it "
+"turned out to be lung cancer."
+msgstr ""
+"Poi, sei mesi fa... pensavo di avere solo un po' di polmonite, ma si è "
+"rivelata essere cancro ai polmoni."
+
+msgctxt "252_Kurosawa"
+msgid "For the first time in my life, I panicked."
+msgstr "Per la prima volta nella mia vita, sono andato nel panico."
+
+msgctxt "264_Kurosawa"
+msgid ""
+"I realized I had nobody to leave my power to. No legacy.\r\n"
+"What was the point of it all?"
+msgstr ""
+"Ho capito che non avevo nessuno a cui lasciare il mio potere. Nessuna eredità.\n"
+"A che cazzo serviva tutto questo?"
+
+msgctxt "300_Saejima"
+msgid "What's goin' on!?"
+msgstr "Che sta succedendo!?"
+
+msgctxt "312_Kurosawa"
+msgid "When I give the signal, that girl gets shot."
+msgstr "Quando do il segnale, a quella ragazza sparano."
+
+msgctxt "324_Kurosawa"
+msgid "You should be able to work out the rest, right?"
+msgstr "Dovresti arrivarci al resto, no?"
+
+msgctxt "336_Saejima"
+msgid "Bastard!"
+msgstr "Bastardo!"
+
+msgctxt "348_Kurosawa"
+msgid "If you want to save Haruka Sawamura, kill your sworn brother."
+msgstr "Se vuoi salvare Haruka Sawamura, uccidi il tuo fratello di sangue."
+
+msgctxt "360_Kurosawa"
+msgid ""
+"If Majima wins, I give the signal to shoot.\r\n"
+"You can both head on up to heaven together."
+msgstr ""
+"Se Majima vince, do il segnale per sparare.\n"
+"Potete entrambi andare su in paradiso insieme."
+
+msgctxt "372_Kurosawa"
+msgid "But if you win, Saejima, I'll let the girl live."
+msgstr "Ma se vinci, Saejima, lascio vivere la ragazza."
+
+msgctxt "384_Saejima"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "396_Kurosawa"
+msgid ""
+"Then you get to spend the rest of your life behind bars, for taking Majima "
+"hostage..."
+msgstr ""
+"Allora ti tocca passare il resto della tua vita dietro le sbarre, per aver "
+"preso Majima in ostaggio..."
+
+msgctxt "408_Kurosawa"
+msgid "And killing him in retaliation for throwing you out of the Tojo Clan."
+msgstr "E uccidendolo per vendetta, per averti sbattuto fuori dal Clan Tojo."
+
+msgctxt "420_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "432_Kurosawa"
+msgid "What, I thought you'd enjoy rotting in a cell."
+msgstr "Cosa, pensavo che ti piacesse marcire in cella."
+
+msgctxt "444_Saejima"
+msgid "You twisted fuck."
+msgstr "Bastardo contorto!"
+
+msgctxt "468_Daigo"
+msgid "Bro... We really doin' this?"
+msgstr "Fra'... Davvero lo stiamo facendo?"
+
+msgctxt "480_Majima"
+msgid "We don't, and her dream dies in front of 50,000 people."
+msgstr "Non lo facciamo, e il suo sogno muore davanti a 50.000 persone."
+
+msgctxt "492_Majima"
+msgid ""
+"You and I kick the bucket, though－nobody'd bat an eye.\r\n"
+"The choice ain't hard."
+msgstr ""
+"Tu e io crepiamo, però－nessuno batterebbe ciglio.\n"
+"La scelta non è difficile."
+
+msgctxt "576_Saejima"
+msgid "How ya gonna fight me all banged up like that?"
+msgstr "Come fai a combattermi conciato così?"
+
+msgctxt "588_Majima"
+msgid "......"
+msgstr "......"
+
+msgctxt "600_Saejima"
+msgid ""
+"Ya won't last five minutes. We ain't even on the same\r\n"
+"playing field."
+msgstr ""
+"Non durerai cinque minuti. Non siamo nemmeno sullo stesso\n"
+"piano."
+
+msgctxt "612_Saejima"
+msgid ""
+"Ya said so yourself. You ain't what ya used to be.\r\n"
+"You don't have it in ya to take me on."
+msgstr ""
+"L'hai detto tu stesso. Non sei più quello di una volta.\n"
+"Non hai la stoffa per affrontarmi."
+
+msgctxt "624_Majima"
+msgid "You're right about that."
+msgstr "Hai ragione su questo."
+
+msgctxt "636_Saejima"
+msgid "Then what're ya doin'!?"
+msgstr "Allora, che stai facendo!?"
+
+msgctxt "648_Majima"
+msgid "Two years ago, I couldn't fight you."
+msgstr "Due anni fa, non potevo affrontarti."
+
+msgctxt "660_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "672_Majima"
+msgid "That's because... ya were too damn weak!"
+msgstr "È perché... eri fottutamente debole!"
+
+msgctxt "684_Saejima"
+msgid "Huh? The hell?"
+msgstr "Eh? Che cazzo?"
+
+msgctxt "696_Majima"
+msgid "It's true. I saw all I needed to at that battin' center."
+msgstr ""
+"È vero. Ho visto tutto quello che mi serviva in quel centro di battuta."
+
+msgctxt "708_Majima"
+msgid ""
+"Gettin' out of the slammer, comin' back to the Tojo... it softened ya up."
+msgstr "Uscire dal gabbio, tornare alla Tojo... ti ha rammollito."
+
+msgctxt "720_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "732_Majima"
+msgid ""
+"But I knew what I had to do. 'Cause in our world, it's all over when ya go "
+"soft. That's why I gave ya an easy out."
+msgstr ""
+"Ma sapevo quel che dovevo fare. Perché nel nostro mondo, è finita quando ti "
+"rammollisci. Ecco perché ti ho dato un'uscita facile."
+
+msgctxt "744_Saejima"
+msgid "Whaddya mean?"
+msgstr "Che vuoi dire?"
+
+msgctxt "756_Majima"
+msgid "The expulsion letter. It wasn't Morinaga or Aoyama who wrote it."
+msgstr "La lettera di espulsione. Non è stato Morinaga o Aoyama a scriverla."
+
+msgctxt "768_Majima"
+msgid "It was me. I sent it as I was headin' out to Sapporo!"
+msgstr "Sono stato io. L'ho spedita mentre ero in partenza per Sapporo!"
+
+msgctxt "780_Saejima"
+msgid "...How could ya?"
+msgstr "...Come hai potuto?"
+
+msgctxt "792_Majima"
+msgid "Bro, I really didn't want ya dragged back into this."
+msgstr ""
+"Fratello, non volevo proprio che tu venissi trascinato di nuovo in questa "
+"storia."
+
+msgctxt "804_Majima"
+msgid ""
+"I didn't think that legend about you killin' eighteen men... would make ya "
+"such a target."
+msgstr ""
+"Non pensavo che quella leggenda su di te, di come hai ucciso diciotto "
+"uomini... ti avrebbe reso un bersaglio così."
+
+msgctxt "816_Saejima"
+msgid "Bro..."
+msgstr "Fratello..."
+
+msgctxt "828_Majima"
+msgid "Now get that shirt off. Time to prove ya still got what it takes!"
+msgstr ""
+"Adesso giù quella camicia. È ora di dimostrare che hai ancora quel che ci "
+"vuole!"
+
+msgctxt "840_Majima"
+msgid "I wanna see those fangs shinin' bright as they did in the old days."
+msgstr "Voglio vedere quelle zanne splendere vivide come ai vecchi tempi."

@@ -1,0 +1,644 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "196"
+msgid "Should I get some sleep?"
+msgstr "Dovrei farmi una dormita?"
+
+msgctxt "208"
+msgid "Should I get some sleep?"
+msgstr "Dovrei farmi una dormita?"
+
+msgctxt "328"
+msgid "Should I get some sleep?"
+msgstr "Dovrei farmi una dormita?"
+
+msgctxt "340"
+msgid "Should I get some sleep?"
+msgstr "Dovrei farmi una dormita?"
+
+msgctxt "17924"
+msgid "翌日"
+msgstr "Il giorno dopo"
+
+msgctxt "17928"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "17936"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "17940"
+msgid "Not Yet"
+msgstr "Non ancora"
+
+msgctxt "17944"
+msgid "adv1_090/kiryu_0144a"
+msgstr "adv1_090/kiryu_0144a"
+
+msgctxt "17948"
+msgid "adv1_090/kiryu_0144b"
+msgstr "adv1_090/kiryu_0144b"
+
+msgctxt "17952"
+msgid "P_TLK_sitgrd_agura_no"
+msgstr "P_TLK_sitgrd_agura_no"
+
+msgctxt "17956"
+msgid "Morinaga"
+msgstr "Morinaga"
+
+msgctxt "17960"
+msgid "adv1_090/morinaga_0032"
+msgstr "adv1_090/morinaga_0032"
+
+msgctxt "17964"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "17968"
+msgid "adv1_090/kiryu_0145"
+msgstr "adv1_090/kiryu_0145"
+
+msgctxt "17972"
+msgid "P_TLK_sitgrd_agura_yes"
+msgstr "P_TLK_sitgrd_agura_yes"
+
+msgctxt "17976"
+msgid "adv1_090/morinaga_0033"
+msgstr "adv1_090/morinaga_0033"
+
+msgctxt "17980"
+msgid "adv1_090/kiryu_0146"
+msgstr "adv1_090/kiryu_0146"
+
+msgctxt "17984"
+msgid "adv1_090/morinaga_0034"
+msgstr "adv1_090/morinaga_0034"
+
+msgctxt "17988"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "17992"
+msgid "adv1_090/kiryu_0147"
+msgstr "adv1_090/kiryu_0147"
+
+msgctxt "17996"
+msgid "adv1_090/morinaga_0035"
+msgstr "adv1_090/morinaga_0035"
+
+msgctxt "18000"
+msgid "adv1_090/kiryu_0148"
+msgstr "adv1_090/kiryu_0148"
+
+msgctxt "18004"
+msgid "adv1_090/morinaga_0036"
+msgstr "adv1_090/morinaga_0036"
+
+msgctxt "18008"
+msgid "Aizawa"
+msgstr "Aizawa"
+
+msgctxt "18012"
+msgid "adv1_090/aizawa_0031"
+msgstr "adv1_090/aizawa_0031"
+
+msgctxt "18016"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "18020"
+msgid "adv1_090/morinaga_0037"
+msgstr "adv1_090/morinaga_0037"
+
+msgctxt "18024"
+msgid "adv1_090/aizawa_0032a"
+msgstr "adv1_090/aizawa_0032a"
+
+msgctxt "18028"
+msgid "adv1_090/aizawa_0032b"
+msgstr "adv1_090/aizawa_0032b"
+
+msgctxt "18032"
+msgid "adv1_090/kiryu_0149"
+msgstr "adv1_090/kiryu_0149"
+
+msgctxt "18036"
+msgid "adv1_090/morinaga_0038"
+msgstr "adv1_090/morinaga_0038"
+
+msgctxt "18040"
+msgid "adv1_090/morinaga_0039"
+msgstr "adv1_090/morinaga_0039"
+
+msgctxt "18044"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "18048"
+msgid "adv1_090/aizawa_0033"
+msgstr "adv1_090/aizawa_0033"
+
+msgctxt "18052"
+msgid "M_NML_TLK_stand_kamae"
+msgstr "M_NML_TLK_stand_kamae"
+
+msgctxt "18056"
+msgid "C1090_M_AZW_pickup"
+msgstr "C1090_M_AZW_pickup"
+
+msgctxt "18060"
+msgid "ACYAM0102"
+msgstr "ACYAM0102"
+
+msgctxt "18064"
+msgid "C1090_M_AZW_kamae"
+msgstr "C1090_M_AZW_kamae"
+
+msgctxt "18068"
+msgid "C1090_M_AZW_send"
+msgstr "C1090_M_AZW_send"
+
+msgctxt "18072"
+msgid "C1090_M_MNG_phone_kamae"
+msgstr "C1090_M_MNG_phone_kamae"
+
+msgctxt "18076"
+msgid "C1090_M_MNG_phone_uketorii"
+msgstr "C1090_M_MNG_phone_uketorii"
+
+msgctxt "18080"
+msgid "adv1_090/morinaga_0040a"
+msgstr "adv1_090/morinaga_0040a"
+
+msgctxt "18084"
+msgid "C1090_M_MNG_phone_talk"
+msgstr "C1090_M_MNG_phone_talk"
+
+msgctxt "18088"
+msgid "kaiwabgm_fuon04"
+msgstr "kaiwabgm_fuon04"
+
+msgctxt "18092"
+msgid "adv1_090/morinaga_0040b"
+msgstr "adv1_090/morinaga_0040b"
+
+msgctxt "18096"
+msgid "C1090_M_MNG_phone_surpi"
+msgstr "C1090_M_MNG_phone_surpi"
+
+msgctxt "18100"
+msgid "C1090_M_MNG_kamae"
+msgstr "C1090_M_MNG_kamae"
+
+msgctxt "18104"
+msgid "C1090_M_MNG_phone_off"
+msgstr "C1090_M_MNG_phone_off"
+
+msgctxt "18108"
+msgid "adv1_090/morinaga_0040c"
+msgstr "adv1_090/morinaga_0040c"
+
+msgctxt "18112"
+msgid "adv1_090/aizawa_0034"
+msgstr "adv1_090/aizawa_0034"
+
+msgctxt "18116"
+msgid "adv1_090/morinaga_0041"
+msgstr "adv1_090/morinaga_0041"
+
+msgctxt "18120"
+msgid "adv1_090/aizawa_0035"
+msgstr "adv1_090/aizawa_0035"
+
+msgctxt "18124"
+msgid "adv1_090/morinaga_0042"
+msgstr "adv1_090/morinaga_0042"
+
+msgctxt "18128"
+msgid "adv1_090/aizawa_0036"
+msgstr "adv1_090/aizawa_0036"
+
+msgctxt "18132"
+msgid "adv1_090/morinaga_0043"
+msgstr "adv1_090/morinaga_0043"
+
+msgctxt "18136"
+msgid "Mayumi"
+msgstr "Mayumi"
+
+msgctxt "18140"
+msgid "adv1_100_1/mayumi_1_078_010"
+msgstr "adv1_100_1/mayumi_1_078_010"
+
+msgctxt "18144"
+msgid "kaiwabgm_kanjyonashi01"
+msgstr "kaiwabgm_kanjyonashi01"
+
+msgctxt "18148"
+msgid "adv1_100_1/kiryu_1_078_010"
+msgstr "adv1_100_1/kiryu_1_078_010"
+
+msgctxt "18152"
+msgid "adv1_100_1/mayumi_1_078_020"
+msgstr "adv1_100_1/mayumi_1_078_020"
+
+msgctxt "18156"
+msgid "adv1_100_1/kiryu_1_078_020"
+msgstr "adv1_100_1/kiryu_1_078_020"
+
+msgctxt "18160"
+msgid "P_TLK_sitgrd_agura_kamae"
+msgstr "P_TLK_sitgrd_agura_kamae"
+
+msgctxt "18164"
+msgid "P_TLK_sitgrd_agura_kamae_st"
+msgstr "P_TLK_sitgrd_agura_kamae_st"
+
+msgctxt "18168"
+msgid "adv1_100_1/mayumi_1_078_030"
+msgstr "adv1_100_1/mayumi_1_078_030"
+
+msgctxt "18172"
+msgid "C1040_F_TLK_sitgrd_kamae"
+msgstr "C1040_F_TLK_sitgrd_kamae"
+
+msgctxt "18176"
+msgid "C1040_F_TLK_sitgrd_aiduti"
+msgstr "C1040_F_TLK_sitgrd_aiduti"
+
+msgctxt "18180"
+msgid "adv1_100_1/kiryu_1_078_030"
+msgstr "adv1_100_1/kiryu_1_078_030"
+
+msgctxt "18184"
+msgid "adv1_100_1/mayumi_1_078_040"
+msgstr "adv1_100_1/mayumi_1_078_040"
+
+msgctxt "18188"
+msgid "C1040_F_TLK_sitgrd_yes"
+msgstr "C1040_F_TLK_sitgrd_yes"
+
+msgctxt "18192"
+msgid "adv1_100_1/kiryu_1_078_040"
+msgstr "adv1_100_1/kiryu_1_078_040"
+
+msgctxt "18196"
+msgid "adv1_100_1/mayumi_1_078_050"
+msgstr "adv1_100_1/mayumi_1_078_050"
+
+msgctxt "18200"
+msgid "C1040_F_TLK_sitgrd_no"
+msgstr "C1040_F_TLK_sitgrd_no"
+
+msgctxt "18204"
+msgid "adv1_100_1/kiryu_1_078_050"
+msgstr "adv1_100_1/kiryu_1_078_050"
+
+msgctxt "18208"
+msgid "adv1_100_1/mayumi_1_078_060"
+msgstr "adv1_100_1/mayumi_1_078_060"
+
+msgctxt "18212"
+msgid "adv1_100_1/mayumi_1_078_070"
+msgstr "adv1_100_1/mayumi_1_078_070"
+
+msgctxt "18216"
+msgid "adv1_100_1/kiryu_1_078_070"
+msgstr "adv1_100_1/kiryu_1_078_070"
+
+msgctxt "18220"
+msgid "adv1_100_1/mayumi_1_078_080"
+msgstr "adv1_100_1/mayumi_1_078_080"
+
+msgctxt "18224"
+msgid "adv1_100_1/kiryu_1_078_080"
+msgstr "adv1_100_1/kiryu_1_078_080"
+
+msgctxt "18228"
+msgid "adv1_100_1/mayumi_1_078_090"
+msgstr "adv1_100_1/mayumi_1_078_090"
+
+msgctxt "18232"
+msgid "adv1_100_1/kiryu_1_078_090"
+msgstr "adv1_100_1/kiryu_1_078_090"
+
+msgctxt "18236"
+msgid "adv1_100_1/mayumi_1_078_100"
+msgstr "adv1_100_1/mayumi_1_078_100"
+
+msgctxt "18240"
+msgid "adv1_100_1/kiryu_1_078_100"
+msgstr "adv1_100_1/kiryu_1_078_100"
+
+msgctxt "18244"
+msgid "adv1_100_1/mayumi_1_078_110"
+msgstr "adv1_100_1/mayumi_1_078_110"
+
+msgctxt "18248"
+msgid "adv1_100_1/kiryu_1_078_110"
+msgstr "adv1_100_1/kiryu_1_078_110"
+
+msgctxt "18252"
+msgid "adv1_100_1/mayumi_1_078_120"
+msgstr "adv1_100_1/mayumi_1_078_120"
+
+msgctxt "18256"
+msgid "adv1_100_1/kiryu_1_078_120"
+msgstr "adv1_100_1/kiryu_1_078_120"
+
+msgctxt "136_Kiryu"
+msgid "(I'm on the late shift today. It's about time to head in.)"
+msgstr "(Oggi ho il turno di notte. È ora di avviarsi.)"
+
+msgctxt "184_Kiryu"
+msgid "(Hmm, it's getting pretty late.)"
+msgstr "(Mmmh, si sta facendo piuttosto tardi.)"
+
+msgctxt "220_Kiryu"
+msgid "(I think I'll look around town a bit longer.)"
+msgstr "(Mi sa che mi faccio un altro giretto in città.)"
+
+msgctxt "232_Kiryu"
+msgid "(I might find a lead on Daigo.)"
+msgstr "(Magari trovo una pista su Daigo.)"
+
+msgctxt "244_Kiryu"
+msgid "(I think I'll look around town a bit longer.)"
+msgstr "(Mi sa che mi faccio un altro giretto in città.)"
+
+msgctxt "268_Kiryu"
+msgid "(Need to be ready for whatever might happen tomorrow.)"
+msgstr "(Devo essere pronto per quello che potrebbe succedere domani.)"
+
+msgctxt "316_Kiryu"
+msgid "(Hmm, it's getting pretty late.)"
+msgstr "(Mmmh, si sta facendo piuttosto tardi.)"
+
+msgctxt "352_Kiryu"
+msgid "(I think I'll look around town a bit longer.)"
+msgstr "(Mi sa che mi faccio un altro giretto in città.)"
+
+msgctxt "364_Kiryu"
+msgid "(I might find a lead on Daigo.)"
+msgstr "(Magari trovo una pista su Daigo.)"
+
+msgctxt "376_Kiryu"
+msgid "(I think I'll look around town a bit longer.)"
+msgstr "(Mi sa che mi faccio un altro giretto in città.)"
+
+msgctxt "400_Kiryu"
+msgid "(Need to be ready for whatever might happen tomorrow.)"
+msgstr "(Devo essere pronto per quello che potrebbe succedere domani.)"
+
+msgctxt "436_Kiryu"
+msgid "I get the situation."
+msgstr "Ho inquadrato la situazione."
+
+msgctxt "448_Kiryu"
+msgid "But I really have no idea where Daigo ran off to."
+msgstr "Ma non ho proprio idea di dove sia finito Daigo."
+
+msgctxt "460_Morinaga"
+msgid "So, Fourth Chairman. You finally admit who you are."
+msgstr "Allora, Quarto Presidente. Finalmente ammetti chi sei."
+
+msgctxt "472_Kiryu"
+msgid ""
+"Forget about my past. Shouldn't you be getting leads on Daigo right now?"
+msgstr ""
+"Lascia perdere il mio passato. Non dovresti star cercando delle piste su "
+"Daigo proprio adesso?"
+
+msgctxt "484_Morinaga"
+msgid ""
+"Right. There's no sign of him going back to his hotel or getting in another "
+"taxi after he left yours."
+msgstr ""
+"Giusto. Non c'è traccia che sia tornato in hotel o che abbia preso un altro "
+"taxi dopo essere uscito dal tuo."
+
+msgctxt "496_Kiryu"
+msgid "Could he have gone into hiding somewhere?"
+msgstr "Potrebbe essersi dato alla macchia da qualche parte?"
+
+msgctxt "508_Morinaga"
+msgid "There's no reason he would do that."
+msgstr "Non c'è motivo per cui lo farebbe."
+
+msgctxt "520_Kiryu"
+msgid "Then there's only one explanation."
+msgstr "Allora c'è solo una spiegazione."
+
+msgctxt "532_Morinaga"
+msgid "Yes. I think we have to assume he was abducted."
+msgstr "Sì. Credo che dobbiamo dare per scontato che sia stato rapito."
+
+msgctxt "544_Kiryu"
+msgid "Is the Yamagasa Family behind it?"
+msgstr "C'è la Famiglia Yamagasa dietro?"
+
+msgctxt "556_Morinaga"
+msgid ""
+"It's possible. Their footsoldiers don't seem very pleased about the "
+"alliance."
+msgstr ""
+"È possibile. I loro gregari non sembrano molto entusiasti dell'alleanza."
+
+msgctxt "568_Aizawa"
+msgid "I don't know. It just doesn't fit."
+msgstr "Non lo so. Non quadra."
+
+msgctxt "580_Morinaga"
+msgid "What doesn't?"
+msgstr "Cosa non quadra?"
+
+msgctxt "592_Aizawa"
+msgid ""
+"We can speculate all we want, but Chairman Dojima was here as a guest of the"
+" Yamagasa Family, right?"
+msgstr ""
+"Possiamo fare tutte le ipotesi che vogliamo, ma il Presidente Dojima era qui"
+" come ospite della Famiglia Yamagasa, giusto?"
+
+msgctxt "604_Aizawa"
+msgid ""
+"They might be willing to pick a fight with low-level suits like us,\r\n"
+"but abducting a guest of their patriarch? I don't buy it."
+msgstr ""
+"Potrebbero anche voler fare a pugni con dei gregari come noi,\n"
+"ma rapire un ospite del loro patriarca? Non me la bevo."
+
+msgctxt "616_Kiryu"
+msgid ""
+"You have a point. I doubt any of the Yamagasa men would be that foolish."
+msgstr "Hai ragione. Dubito che i Yamagasa sarebbero così scemi."
+
+msgctxt "628_Morinaga"
+msgid "Who could have done it, then?"
+msgstr "Chi potrebbe averlo fatto, allora?"
+
+msgctxt "664_Morinaga"
+msgid "That's mine, Aizawa. Get it from my jacket for me."
+msgstr "È mio, Aizawa. Prendilo dalla mia giacca per me."
+
+msgctxt "676_Aizawa"
+msgid "Right away."
+msgstr "Subito."
+
+msgctxt "700_Morinaga"
+msgid "This is Morinaga. Yes. Okay... Understood."
+msgstr "Sono Morinaga. Sì. Va bene... Ho capito."
+
+msgctxt "712_Morinaga"
+msgid "What did you just say!?"
+msgstr "Ma che hai detto!?"
+
+msgctxt "724_Morinaga"
+msgid "Okay, I'll be right there. Yes."
+msgstr "Va bene, arrivo subito. Sì."
+
+msgctxt "736_Aizawa"
+msgid "What is it, Aniki?"
+msgstr "Che c'è, Aniki?"
+
+msgctxt "748_Morinaga"
+msgid "Patriarch Aoyama is taking over as acting chairman."
+msgstr ""
+"Il Patriarca Aoyama sta assumendo il ruolo di presidente facente funzione."
+
+msgctxt "760_Aizawa"
+msgid ""
+"Acting chairman? But Chairman Dojima's only been gone two days! Why would he"
+" do that?"
+msgstr ""
+"Presidente facente funzione? Ma il Presidente Dojima è via solo da due "
+"giorni! Perché mai lo farebbe?"
+
+msgctxt "772_Morinaga"
+msgid ""
+"I guess the execs are rushing to finalize the alliance with the Yamagasa "
+"Family."
+msgstr ""
+"A quanto pare, i capi si stanno sbrigando a chiudere l'alleanza con la "
+"Famiglia Yamagasa."
+
+msgctxt "784_Aizawa"
+msgid "Dammit... Still sounds fishy to me."
+msgstr "Dannazione... Mi puzza ancora questa storia."
+
+msgctxt "796_Morinaga"
+msgid ""
+"There's going to be a meeting at midnight. We should get back to the hotel."
+msgstr "Ci sarà una riunione a mezzanotte. Torniamo in hotel."
+
+msgctxt "820_Mayumi"
+msgid "Oh, welcome home."
+msgstr "Oh, benvenuto a casa."
+
+msgctxt "832_Kiryu"
+msgid "You're here again?"
+msgstr "Ancora tu?"
+
+msgctxt "844_Mayumi"
+msgid "Mhm. I had the early shift today."
+msgstr "Mhm. Ho fatto il turno di mattina oggi."
+
+msgctxt "856_Kiryu"
+msgid ""
+"Don't you have your own things to take care of? I'll be fine by myself, "
+"really."
+msgstr "Non hai le tue cose da sbrigare? Me la caverò da solo, davvero."
+
+msgctxt "868_Mayumi"
+msgid "Here we go again. Do I really annoy you that much?"
+msgstr "Di nuovo. Ti do davvero così tanto fastidio?"
+
+msgctxt "880_Kiryu"
+msgid "No, that's not it. In fact, I appreciate everything you do for me."
+msgstr "No, non è quello. Anzi, apprezzo tutto quello che fai per me."
+
+msgctxt "892_Mayumi"
+msgid "Then why do you push me away? Have you met someone else?"
+msgstr "Allora perché mi respingi? Hai conosciuto qualcun altro?"
+
+msgctxt "904_Kiryu"
+msgid "Of course not. You know that's not my style."
+msgstr "Ma certo che no. Sai che non è da me."
+
+msgctxt "916_Mayumi"
+msgid "I don't get it, then. Why do you keep insisting I leave?"
+msgstr "Allora non capisco. Perché continui a insistere che me ne vada?"
+
+msgctxt "928_Kiryu"
+msgid ""
+"I don't see the problem. Isn't it weirder that we're practically living "
+"together without even being a couple?"
+msgstr ""
+"Non vedo il problema. Non è più strano che viviamo praticamente insieme "
+"senza nemmeno essere una coppia?"
+
+msgctxt "940_Mayumi"
+msgid "In that case... why don't we become a couple?"
+msgstr "Allora... perché non ci mettiamo insieme?"
+
+msgctxt "952_Mayumi"
+msgid "I'm ready and waiting, you know."
+msgstr "Sono pronto e sto aspettando, sai."
+
+msgctxt "964_Kiryu"
+msgid "Sorry... but now's not the time."
+msgstr "Mi dispiace... ma ora non è il momento."
+
+msgctxt "976_Mayumi"
+msgid "Well, I guess I'll have to wait for a good time to come around, then."
+msgstr "Beh, mi sa che dovrò aspettare il momento giusto, allora."
+
+msgctxt "988_Kiryu"
+msgid "Say, Mayumi?"
+msgstr "Senti, Mayumi?"
+
+msgctxt "1000_Mayumi"
+msgid "Yeah?"
+msgstr "Sì?"
+
+msgctxt "1012_Kiryu"
+msgid "Don't you have any family?"
+msgstr "Non hai famiglia?"
+
+msgctxt "1024_Mayumi"
+msgid "Where'd that come from?"
+msgstr "Da dove viene questa domanda?"
+
+msgctxt "1036_Kiryu"
+msgid "I just realized you've never talked about them before."
+msgstr "Mi sono appena reso conto che non hai mai parlato di loro prima."
+
+msgctxt "1048_Mayumi"
+msgid "Both my parents are long gone. I'm on my own."
+msgstr "I miei genitori non ci sono più. Sono da sola."
+
+msgctxt "1060_Kiryu"
+msgid "I see... Sorry for prying."
+msgstr "Capisco... Scusa se ho ficcanasato."
+
+msgctxt "1072_Mayumi"
+msgid "Don't worry about it. Now, enough talk. Let's have some dinner."
+msgstr "Non preoccuparti. Ora, basta chiacchiere. Andiamo a cenare."
+
+msgctxt "1084_Kiryu"
+msgid "Sure."
+msgstr "Certo."

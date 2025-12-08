@@ -1,0 +1,277 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "7524"
+msgid "A10710_shinada_glass"
+msgstr "A10710_shinada_glass"
+
+msgctxt "7528"
+msgid "Takasugi"
+msgstr "Takasugi"
+
+msgctxt "7532"
+msgid "P_SIN_TLK_stand_kyoro"
+msgstr "P_SIN_TLK_stand_kyoro"
+
+msgctxt "7536"
+msgid "adv4_160_02a/takasugi_4_160_020"
+msgstr "adv4_160_02a/takasugi_4_160_020"
+
+msgctxt "7540"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "7544"
+msgid "adv4_160_02a/shinada_4_160_030"
+msgstr "adv4_160_02a/shinada_4_160_030"
+
+msgctxt "7548"
+msgid "adv4_160_02a/takasugi_4_160_030"
+msgstr "adv4_160_02a/takasugi_4_160_030"
+
+msgctxt "7552"
+msgid "adv4_160_02a/shinada_4_160_040"
+msgstr "adv4_160_02a/shinada_4_160_040"
+
+msgctxt "7556"
+msgid "adv4_160_02b/takasugi_4_160_040"
+msgstr "adv4_160_02b/takasugi_4_160_040"
+
+msgctxt "7560"
+msgid "adv4_160_02b/shinada_4_160_060"
+msgstr "adv4_160_02b/shinada_4_160_060"
+
+msgctxt "7564"
+msgid "adv4_160_02b/takasugi_4_160_050"
+msgstr "adv4_160_02b/takasugi_4_160_050"
+
+msgctxt "7568"
+msgid "adv4_160_02b/shinada_4_160_070"
+msgstr "adv4_160_02b/shinada_4_160_070"
+
+msgctxt "7572"
+msgid "adv4_160_02b/takasugi_4_160_060"
+msgstr "adv4_160_02b/takasugi_4_160_060"
+
+msgctxt "7576"
+msgid "adv4_160_02b/shinada_4_160_080"
+msgstr "adv4_160_02b/shinada_4_160_080"
+
+msgctxt "7580"
+msgid "adv4_160_03a/takasugi_4_160_080"
+msgstr "adv4_160_03a/takasugi_4_160_080"
+
+msgctxt "7584"
+msgid "adv4_160_03a/shinada_4_160_110"
+msgstr "adv4_160_03a/shinada_4_160_110"
+
+msgctxt "7588"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "7592"
+msgid "adv4_160_03a/takasugi_4_160_090"
+msgstr "adv4_160_03a/takasugi_4_160_090"
+
+msgctxt "7596"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "7600"
+msgid "adv4_160_03a/shinada_4_160_120"
+msgstr "adv4_160_03a/shinada_4_160_120"
+
+msgctxt "7604"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "7608"
+msgid "adv4_160_03b/takasugi_4_160_100"
+msgstr "adv4_160_03b/takasugi_4_160_100"
+
+msgctxt "7612"
+msgid "adv4_160_03b/shinada_4_160_140"
+msgstr "adv4_160_03b/shinada_4_160_140"
+
+msgctxt "7616"
+msgid "adv4_160_03b/takasugi_4_160_110"
+msgstr "adv4_160_03b/takasugi_4_160_110"
+
+msgctxt "7620"
+msgid "adv4_160_03b/shinada_4_160_150"
+msgstr "adv4_160_03b/shinada_4_160_150"
+
+msgctxt "7624"
+msgid "A10700_shinada_plant"
+msgstr "A10700_shinada_plant"
+
+msgctxt "108_A10710_shinada_glass"
+msgid "Shinada! You okay!?"
+msgstr "Shinada! Stai bene!?"
+
+msgctxt "120_Shinada"
+msgid "Yeah, more or less.  "
+msgstr "Sì, più o meno."
+
+msgctxt "132_Takasugi"
+msgid "Thought we were done for..."
+msgstr "Pensavamo di essere spacciati..."
+
+msgctxt "144_Shinada"
+msgid "Yeah. The heck is going on..."
+msgstr "Sì. Che diavolo sta succedendo..."
+
+msgctxt "156_A10710_shinada_glass"
+msgid "Shinada! You okay!?"
+msgstr "Shinada! Stai bene!?"
+
+msgctxt "168_Shinada"
+msgid "Ugh. Yeah, somewhat."
+msgstr "Uhm. Sì, più o meno."
+
+msgctxt "180_Takasugi"
+msgid "You sure? Need a doctor?"
+msgstr "Sei sicuro? Hai bisogno di un medico?"
+
+msgctxt "192_Shinada"
+msgid "I'll be fine... I think."
+msgstr "Starò bene... credo."
+
+msgctxt "204_Takasugi"
+msgid ""
+"All right. Man! Who the hell do they think they are! Trying to kill my source of wealth!\r\n"
+" "
+msgstr ""
+"Va bene. Cazzo! Chi diavolo si credono di essere! Cercando di uccidere la "
+"mia fonte di ricchezza!"
+
+msgctxt "216_Shinada"
+msgid "That's what you're worried about?"
+msgstr "È di questo che ti preoccupi?"
+
+msgctxt "240_A10710_shinada_glass"
+msgid "Whoa, you all right!?"
+msgstr "Woah, stai bene!?"
+
+msgctxt "252_Shinada"
+msgid "Probably..."
+msgstr "Probabilmente..."
+
+msgctxt "264_Takasugi"
+msgid "What's with today? Talk about bad luck."
+msgstr "Ma che diavolo è successo oggi? Questa sì che è sfortuna."
+
+msgctxt "276_Shinada"
+msgid "I want to go home."
+msgstr "Voglio andare a casa."
+
+msgctxt "288_A10710_shinada_glass"
+msgid "Hey! Shinada! You alive!?"
+msgstr "Hey! Shinada! Sei vivo!?"
+
+msgctxt "300_Shinada"
+msgid "Somehow... "
+msgstr "In qualche modo..."
+
+msgctxt "312_Takasugi"
+msgid ""
+"Are you sure? Maybe you should head to the hospital?\r\n"
+" "
+msgstr "Sei sicuro? Forse dovresti andare all'ospedale?"
+
+msgctxt "324_Shinada"
+msgid ""
+"Haha. You're overreacting. C'mon, let's go.\r\n"
+" "
+msgstr "Haha. Stai esagerando. Dai, andiamo."
+
+msgctxt "396_A10710_shinada_glass"
+msgid "Shinada! You okay!?"
+msgstr "Shinada! Stai bene!?"
+
+msgctxt "408_Shinada"
+msgid "Yeah, more or less.  "
+msgstr "Sì, più o meno."
+
+msgctxt "420_Takasugi"
+msgid "Thought we were done for..."
+msgstr "Pensavo che fossimo spacciati..."
+
+msgctxt "432_Shinada"
+msgid "Yeah. The heck is going on..."
+msgstr "Sì. Ma che diavolo sta succedendo..."
+
+msgctxt "444_A10710_shinada_glass"
+msgid "Shinada! You okay!?"
+msgstr "Shinada! Stai bene!?"
+
+msgctxt "456_Shinada"
+msgid "Ugh. Yeah, somewhat."
+msgstr "Ugh. Sì, in qualche modo."
+
+msgctxt "468_Takasugi"
+msgid "You sure? Need a doctor?"
+msgstr "Sei sicuro? Ti serve un dottore?"
+
+msgctxt "480_Shinada"
+msgid "I'll be fine... I think."
+msgstr "Starò bene... Penso."
+
+msgctxt "492_Takasugi"
+msgid ""
+"All right. Man! Who the hell do they think they are! Trying to kill my source of wealth!\r\n"
+" "
+msgstr ""
+"Va bene. Cavolo! Ma chi diavolo si credono di essere! Vogliono far fuori la "
+"mia fonte di ricchezza!"
+
+msgctxt "504_Shinada"
+msgid "That's what you're worried about?"
+msgstr "Ma ti preoccupi di questo?"
+
+msgctxt "528_A10710_shinada_glass"
+msgid "Whoa, you all right!?"
+msgstr "Ehi, stai bene!?"
+
+msgctxt "540_Shinada"
+msgid "Probably..."
+msgstr "Probabilmente..."
+
+msgctxt "552_Takasugi"
+msgid "What's with today? Talk about bad luck."
+msgstr "Ma che diavolo succede oggi? Che sfortuna!"
+
+msgctxt "564_Shinada"
+msgid "I want to go home."
+msgstr "Voglio andare a casa."
+
+msgctxt "576_A10710_shinada_glass"
+msgid "Hey! Shinada! You alive!?"
+msgstr "Ehi! Shinada! Sei vivo!?"
+
+msgctxt "588_Shinada"
+msgid "Somehow... "
+msgstr "In qualche modo..."
+
+msgctxt "600_Takasugi"
+msgid ""
+"Are you sure? Maybe you should head to the hospital?\r\n"
+" "
+msgstr "Sei sicuro? Forse dovresti andare all'ospedale?"
+
+msgctxt "612_Shinada"
+msgid ""
+"Haha. You're overreacting. C'mon, let's go.\r\n"
+" "
+msgstr "Haha. Stai esagerando. Dai, andiamo."

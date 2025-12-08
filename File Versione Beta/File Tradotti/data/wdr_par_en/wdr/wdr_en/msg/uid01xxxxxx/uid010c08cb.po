@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1116"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "1120"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "1124"
+msgid "Beautiful Woman"
+msgstr "Bella donna"
+
+msgctxt "1128"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1132"
+msgid "0"
+msgstr "0"
+
+msgctxt "44_Kiryu"
+msgid "I'm from Nagasu Taxi. Sorry for the wait."
+msgstr "Sono della Nagasu Taxi. Scusi l'attesa."
+
+msgctxt "56_Beautiful Woman"
+msgid "Can you take me to <Color:22>Ose Bridge<Color:Default>?"
+msgstr "Mi può portare a <Color:22>Ose Bridge<Color:Default>?"
+
+msgctxt "68_Kiryu"
+msgid "(She's not exactly dressed for the weather.)"
+msgstr "(Non è esattamente vestita per il tempo che fa.)"
+
+msgctxt "80_Kiryu"
+msgid "Of course. Let's go."
+msgstr "Certo. Andiamo."

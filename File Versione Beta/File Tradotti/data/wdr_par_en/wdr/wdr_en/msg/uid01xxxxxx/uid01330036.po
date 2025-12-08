@@ -1,0 +1,81 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "4016"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "4020"
+msgid "Gambling Hall"
+msgstr "Sala da gioco"
+
+msgctxt "4024"
+msgid "Casino"
+msgstr "Casinò"
+
+msgctxt "4028"
+msgid "Dojo"
+msgstr "Dojo"
+
+msgctxt "4032"
+msgid "Don't Enter"
+msgstr "Non entrare"
+
+msgctxt "4036"
+msgid "Forget it."
+msgstr "Lascia perdere."
+
+msgctxt "92_Player"
+msgid "(Here's the elevator. Where to go?)"
+msgstr "(Ecco l'ascensore. Dove andiamo?)"
+
+msgctxt "152_Player"
+msgid "(Not now. I should come back later.)"
+msgstr "(Adesso no. Meglio tornare dopo.)"
+
+msgctxt "164_Player"
+msgid "(No, forget it.)"
+msgstr "(No, lascia perdere.)"
+
+msgctxt "188_Player"
+msgid "(Here's the elevator. Where to go?)"
+msgstr "(Ecco l'ascensore. Dove andiamo?)"
+
+msgctxt "212_Player"
+msgid "(No, let's not.)"
+msgstr "(No, lascia perdere.)"
+
+msgctxt "224_Player"
+msgid "(I'm not sure I want to go here alone...)"
+msgstr "(Non sono sicuro di voler andare qui da solo...)"
+
+msgctxt "236_Player"
+msgid "(Here's the elevator. Where to go?)"
+msgstr "(Ecco l'ascensore. Dove andiamo?)"
+
+msgctxt "296_Player"
+msgid "(Not now. I should come back later.)"
+msgstr "(Adesso no. Meglio tornare dopo.)"
+
+msgctxt "308_Player"
+msgid "(No, forget it.)"
+msgstr "(No, lascia perdere.)"
+
+msgctxt "320_Player"
+msgid "(Here's the elevator. Where to go?)"
+msgstr "(Ecco l'ascensore. Dove andiamo?)"
+
+msgctxt "368_Player"
+msgid "(No, forget it.)"
+msgstr "(No, lascia perdere.)"

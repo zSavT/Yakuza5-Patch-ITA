@@ -1,0 +1,285 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "11300"
+msgid "Delinquent"
+msgstr "Delinquente"
+
+msgctxt "11304"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "11308"
+msgid "Mikasa"
+msgstr "Mikasa"
+
+msgctxt "11312"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "11316"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "11320"
+msgid "Koichi"
+msgstr "Koichi"
+
+msgctxt "11324"
+msgid "ArmsID"
+msgstr "ID Armi"
+
+msgctxt "11328"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "11332"
+msgid "Upperclassman"
+msgstr "Studente del corso superiore"
+
+msgctxt "11336"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "11340"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "11344"
+msgid "SS4_M_NML_TLK_stand_bat_atk"
+msgstr "SS4_M_NML_TLK_stand_bat_atk"
+
+msgctxt "11348"
+msgid "SS4_M_NML_TLK_stand_bat_dam"
+msgstr "SS4_M_NML_TLK_stand_bat_dam"
+
+msgctxt "11352"
+msgid "SS4_M_NML_TLK_stand_bat_dam_lp"
+msgstr "SS4_M_NML_TLK_stand_bat_dam_lp"
+
+msgctxt "11356"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "11360"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "60_Delinquent"
+msgid ""
+"Okay, we got it! We won't mess with Kinei High's team again! Let us go!"
+msgstr ""
+"Ok, abbiamo capito! Non daremo più fastidio alla squadra del Kinei High! "
+"Lasciaci andare!"
+
+msgctxt "72_Mikasa"
+msgid "Oh man... You really saved our hides just now!"
+msgstr "Oh cavolo... Ci hai proprio salvato la pelle adesso!"
+
+msgctxt "84_Shinada"
+msgid "Mikasa-kun. You need to see a doctor, now."
+msgstr "Mikasa. Fatti vedere da un dottore, subito."
+
+msgctxt "96_Shinada"
+msgid "If there's any bone damage, you might not heal up in time for Koshien."
+msgstr ""
+"Se c'è qualche danno alle ossa, potresti non rimetterti in tempo per il "
+"Koshien."
+
+msgctxt "108_Mikasa"
+msgid "Okay, I will."
+msgstr "Ok, lo farò."
+
+msgctxt "156_Delinquent"
+msgid ""
+"What're we gonna do, dude? If we don't do something, our guys are gonna get "
+"it for sure..."
+msgstr ""
+"Che facciamo, amico? Se non facciamo qualcosa, i nostri ci rimettono di "
+"sicuro..."
+
+msgctxt "168_Mikasa"
+msgid "How'd they get into this mess in the first place?"
+msgstr "Come sono finiti in questo casino, tanto per cominciare?"
+
+msgctxt "180_Koichi"
+msgid ""
+"They just went out with some girls. But it turns out one of them was the "
+"girlfriend of a gang leader. And he found out."
+msgstr ""
+"Sono solo usciti con alcune ragazze. Ma è venuto fuori che una di loro era "
+"la ragazza di un capo banda. E lui l'ha scoperto."
+
+msgctxt "192_Mikasa"
+msgid "What are they thinking at a time like this?"
+msgstr "Ma cosa gli passa per la testa, in un momento come questo?"
+
+msgctxt "204_Koichi"
+msgid "Oh damn, he's pulling out a bat!"
+msgstr "Oh cavolo, sta tirando fuori una mazza!"
+
+msgctxt "216_Mikasa"
+msgid "Crap!"
+msgstr "Cavolo!"
+
+msgctxt "228_Delinquent"
+msgid "You little shit. You banged Misato, didn't you? Be honest now."
+msgstr "Piccolo stronzo. Ti sei scopato Misato, vero? Sii onesto adesso."
+
+msgctxt "240_Upperclassman"
+msgid "I didn't! Honestly, nothing like that ever happened!"
+msgstr "Non l'ho fatto! Giuro, non è successo niente del genere!"
+
+msgctxt "252_Delinquent"
+msgid ""
+"You lying fuck! Misato told me the whole story! Don't try to weasel your way"
+" out of this!"
+msgstr ""
+"Stronzo bugiardo! Misato mi ha raccontato tutta la storia! Non cercare di "
+"cavartela!"
+
+msgctxt "264_Upperclassman"
+msgid "Look, I didn't know she had a boyfriend! I'm sorry! Really!"
+msgstr "Senti, non sapevo avesse un ragazzo! Mi dispiace! Giuro!"
+
+msgctxt "276_Delinquent"
+msgid ""
+"You're the baseball team's ace, aren't you? I'm busting your hand for what "
+"you did. Bet it felt good squeezing Misato's titties!"
+msgstr ""
+"Sei l'asso della squadra di baseball, vero? Ti spacco la mano per quello che"
+" hai fatto. Scommetto che ti è piaciuto un casino stringere le tette di "
+"Misato!"
+
+msgctxt "288_Upperclassman"
+msgid "No! Please, not that. Anything but that!"
+msgstr "No! Ti prego, quello no. Tutto tranne quello!"
+
+msgctxt "300_Mikasa"
+msgid "We have to stop them."
+msgstr "Dobbiamo fermarli."
+
+msgctxt "312_Koichi"
+msgid ""
+"We can't take that many on! Besides, we're screwed either way. If they find "
+"out we were fighting, we'll be banned from Koshien!"
+msgstr ""
+"Non possiamo farcela contro così tanti! E poi, siamo fottuti in ogni caso. "
+"Se scoprono che stavamo picchiandoci, ci bandiranno dal Koshien!"
+
+msgctxt "324_Mikasa"
+msgid "Then we don't fight. But we have to save our guys."
+msgstr "Allora non picchiamo. Ma dobbiamo salvare i nostri ragazzi."
+
+msgctxt "336_Mikasa"
+msgid "Stop! Please, no more. Don't do this to them."
+msgstr "Basta! Ti prego, basta. Non fategli questo."
+
+msgctxt "348_Upperclassman"
+msgid "Mikasa!?"
+msgstr "Mikasa!?"
+
+msgctxt "372_Delinquent"
+msgid "Who the fuck are you?"
+msgstr "Chi cazzo sei tu?"
+
+msgctxt "384_Mikasa"
+msgid "Please, just let our teammates go. They said they're sorry."
+msgstr ""
+"Ti prego, lascia andare i nostri compagni. Hanno detto che gli dispiace."
+
+msgctxt "396_Delinquent"
+msgid ""
+"A little late for \"sorry,\" asshole! Shoulda minded your own\r\n"
+"damn business!"
+msgstr "Un po' tardi per \"scusa\", stronzo! Avresti dovuto farti i cazzi tuoi!"
+
+msgctxt "492_Delinquent"
+msgid "Argh! ...My arm!"
+msgstr "Argh! ...Il mio braccio!"
+
+msgctxt "504_Upperclassman"
+msgid "Dude, are you all right!?"
+msgstr "Amico, stai bene!?"
+
+msgctxt "516_Delinquent"
+msgid ""
+"Hehehe, I know all about you little schoolboys. Get involved in any "
+"violence, and you can kiss your Koshien dreams goodbye."
+msgstr ""
+"Hehehe, so tutto di voi, studentelli. Se fate a botte, potete scordarvi i "
+"vostri sogni di Koshien."
+
+msgctxt "528_Delinquent"
+msgid ""
+"So you can't take a swing at us, and you can't even call the cops because "
+"you don't want the attention."
+msgstr ""
+"Quindi non puoi alzarci le mani addosso, e non puoi nemmeno chiamare i "
+"poliziotti perché non vuoi attirare l'attenzione."
+
+msgctxt "540_Delinquent"
+msgid ""
+"Meaning we can do whatever we want, and you bitches have to suck it up and "
+"take it!"
+msgstr ""
+"Il che significa che possiamo fare il cazzo che vogliamo, e voi stronzi "
+"dovete incassare e basta!"
+
+msgctxt "552_Shinada"
+msgid "Hey. You guys need to stop. Now."
+msgstr "Ehi. Dovete smetterla. Adesso."
+
+msgctxt "564_Delinquent"
+msgid "It's you..."
+msgstr "Sei tu..."
+
+msgctxt "576_Shinada"
+msgid "How's that arm, Mikasa-kun?"
+msgstr "Come va quel braccio, Mikasa-kun?"
+
+msgctxt "588_Mikasa"
+msgid "I... I don't know."
+msgstr "Io... non lo so."
+
+msgctxt "600_Delinquent"
+msgid "Get lost, geezer. You feel like getting your ass kicked, too?"
+msgstr "Sparisci, vecchio. Vuoi farti pestare anche tu?"
+
+msgctxt "612_Shinada"
+msgid ""
+"Not in particular. But I don't like what I'm seeing here. I used to play "
+"high school ball myself."
+msgstr ""
+"Non proprio. Ma non mi piace quello che vedo qui. Anch'io giocavo a baseball"
+" al liceo."
+
+msgctxt "624_Delinquent"
+msgid ""
+"Then fuck you too. It's these assholes' fault for messing with my girl."
+msgstr ""
+"Allora fanculo anche a te. È colpa di questi stronzi per essersela presa con"
+" la mia ragazza."
+
+msgctxt "636_Shinada"
+msgid "And that gives you the right to beat on them? I don't think so."
+msgstr "E questo ti dà il diritto di pestarli? Non credo proprio."
+
+msgctxt "648_Delinquent"
+msgid ""
+"That's it. I gave you a chance to walk away. Now you're gonna get shit-"
+"kicked with the rest of 'em!"
+msgstr ""
+"È finita. Ti ho dato una possibilità di andartene. Adesso verrai pestato a "
+"sangue con tutti gli altri!"

@@ -1,0 +1,140 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "4148"
+msgid "Assistant Director"
+msgstr "Assistente alla regia"
+
+msgctxt "4152"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4156"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "4160"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "4164"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "4168"
+msgid "kaiwabgm_catch"
+msgstr "kaiwabgm_catch"
+
+msgctxt "4172"
+msgid "MC"
+msgstr "Conduttore"
+
+msgctxt "4176"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "4180"
+msgid "SS3_HAL_TLK_stand_peace"
+msgstr "SS3_HAL_TLK_stand_peace"
+
+msgctxt "4184"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "44_Assistant Director"
+msgid "All right, then. We're just about to start shooting."
+msgstr "Perfetto, allora. Stiamo per iniziare a girare."
+
+msgctxt "56_Assistant Director"
+msgid ""
+"As I mentioned earlier, you'll be using the UFO Catcher machine to try and "
+"get prizes."
+msgstr ""
+"Come dicevo prima, userai la macchina UFO Catcher per provare a vincere i "
+"premi."
+
+msgctxt "68_Haruka"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "80_Assistant Director"
+msgid ""
+"The show will provide you with 1,000 yen to use on the game. When it's gone,"
+" show's over, so use it carefully."
+msgstr ""
+"Ti daremo 1.000 yen da usare per il gioco. Quando sono finiti, è finita, "
+"quindi usali con attenzione."
+
+msgctxt "92_Assistant Director"
+msgid ""
+"If you don't manage to get any prize at all, it's customary for the guest to"
+" give away a personal item instead. So think about what that will be."
+msgstr ""
+"Se non riesci proprio a prendere nessun premio, è consuetudine che l'ospite "
+"regali un oggetto personale al suo posto. Quindi, pensaci su."
+
+msgctxt "104_Haruka"
+msgid "Got it."
+msgstr "Capito."
+
+msgctxt "176_Assistant Director"
+msgid "Here we go, everybody! It's time to play, \"Catcher Challenge\"!"
+msgstr "Si parte, gente! È ora di giocare a, \"Catcher Challenge\"!"
+
+msgctxt "188_MC"
+msgid "Today's guest is this sweet, young idol!"
+msgstr "L'ospite di oggi è questa dolce, giovane idol!"
+
+msgctxt "200_Haruka"
+msgid "Hello, everyone. I'm Haruka Sawamura."
+msgstr "Ciao a tutti. Sono Haruka Sawamura."
+
+msgctxt "212_MC"
+msgid ""
+"So innocent, so fresh! You haven't even had a major debut yet, have you?"
+msgstr ""
+"Così innocente, così fresca! Non hai ancora fatto un debutto in grande "
+"stile, vero?"
+
+msgctxt "224_Haruka"
+msgid "No, I have not."
+msgstr "No, non ancora."
+
+msgctxt "236_MC"
+msgid "Well, now's your chance to win yourself some new fans, right?"
+msgstr "Beh, ora è la tua chance per farti qualche nuovo fan, vero?"
+
+msgctxt "248_Haruka"
+msgid "Yes, I'll do my best!"
+msgstr "Sì, farò del mio meglio!"
+
+msgctxt "260_MC"
+msgid ""
+"Okay! Using a limited amount of money, our guest must use the UFO Catcher to"
+" grab as many prizes as she can."
+msgstr ""
+"Bene! Usando una quantità limitata di soldi, la nostra ospite deve usare la "
+"UFO Catcher per prendere quanti più premi possibile."
+
+msgctxt "272_MC"
+msgid ""
+"Any item she manages to get will then be autographed and given away to our "
+"lucky viewers!"
+msgstr ""
+"Qualsiasi oggetto che riuscirà a prendere verrà poi autografato e regalato "
+"ai nostri fortunati spettatori!"
+
+msgctxt "284_MC"
+msgid "All right, Haruka-chan. Are you ready? Good luck!"
+msgstr "Bene, Haruka-chan. Sei pronta? In bocca al lupo!"

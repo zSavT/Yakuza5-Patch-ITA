@@ -1,0 +1,283 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "8212"
+msgid "Nanako"
+msgstr "Nanako"
+
+msgctxt "8216"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "8220"
+msgid "Yakuza"
+msgstr "Yakuza"
+
+msgctxt "8224"
+msgid "Nml_TurnL180"
+msgstr "Nml_TurnL180"
+
+msgctxt "8228"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "8232"
+msgid "M_YKZ_TLK_stand_kamae"
+msgstr "M_YKZ_TLK_stand_kamae"
+
+msgctxt "8236"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "8240"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "8244"
+msgid "ACDEV0178"
+msgstr "ACDEV0178"
+
+msgctxt "8248"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "8252"
+msgid "C4195_MNB_TLK_odosu_lp"
+msgstr "C4195_MNB_TLK_odosu_lp"
+
+msgctxt "8256"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "8260"
+msgid "C4195_MNB_TLK_odosu_ed"
+msgstr "C4195_MNB_TLK_odosu_ed"
+
+msgctxt "8264"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "8268"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "8272"
+msgid "P_AKI_TLK_stand_syagamu_lp"
+msgstr "P_AKI_TLK_stand_syagamu_lp"
+
+msgctxt "8276"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "8280"
+msgid "P_AKI_TLK_stand_kamae"
+msgstr "P_AKI_TLK_stand_kamae"
+
+msgctxt "8284"
+msgid "P_AKI_TLK_stand_syagamu_ed"
+msgstr "P_AKI_TLK_stand_syagamu_ed"
+
+msgctxt "8288"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "8292"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "56_Nanako"
+msgid ""
+"Hello, I'm here to collect on your loan. Now, if you\r\n"
+"wouldn't mind paying up!"
+msgstr ""
+"Salve, sono qui per riscuotere il tuo prestito. Ora, se non ti\n"
+"dispiacesse saldare!"
+
+msgctxt "68_Yakuza"
+msgid "Huh? And who're you?"
+msgstr "Eh? E tu chi sei?"
+
+msgctxt "80_Nanako"
+msgid ""
+"Akiyama-san from Sky Finance sent me. He said to show you\r\n"
+"these."
+msgstr ""
+"Akiyama-san di Sky Finance mi ha mandato. Ha detto di mostrarti\n"
+"questi."
+
+msgctxt "92_Yakuza"
+msgid "Sky Finance?"
+msgstr "Sky Finance?"
+
+msgctxt "104_Yakuza"
+msgid "Eh!"
+msgstr "Eh!"
+
+msgctxt "116_Yakuza"
+msgid "Hmph. This ain't what we agreed on. I ain't payin' shit!"
+msgstr "Hmph. Questo non è quello che avevamo concordato. Non pago un cazzo!"
+
+msgctxt "128_Nanako"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "140_Yakuza"
+msgid ""
+"I borrowed on the promise of no interest. Now he's tellin'\r\n"
+"me he wants immediate repayment with interest? Guy can go\r\n"
+"fuck himself."
+msgstr ""
+"Ho preso in prestito senza interessi. E ora mi viene a dire\n"
+"che vuole il rimborso immediato con gli interessi? Quel tipo può andare a\n"
+"farsi fottere."
+
+msgctxt "152_Nanako"
+msgid ""
+"But that has nothing to do with me! Is that what those\r\n"
+"papers say?"
+msgstr ""
+"Ma questo non c'entra niente con me! È quello che c'è scritto su quei\n"
+"documenti?"
+
+msgctxt "164_Yakuza"
+msgid ""
+"Ya heard me－I ain't payin'. Not a single yen! Now get outta\r\n"
+"my office."
+msgstr ""
+"Mi hai sentito bene—Non pago. Neanche un singolo yen! Adesso vattene dal\n"
+"mio ufficio."
+
+msgctxt "176_Nanako"
+msgid ""
+"I'm sorry, but I can't do that! I have to collect that loan\r\n"
+"from you!"
+msgstr ""
+"Mi dispiace, ma non posso farlo! Devo riscuotere quel prestito\n"
+"da te!"
+
+msgctxt "212_Nanako"
+msgid "...!"
+msgstr "...!"
+
+msgctxt "224_Yakuza"
+msgid ""
+"You got somethin' in your ears, lady!? I said I ain't\r\n"
+"payin', and I damn well meant it! Hit the road!"
+msgstr ""
+"C'hai qualcosa nelle orecchie, signorina!? Ho detto che non\n"
+"pago, e l'ho detto sul serio, cazzo! Sloggia!"
+
+msgctxt "236_Nanako"
+msgid "...No! I'm not leaving!"
+msgstr "...No! Non me ne vado!"
+
+msgctxt "248_Yakuza"
+msgid "What was that?"
+msgstr "Cos'hai detto?"
+
+msgctxt "260_Nanako"
+msgid ""
+"I'm sick and tired of doing what other people want! I want\r\n"
+"to be a star on my own terms!"
+msgstr ""
+"Mi sono rotto il cazzo di fare quello che vogliono gli altri! Voglio\n"
+"essere una star alle mie condizioni!"
+
+msgctxt "272_Akiyama"
+msgid "......"
+msgstr "......"
+
+msgctxt "284_Nanako"
+msgid ""
+"Besides, if you hurt me, you're going to be in big trouble.\r\n"
+"Akiyama-san knows I came here. If anything were to happen to\r\n"
+"me, he'd go straight to the police."
+msgstr ""
+"Poi, se mi fai del male, finirai nei guai seri.\n"
+"Akiyama-san sa che sono venuta qui. Se mi succedesse qualcosa\n"
+"andrebbe dritto alla polizia."
+
+msgctxt "296_Yakuza"
+msgid "Tch..."
+msgstr "Tch..."
+
+msgctxt "308_Yakuza"
+msgid "All right, you win. I'll pay your money. Hold on."
+msgstr "Va bene, hai vinto. Ti pagherò i soldi. Aspetta."
+
+msgctxt "320_Nanako"
+msgid "Really!?"
+msgstr "Davvero!?"
+
+msgctxt "344_Yakuza"
+msgid "Here. Now scram."
+msgstr "Tieni. Adesso sloggia."
+
+msgctxt "356_Nanako"
+msgid "Thank you very much! Bye!"
+msgstr "Grazie mille! Arrivederci!"
+
+msgctxt "404_Yakuza"
+msgid "Man, what a piece of work..."
+msgstr "Cavolo, che bel soggetto..."
+
+msgctxt "416_Akiyama"
+msgid "Good job."
+msgstr "Buon lavoro."
+
+msgctxt "428_Yakuza"
+msgid "Oh, hey. You saw all that?"
+msgstr "Oh, ehi. Hai visto tutto?"
+
+msgctxt "440_Yakuza"
+msgid ""
+"So you're really lettin' me off the hook for that loan you\r\n"
+"gave me? I tried scarin' that girlie like ya told me to.\r\n"
+"Didn't actually hafta succeed, though, right?"
+msgstr ""
+"Allora, mi fai davvero passare la cosa per quel prestito che mi\n"
+"hai fatto? Ho provato a spaventare quella ragazzina come mi hai detto.\n"
+"Però non dovevo mica riuscirci per davvero, no?"
+
+msgctxt "452_Akiyama"
+msgid ""
+"Right. That was perfect. What was in that bundle you handed\r\n"
+"her?"
+msgstr ""
+"Giusto. È stato perfetto. Cosa c'era in quel malloppo che le hai\n"
+"dato?"
+
+msgctxt "464_Yakuza"
+msgid "A stack of losing lottery tickets."
+msgstr "Una pila di biglietti della lotteria perdenti."
+
+msgctxt "476_Akiyama"
+msgid "Ha, got it. Nice ad-lib."
+msgstr "Ah, capito. Bella improvvisazione."
+
+msgctxt "488_Yakuza"
+msgid ""
+"That little babe turned around and threatened me. She's\r\n"
+"sharper and gutsier than she lets on."
+msgstr ""
+"Quella ragazzina si è girata e mi ha minacciato. È più\n"
+"sveglia e con più fegato di quanto dia a vedere."
+
+msgctxt "500_Akiyama"
+msgid "I'd have to agree."
+msgstr "Non posso che essere d'accordo."
+
+msgctxt "512_Akiyama"
+msgid "(Better get back to the office.)"
+msgstr "(Meglio tornare in ufficio.)"

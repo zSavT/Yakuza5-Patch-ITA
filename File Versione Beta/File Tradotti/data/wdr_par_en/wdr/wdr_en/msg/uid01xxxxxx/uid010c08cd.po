@@ -1,0 +1,334 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "8000"
+msgid "Beautiful Woman"
+msgstr "Bella Donna"
+
+msgctxt "8004"
+msgid "SS1_F_NML_TAX__sigh_g1"
+msgstr "SS1_F_NML_TAX__sigh_g1"
+
+msgctxt "8008"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "8012"
+msgid "SS1_F_NML_TAX_talk_g1"
+msgstr "SS1_F_NML_TAX_talk_g1"
+
+msgctxt "8016"
+msgid "SS1_F_NML_TAX_no"
+msgstr "SS1_F_NML_TAX_no"
+
+msgctxt "8020"
+msgid "SS1_P_TAX_no"
+msgstr "SS1_P_TAX_no"
+
+msgctxt "8024"
+msgid "SS1_F_NML_TAX_crsleg_g1_st"
+msgstr "SS1_F_NML_TAX_crsleg_g1_st"
+
+msgctxt "8028"
+msgid "SS1_F_NML_TAX_crsleg_g1_lp"
+msgstr "SS1_F_NML_TAX_crsleg_g1_lp"
+
+msgctxt "8032"
+msgid "SS1_F_NML_TAX_crsleg_g1_ed"
+msgstr "SS1_F_NML_TAX_crsleg_g1_ed"
+
+msgctxt "8036"
+msgid "SS1_P_TAX_question"
+msgstr "SS1_P_TAX_question"
+
+msgctxt "8040"
+msgid "SS1_F_NML_TAX_ple_cute_g1"
+msgstr "SS1_F_NML_TAX_ple_cute_g1"
+
+msgctxt "8044"
+msgid "Okay, I'll take you on a date."
+msgstr "Va bene, ti porto a un appuntamento."
+
+msgctxt "8048"
+msgid "I'm sorry, but I can't do that."
+msgstr "Mi dispiace, ma non posso farlo."
+
+msgctxt "8052"
+msgid "SS1_P_TAX_nod_A"
+msgstr "SS1_P_TAX_nod_A"
+
+msgctxt "8056"
+msgid "SS1_F_NML_TAX_joy_sexy_g1"
+msgstr "SS1_F_NML_TAX_joy_sexy_g1"
+
+msgctxt "8060"
+msgid "SS1_F_NML_TAX_look_kry_g1_st"
+msgstr "SS1_F_NML_TAX_look_kry_g1_st"
+
+msgctxt "8064"
+msgid "SS1_F_NML_TAX_look_kry_g1_lp"
+msgstr "SS1_F_NML_TAX_look_kry_g1_lp"
+
+msgctxt "8068"
+msgid "SS1_F_NML_TAX_look_kry_g1_ed"
+msgstr "SS1_F_NML_TAX_look_kry_g1_ed"
+
+msgctxt "8072"
+msgid "SS1_F_NML_TAX_lookout_g1_st"
+msgstr "SS1_F_NML_TAX_lookout_g1_st"
+
+msgctxt "8076"
+msgid "The doors have safety locks."
+msgstr "Le portiere hanno i blocchi di sicurezza."
+
+msgctxt "8080"
+msgid "Maybe I can cheer you up."
+msgstr "Forse posso tirarti su il morale."
+
+msgctxt "8084"
+msgid "SS1_F_NML_TAX_lookout_g1_ed"
+msgstr "SS1_F_NML_TAX_lookout_g1_ed"
+
+msgctxt "8088"
+msgid "SS1_F_NML_TAX_laugh"
+msgstr "SS1_F_NML_TAX_laugh"
+
+msgctxt "8092"
+msgid "SS1_F_NML_TAX_sad"
+msgstr "SS1_F_NML_TAX_sad"
+
+msgctxt "8096"
+msgid "SS1_F_NML_TAX_lookout_g1_lp"
+msgstr "SS1_F_NML_TAX_lookout_g1_lp"
+
+msgctxt "8100"
+msgid "SS1_F_NML_TAX_angry_g1"
+msgstr "SS1_F_NML_TAX_angry_g1"
+
+msgctxt "44_Beautiful Woman"
+msgid "Oh dear..."
+msgstr "Oh cavolo..."
+
+msgctxt "56_Kiryu"
+msgid "Why the long face?"
+msgstr "Perché quella faccia lunga?"
+
+msgctxt "68_Beautiful Woman"
+msgid "I got stood up for a date."
+msgstr "Sono stata bidonata per un appuntamento."
+
+msgctxt "80_Beautiful Woman"
+msgid ""
+"I even bought this outfit specifically for today, but it was all for "
+"nothing."
+msgstr ""
+"Mi sono persino comprata questo vestito apposta per oggi, ma è stato tutto "
+"inutile."
+
+msgctxt "92_Kiryu"
+msgid "I'm sorry to hear that."
+msgstr "Mi dispiace sentirlo."
+
+msgctxt "104_Beautiful Woman"
+msgid "Say, driver?"
+msgstr "Senta, autista?"
+
+msgctxt "116_Kiryu"
+msgid "Yes?"
+msgstr "Sì?"
+
+msgctxt "128_Beautiful Woman"
+msgid "I don't suppose you could take me on a date?"
+msgstr "Non è che magari mi porteresti a un appuntamento?"
+
+msgctxt "140_Kiryu"
+msgid "What? You mean now?"
+msgstr "Cosa? Vuoi dire adesso?"
+
+msgctxt "152_Beautiful Woman"
+msgid "Yes. I won't take much of your time. Just walk with me a little, okay?"
+msgstr "Sì. Non ti ruberò molto tempo. Accompagnami un attimo, va bene?"
+
+msgctxt "164_Beautiful Woman"
+msgid "Okay, I'll take you on a date."
+msgstr "Va bene, ti porto a un appuntamento."
+
+msgctxt "176_Beautiful Woman"
+msgid "You really will? Thanks, driver!"
+msgstr "Lo farai davvero? Grazie, autista!"
+
+msgctxt "188_Beautiful Woman"
+msgid "I'm sorry, but I can't do that."
+msgstr "Mi dispiace, ma non posso farlo."
+
+msgctxt "200_Beautiful Woman"
+msgid ""
+"You take your job pretty seriously, huh? Or do you just not want to be seen "
+"with me?"
+msgstr ""
+"Prendi il tuo lavoro proprio sul serio, eh? O non vuoi mica farti vedere con"
+" me?"
+
+msgctxt "212_Kiryu"
+msgid "No, that's not it."
+msgstr "No, non è quello."
+
+msgctxt "224_Beautiful Woman"
+msgid "Hmph. I guess I'm not all that attractive, am I?"
+msgstr "Uhm. Mi sa che non sono poi così attraente, eh?"
+
+msgctxt "236_Beautiful Woman"
+msgid "I'm sure deep down you think I'm an ugly witch."
+msgstr "Sono sicura che in fondo pensi che sono una brutta strega."
+
+msgctxt "248_Kiryu"
+msgid "Not at all."
+msgstr "Niente affatto."
+
+msgctxt "260_Beautiful Woman"
+msgid "Yeah, yeah. Nobody ever gives me the time of day. I'm so lonely."
+msgstr "Sì, sì. Nessuno mi fila mai. Sono così sola."
+
+msgctxt "272_Beautiful Woman"
+msgid "Maybe I'll just throw myself out of this taxi and get it over with."
+msgstr "Magari mi butto fuori da 'sto taxi e la faccio finita."
+
+msgctxt "284_Kiryu"
+msgid "(Geez. I'd better do something.)"
+msgstr "(Accidenti. È meglio che faccia qualcosa.)"
+
+msgctxt "296_Beautiful Woman"
+msgid "Okay, I'll take you on a date."
+msgstr "Va bene, ti porto a un appuntamento."
+
+msgctxt "308_Beautiful Woman"
+msgid "Thanks, driver!"
+msgstr "Grazie, tassista!"
+
+msgctxt "320_Beautiful Woman"
+msgid ""
+"The doors have safety locks on them, so you can't open them from the inside."
+msgstr "Le portiere hanno le sicure, quindi non puoi aprirle dall'interno."
+
+msgctxt "332_Beautiful Woman"
+msgid "Oh, I was only joking about that part."
+msgstr "Oh, su quella parte scherzavo e basta."
+
+msgctxt "344_Kiryu"
+msgid ""
+"Sorry, but I take the safety of my passengers seriously, so I had to be "
+"sure."
+msgstr ""
+"Mi spiace, ma prendo sul serio la sicurezza dei miei passeggeri, quindi "
+"dovevo essere sicuro."
+
+msgctxt "356_Beautiful Woman"
+msgid "That's kind of you."
+msgstr "È gentile da parte tua."
+
+msgctxt "368_Beautiful Woman"
+msgid ""
+"If you're having trouble, maybe talking to me would help? I might be able to"
+" cheer you up."
+msgstr ""
+"Se hai dei problemi, magari parlare con me potrebbe aiutarti? Potrei "
+"riuscire a tirarti su il morale."
+
+msgctxt "380_Beautiful Woman"
+msgid "Wow, you're very kind. Okay, I give up."
+msgstr "Wow, sei molto gentile. Va bene, mi arrendo."
+
+msgctxt "392_Kiryu"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "404_Beautiful Woman"
+msgid "The truth is, I'm a decoy. A guy put me up to this."
+msgstr "La verità è che sono un'esca. Un tizio mi ha messo su questa cosa."
+
+msgctxt "416_Kiryu"
+msgid "A guy?"
+msgstr "Un tizio?"
+
+msgctxt "428_Beautiful Woman"
+msgid ""
+"Yeah. He has me do whatever it takes to lure taxi drivers out of their cars."
+msgstr ""
+"Sì. Lui mi fa fare di tutto per adescare i tassisti e farli scendere dalle "
+"loro macchine."
+
+msgctxt "440_Beautiful Woman"
+msgid "Then a bunch of heavies come and demand money."
+msgstr "Poi arrivano degli scagnozzi e pretendono soldi."
+
+msgctxt "452_Kiryu"
+msgid "But why do you go along with that?"
+msgstr "Ma perché ci stai?"
+
+msgctxt "464_Beautiful Woman"
+msgid ""
+"My father borrowed money from someone shady, and now they're asking for a "
+"huge sum of interest."
+msgstr ""
+"Mio padre ha preso soldi in prestito da qualcuno di losco, e ora pretendono "
+"una cifra esorbitante di interessi."
+
+msgctxt "476_Beautiful Woman"
+msgid "He can't pay, so they made me do this."
+msgstr "Lui non può pagare, così mi hanno costretta a fare questo."
+
+msgctxt "488_Kiryu"
+msgid "If it's an illegal loan, why not complain?"
+msgstr "Se è un prestito illegale, perché non denunci?"
+
+msgctxt "500_Beautiful Woman"
+msgid ""
+"I can't do that! These guys are really scary. What's a girl like me going to"
+" say to them?"
+msgstr ""
+"Non posso farlo! Quei tizi sono davvero spaventosi. Cosa vuoi che gli dica "
+"una ragazza come me?"
+
+msgctxt "512_Kiryu"
+msgid "Hmm."
+msgstr "Mhh."
+
+msgctxt "524_Beautiful Woman"
+msgid "Say, driver?"
+msgstr "Senta, autista?"
+
+msgctxt "536_Kiryu"
+msgid "Yes?"
+msgstr "Sì?"
+
+msgctxt "548_Beautiful Woman"
+msgid ""
+"I know this is a lot to ask, but could you come with me to meet these guys?"
+msgstr ""
+"So che ti chiedo tanto, ma potresti venire con me a incontrare questi tizi?"
+
+msgctxt "560_Beautiful Woman"
+msgid ""
+"I just can't do this anymore! Maybe you could persuade them to let us off "
+"the hook?"
+msgstr ""
+"Non ce la faccio più! Magari potresti convincerli a toglierci dai guai?"
+
+msgctxt "572_Kiryu"
+msgid "Sure, I think I can help you out."
+msgstr "Certo, penso di poterti aiutare."
+
+msgctxt "584_Beautiful Woman"
+msgid "Oh, thank you!"
+msgstr "Oh, grazie!"

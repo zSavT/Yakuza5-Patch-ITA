@@ -1,0 +1,108 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2864"
+msgid "Greedy Shima"
+msgstr "Greedy Shima"
+
+msgctxt "380_Greedy Shima"
+msgid "First, we pick the banker."
+msgstr "Per prima cosa, si sceglie il banchiere."
+
+msgctxt "392_Greedy Shima"
+msgid "I'm the banker."
+msgstr "Sono il banchiere."
+
+msgctxt "404_Greedy Shima"
+msgid "How much you gonna wager?"
+msgstr "Quanto punti?"
+
+msgctxt "416_Greedy Shima"
+msgid "All right, here goes."
+msgstr "Allora, si comincia."
+
+msgctxt "428_Greedy Shima"
+msgid "My turn."
+msgstr "Tocca a me."
+
+msgctxt "440_Greedy Shima"
+msgid "(This line should not appear.)"
+msgstr "(Questa riga non dovrebbe apparire.)"
+
+msgctxt "452_Greedy Shima"
+msgid "Let's settle our bets."
+msgstr "Regoliamo i conti."
+
+msgctxt "464_Greedy Shima"
+msgid "You're the banker."
+msgstr "Sei il banchiere."
+
+msgctxt "476_Greedy Shima"
+msgid "Now we're gonna switch bankers."
+msgstr "Adesso cambiamo banchiere."
+
+msgctxt "488_Greedy Shima"
+msgid "Wanna play again?"
+msgstr "Ti va di giocare ancora?"
+
+msgctxt "500_Greedy Shima"
+msgid "That's it for me. I'm outta here..."
+msgstr "Ho chiuso. Me ne vado..."
+
+msgctxt "512_Greedy Shima"
+msgid ""
+"Ya couldn't bet more even if ya wanted to. Come back when you got some more "
+"dough."
+msgstr ""
+"Non potresti puntare di più manco se volessi. Torna quando c'hai più grana."
+
+msgctxt "524_Greedy Shima"
+msgid "Banker's Bet-Settling Messages"
+msgstr "Messaggi di regolamento delle puntate del banchiere"
+
+msgctxt "536_Greedy Shima"
+msgid "A banker rollin' 1-3-5 gets a 3."
+msgstr "Un banchiere che tira 1-3-5 prende un 3."
+
+msgctxt "548_Greedy Shima"
+msgid "A 1-3-5 by the first player gets a 3."
+msgstr "Il primo giocatore che tira 1-3-5 prende un 3."
+
+msgctxt "560_Greedy Shima"
+msgid "A 1-3-5 gets what the previous player rolled."
+msgstr "Un 1-3-5 prende quello che il giocatore precedente ha tirato."
+
+msgctxt "572_Greedy Shima"
+msgid "A banker rollin' 2-4-6 gets a 4."
+msgstr "Un banchiere che tira 2-4-6 prende un 4."
+
+msgctxt "584_Greedy Shima"
+msgid "A 2-4-6 changes to what the next player rolls."
+msgstr "Un 2-4-6 prende quello che il giocatore successivo tira."
+
+msgctxt "596_Greedy Shima"
+msgid "A 2-4-6 by the last player gets a 4."
+msgstr "L'ultimo giocatore che tira 2-4-6 prende un 4."
+
+msgctxt "608_Greedy Shima"
+msgid "A 2-4-6 roll gets the last player's roll!"
+msgstr "Un 2-4-6 prende quello che l'ultimo giocatore ha tirato!"
+
+msgctxt "620_Greedy Shima"
+msgid "A 1-3-5 was rolled after a 2-4-6."
+msgstr "Un 1-3-5 è stato tirato dopo un 2-4-6."
+
+msgctxt "632_Greedy Shima"
+msgid "A 6-3-4! Well, how d'ya like that?"
+msgstr "Un 6-3-4! Beh, che te ne pare?"

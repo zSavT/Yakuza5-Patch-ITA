@@ -1,0 +1,63 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "80"
+msgid "You picked up a <Color:8>Sturdy Iron Pipe<Color:Default>."
+msgstr "Hai raccolto un <Color:8>Tubo di Ferro Robusto<Color:Default>."
+
+msgctxt "1480"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "1484"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "1488"
+msgid "P_SIN_TLK_stand_kyoro"
+msgstr "P_SIN_TLK_stand_kyoro"
+
+msgctxt "1492"
+msgid "P_SYNC_leg_st_b"
+msgstr "P_SYNC_leg_st_b"
+
+msgctxt "1496"
+msgid "Shinada's Weapon Attacks"
+msgstr "Gli Attacchi con le Armi di Shinada"
+
+msgctxt "1500"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "56_Player"
+msgid "Oh, come on! A knife? Really!?"
+msgstr "Ah, ma dai! Un coltello? Davvero!?"
+
+msgctxt "68_Player"
+msgid "Hmm... I need a weapon, too. All right, here we go!"
+msgstr "Mmm... Mi serve un'arma anch'io. Dai, si parte!"
+
+msgctxt "104_Shinada's Weapon Attacks"
+msgid ""
+"Shinada is good at weapon attacks. As his skills\r\n"
+"develop, he'll learn abilities that let him gain\r\n"
+"the upper hand when fighting with weapons. When\r\n"
+"it fits the situation, use weapons in addition\r\n"
+"to My Meteor Tackle and punches."
+msgstr ""
+"Shinada è bravo negli attacchi con le armi. Man mano che le sue abilità\n"
+"si sviluppano, imparerà abilità che gli permetteranno di avere\n"
+"la meglio quando combatte con le armi. Quando\n"
+"la situazione lo richiede, usa le armi in aggiunta\n"
+"a My Meteor Tackle e ai pugni."

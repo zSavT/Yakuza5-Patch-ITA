@@ -1,0 +1,68 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1708"
+msgid "Kaguya"
+msgstr "Kaguya"
+
+msgctxt "1712"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "1716"
+msgid "F_SXY_TLK_stand_quest"
+msgstr "F_SXY_TLK_stand_quest"
+
+msgctxt "1720"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "44_Kaguya"
+msgid "Hey, Saejima-san!"
+msgstr "Ehi, Saejima!"
+
+msgctxt "56_Saejima"
+msgid "Hey. Sorry to keep ya waitin'."
+msgstr "Ehi. Scusa se ti ho fatto aspettare."
+
+msgctxt "80_Kaguya"
+msgid "Oh? Is there someone with you?"
+msgstr "Oh? C'è qualcuno con te?"
+
+msgctxt "92_Saejima"
+msgid "Uh..."
+msgstr "Ehm..."
+
+msgctxt "104_Kaguya"
+msgid ""
+"If you have something to do, please go and take care of that first. I'll be "
+"waiting for you here."
+msgstr ""
+"Se hai qualcosa da fare, vai pure a sbrigartela prima. Ti aspetterò qui."
+
+msgctxt "116_Shinada"
+msgid "Sorry. I'll get it done."
+msgstr "Scusa. Ci penso io."
+
+msgctxt "128_Kaguya"
+msgid ""
+"It's okay, I wanted to see you! I just wanted to talk with you some more. "
+"Let's go wander around here for a bit."
+msgstr ""
+"Va bene, volevo vederti! Volevo solo parlare ancora un po' con te. Andiamo a"
+" fare un giro qui per un po'."
+
+msgctxt "140_Saejima"
+msgid "All right, let's go."
+msgstr "Va bene, andiamo."

@@ -1,0 +1,657 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1432"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Collana di Haruka<Color:Default>."
+
+msgctxt "1492"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round when you are playing cho-han.\r\n"
+" "
+msgstr ""
+"Haruka d'ora in poi di tanto in tanto prevederà l'esito di una mano quando "
+"giochi a cho-han."
+
+msgctxt "1540"
+msgid "You got <Color:8>Haruka's Lunch<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Il pranzo di Haruka<Color:Default>."
+
+msgctxt "1600"
+msgid "You got <Color:8>Haruka's First-Aid Kit<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Kit di Primo Soccorso di Haruka<Color:Default>."
+
+msgctxt "1660"
+msgid "You got <Color:8>Red Jewel<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Gemma Rossa<Color:Default>."
+
+msgctxt "1720"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr "Hai ottenuto <Color:8>L'Amuleto di Haruka<Color:Default>."
+
+msgctxt "1780"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr "Hai ottenuto <Color:8>il cioccolato di Haruka<Color:Default>."
+
+msgctxt "1840"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Dolcetto di Haruka<Color:Default>."
+
+msgctxt "1948"
+msgid "You got <Color:8>Morning Glory Belly Warmer<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Scaldapancia del Glicine<Color:Default>."
+
+msgctxt "28884"
+msgid "Staff"
+msgstr "Staff"
+
+msgctxt "28888"
+msgid "Talk_Info_R"
+msgstr "Talk_Info_R"
+
+msgctxt "28892"
+msgid "P_TLK_sitchr_kamae"
+msgstr "P_TLK_sitchr_kamae"
+
+msgctxt "28896"
+msgid "Kaguya"
+msgstr "Kaguya"
+
+msgctxt "28900"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "28904"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "28908"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "28912"
+msgid "○Yer lucky."
+msgstr "○Sei fortunato."
+
+msgctxt "28916"
+msgid "□Did your taste buds go numb?"
+msgstr "□Ti si sono intorpidite le papille gustative?"
+
+msgctxt "28920"
+msgid "△How about sour things?"
+msgstr "△Che ne dici delle cose acide?"
+
+msgctxt "28924"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "28928"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "28932"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "28936"
+msgid "Talk_Kamae"
+msgstr "Talk_Kamae"
+
+msgctxt "28940"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "28944"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "28948"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "28952"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "28956"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "28960"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "28964"
+msgid "P_TLK_stand_kamae"
+msgstr "P_TLK_stand_kamae"
+
+msgctxt "28968"
+msgid "P_stand"
+msgstr "P_stand"
+
+msgctxt "28972"
+msgid "P_TLK_sitchr_yes"
+msgstr "P_TLK_sitchr_yes"
+
+msgctxt "28976"
+msgid "HAL_TLK_sitchr_eat_donburi_min"
+msgstr "HAL_TLK_sitchr_eat_donburi_min"
+
+msgctxt "28980"
+msgid "ArmsID"
+msgstr "ID Armi"
+
+msgctxt "28984"
+msgid "F_SXY_TLK_sitchr_kamae"
+msgstr "F_SXY_TLK_sitchr_kamae"
+
+msgctxt "28988"
+msgid "F_SXY_TLK_sitchr_yes"
+msgstr "F_SXY_TLK_sitchr_yes"
+
+msgctxt "28992"
+msgid "0"
+msgstr "0"
+
+msgctxt "28996"
+msgid "Idle"
+msgstr "Inattivo"
+
+msgctxt "76_Staff"
+msgid "Welcome. Please have a seat."
+msgstr "Benvenuto. Prego, si accomodi."
+
+msgctxt "124_Staff"
+msgid "May I take your order?"
+msgstr "Posso prendere la sua ordinazione?"
+
+msgctxt "136_Kaguya"
+msgid "I bet the <Color:8>Gyoza<Color:Default> here are good."
+msgstr "Scommetto che i <Color:8>Gyoza<Color:Default> qui sono buoni."
+
+msgctxt "148_Player"
+msgid "(Guess Kaguya wants the <Color:8>Gyoza<Color:Default>.)"
+msgstr "(Immagino che Kaguya voglia i <Color:8>Gyoza<Color:Default>.)"
+
+msgctxt "220_Kaguya"
+msgid "Bon appetit!"
+msgstr "Buon appetito!"
+
+msgctxt "280_Kaguya"
+msgid "Oh, could you pass the chili oil?"
+msgstr "Oh, mi passeresti l'olio al peperoncino?"
+
+msgctxt "292_Player"
+msgid "You like spicy foods, do ya?"
+msgstr "Ti piacciono i cibi piccanti, eh?"
+
+msgctxt "304_Kaguya"
+msgid ""
+"I love them! <Color:255,200,200,255>♥<Color:Default> Green curry, dan-dan "
+"noodles, kimchi stew... I eat things like that all the time!"
+msgstr ""
+"Li adoro! <Color:255,200,200,255>♥<Color:Default> Curry verde, Dan-dan "
+"noodles, Kimchi stew... Mangio cose così in continuazione!"
+
+msgctxt "316_Player"
+msgid ""
+"Those're pretty darn spicy. Don't ya eat anythin' that's a bit more toned "
+"down?"
+msgstr ""
+"Quelle sono dannatamente piccanti. Non mangi mai qualcosa di un po' più "
+"tranquillo?"
+
+msgctxt "328_Kaguya"
+msgid "Let me think... Salted squid innards?"
+msgstr "Fammi pensare... Interiora di calamaro salate?"
+
+msgctxt "340_Player"
+msgid "Sounds like what an old geezer would order when he's out drinkin'."
+msgstr "Sembra roba da vecchiaccio quando è fuori a bere."
+
+msgctxt "352_Kaguya"
+msgid ""
+"I like sweet foods, too. I always keep my refrigerator stocked with "
+"chocolate."
+msgstr "Mi piacciono anche i dolci. Ho sempre il frigo pieno di cioccolato."
+
+msgctxt "364_Player"
+msgid ""
+"Ah, so ya like sweet things and not just spicy. What's up with yer taste "
+"buds?"
+msgstr ""
+"Ah, quindi ti piacciono le cose dolci e non solo quelle piccanti. Ma che "
+"hanno le tue papille gustative?"
+
+msgctxt "376_Kaguya"
+msgid ""
+"There's nothing particularly special about it. I just like things that taste"
+" good."
+msgstr ""
+"Non c'è niente di particolarmente speciale. Mi piacciono solo le cose buone."
+
+msgctxt "388_Player"
+msgid "Yer lucky. It's good to be able to enjoy all kinds a' food."
+msgstr "Sei fortunato. È bello che tu possa goderti ogni tipo di cibo."
+
+msgctxt "400_Kaguya"
+msgid ""
+"Lots of men like spicy foods, don't they? Since I'm okay with them too, it "
+"makes it easy to decide on a restaurant when going on a date."
+msgstr ""
+"A un sacco di uomini piacciono i cibi piccanti, no? Dato che anche a me "
+"piacciono, è facile scegliere un ristorante quando si va a un appuntamento."
+
+msgctxt "412_Kaguya"
+msgid ""
+"I go to plenty of tasty sweet shops when I go out for tea with other girls, "
+"so that's fine as well. I'll basically go anywhere!"
+msgstr ""
+"Vado in un sacco di pasticcerie buone quando esco a prendere il tè con le "
+"altre ragazze, quindi va bene anche quello. Praticamente vado dappertutto!"
+
+msgctxt "424_Player"
+msgid ""
+"See, I'm the opposite. I can't handle a trip to the sweet shop all that "
+"well."
+msgstr ""
+"Vedi, io sono l'opposto. Non me la cavo un granché con le pasticcerie."
+
+msgctxt "436_Kaguya"
+msgid "You don't like sweet foods?"
+msgstr "Non ti piacciono i dolci?"
+
+msgctxt "448_Player"
+msgid ""
+"It ain't that. I'm too embarrassed to go to a place filled with nothin' but "
+"young ladies."
+msgstr ""
+"Non è mica quello. Mi vergogno troppo ad andare in un posto pieno solo di "
+"ragazze."
+
+msgctxt "460_Kaguya"
+msgid ""
+"Saejima-san, that's so adorable! I'll have to bring you with me sometime! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Saejima-san, è così adorabile! Ti dovrò portare con me prima o poi! "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "472_Player"
+msgid "I'll pass, thanks."
+msgstr "Passo, grazie."
+
+msgctxt "484_Player"
+msgid ""
+"Did your taste buds go numb? If ya eat too many spicy foods, you mighta lost"
+" the ability to tell spicy and sweet apart."
+msgstr ""
+"Ti si sono intorpidite le papille gustative? Se ti mangi troppe cose "
+"piccanti, potresti aver perso la capacità di distinguere il piccante dal "
+"dolce."
+
+msgctxt "496_Kaguya"
+msgid ""
+"That's not it. I'm something of a gourmet, after all! I have full confidence"
+" in my taste buds."
+msgstr ""
+"Non è quello. Sono un buongustaio, in fin dei conti! Ho piena fiducia nelle "
+"mie papille gustative."
+
+msgctxt "508_Player"
+msgid ""
+"In that case, why not skip the chili oil and enjoy the taste of the "
+"ingredients as they are?"
+msgstr ""
+"In quel caso, perché non lasci perdere l'olio al peperoncino e ti godi il "
+"sapore degli ingredienti così come sono?"
+
+msgctxt "520_Kaguya"
+msgid ""
+"That's not a bad idea, but I like the taste of chili oil! "
+"<Color:255,200,200,255>♥<Color:Default> So why not let myself enjoy that as "
+"well?"
+msgstr ""
+"Non è una cattiva idea, ma mi piace il sapore dell'olio al peperoncino! "
+"<Color:255,200,200,255>♥<Color:Default> Allora perché non dovrei godermelo "
+"anch'io?"
+
+msgctxt "532_Player"
+msgid "Heh. Yer like one of those folks that puts mayo on everythin'."
+msgstr "Heh. Sei come uno di quelli che mette la maionese su tutto."
+
+msgctxt "544_Kaguya"
+msgid ""
+"Yes, exactly! I hear that there are a lot of people out there who are crazy "
+"about mayonnaise. I'm like the chili oil version of that!"
+msgstr ""
+"Sì, esatto! Sento dire che ci sono un sacco di persone là fuori che vanno "
+"matte per la maionese. Io sono tipo la versione all'olio al peperoncino di "
+"quello!"
+
+msgctxt "556_Player"
+msgid ""
+"But havin' too much ain't good for your health. Ya need to keep yer "
+"seasonings in check."
+msgstr ""
+"Ma averne troppo non è mica un bene per la salute. Devi tenere a bada i tuoi"
+" condimenti."
+
+msgctxt "568_Player"
+msgid "How about sour things?"
+msgstr "E le cose aspre?"
+
+msgctxt "580_Kaguya"
+msgid ""
+"Oh, I don't really hate them, but I don't like them all that much either."
+msgstr "Oh, non li odio mica, ma non è che mi piacciano granché."
+
+msgctxt "592_Player"
+msgid "Oh yeah? How come?"
+msgstr "Ah sì? Come mai?"
+
+msgctxt "604_Kaguya"
+msgid ""
+"I don't mind the flavor so much, but I don't know a lot of sour things that "
+"are tasty."
+msgstr ""
+"Il sapore non mi dispiace granché, ma non è che conosca molte cose aspre che"
+" siano gustose."
+
+msgctxt "616_Player"
+msgid ""
+"Yeah. People do tend to choose other dishes before vinegary foods, like "
+"pickles."
+msgstr ""
+"Sì. La gente tende a scegliere altri piatti prima dei cibi a base di aceto, "
+"come i sottaceti."
+
+msgctxt "628_Kaguya"
+msgid ""
+"Yes, so if there was some definitive dish that showcased vinegar, it might "
+"change my mind."
+msgstr ""
+"Sì, quindi se ci fosse un piatto davvero notevole che mettesse in risalto "
+"l'aceto, potrebbe farmi cambiare idea."
+
+msgctxt "640_Kaguya"
+msgid ""
+"Oh, that's it! Maybe if there were some kind of edible vinegar? That might "
+"actually be pretty tasty!"
+msgstr ""
+"Ah, ecco! Magari se ci fosse un qualche tipo di aceto commestibile? Potrebbe"
+" essere davvero gustoso!"
+
+msgctxt "652_Player"
+msgid "I think they got that already."
+msgstr "Penso che l'abbiano già capito."
+
+msgctxt "712_Kaguya"
+msgid "Thanks for the food! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Grazie per il cibo! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "772_Staff"
+msgid "Here's your check."
+msgstr "Ecco il conto."
+
+msgctxt "796_Staff"
+msgid "Thank you very much. We hope you'll come again."
+msgstr "Grazie mille. Speriamo che tornerete."
+
+msgctxt "808_Staff"
+msgid "Thank you very much."
+msgstr "Grazie mille."
+
+msgctxt "844_Staff"
+msgid "Welcome. Please have a seat."
+msgstr "Benvenuto. Prego, si accomodi."
+
+msgctxt "868_Player"
+msgid "(I'm broke.)"
+msgstr "(Sono al verde.)"
+
+msgctxt "904_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr "Scusa. Ho una cosa da sbrigare."
+
+msgctxt "916_Akiyama"
+msgid "Sorry. I have some urgent business to take care of."
+msgstr "Scusa. Ho degli affari urgenti da sbrigare."
+
+msgctxt "928_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr "Mi dispiace, ma devo filare."
+
+msgctxt "940_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr "Oh, mi dispiace. Ho una cosa..."
+
+msgctxt "952_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr "Mi dispiace davvero. È saltato fuori un imprevisto."
+
+msgctxt "964_Staff"
+msgid "Ah, I see. Please do come again."
+msgstr "Ah, capisco. Torni pure."
+
+msgctxt "1012_Staff"
+msgid "(What should I get to eat?)"
+msgstr "(Cosa mi prendo da mangiare?)"
+
+msgctxt "1024_Haruka"
+msgid ""
+"Uncle Kaz, I'd really like the <Color:8>Shrimp in Chili "
+"Sauce<Color:Default>."
+msgstr ""
+"Zio Kaz, mi andrebbero proprio i <Color:8>gamberi in salsa "
+"chili<Color:Default>."
+
+msgctxt "1036_Kiryu"
+msgid ""
+"(Haruka wants to have the <Color:8>Shrimp in Chili Sauce<Color:Default>.)"
+msgstr "(Haruka vorrebbe i <Color:8>gamberi in salsa chili<Color:Default>.)"
+
+msgctxt "1060_Staff"
+msgid "But I wanted the <Color:8>Shrimp in Chili Sauce<Color:Default>..."
+msgstr "Ma volevo i <Color:8>gamberi in salsa chili<Color:Default>..."
+
+msgctxt "1132_Staff"
+msgid "This looks really tasty! Thanks, Uncle Kaz!"
+msgstr "Sembra una vera delizia! Grazie, zio Kaz!"
+
+msgctxt "1264_Haruka"
+msgid "Thanks for treating me!"
+msgstr "Grazie per avermi offerto!"
+
+msgctxt "1288_Kiryu"
+msgid "(Haruka sure seems happy.)"
+msgstr "(Haruka sembra proprio felice.)"
+
+msgctxt "1372_Staff"
+msgid "That was delicious!"
+msgstr "Era delizioso!"
+
+msgctxt "1420_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! This is for you!\r\n"
+" "
+msgstr "Grazie, Zio Kaz! Questo è per te!"
+
+msgctxt "1480_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come play cho-han with you next time, okay?\r\n"
+" "
+msgstr ""
+"Grazie infinite, Zio Kaz! Voglio venire a giocare a cho-han con te la "
+"prossima volta, okay?"
+
+msgctxt "1528_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I have a present for you!\r\n"
+" "
+msgstr "Grazie mille, Zio Kaz! Ho un regalo per te!"
+
+msgctxt "1588_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "1648_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "1708_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "1768_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "1828_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "1924_Haruka"
+msgid ""
+"Thanks for doing all that stuff for me, Uncle Kaz!\r\n"
+" "
+msgstr "Grazie per aver fatto tutte quelle cose per me, Zio Kaz!"
+
+msgctxt "1936_Staff"
+msgid ""
+"Here, this is a special present, just for you!\r\n"
+" "
+msgstr "Ecco, questo è un regalo speciale, solo per te!"
+
+msgctxt "1960_Haruka"
+msgid "Thanks, Uncle Kaz! I love you!"
+msgstr "Grazie, Zio Kaz! Ti voglio bene!"
+
+msgctxt "1996_Staff"
+msgid "Thank you very much. We hope you'll come again."
+msgstr "Grazie mille. Speriamo che tornerete."
+
+msgctxt "2008_Staff"
+msgid "Thank you very much. We hope you'll come again."
+msgstr "Grazie mille. Speriamo che tornerete."
+
+msgctxt "2032_Staff"
+msgid "Welcome. Please have a seat."
+msgstr "Benvenuto. Prego, si accomodi."
+
+msgctxt "2068_Player"
+msgid "(I'm broke.)"
+msgstr "(Sono al verde.)"
+
+msgctxt "2104_Kiryu"
+msgid "(I don't need to eat right now.)"
+msgstr "(Non ho bisogno di mangiare adesso.)"
+
+msgctxt "2116_Akiyama"
+msgid "(I'm not hungry right now.)"
+msgstr "(Non ho fame in questo momento.)"
+
+msgctxt "2128_Saejima"
+msgid "(I'm still full.)"
+msgstr "(Sono ancora pieno.)"
+
+msgctxt "2140_Shinada"
+msgid "(Unfortunately, I'm kinda full.)"
+msgstr "(Purtroppo, sono un po' pieno.)"
+
+msgctxt "2152_Haruka"
+msgid "(I'm stuffed.)"
+msgstr "(Sono strapieno.)"
+
+msgctxt "2188_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr "Scusa. Ho una cosa da sbrigare."
+
+msgctxt "2200_Akiyama"
+msgid "Sorry. I have some urgent business to take care of."
+msgstr "Scusa. Ho degli affari urgenti da sbrigare."
+
+msgctxt "2212_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr "Mi dispiace, ma devo filare."
+
+msgctxt "2224_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr "Oh, mi dispiace. Ho una cosa..."
+
+msgctxt "2236_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr "Mi dispiace davvero. È saltato fuori un imprevisto."
+
+msgctxt "2248_Staff"
+msgid "Ah, I see. Please do come again."
+msgstr "Ah, capisco. Torni pure."
+
+msgctxt "2320_Kiryu"
+msgid "(What should I get to eat?)"
+msgstr "(Cosa prendo da mangiare?)"
+
+msgctxt "2332_Akiyama"
+msgid "(What should I get?)"
+msgstr "(Cosa prendo?)"
+
+msgctxt "2344_Saejima"
+msgid "(What do I wanna eat?)"
+msgstr "(Cosa mi va di mangiare?)"
+
+msgctxt "2356_Shinada"
+msgid "(Okay, what do I want to get?)"
+msgstr "(Okay, cosa mi prendo?)"
+
+msgctxt "2368_Haruka"
+msgid "(Hmmm. I wonder what's good?)"
+msgstr "(Mmmh. Cosa c'è di buono?)"
+
+msgctxt "2416_Kiryu"
+msgid "(Maybe I should go.)"
+msgstr "(Forse dovrei andare.)"
+
+msgctxt "2428_Akiyama"
+msgid "(Guess I should go.)"
+msgstr "(Credo che dovrei andare.)"
+
+msgctxt "2440_Saejima"
+msgid "(Maybe I oughta go.)"
+msgstr "(Forse dovrei andare.)"
+
+msgctxt "2452_Shinada"
+msgid "(Should I go?)"
+msgstr "(Dovrei andare?)"
+
+msgctxt "2464_Haruka"
+msgid "(I suppose I ought to go.)"
+msgstr "(Suppongo che dovrei andare.)"
+
+msgctxt "2512_Staff"
+msgid "Here's your check."
+msgstr ""
+
+msgctxt "2536_Staff"
+msgid "Thank you very much. We hope you'll come again."
+msgstr ""

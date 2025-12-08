@@ -1,0 +1,328 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "12792"
+msgid "Wada"
+msgstr "Wada"
+
+msgctxt "12796"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "12800"
+msgid "P_TLK_stand_kyoro_ed"
+msgstr "P_TLK_stand_kyoro_ed"
+
+msgctxt "12804"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "12808"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "12812"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "12816"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "12820"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "12824"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "12828"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "12832"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "12836"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "72_Wada"
+msgid ""
+"I wanna see you beat me this time, Suzuki-san! Otherwise, I can't let you go"
+" up against Onisaka the Musketeer!"
+msgstr ""
+"Voglio proprio vederti battermi questa volta, Suzuki-san! Sennò, non posso "
+"farti affrontare Onisaka il Moschettiere!"
+
+msgctxt "120_Wada"
+msgid "(I don't see the client.)"
+msgstr "Non vedo il cliente."
+
+msgctxt "144_Wada"
+msgid "Oh, hi there, Wada-san."
+msgstr "Oh, ciao, Wada-san."
+
+msgctxt "156_Wada"
+msgid "Hi there yourself."
+msgstr "Ciao anche a te."
+
+msgctxt "168_Kiryu"
+msgid "On break right now?"
+msgstr "In pausa adesso?"
+
+msgctxt "180_Wada"
+msgid "You could say that."
+msgstr "Diciamo così."
+
+msgctxt "192_Kiryu"
+msgid "All right. See you around, I guess."
+msgstr "Va bene. Ci si vede, immagino."
+
+msgctxt "240_Wada"
+msgid "What's wrong?"
+msgstr "Che succede?"
+
+msgctxt "252_Wada"
+msgid "It's me, by the way."
+msgstr "Sono io, a proposito."
+
+msgctxt "264_Kiryu"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "276_Wada"
+msgid "I'm the one who requested you."
+msgstr "Sono io che ti ho richiesto."
+
+msgctxt "288_Kiryu"
+msgid "What? You're the client? Do you want me to drive you home again?"
+msgstr "Cosa? Sei tu il cliente? Vuoi che ti riaccompagni a casa di nuovo?"
+
+msgctxt "300_Wada"
+msgid "No. Don't you remember what the chief said when you first got hired?"
+msgstr "No. Non ti ricordi cosa ha detto il capo quando sei stato assunto?"
+
+msgctxt "312_Wada"
+msgid ""
+"I'm the most senior driver. He wanted me to give you some driving tips."
+msgstr ""
+"Sono l'autista più anziano. Voleva che ti dessi qualche dritta sulla guida."
+
+msgctxt "324_Kiryu"
+msgid "And you have. They've come in real handy."
+msgstr "E l'hai fatto. Mi sono tornate un sacco utili."
+
+msgctxt "336_Wada"
+msgid "Haha. Well, I've got one more piece of advice for you."
+msgstr "Haha. Beh, ho un'altra dritta per te."
+
+msgctxt "348_Kiryu"
+msgid "What about?"
+msgstr "Riguardo a cosa?"
+
+msgctxt "360_Wada"
+msgid "Today I want to tell you about Onisaka."
+msgstr "Oggi ti voglio parlare di Onisaka."
+
+msgctxt "372_Kiryu"
+msgid "You're kidding!"
+msgstr "Non ci credo!"
+
+msgctxt "396_Wada"
+msgid "Chief needs you to race him, right?"
+msgstr "Il capo ha bisogno che tu lo sfidi in gara, vero?"
+
+msgctxt "408_Kiryu"
+msgid "...Something like that."
+msgstr "Più o meno."
+
+msgctxt "420_Wada"
+msgid "Then I might just be able to help."
+msgstr "Allora potrei proprio aiutarti."
+
+msgctxt "432_Kiryu"
+msgid "You used to be a street racer yourself, didn't you?"
+msgstr "Eri anche tu un pilota di strada, vero?"
+
+msgctxt "444_Wada"
+msgid ""
+"Oh, you bet. That was years ago, though... Onisaka used to be one of the "
+"Three Musketeers, y'know."
+msgstr ""
+"Puoi scommetterci. Però era anni fa... Onisaka era uno dei Tre Moschettieri,"
+" lo sai."
+
+msgctxt "456_Kiryu"
+msgid "Let me guess. The predecessors to the Four Kings?"
+msgstr "Fammi indovinare. I predecessori dei Quattro Re?"
+
+msgctxt "468_Wada"
+msgid ""
+"You're sharp. The top three racers in Fukuoka at the time took on that name "
+"from the old French novel."
+msgstr ""
+"Sei sveglio. I tre migliori piloti di Fukuoka di allora presero quel nome "
+"dal vecchio romanzo francese."
+
+msgctxt "480_Wada"
+msgid ""
+"And, wouldn't ya know it, our chief was the fastest of 'em. Biggest speed "
+"demon in all of Fukuoka. People used to call him Athos, the eldest and most "
+"fatherly Musketeer."
+msgstr ""
+"E, non ci crederesti, il nostro capo era il più veloce di tutti loro. Il più"
+" grande demone della velocità di tutta Fukuoka. La gente lo chiamava Athos, "
+"il Moschettiere più anziano e più paterno."
+
+msgctxt "492_Wada"
+msgid "Onisaka was third in rank. He went by the handle \"Porthos.\""
+msgstr "Onisaka era il terzo in classifica. Si faceva chiamare \"Porthos\"."
+
+msgctxt "504_Wada"
+msgid ""
+"But Onisaka was a tenacious one. His times kept getting faster and faster."
+msgstr ""
+"Ma Onisaka era uno tosto. I suoi tempi continuavano a diventare sempre più "
+"veloci."
+
+msgctxt "516_Wada"
+msgid ""
+"When he got back from his travels, he was at the top of his game. If the "
+"chief hadn't already quit, Onisaka probably could've taken him."
+msgstr ""
+"Quando tornò dai suoi viaggi, era al top della sua forma. Se il capo non "
+"avesse già mollato, Onisaka probabilmente l'avrebbe battuto."
+
+msgctxt "528_Kiryu"
+msgid "So that's how it was..."
+msgstr "Ah, quindi era così..."
+
+msgctxt "540_Wada"
+msgid ""
+"Yep. Onisaka is the kind of guy who'd do anything just to shave a "
+"millisecond off his race time."
+msgstr ""
+"Già. Onisaka è il tipo che farebbe di tutto pur di limare un millisecondo al"
+" suo tempo di gara."
+
+msgctxt "552_Wada"
+msgid "Twenty years have passed, but I bet he's still in peak condition."
+msgstr ""
+"Sono passati vent'anni, ma ci scommetto che è ancora al top della forma."
+
+msgctxt "564_Wada"
+msgid ""
+"In fact, if he's stuck with it all these years, he might even be faster yet."
+msgstr ""
+"Anzi, se ci ha dato dentro tutti questi anni, potrebbe essere persino più "
+"veloce."
+
+msgctxt "576_Kiryu"
+msgid "That's something to consider..."
+msgstr "Questo è da tenere in considerazione..."
+
+msgctxt "588_Wada"
+msgid ""
+"Well, look. I requested you, so for all they know you're on a job, right?"
+msgstr ""
+"Beh, guarda. Ti ho chiesto io, quindi per quello che ne sanno sei al lavoro,"
+" no?"
+
+msgctxt "600_Kiryu"
+msgid "That is true..."
+msgstr "È vero..."
+
+msgctxt "612_Wada"
+msgid ""
+"You should use this time to get some practice. You need to train if you want"
+" to beat Onisaka."
+msgstr ""
+"Usa questo tempo per fare un po' di pratica. Devi darci dentro se vuoi "
+"battere Onisaka."
+
+msgctxt "624_Kiryu"
+msgid "Any ideas how I would go about doing that?"
+msgstr "Qualche idea su come potrei fare?"
+
+msgctxt "636_Wada"
+msgid "...How about you and me hit the highway?"
+msgstr "...Che ne dici se io e te ci facciamo un giro in autostrada?"
+
+msgctxt "648_Kiryu"
+msgid "What, you want to race?"
+msgstr "Che, vuoi correre?"
+
+msgctxt "660_Wada"
+msgid ""
+"Why not? If you think you're ready to take on Onisaka, you ought to have no "
+"trouble beating me."
+msgstr ""
+"Perché no? Se pensi di essere pronto a battere Onisaka, non dovresti avere "
+"problemi a battermi."
+
+msgctxt "672_Kiryu"
+msgid "But you haven't raced in years, right?"
+msgstr "Ma non corri da anni, no?"
+
+msgctxt "684_Wada"
+msgid ""
+"Hey, I'm behind the wheel every day. I still got the thunder in my veins."
+msgstr "Ehi, sono al volante tutti i giorni. Ho ancora il rombo nelle vene."
+
+msgctxt "696_Kiryu"
+msgid ""
+"But driving a taxi isn't really the same thing. And I know I'm one to talk, "
+"but you're not as young as you used to be."
+msgstr ""
+"Ma guidare un taxi non è proprio la stessa cosa. E lo so, dovrei stare zitto"
+" io, ma non sei più giovane come una volta."
+
+msgctxt "708_Wada"
+msgid "Nonsense! I'm still plenty young!"
+msgstr "Sciocchezze! Sono ancora parecchio giovane!"
+
+msgctxt "720_Kiryu"
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgctxt "732_Kiryu"
+msgid ""
+"(So if Nakajima-san was the head Musketeer, and Onisaka-san was third in "
+"line, maybe the second fastest was...)"
+msgstr ""
+"(Quindi, se Nakajima-san era il capo Moschettiere, e Onisaka-san era il "
+"terzo in classifica, forse il secondo più veloce era...)"
+
+msgctxt "744_Kiryu"
+msgid "Okay. I'd be honored to race you, Wada-san."
+msgstr "Va bene. Sarei onorato di correre contro di te, Wada-san."
+
+msgctxt "756_Wada"
+msgid ""
+"That's the spirit. But you should know I'm not your average ex-street racer."
+" Be ready for a challenge."
+msgstr ""
+"Così si fa. Ma sappi che non sono un ex pilota di strada qualsiasi. "
+"Preparati per una sfida."
+
+msgctxt "768_Kiryu"
+msgid ""
+"(I'm sure he was right behind the chief in terms of speed and ability. "
+"Better not take him lightly.)"
+msgstr ""
+"(Sono sicuro che fosse subito dietro il capo in quanto a velocità e abilità."
+" Meglio non prenderlo alla leggera.)"

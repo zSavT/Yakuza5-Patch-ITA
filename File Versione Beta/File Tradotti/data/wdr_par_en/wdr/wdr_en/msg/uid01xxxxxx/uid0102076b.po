@@ -1,0 +1,923 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1220"
+msgid "You got 1,000 experience points."
+msgstr "Hai ottenuto 1.000 punti esperienza."
+
+msgctxt "1688"
+msgid "You now have access to a hideout."
+msgstr "Ora hai accesso a un covo."
+
+msgctxt "26152"
+msgid "kaiwabgm_heartwarm02"
+msgstr "kaiwabgm_heartwarm02"
+
+msgctxt "26156"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "26160"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "26164"
+msgid "Baba"
+msgstr "Baba"
+
+msgctxt "26168"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "26172"
+msgid "Sakurai"
+msgstr "Sakurai"
+
+msgctxt "26176"
+msgid "翌朝"
+msgstr "翌朝"
+
+msgctxt "26180"
+msgid "kaiwabgm_seikan"
+msgstr "kaiwabgm_seikan"
+
+msgctxt "26188"
+msgid "adv2_200/saejima_0312"
+msgstr "adv2_200/saejima_0312"
+
+msgctxt "26192"
+msgid "adv2_200/baba_0090"
+msgstr "adv2_200/baba_0090"
+
+msgctxt "26196"
+msgid "adv2_200/saejima_0313"
+msgstr "adv2_200/saejima_0313"
+
+msgctxt "26200"
+msgid "adv2_200/baba_0091"
+msgstr "adv2_200/baba_0091"
+
+msgctxt "26204"
+msgid "C2200_M_BAB_sitgrd_kamae"
+msgstr "C2200_M_BAB_sitgrd_kamae"
+
+msgctxt "26208"
+msgid "C2200_M_BAB_sitgrd_yes"
+msgstr "C2200_M_BAB_sitgrd_yes"
+
+msgctxt "26212"
+msgid "adv2_200/saejima_0314"
+msgstr "adv2_200/saejima_0314"
+
+msgctxt "26216"
+msgid "C2210_M_BAB_agura_kamae"
+msgstr "C2210_M_BAB_agura_kamae"
+
+msgctxt "26220"
+msgid "P_TLK_sitgrd_agura_kamae"
+msgstr "P_TLK_sitgrd_agura_kamae"
+
+msgctxt "26224"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "26228"
+msgid "adv2_200/baba_0092"
+msgstr "adv2_200/baba_0092"
+
+msgctxt "26232"
+msgid "C2210_M_BAB_agura_sorry"
+msgstr "C2210_M_BAB_agura_sorry"
+
+msgctxt "26236"
+msgid "adv2_200/saejima_0315b"
+msgstr "adv2_200/saejima_0315b"
+
+msgctxt "26240"
+msgid "adv2_200/baba_0093"
+msgstr "adv2_200/baba_0093"
+
+msgctxt "26244"
+msgid "C2210_M_BAB_agura_quest"
+msgstr "C2210_M_BAB_agura_quest"
+
+msgctxt "26248"
+msgid "adv2_200/saejima_0316"
+msgstr "adv2_200/saejima_0316"
+
+msgctxt "26252"
+msgid "adv2_200/baba_0094"
+msgstr "adv2_200/baba_0094"
+
+msgctxt "26256"
+msgid "C2210_M_BAB_agura_yes"
+msgstr "C2210_M_BAB_agura_yes"
+
+msgctxt "26260"
+msgid "adv2_200/saejima_0317"
+msgstr "adv2_200/saejima_0317"
+
+msgctxt "26264"
+msgid "adv2_200/baba_0095"
+msgstr "adv2_200/baba_0095"
+
+msgctxt "26268"
+msgid "adv2_200/saejima_2_200_010"
+msgstr "adv2_200/saejima_2_200_010"
+
+msgctxt "26272"
+msgid "P_TLK_stand_kamae"
+msgstr "P_TLK_stand_kamae"
+
+msgctxt "26276"
+msgid "P_TLK_sitgrd_agura_kamae_ed"
+msgstr "P_TLK_sitgrd_agura_kamae_ed"
+
+msgctxt "26280"
+msgid "adv2_190/saejima_2_190_010"
+msgstr "adv2_190/saejima_2_190_010"
+
+msgctxt "26284"
+msgid "Okudera"
+msgstr "Okudera"
+
+msgctxt "26288"
+msgid "adv2_190/okudera_2_190_010"
+msgstr "adv2_190/okudera_2_190_010"
+
+msgctxt "26292"
+msgid "adv2_190/okudera_0018a"
+msgstr "adv2_190/okudera_0018a"
+
+msgctxt "26296"
+msgid "adv2_190/okudera_0018b"
+msgstr "adv2_190/okudera_0018b"
+
+msgctxt "26300"
+msgid "adv2_190/saejima_0297"
+msgstr "adv2_190/saejima_0297"
+
+msgctxt "26304"
+msgid "C2040_P_SAE_agura_yes"
+msgstr "C2040_P_SAE_agura_yes"
+
+msgctxt "26308"
+msgid "adv2_190/saejima_0298"
+msgstr "adv2_190/saejima_0298"
+
+msgctxt "26312"
+msgid "adv2_190/okudera_0019"
+msgstr "adv2_190/okudera_0019"
+
+msgctxt "26316"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "26320"
+msgid "adv2_190/saejima_0299"
+msgstr "adv2_190/saejima_0299"
+
+msgctxt "26324"
+msgid "adv2_190/saejima_0300b"
+msgstr "adv2_190/saejima_0300b"
+
+msgctxt "26328"
+msgid "kaiwabgm_serious01"
+msgstr "kaiwabgm_serious01"
+
+msgctxt "26332"
+msgid "adv2_190/saejima_0301b"
+msgstr "adv2_190/saejima_0301b"
+
+msgctxt "26336"
+msgid "C2040_P_SAE_agura_aiduti"
+msgstr "C2040_P_SAE_agura_aiduti"
+
+msgctxt "26340"
+msgid "adv2_190/okudera_0021"
+msgstr "adv2_190/okudera_0021"
+
+msgctxt "26344"
+msgid "adv2_190/okudera_0022a"
+msgstr "adv2_190/okudera_0022a"
+
+msgctxt "26348"
+msgid "adv2_190/okudera_0022b"
+msgstr "adv2_190/okudera_0022b"
+
+msgctxt "26352"
+msgid "adv2_190/okudera_0022c"
+msgstr "adv2_190/okudera_0022c"
+
+msgctxt "26356"
+msgid "adv2_190/okudera_0023"
+msgstr "adv2_190/okudera_0023"
+
+msgctxt "26360"
+msgid "adv2_190/saejima_0304"
+msgstr "adv2_190/saejima_0304"
+
+msgctxt "26364"
+msgid "adv2_190/okudera_0024"
+msgstr "adv2_190/okudera_0024"
+
+msgctxt "26368"
+msgid "adv2_190/okudera_0025a"
+msgstr "adv2_190/okudera_0025a"
+
+msgctxt "26372"
+msgid "adv2_190/okudera_0025b"
+msgstr "adv2_190/okudera_0025b"
+
+msgctxt "26376"
+msgid "adv2_190/okudera_0025c"
+msgstr "adv2_190/okudera_0025c"
+
+msgctxt "26380"
+msgid "adv2_190/okudera_0026a"
+msgstr "adv2_190/okudera_0026a"
+
+msgctxt "26384"
+msgid "adv2_190/okudera_0026b"
+msgstr "adv2_190/okudera_0026b"
+
+msgctxt "26388"
+msgid "adv2_190/okudera_0027a"
+msgstr "adv2_190/okudera_0027a"
+
+msgctxt "26392"
+msgid "adv2_190/okudera_0027b"
+msgstr "adv2_190/okudera_0027b"
+
+msgctxt "26396"
+msgid "adv2_190/saejima_0308"
+msgstr "adv2_190/saejima_0308"
+
+msgctxt "26400"
+msgid "adv2_190/saejima_0309"
+msgstr "adv2_190/saejima_0309"
+
+msgctxt "26404"
+msgid "adv2_190/okudera_0030a"
+msgstr "adv2_190/okudera_0030a"
+
+msgctxt "26408"
+msgid "adv2_190/okudera_0030b"
+msgstr "adv2_190/okudera_0030b"
+
+msgctxt "26412"
+msgid "adv2_190/okudera_0031"
+msgstr "adv2_190/okudera_0031"
+
+msgctxt "26416"
+msgid "adv2_190/saejima_0311"
+msgstr "adv2_190/saejima_0311"
+
+msgctxt "26420"
+msgid "adv2_170/saejima_0282"
+msgstr "adv2_170/saejima_0282"
+
+msgctxt "26424"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "26428"
+msgid "adv2_170/okudera_0001a"
+msgstr "adv2_170/okudera_0001a"
+
+msgctxt "26432"
+msgid "adv2_170/okudera_0001b"
+msgstr "adv2_170/okudera_0001b"
+
+msgctxt "26436"
+msgid "adv2_170/saejima_0283"
+msgstr "adv2_170/saejima_0283"
+
+msgctxt "26440"
+msgid "P_SIN_TLK_sitgrd_no"
+msgstr "P_SIN_TLK_sitgrd_no"
+
+msgctxt "26444"
+msgid "adv2_170/saejima_0284"
+msgstr "adv2_170/saejima_0284"
+
+msgctxt "26448"
+msgid "P_MOV_dam_lp"
+msgstr "P_MOV_dam_lp"
+
+msgctxt "26452"
+msgid "C5010_BAB_TLK_dam_standup"
+msgstr "C5010_BAB_TLK_dam_standup"
+
+msgctxt "26456"
+msgid "adv2_170/okudera_0002"
+msgstr "adv2_170/okudera_0002"
+
+msgctxt "26460"
+msgid "adv2_170/saejima_0285"
+msgstr "adv2_170/saejima_0285"
+
+msgctxt "26464"
+msgid "adv2_170/okudera_0003"
+msgstr "adv2_170/okudera_0003"
+
+msgctxt "26468"
+msgid "adv2_170/okudera_0004a"
+msgstr "adv2_170/okudera_0004a"
+
+msgctxt "26472"
+msgid "adv2_170/okudera_0005"
+msgstr "adv2_170/okudera_0005"
+
+msgctxt "26476"
+msgid "M_YKZ_TLK_sitgrd_agura_lp"
+msgstr "M_YKZ_TLK_sitgrd_agura_lp"
+
+msgctxt "26480"
+msgid "M_YKZ_TLK_sitgrd_agura_st"
+msgstr "M_YKZ_TLK_sitgrd_agura_st"
+
+msgctxt "26484"
+msgid "adv2_170/saejima_0287"
+msgstr "adv2_170/saejima_0287"
+
+msgctxt "26488"
+msgid "adv2_170/okudera_2_170_010a"
+msgstr "adv2_170/okudera_2_170_010a"
+
+msgctxt "26492"
+msgid "adv2_170/okudera_2_170_010b"
+msgstr "adv2_170/okudera_2_170_010b"
+
+msgctxt "26496"
+msgid "adv2_170/saejima_2_170_010"
+msgstr "adv2_170/saejima_2_170_010"
+
+msgctxt "26500"
+msgid "adv2_170/okudera_2_170_020"
+msgstr "adv2_170/okudera_2_170_020"
+
+msgctxt "26504"
+msgid "adv2_170/saejima_2_170_020"
+msgstr "adv2_170/saejima_2_170_020"
+
+msgctxt "26508"
+msgid "adv2_170/okudera_2_170_030"
+msgstr "adv2_170/okudera_2_170_030"
+
+msgctxt "26512"
+msgid "adv2_170/saejima_2_170_030"
+msgstr "adv2_170/saejima_2_170_030"
+
+msgctxt "26516"
+msgid "adv2_170/okudera_2_170_040"
+msgstr "adv2_170/okudera_2_170_040"
+
+msgctxt "26520"
+msgid "adv2_170/saejima_2_170_040"
+msgstr "adv2_170/saejima_2_170_040"
+
+msgctxt "26524"
+msgid "adv2_170/okudera_2_170_050"
+msgstr "adv2_170/okudera_2_170_050"
+
+msgctxt "26528"
+msgid "adv2_170/saejima_0289"
+msgstr "adv2_170/saejima_0289"
+
+msgctxt "26532"
+msgid "adv2_170/okudera_0008a"
+msgstr "adv2_170/okudera_0008a"
+
+msgctxt "26536"
+msgid "P_SIN_TLK_stand_kamae"
+msgstr "P_SIN_TLK_stand_kamae"
+
+msgctxt "26540"
+msgid "P_SIN_TLK_sitgrd_kamae_st"
+msgstr "P_SIN_TLK_sitgrd_kamae_st"
+
+msgctxt "26544"
+msgid "adv2_170/okudera_0008b"
+msgstr "adv2_170/okudera_0008b"
+
+msgctxt "26548"
+msgid "adv2_170/okudera_2_170_060"
+msgstr "adv2_170/okudera_2_170_060"
+
+msgctxt "26552"
+msgid "adv2_170/saejima_2_170_050"
+msgstr "adv2_170/saejima_2_170_050"
+
+msgctxt "26556"
+msgid "adv2_170/saejima_2_170_060"
+msgstr "adv2_170/saejima_2_170_060"
+
+msgctxt "26560"
+msgid "P_TLK_sitchr_kamae_ed"
+msgstr "P_TLK_sitchr_kamae_ed"
+
+msgctxt "26564"
+msgid "adv2_170/okudera_2_170_070"
+msgstr "adv2_170/okudera_2_170_070"
+
+msgctxt "128_Saejima"
+msgid ""
+"We owe ya so much. If not for you, Baba and I'd both be bear food by now."
+msgstr ""
+"Ti dobbiamo un mondo. Se non fosse stato per te, io e Baba a quest'ora "
+"saremmo già finiti in pasto all'orso."
+
+msgctxt "140_Baba"
+msgid "Really, thank you very much!"
+msgstr "Davvero, grazie mille!"
+
+msgctxt "152_Sakurai"
+msgid "I'm sure Okudera-san would've wanted to see you off properly, too."
+msgstr ""
+"Sono sicuro che Okudera-san avrebbe voluto salutarti come si deve anche lui."
+
+msgctxt "164_Saejima"
+msgid ""
+"Yeah. There're still a few things I wanna ask him, so I might be back "
+"sometime."
+msgstr ""
+"Sì. Ci sono ancora un paio di cose che voglio chiedergli, quindi potrei "
+"tornare prima o poi."
+
+msgctxt "176_Sakurai"
+msgid "I see."
+msgstr "Capisco."
+
+msgctxt "188_Sakurai"
+msgid "Oh, yeah. Okudera-san had a message for you two."
+msgstr "Ah, già. Okudera-san aveva un messaggio per voi due."
+
+msgctxt "200_Sakurai"
+msgid "He said not to forget this one thing－"
+msgstr "Ha detto di non dimenticare un'unica cosa－"
+
+msgctxt "212_Sakurai"
+msgid ""
+"\"Killing is only justified when it is for hunting or protecting one's own "
+"life.\""
+msgstr ""
+"Uccidere è giustificato solo se è per la caccia o per proteggere la propria "
+"vita."
+
+msgctxt "224_Sakurai"
+msgid ""
+"That's it. He wanted me to pass that on when it was time for you to leave "
+"the mountain."
+msgstr ""
+"Tutto qui. Voleva che te lo dicessi quando sarebbe stato il momento per te "
+"di lasciare la montagna."
+
+msgctxt "236_Saejima"
+msgid "Got it. I won't forget."
+msgstr "Capito. Non dimenticherò."
+
+msgctxt "248_Baba"
+msgid "Let's get going now, Aniki."
+msgstr "Andiamo adesso, Aniki."
+
+msgctxt "260_Saejima"
+msgid "You take care, then."
+msgstr "Stai attento, allora."
+
+msgctxt "380_Saejima"
+msgid "Baba!"
+msgstr "Baba!"
+
+msgctxt "392_Baba"
+msgid "Aniki!"
+msgstr "Aniki!"
+
+msgctxt "404_Saejima"
+msgid "You okay movin' around already?"
+msgstr "Stai già a posto per muoverti?"
+
+msgctxt "416_Baba"
+msgid "Yes, I can manage."
+msgstr "Sì, ce la faccio."
+
+msgctxt "428_Saejima"
+msgid "I see."
+msgstr "Capisco."
+
+msgctxt "488_Baba"
+msgid "I'm sorry, Aniki. I'm just dead weight for you now."
+msgstr "Mi dispiace, Aniki. Sono solo un peso morto per te adesso."
+
+msgctxt "500_Saejima"
+msgid "Never mind me. Ya gotta thank the guy that saved ya, first."
+msgstr "Lascia stare me. Devi ringraziare il tipo che ti ha salvato, prima."
+
+msgctxt "512_Baba"
+msgid "Huh? Who is that?"
+msgstr "Eh? Chi è quello?"
+
+msgctxt "524_Saejima"
+msgid ""
+"His name's Okudera-han. He's an old hunter. This is a hunting village up in "
+"the mountains."
+msgstr ""
+"Si chiama Okudera-han. È un vecchio cacciatore. Questo è un villaggio di "
+"cacciatori su in montagna."
+
+msgctxt "536_Baba"
+msgid "No kidding?"
+msgstr "Non scherzi?"
+
+msgctxt "548_Saejima"
+msgid "You ain't outta the woods yet. Quit talkin' and rest up some more."
+msgstr ""
+"Non sei ancora a posto del tutto. Smettila di parlare e riposa ancora un "
+"po'."
+
+msgctxt "560_Baba"
+msgid "Okay... I'm sorry about all this."
+msgstr "Ok... Mi dispiace per tutto questo."
+
+msgctxt "572_Saejima"
+msgid "Just hold tight. I'm gonna go out an' tell Okudera-han ya woke up."
+msgstr "Tieni duro. Vado fuori a dire a Okudera-han che ti sei svegliato."
+
+msgctxt "584_Saejima"
+msgid "(Better go find Okudera-han.)"
+msgstr "(Meglio andare a cercare Okudera-han.)"
+
+msgctxt "620_Saejima"
+msgid "(I've been here a while, but Okudera-han still ain't back.)"
+msgstr "(Sono qui da un po', ma Okudera-han non è ancora tornato.)"
+
+msgctxt "632_Saejima"
+msgid "(The sun's set, too. I'm gettin' worried. Hope he's safe and sound.)"
+msgstr ""
+"(È calato anche il sole. Mi sto preoccupando. Spero sia sano e salvo.)"
+
+msgctxt "668_Saejima"
+msgid "Okudera-han! You're all right!"
+msgstr "Okudera-han! Stai bene!"
+
+msgctxt "680_Okudera"
+msgid "Yeah, more or less."
+msgstr "Già, più o meno."
+
+msgctxt "740_Okudera"
+msgid "He was out there longer, so he's worse off than you."
+msgstr "È rimasto fuori più a lungo, quindi è messo peggio di te."
+
+msgctxt "752_Okudera"
+msgid "But if he takes it easy, he should be fine. Let him rest up a while."
+msgstr ""
+"Ma se se la prende con calma, dovrebbe stare bene. Lascialo riposare un po'."
+
+msgctxt "764_Saejima"
+msgid "Gotcha."
+msgstr "Capito."
+
+msgctxt "788_Saejima"
+msgid "What happened with that bear? Did ya bring it down?"
+msgstr "Che è successo con quell'orso? L'hai abbattuto?"
+
+msgctxt "800_Okudera"
+msgid ""
+"Nope. The snow storm got worse. If I kept after it, I wouldn't have made it "
+"back."
+msgstr ""
+"Macché. La tormenta di neve è peggiorata. Se avessi continuato a inseguirlo,"
+" non ce l'avrei fatta a tornare."
+
+msgctxt "812_Saejima"
+msgid "I see."
+msgstr "Capisco."
+
+msgctxt "836_Saejima"
+msgid ""
+"The villagers seem to think ya got some special connection to that Yama-"
+"oroshi."
+msgstr ""
+"I paesani sembrano pensare che tu abbia una connessione speciale con quel "
+"Yama-oroshi."
+
+msgctxt "848_Okudera"
+msgid "......"
+msgstr "......"
+
+msgctxt "860_Saejima"
+msgid "Word is ya dedicated yer life to hunting it down. Why's that?"
+msgstr ""
+"Gira voce che tu abbia dedicato la vita a dargli la caccia. Perché mai?"
+
+msgctxt "872_Okudera"
+msgid "Hunting is all about man's survival instincts. We hunt to live."
+msgstr ""
+"La caccia è tutta una questione di istinti di sopravvivenza dell'uomo. "
+"Cacciamo per vivere."
+
+msgctxt "884_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "896_Okudera"
+msgid "For thousands of years, we've fed on the meat of animals we've killed."
+msgstr ""
+"Per migliaia di anni, ci siamo nutriti della carne di animali che abbiamo "
+"ucciso."
+
+msgctxt "908_Okudera"
+msgid "The meat in this stew is from an animal I hunted, too."
+msgstr "Anche la carne in questo stufato è di un animale che ho cacciato io."
+
+msgctxt "920_Okudera"
+msgid ""
+"We kill to eat, so it's our duty to finish every last bite. That's what "
+"hunting is about."
+msgstr ""
+"Uccidiamo per mangiare, quindi è nostro dovere finire ogni ultimo boccone. "
+"Questo è il senso della caccia."
+
+msgctxt "932_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "944_Okudera"
+msgid "But I don't want to hunt that bear."
+msgstr "Ma non voglio cacciare quell'orso."
+
+msgctxt "956_Saejima"
+msgid "Whaddya want to do, then?"
+msgstr "Che vuoi fare, allora?"
+
+msgctxt "968_Okudera"
+msgid "I just want to slay the thing. I'm going after that bear to murder it."
+msgstr ""
+"Voglio solo ammazzare quella bestia. Vado dietro a quell'orso per "
+"assassinarlo."
+
+msgctxt "980_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "992_Okudera"
+msgid "We humans are funny things."
+msgstr "Noi umani siamo proprio strani."
+
+msgctxt "1004_Okudera"
+msgid ""
+"We kill people out of hatred so easily. Even if our lives aren't on the "
+"line."
+msgstr ""
+"Uccidiamo le persone per odio così facilmente. Anche se la nostra vita non è"
+" in gioco."
+
+msgctxt "1016_Okudera"
+msgid "That's why it's a crime, and why you pay for it by going to prison."
+msgstr "Ecco perché è un crimine, e la paghi andando in prigione."
+
+msgctxt "1028_Saejima"
+msgid "...Yeah."
+msgstr "...Già."
+
+msgctxt "1040_Okudera"
+msgid ""
+"But only a few people come out of prison repenting for the fact they've "
+"killed another human being."
+msgstr ""
+"Ma solo poche persone escono di prigione pentite per il fatto di aver ucciso"
+" un altro essere umano."
+
+msgctxt "1052_Okudera"
+msgid "Most insist they did what they did because they had no choice."
+msgstr "Molti insistono di averlo fatto perché non avevano scelta."
+
+msgctxt "1064_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "1076_Okudera"
+msgid ""
+"Any killing not done to eat or protect yourself is purely on your head."
+msgstr ""
+"Qualsiasi uccisione non fatta per mangiare o per proteggerti, la paghi tutta"
+" tu."
+
+msgctxt "1088_Okudera"
+msgid ""
+"No matter what excuse a murderer may give, they're just fooling themselves."
+msgstr "Qualunque scusa un assassino possa dare, si sta solo illudendo."
+
+msgctxt "1100_Saejima"
+msgid "Ya lecturin' me now?"
+msgstr "Mi stai a fare la morale, adesso?"
+
+msgctxt "1112_Okudera"
+msgid "......"
+msgstr "......"
+
+msgctxt "1124_Saejima"
+msgid "Or are ya talkin' about your own past? Which is it?"
+msgstr "O stai a parlare del tuo passato? Quale delle due?"
+
+msgctxt "1136_Okudera"
+msgid "......"
+msgstr "......"
+
+msgctxt "1148_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "1160_Okudera"
+msgid ""
+"Neither. I'm reflecting on my own personal reasons for going after that "
+"bear."
+msgstr ""
+"Nessuna delle due. Sto riflettendo sui miei motivi personali per essere "
+"andato dietro a quell'orso."
+
+msgctxt "1172_Okudera"
+msgid ""
+"Because essentially, my only reason for even being here is to murder it."
+msgstr ""
+"Perché, essenzialmente, la mia unica ragione per essere qui è per ucciderlo."
+
+msgctxt "1184_Okudera"
+msgid ""
+"Enough talk. We killed these animals. We should do right by them and eat all"
+" of the meat."
+msgstr ""
+"Basta parlare. Abbiamo ucciso questi animali. Dovremmo fargli onore e "
+"mangiare tutta la carne."
+
+msgctxt "1196_Saejima"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "1244_Saejima"
+msgid "So ya saved my ass, out there in the wilderness."
+msgstr "Allora mi hai salvato il culo, là fuori nella natura selvaggia."
+
+msgctxt "1256_Man"
+msgid ""
+"You should sit still. You've got bad frostbite; moving around will damage "
+"the tissue surrounding the frozen parts."
+msgstr ""
+"Dovresti stare fermo. Hai un brutto congelamento; muoversi danneggerà il "
+"tessuto intorno alle parti congelate."
+
+msgctxt "1268_Man"
+msgid "Just try to relax."
+msgstr "Cerca solo di rilassarti."
+
+msgctxt "1280_Saejima"
+msgid "Ya see another guy out there? I was travelin' with a friend."
+msgstr "Vedi un altro tizio là fuori? Stavo viaggiando con un amico."
+
+msgctxt "1316_Saejima"
+msgid "He could still be out there. I gotta go find 'im!"
+msgstr "Potrebbe essere ancora là fuori. Devo andare a trovarlo!"
+
+msgctxt "1328_Man"
+msgid "Didn't you hear what I said? Moving will kill you."
+msgstr "Non hai sentito quello che ho detto? Muoverti ti ucciderà."
+
+msgctxt "1340_Saejima"
+msgid "I can't just sit here when my buddy could be in trouble."
+msgstr "Non posso starmene qui mentre il mio amico potrebbe essere nei guai."
+
+msgctxt "1352_Man"
+msgid "And <Italic>I</Italic> can't sit here and watch you leave!"
+msgstr "E <Italic>io</Italic> non posso starmene qui a guardarti andartene!"
+
+msgctxt "1364_Man"
+msgid ""
+"If you go up into the mountains untrained, you'll end up stranded. You think"
+" I need that on my conscience?"
+msgstr ""
+"Se vai in montagna impreparato, finirai per rimanere bloccato. Pensi che "
+"voglia averlo sulla coscienza?"
+
+msgctxt "1376_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "1388_Man"
+msgid "I'll go find this friend of yours."
+msgstr "Vado io a trovare questo tuo amico."
+
+msgctxt "1412_Saejima"
+msgid "Ya willin' to do that? For a couple o' guys you don't know?"
+msgstr "Saresti disposto a farlo? Per un paio di tizi che non conosci?"
+
+msgctxt "1424_Man"
+msgid "Once a bear gets a taste for human flesh, there'll be trouble."
+msgstr "Una volta che un orso prende gusto alla carne umana, saranno guai."
+
+msgctxt "1436_Man"
+msgid ""
+"The beast might come down to the village for more of its new favorite food."
+msgstr ""
+"La bestia potrebbe scendere al villaggio per altra della sua nuova carne "
+"preferita."
+
+msgctxt "1448_Saejima"
+msgid "Really?"
+msgstr "Davvero?"
+
+msgctxt "1460_Man"
+msgid "The bear that attacked you－it was twice as big as normal. Am I right?"
+msgstr ""
+"L'orso che ti ha attaccato－era grande il doppio del solito. Dico bene?"
+
+msgctxt "1472_Saejima"
+msgid "Yeah, thereabouts. Ya sayin' it's some kinda man-eater?"
+msgstr "Sì, più o meno. Dici che è una specie di mangiauomini?"
+
+msgctxt "1484_Man"
+msgid "Don't know..."
+msgstr "Non so..."
+
+msgctxt "1496_Saejima"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "1508_Man"
+msgid "It's just rumors. Rumors from a long time ago."
+msgstr "Sono solo voci. Voci di tanto tempo fa."
+
+msgctxt "1520_Saejima"
+msgid "(Hm.)"
+msgstr "(Mh.)"
+
+msgctxt "1532_Man"
+msgid ""
+"The point is, if I don't save your friend he could end up as bear food. And "
+"then that's just another problem for me."
+msgstr ""
+"Il punto è, se non salvo il tuo amico potrebbe finire come cibo per orsi. E "
+"poi è solo un altro problema per me."
+
+msgctxt "1544_Saejima"
+msgid "(...Hang in there, Baba-chan.)"
+msgstr "(...Tieni duro, Baba-chan.)"
+
+msgctxt "1556_Man"
+msgid "Take a stroll outside if you want."
+msgstr "Fatti un giro fuori se vuoi."
+
+msgctxt "1568_Man"
+msgid ""
+"But if you insist on getting yourself killed, please do it where you won't "
+"be eaten by a bear."
+msgstr ""
+"Ma se insisti a farti ammazzare, per favore, fallo dove non finirai mangiato"
+" da un orso."
+
+msgctxt "1580_Man"
+msgid ""
+"There's a change of clothes there. They're old rags of mine, but you're "
+"welcome to use them."
+msgstr ""
+"C'è un ricambio di vestiti lì. Sono dei miei vecchi stracci, ma puoi usarli "
+"pure."
+
+msgctxt "1616_Saejima"
+msgid "I never thanked ya for savin' me."
+msgstr "Non ti ho mai ringraziato per avermi salvato."
+
+msgctxt "1628_Saejima"
+msgid "I'm Saejima, and I owe ya my life. Thank you."
+msgstr "Sono Saejima, e ti devo la vita. Grazie."
+
+msgctxt "1652_Man"
+msgid "My name's Okudera. Goodbye."
+msgstr "Mi chiamo Okudera. Addio."
+
+msgctxt "1676_Saejima"
+msgid "(I can't just sit here... I can check the place out, at least.)"
+msgstr ""
+"(Non posso starmene qui fermo... Posso almeno dare un'occhiata in giro.)"
+
+msgctxt "1700_kaiwabgm_heartwarm02"
+msgid ""
+"Here you can save your game, move items to the Item Box, and view your play "
+"stats."
+msgstr ""
+"Qui puoi salvare la partita, spostare oggetti nella Cassetta Oggetti, e "
+"visualizzare le tue statistiche di gioco."
+
+msgctxt "1712_kaiwabgm_heartwarm02"
+msgid "Furthermore, your health will recover while at a hideout."
+msgstr "Inoltre, la tua salute si riprenderà al covo."

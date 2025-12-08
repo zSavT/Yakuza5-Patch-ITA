@@ -1,0 +1,188 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "9932"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "9936"
+msgid "Chubby Driver"
+msgstr "Autista Paffuto"
+
+msgctxt "9940"
+msgid "P_TLK_stand_kamae"
+msgstr "P_TLK_stand_kamae"
+
+msgctxt "9944"
+msgid "P_TLK_sitchr_kamae_ed"
+msgstr "P_TLK_sitchr_kamae_ed"
+
+msgctxt "9948"
+msgid "Tenjin Transportation President"
+msgstr "Presidente di Tenjin Transportation"
+
+msgctxt "9952"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "9956"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "9960"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "9964"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "9968"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "56_Kiryu"
+msgid "Excuse me, is the president here?"
+msgstr "Scusi, il presidente è qui?"
+
+msgctxt "68_Chubby Driver"
+msgid "That'd be me. And you are?"
+msgstr "Sarei io. E lei chi è?"
+
+msgctxt "80_Kiryu"
+msgid "Suzuki, from Nagasu Taxi."
+msgstr "Suzuki, della Nagasu Taxi."
+
+msgctxt "92_Kiryu"
+msgid ""
+"I broke the rules today when I picked up a passenger midway through the "
+"line, so I'm here to apologize."
+msgstr ""
+"Oggi ho infranto le regole prendendo un passeggero saltando la fila, perciò "
+"sono qui per chiedere scusa."
+
+msgctxt "104_Tenjin Transportation President"
+msgid "Oh, so that was you?"
+msgstr "Ah, quindi era lei?"
+
+msgctxt "116_Tenjin Transportation President"
+msgid "Guess y'take after your boss Nakajima. No sense among the lot of ya."
+msgstr ""
+"Immagino che tu prenda dal tuo capo Nakajima. Non capite proprio un tubo, "
+"voi tutti."
+
+msgctxt "128_Kiryu"
+msgid "...I'm not sure I understand."
+msgstr "...Non so se ho capito bene."
+
+msgctxt "140_Tenjin Transportation President"
+msgid ""
+"I'm sayin' we get monkeys like you breakin' rules left, right, and center "
+"'cause Nakajima won't train his drivers worth a damn."
+msgstr ""
+"Ti dico che ci ritroviamo con scimmie come te che infrangono le regole a "
+"destra e a manca perché Nakajima non si degna di addestrare i suoi autisti "
+"per un fico secco."
+
+msgctxt "152_Kiryu"
+msgid "Now just a minute."
+msgstr "Ma un momento."
+
+msgctxt "164_Tenjin Transportation President"
+msgid ""
+"Huh, figures ya'd get uppity. That Nakajima's a real scum o' the earth kinda"
+" guy. Makes sense he'd hire the same."
+msgstr ""
+"Eh, c'era da aspettarselo che ti saresti scaldato. Quel Nakajima è una vera "
+"carogna. Logico che assuma gente della stessa risma."
+
+msgctxt "176_Tenjin Transportation President"
+msgid "That circus he's runnin' is bound to go bust any day now."
+msgstr ""
+"Quella baracca che tira avanti è destinata ad andare a rotoli da un momento "
+"all'altro."
+
+msgctxt "188_Kiryu"
+msgid "Please, sir. Just let me say my piece."
+msgstr "La prego, signore. Mi lasci dire la mia."
+
+msgctxt "200_Tenjin Transportation President"
+msgid "Your piece, huh? Fine. I'm listenin'."
+msgstr "Il tuo discorso, eh? Va bene. Ti ascolto."
+
+msgctxt "212_Kiryu"
+msgid ""
+"What happened today was completely my fault, sir. Nakajima trained me in all"
+" the rules to follow, and I failed to follow them."
+msgstr ""
+"Quello che è successo oggi è tutta colpa mia, signore. Nakajima mi ha "
+"istruito su tutte le regole da seguire, e io non le ho rispettate."
+
+msgctxt "224_Kiryu"
+msgid "I won't let it happen again, I assure you."
+msgstr "Non succederà più, le assicuro."
+
+msgctxt "236_Kiryu"
+msgid "Please, accept this as my apology."
+msgstr "La prego, accetti questo come le mie scuse."
+
+msgctxt "260_Tenjin Transportation President"
+msgid "You call this an apology? You gotta be kiddin' me."
+msgstr "Questa la chiami una scusa? Ma mi stai prendendo in giro?"
+
+msgctxt "272_Kiryu"
+msgid "Is something the matter?"
+msgstr "C'è qualcosa che non va?"
+
+msgctxt "284_Tenjin Transportation President"
+msgid "Grr... Hmph. Well, you just be sure not to break protocol again!"
+msgstr "Grrr... Hmph. Beh, assicurati di non infrangere più il protocollo!"
+
+msgctxt "296_Tenjin Transportation President"
+msgid "Well, you just be sure not to break protocol again!"
+msgstr "Beh, assicurati di non infrangere più il protocollo!"
+
+msgctxt "308_Tenjin Transportation President"
+msgid ""
+"Whoa! That's one hell of a treat. Well, you just be sure not to break "
+"protocol again. Heheh."
+msgstr ""
+"Urca! Questo sì che è un signor regalo. Beh, assicurati di non infrangere "
+"più il protocollo. Heheh."
+
+msgctxt "320_Kiryu"
+msgid "(I can't apologize without a gift. What should I hand over?)"
+msgstr "(Non posso scusarmi senza un regalo. Cosa dovrei dargli?)"
+
+msgctxt "332_Kiryu"
+msgid "(Uh-oh. Guess I didn't bring anything.)"
+msgstr "(Accidenti. Mi sa che non ho portato niente.)"
+
+msgctxt "344_Kiryu"
+msgid "Actually, I forgot to get you anything. Sorry about that, too..."
+msgstr ""
+"A dire il vero, mi sono dimenticato di prenderLe qualcosa. Mi dispiace anche"
+" per questo..."
+
+msgctxt "356_Tenjin Transportation President"
+msgid ""
+"Hmph! Surprised a fool like you's still got a job. Just be sure not to break"
+" protocol again!"
+msgstr ""
+"Hmph! Mi sorprende che un idiota come te abbia ancora un lavoro. Assicurati "
+"di non infrangere più il protocollo!"
+
+msgctxt "368_Kiryu"
+msgid "I'll take that to heart. Thank you for your time."
+msgstr "Lo terrò a mente. Grazie per il Suo tempo."

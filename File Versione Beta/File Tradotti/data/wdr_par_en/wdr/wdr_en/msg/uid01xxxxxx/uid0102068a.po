@@ -1,0 +1,90 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2688"
+msgid "Guard"
+msgstr "Parata"
+
+msgctxt "2692"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "2696"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2700"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "2704"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2708"
+msgid "Morinaga"
+msgstr "Morinaga"
+
+msgctxt "44_Guard"
+msgid "Y'need somethin', old man? This here's private property."
+msgstr "Ti serve qualcosa, vecchio? Questo qui è proprietà privata."
+
+msgctxt "56_Kiryu"
+msgid "My name is Suzuki from Nagasu Taxi."
+msgstr "Mi chiamo Suzuki della Nagasu Taxi."
+
+msgctxt "68_Guard"
+msgid "Yeah? And what's a taxi driver doin' here?"
+msgstr "Allora? E cosa ci fa un tassista qui?"
+
+msgctxt "80_Kiryu"
+msgid "We got a call for a pickup. Nobody told you?"
+msgstr "Abbiamo avuto una chiamata per un prelievo. Nessuno te l'ha detto?"
+
+msgctxt "92_Guard"
+msgid "Naw, I didn't hear a thing about no taxi."
+msgstr "Macché, non ho sentito un bel niente di nessun taxi."
+
+msgctxt "104_Kiryu"
+msgid "Strange. The call was from an Aoyama-san of the Tojo Clan."
+msgstr "Strano. La chiamata era da un Aoyama-san del Clan Tojo."
+
+msgctxt "116_Guard"
+msgid "The Tojo Clan, huh?"
+msgstr "Il Clan Tojo, eh?"
+
+msgctxt "128_Kiryu"
+msgid "That's right, sir. It sounded urgent."
+msgstr "Esatto, signore. Sembrava urgente."
+
+msgctxt "140_Kiryu"
+msgid "I don't think he'd be happy to hear I was late because of you."
+msgstr ""
+"Non credo che sarebbe contento di sentire che ho fatto tardi per colpa tua."
+
+msgctxt "152_Guard"
+msgid "Oh, er... yeah."
+msgstr "Oh, ehm... sì."
+
+msgctxt "164_Guard"
+msgid "All right, lemme check on that real quick. Stay put, y'hear?"
+msgstr "Va bene, fammi controllare un attimo. Resta lì, capito?"
+
+msgctxt "188_Kiryu"
+msgid "Let's move."
+msgstr "Dai, muoviamoci."
+
+msgctxt "200_Morinaga"
+msgid "Okay!"
+msgstr "Ok!"

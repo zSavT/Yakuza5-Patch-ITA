@@ -1,0 +1,161 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "5376"
+msgid "Settling Up"
+msgstr "Regolamento"
+
+msgctxt "556_Settling Up"
+msgid "The banker got a 6, winning the same amount as the stake."
+msgstr "Il banco ha fatto un 6, vincendo la stessa cifra della puntata."
+
+msgctxt "568_Settling Up"
+msgid "The banker rolled trips, winning three times the stake."
+msgstr "Il banco ha fatto un tris, vincendo il triplo della puntata."
+
+msgctxt "580_Settling Up"
+msgid "The banker rolled ace out, winning five times the stake."
+msgstr ""
+"Il banco ha fatto un tris d'assi, vincendo il quintuplo della puntata."
+
+msgctxt "592_Settling Up"
+msgid "The banker rolled 4-5-6, winning two times the stake."
+msgstr "Il banco ha fatto 4-5-6, vincendo il doppio della puntata."
+
+msgctxt "604_Settling Up"
+msgid "The banker got a 1, losing the same amount as the stake."
+msgstr "Il banco ha fatto un 1, perdendo la stessa cifra della puntata."
+
+msgctxt "616_Settling Up"
+msgid "The banker missed the pot, losing the same amount as the stake."
+msgstr ""
+"Il banco ha mancato il piatto, perdendo la stessa cifra della puntata."
+
+msgctxt "628_Settling Up"
+msgid "The banker did not roll a point, losing the same amount as the stake."
+msgstr "Il banco ha mancato il punto, perdendo la stessa cifra della puntata."
+
+msgctxt "640_Settling Up"
+msgid "The banker rolled 1-2-3, losing two times the stake."
+msgstr "Il banco ha fatto 1-2-3, perdendo il doppio della puntata."
+
+msgctxt "652_Settling Up"
+msgid "The banker rolled 6-3-4, winning two times the stake."
+msgstr "Il banco ha fatto 6-3-4, vincendo il doppio della puntata."
+
+msgctxt "664_Settling Up"
+msgid "You got a 6 as the banker, winning the same amount as the stake."
+msgstr "Hai fatto un 6 come banco, vincendo la stessa cifra della puntata."
+
+msgctxt "676_Settling Up"
+msgid "You rolled trips as the banker, winning three times the stake."
+msgstr "Hai fatto un tris come banco, vincendo il triplo della puntata."
+
+msgctxt "688_Settling Up"
+msgid "You rolled ace out as the banker, winning five times the stake."
+msgstr ""
+"Hai fatto un tris d'assi come banco, vincendo il quintuplo della puntata."
+
+msgctxt "700_Settling Up"
+msgid "You rolled 4-5-6 as the banker, winning two times the stake."
+msgstr "Hai fatto 4-5-6 come banco, vincendo il doppio della puntata."
+
+msgctxt "712_Settling Up"
+msgid "You got a 1 as the banker, losing the same amount as the stake."
+msgstr "Hai fatto un 1 come banco, perdendo la stessa cifra della puntata."
+
+msgctxt "724_Settling Up"
+msgid "You missed the pot as the banker, losing the same amount as the stake."
+msgstr ""
+"Hai mancato il piatto come banco, perdendo la stessa cifra della puntata."
+
+msgctxt "736_Settling Up"
+msgid ""
+"You did not roll a point as the banker, losing the same amount as the stake."
+msgstr ""
+"Hai mancato il punto come banco, perdendo la stessa cifra della puntata."
+
+msgctxt "748_Settling Up"
+msgid "You got a 1-2-3 as the banker, losing two times the stake."
+msgstr "Hai fatto un 1-2-3 come banco, perdendo il doppio della puntata."
+
+msgctxt "760_Settling Up"
+msgid "You rolled 6-3-4 as the banker, winning two times the stake."
+msgstr "Hai fatto 6-3-4 come banco, vincendo il doppio della puntata."
+
+msgctxt "772_Settling Up"
+msgid "You rolled trips, winning three times the stake."
+msgstr "Hai fatto un tris, vincendo il triplo della puntata."
+
+msgctxt "784_Settling Up"
+msgid "You rolled ace out, winning five times the stake."
+msgstr "Hai fatto un tris d'assi, vincendo il quintuplo della puntata."
+
+msgctxt "796_Settling Up"
+msgid "You rolled 4-5-6, winning two times the stake."
+msgstr "Hai fatto 4-5-6, vincendo il doppio della puntata."
+
+msgctxt "808_Settling Up"
+msgid "You missed the pot, losing the same amount as the stake."
+msgstr "Hai mancato il piatto, perdendo la stessa cifra della puntata."
+
+msgctxt "820_Settling Up"
+msgid "You did not roll a point, losing the same amount as the stake."
+msgstr "Hai mancato il punto, perdendo la stessa cifra della puntata."
+
+msgctxt "832_Settling Up"
+msgid "You rolled 1-2-3, losing two times the stake."
+msgstr "Hai fatto un 1-2-3, perdendo il doppio della puntata."
+
+msgctxt "844_Settling Up"
+msgid "You beat the banker's roll, winning the same amount as the stake."
+msgstr ""
+"Hai battuto il tiro del banco, vincendo la stessa cifra della puntata."
+
+msgctxt "856_Settling Up"
+msgid ""
+"You didn't beat the banker's roll, and will lose the same amount as the "
+"stake."
+msgstr ""
+"Non hai battuto il tiro del banco, e perderai la stessa cifra della puntata."
+
+msgctxt "868_Settling Up"
+msgid "You tied the banker's roll, so there is no change in the stake."
+msgstr ""
+"Hai pareggiato il tiro del banco, quindi non c'è nessun cambiamento nella "
+"puntata."
+
+msgctxt "880_Settling Up"
+msgid "You rolled 6-3-4, winning two times the stake."
+msgstr "Hai fatto 6-3-4, vincendo il doppio della puntata."
+
+msgctxt "892_Settling Up"
+msgid "You beat all the other players."
+msgstr "Hai battuto tutti gli altri giocatori."
+
+msgctxt "904_Settling Up"
+msgid "Points will increase based on match results."
+msgstr "I punti aumenteranno in base ai risultati della partita."
+
+msgctxt "916_Settling Up"
+msgid "Points will decrease based on match results."
+msgstr "I punti diminuiranno in base ai risultati della partita."
+
+msgctxt "928_Settling Up"
+msgid "You lost to all the other players."
+msgstr "Hai perso contro tutti gli altri giocatori."
+
+msgctxt "940_Settling Up"
+msgid "You tied all the other players."
+msgstr "Hai pareggiato con tutti gli altri giocatori."

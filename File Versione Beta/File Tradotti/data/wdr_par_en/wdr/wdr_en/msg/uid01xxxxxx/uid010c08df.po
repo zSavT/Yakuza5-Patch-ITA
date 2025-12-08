@@ -1,0 +1,198 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "5544"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "5548"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "5552"
+msgid "Timid Man"
+msgstr "Uomo timido"
+
+msgctxt "5556"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "5560"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "5564"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "5568"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "5572"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "5576"
+msgid "Anime Girl Otaku"
+msgstr "Otaku di Anime Girl"
+
+msgctxt "5580"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "5584"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "5588"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "5592"
+msgid "Woman"
+msgstr "Donna"
+
+msgctxt "5596"
+msgid "Man on Date"
+msgstr "Uomo all'appuntamento"
+
+msgctxt "5600"
+msgid "0"
+msgstr "0"
+
+msgctxt "44_Kiryu"
+msgid "I'm from Nagasu Taxi. Sorry for the wait."
+msgstr "Sono di Nagasu Taxi. Mi scusi per l'attesa."
+
+msgctxt "56_Timid Man"
+msgid ""
+"Ah, there you are! The girl I'm going on a date with should be here soon. "
+"Would you mind waiting a little longer?"
+msgstr ""
+"Ah, eccoti! La ragazza con cui ho l'appuntamento dovrebbe essere qui presto."
+" Ti dispiacerebbe aspettare ancora un po'?"
+
+msgctxt "68_Kiryu"
+msgid "No problem. So you're on a date today?"
+msgstr "Nessun problema. Quindi oggi hai un appuntamento?"
+
+msgctxt "80_Timid Man"
+msgid ""
+"That's right! It's the first date I've ever gone on, so I'm really nervous!"
+msgstr "Esatto! È il mio primissimo appuntamento, quindi sono super nervoso!"
+
+msgctxt "92_Timid Man"
+msgid ""
+"Sato-san, the girl I'm going with, is incredibly cute. And she has a great "
+"personality to match."
+msgstr ""
+"Sato-san, la ragazza con cui ho l'appuntamento, è incredibilmente carina. E "
+"ha una gran bella personalità, che le sta a pennello."
+
+msgctxt "104_Timid Man"
+msgid ""
+"I hope I can show her a good time... I worry I won't have anything to talk "
+"about."
+msgstr ""
+"Spero di riuscire a farle passare una bella serata... Temo di non avere "
+"nulla di cui parlare."
+
+msgctxt "116_Timid Man"
+msgid ""
+"Say, what's a good thing to talk about when you want to impress a girl on "
+"the first date?"
+msgstr ""
+"Senti, qual è una buona cosa di cui parlare per fare colpo su una ragazza al"
+" primo appuntamento?"
+
+msgctxt "128_Kiryu"
+msgid ""
+"Well, I think it's best to be yourself, and talk about what interests you."
+msgstr ""
+"Beh, penso che sia meglio essere te stesso, e parlare di ciò che ti "
+"interessa."
+
+msgctxt "140_Timid Man"
+msgid "I see. My interests, huh?"
+msgstr "Capisco. I miei interessi, eh?"
+
+msgctxt "152_Kiryu"
+msgid "Right."
+msgstr "Giusto."
+
+msgctxt "164_Timid Man"
+msgid ""
+"Well, I'm <Italic>really</Italic> into anime with cute girls! I've literally"
+" seen every series－even ones nobody else knows about! Whew, I could talk "
+"about them all day!"
+msgstr ""
+"Beh, sono <Italic>davvero</Italic> appassionato di anime con ragazze carine!"
+" Ho letteralmente visto ogni singola serie－anche quelle che nessuno conosce!"
+" Uff, potrei parlarne tutto il giorno!"
+
+msgctxt "176_Kiryu"
+msgid "Uh..."
+msgstr "Ehm..."
+
+msgctxt "188_Anime Girl Otaku"
+msgid "Huh? What's the matter?"
+msgstr "Eh? Cosa c'è?"
+
+msgctxt "200_Kiryu"
+msgid "I'd suggest not diving that deep on the first date."
+msgstr "Ti suggerirei di non spingerti così a fondo al primo appuntamento."
+
+msgctxt "212_Anime Girl Otaku"
+msgid "Oh. You think so?"
+msgstr "Oh. Dici?"
+
+msgctxt "224_Kiryu"
+msgid "Some people might not understand."
+msgstr "Alcune persone potrebbero non capire."
+
+msgctxt "236_Anime Girl Otaku"
+msgid "Really? Then what am I supposed to talk about!?"
+msgstr "Davvero? Allora di cosa dovrei parlare!?"
+
+msgctxt "248_Kiryu"
+msgid "How about something more relatable?"
+msgstr "Che ne dici di qualcosa di più alla mano?"
+
+msgctxt "260_Anime Girl Otaku"
+msgid ""
+"More relatable? I don't know if I can do that! Oh gosh, my palms are getting"
+" all sweaty. What am I going to do?"
+msgstr ""
+"Più alla mano? Non so se ci riesco! Oddio, mi stanno sudando le mani. Che "
+"faccio?"
+
+msgctxt "272_Woman"
+msgid "Yamada-kun! Sorry to keep you waiting!"
+msgstr "Yamada-kun! Scusa per l'attesa!"
+
+msgctxt "284_Anime Girl Otaku"
+msgid "There she is!"
+msgstr "Eccola!"
+
+msgctxt "296_Man on Date"
+msgid ""
+"Hey, if it sounds like I'm ruining the mood, think you could help me out?"
+msgstr ""
+"Senti, se ti sembra che stia rovinando l'atmosfera, pensi che potresti darmi"
+" una mano?"
+
+msgctxt "308_Kiryu"
+msgid "I'll do my best."
+msgstr "Farò del mio meglio."

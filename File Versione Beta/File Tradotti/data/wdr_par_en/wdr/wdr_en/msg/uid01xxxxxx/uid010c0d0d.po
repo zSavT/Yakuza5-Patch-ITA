@@ -1,0 +1,101 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "92"
+msgid "You got <Color:8>30,000 yen<Color:Default>."
+msgstr "Hai ottenuto <Color:8>30,000 yen<Color:Default>."
+
+msgctxt "260"
+msgid "You got 2,200 experience points."
+msgstr "Hai ottenuto 2.200 punti esperienza."
+
+msgctxt "3536"
+msgid "Young Woman"
+msgstr "Ragazza"
+
+msgctxt "3540"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "3544"
+msgid "Driver"
+msgstr "Autista"
+
+msgctxt "3548"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "3552"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "3556"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "3560"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "44_Young Woman"
+msgid "Thank you so much. You saved us."
+msgstr "Grazie mille. Ci hai salvati."
+
+msgctxt "56_Saejima"
+msgid "You all right? That was close."
+msgstr "State bene? È andata per un pelo."
+
+msgctxt "68_Driver"
+msgid ""
+"Sir, if it weren't for you, this would have been a terrible disaster. I "
+"don't have the words to thank you..."
+msgstr ""
+"Signore, se non fosse stato per lei, sarebbe stato un disastro terribile. "
+"Non ho parole per ringraziarla..."
+
+msgctxt "80_Driver"
+msgid "This isn't very much, but we want you to have it."
+msgstr "Non è granché, ma vogliamo che tu lo prenda."
+
+msgctxt "104_Driver"
+msgid ""
+"And if you're willing, we'd love for you to meet our managers at the zoo. "
+"They'll want to thank you in person."
+msgstr ""
+"E se le va, ci farebbe molto piacere farle conoscere i nostri responsabili "
+"allo zoo. Vorranno ringraziarla di persona."
+
+msgctxt "116_Saejima"
+msgid "(Can't stick around. Don't want the cops to notice me.)"
+msgstr "(Non posso restare. Non voglio che i poliziotti mi notino.)"
+
+msgctxt "128_Saejima"
+msgid "Sorry, I gotta get goin'."
+msgstr "Scusa, devo scappare."
+
+msgctxt "140_Driver"
+msgid "Oh, but... It's all because of you that no one got hurt..."
+msgstr "Oh, ma... È tutto grazie a te che nessuno si è fatto male..."
+
+msgctxt "152_Saejima"
+msgid "Yeah, but it's fine. I'll just accept yer thanks and be on my way."
+msgstr "Sì, ma va bene così. Prendo i vostri ringraziamenti e me ne vado."
+
+msgctxt "176_Young Woman"
+msgid "What a guy. He knocked out a bear with just his fists."
+msgstr "Che tipo. Ha steso un orso a mani nude."
+
+msgctxt "188_Young Woman"
+msgid "No one will believe us..."
+msgstr "Nessuno ci crederà..."

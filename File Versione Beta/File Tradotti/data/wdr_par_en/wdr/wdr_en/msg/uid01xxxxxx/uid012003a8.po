@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1232"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "1236"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "1240"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1244"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "1248"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "136_Haruka"
+msgid "You're incredible, Uncle Kaz! That was too easy for you!"
+msgstr "Sei incredibile, Zio Kaz! È stato troppo facile per te!"
+
+msgctxt "160_Haruka"
+msgid "Well, better luck next time."
+msgstr "Beh, sarà per la prossima volta."
+
+msgctxt "184_Haruka"
+msgid ""
+"Look, Uncle Kaz! <Color:8>Virtua Fighter 2<Color:Default>! I know you're a "
+"good fighter, but are you a good Virtua Fighter? Let me see you win!"
+msgstr ""
+"Guarda, Zio Kaz! <Color:8>Virtua Fighter 2<Color:Default>! So che sei un "
+"bravo combattente, ma sei un bravo Virtua Fighter? Fammi vedere che vinci!"
+
+msgctxt "196_Kiryu"
+msgid ""
+"(Hmm. Looks like Haruka wants to see me <Color:8>win at Virtua Fighter "
+"2<Color:Default>.)"
+msgstr ""
+"(Hmm. Sembra che Haruka voglia vedermi <Color:8>vincere a Virtua Fighter "
+"2<Color:Default>.)"

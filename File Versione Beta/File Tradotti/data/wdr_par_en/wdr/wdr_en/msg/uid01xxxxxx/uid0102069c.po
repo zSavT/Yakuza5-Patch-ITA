@@ -1,0 +1,746 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "27072"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "27076"
+msgid "Baba"
+msgstr "Baba"
+
+msgctxt "27080"
+msgid "adv2_334_1/baba_0148"
+msgstr "adv2_334_1/baba_0148"
+
+msgctxt "27084"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "27088"
+msgid "adv2_334_1/saejima_0367a"
+msgstr "adv2_334_1/saejima_0367a"
+
+msgctxt "27092"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "27096"
+msgid "adv2_334_1/saejima_0367b"
+msgstr "adv2_334_1/saejima_0367b"
+
+msgctxt "27100"
+msgid "adv2_334_1/baba_0149a"
+msgstr "adv2_334_1/baba_0149a"
+
+msgctxt "27104"
+msgid "adv2_334_1/baba_0149b"
+msgstr "adv2_334_1/baba_0149b"
+
+msgctxt "27108"
+msgid "adv2_334_1/saejima_0368"
+msgstr "adv2_334_1/saejima_0368"
+
+msgctxt "27112"
+msgid "adv2_334_1/baba_0150a"
+msgstr "adv2_334_1/baba_0150a"
+
+msgctxt "27116"
+msgid "adv2_334_1/baba_0150b"
+msgstr "adv2_334_1/baba_0150b"
+
+msgctxt "27120"
+msgid "adv2_334_1/saejima_0369"
+msgstr "adv2_334_1/saejima_0369"
+
+msgctxt "27124"
+msgid "adv2_334_1/baba_0151"
+msgstr "adv2_334_1/baba_0151"
+
+msgctxt "27128"
+msgid "adv2_334_2/saejima_0370"
+msgstr "adv2_334_2/saejima_0370"
+
+msgctxt "27132"
+msgid "adv2_334_2/baba_0152"
+msgstr "adv2_334_2/baba_0152"
+
+msgctxt "27136"
+msgid "adv2_334_2/saejima_0371"
+msgstr "adv2_334_2/saejima_0371"
+
+msgctxt "27140"
+msgid "adv2_334_2/baba_0153a"
+msgstr "adv2_334_2/baba_0153a"
+
+msgctxt "27144"
+msgid "adv2_334_2/baba_0153b"
+msgstr "adv2_334_2/baba_0153b"
+
+msgctxt "27148"
+msgid "adv2_334_2/baba_0153c"
+msgstr "adv2_334_2/baba_0153c"
+
+msgctxt "27152"
+msgid "adv2_334_2/saejima_0372"
+msgstr "adv2_334_2/saejima_0372"
+
+msgctxt "27156"
+msgid "adv2_334_2/baba_0154"
+msgstr "adv2_334_2/baba_0154"
+
+msgctxt "27160"
+msgid "adv2_334_2/saejima_0373"
+msgstr "adv2_334_2/saejima_0373"
+
+msgctxt "27164"
+msgid "Talk_Syagamu_st"
+msgstr "Talk_Syagamu_st"
+
+msgctxt "27168"
+msgid "Sapporo Police Officer"
+msgstr "Agente di Polizia di Sapporo"
+
+msgctxt "27172"
+msgid "adv2_330/police_02a_0001"
+msgstr "adv2_330/police_02a_0001"
+
+msgctxt "27176"
+msgid "Kitakata Member"
+msgstr "Membro Kitakata"
+
+msgctxt "27180"
+msgid "adv2_330/kitakata_buka_0001a"
+msgstr "adv2_330/kitakata_buka_0001a"
+
+msgctxt "27184"
+msgid "kaiwabgm_tension06"
+msgstr "kaiwabgm_tension06"
+
+msgctxt "27188"
+msgid "adv2_330/kitakata_buka_0001b"
+msgstr "adv2_330/kitakata_buka_0001b"
+
+msgctxt "27192"
+msgid "adv2_330/saejima_0362"
+msgstr "adv2_330/saejima_0362"
+
+msgctxt "27196"
+msgid "adv2_330/kitakata_buka_0002a"
+msgstr "adv2_330/kitakata_buka_0002a"
+
+msgctxt "27200"
+msgid "adv2_330/kitakata_buka_0002b"
+msgstr "adv2_330/kitakata_buka_0002b"
+
+msgctxt "27204"
+msgid "adv2_330/kitakata_buka_0003a"
+msgstr "adv2_330/kitakata_buka_0003a"
+
+msgctxt "27208"
+msgid "adv2_330/kitakata_buka_0003b"
+msgstr "adv2_330/kitakata_buka_0003b"
+
+msgctxt "27212"
+msgid "adv2_330/saejima_0364"
+msgstr "adv2_330/saejima_0364"
+
+msgctxt "27216"
+msgid "adv2_330/kitakata_buka_0004"
+msgstr "adv2_330/kitakata_buka_0004"
+
+msgctxt "27220"
+msgid "adv2_330/saejima_0365"
+msgstr "adv2_330/saejima_0365"
+
+msgctxt "27224"
+msgid "adv2_330/kitakata_buka_0006"
+msgstr "adv2_330/kitakata_buka_0006"
+
+msgctxt "27228"
+msgid "adv2_330/saejima_0366a"
+msgstr "adv2_330/saejima_0366a"
+
+msgctxt "27232"
+msgid "adv2_330/saejima_0366b"
+msgstr "adv2_330/saejima_0366b"
+
+msgctxt "27236"
+msgid "adv2_330/kitakata_buka_0007a"
+msgstr "adv2_330/kitakata_buka_0007a"
+
+msgctxt "27240"
+msgid "adv2_330/kitakata_buka_0007b"
+msgstr "adv2_330/kitakata_buka_0007b"
+
+msgctxt "27244"
+msgid "adv2_330/kitakata_buka_0007c"
+msgstr "adv2_330/kitakata_buka_0007c"
+
+msgctxt "27248"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "27252"
+msgid "2d_yk_p_phonebooth"
+msgstr "2d_yk_p_phonebooth"
+
+msgctxt "27256"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "27260"
+msgid "P_SIN_TLK_stand_phone_lp"
+msgstr "P_SIN_TLK_stand_phone_lp"
+
+msgctxt "27264"
+msgid "Voice on Phone"
+msgstr "Voce al telefono"
+
+msgctxt "27268"
+msgid "Phone"
+msgstr "Telefono"
+
+msgctxt "27272"
+msgid "0"
+msgstr "0"
+
+msgctxt "27276"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "27280"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "27284"
+msgid "adv2_240/baba_0101a"
+msgstr "adv2_240/baba_0101a"
+
+msgctxt "27288"
+msgid "adv2_240/baba_0101b"
+msgstr "adv2_240/baba_0101b"
+
+msgctxt "27292"
+msgid "adv2_240/saejima_0325"
+msgstr "adv2_240/saejima_0325"
+
+msgctxt "27296"
+msgid "adv2_240/baba_0102a"
+msgstr "adv2_240/baba_0102a"
+
+msgctxt "27300"
+msgid "adv2_240/baba_0102b"
+msgstr "adv2_240/baba_0102b"
+
+msgctxt "27304"
+msgid "adv2_240/saejima_0326"
+msgstr "adv2_240/saejima_0326"
+
+msgctxt "27308"
+msgid "北海道　月見野"
+msgstr "北海道　月見野"
+
+msgctxt "27312"
+msgid "news01"
+msgstr "news01"
+
+msgctxt "27316"
+msgid "Newscaster"
+msgstr "Annunciatore"
+
+msgctxt "27324"
+msgid "kaiwabgm_fuon01"
+msgstr "kaiwabgm_fuon01"
+
+msgctxt "27328"
+msgid "adv2_240/baba_0099a"
+msgstr "adv2_240/baba_0099a"
+
+msgctxt "27332"
+msgid "adv2_240/baba_0099b"
+msgstr "adv2_240/baba_0099b"
+
+msgctxt "27336"
+msgid "adv2_240/baba_0100"
+msgstr "adv2_240/baba_0100"
+
+msgctxt "232_Baba"
+msgid "There. That was the last of them!"
+msgstr "A posto. Quelli erano gli ultimi!"
+
+msgctxt "244_Saejima"
+msgid "Seems so. Man, they didn't even hesitate to attack ya, huh?"
+msgstr "Sembra di sì. Cavolo, non si sono fatti problemi ad attaccarti, eh?"
+
+msgctxt "256_Saejima"
+msgid "And you're from the same family as they are..."
+msgstr "E tu sei della loro stessa famiglia..."
+
+msgctxt "268_Baba"
+msgid "Yeah, crazy... I didn't recognize any of them, though."
+msgstr "Cavolo, pazzesco... Non ne ho riconosciuto nessuno, però."
+
+msgctxt "280_Baba"
+msgid ""
+"They must have joined the family after I was gone. That was ten years ago."
+msgstr ""
+"Devono essere entrati in famiglia dopo che me n'ero andato. Erano dieci anni"
+" fa."
+
+msgctxt "292_Saejima"
+msgid "Yeah? Ya miss it?"
+msgstr "Sì? Ti manca, eh?"
+
+msgctxt "304_Baba"
+msgid "Things... are different now, compared to when I left."
+msgstr "Le cose... sono diverse ora, rispetto a quando me ne sono andato."
+
+msgctxt "316_Baba"
+msgid "There really is no place I can call home anymore."
+msgstr "Non c'è proprio nessun posto che io possa chiamare casa, ormai."
+
+msgctxt "328_Saejima"
+msgid "It's a sad thing."
+msgstr "È una cosa triste."
+
+msgctxt "340_Baba"
+msgid "We should go. Come on, this way."
+msgstr "Dovremmo andare. Dai, da questa parte."
+
+msgctxt "376_Saejima"
+msgid "What're we gonna do here?"
+msgstr "E adesso che facciamo qui?"
+
+msgctxt "388_Baba"
+msgid "We can travel through the sewers if we go down this manhole."
+msgstr "Possiamo passare nelle fogne se scendiamo in questo tombino."
+
+msgctxt "400_Saejima"
+msgid "And we wanna do that why?"
+msgstr "E perché mai dovremmo farlo?"
+
+msgctxt "412_Baba"
+msgid ""
+"At the ceremony site, there's a manhole right where the stage is located."
+msgstr "Al luogo della cerimonia, c'è un tombino proprio dove c'è il palco."
+
+msgctxt "424_Baba"
+msgid "If we start here, we can approach the stage without being detected."
+msgstr ""
+"Se partiamo da qui, possiamo avvicinarci al palco senza farci beccare."
+
+msgctxt "436_Baba"
+msgid "This is the best chance we've got at getting close to Kitakata."
+msgstr ""
+"Questa è la migliore occasione che abbiamo per avvicinarci a Kitakata."
+
+msgctxt "448_Saejima"
+msgid "How'd you figure that out?"
+msgstr "Come hai fatto a capirlo?"
+
+msgctxt "460_Baba"
+msgid ""
+"I used to play at that park when I was a kid. I remember every last detail "
+"of the place."
+msgstr ""
+"A quel parco, ci giocavo da ragazzino. Mi ricordo ogni singolo dettaglio di "
+"'sto posto."
+
+msgctxt "472_Saejima"
+msgid "How 'bout that? Let's do it!"
+msgstr "Che te ne pare? Facciamolo!"
+
+msgctxt "532_Sapporo Police Officer"
+msgid "Sir, can I check your bag?"
+msgstr "Signore, posso controllare la sua borsa?"
+
+msgctxt "544_Saejima"
+msgid "(We ain't gettin' through the main streets, that's for sure.)"
+msgstr "(Per le strade principali non ci passiamo, è fuori discussione.)"
+
+msgctxt "556_Saejima"
+msgid "(Got no choice. The alleys, it is.)"
+msgstr "(È l'unica. Si va per i vicoli.)"
+
+msgctxt "592_Saejima"
+msgid "Eh!?"
+msgstr "Eh!?"
+
+msgctxt "604_Kitakata Member"
+msgid "Just as expected."
+msgstr "Proprio come mi aspettavo."
+
+msgctxt "616_Kitakata Member"
+msgid "Haha, we knew that checkpoint would spook you and send you this way."
+msgstr ""
+"Ahahah, sapevamo che quel posto di blocco vi avrebbe fatti scappare e spinti"
+" da queste parti."
+
+msgctxt "628_Saejima"
+msgid "You Kitakata?"
+msgstr "Sei Kitakata?"
+
+msgctxt "640_Kitakata Member"
+msgid ""
+"You got it. Man, I can't believe you actually busted out of Abashiri... "
+"Respect, dude."
+msgstr ""
+"Ce l'hai fatta. Cazzo, non ci credo che sei davvero evaso da Abashiri... "
+"Rispetto, compare."
+
+msgctxt "652_Kitakata Member"
+msgid ""
+"All this talk of the legendary hitman might actually have some truth to it."
+msgstr ""
+"Tutto 'sto parlare del leggendario sicario, magari c'è un fondo di verità."
+
+msgctxt "664_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "676_Kitakata Member"
+msgid ""
+"But you're not getting past me. Sorry, but no vengeance for your wormy "
+"little pal Majima!"
+msgstr ""
+"Ma non mi passi. Mi spiace, ma nessuna vendetta per quel verme del tuo "
+"compare Majima!"
+
+msgctxt "688_Kitakata Member"
+msgid "The Kitakata Family will never kneel to the Tojo Clan!"
+msgstr "La Famiglia Kitakata non si inginocchierà mai al Clan Tojo!"
+
+msgctxt "700_Saejima"
+msgid "Hey, you got the time?"
+msgstr "Ehi, hai l'ora?"
+
+msgctxt "712_Kitakata Member"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "724_Saejima"
+msgid "The time."
+msgstr "L'ora."
+
+msgctxt "736_Kitakata Member"
+msgid "Eh?"
+msgstr "Eh?"
+
+msgctxt "748_Kitakata Member"
+msgid "It's... it's a bit after 11:30."
+msgstr "Sono... sono un po' dopo le undici e mezza."
+
+msgctxt "760_Saejima"
+msgid "Then I ain't got time to dawdle."
+msgstr "Allora non c'ho tempo per cincischiare."
+
+msgctxt "772_Saejima"
+msgid "I'll hafta finish this quick, then."
+msgstr "Dovrò sbrigarmi, allora."
+
+msgctxt "784_Kitakata Member"
+msgid "Hah! You think you're clever?"
+msgstr "Hah! Ti credi furbo?"
+
+msgctxt "796_Kitakata Member"
+msgid ""
+"When I'm through with you, you won't be clever enough to scratch your ass!"
+msgstr ""
+"Quando avrò chiuso con te, non sarai abbastanza furbo da grattarti il culo!"
+
+msgctxt "808_Kitakata Member"
+msgid "Let's get him!"
+msgstr "Prendiamolo!"
+
+msgctxt "856_Saejima"
+msgid "(Security's awful tight. Better check out the place today.)"
+msgstr ""
+"(La sicurezza è stretta da morire. Meglio dare un'occhiata al posto oggi.)"
+
+msgctxt "904_Saejima"
+msgid ""
+"(This has gotta be where they'll do the snow festival's opening ceremony.)"
+msgstr ""
+"(Qui dev'essere dove faranno la cerimonia d'apertura del festival della "
+"neve.)"
+
+msgctxt "916_Saejima"
+msgid "(So, how do we nab Kitakata tomorrow?)"
+msgstr "(Allora, come lo becchiamo Kitakata domani?)"
+
+msgctxt "940_Saejima"
+msgid "(A manhole. Where does it lead to?)"
+msgstr "(Un tombino. Dove porta?)"
+
+msgctxt "952_Saejima"
+msgid ""
+"(That's all the scoutin' I can do. Better meet up with Baba at Polaris and "
+"plan for tomorrow.)"
+msgstr ""
+"(È tutta la ricognizione che posso fare. Meglio vedermi con Baba al Polaris "
+"e fare piani per domani.)"
+
+msgctxt "976_Saejima"
+msgid "(Alright, got some intel on Kitakata. Now back to Polaris!)"
+msgstr "(Va bene, ho delle dritte su Kitakata. Ora di nuovo al Polaris!)"
+
+msgctxt "1036_Saejima"
+msgid "(This phone booth... It's the one in the photo.)"
+msgstr "(Questa cabina telefonica... È quella della foto.)"
+
+msgctxt "1084_Saejima"
+msgid "(Guess I'm s'posed to answer it.)"
+msgstr "(Mi sa che devo rispondere.)"
+
+msgctxt "1156_Saejima"
+msgid "Hello."
+msgstr "Salve."
+
+msgctxt "1168_Voice on Phone"
+msgid ""
+"Go to the lottery kiosk. The passcode is \"seven scattered losing tickets.\""
+msgstr ""
+"Vai al chiosco della lotteria. La password è \"sette biglietti perdenti "
+"sparsi\"."
+
+msgctxt "1180_Phone"
+msgid "*click* *dial tone*"
+msgstr "*clic* *tono di chiamata*"
+
+msgctxt "1228_Saejima"
+msgid ""
+"(I need a pass for the casino, eh? Bet that old homeless guy Kiyotaka has "
+"one.)"
+msgstr ""
+"(Mi serve un pass per il casinò, eh? Scommetto che quel vecchio barbone "
+"Kiyotaka ne ha uno.)"
+
+msgctxt "1264_Baba"
+msgid "Saejima-san! What a relief. Did you have trouble getting here?"
+msgstr "Saejima-san! Meno male. Hai avuto problemi ad arrivare?"
+
+msgctxt "1276_Saejima"
+msgid "Nah. So, this the hideout you were talkin' about?"
+msgstr "No. Allora, questo è il nascondiglio di cui parlavi?"
+
+msgctxt "1288_Baba"
+msgid "Yes. It's just up here."
+msgstr "Sì. È proprio qui sopra."
+
+msgctxt "1312_Saejima"
+msgid "Hold up. There's a cop."
+msgstr "Alt. C'è un pula."
+
+msgctxt "1324_Baba"
+msgid "Damn. Can't go this way."
+msgstr "Maledizione. Non posso passare di qui."
+
+msgctxt "1336_Saejima"
+msgid "Baba, you saw the news. My face is plastered everywhere."
+msgstr "Baba, hai visto le notizie. La mia faccia è spiaccicata dappertutto."
+
+msgctxt "1348_dummy"
+msgid ""
+"If we stay together, you'll get burned, too. Let's split up and meet at yer "
+"hideout."
+msgstr ""
+"Se restiamo insieme, ti brucerai anche tu. Separiamoci e ci vediamo al tuo "
+"nascondiglio."
+
+msgctxt "1360_Baba"
+msgid "But then you..."
+msgstr "Ma poi tu..."
+
+msgctxt "1372_Saejima"
+msgid ""
+"Don't worry 'bout me. I'm used to this sorta thing. How's yer pain? Still as"
+" bad as it was on the mountain?"
+msgstr ""
+"Non preoccuparti per me. Sono abituato a queste cose. Come va il tuo dolore?"
+" È ancora forte come sulla montagna?"
+
+msgctxt "1384_Baba"
+msgid "Uh, I..."
+msgstr "Uhm, io..."
+
+msgctxt "1396_Saejima"
+msgid ""
+"This cold's real bad if you're in pain. Hurry on to the hideout. Ya got your"
+" own health to worry about before ya go motherin' me."
+msgstr ""
+"Questo freddo è una brutta bestia se hai dolore. Sbrigati ad andare al "
+"nascondiglio. Hai la tua salute a cui pensare prima di metterti a fare il "
+"mammo con me."
+
+msgctxt "1408_Baba"
+msgid "Aniki..."
+msgstr "Aniki..."
+
+msgctxt "1420_dummy"
+msgid "...Okay, I'll do that. I'm sorry, Aniki."
+msgstr "...Va bene, lo farò. Mi dispiace, Aniki."
+
+msgctxt "1432_Saejima"
+msgid "So, where's this hideout?"
+msgstr "Allora, dov'è questo nascondiglio?"
+
+msgctxt "1444_Baba"
+msgid ""
+"There's a major street that runs north to south through the town center. "
+"It's called Central Station Boulevard, and there's a Don Quijote on it."
+msgstr ""
+"C'è una strada principale che attraversa il centro città da nord a sud. Si "
+"chiama Central Station Boulevard, e lì c'è un Don Quijote."
+
+msgctxt "1456_dummy"
+msgid ""
+"The hideout is a bar called <Color:7>Polaris<Color:Default>, in the building"
+" across the street."
+msgstr ""
+"Il nascondiglio è un bar chiamato <Color:7>Polaris<Color:Default>, "
+"nell'edificio dall'altra parte della strada."
+
+msgctxt "1468_Saejima"
+msgid "Gotcha. I'll see ya later."
+msgstr "Capito. Ci vediamo dopo."
+
+msgctxt "1480_Baba"
+msgid "Please be careful, Aniki."
+msgstr "Stai attento, Aniki."
+
+msgctxt "1504_Saejima"
+msgid ""
+"(All right, across the street from Don Quijote on Central Station Boulevard."
+" Can't be that hard to find.)"
+msgstr ""
+"(Va bene, dall'altra parte della strada rispetto al Don Quijote su Central "
+"Station Boulevard. Non dovrebbe essere poi così difficile da trovare.)"
+
+msgctxt "1540_Baba"
+msgid "I took a look around. It's not good."
+msgstr "Ho dato un'occhiata in giro. Brutta storia."
+
+msgctxt "1552_Baba"
+msgid ""
+"There are a lot of cops. It's too risky to use the main road to go straight "
+"to the hideout."
+msgstr ""
+"Ci sono un sacco di sbirri. È troppo rischioso usare la strada principale "
+"per andare dritti al nascondiglio."
+
+msgctxt "1564_Saejima"
+msgid "So what now?"
+msgstr "E adesso?"
+
+msgctxt "1576_Baba"
+msgid "I'll go on ahead."
+msgstr "Vado avanti."
+
+msgctxt "1588_Baba"
+msgid "You follow me, but at a distance. We'll try not to draw attention."
+msgstr "Seguimi, ma a distanza. Non dobbiamo farci notare."
+
+msgctxt "1600_Saejima"
+msgid "Gotcha."
+msgstr "Capito."
+
+msgctxt "1636_Newscaster"
+msgid ""
+"Final preparations for Tsukimino's Snow Festival are underway at Main Street"
+" Park, where many are working hurriedly to finish before tomorrow night's "
+"opening."
+msgstr ""
+"I preparativi finali per il Festival della Neve di Tsukimino sono in corso "
+"al Main Street Park, dove molti stanno lavorando in fretta per finire prima "
+"dell'apertura di domani sera."
+
+msgctxt "1648_Newscaster"
+msgid ""
+"Each year, the famous winter event attracts a sizable number of visitors "
+"from across Japan."
+msgstr ""
+"Ogni anno, il famoso evento invernale attira un numero considerevole di "
+"visitatori da tutto il Giappone."
+
+msgctxt "1660_Newscaster"
+msgid ""
+"Local businesses are looking forward to this much-needed influx of tourist "
+"money."
+msgstr ""
+"Le attività commerciali locali non vedono l'ora di questo tanto agognato "
+"afflusso di denaro turistico."
+
+msgctxt "1672_Newscaster"
+msgid "And now, an update on the penitentiary fire."
+msgstr "E ora, un aggiornamento sull'incendio nel penitenziario."
+
+msgctxt "1684_Newscaster"
+msgid ""
+"The Prefectural Police made an announcement regarding the two missing "
+"convicts."
+msgstr ""
+"La Polizia Prefettizia ha fatto un annuncio in merito ai due detenuti evasi."
+
+msgctxt "1696_Newscaster"
+msgid ""
+"The remains of one convict were found this morning in the mountains "
+"surrounding the prison."
+msgstr ""
+"I resti di un detenuto sono stati trovati questa mattina nelle montagne che "
+"circondano il carcere."
+
+msgctxt "1708_Newscaster"
+msgid ""
+"An arrest warrant has been issued for the other inmate, thought to still be "
+"in the area."
+msgstr ""
+"È stato emesso un mandato di arresto per l'altro detenuto, ritenuto essere "
+"ancora nella zona."
+
+msgctxt "1720_Newscaster"
+msgid ""
+"That inmate's name is Taiga Saejima, a former member of the Tojo Clan, and "
+"wanted nationwide."
+msgstr ""
+"Il nome di quel detenuto è Taiga Saejima, un ex membro del Clan Tojo, e "
+"ricercato a livello nazionale."
+
+msgctxt "1732_Newscaster"
+msgid ""
+"Acting on tips that Saejima may appear in Sapporo, the police have gone on "
+"full alert in the Tsukimino area."
+msgstr ""
+"In seguito a segnalazioni che Saejima potrebbe apparire a Sapporo, la "
+"polizia è in stato di massima allerta nella zona di Tsukimino."
+
+msgctxt "1744_Saejima"
+msgid "(Dammit...)"
+msgstr "(Maledizione...)"
+
+msgctxt "1756_Baba"
+msgid "There was a fire at Abashiri?"
+msgstr "C'è stato un incendio ad Abashiri?"
+
+msgctxt "1768_Baba"
+msgid "And that body they found... who was that?"
+msgstr "E quel corpo che hanno trovato... chi era?"
+
+msgctxt "1780_Saejima"
+msgid "Hmm."
+msgstr "Mhh."
+
+msgctxt "1792_Baba"
+msgid "Uh, by the way, the hideout's ready."
+msgstr "Ehm, a proposito, il nascondiglio è pronto."

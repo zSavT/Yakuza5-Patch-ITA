@@ -1,0 +1,305 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "80"
+msgid "You won <Color:8>30,000 yen<Color:Default>."
+msgstr "Hai vinto <Color:8>30.000 yen<Color:Default>."
+
+msgctxt "464"
+msgid "You got 4,000 experience points."
+msgstr "Hai ottenuto 4.000 punti esperienza."
+
+msgctxt "848"
+msgid "You got 1,800 experience points."
+msgstr "Hai ottenuto 1.800 punti esperienza."
+
+msgctxt "12764"
+msgid "MC"
+msgstr "Conduttore"
+
+msgctxt "12768"
+msgid "kaiwabgm_end_maketakunai"
+msgstr "kaiwabgm_end_maketakunai"
+
+msgctxt "12772"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "12776"
+msgid "SS3_HAL_TLK_stand_kansha"
+msgstr "SS3_HAL_TLK_stand_kansha"
+
+msgctxt "12780"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "12784"
+msgid "SS3_HAL_TLK_stand_wave_hand02"
+msgstr "SS3_HAL_TLK_stand_wave_hand02"
+
+msgctxt "12788"
+msgid "SS3_HAL_TLK_stand_wave_hand"
+msgstr "SS3_HAL_TLK_stand_wave_hand"
+
+msgctxt "12792"
+msgid "Himeko"
+msgstr "Himeko"
+
+msgctxt "12796"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "12800"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "12804"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "12808"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "12812"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "12816"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "12820"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "12824"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "12828"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "12832"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "44_MC"
+msgid "And the victor of this heated contest is..."
+msgstr "E il vincitore di questa sfida infuocata è..."
+
+msgctxt "68_MC"
+msgid ""
+"Haruka Sawamura! For coming out on top, she wins a prize of 30,000 yen!"
+msgstr ""
+"Haruka Sawamura! Per essersi classificata al primo posto, vince un premio di"
+" 30.000 yen!"
+
+msgctxt "92_Haruka"
+msgid "Thank you very much!"
+msgstr "Grazie mille!"
+
+msgctxt "104_MC"
+msgid ""
+"Join us again next time for \"Refuse to Lose\"!\r\n"
+"You won't want to miss it!"
+msgstr ""
+"Non mancate la prossima volta per \"Refuse to Lose\"!\n"
+"Non ve lo vorrete perdere!"
+
+msgctxt "116_MC"
+msgid "Until then, stay fierce!"
+msgstr "Fino ad allora, restate grintosi!"
+
+msgctxt "152_MC"
+msgid ""
+"Himeko Sakurakoji! For coming out on top, she wins a prize of 30,000 yen!"
+msgstr ""
+"Himeko Sakurakoji! Per essersi classificata al primo posto, vince un premio "
+"di 30.000 yen!"
+
+msgctxt "164_Himeko"
+msgid "Yeah, I told you!"
+msgstr "Già, te l'avevo detto!"
+
+msgctxt "176_MC"
+msgid ""
+"Join us again next time for \"Refuse to Lose\"!\r\n"
+"You won't want to miss it!"
+msgstr ""
+"Non mancate la prossima volta per \"Refuse to Lose\"!\n"
+"Non ve lo vorrete perdere!"
+
+msgctxt "188_MC"
+msgid "Until then, stay fierce!"
+msgstr "Fino ad allora, restate grintosi!"
+
+msgctxt "248_MC"
+msgid "Hmph. I guess acting all high and mighty fits you just right, huh?"
+msgstr "Mpf. Mi sa che fare lo spocchioso ti si addica proprio, eh?"
+
+msgctxt "260_Haruka"
+msgid "I'm sorry, but I don't understand. What do you mean, \"high and mighty\"?"
+msgstr "Mi dispiace, ma non capisco. Che intendi con \"spocchioso\"?"
+
+msgctxt "272_Himeko"
+msgid "Ah, just shut up!"
+msgstr "Ah, zitto e basta!"
+
+msgctxt "284_Himeko"
+msgid ""
+"I'm not jealous of you just because you're still on Princess League, okay!?"
+msgstr ""
+"Non sono geloso di te solo perché sei ancora in Princess League, capito!?"
+
+msgctxt "296_Haruka"
+msgid "Oh. You were on Princess League, too?"
+msgstr "Oh. Eri anche tu in Princess League?"
+
+msgctxt "308_Himeko"
+msgid "Yeah, and I got knocked out early! You got something to say about it!?"
+msgstr "Già, e sono stato fatto fuori subito! Che c'hai da dire!?"
+
+msgctxt "320_Haruka"
+msgid "No."
+msgstr "No."
+
+msgctxt "332_Haruka"
+msgid ""
+"It's just that I thought you looked familiar. That sort of makes us kindred "
+"spirits."
+msgstr ""
+"È solo che mi sembravi familiare. È un po' come se fossimo spiriti affini."
+
+msgctxt "344_Himeko"
+msgid "Huh!? Kindred spirits!?"
+msgstr "Eh!? Spiriti affini!?"
+
+msgctxt "356_Haruka"
+msgid ""
+"Sure. I mean, yes, we were rivals in the competition. But really we're just "
+"kindred spirits, reaching for the same dream. Right?"
+msgstr ""
+"Certo. Voglio dire, sì, eravamo rivali nella competizione. Ma in fondo siamo"
+" solo spiriti affini, che cercano di raggiungere lo stesso sogno. Giusto?"
+
+msgctxt "368_Himeko"
+msgid "...Huh."
+msgstr "...Eh."
+
+msgctxt "380_Haruka"
+msgid "Hehe."
+msgstr "Eheh."
+
+msgctxt "392_Himeko"
+msgid "Hey!"
+msgstr "Ehi!"
+
+msgctxt "404_Himeko"
+msgid "Ugh, you're way too soft-hearted for your own good! But, still..."
+msgstr "Ugh, sei troppo tenero per il tuo bene! Ma, comunque..."
+
+msgctxt "416_Haruka"
+msgid "Yeah?"
+msgstr "Sì?"
+
+msgctxt "428_Himeko"
+msgid ""
+"Kindred spirits, huh? I guess I like the sound of that. All right. Kindred "
+"spirits, it is!"
+msgstr ""
+"Spiriti affini, eh? Mi sa che mi garba l'idea. Va bene. Spiriti affini, "
+"allora!"
+
+msgctxt "620_MC"
+msgid ""
+"Did it hurt when you fell off your big high horse!? Not so high and mighty "
+"now, are ya!?"
+msgstr ""
+"Ti ha fatto male quando sei caduto dal tuo piedistallo!? Non fai più tanto "
+"il grande adesso, eh!?"
+
+msgctxt "632_Haruka"
+msgid "I'm sorry, but I don't understand. What do you mean, \"high and mighty\"?"
+msgstr "Mi dispiace, ma non capisco. Cosa intendi con 'fare il grande'?"
+
+msgctxt "644_Himeko"
+msgid "Ah, just shut up!"
+msgstr "Ah, zitto e basta!"
+
+msgctxt "656_Himeko"
+msgid ""
+"I'm not jealous of you just because you're still on Princess League, okay!?"
+msgstr ""
+"Non sono geloso di te solo perché sei ancora nella Princess League, ok!?"
+
+msgctxt "668_Haruka"
+msgid "Wait. Were you on Princess League, too?"
+msgstr "Aspetta. Anche tu eri nella Princess League?"
+
+msgctxt "680_Himeko"
+msgid "Yeah, and I got knocked out early! You got something to say about it!?"
+msgstr "Sì, e sono stato buttato fuori subito! Hai qualcosa da ridire!?"
+
+msgctxt "692_Haruka"
+msgid "No."
+msgstr "No."
+
+msgctxt "704_Haruka"
+msgid ""
+"It's just that I thought you looked familiar. That sort of makes us kindred "
+"spirits."
+msgstr ""
+"È solo che mi sembravi familiare. Questo ci rende un po' spiriti affini."
+
+msgctxt "716_Himeko"
+msgid "Huh!? Kindred spirits!?"
+msgstr "Eh!? Spiriti affini!?"
+
+msgctxt "728_Haruka"
+msgid ""
+"Sure. I mean, yes, we were rivals in the competition. But really we're just "
+"kindred spirits, reaching for the same dream. Right?"
+msgstr ""
+"Certo. Cioè, sì, eravamo rivali nella competizione. Ma in fondo siamo solo "
+"spiriti affini, che inseguono lo stesso sogno. Giusto?"
+
+msgctxt "740_Himeko"
+msgid "...Huh."
+msgstr "...Eh."
+
+msgctxt "752_Haruka"
+msgid "Hehe."
+msgstr "Eheh."
+
+msgctxt "764_Himeko"
+msgid "Hey!"
+msgstr "Ehi!"
+
+msgctxt "776_Himeko"
+msgid "Ugh, you're way too soft-hearted for your own good! But, still..."
+msgstr "Uffa, sei fin troppo tenero per il tuo stesso bene! Ma, comunque..."
+
+msgctxt "788_Haruka"
+msgid "Yeah?"
+msgstr "Sì?"
+
+msgctxt "800_Himeko"
+msgid ""
+"Kindred spirits, huh? I guess I like the sound of that. All right. Kindred "
+"spirits, it is!"
+msgstr ""
+"Spiriti affini, eh? Mi sa che mi piace come suona. Va bene. Spiriti affini, "
+"allora!"

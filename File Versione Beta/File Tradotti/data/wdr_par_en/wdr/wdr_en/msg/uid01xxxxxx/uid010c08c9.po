@@ -1,0 +1,439 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "13392"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "13396"
+msgid "SS1_P_TAX_idle_hearing"
+msgstr "SS1_P_TAX_idle_hearing"
+
+msgctxt "13400"
+msgid "Foreign Man"
+msgstr "Straniero"
+
+msgctxt "13404"
+msgid "SS1_M_NML_TAX_idle"
+msgstr "SS1_M_NML_TAX_idle"
+
+msgctxt "13408"
+msgid "SS1_M_NML_TAX_guts"
+msgstr "SS1_M_NML_TAX_guts"
+
+msgctxt "13412"
+msgid "SS1_P_TAX_question"
+msgstr "SS1_P_TAX_question"
+
+msgctxt "13416"
+msgid "SS1_M_NML_TAX_sad"
+msgstr "SS1_M_NML_TAX_sad"
+
+msgctxt "13420"
+msgid "SS1_M_NML_TAX_info_f"
+msgstr "SS1_M_NML_TAX_info_f"
+
+msgctxt "13424"
+msgid "SS1_P_TAX_no"
+msgstr "SS1_P_TAX_no"
+
+msgctxt "13428"
+msgid "Karashi Takana"
+msgstr "Takana Piccante"
+
+msgctxt "13432"
+msgid "Onsen Tamago"
+msgstr "Onsen Tamago"
+
+msgctxt "13436"
+msgid "Karashi Mentaiko"
+msgstr "Karashi Mentaiko"
+
+msgctxt "13440"
+msgid "SS1_M_NML_TAX_no"
+msgstr "SS1_M_NML_TAX_no"
+
+msgctxt "13444"
+msgid "SS1_M_NML_TAX_laugh"
+msgstr "SS1_M_NML_TAX_laugh"
+
+msgctxt "13448"
+msgid "SS1_P_TAX_nod_A"
+msgstr "SS1_P_TAX_nod_A"
+
+msgctxt "13452"
+msgid "SS1_M_NML_TAX_angry"
+msgstr "SS1_M_NML_TAX_angry"
+
+msgctxt "13456"
+msgid "SS1_M_NML_TAX_question"
+msgstr "SS1_M_NML_TAX_question"
+
+msgctxt "13460"
+msgid "Very"
+msgstr "Molto"
+
+msgctxt "13464"
+msgid "Special"
+msgstr "Speciale"
+
+msgctxt "13468"
+msgid "Let's Go"
+msgstr "Andiamo"
+
+msgctxt "13472"
+msgid "SS1_P_TAX_sad"
+msgstr "SS1_P_TAX_sad"
+
+msgctxt "13476"
+msgid "SS1_M_NML_TAX_nod"
+msgstr "SS1_M_NML_TAX_nod"
+
+msgctxt "13480"
+msgid "A Phrase About a Simple Meal"
+msgstr "Una frase su un pasto semplice"
+
+msgctxt "13484"
+msgid "A Phrase About Encounters"
+msgstr "Una frase sugli Incontri"
+
+msgctxt "13488"
+msgid "A Phrase About Grilled Meat"
+msgstr "Una frase sulla Carne alla Griglia"
+
+msgctxt "13492"
+msgid "SS1_P_TAX_laugh"
+msgstr "SS1_P_TAX_laugh"
+
+msgctxt "44_Kiryu"
+msgid "Do you speak Japanese?"
+msgstr "Parla giapponese?"
+
+msgctxt "56_Foreign Man"
+msgid "Yes! But just... Just a little!"
+msgstr "Sì! Ma solo... Solo un po'!"
+
+msgctxt "68_Kiryu"
+msgid "(A little, huh?)"
+msgstr "(Solo un po', eh?)"
+
+msgctxt "80_Foreign Man"
+msgid "Fukuoka is great! The food, delicious!"
+msgstr "Fukuoka è fantastica! Il cibo, delizioso!"
+
+msgctxt "92_Kiryu"
+msgid "What did you eat?"
+msgstr "Cosa hai mangiato?"
+
+msgctxt "104_Foreign Man"
+msgid "Hmm. The name, I forget."
+msgstr "Hmm. Il nome, l'ho dimenticato."
+
+msgctxt "116_Kiryu"
+msgid "Well, what was in it?"
+msgstr "Allora, cosa c'era dentro?"
+
+msgctxt "128_Foreign Man"
+msgid "Spicy... red eggs!"
+msgstr "Piccante... uova rosse!"
+
+msgctxt "140_Kiryu"
+msgid "Spicy red eggs? Hmm, that must be..."
+msgstr "Uova rosse piccanti? Hmm... quello dev'essere..."
+
+msgctxt "152_Kiryu"
+msgid "(Spicy, huh?)"
+msgstr "(Piccante, eh?)"
+
+msgctxt "164_Kiryu"
+msgid "Was it karashi takana? Spicy mustard greens?"
+msgstr "Era karashi takana? Verdure di senape piccanti?"
+
+msgctxt "176_Foreign Man"
+msgid "Nooo! Fish eggs!"
+msgstr "Nooo! Uova di pesce!"
+
+msgctxt "188_Kiryu"
+msgid "Fish eggs? Karashi mentaiko, perhaps? Spicy cod roe?"
+msgstr "Uova di pesce? Karashi mentaiko, forse? Uova di merluzzo piccanti?"
+
+msgctxt "200_Foreign Man"
+msgid "Yes! Karashi mentaiko! Very, very delicious. Number one favorite!"
+msgstr ""
+"Sì! Karashi mentaiko! Molto, molto delizioso. Il mio preferito, numero uno!"
+
+msgctxt "212_Kiryu"
+msgid "(I'm glad I could clear that up.)"
+msgstr "(Meno male che l'ho chiarita.)"
+
+msgctxt "224_Kiryu"
+msgid "(Eggs, huh?)"
+msgstr "(Uova, eh?)"
+
+msgctxt "236_Kiryu"
+msgid "Was it onsen tamago? Hot spring eggs?"
+msgstr "Era onsen tamago? Uova delle terme?"
+
+msgctxt "248_Foreign Man"
+msgid "No! Different! Oh, I remember! The name was karashi mentaiko!"
+msgstr "No! Diverso! Oh, mi ricordo! Il nome era karashi mentaiko!"
+
+msgctxt "260_Kiryu"
+msgid "I see. That's spicy red eggs, all right. Spicy cod roe."
+msgstr "Capisco. Sono uova rosse piccanti, esatto. Uova di merluzzo piccanti."
+
+msgctxt "272_Foreign Man"
+msgid "Why could you not guess? Aren't you Japanese?"
+msgstr "Perché non hai indovinato? Non sei giapponese?"
+
+msgctxt "284_Kiryu"
+msgid "(I should have given that more thought.)"
+msgstr "(Avrei dovuto pensarci meglio.)"
+
+msgctxt "296_Kiryu"
+msgid "(Hmm, what eggs are spicy and red?)"
+msgstr "(Hmm, quali uova sono piccanti e rosse?)"
+
+msgctxt "308_Kiryu"
+msgid "Was it called karashi mentaiko? Spicy cod roe?"
+msgstr "Si chiamava karashi mentaiko? Uova di merluzzo piccanti?"
+
+msgctxt "320_Foreign Man"
+msgid "Yes! Karashi mentaiko! Very, very delicious. Number one favorite!"
+msgstr ""
+"Sì! Karashi mentaiko! Molto, molto delizioso. Il mio preferito, numero uno!"
+
+msgctxt "332_Kiryu"
+msgid "(I'm glad I could clear that up.)"
+msgstr "(Meno male che l'ho chiarita.)"
+
+msgctxt "344_Kiryu"
+msgid "Hey, you!"
+msgstr "Ehi, tu!"
+
+msgctxt "356_Kiryu"
+msgid "Yes?"
+msgstr "Sì?"
+
+msgctxt "368_Foreign Man"
+msgid "People in Fukuoka often say \"bari.\""
+msgstr "La gente a Fukuoka spesso dice \"bari\"."
+
+msgctxt "380_Kiryu"
+msgid ""
+"(They do use that a lot around here when they want to stress something.)"
+msgstr ""
+"(Lo usano parecchio da queste parti quando vogliono sottolineare qualcosa.)"
+
+msgctxt "392_Foreign Man"
+msgid "Please tell me what \"bari\" means! In English!"
+msgstr "Per favore, dimmi cosa significa \"bari\"! In inglese!"
+
+msgctxt "404_Kiryu"
+msgid "(\"Bari\" in English, huh?)"
+msgstr "(\"Bari\" in inglese, eh?)"
+
+msgctxt "416_Kiryu"
+msgid ""
+"It's a local term they use to emphasize things. So I guess you'd say "
+"\"very\" in English."
+msgstr ""
+"È un termine locale che usano per enfatizzare le cose. Quindi, direi che in "
+"inglese si direbbe \"very\"."
+
+msgctxt "428_Foreign Man"
+msgid "I see! So \"bari\" is \"very\"! Easy to remember!"
+msgstr "Capisco! Allora \"bari\" è \"very\"! Facile da ricordare!"
+
+msgctxt "440_Foreign Man"
+msgid "Hey, you! Thank you \"bari\" much!"
+msgstr "Ehi, tu! Grazie \"bari\" tanto!"
+
+msgctxt "452_Kiryu"
+msgid "(Heh. Looks like he gets it.)"
+msgstr "(Eh. Sembra che abbia capito.)"
+
+msgctxt "464_Kiryu"
+msgid "I guess \"bari\" means something like \"special.\""
+msgstr "Immagino che \"bari\" significhi più o meno \"speciale\"."
+
+msgctxt "476_Foreign Man"
+msgid "Special?"
+msgstr "Speciale?"
+
+msgctxt "488_Kiryu"
+msgid "(That might not be quite the right nuance.)"
+msgstr "(Potrebbe non essere proprio la sfumatura giusta.)"
+
+msgctxt "500_Kiryu"
+msgid "Actually, it's probably closer to \"very.\""
+msgstr "In realtà, è probabilmente più vicino a \"very\"."
+
+msgctxt "512_Foreign Man"
+msgid "I see! So \"bari\" is \"very\"! Easy to remember!"
+msgstr "Capisco! Allora \"bari\" è \"very\"! Facile da ricordare!"
+
+msgctxt "524_Foreign Man"
+msgid "Hey, you! Thank you \"bari\" much!"
+msgstr "Ehi, tu! Grazie \"bari\" tanto!"
+
+msgctxt "536_Kiryu"
+msgid "(I'm glad he got it.)"
+msgstr "(Sono contento che abbia capito.)"
+
+msgctxt "548_Kiryu"
+msgid "\"Bari\" means \"let's go.\""
+msgstr "\"Bari\" significa \"andiamo.\""
+
+msgctxt "560_Foreign Man"
+msgid "Huh!? Let's go? I do not get it."
+msgstr "Eh!? Andiamo? Non capisco."
+
+msgctxt "572_Kiryu"
+msgid "Uh... Well, \"bari\" is used for emphasis. I guess in English you'd say..."
+msgstr "Uh... Beh, \"bari\" si usa per enfasi. Immagino che in inglese diresti..."
+
+msgctxt "584_Foreign Man"
+msgid "\"Very\"?"
+msgstr "Molto?"
+
+msgctxt "596_Kiryu"
+msgid "Yeah, that's it. Very."
+msgstr "Sì, esatto. Molto."
+
+msgctxt "608_Foreign Man"
+msgid "Hey! Why am I teaching you?"
+msgstr "Ehi! Perché ti sto insegnando?"
+
+msgctxt "620_Kiryu"
+msgid "I apologize."
+msgstr "Mi scuso."
+
+msgctxt "632_Kiryu"
+msgid "(I guess I need to brush up on my English.)"
+msgstr "(Immagino che devo rinfrescare il mio inglese.)"
+
+msgctxt "644_Kiryu"
+msgid "Hey, you!"
+msgstr "Ehi, tu!"
+
+msgctxt "656_Kiryu"
+msgid "Yes?"
+msgstr "Sì?"
+
+msgctxt "668_Foreign Man"
+msgid ""
+"I want to get a tattoo with Chinese characters. Tell me a cool phrase, yeah?"
+msgstr ""
+"Voglio farmi un tatuaggio con caratteri cinesi. Dimmi una frase figa, eh?"
+
+msgctxt "680_Kiryu"
+msgid ""
+"A Chinese character tattoo, huh? You should get one that actually means "
+"something, instead of just picking one that looks good. What do you want it "
+"to say?"
+msgstr ""
+"Un tatuaggio con caratteri cinesi, eh? Dovresti fartene uno che significhi "
+"qualcosa davvero, invece di sceglierne uno solo perché ha un bell'aspetto. "
+"Cosa vuoi che dica?"
+
+msgctxt "692_Foreign Man"
+msgid "Hm. I like to live life to the fullest."
+msgstr "Mmm. Mi piace vivere la vita al massimo."
+
+msgctxt "704_Kiryu"
+msgid ""
+"(Living life to the fullest, huh? Let's see... What Japanese phrase would "
+"convey that?)"
+msgstr ""
+"(Vivere la vita al massimo, eh? Vediamo... Quale frase giapponese renderebbe"
+" l'idea?)"
+
+msgctxt "716_Kiryu"
+msgid "How about \"Ichiju Issai\"?"
+msgstr "Che ne dici di \"Ichiju Issai\"?"
+
+msgctxt "728_Foreign Man"
+msgid "What is the meaning?"
+msgstr "Qual è il significato?"
+
+msgctxt "740_Kiryu"
+msgid ""
+"It's when you have one soup, and one other dish with it. A simple meal."
+msgstr "È quando hai una zuppa e un'altra pietanza. Un pasto semplice."
+
+msgctxt "752_Foreign Man"
+msgid "What!? Why put that on my body!? Ugh, I will ask another for advice."
+msgstr ""
+"Cosa!? Perché dovrei metterlo sul mio corpo!? Uff, chiederò un altro parere."
+
+msgctxt "764_Kiryu"
+msgid "(I should have thought more before answering.)"
+msgstr "(Avrei dovuto pensare di più prima di rispondere.)"
+
+msgctxt "776_Kiryu"
+msgid "How about \"Ichigo Ichie\"?"
+msgstr "Che ne dici di \"Ichigo Ichie\"?"
+
+msgctxt "788_Foreign Man"
+msgid "What is the meaning?"
+msgstr "Qual è il significato?"
+
+msgctxt "800_Kiryu"
+msgid "It means you should treasure every encounter."
+msgstr "Significa che dovresti fare tesoro di ogni incontro."
+
+msgctxt "812_Foreign Man"
+msgid "Good! I guess it is like you and me!"
+msgstr "Bene! Direi che è come noi due!"
+
+msgctxt "824_Kiryu"
+msgid "That's right."
+msgstr "Esatto."
+
+msgctxt "836_Foreign Man"
+msgid "I've decided! I'll get an \"Ichigo Ichie\" tattoo! Thank you!"
+msgstr "Ho deciso! Mi farò un tatuaggio \"Ichigo Ichie\"! Grazie!"
+
+msgctxt "848_Kiryu"
+msgid "(That went over well.)"
+msgstr "(È andata bene.)"
+
+msgctxt "860_Kiryu"
+msgid "How about \"Yakiniku Teishoku\"?"
+msgstr "Che ne dici di \"Yakiniku Teishoku\"?"
+
+msgctxt "872_Foreign Man"
+msgid "Hmm... What is the meaning?"
+msgstr "Hmm... Qual è il significato?"
+
+msgctxt "884_Kiryu"
+msgid "Well, it's usually grilled meat, with rice and soup on the side."
+msgstr "Beh, di solito è carne alla griglia, con riso e zuppa come contorno."
+
+msgctxt "896_Foreign Man"
+msgid "And you think... that makes a good tattoo?"
+msgstr "E tu pensi... che sia un buon tatuaggio?"
+
+msgctxt "908_Kiryu"
+msgid "Er, yes?"
+msgstr "Ehm, sì?"
+
+msgctxt "920_Foreign Man"
+msgid "......"
+msgstr "......"
+
+msgctxt "932_Kiryu"
+msgid "(I should have given that some more thought.)"
+msgstr "(Avrei dovuto pensarci meglio.)"

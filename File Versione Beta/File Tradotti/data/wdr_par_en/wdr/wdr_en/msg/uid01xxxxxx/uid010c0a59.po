@@ -1,0 +1,181 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "6644"
+msgid "Kenta"
+msgstr "Kenta"
+
+msgctxt "6648"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "6652"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "6656"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "6660"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "6664"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "6668"
+msgid "P_SAE_TLK_stand_angry"
+msgstr "P_SAE_TLK_stand_angry"
+
+msgctxt "6672"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "6676"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "6680"
+msgid "Talk_Phone_lp"
+msgstr "Talk_Phone_lp"
+
+msgctxt "6684"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "60_Kenta"
+msgid "Heya! I was waiting for you!"
+msgstr "Ehi! Ti aspettavo!"
+
+msgctxt "72_Shinada"
+msgid "Oh yeah, you're the miracle pitch kid!"
+msgstr "Ah sì, sei tu il ragazzo del lancio miracoloso!"
+
+msgctxt "84_Kenta"
+msgid "It's Kenta. You know why I'm here, don't you?"
+msgstr "Sono Kenta. Sai perché sono qui, vero?"
+
+msgctxt "96_Shinada"
+msgid "Another miracle pitch duel? What was it again－Tomafork Mark 9?"
+msgstr ""
+"Un altro duello del lancio miracoloso? Com'era di nuovo—Tomafork Mark 9?"
+
+msgctxt "108_Kenta"
+msgid ""
+"If you can get three hits out of ten pitches, you win. If you can't, I win."
+msgstr ""
+"Se riesci a fare tre battute su dieci lanci, vinci. Se non ci riesci, vinco "
+"io."
+
+msgctxt "120_Shinada"
+msgid "Okay, got it. Actually, I was hoping to see that pitch again."
+msgstr "Ok, capito. A dire il vero, speravo proprio di rivedere quel lancio."
+
+msgctxt "132_Kenta"
+msgid "Why would you want to do that? Oh, whatever. Let's just get started."
+msgstr "Ma perché vuoi farlo? Ah, vabbè. Iniziamo e basta."
+
+msgctxt "156_Kenta"
+msgid "Yeowch!"
+msgstr "Ahia!"
+
+msgctxt "180_Kenta"
+msgid "Hey, watch where you're－ Huh?"
+msgstr "Ehi, guarda dove－ Eh?"
+
+msgctxt "192_Shinada"
+msgid "What the... It's gone! My phone!"
+msgstr "Cosa...! È sparito! Il mio telefono!"
+
+msgctxt "204_Kenta"
+msgid "Heheh. Gotcha again!"
+msgstr "Heheh. Ti ho fregato di nuovo!"
+
+msgctxt "216_Shinada"
+msgid "You! Gimme back my phone!"
+msgstr "Tu! Ridammi il mio telefono!"
+
+msgctxt "228_Kenta"
+msgid "Yeah right! You really think I'm gonna just hand it over?"
+msgstr "Sì, come no! Pensi davvero che te lo ridarò così?"
+
+msgctxt "240_Shinada"
+msgid "Lemme guess. You wanna challenge me again?"
+msgstr "Fammi indovinare. Vuoi sfidarmi di nuovo?"
+
+msgctxt "252_Kenta"
+msgid "Yup! And this time, you'll need a miracle to hit it!"
+msgstr "Esatto! E stavolta, ti servirà un miracolo per batterla!"
+
+msgctxt "264_Shinada"
+msgid ""
+"Why do you have to be such a rotten rascal? Can't you just ask me to bat "
+"against you?"
+msgstr ""
+"Perché devi essere un tale monello rognoso? Non puoi semplicemente chiedermi"
+" di battere contro di te?"
+
+msgctxt "276_Kenta"
+msgid ""
+"Don't go talking down to me just 'cause you're a grown-up. If you can't hit "
+"my new pitch, I'm keeping this janky old phone."
+msgstr ""
+"Non fare il superiore solo perché sei un adulto. Se non riesci a battere il "
+"mio nuovo lancio, mi tengo questo vecchio telefono scassato."
+
+msgctxt "288_Shinada"
+msgid ""
+"What is your problem, kid? Don't think you can blackmail me into doing "
+"whatever you want."
+msgstr ""
+"Che problema hai, moccioso? Non pensare di potermi ricattare per farmi fare "
+"quello che vuoi."
+
+msgctxt "300_Kenta"
+msgid ""
+"Aww, you don't wanna bat? Okay. I'll just have to make a bunch of "
+"international calls on your phone, then. Where should I start first?"
+msgstr ""
+"Ahhh, non vuoi battere? Va bene. Mi toccherà fare un sacco di chiamate "
+"internazionali con il tuo telefono, allora. Da dove inizio, eh?"
+
+msgctxt "312_Shinada"
+msgid ""
+"Wait, no, don't do that! Do you have any idea how expensive that gets!? "
+"Fine, I'll take you on! I'll even say please!"
+msgstr ""
+"Fermo, no, non farlo! Sai quanto può costare!? E va bene, ti affronterò! "
+"Dirò persino 'per favore'!"
+
+msgctxt "336_Kenta"
+msgid ""
+"Good answer. Okay then, it'll be the same rules as last time. If you can get"
+" three hits out of ten pitches, you win."
+msgstr ""
+"Bella risposta. Va bene allora, saranno le stesse regole della volta scorsa."
+" Se riesci a fare tre valide su dieci lanci, vinci."
+
+msgctxt "348_Shinada"
+msgid ""
+"All right. So, what's your miracle pitch this time? Another curveball? A "
+"slider?"
+msgstr ""
+"Va bene. Allora, qual è il tuo lancio miracoloso stavolta? Un'altra curva? "
+"Una slider?"
+
+msgctxt "360_Kenta"
+msgid "Nope! Let's not spoil the fun. You ready to go?"
+msgstr "No! Non roviniamoci il divertimento. Sei pronto?"

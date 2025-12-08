@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "748"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "752"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "108_Player"
+msgid "(I came here already. Let's go somewhere else.)"
+msgstr "(Sono già stata qui. Andiamo da un'altra parte.)"
+
+msgctxt "132_Player"
+msgid "(Kani Douraku, huh? I could tell Tatsuya about this place.)"
+msgstr "(Kani Douraku, eh? Potrei dirlo a Tatsuya di questo posto.)"
+
+msgctxt "156_Haruka"
+msgid "(I'm going to Club SEGA with Park-san now.)"
+msgstr "(Sto andando al Club SEGA con Park-san adesso.)"

@@ -1,0 +1,950 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "19068"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "19072"
+msgid "Baba"
+msgstr "Baba"
+
+msgctxt "19076"
+msgid "adv5_127/baba_0274"
+msgstr "adv5_127/baba_0274"
+
+msgctxt "19080"
+msgid "adv5_127/haruka_0393"
+msgstr "adv5_127/haruka_0393"
+
+msgctxt "19084"
+msgid "adv5_127/baba_0275a"
+msgstr "adv5_127/baba_0275a"
+
+msgctxt "19088"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "19092"
+msgid "adv5_127/baba_0275b"
+msgstr "adv5_127/baba_0275b"
+
+msgctxt "19096"
+msgid "adv5_127/baba_0275c"
+msgstr "adv5_127/baba_0275c"
+
+msgctxt "19100"
+msgid "C5130_BAB_TLK_mukiai"
+msgstr "C5130_BAB_TLK_mukiai"
+
+msgctxt "19104"
+msgid "C5130_BAB_TLK_mukiai_kamae"
+msgstr "C5130_BAB_TLK_mukiai_kamae"
+
+msgctxt "19108"
+msgid "C5130_HAL_TLK_mukiai"
+msgstr "C5130_HAL_TLK_mukiai"
+
+msgctxt "19112"
+msgid "C5130_HAL_TLK_mukiai_kamae"
+msgstr "C5130_HAL_TLK_mukiai_kamae"
+
+msgctxt "19116"
+msgid "adv5_127/haruka_0394"
+msgstr "adv5_127/haruka_0394"
+
+msgctxt "19120"
+msgid "C5130_HAL_TLK_mukiai_aiduchi"
+msgstr "C5130_HAL_TLK_mukiai_aiduchi"
+
+msgctxt "19124"
+msgid "adv5_127/baba_0276a"
+msgstr "adv5_127/baba_0276a"
+
+msgctxt "19128"
+msgid "C5130_BAB_TLK_to_kamae"
+msgstr "C5130_BAB_TLK_to_kamae"
+
+msgctxt "19132"
+msgid "C5130_BAB_TLK_kamae"
+msgstr "C5130_BAB_TLK_kamae"
+
+msgctxt "19136"
+msgid "adv5_127/baba_0276b"
+msgstr "adv5_127/baba_0276b"
+
+msgctxt "19140"
+msgid "adv5_127/haruka_0395"
+msgstr "adv5_127/haruka_0395"
+
+msgctxt "19144"
+msgid "adv5_127/baba_0277"
+msgstr "adv5_127/baba_0277"
+
+msgctxt "19148"
+msgid "adv5_127/haruka_0396"
+msgstr "adv5_127/haruka_0396"
+
+msgctxt "19152"
+msgid "adv5_127/baba_0278a"
+msgstr "adv5_127/baba_0278a"
+
+msgctxt "19156"
+msgid "C5130_BAB_TLK_mukiai_no"
+msgstr "C5130_BAB_TLK_mukiai_no"
+
+msgctxt "19160"
+msgid "adv5_127/baba_0278b"
+msgstr "adv5_127/baba_0278b"
+
+msgctxt "19164"
+msgid "adv5_127/haruka_0397"
+msgstr "adv5_127/haruka_0397"
+
+msgctxt "19168"
+msgid "C5130_HAL_TLK_to_kamae"
+msgstr "C5130_HAL_TLK_to_kamae"
+
+msgctxt "19172"
+msgid "C5130_HAL_TLK_kamae"
+msgstr "C5130_HAL_TLK_kamae"
+
+msgctxt "19176"
+msgid "adv5_127/baba_0279a"
+msgstr "adv5_127/baba_0279a"
+
+msgctxt "19180"
+msgid "adv5_127/baba_0279b"
+msgstr "adv5_127/baba_0279b"
+
+msgctxt "19184"
+msgid "adv5_127/baba_0279c"
+msgstr "adv5_127/baba_0279c"
+
+msgctxt "19188"
+msgid "adv5_127/haruka_0398"
+msgstr "adv5_127/haruka_0398"
+
+msgctxt "19192"
+msgid "adv5_127/baba_0280a"
+msgstr "adv5_127/baba_0280a"
+
+msgctxt "19196"
+msgid "adv5_127/baba_0280b"
+msgstr "adv5_127/baba_0280b"
+
+msgctxt "19200"
+msgid "adv5_127/baba_0280c"
+msgstr "adv5_127/baba_0280c"
+
+msgctxt "19204"
+msgid "adv5_127/haruka_0399"
+msgstr "adv5_127/haruka_0399"
+
+msgctxt "19208"
+msgid "adv5_127/baba_0281"
+msgstr "adv5_127/baba_0281"
+
+msgctxt "19212"
+msgid "adv5_127/haruka_0400a"
+msgstr "adv5_127/haruka_0400a"
+
+msgctxt "19216"
+msgid "adv5_127/haruka_0400b"
+msgstr "adv5_127/haruka_0400b"
+
+msgctxt "19220"
+msgid "adv5_127/haruka_0400c"
+msgstr "adv5_127/haruka_0400c"
+
+msgctxt "19224"
+msgid "adv5_127/baba_0282"
+msgstr "adv5_127/baba_0282"
+
+msgctxt "19228"
+msgid "adv5_127/haruka_0401a"
+msgstr "adv5_127/haruka_0401a"
+
+msgctxt "19232"
+msgid "adv5_127/haruka_0401b"
+msgstr "adv5_127/haruka_0401b"
+
+msgctxt "19236"
+msgid "adv5_127/baba_0283"
+msgstr "adv5_127/baba_0283"
+
+msgctxt "19240"
+msgid "adv5_127/haruka_0402a"
+msgstr "adv5_127/haruka_0402a"
+
+msgctxt "19244"
+msgid "adv5_127/haruka_0402b"
+msgstr "adv5_127/haruka_0402b"
+
+msgctxt "19248"
+msgid "adv5_127/haruka_0403"
+msgstr "adv5_127/haruka_0403"
+
+msgctxt "19252"
+msgid "adv5_127/baba_0285"
+msgstr "adv5_127/baba_0285"
+
+msgctxt "19256"
+msgid "kaiwabgm_fuon05"
+msgstr "kaiwabgm_fuon05"
+
+msgctxt "19260"
+msgid "adv5_127/haruka_0404"
+msgstr "adv5_127/haruka_0404"
+
+msgctxt "19264"
+msgid "adv5_127/baba_0286"
+msgstr "adv5_127/baba_0286"
+
+msgctxt "19268"
+msgid "adv5_127/haruka_0405"
+msgstr "adv5_127/haruka_0405"
+
+msgctxt "19272"
+msgid "adv5_127/baba_0287a"
+msgstr "adv5_127/baba_0287a"
+
+msgctxt "19276"
+msgid "adv5_127/baba_0287b"
+msgstr "adv5_127/baba_0287b"
+
+msgctxt "19280"
+msgid "adv5_127/baba_0288a"
+msgstr "adv5_127/baba_0288a"
+
+msgctxt "19284"
+msgid "adv5_127/baba_0288b"
+msgstr "adv5_127/baba_0288b"
+
+msgctxt "19288"
+msgid "adv5_127/haruka_0407"
+msgstr "adv5_127/haruka_0407"
+
+msgctxt "19292"
+msgid "adv5_127/baba_0289"
+msgstr "adv5_127/baba_0289"
+
+msgctxt "19296"
+msgid "adv5_127/haruka_0408"
+msgstr "adv5_127/haruka_0408"
+
+msgctxt "19300"
+msgid "adv5_127/baba_0290a"
+msgstr "adv5_127/baba_0290a"
+
+msgctxt "19304"
+msgid "adv5_127/baba_0290b"
+msgstr "adv5_127/baba_0290b"
+
+msgctxt "19308"
+msgid "adv5_127/baba_0290c"
+msgstr "adv5_127/baba_0290c"
+
+msgctxt "19312"
+msgid "adv5_127/baba_0290d"
+msgstr "adv5_127/baba_0290d"
+
+msgctxt "19316"
+msgid "adv5_127/haruka_0409"
+msgstr "adv5_127/haruka_0409"
+
+msgctxt "19320"
+msgid "adv5_127/baba_0291a"
+msgstr "adv5_127/baba_0291a"
+
+msgctxt "19324"
+msgid "adv5_127/baba_0291b"
+msgstr "adv5_127/baba_0291b"
+
+msgctxt "19328"
+msgid "adv5_127/haruka_0410"
+msgstr "adv5_127/haruka_0410"
+
+msgctxt "19332"
+msgid "adv5_127/baba_0292a"
+msgstr "adv5_127/baba_0292a"
+
+msgctxt "19336"
+msgid "adv5_127/baba_0292b"
+msgstr "adv5_127/baba_0292b"
+
+msgctxt "19340"
+msgid "adv5_127/haruka_0411"
+msgstr "adv5_127/haruka_0411"
+
+msgctxt "19344"
+msgid "adv5_127/baba_0293a"
+msgstr "adv5_127/baba_0293a"
+
+msgctxt "19348"
+msgid "adv5_127/baba_0293b"
+msgstr "adv5_127/baba_0293b"
+
+msgctxt "19352"
+msgid "adv5_127/baba_0293c"
+msgstr "adv5_127/baba_0293c"
+
+msgctxt "19356"
+msgid "adv5_127/baba_0294a"
+msgstr "adv5_127/baba_0294a"
+
+msgctxt "19360"
+msgid "adv5_127/baba_0294b"
+msgstr "adv5_127/baba_0294b"
+
+msgctxt "19364"
+msgid "adv5_127/baba_0294c"
+msgstr "adv5_127/baba_0294c"
+
+msgctxt "19368"
+msgid "adv5_127/baba_0295"
+msgstr "adv5_127/baba_0295"
+
+msgctxt "19372"
+msgid "adv5_127/haruka_0414"
+msgstr "adv5_127/haruka_0414"
+
+msgctxt "19376"
+msgid "adv5_127/baba_0296"
+msgstr "adv5_127/baba_0296"
+
+msgctxt "19380"
+msgid "adv5_127/haruka_0415a"
+msgstr "adv5_127/haruka_0415a"
+
+msgctxt "19384"
+msgid "kaiwabgm_heartwarm03"
+msgstr "kaiwabgm_heartwarm03"
+
+msgctxt "19388"
+msgid "adv5_127/haruka_0415b"
+msgstr "adv5_127/haruka_0415b"
+
+msgctxt "19392"
+msgid "adv5_127/haruka_0415c"
+msgstr "adv5_127/haruka_0415c"
+
+msgctxt "19396"
+msgid "adv5_127/baba_0297"
+msgstr "adv5_127/baba_0297"
+
+msgctxt "19400"
+msgid "adv5_127/haruka_0416a"
+msgstr "adv5_127/haruka_0416a"
+
+msgctxt "19404"
+msgid "adv5_127/haruka_0416b"
+msgstr "adv5_127/haruka_0416b"
+
+msgctxt "19408"
+msgid "adv5_127/haruka_0417a"
+msgstr "adv5_127/haruka_0417a"
+
+msgctxt "19412"
+msgid "adv5_127/haruka_0417b"
+msgstr "adv5_127/haruka_0417b"
+
+msgctxt "19416"
+msgid "adv5_127/haruka_0418"
+msgstr "adv5_127/haruka_0418"
+
+msgctxt "19420"
+msgid "adv5_127/baba_0300"
+msgstr "adv5_127/baba_0300"
+
+msgctxt "19424"
+msgid "adv5_127/haruka_0419"
+msgstr "adv5_127/haruka_0419"
+
+msgctxt "19428"
+msgid "adv5_127/baba_0301"
+msgstr "adv5_127/baba_0301"
+
+msgctxt "19432"
+msgid "adv5_127/haruka_0420"
+msgstr "adv5_127/haruka_0420"
+
+msgctxt "19436"
+msgid "adv5_127/baba_0302a"
+msgstr "adv5_127/baba_0302a"
+
+msgctxt "19440"
+msgid "adv5_127/baba_0302b"
+msgstr "adv5_127/baba_0302b"
+
+msgctxt "19444"
+msgid "adv5_127/haruka_0421"
+msgstr "adv5_127/haruka_0421"
+
+msgctxt "19448"
+msgid "adv5_127/baba_0303"
+msgstr "adv5_127/baba_0303"
+
+msgctxt "19452"
+msgid "adv5_127/haruka_0422"
+msgstr "adv5_127/haruka_0422"
+
+msgctxt "19456"
+msgid "adv5_127/baba_0304"
+msgstr "adv5_127/baba_0304"
+
+msgctxt "19460"
+msgid "adv5_127/haruka_0423"
+msgstr "adv5_127/haruka_0423"
+
+msgctxt "19464"
+msgid "adv5_127/baba_0305"
+msgstr "adv5_127/baba_0305"
+
+msgctxt "19468"
+msgid "adv5_127/haruka_0424"
+msgstr "adv5_127/haruka_0424"
+
+msgctxt "19472"
+msgid "C5140_HAL_TLK_go_away"
+msgstr "C5140_HAL_TLK_go_away"
+
+msgctxt "19476"
+msgid "C5140_BAB_TLK_mitodoke"
+msgstr "C5140_BAB_TLK_mitodoke"
+
+msgctxt "19480"
+msgid "ACYAM0019"
+msgstr "ACYAM0019"
+
+msgctxt "19484"
+msgid "ACYAM0103"
+msgstr "ACYAM0103"
+
+msgctxt "19488"
+msgid "C5140_BAB_TLK_tabaco_lp"
+msgstr "C5140_BAB_TLK_tabaco_lp"
+
+msgctxt "19492"
+msgid "C5140_BAB_TLK_tabaco_st"
+msgstr "C5140_BAB_TLK_tabaco_st"
+
+msgctxt "19496"
+msgid "adv5_127/baba_0306"
+msgstr "adv5_127/baba_0306"
+
+msgctxt "19500"
+msgid "Information"
+msgstr "Informazioni"
+
+msgctxt "76_Haruka"
+msgid ""
+"(Okay, I should get back to the <Color:7>lesson studio<Color:Default>.)"
+msgstr "(Va bene, dovrei tornare alla <Color:7>sala prove<Color:Default>.)"
+
+msgctxt "100_Baba"
+msgid "Sorry to take up your time when you're so busy."
+msgstr "Scusa se ti porto via tempo, quando sei così impegnato."
+
+msgctxt "112_Haruka"
+msgid ""
+"It's all right. So, what did Uncle Kaz－ I mean, Kiryu-san\r\n"
+"say?"
+msgstr ""
+"Va tutto bene. Allora, cosa ha detto lo Zio Kaz－ voglio dire, Kiryu-san\n"
+"ha detto?"
+
+msgctxt "124_Baba"
+msgid "Oh, yeah. I'd better pass that on first, huh?"
+msgstr "Ah, già. Meglio che lo riferisca prima, eh?"
+
+msgctxt "184_Haruka"
+msgid ""
+"Kiryu-san and I saw an interview with the head of Osaka\r\n"
+"Talent on TV last night."
+msgstr ""
+"Io e Kiryu-san abbiamo visto un'intervista con il capo della Osaka\n"
+"Talent in TV ieri sera."
+
+msgctxt "196_Baba"
+msgid ""
+"That's when we learned the concert at the Japan Dome had\r\n"
+"been canceled."
+msgstr ""
+"È stato allora che abbiamo saputo che il concerto al Japan Dome era stato "
+"cancellato."
+
+msgctxt "208_Haruka"
+msgid "I see."
+msgstr "Capisco."
+
+msgctxt "220_Baba"
+msgid "Kiryu-san said he had a few things to take care of."
+msgstr "Kiryu-san ha detto che aveva alcune cose da sbrigare."
+
+msgctxt "232_Baba"
+msgid "He asked me to pass on a message on his behalf."
+msgstr "Mi ha chiesto di riferire un messaggio da parte sua."
+
+msgctxt "244_Haruka"
+msgid "What did he say?"
+msgstr "Cosa ha detto?"
+
+msgctxt "256_Baba"
+msgid "\"Never give up.\" That's what he wanted me to tell you."
+msgstr "\"Non mollare mai.\" Questo è quello che voleva che ti dicessi."
+
+msgctxt "268_Haruka"
+msgid "Never give up?"
+msgstr "Non mollare mai?"
+
+msgctxt "280_Baba"
+msgid ""
+"A pretty short message, I know. He probably had a lot more\r\n"
+"he wanted to say."
+msgstr ""
+"Un messaggio piuttosto breve, lo so. Probabilmente aveva molto altro\n"
+"che voleva dire."
+
+msgctxt "292_Baba"
+msgid ""
+"But he didn't have time, so he chose what he thought was\r\n"
+"most important."
+msgstr ""
+"Ma non aveva tempo, e così ha scelto quello che pensava fosse\n"
+"più importante."
+
+msgctxt "304_Haruka"
+msgid "Hehe... Never give up, huh?"
+msgstr "Eh eh... Non mollare mai, eh?"
+
+msgctxt "316_Baba"
+msgid "Words to live by, if you ask me."
+msgstr "Parole con cui vivere, se me lo chiedi."
+
+msgctxt "328_Baba"
+msgid "I'm not sure how you and Kiryu-san know each other."
+msgstr "Non so bene come tu e Kiryu-san vi conoscete."
+
+msgctxt "340_Baba"
+msgid "But I get the feeling he's been rooting for you for a while."
+msgstr "Ma ho la sensazione che abbia fatto il tifo per te già da un po'."
+
+msgctxt "352_Haruka"
+msgid "Yes, he has. He's supported me this whole time."
+msgstr "Sì, l'ha fatto. Mi ha sostenuto per tutto questo tempo."
+
+msgctxt "364_Baba"
+msgid ""
+"No kidding? Well, it's good to see you're following his\r\n"
+"advice already."
+msgstr ""
+"Non scherzi? Beh, è bello vedere che stai seguendo il suo\n"
+"consiglio già."
+
+msgctxt "376_Baba"
+msgid ""
+"The concert at the Dome didn't work out, but it looked like\r\n"
+"you at least had some good news back there."
+msgstr ""
+"Il concerto al Dome non è andato in porto, ma sembrava che\n"
+"almeno avessi qualche buona notizia poco fa."
+
+msgctxt "388_Baba"
+msgid "Something new crop up?"
+msgstr "È successo qualcosa di nuovo?"
+
+msgctxt "400_Haruka"
+msgid ""
+"Yes. The day after tomorrow, T-Set and I are putting on a\r\n"
+"new concert at the Japan Dome!"
+msgstr ""
+"Sì. Dopodomani, io e le T-Set daremo un\n"
+"nuovo concerto al Japan Dome!"
+
+msgctxt "412_Baba"
+msgid "Huh? The Japan Dome?"
+msgstr "Eh? Il Japan Dome?"
+
+msgctxt "424_Haruka"
+msgid ""
+"I'm not too clear on the details, but our president and the\r\n"
+"head of Osaka Talent planned it together."
+msgstr ""
+"Non ho ben chiari i dettagli, ma il nostro presidente e il\n"
+"capo della Osaka Talent l'hanno pianificato insieme."
+
+msgctxt "436_Haruka"
+msgid "We didn't know about it until now."
+msgstr "Non lo sapevamo fino ad ora."
+
+msgctxt "448_Haruka"
+msgid "Really, I couldn't be happier."
+msgstr "Davvero, non potrei essere più felice."
+
+msgctxt "460_Baba"
+msgid "Really...?"
+msgstr "Davvero...?"
+
+msgctxt "472_Haruka"
+msgid "You said you were watching TV with him, right?"
+msgstr "Hai detto che stavi guardando la TV con lui, giusto?"
+
+msgctxt "484_Haruka"
+msgid "Did you come all the way from Fukuoka to give me that message?"
+msgstr "Sei venuto fin qui da Fukuoka per darmi quel messaggio?"
+
+msgctxt "496_Baba"
+msgid "Uh, no, actually..."
+msgstr "Uh, no, in realtà..."
+
+msgctxt "508_Haruka"
+msgid ""
+"It's just like him to get someone else to do the hard work.\r\n"
+"He could have just called."
+msgstr ""
+"È proprio da lui far fare il lavoro pesante a qualcun altro.\n"
+"Avrebbe potuto semplicemente chiamare."
+
+msgctxt "520_Haruka"
+msgid "Don't you think?"
+msgstr "Non credi?"
+
+msgctxt "532_Baba"
+msgid "......"
+msgstr "......"
+
+msgctxt "544_Haruka"
+msgid "Umm...?"
+msgstr "Uhm...?"
+
+msgctxt "556_Baba"
+msgid ""
+"Haruka-chan, Kiryu-san is actually here in Kamurocho right\r\n"
+"now."
+msgstr ""
+"Haruka-chan, Kiryu-san è effettivamente qui a Kamurocho proprio\n"
+"adesso."
+
+msgctxt "568_Haruka"
+msgid "What!?"
+msgstr "Cosa!?"
+
+msgctxt "580_Baba"
+msgid ""
+"It sounds like there was some trouble with his old job, so\r\n"
+"he came on a short business trip."
+msgstr ""
+"A quanto pare ci sono stati dei guai col suo vecchio lavoro, quindi\n"
+"è venuto per un breve viaggio d'affari."
+
+msgctxt "592_Haruka"
+msgid "Oh, I see."
+msgstr "Oh, capisco."
+
+msgctxt "604_Baba"
+msgid "He's out right now, but he's staying close by."
+msgstr "È fuori in questo momento, ma si trova qui vicino."
+
+msgctxt "616_Baba"
+msgid "Some place called New Serena."
+msgstr "Un certo posto chiamato New Serena."
+
+msgctxt "628_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "640_Baba"
+msgid ""
+"Haruka-chan, I know I just passed on that message from\r\n"
+"Kiryu-san."
+msgstr ""
+"Haruka-chan, lo so che ti ho appena passato quel messaggio da\n"
+"Kiryu-san."
+
+msgctxt "652_Baba"
+msgid ""
+"But do you really have your heart set on performing in that\r\n"
+"concert?"
+msgstr ""
+"Ma hai davvero il cuore puntato sull'esibirti in quel\n"
+"concerto?"
+
+msgctxt "664_Haruka"
+msgid "Huh? Why do you ask?"
+msgstr "Eh? Perché lo chiedi?"
+
+msgctxt "676_Baba"
+msgid "I just have a feeling that something bad might happen..."
+msgstr "Ho solo un presentimento che possa succedere qualcosa di brutto..."
+
+msgctxt "688_Haruka"
+msgid "Hm? Like what?"
+msgstr "Hm? Tipo cosa?"
+
+msgctxt "700_Baba"
+msgid ""
+"I'm not sure. You said this concert came together out of the\r\n"
+"blue, right?"
+msgstr ""
+"Non ne sono sicuro. Hai detto che questo concerto è saltato fuori dal\n"
+"nulla, giusto?"
+
+msgctxt "712_Baba"
+msgid "That makes it even more suspicious."
+msgstr "Questo lo rende ancora più sospetto."
+
+msgctxt "724_Baba"
+msgid ""
+"The Japan Dome isn't the kind of place you can just decide\r\n"
+"to put on a show."
+msgstr ""
+"Il Japan Dome non è il tipo di posto in cui puoi semplicemente decidere\n"
+"di mettere su uno spettacolo."
+
+msgctxt "736_Baba"
+msgid "Doesn't that seem off to you?"
+msgstr "Non ti sembra strano?"
+
+msgctxt "748_Haruka"
+msgid "Well, I guess so, but..."
+msgstr "Beh, immagino di sì, ma..."
+
+msgctxt "760_Baba"
+msgid "Look, Kiryu-san is having a rough time now."
+msgstr "Guarda, Kiryu-san sta passando un brutto periodo adesso."
+
+msgctxt "772_Baba"
+msgid ""
+"A close friend of his got in an accident and is in real bad\r\n"
+"shape."
+msgstr ""
+"Un suo caro amico ha avuto un incidente ed è messo davvero\n"
+"male."
+
+msgctxt "784_Haruka"
+msgid "Really? Who?"
+msgstr "Davvero? Chi?"
+
+msgctxt "796_Baba"
+msgid "I don't really know myself, but he's taking it pretty hard."
+msgstr "Non lo so nemmeno io, ma ci sta restando parecchio male."
+
+msgctxt "808_Baba"
+msgid ""
+"I think he might be on the verge of doing something\r\n"
+"reckless."
+msgstr ""
+"Penso che sia a un passo dal fare una\n"
+"pazzia."
+
+msgctxt "820_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "832_Baba"
+msgid ""
+"He may be strong, but when you lose someone close, even the\r\n"
+"stoutest heart can falter."
+msgstr ""
+"Sarà pure forte, ma quando perdi una persona cara, anche il\n"
+"cuore più tosto può vacillare."
+
+msgctxt "844_Baba"
+msgid "If you could just go see him..."
+msgstr "Se potessi solo andare a trovarlo..."
+
+msgctxt "856_Baba"
+msgid "I bet it'd do him more good than anything else ever could."
+msgstr "Scommetto che gli farebbe più bene di qualsiasi altra cosa."
+
+msgctxt "868_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "880_Baba"
+msgid ""
+"What do you say? You're still young. You don't need to be in\r\n"
+"a rush to have this concert."
+msgstr ""
+"Che ne dici? Sei ancora giovane. Non devi avere\n"
+"fretta di fare questo concerto."
+
+msgctxt "892_Baba"
+msgid ""
+"There'll always be another chance to get on stage at the\r\n"
+"Dome when you're ready."
+msgstr ""
+"Ci sarà sempre un'altra occasione per salire sul palco al\n"
+"Dome quando sarai pronta."
+
+msgctxt "904_Baba"
+msgid ""
+"Do you think you could be there for Kiryu-san in his hour of\r\n"
+"need?"
+msgstr ""
+"Pensi che potresti esserci per Kiryu-san nel suo momento del\n"
+"bisogno?"
+
+msgctxt "916_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "928_Baba"
+msgid "Haruka-chan?"
+msgstr "Haruka-chan?"
+
+msgctxt "940_Haruka"
+msgid "I'm sorry... I can't do that right now."
+msgstr "Mi dispiace... Non posso farlo adesso."
+
+msgctxt "952_Baba"
+msgid "Haruka-chan..."
+msgstr "Haruka-chan..."
+
+msgctxt "964_Haruka"
+msgid ""
+"Uncle Kaz is a kind person, so I can understand that he's\r\n"
+"really upset about his friend."
+msgstr ""
+"Zio Kaz è una persona gentile, quindi posso capire che è\n"
+"davvero sconvolto per il suo amico."
+
+msgctxt "976_Haruka"
+msgid "But I get the feeling that if I go to see him..."
+msgstr "Ma ho la sensazione che se andassi a trovarlo..."
+
+msgctxt "988_Haruka"
+msgid "We'll both lose something even more important."
+msgstr "Perderemo entrambi qualcosa di ancora più importante."
+
+msgctxt "1000_Baba"
+msgid "Something more important?"
+msgstr "Qualcosa di più importante?"
+
+msgctxt "1012_Haruka"
+msgid "Yes. It's hard to explain..."
+msgstr "Sì. È difficile da spiegare..."
+
+msgctxt "1024_Haruka"
+msgid ""
+"I guess I just feel like I could lose something I've always\r\n"
+"had faith in."
+msgstr ""
+"Credo proprio di sentire che potrei perdere qualcosa in cui ho sempre\n"
+"avuto fede."
+
+msgctxt "1036_Baba"
+msgid "......"
+msgstr "......"
+
+msgctxt "1048_Haruka"
+msgid "I believe in Uncle Kaz."
+msgstr "Credo in Zio Kaz."
+
+msgctxt "1060_Haruka"
+msgid ""
+"That's why I'll keep walking the path that he's sacrificed\r\n"
+"so much to send me down."
+msgstr ""
+"Ecco perché continuerò a percorrere la strada per la quale si è sacrificato\n"
+"così tanto per instradarmi."
+
+msgctxt "1072_Baba"
+msgid "......"
+msgstr "......"
+
+msgctxt "1084_Haruka"
+msgid "Thank you. I appreciate you giving me his message."
+msgstr "Grazie. Ti ringrazio per avermi portato il suo messaggio."
+
+msgctxt "1096_Baba"
+msgid "Not at all."
+msgstr "Niente affatto."
+
+msgctxt "1108_Haruka"
+msgid ""
+"I should get going now. I still have lots of lessons to get\r\n"
+"through."
+msgstr ""
+"Dovrei andare adesso. Ho ancora un sacco di lezioni da\n"
+"sbrigare."
+
+msgctxt "1120_Baba"
+msgid "Haruka-chan. Do you have time for one more question?"
+msgstr "Haruka-chan. Hai tempo per un'ultima domanda?"
+
+msgctxt "1132_Haruka"
+msgid "?"
+msgstr "?"
+
+msgctxt "1144_Baba"
+msgid ""
+"You never asked how Kiryu-san and I knew each other. You\r\n"
+"didn't even ask my name."
+msgstr ""
+"Non hai mai chiesto come Kiryu-san e io ci conoscevamo. Non\n"
+"hai nemmeno chiesto il mio nome."
+
+msgctxt "1156_Baba"
+msgid "How did you know you could trust me?"
+msgstr "Come sapevi di poterti fidare di me?"
+
+msgctxt "1168_Haruka"
+msgid ""
+"Well, I can see you're the sort of person Uncle Kaz would be\r\n"
+"friends with."
+msgstr ""
+"Beh, vedo che sei il tipo di persona con cui Zio Kaz farebbe\n"
+"amicizia."
+
+msgctxt "1180_Baba"
+msgid "Me?"
+msgstr "Io?"
+
+msgctxt "1192_Haruka"
+msgid ""
+"Yep. Over the years, I've learned the people he takes a\r\n"
+"liking to have certain things in common."
+msgstr ""
+"Sì. Nel corso degli anni, ho imparato che le persone a cui si\\naffeziona "
+"hanno certe cose in comune."
+
+msgctxt "1204_Baba"
+msgid "Is that right...?"
+msgstr "È così...?"
+
+msgctxt "1216_Haruka"
+msgid ""
+"I could tell you weren't a bad guy, at least. I guess that\r\n"
+"doesn't really answer your question, though."
+msgstr ""
+"Potevo capire che non eri un tipo cattivo, almeno. Immagino che questo\n"
+"non risponda davvero alla tua domanda, comunque."
+
+msgctxt "1228_Baba"
+msgid "No, that's all right. All good."
+msgstr "No, va bene. Tutto a posto."
+
+msgctxt "1240_Haruka"
+msgid "Well then, I'd better go."
+msgstr "Beh, allora, è meglio che vada."
+
+msgctxt "1288_Baba"
+msgid "Damn it. What am I doing?"
+msgstr "Dannazione! Cosa sto facendo?"
+
+msgctxt "1312_Information"
+msgid "Haruka can now travel to Sotenbori by taxi."
+msgstr "Haruka può ora viaggiare a Sotenbori in taxi."

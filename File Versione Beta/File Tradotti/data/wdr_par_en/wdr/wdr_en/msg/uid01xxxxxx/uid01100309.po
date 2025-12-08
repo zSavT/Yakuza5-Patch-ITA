@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "172"
+msgid "The next roll will be even."
+msgstr "Il prossimo lancio sarà pari."
+
+msgctxt "184"
+msgid "The next roll will be snake eyes."
+msgstr "Il prossimo lancio sarà doppi uno."
+
+msgctxt "196"
+msgid "The gamblers' bets are becoming very lopsided."
+msgstr "Le puntate dei scommettitori si stanno sbilanciando parecchio."
+
+msgctxt "208"
+msgid "Items cannot be used twice in one game."
+msgstr "Non si possono usare gli oggetti due volte nella stessa partita."
+
+msgctxt "220"
+msgid "Nothing happened."
+msgstr "Non è successo niente."
+
+msgctxt "232"
+msgid "You need 40 points to guess both dice rolls."
+msgstr "Ti servono 40 punti per indovinare entrambi i lanci."
+
+msgctxt "244"
+msgid "You need 100 points to guess both dice rolls."
+msgstr "Ti servono 100 punti per indovinare entrambi i lanci."
+
+msgctxt "256"
+msgid "You need 160 points to guess both dice rolls."
+msgstr "Ti servono 160 punti per indovinare entrambi i lanci."
+
+msgctxt "268"
+msgid "You need 200 points to guess both dice rolls."
+msgstr "Ti servono 200 punti per indovinare entrambi i lanci."

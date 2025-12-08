@@ -1,0 +1,163 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "5340"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "5344"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "5348"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "5352"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "5356"
+msgid "Give It a Try"
+msgstr "Provaci"
+
+msgctxt "5360"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "5364"
+msgid "HAL_TLK_stand_unhappy"
+msgstr "HAL_TLK_stand_unhappy"
+
+msgctxt "5368"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "5372"
+msgid "HAL_TLK_stand_happy"
+msgstr "HAL_TLK_stand_happy"
+
+msgctxt "5376"
+msgid "HAL_TLK_stand_request02"
+msgstr "HAL_TLK_stand_request02"
+
+msgctxt "5380"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "5384"
+msgid "Start Fishing"
+msgstr "Inizia a pescare"
+
+msgctxt "152_Player"
+msgid ""
+"(This spot could work for fishing. I might drop a line in for a while.)"
+msgstr ""
+"(Questo posto potrebbe andar bene per pescare. Potrei lanciarci la lenza per"
+" un po')."
+
+msgctxt "164_Haruka"
+msgid "I want to see a <Color:8>ghost koi<Color:Default>, Uncle Kaz!"
+msgstr "Voglio vedere una <Color:8>koi fantasma<Color:Default>, Zio Kaz!"
+
+msgctxt "176_Kiryu"
+msgid ""
+"(It sounds like Haruka wants me to catch a <Color:8>ghost "
+"koi<Color:Default>.)"
+msgstr ""
+"(Sembra che Haruka voglia che io peschi una <Color:8>koi "
+"fantasma<Color:Default>.)"
+
+msgctxt "200_Haruka"
+msgid "Oh, okay. Maybe next time?"
+msgstr "Ah, ok. Magari la prossima volta?"
+
+msgctxt "224_Player"
+msgid "(Okay, here goes.)"
+msgstr "(Ok, ci siamo.)"
+
+msgctxt "236_Player"
+msgid "All right!"
+msgstr "Bene!"
+
+msgctxt "248_Player"
+msgid ""
+"I wonder if it would go for a <Color:8>Catnip Stick<Color:Default> or a "
+"<Color:8>Tuna Burger Set<Color:Default>?"
+msgstr ""
+"Mi chiedo se abboccherebbe a un <Color:8>Bastoncino all'erba "
+"gatta<Color:Default> o a un <Color:8>Set di Hamburger di "
+"Tonno<Color:Default>?"
+
+msgctxt "260_Player"
+msgid "Good luck, Uncle Kaz!"
+msgstr "Buona fortuna, Zio Kaz!"
+
+msgctxt "284_Player"
+msgid "(I don't have anything to use for bait.)"
+msgstr "(Non ho nulla da usare come esca.)"
+
+msgctxt "296_Player"
+msgid ""
+"(It looks like I could fish here. Maybe I'll drop a line in for a bit.)"
+msgstr ""
+"(Sembra che potrei pescare qui. Magari ci lancerò la lenza per un po')."
+
+msgctxt "320_Player"
+msgid "(Okay, let's give it a go!)"
+msgstr "(Ok, proviamoci!)"
+
+msgctxt "344_Player"
+msgid "(I don't have any bait to use.)"
+msgstr "(Non ho esche da usare.)"
+
+msgctxt "356_Player"
+msgid "(I guess I'll come back later.)"
+msgstr "(Immagino che tornerò più tardi.)"
+
+msgctxt "368_Player"
+msgid ""
+"(This oughta be a good fishin' spot. Maybe I'll drop a line in for a bit.)"
+msgstr ""
+"(Questo dovrebbe essere un buon posto per pescare. Magari ci lancerò la "
+"lenza per un po')."
+
+msgctxt "392_Player"
+msgid "(All right, let's give it a shot.)"
+msgstr "(Ok, proviamoci.)"
+
+msgctxt "416_Player"
+msgid "(Ain't got any bait to use.)"
+msgstr "(Non ho esche da usare.)"
+
+msgctxt "428_Player"
+msgid "(Guess I'll pass for now.)"
+msgstr "(Immagino che per ora passerò.)"
+
+msgctxt "440_Player"
+msgid ""
+"(This spot could work for fishing. I might drop a line in for a while.)"
+msgstr "(Qui potrei pescare. Magari ci lancerò la lenza per un po')."
+
+msgctxt "464_Player"
+msgid "(Okay, let's give it a try.)"
+msgstr "(Ok, proviamoci.)"
+
+msgctxt "488_Player"
+msgid "(I don't have anything to use for bait.)"
+msgstr "(Non ho esche da usare.)"
+
+msgctxt "500_Player"
+msgid "(Maybe some other time.)"
+msgstr "(Magari un'altra volta.)"

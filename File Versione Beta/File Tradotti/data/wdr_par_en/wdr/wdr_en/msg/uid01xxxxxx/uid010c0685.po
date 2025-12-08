@@ -1,0 +1,56 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1076"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "1080"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "1084"
+msgid "Young Salesman"
+msgstr "Giovane Venditore"
+
+msgctxt "1088"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "1092"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1096"
+msgid "0"
+msgstr "0"
+
+msgctxt "44_Kiryu"
+msgid "I'm here from Nagasu Taxi. You called?"
+msgstr "Sono della Nagasu Taxi. Ha chiamato?"
+
+msgctxt "56_Kiryu"
+msgid ""
+"(He must be fresh out of university. Wonder why he looks so exhausted.)"
+msgstr ""
+"(Dev'essere appena uscito dall'università. Chissà perché sembra così "
+"esausto.)"
+
+msgctxt "68_Young Salesman"
+msgid "Yeah, I need to go to <Color:22>Chikuzengawa Street<Color:Default>."
+msgstr "Sì, devo andare a <Color:22>Chikuzengawa Street<Color:Default>."
+
+msgctxt "80_Kiryu"
+msgid "Then let's be on our way."
+msgstr "Allora, si parte."

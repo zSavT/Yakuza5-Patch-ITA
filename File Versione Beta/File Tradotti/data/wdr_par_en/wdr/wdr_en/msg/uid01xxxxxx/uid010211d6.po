@@ -1,0 +1,96 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "76"
+msgid "You now have access to a hideout."
+msgstr "Ora hai accesso a un covo."
+
+msgctxt "1844"
+msgid "Information"
+msgstr "Informazioni"
+
+msgctxt "1848"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "1852"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "1856"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "1860"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "1864"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "1868"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "1872"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "88_Information"
+msgid ""
+"Here you can save your game, move items to the Item Box, and view your play "
+"stats."
+msgstr ""
+"Qui puoi salvare la partita, spostare oggetti nella Cassa Oggetti e "
+"visualizzare le tue statistiche di gioco."
+
+msgctxt "100_Information"
+msgid "Furthermore, your health will recover while at a hideout."
+msgstr "Inoltre, la tua salute si riprenderà al covo."
+
+msgctxt "112_Information"
+msgid ""
+"Akiyama and Shinada can use taxis to go to Sotenbori and Kineicho, respectively.\r\n"
+"\r\n"
+"\r\n"
+"You cannot change your character in those cities."
+msgstr ""
+"Akiyama e Shinada possono prendere taxi per andare a Sotenbori e Kineicho, rispettivamente.\n"
+"\n"
+"Non puoi cambiare il tuo personaggio in quelle città."
+
+msgctxt "136_Kiryu"
+msgid "(A package arrived.)"
+msgstr "(Un pacco è arrivato.)"
+
+msgctxt "148_Akiyama"
+msgid "(Looks like I got a package.)"
+msgstr "(Pare che mi sia arrivato un pacco.)"
+
+msgctxt "160_Saejima"
+msgid "(Got a package delivered.)"
+msgstr "(Mi è stato recapitato un pacco.)"
+
+msgctxt "172_Shinada"
+msgid "(Hey, I got a package!)"
+msgstr "(Ehi, mi è arrivato un pacco!)"
+
+msgctxt "184_Haruka"
+msgid "(A package arrived.)"
+msgstr "(Un pacco è arrivato.)"
+
+msgctxt "208_Information"
+msgid "You received a package from an online shop."
+msgstr "Hai ricevuto un pacco da un negozio online."

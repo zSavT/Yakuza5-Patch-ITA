@@ -1,0 +1,61 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2764"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "2768"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "2772"
+msgid "Kinei Taxi"
+msgstr "Kinei Taxi"
+
+msgctxt "76_Player"
+msgid "(First, I need to get to Uno-san!)"
+msgstr "(Prima, devo andare da Uno-san!)"
+
+msgctxt "88_Player"
+msgid "(I don't need a taxi right now. Besides, I shouldn't waste money.)"
+msgstr ""
+"(Non mi serve un taxi in questo momento. E poi, non dovrei sprecare soldi.)"
+
+msgctxt "124_Player"
+msgid "(I can't afford the fare. Better scrounge up 480 yen...)"
+msgstr "(Non ho i soldi per la corsa. Meglio che racimoli 480 yen...)"
+
+msgctxt "136_Kinei Taxi"
+msgid "The base fare is 480 yen. Where to?"
+msgstr "La tariffa base è di 480 yen. Dove andiamo?"
+
+msgctxt "172_Kinei Taxi"
+msgid "Very well, sir."
+msgstr "Molto bene, signore."
+
+msgctxt "256_Kinei Taxi"
+msgid ""
+"I'm afraid you don't have enough money, sir. Please come again when you do."
+msgstr ""
+"Mi dispiace, signore, ma non ha abbastanza contanti. La prego di tornare "
+"quando li avrà."
+
+msgctxt "268_Kinei Taxi"
+msgid "Please come again soon."
+msgstr "Alla prossima!"
+
+msgctxt "304_Kinei Taxi"
+msgid "Another city? Of course, sir."
+msgstr "Un'altra città? Certo, signore."

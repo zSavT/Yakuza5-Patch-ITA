@@ -1,0 +1,63 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1876"
+msgid "Kaguya"
+msgstr "Kaguya"
+
+msgctxt "1884"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "44_Kaguya"
+msgid "Hello, %s-san? This is Kaguya."
+msgstr "Ciao, %s-san? Sono Kaguya."
+
+msgctxt "56_Player"
+msgid "Oh, hey, Kaguya. Ya need somethin'?"
+msgstr "Oh, ehi, Kaguya. Ti serve qualcosa?"
+
+msgctxt "68_Kaguya"
+msgid "Saejima-san, would you like to go on a date with me?"
+msgstr "Saejima-san, ti andrebbe di uscire con me?"
+
+msgctxt "80_Player"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "92_Kaguya"
+msgid "You have time, don't you?"
+msgstr "Hai tempo, vero?"
+
+msgctxt "104_Player"
+msgid "Just 'cause you're free doesn't mean I am. But heck, alright."
+msgstr ""
+"Solo perché sembra che io sia libero non significa che lo sono. Ma vabbè, "
+"d'accordo."
+
+msgctxt "116_Kaguya"
+msgid ""
+"Okay! I'll be waiting <Color:255,200,200,255>in front of Bridie, at the "
+"Tsukasa Street intersection<Color:Default>."
+msgstr ""
+"Va bene! Ti aspetterò <Color:255,200,200,255>davanti a Bridie, all'incrocio "
+"di Tsukasa Street<Color:Default>."
+
+msgctxt "128_Player"
+msgid "Bridie, at the Tsukasa Street intersection? Got it."
+msgstr "Bridie, all'incrocio di Tsukasa Street? Capito."
+
+msgctxt "140_Kaguya"
+msgid "I'll be waiting for you! Do please hurry! <Color:7>♥<Color:Default>"
+msgstr "Ti aspetterò! Ti prego, sbrigati! <Color:7>♥<Color:Default>"

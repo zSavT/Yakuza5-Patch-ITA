@@ -1,0 +1,207 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "196"
+msgid "You got a Prize Ticket."
+msgstr "Hai ottenuto un Biglietto Premio."
+
+msgctxt "532"
+msgid "You got a Prize Ticket."
+msgstr "Hai ottenuto un Biglietto Premio."
+
+msgctxt "8316"
+msgid "Employee"
+msgstr "Cameriere"
+
+msgctxt "8320"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "8324"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "8328"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "76_Employee"
+msgid "Welcome. Are you ready to order?"
+msgstr ""
+"Benvenuto.\n"
+"È pronto per ordinare?"
+
+msgctxt "184_Employee"
+msgid "Oh, and we're giving these out. Here, please take one."
+msgstr "Oh, e stiamo dando via questi. Tieni, prendine uno."
+
+msgctxt "244_Employee"
+msgid "Thank you very much."
+msgstr "Grazie mille."
+
+msgctxt "268_Player"
+msgid "(I don't need to eat now.)"
+msgstr "(Non ho bisogno di mangiare ora.)"
+
+msgctxt "280_Player"
+msgid "(I don't need to eat now.)"
+msgstr "(Non ho bisogno di mangiare ora.)"
+
+msgctxt "292_Player"
+msgid "(Don't need food now.)"
+msgstr "(Non mi serve cibo adesso.)"
+
+msgctxt "304_Player"
+msgid "(Not hungry yet.)"
+msgstr "(Non ho ancora fame.)"
+
+msgctxt "316_Player"
+msgid "(I'm full now.)"
+msgstr "(Sono pieno ora.)"
+
+msgctxt "340_Player"
+msgid "Sorry. Something came up."
+msgstr "Scusa. Mi è saltato fuori qualcosa."
+
+msgctxt "352_Player"
+msgid "Excuse me. I've got an urgent errand."
+msgstr "Scusi. Ho una commissione urgente."
+
+msgctxt "364_Player"
+msgid "Sorry. Gotta run."
+msgstr "Scusa. Devo scappare."
+
+msgctxt "376_Player"
+msgid "Sorry, I forgot I had to do something."
+msgstr "Scusa, mi ero scordato che dovevo fare una cosa."
+
+msgctxt "388_Player"
+msgid "I'm so sorry. I have to go."
+msgstr "Mi dispiace tanto. Devo andare."
+
+msgctxt "400_Employee"
+msgid "Very well. We hope you'll come by again soon."
+msgstr "Molto bene. Speriamo che tornerai a trovarci presto."
+
+msgctxt "412_Employee"
+msgid "Welcome. Are you ready to order?"
+msgstr ""
+"Benvenuto.\n"
+"È pronto per ordinare?"
+
+msgctxt "520_Employee"
+msgid "Oh, and we're giving these out. Here, please take one."
+msgstr "Oh, e stiamo dando via questi. Tieni, prendine uno."
+
+msgctxt "568_Employee"
+msgid "Thank you very much."
+msgstr "Grazie mille."
+
+msgctxt "592_Player"
+msgid "(I don't need to eat now.)"
+msgstr "(Non ho bisogno di mangiare ora.)"
+
+msgctxt "604_Player"
+msgid "(I don't need to eat now.)"
+msgstr "(Non ho bisogno di mangiare ora.)"
+
+msgctxt "616_Player"
+msgid "(Don't need food now.)"
+msgstr "(Non mi serve cibo adesso.)"
+
+msgctxt "628_Player"
+msgid "(Not hungry yet.)"
+msgstr "(Non ho ancora fame.)"
+
+msgctxt "640_Player"
+msgid "(I'm full now.)"
+msgstr "(Sono pieno ora.)"
+
+msgctxt "664_Player"
+msgid "Sorry. Something came up."
+msgstr "Scusa. Mi è saltato fuori qualcosa."
+
+msgctxt "676_Player"
+msgid "Excuse me. I've got an urgent errand."
+msgstr "Scusi. Ho una commissione urgente."
+
+msgctxt "688_Player"
+msgid "Sorry. Gotta run."
+msgstr "Scusa. Devo scappare."
+
+msgctxt "700_Player"
+msgid "Sorry, I forgot I had to do something."
+msgstr "Scusa, mi ero scordato che dovevo fare una cosa."
+
+msgctxt "712_Player"
+msgid "I'm so sorry. I have to go."
+msgstr "Mi dispiace tanto. Devo andare."
+
+msgctxt "724_Employee"
+msgid "Very well. We hope you'll come by again soon."
+msgstr "Molto bene. Speriamo di rivederla presto."
+
+msgctxt "736_Employee"
+msgid "Welcome. Are you ready to order?"
+msgstr ""
+"Benvenuto.\n"
+"È pronto per ordinare?"
+
+msgctxt "772_Employee"
+msgid "Thank you very much."
+msgstr "Grazie mille."
+
+msgctxt "796_Player"
+msgid "(I don't need to eat now.)"
+msgstr "(Non ho bisogno di mangiare ora.)"
+
+msgctxt "808_Player"
+msgid "(I don't need to eat now.)"
+msgstr "(Non ho bisogno di mangiare ora.)"
+
+msgctxt "820_Player"
+msgid "(Don't need food now.)"
+msgstr "(Non mi serve cibo adesso.)"
+
+msgctxt "832_Player"
+msgid "(Not hungry yet.)"
+msgstr "(Non ho ancora fame.)"
+
+msgctxt "844_Player"
+msgid "(I'm full now.)"
+msgstr "(Sono pieno ora.)"
+
+msgctxt "868_Player"
+msgid "Sorry. Something came up."
+msgstr "Scusa. Mi è saltato fuori qualcosa."
+
+msgctxt "880_Player"
+msgid "Excuse me. I've got an urgent errand."
+msgstr "Scusi. Ho una commissione urgente."
+
+msgctxt "892_Player"
+msgid "Sorry. Gotta run."
+msgstr "Scusa. Devo scappare."
+
+msgctxt "904_Player"
+msgid "Sorry, I forgot I had to do something."
+msgstr "Scusa, mi ero scordato che dovevo fare una cosa."
+
+msgctxt "916_Player"
+msgid "I'm so sorry. I have to go."
+msgstr "Mi dispiace tanto. Devo andare."
+
+msgctxt "928_Employee"
+msgid "Very well. We hope you'll come by again soon."
+msgstr "Molto bene. Speriamo che tornerete presto."

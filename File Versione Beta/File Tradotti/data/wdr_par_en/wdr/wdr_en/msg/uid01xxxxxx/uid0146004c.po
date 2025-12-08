@@ -1,0 +1,63 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1652"
+msgid "Shion"
+msgstr "Shion"
+
+msgctxt "1656"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "44_Shion"
+msgid "Shinada-san, are you there?"
+msgstr "Shinada-san, ci sei?"
+
+msgctxt "56_Shinada"
+msgid "Shion-chan? What's up?"
+msgstr "Shion-chan? Che c'è?"
+
+msgctxt "68_Shion"
+msgid "I... I think I'm being followed again."
+msgstr "I... mi sa che mi stanno seguendo di nuovo."
+
+msgctxt "80_Shinada"
+msgid "Really? Okay, I'll be right there! Where are you right now?"
+msgstr "Davvero? Ok, arrivo subito! Dove sei adesso?"
+
+msgctxt "92_Shion"
+msgid ""
+"I've left the club and I'm walking toward <Color:255,200,200,255>Kume "
+"Boulevard<Color:Default>."
+msgstr ""
+"Sono uscita dal locale e sto camminando verso <Color:255,200,200,255>Kume "
+"Boulevard<Color:Default>."
+
+msgctxt "104_Shinada"
+msgid ""
+"Got it! I'm going to hang up, but pretend like you're still on the phone."
+msgstr "Capito! Riattacco, ma fai finta di essere ancora al telefono."
+
+msgctxt "116_Shinada"
+msgid "That'll make it harder for someone to bug you."
+msgstr "Così sarà più difficile che qualcuno ti dia fastidio."
+
+msgctxt "128_Shion"
+msgid "Understood."
+msgstr "Capito."
+
+msgctxt "140_Shinada"
+msgid "(I need to get to Shion-chan right away. I hope it's nothing, but...)"
+msgstr ""
+"(Devo andare subito da Shion-chan. Spero non sia niente di grave, ma...)"

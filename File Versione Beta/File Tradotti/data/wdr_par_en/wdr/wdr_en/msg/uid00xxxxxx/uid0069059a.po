@@ -1,0 +1,69 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1568"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1572"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1576"
+msgid "Play Pool"
+msgstr "Gioca a Biliardo"
+
+msgctxt "1580"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "1584"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "1588"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1592"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "72_Man"
+msgid "You're quite the hustler. I honestly didn't foresee losing."
+msgstr "Sei proprio uno squalo. Sinceramente, non avevo previsto di perdere."
+
+msgctxt "84_Man"
+msgid "Thank you. That was most enjoyable."
+msgstr "Grazie. È stato un vero spasso."
+
+msgctxt "96_Man"
+msgid "Hello. Would you care to join me for a game of pool?"
+msgstr "Ciao. Ti va di fare una partita a biliardo?"
+
+msgctxt "108_Player"
+msgid "I'm kind of busy now."
+msgstr "Sono un po' occupato adesso."
+
+msgctxt "120_Man"
+msgid "Hmm. I see."
+msgstr "Hmm. Capisco."
+
+msgctxt "132_Player"
+msgid "Sure, let's play."
+msgstr "Certo, giochiamo."
+
+msgctxt "144_Man"
+msgid "Great! Let's get right to it, then."
+msgstr "Perfetto! Allora, iniziamo subito."

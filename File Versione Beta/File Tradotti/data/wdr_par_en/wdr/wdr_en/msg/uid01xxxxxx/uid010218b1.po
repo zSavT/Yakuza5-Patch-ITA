@@ -1,0 +1,61 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "128"
+msgid "You cannot go beyond this point in the demo."
+msgstr "Non puoi andare oltre questo punto nella demo."
+
+msgctxt "1124"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "1128"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "1132"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "1136"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "1140"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "1144"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "68_Kiryu"
+msgid "(I probably shouldn't go beyond here.)"
+msgstr "(Probabilmente non dovrei andare oltre qui.)"
+
+msgctxt "80_Akiyama"
+msgid "(I shouldn't go too far.)"
+msgstr "(Non dovrei andare troppo lontano.)"
+
+msgctxt "92_Saejima"
+msgid "(I should stay around this area.)"
+msgstr "(Dovrei rimanere qui in zona.)"
+
+msgctxt "104_Shinada"
+msgid "(I shouldn't go very far.)"
+msgstr "(Non dovrei andare troppo lontano.)"
+
+msgctxt "116_Haruka"
+msgid "(I think I shouldn't go too far.)"
+msgstr "(Penso che non dovrei andare troppo lontano.)"

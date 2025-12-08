@@ -1,0 +1,545 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "944"
+msgid "You got 5,000 experience points."
+msgstr "Hai guadagnato 5.000 punti esperienza."
+
+msgctxt "1028"
+msgid "You got 4,000 experience points."
+msgstr "Hai ottenuto 4.000 punti esperienza."
+
+msgctxt "1112"
+msgid "You got 3,500 experience points."
+msgstr "Hai guadagnato 3.500 punti esperienza."
+
+msgctxt "16284"
+msgid "Park"
+msgstr "Parco"
+
+msgctxt "16288"
+msgid "adv3_360/paku_0131a"
+msgstr "adv3_360/paku_0131a"
+
+msgctxt "16292"
+msgid "adv3_360/paku_0131b"
+msgstr "adv3_360/paku_0131b"
+
+msgctxt "16296"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "16300"
+msgid "No"
+msgstr "No"
+
+msgctxt "16304"
+msgid "adv3_360/paku_3_360_020"
+msgstr "adv3_360/paku_3_360_020"
+
+msgctxt "16308"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "16312"
+msgid "adv3_360/haruka_3_360_020"
+msgstr "adv3_360/haruka_3_360_020"
+
+msgctxt "16316"
+msgid "adv3_360/paku_3_360_010"
+msgstr "adv3_360/paku_3_360_010"
+
+msgctxt "16320"
+msgid "adv3_360/haruka_3_360_030"
+msgstr "adv3_360/haruka_3_360_030"
+
+msgctxt "16324"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "16328"
+msgid "adv3_360/haruka_3_360_010"
+msgstr "adv3_360/haruka_3_360_010"
+
+msgctxt "16332"
+msgid "adv3_360/paku_0132a"
+msgstr "adv3_360/paku_0132a"
+
+msgctxt "16336"
+msgid "adv3_360/paku_0132b"
+msgstr "adv3_360/paku_0132b"
+
+msgctxt "16340"
+msgid "adv3_360/haruka_0167"
+msgstr "adv3_360/haruka_0167"
+
+msgctxt "16344"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "16348"
+msgid "adv3_350_2/paku_0126a"
+msgstr "adv3_350_2/paku_0126a"
+
+msgctxt "16352"
+msgid "adv3_350_2/paku_0126b"
+msgstr "adv3_350_2/paku_0126b"
+
+msgctxt "16356"
+msgid "Christina"
+msgstr "Christina"
+
+msgctxt "16360"
+msgid "adv3_350_1/christina_0007a"
+msgstr "adv3_350_1/christina_0007a"
+
+msgctxt "16364"
+msgid "adv3_350_1/christina_0007b"
+msgstr "adv3_350_1/christina_0007b"
+
+msgctxt "16368"
+msgid "adv3_350_1/christina_0007c"
+msgstr "adv3_350_1/christina_0007c"
+
+msgctxt "16372"
+msgid "adv3_350_1/christina_0007d"
+msgstr "adv3_350_1/christina_0007d"
+
+msgctxt "16376"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "16380"
+msgid "adv3_280/haruka_3_280_050"
+msgstr "adv3_280/haruka_3_280_050"
+
+msgctxt "16384"
+msgid "Horie"
+msgstr "Horie"
+
+msgctxt "16388"
+msgid "adv3_280_2/horie_3_280_030"
+msgstr "adv3_280_2/horie_3_280_030"
+
+msgctxt "16392"
+msgid "adv3_280_2/haruka_3_280_060"
+msgstr "adv3_280_2/haruka_3_280_060"
+
+msgctxt "16396"
+msgid "adv3_280_2/haruka_0118"
+msgstr "adv3_280_2/haruka_0118"
+
+msgctxt "16400"
+msgid "adv3_280_2/horie_0093ba"
+msgstr "adv3_280_2/horie_0093ba"
+
+msgctxt "16404"
+msgid "adv3_280_2/horie_0093bb"
+msgstr "adv3_280_2/horie_0093bb"
+
+msgctxt "16408"
+msgid "adv3_280_2/horie_0093bc"
+msgstr "adv3_280_2/horie_0093bc"
+
+msgctxt "16412"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "16416"
+msgid "adv3_280_2/haruka_0119"
+msgstr "adv3_280_2/haruka_0119"
+
+msgctxt "16420"
+msgid "adv3_280_2/horie_0094ba"
+msgstr "adv3_280_2/horie_0094ba"
+
+msgctxt "16424"
+msgid "adv3_280_2/horie_0094bb"
+msgstr "adv3_280_2/horie_0094bb"
+
+msgctxt "16428"
+msgid "adv3_280_2/haruka_0120"
+msgstr "adv3_280_2/haruka_0120"
+
+msgctxt "16432"
+msgid "adv3_280_2/horie_0095a"
+msgstr "adv3_280_2/horie_0095a"
+
+msgctxt "16436"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "16440"
+msgid "adv3_280_2/horie_0095b"
+msgstr "adv3_280_2/horie_0095b"
+
+msgctxt "16444"
+msgid "adv3_280/christina_3_280_010"
+msgstr "adv3_280/christina_3_280_010"
+
+msgctxt "16448"
+msgid "C3200_CRS_TLK_stand_kansin"
+msgstr "C3200_CRS_TLK_stand_kansin"
+
+msgctxt "16452"
+msgid "adv3_280/haruka_3_280_010"
+msgstr "adv3_280/haruka_3_280_010"
+
+msgctxt "16456"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "16460"
+msgid "adv3_280/christina_3_280_020"
+msgstr "adv3_280/christina_3_280_020"
+
+msgctxt "16464"
+msgid "C3200_CRS_TLK_stand_no"
+msgstr "C3200_CRS_TLK_stand_no"
+
+msgctxt "16468"
+msgid "adv3_280/haruka_3_280_020"
+msgstr "adv3_280/haruka_3_280_020"
+
+msgctxt "16472"
+msgid "adv3_280/horie_0092a"
+msgstr "adv3_280/horie_0092a"
+
+msgctxt "16476"
+msgid "adv3_280/horie_3_280_020"
+msgstr "adv3_280/horie_3_280_020"
+
+msgctxt "16480"
+msgid "adv3_280/haruka_3_280_030"
+msgstr "adv3_280/haruka_3_280_030"
+
+msgctxt "16484"
+msgid "adv3_280/christina_3_280_030"
+msgstr "adv3_280/christina_3_280_030"
+
+msgctxt "16488"
+msgid "M_YKZS_TLK_stand_kamae"
+msgstr "M_YKZS_TLK_stand_kamae"
+
+msgctxt "16492"
+msgid "C3200_CRS_TLK_stand_ed"
+msgstr "C3200_CRS_TLK_stand_ed"
+
+msgctxt "16496"
+msgid "adv3_280/haruka_3_280_040"
+msgstr "adv3_280/haruka_3_280_040"
+
+msgctxt "16500"
+msgid "adv3_270_1/haruka_0117"
+msgstr "adv3_270_1/haruka_0117"
+
+msgctxt "16504"
+msgid "adv3_270_1/horie_0091a"
+msgstr "adv3_270_1/horie_0091a"
+
+msgctxt "16508"
+msgid "adv3_270_1/horie_0091b"
+msgstr "adv3_270_1/horie_0091b"
+
+msgctxt "16512"
+msgid "adv3_270_1/horie_0091c"
+msgstr "adv3_270_1/horie_0091c"
+
+msgctxt "164_Park"
+msgid ""
+"Sorry to keep you waiting. I cleared my schedule for the\r\n"
+"evening."
+msgstr ""
+"Scusa l'attesa. Ho liberato i miei impegni per la\n"
+"sera."
+
+msgctxt "176_Park"
+msgid "Are you all ready to go?"
+msgstr "Siete tutti pronti?"
+
+msgctxt "188_Park"
+msgid "Haruka, are you ready to go now?"
+msgstr "Haruka, sei pronta adesso?"
+
+msgctxt "200_Haruka"
+msgid "I'm sorry. Could I have just a little more time?"
+msgstr "Mi dispiace. Potrei avere solo un altro po' di tempo?"
+
+msgctxt "212_Park"
+msgid "Fine. Do what you need to do. I'll be waiting right here."
+msgstr "Bene. Fai quello che devi fare. Ti aspetterò qui."
+
+msgctxt "224_Haruka"
+msgid "Thank you."
+msgstr "Grazie."
+
+msgctxt "236_Haruka"
+msgid "Yes, I'm all ready."
+msgstr "Sì, sono tutta pronta."
+
+msgctxt "248_Park"
+msgid ""
+"Then, let's go. You've been working hard every day, and I'm\r\n"
+"sure you must have built up some stress."
+msgstr ""
+"Allora, andiamo. Hai lavorato sodo ogni giorno, e sono\n"
+"certo che un po' di stress te lo sarai accumulato."
+
+msgctxt "260_Park"
+msgid ""
+"So tonight, we're going to go shopping and get rid of all\r\n"
+"that. How does that sound?"
+msgstr ""
+"Allora stasera, andremo a fare shopping e ci libereremo di tutto\\nquello. "
+"Che ne dici?"
+
+msgctxt "272_Haruka"
+msgid "Great!"
+msgstr "Ottimo!"
+
+msgctxt "320_Park"
+msgid ""
+"Sorry to keep you waiting. I cleared my schedule for the\r\n"
+"evening."
+msgstr ""
+"Scusa l'attesa. Ho liberato i miei impegni per la\n"
+"sera."
+
+msgctxt "332_Park"
+msgid "Are you all ready to go?"
+msgstr "Siete tutti pronti?"
+
+msgctxt "344_Park"
+msgid "Haruka, are you ready to go now?"
+msgstr "Haruka, sei pronta adesso?"
+
+msgctxt "356_Haruka"
+msgid "I'm sorry. Could I have just a little more time?"
+msgstr "Mi dispiace. Potrei avere solo un altro po' di tempo?"
+
+msgctxt "368_Park"
+msgid "Fine. Do what you need to do. I'll be waiting right here."
+msgstr "Bene. Fai quello che devi fare. Ti aspetterò qui."
+
+msgctxt "380_Haruka"
+msgid "Thank you."
+msgstr "Grazie."
+
+msgctxt "392_Haruka"
+msgid "Yes, I'm all ready."
+msgstr "Sì, sono tutta pronta."
+
+msgctxt "404_Park"
+msgid ""
+"Then, let's go. You've been working hard every day, and I'm\r\n"
+"sure you must have built up some stress."
+msgstr ""
+"Allora, andiamo. Hai lavorato sodo ogni giorno, e sono\n"
+"certo che un po' di stress te lo sarai accumulato."
+
+msgctxt "416_Park"
+msgid ""
+"So tonight, we're going to go shopping and get rid of all\r\n"
+"that. How does that sound?"
+msgstr ""
+"Allora stasera, andremo a fare shopping e ci libereremo di tutto\\nquello. "
+"Che ne dici?"
+
+msgctxt "428_Haruka"
+msgid "Great!"
+msgstr "Ottimo!"
+
+msgctxt "452_Haruka"
+msgid "(I guess Park-san isn't back yet.)"
+msgstr "(Immagino che Park-san non sia ancora tornato.)"
+
+msgctxt "464_Park"
+msgid ""
+"Sorry for the wait, Haruka, but I'm afraid I'm going to have to ask you to "
+"wait just a little longer."
+msgstr ""
+"Mi dispiace per l'attesa, Haruka, ma temo che dovrò chiederti di aspettare "
+"solo un altro po'."
+
+msgctxt "476_Park"
+msgid "I have a few things I need to take care of. I won't be long."
+msgstr "Ho un paio di cose di cui devo occuparmi. Non ci metterò molto."
+
+msgctxt "512_Christina"
+msgid ""
+"Hello, Haruka. The event in the park must've been quite an\r\n"
+"experience for you."
+msgstr ""
+"Ciao, Haruka. L'evento al parco dev'essere stato una bella\\nesperienza per "
+"te."
+
+msgctxt "524_Christina"
+msgid "But you really are coming along nicely."
+msgstr "Ma stai davvero andando alla grande."
+
+msgctxt "536_Christina"
+msgid ""
+"I must say, it makes it a joy to teach you. Your former\r\n"
+"instructor will be quite vexed, I'm sure."
+msgstr ""
+"Devo dire, è una gioia insegnarti. Il tuo precedente\n"
+"insegnante sarà parecchio infastidito, ne sono sicuro."
+
+msgctxt "548_Christina"
+msgid ""
+"Come see me at the studio any time you're ready for a\r\n"
+"lesson."
+msgstr ""
+"Vieni a trovarmi in studio ogni volta che sei pronta per una\n"
+"lezione."
+
+msgctxt "584_Haruka"
+msgid "Sorry to keep you waiting."
+msgstr "Scusa se ti ho fatto aspettare."
+
+msgctxt "596_Horie"
+msgid ""
+"Sorry to do this so out of the blue. Mind takin' a look at\r\n"
+"the schedule board there?"
+msgstr ""
+"Scusa se faccio così su due piedi. Ti dispiace dare un'occhiata alla\n"
+"bacheca degli orari lì?"
+
+msgctxt "632_Haruka"
+msgid "A civic event?"
+msgstr "Un evento cittadino?"
+
+msgctxt "644_Haruka"
+msgid "So this just came in?"
+msgstr "Dunque, è appena arrivato?"
+
+msgctxt "656_Horie"
+msgid ""
+"That's right. They're havin' a civic event in the park\r\n"
+"nearby. Set up a special stage and everythin'."
+msgstr ""
+"Esatto. Stanno facendo un evento cittadino nel parco\n"
+"qui vicino. Hanno allestito un palco speciale e tutto il resto."
+
+msgctxt "668_Horie"
+msgid ""
+"The singer they booked caught a cold and lost her voice, so\r\n"
+"they need a sub."
+msgstr ""
+"La cantante che avevano ingaggiato ha preso un raffreddore e ha perso la "
+"voce, quindi\\nhanno bisogno di un sostituto."
+
+msgctxt "680_Horie"
+msgid "They asked us to find a replacement fast. You up for it?"
+msgstr "Ci hanno chiesto di trovare un sostituto in fretta. Sei pronta?"
+
+msgctxt "692_Haruka"
+msgid "Of course."
+msgstr "E di che."
+
+msgctxt "704_Horie"
+msgid ""
+"If I'm bein' honest with ya, the location ain't the best. We\r\n"
+"can't expect much of an audience."
+msgstr ""
+"A essere onesto con te, il posto non è il massimo. Non\n"
+"possiamo aspettarci molto pubblico."
+
+msgctxt "716_Horie"
+msgid ""
+"I said that to Park-san, but she said it's important to just\r\n"
+"get used to performin' on a stage."
+msgstr ""
+"L'ho detto a Park-san, ma lei ha detto che è importante solo\n"
+"abituarsi a esibirsi sul palco."
+
+msgctxt "728_Haruka"
+msgid "No problem."
+msgstr "Nessun problema."
+
+msgctxt "740_Horie"
+msgid ""
+"I'm afraid I'm all tied up here. Yamaura-san's already over\r\n"
+"there waitin' for ya, though."
+msgstr ""
+"Mi sa che sono tutto impegnato qui. Yamaura-san è già\n"
+"lì che ti aspetta, però."
+
+msgctxt "752_Horie"
+msgid "Sorry to ask, but do ya think you could hurry on over?"
+msgstr "Scusami se te lo chiedo, ma riusciresti a fare un salto qui subito?"
+
+msgctxt "788_Christina"
+msgid "Excellent, Haruka! That was very nice!"
+msgstr "Ottimo, Haruka! Sei stata bravissima!"
+
+msgctxt "800_Haruka"
+msgid "Thank you very much!"
+msgstr "Grazie mille!"
+
+msgctxt "812_Christina"
+msgid "That won't do, Haruka. You have to remember to stay focused."
+msgstr "Così non va bene, Haruka. Devi ricordarti di rimanere concentrata."
+
+msgctxt "824_Haruka"
+msgid "Yes, sir!"
+msgstr "Sì, signore!"
+
+msgctxt "848_Horie"
+msgid ""
+"Ah, Haruka-chan. Sorry to interrupt, but an urgent job just\r\n"
+"came in."
+msgstr ""
+"Ah, Haruka-chan. Scusa se ti interrompo, ma è appena arrivato un lavoro "
+"urgente."
+
+msgctxt "860_Horie"
+msgid ""
+"When you get a sec, can you come to the office? I'll tell ya\r\n"
+"all about it."
+msgstr ""
+"Quando hai un attimo, puoi venire in ufficio? Ti racconto\n"
+"tutto."
+
+msgctxt "872_Haruka"
+msgid "Of course."
+msgstr "E di che."
+
+msgctxt "884_Christina"
+msgid ""
+"An urgent job? In that case, you'd better hurry along. We'll\r\n"
+"stop the lesson here for now."
+msgstr ""
+"Un lavoro urgente? Allora, è meglio che ti sbrighi. Mettiamo in\\npausa la "
+"lezione qui per ora."
+
+msgctxt "896_Haruka"
+msgid "Right. Thank you!"
+msgstr "Va bene. Grazie!"
+
+msgctxt "1184_Haruka"
+msgid "Good morning."
+msgstr "Buongiorno."
+
+msgctxt "1196_Horie"
+msgid "Morning, Haruka-chan."
+msgstr "Buongiorno, Haruka-chan."
+
+msgctxt "1208_Horie"
+msgid "Christina just got here, too. He should be in the studio."
+msgstr "Anche Christina è appena arrivata. Dovrebbe essere in studio."
+
+msgctxt "1220_Horie"
+msgid "Head on up when you're ready."
+msgstr "Sali pure quando sei pronta."

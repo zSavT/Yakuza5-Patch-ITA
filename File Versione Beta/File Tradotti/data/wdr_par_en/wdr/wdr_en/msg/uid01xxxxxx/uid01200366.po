@@ -1,0 +1,51 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1080"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "1084"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "1088"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1092"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "1096"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "136_Haruka"
+msgid "Thanks, Uncle Kaz!"
+msgstr "Grazie, Zio Kaz!"
+
+msgctxt "160_Haruka"
+msgid "Aww, don't you want some <Color:8>Gyoza Curry<Color:Default>?"
+msgstr "Ma dai, non ne vuoi un po' di <Color:8>Gyoza Curry<Color:Default>?"
+
+msgctxt "184_Haruka"
+msgid "I wish I could have some <Color:8>Gyoza Curry<Color:Default>!"
+msgstr "Vorrei tanto mangiare un po' di <Color:8>Gyoza Curry<Color:Default>!"
+
+msgctxt "196_Kiryu"
+msgid ""
+"(Hmm. Looks like Haruka wants some <Color:8>Gyoza Curry<Color:Default>.)"
+msgstr ""
+"(Mmh. Sembra che Haruka voglia del <Color:8>Gyoza Curry<Color:Default>.)"

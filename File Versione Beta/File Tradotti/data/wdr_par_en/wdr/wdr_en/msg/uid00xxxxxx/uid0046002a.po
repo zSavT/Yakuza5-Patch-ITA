@@ -1,0 +1,207 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "200"
+msgid "*click*"
+msgstr "*clic*"
+
+msgctxt "6972"
+msgid "Shion"
+msgstr "Shion"
+
+msgctxt "6976"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "6980"
+msgid "P_SIN_TLK_stand_yes"
+msgstr "P_SIN_TLK_stand_yes"
+
+msgctxt "6984"
+msgid "F_SXY_TLK_stand_no"
+msgstr "F_SXY_TLK_stand_no"
+
+msgctxt "6988"
+msgid "P_SIN_TLK_stand_ok"
+msgstr "P_SIN_TLK_stand_ok"
+
+msgctxt "6992"
+msgid "P_SIN_TLK_stand_kyoro"
+msgstr "P_SIN_TLK_stand_kyoro"
+
+msgctxt "6996"
+msgid "P_SIN_TLK_stand_away"
+msgstr "P_SIN_TLK_stand_away"
+
+msgctxt "7000"
+msgid "M_NML_TLK_stand_kamae"
+msgstr "M_NML_TLK_stand_kamae"
+
+msgctxt "7004"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "7008"
+msgid "P_SIN_TLK_stand_think"
+msgstr "P_SIN_TLK_stand_think"
+
+msgctxt "7012"
+msgid "F_SXY_TLK_stand_quest"
+msgstr "F_SXY_TLK_stand_quest"
+
+msgctxt "7016"
+msgid "P_SIN_TLK_stand_no"
+msgstr "P_SIN_TLK_stand_no"
+
+msgctxt "7020"
+msgid "F_cab_stand_tlk_byeB"
+msgstr "F_cab_stand_tlk_byeB"
+
+msgctxt "7024"
+msgid "0"
+msgstr "0"
+
+msgctxt "7028"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "56_Shion"
+msgid "This neighborhood has changed so much."
+msgstr "Questo quartiere è cambiato un sacco."
+
+msgctxt "68_Shinada"
+msgid "Yeah. This Ferris wheel wasn't here when I first came to Nagoya."
+msgstr ""
+"Già. Questa ruota panoramica non c'era quando sono venuto a Nagoya per la "
+"prima volta."
+
+msgctxt "80_Shion"
+msgid ""
+"You know, the office building my father worked at when I was in high school "
+"was around here."
+msgstr ""
+"Sai, il palazzo dove lavorava mio padre quando ero al liceo era da queste "
+"parti."
+
+msgctxt "92_Shinada"
+msgid "Oh wow, really? Where does he work now?"
+msgstr "Ah, davvero? Dove lavora adesso?"
+
+msgctxt "104_Shion"
+msgid "Now, he, ah..."
+msgstr "Ora, lui, ah..."
+
+msgctxt "116_Shion"
+msgid "......"
+msgstr "......"
+
+msgctxt "128_Shion"
+msgid ""
+"Several years ago, the office was relocated to somewhere else. It's no "
+"longer in Kineicho."
+msgstr ""
+"Diversi anni fa, l'ufficio è stato spostato da qualche altra parte. Non è "
+"più a Kineicho."
+
+msgctxt "140_Shinada"
+msgid ""
+"I see. I'm glad my job doesn't do the whole transferring thing. Though I do "
+"wish I could travel to other cities on business!"
+msgstr ""
+"Capisco. Sono contento che il mio lavoro non mi faccia fare tutta 'sta "
+"storia dei trasferimenti. Però, mi piacerebbe un sacco poter viaggiare in "
+"altre città per lavoro!"
+
+msgctxt "152_Shion"
+msgid ""
+"Hehe! You're quite fond of your job, aren't you, Shinada-san? "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Hehe! Ci tieni un sacco al tuo lavoro, eh, Shinada-san? "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "164_Shinada"
+msgid ""
+"I sure am! It may not be what I dreamed of doing when I was a kid, but it's "
+"kind of a dream come true in a totally different way."
+msgstr ""
+"Eccome! Potrebbe non essere quello che sognavo di fare da bambino, ma è un "
+"po' come un sogno che si avvera in un modo completamente diverso."
+
+msgctxt "176_Shion"
+msgid ""
+"Dreams, you say? I somehow doubt my own dream is ever going to come true."
+msgstr "Sogni, dici? In qualche modo dubito che il mio sogno si avvererà mai."
+
+msgctxt "188_Shinada"
+msgid "Shion-chan?"
+msgstr "Shion-chan?"
+
+msgctxt "212_Shinada"
+msgid "Huh? What was that?"
+msgstr "Eh? Cos'era quello?"
+
+msgctxt "224_Shion"
+msgid "Did something happen?"
+msgstr "È successo qualcosa?"
+
+msgctxt "260_Shinada"
+msgid "Hey, you! What're you doing!?"
+msgstr "Ehi tu! Che combini!?"
+
+msgctxt "272_Man"
+msgid "......"
+msgstr "......"
+
+msgctxt "296_Shinada"
+msgid "Damn. What in the world was that about?"
+msgstr "Maledizione. Ma che diavolo è successo?"
+
+msgctxt "308_Shion"
+msgid "Who was that just now?"
+msgstr "Chi era quello poco fa?"
+
+msgctxt "332_Shinada"
+msgid ""
+"I don't know. Nobody I know, I don't think. Did you know him, Shion-chan?"
+msgstr ""
+"Non lo so. Nessuno che io conosca, non mi pare. Lo conoscevi tu, Shion-chan?"
+
+msgctxt "344_Shion"
+msgid "No, I didn't recognize him."
+msgstr "No, non l'ho riconosciuto."
+
+msgctxt "356_Shinada"
+msgid ""
+"Hmm. Maybe he was just taking photos of the scenery, and when I snapped at "
+"him, he got spooked and tucked tail."
+msgstr ""
+"Hmm. Forse stava solo facendo foto al paesaggio, e quando gli ho abbaiato "
+"dietro, si è spaventato e ha filato via."
+
+msgctxt "368_Shion"
+msgid "......"
+msgstr "......"
+
+msgctxt "428_Shion"
+msgid "I had a great time! Thank you for taking me out today!"
+msgstr "Mi sono divertito un mondo! Grazie per l'uscita di oggi!"
+
+msgctxt "440_Shinada"
+msgid "Hey, anytime you want!"
+msgstr "Ehi, quando ti va!"
+
+msgctxt "452_Shion"
+msgid "I am looking forward to seeing you at the club again!"
+msgstr "Non vedo l'ora di rivederti al club!"

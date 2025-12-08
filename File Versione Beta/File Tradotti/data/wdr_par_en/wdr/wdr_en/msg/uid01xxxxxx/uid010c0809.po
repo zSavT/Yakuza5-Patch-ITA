@@ -1,0 +1,459 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "12152"
+msgid "Politician"
+msgstr "Politico"
+
+msgctxt "12156"
+msgid "SS1_M_NML_TAX_no"
+msgstr "SS1_M_NML_TAX_no"
+
+msgctxt "12160"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "12164"
+msgid "SS1_P_TAX_nod_A"
+msgstr "SS1_P_TAX_nod_A"
+
+msgctxt "12168"
+msgid "SS1_M_NML_TAX_look_kiryu_st"
+msgstr "SS1_M_NML_TAX_look_kiryu_st"
+
+msgctxt "12172"
+msgid "You, of course."
+msgstr "Lei, certo."
+
+msgctxt "12176"
+msgid "I only moved here six months ago."
+msgstr "Mi sono trasferito qui appena sei mesi fa."
+
+msgctxt "12180"
+msgid "I'm not all that interested in politics."
+msgstr "Non sono poi così interessato alla politica."
+
+msgctxt "12184"
+msgid "SS1_M_NML_TAX_look_kiryu_ed"
+msgstr "SS1_M_NML_TAX_look_kiryu_ed"
+
+msgctxt "12188"
+msgid "SS1_M_NML_TAX_laugh"
+msgstr "SS1_M_NML_TAX_laugh"
+
+msgctxt "12192"
+msgid "SS1_M_NML_TAX_idle"
+msgstr "SS1_M_NML_TAX_idle"
+
+msgctxt "12196"
+msgid "SS1_P_TAX_no"
+msgstr "SS1_P_TAX_no"
+
+msgctxt "12200"
+msgid "SS1_M_NML_TAX_angry"
+msgstr "SS1_M_NML_TAX_angry"
+
+msgctxt "12204"
+msgid "SS1_P_TAX_sad"
+msgstr "SS1_P_TAX_sad"
+
+msgctxt "12208"
+msgid "SS1_M_NML_TAX_nod"
+msgstr "SS1_M_NML_TAX_nod"
+
+msgctxt "12212"
+msgid "SS1_M_NML_TAX_sad"
+msgstr "SS1_M_NML_TAX_sad"
+
+msgctxt "12216"
+msgid "SS1_M_NML_TAX_sigh"
+msgstr "SS1_M_NML_TAX_sigh"
+
+msgctxt "12220"
+msgid "You beat some sense into them."
+msgstr "Lei gli ha fatto mettere la testa a posto."
+
+msgctxt "12224"
+msgid "You cater to their tastes."
+msgstr "Lei asseconda i loro gusti."
+
+msgctxt "12228"
+msgid "You should be listening to them."
+msgstr "Lei dovrebbe ascoltarli."
+
+msgctxt "12232"
+msgid "SS1_P_TAX_question"
+msgstr "SS1_P_TAX_question"
+
+msgctxt "12236"
+msgid "I don't take tips like that."
+msgstr "Non accetto mance del genere."
+
+msgctxt "12240"
+msgid "That depends on how big the tip is."
+msgstr "Dipende da quanto è grossa la mancia."
+
+msgctxt "12244"
+msgid "I'll take the tip, but my vote can't be bought."
+msgstr "Accetto la mancia, ma il mio voto non si compra."
+
+msgctxt "12248"
+msgid "SS1_P_TAX_idle_hearing"
+msgstr "SS1_P_TAX_idle_hearing"
+
+msgctxt "12252"
+msgid "SS1_M_NML_TAX_question"
+msgstr "SS1_M_NML_TAX_question"
+
+msgctxt "44_Politician"
+msgid "Phew. Going out to meet supporters sure is tiring."
+msgstr ""
+"Uff. Andare in giro a incontrare i sostenitori è proprio una faticaccia."
+
+msgctxt "56_Kiryu"
+msgid "That does sound tough."
+msgstr "Sembra proprio dura."
+
+msgctxt "68_Politician"
+msgid ""
+"Yes, but it's my electorate, so what can you do? Who did you vote for in the"
+" last election?"
+msgstr ""
+"Sì, ma è il mio elettorato, che ci vuoi fare? Per chi ha votato alle ultime "
+"elezioni?"
+
+msgctxt "80_Politician"
+msgid "You, of course."
+msgstr "Lei, ovviamente."
+
+msgctxt "92_Politician"
+msgid "Oh yeah? Good to hear it. Which of my policies do you support?"
+msgstr "Ah sì? Fa piacere sentirlo. Quale delle mie politiche sostiene?"
+
+msgctxt "104_Kiryu"
+msgid "Well, uh..."
+msgstr "Beh, uh..."
+
+msgctxt "116_Politician"
+msgid "You didn't really vote for me, did you?"
+msgstr "Lei non ha votato davvero per me, vero?"
+
+msgctxt "128_Kiryu"
+msgid "No. I'm afraid I only moved here six months ago."
+msgstr "No. Temo di essermi trasferito qui solo sei mesi fa."
+
+msgctxt "140_Politician"
+msgid "Hmph. You've got some cheek, lying to my face like that!"
+msgstr "Hmph. Hai una bella faccia tosta, a mentirmi in faccia così!"
+
+msgctxt "152_Kiryu"
+msgid "(Looks like I made him angry.)"
+msgstr "(Sembra che l'abbia fatto arrabbiare.)"
+
+msgctxt "164_Politician"
+msgid "I'm afraid I only moved here six months ago."
+msgstr "Temo di essermi trasferito qui solo sei mesi fa."
+
+msgctxt "176_Politician"
+msgid ""
+"Oh yeah? With so many people leaving these days, it's always good to see new"
+" blood moving in."
+msgstr ""
+"Ah sì? Con così tanta gente che se ne va di questi tempi, fa sempre piacere "
+"vedere sangue fresco che si trasferisce."
+
+msgctxt "188_Politician"
+msgid "I hope you pump some new life into Fukuoka!"
+msgstr "Spero che lei dia nuova linfa a Fukuoka!"
+
+msgctxt "200_Kiryu"
+msgid "(He looks pleased.)"
+msgstr "(Sembra contento.)"
+
+msgctxt "212_Politician"
+msgid "I'm not all that interested in politics."
+msgstr "Non sono poi così interessato alla politica."
+
+msgctxt "224_Politician"
+msgid "Well, at least you're honest. That said..."
+msgstr "Beh, almeno sei onesto. Detto questo..."
+
+msgctxt "236_Politician"
+msgid ""
+"You really should read up a little more. You need to be able to discuss all "
+"kinds of things in your job."
+msgstr ""
+"Dovresti proprio informarti un po' di più. Devi essere in grado di discutere"
+" un po' di tutto nel tuo lavoro."
+
+msgctxt "248_Kiryu"
+msgid "You're right. I'll brush up."
+msgstr "Hai ragione. Mi aggiornerò."
+
+msgctxt "260_Politician"
+msgid "I'm thinking about incorporating ideas from the public in my campaign."
+msgstr "Sto pensando di incorporare idee dalla gente nella mia campagna."
+
+msgctxt "272_Politician"
+msgid "What do you think the biggest problem is today?"
+msgstr "Qual è secondo te il problema più grande oggi?"
+
+msgctxt "284_Kiryu"
+msgid ""
+"Hmm. I do think it's harder for young people to hold onto their hopes and "
+"dreams these days."
+msgstr ""
+"Mmm. Credo proprio che sia più difficile per i giovani tenere strette le "
+"loro speranze e i loro sogni di questi tempi."
+
+msgctxt "296_Politician"
+msgid ""
+"Right. That worries me, as well. There's too many kids out fooling around "
+"instead of working."
+msgstr ""
+"Giusto. Anche questo mi preoccupa. Ci sono troppi ragazzi in giro a "
+"bighellonare invece di lavorare."
+
+msgctxt "308_Politician"
+msgid ""
+"But I don't know what they're thinking, and they don't seem to want to "
+"listen to adults like me."
+msgstr ""
+"Ma non so cosa abbiano in testa, e non sembrano voler dar retta ad adulti "
+"come me."
+
+msgctxt "320_Politician"
+msgid "What do you do when young people aren't even willing to hear you out?"
+msgstr "Cosa fai quando i giovani non sono nemmeno disposti a darti retta?"
+
+msgctxt "332_Politician"
+msgid "If they won't listen to you, why not beat some sense into them?"
+msgstr "Se non ti danno retta, perché non gli dai una bella lezione?"
+
+msgctxt "344_Politician"
+msgid ""
+"That'll only make things worse. They'll turn their backs on us completely."
+msgstr ""
+"Questo non farà che peggiorare le cose. Ci volteranno le spalle "
+"completamente."
+
+msgctxt "356_Politician"
+msgid ""
+"These days most kids have never even had a spanking from their parents."
+msgstr ""
+"Di questi tempi la maggior parte dei ragazzi non ha nemmeno mai preso una "
+"sculacciata dai genitori."
+
+msgctxt "368_Politician"
+msgid "It doesn't seem like your idea is very realistic."
+msgstr "Non mi sembra che la tua idea sia molto realistica."
+
+msgctxt "380_Kiryu"
+msgid "Hmm."
+msgstr "Mhh."
+
+msgctxt "392_Politician"
+msgid "Maybe you could present yourself in a way that caters to their tastes?"
+msgstr "Magari potresti presentarti in un modo che sia più nelle loro corde?"
+
+msgctxt "404_Politician"
+msgid "Hmm. That's a point, but I don't know..."
+msgstr "Mmm. È un punto, ma non saprei..."
+
+msgctxt "416_Politician"
+msgid ""
+"Politics should be genuine, not just a performance. Putting on an act solves"
+" nothing."
+msgstr ""
+"La politica dovrebbe essere genuina, non solo una recita. Fingere non "
+"risolve nulla."
+
+msgctxt "428_Kiryu"
+msgid "I see. It is tricky."
+msgstr "Capisco. È complicato."
+
+msgctxt "440_Politician"
+msgid "How about listening to them first?"
+msgstr "Che ne dici di dar loro retta, prima?"
+
+msgctxt "452_Politician"
+msgid "Huh? You think I should listen to young people?"
+msgstr "Eh? Pensi che dovrei dare retta ai giovani?"
+
+msgctxt "464_Kiryu"
+msgid ""
+"You complain that they don't hear you out, but have you been giving them a "
+"voice to speak with?"
+msgstr ""
+"Ti lamenti che non ti danno retta, ma tu gli hai dato una voce per parlare?"
+
+msgctxt "476_Politician"
+msgid ""
+"Now that you mention it, I don't remember talking to many young people in "
+"the past."
+msgstr ""
+"Ora che ci penso, non ricordo di aver parlato con molti giovani in passato."
+
+msgctxt "488_Politician"
+msgid ""
+"But we're just not on the same wavelength. It's like they're a whole "
+"different species."
+msgstr ""
+"Ma non siamo proprio sulla stessa lunghezza d'onda. È come se fossero una "
+"specie completamente diversa."
+
+msgctxt "500_Kiryu"
+msgid ""
+"When you were young, didn't you get sick of being ignored by those who were "
+"older than you?"
+msgstr ""
+"Quando eri giovane, non ti rompeva le scatole essere ignorato da quelli più "
+"grandi di te?"
+
+msgctxt "512_Politician"
+msgid ""
+"Well, I did do my fair share of partying. That never went down well with my "
+"parents."
+msgstr "Beh, ho fatto un bel po' di baldoria. Ai miei non andava mai giù."
+
+msgctxt "524_Politician"
+msgid ""
+"When I think about it, maybe the youth of today aren't so different from me."
+msgstr ""
+"Ora che ci penso, forse i giovani di oggi non sono poi così diversi da me."
+
+msgctxt "536_Politician"
+msgid ""
+"All right! I'll try giving them a chance to share their opinions and hear "
+"them out."
+msgstr ""
+"Va bene! Proverò a dar loro una possibilità di condividere le loro opinioni "
+"e a dar loro retta."
+
+msgctxt "548_Politician"
+msgid "Then maybe they'll be more willing to listen to me as well!"
+msgstr "E allora magari saranno più disposti a dar retta anche a me!"
+
+msgctxt "560_Politician"
+msgid "I like the way you think, driver! Thanks for the tip!"
+msgstr "Mi piace come ragioni, autista! Grazie della dritta!"
+
+msgctxt "572_Kiryu"
+msgid "Happy to be of service."
+msgstr "Felice di esserle d'aiuto."
+
+msgctxt "584_Politician"
+msgid ""
+"Thank you for the ride. I'll give you a big tip if you promise to back me in"
+" the election."
+msgstr ""
+"Grazie della corsa. Ti darò una grossa mancia se prometti di appoggiarmi "
+"alle elezioni."
+
+msgctxt "596_Politician"
+msgid "I don't take tips like that."
+msgstr "Non prendo mance così."
+
+msgctxt "608_Kiryu"
+msgid "Tips are supposed to be a gesture of appreciation."
+msgstr "Le mance dovrebbero essere un gesto di apprezzamento."
+
+msgctxt "620_Politician"
+msgid "Ha. You're straight as an arrow, aren't you?"
+msgstr "Ah. Sei dritto come una freccia, vero?"
+
+msgctxt "632_Politician"
+msgid ""
+"If there were more people like you around here, there might actually be some"
+" hope for this country."
+msgstr ""
+"Se ci fossero più persone come te in giro, ci sarebbe davvero della speranza"
+" per questo paese."
+
+msgctxt "644_Politician"
+msgid "That depends on how big the tip is."
+msgstr "Questo dipende da quanto è grossa la mancia."
+
+msgctxt "656_Politician"
+msgid "Hmm. How much are we talking?"
+msgstr "Mh. Di quanto stiamo parlando?"
+
+msgctxt "668_Kiryu"
+msgid "For my vote? 10,000 yen."
+msgstr "Per il mio voto? 10.000 yen."
+
+msgctxt "680_Politician"
+msgid "Ha! Don't make me laugh."
+msgstr "Ah! Non farmi ridere."
+
+msgctxt "692_Politician"
+msgid ""
+"I'm always curious to see whether guys like you would take a bribe or turn "
+"it down. That's the only reason I said that."
+msgstr ""
+"Sono sempre curioso di vedere se uno come te prenderebbe una tangente o la "
+"rifiuterebbe. È l'unica ragione per cui l'ho detto."
+
+msgctxt "704_Politician"
+msgid ""
+"I picked you as someone who couldn't be bought. I guess I was wrong, though."
+msgstr ""
+"Ti avevo preso per uno che non si faceva comprare. A quanto pare mi "
+"sbagliavo, però."
+
+msgctxt "716_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "728_Politician"
+msgid "I'll take the tip, but my vote can't be bought."
+msgstr "Prenderò la mancia, ma il mio voto non si compra."
+
+msgctxt "740_Politician"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "752_Kiryu"
+msgid "If I voted for you, it could be seen as bribery."
+msgstr "Se votassi per te, potrebbe sembrare corruzione."
+
+msgctxt "764_Politician"
+msgid ""
+"Well, if you feel that way, you should just turn down the tip altogether."
+msgstr ""
+"Beh, se la metti così, dovresti semplicemente rifiutare la mancia del tutto."
+
+msgctxt "776_Kiryu"
+msgid "Hm."
+msgstr "Mh."
+
+msgctxt "788_Politician"
+msgid ""
+"I'm always curious to see whether guys like you would take a bribe or turn "
+"it down. That's the only reason I said that."
+msgstr ""
+"Sono sempre curioso di vedere se uno come te prenderebbe una tangente o la "
+"rifiuterebbe. È l'unica ragione per cui l'ho detto."
+
+msgctxt "800_Politician"
+msgid ""
+"I picked you as someone who would turn me down flat. I guess I was wrong, "
+"though."
+msgstr ""
+"Ti avevo preso per uno che mi avrebbe detto di no secco. A quanto pare mi "
+"sbagliavo, però."
+
+msgctxt "812_Kiryu"
+msgid "......"
+msgstr "......"

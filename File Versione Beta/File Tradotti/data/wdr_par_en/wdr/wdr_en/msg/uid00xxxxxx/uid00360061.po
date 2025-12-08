@@ -1,0 +1,147 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "4780"
+msgid "Honoka"
+msgstr "Honoka"
+
+msgctxt "4788"
+msgid "Sing"
+msgstr "Canta"
+
+msgctxt "4792"
+msgid "Don't Sing"
+msgstr "Non Cantare"
+
+msgctxt "4796"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "4800"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4804"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "156_Honoka"
+msgid "Leave the vocal performance to me!"
+msgstr "A cantare, ci penso io!"
+
+msgctxt "168_Honoka"
+msgid ""
+"Now, to pick a song... I know! <Color:255,200,200,255>\"Ring.\" "
+"<Color:Default>Don't ya just love that one? "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Ora, per scegliere una canzone... So io! <Color:255,200,200,255>\"Ring.\" "
+"<Color:Default>Non la adori, eh? <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "180_Honoka"
+msgid ""
+"That was so much fun. <Color:255,200,200,255>♥<Color:Default> And you really"
+" got my blood pumpin', %s-san."
+msgstr ""
+"È stato un vero spasso! <Color:255,200,200,255>♥<Color:Default> E mi hai "
+"proprio fatto salire l'adrenalina, %s-san."
+
+msgctxt "192_Honoka"
+msgid ""
+"Why don't you give it a try, %s-san. <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Perché non provi tu, %s-san. <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "204_Player"
+msgid "Sure, I suppose I could sing one."
+msgstr "Ma sì, magari ne canto una."
+
+msgctxt "216_Honoka"
+msgid ""
+"Can't wait to hear you sing, %s-san. <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Non vedo l'ora di sentirti cantare, %s-san. "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "228_Player"
+msgid "No thanks, I think I'll pass."
+msgstr "No grazie, credo di passare."
+
+msgctxt "240_Honoka"
+msgid "Aw, you're no fun, %s-san."
+msgstr "Dai, non sei uno spasso, %s-san."
+
+msgctxt "252_Honoka"
+msgid "You made it really hard to sing."
+msgstr "Mi hai proprio reso difficile cantare."
+
+msgctxt "264_Player"
+msgid "Sorry about that."
+msgstr "Scusami tanto."
+
+msgctxt "276_Honoka"
+msgid "That felt so good! You sure know how to get the party started, %s."
+msgstr "Che goduria! Sai proprio come far scatenare la festa, %s."
+
+msgctxt "288_Honoka"
+msgid ""
+"You should sing one, too, %s-san. <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Dai, cantane una anche tu, %s-san. <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "300_Player"
+msgid "Sure, I suppose I could sing one."
+msgstr "Ma sì, magari ne canto una."
+
+msgctxt "312_Honoka"
+msgid ""
+"Can't wait to hear you sing, %s-san. <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Non vedo l'ora di sentirti cantare, %s-san. "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "324_Player"
+msgid "No thanks, I think I'll pass."
+msgstr "No grazie, credo di passare."
+
+msgctxt "336_Honoka"
+msgid "Aw, you're no fun, %s-san."
+msgstr "Dai, non sei uno spasso, %s-san."
+
+msgctxt "348_Honoka"
+msgid ""
+"You nailed it, Akiyama-san! I knew you'd have an awesome voice. "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"L'hai spaccata, Akiyama-san! Sapevo che avresti avuto una voce fantastica. "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "360_Player"
+msgid "Nice of you to say."
+msgstr "Fa piacere sentirtelo dire."
+
+msgctxt "372_Honoka"
+msgid "That was interesting in its own special way."
+msgstr "Beh, è stato interessante a modo suo."
+
+msgctxt "384_Player"
+msgid "That wasn't much of a compliment..."
+msgstr "Non era mica un gran complimento..."
+
+msgctxt "396_Honoka"
+msgid "Wish I could listen to you sing forever. You sing like a pro, %s-san."
+msgstr "Magari potessi ascoltarti cantare per sempre. Canti da pro, %s-san."
+
+msgctxt "408_Player"
+msgid "Aw, shucks."
+msgstr "Ma dai!"

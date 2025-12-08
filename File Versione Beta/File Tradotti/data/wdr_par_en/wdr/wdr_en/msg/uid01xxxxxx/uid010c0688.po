@@ -1,0 +1,117 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "92"
+msgid "You got <Color:8>5,000 yen<Color:Default>."
+msgstr "Ti sei beccato <Color:8>5,000 yen<Color:Default>."
+
+msgctxt "308"
+msgid "You got 400 experience points."
+msgstr "Ti sei beccato 400 punti esperienza."
+
+msgctxt "4128"
+msgid "Young Salesman"
+msgstr "Giovane Venditore"
+
+msgctxt "4132"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "4136"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "4140"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4144"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "4148"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "4152"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "4156"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "4160"
+msgid "0"
+msgstr "0"
+
+msgctxt "56_Young Salesman"
+msgid "Hey, thanks for the ride! I'm ready to give it another shot!"
+msgstr "Ehi, grazie per il passaggio! Sono pronto a riprovarci!"
+
+msgctxt "68_Kiryu"
+msgid "(Good to see that he's cheered up.)"
+msgstr "(Fa piacere vederlo tirato su.)"
+
+msgctxt "80_Young Salesman"
+msgid "Here's the fare. Let me add a little something on top!"
+msgstr "Ecco la tariffa. Ti metto su qualcosina in più!"
+
+msgctxt "116_Young Salesman"
+msgid "Thank you."
+msgstr "Grazie."
+
+msgctxt "128_Young Salesman"
+msgid "All right, time to get some work done!"
+msgstr "Ok, è ora di darsi da fare!"
+
+msgctxt "140_Young Salesman"
+msgid "Hey, thanks for the ride! I'm ready to give it another shot!"
+msgstr "Ehi, grazie per il passaggio! Sono pronto a riprovarci!"
+
+msgctxt "152_Kiryu"
+msgid "(Good to see that he's cheered up.)"
+msgstr "(Fa piacere vederlo tirato su.)"
+
+msgctxt "164_Young Salesman"
+msgid "Here's the fare."
+msgstr "Ecco la tariffa."
+
+msgctxt "188_Young Salesman"
+msgid "Thank you."
+msgstr "Grazie."
+
+msgctxt "200_Young Salesman"
+msgid "Guess I'll get some work done, eh?"
+msgstr "Mi sa che mi darò da fare, eh?"
+
+msgctxt "212_Young Salesman"
+msgid "Thanks for the ride... Oh, right, the fare."
+msgstr "Grazie per il passaggio... Ah, giusto, la tariffa."
+
+msgctxt "224_Kiryu"
+msgid "(He looks even gloomier now.)"
+msgstr "(Sembra ancora più mogio.)"
+
+msgctxt "248_Young Salesman"
+msgid "Thank you."
+msgstr "Grazie."
+
+msgctxt "260_Young Salesman"
+msgid "Uh-huh..."
+msgstr "Uh-uh..."
+
+msgctxt "272_Kiryu"
+msgid "(Guess encouraging young people isn't as easy as I thought.)"
+msgstr "(Mi sa che incoraggiare i giovani non è così facile come pensavo.)"

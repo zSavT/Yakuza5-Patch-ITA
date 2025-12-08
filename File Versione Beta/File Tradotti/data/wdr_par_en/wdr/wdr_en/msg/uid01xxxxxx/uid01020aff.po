@@ -1,0 +1,738 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "18744"
+msgid "Mama"
+msgstr "Mama"
+
+msgctxt "18748"
+msgid "adv5_015/mama_0001a"
+msgstr "adv5_015/mama_0001a"
+
+msgctxt "18752"
+msgid "adv5_015/mama_0001b"
+msgstr "adv5_015/mama_0001b"
+
+msgctxt "18756"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "18760"
+msgid "adv5_015/kiryu_0443"
+msgstr "adv5_015/kiryu_0443"
+
+msgctxt "18764"
+msgid "adv5_015/kiryu_0444"
+msgstr "adv5_015/kiryu_0444"
+
+msgctxt "18768"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "18772"
+msgid "adv5_015/mama_0002a"
+msgstr "adv5_015/mama_0002a"
+
+msgctxt "18776"
+msgid "adv5_015/mama_0002b"
+msgstr "adv5_015/mama_0002b"
+
+msgctxt "18780"
+msgid "adv5_015/kiryu_0445"
+msgstr "adv5_015/kiryu_0445"
+
+msgctxt "18784"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "18788"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "18792"
+msgid "adv5_015/mama_0003"
+msgstr "adv5_015/mama_0003"
+
+msgctxt "18796"
+msgid "adv5_015/kiryu_0446"
+msgstr "adv5_015/kiryu_0446"
+
+msgctxt "18800"
+msgid "adv5_015/mama_0004"
+msgstr "adv5_015/mama_0004"
+
+msgctxt "18804"
+msgid "adv5_015/kiryu_0447"
+msgstr "adv5_015/kiryu_0447"
+
+msgctxt "18808"
+msgid "adv5_015/kiryu_0448"
+msgstr "adv5_015/kiryu_0448"
+
+msgctxt "18812"
+msgid "Baba"
+msgstr "Baba"
+
+msgctxt "18816"
+msgid "adv5_015/baba_0243"
+msgstr "adv5_015/baba_0243"
+
+msgctxt "18820"
+msgid "kaiwabgm_fuon05"
+msgstr "kaiwabgm_fuon05"
+
+msgctxt "18824"
+msgid "adv5_020/baba_0244a"
+msgstr "adv5_020/baba_0244a"
+
+msgctxt "18828"
+msgid "adv5_020/baba_0244b"
+msgstr "adv5_020/baba_0244b"
+
+msgctxt "18832"
+msgid "adv5_020/kiryu_0449"
+msgstr "adv5_020/kiryu_0449"
+
+msgctxt "18836"
+msgid "adv5_020/baba_0245a"
+msgstr "adv5_020/baba_0245a"
+
+msgctxt "18840"
+msgid "adv5_020/baba_0245b"
+msgstr "adv5_020/baba_0245b"
+
+msgctxt "18844"
+msgid "adv5_020/baba_0245c"
+msgstr "adv5_020/baba_0245c"
+
+msgctxt "18848"
+msgid "adv5_020/kiryu_0450a"
+msgstr "adv5_020/kiryu_0450a"
+
+msgctxt "18852"
+msgid "C5020_KRU_TLK_sitcnt2_lp"
+msgstr "C5020_KRU_TLK_sitcnt2_lp"
+
+msgctxt "18856"
+msgid "C5020_KRU_TLK_sitcnt2_st"
+msgstr "C5020_KRU_TLK_sitcnt2_st"
+
+msgctxt "18860"
+msgid "adv5_020/kiryu_0450b"
+msgstr "adv5_020/kiryu_0450b"
+
+msgctxt "18864"
+msgid "adv5_020/baba_0246a"
+msgstr "adv5_020/baba_0246a"
+
+msgctxt "18868"
+msgid "adv5_020/baba_0246b"
+msgstr "adv5_020/baba_0246b"
+
+msgctxt "18872"
+msgid "adv5_020/kiryu_0451"
+msgstr "adv5_020/kiryu_0451"
+
+msgctxt "18876"
+msgid "adv5_020/baba_0247a"
+msgstr "adv5_020/baba_0247a"
+
+msgctxt "18880"
+msgid "adv5_020/baba_0247b"
+msgstr "adv5_020/baba_0247b"
+
+msgctxt "18884"
+msgid "adv5_020/baba_0247c"
+msgstr "adv5_020/baba_0247c"
+
+msgctxt "18888"
+msgid "adv5_020/kiryu_0452"
+msgstr "adv5_020/kiryu_0452"
+
+msgctxt "18892"
+msgid "adv5_020/baba_0248a"
+msgstr "adv5_020/baba_0248a"
+
+msgctxt "18896"
+msgid "adv5_020/baba_0248b"
+msgstr "adv5_020/baba_0248b"
+
+msgctxt "18900"
+msgid "adv5_020/kiryu_0453"
+msgstr "adv5_020/kiryu_0453"
+
+msgctxt "18904"
+msgid "adv5_020/baba_0249a"
+msgstr "adv5_020/baba_0249a"
+
+msgctxt "18908"
+msgid "adv5_020/baba_0249b"
+msgstr "adv5_020/baba_0249b"
+
+msgctxt "18912"
+msgid "adv5_020/kiryu_0454"
+msgstr "adv5_020/kiryu_0454"
+
+msgctxt "18916"
+msgid "adv5_020/baba_0250a"
+msgstr "adv5_020/baba_0250a"
+
+msgctxt "18920"
+msgid "adv5_020/baba_0250b"
+msgstr "adv5_020/baba_0250b"
+
+msgctxt "18924"
+msgid "adv5_020/kiryu_0455a"
+msgstr "adv5_020/kiryu_0455a"
+
+msgctxt "18928"
+msgid "adv5_020/kiryu_0455b"
+msgstr "adv5_020/kiryu_0455b"
+
+msgctxt "18932"
+msgid "adv5_020/baba_0251a"
+msgstr "adv5_020/baba_0251a"
+
+msgctxt "18936"
+msgid "adv5_020/baba_0251b"
+msgstr "adv5_020/baba_0251b"
+
+msgctxt "18940"
+msgid "adv5_020/baba_0251c"
+msgstr "adv5_020/baba_0251c"
+
+msgctxt "18944"
+msgid "adv5_020/kiryu_0456"
+msgstr "adv5_020/kiryu_0456"
+
+msgctxt "18948"
+msgid "adv5_020/baba_0252a"
+msgstr "adv5_020/baba_0252a"
+
+msgctxt "18952"
+msgid "adv5_020/baba_0252b"
+msgstr "adv5_020/baba_0252b"
+
+msgctxt "18956"
+msgid "adv5_020/baba_0252c"
+msgstr "adv5_020/baba_0252c"
+
+msgctxt "18960"
+msgid "adv5_020/baba_0252d"
+msgstr "adv5_020/baba_0252d"
+
+msgctxt "18964"
+msgid "adv5_020/kiryu_0457"
+msgstr "adv5_020/kiryu_0457"
+
+msgctxt "18968"
+msgid "adv5_020/baba_0253"
+msgstr "adv5_020/baba_0253"
+
+msgctxt "18972"
+msgid "adv5_020/kiryu_0458"
+msgstr "adv5_020/kiryu_0458"
+
+msgctxt "18976"
+msgid "adv5_020/baba_0254"
+msgstr "adv5_020/baba_0254"
+
+msgctxt "18980"
+msgid "C5020_BAB_TLK_sitcnt2_lp"
+msgstr "C5020_BAB_TLK_sitcnt2_lp"
+
+msgctxt "18984"
+msgid "C5020_BAB_TLK_sitcnt2_st"
+msgstr "C5020_BAB_TLK_sitcnt2_st"
+
+msgctxt "18988"
+msgid "adv5_020/kiryu_0459"
+msgstr "adv5_020/kiryu_0459"
+
+msgctxt "18992"
+msgid "adv5_020/baba_0255a"
+msgstr "adv5_020/baba_0255a"
+
+msgctxt "18996"
+msgid "adv5_020/baba_0255b"
+msgstr "adv5_020/baba_0255b"
+
+msgctxt "19000"
+msgid "adv5_020/baba_0255c"
+msgstr "adv5_020/baba_0255c"
+
+msgctxt "19004"
+msgid "adv5_020/kiryu_0460"
+msgstr "adv5_020/kiryu_0460"
+
+msgctxt "19008"
+msgid "adv5_020/baba_0256a"
+msgstr "adv5_020/baba_0256a"
+
+msgctxt "19012"
+msgid "adv5_020/baba_0256b"
+msgstr "adv5_020/baba_0256b"
+
+msgctxt "19016"
+msgid "C5020_BAB_TLK_sitcnt2_ed"
+msgstr "C5020_BAB_TLK_sitcnt2_ed"
+
+msgctxt "19020"
+msgid "adv5_020/kiryu_0461a"
+msgstr "adv5_020/kiryu_0461a"
+
+msgctxt "19024"
+msgid "adv5_020/kiryu_0461b"
+msgstr "adv5_020/kiryu_0461b"
+
+msgctxt "19028"
+msgid "adv5_020/baba_0257"
+msgstr "adv5_020/baba_0257"
+
+msgctxt "19032"
+msgid "adv5_020/kiryu_0462"
+msgstr "adv5_020/kiryu_0462"
+
+msgctxt "19036"
+msgid "adv5_020/baba_0258a"
+msgstr "adv5_020/baba_0258a"
+
+msgctxt "19040"
+msgid "adv5_020/baba_0258b"
+msgstr "adv5_020/baba_0258b"
+
+msgctxt "19044"
+msgid "adv5_020/baba_0258c"
+msgstr "adv5_020/baba_0258c"
+
+msgctxt "19048"
+msgid "adv5_020/baba_0258d"
+msgstr "adv5_020/baba_0258d"
+
+msgctxt "19052"
+msgid "adv5_020/baba_0258e"
+msgstr "adv5_020/baba_0258e"
+
+msgctxt "19056"
+msgid "adv5_020/baba_0258f"
+msgstr "adv5_020/baba_0258f"
+
+msgctxt "19060"
+msgid "adv5_020/kiryu_0463a"
+msgstr "adv5_020/kiryu_0463a"
+
+msgctxt "19064"
+msgid "C5020_KRU_TLK_sitcnt2_ed"
+msgstr "C5020_KRU_TLK_sitcnt2_ed"
+
+msgctxt "19068"
+msgid "adv5_020/kiryu_0463b"
+msgstr "adv5_020/kiryu_0463b"
+
+msgctxt "19072"
+msgid "adv5_020/baba_0259"
+msgstr "adv5_020/baba_0259"
+
+msgctxt "84_Mama"
+msgid "I'm sorry. We're not open yet."
+msgstr "Mi dispiace. Non siamo ancora aperti."
+
+msgctxt "96_Mama"
+msgid "Wait－ Kiryu-san!?"
+msgstr "Aspetta－ Kiryu-san!?"
+
+msgctxt "108_Kiryu"
+msgid "Nice to see you again."
+msgstr "Piacere di rivederti."
+
+msgctxt "120_Kiryu"
+msgid ""
+"Can you help us out? We need somewhere private to talk. Mind if we take over"
+" the bar for an hour?"
+msgstr ""
+"Puoi darci una mano? Ci serve un posto riservato per parlare. Ti dispiace se"
+" ci prendiamo il bar per un'ora?"
+
+msgctxt "132_Mama"
+msgid "Not at all, Kiryu-san. I'm just so happy to see you again."
+msgstr "Figurati, Kiryu-san. Sono proprio contenta di rivederti."
+
+msgctxt "144_Mama"
+msgid "I'll make sure no one else comes in."
+msgstr "Ci penso io a non far entrare nessun altro."
+
+msgctxt "156_Kiryu"
+msgid "Thanks."
+msgstr "Grazie."
+
+msgctxt "240_Mama"
+msgid "Something to drink?"
+msgstr "Qualcosa da bere?"
+
+msgctxt "252_Kiryu"
+msgid "No, we're fine."
+msgstr "No, va bene così."
+
+msgctxt "264_Mama"
+msgid "Okay. I'll be in the back, so call me if you need anything."
+msgstr "Va bene. Starò sul retro, perciò chiamami se ti serve qualcosa."
+
+msgctxt "276_Kiryu"
+msgid "I will."
+msgstr "Certo."
+
+msgctxt "312_Kiryu"
+msgid "You've got your privacy. So you better start talking."
+msgstr "Avete la vostra privacy. Quindi, è meglio che iniziate a parlare."
+
+msgctxt "324_Baba"
+msgid "Okay. Let me start by laying out Morinaga's big plan."
+msgstr "Va bene. Lasciami iniziare spiegando il grande piano di Morinaga."
+
+msgctxt "336_Baba"
+msgid "...Although it might be obvious at this point."
+msgstr "...Anche se a questo punto potrebbe essere ovvio."
+
+msgctxt "348_Baba"
+msgid "Right now, war is about to break out between Tojo and Omi."
+msgstr "Ora, la guerra sta per scoppiare tra Tojo e Omi."
+
+msgctxt "360_Kiryu"
+msgid ""
+"Daigo told me the seventh Omi chairman isn't long for this world. And those "
+"two are the ones who made the peace agreement."
+msgstr ""
+"Daigo mi ha detto che il settimo presidente dell'Omi non durerà a lungo. E "
+"quei due sono quelli che hanno stipulato l'accordo di pace."
+
+msgctxt "372_Baba"
+msgid ""
+"Exactly. If the seventh chairman dies, war between the east and west is "
+"pretty much guaranteed."
+msgstr ""
+"Esatto. Se il settimo presidente muore, la guerra tra est e ovest è "
+"praticamente garantita."
+
+msgctxt "384_Baba"
+msgid ""
+"That's why some of the high-ranking Tojo guys went around drumming up "
+"support. They went to Fukuoka, Sapporo, and Nagoya, and talked to the local "
+"yakuza there."
+msgstr ""
+"È per questo che alcuni degli alti papaveri del Tojo sono andati in giro a "
+"raccogliere consensi. Sono andati a Fukuoka, Sapporo e Nagoya, e hanno "
+"parlato con la yakuza locale lì."
+
+msgctxt "396_Baba"
+msgid ""
+"Lieutenant Azumi went to Nagoya, Majima-san took Sapporo, and Chairman "
+"Dojima went to Fukuoka."
+msgstr ""
+"Il tenente Azumi è andato a Nagoya, Majima-san ha preso Sapporo, e il "
+"presidente Dojima è andato a Fukuoka."
+
+msgctxt "408_Kiryu"
+msgid "But then Daigo went missing in Fukuoka..."
+msgstr "Ma poi Daigo è scomparso a Fukuoka..."
+
+msgctxt "420_Kiryu"
+msgid "Because of the betrayal... by Aoyama and Morinaga."
+msgstr "A causa del tradimento... di Aoyama e Morinaga."
+
+msgctxt "432_Baba"
+msgid ""
+"Right. Their original plan was for Chairman Dojima to be executed, along "
+"with Madarame, the head of the Yamagasa Family."
+msgstr ""
+"Esatto. Il loro piano originale era che il Presidente Dojima venisse "
+"giustiziato, insieme a Madarame, il capo della Famiglia Yamagasa."
+
+msgctxt "444_Baba"
+msgid ""
+"But that plan failed. And after Chairman Dojima and Madarame both escaped, "
+"Aoyama-san shifted gears."
+msgstr ""
+"Ma quel piano è fallito. E dopo che sia il Presidente Dojima che Madarame "
+"sono scappati, Aoyama-san ha cambiato strategia."
+
+msgctxt "456_Kiryu"
+msgid "He had some ideas of his own?"
+msgstr "Aveva delle idee tutte sue?"
+
+msgctxt "468_Baba"
+msgid ""
+"Oh, yeah. With Chairman Dojima missing, he tried to take over the Tojo."
+msgstr ""
+"Oh, sì. Con il Presidente Dojima scomparso, ha cercato di prendere il "
+"controllo del Tojo."
+
+msgctxt "480_Baba"
+msgid ""
+"But taking over was never the real mission that Aoyama-san and Morinaga were"
+" tasked with."
+msgstr ""
+"Ma prendere il controllo non è mai stata la vera missione che Aoyama-san e "
+"Morinaga avevano in carico."
+
+msgctxt "492_Baba"
+msgid "Quite the opposite. The real mission was to sell out the Tojo."
+msgstr "Anzi, proprio il contrario. La vera missione era svendere il Tojo."
+
+msgctxt "504_Kiryu"
+msgid "Sell it out? Hm. I think I can guess who the buyer was."
+msgstr "Svendere? Hm. Penso di poter indovinare chi fosse l'acquirente."
+
+msgctxt "516_Baba"
+msgid "Yep. The Omi Alliance."
+msgstr "Già. L'Alleanza Omi."
+
+msgctxt "528_Baba"
+msgid "Aoyama and Morinaga were in bed with the Omi all along."
+msgstr ""
+"Aoyama e Morinaga erano in combutta con l'Alleanza Omi fin dall'inizio."
+
+msgctxt "540_Kiryu"
+msgid "Damn those guys..."
+msgstr "Maledetti quei tipi..."
+
+msgctxt "552_Baba"
+msgid "They had two objectives."
+msgstr "Avevano due obiettivi."
+
+msgctxt "564_Baba"
+msgid ""
+"The first was to assassinate the Tojo leadership, like Chairman Dojima and "
+"Majima-san. The other objective was－"
+msgstr ""
+"Il primo era assassinare i vertici del Tojo, come il Presidente Dojima e "
+"Majima-san. L'altro obiettivo era－"
+
+msgctxt "576_Kiryu"
+msgid "Me."
+msgstr "Io."
+
+msgctxt "588_Baba"
+msgid ""
+"Yes. They were going to monitor former members, like you and Saejima-san, "
+"and lure you back to Tokyo."
+msgstr ""
+"Sì. Dovevano tenere d'occhio gli ex membri, come te e Saejima-san, e "
+"attirarti di nuovo a Tokyo."
+
+msgctxt "600_Baba"
+msgid "Once you arrived, the next step was to do you in, of course."
+msgstr "Una volta arrivato, il prossimo passo era farti fuori, ovviamente."
+
+msgctxt "612_Kiryu"
+msgid "But why make Tokyo their killing floor?"
+msgstr "Ma perché fare di Tokyo il loro mattatoio?"
+
+msgctxt "624_Kiryu"
+msgid ""
+"They didn't need to do it here. In fact, it would've been easier to deal "
+"with everyone separately."
+msgstr ""
+"Non dovevano farlo qui. Anzi, sarebbe stato più facile sbarazzarsi di tutti "
+"separatamente."
+
+msgctxt "636_Baba"
+msgid ""
+"No, it did have to be here. As far as the Omi Alliance is concerned, the "
+"Tojo Clan is built upon two legendary yakuza guys."
+msgstr ""
+"No, doveva proprio essere qui. Per quanto riguarda l'Alleanza Omi, il Clan "
+"Tojo si basa su due yakuza leggendari."
+
+msgctxt "648_Baba"
+msgid ""
+"Kazuma Kiryu and Taiga Saejima. The Dragon of Dojima, and the slayer of "
+"eighteen."
+msgstr ""
+"Kazuma Kiryu e Taiga Saejima. Il Drago di Dojima, e l'uccisore di diciotto."
+
+msgctxt "660_Baba"
+msgid "Removing the two of you would bring the Tojo Clan to its knees."
+msgstr "Sbarazzarsi di voi due metterebbe in ginocchio il Clan Tojo."
+
+msgctxt "672_Kiryu"
+msgid ""
+"By killing us both in Tokyo, they thought the whole clan would just be "
+"theirs for the taking."
+msgstr ""
+"Uccidendoci entrambi a Tokyo, pensavano che l'intero clan sarebbe stato loro"
+" senza problemi."
+
+msgctxt "684_Baba"
+msgid "Yes, but not to exterminate it－to lead it."
+msgstr "Sì, ma non per sterminarlo－per guidarlo."
+
+msgctxt "696_Baba"
+msgid ""
+"Do you see? They wanted more than Tojo turf. They wanted Tojo soldiers."
+msgstr ""
+"Capisci? Volevano più del territorio del Tojo. Volevano i soldati del Tojo."
+
+msgctxt "708_Baba"
+msgid "All 30,000. That's why they wanted to avoid an all-out war."
+msgstr "Tutti e 30.000. Ecco perché volevano evitare una guerra totale."
+
+msgctxt "720_Baba"
+msgid "Why kill their own future recruits?"
+msgstr "Perché uccidere le loro stesse future reclute?"
+
+msgctxt "732_Kiryu"
+msgid "Is Saejima already on his way to Tokyo?"
+msgstr "È Saejima già in viaggio per Tokyo?"
+
+msgctxt "744_Baba"
+msgid "Probably. I was with him up until we broke out of prison."
+msgstr "Probabilmente. Ero con lui finché non siamo evasi di prigione."
+
+msgctxt "756_Kiryu"
+msgid ""
+"Sounds like you know each other pretty well. You two become close friends or"
+" something?"
+msgstr ""
+"Sembra che vi conosciate piuttosto bene. Siete diventati amici intimi o "
+"cosa?"
+
+msgctxt "768_Baba"
+msgid ""
+"Well. You tend to bond when you do time together. Of course, I was planted "
+"there as part of the plan."
+msgstr ""
+"Beh. Si lega quando si fa un po' di galera insieme. Certo, ero stato "
+"piazzato lì come parte del piano."
+
+msgctxt "780_Kiryu"
+msgid "I see."
+msgstr "Capisco."
+
+msgctxt "792_Baba"
+msgid ""
+"I was under the orders of the Omi Alliance, just like Aoyama and Morinaga."
+msgstr ""
+"Ero sotto gli ordini dell'Alleanza Omi, proprio come Aoyama e Morinaga."
+
+msgctxt "804_Baba"
+msgid ""
+"My role was to break Saejima-san out of prison, and make sure he was "
+"motivated to investigate Majima-san's death."
+msgstr ""
+"Il mio ruolo era quello di far evadere Saejima-san di prigione, e "
+"assicurarmi che fosse motivato a indagare sulla morte di Majima-san."
+
+msgctxt "816_Baba"
+msgid ""
+"After the break-out, things were going according to plan. But somewhere "
+"along the way, I... Um, I..."
+msgstr ""
+"Dopo l'evasione, le cose stavano andando secondo i piani. Ma a un certo "
+"punto, io... Ehm, io..."
+
+msgctxt "828_Kiryu"
+msgid "Saejima won you over, huh?"
+msgstr "Saejima ti ha conquistato, eh?"
+
+msgctxt "840_Baba"
+msgid "...By the time we split up, I felt like I'd follow him anywhere."
+msgstr "...Quando ci siamo separati, sentivo che l'avrei seguito ovunque."
+
+msgctxt "852_Baba"
+msgid "That's why I'm here, talking to you and spilling the beans."
+msgstr "Ecco perché sono qui a parlare con te e a vuotare il sacco."
+
+msgctxt "864_Kiryu"
+msgid "But whose beans are they?"
+msgstr "Ma di chi sono questi fagioli?"
+
+msgctxt "876_Kiryu"
+msgid ""
+"You say Omi is behind it, but their captain Watase didn't seem to know "
+"anything."
+msgstr ""
+"Tu dici che l'Omi ci sta dietro, ma il loro capitano Watase non sembrava "
+"sapere nulla."
+
+msgctxt "888_Baba"
+msgid ""
+"To understand that, you have to know what's happening on the Omi side of "
+"things."
+msgstr ""
+"Per capire questo, devi sapere cosa sta succedendo dalla parte dell'Omi."
+
+msgctxt "900_Kiryu"
+msgid "I know that the factions are vying for the top spot."
+msgstr "So che le fazioni si stanno contendendo il vertice."
+
+msgctxt "912_Baba"
+msgid "Okay, then. Moving on..."
+msgstr "Va bene, allora. Andiamo avanti..."
+
+msgctxt "924_Baba"
+msgid ""
+"After hearing that the seventh chairman was about to die, three families in "
+"the alliance began maneuvering for the throne."
+msgstr ""
+"Dopo aver sentito che il settimo presidente stava per morire, tre famiglie "
+"nell'alleanza hanno iniziato a manovrare per il trono."
+
+msgctxt "936_Baba"
+msgid ""
+"The Watase Family, led by Captain Masaru Watase, is based in northern Osaka."
+" They have the most muscle."
+msgstr ""
+"La Famiglia Watase, guidata dal Capitano Masaru Watase, ha la sua base nel "
+"nord di Osaka. Hanno la maggiore forza."
+
+msgctxt "948_Baba"
+msgid ""
+"Lieutenant Hiroshi Takachi has his power base in Hyogo, and the seventh "
+"chairman trusts him greatly."
+msgstr ""
+"Il Tenente Hiroshi Takachi ha la sua base di potere a Hyogo, e il settimo "
+"presidente si fida molto di lui."
+
+msgctxt "960_Baba"
+msgid ""
+"And Naoki Katsuya heads Ousaka Enterprises, which has built an empire out of"
+" industrial waste disposal in southern Osaka."
+msgstr ""
+"E Naoki Katsuya è a capo della Ousaka Enterprises, che ha costruito un "
+"impero con lo smaltimento di rifiuti industriali nell'Osaka meridionale."
+
+msgctxt "972_Baba"
+msgid "Of the three, Watase is supposed to be the most likely successor."
+msgstr "Dei tre, Watase è considerato il successore più probabile."
+
+msgctxt "984_Kiryu"
+msgid "And yet, Watase isn't the type to get his hands dirty like this."
+msgstr "Eppure Watase non è il tipo da sporcarsi le mani in questo modo."
+
+msgctxt "996_Kiryu"
+msgid "Meanwhile, Takachi died in Nagoya. That only leaves one person."
+msgstr ""
+"Nel frattempo, Takachi è morto a Nagoya. Questo lascia una sola persona."
+
+msgctxt "1008_Baba"
+msgid ""
+"Yes. The guy behind all of this, who hired me, Aoyama, and Morinaga... That "
+"guy is－"
+msgstr ""
+"Sì. Il tizio dietro a tutto questo, che ha assoldato me, Aoyama e "
+"Morinaga... Quel tizio è－"
+
+msgctxt "1044_Kiryu"
+msgid "(Nobody's here. Maybe they're not open yet.)"
+msgstr "(Non c'è nessuno. Forse non hanno ancora aperto.)"

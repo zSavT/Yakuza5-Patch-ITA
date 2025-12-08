@@ -1,0 +1,155 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "4748"
+msgid "Masao"
+msgstr "Masao"
+
+msgctxt "4752"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "4756"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4760"
+msgid "Masao's Mother"
+msgstr "La madre di Masao"
+
+msgctxt "4764"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "4768"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "4772"
+msgid "F_NML_TLK_stand_cry"
+msgstr "F_NML_TLK_stand_cry"
+
+msgctxt "60_Masao"
+msgid "Hm? Do you want something?"
+msgstr "Hm? Vuoi qualcosa?"
+
+msgctxt "72_Saejima"
+msgid "Ya leavin' the village?"
+msgstr "Te ne vai dal villaggio?"
+
+msgctxt "84_Masao"
+msgid ""
+"Well, yes. I'm leaving for Tsukimino. I don't want to be stuck here forever."
+msgstr ""
+"Beh, sì. Me ne vado a Tsukimino. Non voglio rimanere incastrato qui per "
+"sempre."
+
+msgctxt "96_Saejima"
+msgid ""
+"That so? Ya know, it's bad for the village to be losin' so many young "
+"people."
+msgstr ""
+"Così, eh? Sai, non è mica un bene per il villaggio perdere tutti 'sti "
+"giovani."
+
+msgctxt "108_Masao"
+msgid ""
+"I know that. But I'm so sick of this place. I can't stand how boring it is."
+msgstr ""
+"Lo so. Ma sono così stufo di questo posto. Non reggo proprio la noia che "
+"c'è."
+
+msgctxt "120_Masao's Mother"
+msgid "Masao..."
+msgstr "Masao..."
+
+msgctxt "132_Masao"
+msgid ""
+"You're Saejima-san, aren't you? Aren't you from some big city yourself? "
+"Which one?"
+msgstr ""
+"Tu sei Saejima-san, vero? Non sei anche tu di una città grossa? Quale?"
+
+msgctxt "144_Saejima"
+msgid "What's the use of knowin' that?"
+msgstr "Che te ne fai a saperlo?"
+
+msgctxt "156_Masao"
+msgid ""
+"Because, like, you get why I want to leave, right? You know how cool the big"
+" city is."
+msgstr ""
+"Perché, tipo, capisci perché voglio andarmene, no? Tu sai com'è figa la "
+"città grossa."
+
+msgctxt "168_Masao"
+msgid ""
+"My dad wouldn't listen to anything I said about it. Every time I brought it "
+"up, he'd just smack me and say becoming a hunter was my only choice."
+msgstr ""
+"Mio padre non voleva sentire ragioni su niente di quello che gli dicevo. "
+"Ogni volta che tiravo fuori l'argomento, mi mollava uno schiaffo e diceva "
+"che diventare un cacciatore era la mia unica scelta."
+
+msgctxt "180_Masao"
+msgid "That's why I'm running away."
+msgstr "Ecco perché scappo."
+
+msgctxt "192_Saejima"
+msgid "Runnin' away?"
+msgstr "Scappi?"
+
+msgctxt "204_Masao's Mother"
+msgid ""
+"My husband doesn't know that Masao is leaving. He would never allow it."
+msgstr "Mio marito non sa che Masao se ne va. Non lo permetterebbe mai."
+
+msgctxt "216_Saejima"
+msgid "Ya realize yer pa's gonna blow his stack when he finds out."
+msgstr ""
+"Ma ti rendi conto che a tuo padre gli verrà un colpo quando lo scoprirà?"
+
+msgctxt "228_Masao"
+msgid "What, are you trying to stop me?"
+msgstr "Ma che, mi vuoi fermare?"
+
+msgctxt "240_Saejima"
+msgid "Nah. This ain't the sort of thing for strangers to meddle in."
+msgstr "No. Non è roba da sconosciuti ficcarci il naso."
+
+msgctxt "252_Masao"
+msgid ""
+"Agreed. Well, it's now or never. I need to be gone before dad gets back."
+msgstr "Va bene. Beh, o adesso o mai più. Devo filare prima che papà torni."
+
+msgctxt "264_Masao's Mother"
+msgid "*sob* Remember you can always come home."
+msgstr "*singhiozza* Ricordati che potrai sempre tornare a casa."
+
+msgctxt "276_Masao"
+msgid "It'll be okay, Mom. I'm eighteen now. Have a little faith in me."
+msgstr ""
+"Andrà tutto bene, Mamma. Ho diciotto anni adesso. Fidati un po' di me."
+
+msgctxt "288_Masao"
+msgid "Goodbye."
+msgstr "Addio."
+
+msgctxt "300_Masao's Mother"
+msgid "My son..."
+msgstr "Mio figlio..."
+
+msgctxt "312_Saejima"
+msgid "(Hope the kid does all right for himself.)"
+msgstr "(Spero che il ragazzino se la cavi.)"

@@ -1,0 +1,45 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1804"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "1808"
+msgid "Play"
+msgstr "Gioca"
+
+msgctxt "1812"
+msgid "Don't Play"
+msgstr "Non giocare"
+
+msgctxt "1816"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "44_Player"
+msgid "(It's Aladdin A slot machine number 105. Should I give it a try?)"
+msgstr "(È la slot machine Aladdin A numero 105. Dovrei provare?)"
+
+msgctxt "56_Player"
+msgid "(No, let's not.)"
+msgstr "(No, non giochiamo.)"
+
+msgctxt "92_Player"
+msgid "(I'm too broke to play. I need at least 1,000 yen.)"
+msgstr "(Sono troppo a secco per giocare. Mi servono almeno 1.000 yen.)"
+
+msgctxt "200_Player"
+msgid "(Sure. Why not?)"
+msgstr "(Certo. Perché no?)"

@@ -1,0 +1,125 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "92"
+msgid "You got <Color:8>5,000 yen<Color:Default>."
+msgstr "Ti sei beccato <Color:8>5,000 yen<Color:Default>."
+
+msgctxt "284"
+msgid "You got 400 experience points."
+msgstr "Ti sei beccato 400 punti esperienza."
+
+msgctxt "4012"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "4016"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "4020"
+msgid "Muranaka"
+msgstr "Muranaka"
+
+msgctxt "4024"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4028"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "4032"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "4036"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "4040"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "4044"
+msgid "0"
+msgstr "0"
+
+msgctxt "56_Kiryu"
+msgid "Here we are."
+msgstr "Eccoci."
+
+msgctxt "68_Muranaka"
+msgid ""
+"Thank you so much for a fruitful ride. I have plenty of material for my "
+"article now!"
+msgstr ""
+"Grazie mille per la corsa proficua. Ora ho un sacco di materiale per il mio "
+"articolo!"
+
+msgctxt "80_Muranaka"
+msgid "Here's the fare, and a tip for your help!"
+msgstr "Ecco la tariffa, e una mancia per il tuo aiuto!"
+
+msgctxt "116_Kiryu"
+msgid "Thank you."
+msgstr "Grazie."
+
+msgctxt "128_Muranaka"
+msgid "I'll do my best to write a great article! Good luck with the job!"
+msgstr ""
+"Farò del mio meglio per scrivere un ottimo articolo! In bocca al lupo con il"
+" lavoro!"
+
+msgctxt "140_Kiryu"
+msgid "Here we are."
+msgstr "Eccoci."
+
+msgctxt "152_Muranaka"
+msgid ""
+"Thank you for the ride! I think I have plenty of material for my article! "
+"Here's the fare."
+msgstr ""
+"Grazie per la corsa! Credo di avere un sacco di materiale per il mio "
+"articolo! Ecco la tariffa."
+
+msgctxt "176_Kiryu"
+msgid "Thank you."
+msgstr "Grazie."
+
+msgctxt "188_Muranaka"
+msgid "I'll do my best to write a great article! Good luck with the job!"
+msgstr ""
+"Farò del mio meglio per scrivere un ottimo articolo! In bocca al lupo con il"
+" lavoro!"
+
+msgctxt "200_Kiryu"
+msgid "Here we are."
+msgstr "Eccoci."
+
+msgctxt "212_Muranaka"
+msgid ""
+"Hmm. I think I'll need to take a few more rides before I have enough "
+"material. Here's the fare."
+msgstr ""
+"Mmm. Credo che dovrò fare ancora qualche corsa prima di avere abbastanza "
+"materiale. Ecco la tariffa."
+
+msgctxt "236_Kiryu"
+msgid "Bye."
+msgstr "Ciao."
+
+msgctxt "248_Kiryu"
+msgid "(Maybe I should have provided more useful information.)"
+msgstr "Forse avrei dovuto fornire informazioni più utili."

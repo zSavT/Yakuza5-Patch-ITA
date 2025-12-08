@@ -1,0 +1,437 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "13760"
+msgid "Yamori"
+msgstr "Yamori"
+
+msgctxt "13764"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "13768"
+msgid "Nml_TurnR180"
+msgstr "Nml_TurnR180"
+
+msgctxt "13772"
+msgid "Talk_Syagamu_st"
+msgstr "Talk_Syagamu_st"
+
+msgctxt "13776"
+msgid "M_NML_TLK_btl_after03_lp"
+msgstr "M_NML_TLK_btl_after03_lp"
+
+msgctxt "13780"
+msgid "M_NML_TLK_btl_after03_st"
+msgstr "M_NML_TLK_btl_after03_st"
+
+msgctxt "13784"
+msgid "Talk_Syagamu_ed"
+msgstr "Talk_Syagamu_ed"
+
+msgctxt "13788"
+msgid "kaiwabgm_subsad1"
+msgstr "kaiwabgm_subsad1"
+
+msgctxt "13792"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "13796"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "13800"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "13804"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "13808"
+msgid "Loan Shark"
+msgstr "Strozzino"
+
+msgctxt "13812"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "13816"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "13820"
+msgid "E_stand"
+msgstr "E_stand"
+
+msgctxt "13824"
+msgid "E_ATK_punch_s"
+msgstr "E_ATK_punch_s"
+
+msgctxt "13828"
+msgid "C_DWN_body_F"
+msgstr "C_DWN_body_F"
+
+msgctxt "13832"
+msgid "M_NML_SET_sitgrd_down_01"
+msgstr "M_NML_SET_sitgrd_down_01"
+
+msgctxt "13836"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "13840"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "13844"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "72_Yamori"
+msgid "Wha... Where am I?"
+msgstr "Che... Dove sono?"
+
+msgctxt "84_Akiyama"
+msgid "Good, you're back with us, Yamori-san."
+msgstr "Bene, sei tornato in te, Yamori-san."
+
+msgctxt "96_Yamori"
+msgid "Akiyama!"
+msgstr "Akiyama!"
+
+msgctxt "120_Yamori"
+msgid "Let go of me! I can stand on my own!"
+msgstr "Mollami! Posso stare in piedi da solo!"
+
+msgctxt "132_Yamori"
+msgid "I don't want your help!"
+msgstr "Non voglio il tuo aiuto!"
+
+msgctxt "144_Akiyama"
+msgid "You'd rather die?"
+msgstr "Preferiresti morire?"
+
+msgctxt "156_Yamori"
+msgid ""
+"Damn straight! Like I could ever accept help from the guy I\r\n"
+"screwed over! I won't do it!"
+msgstr ""
+"Proprio così! Come potrei mai accettare aiuto dal tizio che\n"
+"ho fregato! Non lo farò!"
+
+msgctxt "168_Yamori"
+msgid "My pride won't let me!"
+msgstr "Il mio orgoglio non me lo permette!"
+
+msgctxt "180_Akiyama"
+msgid "Heh. Pretty cheap pride, if you ask me."
+msgstr "Heh. Orgoglio da quattro soldi, se me lo chiedi."
+
+msgctxt "192_Yamori"
+msgid "What's that!?"
+msgstr "Che roba è!?"
+
+msgctxt "204_Akiyama"
+msgid "The way you put your convictions before your life is admirable."
+msgstr ""
+"Il modo in cui metti le tue convinzioni prima della tua vita è ammirevole."
+
+msgctxt "216_Akiyama"
+msgid ""
+"But instead of worrying about your pride, how about worrying\r\n"
+"about your family's future?"
+msgstr ""
+"Ma invece di preoccuparti del tuo orgoglio,\n"
+"che ne dici di preoccuparti del futuro della tua famiglia?"
+
+msgctxt "228_Yamori"
+msgid "!"
+msgstr "!"
+
+msgctxt "240_Akiyama"
+msgid ""
+"All the money in the world won't mean anything to your wife\r\n"
+"if you're dead. I can't see Eri wanting that, can you?"
+msgstr ""
+"Tutti i soldi del mondo non significheranno nulla per tua moglie\n"
+"se sei morto. Non credo che Eri voglia questo, tu sì?"
+
+msgctxt "252_Yamori"
+msgid "Akiyama... You knew?"
+msgstr "Akiyama... Lo sapevi?"
+
+msgctxt "264_Akiyama"
+msgid "Yeah. Eri dumped me after I lost my job."
+msgstr "Sì. Eri mi ha mollato dopo che ho perso il lavoro."
+
+msgctxt "276_Akiyama"
+msgid ""
+"Then she started seeing you. You two got married, and she\r\n"
+"quit working."
+msgstr ""
+"Poi ha iniziato a frequentarti. Voi due vi siete sposati, e lei\n"
+"ha smesso di lavorare."
+
+msgctxt "288_Yamori"
+msgid "......"
+msgstr "......"
+
+msgctxt "300_Akiyama"
+msgid ""
+"Losing her essentially meant losing all I had. At that\r\n"
+"point, I was free to do just about anything."
+msgstr ""
+"Perderla significava essenzialmente perdere tutto ciò che avevo. A quel\n"
+"punto, ero libero di fare praticamente qualsiasi cosa."
+
+msgctxt "312_Akiyama"
+msgid ""
+"But you have a family. It's far too early for you to say\r\n"
+"they'd be better off without you."
+msgstr ""
+"Ma tu hai una famiglia. È troppo presto per te per dire\n"
+"che starebbero meglio senza di te."
+
+msgctxt "324_Yamori"
+msgid "......"
+msgstr "......"
+
+msgctxt "336_Akiyama"
+msgid ""
+"What you should be doing is protecting your family's future,\r\n"
+"even if it means eating crow meat from here on out."
+msgstr ""
+"Quello che dovresti fare è proteggere il futuro della tua famiglia,\n"
+"anche se significa inghiottire il rospo d'ora in avanti."
+
+msgctxt "348_Akiyama"
+msgid "You talk about having pride. Have pride in that!"
+msgstr "Parli d'orgoglio. E allora, sii orgoglioso di quello!"
+
+msgctxt "360_Yamori"
+msgid "Akiyama..."
+msgstr "Akiyama..."
+
+msgctxt "372_Akiyama"
+msgid ""
+"You're welcome to betray me. But don't ever lose sight of\r\n"
+"what really matters."
+msgstr ""
+"Tradirmi pure. Ma non perdere mai di vista\n"
+"ciò che conta davvero."
+
+msgctxt "384_Yamori"
+msgid "......"
+msgstr "......"
+
+msgctxt "396_Yamori"
+msgid ""
+"Heh. You're right. Though I said I was doing it for my\r\n"
+"family, I was really thinking only of myself."
+msgstr ""
+"Heh. Hai ragione. Anche se dicevo di farlo per la mia\n"
+"famiglia, pensavo solo a me stesso."
+
+msgctxt "408_Akiyama"
+msgid "Yamori-san..."
+msgstr "Yamori-san..."
+
+msgctxt "420_Yamori"
+msgid "To hell with my pride. Think you can offer me a loan?"
+msgstr "Al diavolo il mio orgoglio. Credi di potermi offrire un prestito?"
+
+msgctxt "432_Akiyama"
+msgid "Absolutely. That's what I do."
+msgstr "Assolutamente. È quello che faccio."
+
+msgctxt "444_Akiyama"
+msgid ""
+"That said, you may have heard the rumors, but you'll have\r\n"
+"to pass the test I give you."
+msgstr ""
+"Detto questo, potresti aver sentito le voci, ma dovrai\n"
+"superare la prova che ti darò."
+
+msgctxt "456_Yamori"
+msgid "What do I have to do?"
+msgstr "Cosa devo fare?"
+
+msgctxt "468_Akiyama"
+msgid "Heh... Actually, I was going to tell you to get a divorce."
+msgstr "Heh... A dire il vero, ti avrei detto di divorziare."
+
+msgctxt "480_Akiyama"
+msgid ""
+"But after watching you lay your life on the line, I felt\r\n"
+"stupid for thinking up a test that so clearly had sprung\r\n"
+"from jealousy."
+msgstr ""
+"Ma dopo averti visto rischiare la vita, mi sono sentito\n"
+"uno stupido ad aver escogitato una prova che era palesemente frutto\n"
+"della gelosia."
+
+msgctxt "492_Yamori"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "504_Akiyama"
+msgid ""
+"So, I'm going to offer you a loan on one condition. You\r\n"
+"turned me down before, but I'll ask you once more."
+msgstr ""
+"Quindi, ti offrirò un prestito a una condizione. Mi hai\n"
+"detto di no prima, ma te lo chiederò un'altra volta."
+
+msgctxt "516_Akiyama"
+msgid ""
+"Yamori-san, can we finally put the past behind us? Water\r\n"
+"under the bridge? That's all I want."
+msgstr ""
+"Yamori-san, possiamo finalmente lasciarci il passato alle spalle? Acqua\n"
+"passata? È tutto quello che voglio."
+
+msgctxt "528_Yamori"
+msgid "Akiyama, you..."
+msgstr "Akiyama, tu..."
+
+msgctxt "540_Yamori"
+msgid "Thank you! And I'm sorry!"
+msgstr "Grazie! E mi dispiace!"
+
+msgctxt "552_Akiyama"
+msgid "Man, I must be getting soft... Forgiving an act of betrayal like that."
+msgstr ""
+"Cavolo, devo starmi rammollendo... Perdonare un tradimento del genere."
+
+msgctxt "564_Akiyama"
+msgid "Hana-chan won't be too happy about this..."
+msgstr "Hana-chan non sarà molto contenta di questo..."
+
+msgctxt "600_Loan Shark"
+msgid "What the fuck do ya think you're doin'!?"
+msgstr "Che cazzo stai combinando!?"
+
+msgctxt "612_Yamori"
+msgid "Shut up! It's your fault for not loaning me money!"
+msgstr "Stai zitto! È colpa tua se non mi hai prestato i soldi!"
+
+msgctxt "624_Loan Shark"
+msgid "Ngh..."
+msgstr "Ngh..."
+
+msgctxt "648_Akiyama"
+msgid "Yamori-san!"
+msgstr "Yamori-san!"
+
+msgctxt "660_Yamori"
+msgid "Akiyama!?"
+msgstr "Akiyama!?"
+
+msgctxt "672_Akiyama"
+msgid "This is crazy! You have to stop!"
+msgstr "È una follia! Devi smetterla!"
+
+msgctxt "684_Yamori"
+msgid "Stay out of this! There's no other way!"
+msgstr "Stanne fuori! Non c'è altra via!"
+
+msgctxt "696_Akiyama"
+msgid "......"
+msgstr "......"
+
+msgctxt "708_Yamori"
+msgid "Now, take this knife and kill me."
+msgstr "Ora, prendi questo coltello e uccidimi."
+
+msgctxt "720_Akiyama"
+msgid "Wha－?"
+msgstr "Cosa－?"
+
+msgctxt "732_Yamori"
+msgid ""
+"I have life insurance. If I'm dead, my wife and kids won't\r\n"
+"have to go hungry. Everything will be squared away!"
+msgstr ""
+"Ho un'assicurazione sulla vita. Se sono morto, mia moglie e i miei figli non\n"
+"dovranno patire la fame. Tutto sarà sistemato!"
+
+msgctxt "744_Akiyama"
+msgid "Yamori-san..."
+msgstr "Yamori-san..."
+
+msgctxt "756_Loan Shark"
+msgid "You outta your flippin' mind!?"
+msgstr "Ma sei completamente fuori di testa!?"
+
+msgctxt "768_Yamori"
+msgid "Come on, hurry! They won't pay out on a suicide!"
+msgstr "Dai, sbrigati! Non pagheranno per un suicidio!"
+
+msgctxt "780_Loan Shark"
+msgid "Shut your trap!"
+msgstr "Chiudi il becco!"
+
+msgctxt "804_Akiyama"
+msgid "Yamori-san!"
+msgstr "Yamori-san!"
+
+msgctxt "816_Loan Shark"
+msgid "*pant* *pant*"
+msgstr "*anf* *anf*"
+
+msgctxt "828_Loan Shark"
+msgid "Huh? Ain't I seen you before...?"
+msgstr "Eh? Non ti ho già visto...?"
+
+msgctxt "840_Loan Shark"
+msgid "That's it! You're that Sky Finance guy from Tokyo, ain't ya?"
+msgstr "Ah, ecco! Sei quel tizio della Sky Finance di Tokyo, no?"
+
+msgctxt "852_Akiyama"
+msgid "......"
+msgstr "......"
+
+msgctxt "864_Loan Shark"
+msgid ""
+"Ah, I get it now. You're usin' this psycho to get the police\r\n"
+"involved, so you can swoop in and take over!"
+msgstr ""
+"Ah, adesso capisco. Stai usando questo psicopatico per far intervenire la polizia\n"
+"così puoi piombare dentro e prendere il controllo!"
+
+msgctxt "876_Akiyama"
+msgid "The hell gave you that idea!?"
+msgstr "Ma che diavolo ti è saltato in mente!?"
+
+msgctxt "888_Loan Shark"
+msgid ""
+"You think you can pull this shit on our turf? All right,\r\n"
+"fine! You wanna die so badly, we'll be happy to help!"
+msgstr ""
+"Pensi di poter fare queste stronzate qui da noi? E va bene,\n"
+"allora! Se vuoi morire a tutti i costi, saremo felici di aiutarti!"
+
+msgctxt "900_Akiyama"
+msgid "Not really one for listening, are you, pal?"
+msgstr "Non sei mica uno che ascolta, eh?"
+
+msgctxt "912_Loan Shark"
+msgid ""
+"Come on, you two! Let's teach this greasy little shit what\r\n"
+"happens when he fucks with us!"
+msgstr ""
+"Dai, voi due! Facciamo vedere a questo viscido stronzetto cosa\n"
+"succede quando si mette contro di noi!"

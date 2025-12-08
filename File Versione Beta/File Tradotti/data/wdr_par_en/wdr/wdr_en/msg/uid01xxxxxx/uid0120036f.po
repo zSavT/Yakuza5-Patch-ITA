@@ -1,0 +1,56 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1124"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "1128"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "1132"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1136"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "1140"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "136_Haruka"
+msgid "You did it, Uncle Kaz! You're so cool!"
+msgstr "Ce l'hai fatta, Zio Kaz! Sei troppo forte!"
+
+msgctxt "160_Haruka"
+msgid "But I really wanted to see what you could do, Uncle Kaz..."
+msgstr "Ma ci tenevo proprio a vedere di cosa eri capace, Zio Kaz..."
+
+msgctxt "184_Haruka"
+msgid ""
+"Uncle Kaz! Try to <Color:8>clear single-player 901 within fifteen "
+"rounds<Color:Default>!"
+msgstr ""
+"Zio Kaz! Prova a <Color:8>fare il 901 in singolo entro quindici "
+"round<Color:Default>!"
+
+msgctxt "196_Kiryu"
+msgid ""
+"(Hmm. Looks like Haruka wants me to play <Color:8>darts<Color:Default>.)"
+msgstr ""
+"(Mmm. Sembra che Haruka voglia che io giochi <Color:8>a "
+"freccette<Color:Default>.)"

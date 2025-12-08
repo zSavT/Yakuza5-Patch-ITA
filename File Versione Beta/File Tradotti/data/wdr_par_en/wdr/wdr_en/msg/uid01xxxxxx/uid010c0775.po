@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "896"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "900"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "904"
+msgid "Middle-aged Man"
+msgstr "Uomo di mezza età"
+
+msgctxt "908"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "912"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "916"
+msgid "0"
+msgstr "0"
+
+msgctxt "44_Kiryu"
+msgid "I'm from Nagasu Taxi. Sorry for the wait."
+msgstr "Sono di Nagasu Taxi. Scusi l'attesa."
+
+msgctxt "56_Middle-aged Man"
+msgid "Hey. <Color:22>Nagasu Boulevard<Color:Default>, please."
+msgstr "Senta. <Color:22>Nagasu Boulevard<Color:Default>, per favore."
+
+msgctxt "68_Kiryu"
+msgid "Of course. Let's go."
+msgstr "Certo. Andiamo."

@@ -1,0 +1,41 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2268"
+msgid "Driver"
+msgstr "Autista"
+
+msgctxt "2272"
+msgid "Go to North Kineicho"
+msgstr "Vai a Kineicho Nord"
+
+msgctxt "2276"
+msgid "Go to South Kineicho"
+msgstr "Vai a Kineicho Sud"
+
+msgctxt "2280"
+msgid "Go to East Kineicho"
+msgstr "Vai a Kineicho Est"
+
+msgctxt "2284"
+msgid "Go to South Mid Square"
+msgstr "Vai a Mid Square Sud"
+
+msgctxt "2288"
+msgid "Stay Here"
+msgstr "Resta qui"
+
+msgctxt "44_Driver"
+msgid "Would you like to go back to Kineicho?"
+msgstr "Vuoi tornare a Kineicho?"

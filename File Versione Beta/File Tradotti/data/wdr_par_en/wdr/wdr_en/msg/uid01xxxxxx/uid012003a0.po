@@ -1,0 +1,47 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "900"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "904"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "908"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "912"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "104_Haruka"
+msgid "I think I'll use this as a good luck charm!"
+msgstr "Penso che lo userò come portafortuna!"
+
+msgctxt "128_Haruka"
+msgid ""
+"Uncle Kaz! <Color:8>Let's take a PrintCircle photo together<Color:Default>!"
+msgstr ""
+"Zio Kaz! <Color:8>Scattiamo una foto PrintCircle insieme<Color:Default>!"
+
+msgctxt "140_Kiryu"
+msgid ""
+"(Hmm. Looks like Haruka wants to <Color:8>take a PrintCircle photo "
+"together<Color:Default>. It's a little embarrassing, though...)"
+msgstr ""
+"(Mmm. Sembra che Haruka voglia <Color:8>scattare una foto PrintCircle "
+"insieme<Color:Default>. È un po' imbarazzante, però...)"

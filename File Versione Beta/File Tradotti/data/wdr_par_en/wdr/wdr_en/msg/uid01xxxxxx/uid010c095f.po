@@ -1,0 +1,369 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "752"
+msgid "You got 2,800 experience points."
+msgstr "Hai guadagnato 2.800 punti esperienza."
+
+msgctxt "14652"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "14656"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "14660"
+msgid "Wada"
+msgstr "Wada"
+
+msgctxt "14664"
+msgid "M_nml_stand"
+msgstr "M_nml_stand"
+
+msgctxt "14668"
+msgid "M_NML_MOV_sitchr_en"
+msgstr "M_NML_MOV_sitchr_en"
+
+msgctxt "14672"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "14676"
+msgid "Kiyokawa"
+msgstr "Kiyokawa"
+
+msgctxt "14680"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "14684"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "14688"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "14692"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "14696"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "14700"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "14704"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "14708"
+msgid "Muramatsu"
+msgstr "Muramatsu"
+
+msgctxt "14712"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "14716"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "14720"
+msgid "Nakajima"
+msgstr "Nakajima"
+
+msgctxt "14724"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "14728"
+msgid "Hirakawa"
+msgstr "Hirakawa"
+
+msgctxt "14732"
+msgid "Onisaka"
+msgstr "Onisaka"
+
+msgctxt "14736"
+msgid "F_nml_stand"
+msgstr "F_nml_stand"
+
+msgctxt "14740"
+msgid "Stand"
+msgstr "In piedi"
+
+msgctxt "80_Kiryu"
+msgid "I'm back."
+msgstr "Sono tornato."
+
+msgctxt "92_Wada"
+msgid "Hey, Suzuki-san! How'd it go? Did you beat Onisaka?"
+msgstr "Ehi, Suzuki-san! Com'è andata? Hai battuto Onisaka?"
+
+msgctxt "104_Kiryu"
+msgid "I managed to win somehow."
+msgstr "Sono riuscito a vincere in qualche modo."
+
+msgctxt "116_Kiyokawa"
+msgid "Awesome! Way to go, Suzuki-san!"
+msgstr "Grande! Così si fa, Suzuki-san!"
+
+msgctxt "128_Wada"
+msgid ""
+"Well, that's good news, isn't it? Now you won't get people trying to race "
+"you left and right."
+msgstr ""
+"Beh, è una buona notizia, no? Ora non avrai più gente che cerca di sfidarti "
+"a una gara a destra e a manca."
+
+msgctxt "140_Wada"
+msgid ""
+"I haven't seen the chief around, but I'm sure he'll be happy\r\n"
+"to hear what went down."
+msgstr ""
+"Non ho visto il capo in giro, ma sono sicuro che sarà contento\n"
+"di sentire come è andata."
+
+msgctxt "152_Kiryu"
+msgid ""
+"Actually, he was over at the race. Let's just say the Three Musketeers had a"
+" happy reunion at last. And now it looks like they're going out for a drink."
+msgstr ""
+"In realtà, era alla gara. Diciamo pure che i Tre Moschettieri si sono "
+"finalmente riuniti. E ora pare che stiano andando a farsi una bevuta."
+
+msgctxt "164_Wada"
+msgid "You serious!?"
+msgstr "Ma dici davvero!?"
+
+msgctxt "176_Kiryu"
+msgid "Well, yeah."
+msgstr "Beh, sì."
+
+msgctxt "188_Wada"
+msgid "Agh, I don't believe this!"
+msgstr "Agh, non ci credo!"
+
+msgctxt "200_Kiryu"
+msgid ""
+"What's not to believe? They all came together through racing, so I think "
+"they've resolved their differences."
+msgstr ""
+"Che c'è da non credere? Si sono tutti riavvicinati grazie alle corse, quindi"
+" credo che abbiano appianato le loro divergenze."
+
+msgctxt "212_Wada"
+msgid "That's not it at all! Why didn't they invite me out, too!?"
+msgstr "Non è affatto questo! Perché non hanno invitato anche me!?"
+
+msgctxt "224_Kiyokawa"
+msgid "That's what you're worried about!?"
+msgstr "Ma è questo che ti preoccupa!?"
+
+msgctxt "236_Kiryu"
+msgid ""
+"I spent my best years together with the Three Musketeers. I'm their "
+"d'Artagnan! How could they leave the main character out!?"
+msgstr ""
+"Ho passato i miei anni migliori insieme ai Tre Moschettieri. Sono il loro "
+"d'Artagnan! Come hanno potuto lasciare fuori il personaggio principale!?"
+
+msgctxt "248_Kiryu"
+msgid ""
+"Don't worry. They wanted to invite all the staff along too. They'll be here "
+"any minute now."
+msgstr ""
+"Non preoccuparti. Volevano invitare anche tutto lo staff. Saranno qui a "
+"momenti."
+
+msgctxt "272_Kiryu"
+msgid "...Oh. Alrighty then."
+msgstr "...Oh. Va bene, allora."
+
+msgctxt "284_Kiyokawa"
+msgid ""
+"Wow! I get to have drinks with the Three Musketeers!? This'll be a blast!"
+msgstr ""
+"Wow! Posso farmi una bevuta con i Tre Moschettieri!? Sarà un vero spasso!"
+
+msgctxt "296_Muramatsu"
+msgid "Hey, kiddo. Didn't you have something to tell Suzuki-san?"
+msgstr "Ehi, ragazzo. Non dovevi dire qualcosa a Suzuki-san?"
+
+msgctxt "308_Kiyokawa"
+msgid "Oh yeah!"
+msgstr "Oh sì!"
+
+msgctxt "320_Kiryu"
+msgid "What is it, Kiyokawa?"
+msgstr "Che c'è, Kiyokawa?"
+
+msgctxt "332_Kiyokawa"
+msgid "Well, you see..."
+msgstr "Allora, vedi..."
+
+msgctxt "344_Muramatsu"
+msgid "Come on, spit it out."
+msgstr "Dai, sputa il rospo."
+
+msgctxt "356_Kiyokawa"
+msgid "Suzuki-san, I..."
+msgstr "Suzuki-san, io..."
+
+msgctxt "368_Kiyokawa"
+msgid "I passed my Class 2 license test!"
+msgstr "Ho passato l'esame per la licenza di Classe 2!"
+
+msgctxt "380_Kiryu"
+msgid "Really?"
+msgstr "Davvero?"
+
+msgctxt "392_Kiryu"
+msgid "Yes! Muramatsu-san helped me get through the studying."
+msgstr "Sì! Muramatsu-san mi ha aiutato a venirne a capo con lo studio."
+
+msgctxt "404_Muramatsu"
+msgid ""
+"Kiyokawa was a nervous wreck, so I had to go to the test center with him. "
+"He's a handful, all right."
+msgstr ""
+"Kiyokawa era una palla di nervi, così ho dovuto andare al centro esami con "
+"lui. È una bella gatta da pelare, davvero."
+
+msgctxt "416_Kiyokawa"
+msgid ""
+"Thanks to him, I passed the written test on my first try! I can finally be a"
+" taxi driver now!"
+msgstr ""
+"Grazie a lui, ho passato l'esame scritto al primo colpo! Finalmente posso "
+"fare il tassista!"
+
+msgctxt "428_Kiyokawa"
+msgid ""
+"Just like you, I stepped up to the challenge... and made my own destiny!"
+msgstr "Proprio come te, ho raccolto la sfida... e ho creato il mio destino!"
+
+msgctxt "440_Kiryu"
+msgid "Congratulations. Looks like all that work paid off."
+msgstr ""
+"Congratulazioni. Sembra che tutto quel lavoro abbia dato i suoi frutti."
+
+msgctxt "452_Kiyokawa"
+msgid "Thanks for saying that. You helped me out so much!"
+msgstr "Grazie per averlo detto. Mi hai aiutato un sacco!"
+
+msgctxt "464_Kiryu"
+msgid "Muramatsu-san is the one to thank. Don't forget your manners."
+msgstr ""
+"È Muramatsu-san che devi ringraziare. Non dimenticare le buone maniere."
+
+msgctxt "476_Kiyokawa"
+msgid "Yes, sir!"
+msgstr "Sì, signore!"
+
+msgctxt "488_Kiyokawa"
+msgid ""
+"Thank you for the help, Muramatsu-san. I passed my test with flying "
+"colors..."
+msgstr ""
+"Grazie per l'aiuto, Muramatsu-san. Ho passato il mio esame a pieni voti..."
+
+msgctxt "500_Kiyokawa"
+msgid "So... do I get a present or something?"
+msgstr "Allora... mi becco un regalo o qualcosa?"
+
+msgctxt "512_Muramatsu"
+msgid ""
+"What!? That should be the other way around! You're supposed to get "
+"<Italic>me</Italic> a gift."
+msgstr ""
+"Cosa!? Dovrebbe essere il contrario! Saresti tu a dover fare a "
+"<Italic>me</Italic> un regalo."
+
+msgctxt "524_Kiyokawa"
+msgid "Oh, come on. Don't I deserve a reward?"
+msgstr "Ma dai! Non mi merito un premio?"
+
+msgctxt "536_Muramatsu"
+msgid "...There's no hope for you, kid."
+msgstr "...Non c'è speranza per te, ragazzino."
+
+msgctxt "548_Nakajima"
+msgid ""
+"Attention, Nagasu Taxi members! I got one word for y'all...\r\n"
+"<Italic>Drinkin'</Italic>! Who's up for it!?"
+msgstr ""
+"Attenzione, membri della Nagasu Taxi! Ho una parola per tutti voi...\n"
+"<Italic>Bevuta!</Italic> Chi ci sta!?"
+
+msgctxt "560_Wada"
+msgid "I thought you'd never ask!"
+msgstr "Pensavo non l'avresti mai chiesto!"
+
+msgctxt "572_Muramatsu"
+msgid "You're welcome to join, Hirakawa-san."
+msgstr "Sei il benvenuto, Hirakawa-san."
+
+msgctxt "584_Kiryu"
+msgid ""
+"Oh, but I can get a bit crazy when I drink. What if I end up\r\n"
+"shattering those glasses of yours?"
+msgstr ""
+"Oh, ma quando bevo posso dare di matto. E se poi finissi per\\nspaccarti i "
+"bicchieri?"
+
+msgctxt "596_Muramatsu"
+msgid "...Uhm. What?"
+msgstr "...Uhm. Cosa?"
+
+msgctxt "608_Kiyokawa"
+msgid ""
+"Heeeeey, it's time to paaaar-tay! Ahhh I'm so lucky to be here－ You guys are"
+" seriously the best! Hope you're ready to drink, Suzuki-san!"
+msgstr ""
+"Eeeehi, è ora di faaare feees-ta! Aaaah, sono così fortunato a essere qui－ "
+"Voi sì che siete i migliori! Spero siate pronti a bere, Suzuki-san!"
+
+msgctxt "620_Kiryu"
+msgid "Heh, I am."
+msgstr "Heh, ci sto."
+
+msgctxt "632_Kiryu"
+msgid ""
+"(Kiyokawa's right. There's something special about this company... and "
+"everyone who works here.)"
+msgstr ""
+"Kiyokawa ha ragione. C'è qualcosa di speciale in questa compagnia... e in "
+"chiunque ci lavori."
+
+msgctxt "644_Nakajima"
+msgid ""
+"Why ya spacin' out there, Suzuki-san!? They'll run outta\r\n"
+"booze at this rate! C'mon, hop to it!"
+msgstr ""
+"Ma che ti sei incantato, Suzuki-san!? Finirà il\n"
+"da bere di questo passo! Forza, datti una mossa!"
+
+msgctxt "656_Kiryu"
+msgid "And they say you're Fukuoka's fastest. Let's get a move on!"
+msgstr "E dicono che sei il più veloce di Fukuoka. Forza, datti una mossa!"
+
+msgctxt "704_Kiryu"
+msgid "(...I'm lucky to have them as friends.)"
+msgstr "(...Sono fortunato ad averli come amici.)"

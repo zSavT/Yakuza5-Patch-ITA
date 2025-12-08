@@ -1,0 +1,315 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "13424"
+msgid "Youthful Voice"
+msgstr "Voce Giovanile"
+
+msgctxt "13428"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "13432"
+msgid "Kotetsu"
+msgstr "Kotetsu"
+
+msgctxt "13436"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "13440"
+msgid "Mikasa"
+msgstr "Mikasa"
+
+msgctxt "13444"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "13448"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "13452"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "13456"
+msgid "Athletic Grunt"
+msgstr "Grugnito Atletico"
+
+msgctxt "13460"
+msgid "M_nml_stand"
+msgstr "M_nml_stand"
+
+msgctxt "13464"
+msgid "Talk_Kamae"
+msgstr "Talk_Kamae"
+
+msgctxt "13468"
+msgid "Baseball Youth"
+msgstr "Gioventù del Baseball"
+
+msgctxt "13472"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "13476"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "13480"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "13484"
+msgid "M_ykzs_stand"
+msgstr "M_ykzs_stand"
+
+msgctxt "13488"
+msgid "M_YKZS_TLK_stand_kamae"
+msgstr "M_YKZS_TLK_stand_kamae"
+
+msgctxt "13492"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "13496"
+msgid "M_NML_TLK_stand_kamae"
+msgstr "M_NML_TLK_stand_kamae"
+
+msgctxt "13500"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "60_Youthful Voice"
+msgid "Hey there, awesome batter man."
+msgstr "Ehilà, battitore coi fiocchi."
+
+msgctxt "72_Shinada"
+msgid "Kotetsu. How many times are you gonna pop outta nowhere?"
+msgstr "Kotetsu. Quante volte ancora devi sbucare dal nulla?"
+
+msgctxt "84_Kotetsu"
+msgid ""
+"As many times as it takes! Now, let's have you take on Mikasa-kun again. Ten"
+" pitches each, get the most hits to win."
+msgstr ""
+"Tutte le volte che serve! Adesso, ti faccio affrontare di nuovo Mikasa-kun. "
+"Dieci lanci a testa, chi fa più battute vince."
+
+msgctxt "96_Shinada"
+msgid "Okay, sure."
+msgstr "Okay, certo."
+
+msgctxt "108_Mikasa"
+msgid "I'll go up first again."
+msgstr "Vado su per primo di nuovo."
+
+msgctxt "168_Mikasa"
+msgid "Okay, going in. Thanks again for doing this!"
+msgstr "Okay, entro. Grazie ancora per averlo fatto!"
+
+msgctxt "228_Mikasa"
+msgid "Whew... Seven hits... Thought I could do better."
+msgstr "Uff... Sette battute... Pensavo di poter fare di meglio."
+
+msgctxt "240_Shinada"
+msgid "Tie goes to Mikasa, right? That means I need eight to win."
+msgstr ""
+"Il pareggio va a Mikasa, giusto? Questo significa che mi servono otto "
+"battute per vincere."
+
+msgctxt "252_Shinada"
+msgid "Okay! Time to show my stuff!"
+msgstr "Okay! È ora di far vedere di che pasta sono fatto!"
+
+msgctxt "276_Athletic Grunt"
+msgid "...Hmph! ...Hmph!"
+msgstr "...Uff! ...Uff!"
+
+msgctxt "288_Shinada"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "312_Youthful Voice"
+msgid "(There's a diligent kid. Swinging pretty good, too.)"
+msgstr "(C'è un ragazzo in gamba. Batte mica male, pure.)"
+
+msgctxt "336_Youthful Voice"
+msgid "Uh... Did you want something?"
+msgstr "Eh... Volevi qualcosa?"
+
+msgctxt "348_Shinada"
+msgid "No, you just look like you're training hard. What team are you on?"
+msgstr ""
+"No, hai proprio l'aria di uno che si allena sodo. In che squadra giochi?"
+
+msgctxt "360_Baseball Youth"
+msgid ""
+"I'm a freshman at Kinei High. I've always wanted to practice against a "
+"pitching machine, but I can't afford it."
+msgstr ""
+"Sono una matricola alla Kinei High. Ho sempre voluto allenarmi contro una "
+"macchina lanciapalle, ma non posso permettermelo."
+
+msgctxt "372_Shinada"
+msgid ""
+"Hah, as much as I'd like to treat you to a round, I don't have any spare "
+"cash, either."
+msgstr ""
+"Ah, mi piacerebbe tanto offrirti un giro, ma non ho un soldo neanch'io."
+
+msgctxt "384_Kotetsu"
+msgid "Then allow me to do the honors."
+msgstr "Allora, permettimi di fare gli onori."
+
+msgctxt "396_Shinada"
+msgid "Oh, hey! The guy with the blog!"
+msgstr "Oh, ehi! Il tizio con il blog!"
+
+msgctxt "408_Baseball Youth"
+msgid "Oh, what's up, Kotetsu?"
+msgstr "Oh, che c'è, Kotetsu?"
+
+msgctxt "420_Shinada"
+msgid "You know each other?"
+msgstr "Vi conoscete?"
+
+msgctxt "432_Kotetsu"
+msgid "I'm actually a Kinei High grad. I was on their baseball team, too."
+msgstr ""
+"A dire il vero, mi sono diplomato alla Kinei High. Facevo parte pure io "
+"della loro squadra di baseball."
+
+msgctxt "444_Kotetsu"
+msgid ""
+"The kid's Mikasa-kun. He's a freshman, but with big hopes on him－he's "
+"already batting leadoff. How'd you like to square off against him?"
+msgstr ""
+"Il ragazzo è Mikasa-kun. È una matricola, ma con un sacco di aspettative "
+"addosso－batte già da primo. Che ne diresti di sfidarlo?"
+
+msgctxt "456_Shinada"
+msgid "And just how do you suggest I go about doing that?"
+msgstr "E come dovrei fare, di preciso?"
+
+msgctxt "468_Kotetsu"
+msgid ""
+"Base it on batting average. You both go up against the same pitching machine"
+" for ten throws each. Whoever gets the most hits wins."
+msgstr ""
+"Basiamoci sulla media battuta. Entrambi affrontate la stessa macchina "
+"lanciapalle per dieci lanci a testa. Chi fa più battute vince."
+
+msgctxt "480_Kotetsu"
+msgid ""
+"From what I hear, Mikasa-kun has an on-base percentage that's out of this "
+"world. I think it could be a good match."
+msgstr ""
+"Da quello che sento, Mikasa-kun ha una percentuale di arrivo in base da "
+"urlo. Credo che potrebbe essere una bella sfida."
+
+msgctxt "492_Shinada"
+msgid "All so you can blog about it?"
+msgstr "Tutto questo solo per il blog?"
+
+msgctxt "504_Kotetsu"
+msgid ""
+"What, I see no harm in that. I am paying for the both of you. But my offer's"
+" null and void if you don't play, though."
+msgstr ""
+"Che c'è, non ci vedo niente di male. Pago io per entrambi. Ma la mia offerta"
+" è nulla se non giochi, però."
+
+msgctxt "516_Mikasa"
+msgid ""
+"Could I ask you to play, too? Going against a machine would sure be a lot "
+"nicer than swinging around my bat all day."
+msgstr ""
+"Potrei chiederti di giocare anche tu? Affrontare una macchina sarebbe di "
+"sicuro molto più bello che stare a sventolare la mia mazza tutto il giorno."
+
+msgctxt "528_Mikasa"
+msgid ""
+"And I just realized! You're the awesome batter Kotetsu-san writes about on "
+"his blog! I would love to watch and learn from seeing how you bat."
+msgstr ""
+"E mi sono appena reso conto! Sei il battitore da urlo di cui Kotetsu-san "
+"scrive sul suo blog! Mi piacerebbe un sacco guardare e imparare da come "
+"batti."
+
+msgctxt "540_Shinada"
+msgid ""
+"Man... That's pretty flattering to hear in this day and age. How can I say "
+"no?"
+msgstr ""
+"Cavolo... Fa un certo effetto sentirsi dire una cosa del genere di questi "
+"tempi. Come posso dire di no?"
+
+msgctxt "552_Kotetsu"
+msgid "Good, so it's on. Let's have Mikasa-kun go first."
+msgstr "Bene, si fa. Facciamo iniziare Mikasa-kun."
+
+msgctxt "612_Mikasa"
+msgid "Ten pitches, then?"
+msgstr "Dieci lanci, allora?"
+
+msgctxt "624_Shinada"
+msgid "By the way, Mikasa-kun, what's your usual batting average?"
+msgstr "A proposito, Mikasa-kun, qual è la tua media battuta abituale?"
+
+msgctxt "636_Mikasa"
+msgid ""
+"A little over five hundred. But against a pitching machine, I should do even"
+" better."
+msgstr ""
+"Poco più del cinquecento. Ma contro una macchina lanciapalle, dovrei fare "
+"anche meglio."
+
+msgctxt "648_Kotetsu"
+msgid "Kinei High's pride is on the line. Don't you go losing, now!"
+msgstr ""
+"L'orgoglio del liceo Kinei è in gioco. Non metterti a perdere, adesso!"
+
+msgctxt "660_Mikasa"
+msgid "Yes, sir! I'll do my best."
+msgstr "Sì, signore! Farò del mio meglio."
+
+msgctxt "744_Youthful Voice"
+msgid "Whew... Seven hits... Thought I could do better."
+msgstr "Uff... Sette valide... Pensavo di poter fare di meglio."
+
+msgctxt "756_Shinada"
+msgid "So I gotta hit at least eight to win?"
+msgstr "Allora devo fare almeno otto valide per vincere?"
+
+msgctxt "768_Kotetsu"
+msgid "Yep. If it's a draw, Mikasa gets the win. Is that okay with you?"
+msgstr "Esatto. Se è un pareggio, Mikasa vince. Per te va bene?"
+
+msgctxt "780_Shinada"
+msgid "Sure, whatever. I mean, what's in it for me if I win?"
+msgstr "Certo, come vuoi. Cioè, cosa ci guadagno io se vinco?"
+
+msgctxt "792_Kotetsu"
+msgid ""
+"Nothing. Of course, if you were to lose, that news will be broadcast all "
+"over the world from my blog."
+msgstr ""
+"Niente. Certo, se dovessi perdere, quella notizia sarà diffusa in tutto il "
+"mondo dal mio blog."
+
+msgctxt "804_Shinada"
+msgid "Heh, I get it. Then I better not screw up."
+msgstr "Heh, capisco. Allora è meglio che non faccia cazzate."

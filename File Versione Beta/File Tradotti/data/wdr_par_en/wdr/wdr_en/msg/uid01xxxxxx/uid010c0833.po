@@ -1,0 +1,293 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "10632"
+msgid "Hirakawa"
+msgstr "Hirakawa"
+
+msgctxt "10636"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "10640"
+msgid "Kiyokawa"
+msgstr "Kiyokawa"
+
+msgctxt "10644"
+msgid "Muramatsu"
+msgstr "Muramatsu"
+
+msgctxt "10648"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "10652"
+msgid "Wada"
+msgstr "Wada"
+
+msgctxt "10656"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "10660"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "10664"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "10668"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "10672"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "10676"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "10680"
+msgid "F_NML_TLK_stand_angry"
+msgstr "F_NML_TLK_stand_angry"
+
+msgctxt "10684"
+msgid "Muramatsu and Wada"
+msgstr "Muramatsu e Wada"
+
+msgctxt "10688"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "10692"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "60_Hirakawa"
+msgid ""
+"It's the client from the highway rest stop. Just like before, he was very "
+"polite."
+msgstr ""
+"È il cliente dell'area di sosta autostradale. Proprio come prima, è stato "
+"molto educato."
+
+msgctxt "72_Kiryu"
+msgid "(Cool Yoshimi of the Devil Killers again.)"
+msgstr "(Il figo Yoshimi dei Devil Killers di nuovo.)"
+
+msgctxt "84_Kiyokawa"
+msgid "I'm done with this. I hate studying!"
+msgstr "Basta con 'sta roba. Odio studiare!"
+
+msgctxt "96_Muramatsu"
+msgid "If you're going to have that attitude, then I hate teaching you!"
+msgstr "Se la metti così, allora odio insegnarti!"
+
+msgctxt "108_Kiyokawa"
+msgid ""
+"Then let me be already! It's not like I'm gonna become a genius overnight!"
+msgstr ""
+"Allora lasciami in pace e basta! Non è che divento un genio dall'oggi al "
+"domani!"
+
+msgctxt "120_Wada"
+msgid ""
+"You don't have a hope of getting your Class 2 license with that kind of "
+"talk!"
+msgstr ""
+"Non hai alcuna speranza di prendere la patente di Classe 2 con quei "
+"discorsi!"
+
+msgctxt "132_Kiyokawa"
+msgid "Like I said－"
+msgstr "Come ho detto—"
+
+msgctxt "144_Kiryu"
+msgid "Kiyokawa?"
+msgstr "Kiyokawa?"
+
+msgctxt "156_Kiyokawa"
+msgid "Yeah? What's up?"
+msgstr "Sì? Che c'è?"
+
+msgctxt "168_Kiryu"
+msgid "I need you to come with me."
+msgstr "Ho bisogno che tu venga con me."
+
+msgctxt "180_Kiyokawa"
+msgid "Huh? Oh, okay. Gladly."
+msgstr "Eh? Oh, va bene. Volentieri."
+
+msgctxt "204_Hirakawa"
+msgid ""
+"There's that client calling from the highway rest area again. He's asking "
+"for you, Suzuki-san."
+msgstr ""
+"C'è di nuovo quel cliente che chiama dall'area di sosta autostradale. Chiede"
+" di te, Suzuki-san."
+
+msgctxt "216_Kiryu"
+msgid "(Then it must be the Devil Killers.)"
+msgstr "(Allora devono essere i Devil Killers.)"
+
+msgctxt "228_Hirakawa"
+msgid "Might I add, he's being very polite, too."
+msgstr "Aggiungerei, è anche molto educato."
+
+msgctxt "240_Kiryu"
+msgid "(Sounds like Cool Yoshimi, one of the Four Kings.)"
+msgstr "(Sembra Cool Yoshimi, uno dei Quattro Re.)"
+
+msgctxt "252_Kiryu"
+msgid "Then I'll make sure to leave a strong impression."
+msgstr "Allora mi assicurerò di lasciare il segno."
+
+msgctxt "264_Muramatsu"
+msgid "Hey, wait!"
+msgstr "Ehi, aspetta!"
+
+msgctxt "288_Hirakawa"
+msgid "You're not gettin' away today."
+msgstr "Non mi scappi oggi."
+
+msgctxt "312_Hirakawa"
+msgid ""
+"Forget it, I'm not gonna study! Any more of these meaningless words and "
+"symbols and I'm gonna lose my marbles!"
+msgstr ""
+"Basta, non studio più! Ancora un po' di queste parole e simboli senza senso "
+"e darò di matto!"
+
+msgctxt "324_Kiryu"
+msgid "What's going on?"
+msgstr "Cosa succede?"
+
+msgctxt "336_Muramatsu"
+msgid "The chief asked us to help Kiyokawa-kun study for his driver's test."
+msgstr ""
+"Il capo ci ha chiesto di aiutare Kiyokawa-kun a studiare per il suo esame di"
+" guida."
+
+msgctxt "348_Wada"
+msgid ""
+"Yeah, and he ain't exactly the bookworm type. Furthest thing from it, "
+"actually."
+msgstr "Già, e non è di certo il tipo da secchione. Anzi, tutt'altro."
+
+msgctxt "360_Hirakawa"
+msgid ""
+"Come on, what does memorizing a bunch of random rules have\r\n"
+"to do with driving a car?"
+msgstr ""
+"Ma dai, che c'entra memorizzare un sacco di regole a caso con\n"
+"la guida di un'auto?"
+
+msgctxt "372_Hirakawa"
+msgid ""
+"I mean, I already know how to drive, so just let me loose\r\n"
+"on the road! It's not like I'm gonna smash into anyone."
+msgstr ""
+"Ma dai, so già guidare, quindi lasciatemi andare\n"
+"in strada! Non è che vado a schiantarmi contro nessuno."
+
+msgctxt "384_Muramatsu"
+msgid ""
+"It doesn't matter how good you are at driving. To be a taxi driver, you need"
+" a Class 2 license. And that requires a certain amount of studying."
+msgstr ""
+"Non importa quanto sei bravo a guidare. Per fare il tassista, ti serve una "
+"patente di Classe 2. E per quella ci vuole un bel po' di studio."
+
+msgctxt "396_Kiyokawa"
+msgid "Argh! You say that, but I still don't wanna believe it!"
+msgstr "Argh! Lo dici tu, ma io non ci voglio ancora credere!"
+
+msgctxt "408_Wada"
+msgid ""
+"Better start showing some effort, or you'll be stuck on the written test "
+"forever."
+msgstr ""
+"Faresti meglio a darti una mossa, o rimarrai bloccato all'esame scritto per "
+"sempre."
+
+msgctxt "420_Muramatsu"
+msgid ""
+"Yeah, and might I remind you, this is taking up our time too! I'm using up "
+"my breaks to teach you, so hurry up and get it through your head!"
+msgstr ""
+"Già, e ti ricordo che questo ci sta portando via tempo anche a noi! Sto "
+"usando le mie pause per insegnarti, quindi sbrigati e ficcatelo in testa!"
+
+msgctxt "432_Kiyokawa"
+msgid ""
+"I can't! I've never been good at bookwork. Even if I studied night and day, "
+"I still wouldn't pass!"
+msgstr ""
+"Non ce la faccio! Non sono mai stato bravo con i libri. Anche se studiassi "
+"giorno e notte, non la passerei comunque!"
+
+msgctxt "444_Kiyokawa"
+msgid ""
+"Aaaaaaaaaaaaaaaaaaagh! I hate it! Just lemme get behind the wheel with my "
+"foot on the pedal already!"
+msgstr ""
+"Aaaaaaaaaaaaaaaaaaagh! Lo odio! Lasciatemi solo mettermi al volante col "
+"piede sul pedale, e basta!"
+
+msgctxt "456_Wada"
+msgid "Don't forget your seatbelt first."
+msgstr "Non dimenticare la cintura di sicurezza prima."
+
+msgctxt "468_Kiyokawa"
+msgid "Gah! That's it! I'm done with this!"
+msgstr "Argh! Basta! Ho chiuso con questa storia!"
+
+msgctxt "480_Hirakawa"
+msgid "Whoa!"
+msgstr "Whoa!"
+
+msgctxt "516_Hirakawa"
+msgid "He made a run for it."
+msgstr "È scappato."
+
+msgctxt "528_Wada"
+msgid ""
+"Sheesh. They're way too easy on kids in school these days.\r\n"
+"They all end up like him."
+msgstr ""
+"Accidenti. Ci vanno troppo leggeri con i ragazzi a scuola di questi tempi.\n"
+"Finiscono tutti come lui."
+
+msgctxt "540_Kiryu"
+msgid "Sorry he's being such a pain to both of you."
+msgstr "Mi dispiace che sia un tale rompiscatole per entrambi."
+
+msgctxt "552_Wada"
+msgid "No need to apologize, Suzuki-kun. It's not your fault."
+msgstr "Non c'è bisogno di scusarti, Suzuki-kun. Non è colpa tua."
+
+msgctxt "564_Kiryu"
+msgid "Well, I'm the one who got him hired. I can at least go bring him back."
+msgstr ""
+"Beh, sono stato io a farlo assumere. Posso almeno andarlo a riprendere."
+
+msgctxt "576_Muramatsu"
+msgid "Good luck with that. Who knows where he's gone to now?"
+msgstr "Auguri. Chissà dove si sarà cacciato adesso?"
+
+msgctxt "588_Kiryu"
+msgid "I have a pretty good idea. Just sit tight for a bit."
+msgstr "Ho un'idea piuttosto precisa. Tu aspetta qui un attimo."

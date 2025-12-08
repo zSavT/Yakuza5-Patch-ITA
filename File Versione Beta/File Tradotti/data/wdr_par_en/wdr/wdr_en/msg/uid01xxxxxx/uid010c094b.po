@@ -1,0 +1,396 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "768"
+msgid "You got <Color:8>Sakura Storm<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Sakura Storm<Color:Default>."
+
+msgctxt "15204"
+msgid "Onisaka"
+msgstr "Onisaka"
+
+msgctxt "15208"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "15212"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "15216"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "15220"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "15224"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "15228"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "15232"
+msgid "Nakajima"
+msgstr "Nakajima"
+
+msgctxt "15236"
+msgid "SS1_M_NKJ_sync_houyou_lp"
+msgstr "SS1_M_NKJ_sync_houyou_lp"
+
+msgctxt "15240"
+msgid "SS1_M_NKJ_sync_houyou_st"
+msgstr "SS1_M_NKJ_sync_houyou_st"
+
+msgctxt "15244"
+msgid "SS1_M_ONS_sync_houyou_lp"
+msgstr "SS1_M_ONS_sync_houyou_lp"
+
+msgctxt "15248"
+msgid "SS1_M_ONS_sync_houyou_st"
+msgstr "SS1_M_ONS_sync_houyou_st"
+
+msgctxt "15252"
+msgid "SS1_M_ONS_houyou_no"
+msgstr "SS1_M_ONS_houyou_no"
+
+msgctxt "15256"
+msgid "SS1_M_NKJ_houyou_no"
+msgstr "SS1_M_NKJ_houyou_no"
+
+msgctxt "15260"
+msgid "SS1_M_ONS_houyou_yes"
+msgstr "SS1_M_ONS_houyou_yes"
+
+msgctxt "15264"
+msgid "M_nml_sitchr"
+msgstr "M_nml_sitchr"
+
+msgctxt "15268"
+msgid "SitChair_lp"
+msgstr "SitChair_lp"
+
+msgctxt "15272"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "15276"
+msgid "Talk_Tabako_lp"
+msgstr "Talk_Tabako_lp"
+
+msgctxt "15280"
+msgid "Talk_Tabako_ed"
+msgstr "Talk_Tabako_ed"
+
+msgctxt "15284"
+msgid "M_nml_stand"
+msgstr "M_nml_stand"
+
+msgctxt "15288"
+msgid "M_NML_MOV_sitchr_en"
+msgstr "M_NML_MOV_sitchr_en"
+
+msgctxt "15292"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "15296"
+msgid "Familiar Voice"
+msgstr "Voce familiare"
+
+msgctxt "15300"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "15304"
+msgid "Furumichi"
+msgstr "Furumichi"
+
+msgctxt "15308"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "15312"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "60_Onisaka"
+msgid ""
+"Talk about a snail's pace! And you think you can stand in for Nakajima!? "
+"Don't make me laugh!"
+msgstr ""
+"Ma che passo da lumaca! E tu credi di poter fare le veci di Nakajima!? Non "
+"farmi ridere!"
+
+msgctxt "72_Onisaka"
+msgid ""
+"Next time, bring that president of yours. And leave that cab at the office!"
+msgstr ""
+"La prossima volta, porta quel tuo presidente. E lascia quel taxi in ufficio!"
+
+msgctxt "132_Onisaka"
+msgid "You really did it, huh... You beat me."
+msgstr "Ce l'hai fatta davvero, eh... Mi hai battuto."
+
+msgctxt "144_Kiryu"
+msgid "I suppose I did."
+msgstr "Direi di sì."
+
+msgctxt "156_Onisaka"
+msgid "Heheh...Heh...Hahahahahaaa!"
+msgstr "Eheh...Eh...Ahahahahahaaa!"
+
+msgctxt "168_Kiryu"
+msgid "(What now?)"
+msgstr "(E adesso?)"
+
+msgctxt "180_Onisaka"
+msgid ""
+"This! This is the thrill I've been looking for! I feel like\r\n"
+"I'm alive again!"
+msgstr ""
+"Questo! Questo è il brivido che cercavo! Mi sento\n"
+"di nuovo vivo!"
+
+msgctxt "192_Onisaka"
+msgid "I've been waiting so long just to feel it... one more time."
+msgstr "Ho aspettato così a lungo solo per sentirlo... ancora una volta."
+
+msgctxt "204_Onisaka"
+msgid "Ya did good, Suzuki-san. Thank you."
+msgstr "Hai fatto bene, Suzuki-san. Grazie."
+
+msgctxt "216_Onisaka"
+msgid "It was almost like racing against the man himself..."
+msgstr "Era quasi come correre contro l'uomo in persona..."
+
+msgctxt "228_Onisaka"
+msgid "The guy I've been chasing all these years."
+msgstr "L'uomo che ho inseguito per tutti questi anni."
+
+msgctxt "240_Nakajima"
+msgid "...I'm sorry, Onisaka."
+msgstr "...Mi dispiace, Onisaka."
+
+msgctxt "252_Onisaka"
+msgid "Nakajima!?"
+msgstr "Nakajima!?"
+
+msgctxt "264_Nakajima"
+msgid "I know I disappeared on ya, but... I couldn't..."
+msgstr "Lo so che ti sono sparito, ma... non potevo..."
+
+msgctxt "312_Onisaka"
+msgid "Don't say another word. I know how hard it is."
+msgstr "Non aggiungere altro. So quanto sia dura."
+
+msgctxt "324_Nakajima"
+msgid "Even so, the way I went about it... I got no excuse."
+msgstr "Anche così, il modo in cui ho agito... non ho scuse."
+
+msgctxt "336_Onisaka"
+msgid "Don't sweat it. We're all good, man."
+msgstr "Non preoccuparti. Siamo a posto, amico."
+
+msgctxt "348_Kiryu"
+msgid ""
+"(...So the rivals are reunited at last. Seems like they're off to a good "
+"start.)"
+msgstr ""
+"(...Dunque i rivali si sono finalmente riuniti. Sembra che siano partiti con"
+" il piede giusto.)"
+
+msgctxt "432_Onisaka"
+msgid "An accident? That's terrible..."
+msgstr "Un incidente? È terribile..."
+
+msgctxt "444_Nakajima"
+msgid "Still... Wish things didn't end the way they did."
+msgstr "Eppure... Avrei voluto che le cose non finissero così."
+
+msgctxt "456_Onisaka"
+msgid ""
+"Mm. I figured it was along those lines. It'd have to be something major to "
+"get you to quit."
+msgstr ""
+"Mh. Immaginavo fosse su quella falsariga. Doveva essere qualcosa di grosso "
+"per farti mollare."
+
+msgctxt "468_Nakajima"
+msgid "...I appreciate yer understanding."
+msgstr "...Apprezzo la tua comprensione."
+
+msgctxt "492_Onisaka"
+msgid "Well, I can't say I'm not disappointed. I never did get my rematch."
+msgstr ""
+"Beh, non posso dire di non essere deluso. Non ho mai avuto la mia rivincita."
+
+msgctxt "504_Onisaka"
+msgid ""
+"But going up against Suzuki-san here got all that anger out of my system. I "
+"think it's time I finally left the racing life behind."
+msgstr ""
+"Ma scontrandomi con Suzuki-san qui ho sfogato tutta quella rabbia che avevo "
+"in corpo. Credo sia ora di lasciarmi finalmente alle spalle la vita delle "
+"corse."
+
+msgctxt "516_Nakajima"
+msgid "...Ya mean that?"
+msgstr "...Lo dici sul serio?"
+
+msgctxt "528_Onisaka"
+msgid ""
+"Yeah. In all honesty, I just wanted to go out on a high. One last race was "
+"all I needed."
+msgstr ""
+"Sì. Ad essere sincero, volevo solo chiudere in bellezza. Mi serviva solo "
+"un'ultima gara."
+
+msgctxt "540_Onisaka"
+msgid "And thanks to you, I got it."
+msgstr "E grazie a te, l'ho avuta."
+
+msgctxt "552_Nakajima"
+msgid "...You're a good man, Suzuki-san."
+msgstr "...Sei un brav'uomo, Suzuki-san."
+
+msgctxt "564_Familiar Voice"
+msgid "Heh. Guess I made the right call."
+msgstr "Heh. Immagino di aver fatto la cosa giusta."
+
+msgctxt "576_Nakajima"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "600_Onisaka"
+msgid "Furumichi-san? You're here too?"
+msgstr "Furumichi-san? Anche tu sei qui?"
+
+msgctxt "612_Onisaka"
+msgid "Well, aren't you a sight for sore eyes."
+msgstr "Beh, guarda un po' chi si rivede."
+
+msgctxt "624_Kiryu"
+msgid "You know each other?"
+msgstr "Vi conoscete?"
+
+msgctxt "636_Onisaka"
+msgid "'Course we do."
+msgstr "Ma certo che sì."
+
+msgctxt "648_Onisaka"
+msgid ""
+"Furumichi here was one of the Three Musketeers. Can you believe this goody "
+"two-shoes was a street racer!?"
+msgstr ""
+"Furumichi qui era uno dei Tre Moschettieri. Ci credi che questo santarellino"
+" era un pilota di strada!?"
+
+msgctxt "660_Kiryu"
+msgid "Is this true?"
+msgstr "È vero?"
+
+msgctxt "672_Onisaka"
+msgid ""
+"Haha, what? An honest cop can't have a bit of a past? Though I'd really "
+"rather you not dig that up..."
+msgstr ""
+"Haha, cosa? Un poliziotto onesto non può avere un po' di passato? Anche se "
+"preferirei davvero che non tirassi fuori quella storia..."
+
+msgctxt "684_Kiryu"
+msgid ""
+"No, it's just that... I never would've expected you to be involved. "
+"Especially with a group like the Devil Killers."
+msgstr ""
+"No, è solo che... non mi sarei mai aspettato che tu fossi coinvolto. "
+"Soprattutto con un gruppo come i Devil Killers."
+
+msgctxt "696_Furumichi"
+msgid ""
+"Sorry to keep that little detail a secret. What with my current position, "
+"I'm reluctant to talk about my history. I'm sure you understand."
+msgstr ""
+"Scusa se ho tenuto nascosto quel piccolo dettaglio. Data la mia posizione "
+"attuale, sono riluttante a parlare del mio passato. Sono sicuro che capisci."
+
+msgctxt "708_Furumichi"
+msgid ""
+"At any rate, you've done a fine job here. I'll say it again－nice work, "
+"Suzuki-san. And thank you."
+msgstr ""
+"Ad ogni modo, hai fatto un bel lavoro qui. Te lo ripeto－bel lavoro, Suzuki-"
+"san. E grazie."
+
+msgctxt "720_Furumichi"
+msgid ""
+"Thanks to you, the Devil Killers are no more, and our old ties are mended."
+msgstr ""
+"Grazie a te, i Devil Killers non ci sono più, e i nostri vecchi legami sono "
+"ricuciti."
+
+msgctxt "732_Furumichi"
+msgid ""
+"I'd give you a commendation if I could... but that's a bit tricky, "
+"considering the methods we used."
+msgstr ""
+"Ti darei un encomio se potessi... ma la cosa è un po' complicata, "
+"considerando i metodi che abbiamo usato."
+
+msgctxt "744_Kiryu"
+msgid "Your thanks is more than enough."
+msgstr "Il tuo grazie è più che sufficiente."
+
+msgctxt "756_Furumichi"
+msgid ""
+"No, I can't just leave it at that. Here, take this. It's no commendation, "
+"but it'll have to do."
+msgstr ""
+"No, non posso lasciar perdere così. Ecco, prendi questo. Non è un encomio, "
+"ma dovrà bastare."
+
+msgctxt "792_Onisaka"
+msgid ""
+"Well, how 'bout that? The Three Musketeers, together again.\r\n"
+"How about we catch up over drinks tonight?"
+msgstr ""
+"Beh, guarda un po'? I Tre Moschettieri, di nuovo insieme.\n"
+"Che ne dici se stasera ci facciamo un drink e ci raccontiamo un po'?"
+
+msgctxt "804_Nakajima"
+msgid "Sounds like a plan."
+msgstr "Mi sembra un buon piano."
+
+msgctxt "816_Onisaka"
+msgid "Your treat, Furumichi?"
+msgstr "Offri tu, Furumichi?"
+
+msgctxt "828_Onisaka"
+msgid "What? I thought it'd be on the \"chief\" here!"
+msgstr "Come? Pensavo che offrisse il \"capo\" qui!"
+
+msgctxt "840_Nakajima"
+msgid "Huh!? Why me?"
+msgstr "Come!? Perché io?"
+
+msgctxt "852_Kiryu"
+msgid ""
+"(Well, I took down what was left of the Devil Killers, and repaired an old "
+"friendship. It was a long road, but it was well worth it.)"
+msgstr ""
+"(Beh, ho fatto fuori quel che restava dei Devil Killers e ho ricucito una "
+"vecchia amicizia. È stata una strada lunga, ma ne è valsa la pena.)"

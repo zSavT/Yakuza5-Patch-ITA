@@ -1,0 +1,432 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "11640"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "11644"
+msgid "kaiwabgm_fuon05"
+msgstr "kaiwabgm_fuon05"
+
+msgctxt "11648"
+msgid "C4280_SIN_TLK_close_MLK"
+msgstr "C4280_SIN_TLK_close_MLK"
+
+msgctxt "11652"
+msgid "C4280_SIN_TLK_close_MLK_kamae"
+msgstr "C4280_SIN_TLK_close_MLK_kamae"
+
+msgctxt "11656"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "11660"
+msgid "adv4_280/shinada_0367"
+msgstr "adv4_280/shinada_0367"
+
+msgctxt "11664"
+msgid "Milky"
+msgstr "Latte"
+
+msgctxt "11668"
+msgid "C4280_MLK_TLK_kamae_B"
+msgstr "C4280_MLK_TLK_kamae_B"
+
+msgctxt "11672"
+msgid "C4280_MLK_TLK_kamae_AtoB"
+msgstr "C4280_MLK_TLK_kamae_AtoB"
+
+msgctxt "11676"
+msgid "adv4_280/milk_0035a"
+msgstr "adv4_280/milk_0035a"
+
+msgctxt "11680"
+msgid "C4280_MLK_TLK_tape_hagashi"
+msgstr "C4280_MLK_TLK_tape_hagashi"
+
+msgctxt "11684"
+msgid "C4280_SIN_TLK_tape_hagashi"
+msgstr "C4280_SIN_TLK_tape_hagashi"
+
+msgctxt "11688"
+msgid "adv4_280/shinada_0368"
+msgstr "adv4_280/shinada_0368"
+
+msgctxt "11692"
+msgid "adv4_280/milk_0035"
+msgstr "adv4_280/milk_0035"
+
+msgctxt "11696"
+msgid "kaiwabgm_fuon02"
+msgstr "kaiwabgm_fuon02"
+
+msgctxt "11700"
+msgid "C4280_SIN_TLK_dam_down"
+msgstr "C4280_SIN_TLK_dam_down"
+
+msgctxt "11704"
+msgid "C4280_TEN_TLK_atk_SIN"
+msgstr "C4280_TEN_TLK_atk_SIN"
+
+msgctxt "11708"
+msgid "C4280_USJ_TLK_phone_kamae"
+msgstr "C4280_USJ_TLK_phone_kamae"
+
+msgctxt "11712"
+msgid "C4280_SIN_TLK_sibari_dw_kamae"
+msgstr "C4280_SIN_TLK_sibari_dw_kamae"
+
+msgctxt "11716"
+msgid "ArmsID"
+msgstr "ID Armi"
+
+msgctxt "11720"
+msgid "ACYAM0000"
+msgstr "ACYAM0000"
+
+msgctxt "11724"
+msgid "C4280_USJ_TLK_kamae"
+msgstr "C4280_USJ_TLK_kamae"
+
+msgctxt "11728"
+msgid "C4280_USJ_TLK_close_SIN"
+msgstr "C4280_USJ_TLK_close_SIN"
+
+msgctxt "11732"
+msgid "C4280_SIN_TLK_sibari_kamae"
+msgstr "C4280_SIN_TLK_sibari_kamae"
+
+msgctxt "11736"
+msgid "C4280_SIN_TLK_sibari_wakeup"
+msgstr "C4280_SIN_TLK_sibari_wakeup"
+
+msgctxt "11740"
+msgid "adv4_280/shinada_0369"
+msgstr "adv4_280/shinada_0369"
+
+msgctxt "11744"
+msgid "Ushijima"
+msgstr "Ushijima"
+
+msgctxt "11748"
+msgid "adv4_280/ushijima_0043"
+msgstr "adv4_280/ushijima_0043"
+
+msgctxt "11752"
+msgid "adv4_280/ushijima_0044"
+msgstr "adv4_280/ushijima_0044"
+
+msgctxt "11756"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "11760"
+msgid "adv4_280/shinada_0370"
+msgstr "adv4_280/shinada_0370"
+
+msgctxt "11764"
+msgid "adv4_280/milk_0036"
+msgstr "adv4_280/milk_0036"
+
+msgctxt "11768"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "11772"
+msgid "adv4_280/ushijima_0045"
+msgstr "adv4_280/ushijima_0045"
+
+msgctxt "11776"
+msgid "adv4_280/shinada_0371"
+msgstr "adv4_280/shinada_0371"
+
+msgctxt "11780"
+msgid "C4280_SIN_TLK_sibari_no"
+msgstr "C4280_SIN_TLK_sibari_no"
+
+msgctxt "11784"
+msgid "adv4_280/ushijima_0046"
+msgstr "adv4_280/ushijima_0046"
+
+msgctxt "11788"
+msgid "adv4_280/shinada_0372"
+msgstr "adv4_280/shinada_0372"
+
+msgctxt "11792"
+msgid "adv4_280/ushijima_0047"
+msgstr "adv4_280/ushijima_0047"
+
+msgctxt "11796"
+msgid "adv4_280/shinada_0373a"
+msgstr "adv4_280/shinada_0373a"
+
+msgctxt "11800"
+msgid "adv4_280/shinada_0373b"
+msgstr "adv4_280/shinada_0373b"
+
+msgctxt "11804"
+msgid "C4280_SIN_TLK_sibari_yes"
+msgstr "C4280_SIN_TLK_sibari_yes"
+
+msgctxt "11808"
+msgid "adv4_280/shinada_0373c"
+msgstr "adv4_280/shinada_0373c"
+
+msgctxt "11812"
+msgid "adv4_280/milk_0037"
+msgstr "adv4_280/milk_0037"
+
+msgctxt "11816"
+msgid "adv4_280/shinada_0374a"
+msgstr "adv4_280/shinada_0374a"
+
+msgctxt "11820"
+msgid "C4280_SIN_TLK_sibari_tlk"
+msgstr "C4280_SIN_TLK_sibari_tlk"
+
+msgctxt "11824"
+msgid "adv4_280/shinada_0374b"
+msgstr "adv4_280/shinada_0374b"
+
+msgctxt "11828"
+msgid "adv4_280/ushijima_0048a"
+msgstr "adv4_280/ushijima_0048a"
+
+msgctxt "11832"
+msgid "adv4_280/ushijima_0048b"
+msgstr "adv4_280/ushijima_0048b"
+
+msgctxt "11836"
+msgid "adv4_280/shinada_0375a"
+msgstr "adv4_280/shinada_0375a"
+
+msgctxt "11840"
+msgid "adv4_280/shinada_0375b"
+msgstr "adv4_280/shinada_0375b"
+
+msgctxt "11844"
+msgid "adv4_280/ushijima_0049"
+msgstr "adv4_280/ushijima_0049"
+
+msgctxt "11848"
+msgid "adv4_280/shinada_0376"
+msgstr "adv4_280/shinada_0376"
+
+msgctxt "11852"
+msgid "adv4_280/ushijima_0050"
+msgstr "adv4_280/ushijima_0050"
+
+msgctxt "11856"
+msgid "adv4_280/shinada_0377a"
+msgstr "adv4_280/shinada_0377a"
+
+msgctxt "11860"
+msgid "adv4_280/shinada_0377b"
+msgstr "adv4_280/shinada_0377b"
+
+msgctxt "11864"
+msgid "Futo Momo Manager"
+msgstr "Gestore del Futo Momo"
+
+msgctxt "11868"
+msgid "adv4_280/futomomo_0011"
+msgstr "adv4_280/futomomo_0011"
+
+msgctxt "11872"
+msgid "adv4_280/milk_0038"
+msgstr "adv4_280/milk_0038"
+
+msgctxt "11876"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "11880"
+msgid "adv4_280/futomomo_0012"
+msgstr "adv4_280/futomomo_0012"
+
+msgctxt "11884"
+msgid "adv4_280/ushijima_0051"
+msgstr "adv4_280/ushijima_0051"
+
+msgctxt "60_Player"
+msgid ""
+"(That's Warehouse 62 up ahead. Milky-chan and her brother\r\n"
+"might be inside!)"
+msgstr ""
+"(Quello è il Magazzino 62 laggiù. Latte-chan e suo fratello\n"
+"potrebbero essere dentro!)"
+
+msgctxt "108_Player"
+msgid "Milky-chan, are you all right!?"
+msgstr "Latte-chan, stai bene!?"
+
+msgctxt "120_Milky"
+msgid "Mmph! Mmmph!"
+msgstr "Mmph! Mmmph!"
+
+msgctxt "144_Shinada"
+msgid "Milky-chan, where is he? Where'd they take your brother?"
+msgstr "Latte-chan, dov'è? Dove hanno portato tuo fratello?"
+
+msgctxt "180_Player"
+msgid "Ta-chan, I'm sorry."
+msgstr "Ta-chan, mi dispiace."
+
+msgctxt "312_Player"
+msgid "Ugh... Ushijima-san?"
+msgstr "Ugh... Ushijima-san?"
+
+msgctxt "324_Ushijima"
+msgid "We got orders to take you out, Shinada."
+msgstr "Abbiamo ordini di farti fuori, Shinada."
+
+msgctxt "336_Ushijima"
+msgid "It's your fault for not heeding the warnings."
+msgstr "È colpa tua per non aver dato retta agli avvertimenti."
+
+msgctxt "348_Shinada"
+msgid "Ushijima-san..."
+msgstr "Ushijima-san..."
+
+msgctxt "360_Milky"
+msgid ""
+"If only you'd gotten scared away from all those incidents in town... it "
+"wouldn't have come to this."
+msgstr ""
+"Se solo ti fossi tirato indietro per via di tutti quegli incidenti in "
+"città... non sarebbe finita così."
+
+msgctxt "372_Ushijima"
+msgid ""
+"You wanted to know about the Nagoya Family so bad? Well here's your answer."
+msgstr "Volevi tanto sapere della Famiglia Nagoya? Beh, ecco la tua risposta."
+
+msgctxt "384_Shinada"
+msgid "I don't believe it... I <Italic>won't</Italic> believe it."
+msgstr "Non ci credo... Non ci <Italic>voglio</Italic> credere."
+
+msgctxt "396_Ushijima"
+msgid ""
+"Any last words? We've known each other all of 15 years. I can listen to your"
+" will at least."
+msgstr ""
+"Hai qualche ultima parola? Sono ben 15 anni che ci conosciamo. Posso "
+"perlomeno ascoltare le tue ultime volontà."
+
+msgctxt "408_Shinada"
+msgid ""
+"Hah. I know you're all good people. So you can stop playing the villain any "
+"time now."
+msgstr ""
+"Ahah. So che siete tutti brave persone. Quindi potete smetterla di fare i "
+"cattivi quando volete."
+
+msgctxt "420_Ushijima"
+msgid "......"
+msgstr "......"
+
+msgctxt "432_Shinada"
+msgid "Maybe I was too dumb for school, but I did learn how to read people."
+msgstr ""
+"Forse ero troppo scemo per la scuola, ma ho imparato a leggere le persone."
+
+msgctxt "444_Shinada"
+msgid "And I know that every one of you opened your hearts to me!"
+msgstr "E so che tutti voi mi avete aperto il cuore!"
+
+msgctxt "456_Shinada"
+msgid "That's why I can't believe your little gangster act!"
+msgstr "Ecco perché non ci credo alla vostra farsa da gangster!"
+
+msgctxt "468_Milky"
+msgid "......"
+msgstr "......"
+
+msgctxt "480_Shinada"
+msgid ""
+"Those accidents around town, and Sakai-san's death－you're saying you're "
+"behind all that!?"
+msgstr ""
+"Quegli incidenti in città, e la morte di Sakai-san－stai dicendo che ci sei "
+"tu dietro a tutto questo!?"
+
+msgctxt "492_Shinada"
+msgid "You all sold out to the Nagoya Family!?"
+msgstr "Vi siete venduti tutti alla Famiglia Nagoya!?"
+
+msgctxt "504_Ushijima"
+msgid ""
+"Buddy. We <Italic>are</Italic> the Nagoya Family. A group of ordinary "
+"citizens dedicated to the cause."
+msgstr ""
+"Amico. Noi <Italic>siamo</Italic> la Famiglia Nagoya. Un gruppo di comuni "
+"cittadini dediti alla causa."
+
+msgctxt "516_Ushijima"
+msgid ""
+"Now I don't like the idea of being considered yakuza, but I\r\n"
+"guess that's how it goes."
+msgstr ""
+"Non mi piace l'idea di essere considerato uno yakuza, ma\n"
+"credo che vada così."
+
+msgctxt "528_Shinada"
+msgid ""
+"Ushijima-san, if you really wanted to kill me, you could've\r\n"
+"done so anytime you wanted."
+msgstr ""
+"Ushijima-san, se avessi voluto davvero uccidermi, avresti potuto\\nfarlo "
+"quando volevi."
+
+msgctxt "540_Shinada"
+msgid "But you didn't. Why is that?"
+msgstr "Ma non l'hai fatto. Perché?"
+
+msgctxt "552_Ushijima"
+msgid "......"
+msgstr "......"
+
+msgctxt "564_Shinada"
+msgid "Somebody's forcing you, aren't they?"
+msgstr "Qualcuno vi sta forzando, no?"
+
+msgctxt "576_Ushijima"
+msgid "......"
+msgstr "......"
+
+msgctxt "588_Shinada"
+msgid ""
+"And you're only doing this because you're following their orders, right?"
+msgstr "E lo state facendo solo perché seguite i loro ordini, vero?"
+
+msgctxt "600_Shinada"
+msgid "Tell me who it is!"
+msgstr "Dimmi chi è!"
+
+msgctxt "612_Futo Momo Manager"
+msgid "Milky, just do it already."
+msgstr "Milky, fallo una buona volta."
+
+msgctxt "624_Milky"
+msgid "What are you asking? You're gonna make a girl do it?"
+msgstr "Che stai chiedendo? Vuoi far fare questo a una ragazza?"
+
+msgctxt "636_Futo Momo Manager"
+msgid "I, uh... Ushijima-san?"
+msgstr "Io, uh... Ushijima-san?"
+
+msgctxt "648_Ushijima"
+msgid "Fine then. I'll end it."
+msgstr "Va bene, allora. La finisco io."

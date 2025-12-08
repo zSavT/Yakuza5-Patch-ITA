@@ -1,0 +1,29 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "440"
+msgid "Passenger"
+msgstr "Passeggero"
+
+msgctxt "76_Passenger"
+msgid "Nice driving."
+msgstr "Bella guida."
+
+msgctxt "88_Passenger"
+msgid "Your driving's all right, I guess."
+msgstr "Non guidi mica male, direi."
+
+msgctxt "100_Passenger"
+msgid "Your driving's terrible."
+msgstr "Guidi da cani."

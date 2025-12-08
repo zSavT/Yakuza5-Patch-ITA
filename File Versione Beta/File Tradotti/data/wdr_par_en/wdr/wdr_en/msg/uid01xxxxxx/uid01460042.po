@@ -1,0 +1,274 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "8588"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "8592"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "8596"
+msgid "Kaguya"
+msgstr "Kaguya"
+
+msgctxt "8600"
+msgid "F_SXY_TLK_stand_no"
+msgstr "F_SXY_TLK_stand_no"
+
+msgctxt "8604"
+msgid "M_NML_TLK_stand_no"
+msgstr "M_NML_TLK_stand_no"
+
+msgctxt "8608"
+msgid "M_NML_TLK_stand_away"
+msgstr "M_NML_TLK_stand_away"
+
+msgctxt "8612"
+msgid "Subordinates"
+msgstr "Subordinati"
+
+msgctxt "8616"
+msgid "M_NML_TLK_stand_yes"
+msgstr "M_NML_TLK_stand_yes"
+
+msgctxt "8620"
+msgid "F_SXY_TLK_stand_nobig"
+msgstr "F_SXY_TLK_stand_nobig"
+
+msgctxt "8624"
+msgid "M_NML_TLK_stand_quest"
+msgstr "M_NML_TLK_stand_quest"
+
+msgctxt "8628"
+msgid "P_SAE_TLK_stand_quest"
+msgstr "P_SAE_TLK_stand_quest"
+
+msgctxt "8632"
+msgid "F_SXY_TLK_stand_yes"
+msgstr "F_SXY_TLK_stand_yes"
+
+msgctxt "8636"
+msgid "P_SAE_TLK_stand_no"
+msgstr "P_SAE_TLK_stand_no"
+
+msgctxt "8640"
+msgid "P_SAE_TLK_stand_kansin"
+msgstr "P_SAE_TLK_stand_kansin"
+
+msgctxt "8644"
+msgid "F_SXY_TLK_stand_angry"
+msgstr "F_SXY_TLK_stand_angry"
+
+msgctxt "8648"
+msgid "F_SXY_TLK_stand_quest"
+msgstr "F_SXY_TLK_stand_quest"
+
+msgctxt "8652"
+msgid "P_SAE_TLK_stand_yes"
+msgstr "P_SAE_TLK_stand_yes"
+
+msgctxt "8656"
+msgid "P_SAE_TLK_stand_think"
+msgstr "P_SAE_TLK_stand_think"
+
+msgctxt "8660"
+msgid "P_SAE_TLK_stand_odosu"
+msgstr "P_SAE_TLK_stand_odosu"
+
+msgctxt "44_Saejima"
+msgid "(Hey... Is that Kaguya?)"
+msgstr "(Ehi... Ma è Kaguya?)"
+
+msgctxt "56_Man"
+msgid ""
+"Please, just settle down and do as you're told. Now hurry up and get in the "
+"car."
+msgstr ""
+"Su, dai, piantala e fai come ti diciamo. Adesso sbrigati e sali in macchina."
+
+msgctxt "68_Kaguya"
+msgid "Don't tell me what to do! I told you I'm not going!"
+msgstr "Non dirmi cosa devo fare! Ti ho già detto che non ci vado!"
+
+msgctxt "80_Man"
+msgid ""
+"Now, now. Don't be so selfish. There isn't much time left before your "
+"appointment."
+msgstr "Su, su, non essere così egoista. Non manca molto al tuo appuntamento."
+
+msgctxt "92_Kaguya"
+msgid "Well I'm in a hurry myself, so leave me alone!"
+msgstr "Beh, anch'io ho fretta, quindi lasciatemi in pace!"
+
+msgctxt "104_Man"
+msgid ""
+"Very well. We'll drag you with us if we have to.\r\n"
+"Do it!"
+msgstr ""
+"Benissimo. Se proprio dobbiamo, ti trasciniamo via con noi.\n"
+"Fate pure!"
+
+msgctxt "116_Subordinates"
+msgid "Yes, sir."
+msgstr "Sì, signore."
+
+msgctxt "140_Kaguya"
+msgid "Hey, get your hands off me!"
+msgstr "Ehi, giù le mani!"
+
+msgctxt "164_Saejima"
+msgid "Whaddya think you're doin'?"
+msgstr "Che diavolo credete di fare?"
+
+msgctxt "188_Kaguya"
+msgid "Saejima-san!"
+msgstr "Saejima-san!"
+
+msgctxt "200_Man"
+msgid "And who might you be?"
+msgstr "E tu chi saresti?"
+
+msgctxt "212_Saejima"
+msgid "Her friend. Who the hell're you guys?"
+msgstr "Il suo amico. Chi diavolo siete voi?"
+
+msgctxt "224_Man"
+msgid "......"
+msgstr "......"
+
+msgctxt "236_Kaguya"
+msgid ""
+"Um, Saejima-san, these men are from my father's company. They're here to "
+"take me to that arranged marriage meeting."
+msgstr ""
+"Ehm, Saejima-san, questi uomini sono dell'azienda di mio padre. Sono qui per"
+" portarmi a quell'incontro per il matrimonio combinato."
+
+msgctxt "248_Saejima"
+msgid "Arranged marriage? You said you were goin' to yer audition."
+msgstr "Matrimonio combinato? Avevi detto che andavi alla tua audizione."
+
+msgctxt "260_Kaguya"
+msgid "I am! I need to go now, but these people won't leave me alone!"
+msgstr "Ci vado! Devo andare adesso, ma questi non mi lasciano in pace!"
+
+msgctxt "272_Saejima"
+msgid "Is that so?"
+msgstr "È così?"
+
+msgctxt "284_Saejima"
+msgid ""
+"She said she's not goin' with you. Surely ya don't think the marriage "
+"meetin's gonna go well if ya drag her there by force."
+msgstr ""
+"Ha detto che non viene con voi. Non pensate mica che l'incontro per il "
+"matrimonio andrà bene se la trascinate lì a forza."
+
+msgctxt "296_Man"
+msgid "Yes, we realize that."
+msgstr "Certo che lo sappiamo."
+
+msgctxt "308_Saejima"
+msgid "Then why?"
+msgstr "Allora perché?"
+
+msgctxt "320_Man"
+msgid ""
+"Our orders are to bring Rei-san－ah, the young lady here－with us, no matter "
+"what. I don't care what happens after that so long as we get it done."
+msgstr ""
+"I nostri ordini sono di portare Rei-san—ah, la signorina qui—con noi, costi "
+"quel che costi. Non m'importa cosa succeda dopo, basta che lo facciamo."
+
+msgctxt "332_Saejima"
+msgid "Well, that makes sense."
+msgstr "Beh, così sì che ha senso."
+
+msgctxt "344_Kaguya"
+msgid "Saejima-san? You're taking their side!?"
+msgstr "Saejima-san? Ti sei messo dalla loro parte!?"
+
+msgctxt "356_Saejima"
+msgid "It's up to you."
+msgstr "Sta a voi."
+
+msgctxt "368_Kaguya"
+msgid "What? What do you mean?"
+msgstr "Cosa? Che vuoi dire?"
+
+msgctxt "380_Saejima"
+msgid "Are you gonna go along quietly to this marriage meetin'?"
+msgstr "Ci vai tranquillamente a questo incontro per il matrimonio?"
+
+msgctxt "392_Kaguya"
+msgid ""
+"Of course not! I finally found something I want to do! I can't give up "
+"before I've even had the chance to try!"
+msgstr ""
+"Certo che no! Ho finalmente trovato qualcosa che voglio fare! Non posso "
+"mollare prima ancora di aver avuto la possibilità di provarci!"
+
+msgctxt "404_Saejima"
+msgid "Heh, good answer. In that case, it looks like I gotta get involved."
+msgstr "Heh, bella risposta. In quel caso, mi sa che devo mettermi in mezzo."
+
+msgctxt "416_Man"
+msgid "What!?"
+msgstr "Cosa!?"
+
+msgctxt "428_Saejima"
+msgid "I wanna see this girl go after her dreams."
+msgstr "Voglio vedere questa ragazza inseguire i suoi sogni."
+
+msgctxt "440_Kaguya"
+msgid "Saejima-san..."
+msgstr "Saejima-san..."
+
+msgctxt "452_Man"
+msgid "......"
+msgstr "......"
+
+msgctxt "464_Saejima"
+msgid ""
+"I'd tell a man he hasta fight his own battles, but not a woman. 'Specially "
+"when she's gotta deal with men like you."
+msgstr ""
+"A un uomo direi che le sue battaglie se le deve combattere da solo, ma non a"
+" una donna. Specialmente quando ha a che fare con uomini come voi."
+
+msgctxt "476_Man"
+msgid "And just what do you intend to do?"
+msgstr "E cosa mai intendi fare?"
+
+msgctxt "488_Saejima"
+msgid ""
+"If you get in this girl's way, I'll do everythin' in my power to stop ya. "
+"That's all."
+msgstr ""
+"Se vi mettete in mezzo a questa ragazza, farò di tutto per fermarvi. Questo "
+"è tutto."
+
+msgctxt "500_Man"
+msgid ""
+"Very well, then. You leave us no choice. If you're going to stand in our "
+"way, it's your funeral."
+msgstr ""
+"Bene, allora. Non ci lasci altra scelta. Se ti metti in mezzo, sarà la tua "
+"fine."
+
+msgctxt "512_Man"
+msgid "Come on! Let's make this quick!"
+msgstr "Forza! Facciamo in fretta!"

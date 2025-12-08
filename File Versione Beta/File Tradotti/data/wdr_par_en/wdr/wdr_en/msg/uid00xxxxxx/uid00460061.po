@@ -1,0 +1,107 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2364"
+msgid "Kaguya"
+msgstr "Kaguya"
+
+msgctxt "2368"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2372"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "2376"
+msgid "P_SAE_TLK_stand_yes"
+msgstr "P_SAE_TLK_stand_yes"
+
+msgctxt "2380"
+msgid "P_SAE_TLK_stand_quest"
+msgstr "P_SAE_TLK_stand_quest"
+
+msgctxt "2384"
+msgid "F_SXY_TLK_stand_think"
+msgstr "F_SXY_TLK_stand_think"
+
+msgctxt "2388"
+msgid "F_SXY_TLK_stand_yes"
+msgstr "F_SXY_TLK_stand_yes"
+
+msgctxt "2392"
+msgid "P_SAE_TLK_stand_ok"
+msgstr "P_SAE_TLK_stand_ok"
+
+msgctxt "2396"
+msgid "0"
+msgstr "0"
+
+msgctxt "2400"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "80_Kaguya"
+msgid "Brr, it's cold! What's going on, Saejima-san?"
+msgstr "Brrr, che freddo! Che succede, Saejima-san?"
+
+msgctxt "92_Saejima"
+msgid "Hey, I got somethin' to talk to ya about."
+msgstr "Ehi, c'ho una cosa di cui parlarti."
+
+msgctxt "104_Kaguya"
+msgid "Oh? What is it?"
+msgstr "Oh? Che c'è?"
+
+msgctxt "116_Saejima"
+msgid ""
+"I know a guy out in Kamurocho. He's lookin' for hostesses to work at his "
+"club."
+msgstr "Conosco un tizio a Kamurocho. Cerca hostess per il suo club."
+
+msgctxt "128_Saejima"
+msgid ""
+"Think ya could maybe work for him, just for a little bit? It'd be a big "
+"favor."
+msgstr ""
+"Non è che potresti lavorarci per lui, giusto per un po'? Sarebbe un grosso "
+"favore."
+
+msgctxt "140_Kaguya"
+msgid "Kamurocho, you say?"
+msgstr "Kamurocho, dici?"
+
+msgctxt "152_Saejima"
+msgid "Yeah. Well? Wanna come to Tokyo with me?"
+msgstr "Sì. Allora? Ti va di venire a Tokyo con me?"
+
+msgctxt "164_Kaguya"
+msgid ""
+"Why not? I've been out there before to earn money. There aren't many "
+"modeling jobs for me here, so this could be a lucrative opportunity!"
+msgstr ""
+"Perché no? Ci sono già stata a fare soldi. Qui non ci sono molti lavoretti "
+"da modella per me, quindi questa potrebbe essere un'occasione d'oro!"
+
+msgctxt "176_Saejima"
+msgid "Looks like it's all settled then."
+msgstr "Sembra che sia tutto a posto, allora."
+
+msgctxt "188_Saejima"
+msgid ""
+"(Okay, I've talked Kaguya into it. Guess we should go to Elise once we're "
+"back in Kamurocho.)"
+msgstr ""
+"(Ok, ho convinto Kaguya. Credo che dovremmo farci un salto all'Elise una "
+"volta tornati a Kamurocho.)"

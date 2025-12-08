@@ -1,0 +1,1390 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "304"
+msgid "You got <Color:8>Staminan Royale<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Staminan Royale<Color:Default>."
+
+msgctxt "328"
+msgid "You got <Color:8>Bloody Binding<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Legaccio insanguinato<Color:Default>."
+
+msgctxt "400"
+msgid "You got 500 experience points."
+msgstr "Hai ottenuto 500 punti esperienza."
+
+msgctxt "448"
+msgid "You handed over <Color:8>Bear Meat<Color:Default>."
+msgstr "Hai consegnato <Color:8>Carne d'orso<Color:Default>."
+
+msgctxt "472"
+msgid "You handed over <Color:8>Bear Fat<Color:Default>."
+msgstr "Hai consegnato <Color:8>Grasso d'orso<Color:Default>."
+
+msgctxt "496"
+msgid "You handed over <Color:8>Bear Bile<Color:Default>."
+msgstr "Hai consegnato <Color:8>Bile d'orso<Color:Default>."
+
+msgctxt "520"
+msgid "You handed over <Color:8>Bear Skin<Color:Default>."
+msgstr "Hai consegnato <Color:8>Pelle d'orso<Color:Default>."
+
+msgctxt "544"
+msgid "You got <Color:8>102,000 yen<Color:Default>."
+msgstr "Hai ottenuto <Color:8>102,000 yen<Color:Default>."
+
+msgctxt "700"
+msgid "You got <Color:8>Fearless Binding<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Legaccio impavido<Color:Default>."
+
+msgctxt "760"
+msgid "You got 500 experience points."
+msgstr "Hai ottenuto 500 punti esperienza."
+
+msgctxt "1048"
+msgid "You handed over <Color:8>Bear Meat<Color:Default>."
+msgstr "Hai consegnato <Color:8>Carne d'orso<Color:Default>."
+
+msgctxt "1072"
+msgid "You handed over <Color:8>Bear Fat<Color:Default>."
+msgstr "Hai consegnato <Color:8>Grasso d'orso<Color:Default>."
+
+msgctxt "1096"
+msgid "You handed over <Color:8>Bear Bile<Color:Default>."
+msgstr "Hai consegnato <Color:8>Bile d'orso<Color:Default>."
+
+msgctxt "1120"
+msgid "You handed over <Color:8>Bear Skin<Color:Default>."
+msgstr "Hai consegnato <Color:8>Pelle d'orso<Color:Default>."
+
+msgctxt "1144"
+msgid "You got <Color:8>102,000 yen<Color:Default>."
+msgstr "Hai ottenuto <Color:8>102,000 yen<Color:Default>."
+
+msgctxt "1300"
+msgid "You got <Color:8>Fearless Binding<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Legaccio impavido<Color:Default>."
+
+msgctxt "1360"
+msgid "You got 500 experience points."
+msgstr "Hai ottenuto 500 punti esperienza."
+
+msgctxt "1480"
+msgid "You handed over <Color:8>Deer Meat<Color:Default>."
+msgstr "Hai consegnato <Color:8>Carne di cervo<Color:Default>."
+
+msgctxt "1504"
+msgid "You handed over <Color:8>Deer Hide<Color:Default>."
+msgstr "Hai consegnato <Color:8>Pelle di cervo<Color:Default>."
+
+msgctxt "1528"
+msgid "You handed over <Color:8>Antler<Color:Default>."
+msgstr "Hai consegnato <Color:8>Corno di cervo<Color:Default>."
+
+msgctxt "1552"
+msgid "You got <Color:8>26,000 yen<Color:Default>."
+msgstr "Hai ottenuto <Color:8>26,000 yen<Color:Default>."
+
+msgctxt "1600"
+msgid "You got 500 experience points."
+msgstr "Hai ottenuto 500 punti esperienza."
+
+msgctxt "1876"
+msgid "You handed over <Color:8>Deer Meat<Color:Default>."
+msgstr "Hai consegnato <Color:8>Carne di cervo<Color:Default>."
+
+msgctxt "1900"
+msgid "You handed over <Color:8>Deer Hide<Color:Default>."
+msgstr "Hai consegnato <Color:8>Pelle di cervo<Color:Default>."
+
+msgctxt "1924"
+msgid "You handed over <Color:8>Antler<Color:Default>."
+msgstr "Hai consegnato <Color:8>Corno di cervo<Color:Default>."
+
+msgctxt "1948"
+msgid "You got <Color:8>26,000 yen<Color:Default>."
+msgstr "Hai ottenuto <Color:8>26,000 yen<Color:Default>."
+
+msgctxt "1996"
+msgid "You got 500 experience points."
+msgstr "Hai ottenuto 500 punti esperienza."
+
+msgctxt "2140"
+msgid "You handed over <Color:8>Deer Meat<Color:Default>."
+msgstr "Hai consegnato <Color:8>Carne di cervo<Color:Default>."
+
+msgctxt "2164"
+msgid "You got <Color:8>6,000 yen<Color:Default>."
+msgstr "Hai guadagnato <Color:8>6.000 yen<Color:Default>."
+
+msgctxt "2212"
+msgid "You got 500 experience points."
+msgstr "Hai ottenuto 500 punti esperienza."
+
+msgctxt "2452"
+msgid "You handed over <Color:8>Deer Meat<Color:Default>."
+msgstr "Hai consegnato <Color:8>Carne di cervo<Color:Default>."
+
+msgctxt "2476"
+msgid "You got <Color:8>6,000 yen<Color:Default>."
+msgstr "Hai guadagnato <Color:8>6.000 yen<Color:Default>."
+
+msgctxt "2524"
+msgid "You got 500 experience points."
+msgstr "Hai ottenuto 500 punti esperienza."
+
+msgctxt "2668"
+msgid "You handed over <Color:8>Fox Skin<Color:Default>."
+msgstr "Hai consegnato <Color:8>Pelle di volpe<Color:Default>."
+
+msgctxt "2692"
+msgid "You got <Color:8>6,000 yen<Color:Default>."
+msgstr "Hai guadagnato <Color:8>6.000 yen<Color:Default>."
+
+msgctxt "2740"
+msgid "You got 500 experience points."
+msgstr "Hai ottenuto 500 punti esperienza."
+
+msgctxt "2980"
+msgid "You handed over <Color:8>Fox Skin<Color:Default>."
+msgstr "Hai consegnato <Color:8>Pelle di volpe<Color:Default>."
+
+msgctxt "3004"
+msgid "You got <Color:8>6,000 yen<Color:Default>."
+msgstr "Hai guadagnato <Color:8>6.000 yen<Color:Default>."
+
+msgctxt "3052"
+msgid "You got 500 experience points."
+msgstr "Hai ottenuto 500 punti esperienza."
+
+msgctxt "3208"
+msgid "You handed over <Color:8>Marten Pelt<Color:Default>."
+msgstr "Hai consegnato <Color:8>Pelliccia di martora<Color:Default>."
+
+msgctxt "3232"
+msgid "You got <Color:8>12,000 yen<Color:Default>."
+msgstr "Hai preso <Color:8>12.000 yen<Color:Default>."
+
+msgctxt "3280"
+msgid "You got 500 experience points."
+msgstr "Hai ottenuto 500 punti esperienza."
+
+msgctxt "3580"
+msgid "You handed over <Color:8>Marten Pelt<Color:Default>."
+msgstr "Hai consegnato <Color:8>Pelliccia di martora<Color:Default>."
+
+msgctxt "3604"
+msgid "You got <Color:8>12,000 yen<Color:Default>."
+msgstr "Hai preso <Color:8>12.000 yen<Color:Default>."
+
+msgctxt "3652"
+msgid "You got 500 experience points."
+msgstr "Hai ottenuto 500 punti esperienza."
+
+msgctxt "64432"
+msgid "Trader"
+msgstr "Commerciante"
+
+msgctxt "64436"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "64440"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "64444"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "64448"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "64452"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "64456"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "64460"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "64464"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "64468"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "64472"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "64476"
+msgid "Need to sell somethin'."
+msgstr "Devo vendere qualcosa."
+
+msgctxt "64480"
+msgid "Need to buy somethin'."
+msgstr "Devo comprare qualcosa."
+
+msgctxt "64484"
+msgid "Nah."
+msgstr "Nah."
+
+msgctxt "64488"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "64492"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "64496"
+msgid "Mission Added"
+msgstr "Missione Aggiunta"
+
+msgctxt "64500"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "64504"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "64508"
+msgid "Items for the VIP Customer"
+msgstr "Oggetti per il Cliente VIP"
+
+msgctxt "64512"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "64516"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "64520"
+msgid "Okudera"
+msgstr "Okudera"
+
+msgctxt "268_Trader"
+msgid "Oh, that sale puts you over the million yen mark!"
+msgstr "Oh, quella vendita ti fa superare il milione di yen!"
+
+msgctxt "280_Saejima"
+msgid "I sold ya that much already?"
+msgstr "Ti ho già venduto così tanto?"
+
+msgctxt "292_Trader"
+msgid ""
+"You've been an incredible help. I'll be able to meet this year's quota now! "
+"Here, take a little something for yourself."
+msgstr ""
+"Sei stato di grande aiuto. Ora riuscirò a raggiungere la quota di "
+"quest'anno! Tieni, prendi un piccolo pensierino per te."
+
+msgctxt "352_Saejima"
+msgid "Ya sure? Thanks."
+msgstr "Sei sicuro? Grazie."
+
+msgctxt "364_Trader"
+msgid ""
+"There's no such thing as too much inventory. As long as you keep bringing me"
+" wild game, I'm a happy man."
+msgstr ""
+"Non c'è mai troppo inventario. Finché continui a portarmi selvaggina, sono "
+"un uomo felice."
+
+msgctxt "376_Trader"
+msgid "I hope we'll continue to do business together!"
+msgstr "Spero che continueremo a fare affari insieme!"
+
+msgctxt "424_Trader"
+msgid "Saejima-san, are those...?"
+msgstr "Saejima-san, quelli sono...?"
+
+msgctxt "436_Saejima"
+msgid "Yup, took down a bear this time. Have at 'em."
+msgstr "Sì, stavolta ho tirato giù un orso. Prendi."
+
+msgctxt "556_Trader"
+msgid ""
+"You just might be the greatest business partner in history! I think I'm all "
+"set now."
+msgstr ""
+"Sei proprio il miglior socio d'affari della storia! Credo di essere a posto "
+"adesso."
+
+msgctxt "568_Saejima"
+msgid "Sure hope so."
+msgstr "Spero proprio di sì."
+
+msgctxt "580_Saejima"
+msgid ""
+"Why does that yakuza even want this stuff? Is he just makin' oddball demands"
+" to punish ya or somethin'?"
+msgstr ""
+"Ma perché quel yakuza vuole pure 'sta roba? Sta solo facendo richieste "
+"strampalate per punirti o cos'altro?"
+
+msgctxt "592_Trader"
+msgid ""
+"No, it's not like that. He's... uh... Well, you can keep a secret, right?"
+msgstr "No, non è così. Lui è... uhm... Beh, sai tenere un segreto, no?"
+
+msgctxt "604_Trader"
+msgid ""
+"These dumb requests came from a family boss－a guy whose ego is somehow twice"
+" the size of his fat ass."
+msgstr ""
+"Queste richieste del cavolo sono venute da un boss della famiglia, un tipo "
+"il cui ego è in qualche modo grande il doppio del suo culone."
+
+msgctxt "616_Saejima"
+msgid "Whaddya mean?"
+msgstr "Che vuoi dire?"
+
+msgctxt "628_Trader"
+msgid ""
+"Yeah. This fool apparently told another yakuza that he was some big-shot "
+"hunter."
+msgstr ""
+"Già. Questo idiota a quanto pare ha detto a un altro yakuza che era un gran "
+"cacciatore."
+
+msgctxt "640_Trader"
+msgid ""
+"And of course, he'd never even hunted before. So this was his solution when "
+"the other guy asked to see his trophies."
+msgstr ""
+"E figurati, non aveva mai nemmeno cacciato in vita sua. Perciò questa è "
+"stata la sua soluzione quando l'altro tizio gli ha chiesto di vedere i suoi "
+"trofei."
+
+msgctxt "652_Saejima"
+msgid "Ya tellin' me I did all this huntin' just to cover for his pride?"
+msgstr ""
+"Mi stai a dire che mi sono fatto tutta 'sta caccia solo per salvargli la "
+"faccia?"
+
+msgctxt "664_Trader"
+msgid ""
+"Yeah, but hey, there's still some good news－he knows he can't keep this up, "
+"so he already told everyone that this is his last hunt, because he finally "
+"bagged a bear."
+msgstr ""
+"Già, ma ehi, una buona notizia però c'è: sa che non può continuare così, "
+"perciò ha già detto a tutti che questa è la sua ultima caccia, perché "
+"finalmente ha tirato giù un orso."
+
+msgctxt "676_Trader"
+msgid ""
+"But hey, I'm sorry for dragging you into this mess. At least I'll be free of"
+" the bastards now! Thank you for that."
+msgstr ""
+"Ma ehi, mi dispiace averti trascinato in questo casino. Almeno mi sarò "
+"liberato di quei bastardi adesso! Grazie per questo."
+
+msgctxt "688_Trader"
+msgid "Here's something for all your trouble."
+msgstr "Ecco qualcosa per la tua fatica."
+
+msgctxt "724_Saejima"
+msgid ""
+"Thanks. I'm thinkin' we should just try to stay outta stuff like this from "
+"now on, both 'a us."
+msgstr ""
+"Grazie. Mi sa che d'ora in poi dovremmo solo cercare di star fuori da 'ste "
+"cose, tutti e due."
+
+msgctxt "736_Trader"
+msgid "I couldn't agree more."
+msgstr "Non potrei essere più d'accordo."
+
+msgctxt "784_Trader"
+msgid "Hey Saejima! You know I'm counting on you to deliver that bear for me!"
+msgstr "Ehi, Saejima! Sai che ci conto su di te per portarmi quell'orso!"
+
+msgctxt "796_Trader"
+msgid "So, anything I can help you with right now?"
+msgstr "Allora, in cosa posso esserti utile adesso?"
+
+msgctxt "832_Trader"
+msgid "Can I help you with anything else?"
+msgstr "Posso esserti d'aiuto con qualcos'altro?"
+
+msgctxt "844_Trader"
+msgid "Thank you. Your business is always appreciated."
+msgstr "Grazie. I tuoi affari sono sempre apprezzati."
+
+msgctxt "880_Trader"
+msgid ""
+"Hi, Saejima-san. Thank you for bringing me that entire deer! That was a huge"
+" help."
+msgstr ""
+"Ciao, Saejima-san. Grazie per avermi portato quell'intero cervo! È stato un "
+"aiuto enorme."
+
+msgctxt "892_Saejima"
+msgid "Not to worry－we're tradin' favors with each other, after all."
+msgstr "Non ti preoccupare — dopotutto, ci stiamo scambiando favori."
+
+msgctxt "904_Trader"
+msgid ""
+"I've got great news. I think if I finish this one last job, I'll be free of "
+"the yakuza for good."
+msgstr ""
+"Ho delle ottime notizie. Credo che se finisco quest'ultimo lavoretto, sarò "
+"libero dalla yakuza per sempre."
+
+msgctxt "916_Saejima"
+msgid "Ya sure 'bout that? Just one more job?"
+msgstr "Ne sei proprio sicuro? Solo un altro lavoretto?"
+
+msgctxt "928_Trader"
+msgid ""
+"It should be. I mean, we signed an official contract and everything... "
+"stating this last transaction would settle all debts."
+msgstr ""
+"Dovrebbe. Voglio dire, abbiamo firmato un contratto ufficiale e tutto... che"
+" diceva che quest'ultima transazione avrebbe saldato tutti i debiti."
+
+msgctxt "940_Saejima"
+msgid "Alright, what's their last order, then?"
+msgstr "Va bene, qual è il loro ultimo ordine, allora?"
+
+msgctxt "952_Trader"
+msgid "Well..."
+msgstr "Beh..."
+
+msgctxt "964_Saejima"
+msgid "Nothin' much shocks me anymore. Say it."
+msgstr "Niente mi sciocca più di tanto. Dillo."
+
+msgctxt "976_Trader"
+msgid "Argh... I hate to ask for this, but I need... an entire bear."
+msgstr "Argh... Non vorrei chiedertelo, ma mi serve... un intero orso."
+
+msgctxt "988_Saejima"
+msgid "The whole thing? Ya mean the meat, fur, fat, and bile?"
+msgstr "Tutto quanto? Vuoi dire la carne, la pelliccia, il grasso e la bile?"
+
+msgctxt "1000_Trader"
+msgid ""
+"All of it. But then we'll be done, I promise! Please help me out one last "
+"time."
+msgstr ""
+"Tutto quanto. Ma poi avremo finito, lo prometto! Ti prego, aiutami un'ultima"
+" volta."
+
+msgctxt "1012_Mission Added"
+msgid "\"Sell a Whole Bear\" was added to the list of missions."
+msgstr "\"Vendi un Orso Intero\" è stato aggiunto alla lista delle missioni."
+
+msgctxt "1036_Saejima"
+msgid "All 'a this oughta do it!"
+msgstr "Tutto questo dovrebbe bastare!"
+
+msgctxt "1156_Trader"
+msgid ""
+"You just might be the greatest business partner in history! I think I'm all "
+"set now."
+msgstr ""
+"Potresti essere davvero il miglior socio d'affari della storia! Credo di "
+"essere a posto ora."
+
+msgctxt "1168_Saejima"
+msgid "Sure hope so, after all this effort."
+msgstr "Spero proprio di sì, dopo tutta questa fatica."
+
+msgctxt "1180_Saejima"
+msgid ""
+"Why does that yakuza even want this stuff? Is he just makin' oddball demands"
+" to punish ya or somethin'?"
+msgstr ""
+"Perché mai quel yakuza vuole sta roba? Sta solo facendo richieste strane per"
+" punirti o che so io?"
+
+msgctxt "1192_Trader"
+msgid ""
+"No, it's not like that. He's... uh... Well, you can keep a secret, right?"
+msgstr "No, non è così. Lui è... uh... Beh, sai tenere un segreto, vero?"
+
+msgctxt "1204_Trader"
+msgid ""
+"These dumb requests came from a family boss－a guy whose ego is somehow twice"
+" the size of his fat ass."
+msgstr ""
+"Queste richieste stupide sono venute da un capo famiglia, un tipo il cui ego"
+" è, non so come, il doppio del suo culone."
+
+msgctxt "1216_Saejima"
+msgid "Whaddya mean?"
+msgstr "Che vuoi dire?"
+
+msgctxt "1228_Trader"
+msgid ""
+"Yeah. This fool apparently told another yakuza that he was some big-shot "
+"hunter."
+msgstr ""
+"Sì. Questo fesso a quanto pare ha detto a un altro yakuza che era un "
+"cacciatore coi fiocchi."
+
+msgctxt "1240_Trader"
+msgid ""
+"And of course, he'd never even hunted before. So this was his solution when "
+"the other guy asked to see his trophies."
+msgstr ""
+"E ovviamente, non aveva mai cacciato prima. Quindi questa era la sua "
+"soluzione quando l'altro gli ha chiesto di vedere i suoi trofei."
+
+msgctxt "1252_Saejima"
+msgid "Ya tellin' me I did all this huntin' just to cover for his pride?"
+msgstr ""
+"Mi stai dicendo che ho fatto tutta 'sta caccia solo per coprire il suo "
+"orgoglio?"
+
+msgctxt "1264_Trader"
+msgid ""
+"Yeah, but hey, there's still some good news－he knows he can't keep this up, "
+"so he already told everyone that this is his last hunt, because he finally "
+"bagged a bear."
+msgstr ""
+"Sì, ma ehi, c'è ancora qualche buona notizia: sa che non può continuare "
+"così, quindi ha già detto a tutti che questa è la sua ultima caccia, perché "
+"alla fine ha tirato giù un orso."
+
+msgctxt "1276_Trader"
+msgid ""
+"But hey, I'm sorry for dragging you into this mess. At least I'll be free of"
+" the bastards now! Thank you for that."
+msgstr ""
+"Ma ehi, mi dispiace averti trascinato in questo casino. Almeno sarò libero "
+"di quei bastardi ora! Grazie per questo."
+
+msgctxt "1288_Trader"
+msgid "Here's something for all your trouble."
+msgstr "Eccoti qualcosa per tutta la tua fatica."
+
+msgctxt "1324_Saejima"
+msgid ""
+"Thanks. I'm thinkin' we should just try to stay outta stuff like this from "
+"now on, both 'a us."
+msgstr ""
+"Grazie. Penso che d'ora in poi dovremmo solo cercare di star fuori da roba "
+"così, tutti e due."
+
+msgctxt "1336_Trader"
+msgid "I couldn't agree more."
+msgstr "Non potrei essere più d'accordo."
+
+msgctxt "1372_Trader"
+msgid "So, anything I can help you with right now?"
+msgstr "Allora, ti serve qualcosa adesso?"
+
+msgctxt "1408_Trader"
+msgid "Can I help you with anything else?"
+msgstr "Ti serve qualcos'altro?"
+
+msgctxt "1420_Trader"
+msgid "Thank you. Your business is always appreciated."
+msgstr "Grazie. Il tuo commercio è sempre gradito."
+
+msgctxt "1468_Saejima"
+msgid "It took a while, but here ya go."
+msgstr "C'è voluto un po', ma eccoti qua."
+
+msgctxt "1564_Trader"
+msgid ""
+"Fantastic! If this doesn't get them off my back, I don't know what will!"
+msgstr "Fantastico! Se questo non me li leva di dosso, non so cosa lo farà!"
+
+msgctxt "1576_Saejima"
+msgid "Hope ya know what yer talkin' about."
+msgstr "Spero tu sappia quel che dici."
+
+msgctxt "1624_Trader"
+msgid ""
+"Hey Saejima-san, I've got an order here for one whole deer. That should make"
+" for a handsome reward if you bring one to me."
+msgstr ""
+"Ehi Saejima-san, ho qui un ordine per un cervo intero. Dovrebbe fruttarti "
+"una bella ricompensa se me ne porti uno."
+
+msgctxt "1636_Trader"
+msgid "So, anything I can help you with right now?"
+msgstr "Allora, ti serve qualcosa adesso?"
+
+msgctxt "1672_Trader"
+msgid "Can I help you with anything else?"
+msgstr "Ti serve qualcos'altro?"
+
+msgctxt "1684_Trader"
+msgid "Thank you. Your business is always appreciated."
+msgstr "Grazie. Il tuo commercio è sempre gradito."
+
+msgctxt "1720_Trader"
+msgid "Saejima-san! Hey listen, you think you can help me out again?"
+msgstr ""
+"Ehi Saejima-san! Senti un po', credi di potermi dare una mano di nuovo?"
+
+msgctxt "1732_Saejima"
+msgid "In what way?"
+msgstr "In che modo?"
+
+msgctxt "1744_Trader"
+msgid ""
+"It's that customer from Tokyo, again－the one that kept placing all those "
+"ridiculous orders you already helped me with."
+msgstr ""
+"È di nuovo quel cliente di Tokyo－quello che continuava a piazzare tutti "
+"quegli ordini ridicoli con cui mi hai già dato una mano."
+
+msgctxt "1756_Trader"
+msgid "It turns out... he's a yakuza! Can you believe that!?"
+msgstr "Viene fuori che... è uno yakuza! Ci credi!?"
+
+msgctxt "1768_Saejima"
+msgid "...It happens."
+msgstr "...Capita."
+
+msgctxt "1780_Trader"
+msgid ""
+"And this time, the request was so outrageous, I just rejected it outright! "
+"But then they <Italic>threatened</Italic> me."
+msgstr ""
+"E questa volta, la richiesta era così assurda, l'ho semplicemente rifiutata "
+"su due piedi! Ma poi mi hanno <Italic>minacciato</Italic>."
+
+msgctxt "1792_Saejima"
+msgid "What's the request?"
+msgstr "Qual è la richiesta?"
+
+msgctxt "1804_Trader"
+msgid "One whole deer. The meat, the hide, at least one antler."
+msgstr "Un cervo intero. La carne, la pelle, almeno un corno."
+
+msgctxt "1816_Saejima"
+msgid ""
+"Fine, I'll take care of it. But tell 'em this is the last time, alright?"
+msgstr "Ok, ci penso io. Ma digli che è l'ultima volta, capito?"
+
+msgctxt "1828_Trader"
+msgid "Yes, of course. I'm so sorry for imposing on you again."
+msgstr "Sì, certo. Mi dispiace così tanto di importunarti di nuovo."
+
+msgctxt "1840_Mission Added"
+msgid "\"Sell a Whole Deer\" was added to the list of missions."
+msgstr "\"Vendi un cervo intero\" è stata aggiunta alla lista delle missioni."
+
+msgctxt "1864_Saejima"
+msgid "Here ya go."
+msgstr "Tieni."
+
+msgctxt "1960_Trader"
+msgid ""
+"Fantastic! If this doesn't get them off my back, I don't know what will!"
+msgstr ""
+"Fantastico! Se questo non me li leva di torno, non so cos'altro potrà farlo!"
+
+msgctxt "1972_Saejima"
+msgid "Hope ya know what yer talkin' about."
+msgstr "Spero tu sappia il fatto tuo."
+
+msgctxt "2008_Trader"
+msgid "So, anything I can help you with right now?"
+msgstr "Allora, ti serve qualcosa adesso?"
+
+msgctxt "2044_Trader"
+msgid "Can I help you with anything else?"
+msgstr "Ti serve qualcos'altro?"
+
+msgctxt "2056_Trader"
+msgid "Thank you. Your business is always appreciated."
+msgstr "Grazie. I tuoi affari sono sempre apprezzati."
+
+msgctxt "2104_Trader"
+msgid "Hello, Saejima. Ooh, what've you got there?"
+msgstr "Ciao, Saejima. Oh, cos'hai lì?"
+
+msgctxt "2116_Saejima"
+msgid "Yup, fresh deer. Take it."
+msgstr "Già, cervo fresco. Tieni."
+
+msgctxt "2128_Trader"
+msgid "Excellent! This is a big help!"
+msgstr "Fantastico! Questo è un grande aiuto!"
+
+msgctxt "2176_Trader"
+msgid ""
+"Thank you so much. Surely once I give him this, I won't be hearing from him "
+"ever again!"
+msgstr ""
+"Grazie mille. Di certo, una volta che glielo darò, non lo sentirò mai più!"
+
+msgctxt "2188_Saejima"
+msgid "Sure hope so."
+msgstr "Spero proprio di sì."
+
+msgctxt "2236_Trader"
+msgid "Hey Saejima, I'm still waiting on that deer meat, you know!"
+msgstr "Ciao Saejima, aspetto ancora quella carne di cervo, lo sai!"
+
+msgctxt "2248_Trader"
+msgid "So, anything I can help you with right now?"
+msgstr "Allora, ti serve qualcosa adesso?"
+
+msgctxt "2284_Trader"
+msgid "Can I help you with anything else?"
+msgstr "Ti serve qualcos'altro?"
+
+msgctxt "2296_Trader"
+msgid "Thank you. Your business is always appreciated."
+msgstr "Grazie. I tuoi affari sono sempre apprezzati."
+
+msgctxt "2332_Trader"
+msgid "Um... um, hey, Saejima-san...?"
+msgstr "Ehm... ehm, ehi, Saejima-san...?"
+
+msgctxt "2344_Saejima"
+msgid "Lemme guess－is it that troublesome customer of yours again?"
+msgstr "Fammi indovinare－è di nuovo quel cliente rompiscatole?"
+
+msgctxt "2356_Trader"
+msgid ""
+"I'm so sorry for imposing again! It's just... well, they're asking for deer "
+"meat now. Just one slab, though."
+msgstr ""
+"Mi dispiace tanto di disturbarti di nuovo! È solo che... beh, adesso "
+"chiedono carne di cervo. Solo un pezzo, però."
+
+msgctxt "2368_Trader"
+msgid ""
+"I'll pay you a premium for it! The customer has promised me that this is his"
+" last request."
+msgstr ""
+"Ti pagherò profumatamente per questo! Il cliente mi ha promesso che questa è"
+" la sua ultima richiesta."
+
+msgctxt "2380_Saejima"
+msgid ""
+"I definitely ain't cut out for yer job－I'd be screamin' at this guy till his"
+" ears bled. But I'll get ya that deer meat."
+msgstr ""
+"Non sono proprio tagliato per il tuo mestiere－io sbraiterei a quel tizio "
+"fino a fargli sanguinare le orecchie. Ma ti procurerò quella carne di cervo."
+
+msgctxt "2392_Trader"
+msgid "Thank you. I really do appreciate it, so much."
+msgstr "Grazie. Lo apprezzo davvero, tantissimo."
+
+msgctxt "2404_Mission Added"
+msgid "\"Sell Deer Meat\" was added to the list of missions."
+msgstr "\"Vendi Carne di Cervo\" è stata aggiunta alla lista delle missioni."
+
+msgctxt "2428_Saejima"
+msgid "I got some deer meat on me. Here, give this to yer customer."
+msgstr "Ho della carne di cervo addosso. Tieni, dai questo al tuo cliente."
+
+msgctxt "2440_Trader"
+msgid "Oh, great! You're a lifesaver."
+msgstr "Oh, fantastico! Mi hai salvato la vita."
+
+msgctxt "2488_Trader"
+msgid ""
+"Thank you so much. Honestly, I think this will be it from that customer."
+msgstr ""
+"Grazie mille. Sinceramente, credo che questa sarà l'ultima da quel cliente."
+
+msgctxt "2500_Saejima"
+msgid "It prob'ly ain't."
+msgstr "Probabilmente no."
+
+msgctxt "2536_Trader"
+msgid "So, anything I can help you with right now?"
+msgstr "Allora, c'è qualcosa in cui posso aiutarti adesso?"
+
+msgctxt "2572_Trader"
+msgid "Can I help you with anything else?"
+msgstr "C'è qualcos'altro in cui posso aiutarti?"
+
+msgctxt "2584_Trader"
+msgid "Thank you. Your business is always appreciated."
+msgstr "Grazie. I tuoi affari sono sempre apprezzati."
+
+msgctxt "2632_Trader"
+msgid "Hello, Saejima. Ooh, what've you got there?"
+msgstr "Ciao, Saejima. Ooh, che cos'hai lì?"
+
+msgctxt "2644_Saejima"
+msgid "Fox skin. Go 'head, take it."
+msgstr "Pelle di volpe. Tieni, prendila."
+
+msgctxt "2656_Trader"
+msgid "Thank you! This is a huge boon for my business!"
+msgstr "Grazie! Questo è un enorme vantaggio per i miei affari!"
+
+msgctxt "2704_Trader"
+msgid ""
+"I really appreciate you helping me out. The customer is sure to be happy, "
+"now!"
+msgstr ""
+"Apprezzo davvero molto il tuo aiuto. Il cliente sarà sicuramente contento, "
+"adesso!"
+
+msgctxt "2716_Saejima"
+msgid "Gotta keep yer customers happy."
+msgstr "Devi tenere i clienti contenti."
+
+msgctxt "2764_Trader"
+msgid "Hi, Saejima-san. Thank you for handling that one fox skin order."
+msgstr ""
+"Ciao, Saejima-san. Grazie per aver sbrigato quell'ordine di pelle di volpe."
+
+msgctxt "2776_Trader"
+msgid "So, anything I can help you with right now?"
+msgstr "Allora, c'è qualcosa in cui posso aiutarti adesso?"
+
+msgctxt "2812_Trader"
+msgid "Can I help you with anything else?"
+msgstr "C'è qualcos'altro in cui posso aiutarti?"
+
+msgctxt "2824_Trader"
+msgid "Thank you. Your business is always appreciated."
+msgstr "Grazie. I tuoi affari sono sempre apprezzati."
+
+msgctxt "2860_Trader"
+msgid ""
+"Oh, Saejima-san! Hello! ...Um, hey, I was wondering if I could ask for "
+"another favor."
+msgstr ""
+"Oh, Saejima-san! Ciao! ...Uhm, ehi, mi chiedevo se potessi chiederti un "
+"altro favore."
+
+msgctxt "2872_Saejima"
+msgid "What is it? That Tokyo customer again?"
+msgstr "Che c'è? Ancora quel cliente di Tokyo?"
+
+msgctxt "2884_Trader"
+msgid ""
+"Yes. He was hoping to buy a fox skin. Do you think that would be possible?"
+msgstr "Sì. Sperava di comprare una pelle di volpe. Credi che sia possibile?"
+
+msgctxt "2896_Trader"
+msgid "Of course, I can offer you higher pay for such a thing."
+msgstr "Certo, posso offrirti una paga più alta per una cosa del genere."
+
+msgctxt "2908_Saejima"
+msgid ""
+"Yeah, I'll give it a go. That customer of yours sure ain't easy to please."
+msgstr "Sì, ci provo. Quel tuo cliente non è mica facile da accontentare."
+
+msgctxt "2920_Trader"
+msgid "I'm so sorry to ask you for this, but it would really help."
+msgstr "Mi dispiace tanto chiederti questo, ma mi aiuterebbe davvero."
+
+msgctxt "2932_Mission Added"
+msgid "\"Sell a Fox Skin\" was added to the list of missions."
+msgstr "\"Vendi una pelle di volpe\" è stata aggiunta all'elenco delle missioni."
+
+msgctxt "2956_Saejima"
+msgid "Got a nice fox skin here. Go ahead and give it to yer customer."
+msgstr "Ho qui una bella pelle di volpe. Dai, portala pure al tuo cliente."
+
+msgctxt "2968_Trader"
+msgid "Wow... it's beautiful! Thank you, Saejima-san!"
+msgstr "Wow... è bellissimo! Grazie, Saejima-san!"
+
+msgctxt "3016_Trader"
+msgid ""
+"I really appreciate you helping me out. The customer is sure to be happy, "
+"now!"
+msgstr ""
+"Apprezzo molto che mi hai dato una mano. Il cliente sarà sicuramente "
+"contento, ora!"
+
+msgctxt "3028_Saejima"
+msgid "If he ain't, there's no helpin' him."
+msgstr "Se non si accontenta, non c'è niente da fare."
+
+msgctxt "3076_Trader"
+msgid "So, anything I can help you with right now?"
+msgstr "Allora, posso darti una mano in qualcosa adesso?"
+
+msgctxt "3112_Trader"
+msgid "Can I help you with anything else?"
+msgstr "Posso darti una mano in qualcos'altro?"
+
+msgctxt "3124_Trader"
+msgid "Thank you. Your business is always appreciated."
+msgstr "Grazie. Apprezzo sempre i tuoi affari."
+
+msgctxt "3172_Trader"
+msgid ""
+"Hello, Saejima. Ooh, is that luxurious-looking item what I think it is?"
+msgstr ""
+"Ciao, Saejima. Ooh, quell'oggetto dall'aspetto così lussuoso è quello che "
+"penso?"
+
+msgctxt "3184_Saejima"
+msgid "Yup, it's yer marten pelt."
+msgstr "Già, è la tua pelle di martora."
+
+msgctxt "3196_Trader"
+msgid "Thank you! This is a huge boon for my business!"
+msgstr "Grazie! Questa è una manna dal cielo per i miei affari!"
+
+msgctxt "3244_Trader"
+msgid "You saved me from losing a customer. Thank you."
+msgstr "Mi hai salvato dal perdere un cliente. Grazie."
+
+msgctxt "3256_Saejima"
+msgid "Don't mention it."
+msgstr "Non c'è di che."
+
+msgctxt "3304_Trader"
+msgid ""
+"Hi there, Saejima-san. I'm still holding out hope you'll get that marten "
+"pelt for me."
+msgstr ""
+"Ciao, Saejima-san. Ci spero ancora che tu mi procurerai quella pelle di "
+"martora."
+
+msgctxt "3316_Trader"
+msgid "So, anything I can help you with right now?"
+msgstr "Allora, posso darti una mano in qualcosa adesso?"
+
+msgctxt "3352_Trader"
+msgid "Can I help you with anything else?"
+msgstr "Posso darti una mano in qualcos'altro?"
+
+msgctxt "3364_Trader"
+msgid "Thank you. Your business is always appreciated."
+msgstr "Grazie. Apprezzo sempre i tuoi affari."
+
+msgctxt "3400_Trader"
+msgid "Oh, Saejima-san. I was wondering if you could help me."
+msgstr "Oh, Saejima-san. Mi stavo chiedendo se potessi aiutarmi."
+
+msgctxt "3412_Saejima"
+msgid "Whaddya need?"
+msgstr "Che ti serve?"
+
+msgctxt "3424_Trader"
+msgid ""
+"Uh, could I possibly buy a marten pelt off you? I'll offer double what I "
+"usually pay."
+msgstr ""
+"Ehm, potrei per caso comprarti una pelle di martora? Ti offro il doppio di "
+"quello che pago di solito."
+
+msgctxt "3436_Saejima"
+msgid "In a bind?"
+msgstr "Nei guai?"
+
+msgctxt "3448_Trader"
+msgid ""
+"Kind of. One of my regular customers in Tokyo just sent me an urgent order "
+"for a marten pelt."
+msgstr ""
+"Più o meno. Uno dei miei clienti abituali a Tokyo mi ha appena inviato un "
+"ordine urgente per una pelle di martora."
+
+msgctxt "3460_Trader"
+msgid ""
+"If I can't fill it quickly, they're going to stop doing business with me. "
+"It's totally unreasonable, but at the same time... It's one of my best "
+"customers, so I don't want to lose 'im."
+msgstr ""
+"Se non riesco a evaderlo in fretta, smetteranno di fare affari con me. È "
+"proprio irragionevole, ma allo stesso tempo... È uno dei miei migliori "
+"clienti, perciò non voglio perderlo."
+
+msgctxt "3472_Saejima"
+msgid "Well, since I need yer business myself, I'll see what I can do."
+msgstr ""
+"Beh, visto che pure a me servono i tuoi affari, vedrò cosa posso fare."
+
+msgctxt "3484_Trader"
+msgid "Oh, that would be such a big help..."
+msgstr "Oh, sarebbe un aiuto enorme..."
+
+msgctxt "3496_Trader"
+msgid ""
+"Naturally, since it's for such an important customer, I'll have to inspect "
+"it carefully before buying."
+msgstr ""
+"Naturalmente, visto che è per un cliente così importante, dovrò ispezionarlo"
+" attentamente prima di comprarlo."
+
+msgctxt "3508_Trader"
+msgid ""
+"Not that I don't trust you! But just to be safe, please deliver it "
+"personally to me. Okay?"
+msgstr ""
+"Non che non mi fidi di te! Ma solo per sicurezza, per favore, consegnamelo "
+"di persona. Ok?"
+
+msgctxt "3520_Items for the VIP Customer"
+msgid ""
+"The trader will pay double his usual price for items special-ordered by the "
+"VIP customer. They must be handed over in person, so place them in your "
+"<Color:7>Inventory<Color:Default> first."
+msgstr ""
+"Il commerciante pagherà il doppio del suo prezzo abituale per gli oggetti "
+"ordinati appositamente dal cliente VIP. Devono essere consegnati di persona,"
+" perciò mettili nel tuo <Color:7>Inventario<Color:Default> prima."
+
+msgctxt "3532_Mission Added"
+msgid "\"Sell a Marten Pelt\" was added to the list of missions."
+msgstr ""
+"\"Vendi una pelle di martora\" è stata aggiunta alla lista delle missioni."
+
+msgctxt "3556_Saejima"
+msgid "I've got a marten pelt here. If this'll do, it's yours."
+msgstr "Ho qui una pelle di martora. Se ti va bene questa, è tua."
+
+msgctxt "3568_Trader"
+msgid "Oh, wow! You're the best, Saejima-san!"
+msgstr "Oh, grandioso! Sei il migliore, Saejima-san!"
+
+msgctxt "3616_Trader"
+msgid "You saved me from losing a customer. Thank you."
+msgstr "Mi hai salvato dal perdere un cliente. Grazie."
+
+msgctxt "3628_Saejima"
+msgid "Don't mention it."
+msgstr "Non c'è di che."
+
+msgctxt "3664_Trader"
+msgid "So, anything I can help you with right now?"
+msgstr "Allora, ti serve qualcosa adesso?"
+
+msgctxt "3700_Trader"
+msgid "Can I help you with anything else?"
+msgstr "Ti serve qualcos'altro?"
+
+msgctxt "3712_Trader"
+msgid "Thank you. Your business is always appreciated."
+msgstr "Grazie. I tuoi affari sono sempre apprezzati."
+
+msgctxt "3760_Trader"
+msgid "Oh, hi there. Say, have you heard the story about the Jizo statues?"
+msgstr "Oh, ciao. Senti, hai sentito la storia sulle statue Jizo?"
+
+msgctxt "3772_Saejima"
+msgid "What's this, now?"
+msgstr "Che roba è questa, adesso?"
+
+msgctxt "3784_Trader"
+msgid "Well, there are these twelve Jizo statues on the mountain."
+msgstr "Beh, ci sono queste dodici statue Jizo sulla montagna."
+
+msgctxt "3796_Saejima"
+msgid "What is this, some kinda ghost story?"
+msgstr "Che roba è questa, una specie di storia di fantasmi?"
+
+msgctxt "3808_Trader"
+msgid ""
+"Oh no, no, not at all! In fact, I'm talking about "
+"<Italic>beneficial</Italic> spirits. You see, in the old days, hunters would"
+" pray to a Jizo statue if they happened to come across one."
+msgstr ""
+"Oh no, no, affatto! Anzi, sto parlando di spiriti <Italic>benefici</Italic>."
+" Vedi, un tempo, i cacciatori pregavano una statua Jizo se si imbattevano in"
+" una."
+
+msgctxt "3820_Trader"
+msgid ""
+"It makes sense that the hunters were superstitious. I mean, the mountain is "
+"such a dangerous place..."
+msgstr ""
+"Ha senso che i cacciatori fossero superstiziosi. Insomma, la montagna è un "
+"posto così pericoloso..."
+
+msgctxt "3832_Trader"
+msgid ""
+"But what if it worked? Some people have sworn that the Jizo statues kept "
+"them from getting lost in the wild."
+msgstr ""
+"Ma se funzionasse? Certa gente ha giurato che le statue Jizo impedivano loro"
+" di perdersi nella natura selvaggia."
+
+msgctxt "3844_Saejima"
+msgid "It ain't hard to understand why folks turn to superstition."
+msgstr "Non è difficile capire perché la gente si affida alla superstizione."
+
+msgctxt "3856_Trader"
+msgid ""
+"Well, if you ask me, it can't hurt. If I came across a Jizo statue up there,"
+" I'd pray to it. Why not?"
+msgstr ""
+"Beh, per me, male non fa. Se mi imbattessi in una statua Jizo lassù, ci "
+"pregherei. Perché no?"
+
+msgctxt "3868_Saejima"
+msgid "Uh-huh..."
+msgstr "Uh-uh..."
+
+msgctxt "3880_Mission Added"
+msgid "\"Pray to Jizo Statues\" was added to the list of missions."
+msgstr "\"Pregare le statue Jizo\" è stato aggiunto all'elenco delle missioni."
+
+msgctxt "3892_Trader"
+msgid "So, would you like anything today?"
+msgstr "Allora, ti serve qualcosa oggi?"
+
+msgctxt "3904_Trader"
+msgid "Oh hello, Saejima. Can I help you with something?"
+msgstr "Oh ciao, Saejima. Ti serve qualcosa?"
+
+msgctxt "3940_Trader"
+msgid "Can I help you with anything else?"
+msgstr "Posso aiutarti con qualcos'altro?"
+
+msgctxt "3952_Trader"
+msgid "Thank you. Your business is always appreciated."
+msgstr "Grazie. È sempre un piacere fare affari con te."
+
+msgctxt "3988_Trader"
+msgid "Ah, just the man I wanted to see!"
+msgstr "Ah, proprio l'uomo che volevo vedere!"
+
+msgctxt "4000_Trader"
+msgid "I heard about how you sent Yama-oroshi running."
+msgstr "Ho sentito parlare di come hai messo in fuga Yama-oroshi."
+
+msgctxt "4012_Trader"
+msgid ""
+"Pretty impressive. With those kind of hunting skills, I was wondering if I "
+"could ask a favor of you."
+msgstr ""
+"Davvero impressionante. Con abilità di caccia del genere, mi chiedevo se "
+"potessi chiederti un favore."
+
+msgctxt "4024_Saejima"
+msgid "What is it?"
+msgstr "E cioè?"
+
+msgctxt "4036_Trader"
+msgid ""
+"Well, because of the Yama-oroshi trouble, all the hunters around here are "
+"reluctant to hunt on the mountain."
+msgstr ""
+"Beh, a causa del casino di Yama-oroshi, tutti i cacciatori della zona non se"
+" la sentono più di cacciare sulla montagna."
+
+msgctxt "4048_Saejima"
+msgid "Can't blame 'em, with that beast roamin' around."
+msgstr "Come dargli torto, con quella bestia che si aggira in giro."
+
+msgctxt "4060_Trader"
+msgid ""
+"Of course, of course. I can certainly understand. But it's made it very "
+"difficult for me to source any merchandise."
+msgstr ""
+"Certo, certo. Capisco benissimo. Ma mi ha reso maledettamente difficile "
+"procurarmi merce."
+
+msgctxt "4072_Trader"
+msgid ""
+"But maybe you, if you go to the mountain, would be willing to sell me any "
+"game you bag?"
+msgstr ""
+"Ma forse tu, se vai sulla montagna, saresti disposto a vendermi qualsiasi "
+"selvaggina che riesci a prendere?"
+
+msgctxt "4084_Trader"
+msgid "It could be meat, hides, or even vegetation. What do you think?"
+msgstr "Potrebbe essere carne, pelli, o persino vegetazione. Che ne dici?"
+
+msgctxt "4096_Saejima"
+msgid "Don't get yer hopes up. I don't plan on goin' on any huntin' sprees."
+msgstr ""
+"Non farti illusioni. Non ho intenzione di mettermi a fare scorribande di "
+"caccia."
+
+msgctxt "4108_Trader"
+msgid ""
+"Oh, I understand. I wasn't asking for reckless slaughter or anything! I have"
+" to maintain a good relationship with this village too, you know."
+msgstr ""
+"Oh, capisco. Non ti stavo chiedendo di fare un massacro sconsiderato o roba "
+"del genere! Devo mantenere buoni rapporti anche con questo villaggio, sai."
+
+msgctxt "4120_Saejima"
+msgid "Alright. I'll do what I can. How much game do ya need?"
+msgstr "Ok. Farò quello che posso. Quanta selvaggina ti serve?"
+
+msgctxt "4132_Trader"
+msgid "Not much... About a million yen worth."
+msgstr "Non molto... Circa un milione di yen di merce."
+
+msgctxt "4144_Saejima"
+msgid "A million yen! I can't imagine what it'd take to equal that!"
+msgstr ""
+"Un milione di yen! Non riesco a immaginare cosa diavolo ci voglia per "
+"arrivare a tanto!"
+
+msgctxt "4156_Trader"
+msgid ""
+"Not as much as you'd think. Don't worry－you'll see what the prices are "
+"really like once you bring me a few things. I'm counting on you!"
+msgstr ""
+"Mica così tanto come pensi. Stai tranquillo—vedrai come sono davvero i "
+"prezzi una volta che mi porterai qualche cosetta. Conto su di te!"
+
+msgctxt "4168_Mission Added"
+msgid "\"Supply the Trader\" was added to the list of missions."
+msgstr "\"Fornisci il Commerciante\" è stata aggiunta all'elenco delle missioni."
+
+msgctxt "4180_Trader"
+msgid "So, can I help you with anything today?"
+msgstr "Allora, posso aiutarti con qualcosa oggi?"
+
+msgctxt "4216_Trader"
+msgid "Can I help you with anything else?"
+msgstr "Posso aiutarti con qualcos'altro?"
+
+msgctxt "4228_Trader"
+msgid "Thank you. Your business is always appreciated."
+msgstr "Grazie. I tuoi affari sono sempre i benvenuti."
+
+msgctxt "4264_Saejima"
+msgid "Got a minute?"
+msgstr "Hai un minuto?"
+
+msgctxt "4276_Trader"
+msgid "Yes, of course. How can I help you?"
+msgstr "Sì, certo. Come posso aiutarti?"
+
+msgctxt "4288_Saejima"
+msgid ""
+"Ya do business here, dontcha? Thought I'd introduce myself, since I've just "
+"started huntin', which means I'll be needin' yer services soon 'nuff."
+msgstr ""
+"Tu fai affari qui, no? Pensavo di presentarmi, dato che ho appena iniziato a"
+" cacciare, il che significa che avrò bisogno dei tuoi servizi a breve."
+
+msgctxt "4300_Trader"
+msgid ""
+"Oh, I see. Pleased to make your acquaintance－I was wondering who the muscly "
+"new guy was!"
+msgstr ""
+"Oh, capisco. Piacere di conoscerti—mi chiedevo chi fosse quel nuovo tipo "
+"tutto muscoli!"
+
+msgctxt "4312_Trader"
+msgid "It's been quite a while since any newcomers were around."
+msgstr "È da un bel po' che non si vedevano in giro dei nuovi arrivati."
+
+msgctxt "4324_Saejima"
+msgid "Makes sense, in a place like this."
+msgstr "Ci sta, in un posto come questo."
+
+msgctxt "4336_Trader"
+msgid ""
+"\"In a place like this\"? You know, this mountain is actually pretty famous,"
+" because of the outstanding quality of its animal meats and skins."
+msgstr ""
+"\"In un posto come questo\"? Sai, questa montagna è in realtà piuttosto "
+"famosa, per via dell'eccellente qualità delle carni e delle pelli degli "
+"animali."
+
+msgctxt "4348_Saejima"
+msgid "That so?"
+msgstr "Ah sì?"
+
+msgctxt "4360_Trader"
+msgid ""
+"Oh, yes. The meat is prized at the most high-end restaurants in Tokyo, and "
+"the skins trade at high prices inside the most luxurious fur stores."
+msgstr ""
+"Oh, sì. La carne è molto ricercata nei ristoranti più di lusso di Tokyo, e "
+"le pelli vengono vendute a prezzi alti nei negozi di pellicce più lussuosi."
+
+msgctxt "4372_Trader"
+msgid "I mean, I assumed that's why you were hunting here in the first place."
+msgstr ""
+"Cioè, immaginavo che fosse per quello che cacciavi qui fin dall'inizio."
+
+msgctxt "4384_Saejima"
+msgid ""
+"Uh, ya might say that. I knew there was choice game, but I didn't know it "
+"was that good."
+msgstr ""
+"Ah, si può dire. Sapevo che c'era selvaggina pregiata, ma non sapevo fosse "
+"così buona."
+
+msgctxt "4396_Trader"
+msgid ""
+"It's some of the best around! Heck, ten years ago, hunters would come up "
+"here all the way from Honshu."
+msgstr ""
+"È tra le migliori in circolazione! Addirittura, dieci anni fa, i cacciatori "
+"salivano fin qui da Honshu."
+
+msgctxt "4408_Trader"
+msgid "It's not quite like that anymore, though."
+msgstr "Non è più proprio così, però."
+
+msgctxt "4420_Saejima"
+msgid ""
+"(Ten years ago? That's when Okudera-han started livin' in the village, right"
+" after he was rescued.)"
+msgstr ""
+"(Dieci anni fa? È quando Okudera-han ha iniziato a vivere nel villaggio, "
+"subito dopo essere stato salvato.)"
+
+msgctxt "4432_Trader"
+msgid ""
+"Still, the primo quality of wild game on this mountain remains unmatched. "
+"That's why I still come here to trade."
+msgstr ""
+"Eppure, la qualità di prim'ordine della selvaggina su questa montagna resta "
+"impareggiabile. Per questo vengo ancora qui a fare affari."
+
+msgctxt "4444_Saejima"
+msgid "Well, lookin' forward to doin' business with ya."
+msgstr "Beh, non vedo l'ora di fare affari con te."
+
+msgctxt "4456_Okudera"
+msgid "You ready to go, Saejima?"
+msgstr "Sei pronto, Saejima?"
+
+msgctxt "4468_Saejima"
+msgid "Yeah, sure."
+msgstr "Sì, certo."
+
+msgctxt "4492_Trader"
+msgid ""
+"Hi, Saejima. I'm happy to do business with you. Can I help you with anything"
+" today?"
+msgstr ""
+"Ciao, Saejima. Sono felice di fare affari con te. Posso esserti d'aiuto in "
+"qualcosa oggi?"
+
+msgctxt "4528_Trader"
+msgid "Can I help you with anything else?"
+msgstr "Posso esserti d'aiuto in qualcos'altro?"
+
+msgctxt "4540_Trader"
+msgid "Thank you. Your business is always appreciated."
+msgstr "Grazie. È sempre un piacere fare affari con te."

@@ -1,0 +1,47 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2048"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "2052"
+msgid "P_SAE_TLK_stand_kyoro_lp"
+msgstr "P_SAE_TLK_stand_kyoro_lp"
+
+msgctxt "2056"
+msgid "Talk_Kamae"
+msgstr "Talk_Kamae"
+
+msgctxt "56_Player"
+msgid ""
+"(Tch, there's a cop. Better cross the road and take the long way around.)"
+msgstr ""
+"Tsk, c'è uno sbirro. Meglio attraversare la strada e fare il giro lungo."
+
+msgctxt "80_Player"
+msgid "(Huh?)"
+msgstr "(Eh?)"
+
+msgctxt "104_Player"
+msgid "(There's a cop on that side, too!)"
+msgstr "(C'è uno sbirro pure da quella parte!)"
+
+msgctxt "116_Player"
+msgid "(Gotta hide! Wait... Huh?)"
+msgstr "(Devo nascondermi! Aspetta... Eh?)"
+
+msgctxt "152_Player"
+msgid "(Ain't nowhere to hide, so I need a disguise!)"
+msgstr "(Non c'è un buco dove nascondersi, quindi mi serve un travestimento!)"

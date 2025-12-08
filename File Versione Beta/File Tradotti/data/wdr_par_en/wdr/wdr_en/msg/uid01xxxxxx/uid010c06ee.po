@@ -1,0 +1,197 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "404"
+msgid "You got 1,400 experience points."
+msgstr "Hai ottenuto 1.400 punti esperienza."
+
+msgctxt "7360"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "7364"
+msgid "Nakajima"
+msgstr "Nakajima"
+
+msgctxt "7368"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "7372"
+msgid "Kiyokawa"
+msgstr "Kiyokawa"
+
+msgctxt "7376"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "7380"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "7384"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "7388"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "7392"
+msgid "Muramatsu"
+msgstr "Muramatsu"
+
+msgctxt "7396"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "44_Kiryu"
+msgid "I'm back."
+msgstr "Sono tornato."
+
+msgctxt "56_Nakajima"
+msgid "Hi there. Who's the youngster?"
+msgstr "Ehilà. Chi è il giovanotto?"
+
+msgctxt "68_Kiyokawa"
+msgid "I'm Kiyokawa! And I'd like to be your new driver!"
+msgstr "Sono Kiyokawa! E mi piacerebbe essere il vostro nuovo autista!"
+
+msgctxt "80_Nakajima"
+msgid ""
+"Oho, you're willin' to work for us here? Ya know we're a taxi company, "
+"right?"
+msgstr ""
+"Oh-ho, sei disposto a sgobbare qui da noi? Sai che siamo una compagnia di "
+"taxi, capito?"
+
+msgctxt "92_Kiyokawa"
+msgid ""
+"Yep! Truth is, I was dead-set on being a Devil Killer, but now I see that "
+"being a taxi driver is just as badass! I'll do whatever it takes to be one!"
+msgstr ""
+"Sì! La verità è che ero fissato a diventare un Devil Killer, ma ora vedo che"
+" fare il tassista è altrettanto una figata pazzesca! Farò di tutto per "
+"diventarlo!"
+
+msgctxt "104_Nakajima"
+msgid "The Devil Killers, huh..."
+msgstr "I Devil Killers, eh..."
+
+msgctxt "116_Kiryu"
+msgid ""
+"Kiyokawa used to be a street racer, but let's just say he hit a few speed "
+"bumps."
+msgstr ""
+"Kiyokawa era un pilota di strada, ma diciamo che ha avuto qualche intoppo."
+
+msgctxt "128_Nakajima"
+msgid ""
+"I see. Well, better to end up here than with those punks.\r\n"
+"Trust me... That ain't the road ya wanna follow."
+msgstr ""
+"Capisco. Beh, meglio finire qui che con quei teppisti.\n"
+"Fidati di me... Quella non è la strada che vuoi seguire."
+
+msgctxt "140_Kiryu"
+msgid "(You tell him, Chief.)"
+msgstr "(Diglielo tu, Capo.)"
+
+msgctxt "152_Nakajima"
+msgid ""
+"You've got yer whole life ahead of ya, Kiyokawa.\r\n"
+"How about you show him the ropes, Muramatsu?"
+msgstr ""
+"Hai tutta la vita davanti, Kiyokawa.\n"
+"Che ne dici di insegnargli i trucchi del mestiere, Muramatsu?"
+
+msgctxt "164_Muramatsu"
+msgid "Sure thing."
+msgstr "Ma certo!"
+
+msgctxt "176_Kiyokawa"
+msgid "Um, I was kinda hoping to train under Suzuki-san!"
+msgstr "Ehm, speravo un po' di imparare da Suzuki-san!"
+
+msgctxt "188_Muramatsu"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "200_Kiyokawa"
+msgid "This guy right here? He knows how to be a real man."
+msgstr "Questo qui? Lui sì che sa essere un vero uomo."
+
+msgctxt "212_Nakajima"
+msgid "A real man, eh? What exactly's that supposed to mean?"
+msgstr "Un vero uomo, eh? Cosa diavolo dovrebbe significare?"
+
+msgctxt "224_Kiyokawa"
+msgid ""
+"I'm saying I wanna learn everything Suzuki-san knows. He's like... a role "
+"model type of dude."
+msgstr ""
+"Intendo dire che voglio imparare tutto quello che Suzuki-san sa. È tipo... "
+"un modello, uno così."
+
+msgctxt "236_Nakajima"
+msgid ""
+"Hmm. Well, if you're that adamant about it, then Suzuki-san,\r\n"
+"be sure to look after Kiyokawa-kun here."
+msgstr ""
+"Hmm. Beh, se ci tieni così tanto, allora, Suzuki-san,\n"
+"dagli un occhio a Kiyokawa-kun qui."
+
+msgctxt "260_Kiryu"
+msgid "I will."
+msgstr "Certo."
+
+msgctxt "272_Muramatsu"
+msgid "Congratulations on moving up the ranks."
+msgstr "Congratulazioni per essere salito di grado."
+
+msgctxt "284_Kiryu"
+msgid "Thanks."
+msgstr "Grazie."
+
+msgctxt "296_Kiyokawa"
+msgid "What do I work on first, Suzuki-san?"
+msgstr "Su cosa mi butto per primo, Suzuki-san?"
+
+msgctxt "308_Kiryu"
+msgid "Your manners. When you answer, you say, \"Yes sir.\" Got that?"
+msgstr "Le tue maniere. Quando rispondi, dici: \"Sì, signore.\" Capito?"
+
+msgctxt "320_Kiryu"
+msgid "Heck yeah I do!"
+msgstr "Altroché!"
+
+msgctxt "332_Kiryu"
+msgid "Were you even listening?"
+msgstr "Ma stavi ascoltando?"
+
+msgctxt "344_Kiyokawa"
+msgid "Oh, for sure!"
+msgstr "Certo che sì!"
+
+msgctxt "356_Kiryu"
+msgid "Did you understand me, though?"
+msgstr "Mi hai capito, però?"
+
+msgctxt "368_Kiyokawa"
+msgid "Yep, loud and clear! Gotta work those manners, right?"
+msgstr "Forte e chiaro! Devo darmi una regolata con le maniere, eh?"
+
+msgctxt "380_Kiryu"
+msgid "(This is going to take a while...)"
+msgstr "(La vedo lunga...)"

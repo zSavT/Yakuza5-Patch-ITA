@@ -1,0 +1,29 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "788"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "56_Player"
+msgid "(There are a lot of them.)"
+msgstr "(Ce ne sono tanti.)"
+
+msgctxt "68_Player"
+msgid "(Hm, that float gives me an idea.)"
+msgstr "(Mh, quel galleggiante mi dà un'idea.)"
+
+msgctxt "80_Player"
+msgid "(And it's in the perfect spot, too. Good.)"
+msgstr "(Ed è anche nel posto perfetto. Ottimo.)"

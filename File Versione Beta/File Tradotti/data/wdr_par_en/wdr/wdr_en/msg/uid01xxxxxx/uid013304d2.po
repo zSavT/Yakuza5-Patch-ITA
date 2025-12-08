@@ -1,0 +1,97 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2548"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "2552"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "2556"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "2560"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "2564"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "2568"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "2572"
+msgid "Employee"
+msgstr "Cameriere"
+
+msgctxt "44_Player"
+msgid "(What to order?)"
+msgstr "(Cosa ordinare?)"
+
+msgctxt "80_Player"
+msgid "(I'm out of cash.)"
+msgstr "(Sono al verde.)"
+
+msgctxt "116_Kiryu"
+msgid "(I don't need to eat now.)"
+msgstr "(Non ho bisogno di mangiare ora.)"
+
+msgctxt "128_Akiyama"
+msgid "(I'm not hungry.)"
+msgstr "(Non ho fame.)"
+
+msgctxt "140_Saejima"
+msgid "(I'm full for now.)"
+msgstr "(Sono sazio per ora.)"
+
+msgctxt "152_Shinada"
+msgid "(It's tempting, but I'm stuffed.)"
+msgstr "(Mi tenta, ma sono sazio.)"
+
+msgctxt "164_Haruka"
+msgid "(I'm full.)"
+msgstr "(Sono sazio.)"
+
+msgctxt "200_Kiryu"
+msgid "Sorry, I have to run."
+msgstr "Scusa, devo scappare."
+
+msgctxt "212_Akiyama"
+msgid "Sorry, I forgot an urgent piece of business."
+msgstr "Scusa, mi sono dimenticato un impegno urgente."
+
+msgctxt "224_Saejima"
+msgid "Sorry, gotta go."
+msgstr "Scusa, devo scappare."
+
+msgctxt "236_Shinada"
+msgid "Oh, sorry! I have to run."
+msgstr "Oh, scusa! Devo scappare."
+
+msgctxt "248_Haruka"
+msgid "I'm so sorry. Something came up."
+msgstr "Mi dispiace tanto. È sorto un imprevisto."
+
+msgctxt "260_Employee"
+msgid "That's fine. Please come again soon."
+msgstr "Va bene. Torni presto."
+
+msgctxt "296_Employee"
+msgid "Thank you very much."
+msgstr "Grazie mille."

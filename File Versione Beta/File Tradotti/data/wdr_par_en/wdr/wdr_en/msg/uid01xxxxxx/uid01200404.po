@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1080"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "1084"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "1088"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1092"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "1096"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "136_Haruka"
+msgid "You're incredible, Uncle Kaz! That was too easy for you!"
+msgstr "Sei un fenomeno, Zio Kaz! Quella è stata una passeggiata per te!"
+
+msgctxt "160_Haruka"
+msgid "Well, better luck next time."
+msgstr "Vabbè, andrà meglio la prossima volta."
+
+msgctxt "184_Haruka"
+msgid ""
+"Uncle Kaz! Try to <Color:8>clear two stages or more in "
+"Gunrhein<Color:Default>!"
+msgstr ""
+"Zio Kaz! Prova a <Color:8>superare due livelli o più in "
+"Gunrhein<Color:Default>!"
+
+msgctxt "196_Kiryu"
+msgid ""
+"(Haruka wants me to <Color:8>clear two stages or more in "
+"Gunrhein<Color:Default>.)"
+msgstr ""
+"(Haruka vuole che io <Color:8>superi due livelli o più in "
+"Gunrhein<Color:Default>.)"

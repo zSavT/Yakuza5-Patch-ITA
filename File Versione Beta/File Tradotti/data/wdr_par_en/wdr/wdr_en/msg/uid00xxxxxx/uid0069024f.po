@@ -1,0 +1,227 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "5552"
+msgid "Clerk"
+msgstr "Commesso"
+
+msgctxt "5556"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "5560"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "5564"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "5568"
+msgid "Yi Yi Ren"
+msgstr "Yi Yi Ren"
+
+msgctxt "5572"
+msgid "Yin Yang Huo"
+msgstr "Yin Yang Huo"
+
+msgctxt "5576"
+msgid "Yin Er"
+msgstr "Yin Er"
+
+msgctxt "5580"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "5584"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "5588"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "5592"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "5596"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "5600"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "5604"
+msgid "Talk_Get"
+msgstr "Talk_Get"
+
+msgctxt "44_Clerk"
+msgid "Welcome."
+msgstr "Benvenuto."
+
+msgctxt "56_Haruka"
+msgid ""
+"(Er, what was the name of that Chinese medicine Yoko-san wanted me to buy?)"
+msgstr ""
+"(Ehm, qual era il nome di quella medicina cinese che Yoko-san voleva che "
+"comprassi?)"
+
+msgctxt "68_Haruka"
+msgid "Um, do you have any yi yi ren here?"
+msgstr "Ehm, avete del yi yi ren qui?"
+
+msgctxt "80_Clerk"
+msgid "Huh? Yi yi ren?"
+msgstr "Eh? Yi yi ren?"
+
+msgctxt "92_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "104_Clerk"
+msgid "Hmmm..."
+msgstr "Mmmm..."
+
+msgctxt "116_Haruka"
+msgid "(Maybe I didn't say it right.)"
+msgstr "(Forse non l'ho detto bene.)"
+
+msgctxt "128_Clerk"
+msgid ""
+"Ah, yes, we have plenty of diuretics if you're having trouble relieving "
+"yourself."
+msgstr "Ah, sì, abbiamo un sacco di diuretici se hai problemi a liberarti."
+
+msgctxt "140_Haruka"
+msgid "Wait, what?"
+msgstr "Ma che?"
+
+msgctxt "152_Clerk"
+msgid ""
+"Oh, yes. Coix seed. It promotes urination, among a variety of other "
+"beneficial effects."
+msgstr ""
+"Ah, sì. Semi di coix. Favorisce la diuresi e ha molti altri effetti "
+"benefici."
+
+msgctxt "164_Haruka"
+msgid "Oh!"
+msgstr "Oh!"
+
+msgctxt "176_Haruka"
+msgid "I must've gotten the name wrong. I'll be back!"
+msgstr "Devo aver sbagliato il nome. Tornerò!"
+
+msgctxt "188_Haruka"
+msgid ""
+"(That was embarrassing. I better go find out what that medicine's called "
+"before I try again.)"
+msgstr ""
+"(Che figura. Meglio che vada a scoprire come si chiama quella medicina prima"
+" di riprovare.)"
+
+msgctxt "200_Haruka"
+msgid "Um, do you have any yin yang huo here?"
+msgstr "Ehm, avete del yin yang huo qui?"
+
+msgctxt "212_Clerk"
+msgid "Huh? Yin yang huo?"
+msgstr "Eh? Yin yang huo?"
+
+msgctxt "224_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "236_Clerk"
+msgid "Hmmm..."
+msgstr "Mmmm..."
+
+msgctxt "248_Haruka"
+msgid "(Maybe I didn't say it right.)"
+msgstr "(Forse non l'ho detto bene.)"
+
+msgctxt "260_Clerk"
+msgid ""
+"Young lady, I don't think you have any need for this... Or is your boyfriend"
+" having problems keeping it up?"
+msgstr ""
+"Signorina, non credo che a lei serva... Oppure il suo fidanzato ha problemi "
+"a tenerlo su?"
+
+msgctxt "272_Haruka"
+msgid "Wait, no!"
+msgstr "Ma no!"
+
+msgctxt "284_Haruka"
+msgid ""
+"That's definitely not what I want! I must've gotten the name wrong. I'll be "
+"back!"
+msgstr ""
+"Ma non è proprio quello che voglio! Devo aver sbagliato il nome. Tornerò!"
+
+msgctxt "296_Haruka"
+msgid ""
+"(That was embarrassing. I better go find out what that medicine's called "
+"before I try again.)"
+msgstr ""
+"(Che figura. Meglio che vada a scoprire come si chiama quella medicina prima"
+" di riprovare.)"
+
+msgctxt "308_Haruka"
+msgid "Um, do you have any yin er here?"
+msgstr "Ehm, avete del yin er qui?"
+
+msgctxt "320_Clerk"
+msgid "Huh? Yin er?"
+msgstr "Eh? Yin er?"
+
+msgctxt "332_Haruka"
+msgid "Yes, Yoko-san contacted you about it and asked me to pick it up."
+msgstr ""
+"Sì, Yoko-san vi ha contattato a riguardo e mi ha chiesto di ritirarla."
+
+msgctxt "344_Clerk"
+msgid "Hmmm..."
+msgstr "Mmmm..."
+
+msgctxt "356_Haruka"
+msgid "(Maybe I didn't say it right.)"
+msgstr "(Forse non l'ho detto bene.)"
+
+msgctxt "368_Clerk"
+msgid ""
+"Oh, yes, of course! We have that ready! Ladies seem to love this. I can "
+"hardly keep it on the shelves!"
+msgstr ""
+"Oh, sì, certo! Ce l'abbiamo pronto! Pare che le signore lo adorino. Faccio "
+"fatica a tenerlo sugli scaffali!"
+
+msgctxt "380_Haruka"
+msgid "(Whew, I thought I'd gotten the name wrong.)"
+msgstr "(Meno male, pensavo di aver sbagliato il nome.)"
+
+msgctxt "392_Clerk"
+msgid "Sorry to keep you waiting. Here it is."
+msgstr "Scusi l'attesa. Ecco a lei."
+
+msgctxt "416_Clerk"
+msgid "Thank you!"
+msgstr "Grazie!"
+
+msgctxt "428_Haruka"
+msgid ""
+"(Okay, I've got the Chinese medicine, so it's back to Yoko-san's place!)"
+msgstr "(Ok, ho preso la medicina cinese, quindi torno da Yoko-san!)"

@@ -1,0 +1,41 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "68"
+msgid "%s"
+msgstr "%s"
+
+msgctxt "648"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "652"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "656"
+msgid "M_NML_SET_stand_camera_kamae"
+msgstr "M_NML_SET_stand_camera_kamae"
+
+msgctxt "660"
+msgid "P_TLK_stand_kamae"
+msgstr "P_TLK_stand_kamae"
+
+msgctxt "56_Player"
+msgid "(This is a nice spot here.)"
+msgstr "(Questo è un bel posto qui.)"
+
+msgctxt "80_Player"
+msgid "(Yeah, this is a good shot.)"
+msgstr "(Già, questo è un bello scatto.)"

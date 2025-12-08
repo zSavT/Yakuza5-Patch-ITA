@@ -1,0 +1,66 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1848"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "1852"
+msgid "Start Fishing"
+msgstr "Inizia a pescare"
+
+msgctxt "1856"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "1860"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "60_Player"
+msgid ""
+"(It looks like I could fish here. Maybe I'll drop a line in for a bit.)"
+msgstr ""
+"(Sembra che potrei pescare qui. Magari butto giù la lenza per un po'.)"
+
+msgctxt "84_Player"
+msgid "(Okay, let's give it a go!)"
+msgstr "(Ok, proviamoci!)"
+
+msgctxt "108_Player"
+msgid "(I don't have any bait to use.)"
+msgstr "(Non ho esca da usare.)"
+
+msgctxt "120_Player"
+msgid "(I guess I'll come back later.)"
+msgstr "(Immagino che tornerò più tardi.)"
+
+msgctxt "132_Player"
+msgid ""
+"(This spot could work for fishing. I might drop a line in for a while.)"
+msgstr ""
+"(Questo posto potrebbe andare bene per pescare. Magari butto giù la lenza "
+"per un po'.)"
+
+msgctxt "156_Player"
+msgid "(Okay, let's give it a try.)"
+msgstr "(Ok, proviamoci!)"
+
+msgctxt "180_Player"
+msgid "(I don't have anything to use for bait.)"
+msgstr "(Non ho niente da usare come esca.)"
+
+msgctxt "192_Player"
+msgid "(Maybe some other time.)"
+msgstr "(Forse qualche altra volta.)"

@@ -1,0 +1,142 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "5004"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "5008"
+msgid "Start Fishing"
+msgstr "Inizia a pescare"
+
+msgctxt "5012"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "5016"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "5020"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "108_Player"
+msgid ""
+"(This is a good spot to do some fishing. Maybe I'll stop and fish for a "
+"while.)"
+msgstr ""
+"(Questo è un buon posto per mettersi a pescare. Magari mi fermo a pescare un"
+" po'.)"
+
+msgctxt "132_Player"
+msgid "(Okay, let's give it a try.)"
+msgstr "(Ok, proviamoci.)"
+
+msgctxt "156_Player"
+msgid "(Maybe some other time.)"
+msgstr "(Magari un'altra volta.)"
+
+msgctxt "168_Player"
+msgid "(I don't have anything I can use for bait.)"
+msgstr "(Non ho niente che posso usare come esca.)"
+
+msgctxt "180_Player"
+msgid "(I think I'll pass after all.)"
+msgstr "(Penso che lascerò perdere dopotutto.)"
+
+msgctxt "192_Player"
+msgid ""
+"(This is a fine spot to do some fishin'. Maybe I'll stop and fish for a "
+"bit.)"
+msgstr ""
+"(Questo è un buon posto per mettersi a pescare. Magari mi fermo a pescare un"
+" po'.)"
+
+msgctxt "216_Player"
+msgid "(All right, I'm gonna get me some fish.)"
+msgstr "(Ok, mi vado a pescare un po' di pesce.)"
+
+msgctxt "240_Player"
+msgid "(Guess I'll pass for now.)"
+msgstr "(Penso che lascerò perdere per ora.)"
+
+msgctxt "252_Player"
+msgid "(I ain't got any bait on me.)"
+msgstr "(Non ho esca con me.)"
+
+msgctxt "264_Player"
+msgid "(Nah, guess I'll pass for now.)"
+msgstr "(Nah, penso che lascerò perdere per ora.)"
+
+msgctxt "276_Player"
+msgid ""
+"(Come to think of it, Coach Igarashi told me to catch a marlin. I don't have"
+" time for that now, though.)"
+msgstr ""
+"(A pensarci bene, Coach Igarashi mi aveva detto di pescare un marlin. Non ho"
+" tempo per quello adesso, però.)"
+
+msgctxt "288_Player"
+msgid "(Come to think of it, Coach Igarashi told me to catch a marlin.)"
+msgstr ""
+"(A pensarci bene, Coach Igarashi mi aveva detto di pescare un marlin.)"
+
+msgctxt "300_Player"
+msgid ""
+"(This is the perfect place to do some fishing. Maybe I should put a line out"
+" for a bit.)"
+msgstr ""
+"(Questo è il posto perfetto per mettersi a pescare. Magari mi metto a "
+"pescare un po'.)"
+
+msgctxt "324_Player"
+msgid "(Okay, I'll give it a go.)"
+msgstr "(Ok, ci provo.)"
+
+msgctxt "348_Player"
+msgid "(I guess I'll pass for now.)"
+msgstr "(Penso che lascerò perdere per ora.)"
+
+msgctxt "360_Player"
+msgid "(I haven't got any bait to use.)"
+msgstr "(Non ho esca con me.)"
+
+msgctxt "372_Player"
+msgid "(No, I think I'll pass.)"
+msgstr "(No, penso che lascerò perdere.)"
+
+msgctxt "384_Player"
+msgid ""
+"(This is the perfect place to do some fishing. Maybe I should put a line out"
+" for a bit.)"
+msgstr ""
+"(Questo è il posto perfetto per mettersi a pescare. Magari mi metto a "
+"pescare un po'.)"
+
+msgctxt "408_Player"
+msgid "(Okay, I'll give it a go.)"
+msgstr "(Ok, ci provo.)"
+
+msgctxt "432_Player"
+msgid "(I guess I'll pass for now.)"
+msgstr "(Penso che lascerò perdere per ora.)"
+
+msgctxt "444_Player"
+msgid "(I haven't got any bait to use.)"
+msgstr "(Non ho esca con me.)"
+
+msgctxt "456_Player"
+msgid "(No, I think I'll pass.)"
+msgstr "(No, penso che lascerò perdere.)"

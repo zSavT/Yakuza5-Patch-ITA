@@ -1,0 +1,290 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "132"
+msgid "You got a <Color:8>Staminan Spark<Color:Default>."
+msgstr "Hai un <Color:8>Staminan Spark<Color:Default>."
+
+msgctxt "228"
+msgid "You got <Color:8>Sacrifice Stone<Color:Default>."
+msgstr "Hai <Color:8>Pietra del Sacrificio<Color:Default>."
+
+msgctxt "10292"
+msgid "Cho-han Dealer"
+msgstr "Mazziere Cho-han"
+
+msgctxt "10296"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "10300"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "10304"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "10308"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "10312"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "10316"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "10320"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "10324"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "10328"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "10332"
+msgid "F_NML_TLK_stand_angry"
+msgstr "F_NML_TLK_stand_angry"
+
+msgctxt "10336"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "10340"
+msgid "Dealer"
+msgstr "Croupier"
+
+msgctxt "10344"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "72_Cho-han Dealer"
+msgid "That didn't go well. At all."
+msgstr "Non è andata bene. Affatto."
+
+msgctxt "84_Kiryu"
+msgid "Sorry."
+msgstr "Scusa."
+
+msgctxt "96_Cho-han Dealer"
+msgid ""
+"Heh. Sometimes you're lucky, sometimes you're not. It's not your fault."
+msgstr "Eh. A volte sei fortunato, a volte no. Non è colpa tua."
+
+msgctxt "108_Cho-han Dealer"
+msgid "Thanks for keeping me company today. Take this, with my thanks."
+msgstr ""
+"Grazie per avermi tenuto compagnia oggi. Prendi questo, come ringraziamento."
+
+msgctxt "156_Cho-han Dealer"
+msgid ""
+"I had a good time, but I have to go now. Drop by again to play cho-han, "
+"okay?"
+msgstr ""
+"Mi sono divertito, ma devo andare adesso. Ripassa a giocare a cho-han, okay?"
+
+msgctxt "168_Cho-han Dealer"
+msgid "I've never won like this before. I can't believe it."
+msgstr "Non ho mai vinto così prima d'ora. Non ci credo."
+
+msgctxt "180_Kiryu"
+msgid "Feeling more confident now?"
+msgstr "Ti senti più sicuro adesso?"
+
+msgctxt "192_Cho-han Dealer"
+msgid "Much more confident... Thank you. I'm glad I asked you to help me."
+msgstr ""
+"Molto più sicuro... Grazie. Sono contento di averti chiesto di aiutarmi."
+
+msgctxt "204_Cho-han Dealer"
+msgid "Thanks for keeping me company today. Take this, with my thanks."
+msgstr ""
+"Grazie per avermi tenuto compagnia oggi. Prendi questo, come ringraziamento."
+
+msgctxt "252_Cho-han Dealer"
+msgid ""
+"Oh, that's right. We had a bet going. I won at roulette, but you clearly won"
+" our wager."
+msgstr ""
+"Oh, è vero. Avevamo una scommessa in corso. Ho vinto alla roulette, ma tu "
+"hai vinto chiaramente la nostra scommessa."
+
+msgctxt "264_Cho-han Dealer"
+msgid "Here, I'll give you something nice. Can you close your eyes?"
+msgstr "Tieni, ti do qualcosa di bello. Puoi chiudere gli occhi?"
+
+msgctxt "276_Kiryu"
+msgid "What for?"
+msgstr "Per cosa?"
+
+msgctxt "288_Cho-han Dealer"
+msgid "Just do it!"
+msgstr "Dai, fallo!"
+
+msgctxt "348_Cho-han Dealer"
+msgid "It's not much, but..."
+msgstr "Non è molto, ma..."
+
+msgctxt "360_Kiryu"
+msgid "Heh. Couldn't have asked for a better tip."
+msgstr "Eh. Non potevo chiedere mancia migliore."
+
+msgctxt "372_Cho-han Dealer"
+msgid ""
+"Hmph! Well, that was fun, our date. Drop by for some cho-han again. See you."
+msgstr ""
+"Eh! Beh, è stato divertente, il nostro appuntamento. Fatti rivedere per una "
+"partita a cho-han. Ci vediamo."
+
+msgctxt "432_Kiryu"
+msgid "A casino?"
+msgstr "Un casinò?"
+
+msgctxt "444_Cho-han Dealer"
+msgid ""
+"You're disappointed? Don't tell me you had your hopes up for something else."
+msgstr "Sei deluso? Non vorrai mica dirmi che ti aspettavi qualcos'altro."
+
+msgctxt "456_Kiryu"
+msgid ""
+"It's not that. I was just surprised that you－the face of the gambling "
+"hall－would choose a casino."
+msgstr ""
+"Non è quello. Ero solo sorpreso che tu—il volto della sala da gioco—avresti "
+"scelto un casinò."
+
+msgctxt "468_Cho-han Dealer"
+msgid "......"
+msgstr "......"
+
+msgctxt "480_Kiryu"
+msgid "What is it?"
+msgstr "E cioè?"
+
+msgctxt "492_Cho-han Dealer"
+msgid "There's actually a reason why I wanted to come here with you."
+msgstr "C'è proprio un motivo per cui volevo venire qui con te."
+
+msgctxt "504_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "516_Cho-han Dealer"
+msgid ""
+"I live in the world of gambling. Above all, I'm a cho-han dealer. Like you "
+"said, I'm the face of the gambling hall."
+msgstr ""
+"Vivo nel mondo del gioco d'azzardo. Soprattutto, sono un mazziere di cho-"
+"han. Come hai detto, sono il volto della sala da gioco."
+
+msgctxt "528_Cho-han Dealer"
+msgid ""
+"So I have to be an expert in all kinds of gambling. That's what a pro does."
+msgstr ""
+"Quindi devo essere un esperto in tutti i tipi di gioco d'azzardo. Questo è "
+"quello che fa un pro."
+
+msgctxt "540_Cho-han Dealer"
+msgid ""
+"Despite all that... I just can't get a feel for roulette. Believe me, I "
+"played it a lot, but I can't seem to win."
+msgstr ""
+"Nonostante tutto... non riesco proprio a prenderci la mano con la roulette. "
+"Credimi, ci ho giocato parecchio, ma non riesco proprio a vincere."
+
+msgctxt "552_Cho-han Dealer"
+msgid ""
+"I need to fill this hole in my repertoire. I want to feel confident about "
+"it. Of course, I can't say this to the boys at the hall."
+msgstr ""
+"Devo colmare questa lacuna nel mio repertorio. Voglio sentirmi sicuro a "
+"riguardo. Ovviamente, non posso dirlo ai ragazzi della sala."
+
+msgctxt "564_Kiryu"
+msgid "And that's where I come in."
+msgstr "Ed è qui che entro in gioco io."
+
+msgctxt "576_Cho-han Dealer"
+msgid "You catch on fast."
+msgstr "Hai capito al volo."
+
+msgctxt "588_Kiryu"
+msgid "So what do you want me to do?"
+msgstr "E allora che vuoi che faccia?"
+
+msgctxt "600_Cho-han Dealer"
+msgid ""
+"Well, I was hoping you could show me that it's actually possible to win at "
+"roulette."
+msgstr ""
+"Beh, speravo che tu potessi mostrarmi che è effettivamente possibile vincere"
+" alla roulette."
+
+msgctxt "612_Dealer"
+msgid "Excuse me, sir. Would you care to play as the dealer?"
+msgstr "Scusi, signore. Le andrebbe di fare il mazziere?"
+
+msgctxt "624_Dealer"
+msgid "Perhaps you could give a demonstration of your mastery to your guest."
+msgstr ""
+"Forse potresti dare una dimostrazione della tua maestria al tuo ospite."
+
+msgctxt "636_Cho-han Dealer"
+msgid "Whoa, really?"
+msgstr "Wow, davvero?"
+
+msgctxt "648_Kiryu"
+msgid "Are you sure?"
+msgstr "Ne sei sicuro?"
+
+msgctxt "660_Dealer"
+msgid ""
+"Most certainly. After all, you are a valued regular of the Dragon Palace."
+msgstr ""
+"Certamente. Dopotutto, sei un cliente abituale stimato del Dragon Palace."
+
+msgctxt "672_Kiryu"
+msgid "What do you think?"
+msgstr "Cosa ne pensa?"
+
+msgctxt "684_Cho-han Dealer"
+msgid ""
+"Heh. It sounds like a perfect opportunity. While we're at it, what do you "
+"say to a little wager?"
+msgstr ""
+"Heh. Sembra un'occasione perfetta. Già che ci siamo, che ne dici di una "
+"piccola scommessa?"
+
+msgctxt "696_Kiryu"
+msgid "You mean besides chips? What do you want to bet?"
+msgstr "Intendi oltre alle fiches? Cosa vuoi scommettere?"
+
+msgctxt "708_Cho-han Dealer"
+msgid ""
+"I'm going to bet three times. Let me win and get my confidence up. If you "
+"can do that... I'll give you something nice."
+msgstr ""
+"Punto tre volte. Fammi vincere e fammi riprendere fiducia. Se ci riesci... "
+"ti darò qualcosa di interessante."
+
+msgctxt "720_Kiryu"
+msgid "Fair enough. Let's do this."
+msgstr "Va bene. Facciamolo."

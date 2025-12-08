@@ -1,0 +1,404 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "11592"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "11596"
+msgid "Washed-up Yakuza"
+msgstr "Yakuza bollito"
+
+msgctxt "11600"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "11604"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "11608"
+msgid "Yakuza"
+msgstr "Yakuza"
+
+msgctxt "11612"
+msgid "kaiwabgm_tension04"
+msgstr "kaiwabgm_tension04"
+
+msgctxt "11616"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "11620"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "11624"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "11628"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "11632"
+msgid "Majima"
+msgstr "Majima"
+
+msgctxt "11636"
+msgid "adv2_010_1/majima_0024"
+msgstr "adv2_010_1/majima_0024"
+
+msgctxt "11640"
+msgid "adv2_010_1/saejima_0021"
+msgstr "adv2_010_1/saejima_0021"
+
+msgctxt "11644"
+msgid "adv2_010_1/majima_0025a"
+msgstr "adv2_010_1/majima_0025a"
+
+msgctxt "11648"
+msgid "adv2_010_1/majima_0025b"
+msgstr "adv2_010_1/majima_0025b"
+
+msgctxt "11652"
+msgid "adv2_010_1/saejima_0022"
+msgstr "adv2_010_1/saejima_0022"
+
+msgctxt "11656"
+msgid "adv2_010_1/majima_0026"
+msgstr "adv2_010_1/majima_0026"
+
+msgctxt "11660"
+msgid "adv2_010_1/saejima_0023"
+msgstr "adv2_010_1/saejima_0023"
+
+msgctxt "11664"
+msgid "adv2_010_1/majima_0027"
+msgstr "adv2_010_1/majima_0027"
+
+msgctxt "11668"
+msgid "adv2_010_1/saejima_0024"
+msgstr "adv2_010_1/saejima_0024"
+
+msgctxt "11672"
+msgid "adv2_010_1/majima_0028"
+msgstr "adv2_010_1/majima_0028"
+
+msgctxt "11676"
+msgid "adv2_010_1/saejima_0025"
+msgstr "adv2_010_1/saejima_0025"
+
+msgctxt "11680"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "92_Saejima"
+msgid ""
+"(Well, that's done. Just gotta make sure I'm ready, then I'm off to the "
+"battin' center.)"
+msgstr ""
+"(Beh, a posto. Devo solo assicurarmi di essere pronto, poi me ne vado al "
+"centro di battuta.)"
+
+msgctxt "116_Washed-up Yakuza"
+msgid "Dammit... You're too freaking strong!"
+msgstr "Cazzo... Sei troppo dannatamente forte!"
+
+msgctxt "128_Saejima"
+msgid "Ya want my advice? Find a new line of work. You'll be happier for it."
+msgstr "Vuoi un consiglio? Cambiati mestiere. Ne sarai più felice."
+
+msgctxt "140_Washed-up Yakuza"
+msgid "Hah... Hahaha! Like there's somewhere else that'll take a guy like me."
+msgstr ""
+"Hah... Hahaha! Come se ci fosse un altro posto che prenderebbe uno come me."
+
+msgctxt "152_Saejima"
+msgid "If ya can't find anythin', come see me."
+msgstr "Se non trovi niente, vieni da me."
+
+msgctxt "164_Saejima"
+msgid ""
+"Gonna be leavin' town for a while tonight, but I'll be back someday. If "
+"you're still flounderin' by then, I'll give ya a hand up."
+msgstr ""
+"Stasera me ne vado dalla città per un po', ma tornerò un giorno. Se a quel "
+"punto sarai ancora in alto mare, ti darò una mano a rialzarti."
+
+msgctxt "176_Washed-up Yakuza"
+msgid "Oh, uh... Thanks."
+msgstr "Oh, uh... Grazie."
+
+msgctxt "188_Saejima"
+msgid ""
+"(Well, that took longer than I was hopin'. Better get to New Serena before "
+"it's too late.)"
+msgstr ""
+"(Beh, è durata più a lungo di quanto sperassi. Meglio che vada al New Serena"
+" prima che sia troppo tardi.)"
+
+msgctxt "212_Yakuza"
+msgid "Hey, you."
+msgstr "Ehi, tu."
+
+msgctxt "236_Saejima"
+msgid "Can I help you?"
+msgstr "Posso aiutarla?"
+
+msgctxt "248_Yakuza"
+msgid "......"
+msgstr "......"
+
+msgctxt "260_Saejima"
+msgid "Ya got cotton shoved in your ears? I asked you a question."
+msgstr "Ti sei ficcato del cotone nelle orecchie? Ti ho fatto una domanda."
+
+msgctxt "272_Yakuza"
+msgid "I'm sick of you and your whole tough guy shtick."
+msgstr "Sono stufo di te e di tutta la tua pagliacciata da duro."
+
+msgctxt "284_Saejima"
+msgid "Ya gonna explain that, or can I go? Got places to be."
+msgstr "Me lo spieghi, o posso andare? Ho degli impegni."
+
+msgctxt "296_Yakuza"
+msgid "Not so fast. You're the reason my career's gone down the shitter."
+msgstr ""
+"Non così in fretta. Sei tu il motivo per cui la mia carriera è finita nel "
+"cesso."
+
+msgctxt "308_Saejima"
+msgid " N' how's that, exactly?"
+msgstr "E come, di preciso?"
+
+msgctxt "320_Yakuza"
+msgid ""
+"Don't play dumb! If your criminal ass didn't come waltzing back into the "
+"Tojo Clan, I'd have been lieutenant by now!"
+msgstr ""
+"Non fare il finto tonto! Se il tuo brutto culo da criminale non fosse "
+"tornato a farsi bello nel Tojo Clan, a quest'ora sarei luogotenente!"
+
+msgctxt "332_Saejima"
+msgid "Huh. So you're Tojo, too."
+msgstr "Ah. Quindi anche tu sei del Tojo."
+
+msgctxt "344_Yakuza"
+msgid ""
+"Ever since you filled that empty exec seat, we've been getting screwed. Over"
+" and over and over again!"
+msgstr ""
+"Da quando hai occupato quel posto vuoto da dirigente, siamo stati fregati. "
+"Ancora e ancora e ancora!"
+
+msgctxt "356_Yakuza"
+msgid ""
+"First our casino got busted, then the cops raided the family office. Bye "
+"bye, main revenue stream!"
+msgstr ""
+"Prima il nostro casinò è saltato, poi i poliziotti hanno fatto un blitz "
+"nell'ufficio della famiglia. Addio addio, principale fonte di guadagni!"
+
+msgctxt "368_Yakuza"
+msgid ""
+"Most of our boys ended up scurrying off not long after. Rats who can see the"
+" ship is sinking fast."
+msgstr ""
+"La maggior parte dei nostri ragazzi finì per filarsela poco dopo. Ratti che "
+"vedono la nave affondare a picco."
+
+msgctxt "380_Yakuza"
+msgid ""
+"So what's left of us now? We got no money, no men. Hell, we're barely even a"
+" family."
+msgstr ""
+"E quindi cosa ci resta adesso? Non abbiamo soldi, non abbiamo uomini. Cazzo,"
+" non siamo quasi più una famiglia."
+
+msgctxt "392_Saejima"
+msgid "Tough break."
+msgstr "Che sfiga."
+
+msgctxt "404_Yakuza"
+msgid "Tough break? Is that all you have to say!?"
+msgstr "Che sfiga? È tutto quello che hai da dire!?"
+
+msgctxt "416_Saejima"
+msgid ""
+"Lemme ask ya somethin'. When things started goin' south, what did you do?"
+msgstr ""
+"Senti, ti chiedo una cosa. Quando le cose hanno iniziato ad andare a rotoli,"
+" tu cosa hai fatto?"
+
+msgctxt "428_Yakuza"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "440_Saejima"
+msgid "Your casino got busted. Ya got raided by the cops."
+msgstr "Il tuo casinò è saltato. Ti hanno fatto un blitz i poliziotti."
+
+msgctxt "452_Saejima"
+msgid ""
+"Your family fell on its ass quicker than ya can count to ten. I wanna know, "
+"how'd ya respond?"
+msgstr ""
+"La tua famiglia è finita nella merda più in fretta di quanto tu possa "
+"contare fino a dieci. Voglio sapere, come hai reagito?"
+
+msgctxt "464_Yakuza"
+msgid "I, well..."
+msgstr "Io, beh..."
+
+msgctxt "476_Yakuza"
+msgid ""
+"What was I supposed to do? I can't turn that shit around all by myself!"
+msgstr ""
+"E che dovevo fare? Non posso rimettere a posto quella merda tutto da solo!"
+
+msgctxt "488_Saejima"
+msgid "There. Now do ya see why you ain't a leader?"
+msgstr "Ecco. Ora capisci perché non sei un capo?"
+
+msgctxt "500_Yakuza"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "512_Saejima"
+msgid "Sure, maybe my comin' back tossed a few pebbles in your path."
+msgstr ""
+"Certo, magari il mio ritorno ha messo qualche sassolino sulla tua strada."
+
+msgctxt "524_Saejima"
+msgid ""
+"But if a pebble or two are gonna make ya fall flat on your face, how're ya "
+"ever gonna climb the mountains life's got in store?"
+msgstr ""
+"Ma se uno o due sassolini ti fanno già schiantare a terra, come farai mai a "
+"scalare le montagne che la vita ti riserva?"
+
+msgctxt "536_Saejima"
+msgid ""
+"So yeah, ya might slip a bit here n' there. But what really matters is how "
+"ya respond after."
+msgstr ""
+"Dunque, sì, potresti scivolare un po' qui e là. Ma quello che conta davvero "
+"è come reagisci dopo."
+
+msgctxt "548_Yakuza"
+msgid "You little..."
+msgstr "Tu, piccolo..."
+
+msgctxt "560_Saejima"
+msgid ""
+"If the family means that much to ya, you gotta be willin' to give your life "
+"on keepin' it afloat."
+msgstr ""
+"Se la famiglia significa così tanto per te, devi essere disposto a dare la "
+"tua vita per tenerla a galla."
+
+msgctxt "572_Saejima"
+msgid "Else you just ain't cut out for the yakuza, pal."
+msgstr "Se no, non sei tagliato per la yakuza, socio."
+
+msgctxt "584_Yakuza"
+msgid "I don't need a fucking lecture from <Italic>you</Italic>!"
+msgstr "Non ho bisogno di una cazzo di lezione da <Italic>te</Italic>!"
+
+msgctxt "596_Yakuza"
+msgid "You know what? I'm sick of your shit! Get ready to die!"
+msgstr "Sai che c'è? Sono stufo della tua merda! Preparati a morire!"
+
+msgctxt "608_Saejima"
+msgid "Easy there. I'm skippin' town for good after tonight."
+msgstr "Piano. Me la filo via da sta città per sempre dopo stanotte."
+
+msgctxt "620_Saejima"
+msgid "Let me enjoy my last evenin' in peace."
+msgstr "Fammi godere la mia ultima serata in pace."
+
+msgctxt "632_Yakuza"
+msgid "No way, man! Not after the sermon you just made us sit through!"
+msgstr ""
+"Manco per sogno, socio! Non dopo il pippone che ci hai appena rifilato!"
+
+msgctxt "656_Majima"
+msgid ""
+"Ahhh, that was good shit! Couldn't shove down another bite if I wanted. So, "
+"what're ya doin' now?"
+msgstr ""
+"Ahhh, che mangiata! Non riuscirei a ficcare giù un altro boccone, nemmeno "
+"volendo. Allora, che combini adesso?"
+
+msgctxt "668_Saejima"
+msgid ""
+"They're comin' for me tonight. Guess I'll take one last stroll around town."
+msgstr ""
+"Vengono a prendermi stanotte. Mi sa che mi faccio un ultimo giro per la "
+"città."
+
+msgctxt "680_Majima"
+msgid ""
+"Now there's a hell of an idea. Ya oughta have a good time before goin' away."
+msgstr ""
+"Un'idea della madonna, questa. Ti conviene divertirti un po' prima di "
+"filartela via."
+
+msgctxt "692_Majima"
+msgid "So get on out there n' live it up."
+msgstr "Allora va' lì fuori e spassatela."
+
+msgctxt "704_Saejima"
+msgid "Think I will."
+msgstr "Mi sa di sì."
+
+msgctxt "716_Majima"
+msgid ""
+"Oh yeah. Stop in n' see me before they haul you in, so I can give ya a "
+"proper send-off. I'll be waitin' at the usual place!"
+msgstr ""
+"Sì, dai. Fai un salto da me prima che ti vengano a prendere, così posso "
+"darti un addio come si deve. Ti aspetto al solito posto!"
+
+msgctxt "728_Saejima"
+msgid "Where?"
+msgstr "Dove?"
+
+msgctxt "740_Majima"
+msgid "Y'know! What's the one place we're always pallin' around at?"
+msgstr "Lo sai! Qual è l'unico posto dove ci bazzichiamo sempre?"
+
+msgctxt "752_Saejima"
+msgid "Heh. The battin' center, then."
+msgstr "Heh. Il centro di battuta, allora."
+
+msgctxt "764_Majima"
+msgid "So whaddya say? One last chance at the plate before ya get benched?"
+msgstr ""
+"Allora, che ne dici? Un'ultima chance alla battuta prima che ti mettano in "
+"panchina?"
+
+msgctxt "776_Saejima"
+msgid "Yeah, sure."
+msgstr "Sì, certo."
+
+msgctxt "800_Saejima"
+msgid "(Time to wave this town goodbye.)"
+msgstr "(È ora di dare l'addio a 'sta città.)"
+
+msgctxt "812_Saejima"
+msgid "(Might wanna drop by New Serena first, tell 'em I'm goin'.)"
+msgstr ""
+"(Magari faccio un salto al New Serena prima, a dirgli che me ne vado.)"

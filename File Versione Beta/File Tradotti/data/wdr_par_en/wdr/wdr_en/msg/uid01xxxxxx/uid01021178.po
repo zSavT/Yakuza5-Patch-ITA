@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1008"
+msgid "Himura"
+msgstr "Himura"
+
+msgctxt "1012"
+msgid "Eat at Gindaco Highball Tavern"
+msgstr "Mangiare alla Taverna Highball Gindaco"
+
+msgctxt "1016"
+msgid "Go Elsewhere"
+msgstr "Vai altrove"
+
+msgctxt "1020"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "44_Himura"
+msgid ""
+"Oh, it's Gindaco Highball Tavern. In there you can snack on piping-hot "
+"takoyaki and wash it down with the best highballs in town. How about it?"
+msgstr ""
+"Oh, è la Taverna Highball Gindaco. Lì dentro puoi sgranocchiare takoyaki "
+"fumanti e mandarli giù con i migliori highball della città. Che ne dici?"
+
+msgctxt "56_Saejima"
+msgid "How 'bout we look somewhere else?"
+msgstr "Che ne dici se cerchiamo altrove?"
+
+msgctxt "68_Himura"
+msgid "Sure thing."
+msgstr "Ma certo!"
+
+msgctxt "80_Saejima"
+msgid "Sure, I miss takoyaki."
+msgstr "Ma certo, mi mancano i takoyaki."
+
+msgctxt "92_Himura"
+msgid "Excellent! Let's go in."
+msgstr "Ottimo! Entriamo."

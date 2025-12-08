@@ -1,0 +1,92 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2872"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "2876"
+msgid "Yakuza"
+msgstr "Yakuza"
+
+msgctxt "2880"
+msgid "P_TLK_stand_no"
+msgstr "P_TLK_stand_no"
+
+msgctxt "2884"
+msgid "M_YKZ_TLK_stand_surp"
+msgstr "M_YKZ_TLK_stand_surp"
+
+msgctxt "2888"
+msgid "P_TLK_stand_quest"
+msgstr "P_TLK_stand_quest"
+
+msgctxt "2892"
+msgid "M_YKZ_TLK_stand_odosu"
+msgstr "M_YKZ_TLK_stand_odosu"
+
+msgctxt "2896"
+msgid "P_TLK_stand_chohatu"
+msgstr "P_TLK_stand_chohatu"
+
+msgctxt "60_Kiryu"
+msgid "All right, spit it out! Where is Subaru's hideout?"
+msgstr "Allora, sputa il rospo! Dov'è il nascondiglio di Subaru?"
+
+msgctxt "72_Yakuza"
+msgid "Ugh... It's in the Nagasu Tamura Building, on Nagasugawa Street."
+msgstr "Ugh... È nell'Edificio Nagasu Tamura, su Via Nagasugawa."
+
+msgctxt "84_Kiryu"
+msgid ""
+"Okay. Nagasu Tamura Building on Nagasugawa Street. That's where I'll find "
+"Riku."
+msgstr ""
+"Va bene. Edificio Nagasu Tamura su Via Nagasugawa. È lì che troverò Riku."
+
+msgctxt "96_Kiryu"
+msgid "(The clock's ticking. I need to hurry.)"
+msgstr "(Il tempo stringe. Devo sbrigarmi.)"
+
+msgctxt "132_Kiryu"
+msgid "(Damn it. I lost them.)"
+msgstr "(Maledizione. Li ho persi.)"
+
+msgctxt "156_Kiryu"
+msgid "(Hm? Are those the guys I took down earlier?)"
+msgstr "(Hm? Sono quei tizi che ho steso prima?)"
+
+msgctxt "180_Kiryu"
+msgid "Hey."
+msgstr "Ehi."
+
+msgctxt "204_Yakuza"
+msgid "Ahh! It's that guy again!"
+msgstr "Aaah! È ancora lui!"
+
+msgctxt "216_Kiryu"
+msgid "Where is Subaru's hideout?"
+msgstr "Dov'è il nascondiglio di Subaru?"
+
+msgctxt "228_Yakuza"
+msgid ""
+"Ya won't get a peep outta me! And there ain't no way you're comin' out on "
+"top a second time. We're gonna stomp ya into the ground, son!"
+msgstr ""
+"Non ti caverai un fiato da me! E non c'è verso che tu la spunti una seconda "
+"volta. Ti asfalteremo, figliolo!"
+
+msgctxt "240_Kiryu"
+msgid "I really don't have time for this. So I'll make it quick."
+msgstr "Non ho proprio tempo per questo. Così la faccio breve."

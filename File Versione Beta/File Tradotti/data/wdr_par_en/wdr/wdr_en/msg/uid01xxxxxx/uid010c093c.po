@@ -1,0 +1,184 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "5996"
+msgid "Hirakawa"
+msgstr "Hirakawa"
+
+msgctxt "6000"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "6004"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "6008"
+msgid "Kiyokawa"
+msgstr "Kiyokawa"
+
+msgctxt "6012"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "6016"
+msgid "Wada"
+msgstr "Wada"
+
+msgctxt "6020"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "6024"
+msgid "Muramatsu"
+msgstr "Muramatsu"
+
+msgctxt "6028"
+msgid "M_nml_stand"
+msgstr "M_nml_stand"
+
+msgctxt "6032"
+msgid "M_NML_MOV_sitchr_en"
+msgstr "M_NML_MOV_sitchr_en"
+
+msgctxt "6036"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "6040"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "60_Hirakawa"
+msgid ""
+"We had another call from that Onisaka-san fellow. He's asking for the chief "
+"again..."
+msgstr ""
+"Abbiamo ricevuto un'altra chiamata da quel tale di Onisaka-san. Chiede di "
+"nuovo del capo..."
+
+msgctxt "72_Kiryu"
+msgid "(I have to beat Onisaka this time, and get him to retire from racing!)"
+msgstr ""
+"Devo battere Onisaka stavolta, e costringerlo a smettere con le corse!"
+
+msgctxt "84_Kiryu"
+msgid "I'll go in his place."
+msgstr "Andrò io al posto suo."
+
+msgctxt "96_Kiyokawa"
+msgid "Go get 'em, Suzuki-san!"
+msgstr "Dagli dentro, Suzuki-san!"
+
+msgctxt "108_Wada"
+msgid "Break a leg out there."
+msgstr "Spacca tutto!"
+
+msgctxt "120_Muramatsu"
+msgid "We'll be rooting for you."
+msgstr "Faremo il tifo per te."
+
+msgctxt "132_Hirakawa"
+msgid "Drive safely now!"
+msgstr "Guida con prudenza, ora!"
+
+msgctxt "144_Kiryu"
+msgid "Thanks. Here goes nothing..."
+msgstr "Grazie. O la va o la spacca..."
+
+msgctxt "168_Hirakawa"
+msgid ""
+"Hmm. This is a call from someone named Onisaka-san. But he's requested the "
+"chief, out of all people..."
+msgstr ""
+"Mmh. È una chiamata da uno di nome Onisaka-san. Ma ha chiesto del capo, "
+"proprio lui tra tutti..."
+
+msgctxt "180_Kiryu"
+msgid "I'll be taking that job."
+msgstr "Prenderò io quell'incarico."
+
+msgctxt "192_Hirakawa"
+msgid "I'm not sure that's such a good idea..."
+msgstr "Non sono così sicuro che sia una buona idea..."
+
+msgctxt "204_Wada"
+msgid ""
+"Normally I'd agree, but the chief is out right now. Might as well let him do"
+" it, Hirakawa-san."
+msgstr ""
+"Normalmente sarei d'accordo, ma il capo è fuori ora. Tanto vale "
+"lasciarglielo fare, Hirakawa-san."
+
+msgctxt "216_Hirakawa"
+msgid ""
+"True, it isn't like we have another option... Okay then. Suzuki-san, he's "
+"all yours. Thanks for volunteering."
+msgstr ""
+"Vero, non è che abbiamo un'altra opzione... Va bene così. Suzuki-san, è "
+"tutto tuo. Grazie per esserti offerto."
+
+msgctxt "228_Kiryu"
+msgid "No problem."
+msgstr "Nessun problema."
+
+msgctxt "240_Wada"
+msgid ""
+"It's been a long uphill battle since you first ran into the Devil Killers. "
+"But once you do this, it'll all be over at last."
+msgstr ""
+"È stata una lunga salita da quando ti sei scontrato per la prima volta con i"
+" Devil Killers. Ma una volta che avrai fatto questo, sarà tutto finito, "
+"finalmente."
+
+msgctxt "252_Wada"
+msgid "Make sure you win, so Onisaka can finally get some peace of mind."
+msgstr ""
+"Assicurati di vincere, così Onisaka potrà finalmente stare tranquillo."
+
+msgctxt "264_Muramatsu"
+msgid "Be careful out there. We all know you've got what it takes."
+msgstr "Stai attento là fuori. Sappiamo tutti che hai le carte in regola."
+
+msgctxt "276_Hirakawa"
+msgid ""
+"Yeah! Carve your own destiny, man! No matter how tough the challenge, "
+"there's nothing you can't do!"
+msgstr ""
+"Sì! Fatti il tuo destino, amico! Per quanto la sfida sia tosta, non c'è "
+"niente che tu non possa fare!"
+
+msgctxt "288_Kiryu"
+msgid "Heh, you guys... Thanks."
+msgstr "Heh, voi ragazzi... Grazie."
+
+msgctxt "300_Kiryu"
+msgid "Guess I'll be heading out now."
+msgstr "Mi sa che me ne vado ora."
+
+msgctxt "312_Kiyokawa"
+msgid "Go get 'em!"
+msgstr "Fagliela vedere!"
+
+msgctxt "324_Muramatsu"
+msgid "Good luck!"
+msgstr "Buona fortuna!"
+
+msgctxt "336_Wada"
+msgid "See you later."
+msgstr "Ci vediamo."
+
+msgctxt "348_Hirakawa"
+msgid "Have a nice trip!"
+msgstr "Fai un buon viaggio!"

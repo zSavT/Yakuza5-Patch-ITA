@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "920"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "924"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "928"
+msgid "Suited Man"
+msgstr "Uomo in abito"
+
+msgctxt "932"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "936"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "940"
+msgid "0"
+msgstr "0"
+
+msgctxt "44_Kiryu"
+msgid "I'm from Nagasu Taxi. Sorry for the wait."
+msgstr "Sono dei Nagasu Taxi. Scusi l'attesa."
+
+msgctxt "56_Suited Man"
+msgid ""
+"<Color:22>Nagasu Boulevard<Color:Default>, please. I'm in a hurry to meet "
+"one of my clients."
+msgstr ""
+"<Color:22>Nagasu Boulevard<Color:Default>, per favore. Ho fretta di "
+"incontrare uno dei miei clienti."
+
+msgctxt "68_Kiryu"
+msgid "Understood. Let's go."
+msgstr "Capito. Andiamo."

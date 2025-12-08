@@ -1,0 +1,71 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1040"
+msgid "Employee"
+msgstr "Cameriere"
+
+msgctxt "1044"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "1048"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "1052"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "1056"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "1060"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "1064"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "44_Employee"
+msgid "Welcome. Are you ready to order?"
+msgstr ""
+"Benvenuto.\n"
+"È pronto per ordinare?"
+
+msgctxt "68_Kiryu"
+msgid "(What should I eat?)"
+msgstr "(Cosa prendo?)"
+
+msgctxt "80_Akiyama"
+msgid "(What do I feel like having?)"
+msgstr "(Cosa prendo?)"
+
+msgctxt "92_Saejima"
+msgid "(What to eat?)"
+msgstr "(Cosa prendo?)"
+
+msgctxt "104_Shinada"
+msgid "(So what should I eat?)"
+msgstr "(Cosa prendo?)"
+
+msgctxt "116_Haruka"
+msgid "(What should I have?)"
+msgstr "(Cosa prendo?)"
+
+msgctxt "140_Employee"
+msgid "Thanks for comin'. Stop by again soon!"
+msgstr "Grazie per essere venuto. Torni a trovarci presto!"

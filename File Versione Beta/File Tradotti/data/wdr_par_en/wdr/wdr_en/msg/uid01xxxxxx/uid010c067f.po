@@ -1,0 +1,84 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2124"
+msgid "Wada"
+msgstr "Wada"
+
+msgctxt "2128"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2132"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "2136"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "2140"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "2144"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "2148"
+msgid "Passenger"
+msgstr "Passeggero"
+
+msgctxt "2152"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "2156"
+msgid "0"
+msgstr "0"
+
+msgctxt "44_Wada"
+msgid "Thanks. Y'really saved my skin there."
+msgstr "Grazie. Mi hai proprio salvato la pelle."
+
+msgctxt "56_Kiryu"
+msgid "My pleasure. Your advice was very helpful."
+msgstr "È stato un piacere. Il tuo consiglio è stato davvero d'aiuto."
+
+msgctxt "68_Wada"
+msgid ""
+"I'm glad. If there's ever anythin' else I can help with, just say the word."
+msgstr ""
+"Sono contento. Se c'è mai qualcos'altro con cui posso darti una mano, dimmi "
+"pure."
+
+msgctxt "80_Wada"
+msgid "Good luck out there."
+msgstr "In bocca al lupo là fuori."
+
+msgctxt "104_Wada"
+msgid "See you around."
+msgstr "Ci si vede."
+
+msgctxt "116_Passenger"
+msgid "Oh, there's a taxi."
+msgstr "Oh, c'è un taxi."
+
+msgctxt "140_Wada"
+msgid "You taking passengers?"
+msgstr "Prendi passeggeri?"
+
+msgctxt "152_Kiryu"
+msgid "Sure, get in."
+msgstr "Certo, sali."

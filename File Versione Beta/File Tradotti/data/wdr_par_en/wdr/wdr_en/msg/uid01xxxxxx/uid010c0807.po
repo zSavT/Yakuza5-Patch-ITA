@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1160"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "1164"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "1168"
+msgid "Politician"
+msgstr "Politico"
+
+msgctxt "1172"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1176"
+msgid "0"
+msgstr "0"
+
+msgctxt "44_Kiryu"
+msgid "I'm from Nagasu Taxi. Sorry for the wait."
+msgstr "Sono di Nagasu Taxi. Mi scusi per l'attesa."
+
+msgctxt "56_Politician"
+msgid "<Color:22>Nagasugawa Street<Color:Default>, if you would."
+msgstr "<Color:22>Via Nagasugawa<Color:Default>, se vuole."
+
+msgctxt "68_Kiryu"
+msgid ""
+"(I've seen this guy on TV－he's a member of the Diet. They think he could be "
+"the next prime minister.)"
+msgstr ""
+"(L'ho già visto in TV, 'sto tizio — è un membro della Dieta. Lo danno come "
+"prossimo primo ministro.)"
+
+msgctxt "80_Kiryu"
+msgid "Of course. Let's go."
+msgstr "Certo. Andiamo."

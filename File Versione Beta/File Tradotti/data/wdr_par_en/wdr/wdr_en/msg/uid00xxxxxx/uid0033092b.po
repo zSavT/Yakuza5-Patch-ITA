@@ -1,0 +1,90 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2292"
+msgid "Bookie"
+msgstr "Allibratore"
+
+msgctxt "2296"
+msgid "    Buy 50 Tags for 5,000 Yen"
+msgstr "Compra 50 gettoni per 5.000 Yen"
+
+msgctxt "2300"
+msgid "    Buy 100 Tags for 10,000 Yen"
+msgstr "Compra 100 gettoni per 10.000 Yen"
+
+msgctxt "2304"
+msgid "  Buy 1,000 Tags for 100,000 Yen"
+msgstr "Compra 1.000 gettoni per 100.000 Yen"
+
+msgctxt "2308"
+msgid "Never Mind"
+msgstr "Lascia perdere"
+
+msgctxt "2312"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "2316"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2320"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "44_Bookie"
+msgid ""
+"We'll need you to buy wooden tags if you want to play here. How many would "
+"you like? One tag is 100 yen."
+msgstr ""
+"Ti tocca prendere i tag di legno se vuoi giocare qui. Quanti ne vuoi? Un tag"
+" sono 100 yen."
+
+msgctxt "56_Bookie"
+msgid "I'll take 50 tags."
+msgstr "Prendo 50 gettoni."
+
+msgctxt "80_Bookie"
+msgid "All right! Have yourself a good time."
+msgstr "Perfetto! Spassatela."
+
+msgctxt "104_Bookie"
+msgid "I'll take 100 tags."
+msgstr "Prendo 100 gettoni."
+
+msgctxt "128_Bookie"
+msgid "All right! Have yourself a good time."
+msgstr "Perfetto! Spassatela."
+
+msgctxt "152_Bookie"
+msgid "I'll take 1,000 tags."
+msgstr "Prendo 1.000 gettoni."
+
+msgctxt "176_Bookie"
+msgid "All right! Have yourself a good time."
+msgstr "Perfetto! Spassatela."
+
+msgctxt "200_Bookie"
+msgid "No thanks. Not now."
+msgstr "No, grazie. Non ora."
+
+msgctxt "212_Bookie"
+msgid "Oh yeah? Well, maybe pick some up next time."
+msgstr "Ah, sì? Beh, magari la prossima volta ne prendi un po'."
+
+msgctxt "224_Bookie"
+msgid ""
+"Hey, you don't have enough to pay for that! Come back when you got money."
+msgstr "Ehi, non hai abbastanza per quello! Torna quando c'hai la grana."

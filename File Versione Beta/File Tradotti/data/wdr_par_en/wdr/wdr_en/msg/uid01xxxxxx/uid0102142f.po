@@ -1,0 +1,41 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "772"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "776"
+msgid "Sleep Until Evening"
+msgstr "Dormi Fino a Sera"
+
+msgctxt "780"
+msgid "Don't Sleep"
+msgstr "Non Dormire"
+
+msgctxt "44_Haruka"
+msgid ""
+"(Horie-san said he'd be back from the station in the\r\n"
+"evening. Maybe I should try to sleep.)"
+msgstr ""
+"(Horie-san ha detto che sarebbe rientrato dalla stazione in\n"
+"serata. Forse dovrei provare a dormire.)"
+
+msgctxt "56_Haruka"
+msgid "(No, I'd rather be doing something.)"
+msgstr "(No, preferirei fare qualcosa.)"
+
+msgctxt "68_Haruka"
+msgid "(I think I'll try to get some sleep.)"
+msgstr "(Penso che proverò a dormire un po'.)"

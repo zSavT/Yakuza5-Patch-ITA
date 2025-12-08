@@ -1,0 +1,2042 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2760"
+msgid "<Color:9>Heat Gauge capacity increased.<Color:Default>"
+msgstr "<Color:9>Capacità dell'indicatore Heat aumentata.<Color:Default>"
+
+msgctxt "2808"
+msgid "<Color:9>You earned one Soul Orb.<Color:Default>"
+msgstr "<Color:9>Hai ottenuto una Sfera Anima.<Color:Default>"
+
+msgctxt "3240"
+msgid "<Color:9>The maximum value of the Heat Gauge increased.<Color:Default>"
+msgstr ""
+"<Color:9>Il valore massimo dell'indicatore Heat è aumentato.<Color:Default>"
+
+msgctxt "3288"
+msgid "<Color:9>You earned one Soul Orb.<Color:Default>"
+msgstr "<Color:9>Hai ottenuto una Sfera Anima.<Color:Default>"
+
+msgctxt "3720"
+msgid "<Color:9>Heat Gauge capacity increased.<Color:Default>"
+msgstr "<Color:9>Capacità dell'indicatore Heat aumentata.<Color:Default>"
+
+msgctxt "3768"
+msgid "<Color:9>You earned one Soul Orb.<Color:Default>"
+msgstr "<Color:9>Hai ottenuto una Sfera Anima.<Color:Default>"
+
+msgctxt "4200"
+msgid "<Color:9>The maximum value of the Heat Gauge increased.<Color:Default>"
+msgstr ""
+"<Color:9>Il valore massimo dell'indicatore Heat è aumentato.<Color:Default>"
+
+msgctxt "4248"
+msgid "<Color:9>You earned one Soul Orb.<Color:Default>"
+msgstr "<Color:9>Hai ottenuto una Sfera Anima.<Color:Default>"
+
+msgctxt "4680"
+msgid "<Color:9>Heat Gauge capacity increased.<Color:Default>"
+msgstr "<Color:9>Capacità dell'indicatore Heat aumentata.<Color:Default>"
+
+msgctxt "4728"
+msgid "<Color:9>You earned one Soul Orb.<Color:Default>"
+msgstr "<Color:9>Hai ottenuto una Sfera Anima.<Color:Default>"
+
+msgctxt "5160"
+msgid "<Color:9>The maximum value of the Heat Gauge increased.<Color:Default>"
+msgstr ""
+"<Color:9>Il valore massimo dell'indicatore Heat è aumentato.<Color:Default>"
+
+msgctxt "5208"
+msgid "<Color:9>You earned one Soul Orb.<Color:Default>"
+msgstr "<Color:9>Hai ottenuto una Sfera Anima.<Color:Default>"
+
+msgctxt "5640"
+msgid "<Color:9>Heat Gauge capacity increased.<Color:Default>"
+msgstr "<Color:9>Capacità dell'indicatore Heat aumentata.<Color:Default>"
+
+msgctxt "5688"
+msgid "<Color:9>You earned one Soul Orb.<Color:Default>"
+msgstr "<Color:9>Hai ottenuto una Sfera Anima.<Color:Default>"
+
+msgctxt "6120"
+msgid "<Color:9>The maximum value of the Heat Gauge increased.<Color:Default>"
+msgstr ""
+"<Color:9>Il valore massimo dell'indicatore Heat è aumentato.<Color:Default>"
+
+msgctxt "6168"
+msgid "<Color:9>You earned one Soul Orb.<Color:Default>"
+msgstr "<Color:9>Hai ottenuto una Sfera Anima.<Color:Default>"
+
+msgctxt "6600"
+msgid "<Color:9>Heat Gauge capacity increased.<Color:Default>"
+msgstr "<Color:9>Capacità dell'indicatore Heat aumentata.<Color:Default>"
+
+msgctxt "6648"
+msgid "<Color:9>You earned one Soul Orb.<Color:Default>"
+msgstr "<Color:9>Hai ottenuto una Sfera Anima.<Color:Default>"
+
+msgctxt "7080"
+msgid "<Color:9>The maximum value of the Heat Gauge increased.<Color:Default>"
+msgstr ""
+"<Color:9>Il valore massimo dell'indicatore Heat è aumentato.<Color:Default>"
+
+msgctxt "7128"
+msgid "<Color:9>You earned one Soul Orb.<Color:Default>"
+msgstr "<Color:9>Hai ottenuto una Sfera Anima.<Color:Default>"
+
+msgctxt "7560"
+msgid "<Color:9>Heat Gauge capacity increased.<Color:Default>"
+msgstr "<Color:9>Capacità dell'indicatore Heat aumentata.<Color:Default>"
+
+msgctxt "7608"
+msgid "<Color:9>You earned one Soul Orb.<Color:Default>"
+msgstr "<Color:9>Hai ottenuto una Sfera Anima.<Color:Default>"
+
+msgctxt "8040"
+msgid "<Color:9>Heat Gauge capacity increased.<Color:Default>"
+msgstr "<Color:9>Capacità dell'indicatore Heat aumentata.<Color:Default>"
+
+msgctxt "8088"
+msgid "<Color:9>You earned one Soul Orb.<Color:Default>"
+msgstr "<Color:9>Hai ottenuto una Sfera Anima.<Color:Default>"
+
+msgctxt "8520"
+msgid "<Color:9>Heat Gauge capacity increased.<Color:Default>"
+msgstr "<Color:9>Capacità dell'indicatore Heat aumentata.<Color:Default>"
+
+msgctxt "8568"
+msgid "<Color:9>You earned one Soul Orb.<Color:Default>"
+msgstr "<Color:9>Hai ottenuto una Sfera Anima.<Color:Default>"
+
+msgctxt "9000"
+msgid "<Color:9>Heat Gauge capacity increased.<Color:Default>"
+msgstr "<Color:9>Capacità dell'indicatore Heat aumentata.<Color:Default>"
+
+msgctxt "9048"
+msgid "<Color:9>You earned one Soul Orb.<Color:Default>"
+msgstr "<Color:9>Hai ottenuto una Sfera Anima.<Color:Default>"
+
+msgctxt "104784"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "104788"
+msgid "Minamida"
+msgstr "Minamida"
+
+msgctxt "104792"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "104796"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "104800"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "104804"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "104808"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "104812"
+msgid "Play the Game"
+msgstr "Gioca al gioco"
+
+msgctxt "104816"
+msgid "Don't Play the Game"
+msgstr "Non Giocare al gioco"
+
+msgctxt "104820"
+msgid "Play a Flashback Battle"
+msgstr "Gioca una Lotta Flashback"
+
+msgctxt "104824"
+msgid "Ask About the Game"
+msgstr "Chiedi del Gioco"
+
+msgctxt "104828"
+msgid "Invest Some Money"
+msgstr "Investi dei soldi"
+
+msgctxt "104832"
+msgid "Nagasugai"
+msgstr "Nagasugai"
+
+msgctxt "104836"
+msgid "Tsukimino"
+msgstr "Tsukimino"
+
+msgctxt "104840"
+msgid "Sotenbori"
+msgstr "Sotenbori"
+
+msgctxt "104844"
+msgid "Kineicho"
+msgstr "Kineicho"
+
+msgctxt "104848"
+msgid "Kamurocho"
+msgstr "Kamurocho"
+
+msgctxt "104852"
+msgid "On second thought, maybe not."
+msgstr "Ripensandoci, forse no."
+
+msgctxt "104856"
+msgid "Cancel"
+msgstr "Annulla"
+
+msgctxt "104860"
+msgid "Don't Invest"
+msgstr "Non investire"
+
+msgctxt "104864"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "312_Player"
+msgid "(I'll come back when I'm alone.)"
+msgstr "(Tornerò quando sarò solo.)"
+
+msgctxt "348_Minamida"
+msgid "Oh my! Kiryu-kun, is that you!?"
+msgstr "Oh, mio Dio! Kiryu-kun, sei tu!?"
+
+msgctxt "360_Kiryu"
+msgid "Long time no see, Minamida."
+msgstr "Quanto tempo, Minamida."
+
+msgctxt "372_Minamida"
+msgid "Yes, far too long, indeed."
+msgstr "Sì, davvero troppo tempo."
+
+msgctxt "384_Kiryu"
+msgid "Is this what I think it is?"
+msgstr "Ma è quello che penso?"
+
+msgctxt "396_Minamida"
+msgid "Hehe. I see I've piqued your interest."
+msgstr "Hehe. Vedo che ti ho incuriosito."
+
+msgctxt "408_Minamida"
+msgid ""
+"This is the latest version of Inner Fighter, my epoch-making arcade machine."
+msgstr ""
+"Questa è l'ultima versione di Inner Fighter, la mia macchina arcade epocale."
+
+msgctxt "420_Minamida"
+msgid "I call it Inner Fighter 8: Road Battle, or IF8 for short!"
+msgstr "Lo chiamo Inner Fighter 8: Road Battle, o IF8 in breve!"
+
+msgctxt "432_Kiryu"
+msgid "So you're still working on it, eh? Some things never change."
+msgstr "Quindi ci stai ancora lavorando, eh? Certe cose non cambiano mai."
+
+msgctxt "444_Minamida"
+msgid "The development of arcade machines is a never-ending endeavor."
+msgstr "Lo sviluppo delle macchine arcade è un'impresa senza fine."
+
+msgctxt "456_Minamida"
+msgid "Anyway, you could play right now if you'd like."
+msgstr "Comunque, potresti giocare subito, se ti va."
+
+msgctxt "468_Minamida"
+msgid "Ah, it's you."
+msgstr "Ah, sei tu."
+
+msgctxt "480_Kiryu"
+msgid "Minamida. Sorry for giving you the runaround back in Nagasugai."
+msgstr "Minamida. Scusa se ti ho fatto girare a vuoto a Nagasugai."
+
+msgctxt "492_Minamida"
+msgid "No need to hide your identity now?"
+msgstr "Ora non devi più nascondere la tua identità, vero?"
+
+msgctxt "504_Kiryu"
+msgid "That's right. So, you knew all along?"
+msgstr "Esatto. Quindi, sapevi tutto fin dall'inizio?"
+
+msgctxt "516_Minamida"
+msgid ""
+"These old eyes aren't so easily deceived. But I could tell you had your "
+"reasons, so I didn't press the matter."
+msgstr ""
+"Questi vecchi occhi non si ingannano così facilmente. Ma ho capito che avevi"
+" le tue ragioni, quindi non ho insistito."
+
+msgctxt "528_Kiryu"
+msgid "I appreciate that."
+msgstr "Ti ringrazio."
+
+msgctxt "540_Minamida"
+msgid "Don't you worry about it. As I said, you no doubt had your reasons."
+msgstr ""
+"Non ti preoccupare. Come ti dicevo, avevi senza dubbio le tue ragioni."
+
+msgctxt "552_Kiryu"
+msgid "That I did. Anyway, about IF8. Have you finished it yet?"
+msgstr "Sì, le avevo. Comunque, a proposito di IF8. L'hai finito?"
+
+msgctxt "564_Minamida"
+msgid ""
+"I'm glad you asked. Development is going along nicely thanks to the data "
+"we've collected."
+msgstr ""
+"Mi fa piacere che tu l'abbia chiesto. Lo sviluppo sta procedendo alla grande"
+" grazie ai dati che abbiamo raccolto."
+
+msgctxt "576_Minamida"
+msgid "You could play right now if you'd like."
+msgstr "Potresti giocare subito, se ti va."
+
+msgctxt "612_Minamida"
+msgid "Saejima-kun? It's been ages since I've seen you."
+msgstr "Saejima-kun? È una vita che non ti vedo."
+
+msgctxt "624_Saejima"
+msgid ""
+"Yeah, it's been a while, Minamida. Still workin' on your electric chair "
+"thing?"
+msgstr ""
+"Già, è una vita, Minamida. Stai ancora trafficando con la tua roba della "
+"sedia elettrica?"
+
+msgctxt "636_Minamida"
+msgid ""
+"This is no electric chair! This is the latest version of Inner Fighter, my "
+"epoch-making arcade machine."
+msgstr ""
+"Questa non è una sedia elettrica! Questa è l'ultima versione di Inner "
+"Fighter, la mia macchina arcade epocale."
+
+msgctxt "648_Minamida"
+msgid "I call it Inner Fighter 8: Road Battle, or IF8 for short!"
+msgstr "Lo chiamo Inner Fighter 8: Road Battle, o IF8 in breve!"
+
+msgctxt "660_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "672_Saejima"
+msgid "You ain't changed a bit."
+msgstr "Non sei cambiato di una virgola."
+
+msgctxt "684_Minamida"
+msgid "IF8 is an incredible advancement in arcade machine technology."
+msgstr ""
+"IF8 è un incredibile passo avanti nella tecnologia delle macchine arcade."
+
+msgctxt "696_Minamida"
+msgid "You could play right now if you'd like."
+msgstr "Potresti giocare subito, se ti va."
+
+msgctxt "708_Minamida"
+msgid "Saejima-kun? It's been ages since I've seen you."
+msgstr "Saejima-kun? È una vita che non ti vedo."
+
+msgctxt "720_Saejima"
+msgid "Yeah, it's been a while, Minamida."
+msgstr "Già, è una vita, Minamida."
+
+msgctxt "732_Saejima"
+msgid ""
+"Ran into your assistant over in Tsukimino. Told me you were workin' on a new"
+" Inner Fighter."
+msgstr ""
+"Mi sono imbattuto nel tuo assistente a Tsukimino. Mi ha detto che stavi "
+"trafficando con un nuovo Inner Fighter."
+
+msgctxt "744_Minamida"
+msgid "So I take you're up to speed, then?"
+msgstr "Quindi sei al corrente, allora?"
+
+msgctxt "756_Minamida"
+msgid "You could play right now if you'd like, you know."
+msgstr "Potresti giocare subito, se ti va, sai."
+
+msgctxt "792_Minamida"
+msgid "Can I help you, my dear?"
+msgstr "Posso aiutarti, mio caro?"
+
+msgctxt "804_Haruka"
+msgid "Oh, no. Never mind. Sorry to bother you."
+msgstr "Oh, no. Lascia stare. Scusa il disturbo."
+
+msgctxt "816_Haruka"
+msgid "I wonder what this giant machine is."
+msgstr "Mi chiedo che cos'è questa macchina gigantesca."
+
+msgctxt "828_Minamida"
+msgid "Has my IF8 caught your eye, young lady?"
+msgstr "Il mio IF8 ti ha colpito, signorina?"
+
+msgctxt "840_Haruka"
+msgid "Oh, hello there."
+msgstr "Oh, salve."
+
+msgctxt "852_Minamida"
+msgid "Say, didn't we meet over in Sotenbori?"
+msgstr "Senti, non ci siamo mica incontrati a Sotenbori?"
+
+msgctxt "864_Haruka"
+msgid "Minamida-san, was it? So, what is this here?"
+msgstr "Minamida-san, giusto? Allora, che cos'è questo qui?"
+
+msgctxt "876_Minamida"
+msgid ""
+"This is the latest version of Inner Fighter. More precisely, it's the main "
+"unit of Inner Fighter 8: Road Battle."
+msgstr ""
+"Questa è l'ultima versione di Inner Fighter. Più precisamente, è l'unità "
+"principale di Inner Fighter 8: Road Battle."
+
+msgctxt "888_Minamida"
+msgid "It's the same game you played in Sotenbori."
+msgstr "È lo stesso gioco che hai giocato a Sotenbori."
+
+msgctxt "924_Akiyama"
+msgid ""
+"Isn't this that Inner Fighter game machine? Didn't know it was still down "
+"here."
+msgstr ""
+"Ma questa non è la macchina del gioco Inner Fighter? Non sapevo fosse ancora"
+" quaggiù."
+
+msgctxt "936_Minamida"
+msgid "I was hoping I might see you again, Akiyama-kun."
+msgstr "Speravo di rivederti, Akiyama-kun."
+
+msgctxt "948_Akiyama"
+msgid "Minamida, was it? Long time no see. Still tinkering with your machine?"
+msgstr ""
+"Minamida, giusto? È un pezzo che non ci si vede. Ancora a smanettare con la "
+"tua macchina?"
+
+msgctxt "960_Minamida"
+msgid "The development of arcade machines is a never-ending endeavor."
+msgstr "Lo sviluppo delle macchine arcade è un'impresa senza fine."
+
+msgctxt "972_Akiyama"
+msgid "But this looks just like the machine I saw last time."
+msgstr "Ma questa sembra proprio la macchina che ho visto l'ultima volta."
+
+msgctxt "984_Minamida"
+msgid ""
+"On the outside, yes, but on the inside, it's a completely different beast."
+msgstr "Fuori, sì, ma dentro, è una bestia completamente diversa."
+
+msgctxt "996_Minamida"
+msgid ""
+"This is the latest version of Inner Fighter! I call it Inner Fighter 8: Road"
+" Battle, or IF8 for short!"
+msgstr ""
+"Questa è l'ultima versione di Inner Fighter! La chiamo Inner Fighter 8: Road"
+" Battle, o IF8 in breve!"
+
+msgctxt "1008_Akiyama"
+msgid "Right... It was IF7 last time."
+msgstr "Giusto... Era IF7 l'ultima volta."
+
+msgctxt "1020_Minamida"
+msgid "IF8 is my epoch-making advance in arcade machine technology."
+msgstr ""
+"IF8 è il mio progresso epocale nella tecnologia delle macchine arcade."
+
+msgctxt "1032_Minamida"
+msgid "You could play right now if you'd like."
+msgstr "Potresti fare una partita subito, se ti va."
+
+msgctxt "1044_Akiyama"
+msgid "Hey, long time no see."
+msgstr "Ehi, è un pezzo che non ci si vede."
+
+msgctxt "1056_Minamida"
+msgid "Oh, Akiyama-kun! I was hoping I might run into you again."
+msgstr "Oh, Akiyama-kun! Speravo di incrociarti di nuovo."
+
+msgctxt "1068_Akiyama"
+msgid "Your assistant told me you were still working on Inner Fighter."
+msgstr ""
+"Il tuo assistente mi ha detto che stavi ancora lavorando a Inner Fighter."
+
+msgctxt "1080_Minamida"
+msgid ""
+"So you've met with my assistant, have you? I take it you're up to speed, "
+"then?"
+msgstr ""
+"Quindi hai incontrato il mio assistente, vero? Immagino tu sia stato messo "
+"al corrente, allora?"
+
+msgctxt "1092_Minamida"
+msgid ""
+"This is the latest version of Inner Fighter. More precisely, it's the main "
+"unit of Inner Fighter 8: Road Battle."
+msgstr ""
+"Questa è l'ultima versione di Inner Fighter. Più precisamente, è l'unità "
+"principale di Inner Fighter 8: Road Battle."
+
+msgctxt "1104_Akiyama"
+msgid "I'd expect nothing less from you."
+msgstr "Non mi aspettavo altro da te."
+
+msgctxt "1116_Minamida"
+msgid "You could play right now if you'd like, you know."
+msgstr "Potresti fare una partita subito, se ti va, sai."
+
+msgctxt "1152_Shinada"
+msgid "What's with the creepy machine?"
+msgstr "Ma cos'è 'sta macchina inquietante?"
+
+msgctxt "1164_Minamida"
+msgid "Creepy? I'll have you know this is a marvel of modern science!"
+msgstr ""
+"Inquietante? Ehi, sappi che questa è una meraviglia della scienza moderna!"
+
+msgctxt "1176_Shinada"
+msgid "You're kind of creepy, too. What're you doing down here, anyway?"
+msgstr "Pure tu sei un po' inquietante. Che ci fai qui sotto, comunque?"
+
+msgctxt "1188_Minamida"
+msgid "First of all, my name is Minamida, and I'm conducting research here."
+msgstr "Innanzitutto, mi chiamo Minamida, e sto conducendo ricerche qui."
+
+msgctxt "1200_Minamida"
+msgid ""
+"And this is my arcade machine that I've been working on for many years."
+msgstr "E questa è la mia macchina arcade a cui ho lavorato da molti anni."
+
+msgctxt "1212_Minamida"
+msgid ""
+"It's the latest version of Inner Fighter! I call it Inner Fighter 8: Road "
+"Battle, or IF8 for short!"
+msgstr ""
+"È l'ultima versione di Inner Fighter! Lo chiamo Inner Fighter 8: Road "
+"Battle, o IF8 in breve!"
+
+msgctxt "1224_Shinada"
+msgid "IF8?"
+msgstr "IF8?"
+
+msgctxt "1236_Minamida"
+msgid ""
+"Indeed! It's my brand new game machine that uses special electromagnetic "
+"waves to let you experience realistic fights within your very mind."
+msgstr ""
+"Esatto! È la mia nuovissima macchina da gioco che usa onde elettromagnetiche"
+" speciali per farti provare combattimenti realistici nella tua stessa mente."
+
+msgctxt "1248_Shinada"
+msgid "Sounds like a recipe for brain cancer."
+msgstr "Sembra proprio la ricetta per un cancro al cervello."
+
+msgctxt "1260_Minamida"
+msgid ""
+"No no, there's nothing dangerous about it. In fact, playing it can actually "
+"help you."
+msgstr ""
+"No no, non c'è proprio niente di pericoloso. Anzi, giocarci può addirittura "
+"aiutarti."
+
+msgctxt "1272_Shinada"
+msgid "Says the mad scientist..."
+msgstr "Lo dice lo scienziato pazzo..."
+
+msgctxt "1284_Minamida"
+msgid ""
+"If you don't believe me, try it for yourself. Then you'll truly see the "
+"wonder that is IF8!"
+msgstr ""
+"Se non mi credi, provalo tu stesso. Allora vedrai davvero la meraviglia che "
+"è IF8!"
+
+msgctxt "1296_Minamida"
+msgid "You could play right now if you'd like, of course."
+msgstr "Potresti giocare subito se ti va, certo."
+
+msgctxt "1308_Shinada"
+msgid "What's with the creepy machine?"
+msgstr "Che cos'è 'sta macchina inquietante?"
+
+msgctxt "1320_Minamida"
+msgid "Creepy? I'll have you know this is a marvel of modern science!"
+msgstr ""
+"Inquietante? Lascia che ti dica che questa è una meraviglia della scienza "
+"moderna!"
+
+msgctxt "1332_Shinada"
+msgid "You're kind of creepy, too. What're you doing down here, anyway?"
+msgstr "Anche tu sei un po' inquietante. Che ci fai qua sotto, comunque?"
+
+msgctxt "1344_Minamida"
+msgid ""
+"Don't be so quick to judge. I've been working on this arcade machine for "
+"many years."
+msgstr ""
+"Non essere così frettoloso a giudicare. Ho lavorato a questa macchina da "
+"arcade per molti anni."
+
+msgctxt "1356_Minamida"
+msgid ""
+"It's the latest version of Inner Fighter! I call it Inner Fighter 8: Road "
+"Battle, or IF8 for short!"
+msgstr ""
+"È l'ultima versione di Inner Fighter! Lo chiamo Inner Fighter 8: Road "
+"Battle, o IF8 in breve!"
+
+msgctxt "1368_Shinada"
+msgid ""
+"Oh, you must be Minamida. Your assistant in Kineicho was pestering me about "
+"playing this thing."
+msgstr ""
+"Ah, tu devi essere Minamida. Il tuo assistente a Kineicho mi assillava per "
+"farmi giocare a 'sta roba."
+
+msgctxt "1380_Minamida"
+msgid "So you've met my assistant? I take it you're up to speed, then?"
+msgstr ""
+"Allora hai incontrato il mio assistente? Immagino tu sia al corrente, "
+"allora?"
+
+msgctxt "1392_Minamida"
+msgid ""
+"This is the latest version of Inner Fighter. More precisely, it's the main "
+"unit of Inner Fighter 8: Road Battle."
+msgstr ""
+"Questa è l'ultima versione di Inner Fighter. Più precisamente, è l'unità "
+"principale di Inner Fighter 8: Road Battle."
+
+msgctxt "1404_Shinada"
+msgid "(This old guy's got shady written all over him.)"
+msgstr "(Questo vecchio ha proprio l'aria losca.)"
+
+msgctxt "1428_Player"
+msgid ""
+"One more thing. IF8 is not finished yet. We'll need to sink a lot more money"
+" into it before it'll be done."
+msgstr ""
+"Ancora una cosa. L'IF8 non è ancora finito. Dovremo investirci un sacco di "
+"soldi prima che sia pronto."
+
+msgctxt "1440_Minamida"
+msgid ""
+"That's where you come in! We're hoping you'll help us with the necessary "
+"funds. You see, I may not look it, but I'm flat out broke."
+msgstr ""
+"È qui che entri in gioco tu! Speriamo che tu possa aiutarci con i fondi "
+"necessari. Vedi, potrà non sembrare, ma sono completamente al verde."
+
+msgctxt "1452_Minamida"
+msgid ""
+"You'll benefit as well, because once it's complete, it will feed back a "
+"variety of data to you whenever you play."
+msgstr ""
+"Ne trarrai beneficio anche tu, perché una volta che sarà finito, ti "
+"restituirà un sacco di dati ogni volta che giocherai."
+
+msgctxt "1464_Minamida"
+msgid ""
+"So please consider making an investment. It'll be well worth your while!"
+msgstr ""
+"Quindi, per favore, considera di fare un investimento. Ne varrà davvero la "
+"pena!"
+
+msgctxt "1488_Minamida"
+msgid "Well, care to play?"
+msgstr "Allora, ti va di giocare?"
+
+msgctxt "1500_Minamida"
+msgid "All right, I'll explain to you how to play."
+msgstr "Allora, ti spiego come si gioca."
+
+msgctxt "1512_Minamida"
+msgid ""
+"IF8 allows you to play what I like to call \"road battles\" in which you "
+"stroll through a town fighting enemies until you reach their boss."
+msgstr ""
+"L'IF8 ti permette di giocare a quelle che mi piace chiamare \"battaglie su "
+"strada\", in cui passeggi per una città combattendo i nemici finché non "
+"raggiungi il loro boss."
+
+msgctxt "1524_Minamida"
+msgid "Beat the boss, and you earn an ability boost."
+msgstr "Batti il boss, e guadagni un potenziamento abilità."
+
+msgctxt "1536_Minamida"
+msgid ""
+"I only have data for one town right now, but we're busy collecting data we "
+"need, so not all the stages are playable yet."
+msgstr ""
+"Al momento ho dati solo per una città, ma siamo impegnati a raccogliere i "
+"dati che ci servono, quindi non tutti gli stage sono ancora giocabili."
+
+msgctxt "1548_Minamida"
+msgid ""
+"All we need is a little more data, and you'll be able to play in other "
+"towns. You'll have to be patient until then."
+msgstr ""
+"Ci serve solo un altro po' di dati, e potrai giocare in altre città. Fino ad"
+" allora dovrai portare pazienza."
+
+msgctxt "1560_Player"
+msgid ""
+"One more thing... As I mentioned before, IF8 is not finished yet. We'll need"
+" to sink a lot more money into it before it'll be done."
+msgstr ""
+"Ancora una cosa... Come ti ho già detto, l'IF8 non è ancora finito. Dovremo "
+"investirci un sacco di soldi prima che sia pronto."
+
+msgctxt "1572_Minamida"
+msgid ""
+"That's where you come in! We're hoping you'll help us with the necessary "
+"funds. You see, I may not look it, but I'm flat out broke."
+msgstr ""
+"È qui che entri in gioco tu! Speriamo che tu possa aiutarci con i fondi "
+"necessari. Vedi, potrà non sembrare, ma sono completamente al verde."
+
+msgctxt "1584_Minamida"
+msgid ""
+"You'll benefit as well, because once it's complete, it will feed back a "
+"variety of data to you whenever you play."
+msgstr ""
+"Ne trarrai beneficio anche tu, perché una volta che sarà finito, ti "
+"restituirà un sacco di dati ogni volta che giocherai."
+
+msgctxt "1596_Minamida"
+msgid ""
+"So please consider making an investment. It'll be well worth your while!"
+msgstr ""
+"Quindi, per favore, considera di fare un investimento. Ne varrà davvero la "
+"pena!"
+
+msgctxt "1608_Minamida"
+msgid ""
+"Finally, it'll be 10,000 yen to play. And that's with a special discount "
+"just for you!"
+msgstr ""
+"Infine, saranno 10.000 yen per giocare. E questo già con uno sconto "
+"speciale, solo per te!"
+
+msgctxt "1620_Minamida"
+msgid "Well, care to play?"
+msgstr "Beh, ti va di giocare?"
+
+msgctxt "1644_Minamida"
+msgid "Okay, now select the stage you want to play."
+msgstr "Ok, adesso seleziona lo stage che vuoi giocare."
+
+msgctxt "1656_Minamida"
+msgid "Nagasugai? All right, that will be 10,000 yen."
+msgstr "Nagasugai? Va bene, saranno 10.000 yen."
+
+msgctxt "1668_Minamida"
+msgid "Let the road battle commence!"
+msgstr "Che la battaglia stradale abbia inizio!"
+
+msgctxt "1692_Minamida"
+msgid "Tsukimino? All right, that will be 10,000 yen."
+msgstr "Tsukimino? Va bene, saranno 10.000 yen."
+
+msgctxt "1704_Minamida"
+msgid "Let the road battle commence!"
+msgstr "Che la battaglia stradale abbia inizio!"
+
+msgctxt "1728_Minamida"
+msgid "Sotenbori? All right, that will be 10,000 yen."
+msgstr "Sotenbori? Va bene, saranno 10.000 yen."
+
+msgctxt "1740_Minamida"
+msgid "Let the road battle commence!"
+msgstr "Che la battaglia stradale abbia inizio!"
+
+msgctxt "1764_Minamida"
+msgid "Sotenbori? All right, that will be 10,000 yen."
+msgstr "Sotenbori? Va bene, saranno 10.000 yen."
+
+msgctxt "1776_Minamida"
+msgid "Let the road battle commence!"
+msgstr "Che la battaglia stradale abbia inizio!"
+
+msgctxt "1800_Minamida"
+msgid "Kineicho? All right, that will be 10,000 yen."
+msgstr "Kineicho? Va bene, saranno 10.000 yen."
+
+msgctxt "1812_Minamida"
+msgid "Let the road battle commence!"
+msgstr "Che la battaglia stradale abbia inizio!"
+
+msgctxt "1836_Minamida"
+msgid "Kamurocho? All right, that will be 10,000 yen."
+msgstr "Kamurocho? Va bene, saranno 10.000 yen."
+
+msgctxt "1848_Minamida"
+msgid "Let the road battle commence!"
+msgstr "Che la battaglia stradale abbia inizio!"
+
+msgctxt "1884_Minamida"
+msgid "All right, let me explain flashback battles to you."
+msgstr "Va bene, fammi spiegare le battaglie flashback."
+
+msgctxt "1896_Minamida"
+msgid "In flashback battles, you fight powerful enemies from your past."
+msgstr "Nelle battaglie flashback, combatti nemici potenti dal tuo passato."
+
+msgctxt "1908_Minamida"
+msgid "IF8 faithfully recreates the battle based on your memories."
+msgstr "IF8 ricrea fedelmente la battaglia basandosi sui tuoi ricordi."
+
+msgctxt "1920_Minamida"
+msgid ""
+"Only some enemies are available, though. And you won't gain weapon "
+"proficiency or experience, so remember that!"
+msgstr ""
+"Però sono disponibili solo alcuni nemici. E non guadagnerai maestria con le "
+"armi né esperienza, quindi ricordatelo!"
+
+msgctxt "1932_Minamida"
+msgid ""
+"But if you win, there will be a nice little surprise for you, just as with "
+"the road battles."
+msgstr ""
+"Ma se vinci, ci sarà una bella sorpresina per te, proprio come nelle "
+"battaglie stradali."
+
+msgctxt "1944_Minamida"
+msgid "The cost to play is the same, too. 10,000 yen."
+msgstr "Anche il costo per giocare è lo stesso. 10.000 yen."
+
+msgctxt "1956_Minamida"
+msgid "Would you care to play?"
+msgstr "Ti va di giocare?"
+
+msgctxt "1980_Minamida"
+msgid "Flashback Battles cost 10,000 yen to play. Care to play?"
+msgstr ""
+"Le Battaglie Flashback costano 10.000 yen per giocare. Ti va di giocare?"
+
+msgctxt "2004_Minamida"
+msgid "All right, that will be 10,000 yen."
+msgstr "Va bene, saranno 10.000 yen."
+
+msgctxt "2016_Minamida"
+msgid "Let the Flashback Battle commence!"
+msgstr "Che la Battaglia Flashback abbia inizio!"
+
+msgctxt "2088_Minamida"
+msgid ""
+"It appears you're a little low on funds. Running the machine is expensive, "
+"so I'm afraid I'll have to ask you to come back when you can pay."
+msgstr ""
+"Sembra che tu sia un po' a corto di fondi. Far funzionare la macchina è "
+"costoso, quindi temo che dovrò chiederti di tornare quando potrai pagare."
+
+msgctxt "2112_Minamida"
+msgid ""
+"IF8 development is quite expensive. Would you like to invest in its "
+"completion?"
+msgstr ""
+"Lo sviluppo di IF8 è piuttosto costoso. Vorresti investire nel suo "
+"completamento?"
+
+msgctxt "2136_Minamida"
+msgid "Why thank you! We can use all the help we can get."
+msgstr "Ma grazie! Ogni aiuto ci fa comodo."
+
+msgctxt "2160_Minamida"
+msgid ""
+"Our total investments have reached %s. How much would you like to invest?"
+msgstr ""
+"I nostri investimenti totali hanno raggiunto %s. Quanto vorresti investire?"
+
+msgctxt "2184_Minamida"
+msgid "I think this is enough to upgrade IF8 to our latest version."
+msgstr ""
+"Credo che questo basti per potenziare IF8 alla nostra ultima versione."
+
+msgctxt "2196_Minamida"
+msgid "Just one moment, please."
+msgstr "Un momento, per favore."
+
+msgctxt "2256_Minamida"
+msgid "And... done! IF8 is now upgraded to version 1.1!"
+msgstr "Ed... ecco fatto! IF8 è ora potenziato alla versione 1.1!"
+
+msgctxt "2268_Minamida"
+msgid "The Kamurocho stage is now playable thanks to the upgrade."
+msgstr "Lo stage di Kamurocho è ora giocabile grazie al potenziamento."
+
+msgctxt "2280_Minamida"
+msgid "I hope you'll try it sometime. Well, until we meet again."
+msgstr "Spero che lo proverai prima o poi. Beh, alla prossima."
+
+msgctxt "2304_Minamida"
+msgid ""
+"Your cooperation is greatly appreciated. Total investments now stand at %s."
+msgstr ""
+"La tua collaborazione è molto apprezzata. Gli investimenti totali ora "
+"ammontano a %s."
+
+msgctxt "2316_Minamida"
+msgid ""
+"Once we reach 100,000 yen, I'll be able to add a new stage for you to play."
+msgstr ""
+"Una volta raggiunti 100.000 yen, potrò aggiungere un nuovo stage da farti "
+"giocare."
+
+msgctxt "2328_Minamida"
+msgid "I trust you'll make the necessary investment."
+msgstr "Confido che farai l'investimento necessario."
+
+msgctxt "2340_Minamida"
+msgid ""
+"Our total investments have reached %s. How much would you like to invest?"
+msgstr ""
+"I nostri investimenti totali hanno raggiunto %s. Quanto vorresti investire?"
+
+msgctxt "2364_Minamida"
+msgid "I think this is enough to upgrade IF8 to our latest version."
+msgstr ""
+"Credo che questo basti per potenziare IF8 alla nostra ultima versione."
+
+msgctxt "2376_Minamida"
+msgid "Just one moment, please."
+msgstr "Un momento, per favore."
+
+msgctxt "2436_Minamida"
+msgid "And... done! IF8 is now upgraded to version 1.2!"
+msgstr "Ed... ecco fatto! IF8 è ora potenziato alla versione 1.2!"
+
+msgctxt "2448_Minamida"
+msgid "In version 1.2, you can earn Soul Orbs by completing a stage."
+msgstr ""
+"Nella versione 1.2, puoi guadagnare Sfere Anima completando uno stage."
+
+msgctxt "2460_Minamida"
+msgid ""
+"But! You must complete the same stage a number of times. Give it a try!"
+msgstr "Ma! Devi completare lo stesso stage diverse volte. Dai, provaci!"
+
+msgctxt "2472_Minamida"
+msgid ""
+"Oh, and this is the final upgrade, so there's no need for any more "
+"investments. Thank you for all your help."
+msgstr ""
+"Oh, e questo è l'ultimo potenziamento, quindi non c'è più bisogno di altri "
+"investimenti. Grazie per tutto l'aiuto."
+
+msgctxt "2496_Minamida"
+msgid ""
+"Your cooperation is greatly appreciated. Total investments now stand at %s."
+msgstr ""
+"La tua collaborazione è molto apprezzata. Gli investimenti totali ora "
+"ammontano a %s."
+
+msgctxt "2508_Minamida"
+msgid "With 200,000 yen, I could add new features."
+msgstr "Con 200.000 yen, potrei aggiungere nuove funzionalità."
+
+msgctxt "2520_Minamida"
+msgid "I trust you'll make the necessary investment."
+msgstr "Confido che farai l'investimento necessario."
+
+msgctxt "2532_Minamida"
+msgid ""
+"Hm, you're broke? Well, I'm far too busy to be dealing with looky-loos. Good"
+" day."
+msgstr ""
+"Mh, sei al verde? Beh, sono troppo impegnato per star dietro ai perdigiorno."
+" Buona giornata."
+
+msgctxt "2544_Minamida"
+msgid "This is the final version, so no more updates."
+msgstr "Questa è la versione finale, quindi niente più aggiornamenti."
+
+msgctxt "2568_Minamida"
+msgid "So good to see you again. Would you like to play IF8?"
+msgstr "Che bello rivederti. Vuoi giocare a IF8?"
+
+msgctxt "2580_Minamida"
+msgid "So good to see you again. Would you like to play IF8?"
+msgstr "Che bello rivederti. Vuoi giocare a IF8?"
+
+msgctxt "2592_Minamida"
+msgid "Oh, all right then. I'll be here in case you feel like playing later."
+msgstr "Oh, d'accordo allora. Mi troverai qui se ti va di giocare dopo."
+
+msgctxt "2604_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "2616_Minamida"
+msgid ""
+"Hm, you're broke? Well, I'm far too busy to be dealing with looky-loos. Good"
+" day."
+msgstr ""
+"Mh, sei al verde? Beh, sono troppo impegnato per star dietro ai perdigiorno."
+" Buona giornata."
+
+msgctxt "2628_Minamida"
+msgid "Oh, what a shame. It seems you've been defeated."
+msgstr "Oh, che peccato. Sembra che tu sia stato sconfitto."
+
+msgctxt "2640_Minamida"
+msgid "Well, try again when you're ready."
+msgstr "Beh, riprova quando sei pronto."
+
+msgctxt "2664_Minamida"
+msgid "Oh, what a shame. It seems you've been defeated."
+msgstr "Oh, che peccato. Sembra che tu sia stato sconfitto."
+
+msgctxt "2676_Minamida"
+msgid "Well, try again when you're ready."
+msgstr "Beh, riprova quando sei pronto."
+
+msgctxt "2736_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "2748_Minamida"
+msgid ""
+"You seem to have enhanced an ability. This should give us some excellent "
+"data."
+msgstr ""
+"Sembra che tu abbia potenziato un'abilità. Questo dovrebbe darci dei dati "
+"eccellenti."
+
+msgctxt "2772_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "2784_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "2796_Minamida"
+msgid "You've earned a Soul Orb thanks to the new version I built."
+msgstr ""
+"Hai guadagnato una Sfera Anima grazie alla nuova versione che ho realizzato."
+
+msgctxt "2820_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "2832_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "2844_Minamida"
+msgid ""
+"Your abilities can't be enhanced any further. Here's a prize for your "
+"trouble instead."
+msgstr ""
+"Le tue abilità non possono essere potenziate oltre. Ecco un premio per la "
+"tua fatica, invece."
+
+msgctxt "2856_Minamida"
+msgid ""
+"This version of IF8 can't raise your abilities any further. Here's a prize "
+"for your trouble instead."
+msgstr ""
+"Questa versione di IF8 non può potenziare ulteriormente le tue abilità. Ecco"
+" un premio per la tua fatica, invece."
+
+msgctxt "2976_Player"
+msgid "You got <Color:8>Snowman Hammer<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Martello Pupazzo di Neve<Color:Default>."
+
+msgctxt "3012_Player"
+msgid "You got <Color:8>Gravity Converter<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Convertitore di Gravità<Color:Default>."
+
+msgctxt "3048_Player"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Staminan Royale<Color:Default>."
+
+msgctxt "3084_Player"
+msgid "You got <Color:8>Mystery Liquid<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Liquido Misterioso<Color:Default>."
+
+msgctxt "3120_Player"
+msgid "You got <Color:8>Small Motor<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Motorino<Color:Default>."
+
+msgctxt "3156_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "3216_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "3228_Minamida"
+msgid ""
+"You seem to have enhanced an ability. This should give us some excellent "
+"data."
+msgstr ""
+"Sembra che tu abbia potenziato un'abilità. Questo dovrebbe darci dei dati "
+"eccellenti."
+
+msgctxt "3252_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "3264_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "3276_Minamida"
+msgid "You've earned a Soul Orb thanks to the new version I built."
+msgstr ""
+"Hai guadagnato una Sfera dell'Anima grazie alla nuova versione che ho "
+"costruito."
+
+msgctxt "3300_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "3312_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "3324_Minamida"
+msgid ""
+"Your abilities can't be enhanced any further. Here's a prize for your "
+"trouble instead."
+msgstr ""
+"Le tue abilità non possono essere potenziate ulteriormente. Ecco un premio "
+"per il tuo disturbo, invece."
+
+msgctxt "3336_Minamida"
+msgid ""
+"This version of IF8 can't raise your abilities any further. Here's a prize "
+"for your trouble instead."
+msgstr ""
+"Questa versione di IF8 non può potenziare le tue abilità ulteriormente. Ecco"
+" un premio per il tuo disturbo, invece."
+
+msgctxt "3456_Player"
+msgid "You got <Color:8>Snowman Hammer<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Martello dello Snowman<Color:Default>."
+
+msgctxt "3492_Player"
+msgid "You got <Color:8>Gravity Converter<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Convertitore di Gravità<Color:Default>."
+
+msgctxt "3528_Player"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Staminan Royale<Color:Default>."
+
+msgctxt "3564_Player"
+msgid "You got <Color:8>Mystery Liquid<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Liquido Misterioso<Color:Default>."
+
+msgctxt "3600_Player"
+msgid "You got <Color:8>Small Motor<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Piccolo Motore<Color:Default>."
+
+msgctxt "3636_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "3696_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "3708_Minamida"
+msgid ""
+"You seem to have enhanced an ability. This should give us some excellent "
+"data."
+msgstr ""
+"Sembra che tu abbia potenziato un'abilità. Questo dovrebbe fornirci degli "
+"ottimi dati."
+
+msgctxt "3732_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "3744_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "3756_Minamida"
+msgid "You've earned a Soul Orb thanks to the new version I built."
+msgstr ""
+"Hai guadagnato una Sfera dell'Anima grazie alla nuova versione che ho "
+"costruito."
+
+msgctxt "3780_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "3792_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "3804_Minamida"
+msgid ""
+"Your abilities can't be enhanced any further. Here's a prize for your "
+"trouble instead."
+msgstr ""
+"Le tue abilità non possono essere potenziate ulteriormente. Ecco un premio "
+"per la tua fatica, invece."
+
+msgctxt "3816_Minamida"
+msgid ""
+"This version of IF8 can't raise your abilities any further. Here's a prize "
+"for your trouble instead."
+msgstr ""
+"Questa versione di IF8 non può potenziare ulteriormente le tue abilità. Ecco"
+" un premio per la tua fatica, invece."
+
+msgctxt "3936_Player"
+msgid "You got <Color:8>Snowman Hammer<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Martello Pupazzo di Neve<Color:Default>."
+
+msgctxt "3972_Player"
+msgid "You got <Color:8>Gravity Converter<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Convertitore di Gravità<Color:Default>."
+
+msgctxt "4008_Player"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Staminan Royale<Color:Default>."
+
+msgctxt "4044_Player"
+msgid "You got a <Color:8>Mystery Liquid<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Liquido Misterioso<Color:Default>."
+
+msgctxt "4080_Player"
+msgid "You got a <Color:8>Small Motor<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Piccolo motore<Color:Default>."
+
+msgctxt "4116_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "4176_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "4188_Minamida"
+msgid ""
+"You seem to have enhanced an ability. This should give us some excellent "
+"data."
+msgstr ""
+"Sembra che tu abbia potenziato un'abilità. Questo dovrebbe darci degli "
+"ottimi dati."
+
+msgctxt "4212_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "4224_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "4236_Minamida"
+msgid "You've earned a Soul Orb thanks to the new version I built."
+msgstr ""
+"Hai ottenuto una Sfera dell'Anima grazie alla nuova versione che ho "
+"costruito."
+
+msgctxt "4260_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "4272_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "4284_Minamida"
+msgid ""
+"Your abilities can't be enhanced any further. Here's a prize for your "
+"trouble instead."
+msgstr ""
+"Le tue abilità non possono essere potenziate ulteriormente. Ecco invece un "
+"premio per la tua fatica."
+
+msgctxt "4296_Minamida"
+msgid ""
+"This version of IF8 can't raise your abilities any further. Here's a prize "
+"for your trouble instead."
+msgstr ""
+"Questa versione di IF8 non può potenziare ulteriormente le tue abilità. Ecco"
+" invece un premio per la tua fatica."
+
+msgctxt "4416_Player"
+msgid "You got <Color:8>Snowman Hammer<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Martello del Pupazzo di Neve<Color:Default>."
+
+msgctxt "4452_Player"
+msgid "You got <Color:8>Gravity Converter<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Convertitore di Gravità<Color:Default>."
+
+msgctxt "4488_Player"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Staminan Royale<Color:Default>."
+
+msgctxt "4524_Player"
+msgid "You got a <Color:8>Mystery Liquid<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Liquido Misterioso<Color:Default>."
+
+msgctxt "4560_Player"
+msgid "You got a <Color:8>Small Motor<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Piccolo motore<Color:Default>."
+
+msgctxt "4596_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "4656_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "4668_Minamida"
+msgid ""
+"You seem to have enhanced an ability. This should give us some excellent "
+"data."
+msgstr ""
+"Sembra che tu abbia potenziato un'abilità. Questo dovrebbe darci degli "
+"ottimi dati."
+
+msgctxt "4692_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "4704_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "4716_Minamida"
+msgid "You've earned a Soul Orb thanks to the new version I built."
+msgstr ""
+"Ti sei guadagnato un Soul Orb grazie alla nuova versione che ho costruito."
+
+msgctxt "4740_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "4752_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "4764_Minamida"
+msgid ""
+"Your abilities can't be enhanced any further. Here's a prize for your "
+"trouble instead."
+msgstr ""
+"Le tue abilità non possono essere potenziate ulteriormente. Ecco un premio "
+"per la tua fatica, invece."
+
+msgctxt "4776_Minamida"
+msgid ""
+"This version of IF8 can't raise your abilities any further. Here's a prize "
+"for your trouble instead."
+msgstr ""
+"Questa versione di IF8 non può potenziare le tue abilità ulteriormente. Ecco"
+" un premio per la tua fatica, invece."
+
+msgctxt "4896_Player"
+msgid "You got a <Color:8>Snowman Hammer<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Martello del Pupazzo di Neve<Color:Default>."
+
+msgctxt "4932_Player"
+msgid "You got a <Color:8>Gravity Converter<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Convertitore di gravità<Color:Default>."
+
+msgctxt "4968_Player"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Staminan Royale<Color:Default>."
+
+msgctxt "5004_Player"
+msgid "You got a <Color:8>Mystery Liquid<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Liquido misterioso<Color:Default>."
+
+msgctxt "5040_Player"
+msgid "You got a <Color:8>Small Motor<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Piccolo motore<Color:Default>."
+
+msgctxt "5076_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "5136_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "5148_Minamida"
+msgid ""
+"You seem to have enhanced an ability. This should give us some excellent "
+"data."
+msgstr ""
+"Sembra che tu abbia potenziato un'abilità. Questo dovrebbe fornirci alcuni "
+"ottimi dati."
+
+msgctxt "5172_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "5184_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "5196_Minamida"
+msgid "You've earned a Soul Orb thanks to the new version I built."
+msgstr ""
+"Hai guadagnato un'Orb dell'Anima grazie alla nuova versione che ho "
+"costruito."
+
+msgctxt "5220_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "5232_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "5244_Minamida"
+msgid ""
+"Your abilities can't be enhanced any further. Here's a prize for your "
+"trouble instead."
+msgstr ""
+"Le tue abilità non possono essere potenziate oltre. Ecco un premio per la "
+"tua fatica invece."
+
+msgctxt "5256_Minamida"
+msgid ""
+"This version of IF8 can't raise your abilities any further. Here's a prize "
+"for your trouble instead."
+msgstr ""
+"Questa versione di IF8 non può potenziare le tue abilità oltre. Ecco un "
+"premio per la tua fatica invece."
+
+msgctxt "5376_Player"
+msgid "You got a <Color:8>Snowman Hammer<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Martello del Pupazzo di Neve<Color:Default>."
+
+msgctxt "5412_Player"
+msgid "You got a <Color:8>Gravity Converter<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Convertitore di gravità<Color:Default>."
+
+msgctxt "5448_Player"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Staminan Royale<Color:Default>."
+
+msgctxt "5484_Player"
+msgid "You got a <Color:8>Mystery Liquid<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Liquido Misterioso<Color:Default>."
+
+msgctxt "5520_Player"
+msgid "You got a <Color:8>Small Motor<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Piccolo motore<Color:Default>."
+
+msgctxt "5556_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "5616_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "5628_Minamida"
+msgid ""
+"You seem to have enhanced an ability. This should give us some excellent "
+"data."
+msgstr ""
+"Sembra che tu abbia potenziato un'abilità. Questo dovrebbe fornirci dati "
+"eccellenti."
+
+msgctxt "5652_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "5664_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "5676_Minamida"
+msgid "You've earned a Soul Orb thanks to the new version I built."
+msgstr ""
+"Hai guadagnato una Sfera dell'Anima grazie alla nuova versione che ho "
+"costruito."
+
+msgctxt "5700_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "5712_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "5724_Minamida"
+msgid ""
+"Your abilities can't be enhanced any further. Here's a prize for your "
+"trouble instead."
+msgstr ""
+"Le tue abilità non possono essere potenziate ulteriormente. Ecco invece un "
+"premio per il tuo disturbo."
+
+msgctxt "5736_Minamida"
+msgid ""
+"This version of IF8 can't raise your abilities any further. Here's a prize "
+"for your trouble instead."
+msgstr ""
+"Questa versione di IF8 non può potenziare ulteriormente le tue abilità. Ecco"
+" invece un premio per il tuo disturbo."
+
+msgctxt "5856_Player"
+msgid "You got a <Color:8>Snowman Hammer<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Martello del Pupazzo di Neve<Color:Default>."
+
+msgctxt "5892_Player"
+msgid "You got a <Color:8>Gravity Converter<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Convertitore di gravità<Color:Default>."
+
+msgctxt "5928_Player"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Staminan Royale<Color:Default>."
+
+msgctxt "5964_Player"
+msgid "You got a <Color:8>Mystery Liquid<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Liquido Misterioso<Color:Default>."
+
+msgctxt "6000_Player"
+msgid "You got a <Color:8>Small Motor<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Piccolo motore<Color:Default>."
+
+msgctxt "6036_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "6096_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "6108_Minamida"
+msgid ""
+"You seem to have enhanced an ability. This should give us some excellent "
+"data."
+msgstr ""
+"Sembra tu abbia potenziato un'abilità. Questo dovrebbe darci degli ottimi "
+"dati."
+
+msgctxt "6132_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "6144_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "6156_Minamida"
+msgid "You've earned a Soul Orb thanks to the new version I built."
+msgstr ""
+"Hai ottenuto un'Orb dell'Anima grazie alla nuova versione che ho costruito."
+
+msgctxt "6180_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "6192_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "6204_Minamida"
+msgid ""
+"Your abilities can't be enhanced any further. Here's a prize for your "
+"trouble instead."
+msgstr ""
+"Le tue abilità non possono essere potenziate ulteriormente. Ecco un premio "
+"per la tua fatica, invece."
+
+msgctxt "6216_Minamida"
+msgid ""
+"This version of IF8 can't raise your abilities any further. Here's a prize "
+"for your trouble instead."
+msgstr ""
+"Questa versione di IF8 non può potenziare ulteriormente le tue abilità. Ecco"
+" un premio per la tua fatica, invece."
+
+msgctxt "6336_Player"
+msgid "You got a <Color:8>Snowman Hammer<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Martello del Pupazzo di Neve<Color:Default>."
+
+msgctxt "6372_Player"
+msgid "You got a <Color:8>Gravity Converter<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Convertitore di gravità<Color:Default>."
+
+msgctxt "6408_Player"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Staminan Royale<Color:Default>."
+
+msgctxt "6444_Player"
+msgid "You got a <Color:8>Mystery Liquid<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Liquido Misterioso<Color:Default>."
+
+msgctxt "6480_Player"
+msgid "You got a <Color:8>Small Motor<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Piccolo motore<Color:Default>."
+
+msgctxt "6516_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "6576_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "6588_Minamida"
+msgid ""
+"You seem to have enhanced an ability. This should give us some excellent "
+"data."
+msgstr ""
+"Sembra che tu abbia potenziato un'abilità. Questo dovrebbe darci dei dati "
+"eccellenti."
+
+msgctxt "6612_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "6624_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "6636_Minamida"
+msgid "You've earned a Soul Orb thanks to the new version I built."
+msgstr ""
+"Hai guadagnato una Sfera dell'Anima grazie alla nuova versione che ho "
+"costruito."
+
+msgctxt "6660_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "6672_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "6684_Minamida"
+msgid ""
+"Your abilities can't be enhanced any further. Here's a prize for your "
+"trouble instead."
+msgstr ""
+"Le tue abilità non possono essere potenziate ulteriormente. Ecco un premio "
+"per il tuo disturbo, invece."
+
+msgctxt "6696_Minamida"
+msgid ""
+"This version of IF8 can't raise your abilities any further. Here's a prize "
+"for your trouble instead."
+msgstr ""
+"Questa versione di IF8 non può potenziare ulteriormente le tue abilità. Ecco"
+" un premio per il tuo disturbo, invece."
+
+msgctxt "6816_Player"
+msgid "You got a <Color:8>Snowman Hammer<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Martello del Pupazzo di Neve<Color:Default>."
+
+msgctxt "6852_Player"
+msgid "You got a <Color:8>Gravity Converter<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Convertitore di gravità<Color:Default>."
+
+msgctxt "6888_Player"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Staminan Royale<Color:Default>."
+
+msgctxt "6924_Player"
+msgid "You got a <Color:8>Mystery Liquid<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Liquido Misterioso<Color:Default>."
+
+msgctxt "6960_Player"
+msgid "You got a <Color:8>Small Motor<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Piccolo motore<Color:Default>."
+
+msgctxt "6996_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "7056_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "7068_Minamida"
+msgid ""
+"You seem to have enhanced an ability. This should give us some excellent "
+"data."
+msgstr ""
+"Sembra che tu abbia potenziato un'abilità. Questo dovrebbe darci degli "
+"ottimi dati."
+
+msgctxt "7092_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "7104_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "7116_Minamida"
+msgid "You've earned a Soul Orb thanks to the new version I built."
+msgstr ""
+"Hai ottenuto una Sfera dell'Anima grazie alla nuova versione che ho "
+"costruito."
+
+msgctxt "7140_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "7152_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "7164_Minamida"
+msgid ""
+"Your abilities can't be enhanced any further. Here's a prize for your "
+"trouble instead."
+msgstr ""
+"Le tue abilità non possono essere potenziate ulteriormente. Invece, ecco un "
+"premio per il tuo disturbo."
+
+msgctxt "7176_Minamida"
+msgid ""
+"This version of IF8 can't raise your abilities any further. Here's a prize "
+"for your trouble instead."
+msgstr ""
+"Questa versione di IF8 non può potenziare ulteriormente le tue abilità. "
+"Invece, ecco un premio per il tuo disturbo."
+
+msgctxt "7296_Player"
+msgid "You got a <Color:8>Snowman Hammer<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Martello del Pupazzo di Neve<Color:Default>."
+
+msgctxt "7332_Player"
+msgid "You got a <Color:8>Gravity Converter<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Convertitore di gravità<Color:Default>."
+
+msgctxt "7368_Player"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Staminan Royale<Color:Default>."
+
+msgctxt "7404_Player"
+msgid "You got a <Color:8>Mystery Liquid<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Liquido Misterioso<Color:Default>."
+
+msgctxt "7440_Player"
+msgid "You got a <Color:8>Small Motor<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Piccolo motore<Color:Default>."
+
+msgctxt "7476_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "7536_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "7548_Minamida"
+msgid ""
+"You seem to have enhanced an ability. This should give us some excellent "
+"data."
+msgstr ""
+"Sembra che tu abbia potenziato un'abilità. Questo dovrebbe fornirci degli "
+"ottimi dati."
+
+msgctxt "7572_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "7584_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "7596_Minamida"
+msgid "You've earned a Soul Orb thanks to the new version I built."
+msgstr ""
+"Hai guadagnato un'Orb d'Anima grazie alla nuova versione che ho costruito."
+
+msgctxt "7620_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "7632_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "7644_Minamida"
+msgid ""
+"Your abilities can't be enhanced any further. Here's a prize for your "
+"trouble instead."
+msgstr ""
+"Le tue abilità non possono essere potenziate ulteriormente. Ecco un premio "
+"per la tua fatica, invece."
+
+msgctxt "7656_Minamida"
+msgid ""
+"This version of IF8 can't raise your abilities any further. Here's a prize "
+"for your trouble instead."
+msgstr ""
+"Questa versione di IF8 non può potenziare ulteriormente le tue abilità. Ecco"
+" un premio per la tua fatica, invece."
+
+msgctxt "7776_Player"
+msgid "You got a <Color:8>Snowman Hammer<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Martello del Pupazzo di Neve<Color:Default>."
+
+msgctxt "7812_Player"
+msgid "You got a <Color:8>Gravity Converter<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Convertitore di gravità<Color:Default>."
+
+msgctxt "7848_Player"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Staminan Royale<Color:Default>."
+
+msgctxt "7884_Player"
+msgid "You got a <Color:8>Mystery Liquid<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Liquido Misterioso<Color:Default>."
+
+msgctxt "7920_Player"
+msgid "You got a <Color:8>Small Motor<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Piccolo motore<Color:Default>."
+
+msgctxt "7956_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "8016_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "8028_Minamida"
+msgid ""
+"You seem to have enhanced an ability. This should give us some excellent "
+"data."
+msgstr ""
+"Sembra che tu abbia potenziato un'abilità. Questo dovrebbe fornirci degli "
+"ottimi dati."
+
+msgctxt "8052_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "8064_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "8076_Minamida"
+msgid "You've earned a Soul Orb thanks to the new version I built."
+msgstr ""
+"Hai ottenuto una Sfera dell'Anima grazie alla nuova versione che ho "
+"costruito."
+
+msgctxt "8100_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "8112_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "8124_Minamida"
+msgid ""
+"Your abilities can't be enhanced any further. Here's a prize for your "
+"trouble instead."
+msgstr ""
+"Le tue abilità non possono essere potenziate ulteriormente. Ecco un premio "
+"per la tua fatica invece."
+
+msgctxt "8136_Minamida"
+msgid ""
+"This version of IF8 can't raise your abilities any further. Here's a prize "
+"for your trouble instead."
+msgstr ""
+"Questa versione di IF8 non può più potenziare le tue abilità. Ecco un premio"
+" per la tua fatica invece."
+
+msgctxt "8256_Player"
+msgid "You got a <Color:8>Snowman Hammer<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Martello del Pupazzo di Neve<Color:Default>."
+
+msgctxt "8292_Player"
+msgid "You got a <Color:8>Gravity Converter<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Convertitore di gravità<Color:Default>."
+
+msgctxt "8328_Player"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Staminan Royale<Color:Default>."
+
+msgctxt "8364_Player"
+msgid "You got a <Color:8>Mystery Liquid<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Liquido misterioso<Color:Default>."
+
+msgctxt "8400_Player"
+msgid "You got a <Color:8>Small Motor<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Piccolo motore<Color:Default>."
+
+msgctxt "8436_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "8496_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "8508_Minamida"
+msgid ""
+"You seem to have enhanced an ability. This should give us some excellent "
+"data."
+msgstr ""
+"Sembra che tu abbia potenziato un'abilità. Questo dovrebbe darci degli "
+"ottimi dati."
+
+msgctxt "8532_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "8544_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "8556_Minamida"
+msgid "You've earned a Soul Orb thanks to the new version I built."
+msgstr ""
+"Hai ottenuto una Sfera dell'Anima grazie alla nuova versione che ho "
+"costruito."
+
+msgctxt "8580_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "8592_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "8604_Minamida"
+msgid ""
+"Your abilities can't be enhanced any further. Here's a prize for your "
+"trouble instead."
+msgstr ""
+"Le tue abilità non possono essere potenziate ulteriormente. Ecco un premio "
+"per il tuo disturbo, piuttosto."
+
+msgctxt "8616_Minamida"
+msgid ""
+"This version of IF8 can't raise your abilities any further. Here's a prize "
+"for your trouble instead."
+msgstr ""
+"Questa versione di IF8 non può potenziare le tue abilità ulteriormente. Ecco"
+" un premio per il tuo disturbo, piuttosto."
+
+msgctxt "8736_Player"
+msgid "You got a <Color:8>Snowman Hammer<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Martello del Pupazzo di Neve<Color:Default>."
+
+msgctxt "8772_Player"
+msgid "You got a <Color:8>Gravity Converter<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Convertitore di gravità<Color:Default>."
+
+msgctxt "8808_Player"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Staminan Royale<Color:Default>."
+
+msgctxt "8844_Player"
+msgid "You got a <Color:8>Mystery Liquid<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Liquido Misterioso<Color:Default>."
+
+msgctxt "8880_Player"
+msgid "You got a <Color:8>Small Motor<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Piccolo motore<Color:Default>."
+
+msgctxt "8916_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "8976_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "8988_Minamida"
+msgid ""
+"You seem to have enhanced an ability. This should give us some excellent "
+"data."
+msgstr ""
+"Sembra che tu abbia potenziato un'abilità. Questo dovrebbe fornirci degli "
+"ottimi dati."
+
+msgctxt "9012_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "9024_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "9036_Minamida"
+msgid "You've earned a Soul Orb thanks to the new version I built."
+msgstr ""
+"Hai ottenuto una Sfera dell'Anima grazie alla nuova versione che ho "
+"costruito."
+
+msgctxt "9060_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."
+
+msgctxt "9072_Minamida"
+msgid "I see you've won. Well, congratulations."
+msgstr "Vedo che hai vinto. Beh, congratulazioni."
+
+msgctxt "9084_Minamida"
+msgid ""
+"Your abilities can't be enhanced any further. Here's a prize for your "
+"trouble instead."
+msgstr ""
+"Le tue abilità non possono più essere potenziate. Invece, ecco un premio per"
+" la tua fatica."
+
+msgctxt "9096_Minamida"
+msgid ""
+"This version of IF8 can't raise your abilities any further. Here's a prize "
+"for your trouble instead."
+msgstr ""
+"Questa versione di IF8 non può più potenziare le tue abilità. Invece, ecco "
+"un premio per la tua fatica."
+
+msgctxt "9216_Player"
+msgid "You got a <Color:8>Snowman Hammer<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Martello del Pupazzo di Neve<Color:Default>."
+
+msgctxt "9252_Player"
+msgid "You got a <Color:8>Gravity Converter<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Convertitore di gravità<Color:Default>."
+
+msgctxt "9288_Player"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Staminan Royale<Color:Default>."
+
+msgctxt "9324_Player"
+msgid "You got a <Color:8>Mystery Liquid<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Liquido Misterioso<Color:Default>."
+
+msgctxt "9360_Player"
+msgid "You got a <Color:8>Small Motor<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Piccolo motore<Color:Default>."
+
+msgctxt "9396_Minamida"
+msgid "Come again soon. I'll be waiting for your return."
+msgstr "Fatti rivedere presto. Aspetterò il tuo ritorno."

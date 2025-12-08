@@ -1,0 +1,37 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "568"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "572"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "92_Player"
+msgid "(I don't need to be here right now.)"
+msgstr "(Non dovrei proprio essere qui, adesso.)"
+
+msgctxt "104_Akiyama"
+msgid ""
+"(The bartender isn't here. He said to meet him in\r\n"
+"Shofukucho's parking lot.)"
+msgstr ""
+"(Il barista non c'è. Mi ha detto di incontrarlo nel\n"
+"parcheggio di Shofukucho.)"
+
+msgctxt "116_Akiyama"
+msgid "(I should just see what happens for now.)"
+msgstr "(Dovrei solo vedere che succede, per adesso.)"

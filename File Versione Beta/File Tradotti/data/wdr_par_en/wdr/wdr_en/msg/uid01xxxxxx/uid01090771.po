@@ -1,0 +1,97 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "4824"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "4828"
+msgid "Cage Trap"
+msgstr "Trappola a gabbia"
+
+msgctxt "4832"
+msgid "Cancel"
+msgstr "Annulla"
+
+msgctxt "4836"
+msgid "Leghold Trap"
+msgstr "Trappola per gamba"
+
+msgctxt "4840"
+msgid "Snare"
+msgstr "Laccio"
+
+msgctxt "4844"
+msgid "SS2_P_HNT_set_trap"
+msgstr "SS2_P_HNT_set_trap"
+
+msgctxt "128_Player"
+msgid "(Got no traps to set.)"
+msgstr "(Non ho trappole da piazzare.)"
+
+msgctxt "140_Player"
+msgid "(Should I set a trap here?)"
+msgstr "(Dovrei piazzare una trappola qui?)"
+
+msgctxt "152_Player"
+msgid "(Should I set a trap here?)"
+msgstr "(Dovrei piazzare una trappola qui?)"
+
+msgctxt "164_Player"
+msgid "(Should I set a trap here?)"
+msgstr "(Dovrei piazzare una trappola qui?)"
+
+msgctxt "176_Player"
+msgid "(Should I set a trap here?)"
+msgstr "(Dovrei piazzare una trappola qui?)"
+
+msgctxt "188_Player"
+msgid "(Should I set a trap here?)"
+msgstr "(Dovrei piazzare una trappola qui?)"
+
+msgctxt "200_Player"
+msgid "(Should I set a trap here?)"
+msgstr "(Dovrei piazzare una trappola qui?)"
+
+msgctxt "212_Player"
+msgid "(Should I set a trap here?)"
+msgstr "(Dovrei piazzare una trappola qui?)"
+
+msgctxt "224_Player"
+msgid "Yeah, let's set a snare here."
+msgstr "Sì, dai, piazziamo un laccio qui."
+
+msgctxt "296_Player"
+msgid "This'll do."
+msgstr "Va bene così."
+
+msgctxt "308_Player"
+msgid "Okay, let's set a cage trap."
+msgstr "Ok, dai, piazziamo una trappola a gabbia."
+
+msgctxt "380_Player"
+msgid "This'll do."
+msgstr "Va bene così."
+
+msgctxt "392_Player"
+msgid "Okay, let's set a leghold trap."
+msgstr "Ok, dai, piazziamo una tagliola."
+
+msgctxt "464_Player"
+msgid "This'll do."
+msgstr "Va bene così."
+
+msgctxt "476_Player"
+msgid "(Maybe not here.)"
+msgstr "(Magari non qui.)"

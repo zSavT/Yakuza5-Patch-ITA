@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1496"
+msgid "Shion"
+msgstr "Shion"
+
+msgctxt "1504"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "44_Shion"
+msgid "Hello. %s-san? This is Shion."
+msgstr "Ciao. %s-san? Sono Shion."
+
+msgctxt "56_Player"
+msgid "Shion-chan! What's going on? Is everything okay?"
+msgstr "Shion-chan! Che succede? Va tutto bene?"
+
+msgctxt "68_Shion"
+msgid ""
+"I just felt like seeing you, Shinada-san. Would you care to go on a date "
+"now?"
+msgstr "Mi andava di vederti, Shinada-san. Ti andrebbe di uscire adesso?"
+
+msgctxt "80_Player"
+msgid "A date!? Absolutely!"
+msgstr "Un appuntamento!? Certo che sì!"
+
+msgctxt "92_Shion"
+msgid ""
+"Wonderful! Okay then, I'll be waiting for you at <Color:255,200,200,255>the "
+"base of the TV Tower<Color:Default>."
+msgstr ""
+"Fantastico! Va bene, allora, ti aspetterò <Color:255,200,200,255>alla base "
+"della Torre della TV<Color:Default>."
+
+msgctxt "104_Player"
+msgid "Under the TV Tower! Got it! I'll be right there!"
+msgstr "Sotto la Torre della TV! Capito! Arrivo subito!"
+
+msgctxt "116_Shion"
+msgid "Don't keep me waiting too long. Please come! <Color:7>♥<Color:Default>"
+msgstr ""
+"Non farmi aspettare troppo a lungo. Ti prego, vieni! "
+"<Color:7>♥<Color:Default>"

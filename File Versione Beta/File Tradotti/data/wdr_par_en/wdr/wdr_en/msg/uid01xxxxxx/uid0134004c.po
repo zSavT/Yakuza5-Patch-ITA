@@ -1,0 +1,56 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1380"
+msgid "Riku"
+msgstr "Riku"
+
+msgctxt "1388"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "44_Riku"
+msgid "Hey there. %s-san? It's Riku."
+msgstr "Ehi. %s-san? Sono Riku."
+
+msgctxt "56_Player"
+msgid "Riku? What's up?"
+msgstr "Riku? Che c'è?"
+
+msgctxt "68_Riku"
+msgid "If y'got the time now, wanna go on a date?"
+msgstr "Se hai tempo adesso, ti va di uscire?"
+
+msgctxt "80_Player"
+msgid "A date? Sure, I don't mind."
+msgstr "Un appuntamento? Certo, mi va."
+
+msgctxt "92_Riku"
+msgid ""
+"I'll be waitin' at the <Color:255,200,200,255>police box near the central "
+"intersection on Nagasu Boulevard.<Color:Default>"
+msgstr ""
+"Ti aspetto alla <Color:255,200,200,255>cabina della polizia vicino "
+"all'incrocio centrale su Nagasu Boulevard.<Color:Default>"
+
+msgctxt "104_Player"
+msgid ""
+"The police box near the central intersection on Nagasu Boulevard. Got it."
+msgstr ""
+"La cabina della polizia vicino all'incrocio centrale su Nagasu Boulevard. "
+"Capito."
+
+msgctxt "116_Riku"
+msgid "I'll be waitin'! Make sure y'come! <Color:7>♥<Color:Default>"
+msgstr "Ti aspetto! Non mancare! <Color:7>♥<Color:Default>"

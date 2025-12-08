@@ -1,0 +1,61 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2072"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "2076"
+msgid "Pick Up Trap"
+msgstr "Raccogli Trappola"
+
+msgctxt "2080"
+msgid "Cancel"
+msgstr "Annulla"
+
+msgctxt "2084"
+msgid "SS2_P_HNT_set_trap"
+msgstr "SS2_P_HNT_set_trap"
+
+msgctxt "60_Player"
+msgid "(Nice. Caught a rabbit.)"
+msgstr "(Bello. Ho catturato un coniglio.)"
+
+msgctxt "72_Player"
+msgid "(Let's pull this trap.)"
+msgstr "(Raccogliamo questa trappola.)"
+
+msgctxt "144_Player"
+msgid "I'm grateful."
+msgstr "Sono grato."
+
+msgctxt "168_Player"
+msgid "(I'll come back for this later.)"
+msgstr "(Ci torno dopo.)"
+
+msgctxt "180_Player"
+msgid "(Somethin' got caught.)"
+msgstr "(Qualcosa è rimasto preso.)"
+
+msgctxt "192_Player"
+msgid "(Let's pull this trap.)"
+msgstr "(Raccogliamo questa trappola.)"
+
+msgctxt "264_Player"
+msgid "I'm grateful."
+msgstr "Sono grato."
+
+msgctxt "276_Player"
+msgid "(I'll come back for this later.)"
+msgstr "(Ci torno dopo.)"

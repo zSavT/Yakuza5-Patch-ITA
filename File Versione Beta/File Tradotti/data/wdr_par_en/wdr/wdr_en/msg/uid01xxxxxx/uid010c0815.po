@@ -1,0 +1,90 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "176"
+msgid "You got 600 experience points."
+msgstr "Hai guadagnato 600 punti esperienza."
+
+msgctxt "2400"
+msgid "Mother"
+msgstr "Madre"
+
+msgctxt "2404"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "2408"
+msgid "Child"
+msgstr "Bambino"
+
+msgctxt "2412"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "2416"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "2420"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2424"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "2428"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "2432"
+msgid "0"
+msgstr "0"
+
+msgctxt "56_Mother"
+msgid "Thank you."
+msgstr "Grazie."
+
+msgctxt "68_Mother"
+msgid "What a nice man!"
+msgstr "Che uomo perbene!"
+
+msgctxt "80_Mother"
+msgid "We felt safe with you behind the wheel."
+msgstr "Ci siamo sentiti al sicuro con lei al volante."
+
+msgctxt "92_Kiryu"
+msgid "(It seems they enjoyed the ride.)"
+msgstr "Sembra che abbiano gradito la corsa."
+
+msgctxt "104_Mother"
+msgid "Thank you. Sorry about this little blabbermouth."
+msgstr "Grazie. Mi scusi per questo piccolo chiacchierone."
+
+msgctxt "116_Kiryu"
+msgid "Not at all. Hope to see you again."
+msgstr "Prego. Spero di rivederla presto."
+
+msgctxt "128_Mother"
+msgid "Can't you see I'm with a child here!? You need to be more considerate!"
+msgstr ""
+"Ma non lo vedi che sono con un bambino qui!? Devi essere più premuroso!"
+
+msgctxt "140_Kiryu"
+msgid ""
+"(They don't exactly seem thrilled with their service. I'll have to be more "
+"careful.)"
+msgstr ""
+"(Non sembrano esattamente entusiasti del servizio. Dovrò farci più "
+"attenzione.)"

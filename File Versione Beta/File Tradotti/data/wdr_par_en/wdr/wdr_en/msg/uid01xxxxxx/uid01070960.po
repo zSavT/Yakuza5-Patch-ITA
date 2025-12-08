@@ -1,0 +1,107 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2972"
+msgid "Sleazy Nao"
+msgstr "Nao il Viscido"
+
+msgctxt "380_Sleazy Nao"
+msgid "First, we pick the banker."
+msgstr "Per prima cosa, scegliamo il banco."
+
+msgctxt "392_Sleazy Nao"
+msgid "So I'm the banker, right?"
+msgstr "Allora, sono io il banchiere, no?"
+
+msgctxt "404_Sleazy Nao"
+msgid "How much will you bet?"
+msgstr "Quanto vuoi puntare?"
+
+msgctxt "416_Sleazy Nao"
+msgid "Ready to get started?"
+msgstr "Pronto per iniziare?"
+
+msgctxt "428_Sleazy Nao"
+msgid "It's my turn, right?"
+msgstr "Tocca a me, giusto?"
+
+msgctxt "440_Sleazy Nao"
+msgid "(This line should not appear.)"
+msgstr "(Questa riga non dovrebbe apparire.)"
+
+msgctxt "452_Sleazy Nao"
+msgid "Can we settle the bets now?"
+msgstr "Possiamo sistemare le puntate, adesso?"
+
+msgctxt "464_Sleazy Nao"
+msgid "You're the banker."
+msgstr "Sei il banchiere."
+
+msgctxt "476_Sleazy Nao"
+msgid "Now we change the banker, right?"
+msgstr "Adesso cambiamo il banchiere, no?"
+
+msgctxt "488_Sleazy Nao"
+msgid "Would you like to play again?"
+msgstr "Vuoi giocare di nuovo?"
+
+msgctxt "500_Sleazy Nao"
+msgid "Oh, no, I'm broke... You mind if I head home?"
+msgstr "Oh, no, sono al verde... Ti dispiace se me ne vado a casa?"
+
+msgctxt "512_Sleazy Nao"
+msgid "You're out of money, right? Can you come back when you get some more?"
+msgstr ""
+"Non hai più un soldo, vero?\n"
+"Torna quando avrai di nuovo la grana."
+
+msgctxt "524_Sleazy Nao"
+msgid "Banker's Bet-Settling Messages"
+msgstr "Messaggi del banchiere per sistemare le puntate"
+
+msgctxt "536_Sleazy Nao"
+msgid "A banker rolling 1-3-5 receives a 3."
+msgstr "Un banchiere che tira 1-3-5 ottiene un 3."
+
+msgctxt "548_Sleazy Nao"
+msgid "A 1-3-5 by the first player receives a 3."
+msgstr "Un 1-3-5 tirato dal primo giocatore ottiene un 3."
+
+msgctxt "560_Sleazy Nao"
+msgid "A 1-3-5 becomes whatever the preceding player rolled."
+msgstr "Un 1-3-5 diventa ciò che ha tirato il giocatore precedente."
+
+msgctxt "572_Sleazy Nao"
+msgid "A banker rolling 2-4-6 receives a 4."
+msgstr "Un banchiere che tira 2-4-6 ottiene un 4."
+
+msgctxt "584_Sleazy Nao"
+msgid "A 2-4-6 roll becomes whatever the next player rolls."
+msgstr "Un 2-4-6 diventa ciò che tira il giocatore successivo."
+
+msgctxt "596_Sleazy Nao"
+msgid "A 2-4-6 by the last player receives a 4."
+msgstr "Un 2-4-6 tirato dall'ultimo giocatore ottiene un 4."
+
+msgctxt "608_Sleazy Nao"
+msgid "A 2-4-6 roll gets the last player's roll!"
+msgstr "Un 2-4-6 diventa ciò che ha tirato il giocatore precedente!"
+
+msgctxt "620_Sleazy Nao"
+msgid "A 1-3-5 was rolled after a 2-4-6."
+msgstr "Un 1-3-5 è stato tirato dopo un 2-4-6."
+
+msgctxt "632_Sleazy Nao"
+msgid "Wow, a 6-3-4..."
+msgstr "Wow, un 6-3-4..."

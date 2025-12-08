@@ -1,0 +1,153 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "6080"
+msgid "Employee"
+msgstr "Cameriere"
+
+msgctxt "6084"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "6088"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "6092"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "6096"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "6100"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "6104"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "6108"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "6112"
+msgid "P_TLK_sitchr_kamae"
+msgstr "P_TLK_sitchr_kamae"
+
+msgctxt "6116"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "6120"
+msgid "0"
+msgstr "0"
+
+msgctxt "6124"
+msgid "Idle"
+msgstr "Inattivo"
+
+msgctxt "6128"
+msgid "P_TLK_sitchr_no"
+msgstr "P_TLK_sitchr_no"
+
+msgctxt "6132"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "44_Employee"
+msgid "Oh, hello! Right this way, please."
+msgstr "Oh, salve! Di qua, prego."
+
+msgctxt "92_Kiryu"
+msgid "(I don't need to eat now.)"
+msgstr "(Non ho bisogno di mangiare ora.)"
+
+msgctxt "104_Akiyama"
+msgid "(I'm not hungry.)"
+msgstr "(Non ho fame.)"
+
+msgctxt "116_Saejima"
+msgid "(I'm full for now.)"
+msgstr "(Sono sazio per ora.)"
+
+msgctxt "128_Shinada"
+msgid "(It's tempting, but I'm stuffed.)"
+msgstr "(È allettante, ma sono sazio.)"
+
+msgctxt "140_Haruka"
+msgid "(I'm full.)"
+msgstr "(Sono sazio.)"
+
+msgctxt "164_Player"
+msgid "(I'm out of cash.)"
+msgstr "(Sono senza soldi.)"
+
+msgctxt "200_Kiryu"
+msgid "Sorry, I have to run."
+msgstr "Scusa, devo scappare."
+
+msgctxt "212_Akiyama"
+msgid "Sorry, I forgot an urgent piece of business."
+msgstr "Scusa, ho dimenticato un affare urgente."
+
+msgctxt "224_Saejima"
+msgid "Sorry, gotta go."
+msgstr "Scusa, devo scappare."
+
+msgctxt "236_Shinada"
+msgid "Oh, sorry! I have to run."
+msgstr "Oh, scusa! Devo scappare."
+
+msgctxt "248_Haruka"
+msgid "I'm so sorry. Something came up."
+msgstr "Mi dispiace tanto. È successo qualcosa."
+
+msgctxt "260_Employee"
+msgid "All right. Please do come again."
+msgstr "Va bene. Torni a trovarci."
+
+msgctxt "368_Employee"
+msgid "May I take your order?"
+msgstr "Posso prendere la sua ordinazione?"
+
+msgctxt "392_Employee"
+msgid "What would you like to eat?"
+msgstr "Cosa ti piacerebbe mangiare?"
+
+msgctxt "440_Employee"
+msgid "Here is your check. Thank you very much."
+msgstr "Ecco il suo conto. Grazie mille."
+
+msgctxt "476_Employee"
+msgid "What would you like to eat?"
+msgstr "Cosa ti piacerebbe mangiare?"
+
+msgctxt "524_Saejima"
+msgid "(Well, maybe I oughta eat somethin' and savor the moment.)"
+msgstr "(Beh, forse dovrei mangiare qualcosa e godermi il momento.)"
+
+msgctxt "536_Employee"
+msgid "Sorry, just remembered I got something to do first."
+msgstr "Scusa, mi è appena tornato in mente che devo fare una cosa prima."
+
+msgctxt "548_Employee"
+msgid "I see. Well, please come again."
+msgstr "Capisco. Beh, torni pure."
+
+msgctxt "596_Employee"
+msgid "Thank you very much. We hope to see you again soon."
+msgstr "Grazie mille. Speriamo di rivederla presto."

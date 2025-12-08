@@ -1,0 +1,67 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1544"
+msgid "Okudera"
+msgstr "Okudera"
+
+msgctxt "1548"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "1552"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "1556"
+msgid "Locating Trap Sites"
+msgstr "Individuare i Siti per le Trappole"
+
+msgctxt "1560"
+msgid "Setting Traps"
+msgstr "Piazzare Trappole"
+
+msgctxt "72_Okudera"
+msgid "Saejima－over there!"
+msgstr "Saejima—laggiù!"
+
+msgctxt "84_Saejima"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "108_Okudera"
+msgid ""
+"That's a trap site. There are many like it on the mountain. You just have to"
+" find them and set up traps on them."
+msgstr ""
+"Quello è un sito per le trappole. Ce ne sono tanti come quello sulla "
+"montagna. Ti basta trovarli e piazzarci su le trappole."
+
+msgctxt "120_Locating Trap Sites"
+msgid "Any trap sites you find will be automatically marked on the map."
+msgstr ""
+"Qualsiasi sito per le trappole che trovi verrà automaticamente segnato sulla"
+" mappa."
+
+msgctxt "132_Okudera"
+msgid "Go ahead and set up a snare."
+msgstr "Forza, piazza una trappola a laccio."
+
+msgctxt "144_Saejima"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "156_Setting Traps"
+msgid "The first step is to walk up close to a trap site."
+msgstr "Il primo passo è avvicinarsi a un sito per le trappole."

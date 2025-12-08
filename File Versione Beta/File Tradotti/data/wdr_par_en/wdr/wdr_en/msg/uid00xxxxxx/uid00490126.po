@@ -1,0 +1,484 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "15024"
+msgid "Inebriated Man"
+msgstr "Uomo ubriaco"
+
+msgctxt "15028"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "15032"
+msgid "P_SAE_TLK_sitcnt_kamae"
+msgstr "P_SAE_TLK_sitcnt_kamae"
+
+msgctxt "15036"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "15040"
+msgid "P_SAE_TLK_sitcnt_no"
+msgstr "P_SAE_TLK_sitcnt_no"
+
+msgctxt "15044"
+msgid "P_SAE_TLK_sitcnt_yes"
+msgstr "P_SAE_TLK_sitcnt_yes"
+
+msgctxt "15048"
+msgid "M_NML_TLK_sitcnt_yes"
+msgstr "M_NML_TLK_sitcnt_yes"
+
+msgctxt "15052"
+msgid "Araseki"
+msgstr "Araseki"
+
+msgctxt "15056"
+msgid "kaiwabgm_subloneliness"
+msgstr "kaiwabgm_subloneliness"
+
+msgctxt "15060"
+msgid "M_NML_TLK_sitcnt_gakkari"
+msgstr "M_NML_TLK_sitcnt_gakkari"
+
+msgctxt "15064"
+msgid "M_NML_SET_sitcnt_sleep"
+msgstr "M_NML_SET_sitcnt_sleep"
+
+msgctxt "15068"
+msgid "Bartender"
+msgstr "Barista"
+
+msgctxt "15072"
+msgid "P_SAE_TLK_sitcnt_gakkari"
+msgstr "P_SAE_TLK_sitcnt_gakkari"
+
+msgctxt "15076"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "15080"
+msgid "M_NML_TLK_sitcnt_kamae"
+msgstr "M_NML_TLK_sitcnt_kamae"
+
+msgctxt "15084"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "15088"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "15092"
+msgid "M_NML_TLK_sitcnt_smile"
+msgstr "M_NML_TLK_sitcnt_smile"
+
+msgctxt "15096"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "15100"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "15104"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "108_Inebriated Man"
+msgid "Huh? You want something?"
+msgstr "Eh? Vuoi qualcosa?"
+
+msgctxt "120_Saejima"
+msgid "(He looks pretty down on somethin'... Maybe I oughta hear his story?)"
+msgstr ""
+"(Sembra parecchio a terra per qualcosa... Forse dovrei sentire la sua "
+"storia?)"
+
+msgctxt "132_Saejima"
+msgid "Say, what's makin' ya drink like that?"
+msgstr "Senti, che ti fa bere così?"
+
+msgctxt "144_Inebriated Man"
+msgid "What's it to you? Every man needs a drink now and then."
+msgstr "E a te che te ne frega? Ogni uomo ha bisogno di un goccio ogni tanto."
+
+msgctxt "156_Saejima"
+msgid ""
+"There's a proper way to drink. And it ain't no way to lift your spirits."
+msgstr "C'è un modo giusto di bere. E di certo non è per tirarsi su."
+
+msgctxt "168_Inebriated Man"
+msgid "What happened? You really want to know?"
+msgstr "Cos'è successo? Vuoi proprio saperlo?"
+
+msgctxt "180_Saejima"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "192_Inebriated Man"
+msgid "*sigh*"
+msgstr "*sospiro*"
+
+msgctxt "204_Inebriated Man"
+msgid ""
+"Nothing happened. I'm just not much use anymore. So what else is there for "
+"me to do but drink?"
+msgstr ""
+"Non è successo niente. Non servo più a niente. E allora che mi resta da fare"
+" se non bere?"
+
+msgctxt "216_Saejima"
+msgid " What, ya lose your job or somethin'?"
+msgstr "Che, hai perso il lavoro o roba simile?"
+
+msgctxt "228_Inebriated Man"
+msgid "No."
+msgstr "No."
+
+msgctxt "240_Inebriated Man"
+msgid ""
+"But I might as well have. A perp I'd been chasing for years suddenly went "
+"poof."
+msgstr ""
+"Ma è come se l'avessi perso. Un delinquente a cui davo la caccia da anni è "
+"sparito nel nulla."
+
+msgctxt "252_Saejima"
+msgid "Perp? Are you a detective?"
+msgstr "Un delinquente? Sei un detective?"
+
+msgctxt "264_Inebriated Man"
+msgid ""
+"That I am. Detective Araseki of the Tsukimino Police Department, at your "
+"service."
+msgstr ""
+"Lo sono. Detective Araseki del Dipartimento di Polizia di Tsukimino, al suo "
+"servizio."
+
+msgctxt "276_Saejima"
+msgid "(Aw, shit.)"
+msgstr "(Ah, merda.)"
+
+msgctxt "288_Araseki"
+msgid ""
+"What do you look so surprised for? A detective can't enjoy a drink on his "
+"own time?"
+msgstr ""
+"Perché hai quell'aria così sorpresa? Un detective non può godersi un drink "
+"nel suo tempo libero?"
+
+msgctxt "300_Saejima"
+msgid "Uh, no, 'course you can."
+msgstr "Uhm, no, certo che puoi."
+
+msgctxt "312_Saejima"
+msgid ""
+"(Guess he hasn't cottoned onto me bein' a wanted man. No surprise "
+"considerin' how wasted he is.)"
+msgstr ""
+"(Immagino non abbia sgamato che sono un ricercato. Nessuna sorpresa, "
+"considerando quanto è a pezzi.)"
+
+msgctxt "324_Araseki"
+msgid ""
+"Thirty-five years, I've been a detective. And for most of it, I've been "
+"after this one perp."
+msgstr ""
+"Sono detective da trentacinque anni. E per quasi tutto questo tempo, ho dato"
+" la caccia a questo delinquente."
+
+msgctxt "336_Araseki"
+msgid "Catching him came to be my purpose in life."
+msgstr "Catturarlo è diventato il mio scopo nella vita."
+
+msgctxt "348_Saejima"
+msgid "Thirty-five years? That's a long time."
+msgstr "Trentacinque anni? È tanto tempo."
+
+msgctxt "360_Araseki"
+msgid ""
+"You bet. I knew his habits so well, I could predict his next heist to the "
+"day."
+msgstr ""
+"Eccome. Le sue abitudini le conoscevo così bene, che potevo prevedere la sua"
+" prossima rapina al giorno esatto."
+
+msgctxt "372_Araseki"
+msgid ""
+"So on one of those days, I tailed him. I was sure it was finally going to "
+"happen... I was going to catch him red-handed."
+msgstr ""
+"Così, in uno di quei giorni, l'ho pedinato. Ero sicuro che finalmente "
+"sarebbe successo... L'avrei preso con le mani nel sacco."
+
+msgctxt "384_Araseki"
+msgid "But right before my eyes, the unthinkable happened."
+msgstr "Ma proprio davanti ai miei occhi, è successo l'impensabile."
+
+msgctxt "396_Saejima"
+msgid "The unthinkable?"
+msgstr "L'impensabile?"
+
+msgctxt "408_Araseki"
+msgid "Yeah. The bastard went somewhere I could never get him."
+msgstr ""
+"Già. Il bastardo è finito in un posto dove non avrei mai potuto prenderlo."
+
+msgctxt "420_Saejima"
+msgid "(He had everything riding on this, seriously?)"
+msgstr "(Si era giocato tutto su questo, sul serio?)"
+
+msgctxt "432_Araseki"
+msgid ""
+"I was this close to fulfilling my dream. But after 35 years, it just... "
+"slipped through my fingers."
+msgstr ""
+"Ero a un passo dal realizzare il mio sogno. Ma dopo trentacinque anni, "
+"semplicemente... mi è scivolato tra le dita."
+
+msgctxt "444_Araseki"
+msgid ""
+"Now here I am, facing retirement. My career's going to end without me ever "
+"accomplishing a damn thing."
+msgstr ""
+"Ed eccomi qui, alla soglia della pensione. La mia carriera finirà senza aver"
+" mai realizzato un bel niente."
+
+msgctxt "456_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "468_Araseki"
+msgid ""
+"So, you get it now? Don't bother this loser for sobbing into a drink. It's "
+"all I have."
+msgstr ""
+"Allora, hai capito adesso? Non scocciare questo sfigato perché sta piangendo"
+" nel drink. È tutto quello che ho."
+
+msgctxt "480_Saejima"
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgctxt "492_Saejima"
+msgid "Araseki-han, was it?"
+msgstr "Araseki-han, giusto?"
+
+msgctxt "504_Araseki"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "516_Saejima"
+msgid ""
+"Araseki-han, tell me this. If you coulda caught that one perp, would ya "
+"really all of a sudden be satisfied with your whole career?"
+msgstr ""
+"Araseki-han, dimmi una cosa. Se fossi riuscito a prendere quel tizio, "
+"saresti davvero, così di punto in bianco, stato soddisfatto di tutta la tua "
+"carriera?"
+
+msgctxt "528_Araseki"
+msgid "Damn right! Something wrong with that?"
+msgstr "Certo che sì! C'è qualcosa che non va?"
+
+msgctxt "540_Saejima"
+msgid "...So petty."
+msgstr "...Così meschino."
+
+msgctxt "552_Araseki"
+msgid "What did you say!?"
+msgstr "Che hai detto!?"
+
+msgctxt "564_Araseki"
+msgid ""
+"What the hell do you know? I banked everything on nailing that bastard!"
+msgstr "Che cazzo ne sai? Ho puntato tutto sull'inchiodare quel bastardo!"
+
+msgctxt "576_Araseki"
+msgid ""
+"Obviously, you're not a man of ambition. If you were, you'd understand what "
+"it feels like to have your dream crushed!"
+msgstr ""
+"Evidentemente, non sei un uomo d'ambizione. Se lo fossi, capiresti cosa si "
+"prova ad avere il tuo sogno infranto!"
+
+msgctxt "588_Saejima"
+msgid "My dream..."
+msgstr "Il mio sogno..."
+
+msgctxt "600_Araseki"
+msgid "Yeah. Your dream."
+msgstr "Sì. Il tuo sogno."
+
+msgctxt "612_Saejima"
+msgid "I have one."
+msgstr "Ne ho uno."
+
+msgctxt "624_Saejima"
+msgid ""
+"My dream is to work with my brother, and together make the Tojo Clan strong "
+"again."
+msgstr ""
+"Il mio sogno è lavorare con mio fratello, e insieme rendere di nuovo forte "
+"il Clan Tojo."
+
+msgctxt "636_Saejima"
+msgid "...Uh, that <Italic>was</Italic> my dream. But not now..."
+msgstr "...Uh, quello <Italic>era</Italic> il mio sogno. Ma non adesso..."
+
+msgctxt "648_Saejima"
+msgid ""
+"See, uh, that Tojo Clan I mentioned, it's a neighborhood baseball club. We "
+"used to be really good, y'know?"
+msgstr ""
+"Vedi, uh, quel Clan Tojo di cui parlavo, è un club di baseball del "
+"quartiere. Eravamo davvero forti, sai?"
+
+msgctxt "660_Araseki"
+msgid "Zzzzz..."
+msgstr "Zzzzz..."
+
+msgctxt "672_Saejima"
+msgid "Oh, good. He's asleep."
+msgstr "Oh, bene. Dorme."
+
+msgctxt "684_Bartender"
+msgid "This is a problem. I have to close up soon."
+msgstr "Questo è un problema. Devo chiudere presto."
+
+msgctxt "696_Saejima"
+msgid "I'll take him outta here and find 'im a taxi."
+msgstr "Lo porterò fuori di qui e gli trovo un taxi."
+
+msgctxt "708_Bartender"
+msgid "Oh, thank you. That is very helpful of you."
+msgstr "Oh, grazie. Mi sei di grande aiuto."
+
+msgctxt "720_Saejima"
+msgid "No problem. C'mon, Araseki-han, time to go."
+msgstr "Nessun problema. Dai, Araseki-han, è ora di andare."
+
+msgctxt "732_Araseki"
+msgid "Nng... Wha...?"
+msgstr "Nng... Che...?"
+
+msgctxt "768_Inebriated Man"
+msgid "Hold up!"
+msgstr "Ferma!"
+
+msgctxt "780_Saejima"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "792_Inebriated Man"
+msgid "You, uh, you are..."
+msgstr "Tu, uh, sei..."
+
+msgctxt "804_Saejima"
+msgid "(Oh no...)"
+msgstr "(Oh cavolo...)"
+
+msgctxt "816_Inebriated Man"
+msgid "Forgetting your phone."
+msgstr "Dimenticare il tuo telefono."
+
+msgctxt "828_Saejima"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "840_Saejima"
+msgid "No, got mine on me. Must be someone else's."
+msgstr "No, il mio ce l'ho. Dev'essere di qualcun altro."
+
+msgctxt "852_Inebriated Man"
+msgid ""
+"Oh. Yeah, it probably belongs to someone who got too drunk... That's just "
+"such a careless thing to do, you know? *hic*"
+msgstr ""
+"Oh. Sì, probabilmente è di qualcuno che si è ubriacato troppo... È proprio "
+"una cosa da sbadati, sai? *hic*"
+
+msgctxt "864_Inebriated Man"
+msgid ""
+"Somebody will steal it. Bad people are all over the place, you know. Not all"
+" of them get caught, that's for sure. *hic*"
+msgstr ""
+"Qualcuno lo ruberà. È pieno di brutta gente, sai? Non li beccano mica tutti,"
+" è sicuro. *hic*"
+
+msgctxt "876_Saejima"
+msgid "Sounds like you're well into the bottle yourself."
+msgstr "Sembra che tu ci stia dando dentro con la bottiglia anche tu."
+
+msgctxt "888_Inebriated Man"
+msgid ""
+"Huh? Well... it doesn't matter if a loser like me gets careless. Nobody "
+"would give a shit."
+msgstr ""
+"Uh? Beh... non importa se uno sfigato come me è sbadato. A nessuno "
+"importerebbe un cazzo."
+
+msgctxt "900_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "912_Saejima"
+msgid "(He looks pretty down on somethin'... Maybe I oughta hear his story?)"
+msgstr ""
+"(Sembra piuttosto giù per qualcosa... Forse dovrei ascoltare la sua storia?)"
+
+msgctxt "936_Inebriated Man"
+msgid "Shit... this is what it's all come to. *hic*"
+msgstr "Merda... è a questo che si è ridotto tutto. *hic*"
+
+msgctxt "948_Inebriated Man"
+msgid "Hey, barkeep, hit me with another."
+msgstr "Ehi, barista, dammene un altro."
+
+msgctxt "960_Bartender"
+msgid "Araseki-san, maybe that's enough..."
+msgstr "Araseki-san, forse basta così..."
+
+msgctxt "972_Inebriated Man"
+msgid "Oh, come on now. You'd want to drink, too, if you were me."
+msgstr "Ma dai, su. Vorresti bere anche tu, se fossi in me."
+
+msgctxt "984_Bartender"
+msgid "It's too much. It's not good for you."
+msgstr "È troppo. Non ti fa bene."
+
+msgctxt "996_Inebriated Man"
+msgid "Not to worry, my man. The next one's it. Last one, I swear."
+msgstr "Non preoccuparti, amico. Il prossimo è l'ultimo. L'ultimo, lo giuro."
+
+msgctxt "1008_Bartender"
+msgid "You promise? Okay, just one more."
+msgstr "Lo prometti? Va bene, solo un altro."
+
+msgctxt "1020_Inebriated Man"
+msgid ""
+"Myyy hero! You are a cham-peee-yon! That's why you're on that side of the "
+"bar... and a loser like me's getting tipsy on this side!"
+msgstr ""
+"Miooo eroe! Sei un campioooone! Ecco perché tu sei da quella parte del "
+"bancone... e uno sfigato come me si sta sbronzando da questa!"
+
+msgctxt "1032_Bartender"
+msgid "M-hm..."
+msgstr "M-hm..."
+
+msgctxt "1044_Saejima"
+msgid "(The man's way past tipsy. Best to stay away.)"
+msgstr "(L'uomo è decisamente sbronzo. Meglio stargli alla larga.)"

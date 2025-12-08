@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1116"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "1120"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "1124"
+msgid "Female Passenger"
+msgstr "Passeggera"
+
+msgctxt "1128"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "1132"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1136"
+msgid "0"
+msgstr "0"
+
+msgctxt "44_Kiryu"
+msgid "I'm from Nagasu Taxi. Sorry for the wait."
+msgstr "Sono di Nagasu Taxi. Mi scusi per l'attesa."
+
+msgctxt "56_Female Passenger"
+msgid ""
+"Let me in! I need you to take me to a client, and fast! I'll navigate while "
+"you drive!"
+msgstr ""
+"Mi faccia salire! Devo andare da un cliente, e subito! Le indico io la "
+"strada mentre guida!"
+
+msgctxt "68_Kiryu"
+msgid "(Looks like she's in a hurry.)"
+msgstr "(Sembra che sia di fretta.)"
+
+msgctxt "80_Kiryu"
+msgid "Understood. Let's go."
+msgstr "Capito. Andiamo."

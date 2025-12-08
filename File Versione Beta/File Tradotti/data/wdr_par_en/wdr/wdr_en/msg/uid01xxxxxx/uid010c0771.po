@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1308"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "1312"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "1316"
+msgid "Older Gentleman"
+msgstr "Anziano signore"
+
+msgctxt "1320"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "1324"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "1328"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1332"
+msgid "0"
+msgstr "0"
+
+msgctxt "44_Kiryu"
+msgid "I'm from Nagasu Taxi. Sorry for the wait."
+msgstr "Sono della Nagasu Taxi. Scusi l'attesa."
+
+msgctxt "56_Older Gentleman"
+msgid ""
+"It's fine. Take me to <Color:22>Fukuhaku Street<Color:Default>, kiddo. Oops,"
+" guess you're not quite a kiddo anymore, are ya?"
+msgstr ""
+"Va bene. Portami a <Color:22>Fukuhaku Street<Color:Default>, giovanotto. "
+"Ops, immagino che non sei più proprio un ragazzino, vero?"
+
+msgctxt "68_Older Gentleman"
+msgid "Aheheheh!"
+msgstr "Eheheh!"
+
+msgctxt "80_Kiryu"
+msgid "(I bet this guy's gonna talk my ear off.)"
+msgstr "(Scommetto che questo mi farà la testa come un pallone.)"
+
+msgctxt "92_Kiryu"
+msgid "Please, get in."
+msgstr "Prego, salga."

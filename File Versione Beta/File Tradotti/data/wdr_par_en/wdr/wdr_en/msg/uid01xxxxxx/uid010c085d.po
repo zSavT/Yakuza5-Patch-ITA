@@ -1,0 +1,188 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "6472"
+msgid "Hirakawa"
+msgstr "Hirakawa"
+
+msgctxt "6476"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "6480"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "6484"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "6488"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "6492"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "6496"
+msgid "Kiyokawa"
+msgstr "Kiyokawa"
+
+msgctxt "6500"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "6504"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "6508"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "6512"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "6516"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "60_Hirakawa"
+msgid ""
+"It's that highway rest area client again. They asked if you wanted to taste "
+"the wine of defeat once more... which I find to be very odd."
+msgstr ""
+"È di nuovo quel cliente dell'area di servizio autostradale. Hanno chiesto se"
+" volevi assaggiare il vino della sconfitta ancora una volta... cosa che "
+"trovo alquanto strana."
+
+msgctxt "72_Kiryu"
+msgid "(Must be Gentle Nakamura, one of the Devil Killers' Four Kings.)"
+msgstr "(Dev'essere Gentle Nakamura, uno dei Quattro Re dei Devil Killers.)"
+
+msgctxt "84_Hirakawa"
+msgid ""
+"You know, you should never drink on the job, even if a client suggests it."
+msgstr ""
+"Sai, non dovresti mai bere sul lavoro, anche se un cliente lo suggerisce."
+
+msgctxt "96_Kiryu"
+msgid "Yes, I'm aware. I'll be heading out now."
+msgstr "Sì, ne sono al corrente. Mi avvio subito."
+
+msgctxt "120_Hirakawa"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "132_Kiyokawa"
+msgid "Hey Suzuki-san! Can I tag along?"
+msgstr "Ehi Suzuki-san! Posso venire anch'io?"
+
+msgctxt "144_Kiryu"
+msgid "(This guy gets everything he wants, doesn't he...)"
+msgstr "(Questo tizio ottiene sempre quello che vuole, no...)"
+
+msgctxt "168_Hirakawa"
+msgid "It's that client from the highway rest area."
+msgstr "È quel cliente dell'area di servizio autostradale."
+
+msgctxt "180_Kiryu"
+msgid "(So the Devil Killers are back for more, huh?)"
+msgstr "(Quindi i Devil Killers ne vogliono ancora, eh?)"
+
+msgctxt "192_Kiryu"
+msgid "Then I'm on my way."
+msgstr "Allora mi avvio."
+
+msgctxt "216_Hirakawa"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "228_Kiyokawa"
+msgid ""
+"Mind if I tag along? That way you can teach me how to deal with more "
+"clients!"
+msgstr ""
+"Posso venire anch'io? Così puoi insegnarmi come trattare con più clienti!"
+
+msgctxt "240_Kiryu"
+msgid "(He obviously knows where I'm going.)"
+msgstr "(Sa benissimo dove vado.)"
+
+msgctxt "252_Kiryu"
+msgid "What happened to studying for your Class 2?"
+msgstr "Che fine ha fatto studiare per la tua Classe 2?"
+
+msgctxt "264_Kiyokawa"
+msgid ""
+"Well, both Wada-san and Muramatsu-san seem pretty sure that I can pass now! "
+"They gave me their okay!"
+msgstr ""
+"Beh, sia Wada-san che Muramatsu-san sembrano abbastanza sicuri che posso "
+"passare ora! Mi hanno dato l'ok!"
+
+msgctxt "276_Kiryu"
+msgid "Did they really?"
+msgstr "Davvero?"
+
+msgctxt "288_Kiyokawa"
+msgid "Yeah, I even aced a practice test! I've been studying my butt off!"
+msgstr ""
+"Sì, ho persino superato un test di pratica a pieni voti! Mi sono fatto il "
+"culo a studiare!"
+
+msgctxt "300_Kiyokawa"
+msgid "Help me out, Hirakawa-san!"
+msgstr "Aiutami, Hirakawa-san!"
+
+msgctxt "312_Hirakawa"
+msgid "Hmm... I'd say you've been making an admirable effort."
+msgstr "Mmh... direi che hai fatto uno sforzo ammirevole."
+
+msgctxt "324_Hirakawa"
+msgid ""
+"Why not take him with you, Suzuki-san? He does need more time in the field."
+msgstr ""
+"Perché non lo porti con te, Suzuki-san? Gli serve più tempo sul campo."
+
+msgctxt "336_Kiryu"
+msgid "I'm not sure he'd benefit from this kind of request..."
+msgstr ""
+"Non sono sicuro che trarrebbe beneficio da questo tipo di richiesta..."
+
+msgctxt "348_Kiyokawa"
+msgid ""
+"Aww, don't say that! Even if it doesn't seem relevant, I still wanna know "
+"how it's done."
+msgstr ""
+"Dai, non dire così! Anche se non sembra rilevante, voglio comunque sapere "
+"come si fa."
+
+msgctxt "360_Hirakawa"
+msgid ""
+"You're certainly enthusiastic. Now if that's not dedication, I don't know "
+"what is. Wouldn't you say so?"
+msgstr ""
+"Sei decisamente entusiasta. Se questa non è dedizione, non so cos'altro sia."
+" Non è così?"
+
+msgctxt "372_Kiryu"
+msgid "...I guess."
+msgstr "Immagino."
+
+msgctxt "384_Kiyokawa"
+msgid "Cool! I'm gonna take that as a yes, then! Now let's jam!"
+msgstr "Forte! Lo prendo come un sì, allora! Dai, si parte!"

@@ -1,0 +1,211 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "6584"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "6588"
+msgid "Ideno"
+msgstr "Ideno"
+
+msgctxt "6592"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "6596"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "6600"
+msgid "ACDEV0224"
+msgstr "ACDEV0224"
+
+msgctxt "6604"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "6608"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "6612"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "6616"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "6620"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "6624"
+msgid "M_NML_SET_stand_baten_glass"
+msgstr "M_NML_SET_stand_baten_glass"
+
+msgctxt "6628"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "6632"
+msgid "M_NML_TLK_stand_kamae"
+msgstr "M_NML_TLK_stand_kamae"
+
+msgctxt "6636"
+msgid "0b49022a"
+msgstr "0b49022a"
+
+msgctxt "6640"
+msgid "0b490229"
+msgstr "0b490229"
+
+msgctxt "6644"
+msgid "0b49022b"
+msgstr "0b49022b"
+
+msgctxt "6648"
+msgid "M_NML_SET_stand_bibiri"
+msgstr "M_NML_SET_stand_bibiri"
+
+msgctxt "6652"
+msgid "WEPRG9001"
+msgstr "WEPRG9001"
+
+msgctxt "60_Saejima"
+msgid "*huff* *pant* ...That was close."
+msgstr "*sbuffo* *ansimo* ...Per un pelo."
+
+msgctxt "72_Ideno"
+msgid "Er, um..."
+msgstr "Ehm, uhm..."
+
+msgctxt "84_Ideno"
+msgid "How was it? It made you warm like it was supposed to, didn't it?"
+msgstr "Com'è stato? Ti ha riscaldato come si deve, no?"
+
+msgctxt "96_Saejima"
+msgid "You want me to kill ya?"
+msgstr "Vuoi che ti ammazzi?"
+
+msgctxt "108_Ideno"
+msgid "Uh, never mind!"
+msgstr "Ah, lascia perdere!"
+
+msgctxt "132_Saejima"
+msgid "So, where's this ultimate cold weather gear?"
+msgstr "Allora, dov'è quest'attrezzatura definitiva per il freddo?"
+
+msgctxt "144_Ideno"
+msgid "Hehe... Right here in my hand!"
+msgstr "Hehe... Eccolo, proprio qui in mano mia!"
+
+msgctxt "168_Saejima"
+msgid "That? Looks like it's just a pocket warmer."
+msgstr "Quello? Sembra che sia solo uno scaldino tascabile."
+
+msgctxt "180_Ideno"
+msgid ""
+"You might think that, yes. However! This is no ordinary pocket warmer. It's "
+"the ultimate pocket warmer!"
+msgstr ""
+"Potresti pensarlo, sì. Ma! Questo non è un semplice scaldino tascabile. È lo"
+" scaldino tascabile definitivo!"
+
+msgctxt "192_Saejima"
+msgid "Is that so?"
+msgstr "È così?"
+
+msgctxt "204_Ideno"
+msgid ""
+"Yes. It produces several thousand times the heat of a regular one. Truly, it"
+" is the king of pocket warmers!"
+msgstr ""
+"Sì. Produce migliaia di volte il calore di uno normale. Davvero, è il re "
+"degli scaldini tascabili!"
+
+msgctxt "216_Ideno"
+msgid ""
+"With one of these, Tsukimino will feel like a tropical paradise! Heck, so "
+"would Antarctica! So would the moon!"
+msgstr ""
+"Con uno di questi, Tsukimino sembrerà un paradiso tropicale! Cavolo, lo "
+"stesso l'Antartide! E pure la luna!"
+
+msgctxt "228_Saejima"
+msgid ""
+"...The moon ain't happenin'. And did ya say it's thousands of times hotter "
+"n' a regular one? Wouldn't that start a fire?"
+msgstr ""
+"La luna, quella proprio no. E hai detto che è migliaia di volte più caldo di"
+" uno normale? Non appiccherebbe un incendio?"
+
+msgctxt "240_Ideno"
+msgid "It'll probably be fine. I adjusted some things so it shouldn't ignite."
+msgstr ""
+"Ma sì, andrà bene. Ho sistemato alcune cose, così non dovrebbe prendere "
+"fuoco."
+
+msgctxt "252_Saejima"
+msgid ""
+"You ain't doin' too good a job of sellin' me on safety. Gettin' kinda scared"
+" here."
+msgstr ""
+"Non è che mi stai rassicurando granché sulla sicurezza. Mi sto quasi "
+"prendendo paura qui."
+
+msgctxt "264_Ideno"
+msgid ""
+"Oh, please, a big man like you? Very well. I will demonstrate first and "
+"prove that it's perfectly safe."
+msgstr ""
+"Ma dai, un omone come te? Molto bene. Dimostrerò prima e proverò che è "
+"perfettamente sicuro."
+
+msgctxt "276_Ideno"
+msgid "After that, you can test it. That sound okay?"
+msgstr "Dopodiché, potrai testarlo. Ti va bene?"
+
+msgctxt "288_Saejima"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "300_Ideno"
+msgid "Here we go. First, I activate the unit."
+msgstr "Eccoci. Per prima cosa, attivo l'unità."
+
+msgctxt "324_Ideno"
+msgid "Yowwwww!"
+msgstr "Ahiiii!"
+
+msgctxt "348_Ideno"
+msgid "Aaaugh! Did I screw something up?"
+msgstr "Aargh! Ho combinato qualcosa?"
+
+msgctxt "360_Saejima"
+msgid ""
+"Shoulda seen this comin'... Hey! Do somethin' before the whole place burns "
+"down!"
+msgstr ""
+"Me lo dovevo aspettare... Ehi! Fai qualcosa prima che bruci tutto il posto!"
+
+msgctxt "372_Ideno"
+msgid "There's a fire extinguisher over there! Please, put it out!"
+msgstr "Laggiù c'è un estintore! Ti prego, spegnilo!"
+
+msgctxt "384_Saejima"
+msgid "(Better put this out, first. Then I'll deal with Ideno the Idiot.)"
+msgstr ""
+"(Meglio spegnere 'sto casino, prima. Poi mi sbrigherò con Ideno lo scemo.)"

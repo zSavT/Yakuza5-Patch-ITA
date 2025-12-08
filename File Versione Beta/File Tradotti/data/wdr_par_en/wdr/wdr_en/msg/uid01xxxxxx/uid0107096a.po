@@ -1,0 +1,93 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "300"
+msgid "I won that one. Let's start the next round."
+msgstr "Questa l'ho vinta. Passiamo al prossimo giro."
+
+msgctxt "312"
+msgid "I won that one."
+msgstr "Questa l'ho vinta."
+
+msgctxt "324"
+msgid "It's a tie. Let's start the next round."
+msgstr "È patta. Passiamo al prossimo giro."
+
+msgctxt "336"
+msgid "It's a tie."
+msgstr "È un pareggio."
+
+msgctxt "348"
+msgid "One of your hands is a tie."
+msgstr "Una delle tue mani è un pareggio."
+
+msgctxt "360"
+msgid "I lost that one. Let's start the next round."
+msgstr "Questa l'ho persa. Passiamo al prossimo giro."
+
+msgctxt "372"
+msgid "I lost that one."
+msgstr "Questa l'ho persa."
+
+msgctxt "384"
+msgid "I won."
+msgstr "Ho vinto."
+
+msgctxt "396"
+msgid "You won."
+msgstr "Hai vinto."
+
+msgctxt "408"
+msgid "One of your hands won."
+msgstr "Una delle tue mani ha vinto."
+
+msgctxt "420"
+msgid "Both of your hands won."
+msgstr "Entrambe le tue mani hanno vinto."
+
+msgctxt "432"
+msgid "I won against both of your hands."
+msgstr "Ho vinto contro entrambe le tue mani."
+
+msgctxt "444"
+msgid ""
+"Both of your hands won. A one of your hands is a Six-Card Under. Impressive!"
+msgstr ""
+"Entrambe le tue mani hanno vinto. Una delle tue mani è un Six-Card Under. "
+"Impressionante!"
+
+msgctxt "456"
+msgid ""
+"Both of your hands won. And both are Six-Card Charlies! You really have the "
+"devil's luck."
+msgstr ""
+"Hai vinto con entrambe le mani. Ed entrambe sono dei Six-Card Charlie! Hai "
+"proprio la fortuna del diavolo."
+
+msgctxt "468"
+msgid "One of your hands won. Congratulations on getting a Six Under!"
+msgstr ""
+"Una delle tue mani ha vinto. Complimenti per aver ottenuto un Six Under!"
+
+msgctxt "480"
+msgid ""
+"You have a Six Under: six cards totaling under twenty-one. That means you "
+"automatically win!"
+msgstr ""
+"Hai un Six Under: sei carte che fanno meno di ventuno. Questo significa che "
+"vinci in automatico!"
+
+msgctxt "492"
+msgid "Your insurance bet won. Good move!"
+msgstr "La tua assicurazione ha pagato. Bella giocata!"

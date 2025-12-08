@@ -1,0 +1,410 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "6784"
+msgid "Aizawa"
+msgstr "Aizawa"
+
+msgctxt "6788"
+msgid "1-260/aizawa_0041"
+msgstr "1-260/aizawa_0041"
+
+msgctxt "6792"
+msgid "SS1_M_AZW_TAX_yes"
+msgstr "SS1_M_AZW_TAX_yes"
+
+msgctxt "6796"
+msgid "SS1_P_TAX_idle_hearing"
+msgstr "SS1_P_TAX_idle_hearing"
+
+msgctxt "6800"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "6804"
+msgid "1-260/kiryu_0230"
+msgstr "1-260/kiryu_0230"
+
+msgctxt "6808"
+msgid "SS1_P_TAX_nod_A"
+msgstr "SS1_P_TAX_nod_A"
+
+msgctxt "6812"
+msgid "1-260/aizawa_0042"
+msgstr "1-260/aizawa_0042"
+
+msgctxt "6816"
+msgid "Morinaga"
+msgstr "Morinaga"
+
+msgctxt "6820"
+msgid "1-260/morinaga_0054"
+msgstr "1-260/morinaga_0054"
+
+msgctxt "6824"
+msgid "SS1_M_MNG_TAX_yes"
+msgstr "SS1_M_MNG_TAX_yes"
+
+msgctxt "6828"
+msgid "kaiwabgm_fuon05"
+msgstr "kaiwabgm_fuon05"
+
+msgctxt "6832"
+msgid "1-260/kiryu_0231"
+msgstr "1-260/kiryu_0231"
+
+msgctxt "6836"
+msgid "1-260/aizawa_0043"
+msgstr "1-260/aizawa_0043"
+
+msgctxt "6840"
+msgid "1-260/morinaga_0055"
+msgstr "1-260/morinaga_0055"
+
+msgctxt "6844"
+msgid "1-260/kiryu_0232"
+msgstr "1-260/kiryu_0232"
+
+msgctxt "6848"
+msgid "1-260/aizawa_0044"
+msgstr "1-260/aizawa_0044"
+
+msgctxt "6852"
+msgid "1-260/kiryu_0233a"
+msgstr "1-260/kiryu_0233a"
+
+msgctxt "6856"
+msgid "1-260/kiryu_0233b"
+msgstr "1-260/kiryu_0233b"
+
+msgctxt "6860"
+msgid "1-260/aizawa_0045"
+msgstr "1-260/aizawa_0045"
+
+msgctxt "6864"
+msgid "SS1_M_AZW_TAX_no"
+msgstr "SS1_M_AZW_TAX_no"
+
+msgctxt "6868"
+msgid "1-260/kiryu_0234a"
+msgstr "1-260/kiryu_0234a"
+
+msgctxt "6872"
+msgid "SS1_P_TAX_no"
+msgstr "SS1_P_TAX_no"
+
+msgctxt "6876"
+msgid "1-260/kiryu_0234b"
+msgstr "1-260/kiryu_0234b"
+
+msgctxt "6880"
+msgid "1-260/morinaga_0057"
+msgstr "1-260/morinaga_0057"
+
+msgctxt "6884"
+msgid "SS1_M_MNG_TAX_think"
+msgstr "SS1_M_MNG_TAX_think"
+
+msgctxt "6888"
+msgid "1-260/kiryu_0235"
+msgstr "1-260/kiryu_0235"
+
+msgctxt "6892"
+msgid "1-260/aizawa_0046"
+msgstr "1-260/aizawa_0046"
+
+msgctxt "6896"
+msgid "1-260/kiryu_0236"
+msgstr "1-260/kiryu_0236"
+
+msgctxt "6900"
+msgid "1-260/morinaga_0058a"
+msgstr "1-260/morinaga_0058a"
+
+msgctxt "6904"
+msgid "1-260/morinaga_0058b"
+msgstr "1-260/morinaga_0058b"
+
+msgctxt "6908"
+msgid "SS1_M_MNG_TAX_aiduti"
+msgstr "SS1_M_MNG_TAX_aiduti"
+
+msgctxt "6912"
+msgid "1-260/aizawa_0047"
+msgstr "1-260/aizawa_0047"
+
+msgctxt "6916"
+msgid "SS1_M_AZW_TAX_aiduti"
+msgstr "SS1_M_AZW_TAX_aiduti"
+
+msgctxt "6920"
+msgid "1-260/kiryu_0237"
+msgstr "1-260/kiryu_0237"
+
+msgctxt "6924"
+msgid "1-260/morinaga_0059"
+msgstr "1-260/morinaga_0059"
+
+msgctxt "6928"
+msgid "1-260/kiryu_0238"
+msgstr "1-260/kiryu_0238"
+
+msgctxt "6932"
+msgid "1-260/aizawa_0048"
+msgstr "1-260/aizawa_0048"
+
+msgctxt "6936"
+msgid "SS1_M_AZW_TAX_surp"
+msgstr "SS1_M_AZW_TAX_surp"
+
+msgctxt "6940"
+msgid "1-260/morinaga_0060"
+msgstr "1-260/morinaga_0060"
+
+msgctxt "6944"
+msgid "1-260/kiryu_0239a"
+msgstr "1-260/kiryu_0239a"
+
+msgctxt "6948"
+msgid "1-260/kiryu_0239b"
+msgstr "1-260/kiryu_0239b"
+
+msgctxt "6952"
+msgid "1-260/kiryu_0239c"
+msgstr "1-260/kiryu_0239c"
+
+msgctxt "6956"
+msgid "1-260/aizawa_0049"
+msgstr "1-260/aizawa_0049"
+
+msgctxt "6960"
+msgid "1-260/kiryu_0240"
+msgstr "1-260/kiryu_0240"
+
+msgctxt "6964"
+msgid "1-260/morinaga_0061"
+msgstr "1-260/morinaga_0061"
+
+msgctxt "6968"
+msgid "1-260/kiryu_0241"
+msgstr "1-260/kiryu_0241"
+
+msgctxt "6972"
+msgid "1-260/morinaga_0062"
+msgstr "1-260/morinaga_0062"
+
+msgctxt "6976"
+msgid "1-260/kiryu_0242"
+msgstr "1-260/kiryu_0242"
+
+msgctxt "6980"
+msgid "1-260/morinaga_0063"
+msgstr "1-260/morinaga_0063"
+
+msgctxt "44_Aizawa"
+msgid "Why are we doing this in a taxi?"
+msgstr "Perché stiamo facendo questa cosa in un taxi?"
+
+msgctxt "56_Kiryu"
+msgid ""
+"You never know who might be listening in. This is the safest place to talk."
+msgstr ""
+"Non si sa mai chi potrebbe origliare. Questo è il posto più sicuro per "
+"parlare."
+
+msgctxt "68_Aizawa"
+msgid "What do you mean?"
+msgstr "Cosa intendi?"
+
+msgctxt "80_Morinaga"
+msgid "You think someone might be tailing us?"
+msgstr "Pensi che qualcuno ci stia pedinando?"
+
+msgctxt "92_Kiryu"
+msgid ""
+"Yes. Watase knew I was here, and had details of my movements ever since I "
+"gave Daigo a ride the other day."
+msgstr ""
+"Sì. Watase sapeva che ero qui, e aveva i dettagli dei miei movimenti fin da "
+"quando ho dato un passaggio a Daigo l'altro giorno."
+
+msgctxt "104_Aizawa"
+msgid "What!?"
+msgstr "Cosa!?"
+
+msgctxt "116_Morinaga"
+msgid "Who's Watase's source?"
+msgstr "Chi è la fonte di Watase?"
+
+msgctxt "128_Kiryu"
+msgid "Daigo's assistant... Aoyama, chief of HQ."
+msgstr "L'assistente di Daigo... Aoyama, capo del QG."
+
+msgctxt "140_Aizawa"
+msgid "Huh!? Patriarch Aoyama!?"
+msgstr "Eh!? Patriarca Aoyama!?"
+
+msgctxt "152_Morinaga"
+msgid "......"
+msgstr "......"
+
+msgctxt "164_Kiryu"
+msgid "Aoyama and Watase are sworn brothers."
+msgstr "Aoyama e Watase sono fratelli di sangue."
+
+msgctxt "176_Kiryu"
+msgid ""
+"It doesn't exactly sound like they're friendly, but Aoyama's the one who "
+"told Watase I was here and called him to Fukuoka."
+msgstr ""
+"Non sembra proprio che siano amici, ma è Aoyama che ha detto a Watase che "
+"ero qui e l'ha chiamato a Fukuoka."
+
+msgctxt "188_Aizawa"
+msgid "Why would he do that?"
+msgstr "Perché farebbe una cosa del genere?"
+
+msgctxt "200_Kiryu"
+msgid "I don't know."
+msgstr "Non lo so."
+
+msgctxt "212_Kiryu"
+msgid "But I do know Aoyama had an eye on me even before Daigo went missing."
+msgstr ""
+"Ma io so che Aoyama mi teneva d'occhio ancora prima che Daigo sparisse."
+
+msgctxt "224_Morinaga"
+msgid "Maybe he's putting pressure on the Yamagasa."
+msgstr "Forse sta mettendo pressione agli Yamagasa."
+
+msgctxt "236_Kiryu"
+msgid ""
+"It's possible. Aoyama knew that Watase, being the Omi man he is, would "
+"naturally want to know what I'm up to."
+msgstr ""
+"È possibile. Aoyama sapeva che Watase, da vero uomo Omi qual è, avrebbe "
+"naturalmente voluto sapere cosa stessi combinando."
+
+msgctxt "248_Aizawa"
+msgid "What do you mean?"
+msgstr "Cosa intendi?"
+
+msgctxt "260_Kiryu"
+msgid ""
+"Aoyama got Watase to come to Fukuoka, knowing he would make a move right "
+"away."
+msgstr ""
+"Aoyama ha fatto venire Watase a Fukuoka, sapendo che avrebbe fatto una mossa"
+" subito."
+
+msgctxt "272_Morinaga"
+msgid ""
+"With the Watase Family here during negotiations, the Yamagasa Family would "
+"naturally assume the Omi wanted to stop their alliance with the Tojo Clan."
+msgstr ""
+"Con la Famiglia Watase qui durante i negoziati, la Famiglia Yamagasa darebbe"
+" naturalmente per scontato che gli Omi volessero fermare la loro alleanza "
+"con il Clan Tojo."
+
+msgctxt "284_Morinaga"
+msgid ""
+"The threat of conflict with the Omi would then push the Yamagasa Family into"
+" making an alliance."
+msgstr ""
+"La minaccia di conflitto con gli Omi spingerebbe poi la Famiglia Yamagasa a "
+"stringere un'alleanza."
+
+msgctxt "296_Aizawa"
+msgid ""
+"So Aoyama got Watase to come to Fukuoka as leverage for the negotiations."
+msgstr ""
+"Quindi Aoyama ha fatto venire Watase a Fukuoka come leva per i negoziati."
+
+msgctxt "308_Kiryu"
+msgid "There's one thing I still don't know."
+msgstr "C'è una cosa che ancora non so."
+
+msgctxt "320_Morinaga"
+msgid "What's that?"
+msgstr "Cos'è?"
+
+msgctxt "332_Kiryu"
+msgid "Whether Daigo knew about Aoyama's plans."
+msgstr "Se Daigo sapesse dei piani di Aoyama."
+
+msgctxt "344_Aizawa"
+msgid "Huh? That's hard to say for sure."
+msgstr "Eh? È difficile dirlo con certezza."
+
+msgctxt "356_Morinaga"
+msgid "Did Chairman Dojima hint at anything?"
+msgstr "Il Presidente Dojima ha accennato a qualcosa?"
+
+msgctxt "368_Kiryu"
+msgid ""
+"When Daigo was in my cab, I could tell he was willing to put his life on the"
+" line for this to succeed."
+msgstr ""
+"Quando Daigo era nel mio taxi, ho capito che era disposto a giocarsi la "
+"pelle perché questo andasse a buon fine."
+
+msgctxt "380_Kiryu"
+msgid ""
+"Given his resolve, would he really have been okay bringing a wild card like "
+"the Watase Family to a clan negotiation?"
+msgstr ""
+"Data la sua risolutezza, avrebbe davvero accettato di portare una mina "
+"vagante come la Famiglia Watase a un negoziato tra clan?"
+
+msgctxt "392_Kiryu"
+msgid ""
+"If my hunch is right, there's only one man who could be responsible for his "
+"disappearance."
+msgstr ""
+"Se il mio fiuto non sbaglia, c'è solo un uomo che potrebbe essere "
+"responsabile della sua scomparsa."
+
+msgctxt "416_Aizawa"
+msgid "You don't mean Patriarch Aoyama!?"
+msgstr "Non vorrai mica dire il Patriarca Aoyama!?"
+
+msgctxt "428_Kiryu"
+msgid "Where is he now?"
+msgstr "Dov'è adesso?"
+
+msgctxt "440_Morinaga"
+msgid "Well..."
+msgstr "Beh..."
+
+msgctxt "452_Kiryu"
+msgid "What's wrong?"
+msgstr "Che succede?"
+
+msgctxt "464_Morinaga"
+msgid ""
+"Patriarch Aoyama left to negotiate with Patriarch Madarame. As acting "
+"chairman."
+msgstr ""
+"Il Patriarca Aoyama è partito per negoziare con il Patriarca Madarame. In "
+"qualità di presidente ad interim."
+
+msgctxt "476_Kiryu"
+msgid "What? Where!?"
+msgstr "Cosa? Dove!?"
+
+msgctxt "488_Morinaga"
+msgid "North of Nagasugai. Yamagasa Family headquarters!"
+msgstr ""
+"A nord di Nagasugai.\n"
+"Quartier generale della Famiglia Yamagasa!"

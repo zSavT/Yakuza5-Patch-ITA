@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1184"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "1188"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "1192"
+msgid "HAL_TLK_stand_unhappy"
+msgstr "HAL_TLK_stand_unhappy"
+
+msgctxt "1196"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "1200"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "136_Haruka"
+msgid "You're incredible, Uncle Kaz! Your aim is so awesome!"
+msgstr "Sei un mito, Zio Kaz! La tua mira è pazzesca!"
+
+msgctxt "160_Haruka"
+msgid "Aw. Too bad. Well, better luck next time."
+msgstr "Ah. Peccato. Beh, sarà per la prossima volta."
+
+msgctxt "184_Haruka"
+msgid ""
+"Uncle Kaz! Try to <Color:8>get 250 points or more with single-player Count-"
+"Up<Color:Default>!"
+msgstr ""
+"Zio Kaz! Prova a <Color:8>fare 250 punti o più in modalità Count-Up "
+"giocatore singolo<Color:Default>!"
+
+msgctxt "196_Kiryu"
+msgid ""
+"(Hmm. Looks like Haruka wants me to <Color:8>get 250 points or more with "
+"single-player Count-Up<Color:Default>.)"
+msgstr ""
+"(Hmm. Sembra che Haruka voglia che io <Color:8>faccia 250 punti o più in "
+"modalità Count-Up giocatore singolo<Color:Default>.)"

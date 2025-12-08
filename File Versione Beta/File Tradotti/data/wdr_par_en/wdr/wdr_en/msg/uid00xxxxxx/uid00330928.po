@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1000"
+msgid "Employee"
+msgstr "Cameriere"
+
+msgctxt "1004"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "1008"
+msgid "Pachinko Balls"
+msgstr "Palline da pachinko"
+
+msgctxt "1012"
+msgid "Tokens"
+msgstr "Gettoni"
+
+msgctxt "1016"
+msgid "Never Mind"
+msgstr "Lascia perdere"
+
+msgctxt "44_Employee"
+msgid ""
+"Hello. I can exchange your pachinko balls and slots tokens for prizes. Which"
+" would you like to exchange?"
+msgstr ""
+"Salve. Posso scambiare le tue palline da pachinko e i gettoni delle slot con"
+" dei premi. Cosa vuoi scambiare?"
+
+msgctxt "92_Employee"
+msgid "Thank you. We look forward to your next visit."
+msgstr "Grazie. L'aspettiamo per la prossima visita."
+
+msgctxt "104_Employee"
+msgid "I see. We look forward to your next visit."
+msgstr "Capisco. L'aspettiamo la prossima volta."

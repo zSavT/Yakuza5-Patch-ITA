@@ -1,0 +1,1032 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "728"
+msgid "You got 2,100 experience points."
+msgstr "Hai ottenuto 2.100 punti esperienza."
+
+msgctxt "41160"
+msgid "Kurashina"
+msgstr "Kurashina"
+
+msgctxt "41164"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "41168"
+msgid "Seto"
+msgstr "Seto"
+
+msgctxt "41172"
+msgid "M_NML_SET_sitgrd_seiza_nml"
+msgstr "M_NML_SET_sitgrd_seiza_nml"
+
+msgctxt "41176"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "41180"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "41184"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "41188"
+msgid "M_YNG_TLK_sitgrd_standup_st"
+msgstr "M_YNG_TLK_sitgrd_standup_st"
+
+msgctxt "41192"
+msgid "M_nml_stand"
+msgstr "M_nml_stand"
+
+msgctxt "41196"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "41200"
+msgid "Talk_Cry"
+msgstr "Talk_Cry"
+
+msgctxt "41204"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "41208"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "41212"
+msgid "kaiwabgm_subsad1"
+msgstr "kaiwabgm_subsad1"
+
+msgctxt "41216"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "41220"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "41224"
+msgid "M_NML_SET_stand_listen_02"
+msgstr "M_NML_SET_stand_listen_02"
+
+msgctxt "41228"
+msgid "M_NML_SET_stand_listen_01"
+msgstr "M_NML_SET_stand_listen_01"
+
+msgctxt "41232"
+msgid "0"
+msgstr "0"
+
+msgctxt "41236"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "41240"
+msgid "Go with Seto"
+msgstr "Vai con Seto"
+
+msgctxt "41244"
+msgid "Decline"
+msgstr "Rifiuta"
+
+msgctxt "41248"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "41252"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "41256"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "41260"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "41264"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "41268"
+msgid "kaiwabgm_subfuon"
+msgstr "kaiwabgm_subfuon"
+
+msgctxt "41272"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "92_Kurashina"
+msgid "Seto-san... There's something I need to tell you."
+msgstr "Seto-san... C'è qualcosa che devo dirti."
+
+msgctxt "104_Seto"
+msgid "Go ahead... Kurashina."
+msgstr ""
+
+msgctxt "116_Kurashina"
+msgid "Please forgive me, Seto-san! I fell for a bribe from another team."
+msgstr ""
+
+msgctxt "128_Kurashina"
+msgid ""
+"They promised to pay me until next year's draft, and that they would double "
+"the contract amount offered by the Wyverns."
+msgstr ""
+
+msgctxt "140_Kurashina"
+msgid "That's why I... I can't join the Wyverns!"
+msgstr ""
+
+msgctxt "152_Seto"
+msgid "All right. That's what it was, after all."
+msgstr ""
+
+msgctxt "164_Kurashina"
+msgid ""
+"I'm really sorry, Seto-san. If you could find it in your heart to forgive "
+"me..."
+msgstr ""
+
+msgctxt "176_Seto"
+msgid "It's all right, Kurashina. Thanks for being honest with me."
+msgstr ""
+
+msgctxt "188_Kurashina"
+msgid "Seto-san..."
+msgstr ""
+
+msgctxt "200_Seto"
+msgid ""
+"The path you choose is up to you. Whichever team you sign with, your talent "
+"will make you a star."
+msgstr ""
+
+msgctxt "212_Seto"
+msgid ""
+"I guarantee it. And believe me－I've been doing this job for a long time."
+msgstr ""
+
+msgctxt "224_Shinada"
+msgid "......"
+msgstr ""
+
+msgctxt "248_Seto"
+msgid ""
+"But make sure you keep training hard over the course of this next year. I'm "
+"looking forward to seeing you play once you're in the pros."
+msgstr ""
+
+msgctxt "260_Seto"
+msgid ""
+"I know you can do it. You're not any ordinary rookie. Got it? Have "
+"confidence in yourself."
+msgstr ""
+
+msgctxt "284_Kurashina"
+msgid "Why, though... Seto-san, why do you care so much about me?"
+msgstr ""
+
+msgctxt "296_Seto"
+msgid ""
+"Isn't it obvious? Because I see your potential. Have been ever since you "
+"were in middle school."
+msgstr ""
+
+msgctxt "308_Seto"
+msgid ""
+"Some day soon, your pitching is going to pack stadiums and drive fans wild. "
+"I was the first to see that in you, before anyone else."
+msgstr ""
+
+msgctxt "320_Seto"
+msgid ""
+"I don't care if it isn't with the Wyverns. As a lifelong fan of baseball, I "
+"looked forward to seeing you shine. I still do."
+msgstr ""
+
+msgctxt "332_Kurashina"
+msgid "*sniffle*"
+msgstr ""
+
+msgctxt "344_Seto"
+msgid "So, you keep moving forward. I'll never stop being your fan."
+msgstr ""
+
+msgctxt "356_Seto"
+msgid "Thanks for waiting, Tatsuo. Well, I promised you a drink, didn't I?"
+msgstr ""
+
+msgctxt "368_Shinada"
+msgid "You sure you're all done here?"
+msgstr ""
+
+msgctxt "380_Seto"
+msgid "Yeah. Should be."
+msgstr ""
+
+msgctxt "392_Shinada"
+msgid "All right. Then I'll be happy to oblige."
+msgstr ""
+
+msgctxt "404_Seto"
+msgid ""
+"Take care, Kurashina. Go home before your joints feel the cold. Taking good "
+"care of yourself is part of your job as a pro."
+msgstr ""
+
+msgctxt "416_Kurashina"
+msgid "......"
+msgstr ""
+
+msgctxt "440_Kurashina"
+msgid "Wait!"
+msgstr ""
+
+msgctxt "476_Kurashina"
+msgid ""
+"God, I must sound so stupid but... I was wrong. There's no way I can give up"
+" on the dream you shared with me."
+msgstr ""
+
+msgctxt "488_Seto"
+msgid "......"
+msgstr ""
+
+msgctxt "500_Kurashina"
+msgid "I know I'm asking a lot after all I did, but..."
+msgstr ""
+
+msgctxt "512_Kurashina"
+msgid "May I join the Wyverns?"
+msgstr ""
+
+msgctxt "524_Seto"
+msgid "Kurashina, look－"
+msgstr ""
+
+msgctxt "536_Kurashina"
+msgid ""
+"I'm asking you! Please give me a second chance. I'll do anything to join... "
+"to make up for the trouble I caused."
+msgstr ""
+
+msgctxt "548_Kurashina"
+msgid ""
+"Yes, I may be stupid and immature, but I know I can make\r\n"
+"the Wyverns proud－that I'd be right for the team. Because\r\n"
+"you're there to support me."
+msgstr ""
+
+msgctxt "560_Shinada"
+msgid ""
+"Well would you look at that. I've always known you were a fine judge of "
+"character, Seto-san."
+msgstr ""
+
+msgctxt "572_Seto"
+msgid "Flattery'll get you nowhere with me, Tatsuo."
+msgstr ""
+
+msgctxt "584_Shinada"
+msgid ""
+"Don't I know it. Looks like I'll be taking a rain check on\r\n"
+"that drink tonight. I assume you're gonna be busy."
+msgstr ""
+
+msgctxt "596_Seto"
+msgid ""
+"Yeah, I have to get the official contract written up to sign this can't-miss"
+" rookie."
+msgstr ""
+
+msgctxt "608_Kurashina"
+msgid "Really? You're... still gonna sign me?"
+msgstr ""
+
+msgctxt "620_Seto"
+msgid ""
+"Kurashina. I can only be this nice to you before you sign. Once you're ours,"
+" we'll kick your ass like any other rookie."
+msgstr ""
+
+msgctxt "632_Kurashina"
+msgid "Yes, sir! And thank you! I promise not to let you down!"
+msgstr ""
+
+msgctxt "656_Shinada"
+msgid ""
+"(Heh. Me, turning down a free night out? Never thought I'd see the day...)"
+msgstr ""
+
+msgctxt "740_Seto"
+msgid ""
+"Kurashina said it was his dream to join the Wyverns. How did it come to "
+"this?"
+msgstr ""
+
+msgctxt "752_Shinada"
+msgid "(Kurashina took off toward Mid Square. I should go after him.)"
+msgstr ""
+
+msgctxt "776_Seto"
+msgid ""
+"Hey, Tatsuo. Did you change your mind about meeting the rookie? If you can "
+"go, I'll treat you to a drink after."
+msgstr ""
+
+msgctxt "800_Man"
+msgid "Oh, hey, excuse me. Are you... Tatsuo?"
+msgstr ""
+
+msgctxt "812_Shinada"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "824_Man"
+msgid "It's me, Seto! The scout? With the Wyverns?"
+msgstr ""
+
+msgctxt "836_Shinada"
+msgid ""
+"Whoa! Is this really Seto-san I'm talking to? Man, the years have not been "
+"kind to you!"
+msgstr ""
+
+msgctxt "848_Seto"
+msgid ""
+"Boy, it's been what, over a dozen years and that's all you have to say? But "
+"it's good to see you after all this time."
+msgstr ""
+
+msgctxt "860_Shinada"
+msgid "Likewise! You still a scout?"
+msgstr ""
+
+msgctxt "872_Seto"
+msgid ""
+"Yeah. I'm on my way to see a rookie－the kid we picked first overall in the "
+"draft."
+msgstr ""
+
+msgctxt "884_Shinada"
+msgid ""
+"Oh, yeah, was that Kurashina? He was the star pitcher at Koshien this "
+"summer."
+msgstr ""
+
+msgctxt "896_Seto"
+msgid ""
+"That's him. We got lucky in the draft lottery. Kurashina's a local boy, too,"
+" so we just need to hash out some details, and we'll get him signed."
+msgstr ""
+
+msgctxt "908_Shinada"
+msgid "You still haven't lost your hustle. That's great."
+msgstr ""
+
+msgctxt "920_Seto"
+msgid "So, uh, what about you? Been hanging in there?"
+msgstr ""
+
+msgctxt "932_Shinada"
+msgid ""
+"Oh, you know me. Actually, I'm a journalist now－I work for an adult "
+"magazine. You could even say I have a <Italic>large reputation</Italic> in "
+"the industry... Heheh. Heh."
+msgstr ""
+
+msgctxt "944_Seto"
+msgid ""
+"Huh. Is that right? Well, guess someone's gotta write the words beside the "
+"pictures that no one ever reads. So that's what you've got yourself into."
+msgstr ""
+
+msgctxt "956_Shinada"
+msgid "......"
+msgstr ""
+
+msgctxt "968_Seto"
+msgid "You've had it tough, haven't you? Ever since that game."
+msgstr ""
+
+msgctxt "980_Shinada"
+msgid ""
+"I... think I'll be going now. It was good talking to you again. Oh, and you "
+"really shouldn't be seen with me, by the way."
+msgstr ""
+
+msgctxt "992_Seto"
+msgid "Don't be stupid. Don't you worry about that."
+msgstr ""
+
+msgctxt "1004_Seto"
+msgid ""
+"Besides, I was just about to invite you to join me. Do you feel like meeting"
+" our star rookie? If you've got the time, that is."
+msgstr ""
+
+msgctxt "1016_Shinada"
+msgid "Really?"
+msgstr ""
+
+msgctxt "1028_Seto"
+msgid ""
+"Kurashina wanted to talk to me, so I'm off to see him. How about I treat you"
+" to a drink when we're done?"
+msgstr ""
+
+msgctxt "1040_Shinada"
+msgid ""
+"Hey, if it's on you, I'd sure appreciate it. But are you sure it's all right"
+" for me to tag along?"
+msgstr ""
+
+msgctxt "1052_Seto"
+msgid ""
+"I wouldn't be inviting you if it wasn't. You don't need to be shy around "
+"Kurashina, either. We don't keep secrets from each other."
+msgstr ""
+
+msgctxt "1064_Seto"
+msgid ""
+"Don't tell me you're not curious about him. This Kurashina kid is the "
+"Wyverns' big hope."
+msgstr ""
+
+msgctxt "1076_Shinada"
+msgid "I won't deny I'm curious..."
+msgstr ""
+
+msgctxt "1088_Seto"
+msgid "Then it's decided. I assume you're coming?"
+msgstr ""
+
+msgctxt "1100_Shinada"
+msgid "No, I really shouldn't."
+msgstr ""
+
+msgctxt "1112_Seto"
+msgid "You're sure? It's really okay, you know."
+msgstr ""
+
+msgctxt "1124_Shinada"
+msgid "Next time, maybe. See you."
+msgstr ""
+
+msgctxt "1148_Shinada"
+msgid ""
+"That's an offer I can't turn down. I remember you used to take me out all "
+"the time back when I was on the farm."
+msgstr ""
+
+msgctxt "1160_Seto"
+msgid ""
+"You don't drink as much as you used to, I hope? You should be getting to "
+"that age when you learn a little restraint."
+msgstr ""
+
+msgctxt "1172_Shinada"
+msgid ""
+"Aww, heck no. I can still knock 'em back like the good old\r\n"
+"days. Besides, I still got some youth left in me. Mostly\r\n"
+"below the belt..."
+msgstr ""
+
+msgctxt "1256_Seto"
+msgid "There he is, Tatsuo. The kid in the school uniform－that's Kurashina."
+msgstr ""
+
+msgctxt "1268_Shinada"
+msgid "Oh wow, that really is him."
+msgstr ""
+
+msgctxt "1292_Kurashina"
+msgid "Hello, Seto-san. Thanks for coming out to see me."
+msgstr ""
+
+msgctxt "1304_Seto"
+msgid ""
+"No problem. Until the contract's signed, you're an important negotiating "
+"partner. You're just another rookie after that, of course."
+msgstr ""
+
+msgctxt "1316_Seto"
+msgid "This fellow here, his name's Tatsuo Shinada, and..."
+msgstr ""
+
+msgctxt "1328_Kurashina"
+msgid "Pardon me, Seto-san, but may I speak first?"
+msgstr ""
+
+msgctxt "1340_Seto"
+msgid "Come again? Oh, right, you did say you wanted to discuss something."
+msgstr ""
+
+msgctxt "1352_Kurashina"
+msgid ""
+"Um, Seto-san, I'm sorry, but... I decided not to sign with the Wyverns after"
+" all."
+msgstr ""
+
+msgctxt "1364_Shinada"
+msgid "......"
+msgstr ""
+
+msgctxt "1376_Seto"
+msgid "What!? Wait a minute here. Why all of a sudden?"
+msgstr ""
+
+msgctxt "1388_Kurashina"
+msgid "......"
+msgstr ""
+
+msgctxt "1400_Seto"
+msgid "You said you were looking forward to becoming a Wyvern."
+msgstr ""
+
+msgctxt "1412_Kurashina"
+msgid ""
+"I feel terrible about letting the Wyverns down after they drafted me first, "
+"but I've made up my mind. I'm sorry, Seto-san."
+msgstr ""
+
+msgctxt "1424_Seto"
+msgid "But... What happened? Has some other team been talking to you?"
+msgstr ""
+
+msgctxt "1436_Kurashina"
+msgid "......"
+msgstr ""
+
+msgctxt "1448_Seto"
+msgid "Come on, tell me what this is all about."
+msgstr ""
+
+msgctxt "1460_Kurashina"
+msgid "Look, I'm sorry, Seto-san."
+msgstr ""
+
+msgctxt "1472_Seto"
+msgid "Your \"sorry\" doesn't even begin to suffice for an explanation."
+msgstr ""
+
+msgctxt "1484_Seto"
+msgid ""
+"Besides, what do you intend to do? Are you going to put your career on hold "
+"until next year's draft?"
+msgstr ""
+
+msgctxt "1496_Kurashina"
+msgid "I can't answer that."
+msgstr ""
+
+msgctxt "1508_Seto"
+msgid "Oh, you can't?"
+msgstr ""
+
+msgctxt "1520_Kurashina"
+msgid ""
+"I won't negotiate with the Wyverns anymore. I already decided. Now if you'll"
+" excuse me..."
+msgstr ""
+
+msgctxt "1544_Seto"
+msgid "Kurashina..."
+msgstr ""
+
+msgctxt "1556_Seto"
+msgid "What the hell just happened... Why'd he change his mind?"
+msgstr ""
+
+msgctxt "1568_Shinada"
+msgid "Sounds to me like somebody changed his mind for him."
+msgstr ""
+
+msgctxt "1580_Seto"
+msgid ""
+"I just don't understand. Kurashina's always wanted to join his home team."
+msgstr ""
+
+msgctxt "1592_Seto"
+msgid "He said it was his dream!"
+msgstr ""
+
+msgctxt "1604_Shinada"
+msgid "Guess that dream got bought and sold."
+msgstr ""
+
+msgctxt "1616_Seto"
+msgid "......"
+msgstr ""
+
+msgctxt "1628_Shinada"
+msgid "What are you going to do now, Seto-san?"
+msgstr ""
+
+msgctxt "1640_Seto"
+msgid ""
+"I can't do a damn thing if this is how he's ending negotiations with the "
+"team. What can a lowly scout do?"
+msgstr ""
+
+msgctxt "1652_Shinada"
+msgid "......"
+msgstr ""
+
+msgctxt "1664_Seto"
+msgid "I found Kurashina when he was still in middle school."
+msgstr ""
+
+msgctxt "1676_Seto"
+msgid ""
+"I knew at a glance that the kid had potential. We weren't allowed to contact"
+" him, but I kept an eye on his progress."
+msgstr ""
+
+msgctxt "1688_Seto"
+msgid ""
+"After the draft, I finally got to meet him in person. I told him I'd been "
+"keeping track of his playing career over the years."
+msgstr ""
+
+msgctxt "1700_Seto"
+msgid ""
+"I told him how his pitching was great in a certain game, and how unlucky he "
+"was in another. He was impressed by that."
+msgstr ""
+
+msgctxt "1712_Shinada"
+msgid "Dang... So you guys have some history."
+msgstr ""
+
+msgctxt "1724_Seto"
+msgid ""
+"Yes, so how did it come to this? I simply cannot wrap my\r\n"
+"head around it..."
+msgstr ""
+
+msgctxt "1736_Shinada"
+msgid ""
+"(Only Kurashina can explain that. He went off toward Mid Square... Maybe I "
+"should go after him.)"
+msgstr ""
+
+msgctxt "1772_Seto"
+msgid ""
+"Hey, Tatsuo. Did you change your mind about meeting the rookie? If you can "
+"go, I'll treat you to a drink after."
+msgstr ""
+
+msgctxt "1796_Man"
+msgid "Oh, hey, excuse me. Are you... Tatsuo?"
+msgstr ""
+
+msgctxt "1808_Shinada"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "1820_Man"
+msgid "It's me, Seto! The scout? With the Wyverns?"
+msgstr ""
+
+msgctxt "1832_Shinada"
+msgid ""
+"Whoa! Is this really Seto-san I'm talking to? Man, the years have not been "
+"kind to you!"
+msgstr ""
+
+msgctxt "1844_Seto"
+msgid ""
+"Boy, it's been what, over a dozen years and that's all you have to say? But "
+"it's good to see you after all this time."
+msgstr ""
+
+msgctxt "1856_Shinada"
+msgid "Likewise! You still a scout?"
+msgstr ""
+
+msgctxt "1868_Seto"
+msgid ""
+"Yeah. I'm on my way to see a rookie－the kid we picked first overall in the "
+"draft."
+msgstr ""
+
+msgctxt "1880_Shinada"
+msgid ""
+"Oh, yeah, was that Kurashina? He was the star pitcher at Koshien this "
+"summer."
+msgstr ""
+
+msgctxt "1892_Seto"
+msgid ""
+"That's him. We got lucky in the draft lottery. Kurashina's a local boy, too,"
+" so we just need to hash out some details, and we'll get him signed."
+msgstr ""
+
+msgctxt "1904_Shinada"
+msgid "You still haven't lost your hustle. That's great."
+msgstr ""
+
+msgctxt "1916_Seto"
+msgid "So, uh, what about you? Been hanging in there?"
+msgstr ""
+
+msgctxt "1928_Shinada"
+msgid ""
+"Oh, you know me. Actually, I'm a journalist now－I work for an adult "
+"magazine. You could even say I have a <Italic>large reputation</Italic> in "
+"the industry... Heheh. Heh."
+msgstr ""
+
+msgctxt "1940_Seto"
+msgid ""
+"Huh. Is that right? Well, guess someone's gotta write the words beside the "
+"pictures that no one ever reads. So that's what you've got yourself into."
+msgstr ""
+
+msgctxt "1952_Shinada"
+msgid "......"
+msgstr ""
+
+msgctxt "1964_Seto"
+msgid "You've had it tough, haven't you? Ever since that game."
+msgstr ""
+
+msgctxt "1976_Shinada"
+msgid ""
+"I... think I'll be going now. It was good talking to you again. Oh, and you "
+"really shouldn't be seen with me, by the way."
+msgstr ""
+
+msgctxt "1988_Seto"
+msgid "Don't be stupid. Don't you worry about that."
+msgstr ""
+
+msgctxt "2000_Seto"
+msgid ""
+"Besides, I was just about to invite you to join me. Do you feel like meeting"
+" our star rookie? If you've got the time, that is."
+msgstr ""
+
+msgctxt "2012_Shinada"
+msgid "Really?"
+msgstr ""
+
+msgctxt "2024_Seto"
+msgid ""
+"Kurashina wanted to talk to me, so I'm off to see him. How about I treat you"
+" to a drink when we're done?"
+msgstr ""
+
+msgctxt "2036_Shinada"
+msgid ""
+"Hey, if it's on you, I'd sure appreciate it. But are you sure it's all right"
+" for me to tag along?"
+msgstr ""
+
+msgctxt "2048_Seto"
+msgid ""
+"I wouldn't be inviting you if it wasn't. You don't need to be shy around "
+"Kurashina, either. We don't keep secrets from each other."
+msgstr ""
+
+msgctxt "2060_Seto"
+msgid ""
+"Don't tell me you're not curious about him. This Kurashina kid is the "
+"Wyverns' big hope."
+msgstr ""
+
+msgctxt "2072_Shinada"
+msgid "I won't deny I'm curious..."
+msgstr ""
+
+msgctxt "2084_Seto"
+msgid "Then it's decided. I assume you're coming?"
+msgstr ""
+
+msgctxt "2096_Shinada"
+msgid "No, I really shouldn't."
+msgstr ""
+
+msgctxt "2108_Seto"
+msgid "You're sure? It's really okay, you know."
+msgstr ""
+
+msgctxt "2120_Shinada"
+msgid "Next time, maybe. See you."
+msgstr ""
+
+msgctxt "2144_Shinada"
+msgid ""
+"That's an offer I can't turn down. I remember you used to take me out all "
+"the time back when I was on the farm."
+msgstr ""
+
+msgctxt "2156_Seto"
+msgid ""
+"You don't drink as much as you used to, I hope? You should be getting to "
+"that age when you learn a little restraint."
+msgstr ""
+
+msgctxt "2168_Shinada"
+msgid ""
+"Aww, heck no. I can still knock 'em back like the good old\r\n"
+"days. Besides, I still got some youth left in me. Mostly\r\n"
+"below the belt..."
+msgstr ""
+
+msgctxt "2252_Seto"
+msgid "There he is, Tatsuo. The kid in the school uniform－that's Kurashina."
+msgstr ""
+
+msgctxt "2264_Shinada"
+msgid "Oh wow, that really is him."
+msgstr ""
+
+msgctxt "2288_Kurashina"
+msgid "Hello, Seto-san. Thanks for coming out to see me."
+msgstr ""
+
+msgctxt "2300_Seto"
+msgid ""
+"No problem. Until the contract's signed, you're an important negotiating "
+"partner. You're just another rookie after that, of course."
+msgstr ""
+
+msgctxt "2312_Seto"
+msgid "This fellow here, his name's Tatsuo Shinada, and..."
+msgstr ""
+
+msgctxt "2324_Kurashina"
+msgid "Pardon me, Seto-san, but may I speak first?"
+msgstr ""
+
+msgctxt "2336_Seto"
+msgid "Come again? Oh, right, you did say you wanted to discuss something."
+msgstr ""
+
+msgctxt "2348_Kurashina"
+msgid ""
+"Um, Seto-san, I'm sorry, but... I decided not to sign with the Wyverns after"
+" all."
+msgstr ""
+
+msgctxt "2360_Shinada"
+msgid "......"
+msgstr ""
+
+msgctxt "2372_Seto"
+msgid "What!? Wait a minute here. Why all of a sudden?"
+msgstr ""
+
+msgctxt "2384_Kurashina"
+msgid "......"
+msgstr ""
+
+msgctxt "2396_Seto"
+msgid "You said you were looking forward to becoming a Wyvern."
+msgstr ""
+
+msgctxt "2408_Kurashina"
+msgid ""
+"I feel terrible about letting the Wyverns down after they drafted me first, "
+"but I've made up my mind. I'm sorry, Seto-san."
+msgstr ""
+
+msgctxt "2420_Seto"
+msgid "But... What happened? Has some other team been talking to you?"
+msgstr ""
+
+msgctxt "2432_Kurashina"
+msgid "......"
+msgstr ""
+
+msgctxt "2444_Seto"
+msgid "Come on, tell me what this is all about."
+msgstr ""
+
+msgctxt "2456_Kurashina"
+msgid "Look, I'm sorry, Seto-san."
+msgstr ""
+
+msgctxt "2468_Seto"
+msgid "Your \"sorry\" doesn't even begin to suffice for an explanation."
+msgstr ""
+
+msgctxt "2480_Seto"
+msgid ""
+"Besides, what do you intend to do? Are you going to put your career on hold "
+"until next year's draft?"
+msgstr ""
+
+msgctxt "2492_Kurashina"
+msgid "I can't answer that."
+msgstr ""
+
+msgctxt "2504_Seto"
+msgid "Oh, you can't?"
+msgstr ""
+
+msgctxt "2516_Kurashina"
+msgid ""
+"I won't negotiate with the Wyverns anymore. I already decided. Now if you'll"
+" excuse me..."
+msgstr ""
+
+msgctxt "2540_Seto"
+msgid "Kurashina..."
+msgstr ""
+
+msgctxt "2552_Seto"
+msgid "What the hell just happened... Why'd he change his mind?"
+msgstr ""
+
+msgctxt "2564_Shinada"
+msgid "Sounds to me like somebody changed his mind for him."
+msgstr ""
+
+msgctxt "2576_Seto"
+msgid ""
+"I just don't understand. Kurashina's always wanted to join his home team."
+msgstr ""
+
+msgctxt "2588_Seto"
+msgid "He said it was his dream!"
+msgstr ""
+
+msgctxt "2600_Shinada"
+msgid "Guess that dream got bought and sold."
+msgstr ""
+
+msgctxt "2612_Seto"
+msgid "......"
+msgstr ""
+
+msgctxt "2624_Shinada"
+msgid "What are you going to do now, Seto-san?"
+msgstr ""
+
+msgctxt "2636_Seto"
+msgid ""
+"I can't do a damn thing if this is how he's ending negotiations with the "
+"team. What can a lowly scout do?"
+msgstr ""
+
+msgctxt "2648_Shinada"
+msgid "......"
+msgstr ""
+
+msgctxt "2660_Seto"
+msgid "I found Kurashina when he was still in middle school."
+msgstr ""
+
+msgctxt "2672_Seto"
+msgid ""
+"I knew at a glance that the kid had potential. We weren't allowed to contact"
+" him, but I kept an eye on his progress."
+msgstr ""
+
+msgctxt "2684_Seto"
+msgid ""
+"After the draft, I finally got to meet him in person. I told him I'd been "
+"keeping track of his playing career over the years."
+msgstr ""
+
+msgctxt "2696_Seto"
+msgid ""
+"I told him how his pitching was great in a certain game, and how unlucky he "
+"was in another. He was impressed by that."
+msgstr ""
+
+msgctxt "2708_Shinada"
+msgid "Dang... So you guys have some history."
+msgstr ""
+
+msgctxt "2720_Seto"
+msgid ""
+"Yes, so how did it come to this? I simply cannot wrap my\r\n"
+"head around it..."
+msgstr ""
+
+msgctxt "2732_Shinada"
+msgid ""
+"(Only Kurashina can explain that. He went off toward Mid Square... Maybe I "
+"should go after him.)"
+msgstr ""

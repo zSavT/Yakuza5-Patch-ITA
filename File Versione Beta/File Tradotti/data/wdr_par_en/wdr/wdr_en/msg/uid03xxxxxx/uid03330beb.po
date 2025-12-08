@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "44"
+msgid "You can save the game and use the Item Box at phones."
+msgstr "Puoi salvare il gioco e usare la Scatola degli Oggetti ai telefoni."
+
+msgctxt "644"
+msgid "Save"
+msgstr "Salva"
+
+msgctxt "648"
+msgid "Use the Item Box"
+msgstr "Usa la Cassa oggetti"
+
+msgctxt "652"
+msgid "Cancel"
+msgstr "Annulla"
+
+msgctxt "656"
+msgid "dummy"
+msgstr "dummy"

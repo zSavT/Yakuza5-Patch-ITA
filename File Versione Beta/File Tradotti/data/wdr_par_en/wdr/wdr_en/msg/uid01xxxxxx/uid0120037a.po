@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1152"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "1156"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "1160"
+msgid "HAL_TLK_stand_unhappybig"
+msgstr "HAL_TLK_stand_unhappybig"
+
+msgctxt "1164"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "1168"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "136_Haruka"
+msgid "You're incredible, Uncle Kaz! You really hit it big!"
+msgstr "Sei incredibile, Zio Kaz! Hai fatto il botto!"
+
+msgctxt "160_Haruka"
+msgid "Darn. What a shame, huh, Uncle Kaz?"
+msgstr "Mannaggia. Che peccato, eh, Zio Kaz?"
+
+msgctxt "184_Haruka"
+msgid ""
+"Uncle Kaz! How's your poker face? Can you <Color:8>get 2,000 or more chips "
+"playing poker<Color:Default>?"
+msgstr ""
+"Zio Kaz! Com'è la tua faccia da poker? Riesci a <Color:8>ottenere 2.000 o "
+"più fiches giocando a poker<Color:Default>?"
+
+msgctxt "196_Kiryu"
+msgid ""
+"(Haruka wants me to <Color:8>get 2,000 or more chips in "
+"poker<Color:Default>.)"
+msgstr ""
+"(Haruka vuole che io <Color:8>ottenga 2.000 o più fiches giocando a "
+"poker<Color:Default>.)"

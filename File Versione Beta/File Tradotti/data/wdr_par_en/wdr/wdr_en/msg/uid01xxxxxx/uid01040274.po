@@ -1,0 +1,141 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "172"
+msgid "Select the number of input devices to use."
+msgstr "Seleziona il numero di dispositivi di input da usare."
+
+msgctxt "208"
+msgid "Select the game you want to play."
+msgstr "Seleziona il gioco a cui vuoi giocare."
+
+msgctxt "268"
+msgid "Would you like to play again?"
+msgstr "Vuoi giocare di nuovo?"
+
+msgctxt "316"
+msgid "Another game will cost you 800 yen."
+msgstr "Un'altra partita ti costerà 800 yen."
+
+msgctxt "364"
+msgid "This mode requires two input devices to play."
+msgstr "Questa modalità richiede due dispositivi di input per giocare."
+
+msgctxt "376"
+msgid "Would you like to view the tutorial?"
+msgstr "Vuoi vedere il tutorial?"
+
+msgctxt "424"
+msgid "Another game will cost you 1,600 yen."
+msgstr "Un'altra partita ti costerà 1.600 yen."
+
+msgctxt "472"
+msgid "Select your opponent."
+msgstr "Seleziona il tuo avversario."
+
+msgctxt "4580"
+msgid "One"
+msgstr "Uno"
+
+msgctxt "4584"
+msgid "Two"
+msgstr "Due"
+
+msgctxt "4588"
+msgid "Nine-ball"
+msgstr "Palla nove"
+
+msgctxt "4592"
+msgid "Rotation"
+msgstr "Rotation"
+
+msgctxt "4596"
+msgid "Eight-ball"
+msgstr "Palla 8"
+
+msgctxt "4600"
+msgid "Four-ball"
+msgstr "Quattro palle"
+
+msgctxt "4604"
+msgid "Play Again"
+msgstr "Gioca ancora"
+
+msgctxt "4608"
+msgid "Quit"
+msgstr "Esci"
+
+msgctxt "4612"
+msgid "Pay 800 Yen"
+msgstr "Paga 800 Yen"
+
+msgctxt "4616"
+msgid "Employee"
+msgstr "Cameriere"
+
+msgctxt "4620"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "4624"
+msgid "No"
+msgstr "No"
+
+msgctxt "4628"
+msgid "Pay 1,600 Yen"
+msgstr "Paga 1.600 Yen"
+
+msgctxt "4632"
+msgid "Makoto Kano (Beginner)"
+msgstr "Makoto Kano (Principiante)"
+
+msgctxt "4636"
+msgid "Shunichi Nihama (Intermediate)"
+msgstr "Shunichi Nihama (Intermedio)"
+
+msgctxt "4640"
+msgid "Kiko Hirakawa (Advanced)"
+msgstr "Kiko Hirakawa (Avanzato)"
+
+msgctxt "4644"
+msgid "Seiji Nakazato (Expert)"
+msgstr "Seiji Nakazato (Esperto)"
+
+msgctxt "4648"
+msgid "Play Alone"
+msgstr "Gioca da solo"
+
+msgctxt "4652"
+msgid "Show"
+msgstr "Mostra"
+
+msgctxt "4656"
+msgid "Hide"
+msgstr "Nascondi"
+
+msgctxt "352_Employee"
+msgid "Please come again."
+msgstr "Torni pure a trovarci."
+
+msgctxt "460_Employee"
+msgid "Please come again."
+msgstr "Torni pure a trovarci."
+
+msgctxt "544_One"
+msgid ""
+"Show the cue ball's predicted path?\r\n"
+"(Displaying the trajectory enables easier play.)"
+msgstr ""
+"Mostrare la traiettoria prevista della bilia bianca?\n"
+"(Visualizzare la traiettoria rende il gioco più semplice.)"

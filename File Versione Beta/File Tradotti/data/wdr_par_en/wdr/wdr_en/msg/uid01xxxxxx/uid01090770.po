@@ -1,0 +1,189 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "9420"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "9424"
+msgid "Trap Site Found"
+msgstr "Sito trappola trovato"
+
+msgctxt "9428"
+msgid "Snare"
+msgstr "Laccio"
+
+msgctxt "9432"
+msgid "SS2_P_HNT_set_trap"
+msgstr "SS2_P_HNT_set_trap"
+
+msgctxt "9436"
+msgid "Cage Trap"
+msgstr "Trappola a gabbia"
+
+msgctxt "9440"
+msgid "Cancel"
+msgstr "Annulla"
+
+msgctxt "9444"
+msgid "Leghold Trap"
+msgstr "Trappola per gamba"
+
+msgctxt "108_Player"
+msgid "(I can set a trap here.)"
+msgstr "(Posso piazzare una trappola qui.)"
+
+msgctxt "120_Trap Site Found"
+msgid "You found a trap site."
+msgstr "Hai trovato un sito trappola."
+
+msgctxt "132_Player"
+msgid "(Should I set a trap here?)"
+msgstr "(Dovrei piazzare una trappola qui?)"
+
+msgctxt "144_Player"
+msgid "Yeah, let's set a snare here."
+msgstr "Sì, dai, piazziamo un laccio qui."
+
+msgctxt "216_Player"
+msgid "This'll do."
+msgstr "Questo andrà bene."
+
+msgctxt "228_Player"
+msgid "(I can set a trap here.)"
+msgstr "(Posso piazzare una trappola qui.)"
+
+msgctxt "240_Trap Site Found"
+msgid "You found a trap site."
+msgstr "Hai trovato un sito trappola."
+
+msgctxt "252_Player"
+msgid "(Should I set a trap here?)"
+msgstr "(Dovrei piazzare una trappola qui?)"
+
+msgctxt "264_Player"
+msgid "Yeah, let's set a snare here."
+msgstr "Sì, dai, piazziamo un laccio qui."
+
+msgctxt "336_Player"
+msgid "This'll do."
+msgstr "Questo andrà bene."
+
+msgctxt "348_Player"
+msgid "(I can set a trap here.)"
+msgstr "(Posso piazzare una trappola qui.)"
+
+msgctxt "360_Trap Site Found"
+msgid "You found a trap site."
+msgstr "Hai trovato un sito trappola."
+
+msgctxt "372_Player"
+msgid "(Should I set a trap here?)"
+msgstr "(Dovrei piazzare una trappola qui?)"
+
+msgctxt "384_Player"
+msgid "Yeah, let's set a snare here."
+msgstr "Sì, dai, piazziamo un laccio qui."
+
+msgctxt "456_Player"
+msgid "This'll do."
+msgstr "Questo andrà bene."
+
+msgctxt "468_Player"
+msgid "(I can set a trap here.)"
+msgstr "(Posso piazzare una trappola qui.)"
+
+msgctxt "480_Trap Site Found"
+msgid "You found a trap site."
+msgstr "Hai trovato un sito trappola."
+
+msgctxt "492_Player"
+msgid "(Should I set a trap here?)"
+msgstr "(Dovrei piazzare una trappola qui?)"
+
+msgctxt "504_Player"
+msgid "Yeah, let's set a snare here."
+msgstr "Sì, dai, piazziamo un laccio qui."
+
+msgctxt "576_Player"
+msgid "This'll do."
+msgstr "Questo andrà bene."
+
+msgctxt "588_Player"
+msgid "(I can set a trap here.)"
+msgstr "(Posso piazzare una trappola qui.)"
+
+msgctxt "600_Trap Site Found"
+msgid "You found a trap site."
+msgstr "Hai trovato un sito trappola."
+
+msgctxt "696_Player"
+msgid "(Got no traps to set.)"
+msgstr "(Non ho trappole da piazzare.)"
+
+msgctxt "708_Player"
+msgid "(Should I set a trap here?)"
+msgstr "(Dovrei piazzare una trappola qui?)"
+
+msgctxt "720_Player"
+msgid "(Should I set a trap here?)"
+msgstr "(Dovrei piazzare una trappola qui?)"
+
+msgctxt "732_Player"
+msgid "(Should I set a trap here?)"
+msgstr "(Dovrei piazzare una trappola qui?)"
+
+msgctxt "744_Player"
+msgid "(Should I set a trap here?)"
+msgstr "(Dovrei piazzare una trappola qui?)"
+
+msgctxt "756_Player"
+msgid "(Should I set a trap here?)"
+msgstr "(Dovrei piazzare una trappola qui?)"
+
+msgctxt "768_Player"
+msgid "(Should I set a trap here?)"
+msgstr "(Dovrei piazzare una trappola qui?)"
+
+msgctxt "780_Player"
+msgid "(Should I set a trap here?)"
+msgstr "(Dovrei piazzare una trappola qui?)"
+
+msgctxt "792_Player"
+msgid "Yeah, let's set a snare here."
+msgstr "Sì, piazziamo un laccio qui."
+
+msgctxt "864_Player"
+msgid "This'll do."
+msgstr "Questo andrà bene."
+
+msgctxt "876_Player"
+msgid "Okay, let's set a cage trap."
+msgstr "Va bene, piazziamo una trappola a gabbia."
+
+msgctxt "948_Player"
+msgid "This'll do."
+msgstr "Questo andrà bene."
+
+msgctxt "960_Player"
+msgid "Okay, let's set a leghold trap."
+msgstr "Va bene, piazziamo una trappola per zampe."
+
+msgctxt "1032_Player"
+msgid "This'll do."
+msgstr "Questo andrà bene."
+
+msgctxt "1044_Player"
+msgid "(Maybe not here...)"
+msgstr "(Magari non qui...)"

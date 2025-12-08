@@ -1,0 +1,397 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "32756"
+msgid "Hinata"
+msgstr "Hinata"
+
+msgctxt "32760"
+msgid "F_cab_stand_tlk_run"
+msgstr "F_cab_stand_tlk_run"
+
+msgctxt "32764"
+msgid "P_TLK_stand_tabako_ed"
+msgstr "P_TLK_stand_tabako_ed"
+
+msgctxt "32768"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "32772"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "32776"
+msgid "0"
+msgstr "0"
+
+msgctxt "32780"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "32784"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "32788"
+msgid "F_cab_stand_tlk_byeB"
+msgstr "F_cab_stand_tlk_byeB"
+
+msgctxt "32792"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "32796"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "32800"
+msgid "F_cab_stand_tlk_oishikatta"
+msgstr "F_cab_stand_tlk_oishikatta"
+
+msgctxt "32804"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "32808"
+msgid "It's nothing."
+msgstr "Non è nulla."
+
+msgctxt "32812"
+msgid "I have to get back."
+msgstr "Devo tornare."
+
+msgctxt "1044_Hinata"
+msgid "Kiryu-san!"
+msgstr "Kiryu-san!"
+
+msgctxt "1068_Kiryu"
+msgid "Hey there, Hinata."
+msgstr "Ehi, Hinata."
+
+msgctxt "1080_Hinata"
+msgid "Sorry to keep you waiting!"
+msgstr "Mi scusi per l'attesa!"
+
+msgctxt "1092_Kiryu"
+msgid "Shall we be on our way?"
+msgstr "Ci incamminiamo?"
+
+msgctxt "1140_Hinata"
+msgid "I had a lot of fun!"
+msgstr "Mi sono divertita un sacco!"
+
+msgctxt "1152_Kiryu"
+msgid "Me too."
+msgstr "Anch'io."
+
+msgctxt "1164_Hinata"
+msgid "Okay, I should head on home. See you later!"
+msgstr "Ok, è ora che torni a casa. Ci vediamo!"
+
+msgctxt "1248_Hinata"
+msgid "I'll take good care of it! Thank you so much!"
+msgstr "Ne avrò molta cura! Grazie mille!"
+
+msgctxt "1260_Hinata"
+msgid "Oh, uh, thanks. Where are we off to next?"
+msgstr "Oh, ehm, grazie. Dove andiamo adesso?"
+
+msgctxt "1272_Hinata"
+msgid "Thank you! Come on, where are we off to next?"
+msgstr "Grazie! Dai, dove andiamo adesso?"
+
+msgctxt "1284_Hinata"
+msgid "Oh, but I didn't really want that."
+msgstr "Oh, ma non è che lo volessi davvero."
+
+msgctxt "1320_Hinata"
+msgid ""
+"Oh, I've been wanting this! Thank you so much! Come on, where are we off to "
+"next?"
+msgstr "Oh, questo lo volevo proprio! Grazie mille! Dai, dove andiamo adesso?"
+
+msgctxt "1332_Hinata"
+msgid "Oh, uh, thanks. So where are we off to next?"
+msgstr "Oh, ehm, grazie. Allora, dove andiamo adesso?"
+
+msgctxt "1344_Hinata"
+msgid "Thank you! Come on, where are we off to next?"
+msgstr "Grazie! Dai, dove andiamo adesso?"
+
+msgctxt "1356_Hinata"
+msgid "Aren't you embarrassed about not buying me anything?"
+msgstr "Non ti vergogni a non avermi comprato niente?"
+
+msgctxt "1392_Hinata"
+msgid "You're really good at this, Kiryu-san! I gotta give you props."
+msgstr ""
+"Sei davvero bravo in questo, Kiryu-san! Devo proprio farti i complimenti."
+
+msgctxt "1404_Hinata"
+msgid "Yay, I win! Looks like you have to practice some more, Kiryu-san!"
+msgstr ""
+"Sììì, ho vinto! Mi sa che ti tocca fare un po' più di pratica, Kiryu-san!"
+
+msgctxt "1416_Hinata"
+msgid "Wow, I can't believe it was a tie! I'm gonna win next time!"
+msgstr ""
+"Wow, non ci posso credere che sia finita in parità! La prossima volta vinco "
+"io!"
+
+msgctxt "1452_Hinata"
+msgid "Aww, I wanted to play darts."
+msgstr "Uffa, volevo giocare a freccette."
+
+msgctxt "1464_Hinata"
+msgid "That was lots of fun! Let's do it again sometime!"
+msgstr "È stato un sacco divertente! Dai, rifacciamolo un'altra volta!"
+
+msgctxt "1488_Hinata"
+msgid "That was really tasty! Thanks so much for treating me!"
+msgstr "Era proprio buono! Grazie mille per avermi offerto!"
+
+msgctxt "1500_Hinata"
+msgid "Where are we off to next?"
+msgstr "Dai, dove andiamo adesso?"
+
+msgctxt "1512_Hinata"
+msgid "Where are we off to next?"
+msgstr "Dai, dove andiamo adesso?"
+
+msgctxt "1524_Hinata"
+msgid "Oh, but I was hungry."
+msgstr "Ah, ma avevo fame."
+
+msgctxt "1560_Hinata"
+msgid "That was really tasty! Thanks so much for treating me!"
+msgstr "Era proprio buono! Grazie mille per avermi offerto!"
+
+msgctxt "1572_Hinata"
+msgid "Oh eww, that was nasty. Let's go to the next place already."
+msgstr "Oh, bleah, che roba! Andiamo al prossimo posto, dai."
+
+msgctxt "1584_Hinata"
+msgid "That wasn't too bad! Come on, where are we off to next?"
+msgstr "Non è andata malaccio! Dai, dove andiamo adesso?"
+
+msgctxt "1596_Hinata"
+msgid "But I was hungry."
+msgstr "Ma avevo fame."
+
+msgctxt "1632_Hinata"
+msgid "That was really tasty! Thanks so much for treating me!"
+msgstr "Era proprio buono! Grazie mille per avermi offerto!"
+
+msgctxt "1644_Hinata"
+msgid "Oh eww, that was nasty. Let's go to the next place already."
+msgstr "Oh, bleah, che roba! Andiamo al prossimo posto, dai."
+
+msgctxt "1656_Hinata"
+msgid "That wasn't too bad! Come on, where are we off to next?"
+msgstr "Non è andata malaccio! Dai, dove andiamo adesso?"
+
+msgctxt "1668_Hinata"
+msgid "But I was hungry."
+msgstr "Ma avevo fame."
+
+msgctxt "1704_Hinata"
+msgid "You're really good at that, Kiryu-san! I'm kind of surprised!"
+msgstr "Ma sei proprio bravo, Kiryu-san! Sono rimasta un po' stupita!"
+
+msgctxt "1716_Hinata"
+msgid "Yay, I win! Looks like you have to practice some more, Kiryu-san!"
+msgstr ""
+"Evviva, ho vinto! A quanto pare, ti tocca fare un po' più di pratica, Kiryu-"
+"san!"
+
+msgctxt "1728_Hinata"
+msgid "Wow, I can't believe it was a tie! I'm gonna win next time!"
+msgstr ""
+"Wow, non posso credere che sia stato un pareggio! La prossima volta vinco "
+"io!"
+
+msgctxt "1764_Hinata"
+msgid "Aww, I wanted to play pool."
+msgstr "Uffa, volevo giocare a biliardo."
+
+msgctxt "1776_Hinata"
+msgid ""
+"That was lots of fun! I'm going to have to practice so I can get better!"
+msgstr "Mi sono divertita un sacco! Mi toccherà fare pratica per migliorare!"
+
+msgctxt "1800_Hinata"
+msgid "You're really good at this, Kiryu-san. I'm kind of surprised!"
+msgstr "Ma sei proprio bravo, Kiryu-san! Sono rimasta un po' stupita!"
+
+msgctxt "1812_Hinata"
+msgid "Yay, I win! Looks like you gotta practice some more, Kiryu-san!"
+msgstr ""
+"Evviva, ho vinto! A quanto pare, ti tocca fare un po' più di pratica, Kiryu-"
+"san!"
+
+msgctxt "1824_Hinata"
+msgid "Wow, I can't believe it was a tie! I'm gonna win next time!"
+msgstr ""
+"Wow, non posso credere che sia stato un pareggio! La prossima volta vinco "
+"io!"
+
+msgctxt "1860_Hinata"
+msgid "Aww, but I wanted to play."
+msgstr "Uffa, ma volevo giocare."
+
+msgctxt "1872_Hinata"
+msgid "That was lots of fun! Let's do it again sometime!"
+msgstr "Mi sono divertita un sacco! Rifacciamolo un'altra volta!"
+
+msgctxt "1956_Hinata"
+msgid "Oh, these came out really good!"
+msgstr "Oh, questi sono venuti proprio bene!"
+
+msgctxt "1968_Hinata"
+msgid "Bleh, these didn't turn out that great, huh?"
+msgstr "Uffa, questi non sono venuti un granché, eh?"
+
+msgctxt "1980_Hinata"
+msgid "What? We're stopping?"
+msgstr "Ma come? Ci fermiamo?"
+
+msgctxt "2016_Hinata"
+msgid ""
+"I wanted to take a photo together. You don't have to be so shy about it."
+msgstr "Volevo fare una foto insieme. Non fare il timido."
+
+msgctxt "2028_Hinata"
+msgid "That was lots of fun! You've sure got some nice moves, Kiryu-san!"
+msgstr "Mi sono divertita un sacco! Hai proprio delle belle mosse, Kiryu-san!"
+
+msgctxt "2064_Hinata"
+msgid "Oh, I wanted this! Thank you so much, Kiryu-san!"
+msgstr "Oh, volevo proprio questo! Grazie mille, Kiryu-san!"
+
+msgctxt "2076_Hinata"
+msgid "Yay, I win! Come on, where are we off to next?"
+msgstr "Evviva, ho vinto! Dai, dove andiamo adesso?"
+
+msgctxt "2088_Hinata"
+msgid "Guess it's a tie! Come on, where are we off to next?"
+msgstr "Immagino sia un pareggio! Dai, dove andiamo adesso?"
+
+msgctxt "2124_Hinata"
+msgid "Aww, but I wanted that."
+msgstr "Uffa, ma volevo proprio quello."
+
+msgctxt "2136_Hinata"
+msgid "That was lots of fun! You're pretty good at that, Kiryu-san!"
+msgstr "Mi sono divertita un sacco! Te la cavi proprio bene, Kiryu-san!"
+
+msgctxt "2220_Hinata"
+msgid "Oh, these came out really good!"
+msgstr "Oh, questi sono venuti proprio bene!"
+
+msgctxt "2232_Hinata"
+msgid "Bleh, these didn't turn out that great, huh?"
+msgstr "Uffa, questi non sono venuti un granché, eh?"
+
+msgctxt "2244_Hinata"
+msgid "What? We're stopping?"
+msgstr "Ma come? Ci fermiamo?"
+
+msgctxt "2280_Hinata"
+msgid ""
+"I wanted to take a photo together. You don't have to be so shy about it."
+msgstr "Volevo fare una foto insieme. Non fare il timido."
+
+msgctxt "2292_Hinata"
+msgid "That was lots of fun! You've sure got some nice moves, Kiryu-san!"
+msgstr "Mi sono divertita un sacco! Hai proprio delle belle mosse, Kiryu-san!"
+
+msgctxt "2316_Hinata"
+msgid "You're really good at this, Kiryu-san! I'm kind of surprised!"
+msgstr "Te la cavi davvero bene in questo, Kiryu-san! Sono un po' sorpresa!"
+
+msgctxt "2328_Hinata"
+msgid "Well, I guess singing isn't everything."
+msgstr "Vabbè, cantare non è mica tutto."
+
+msgctxt "2340_Hinata"
+msgid "That was fun! We should come back here again sometime!"
+msgstr "Mi sono divertita un sacco! Dovremmo tornarci ancora, qualche volta!"
+
+msgctxt "2352_Hinata"
+msgid "I can't believe this! Are you trying to mess with me or something?"
+msgstr "Non ci posso credere! Mi stai prendendo in giro o cosa?"
+
+msgctxt "2388_Hinata"
+msgid "You're really good at this, Kiryu-san! I'm kind of surprised!"
+msgstr "Te la cavi davvero bene in questo, Kiryu-san! Sono un po' sorpresa!"
+
+msgctxt "2400_Hinata"
+msgid "Yay, I win! Looks like you gotta practice some more, Kiryu-san!"
+msgstr "Evviva, ho vinto! Mi sa che devi allenarti ancora un po', Kiryu-san!"
+
+msgctxt "2412_Hinata"
+msgid "Wow, I can't believe it was a tie! I'm gonna win next time!"
+msgstr ""
+"Wow, non ci posso credere che sia finita in parità! La prossima volta vinco "
+"io!"
+
+msgctxt "2448_Hinata"
+msgid "Aww, but I wanted to go bowling."
+msgstr "Uffa, però volevo andare a bowling."
+
+msgctxt "2460_Hinata"
+msgid ""
+"That was lots of fun! I'm going to have to practice so I can get better!"
+msgstr "Mi sono divertita un sacco! Dovrò allenarmi per migliorare!"
+
+msgctxt "2484_Hinata"
+msgid "You're really good at this, Kiryu-san! I'm kind of surprised!"
+msgstr "Te la cavi davvero bene in questo, Kiryu-san! Sono un po' sorpresa!"
+
+msgctxt "2496_Hinata"
+msgid "Yay, I win! Looks like you gotta practice some more, Kiryu-san!"
+msgstr "Evviva, ho vinto! Mi sa che devi allenarti ancora un po', Kiryu-san!"
+
+msgctxt "2508_Hinata"
+msgid "Wow, I can't believe it was a tie! I'm gonna win next time!"
+msgstr ""
+"Wow, non ci posso credere che sia finita in parità! La prossima volta vinco "
+"io!"
+
+msgctxt "2520_Hinata"
+msgid ""
+"A game of air hockey after a soak in the hot spring would be so awesome. I "
+"can't believe you can't appreciate how awesome that is."
+msgstr ""
+"Una partita a air hockey dopo un bagno nelle terme sarebbe una figata "
+"pazzesca. Non ci posso credere che tu non riesca ad apprezzare che figata "
+"sia."
+
+msgctxt "2556_Hinata"
+msgid "Shoot, I'm sorry, but something came up. I need to be on my way home."
+msgstr ""
+"Accidenti, mi dispiace, ma mi è capitato un imprevisto. Devo tornare a casa."
+
+msgctxt "2652_Hinata"
+msgid "What's wrong?"
+msgstr "Che succede?"
+
+msgctxt "2664_Hinata"
+msgid "Okay then, let's get going."
+msgstr "Va bene, allora, andiamo."
+
+msgctxt "2676_Hinata"
+msgid "Oh, okay. See you later!"
+msgstr "Oh, va bene. Ci vediamo dopo!"

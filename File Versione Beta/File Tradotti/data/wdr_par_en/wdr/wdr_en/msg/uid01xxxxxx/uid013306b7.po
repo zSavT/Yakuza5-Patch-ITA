@@ -1,0 +1,272 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "8364"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "8368"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "8372"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "8376"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "8380"
+msgid "Give It a Try"
+msgstr "Provaci"
+
+msgctxt "8384"
+msgid "Forget It"
+msgstr "Lascia perdere"
+
+msgctxt "8388"
+msgid "HAL_TLK_stand_unhappy"
+msgstr "HAL_TLK_stand_unhappy"
+
+msgctxt "8392"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "8396"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "8400"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "8404"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "8408"
+msgid "HAL_TLK_stand_request02"
+msgstr "HAL_TLK_stand_request02"
+
+msgctxt "8412"
+msgid "Play"
+msgstr "Gioca"
+
+msgctxt "8416"
+msgid "Read Instructions"
+msgstr "Leggi Istruzioni"
+
+msgctxt "8420"
+msgid "Cancel"
+msgstr "Annulla"
+
+msgctxt "8424"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "8428"
+msgid "Gunrhein"
+msgstr "Gunrhein"
+
+msgctxt "60_Player"
+msgid "(Gunrhein. It's a shooting game. 100 yen to play. Do I want to play?)"
+msgstr "(Gunrhein. È uno sparatutto. 100 yen per giocare. Voglio giocare?)"
+
+msgctxt "72_Haruka"
+msgid ""
+"Uncle Kaz! Try to <Color:8>clear two stages or more in "
+"Gunrhein<Color:Default>!"
+msgstr ""
+"Zio Kaz! Prova a <Color:8>superare due livelli o più in "
+"Gunrhein<Color:Default>!"
+
+msgctxt "84_Kiryu"
+msgid ""
+"(Looks like Haruka wants me to <Color:8>clear two stages or more in "
+"Gunrhein<Color:Default>.)"
+msgstr ""
+"(Sembra che Haruka voglia che io <Color:8>superi due livelli o più in "
+"Gunrhein<Color:Default>.)"
+
+msgctxt "108_Haruka"
+msgid "Aww, okay. Some other time."
+msgstr "Ah, va bene. Magari un'altra volta."
+
+msgctxt "144_Kiryu"
+msgid "(I don't have money...)"
+msgstr "(Non ho soldi...)"
+
+msgctxt "156_Akiyama"
+msgid "(I'm all out of cash.)"
+msgstr "(Sono al verde.)"
+
+msgctxt "168_Saejima"
+msgid "(Ain't got no money.)"
+msgstr "(Non ho soldi.)"
+
+msgctxt "180_Shinada"
+msgid "(Oops. Can't afford it.)"
+msgstr "(Ops. Non posso permettermelo.)"
+
+msgctxt "192_Haruka"
+msgid "(I don't have enough money.)"
+msgstr "(Non ho abbastanza soldi.)"
+
+msgctxt "228_Kiryu"
+msgid "(All right. Let's try this.)"
+msgstr "(Va bene. Proviamo.)"
+
+msgctxt "240_Akiyama"
+msgid "(Sure, why not? Let's play.)"
+msgstr "(Ma sì, dai. Giochiamo.)"
+
+msgctxt "252_Saejima"
+msgid "(Sure. Let's play.)"
+msgstr "(Va bene. Giochiamo.)"
+
+msgctxt "264_Shinada"
+msgid "(Okay. let's play this thing.)"
+msgstr "(Va bene. Giochiamo a 'sta roba.)"
+
+msgctxt "276_Haruka"
+msgid "(Okay! Here goes.)"
+msgstr "(Va bene! Ci provo.)"
+
+msgctxt "288_Player"
+msgid "Good luck, Uncle Kaz!"
+msgstr "Buona fortuna, Zio Kaz!"
+
+msgctxt "312_Player"
+msgid "(Gunrhein. It's a shooting game. 100 yen to play. Do I want to play?)"
+msgstr "(Gunrhein. È uno sparatutto. Cento yen per giocare. Ci gioco?)"
+
+msgctxt "348_Kiryu"
+msgid "(I don't have money...)"
+msgstr "(Non ho soldi...)"
+
+msgctxt "360_Akiyama"
+msgid "(I'm all out of cash.)"
+msgstr "(Sono a secco di soldi.)"
+
+msgctxt "372_Saejima"
+msgid "(Ain't got no money.)"
+msgstr "(Sono a secco di soldi.)"
+
+msgctxt "384_Shinada"
+msgid "(Oops. Can't afford it.)"
+msgstr "(Ops. Non me lo posso permettere.)"
+
+msgctxt "396_Haruka"
+msgid "(I don't have enough money.)"
+msgstr "(Non ho abbastanza soldi.)"
+
+msgctxt "432_Kiryu"
+msgid "(All right. Let's try this.)"
+msgstr "(Va bene. Proviamo 'sta roba.)"
+
+msgctxt "444_Akiyama"
+msgid "(Sure, why not? Let's play.)"
+msgstr "(Va bene, perché no? Giochiamo.)"
+
+msgctxt "456_Saejima"
+msgid "(Sure. Let's play.)"
+msgstr "(Va bene. Giochiamo.)"
+
+msgctxt "468_Shinada"
+msgid "(Okay. let's play this thing.)"
+msgstr "(Va bene. Giochiamo a 'sta roba.)"
+
+msgctxt "480_Haruka"
+msgid "(Okay! Here goes.)"
+msgstr "(Va bene! Si parte.)"
+
+msgctxt "516_Kiryu"
+msgid "(No, not right now.)"
+msgstr "(No, adesso no.)"
+
+msgctxt "528_Akiyama"
+msgid "(No, let's not.)"
+msgstr "(No, lasciamo perdere.)"
+
+msgctxt "540_Saejima"
+msgid "(Nah. Forget it.)"
+msgstr "(No. Lasciamo perdere.)"
+
+msgctxt "552_Shinada"
+msgid "(Maybe not...)"
+msgstr "(Forse no...)"
+
+msgctxt "564_Haruka"
+msgid "(Some other time.)"
+msgstr "(Magari un'altra volta.)"
+
+msgctxt "588_Gunrhein"
+msgid ""
+"\r\n"
+"Gunrhein is a shooting game in which you pilot an invincible fighter craft to defend your base units from waves of enemies."
+msgstr ""
+"Gunrhein è uno sparatutto in cui piloti un caccia invincibile per difendere "
+"le tue unità base da ondate di nemici."
+
+msgctxt "600_Gunrhein"
+msgid ""
+"\r\n"
+"While your fighter is invincible, your base units are destroyed upon contact with an enemy. If all base units are destroyed, the game is over."
+msgstr ""
+"Mentre il tuo caccia è invincibile, le tue unità base vengono distrutte al "
+"contatto con un nemico. Se tutte le unità base vengono distrutte, la partita"
+" finisce."
+
+msgctxt "612_Gunrhein"
+msgid ""
+"\r\n"
+"Your fighter can't attack enemies. Instead, it can set cannons. The cannons fire beams automatically to shoot down enemies."
+msgstr ""
+"Il tuo caccia non può attaccare i nemici. Invece, può piazzare dei cannoni. "
+"I cannoni sparano raggi automaticamente per abbattere i nemici."
+
+msgctxt "624_Gunrhein"
+msgid ""
+"\r\n"
+"Once set, a cannon fires until it runs out of energy. It can't rotate－it is set in place based on the fighter's position and direction at the time of placement. Place them well to meet oncoming enemies effectively."
+msgstr ""
+"Una volta piazzato, un cannone spara finché non esaurisce l'energia. Non può"
+" ruotare－viene piazzato in base alla posizione e alla direzione del caccia "
+"al momento del posizionamento. Piazzali bene per affrontare efficacemente i "
+"nemici in arrivo."
+
+msgctxt "636_Gunrhein"
+msgid ""
+"\r\n"
+"A cannon does not use energy while its beam is hitting enemies. Its energy drains if its beam is firing at nothing. If the energy dwindles to nothing, the cannon flashes red before disappearing."
+msgstr ""
+"Un cannone non consuma energia mentre il suo raggio colpisce i nemici. La "
+"sua energia si esaurisce se il suo raggio spara a vuoto. Se l'energia si "
+"azzera, il cannone lampeggia di rosso prima di scomparire."
+
+msgctxt "648_Gunrhein"
+msgid ""
+"\r\n"
+"If the beams of multiple cannons are overlaid, they combine as a more powerful beam. If the button is held down before the cannon is placed, its beam is also intensified."
+msgstr ""
+"Se i raggi di più cannoni si sovrappongono, si combinano in un raggio più "
+"potente. Se si tiene premuto il pulsante prima di piazzare il cannone, anche"
+" il suo raggio viene intensificato."
+
+msgctxt "660_Gunrhein"
+msgid ""
+"\r\n"
+"Complete five stages to clear the game."
+msgstr "Completa cinque livelli per completare il gioco."

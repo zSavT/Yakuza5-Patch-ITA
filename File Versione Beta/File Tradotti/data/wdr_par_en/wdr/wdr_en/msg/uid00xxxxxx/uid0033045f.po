@@ -1,0 +1,1008 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "148"
+msgid "You got a <Color:8>Low-resilience Jacket<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Giacca a bassa resilienza<Color:Default>."
+
+msgctxt "48148"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "48152"
+msgid "Manager"
+msgstr "Manager"
+
+msgctxt "48156"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "48160"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "48164"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "48168"
+msgid "Play Against Haruka"
+msgstr "Sfida Haruka"
+
+msgctxt "48172"
+msgid "Play a Tag Match with Haruka"
+msgstr "Gioca una partita a squadre con Haruka"
+
+msgctxt "48176"
+msgid "Don't Play"
+msgstr "Non giocare"
+
+msgctxt "48180"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "48184"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "48188"
+msgid "Hinata"
+msgstr "Hinata"
+
+msgctxt "48192"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "48196"
+msgid "Three Frames"
+msgstr "Tre Frame"
+
+msgctxt "48200"
+msgid "Ten Frames"
+msgstr "Dieci Frame"
+
+msgctxt "48204"
+msgid "Riku"
+msgstr "Riku"
+
+msgctxt "48208"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "48212"
+msgid "Honoka"
+msgstr "Honoka"
+
+msgctxt "48216"
+msgid "Kaguya"
+msgstr "Kaguya"
+
+msgctxt "48220"
+msgid "Shion"
+msgstr "Shion"
+
+msgctxt "48224"
+msgid "Mach-ko"
+msgstr "Mach-ko"
+
+msgctxt "48228"
+msgid "Play Alone"
+msgstr "Gioca da solo"
+
+msgctxt "48232"
+msgid "Invite Someone"
+msgstr "Invita qualcuno"
+
+msgctxt "48236"
+msgid "Play against Staff"
+msgstr "Gioca contro lo staff"
+
+msgctxt "48240"
+msgid "Split Game"
+msgstr "Dividi Partita"
+
+msgctxt "48244"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "48248"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "48252"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "48256"
+msgid "Play"
+msgstr "Gioca"
+
+msgctxt "48260"
+msgid "Nobody"
+msgstr "Nessuno"
+
+msgctxt "124_Player"
+msgid "(This was fun. Maybe I'll do something else now.)"
+msgstr "È stato divertente. Magari faccio qualcos'altro, adesso."
+
+msgctxt "136_Manager"
+msgid "Congratulations! You managed to knock down the red pin!"
+msgstr "Complimenti! Sei riuscito a buttare giù il birillo rosso!"
+
+msgctxt "172_Manager"
+msgid "Here's your prize. Please do come again."
+msgstr "Ecco il tuo premio. Torna pure quando vuoi."
+
+msgctxt "184_Manager"
+msgid "Welcome. Is it just the two of you today?"
+msgstr "Benvenuti. Siete solo in due oggi?"
+
+msgctxt "196_Player"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "208_Manager"
+msgid "It'll be 1,000 yen for two players."
+msgstr "Saranno 1.000 yen per due giocatori."
+
+msgctxt "232_Player"
+msgid "Okay, got it."
+msgstr "Okay, capito."
+
+msgctxt "244_Kiryu"
+msgid "(What should I do?)"
+msgstr "(Che faccio?)"
+
+msgctxt "256_Player"
+msgid "You won't beat me, Uncle Kaz!"
+msgstr "Non mi batterai, Zio Kaz!"
+
+msgctxt "280_Player"
+msgid "Give it your best shot, Uncle Kaz!"
+msgstr "Dacci dentro, Zio Kaz!"
+
+msgctxt "304_Player"
+msgid "(I'm broke.)"
+msgstr "(Sono al verde.)"
+
+msgctxt "316_Manager"
+msgid "Have fun!"
+msgstr "Divertitevi!"
+
+msgctxt "328_Player"
+msgid "Sorry, not today."
+msgstr "Scusa, non oggi."
+
+msgctxt "340_Manager"
+msgid "I see. Please come again."
+msgstr "Capisco. Torni a trovarci."
+
+msgctxt "352_Manager"
+msgid "Welcome. Is it just the two of you today?"
+msgstr "Benvenuti. Siete solo voi due oggi?"
+
+msgctxt "364_Hinata"
+msgid "Come on, let's bowl!"
+msgstr "Dai, andiamo a bowling!"
+
+msgctxt "376_Player"
+msgid "(Hinata wants to bowl with me.)"
+msgstr "(Hinata vuole giocare a bowling con me.)"
+
+msgctxt "388_Manager"
+msgid "It'll be 1,000 yen for two players."
+msgstr "Saranno 1.000 yen per due giocatori."
+
+msgctxt "412_Player"
+msgid "Okay, got it."
+msgstr "Okay, capito."
+
+msgctxt "424_Hinata"
+msgid "Good luck beating me!"
+msgstr "In bocca al lupo a battermi!"
+
+msgctxt "436_Manager"
+msgid "How many frames will you play?"
+msgstr "Quanti frame giocherai?"
+
+msgctxt "448_Player"
+msgid "Three frames, please."
+msgstr "Tre frame, per favore."
+
+msgctxt "460_Player"
+msgid "Ten frames, please."
+msgstr "Dieci frame, per favore."
+
+msgctxt "472_Player"
+msgid "Have fun!"
+msgstr "Divertitevi!"
+
+msgctxt "496_Player"
+msgid "(I'm broke.)"
+msgstr "(Sono al verde.)"
+
+msgctxt "544_Riku"
+msgid "Wow, you're really good at this, Kiryu-san! I'm kinda impressed!"
+msgstr ""
+"Wow, sei davvero bravo a questo, Kiryu-san! Sono un po' impressionata!"
+
+msgctxt "556_Riku"
+msgid "I win!"
+msgstr "Ho vinto!"
+
+msgctxt "568_Riku"
+msgid "Aww, guess it's a draw. But I'll beat ya next time!"
+msgstr "Dai, è un pareggio. Ma la prossima volta ti batto!"
+
+msgctxt "592_Riku"
+msgid ""
+"That was wicked fun! I'm headin' back to Hakata now! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"È stato uno spasso! Me ne torno ad Hakata adesso! "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "640_Riku"
+msgid ""
+"That was wicked fun! Call me again, okay? "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"È stato uno spasso! Richiamami, ok? <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "700_Honoka"
+msgid "You're real good, Akiyama-san! I'm kinda surprised!"
+msgstr "Sei davvero bravo, Akiyama-san! Sono un po' sorpresa!"
+
+msgctxt "712_Honoka"
+msgid "Yeah, I win! Gotta try a little harder than that, Akiyama-san!"
+msgstr "Sì, ho vinto! Devi impegnarti un po' di più di così, Akiyama-san!"
+
+msgctxt "724_Honoka"
+msgid "Wow, I can't believe it's a draw! Next time I'm definitely gonna win!"
+msgstr ""
+"Wow, non ci credo che sia un pareggio! La prossima volta ti batto di sicuro!"
+
+msgctxt "748_Honoka"
+msgid ""
+"That was super fun! Now I gotta get back to Osaka. "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"È stato uno spasso! Ora me ne torno a Osaka. "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "796_Honoka"
+msgid ""
+"That was a lotta fun! Gimme a call again, okay? "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"È stato uno spasso! Richiamami, ok? <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "856_Kaguya"
+msgid "You're amazing, Saejima-san! I really have to hand it to you."
+msgstr "Sei incredibile, Saejima-san! Devo proprio darti atto."
+
+msgctxt "868_Kaguya"
+msgid "I win! Better luck next time, Saejima-san!"
+msgstr "Ho vinto! Sarà per la prossima volta, Saejima-san!"
+
+msgctxt "880_Kaguya"
+msgid ""
+"Wow, I can't believe it was that close! That really got my blood pumping "
+"good!"
+msgstr ""
+"Wow, non ci credo che sia stata così tirata! Mi ha fatto pompare il sangue "
+"di brutto!"
+
+msgctxt "904_Kaguya"
+msgid ""
+"That was a lot of fun! I need to head back home now, though. "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"È stato uno spasso! Me ne torno a casa adesso, però. "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "952_Kaguya"
+msgid ""
+"That was a lot of fun! Please give me a call again sometime! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"È stato uno spasso! Richiamami ancora, per favore! "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "1012_Shion"
+msgid ""
+"Shinada-san, you're so good at this! You definitely have my admiration."
+msgstr "Shinada-san, sei bravissimo in questo! Hai tutta la mia ammirazione."
+
+msgctxt "1024_Shion"
+msgid "Oh, I win! I knew I wouldn't lose to you, Shinada-san."
+msgstr "Oh, ho vinto! Sapevo che non avrei perso contro di te, Shinada-san."
+
+msgctxt "1036_Shion"
+msgid ""
+"How remarkable that we managed to have a draw! I'll be sure to win next "
+"time, though!"
+msgstr ""
+"Incredibile che sia finita in pareggio! La prossima volta ti batto di "
+"sicuro, però!"
+
+msgctxt "1060_Shion"
+msgid ""
+"That was quite fun! I'll be heading back to Nagoya now. "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"È stato uno spasso! Me ne torno a Nagoya adesso. "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "1108_Shion"
+msgid ""
+"That was such fun! Please do call me again! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"È stato uno spasso! Richiamami ancora, per favore! "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "1168_Hinata"
+msgid "You're really good at that, Kiryu-san! I'm kinda surprised!"
+msgstr "Sei bravissimo in questo, Kiryu-san! Sono un po' sorpresa!"
+
+msgctxt "1180_Hinata"
+msgid "Yay, I win! Looks like you have to practice some more, Kiryu-san!"
+msgstr ""
+"Evviva, ho vinto! Mi sa che ti tocca fare un po' più di pratica, Kiryu-san!"
+
+msgctxt "1192_Hinata"
+msgid "Wow, I can't believe it was a tie! But I'm gonna win next time!"
+msgstr ""
+"Wow, non ci credo che sia finita in pareggio! Ma la prossima volta ti batto "
+"di sicuro!"
+
+msgctxt "1204_Hinata"
+msgid ""
+"That was super fun! Ask me out again sometime! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"È stato uno spasso! Richiamami ancora, per favore! "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "1252_Mach-ko"
+msgid "That was fun! I'm here to take you on anytime you want! See ya!"
+msgstr ""
+"È stato uno spasso! Sono qui per darti battaglia quando vuoi! Ci vediamo!"
+
+msgctxt "1336_Player"
+msgid "Welcome! How would you like to play today?"
+msgstr "Benvenuto! Come vuoi giocare oggi?"
+
+msgctxt "1360_Kiryu"
+msgid "Not right now, sorry."
+msgstr "Non adesso, mi dispiace."
+
+msgctxt "1372_Akiyama"
+msgid "No, not right now."
+msgstr "No, non adesso."
+
+msgctxt "1384_Saejima"
+msgid "Nah, not now."
+msgstr "No, non adesso."
+
+msgctxt "1396_Shinada"
+msgid "No, not now."
+msgstr "No, non adesso."
+
+msgctxt "1408_Haruka"
+msgid "Sorry, but I can't."
+msgstr "Mi dispiace, ma non posso."
+
+msgctxt "1420_Manager"
+msgid "I see. Please come again anytime."
+msgstr "Capisco. Torna pure quando vuoi."
+
+msgctxt "1444_Kiryu"
+msgid "I'll be playing by myself."
+msgstr "Giocherò da solo."
+
+msgctxt "1456_Akiyama"
+msgid "I'll play solo."
+msgstr "Giocherò da solo."
+
+msgctxt "1468_Saejima"
+msgid "It'll just be me playin'."
+msgstr "Giocherò da solo."
+
+msgctxt "1480_Shinada"
+msgid "Is it cool if I play alone?"
+msgstr "Ti va bene se gioco da solo?"
+
+msgctxt "1492_Haruka"
+msgid "I'll be playing alone."
+msgstr "Giocherò da solo."
+
+msgctxt "1516_Player"
+msgid "Very well. That'll be 500 yen, please."
+msgstr "Va bene. Sono 500 yen, prego."
+
+msgctxt "1552_Kiryu"
+msgid "Okay, got it."
+msgstr "Okay, capito."
+
+msgctxt "1564_Akiyama"
+msgid "Okay, sure."
+msgstr "Okay, certo."
+
+msgctxt "1576_Saejima"
+msgid "This okay?"
+msgstr "Va bene così?"
+
+msgctxt "1588_Shinada"
+msgid "Ah, sure, sure."
+msgstr "Ah, certo, certo."
+
+msgctxt "1600_Haruka"
+msgid "Sure, all right."
+msgstr "Certo, va bene."
+
+msgctxt "1624_Player"
+msgid "How many frames will you play?"
+msgstr "Quanti frame giocherai?"
+
+msgctxt "1636_Player"
+msgid "Three frames."
+msgstr "Tre frame."
+
+msgctxt "1648_Player"
+msgid "Ten frames."
+msgstr "Dieci frame."
+
+msgctxt "1660_Player"
+msgid "Have fun!"
+msgstr "Divertiti!"
+
+msgctxt "1720_Kiryu"
+msgid "(I don't have the money.)"
+msgstr "(Non ho i soldi.)"
+
+msgctxt "1732_Akiyama"
+msgid "(I don't have the money.)"
+msgstr "(Non ho i soldi.)"
+
+msgctxt "1744_Saejima"
+msgid "(I ain't got the money.)"
+msgstr "(Non ho i soldi.)"
+
+msgctxt "1756_Shinada"
+msgid "(I don't have enough money.)"
+msgstr "(Non ho abbastanza soldi.)"
+
+msgctxt "1768_Haruka"
+msgid "(I don't have enough money.)"
+msgstr "(Non ho abbastanza soldi.)"
+
+msgctxt "1804_Kiryu"
+msgid "You can play against me."
+msgstr "Puoi sfidarmi."
+
+msgctxt "1816_Akiyama"
+msgid "I'll play against you."
+msgstr "Ti sfido."
+
+msgctxt "1828_Saejima"
+msgid "You and me, let's do this."
+msgstr "Io e te, facciamola."
+
+msgctxt "1840_Shinada"
+msgid "Can I have a game against you?"
+msgstr "Posso sfidarti?"
+
+msgctxt "1852_Haruka"
+msgid "Can I play against you?"
+msgstr "Posso sfidarti?"
+
+msgctxt "1876_Player"
+msgid "That'll be 500 yen."
+msgstr "Saranno 500 yen."
+
+msgctxt "1912_Kiryu"
+msgid "Okay, got it."
+msgstr "Okay, capito."
+
+msgctxt "1924_Akiyama"
+msgid "Okay, sure."
+msgstr "Okay, certo."
+
+msgctxt "1936_Saejima"
+msgid "This okay?"
+msgstr "Va bene?"
+
+msgctxt "1948_Shinada"
+msgid "Ah, sure, sure."
+msgstr "Ah, certo, certo."
+
+msgctxt "1960_Haruka"
+msgid "Sure, please."
+msgstr "Certo, prego."
+
+msgctxt "1984_Player"
+msgid "Then let's begin."
+msgstr "Allora, iniziamo."
+
+msgctxt "2020_Kiryu"
+msgid "(I don't have the money.)"
+msgstr "(Non ho i soldi.)"
+
+msgctxt "2032_Akiyama"
+msgid "(I don't have the money.)"
+msgstr "(Non ho i soldi.)"
+
+msgctxt "2044_Saejima"
+msgid "(I ain't got the money.)"
+msgstr "(Non ho i soldi.)"
+
+msgctxt "2056_Shinada"
+msgid "(I don't have enough money.)"
+msgstr "(Non ho abbastanza soldi.)"
+
+msgctxt "2068_Haruka"
+msgid "(I don't have enough money.)"
+msgstr "(Non ho abbastanza soldi.)"
+
+msgctxt "2104_Kiryu"
+msgid "I'll play a split game, please."
+msgstr "Faccio una partita a split, per favore."
+
+msgctxt "2116_Akiyama"
+msgid "I'll have a split game, please."
+msgstr "Faccio una partita a split, per favore."
+
+msgctxt "2128_Saejima"
+msgid "I'll do a split game."
+msgstr "Faccio una partita a split."
+
+msgctxt "2140_Shinada"
+msgid "Is it cool if I play a split game?"
+msgstr "Posso fare una partita a split?"
+
+msgctxt "2152_Haruka"
+msgid "I'll have a split game, please."
+msgstr "Faccio una partita a split, per favore."
+
+msgctxt "2176_Player"
+msgid "I see. That'll be 500 yen, please."
+msgstr "Capisco. Sono 500 yen, per favore."
+
+msgctxt "2212_Kiryu"
+msgid "Okay, got it."
+msgstr "Okay, capito."
+
+msgctxt "2224_Akiyama"
+msgid "Okay, sure."
+msgstr "Okay, certo."
+
+msgctxt "2236_Saejima"
+msgid "This okay?"
+msgstr "Va bene così?"
+
+msgctxt "2248_Shinada"
+msgid "Ah, sure, sure."
+msgstr "Ah, certo, certo."
+
+msgctxt "2260_Haruka"
+msgid "Sure, all right."
+msgstr "Certo, va bene."
+
+msgctxt "2284_Player"
+msgid "Have fun!"
+msgstr "Divertiti!"
+
+msgctxt "2332_Kiryu"
+msgid "(I don't have the money.)"
+msgstr "(Non ho i soldi.)"
+
+msgctxt "2344_Akiyama"
+msgid "(I don't have the money.)"
+msgstr "(Non ho i soldi.)"
+
+msgctxt "2356_Saejima"
+msgid "(I ain't got the money.)"
+msgstr "(Non ho i soldi.)"
+
+msgctxt "2368_Shinada"
+msgid "(I don't have enough money.)"
+msgstr "(Non ho abbastanza soldi.)"
+
+msgctxt "2380_Haruka"
+msgid "(I don't have enough money.)"
+msgstr "(Non ho abbastanza soldi.)"
+
+msgctxt "2404_Player"
+msgid "(Who should I call?)"
+msgstr "(Chi dovrei chiamare?)"
+
+msgctxt "2428_Player"
+msgid "(I'll call up Riku.)"
+msgstr "(Chiamo Riku.)"
+
+msgctxt "2512_Riku"
+msgid ""
+"Y'gotta be kiddin' me! Y'called me all the way out to Tokyo jus' to go "
+"bowling!?"
+msgstr ""
+"Ma mi stai prendendo in giro!? Mi hai fatto venire fino a Tokyo solo per "
+"andare a bowling!?"
+
+msgctxt "2524_Player"
+msgid ""
+"Well, you can do some sightseeing before you head back, too. Shall we get "
+"started?"
+msgstr "Beh, puoi anche fare un po' di turismo prima di tornare. Iniziamo?"
+
+msgctxt "2536_Manager"
+msgid ""
+"It'll be 1,000 yen for two players. How many frames would you like to play?"
+msgstr "Saranno 1.000 yen per due giocatori. Quanti frame vorreste giocare?"
+
+msgctxt "2548_Player"
+msgid "Three frames, please."
+msgstr "Tre frame, per favore."
+
+msgctxt "2560_Player"
+msgid "Ten frames, please."
+msgstr "Dieci frame, per favore."
+
+msgctxt "2572_Player"
+msgid "Have fun!"
+msgstr "Divertiti!"
+
+msgctxt "2584_Riku"
+msgid "Sorry to keep y'waiting! You wanted to go bowlin' with me, Kiryu-san?"
+msgstr "Scusa per l'attesa! Volevi andare a bowling con me, Kiryu-san?"
+
+msgctxt "2596_Player"
+msgid "Ready to get started?"
+msgstr "Pronto per iniziare?"
+
+msgctxt "2608_Manager"
+msgid ""
+"It'll be 1,000 yen for the two of you. How many frames would you like to "
+"play?"
+msgstr "Saranno 1.000 yen per voi due. Quanti frame vorreste giocare?"
+
+msgctxt "2620_Player"
+msgid "Three frames, please."
+msgstr "Tre frame, per favore."
+
+msgctxt "2632_Player"
+msgid "Ten frames, please."
+msgstr "Dieci frame, per favore."
+
+msgctxt "2644_Player"
+msgid "Have fun!"
+msgstr "Divertiti!"
+
+msgctxt "2668_Player"
+msgid "(Guess I'll give Kaguya a call.)"
+msgstr "(Penso che chiamerò Kaguya.)"
+
+msgctxt "2752_Kaguya"
+msgid ""
+"Going into work is enough of a pain as it is, but you go and call me all the"
+" way out here to Tokyo!? Unbelievable!"
+msgstr ""
+"Lavorare è già una palla di suo, ma tu mi chiami fin qui a Tokyo!? "
+"Incredibile!"
+
+msgctxt "2764_Player"
+msgid "Didn't expect ya'd actually come..."
+msgstr "Non pensavo che saresti venuto davvero..."
+
+msgctxt "2776_Manager"
+msgid ""
+"It'll be 1,000 yen for the two of you. How many frames would you like to "
+"play?"
+msgstr "Saranno 1.000 yen per voi due. Quanti frame vorreste giocare?"
+
+msgctxt "2788_Player"
+msgid "Three frames, please."
+msgstr "Tre frame, per favore."
+
+msgctxt "2800_Player"
+msgid "Ten frames, please."
+msgstr "Dieci frame, per favore."
+
+msgctxt "2812_Player"
+msgid "Have fun!"
+msgstr "Divertiti!"
+
+msgctxt "2824_Kaguya"
+msgid ""
+"Sorry for the wait! It's good to get out every once in a while! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Scusa l'attesa! Fa bene uscire ogni tanto! "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "2836_Player"
+msgid "Wanna get started?"
+msgstr "Vuoi iniziare?"
+
+msgctxt "2848_Manager"
+msgid ""
+"It'll be 1,000 yen for the two of you. How many frames would you like to "
+"play?"
+msgstr "Saranno 1.000 yen per voi due. Quanti frame vorreste giocare?"
+
+msgctxt "2860_Player"
+msgid "Three frames, please."
+msgstr "Tre frame, per favore."
+
+msgctxt "2872_Player"
+msgid "Ten frames, please."
+msgstr "Dieci frame, per favore."
+
+msgctxt "2884_Player"
+msgid "Have fun!"
+msgstr "Divertiti!"
+
+msgctxt "2908_Player"
+msgid "(I should give Honoka-chan a call.)"
+msgstr "(Dovrei chiamare Honoka-chan.)"
+
+msgctxt "2992_Honoka"
+msgid ""
+"Ya called up a student who's busy lookin' for a job all the way out in "
+"Osaka, just to go bowlin'? If this is a joke, I ain't laughin'."
+msgstr ""
+"Hai chiamato una studentessa che è impegnata a cercare lavoro fin laggiù a "
+"Osaka, solo per andare a bowling? Se è uno scherzo, non mi fa ridere."
+
+msgctxt "3004_Player"
+msgid "My apologies."
+msgstr "Mi scuso."
+
+msgctxt "3016_Manager"
+msgid ""
+"It'll be 1,000 yen for the two of you. How many frames would you like to "
+"play?"
+msgstr "Saranno 1.000 yen per voi due. Quanti frame vorreste giocare?"
+
+msgctxt "3028_Player"
+msgid "Three frames, please."
+msgstr "Tre frame, per favore."
+
+msgctxt "3040_Player"
+msgid "Ten frames, please."
+msgstr "Dieci frame, per favore."
+
+msgctxt "3052_Player"
+msgid "Have fun!"
+msgstr "Divertiti!"
+
+msgctxt "3064_Honoka"
+msgid ""
+"Sorry for makin' ya wait! You're really up for anything, aren't ya, Akiyama-"
+"san? <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Scusa per averti fatto aspettare! Sei davvero pronto a tutto, non è vero, "
+"Akiyama-san? <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3076_Player"
+msgid "Shall we begin?"
+msgstr "Iniziamo?"
+
+msgctxt "3088_Manager"
+msgid ""
+"It'll be 1,000 yen for the two of you. How many frames would you like to "
+"play?"
+msgstr "Saranno 1.000 yen per voi due. Quanti frame vorreste giocare?"
+
+msgctxt "3100_Player"
+msgid "Three frames, please."
+msgstr "Tre frame, per favore."
+
+msgctxt "3112_Player"
+msgid "Ten frames, please."
+msgstr "Dieci frame, per favore."
+
+msgctxt "3124_Player"
+msgid "Have fun!"
+msgstr "Divertiti!"
+
+msgctxt "3148_Player"
+msgid "(Maybe I should give Shion-chan a call.)"
+msgstr "(Magari dovrei chiamare Shion-chan.)"
+
+msgctxt "3232_Shion"
+msgid ""
+"It really is rather rude to make me come all the way from Nagoya for this, "
+"you know. Honestly, it's not like I don't have anything better to do."
+msgstr ""
+"È davvero un po' maleducato farmi venire fin qui da Nagoya per questo, sai. "
+"Onestamente, non è che non abbia niente di meglio da fare."
+
+msgctxt "3244_Player"
+msgid ""
+"Yeah, sorry about that! I guess the travel costs must've been rough, too."
+msgstr ""
+"Sì, scusa per questo! Immagino che anche i costi di viaggio siano stati un "
+"po' pesanti."
+
+msgctxt "3256_Manager"
+msgid ""
+"It'll be 1,000 yen for the two of you. How many frames would you like to "
+"play?"
+msgstr "Saranno 1.000 yen per voi due. Quanti frame vorreste giocare?"
+
+msgctxt "3268_Player"
+msgid "Three frames, please."
+msgstr "Tre frame, per favore."
+
+msgctxt "3280_Player"
+msgid "Ten frames, please."
+msgstr "Dieci frame, per favore."
+
+msgctxt "3292_Player"
+msgid "Have fun!"
+msgstr "Divertiti!"
+
+msgctxt "3304_Shion"
+msgid ""
+"Apologies for the delay! I'm rather nervous. It's been quite a while since I"
+" last bowled."
+msgstr ""
+"Scusa il ritardo! Sono piuttosto nervosa. È da parecchio che non gioco a "
+"bowling."
+
+msgctxt "3316_Player"
+msgid "Well, want to get started?"
+msgstr "Allora, vuoi iniziare?"
+
+msgctxt "3328_Manager"
+msgid ""
+"It'll be 1,000 yen for the two of you. How many frames would you like to "
+"play?"
+msgstr "Saranno 1.000 yen per voi due. Quanti frame vorreste giocare?"
+
+msgctxt "3340_Player"
+msgid "Three frames, please."
+msgstr "Tre frame, per favore."
+
+msgctxt "3352_Player"
+msgid "Ten frames, please."
+msgstr "Dieci frame, per favore."
+
+msgctxt "3364_Player"
+msgid "Have fun!"
+msgstr "Divertiti!"
+
+msgctxt "3400_Player"
+msgid "(I'll give Hinata a call.)"
+msgstr "(Chiamo Hinata.)"
+
+msgctxt "3472_Hinata"
+msgid ""
+"Sorry for the wait! And wow, I almost never go bowling with just two people!"
+"  <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Scusa l'attesa! E wow, quasi non mi capita mai di giocare a bowling solo in "
+"due! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3484_Player"
+msgid "Want to get started?"
+msgstr "Allora, vuoi iniziare?"
+
+msgctxt "3496_Manager"
+msgid ""
+"It'll be 1,000 yen for the two of you. How many frames would you like to "
+"play?"
+msgstr "Saranno 1.000 yen per voi due. Quanti frame vorreste giocare?"
+
+msgctxt "3508_Player"
+msgid "Three frames, please."
+msgstr "Tre frame, per favore."
+
+msgctxt "3520_Player"
+msgid "Ten frames, please."
+msgstr "Dieci frame, per favore."
+
+msgctxt "3532_Player"
+msgid "Have fun!"
+msgstr "Divertiti!"
+
+msgctxt "3556_Player"
+msgid "(I'll give Hinata-chan a call.)"
+msgstr "(Chiamo Hinata-chan.)"
+
+msgctxt "3568_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "3628_Hinata"
+msgid "Sorry to keep you waiting."
+msgstr "Scusa se ti ho fatto aspettare."
+
+msgctxt "3640_Player"
+msgid "It's all right. Shall we begin?"
+msgstr "Va bene. Iniziamo?"
+
+msgctxt "3652_Manager"
+msgid ""
+"It'll be 1,000 yen for the two of you. How many frames would you like to "
+"play?"
+msgstr "Saranno 1.000 yen per voi due. Quanti frame vorreste giocare?"
+
+msgctxt "3664_Player"
+msgid "Three frames, please."
+msgstr "Tre frame, per favore."
+
+msgctxt "3676_Player"
+msgid "Ten frames, please."
+msgstr "Dieci frame, per favore."
+
+msgctxt "3688_Player"
+msgid "Have fun!"
+msgstr "Divertiti!"
+
+msgctxt "3724_Kiryu"
+msgid "(I should give Mach-ko a call.)"
+msgstr "(Chiamo Mach-ko.)"
+
+msgctxt "3736_Akiyama"
+msgid "(I'll give that Mach-ko a call.)"
+msgstr "(Chiamo Mach-ko.)"
+
+msgctxt "3748_Saejima"
+msgid "(Guess I'll give that Mach-ko a call.)"
+msgstr "(Chiamo Mach-ko.)"
+
+msgctxt "3760_Shinada"
+msgid "(I should call up that Mach-ko gal.)"
+msgstr "(Chiamo Mach-ko.)"
+
+msgctxt "3772_Haruka"
+msgid "(Maybe I should call that Mach-ko-san person.)"
+msgstr "(Chiamo Mach-ko.)"
+
+msgctxt "3784_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "3844_Mach-ko"
+msgid ""
+"Hehe! Sorry to keep you waiting! There are no words necessary between "
+"bowling aficionados. Just bring your A game!"
+msgstr ""
+"Hehe! Scusa l'attesa! Tra veri appassionati di bowling non servono "
+"chiacchiere. Dai il massimo!"
+
+msgctxt "3856_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "3868_Manager"
+msgid ""
+"It'll be 1,000 yen for the two of you. How many frames would you like to "
+"play?"
+msgstr "Saranno 1.000 yen per voi due. Quanti frame vorreste giocare?"
+
+msgctxt "3880_Player"
+msgid "Three frames, please."
+msgstr "Tre frame, per favore."
+
+msgctxt "3892_Player"
+msgid "Ten frames, please."
+msgstr "Dieci frame, per favore."
+
+msgctxt "3904_Player"
+msgid "Have fun!"
+msgstr "Divertiti!"

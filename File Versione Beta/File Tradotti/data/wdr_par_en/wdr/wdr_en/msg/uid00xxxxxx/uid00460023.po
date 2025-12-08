@@ -1,0 +1,215 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "8184"
+msgid "Riku"
+msgstr "Riku"
+
+msgctxt "8188"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "8192"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "8196"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "8200"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "8204"
+msgid "Subaru"
+msgstr "Subaru"
+
+msgctxt "8208"
+msgid "F_cab_stand_tlk_byeB"
+msgstr "F_cab_stand_tlk_byeB"
+
+msgctxt "8212"
+msgid "0"
+msgstr "0"
+
+msgctxt "8216"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "56_Riku"
+msgid "Ain't the view from here the absolute best?"
+msgstr "Non è mica il top la vista da qui?"
+
+msgctxt "68_Kiryu"
+msgid "People do rave about this view of Nagasugai from the Ose Bridge."
+msgstr "La gente stravede per questa vista di Nagasugai dal Ponte Ose."
+
+msgctxt "80_Riku"
+msgid ""
+"I do really like this bridge. Whenever I have some time before work, I come "
+"here."
+msgstr ""
+"Proprio mi piace un sacco questo ponte. Ogni volta che ho un po' di tempo "
+"prima del lavoro, ci vengo."
+
+msgctxt "92_Kiryu"
+msgid "You come here just for the view?"
+msgstr "Ci vieni solo per la vista?"
+
+msgctxt "104_Riku"
+msgid "Sometimes I'll ride the water bus. It's a great way to pass the time."
+msgstr "Ogni tanto prendo il battello. È un bel modo per ammazzare il tempo."
+
+msgctxt "116_Kiryu"
+msgid ""
+"Ah. I haven't gotten around to riding that yet.\r\n"
+"Maybe I should try it soon."
+msgstr ""
+"Ah. Non l'ho ancora provato, quello.\n"
+"Magari dovrei provarlo presto."
+
+msgctxt "128_Riku"
+msgid "It's nice t'see something familiar from a distance sometimes."
+msgstr "Ogni tanto fa piacere vedere qualcosa di familiare da lontano."
+
+msgctxt "140_Kiryu"
+msgid ""
+"Speaking of, the tower's nearby, isn't it? I'd like to get a look at "
+"Nagasugai from high up above at some point, too."
+msgstr ""
+"A proposito, la torre è qui vicino, no? Mi piacerebbe vedere Nagasugai "
+"dall'alto, prima o poi, anch'io."
+
+msgctxt "164_Riku"
+msgid "Next time we should go do that!"
+msgstr "La prossima volta dovremmo proprio andarci!"
+
+msgctxt "176_Kiryu"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "200_Riku"
+msgid "Oh!"
+msgstr "Oh!"
+
+msgctxt "212_Kiryu"
+msgid "What is it?"
+msgstr "E cioè?"
+
+msgctxt "236_Riku"
+msgid ""
+"That guy over there! That's that Subaru-san I was telling y'bout earlier!"
+msgstr "Quel tizio là! È quel Subaru-san di cui ti stavo parlando prima!"
+
+msgctxt "248_Kiryu"
+msgid "Subaru? You mean the guy that was scamming your friends?"
+msgstr "Subaru? Intendi il tizio che stava truffando le tue amiche?"
+
+msgctxt "260_Riku"
+msgid "Mm. They texted me pics. I know that's him!"
+msgstr "Mm. Mi hanno mandato le foto. Lo so che è lui!"
+
+msgctxt "284_Kiryu"
+msgid "Riku, wait up!"
+msgstr "Riku, aspetta!"
+
+msgctxt "296_Riku"
+msgid "Are you Subaru-san!?"
+msgstr "Sei Subaru-san!?"
+
+msgctxt "308_Subaru"
+msgid "Yeah. And who the heck are you?"
+msgstr "Sì. E tu chi diavolo sei?"
+
+msgctxt "320_Riku"
+msgid ""
+"You're two-timin' Yuka-chan and Asumi-chan, aren't ya? And a whole lotta "
+"other girls, I'd reckon!"
+msgstr ""
+"Stai facendo il doppio gioco con Yuka-chan e Asumi-chan, vero? E con un "
+"sacco di altre ragazze, scommetto!"
+
+msgctxt "332_Subaru"
+msgid ""
+"Ah, so y'know those girls, huh? I'm not two-timing anyone. I'm a host. Lotsa"
+" ladies ask for me, it's my job."
+msgstr ""
+"Ah, quindi conosci quelle ragazze, eh? Non sto facendo il doppio gioco con "
+"nessuno. Sono un host. Un sacco di donne mi cercano, è il mio lavoro."
+
+msgctxt "344_Riku"
+msgid ""
+"Don't y'dare play dumb! You were talking to them about gettin' married!"
+msgstr "Non osare fare il finto tonto! Stavi parlando con loro di sposarti!"
+
+msgctxt "356_Subaru"
+msgid "So what if I did?"
+msgstr "E allora, se l'ho fatto?"
+
+msgctxt "368_Riku"
+msgid ""
+"You're trickin' girls in order to milk them outta all their money! Then "
+"y'can go and sell 'em right off to the sex trade, right!?"
+msgstr ""
+"Stai truffando le ragazze per spillargli tutti i loro soldi! Poi puoi andare"
+" a venderle direttamente alla tratta della prostituzione, vero!?"
+
+msgctxt "380_Subaru"
+msgid "Hahaha. What are y'talking about? Who told ya that nonsense?"
+msgstr ""
+"Hahaha. Ma di cosa stai parlando? Chi ti ha raccontato queste cavolate?"
+
+msgctxt "392_Riku"
+msgid "Who told me?"
+msgstr "Chi me l'ha detto?"
+
+msgctxt "404_Subaru"
+msgid ""
+"Y'know, sometimes rival hosts start bullshit rumors to ruin my rep. So who "
+"was it? Ya boyfriend or someone?"
+msgstr ""
+"Senti, a volte gli host rivali mettono in giro voci di merda per rovinarmi "
+"la reputazione. Allora chi è stato? Il tuo tipo o qualcun altro?"
+
+msgctxt "416_Riku"
+msgid "It ain't like that!"
+msgstr "Non è mica così!"
+
+msgctxt "428_Subaru"
+msgid ""
+"Sorry, but I ain't got time t'deal with your drama right now, missy.\r\n"
+"Later."
+msgstr ""
+"Spiacente, ma non ho mica tempo per le tue scenate adesso, bella.\n"
+"Dopo."
+
+msgctxt "452_Riku"
+msgid "Hey!"
+msgstr "Ehi!"
+
+msgctxt "512_Riku"
+msgid ""
+"Sorry 'bout that. I shouldn't have done that in the middle of our date."
+msgstr ""
+"Scusa per questo. Non avrei dovuto farlo nel bel mezzo del nostro "
+"appuntamento."
+
+msgctxt "524_Kiryu"
+msgid "It's okay."
+msgstr "Va bene."
+
+msgctxt "536_Riku"
+msgid "Anyhow, I oughta head home now. See ya later!"
+msgstr "Comunque, è ora che vada a casa. A dopo!"

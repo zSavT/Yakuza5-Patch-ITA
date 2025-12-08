@@ -1,0 +1,131 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "4108"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "4112"
+msgid "Play"
+msgstr "Gioca"
+
+msgctxt "4116"
+msgid "Don't Play"
+msgstr "Non giocare"
+
+msgctxt "4120"
+msgid "Beginner: High Pitches"
+msgstr "Principiante: Lanci alti"
+
+msgctxt "4124"
+msgid "Beginner: Low Pitches"
+msgstr "Principiante: Lanci Bassi"
+
+msgctxt "4128"
+msgid "Beginner: Outside Pitches"
+msgstr "Principiante: Lanci esterni"
+
+msgctxt "4132"
+msgid "Beginner: Inside Pitches"
+msgstr "Principiante: Lanci Interni"
+
+msgctxt "4136"
+msgid "Beginner: Random Pitches"
+msgstr "Principiante: Lanci casuali"
+
+msgctxt "4140"
+msgid "Heat Eye Beginner Course"
+msgstr "Heat Eye Corso per Principianti"
+
+msgctxt "4144"
+msgid "Cancel"
+msgstr "Annulla"
+
+msgctxt "108_Player"
+msgid ""
+"(Huh? It's out of order. That's not the biggest issue, though. I'm supposed "
+"to report back to Coach Igarashi about fishing. Better not keep him "
+"waiting.)"
+msgstr ""
+"(Eh? È fuori posto. Non è quello il problema più grosso, però. Devo andare a"
+" riferire all'allenatore Igarashi riguardo alla pesca. Meglio non farlo "
+"aspettare.)"
+
+msgctxt "120_Player"
+msgid ""
+"(Coach Igarashi said to get three homers out of ten pitches on Beginner "
+"Course, Random Pitches.)"
+msgstr ""
+"(L'allenatore Igarashi ha detto di fare tre fuoricampo su dieci lanci sul "
+"Corso per Principianti, Lanci casuali.)"
+
+msgctxt "132_Player"
+msgid "(But that'll have to wait.)"
+msgstr "(Ma questo dovrà aspettare.)"
+
+msgctxt "144_Player"
+msgid ""
+"(Coach Igarashi said to hit three homers out of ten pitches on the Beginner "
+"Course, Random Pitches.)"
+msgstr ""
+"(L'allenatore Igarashi ha detto di fare tre fuoricampo su dieci lanci sul "
+"Corso per Principianti, Lanci casuali.)"
+
+msgctxt "156_Player"
+msgid ""
+"(Playing the Beginner Course with Random Pitches costs 300 yen. Should I "
+"give it a go?)"
+msgstr ""
+"(Giocare al Corso per Principianti, Lanci casuali, costa 300 yen. Dovrei "
+"provarci?)"
+
+msgctxt "180_Player"
+msgid "(Oops. I'm too broke.)"
+msgstr "(Ops. Sono troppo al verde.)"
+
+msgctxt "192_Player"
+msgid "(Okay, let's get her done.)"
+msgstr "(Ok, facciamola.)"
+
+msgctxt "216_Player"
+msgid "(Nope. Not now.)"
+msgstr "(No. Non ora.)"
+
+msgctxt "228_Player"
+msgid ""
+"(The Beginner Course costs 300 yen to play. Looks like it's got a selection "
+"of training menus. Should I go for it?)"
+msgstr ""
+"(Il Corso per Principianti costa 300 yen per giocare. Sembra che abbia una "
+"selezione di menu di allenamento. Dovrei provarci?)"
+
+msgctxt "252_Player"
+msgid "(Oops. I'm too broke.)"
+msgstr "(Ops. Sono troppo al verde.)"
+
+msgctxt "264_Player"
+msgid "(Okay, let's get her done. Which course should I go for?)"
+msgstr "(Ok, facciamola. Quale corso dovrei scegliere?)"
+
+msgctxt "348_Player"
+msgid "(Okay, let's get her done.)"
+msgstr "(Ok, facciamola.)"
+
+msgctxt "372_Player"
+msgid "(Nope. Not now.)"
+msgstr "(No. Non ora.)"
+
+msgctxt "384_Player"
+msgid "(The level's too high. It's a bit more than I can handle now.)"
+msgstr "(Il livello è troppo alto. È un po' troppo per me, adesso.)"

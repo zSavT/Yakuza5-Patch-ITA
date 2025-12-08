@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1684"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "1688"
+msgid "Return to the Village"
+msgstr "Torna al Villaggio"
+
+msgctxt "1692"
+msgid "Get Ammo at a Hunting Hut"
+msgstr "Prendi Munizioni in una capanna di caccia"
+
+msgctxt "72_Saejima"
+msgid ""
+"(Damn. Out of ammo. Gotta restock at a hunting hut or go back to the "
+"village.)"
+msgstr ""
+"(Maledizione. Munizioni finite. Devo rifornirmi in una capanna di caccia o "
+"tornare al villaggio.)"
+
+msgctxt "84_Saejima"
+msgid "(I'll restock ammo at a hunting hut.)"
+msgstr "(Mi rifornirò di munizioni in una capanna di caccia.)"
+
+msgctxt "144_Saejima"
+msgid "(All right, let's do this.)"
+msgstr "(Ok, si fa.)"
+
+msgctxt "156_Saejima"
+msgid "(Okay, gotta go back down for now.)"
+msgstr "(Ok, devo tornare giù per ora.)"
+
+msgctxt "168_Saejima"
+msgid ""
+"(Damn. Out of ammo. No hunting huts, either. Time to go back to the "
+"village.)"
+msgstr ""
+"(Maledizione. Munizioni finite. Nemmeno capanne di caccia. Tocca tornare al "
+"villaggio.)"

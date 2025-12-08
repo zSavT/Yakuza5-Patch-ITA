@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "800"
+msgid "You can change characters now."
+msgstr "Ora puoi cambiare i personaggi."
+
+msgctxt "824"
+msgid ""
+"Select \"Select Character\" from the hideout menu\r\n"
+"to change who you control."
+msgstr ""
+"Seleziona \"Seleziona Personaggio\" dal menu del nascondiglio\n"
+"per cambiare chi controlli."
+
+msgctxt "12516"
+msgid "news03"
+msgstr "news03"
+
+msgctxt "12520"
+msgid "Baba"
+msgstr "Baba"
+
+msgctxt "12524"
+msgid "adv5_075/baba_0260"
+msgstr "adv5_075/baba_0260"
+
+msgctxt "12528"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "12532"
+msgid "adv5_075/kiryu_0464"
+msgstr "adv5_075/kiryu_0464"
+
+msgctxt "12536"
+msgid "ACYAM0001"
+msgstr "ACYAM0001"
+
+msgctxt "12540"
+msgid "C5075_KRU_TLK_sitchr_tabaco_ed"
+msgstr "C5075_KRU_TLK_sitchr_tabaco_ed"
+
+msgctxt "12544"
+msgid "adv5_075/baba_0261"
+msgstr "adv5_075/baba_0261"
+
+msgctxt "12548"
+msgid "C5075_BAB_TLK_switch_on"
+msgstr "C5075_BAB_TLK_switch_on"
+
+msgctxt "12552"
+msgid "adv5_075/kiryu_0465"
+msgstr "adv5_075/kiryu_0465"
+
+msgctxt "12556"
+msgid "adv5_075/baba_0262"
+msgstr "adv5_075/baba_0262"
+
+msgctxt "12560"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "12564"
+msgid "Katsuya"
+msgstr "Katsuya"
+
+msgctxt "12568"
+msgid "Interviewer"
+msgstr "Intervistatore"
+
+msgctxt "12572"
+msgid "The Florist"
+msgstr "Il Fiorista"
+
+msgctxt "12576"
+msgid "adv5_075/hanaya_0019"
+msgstr "adv5_075/hanaya_0019"
+
+msgctxt "12580"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "12584"
+msgid "adv5_075/saejima_0547"
+msgstr "adv5_075/saejima_0547"
+
+msgctxt "12588"
+msgid "Aizawa"
+msgstr "Aizawa"
+
+msgctxt "12592"
+msgid "adv5_075/aizawa_0084"
+msgstr "adv5_075/aizawa_0084"
+
+msgctxt "12596"
+msgid "kaiwabgm_serious02"
+msgstr "kaiwabgm_serious02"
+
+msgctxt "12600"
+msgid "adv5_075/hanaya_0020a"
+msgstr "adv5_075/hanaya_0020a"
+
+msgctxt "12604"
+msgid "adv5_075/hanaya_0020b"
+msgstr "adv5_075/hanaya_0020b"
+
+msgctxt "12608"
+msgid "C5075_AIZ_TLK_kamae"
+msgstr "C5075_AIZ_TLK_kamae"
+
+msgctxt "12612"
+msgid "C5075_AIZ_TLK_go_katsuya"
+msgstr "C5075_AIZ_TLK_go_katsuya"
+
+msgctxt "12616"
+msgid "adv5_075/saejima_0548"
+msgstr "adv5_075/saejima_0548"
+
+msgctxt "12620"
+msgid "adv5_075/aizawa_0085a"
+msgstr "adv5_075/aizawa_0085a"
+
+msgctxt "12624"
+msgid "adv5_075/aizawa_0085b"
+msgstr "adv5_075/aizawa_0085b"
+
+msgctxt "12628"
+msgid "adv5_075/saejima_0549"
+msgstr "adv5_075/saejima_0549"
+
+msgctxt "12632"
+msgid "adv5_075/aizawa_0086"
+msgstr "adv5_075/aizawa_0086"
+
+msgctxt "12636"
+msgid "adv5_075/saejima_0550"
+msgstr "adv5_075/saejima_0550"
+
+msgctxt "12640"
+msgid "adv5_075/aizawa_0087"
+msgstr "adv5_075/aizawa_0087"
+
+msgctxt "12644"
+msgid "adv5_075/saejima_0551a"
+msgstr "adv5_075/saejima_0551a"
+
+msgctxt "12648"
+msgid "adv5_075/saejima_0551b"
+msgstr "adv5_075/saejima_0551b"
+
+msgctxt "12652"
+msgid "adv5_075/aizawa_0088"
+msgstr "adv5_075/aizawa_0088"
+
+msgctxt "12656"
+msgid "adv5_075/saejima_0552a"
+msgstr "adv5_075/saejima_0552a"
+
+msgctxt "12660"
+msgid "adv5_075/saejima_0552b"
+msgstr "adv5_075/saejima_0552b"
+
+msgctxt "12664"
+msgid "adv5_075/aizawa_0089"
+msgstr "adv5_075/aizawa_0089"
+
+msgctxt "12668"
+msgid "adv5_075/baba_0263"
+msgstr "adv5_075/baba_0263"
+
+msgctxt "12672"
+msgid "adv5_075/kiryu_0466"
+msgstr "adv5_075/kiryu_0466"
+
+msgctxt "12676"
+msgid "adv5_075/baba_0264"
+msgstr "adv5_075/baba_0264"
+
+msgctxt "12680"
+msgid "adv5_075/kiryu_0467a"
+msgstr "adv5_075/kiryu_0467a"
+
+msgctxt "12684"
+msgid "adv5_075/kiryu_0467b"
+msgstr "adv5_075/kiryu_0467b"
+
+msgctxt "12688"
+msgid "C5075_KRU_TLK_kamae"
+msgstr "C5075_KRU_TLK_kamae"
+
+msgctxt "12692"
+msgid "C5075_KRU_TLK_standup"
+msgstr "C5075_KRU_TLK_standup"
+
+msgctxt "12696"
+msgid "adv5_075/baba_0265"
+msgstr "adv5_075/baba_0265"
+
+msgctxt "12700"
+msgid "adv5_075/kiryu_0468"
+msgstr "adv5_075/kiryu_0468"
+
+msgctxt "12704"
+msgid "adv5_075/baba_0266"
+msgstr "adv5_075/baba_0266"
+
+msgctxt "12708"
+msgid "adv5_075/kiryu_0469"
+msgstr "adv5_075/kiryu_0469"
+
+msgctxt "12712"
+msgid "adv5_075/baba_0267"
+msgstr "adv5_075/baba_0267"
+
+msgctxt "12716"
+msgid "adv5_075/kiryu_0470a"
+msgstr "adv5_075/kiryu_0470a"
+
+msgctxt "12720"
+msgid "C5075_KRU_TLK_tlk"
+msgstr "C5075_KRU_TLK_tlk"
+
+msgctxt "12724"
+msgid "adv5_075/kiryu_0470b"
+msgstr "adv5_075/kiryu_0470b"
+
+msgctxt "12728"
+msgid "adv5_075/baba_0268"
+msgstr "adv5_075/baba_0268"
+
+msgctxt "12732"
+msgid "adv5_075/kiryu_0471"
+msgstr "adv5_075/kiryu_0471"
+
+msgctxt "12736"
+msgid "C5075_KRU_TLK_yes"
+msgstr "C5075_KRU_TLK_yes"
+
+msgctxt "12740"
+msgid "adv5_075/baba_0269"
+msgstr "adv5_075/baba_0269"
+
+msgctxt "12744"
+msgid "adv5_075/kiryu_0472"
+msgstr "adv5_075/kiryu_0472"
+
+msgctxt "12748"
+msgid "adv5_075/baba_0270"
+msgstr "adv5_075/baba_0270"
+
+msgctxt "12752"
+msgid "adv5_075/kiryu_0473"
+msgstr "adv5_075/kiryu_0473"
+
+msgctxt "12756"
+msgid "C5075_KRU_TLK_exit"
+msgstr "C5075_KRU_TLK_exit"
+
+msgctxt "12760"
+msgid "Information"
+msgstr "Informazioni"
+
+msgctxt "68_Baba"
+msgid "Kiryu-san?"
+msgstr "Kiryu-san?"
+
+msgctxt "80_Kiryu"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "92_Baba"
+msgid "Mind if I turn on the TV?"
+msgstr "Ti dispiace se accendo la TV?"
+
+msgctxt "140_Kiryu"
+msgid "Who's that?"
+msgstr "Chi è?"
+
+msgctxt "152_Baba"
+msgid "That's Katsuya."
+msgstr "Quello è Katsuya."
+
+msgctxt "176_Katsuya"
+msgid "I'm aware that T-Set seems to be making their debut on short notice."
+msgstr "Mi risulta che le T-Set debutteranno con poco preavviso."
+
+msgctxt "188_Katsuya"
+msgid ""
+"Many of you have seen Haruka Sawamura-san from Dyna Chair on TV. She "
+"recently performed live in Kansai at the Princess League Finals."
+msgstr ""
+"Molti di voi avranno visto Haruka Sawamura-san della Dyna Chair in TV. Si è "
+"esibita di recente dal vivo nel Kansai alle finali della Princess League."
+
+msgctxt "200_Katsuya"
+msgid ""
+"Her debut concert was set to take place at the Japan Dome, but "
+"unfortunately, it seems she will no longer be able to perform."
+msgstr ""
+"Il suo concerto di debutto era in programma al Japan Dome, ma purtroppo "
+"sembra che non potrà più esibirsi."
+
+msgctxt "212_Katsuya"
+msgid ""
+"As such, it's up to T-Set, her competitor in the finals,\r\n"
+"to hold a concert in her place."
+msgstr ""
+"Di conseguenza, spetta alle T-Set, le sue avversarie nelle finali,\n"
+"tenere un concerto al suo posto."
+
+msgctxt "224_Interviewer"
+msgid "So this impromptu concert is really happening?"
+msgstr "Quindi questo concerto improvvisato si farà davvero?"
+
+msgctxt "236_Katsuya"
+msgid "That is the plan."
+msgstr "Questo è il piano."
+
+msgctxt "248_Katsuya"
+msgid ""
+"After all, the members of T-Set already have the backing of\r\n"
+"a leader in the music industry..."
+msgstr ""
+"Dopotutto, i membri delle T-Set hanno già l'appoggio di\n"
+"un pezzo grosso dell'industria musicale..."
+
+msgctxt "260_Katsuya"
+msgid ""
+"And since they've long been preparing for a major label\r\n"
+"debut, I'd say they're more than ready to perform."
+msgstr ""
+"E siccome si stanno preparando da tempo per un debutto con una major,\n"
+"direi che sono più che pronte a esibirsi."
+
+msgctxt "272_Katsuya"
+msgid ""
+"Osaka Talent sees this as a fortunate turn of events... though of course, we"
+" do feel badly for Haruka Sawamura-san."
+msgstr ""
+"L'Osaka Talent la vede come un'occasione d'oro... anche se, naturalmente, ci"
+" dispiace per Haruka Sawamura-san."
+
+msgctxt "296_The Florist"
+msgid "There he is."
+msgstr "Eccolo."
+
+msgctxt "308_Saejima"
+msgid "So that's Katsuya."
+msgstr "Allora quello è Katsuya."
+
+msgctxt "320_Aizawa"
+msgid "He's the one who killed Morinaga-aniki..."
+msgstr "È lui che ha ucciso Morinaga-aniki..."
+
+msgctxt "332_The Florist"
+msgid ""
+"There's no proof of that yet. But according to leaks from the police "
+"investigation..."
+msgstr ""
+"Non ci sono ancora prove di questo. Ma stando a quanto trapelato "
+"dall'indagine della polizia..."
+
+msgctxt "344_The Florist"
+msgid ""
+"It's clear that they've identified him as a person of interest regarding "
+"Morinaga's death."
+msgstr ""
+"È chiaro che l'hanno addocchiato come persona di interesse per la morte di "
+"Morinaga."
+
+msgctxt "368_Saejima"
+msgid "Where ya headed?"
+msgstr "Dove sei diretto?"
+
+msgctxt "380_Aizawa"
+msgid "To see Katsuya, where else!?"
+msgstr "A vedere Katsuya, dove altro!?"
+
+msgctxt "392_Aizawa"
+msgid ""
+"He's staying at the hotel above us, isn't he? I'll beat the truth out of "
+"him!"
+msgstr "Si trova nell'hotel qui sopra, no? Gli caverò la verità a botte!"
+
+msgctxt "404_Saejima"
+msgid "In that state?"
+msgstr "In quello stato?"
+
+msgctxt "416_Aizawa"
+msgid "Ngh..."
+msgstr "Ngh..."
+
+msgctxt "428_Saejima"
+msgid "I'll go."
+msgstr "Vado io."
+
+msgctxt "440_Aizawa"
+msgid "You? But why?"
+msgstr "Tu? Ma perché?"
+
+msgctxt "452_Saejima"
+msgid ""
+"You're better off goin' to the police to get Morinaga's body taken care of."
+msgstr ""
+"Ti conviene andare dalla polizia per far prendere in carico il corpo di "
+"Morinaga."
+
+msgctxt "464_Saejima"
+msgid "Nothin' else you can do now."
+msgstr "Non puoi farci più niente, ormai."
+
+msgctxt "476_Aizawa"
+msgid "But..."
+msgstr "Ma..."
+
+msgctxt "488_Saejima"
+msgid "Ain't he your sworn brother?"
+msgstr "Non è mica il tuo fratello giurato?"
+
+msgctxt "500_Saejima"
+msgid "Go see him off."
+msgstr "Va' a salutarlo."
+
+msgctxt "512_Aizawa"
+msgid "Okay..."
+msgstr "Va bene..."
+
+msgctxt "536_Baba"
+msgid "What's our move, Kiryu-san?"
+msgstr "Qual è la nostra mossa, Kiryu-san?"
+
+msgctxt "548_Kiryu"
+msgid "No choice but to show up. He's sending us a message."
+msgstr ""
+"Non possiamo fare altro che presentarci. Ci sta mandando un messaggio."
+
+msgctxt "560_Baba"
+msgid "A message?"
+msgstr "Un messaggio?"
+
+msgctxt "572_Kiryu"
+msgid ""
+"By appearing on TV, he's letting us know he's here,\r\n"
+"poised to take over the Tojo Clan."
+msgstr ""
+"Apparendo in TV, ci sta facendo sapere che è qui,\n"
+"pronto a impadronirsi del Clan Tojo."
+
+msgctxt "584_Kiryu"
+msgid "He's putting out the call to gather enemies and allies alike."
+msgstr "Sta chiamando a raccolta sia nemici che alleati."
+
+msgctxt "608_Baba"
+msgid "Where are you going, Kiryu-san!?"
+msgstr "Dove vai, Kiryu-san!?"
+
+msgctxt "620_Kiryu"
+msgid "You stay here, Baba."
+msgstr "Resta qui, Baba."
+
+msgctxt "632_Baba"
+msgid "Huh? But..."
+msgstr "Eh? Ma..."
+
+msgctxt "644_Kiryu"
+msgid "There's something I want you to do for me."
+msgstr "C'è qualcosa che voglio che tu faccia per me."
+
+msgctxt "656_Baba"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "668_Kiryu"
+msgid ""
+"I need you to go see Haruka Sawamura. She's holding a concert at the Japan "
+"Dome the day after tomorrow."
+msgstr ""
+"Ho bisogno che tu vada a vedere Haruka Sawamura. Terrà un concerto al Japan "
+"Dome dopodomani."
+
+msgctxt "680_Kiryu"
+msgid "I'd like you to pass on a message for me."
+msgstr "Vorrei che tu portassi un messaggio per me."
+
+msgctxt "692_Baba"
+msgid "Huh? Do you know her, Kiryu-san?"
+msgstr "Eh? La conosci, Kiryu-san?"
+
+msgctxt "704_Kiryu"
+msgid "Yeah. It'd take a while to explain."
+msgstr "Sì. È una lunga storia."
+
+msgctxt "716_Baba"
+msgid "What's the message?"
+msgstr "Qual è il messaggio?"
+
+msgctxt "728_Kiryu"
+msgid "Tell her not to give up."
+msgstr "Dille di non arrendersi."
+
+msgctxt "740_Baba"
+msgid "...Is that it?"
+msgstr "È tutto qui?"
+
+msgctxt "752_Kiryu"
+msgid "Yeah. That's it."
+msgstr "Sì. È tutto qui."
+
+msgctxt "836_Information"
+msgid ""
+"Kiryu can go to Nagasugai and Saejima can go to\r\n"
+"Tsukimino by taxi. You cannot change characters\r\n"
+"while in these cities."
+msgstr ""
+"Kiryu può andare a Nagasugai e Saejima può andare a\n"
+"Tsukimino in taxi. Non puoi cambiare personaggi\n"
+"mentre sei in queste città."

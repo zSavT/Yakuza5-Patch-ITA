@@ -1,0 +1,298 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "172"
+msgid "You got a <Color:8>Staminan Spark<Color:Default>."
+msgstr "Hai un <Color:8>Staminan Spark<Color:Default>."
+
+msgctxt "256"
+msgid "You got 2,000 experience points."
+msgstr "Hai ottenuto 2.000 punti esperienza."
+
+msgctxt "448"
+msgid "*beeeeep*"
+msgstr "*biiiiip*"
+
+msgctxt "10964"
+msgid "Mikasa"
+msgstr "Mikasa"
+
+msgctxt "10968"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "10972"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "10976"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "10980"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "10984"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "10988"
+msgid "Talk_Get"
+msgstr "Talk_Get"
+
+msgctxt "10992"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "10996"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "11000"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "11004"
+msgid "Kotetsu"
+msgstr "Kotetsu"
+
+msgctxt "11008"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "11012"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "11016"
+msgid "M_NML_MOV_stand_phone_st"
+msgstr "M_NML_MOV_stand_phone_st"
+
+msgctxt "11020"
+msgid "ACYAM0101"
+msgstr "ACYAM0101"
+
+msgctxt "11024"
+msgid "P_SIN_TLK_stand_phone_lp"
+msgstr "P_SIN_TLK_stand_phone_lp"
+
+msgctxt "11028"
+msgid "M_nml_stand"
+msgstr "M_nml_stand"
+
+msgctxt "11032"
+msgid "P_SIN_TLK_stand_phone_ed"
+msgstr "P_SIN_TLK_stand_phone_ed"
+
+msgctxt "11036"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "76_Mikasa"
+msgid ""
+"...So it turns out my arm will be just fine. The doctor said there wasn't "
+"any bone damage. All I have to do is rest up for a while, and I can go back "
+"to playing."
+msgstr ""
+"...Alla fine, il mio braccio starà benone. Il dottore ha detto che non c'era"
+" nessun danno alle ossa. Mi basta riposare un po', e potrò tornare a "
+"giocare."
+
+msgctxt "88_Shinada"
+msgid "That's great to hear. You had me pretty worried."
+msgstr "Meno male. Mi avevi fatto preoccupare parecchio."
+
+msgctxt "100_Mikasa"
+msgid ""
+"If you hadn't come by, I don't want to think about how it would've ended. We"
+" seriously can't thank you enough."
+msgstr ""
+"Se non fossi passato di qui, non voglio nemmeno pensare a come sarebbe "
+"andata a finire. Davvero non sappiamo come ringraziarti."
+
+msgctxt "112_Shinada"
+msgid ""
+"Heh, well, when you get healthy enough to hold a bat again, you should come "
+"back. You need to train for those nationals, right?"
+msgstr ""
+"Eh, dai, quando ti sarai ripreso abbastanza da tenere di nuovo una mazza, "
+"dovresti farti rivedere. Devi allenarti per il Koshien, no?"
+
+msgctxt "124_Mikasa"
+msgid "Will you let me challenge you again?"
+msgstr "Mi lascerai sfidarti di nuovo?"
+
+msgctxt "136_Shinada"
+msgid "Sure. Whenever you like."
+msgstr "Certo. Quando vuoi."
+
+msgctxt "148_Mikasa"
+msgid "Oh, by the way, my teammates gave me something for you."
+msgstr ""
+"Ah, a proposito, i miei compagni di squadra mi hanno dato qualcosa per te."
+
+msgctxt "160_Mikasa"
+msgid "They thought you should have this."
+msgstr "Pensavano che dovessi averlo."
+
+msgctxt "196_Shinada"
+msgid "Heh, and I assume those boys had enough of partying with random girls?"
+msgstr ""
+"Eh, e immagino che quei ragazzi si siano stufati di fare baldoria con "
+"ragazze a caso?"
+
+msgctxt "208_Mikasa"
+msgid ""
+"I would hope so. They said they'll concentrate on training like never "
+"before."
+msgstr ""
+"Lo spero proprio. Hanno detto che si concentreranno sull'allenamento come "
+"mai prima d'ora."
+
+msgctxt "220_Shinada"
+msgid ""
+"How about that? Maybe this all worked out for the best. I'll expect big "
+"things from you in the spring."
+msgstr ""
+"Eh, vedi? Magari alla fine è andata per il meglio. Mi aspetto grandi cose da"
+" te in primavera."
+
+msgctxt "232_Mikasa"
+msgid "Then I'll be sure not to let you down! Thank you again!"
+msgstr "Allora non ti deluderò di certo! Grazie ancora!"
+
+msgctxt "304_Shinada"
+msgid "There! Done!"
+msgstr "Ecco! Fatto!"
+
+msgctxt "316_Mikasa"
+msgid "Wow... That was something else. You really are an amazing batter."
+msgstr "Wow... È stato tutt'altro. Sei davvero un battitore incredibile."
+
+msgctxt "328_Kotetsu"
+msgid "Yep, I've got an eye for these things, after all."
+msgstr "Eh sì, dopotutto ho occhio per queste cose."
+
+msgctxt "340_Shinada"
+msgid "Heh, you're so full of it."
+msgstr "Eh, sei pieno di stronzate."
+
+msgctxt "352_Kotetsu"
+msgid ""
+"Full of win, I think you mean! Anyway, I have to write this up, so, gotta "
+"jet!"
+msgstr ""
+"Pieno di vittorie, vorrai dire! Comunque, devo scrivere questa cosa, quindi "
+"devo scappare!"
+
+msgctxt "376_Mikasa"
+msgid "He really is obsessed with that blog of his, isn't he?"
+msgstr "È davvero ossessionato da quel suo blog, vero?"
+
+msgctxt "388_Mikasa"
+msgid ""
+"Maybe 'cause he found a really awesome batter? After seeing you put in work "
+"out there, I know I need to train a lot harder."
+msgstr ""
+"Magari perché ha trovato un battitore davvero incredibile? Dopo averti visto"
+" darti da fare là fuori, so che devo allenarmi molto più duramente."
+
+msgctxt "400_Shinada"
+msgid ""
+"Gee, you're dedicated. Wait a second, didn't Kinei High do pretty good at "
+"the fall regionals a little while ago?"
+msgstr ""
+"Accidenti, sei proprio uno che si impegna. Aspetta un attimo, la Kinei High "
+"non è andata piuttosto bene ai regionali autunnali poco tempo fa?"
+
+msgctxt "412_Mikasa"
+msgid ""
+"Yeah. We have a pretty good shot at making it to Koshien for the spring "
+"nationals. That's why I've been going at it so hard."
+msgstr ""
+"Sì. Abbiamo buone possibilità di arrivare al Koshien per i nazionali "
+"primaverili. Ecco perché mi sto impegnando così tanto."
+
+msgctxt "424_Shinada"
+msgid ""
+"Oh, yeah, the spring nationals... I guess it would be around the end of next"
+" month when the team selections are announced?"
+msgstr ""
+"Ah, sì, i nazionali primaverili... Mi sa che annunciano le squadre "
+"selezionate verso la fine del mese prossimo?"
+
+msgctxt "436_Mikasa"
+msgid ""
+"Yup. Our teachers are saying we should have a good team going in. As long as"
+" there're no hiccups, we basically have it in the bag."
+msgstr ""
+"Sì. I nostri professori dicono che dovremmo avere una buona squadra. Finché "
+"non ci sono intoppi, praticamente ce l'abbiamo in tasca."
+
+msgctxt "460_Mikasa"
+msgid "Oh, sorry, it's my phone."
+msgstr "Oh, scusa, è il mio telefono."
+
+msgctxt "484_Mikasa"
+msgid "Hello? It's Mikasa. Oh, Koichi? Yeah. Uh-huh?"
+msgstr "Pronto? Sono Mikasa. Ah, Koichi? Sì. Mh-hm?"
+
+msgctxt "496_Mikasa"
+msgid "What!? Why the heck... Are you serious!?"
+msgstr "Cosa!? Perché diavolo... Dici sul serio!?"
+
+msgctxt "508_Shinada"
+msgid "(Sounds like trouble.)"
+msgstr "(Sembrano guai.)"
+
+msgctxt "520_Mikasa"
+msgid "Okay, got it. The parking lot on Goshiki Street. I'm on my way!"
+msgstr "Ok, capito. Il parcheggio su Goshiki Street. Sto arrivando!"
+
+msgctxt "532_Shinada"
+msgid "What's up? Anything the matter?"
+msgstr "Che c'è? È successo qualcosa?"
+
+msgctxt "544_Mikasa"
+msgid "No! Nothing! I'm sorry, I have to go!"
+msgstr "No! Niente! Scusa, devo andare!"
+
+msgctxt "556_Shinada"
+msgid ""
+"(That sure didn't seem like nothing... It was the parking lot on Goshiki "
+"Street, right? Better go see what's going on.)"
+msgstr ""
+"(Non mi sembrava affatto un niente... Era il parcheggio su Goshiki Street, "
+"vero? Meglio andare a vedere che succede.)"
+
+msgctxt "580_Shinada"
+msgid "Gah! Couldn't do it!"
+msgstr "Cavolo! Non ce l'ho fatta!"
+
+msgctxt "592_Kotetsu"
+msgid "Well, that was disappointing. Or maybe Mikasa-kun's just that good."
+msgstr "Beh, che delusione. O forse Mikasa-kun è semplicemente così bravo."
+
+msgctxt "604_Mikasa"
+msgid "Oh, I don't know about that..."
+msgstr "Oh, non saprei..."
+
+msgctxt "616_Kotetsu"
+msgid ""
+"If you'd like, we could do this again. This could be an interesting bit for "
+"my blog."
+msgstr ""
+"Se ti va, potremmo rifarlo. Potrebbe essere un pezzo interessante per il mio"
+" blog."

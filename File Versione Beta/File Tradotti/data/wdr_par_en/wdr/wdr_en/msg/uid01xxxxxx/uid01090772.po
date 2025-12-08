@@ -1,0 +1,69 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "252"
+msgid "You used a <Color:8>Trap Mod Kit<Color:Default>."
+msgstr "Hai usato un <Color:8>Kit Modifica Trappola<Color:Default>."
+
+msgctxt "2436"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "2440"
+msgid "Pick Up Trap"
+msgstr "Ritira Trappola"
+
+msgctxt "2444"
+msgid "Modify Trap"
+msgstr "Modifica Trappola"
+
+msgctxt "2448"
+msgid "Cancel"
+msgstr "Annulla"
+
+msgctxt "2452"
+msgid "SS2_P_HNT_set_trap"
+msgstr "SS2_P_HNT_set_trap"
+
+msgctxt "60_Player"
+msgid "(The trap's not sprung. Gotta leave it a while longer.)"
+msgstr "La trappola non è scattata. Tocca lasciarla lì ancora un po'."
+
+msgctxt "72_Player"
+msgid "(Nothin' caught. What to do?)"
+msgstr "(Niente preso. Che si fa?)"
+
+msgctxt "84_Player"
+msgid "(Let's pull this trap.)"
+msgstr "(Ritiriamo questa trappola.)"
+
+msgctxt "156_Player"
+msgid "Gotta find a better trap site."
+msgstr "Tocca trovare un posto migliore per la trappola."
+
+msgctxt "180_Player"
+msgid "(Let's try moddin' this for better results.)"
+msgstr "(Proviamo a modificarla per risultati migliori.)"
+
+msgctxt "276_Player"
+msgid "That'll do it."
+msgstr "Va bene così."
+
+msgctxt "288_Player"
+msgid "(Got no trap mod kit to use.)"
+msgstr "(Non c'ho un kit per modificare la trappola da usare.)"
+
+msgctxt "300_Player"
+msgid "(I'll just leave it be.)"
+msgstr "(La lascio stare.)"

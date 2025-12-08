@@ -1,0 +1,316 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "488"
+msgid "You got 1,000 experience points."
+msgstr "Hai ottenuto 1.000 punti esperienza."
+
+msgctxt "7912"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "7916"
+msgid "adv1_140/kiryu_1_140_170"
+msgstr "adv1_140/kiryu_1_140_170"
+
+msgctxt "7920"
+msgid "Nakajima"
+msgstr "Nakajima"
+
+msgctxt "7924"
+msgid "adv1_140/nakajima_1_140_010"
+msgstr "adv1_140/nakajima_1_140_010"
+
+msgctxt "7928"
+msgid "adv1_140/kiryu_1_140_180"
+msgstr "adv1_140/kiryu_1_140_180"
+
+msgctxt "7932"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "7936"
+msgid "adv1_140/nakajima_1_140_020"
+msgstr "adv1_140/nakajima_1_140_020"
+
+msgctxt "7940"
+msgid "adv1_140/kiryu_1_140_190"
+msgstr "adv1_140/kiryu_1_140_190"
+
+msgctxt "7944"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "7948"
+msgid "adv1_140/nakajima_1_140_030"
+msgstr "adv1_140/nakajima_1_140_030"
+
+msgctxt "7952"
+msgid "adv1_140/kiryu_1_140_200"
+msgstr "adv1_140/kiryu_1_140_200"
+
+msgctxt "7956"
+msgid "Muramatsu"
+msgstr "Muramatsu"
+
+msgctxt "7960"
+msgid "adv1_140/muramatsu_1_140_010"
+msgstr "adv1_140/muramatsu_1_140_010"
+
+msgctxt "7964"
+msgid "adv1_140/kiryu_1_140_210"
+msgstr "adv1_140/kiryu_1_140_210"
+
+msgctxt "7968"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "7972"
+msgid "adv1_140/muramatsu_1_140_020"
+msgstr "adv1_140/muramatsu_1_140_020"
+
+msgctxt "7976"
+msgid "adv1_140/muramatsu_1_140_030"
+msgstr "adv1_140/muramatsu_1_140_030"
+
+msgctxt "7980"
+msgid "adv1_140/kiryu_1_140_220"
+msgstr "adv1_140/kiryu_1_140_220"
+
+msgctxt "7984"
+msgid "adv1_140/muramatsu_1_140_040"
+msgstr "adv1_140/muramatsu_1_140_040"
+
+msgctxt "7988"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "7992"
+msgid "adv1_140/kiryu_1_140_230"
+msgstr "adv1_140/kiryu_1_140_230"
+
+msgctxt "7996"
+msgid "adv1_140/kiryu_1_140_240"
+msgstr "adv1_140/kiryu_1_140_240"
+
+msgctxt "8000"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "8004"
+msgid "adv1_140/muramatsu_1_140_050"
+msgstr "adv1_140/muramatsu_1_140_050"
+
+msgctxt "8008"
+msgid "adv1_140/nakajima_1_140_040"
+msgstr "adv1_140/nakajima_1_140_040"
+
+msgctxt "8012"
+msgid "adv1_140/nakajima_1_140_050"
+msgstr "adv1_140/nakajima_1_140_050"
+
+msgctxt "8016"
+msgid "adv1_140/kiryu_1_140_250"
+msgstr "adv1_140/kiryu_1_140_250"
+
+msgctxt "8020"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "8024"
+msgid "adv1_140/nakajima_1_140_060"
+msgstr "adv1_140/nakajima_1_140_060"
+
+msgctxt "8028"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "8032"
+msgid "adv1_140/nakajima_1_140_070"
+msgstr "adv1_140/nakajima_1_140_070"
+
+msgctxt "8036"
+msgid "adv1_140/nakajima_1_140_080"
+msgstr "adv1_140/nakajima_1_140_080"
+
+msgctxt "8040"
+msgid "adv1_140/kiryu_1_140_260"
+msgstr "adv1_140/kiryu_1_140_260"
+
+msgctxt "8044"
+msgid "adv1_140/nakajima_1_140_090"
+msgstr "adv1_140/nakajima_1_140_090"
+
+msgctxt "8048"
+msgid "adv1_140/nakajima_1_140_100"
+msgstr "adv1_140/nakajima_1_140_100"
+
+msgctxt "8052"
+msgid "adv1_140/kiryu_1_140_270"
+msgstr "adv1_140/kiryu_1_140_270"
+
+msgctxt "8056"
+msgid "adv1_140/nakajima_1_140_110"
+msgstr "adv1_140/nakajima_1_140_110"
+
+msgctxt "8060"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "56_Kiryu"
+msgid "I'm back."
+msgstr "Sono tornato."
+
+msgctxt "68_Nakajima"
+msgid ""
+"Ah, Suzuki-san. Thanks for givin' Wada-san a ride. How'd it go today? Plenty"
+" of customers?"
+msgstr ""
+"Ah, Suzuki-san. Grazie per aver accompagnato Wada-san. Com'è andata oggi? "
+"Tanti clienti?"
+
+msgctxt "80_Kiryu"
+msgid ""
+"About that... I actually had a run-in with these guys called the Devil "
+"Killers."
+msgstr ""
+"A proposito... in realtà ho avuto a che fare con questi tizi chiamati i "
+"Devil Killers."
+
+msgctxt "92_Nakajima"
+msgid "Ergh!"
+msgstr "Ugh!"
+
+msgctxt "104_Kiryu"
+msgid "What is it?"
+msgstr "E cioè?"
+
+msgctxt "128_Kiryu"
+msgid "Huh? Oh, nothin'. Never mind."
+msgstr "Eh? Oh, niente. Lascia stare."
+
+msgctxt "140_Kiryu"
+msgid "(Okay...)"
+msgstr "(Va bene...)"
+
+msgctxt "152_Muramatsu"
+msgid "The Devil Killers... They're one of those street racing gangs, right?"
+msgstr ""
+"I Devil Killers... Sono una di quelle bande di corse su strada, giusto?"
+
+msgctxt "164_Kiryu"
+msgid "Yeah. They challenged me while I was on duty."
+msgstr "Sì. Mi hanno sfidato mentre ero di turno."
+
+msgctxt "176_Kiryu"
+msgid ""
+"An amateur like you!? They ought to stick to their own kind... Don't they "
+"have any pride as racers?"
+msgstr ""
+"Un dilettante come te!? Dovrebbero battersi con gente del loro calibro... "
+"Non hanno un minimo di orgoglio, da piloti?"
+
+msgctxt "200_Kiryu"
+msgid "Well, how'd it turn out?"
+msgstr "Beh, com'è andata a finire?"
+
+msgctxt "212_Kiryu"
+msgid "I won."
+msgstr "Ho vinto."
+
+msgctxt "236_Kiryu"
+msgid "<Italic>You</Italic> beat the Devil Killers!?"
+msgstr "<Italic>Tu</Italic> hai battuto i Devil Killers!?"
+
+msgctxt "248_Kiryu"
+msgid ""
+"Yeah. Turned out my passenger was a cop named Furumichi, and he asked me to "
+"take them all down."
+msgstr ""
+"Sì. A quanto pare, il mio passeggero era un poliziotto di nome Furumichi, e "
+"mi ha chiesto di farli fuori tutti."
+
+msgctxt "260_Kiryu"
+msgid ""
+"He said the only way to do that was to race them, so that's what I did."
+msgstr ""
+"Ha detto che l'unico modo per farlo era sfidarli in gara, e così ho fatto."
+
+msgctxt "272_Muramatsu"
+msgid "But that's insane..."
+msgstr "Ma è pazzesco..."
+
+msgctxt "296_Kiryu"
+msgid "...I'll say."
+msgstr "...Eccome!"
+
+msgctxt "308_Nakajima"
+msgid ""
+"Now Suzuki-san, don't you fret over this. I'll see if I can get in touch "
+"with this Furumichi fella, too."
+msgstr ""
+"Ora Suzuki-san, non ti preoccupare per questo. Vedrò se riesco a mettermi in"
+" contatto anche con questo tizio, Furumichi."
+
+msgctxt "320_Kiryu"
+msgid ""
+"Sorry to drag you into this, Chief. I know you have better things to do with"
+" your time."
+msgstr ""
+"Mi dispiace tirarti in mezzo, Capo. So che hai cose migliori da fare con il "
+"tuo tempo."
+
+msgctxt "332_Nakajima"
+msgid ""
+"No need to be so humble about it! It ain't like you're the one goin' around "
+"wreakin' havoc on the streets."
+msgstr ""
+"Non c'è bisogno di fare tanto il modesto! Non sei mica tu quello che va in "
+"giro a far casino per le strade."
+
+msgctxt "344_Nakajima"
+msgid "The Devil Killers... They're the problem here."
+msgstr "I Devil Killers... Sono loro il problema qui."
+
+msgctxt "356_Nakajima"
+msgid "......"
+msgstr "......"
+
+msgctxt "368_Kiryu"
+msgid "Something wrong?"
+msgstr "Qualcosa non va?"
+
+msgctxt "392_Kiryu"
+msgid ""
+"Oh, no, nothing. I was just about to congratulate ya for a job well done. "
+"Now go and take a breather－you've earned it."
+msgstr ""
+"Oh, no, niente. Stavo giusto per farti i complimenti per il bel lavoro "
+"fatto. Ora vai a tirare il fiato－te lo sei meritato."
+
+msgctxt "404_Nakajima"
+msgid ""
+"Of course, if yer lookin' for more work, talk to Hirakawa-san. There's "
+"always plenty of calls to keep us scramblin' around."
+msgstr ""
+"Certo, se ti serve altro lavoro, parla con Hirakawa-san. C'è sempre un sacco"
+" di chiamate per tenerci sempre a correre in giro."
+
+msgctxt "452_Kiryu"
+msgid "Understood."
+msgstr "Capito."
+
+msgctxt "464_Nakajima"
+msgid "Great, then I'll leave you to it."
+msgstr "Perfetto, allora ti lascio a te."

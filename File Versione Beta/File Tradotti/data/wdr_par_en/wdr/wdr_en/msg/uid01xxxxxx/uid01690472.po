@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1208"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "1212"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "1216"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1220"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "1224"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "136_Haruka"
+msgid "Thank you, Uncle Kaz! That was really yummy!"
+msgstr "Grazie, Zio Kaz! Era proprio buonissimo!"
+
+msgctxt "160_Haruka"
+msgid "Aw. I wanted that."
+msgstr "Uffa. Lo volevo io."
+
+msgctxt "184_Haruka"
+msgid ""
+"Uncle Kaz, wanna hear a joke about tuna? Um... Actually, can you just get me"
+" a <Color:8>Tuna Onigiri<Color:Default>, please?"
+msgstr ""
+"Zio Kaz, vuoi sentire una barzelletta sul tonno? Ehm... Anzi, potresti "
+"prendermi un <Color:8>Tuna Onigiri<Color:Default>, per favore?"
+
+msgctxt "196_Kiryu"
+msgid ""
+"(Haruka wants a <Color:8>Tuna Onigiri<Color:Default>. I think I already "
+"heard that joke...)"
+msgstr ""
+"(Haruka vuole un <Color:8>Tuna Onigiri<Color:Default>. Penso di aver già "
+"sentito quella battuta...)"

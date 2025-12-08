@@ -1,0 +1,85 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2836"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "2840"
+msgid "To Street Level"
+msgstr "Al piano strada"
+
+msgctxt "2844"
+msgid "To the Fourth Floor"
+msgstr "Al Quarto Piano"
+
+msgctxt "2848"
+msgid "Never Mind"
+msgstr "Lascia perdere"
+
+msgctxt "2852"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "2856"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "108_Player"
+msgid "(Where should I take the elevator?)"
+msgstr "(Dove dovrei prendere l'ascensore?)"
+
+msgctxt "132_Haruka"
+msgid "I can't go out dressed like this. I should get changed."
+msgstr "Non posso uscire vestita così. Dovrei cambiarmi."
+
+msgctxt "168_Player"
+msgid "(Never mind.)"
+msgstr "(Lascia perdere.)"
+
+msgctxt "180_Haruka"
+msgid "Akiyama-san, aren't we going to Park-san's office?"
+msgstr "Akiyama, non andiamo all'ufficio della signora Park?"
+
+msgctxt "192_Akiyama"
+msgid "Whoops, right you are."
+msgstr "Ops, hai ragione."
+
+msgctxt "204_Haruka"
+msgid "Akiyama-san, aren't we going up to the roof?"
+msgstr "Akiyama, non andiamo sul tetto?"
+
+msgctxt "216_Akiyama"
+msgid "Oh, yeah. Let's go."
+msgstr "Ah, già. Andiamo."
+
+msgctxt "228_Akiyama"
+msgid ""
+"(The girl who last saw Park-san is supposed to be in the\r\n"
+"lesson studio.)"
+msgstr ""
+"(La ragazza che ha visto la signora Park l'ultima volta dovrebbe essere "
+"nello\\nstudio di lezione.)"
+
+msgctxt "240_Player"
+msgid "(Where should I take the elevator?)"
+msgstr "(Dove dovrei prendere l'ascensore?)"
+
+msgctxt "264_Haruka"
+msgid "I can't go out dressed like this. I should get changed."
+msgstr "Non posso uscire vestita così. Dovrei cambiarmi."
+
+msgctxt "300_Player"
+msgid "(Never mind.)"
+msgstr "(Lascia perdere.)"

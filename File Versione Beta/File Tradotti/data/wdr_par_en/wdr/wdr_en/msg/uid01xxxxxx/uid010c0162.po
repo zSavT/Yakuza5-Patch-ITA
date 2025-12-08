@@ -1,0 +1,439 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "17876"
+msgid "Staff"
+msgstr "Staff"
+
+msgctxt "17880"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "17884"
+msgid "P_TLK_sitchr_kamae"
+msgstr "P_TLK_sitchr_kamae"
+
+msgctxt "17888"
+msgid "Hinata"
+msgstr "Hinata"
+
+msgctxt "17892"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "17896"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "17900"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "17904"
+msgid "○Try to be considerate."
+msgstr "○Cerca di essere premuroso."
+
+msgctxt "17908"
+msgid "□Leave things be."
+msgstr "□Lascia stare."
+
+msgctxt "17912"
+msgid "△What about yourself?"
+msgstr "△E tu?"
+
+msgctxt "17916"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "17920"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "17924"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "17928"
+msgid "P_stand"
+msgstr "P_stand"
+
+msgctxt "17932"
+msgid "Talk_Kamae"
+msgstr "Talk_Kamae"
+
+msgctxt "17936"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "17940"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "17944"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "17948"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "17952"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "17956"
+msgid "0"
+msgstr "0"
+
+msgctxt "17960"
+msgid "Idle"
+msgstr "Inattivo"
+
+msgctxt "60_Staff"
+msgid "Welcome. If you'll please follow me."
+msgstr "Benvenuto. Se per favore vuole seguirmi."
+
+msgctxt "72_Staff"
+msgid "This way, please."
+msgstr "Da questa parte, prego."
+
+msgctxt "132_Staff"
+msgid "Are you ready to order?"
+msgstr "Siete pronti per ordinare?"
+
+msgctxt "144_Hinata"
+msgid ""
+"Oh, I'd really like the <Color:8>Sashimi Platter (4 kinds)<Color:Default>. "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Oh, vorrei proprio il <Color:8>Sashimi misto (4 tipi)<Color:Default>. "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "156_Player"
+msgid ""
+"(Hinata seems to be hungry for some <Color:8>Sashimi Platter (4 "
+"kinds)<Color:Default>.)"
+msgstr ""
+"(Hinata sembra avere fame del <Color:8>Sashimi misto (4 "
+"tipi)<Color:Default>.)"
+
+msgctxt "228_Hinata"
+msgid "Ooh, this looks yummy!"
+msgstr "Ooh, sembra proprio una delizia!"
+
+msgctxt "288_Hinata"
+msgid "Oh, hey, so I had something I wanted to talk to you about real quick."
+msgstr "Oh, ehi, avevo una cosa di cui volevo parlarti al volo."
+
+msgctxt "300_Player"
+msgid "What is it?"
+msgstr "E cioè?"
+
+msgctxt "312_Hinata"
+msgid ""
+"My little brother's about to graduate from college, but I don't think he's "
+"going to be able to find a job anytime soon."
+msgstr ""
+"Mio fratellino sta per laurearsi all'università, ma non credo che riuscirà a"
+" trovare un lavoro tanto presto."
+
+msgctxt "324_Player"
+msgid "Yeah, I hear the market's rough these days."
+msgstr "Già, sento dire che il mercato è tosto di questi tempi."
+
+msgctxt "336_Hinata"
+msgid ""
+"Right, but my youngest sister's finishing up junior college and she already "
+"has a job lined up."
+msgstr ""
+"Giusto, ma la mia sorella più piccola sta per diplomarsi e ha già un lavoro "
+"che l'aspetta."
+
+msgctxt "348_Player"
+msgid "That's great for your sister."
+msgstr "Che bello per tua sorella."
+
+msgctxt "360_Hinata"
+msgid "Yeah, but things at home are kinda tense."
+msgstr "Già, ma le cose a casa sono un po' tese."
+
+msgctxt "372_Player"
+msgid ""
+"Try to be considerate. I know that sounds obvious, but things are going to "
+"be a little rough for your brother."
+msgstr ""
+"Cerca di essere comprensivo. Lo so che può sembrare ovvio, ma per tuo "
+"fratello le cose si faranno un po' toste."
+
+msgctxt "384_Hinata"
+msgid ""
+"That's true. Plus, I think my brother at least has an idea of what he wants "
+"to do."
+msgstr ""
+"È vero. In più, penso che mio fratello abbia almeno un'idea di cosa voglia "
+"fare."
+
+msgctxt "396_Player"
+msgid ""
+"In that case, your family should do what they can to support his dreams. It "
+"won't help if the people around him are negative."
+msgstr ""
+"In quel caso, la tua famiglia dovrebbe fare il possibile per sostenere i "
+"suoi sogni. Non aiuterà se le persone intorno a lui sono negative."
+
+msgctxt "408_Hinata"
+msgid ""
+"But won't that put more pressure on him if he doesn't meet our expectations?"
+msgstr ""
+"Ma questo non gli metterebbe più pressione se non soddisfa le nostre "
+"aspettative?"
+
+msgctxt "420_Player"
+msgid ""
+"Maybe, but it's better than just ignoring the issue. If he feels like no one"
+" cares about him, then he'll have no reason to try."
+msgstr ""
+"Forse, ma è meglio che ignorare il problema e basta. Se si sente che a "
+"nessuno importa di lui, allora non avrà alcun motivo per provarci."
+
+msgctxt "432_Hinata"
+msgid "I guess that's a good point."
+msgstr "Immagino sia un buon punto."
+
+msgctxt "444_Hinata"
+msgid ""
+"Oh, this sucks! Why do I have to be the one to always worry about these "
+"things?"
+msgstr ""
+"Oh, che palle! Perché devo essere io quello a preoccuparmi sempre di queste "
+"cose?"
+
+msgctxt "456_Player"
+msgid "Because you're a responsible sister."
+msgstr "Perché sei una sorella responsabile."
+
+msgctxt "468_Player"
+msgid ""
+"Leave things be. If you make too big of a deal about it, it's likely to come"
+" across as overbearing."
+msgstr ""
+"Lascia stare. Se la fai troppo grossa, probabilmente sembrerà invadente."
+
+msgctxt "480_Hinata"
+msgid ""
+"That's true. Plus, I think my brother at least has an idea of what he wants "
+"to do."
+msgstr ""
+"È vero. In più, penso che mio fratello abbia almeno un'idea di cosa voglia "
+"fare."
+
+msgctxt "492_Player"
+msgid ""
+"In that case, you're better off keeping out of his business until he's "
+"figured things out on his own."
+msgstr ""
+"In quel caso, ti conviene non intrometterti nei suoi affari finché non avrà "
+"capito come fare da solo."
+
+msgctxt "504_Player"
+msgid ""
+"If he's got strong ambitions, he might rebel against anyone who tries to "
+"tell him what to do."
+msgstr ""
+"Se ha forti ambizioni, potrebbe ribellarsi contro chiunque provi a dirgli "
+"cosa fare."
+
+msgctxt "516_Hinata"
+msgid ""
+"For now, he's going to keep his part-time job. It has nothing to do with his"
+" dream, but it's at least better than not working at all."
+msgstr ""
+"Per ora, continuerà a fare il suo lavoro part-time. Non c'entra niente con "
+"il suo sogno, ma è almeno meglio che non lavorare affatto."
+
+msgctxt "528_Player"
+msgid ""
+"And some people are able to move up from part-time to full-time work. Maybe "
+"he'll decide to do that."
+msgstr ""
+"E alcune persone riescono a passare da un lavoro part-time a un lavoro a "
+"tempo pieno. Magari deciderà di farlo."
+
+msgctxt "540_Hinata"
+msgid "Ugh, dreams can be a real pain, huh?"
+msgstr "Ugh, i sogni possono essere una vera rottura, eh?"
+
+msgctxt "552_Player"
+msgid ""
+"What about yourself? I can't imagine being a hostess is a full time career."
+msgstr ""
+"E tu? Non riesco a immaginare che fare la hostess sia una carriera a tempo "
+"pieno."
+
+msgctxt "564_Hinata"
+msgid ""
+"Well, yeah. That's what makes it tough. Finding a \"real\" job is next to "
+"impossible these days."
+msgstr ""
+"Eh, già. È questo che la rende tosta. Trovare un lavoro \"serio\" è "
+"praticamente impossibile di questi tempi."
+
+msgctxt "576_Player"
+msgid "Well, I wouldn't say it's impossible."
+msgstr "Beh, non direi che sia impossibile."
+
+msgctxt "588_Hinata"
+msgid "Alright, geez. You don't have to be so nitpicky!"
+msgstr "Dai, uffa! Non c'è bisogno di essere così precisino!"
+
+msgctxt "600_Hinata"
+msgid ""
+"Oh! Maybe you can talk to my brother, Kiryu-san! You've got tons of life "
+"experience, and you'd probably get through to him better than I could!"
+msgstr ""
+"Oh! Magari puoi parlare con mio fratello, Kiryu-san! Hai un sacco di "
+"esperienza di vita, e probabilmente riusciresti a fargli capire le cose "
+"meglio di me!"
+
+msgctxt "612_Player"
+msgid "I guess that's true enough. Bring him along with you next time."
+msgstr "Sì, è vero. Portalo con te la prossima volta."
+
+msgctxt "684_Hinata"
+msgid "Thanks for the treat!"
+msgstr "Grazie per l'offerta!"
+
+msgctxt "708_Staff"
+msgid "Sorry, something came up all of a sudden. I have to go."
+msgstr "Scusa, è venuto fuori un imprevisto all'improvviso. Devo andare."
+
+msgctxt "720_Staff"
+msgid "I see. Well, please come again."
+msgstr "Capisco. Beh, torni pure."
+
+msgctxt "816_Staff"
+msgid "Here's your check."
+msgstr "Ecco il tuo conto."
+
+msgctxt "840_Staff"
+msgid "Thank you very much. Please come again."
+msgstr "Grazie mille. Torni a trovarci."
+
+msgctxt "900_Staff"
+msgid "Thank you very much. Please come again."
+msgstr "Grazie mille. Torni a trovarci."
+
+msgctxt "948_Staff"
+msgid "Welcome. If you'll please follow me."
+msgstr "Benvenuto. Se per favore vuole seguirmi."
+
+msgctxt "984_Staff"
+msgid "(I'm broke.)"
+msgstr "(Sono al verde.)"
+
+msgctxt "1008_Kiryu"
+msgid "(I don't need to eat right now.)"
+msgstr "(Non ho bisogno di mangiare adesso.)"
+
+msgctxt "1020_Akiyama"
+msgid "(I'm not hungry right now.)"
+msgstr "(Non ho fame in questo momento.)"
+
+msgctxt "1032_Saejima"
+msgid "(I'm still full.)"
+msgstr "(Sono ancora pieno.)"
+
+msgctxt "1044_Shinada"
+msgid "(Unfortunately, I'm kinda full.)"
+msgstr "(Purtroppo, sono un po' pieno.)"
+
+msgctxt "1056_Haruka"
+msgid "(I'm stuffed.)"
+msgstr "(Sono strapieno.)"
+
+msgctxt "1080_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr "Scusa. Ho una cosa da sbrigare."
+
+msgctxt "1092_Akiyama"
+msgid "Sorry. I have some urgent business."
+msgstr "Scusa. Ho degli affari urgenti."
+
+msgctxt "1104_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr "Mi dispiace, ma devo filare."
+
+msgctxt "1116_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr "Oh, mi dispiace. Ho una cosa..."
+
+msgctxt "1128_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr "Mi dispiace davvero. È saltato fuori un imprevisto."
+
+msgctxt "1140_Staff"
+msgid "I see. Well, please come again."
+msgstr "Capisco. Beh, torni pure."
+
+msgctxt "1164_Staff"
+msgid "This way, please."
+msgstr "Da questa parte, prego."
+
+msgctxt "1224_Staff"
+msgid "Welcome. Can I start you off with something to drink?"
+msgstr "Benvenuto. Desidera qualcosa da bere per iniziare?"
+
+msgctxt "1248_Staff"
+msgid "Are you ready to order?"
+msgstr "Siete pronti per ordinare?"
+
+msgctxt "1296_Staff"
+msgid "Are you ready to order?"
+msgstr "Siete pronti per ordinare?"
+
+msgctxt "1344_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr "Scusa. Ho una cosa da sbrigare."
+
+msgctxt "1356_Akiyama"
+msgid "Sorry. I have some urgent business."
+msgstr "Scusa. Ho degli affari urgenti."
+
+msgctxt "1368_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr "Mi dispiace, ma devo filare."
+
+msgctxt "1380_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr "Oh, mi dispiace. Ho una cosa..."
+
+msgctxt "1392_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr "Mi dispiace davvero. È saltato fuori un imprevisto."
+
+msgctxt "1404_Staff"
+msgid "I see. Well, please come again."
+msgstr "Capisco. Beh, torni pure."
+
+msgctxt "1452_Staff"
+msgid "Here's your check."
+msgstr "Ecco il suo conto."
+
+msgctxt "1476_Staff"
+msgid "Thank you very much. Please come again."
+msgstr "Grazie mille. Torni a trovarci."
+
+msgctxt "1536_Staff"
+msgid "Thank you very much. Please come again."
+msgstr "Grazie mille. Torni a trovarci."

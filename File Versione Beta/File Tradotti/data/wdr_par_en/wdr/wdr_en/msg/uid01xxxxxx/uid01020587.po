@@ -1,0 +1,641 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "16060"
+msgid "Nakajima"
+msgstr "Nakajima"
+
+msgctxt "16064"
+msgid "adv1_016_3/nakajima_1_016_080"
+msgstr "adv1_016_3/nakajima_1_016_080"
+
+msgctxt "16068"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "16072"
+msgid "adv1_016_3/kiryu_1_016_060"
+msgstr "adv1_016_3/kiryu_1_016_060"
+
+msgctxt "16076"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "16080"
+msgid "kaiwabgm_heartwarm03"
+msgstr "kaiwabgm_heartwarm03"
+
+msgctxt "16084"
+msgid "adv1_016_3/nakajima_1_016_090a"
+msgstr "adv1_016_3/nakajima_1_016_090a"
+
+msgctxt "16088"
+msgid "adv1_016_3/nakajima_1_016_090b"
+msgstr "adv1_016_3/nakajima_1_016_090b"
+
+msgctxt "16092"
+msgid "adv1_016_3/nakajima_1_016_100"
+msgstr "adv1_016_3/nakajima_1_016_100"
+
+msgctxt "16096"
+msgid "adv1_016_3/kiryu_1_016_080"
+msgstr "adv1_016_3/kiryu_1_016_080"
+
+msgctxt "16100"
+msgid "adv1_016_3/nakajima_1_016_110"
+msgstr "adv1_016_3/nakajima_1_016_110"
+
+msgctxt "16104"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "16108"
+msgid "adv1_016_3/kiryu_1_016_090"
+msgstr "adv1_016_3/kiryu_1_016_090"
+
+msgctxt "16112"
+msgid "adv1_016_3/nakajima_1_016_120"
+msgstr "adv1_016_3/nakajima_1_016_120"
+
+msgctxt "16116"
+msgid "adv1_016_3/kiryu_1_016_100"
+msgstr "adv1_016_3/kiryu_1_016_100"
+
+msgctxt "16120"
+msgid "adv1_016_3/nakajima_1_016_130"
+msgstr "adv1_016_3/nakajima_1_016_130"
+
+msgctxt "16124"
+msgid "adv1_016_3/kiryu_1_016_110"
+msgstr "adv1_016_3/kiryu_1_016_110"
+
+msgctxt "16128"
+msgid "adv1_016_3/nakajima_1_016_140"
+msgstr "adv1_016_3/nakajima_1_016_140"
+
+msgctxt "16132"
+msgid "adv1_016_3/nakajima_1_016_150"
+msgstr "adv1_016_3/nakajima_1_016_150"
+
+msgctxt "16136"
+msgid "adv1_016_3/nakajima_1_016_160"
+msgstr "adv1_016_3/nakajima_1_016_160"
+
+msgctxt "16140"
+msgid "adv1_016_3/nakajima_1_016_170"
+msgstr "adv1_016_3/nakajima_1_016_170"
+
+msgctxt "16144"
+msgid "adv1_016_3/nakajima_1_016_180"
+msgstr "adv1_016_3/nakajima_1_016_180"
+
+msgctxt "16148"
+msgid "adv1_016_3/nakajima_1_016_190"
+msgstr "adv1_016_3/nakajima_1_016_190"
+
+msgctxt "16152"
+msgid "adv1_016_3/nakajima_1_016_200"
+msgstr "adv1_016_3/nakajima_1_016_200"
+
+msgctxt "16156"
+msgid "adv1_016_3/kiryu_1_016_140"
+msgstr "adv1_016_3/kiryu_1_016_140"
+
+msgctxt "16160"
+msgid "adv1_016_3/nakajima_1_016_210"
+msgstr "adv1_016_3/nakajima_1_016_210"
+
+msgctxt "16164"
+msgid "adv1_016_3/nakajima_1_016_220"
+msgstr "adv1_016_3/nakajima_1_016_220"
+
+msgctxt "16168"
+msgid "adv1_016_3/kiryu_1_016_150"
+msgstr "adv1_016_3/kiryu_1_016_150"
+
+msgctxt "16172"
+msgid "adv1_016_3/nakajima_1_016_230a"
+msgstr "adv1_016_3/nakajima_1_016_230a"
+
+msgctxt "16176"
+msgid "adv1_016_3/nakajima_1_016_230b"
+msgstr "adv1_016_3/nakajima_1_016_230b"
+
+msgctxt "16180"
+msgid "adv1_016_3/kiryu_1_016_160"
+msgstr "adv1_016_3/kiryu_1_016_160"
+
+msgctxt "16184"
+msgid "adv1_016_3/nakajima_1_016_240"
+msgstr "adv1_016_3/nakajima_1_016_240"
+
+msgctxt "16188"
+msgid "adv1_016_3/kiryu_1_016_170"
+msgstr "adv1_016_3/kiryu_1_016_170"
+
+msgctxt "16192"
+msgid "adv1_016_3/nakajima_1_016_250"
+msgstr "adv1_016_3/nakajima_1_016_250"
+
+msgctxt "16196"
+msgid "adv1_016_3/kiryu_1_016_180"
+msgstr "adv1_016_3/kiryu_1_016_180"
+
+msgctxt "16200"
+msgid "adv1_016_3/nakajima_1_016_260"
+msgstr "adv1_016_3/nakajima_1_016_260"
+
+msgctxt "16204"
+msgid "adv1_016_3/kiryu_1_016_190"
+msgstr "adv1_016_3/kiryu_1_016_190"
+
+msgctxt "16208"
+msgid "adv1_016_3/nakajima_1_016_270"
+msgstr "adv1_016_3/nakajima_1_016_270"
+
+msgctxt "16212"
+msgid "adv1_016_3/nakajima_1_016_280"
+msgstr "adv1_016_3/nakajima_1_016_280"
+
+msgctxt "16216"
+msgid "adv1_016_3/nakajima_1_016_290"
+msgstr "adv1_016_3/nakajima_1_016_290"
+
+msgctxt "16220"
+msgid "adv1_016_3/nakajima_1_016_300"
+msgstr "adv1_016_3/nakajima_1_016_300"
+
+msgctxt "16224"
+msgid "adv1_016_3/nakajima_1_016_310"
+msgstr "adv1_016_3/nakajima_1_016_310"
+
+msgctxt "16228"
+msgid "adv1_016_3/kiryu_1_016_220"
+msgstr "adv1_016_3/kiryu_1_016_220"
+
+msgctxt "16232"
+msgid "adv1_016_3/nakajima_1_016_320"
+msgstr "adv1_016_3/nakajima_1_016_320"
+
+msgctxt "16236"
+msgid "adv1_016_3/kiryu_1_016_230"
+msgstr "adv1_016_3/kiryu_1_016_230"
+
+msgctxt "16240"
+msgid "adv1_016_3/nakajima_1_016_330"
+msgstr "adv1_016_3/nakajima_1_016_330"
+
+msgctxt "16244"
+msgid "kaiwabgm_kanjyonashi03"
+msgstr "kaiwabgm_kanjyonashi03"
+
+msgctxt "16248"
+msgid "adv1_016_3/kiryu_1_016_240"
+msgstr "adv1_016_3/kiryu_1_016_240"
+
+msgctxt "16252"
+msgid "adv1_016_3/nakajima_1_016_340"
+msgstr "adv1_016_3/nakajima_1_016_340"
+
+msgctxt "16256"
+msgid "adv1_016_3/kiryu_1_016_250"
+msgstr "adv1_016_3/kiryu_1_016_250"
+
+msgctxt "16260"
+msgid "adv1_016_3/nakajima_1_016_350"
+msgstr "adv1_016_3/nakajima_1_016_350"
+
+msgctxt "16264"
+msgid "adv1_016_3/kiryu_1_016_260"
+msgstr "adv1_016_3/kiryu_1_016_260"
+
+msgctxt "16268"
+msgid "adv1_016_3/nakajima_1_016_360"
+msgstr "adv1_016_3/nakajima_1_016_360"
+
+msgctxt "16272"
+msgid "adv1_016_3/kiryu_1_016_270"
+msgstr "adv1_016_3/kiryu_1_016_270"
+
+msgctxt "16276"
+msgid "adv1_016_3/nakajima_1_016_370"
+msgstr "adv1_016_3/nakajima_1_016_370"
+
+msgctxt "16280"
+msgid "adv1_016_3/kiryu_1_016_280"
+msgstr "adv1_016_3/kiryu_1_016_280"
+
+msgctxt "16284"
+msgid "adv1_016_3/nakajima_1_016_380"
+msgstr "adv1_016_3/nakajima_1_016_380"
+
+msgctxt "16288"
+msgid "adv1_016_3/kiryu_1_016_290"
+msgstr "adv1_016_3/kiryu_1_016_290"
+
+msgctxt "16292"
+msgid "adv1_016_3/nakajima_1_016_390"
+msgstr "adv1_016_3/nakajima_1_016_390"
+
+msgctxt "16296"
+msgid "adv1_016_3/kiryu_1_016_300"
+msgstr "adv1_016_3/kiryu_1_016_300"
+
+msgctxt "16300"
+msgid "adv1_016_3/nakajima_1_016_400"
+msgstr "adv1_016_3/nakajima_1_016_400"
+
+msgctxt "16304"
+msgid "adv1_016_3/nakajima_1_016_410"
+msgstr "adv1_016_3/nakajima_1_016_410"
+
+msgctxt "16308"
+msgid "adv1_016_3/kiryu_1_016_310"
+msgstr "adv1_016_3/kiryu_1_016_310"
+
+msgctxt "16312"
+msgid "adv1_016_3/nakajima_1_016_420"
+msgstr "adv1_016_3/nakajima_1_016_420"
+
+msgctxt "16316"
+msgid "adv1_016_3/kiryu_1_016_320"
+msgstr "adv1_016_3/kiryu_1_016_320"
+
+msgctxt "16320"
+msgid "adv1_016_3/nakajima_1_016_430"
+msgstr "adv1_016_3/nakajima_1_016_430"
+
+msgctxt "16324"
+msgid "adv1_016_3/kiryu_1_016_330"
+msgstr "adv1_016_3/kiryu_1_016_330"
+
+msgctxt "44_Nakajima"
+msgid ""
+"Man, this is trawlin' up some old memories. You n' I first met at one o' "
+"these food stalls, remember?"
+msgstr ""
+"Cavolo, questo mi fa riaffiorare dei vecchi ricordi. Tu e io ci siamo "
+"conosciuti la prima volta in una di queste bancarelle di cibo, ricordi?"
+
+msgctxt "56_Kiryu"
+msgid "Of course. Hard to believe it's already been six months since then."
+msgstr "Certo. Difficile credere che siano già passati sei mesi da allora."
+
+msgctxt "68_Nakajima"
+msgid "Y'practically gave me a heart attack."
+msgstr "M'hai quasi fatto prendere un colpo."
+
+msgctxt "80_Nakajima"
+msgid ""
+"I remember y'jumped in to help some lady who was gettin' harassed at a stall"
+" nearby. Those punks gave ya the beatin' of a lifetime after that."
+msgstr ""
+"Mi ricordo che t'eri buttato per aiutare una signora che veniva infastidita "
+"a una bancarella lì vicino. Quei balordi t'hanno massacrato di botte dopo."
+
+msgctxt "92_Nakajima"
+msgid ""
+"Dunno how it all went down, but with the pummelin' they were givin' ya I "
+"swore y'were a goner."
+msgstr ""
+"Non so come sia andata, ma con le botte che ti davano, giuravo che eri "
+"spacciato."
+
+msgctxt "104_Kiryu"
+msgid "Not my fondest memory."
+msgstr "Non è proprio un bel ricordo."
+
+msgctxt "116_Nakajima"
+msgid ""
+"Don't be silly. That's when I knew ya weren't some average joe. Gotta be a "
+"stand-up guy if y'can stand up straight after somethin' like that."
+msgstr ""
+"Non dire sciocchezze. È lì che ho capito che non eri un tipo qualsiasi. Devi"
+" essere uno tosto se riesci a rimetterti in piedi dopo una cosa del genere."
+
+msgctxt "128_Kiryu"
+msgid "I'm not so sure."
+msgstr "Non ne sono così sicuro."
+
+msgctxt "140_Nakajima"
+msgid ""
+"That's when I knew I gotta help you. It was obvious y'were the kinda guy I "
+"could trust with my life."
+msgstr ""
+"È lì che ho capito che dovevo darti una mano. Era ovvio che eri il tipo a "
+"cui potevo affidare la mia vita."
+
+msgctxt "152_Kiryu"
+msgid "I can't thank you enough for the opportunity, Nakajima, sir."
+msgstr ""
+"Non ti ringrazierò mai abbastanza per l'opportunità, Nakajima, signore."
+
+msgctxt "164_Nakajima"
+msgid ""
+"Pfft, I should be thankin' you. I always wanted my company to be a place "
+"where people like you can come to make an honest livin'."
+msgstr ""
+"Figurati, dovrei essere io a ringraziarti. Ho sempre voluto che la mia "
+"compagnia fosse un posto dove persone come te potessero venire a guadagnarsi"
+" onestamente il pane."
+
+msgctxt "176_Kiryu"
+msgid "What do you mean?"
+msgstr "Cosa intendi?"
+
+msgctxt "188_Nakajima"
+msgid ""
+"Y'heard me. Lot of folks wanna live a good life, but a troubled past or some"
+" zany circumstance keeps chaining 'em down."
+msgstr ""
+"M'hai sentito, no? Un sacco di gente vorrebbe farsi una bella vita, ma un "
+"passato difficile o qualche circostanza folle li tiene incatenati."
+
+msgctxt "200_Nakajima"
+msgid ""
+"Take an old fart like me. I been through it. Know how life can take a decent"
+" guy, chew him up good, then spit him out on his keister with nothin' left "
+"to lose. Darn tragic if ya ask me."
+msgstr ""
+"Prendi un vecchio rottame come me. Ci sono passato. So come la vita può "
+"prendere un bravo ragazzo, macinarlo per bene, per poi sputarlo fuori col "
+"sedere per terra e senza più niente da perdere. Dannata tragedia, se me lo "
+"chiedi."
+
+msgctxt "212_Nakajima"
+msgid ""
+"Truth is, I lost most everythin' that was important to me. All 'cause of "
+"somethin' I thought was right at the time..."
+msgstr ""
+"La verità è, ho perso praticamente tutto quello che era importante per me. "
+"Tutto a causa di qualcosa che all'epoca pensavo fosse giusto..."
+
+msgctxt "224_Nakajima"
+msgid ""
+"But that's why I'm so trustin' now. 'Cause I know what it means to fall on "
+"hard times. How much it can mean t'have someone in yer corner."
+msgstr ""
+"Ma è per questo che ora mi fido così tanto.\n"
+"Perché so cosa significa trovarsi in difficoltà. Quanto possa significare avere qualcuno dalla tua parte."
+
+msgctxt "236_Nakajima"
+msgid "Made me think. How could I <Italic>not</Italic> bring ya on?"
+msgstr ""
+"M'ha fatto pensare. Come avrei potuto <Italic>non</Italic> prenderti con me?"
+
+msgctxt "248_Nakajima"
+msgid ""
+"Y'looked so alone, too. It was like lookin' at a younger me in the mirror."
+msgstr ""
+"Sembravi così solo, anche tu. Era come guardare un me più giovane allo "
+"specchio."
+
+msgctxt "260_Nakajima"
+msgid ""
+"Nobody makes it all by 'emselves on this earth. Gotta have at least a few "
+"good pals, don't ya think?"
+msgstr ""
+"Nessuno ce la fa da solo al mondo. Ci vogliono almeno un paio di buoni "
+"amici, non credi?"
+
+msgctxt "272_Kiryu"
+msgid "Chief..."
+msgstr "Capo..."
+
+msgctxt "284_Nakajima"
+msgid ""
+"That company's all I'm livin' for these days. The closest thing to a family "
+"I got."
+msgstr ""
+"Quella compagnia è tutto per cui vivo ultimamente. La cosa più vicina a una "
+"famiglia che mi è rimasta."
+
+msgctxt "296_Nakajima"
+msgid ""
+"So drop all that formality baloney, will ya? I'm just another member of the "
+"team. 'Kay?"
+msgstr ""
+"Quindi, piantala con tutte quelle menate di formalità, capito? Sono solo un "
+"altro membro della squadra. Ok?"
+
+msgctxt "308_Kiryu"
+msgid "Got it."
+msgstr "Capito."
+
+msgctxt "320_Nakajima"
+msgid ""
+"Enough o' this sorry little speech, though. I'm grabbin' a nice, crisp "
+"highball for a much-needed change o' pace!"
+msgstr ""
+"Basta con questo discorsetto patetico, però. Mi prendo un bel highball "
+"fresco e frizzante per un cambio di ritmo di cui ho un gran bisogno!"
+
+msgctxt "332_Nakajima"
+msgid "One highball over here!"
+msgstr "Un highball qui!"
+
+msgctxt "344_Kiryu"
+msgid "Hey, Chief?"
+msgstr "Ehi, Capo?"
+
+msgctxt "356_Nakajima"
+msgid "Huh? You want one too, Suzuki-san?"
+msgstr "Eh? Ne vuoi uno anche tu, Suzuki-san?"
+
+msgctxt "368_Kiryu"
+msgid ""
+"No, it's just... You've been talking so openly about yourself, but I..."
+msgstr "No, è solo che... Hai parlato così apertamente di te stesso, ma io..."
+
+msgctxt "380_Nakajima"
+msgid "Hm? This about yer past?"
+msgstr "Eh? Riguarda il tuo passato?"
+
+msgctxt "392_Kiryu"
+msgid "Yes."
+msgstr "Sì."
+
+msgctxt "404_Nakajima"
+msgid ""
+"Didn't I promise not t'ask you about that? Don't worry, y'just keep those "
+"cards close to yer chest."
+msgstr ""
+"Non ti avevo promesso di non chiederti di quello? Non preoccuparti, tieni "
+"pure le tue carte strette al petto."
+
+msgctxt "416_Kiryu"
+msgid "But..."
+msgstr "Ma..."
+
+msgctxt "428_Nakajima"
+msgid "Suzuki-san. I don't got the foggiest 'bout what brought ya to Nagasu."
+msgstr ""
+"Suzuki-san. Non c'ho la più pallida idea di cosa ti abbia portato a Nagasu."
+
+msgctxt "440_Nakajima"
+msgid ""
+"But... if an honest fella like you is keepin' something locked away, it's "
+"prob'ly best to leave it that way."
+msgstr ""
+"Ma... se un tipo onesto come te si tiene qualcosa dentro, è probabilmente "
+"meglio lasciarlo così."
+
+msgctxt "452_Nakajima"
+msgid ""
+"If y'go and spill the beans now, then what was the point of keepin' it a "
+"secret in the first place?"
+msgstr ""
+"Se ti metti a vuotare il sacco adesso, allora che senso aveva tenerlo "
+"segreto fin dall'inizio?"
+
+msgctxt "464_Nakajima"
+msgid ""
+"Well, if the cops ever haul ya in on a traffic violation or somethin', y'can"
+" tell me all about it then."
+msgstr ""
+"Beh, se i piedipiatti ti beccano per una multa o roba del genere, allora "
+"potrai raccontarmi tutto."
+
+msgctxt "476_Nakajima"
+msgid "Who knows what kinda mess I'd be gettin' dragged into otherwise!"
+msgstr "Chi sa in che razza di casino mi ritroverei invischiato altrimenti!"
+
+msgctxt "488_Kiryu"
+msgid "Thank you, sir."
+msgstr "Grazie, signore."
+
+msgctxt "500_Nakajima"
+msgid ""
+"Don't think a thing of it. Oh, but there was somethin' I wanted to ask ya "
+"about."
+msgstr "Figurati. Oh, ma c'era una cosa che volevo chiederti."
+
+msgctxt "512_Kiryu"
+msgid "What is it?"
+msgstr "E cioè?"
+
+msgctxt "524_Nakajima"
+msgid ""
+"That pretty gal y'helped out when we first met. Y'keep in touch with her "
+"since then?"
+msgstr ""
+"Quella bella ragazza che hai aiutato quando ci siamo incontrati la prima "
+"volta. Ti sei tenuto in contatto con lei da allora?"
+
+msgctxt "536_Kiryu"
+msgid "Oh... no. That's not really my style."
+msgstr "Oh... no. Non è proprio il mio stile."
+
+msgctxt "548_Nakajima"
+msgid ""
+"Damn shame there! She was a real looker. Not many girls like that 'round "
+"Nagasu, y'know!"
+msgstr ""
+"Che peccato, però! Era un gran bel pezzo di ragazza. Non ce ne sono molte di"
+" ragazze così a Nagasu, sai!"
+
+msgctxt "560_Kiryu"
+msgid "I haven't noticed."
+msgstr "Non ci ho fatto caso."
+
+msgctxt "572_Nakajima"
+msgid ""
+"Can't quite picture her face anymore, but I remember she was "
+"<Italic>gorgeous</Italic>. I'd have at least got her number if I was in yer "
+"shoes!"
+msgstr ""
+"Non mi ricordo più bene il suo viso, ma ricordo che era "
+"<Italic>splendida</Italic>. Le avrei almeno preso il numero se fossi stato "
+"nei tuoi panni!"
+
+msgctxt "584_Kiryu"
+msgid "All right... But why are you bringing that up now?"
+msgstr "Va bene... Ma perché tiri fuori questa cosa adesso?"
+
+msgctxt "596_Nakajima"
+msgid ""
+"Hm? Y'don't know, Suzuki-san? The other drivers have been talkin' somethin' "
+"fierce about ya lately."
+msgstr ""
+"Eh? Non lo sai, Suzuki-san? Gli altri autisti stanno parlando parecchio di "
+"te ultimamente."
+
+msgctxt "608_Kiryu"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "620_Nakajima"
+msgid ""
+"Now there ain't nothin' wrong with this, but there've been some rumors..."
+msgstr "Ora, non c'è niente di male in questo, ma sono girate delle voci..."
+
+msgctxt "680_Kiryu"
+msgid "...Me?"
+msgstr "...Io?"
+
+msgctxt "692_Nakajima"
+msgid ""
+"Well, yer single in yer forties, never go out drinkin', and won't even step "
+"foot in a cabaret club or nothin'. Can't blame the boys for wonderin'."
+msgstr ""
+"Beh, sei single sui quarant'anni, non ti fai mai una bevuta, e non metti "
+"manco piede in un cabaret club o roba del genere. Non puoi dar torto ai "
+"ragazzi se si fanno delle domande."
+
+msgctxt "704_Kiryu"
+msgid "Well, I..."
+msgstr "Beh, io..."
+
+msgctxt "716_Nakajima"
+msgid "Y'what? Yer actually married or somethin'?"
+msgstr "Ma come? Sei per caso sposato o roba del genere?"
+
+msgctxt "728_Kiryu"
+msgid "No, that's not it."
+msgstr "No, non è quello."
+
+msgctxt "740_Nakajima"
+msgid ""
+"Then y'brought this on yerself, what with you bein' so straight-laced all "
+"the time."
+msgstr "Allora te la sei cercata, a essere così perbene tutto il tempo."
+
+msgctxt "752_Nakajima"
+msgid ""
+"I know it ain't your thing, but I reckon it'd be nice if y'joined us fer "
+"drinks at a hostess club one o' these days. Little change of pace, y'know?"
+msgstr ""
+"So che non è il tuo genere, ma secondo me sarebbe carino se ti unissi a noi "
+"per un drink in un hostess club uno di questi giorni. Un piccolo cambio di "
+"ritmo, sai?"
+
+msgctxt "764_Kiryu"
+msgid "...Okay."
+msgstr "...Ok."
+
+msgctxt "776_Nakajima"
+msgid "Okay? Y'just agreed to it, right?"
+msgstr "Ok? Hai appena detto di sì, vero?"
+
+msgctxt "788_Kiryu"
+msgid "Well yeah, but..."
+msgstr "Beh, sì, ma..."
+
+msgctxt "800_Nakajima"
+msgid "Great, then let's get goin'! We gotta grab life by the horns!"
+msgstr "Ottimo, allora andiamo! Dobbiamo afferrare la vita per le corna!"
+
+msgctxt "812_Kiryu"
+msgid "Huh?"
+msgstr "Uh?"

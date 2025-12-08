@@ -1,0 +1,77 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2156"
+msgid "Employee"
+msgstr "Cameriere"
+
+msgctxt "2160"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "2164"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "44_Employee"
+msgid "Welcome. May I take your order?"
+msgstr "Benvenuto. Posso prendere la sua ordinazione?"
+
+msgctxt "80_Employee"
+msgid "Thank you."
+msgstr "Grazie."
+
+msgctxt "116_Player"
+msgid "(I don't need to eat right now.)"
+msgstr "(Non ho bisogno di mangiare adesso.)"
+
+msgctxt "128_Player"
+msgid "(I don't need to eat right now.)"
+msgstr "(Non ho bisogno di mangiare adesso.)"
+
+msgctxt "140_Player"
+msgid "(Don't need food now.)"
+msgstr "(Non mi serve cibo adesso.)"
+
+msgctxt "152_Player"
+msgid "(Not hungry yet.)"
+msgstr "(Non ho ancora fame.)"
+
+msgctxt "164_Player"
+msgid "(I'm full now.)"
+msgstr "(Sono pieno ora.)"
+
+msgctxt "188_Player"
+msgid "Sorry, something came up."
+msgstr "Mi dispiace, è saltato fuori un imprevisto."
+
+msgctxt "200_Player"
+msgid "Sorry, something came up."
+msgstr "Mi dispiace, è saltato fuori un imprevisto."
+
+msgctxt "212_Player"
+msgid "Sorry, but I gotta jet."
+msgstr "Mi dispiace, ma devo filare."
+
+msgctxt "224_Player"
+msgid "Sorry, I forgot I had to do something."
+msgstr "Scusa, mi ero scordato che dovevo fare una cosa."
+
+msgctxt "236_Player"
+msgid "I'm so sorry. I have to go."
+msgstr "Mi dispiace tanto. Devo andare."
+
+msgctxt "248_Employee"
+msgid "All right. Please come again soon."
+msgstr "Va bene. Tornate a trovarci presto."

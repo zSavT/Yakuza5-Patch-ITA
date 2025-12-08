@@ -1,0 +1,86 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1336"
+msgid "Seafood Newbie"
+msgstr "Novellino di frutti di mare"
+
+msgctxt "1340"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "1344"
+msgid "Seafoodie"
+msgstr "Intenditore di frutti di mare"
+
+msgctxt "1348"
+msgid "M_NML_TLK_stand_no"
+msgstr "M_NML_TLK_stand_no"
+
+msgctxt "1352"
+msgid "M_NML_TLK_stand_yes_02"
+msgstr "M_NML_TLK_stand_yes_02"
+
+msgctxt "1356"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "1360"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "1364"
+msgid "P_TLK_stand_think"
+msgstr "P_TLK_stand_think"
+
+msgctxt "44_Seafood Newbie"
+msgid "Hey man, let's go get some uni!"
+msgstr "Ehi, bro, andiamo a prenderci un po' di uni!"
+
+msgctxt "56_Seafoodie"
+msgid "Now's no good. Uni isn't in season until July."
+msgstr "Adesso no, non va bene. L'uni non è di stagione fino a luglio."
+
+msgctxt "68_Seafood Newbie"
+msgid "Season? Uni has a season?"
+msgstr "Stagione? L'uni ha una stagione?"
+
+msgctxt "80_Seafoodie"
+msgid ""
+"Sure. Different species of uni are harvested at different times throughout "
+"the year."
+msgstr ""
+"Certo. Diverse specie di uni vengono raccolte in momenti diversi durante "
+"tutto l'anno."
+
+msgctxt "92_Seafoodie"
+msgid "The best of the best is bafun uni, which is mainly caught in July."
+msgstr ""
+"Il meglio del meglio è il bafun uni, che viene pescato principalmente a "
+"luglio."
+
+msgctxt "104_Seafood Newbie"
+msgid ""
+"Wow, you sure know a lot about this stuff!\r\n"
+"But I don't want to wait until July..."
+msgstr ""
+"Wow, ne sai un sacco su 'sta roba!\n"
+"Ma non voglio aspettare fino a luglio..."
+
+msgctxt "116_Saejima"
+msgid ""
+"(Uni is in season in July, huh? Sounds like somethin' to mention at the "
+"cabaret club.)"
+msgstr ""
+"(L'uni è di stagione a luglio, eh? Sembra una roba da dire al cabaret club.)"

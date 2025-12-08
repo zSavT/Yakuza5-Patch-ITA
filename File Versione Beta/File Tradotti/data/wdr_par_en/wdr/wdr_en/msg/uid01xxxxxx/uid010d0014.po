@@ -1,0 +1,97 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2584"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "2588"
+msgid "Loitering Pedestrian"
+msgstr "Pedone bighellone"
+
+msgctxt "2592"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "2596"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2600"
+msgid "0"
+msgstr "0"
+
+msgctxt "2604"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "44_Kiryu"
+msgid "(Damn. I lost sight of them.)"
+msgstr "(Maledizione. Li ho persi di vista.)"
+
+msgctxt "56_Loitering Pedestrian"
+msgid "Talk about dangerous. These taxis are out of control!"
+msgstr "Altro che pericoloso. Questi taxi sono fuori controllo!"
+
+msgctxt "68_Kiryu"
+msgid "What happened?"
+msgstr "Che è successo?"
+
+msgctxt "80_Loitering Pedestrian"
+msgid ""
+"Yipes! Er, I mean... What happened is, I just about got flattened by a taxi."
+" Guy was driving like a maniac!"
+msgstr ""
+"Oddio! Cioè, volevo dire... Quello che è successo è che sono quasi stato "
+"spiaccicato da un taxi. Quel tizio guidava come un pazzo!"
+
+msgctxt "92_Kiryu"
+msgid "Was the light on the taxi flashing red?"
+msgstr "La luce sul taxi era lampeggiante rossa?"
+
+msgctxt "104_Loitering Pedestrian"
+msgid "Actually, it was."
+msgstr "In effetti, sì."
+
+msgctxt "116_Loitering Pedestrian"
+msgid ""
+"I caught a glimpse of the driver, and he had a look on his face like he'd "
+"seen a ghost. Maybe he had an impatient passenger."
+msgstr ""
+"Ho intravisto l'autista, e aveva una faccia come se avesse visto un "
+"fantasma. Forse aveva un passeggero impaziente."
+
+msgctxt "128_Kiryu"
+msgid ""
+"(He looked like he'd seen a ghost, huh? Then it must have been some kind of "
+"emergency.)"
+msgstr ""
+"(Aveva una faccia come se avesse visto un fantasma, eh? Allora dev'essere "
+"stata una specie di emergenza.)"
+
+msgctxt "140_Kiryu"
+msgid "Do you know which way the taxi went?"
+msgstr "Sai da che parte è andato il taxi?"
+
+msgctxt "152_Loitering Pedestrian"
+msgid "It was headed towards Suzukake Lane, I think."
+msgstr "Era diretto verso Suzukake Lane, credo."
+
+msgctxt "164_Kiryu"
+msgid "Suzukake Lane. Got it. Thanks, you've been a big help."
+msgstr "Suzukake Lane. Capito. Grazie, sei stato un grande aiuto."
+
+msgctxt "176_Kiryu"
+msgid "(I'd better hurry. That driver's in trouble!)"
+msgstr "(Devo sbrigarmi. Quell'autista è nei guai!)"

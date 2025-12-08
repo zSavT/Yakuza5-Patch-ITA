@@ -1,0 +1,203 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "716"
+msgid "Welcome to the baccarat table."
+msgstr "Benvenuto al tavolo del baccarat."
+
+msgctxt "728"
+msgid "All right, let's begin. Good luck."
+msgstr "Bene, iniziamo. Buona fortuna."
+
+msgctxt "740"
+msgid "We look forward to seeing you again."
+msgstr "Speriamo di rivederla."
+
+msgctxt "752"
+msgid "You seem to be short on chips. Please visit us again soon."
+msgstr "Sembra che tu sia a corto di fiches. Torna a trovarci presto."
+
+msgctxt "764"
+msgid ""
+"Select whether you think the player or the banker will win, or if they will "
+"tie."
+msgstr ""
+"Scegli se pensi che vincerà il giocatore o il banco, o se ci sarà un "
+"pareggio."
+
+msgctxt "776"
+msgid ""
+"Select whether you think the player or the banker will win, or if they will "
+"tie. You can also select Pair or Super 6."
+msgstr ""
+"Scegli se pensi che vincerà il giocatore o il banco, o se ci sarà un "
+"pareggio. Puoi anche selezionare Coppia o Super 6."
+
+msgctxt "788"
+msgid "Select a wager between the minimum and maximum betting limit."
+msgstr "Seleziona una puntata tra il limite minimo e massimo di scommessa."
+
+msgctxt "800"
+msgid "I will now deal the cards."
+msgstr "Adesso do le carte."
+
+msgctxt "812"
+msgid "Let's open the player's first card."
+msgstr "Apriamo la prima carta del giocatore."
+
+msgctxt "824"
+msgid "Let's open the player's second card."
+msgstr "Apriamo la seconda carta del giocatore."
+
+msgctxt "836"
+msgid "The player stands on 6."
+msgstr "Il giocatore si ferma a 6."
+
+msgctxt "848"
+msgid "The player stands on 7."
+msgstr "Il giocatore si ferma a 7."
+
+msgctxt "860"
+msgid "The player has a natural 8."
+msgstr "Il giocatore ha un 8 naturale."
+
+msgctxt "872"
+msgid "The player has a natural 9."
+msgstr "Il giocatore ha un 9 naturale."
+
+msgctxt "884"
+msgid "If the banker doesn't have 8 or 9, a third card will be dealt."
+msgstr "Se il banco non ha 8 o 9, verrà data una terza carta."
+
+msgctxt "896"
+msgid "Let's open the banker's first card."
+msgstr "Apriamo la prima carta del banco."
+
+msgctxt "908"
+msgid "Let's open the banker's second card."
+msgstr "Apriamo la seconda carta del banco."
+
+msgctxt "920"
+msgid "The banker stands on 6."
+msgstr "Il banco si ferma a 6."
+
+msgctxt "932"
+msgid "The banker stands on 6. The player will now be dealt a third card."
+msgstr "Il banco si ferma a 6. Al giocatore verrà ora data una terza carta."
+
+msgctxt "944"
+msgid "The banker stands on 7."
+msgstr "Il banco si ferma a 7."
+
+msgctxt "956"
+msgid "The banker stands on 7. The player will now be dealt a third card."
+msgstr "Il banco si ferma a 7. Al giocatore verrà ora data una terza carta."
+
+msgctxt "968"
+msgid "The banker has a natural 8."
+msgstr "Il banco ha un 8 naturale."
+
+msgctxt "980"
+msgid "The banker has a natural 9."
+msgstr "Il banco ha un 9 naturale."
+
+msgctxt "992"
+msgid ""
+"The player's third card will determine whether the banker draws a third "
+"card."
+msgstr ""
+"La terza carta del giocatore determinerà se il banco pesca una terza carta."
+
+msgctxt "1004"
+msgid "The player is standing. The banker will be dealt a third card."
+msgstr "Il giocatore si ferma. Al banco verrà data una terza carta."
+
+msgctxt "1016"
+msgid "Let's open the player's third card."
+msgstr "Apriamo la terza carta del giocatore."
+
+msgctxt "1028"
+msgid ""
+"The banker will not be dealt a third card in accordance with the game's "
+"rules."
+msgstr "Al banco non verrà data una terza carta secondo le regole del gioco."
+
+msgctxt "1040"
+msgid ""
+"The banker will be dealt a third card in accordance with the game's rules."
+msgstr "Al banco verrà data una terza carta secondo le regole del gioco."
+
+msgctxt "1052"
+msgid "Let's open the banker's third card."
+msgstr "Apriamo la terza carta del banco."
+
+msgctxt "1064"
+msgid "The player won."
+msgstr "Il giocatore ha vinto."
+
+msgctxt "1076"
+msgid "The banker won."
+msgstr "Il banco ha vinto."
+
+msgctxt "1088"
+msgid "The game ended in a tie."
+msgstr "La partita è finita in parità."
+
+msgctxt "1100"
+msgid "Congratulations."
+msgstr "Congratulazioni."
+
+msgctxt "1112"
+msgid "Better luck next time."
+msgstr "Sarà per la prossima volta."
+
+msgctxt "1124"
+msgid "Would you like to keep playing?"
+msgstr "Vuoi continuare a giocare?"
+
+msgctxt "1136"
+msgid "If you please."
+msgstr "Prego."
+
+msgctxt "1148"
+msgid "The deck's running low. Time to shuffle."
+msgstr "Il mazzo è agli sgoccioli. È ora di mescolare."
+
+msgctxt "1160"
+msgid "The player has a pair."
+msgstr "Il giocatore ha una coppia."
+
+msgctxt "1172"
+msgid "The banker has a pair."
+msgstr "Il banco ha una coppia."
+
+msgctxt "1184"
+msgid "Super 6."
+msgstr "Super Sei."
+
+msgctxt "1196"
+msgid "You're on a roll."
+msgstr "Sei lanciato!"
+
+msgctxt "1208"
+msgid "You're doing great."
+msgstr "Stai andando alla grande."
+
+msgctxt "1220"
+msgid "(The item doesn't seem to work anymore.)"
+msgstr "(L'oggetto non sembra più funzionare.)"
+
+msgctxt "1232"
+msgid "A third card will be dealt to both the player and banker."
+msgstr "Una terza carta verrà distribuita sia al giocatore che al banco."

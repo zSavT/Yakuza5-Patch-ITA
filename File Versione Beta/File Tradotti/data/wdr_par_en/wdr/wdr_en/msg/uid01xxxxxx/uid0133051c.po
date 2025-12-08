@@ -1,0 +1,78 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2368"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "2372"
+msgid "Start Fishing"
+msgstr "Inizia a pescare"
+
+msgctxt "2376"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "2380"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "120_Player"
+msgid ""
+"(Coach Igarashi told me to go and fish something up. Looks like there's a "
+"good fishing spot over there.)"
+msgstr ""
+"(Coach Igarashi mi ha detto di andare a pescare qualcosa. Sembra che laggiù "
+"ci sia un buon posto per pescare.)"
+
+msgctxt "132_Player"
+msgid ""
+"(It looks like I could fish here. Maybe I'll drop a line in for a bit.)"
+msgstr "(Sembra che potrei pescare qui. Magari butto l'amo per un po'.)"
+
+msgctxt "156_Player"
+msgid "(Okay, let's give it a go!)"
+msgstr "(Ok, dai, proviamoci!)"
+
+msgctxt "180_Player"
+msgid "(I don't have any bait to use.)"
+msgstr "(Non ho esche da usare.)"
+
+msgctxt "192_Player"
+msgid "(I guess I'll come back later.)"
+msgstr "(Immagino che tornerò più tardi.)"
+
+msgctxt "204_Player"
+msgid ""
+"(Come to think of it, the coach wanted me to do some fishing. Now isn't the "
+"time, though.)"
+msgstr ""
+"(A pensarci bene, il coach voleva che pescassi. Non è il momento, però.)"
+
+msgctxt "216_Player"
+msgid ""
+"(It looks like I could fish here. Maybe I'll drop a line in for a bit.)"
+msgstr "(Sembra che potrei pescare qui. Magari butto l'amo per un po'.)"
+
+msgctxt "240_Player"
+msgid "(Okay, let's give it a try.)"
+msgstr "(Ok, dai, proviamoci!)"
+
+msgctxt "264_Player"
+msgid "(I don't have anything to use for bait.)"
+msgstr "(Non ho esche da usare.)"
+
+msgctxt "276_Player"
+msgid "(Maybe some other time.)"
+msgstr "(Magari un'altra volta.)"

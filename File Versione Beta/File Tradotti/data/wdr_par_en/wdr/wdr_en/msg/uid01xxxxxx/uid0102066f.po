@@ -1,0 +1,642 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "15428"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "15432"
+msgid "adv1_110/kiryu_0199"
+msgstr "adv1_110/kiryu_0199"
+
+msgctxt "15436"
+msgid "P_sitsofa"
+msgstr "P_sitsofa"
+
+msgctxt "15440"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "15444"
+msgid "Watase"
+msgstr "Watase"
+
+msgctxt "15448"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "15452"
+msgid "adv1_110/watase_0029"
+msgstr "adv1_110/watase_0029"
+
+msgctxt "15456"
+msgid "adv1_110/kiryu_0200"
+msgstr "adv1_110/kiryu_0200"
+
+msgctxt "15460"
+msgid "adv1_110/watase_0030"
+msgstr "adv1_110/watase_0030"
+
+msgctxt "15464"
+msgid "adv1_110/kiryu_0201"
+msgstr "adv1_110/kiryu_0201"
+
+msgctxt "15468"
+msgid "adv1_110/watase_0031a"
+msgstr "adv1_110/watase_0031a"
+
+msgctxt "15472"
+msgid "adv1_110/watase_0031b"
+msgstr "adv1_110/watase_0031b"
+
+msgctxt "15476"
+msgid "adv1_110/kiryu_0202"
+msgstr "adv1_110/kiryu_0202"
+
+msgctxt "15480"
+msgid "adv1_110/watase_0032a"
+msgstr "adv1_110/watase_0032a"
+
+msgctxt "15484"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "15488"
+msgid "adv1_110/watase_0032b"
+msgstr "adv1_110/watase_0032b"
+
+msgctxt "15492"
+msgid "adv1_110/kiryu_0203"
+msgstr "adv1_110/kiryu_0203"
+
+msgctxt "15496"
+msgid "adv1_110/watase_0033a"
+msgstr "adv1_110/watase_0033a"
+
+msgctxt "15500"
+msgid "adv1_110/watase_0033b"
+msgstr "adv1_110/watase_0033b"
+
+msgctxt "15504"
+msgid "adv1_110/kiryu_0204a"
+msgstr "adv1_110/kiryu_0204a"
+
+msgctxt "15508"
+msgid "adv1_110/kiryu_0204b"
+msgstr "adv1_110/kiryu_0204b"
+
+msgctxt "15512"
+msgid "adv1_110/watase_0034a"
+msgstr "adv1_110/watase_0034a"
+
+msgctxt "15516"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "15520"
+msgid "kaiwabgm_serious01"
+msgstr "kaiwabgm_serious01"
+
+msgctxt "15524"
+msgid "adv1_110/watase_0034b"
+msgstr "adv1_110/watase_0034b"
+
+msgctxt "15528"
+msgid "adv1_110/watase_0034c"
+msgstr "adv1_110/watase_0034c"
+
+msgctxt "15532"
+msgid "adv1_110/kiryu_0205"
+msgstr "adv1_110/kiryu_0205"
+
+msgctxt "15536"
+msgid "adv1_110/watase_0035a"
+msgstr "adv1_110/watase_0035a"
+
+msgctxt "15540"
+msgid "adv1_110/watase_0035b"
+msgstr "adv1_110/watase_0035b"
+
+msgctxt "15544"
+msgid "adv1_110/watase_0035c"
+msgstr "adv1_110/watase_0035c"
+
+msgctxt "15548"
+msgid "adv1_110/kiryu_0206"
+msgstr "adv1_110/kiryu_0206"
+
+msgctxt "15552"
+msgid "adv1_110/watase_0036a"
+msgstr "adv1_110/watase_0036a"
+
+msgctxt "15556"
+msgid "adv1_110/watase_0036b"
+msgstr "adv1_110/watase_0036b"
+
+msgctxt "15560"
+msgid "adv1_110/kiryu_0207"
+msgstr "adv1_110/kiryu_0207"
+
+msgctxt "15564"
+msgid "adv1_110/watase_0037a"
+msgstr "adv1_110/watase_0037a"
+
+msgctxt "15568"
+msgid "adv1_110/watase_0037b"
+msgstr "adv1_110/watase_0037b"
+
+msgctxt "15572"
+msgid "adv1_110/watase_0038"
+msgstr "adv1_110/watase_0038"
+
+msgctxt "15576"
+msgid "adv1_110/watase_0039a"
+msgstr "adv1_110/watase_0039a"
+
+msgctxt "15580"
+msgid "adv1_110/watase_0039b"
+msgstr "adv1_110/watase_0039b"
+
+msgctxt "15584"
+msgid "adv1_110/watase_0039c"
+msgstr "adv1_110/watase_0039c"
+
+msgctxt "15588"
+msgid "adv1_110/watase_0039d"
+msgstr "adv1_110/watase_0039d"
+
+msgctxt "15592"
+msgid "adv1_110/kiryu_0210a"
+msgstr "adv1_110/kiryu_0210a"
+
+msgctxt "15596"
+msgid "adv1_110/kiryu_0210b"
+msgstr "adv1_110/kiryu_0210b"
+
+msgctxt "15600"
+msgid "adv1_110/watase_0040"
+msgstr "adv1_110/watase_0040"
+
+msgctxt "15604"
+msgid "adv1_110/kiryu_0211"
+msgstr "adv1_110/kiryu_0211"
+
+msgctxt "15608"
+msgid "adv1_110/watase_0041a"
+msgstr "adv1_110/watase_0041a"
+
+msgctxt "15612"
+msgid "adv1_110/watase_0041b"
+msgstr "adv1_110/watase_0041b"
+
+msgctxt "15616"
+msgid "adv1_110/watase_0041c"
+msgstr "adv1_110/watase_0041c"
+
+msgctxt "15620"
+msgid "adv1_110/kiryu_0212"
+msgstr "adv1_110/kiryu_0212"
+
+msgctxt "15624"
+msgid "adv1_110/watase_0042"
+msgstr "adv1_110/watase_0042"
+
+msgctxt "15628"
+msgid "adv1_110/kiryu_0213"
+msgstr "adv1_110/kiryu_0213"
+
+msgctxt "15632"
+msgid "adv1_110/watase_0043a"
+msgstr "adv1_110/watase_0043a"
+
+msgctxt "15636"
+msgid "adv1_110/watase_0043b"
+msgstr "adv1_110/watase_0043b"
+
+msgctxt "15640"
+msgid "adv1_110/watase_0044a"
+msgstr "adv1_110/watase_0044a"
+
+msgctxt "15644"
+msgid "adv1_110/watase_0044b"
+msgstr "adv1_110/watase_0044b"
+
+msgctxt "15648"
+msgid "adv1_110/watase_0044c"
+msgstr "adv1_110/watase_0044c"
+
+msgctxt "15652"
+msgid "adv1_110/watase_0044d"
+msgstr "adv1_110/watase_0044d"
+
+msgctxt "15656"
+msgid "Watase's Subordinate"
+msgstr "Sottoposto di Watase"
+
+msgctxt "15660"
+msgid "adv1_100/watase_buka_0001"
+msgstr "adv1_100/watase_buka_0001"
+
+msgctxt "15664"
+msgid "C1100_M_YKZ_kamae"
+msgstr "C1100_M_YKZ_kamae"
+
+msgctxt "15668"
+msgid "C1100_M_YKZ_notice"
+msgstr "C1100_M_YKZ_notice"
+
+msgctxt "15672"
+msgid "adv1_100/kiryu_0179"
+msgstr "adv1_100/kiryu_0179"
+
+msgctxt "15676"
+msgid "adv1_100/watase_buka_0002"
+msgstr "adv1_100/watase_buka_0002"
+
+msgctxt "15680"
+msgid "adv1_100/watase_buka_0003"
+msgstr "adv1_100/watase_buka_0003"
+
+msgctxt "15684"
+msgid "C1100_M_YKZ_talk_1"
+msgstr "C1100_M_YKZ_talk_1"
+
+msgctxt "15688"
+msgid "adv1_100/kiryu_0180"
+msgstr "adv1_100/kiryu_0180"
+
+msgctxt "15692"
+msgid "adv1_100/watase_buka_0004a"
+msgstr "adv1_100/watase_buka_0004a"
+
+msgctxt "15696"
+msgid "C1100_M_YKZ_talk_2"
+msgstr "C1100_M_YKZ_talk_2"
+
+msgctxt "15700"
+msgid "adv1_100/watase_buka_0004b"
+msgstr "adv1_100/watase_buka_0004b"
+
+msgctxt "15704"
+msgid "C1100_M_YKZ_talk_3"
+msgstr "C1100_M_YKZ_talk_3"
+
+msgctxt "15708"
+msgid "adv1_100/watase_buka_0004c"
+msgstr "adv1_100/watase_buka_0004c"
+
+msgctxt "15712"
+msgid "C1100_M_YKZ_talk_4"
+msgstr "C1100_M_YKZ_talk_4"
+
+msgctxt "60_Kiryu"
+msgid "Tell me everything. What's your relationship with Aoyama?"
+msgstr "Dimmi tutto. Che rapporto hai con Aoyama?"
+
+msgctxt "72_Watase"
+msgid ""
+"We exchanged vows of brotherhood 'bout a year back. We're sworn brothers "
+"across families."
+msgstr ""
+"Ci siamo scambiati i voti di fratellanza un annetto fa. Siamo fratelli "
+"giurati, anche se di famiglie diverse."
+
+msgctxt "84_Kiryu"
+msgid ""
+"But you're the captain of the Omi Alliance, and he's just the Tojo Clan "
+"chief of headquarters. You outrank him by far."
+msgstr ""
+"Ma tu sei il capitano dell'Alleanza Omi, e lui è solo il capo del quartier "
+"generale del Clan Tojo. Lo superi di gran lunga."
+
+msgctxt "96_Watase"
+msgid ""
+"Yeah, and swearing an oath with that little weed made me wanna vomit at "
+"first, but the seventh chairman insisted. Can't just say no to that."
+msgstr ""
+"Già, e stringere un giuramento con quella mezza sega all'inizio mi ha fatto "
+"venire il voltastomaco, ma il settimo presidente ha insistito. Non si può "
+"mica dire di no a quello."
+
+msgctxt "108_Kiryu"
+msgid ""
+"The Omi chairman was willing to go that far to prevent conflict with the "
+"Tojo Clan?"
+msgstr ""
+"Il presidente dell'Omi era disposto ad arrivare a tanto per evitare uno "
+"scontro con il Clan Tojo?"
+
+msgctxt "120_Watase"
+msgid "You got it. Call it a strategic alliance, if ya like."
+msgstr "Proprio così. Chiamala un'alleanza strategica, se ti va."
+
+msgctxt "132_Watase"
+msgid ""
+"But with the seventh chairman fadin' to dust, I plan to do\r\n"
+"just as I please from here on in."
+msgstr ""
+"Ma con il settimo presidente che sta tirando le cuoia, ho intenzione di fare\n"
+"come mi pare e piace da adesso in poi."
+
+msgctxt "144_Kiryu"
+msgid ""
+"So did you come to Fukuoka to take part in Aoyama's plan to get rid of "
+"Daigo?"
+msgstr ""
+"Allora sei venuto a Fukuoka per prendere parte al piano di Aoyama di "
+"togliere di mezzo Daigo?"
+
+msgctxt "156_Watase"
+msgid "Nope. Only thing Aoyama told me 'bout was you."
+msgstr "No. L'unica cosa che Aoyama mi ha detto eri tu."
+
+msgctxt "168_Watase"
+msgid "Couldn't give less of a damn 'bout Dojima."
+msgstr "Me ne sbatto di Dojima."
+
+msgctxt "180_Kiryu"
+msgid "You still insist on lying to me."
+msgstr "Ti ostini ancora a mentirmi."
+
+msgctxt "192_Watase"
+msgid ""
+"Ain't no lie. All I heard was you were down in Fukuoka, so I came runnin'."
+msgstr ""
+"Nessuna bugia. Ho solo saputo che eri qui a Fukuoka, e così sono venuto di "
+"corsa."
+
+msgctxt "204_Watase"
+msgid "No other reason, I swear."
+msgstr "Nessun altro motivo, lo giuro."
+
+msgctxt "216_Kiryu"
+msgid "But why would you come all this way just to see me?"
+msgstr "Ma perché saresti venuto fin qui solo per vedermi?"
+
+msgctxt "228_Kiryu"
+msgid ""
+"You must have your eye on the Omi chairman's seat. Meeting me does nothing "
+"for your chances."
+msgstr ""
+"Hai senz'altro messo gli occhi sulla poltrona del presidente dell'Omi. "
+"Incontrarmi non ti serve a niente."
+
+msgctxt "240_Watase"
+msgid "You don't get it, do ya, Kiryu-han?"
+msgstr "Non ci arrivi, vero, Kiryu-han?"
+
+msgctxt "252_Watase"
+msgid "I got no interest in squabblin' over the throne."
+msgstr "Non mi interessa mettermi a litigare per la poltrona."
+
+msgctxt "264_Watase"
+msgid ""
+"My sights are set on what's after. The war with the Tojo Clan when I become "
+"eighth chairman."
+msgstr ""
+"Ho messo gli occhi su quel che viene dopo. La guerra col Clan Tojo quando "
+"diventerò l'ottavo presidente."
+
+msgctxt "276_Kiryu"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "288_Watase"
+msgid ""
+"I can get the chairman's spot without liftin' a finger. No other Omi man's "
+"got what it takes."
+msgstr ""
+"Posso avere la poltrona del presidente senza muovere un dito. Nessun altro "
+"dell'Omi è all'altezza."
+
+msgctxt "300_Watase"
+msgid ""
+"No, what I'm really keen on figuring out is who's gonna be top of the Tojo "
+"once my reign starts."
+msgstr ""
+"No, quello che voglio proprio capire è chi sarà il capo del Tojo quando il "
+"mio regno inizierà."
+
+msgctxt "312_Watase"
+msgid "That's what matters to me."
+msgstr "È questo che mi importa."
+
+msgctxt "324_Kiryu"
+msgid ""
+"What are you implying? It'll be Daigo leading the Tojo, same as always."
+msgstr "Cosa stai insinuando? Sarà Daigo a guidare il Tojo, come sempre."
+
+msgctxt "336_Watase"
+msgid ""
+"Well then we have a problem. 'Cause fightin' a weak-ass clan led by a weak-"
+"ass man ain't worth my time."
+msgstr ""
+"Beh, allora abbiamo un problema. Perché combattere un clan del cazzo guidato"
+" da un uomo del cazzo non vale il mio tempo."
+
+msgctxt "348_Watase"
+msgid "There are far better candidates for his spot out there."
+msgstr ""
+"Ci sono candidati di gran lunga migliori per la sua poltrona là fuori."
+
+msgctxt "360_Kiryu"
+msgid "What are you trying to say?"
+msgstr "Cosa vuoi dire?"
+
+msgctxt "372_Watase"
+msgid ""
+"Look. The Omi Alliance hasn't beaten the Tojo Clan once, even if you go back"
+" to Fifth Chairman Jin Goda."
+msgstr ""
+"Senti. L'Alleanza Omi non ha mai battuto il Clan Tojo, neanche se risali al "
+"Quinto Presidente Jin Goda."
+
+msgctxt "384_Watase"
+msgid ""
+"We had more soldiers, more cash, more power, yet we never came out on top. "
+"Why is that?"
+msgstr ""
+"Avevamo più soldati, più soldi, più potere, eppure non abbiamo mai avuto la "
+"meglio. Come mai?"
+
+msgctxt "396_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "408_Watase"
+msgid "Because they owed their strength to you, Kiryu-han."
+msgstr "Perché dovevano la loro forza a te, Kiryu-han."
+
+msgctxt "420_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "432_Watase"
+msgid ""
+"Take Ryuji Goda, toughest bastard I knew. Had all of Kansai on his side."
+msgstr ""
+"Prendi Ryuji Goda, il bastardo più tosto che conoscessi. Aveva tutto il "
+"Kansai dalla sua parte."
+
+msgctxt "444_Watase"
+msgid ""
+"Yet his assault on Kanto was stopped single-handed by a guy fresh outta "
+"retirement."
+msgstr ""
+"Eppure il suo assalto al Kanto fu fermato da solo da un tipo appena uscito "
+"dal ritiro."
+
+msgctxt "456_Watase"
+msgid ""
+"And that ain't all. Even when the Tojo Clan was tearin' itself apart, all we"
+" could do was sit back on our asses and watch."
+msgstr ""
+"E non è tutto. Anche quando il Clan Tojo si stava facendo a pezzi, tutto "
+"quello che potevamo fare era starcene a braccia incrociate a guardare."
+
+msgctxt "468_Watase"
+msgid "The reason? 'Cause Kazuma Kiryu was back in town bustin' skulls."
+msgstr "Il motivo? Perché Kazuma Kiryu era tornato in città a spaccare teste."
+
+msgctxt "480_Kiryu"
+msgid "You're wrong. Daigo's the one who protected the Tojo Clan."
+msgstr "Hai torto. È Daigo quello che ha protetto il Clan Tojo."
+
+msgctxt "492_Kiryu"
+msgid "I only helped finish what I had started during my time."
+msgstr "Ho solo aiutato a finire quello che avevo iniziato ai miei tempi."
+
+msgctxt "504_Watase"
+msgid "That right there, is the worst goddamn part of it."
+msgstr "Proprio quello, è la parte più maledetta di tutto."
+
+msgctxt "516_Kiryu"
+msgid "What are you talking about?"
+msgstr "Di cosa stai parlando?"
+
+msgctxt "528_Watase"
+msgid ""
+"You've got no ego, and even less ambition. Yet your every move draws crowds "
+"to you."
+msgstr ""
+"Non hai ego, e ancor meno ambizione. Eppure ogni tua mossa ti attira le "
+"folle."
+
+msgctxt "540_Watase"
+msgid ""
+"Anyone who gets a whiff of that power you got will follow ya to the ends of "
+"the earth."
+msgstr ""
+"Chiunque fiuti il potere che hai ti seguirà fino ai confini della terra."
+
+msgctxt "552_Watase"
+msgid "Including Daigo Dojima."
+msgstr "Incluso Daigo Dojima."
+
+msgctxt "564_Kiryu"
+msgid ""
+"Enough rambling. What exactly did you hope to accomplish by meeting me here?"
+msgstr ""
+"Basta chiacchiere. Cosa speravi esattamente di ottenere incontrandomi qui?"
+
+msgctxt "576_Watase"
+msgid ""
+"Well, I was hoping I could persuade ya to join the ranks. Of the Tojo Clan, "
+"of course."
+msgstr ""
+"Beh, speravo di poterti convincere a unirti ai ranghi. Del Clan Tojo, "
+"ovviamente."
+
+msgctxt "588_Kiryu"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "600_Watase"
+msgid ""
+"I'm gonna need to fight the Tojo sooner or later if I wanna control this "
+"country."
+msgstr ""
+"Mi toccherà combattere il Tojo prima o poi se voglio controllare questo "
+"paese."
+
+msgctxt "612_Watase"
+msgid ""
+"But right now those boys are nothin' but losers, barely worth whackin' on "
+"the head."
+msgstr ""
+"Ma adesso quei tipi non sono altro che sfigati, a malapena degni di essere "
+"presi a sberle."
+
+msgctxt "624_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "636_Watase"
+msgid ""
+"If I'm gonna prove I'm better than the Dragon of Kansai, Ryuji Goda, I gotta"
+" make an impact."
+msgstr ""
+"Se voglio dimostrare di essere migliore del Drago del Kansai, Ryuji Goda, "
+"devo farmi sentire."
+
+msgctxt "648_Watase"
+msgid "So I need a big, bad rival like you to wake everyone the fuck up."
+msgstr ""
+"Perciò mi serve un rivale tosto, come te, per farli svegliare tutti, cazzo."
+
+msgctxt "660_Watase"
+msgid ""
+"I want you back with the Tojo Clan, no matter what it takes. That's what I "
+"came to Fukuoka to tell ya."
+msgstr ""
+"Ti voglio di nuovo con il Clan Tojo, costi quel che costi. È per questo che "
+"sono venuto a Fukuoka per dirtelo."
+
+msgctxt "672_Watase"
+msgid "You believe me now?"
+msgstr "Adesso mi credi?"
+
+msgctxt "720_Watase's Subordinate"
+msgid "Huh? Who the hell're you?"
+msgstr "Eh? Chi cazzo sei?"
+
+msgctxt "732_Kiryu"
+msgid "I came to talk with Watase of the Omi Alliance."
+msgstr "Sono venuto a parlare con Watase dell'Alleanza Omi."
+
+msgctxt "744_Watase's Subordinate"
+msgid "Say what?"
+msgstr "Come hai detto?"
+
+msgctxt "756_Watase's Subordinate"
+msgid "Which family you with, dirtbag?"
+msgstr "Di che famiglia sei, stronzo?"
+
+msgctxt "768_Kiryu"
+msgid "I'm not with any family. I'm just a taxi driver."
+msgstr "Non sono con nessuna famiglia. Sono solo un tassista."
+
+msgctxt "780_Watase's Subordinate"
+msgid "A taxi driver, he says!"
+msgstr "Un tassista, dice lui!"
+
+msgctxt "792_Watase's Subordinate"
+msgid "Hoo, that's a riot. Hey boys, who needs a lift! Hahaha!"
+msgstr ""
+"Ah, questa è proprio una pagliacciata. Ehi ragazzi, chi ha bisogno di un "
+"passaggio! Hahaha!"
+
+msgctxt "804_Watase's Subordinate"
+msgid "Oh, you're in luck. The boss just got back."
+msgstr "Oh, sei fortunato. Il capo è appena tornato."

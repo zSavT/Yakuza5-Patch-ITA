@@ -1,0 +1,213 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "244"
+msgid "Received a <Color:8>1,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Hai ricevuto una mancia da <Color:8>1.000 yen<Color:Default> dal pubblico."
+
+msgctxt "256"
+msgid "Received a <Color:8>2,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Hai ricevuto una mancia da <Color:8>2.000 yen<Color:Default> dal pubblico."
+
+msgctxt "268"
+msgid "Received a <Color:8>4,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Hai ricevuto una mancia da <Color:8>4.000 yen<Color:Default> dal pubblico."
+
+msgctxt "280"
+msgid "Received a <Color:8>6,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Hai ricevuto una mancia da <Color:8>6.000 yen<Color:Default> dal pubblico."
+
+msgctxt "484"
+msgid "Received a <Color:8>500 yen<Color:Default> tip from the audience."
+msgstr ""
+"Hai ricevuto una mancia da <Color:8>500 yen<Color:Default> dal pubblico."
+
+msgctxt "496"
+msgid "Received a <Color:8>1,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Hai ricevuto una mancia da <Color:8>1.000 yen<Color:Default> dal pubblico."
+
+msgctxt "508"
+msgid "Received a <Color:8>1,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Hai ricevuto una mancia da <Color:8>1.000 yen<Color:Default> dal pubblico."
+
+msgctxt "520"
+msgid "Received a <Color:8>2,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Hai ricevuto una mancia da <Color:8>2.000 yen<Color:Default> dal pubblico."
+
+msgctxt "16512"
+msgid "Rino"
+msgstr "Rino"
+
+msgctxt "16516"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "16520"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "16524"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "16528"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "16532"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "16536"
+msgid "Adjust Dance Heat Settings"
+msgstr "Regola le Impostazioni Heat della Danza"
+
+msgctxt "16540"
+msgid "No"
+msgstr "No"
+
+msgctxt "16544"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "16548"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "16552"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "16556"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "16560"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "16564"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "136_Rino"
+msgid "Wow! Your dancing is amazing! Could you teach me to move like that?"
+msgstr "Wow! Balli da paura! Mi potresti insegnare a muovermi così?"
+
+msgctxt "328_Rino"
+msgid ""
+"Hey, don't be sad. All you have to do is practice more, and you'll be great "
+"in no time!"
+msgstr ""
+"Ehi, non essere triste. Devi solo fare più pratica, e sarai bravissimo in "
+"men che non si dica!"
+
+msgctxt "376_Rino"
+msgid "Wow! Your dancing is amazing! Could you teach me to move like that?"
+msgstr "Wow! Balli da paura! Mi potresti insegnare a muovermi così?"
+
+msgctxt "568_Rino"
+msgid ""
+"Hey, don't be sad. All you have to do is practice more, and you'll be great "
+"in no time!"
+msgstr ""
+"Ehi, non essere triste. Devi solo fare più pratica, e sarai bravissimo in "
+"men che non si dica!"
+
+msgctxt "604_Rino"
+msgid "A dance battle? You really wanna!?"
+msgstr "Una sfida di ballo? Ma dici sul serio!?"
+
+msgctxt "724_Rino"
+msgid "I'm sorry. Could we do it some other time?"
+msgstr "Mi dispiace. Potremmo farlo un'altra volta?"
+
+msgctxt "736_Rino"
+msgid "Ugh! You've got to be kidding!"
+msgstr "Uff! Ma dici sul serio!?"
+
+msgctxt "772_Rino"
+msgid "You know, maybe we shouldn't. You look tired."
+msgstr "Sai, forse non dovremmo. Sembri stanco."
+
+msgctxt "784_Haruka"
+msgid "Oh. Okay."
+msgstr "Oh. Okay."
+
+msgctxt "820_Rino"
+msgid "A dance battle? You really wanna!?"
+msgstr "Una sfida di ballo? Ma dici sul serio!?"
+
+msgctxt "940_Rino"
+msgid "I'm sorry. Could we do it some other time?"
+msgstr "Mi dispiace. Potremmo farlo un'altra volta?"
+
+msgctxt "952_Rino"
+msgid "Ugh! You've got to be kidding!"
+msgstr "Uff! Ma dici sul serio!?"
+
+msgctxt "988_Rino"
+msgid "You know, maybe we shouldn't. You look tired."
+msgstr "Sai, forse non dovremmo. Sembri stanco."
+
+msgctxt "1000_Haruka"
+msgid "Oh. Okay."
+msgstr "Oh. Okay."
+
+msgctxt "1036_Rino"
+msgid "A dance battle? You really wanna!?"
+msgstr "Una sfida di ballo? Ma dici sul serio!?"
+
+msgctxt "1132_Rino"
+msgid "I'm sorry. Could we do it some other time?"
+msgstr "Mi dispiace. Potremmo farlo un'altra volta?"
+
+msgctxt "1144_Rino"
+msgid "Ugh! You've got to be kidding!"
+msgstr "Uff! Ma dici sul serio!?"
+
+msgctxt "1180_Rino"
+msgid "Yes, if you wouldn't mind!"
+msgstr "Sì, se non ti dispiace!"
+
+msgctxt "1192_Rino"
+msgid "I'd love to!"
+msgstr "Mi piacerebbe un sacco!"
+
+msgctxt "1228_Rino"
+msgid "A dance battle? You really wanna!?"
+msgstr "Una sfida di ballo? Ma dici sul serio!?"
+
+msgctxt "1324_Rino"
+msgid "I'm sorry. Could we do it some other time?"
+msgstr "Mi dispiace. Potremmo farlo un'altra volta?"
+
+msgctxt "1336_Rino"
+msgid "Ugh! You've got to be kidding!"
+msgstr "Uff! Ma dici sul serio!?"
+
+msgctxt "1372_Rino"
+msgid "Yes, if you wouldn't mind!"
+msgstr "Sì, se non ti dispiace!"
+
+msgctxt "1384_Rino"
+msgid "I'd love to!"
+msgstr "Mi piacerebbe un sacco!"

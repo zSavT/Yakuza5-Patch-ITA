@@ -1,0 +1,312 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1168"
+msgid "Received a <Color:8>1,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Ricevuta una mancia di <Color:8>1.000 yen<Color:Default> dal pubblico."
+
+msgctxt "1180"
+msgid "Received a <Color:8>2,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Ricevuta una mancia di <Color:8>2.000 yen<Color:Default> dal pubblico."
+
+msgctxt "1192"
+msgid "Received a <Color:8>4,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Ricevuta una mancia di <Color:8>4.000 yen<Color:Default> dal pubblico."
+
+msgctxt "1204"
+msgid "Received a <Color:8>6,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Ricevuta una mancia di <Color:8>6.000 yen<Color:Default> dal pubblico."
+
+msgctxt "1408"
+msgid "Received a <Color:8>500 yen<Color:Default> tip from the audience."
+msgstr "Ricevuta una mancia di <Color:8>500 yen<Color:Default> dal pubblico."
+
+msgctxt "1420"
+msgid "Received a <Color:8>1,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Ricevuta una mancia di <Color:8>1.000 yen<Color:Default> dal pubblico."
+
+msgctxt "1432"
+msgid "Received a <Color:8>1,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Ricevuta una mancia di <Color:8>1.000 yen<Color:Default> dal pubblico."
+
+msgctxt "1444"
+msgid "Received a <Color:8>2,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Ricevuta una mancia di <Color:8>2.000 yen<Color:Default> dal pubblico."
+
+msgctxt "27500"
+msgid "Wakana"
+msgstr "Wakana"
+
+msgctxt "27504"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "27508"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "27512"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "27516"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "27520"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "27524"
+msgid "Adjust Dance Heat Settings"
+msgstr "Regola Impostazioni Heat Danza"
+
+msgctxt "27528"
+msgid "No"
+msgstr "No"
+
+msgctxt "27532"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "27536"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "27540"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "27544"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "232_Wakana"
+msgid ""
+"Your skills are quite formidable. Congratulations, you just became my newest"
+" rival."
+msgstr ""
+"Niente male le tue abilità. Complimenti, sei appena diventato il mio nuovo "
+"rivale."
+
+msgctxt "268_Wakana"
+msgid "Tch. Is that really all you've got? Looks like I overestimated you."
+msgstr "Tsk. È tutto quello che sai fare? Mi sa che ti ho sopravvalutato."
+
+msgctxt "304_Wakana"
+msgid "You dance, don't you? Are you prepared to battle?"
+msgstr "Tu balli, vero? Sei pronto a dar battaglia?"
+
+msgctxt "400_Haruka"
+msgid "No, not at the moment."
+msgstr "No, non al momento."
+
+msgctxt "412_Wakana"
+msgid "Frightened? Hehe."
+msgstr "Hai paura? Hehe."
+
+msgctxt "448_Wakana"
+msgid ""
+"Oh... I admire you for pushing yourself, but you gotta take a break every "
+"now and then, you know?"
+msgstr ""
+"Oh... Ti ammiro per quanto ti impegni, ma devi prenderti una pausa ogni "
+"tanto, sai?"
+
+msgctxt "460_Haruka"
+msgid "Oh. Yeah, maybe you're right."
+msgstr "Oh. Già, forse hai ragione."
+
+msgctxt "496_Wakana"
+msgid "You dance, don't you? Are you prepared to battle?"
+msgstr "Tu balli, vero? Sei pronto a dar battaglia?"
+
+msgctxt "604_Haruka"
+msgid "No, not at the moment."
+msgstr "No, non al momento."
+
+msgctxt "616_Wakana"
+msgid "Frightened? Hehe."
+msgstr "Hai paura? Hehe."
+
+msgctxt "652_Wakana"
+msgid ""
+"Oh... I admire you for pushing yourself, but you gotta take a break every "
+"now and then, you know?"
+msgstr ""
+"Oh... Ti ammiro per quanto ti impegni, ma devi prenderti una pausa ogni "
+"tanto, sai?"
+
+msgctxt "664_Haruka"
+msgid "Oh. Yeah, maybe you're right."
+msgstr "Oh. Già, forse hai ragione."
+
+msgctxt "700_Wakana"
+msgid "You dance, don't you? Are you prepared to battle?"
+msgstr "Tu balli, vero? Sei pronto a dar battaglia?"
+
+msgctxt "772_Haruka"
+msgid "No, not at the moment."
+msgstr "No, non al momento."
+
+msgctxt "784_Wakana"
+msgid "Frightened? Hehe."
+msgstr "Hai paura? Hehe."
+
+msgctxt "820_Haruka"
+msgid "Sure, if you wouldn't mind."
+msgstr "Certo, se non ti dispiace."
+
+msgctxt "832_Wakana"
+msgid "Not at all. I'm curious to see what you've got."
+msgstr "Affatto. Sono curioso di vedere cosa sai fare."
+
+msgctxt "868_Wakana"
+msgid "You dance, don't you? Are you prepared to battle?"
+msgstr "Tu balli, vero? Sei pronto a dar battaglia?"
+
+msgctxt "940_Haruka"
+msgid "No, not at the moment."
+msgstr "No, non al momento."
+
+msgctxt "952_Wakana"
+msgid "Frightened? Hehe."
+msgstr "Hai paura? Hehe."
+
+msgctxt "988_Haruka"
+msgid "Sure, if you wouldn't mind."
+msgstr "Certo, se non ti dispiace."
+
+msgctxt "1000_Wakana"
+msgid "Not at all. I'm curious to see what you've got."
+msgstr "Affatto. Sono curioso di vedere cosa sai fare."
+
+msgctxt "1060_Wakana"
+msgid ""
+"Your skills are quite formidable. Congratulations, you just became my newest"
+" rival."
+msgstr ""
+"Le tue abilità sono davvero formidabili. Congratulazioni, sei appena "
+"diventato il mio nuovo rivale."
+
+msgctxt "1252_Wakana"
+msgid "Tch. Is that really all you've got? Looks like I overestimated you."
+msgstr "Tch. È tutto quello che sai fare? Sembra che ti abbia sopravvalutato."
+
+msgctxt "1300_Wakana"
+msgid ""
+"Your skills are quite formidable. Congratulations, you just became my newest"
+" rival."
+msgstr ""
+"Le tue abilità sono davvero formidabili. Congratulazioni, sei appena "
+"diventato il mio nuovo rivale."
+
+msgctxt "1492_Wakana"
+msgid "Tch. Is that really all you've got? Looks like I overestimated you."
+msgstr "Tch. È tutto quello che sai fare? Sembra che ti abbia sopravvalutato."
+
+msgctxt "1528_Wakana"
+msgid "You dance, don't you? Are you prepared to battle?"
+msgstr "Tu balli, vero? Sei pronto a dar battaglia?"
+
+msgctxt "1648_Wakana"
+msgid "No, not at the moment."
+msgstr "No, non al momento."
+
+msgctxt "1660_Wakana"
+msgid "Frightened? Hehe."
+msgstr "Hai paura? Hehe."
+
+msgctxt "1696_Wakana"
+msgid ""
+"Oh... I admire you for pushing yourself, but you gotta take a break every "
+"now and then, you know?"
+msgstr ""
+"Oh... Ammiro che ti spingi così tanto, ma ogni tanto devi prenderti una "
+"pausa, sai?"
+
+msgctxt "1708_Haruka"
+msgid "Oh. Yeah, maybe you're right."
+msgstr "Oh. Sì, forse hai ragione."
+
+msgctxt "1744_Wakana"
+msgid "You dance, don't you? Are you prepared to battle?"
+msgstr "Tu balli, vero? Sei pronto a dar battaglia?"
+
+msgctxt "1876_Wakana"
+msgid "No, not at the moment."
+msgstr "No, non al momento."
+
+msgctxt "1888_Wakana"
+msgid "Frightened? Hehe."
+msgstr "Hai paura? Hehe."
+
+msgctxt "1924_Wakana"
+msgid ""
+"Oh... I admire you for pushing yourself, but you gotta take a break every "
+"now and then, you know?"
+msgstr ""
+"Oh... Ammiro che ti spingi così tanto, ma ogni tanto devi prenderti una "
+"pausa, sai?"
+
+msgctxt "1936_Haruka"
+msgid "Oh. Yeah, maybe you're right."
+msgstr "Oh. Sì, forse hai ragione."
+
+msgctxt "1972_Wakana"
+msgid "You dance, don't you? Are you prepared to battle?"
+msgstr "Tu balli, vero? Sei pronto a dar battaglia?"
+
+msgctxt "2068_Wakana"
+msgid "No, not at the moment."
+msgstr "No, non al momento."
+
+msgctxt "2080_Wakana"
+msgid "Frightened? Hehe."
+msgstr "Hai paura? Hehe."
+
+msgctxt "2116_Wakana"
+msgid "Sure, if you wouldn't mind."
+msgstr "Certo, se non ti dispiace."
+
+msgctxt "2128_Wakana"
+msgid "Not at all. I'm curious to see what you've got."
+msgstr "Nient'affatto. Sono curioso di vedere cosa sai fare."
+
+msgctxt "2164_Wakana"
+msgid "You dance, don't you? Are you prepared to battle?"
+msgstr "Tu balli, vero? Sei pronto a dar battaglia?"
+
+msgctxt "2260_Wakana"
+msgid "No, not at the moment."
+msgstr "No, non al momento."
+
+msgctxt "2272_Wakana"
+msgid "Frightened? Hehe."
+msgstr "Hai paura? Hehe."
+
+msgctxt "2308_Wakana"
+msgid "Sure, if you wouldn't mind."
+msgstr "Certo, se non ti dispiace."
+
+msgctxt "2320_Wakana"
+msgid "Not at all. I'm curious to see what you've got."
+msgstr "Nient'affatto. Sono curioso di vedere cosa sai fare."

@@ -1,0 +1,504 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "12456"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "12460"
+msgid "adv4_245_01/shinada_4_245_010"
+msgstr "adv4_245_01/shinada_4_245_010"
+
+msgctxt "12464"
+msgid "Takasugi"
+msgstr "Takasugi"
+
+msgctxt "12468"
+msgid "adv4_245_01/takasugi_4_245_010"
+msgstr "adv4_245_01/takasugi_4_245_010"
+
+msgctxt "12472"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "12476"
+msgid "adv4_240/takasugi_0116"
+msgstr "adv4_240/takasugi_0116"
+
+msgctxt "12480"
+msgid "adv4_240/shinada_0330"
+msgstr "adv4_240/shinada_0330"
+
+msgctxt "12484"
+msgid "adv4_240/takasugi_0117"
+msgstr "adv4_240/takasugi_0117"
+
+msgctxt "12488"
+msgid "adv4_240/shinada_0331"
+msgstr "adv4_240/shinada_0331"
+
+msgctxt "12492"
+msgid "adv4_240/takasugi_0118"
+msgstr "adv4_240/takasugi_0118"
+
+msgctxt "12496"
+msgid "adv4_240/shinada_0332"
+msgstr "adv4_240/shinada_0332"
+
+msgctxt "12500"
+msgid "adv4_240/takasugi_0119"
+msgstr "adv4_240/takasugi_0119"
+
+msgctxt "12504"
+msgid "adv4_240/shinada_0333"
+msgstr "adv4_240/shinada_0333"
+
+msgctxt "12508"
+msgid "P_TLK_sitgrd_agura_yes"
+msgstr "P_TLK_sitgrd_agura_yes"
+
+msgctxt "12512"
+msgid "adv4_240/takasugi_0120"
+msgstr "adv4_240/takasugi_0120"
+
+msgctxt "12516"
+msgid "adv4_240/shinada_0334a"
+msgstr "adv4_240/shinada_0334a"
+
+msgctxt "12520"
+msgid "adv4_240/shinada_0334b"
+msgstr "adv4_240/shinada_0334b"
+
+msgctxt "12524"
+msgid "adv4_240/takasugi_0121"
+msgstr "adv4_240/takasugi_0121"
+
+msgctxt "12528"
+msgid "adv4_240/shinada_0335a"
+msgstr "adv4_240/shinada_0335a"
+
+msgctxt "12532"
+msgid "adv4_240/shinada_0335b"
+msgstr "adv4_240/shinada_0335b"
+
+msgctxt "12536"
+msgid "adv4_240/shinada_0335c"
+msgstr "adv4_240/shinada_0335c"
+
+msgctxt "12540"
+msgid "adv4_240/takasugi_0122"
+msgstr "adv4_240/takasugi_0122"
+
+msgctxt "12544"
+msgid "adv4_240/shinada_0336a"
+msgstr "adv4_240/shinada_0336a"
+
+msgctxt "12548"
+msgid "adv4_240/shinada_0336b"
+msgstr "adv4_240/shinada_0336b"
+
+msgctxt "12552"
+msgid "adv4_240/takasugi_0123a"
+msgstr "adv4_240/takasugi_0123a"
+
+msgctxt "12556"
+msgid "adv4_240/takasugi_0123b"
+msgstr "adv4_240/takasugi_0123b"
+
+msgctxt "12560"
+msgid "adv4_240/shinada_0337"
+msgstr "adv4_240/shinada_0337"
+
+msgctxt "12564"
+msgid "kaiwabgm_tension06"
+msgstr "kaiwabgm_tension06"
+
+msgctxt "12568"
+msgid "adv4_240/takasugi_0124"
+msgstr "adv4_240/takasugi_0124"
+
+msgctxt "12572"
+msgid "adv4_240/shinada_0338a"
+msgstr "adv4_240/shinada_0338a"
+
+msgctxt "12576"
+msgid "adv4_240/shinada_0338b"
+msgstr "adv4_240/shinada_0338b"
+
+msgctxt "12580"
+msgid "P_TLK_sitgrd_agura_no"
+msgstr "P_TLK_sitgrd_agura_no"
+
+msgctxt "12584"
+msgid "adv4_240/shinada_0338c"
+msgstr "adv4_240/shinada_0338c"
+
+msgctxt "12588"
+msgid "adv4_240/takasugi_0125"
+msgstr "adv4_240/takasugi_0125"
+
+msgctxt "12592"
+msgid "adv4_240/shinada_0339"
+msgstr "adv4_240/shinada_0339"
+
+msgctxt "12596"
+msgid "adv4_240/takasugi_0126"
+msgstr "adv4_240/takasugi_0126"
+
+msgctxt "12600"
+msgid "adv4_240/shinada_0340a"
+msgstr "adv4_240/shinada_0340a"
+
+msgctxt "12604"
+msgid "adv4_240/shinada_0340b"
+msgstr "adv4_240/shinada_0340b"
+
+msgctxt "12608"
+msgid "adv4_240/takasugi_0127a"
+msgstr "adv4_240/takasugi_0127a"
+
+msgctxt "12612"
+msgid "adv4_240/takasugi_0127b"
+msgstr "adv4_240/takasugi_0127b"
+
+msgctxt "12616"
+msgid "adv4_240/shinada_0341a"
+msgstr "adv4_240/shinada_0341a"
+
+msgctxt "12620"
+msgid "adv4_240/shinada_0341b"
+msgstr "adv4_240/shinada_0341b"
+
+msgctxt "12624"
+msgid "adv4_240/takasugi_0128"
+msgstr "adv4_240/takasugi_0128"
+
+msgctxt "12628"
+msgid "adv4_240/shinada_0342a"
+msgstr "adv4_240/shinada_0342a"
+
+msgctxt "12632"
+msgid "adv4_240/shinada_0342b"
+msgstr "adv4_240/shinada_0342b"
+
+msgctxt "12636"
+msgid "P_TLK_sitgrd_agura_ibukasimu"
+msgstr "P_TLK_sitgrd_agura_ibukasimu"
+
+msgctxt "12640"
+msgid "adv4_240/takasugi_0129"
+msgstr "adv4_240/takasugi_0129"
+
+msgctxt "12644"
+msgid "adv4_240/shinada_0343"
+msgstr "adv4_240/shinada_0343"
+
+msgctxt "12648"
+msgid "adv4_240/takasugi_0130"
+msgstr "adv4_240/takasugi_0130"
+
+msgctxt "12652"
+msgid "adv4_240/shinada_0344"
+msgstr "adv4_240/shinada_0344"
+
+msgctxt "12656"
+msgid "adv4_240/takasugi_0131"
+msgstr "adv4_240/takasugi_0131"
+
+msgctxt "12660"
+msgid "adv4_240/shinada_0345a"
+msgstr "adv4_240/shinada_0345a"
+
+msgctxt "12664"
+msgid "adv4_240/shinada_0345b"
+msgstr "adv4_240/shinada_0345b"
+
+msgctxt "72_Shinada"
+msgid "Okay. Let's head to Ushijima-san's restaurant, shall we?"
+msgstr "Okay. Andiamo al ristorante del signor Ushijima, che ne dici?"
+
+msgctxt "84_Takasugi"
+msgid "Hope we can get something useful."
+msgstr "Speriamo di tirare fuori qualcosa di utile."
+
+msgctxt "96_Shinada"
+msgid "(Ushijima-san's place is on Kumano Boulevard.)"
+msgstr "(Il locale del signor Ushijima è su Viale Kumano.)"
+
+msgctxt "120_Takasugi"
+msgid ""
+"What you got there? Looks like something an official scorer would compile."
+msgstr ""
+"Che c'hai lì? Sembra roba che metterebbe insieme un marcatore ufficiale."
+
+msgctxt "132_Shinada"
+msgid "Oh, this data's better than your average scorer's."
+msgstr "Oh, questi dati sono meglio di quelli di un marcatore qualsiasi."
+
+msgctxt "144_Takasugi"
+msgid "Where'd you get this? Someone from the Wyverns?"
+msgstr "Dove l'hai rimediato? Qualcuno dai Wyverns?"
+
+msgctxt "156_Shinada"
+msgid "Nope."
+msgstr "No."
+
+msgctxt "168_Takasugi"
+msgid ""
+"Don't tell me... Have you been putting together pitching data all this time?"
+msgstr ""
+"Non dirmi... Ti sei messo a mettere insieme dati sui lanci per tutto questo "
+"tempo?"
+
+msgctxt "180_Shinada"
+msgid "No matter how much I try... I just can't say goodbye to baseball."
+msgstr ""
+"Non importa quanto ci provi... non riesco proprio a dire addio al baseball."
+
+msgctxt "192_Takasugi"
+msgid "Hold up. There's more than just Sawada on there."
+msgstr "Aspetta. Non c'è solo Sawada lì sopra."
+
+msgctxt "204_Shinada"
+msgid ""
+"This data highlights the pitchers of all twelve major clubs. Course, pitch "
+"type, speed, accuracy－it's all there."
+msgstr ""
+"Questi dati mettono in evidenza i lanciatori di tutti i dodici club "
+"principali. Traiettoria, tipo di lancio, velocità, precisione－c'è tutto."
+
+msgctxt "216_Takasugi"
+msgid "Why would you do this?"
+msgstr "Perché mai faresti questo?"
+
+msgctxt "228_Shinada"
+msgid ""
+"Takasugi-san. Remember when I said I can't just hit a home run even if I "
+"knew what pitch was coming?"
+msgstr ""
+"Takasugi-san. Ti ricordi quando ho detto che non posso mica fare un "
+"fuoricampo anche se sapessi che lancio stava per arrivare?"
+
+msgctxt "240_Shinada"
+msgid "That's actually only half true."
+msgstr "In realtà è solo in parte vero."
+
+msgctxt "252_Takasugi"
+msgid "Oh?"
+msgstr "Oh?"
+
+msgctxt "264_Shinada"
+msgid "In the pros, just swinging at whatever comes won't make you any good."
+msgstr "Nei pro, se ti limiti a tirare a caso, non andrai da nessuna parte."
+
+msgctxt "276_Shinada"
+msgid ""
+"You have to go to bat knowing about eighty percent of what the pitcher's "
+"gonna throw."
+msgstr ""
+"Devi andare al piatto sapendo circa l'ottanta per cento di quello che il "
+"lanciatore sta per tirare."
+
+msgctxt "288_Shinada"
+msgid ""
+"How often you can turn those into hits is what separates the best from the "
+"rest."
+msgstr ""
+"Quanto spesso riesci a trasformare quelli in valide è quello che distingue i"
+" migliori dal resto."
+
+msgctxt "300_Takasugi"
+msgid "So you're saying you deliberately went to hit that home run?"
+msgstr ""
+"Quindi stai dicendo che sei andato di proposito a fare quel fuoricampo?"
+
+msgctxt "312_Shinada"
+msgid "Yeah. I knew what was coming."
+msgstr "Sì. Sapevo cosa stava per arrivare."
+
+msgctxt "324_Shinada"
+msgid ""
+"I knew after six straight curveballs on a 0-2 count, Sawada would go for a "
+"fastball."
+msgstr ""
+"Sapevo che dopo sei palle curve consecutive con un conteggio di 0-2, Sawada "
+"avrebbe tirato una palla veloce."
+
+msgctxt "336_Takasugi"
+msgid "Then what are you trying to prove by poring over this stuff?"
+msgstr "Allora cosa stai cercando di dimostrare spulciando questa roba?"
+
+msgctxt "348_Takasugi"
+msgid ""
+"Don't tell me you can somehow pinpoint the Nagoya Family through pitching "
+"data?"
+msgstr ""
+"Non dirmi che riesci in qualche modo a scovare la Famiglia Nagoya attraverso"
+" i dati di lancio?"
+
+msgctxt "360_Shinada"
+msgid ""
+"No, I was checking to see if what Manabe-san and Sakai-san said was true."
+msgstr ""
+"No, stavo controllando se quello che Manabe-san e Sakai-san avevano detto "
+"fosse vero."
+
+msgctxt "372_Takasugi"
+msgid "Which was?"
+msgstr "Cioè?"
+
+msgctxt "384_Shinada"
+msgid ""
+"Manabe-san said the match fixing stopped as soon as I was banned from the "
+"league."
+msgstr ""
+"Manabe-san ha detto che le partite truccate sono finite appena sono stato "
+"bandito dalla lega."
+
+msgctxt "396_Shinada"
+msgid ""
+"This data backs it up. It's like the Wyverns completely transformed after "
+"that game."
+msgstr ""
+"Questi dati lo confermano. È come se i Wyverns si fossero completamente "
+"trasformati dopo quella partita."
+
+msgctxt "408_Shinada"
+msgid ""
+"It might not be obvious to the untrained eye, but any weird\r\n"
+"pitch selections or random bench-shuffling altogether\r\n"
+"vanished from their play."
+msgstr ""
+"Potrebbe non essere ovvio a un occhio non esperto, ma qualsiasi strana\n"
+"scelta di lancio o rimescolamento casuale della panchina sono del tutto\n"
+"spariti dal loro modo di giocare."
+
+msgctxt "420_Takasugi"
+msgid "You can tell that just from the data?"
+msgstr "Riesci a capirlo solo dai dati?"
+
+msgctxt "432_Shinada"
+msgid ""
+"You might be surprised how much baseball adheres to set patterns of play."
+msgstr ""
+"Potresti rimanere sorpreso da quanto il baseball segua schemi di gioco ben "
+"precisi."
+
+msgctxt "444_Takasugi"
+msgid "Can't argue there."
+msgstr "Non fa una piega."
+
+msgctxt "456_Shinada"
+msgid ""
+"That's not all. After my one and only game, the Wyverns completely changed "
+"their roster."
+msgstr ""
+"Non è tutto. Dopo la mia unica e sola partita, i Wyverns hanno stravolto la "
+"loro rosa."
+
+msgctxt "468_Shinada"
+msgid ""
+"Their policy used to favor local talent, but all of a sudden they went after"
+" foreign players and actively engaged in trades."
+msgstr ""
+"La loro politica favoriva i talenti locali, ma di punto in bianco hanno "
+"iniziato a puntare sui giocatori stranieri e si sono attivamente dati agli "
+"scambi."
+
+msgctxt "480_Takasugi"
+msgid ""
+"But that's the opposite of what Sakai said. Didn't he say you were "
+"sacrificed to protect Nagoya?"
+msgstr ""
+"Ma questo è l'opposto di quello che ha detto Sakai. Non aveva detto che eri "
+"stato sacrificato per proteggere Nagoya?"
+
+msgctxt "492_Takasugi"
+msgid "What else could he mean but protecting local players?"
+msgstr "Cos'altro poteva intendere se non proteggere i giocatori locali?"
+
+msgctxt "504_Shinada"
+msgid ""
+"Could be. But I think when Sakai-san mentioned Nagoya, it wasn't just about "
+"our old team."
+msgstr ""
+"Potrebbe essere. Ma penso che quando Sakai-san ha menzionato Nagoya, non si "
+"riferisse solo alla nostra vecchia squadra."
+
+msgctxt "516_Shinada"
+msgid ""
+"I'm thinking it's something bigger. Like something that concerns the whole "
+"town."
+msgstr ""
+"Penso che sia qualcosa di più grande. Tipo qualcosa che riguarda tutta la "
+"città."
+
+msgctxt "528_Takasugi"
+msgid "All of Kineicho?"
+msgstr "Tutta Kineicho?"
+
+msgctxt "540_Shinada"
+msgid ""
+"We both know this town has a dark side, but we're clueless about what "
+"happens in the shadows."
+msgstr ""
+"Entrambi sappiamo che questa città ha un lato oscuro, ma non abbiamo la "
+"minima idea di quello che succede nell'ombra."
+
+msgctxt "552_Shinada"
+msgid ""
+"Now, if we want to find more about the Nagoya Family, we're gonna have to "
+"search beyond just baseball."
+msgstr ""
+"Ora, se vogliamo scoprire di più sulla Famiglia Nagoya, dovremo cercare "
+"oltre il semplice baseball."
+
+msgctxt "564_Takasugi"
+msgid ""
+"So that scandal of yours really did change the face of this town. And you're"
+" saying we get to the bottom of it."
+msgstr ""
+"Quindi il tuo scandalo ha proprio cambiato la faccia di questa città. E dici"
+" che dobbiamo scavare a fondo."
+
+msgctxt "576_Shinada"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "588_Takasugi"
+msgid "Isn't there anyone who's in the know about these things?"
+msgstr "Non c'è nessuno che ne sappia qualcosa su queste cose?"
+
+msgctxt "600_Shinada"
+msgid "There's a perfect guy for that. He's really well-known here in town."
+msgstr ""
+"C'è un tipo perfetto per questo. È davvero molto conosciuto qui in città."
+
+msgctxt "612_Takasugi"
+msgid "Who's that?"
+msgstr "Chi è?"
+
+msgctxt "624_Shinada"
+msgid ""
+"The Chamber of Commerce chairman and esteemed local chef, Ushijima-san."
+msgstr ""
+"Il presidente della Camera di Commercio e stimato chef locale, Ushijima-san."
+
+msgctxt "636_Shinada"
+msgid ""
+"He's treated me good ever since I wound up here. Whatever kind of secret's "
+"going on around these parts, he would know."
+msgstr ""
+"Mi ha trattato bene da quando sono finito qui. Qualsiasi segreto giri da "
+"queste parti, lui ne saprebbe qualcosa."

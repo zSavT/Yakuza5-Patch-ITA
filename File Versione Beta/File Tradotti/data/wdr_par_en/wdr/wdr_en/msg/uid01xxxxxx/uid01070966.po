@@ -1,0 +1,105 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2740"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "380_Saejima"
+msgid "First, we gotta pick the banker."
+msgstr "Allora, per prima cosa, dobbiamo scegliere il banchiere."
+
+msgctxt "392_Saejima"
+msgid "I'm banker."
+msgstr "Sono il banchiere."
+
+msgctxt "404_Saejima"
+msgid "(How much should I bet?)"
+msgstr "(Quanto punto?)"
+
+msgctxt "416_Saejima"
+msgid "All right, here goes."
+msgstr "Allora, si comincia."
+
+msgctxt "428_Saejima"
+msgid "My turn."
+msgstr "Tocca a me."
+
+msgctxt "440_Saejima"
+msgid "I'm rollin' again."
+msgstr "Tiro di nuovo."
+
+msgctxt "452_Saejima"
+msgid "Let's settle our bets."
+msgstr "Regoliamo i conti."
+
+msgctxt "464_Saejima"
+msgid "(You're the banker.)"
+msgstr "(Sei il banchiere.)"
+
+msgctxt "476_Saejima"
+msgid "We're changin' the banker."
+msgstr "Cambiamo il banchiere."
+
+msgctxt "488_Saejima"
+msgid "(Play again?)"
+msgstr "(Facciamo un altro giro?)"
+
+msgctxt "500_Saejima"
+msgid "(I'm broke.)"
+msgstr "(Sono al verde.)"
+
+msgctxt "512_Saejima"
+msgid "(Try again next time.)"
+msgstr "(Riprova la prossima volta.)"
+
+msgctxt "524_Saejima"
+msgid "Banker's Bet-Settling Messages"
+msgstr "Messaggi di regolamento dei conti del banchiere"
+
+msgctxt "536_Saejima"
+msgid "A banker rollin' 1-3-5 gets a 3."
+msgstr "Un banchiere che tira 1-3-5 fa 3."
+
+msgctxt "548_Saejima"
+msgid "A 1-3-5 by the first player gets a 3."
+msgstr "Il primo giocatore che tira un 1-3-5 fa 3."
+
+msgctxt "560_Saejima"
+msgid "A 1-3-5 gets what the previous player rolled."
+msgstr "Un 1-3-5 fa il risultato del giocatore precedente."
+
+msgctxt "572_Saejima"
+msgid "A banker rollin' 2-4-6 gets a 4."
+msgstr "Un banchiere che tira 2-4-6 fa 4."
+
+msgctxt "584_Saejima"
+msgid "A 2-4-6 changes to what the next player rolls."
+msgstr "Un 2-4-6 fa il risultato del giocatore successivo."
+
+msgctxt "596_Saejima"
+msgid "A 2-4-6 by the last player gets a 4."
+msgstr "L'ultimo giocatore che tira un 2-4-6 fa 4."
+
+msgctxt "608_Saejima"
+msgid "A 2-4-6 changes to what the last player rolls."
+msgstr "Un 2-4-6 fa il risultato dell'ultimo giocatore."
+
+msgctxt "620_Saejima"
+msgid "A 1-3-5 was rolled after a 2-4-6."
+msgstr "Un 1-3-5 è uscito dopo un 2-4-6."
+
+msgctxt "632_Saejima"
+msgid "A 6-3-4!"
+msgstr "Un 6-3-4!"

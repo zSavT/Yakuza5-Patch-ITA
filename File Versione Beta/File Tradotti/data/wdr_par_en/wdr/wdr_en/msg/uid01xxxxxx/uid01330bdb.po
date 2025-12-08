@@ -1,0 +1,93 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "128"
+msgid "%s"
+msgstr "%s"
+
+msgctxt "1772"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "1776"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "1780"
+msgid "M_NML_SET_stand_camera_kamae"
+msgstr "M_NML_SET_stand_camera_kamae"
+
+msgctxt "1784"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "1788"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "1792"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "1796"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "1800"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "1804"
+msgid "Talk_Kamae"
+msgstr "Talk_Kamae"
+
+msgctxt "68_Kiryu"
+msgid "(This is a nice spot.)"
+msgstr "(Questo è un bel posto.)"
+
+msgctxt "80_Akiyama"
+msgid "(This is a nice spot.)"
+msgstr "(Questo è un bel posto.)"
+
+msgctxt "92_Saejima"
+msgid "(Pretty good scenery here.)"
+msgstr "(Niente male come panorama qui.)"
+
+msgctxt "104_Shinada"
+msgid "(This is a nice spot.)"
+msgstr "(Questo è un bel posto.)"
+
+msgctxt "116_Haruka"
+msgid "(I like this scenery!)"
+msgstr "(Mi piace questo panorama!)"
+
+msgctxt "152_Kiryu"
+msgid "(Yeah, this is a good shot.)"
+msgstr "(Già, questo è un bello scatto.)"
+
+msgctxt "164_Akiyama"
+msgid "(A pretty good photo, I think.)"
+msgstr "(Uno scatto niente male, direi.)"
+
+msgctxt "176_Saejima"
+msgid "(This shot ain't bad.)"
+msgstr "(Questo scatto niente male.)"
+
+msgctxt "188_Shinada"
+msgid "(A pretty good photo, I think.)"
+msgstr "(Uno scatto niente male, direi.)"
+
+msgctxt "200_Haruka"
+msgid "(This photo looks great!)"
+msgstr "(Questa foto è fantastica!)"

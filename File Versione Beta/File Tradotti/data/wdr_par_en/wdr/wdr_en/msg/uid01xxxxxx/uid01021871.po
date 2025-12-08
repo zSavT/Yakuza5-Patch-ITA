@@ -1,0 +1,61 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2084"
+msgid "Morinaga"
+msgstr "Morinaga"
+
+msgctxt "2088"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2092"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "2096"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "2100"
+msgid "0"
+msgstr "0"
+
+msgctxt "2104"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "56_Morinaga"
+msgid "Up ahead, you'll find <Color:7>Ose Bridge<Color:Default>."
+msgstr "Più avanti, troverai <Color:7>Ose Bridge<Color:Default>."
+
+msgctxt "68_Morinaga"
+msgid "I'll be waiting there. Can you come see me?"
+msgstr "Ti aspetterò lì. Puoi venire a trovarmi?"
+
+msgctxt "80_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "92_Morinaga"
+msgid "Please. There's a matter that I must discuss with you."
+msgstr "Ti prego. C'è una questione che devo discutere con te."
+
+msgctxt "104_Kiryu"
+msgid "All right. I'll see you there."
+msgstr "Va bene. Ci vediamo lì."
+
+msgctxt "116_Morinaga"
+msgid "I'll be waiting."
+msgstr "Ti aspetterò."

@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "228"
+msgid "You used a <Color:8>Hut Repair Kit<Color:Default>."
+msgstr "Hai usato un <Color:8>Kit di Riparazione Capanna<Color:Default>."
+
+msgctxt "2140"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "2144"
+msgid "Repair the Hut"
+msgstr "Riparare la Capanna"
+
+msgctxt "2148"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "2152"
+msgid "Reload"
+msgstr "Ricarica"
+
+msgctxt "2156"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "132_Player"
+msgid "(Okudera-han's with me. Repairin' the hut's gotta wait.)"
+msgstr "(Okudera è qui con me. Riparare la capanna deve aspettare.)"
+
+msgctxt "144_Player"
+msgid "(Should I repair the hunting hut?)"
+msgstr "(Dovrei riparare la capanna di caccia?)"
+
+msgctxt "168_Player"
+msgid "(Alright. Let's repair this wreck.)"
+msgstr "(Allora. Ripariamo questo scassone.)"
+
+msgctxt "252_Player"
+msgid "(Good. That oughta do it.)"
+msgstr "(Bene. Così dovrebbe bastare.)"
+
+msgctxt "264_Player"
+msgid "(Ain't got a hut repair kit.)"
+msgstr "(Non ho un kit di riparazione capanna.)"
+
+msgctxt "276_Player"
+msgid "(Not right now.)"
+msgstr "(Non ora.)"
+
+msgctxt "288_Reload"
+msgid "Your ammunition was restocked."
+msgstr "Le tue munizioni sono state rifornite."

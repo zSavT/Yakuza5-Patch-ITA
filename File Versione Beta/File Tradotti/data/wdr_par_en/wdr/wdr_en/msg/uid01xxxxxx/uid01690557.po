@@ -1,0 +1,41 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "844"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "848"
+msgid "Red and Black Stripes"
+msgstr "Strisce Rosse e Nere"
+
+msgctxt "852"
+msgid "Sunglasses"
+msgstr "Occhiali da sole"
+
+msgctxt "856"
+msgid "Don't Change"
+msgstr "Non cambiare"
+
+msgctxt "44_Player"
+msgid "(Should I change my outfit up a little?)"
+msgstr "(Dovrei dare una rinfrescata al mio look?)"
+
+msgctxt "80_Player"
+msgid "(Oh! I'll wear this to my next job!)"
+msgstr "(Oh! Mi metterò questo per il mio prossimo lavoro!)"
+
+msgctxt "92_Player"
+msgid "(Maybe another time.)"
+msgstr "(Magari un'altra volta.)"

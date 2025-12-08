@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1080"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "1084"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "1088"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1092"
+msgid "HAL_TLK_stand_request02"
+msgstr "HAL_TLK_stand_request02"
+
+msgctxt "1096"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "136_Haruka"
+msgid "I lost! You're incredible, Uncle Kaz!"
+msgstr "Ho perso! Sei incredibile, Zio Kaz!"
+
+msgctxt "160_Haruka"
+msgid "Let's play again sometime."
+msgstr "Facciamo un'altra partita, prima o poi."
+
+msgctxt "184_Haruka"
+msgid ""
+"Uncle Kaz! <Color:8>Let's play eight-ball together<Color:Default>! Do you "
+"think you can beat me?"
+msgstr ""
+"Zio Kaz! <Color:8>Giochiamo a palla otto insieme<Color:Default>! Pensi di "
+"potermi battere?"
+
+msgctxt "196_Kiryu"
+msgid ""
+"(Hmm. Looks like Haruka wants to <Color:8>play eight-ball "
+"together<Color:Default>.)"
+msgstr ""
+"(Hmm. Sembra che Haruka voglia <Color:8>giocare a palla otto "
+"insieme<Color:Default>.)"

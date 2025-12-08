@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1096"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "1100"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "1104"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1108"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "1112"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "136_Haruka"
+msgid "Thanks, Uncle Kaz!"
+msgstr "Grazie, Zio Kaz!"
+
+msgctxt "160_Haruka"
+msgid "Aww, I really wanted that..."
+msgstr "Uffa, lo volevo proprio..."
+
+msgctxt "184_Haruka"
+msgid ""
+"That <Color:8>Black Umbrella<Color:Default> is pretty cool, isn't it? Don't "
+"you think it'd suit me?"
+msgstr ""
+"Quell'<Color:8>Ombrello Nero<Color:Default> è proprio figo, vero? Non pensi "
+"che mi starebbe bene?"
+
+msgctxt "196_Kiryu"
+msgid ""
+"(Hmm. I think Haruka wants me to buy her a <Color:8>Black "
+"Umbrella<Color:Default>.)"
+msgstr ""
+"(Hmm. Penso che Haruka voglia che le compri un <Color:8>Ombrello "
+"Nero<Color:Default>.)"

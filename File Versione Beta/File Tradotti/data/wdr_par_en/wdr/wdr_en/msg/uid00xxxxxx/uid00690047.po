@@ -1,0 +1,214 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "4852"
+msgid "Okudera"
+msgstr "Okudera"
+
+msgctxt "4856"
+msgid "adv2_210/saejima_2_210_030"
+msgstr "adv2_210/saejima_2_210_030"
+
+msgctxt "4860"
+msgid "Yup, ready to go."
+msgstr "Sì, pronto per partire."
+
+msgctxt "4864"
+msgid "Need some more time."
+msgstr "Mi serve ancora un po' di tempo."
+
+msgctxt "4868"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "4872"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "4876"
+msgid "adv2_210/okudera_2_210_040"
+msgstr "adv2_210/okudera_2_210_040"
+
+msgctxt "4880"
+msgid "adv2_210/saejima_2_210_040"
+msgstr "adv2_210/saejima_2_210_040"
+
+msgctxt "4884"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4888"
+msgid "adv2_210/saejima_2_210_050"
+msgstr "adv2_210/saejima_2_210_050"
+
+msgctxt "4892"
+msgid "adv2_210/okudera_2_210_050"
+msgstr "adv2_210/okudera_2_210_050"
+
+msgctxt "4896"
+msgid "adv2_210/okudera_2_210_010"
+msgstr "adv2_210/okudera_2_210_010"
+
+msgctxt "4900"
+msgid "adv2_210/saejima_2_210_010"
+msgstr "adv2_210/saejima_2_210_010"
+
+msgctxt "4904"
+msgid "adv2_210/okudera_2_210_020"
+msgstr "adv2_210/okudera_2_210_020"
+
+msgctxt "4908"
+msgid "Baba"
+msgstr "Baba"
+
+msgctxt "4912"
+msgid "adv2_210/baba_2_210_010"
+msgstr "adv2_210/baba_2_210_010"
+
+msgctxt "4916"
+msgid "adv2_210/saejima_2_210_020"
+msgstr "adv2_210/saejima_2_210_020"
+
+msgctxt "4920"
+msgid "adv2_210/okudera_2_210_030"
+msgstr "adv2_210/okudera_2_210_030"
+
+msgctxt "4924"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "4928"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "4932"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "192_Okudera"
+msgid "I made some snares. Are you ready for the mountain?"
+msgstr "Ho fatto delle trappole. Sei pronto per la montagna?"
+
+msgctxt "204_Saejima"
+msgid "Mind waitin' a bit?"
+msgstr "Ti dispiace aspettare un po'?"
+
+msgctxt "216_Okudera"
+msgid "Not at all. Just tell me when you're ready."
+msgstr "Per niente. Dimmi solo quando sei pronto."
+
+msgctxt "228_Saejima"
+msgid "Thanks."
+msgstr "Grazie."
+
+msgctxt "240_Saejima"
+msgid "Yup. Ready."
+msgstr "Sì. Pronto."
+
+msgctxt "252_Okudera"
+msgid "All right, let's leave now."
+msgstr "Va bene, partiamo adesso."
+
+msgctxt "276_Okudera"
+msgid "You're back. You done now?"
+msgstr "Sei tornato. Hai finito adesso?"
+
+msgctxt "288_Saejima"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "300_Okudera"
+msgid ""
+"Good. We'll go trapping, then. For rabbits. That's the best food for Baba."
+msgstr ""
+"Bene. Allora andremo a mettere le trappole. Per i conigli. È il cibo "
+"migliore per Baba."
+
+msgctxt "312_Baba"
+msgid "I'm sorry, Aniki. I wish you didn't have to do so much for me."
+msgstr "Mi dispiace, Aniki. Vorrei che non dovessi fare così tanto per me."
+
+msgctxt "324_Saejima"
+msgid "Don't worry about it."
+msgstr "Non preoccuparti."
+
+msgctxt "336_Okudera"
+msgid "I made some snares. Are you ready for the mountain, Saejima?"
+msgstr "Ho fatto dei cappi. Sei pronto per la montagna, Saejima?"
+
+msgctxt "348_Saejima"
+msgid "Mind waitin' a bit?"
+msgstr "Ti dispiace aspettare un po'?"
+
+msgctxt "360_Okudera"
+msgid "Not at all. Just tell me when you're ready."
+msgstr "Assolutamente no. Dimmi solo quando sei pronto."
+
+msgctxt "372_Saejima"
+msgid "Thanks."
+msgstr "Grazie."
+
+msgctxt "384_Saejima"
+msgid "Yup. Ready."
+msgstr "Sì. Pronto."
+
+msgctxt "396_Okudera"
+msgid "All right, let's leave now."
+msgstr "Va bene, andiamo via adesso."
+
+msgctxt "432_Okudera"
+msgid ""
+"You mentioned you had a favor to return... To someone who gave you some "
+"food, I believe."
+msgstr ""
+"Hai detto che avevi un favore da ripagare... A qualcuno che ti ha dato del "
+"cibo, credo."
+
+msgctxt "444_Okudera"
+msgid "So are you gonna go do that or not?"
+msgstr "Allora, lo fai o no?"
+
+msgctxt "456_Saejima"
+msgid "(He's right. Gotta go see Nishina's wife.)"
+msgstr "(Ha ragione. Devo andare a vedere la moglie di Nishina.)"
+
+msgctxt "468_Okudera"
+msgid "I'll teach you how to trap rabbits when you get back."
+msgstr "Ti insegnerò come intrappolare conigli quando tornerai."
+
+msgctxt "480_Saejima"
+msgid "Rabbits? Ain't much meat on those, is there? Why not try for deer?"
+msgstr "Conigli? Poca carne addosso, no? Perché non proviamo con i cervi?"
+
+msgctxt "492_Okudera"
+msgid "Rabbit meat is more tender. It'll be easier for Baba to digest."
+msgstr ""
+"La carne di coniglio è più tenera. Sarà più facile per Baba digerirla."
+
+msgctxt "504_Okudera"
+msgid "The fur will be useful as well."
+msgstr "La pelliccia sarà utile anche."
+
+msgctxt "516_Saejima"
+msgid "Ah. Sounds good, then."
+msgstr "Ah. Va bene, allora."
+
+msgctxt "528_Okudera"
+msgid "Go on and take care of your business. I'll make some rabbit snares."
+msgstr ""
+"Vai pure a sbrigare i tuoi affari. Io preparerò dei lacci per conigli."
+
+msgctxt "540_Okudera"
+msgid "They'll be finished by the time you get back."
+msgstr "Saranno finiti per quando tornerai."

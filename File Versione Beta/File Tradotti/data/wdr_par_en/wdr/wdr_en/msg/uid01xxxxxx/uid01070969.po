@@ -1,0 +1,159 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "556"
+msgid "Welcome to the blackjack table."
+msgstr "Benvenuto al tavolo da blackjack."
+
+msgctxt "568"
+msgid "All right, let's begin. Good luck."
+msgstr "Bene, cominciamo. Buona fortuna."
+
+msgctxt "580"
+msgid ""
+"Welcome to the blackjack table. Would you like to play against the house, "
+"one-on-one?"
+msgstr ""
+"Benvenuto al tavolo da blackjack. Vorresti giocare contro il banco, uno "
+"contro uno?"
+
+msgctxt "592"
+msgid "Okay, let's begin."
+msgstr "Bene, cominciamo."
+
+msgctxt "604"
+msgid "Select \"Bet\" or \"Re-bet\" to place a wager."
+msgstr "Seleziona \"Punta\" o \"Ripunta\" per piazzare una scommessa."
+
+msgctxt "616"
+msgid "I will now deal the cards."
+msgstr "Adesso do le carte."
+
+msgctxt "628"
+msgid "The dealer pulled a green card. The deck will now be re-shuffled."
+msgstr ""
+"Il mazziere ha pescato una carta verde. Il mazzo verrà ora rimescolato."
+
+msgctxt "640"
+msgid "You seem to be short on chips. Please visit us again soon."
+msgstr "Sembra che tu sia a corto di fiches. Torna a trovarci presto."
+
+msgctxt "652"
+msgid "It's your turn, sir. What would you like to do?"
+msgstr "È il tuo turno, signore. Cosa vuoi fare?"
+
+msgctxt "664"
+msgid "You bust. How unfortunate."
+msgstr "Hai sballato. Che peccato."
+
+msgctxt "676"
+msgid "It's the dealer's turn. I'll reveal my cards."
+msgstr "È il turno del mazziere. Adesso rivelo le mie carte."
+
+msgctxt "688"
+msgid "The dealer's total is below 17. Drawing another card."
+msgstr "Il totale del mazziere è sotto il 17. Pesca un'altra carta."
+
+msgctxt "700"
+msgid "The dealer has 17."
+msgstr "Il mazziere ha 17."
+
+msgctxt "712"
+msgid "The dealer has 18."
+msgstr "Il mazziere ha 18."
+
+msgctxt "724"
+msgid "The dealer has 19."
+msgstr "Il mazziere ha 19."
+
+msgctxt "736"
+msgid "The dealer has 20."
+msgstr "Il mazziere ha 20."
+
+msgctxt "748"
+msgid "The dealer has 21."
+msgstr "Il mazziere ha 21."
+
+msgctxt "760"
+msgid "The dealer has blackjack."
+msgstr "Il banco ha blackjack."
+
+msgctxt "772"
+msgid "The dealer busts."
+msgstr "Il banco sballa."
+
+msgctxt "784"
+msgid "The dealer's open card is an ace. They could have blackjack."
+msgstr "La carta scoperta del banco è un asso. Potrebbe avere blackjack."
+
+msgctxt "796"
+msgid "The dealer has blackjack."
+msgstr "Il banco ha blackjack."
+
+msgctxt "808"
+msgid "The dealer does not have blackjack. The game continues."
+msgstr "Il dealer non ha blackjack. Il gioco continua."
+
+msgctxt "820"
+msgid "You have a blackjack! Congratulations, sir."
+msgstr "Hai un blackjack! Congratulazioni, signore."
+
+msgctxt "832"
+msgid ""
+"Unfortunately, the dealer has a blackjack as well. Better luck next time."
+msgstr "Purtroppo, anche il banco ha blackjack. Sarà per la prossima."
+
+msgctxt "844"
+msgid "We look forward to seeing you again."
+msgstr "Speriamo di rivederla."
+
+msgctxt "856"
+msgid "You seem to be short on chips. Please come visit us again soon."
+msgstr "Sembra che tu sia a corto di fiches. Ti aspettiamo di nuovo presto."
+
+msgctxt "868"
+msgid "(The item doesn't seem to work anymore.)"
+msgstr "(L'oggetto non sembra funzionare più.)"
+
+msgctxt "880"
+msgid "You've won one game. The maximum bet has increased to 300."
+msgstr "Hai vinto una partita. La puntata massima è aumentata a 300."
+
+msgctxt "892"
+msgid "You've won two games in a row. The maximum bet has risen to 500."
+msgstr "Hai vinto due partite di fila. La puntata massima è salita a 500."
+
+msgctxt "904"
+msgid "You've won three games in a row. The maximum bet has risen to 1,000."
+msgstr "Hai vinto tre partite di fila. La puntata massima è salita a 1.000."
+
+msgctxt "916"
+msgid "You've won one game. The maximum bet has increased to 3,000."
+msgstr "Hai vinto una partita. La puntata massima è aumentata a 3.000."
+
+msgctxt "928"
+msgid "You've won two games in a row. The maximum bet has risen to 5,000."
+msgstr "Hai vinto due partite di fila. La puntata massima è salita a 5.000."
+
+msgctxt "940"
+msgid "You've won three games in a row. The maximum bet has risen to 10,000."
+msgstr "Hai vinto tre partite di fila. La puntata massima è salita a 10.000."
+
+msgctxt "952"
+msgid "You're on a roll."
+msgstr "Stai andando forte."
+
+msgctxt "964"
+msgid "You're doing great."
+msgstr "Stai andando alla grande."

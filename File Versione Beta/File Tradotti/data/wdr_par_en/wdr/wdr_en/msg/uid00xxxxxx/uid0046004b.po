@@ -1,0 +1,154 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "3844"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "3848"
+msgid "P_AKI_TLK_stand_send"
+msgstr "P_AKI_TLK_stand_send"
+
+msgctxt "3852"
+msgid "Honoka"
+msgstr "Honoka"
+
+msgctxt "3856"
+msgid "F_SXY_TLK_stand_yes"
+msgstr "F_SXY_TLK_stand_yes"
+
+msgctxt "3860"
+msgid "F_SXY_TLK_stand_smile"
+msgstr "F_SXY_TLK_stand_smile"
+
+msgctxt "3864"
+msgid "P_AKI_TLK_stand_yes"
+msgstr "P_AKI_TLK_stand_yes"
+
+msgctxt "3868"
+msgid "F_YNG_TLK_stand_kansin"
+msgstr "F_YNG_TLK_stand_kansin"
+
+msgctxt "3872"
+msgid "P_AKI_TLK_stand_quest"
+msgstr "P_AKI_TLK_stand_quest"
+
+msgctxt "3876"
+msgid "ArmsID"
+msgstr "ID Armi"
+
+msgctxt "3880"
+msgid "ACSAI0008"
+msgstr "ACSAI0008"
+
+msgctxt "3884"
+msgid "F_SXY_TLK_stand_mail_st"
+msgstr "F_SXY_TLK_stand_mail_st"
+
+msgctxt "3888"
+msgid "F_SXY_TLK_stand_mail_ed"
+msgstr "F_SXY_TLK_stand_mail_ed"
+
+msgctxt "3892"
+msgid "P_AKI_TLK_stand_mail_st"
+msgstr "P_AKI_TLK_stand_mail_st"
+
+msgctxt "3896"
+msgid "P_AKI_TLK_stand_mail_ed"
+msgstr "P_AKI_TLK_stand_mail_ed"
+
+msgctxt "3900"
+msgid "F_NML_MOV_stand_turnl90"
+msgstr "F_NML_MOV_stand_turnl90"
+
+msgctxt "3904"
+msgid "P_AKI_TLK_stand_ase"
+msgstr "P_AKI_TLK_stand_ase"
+
+msgctxt "3908"
+msgid "F_SXY_TLK_stand_sync_dakiA_st"
+msgstr "F_SXY_TLK_stand_sync_dakiA_st"
+
+msgctxt "3912"
+msgid "P_TLK_stand_sync_dakiA_st"
+msgstr "P_TLK_stand_sync_dakiA_st"
+
+msgctxt "3916"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "44_Akiyama"
+msgid "Hey, I got you some medicine. I'm sure it will make you better."
+msgstr ""
+"Ehi, ti ho preso delle medicine. Sono sicuro che ti rimetteranno in sesto."
+
+msgctxt "56_Honoka"
+msgid "......"
+msgstr "......"
+
+msgctxt "68_Honoka"
+msgid "Aaah. Aaah..."
+msgstr "Aaah. Aaah..."
+
+msgctxt "80_Honoka"
+msgid "It really worked! My voice is back!"
+msgstr "Ha funzionato alla grande! La mia voce è tornata!"
+
+msgctxt "92_Akiyama"
+msgid ""
+"Thank goodness. But you'd better not talk yet. You need to rest up for a "
+"while, then I'm sure you'll be back to normal."
+msgstr ""
+"Meno male. Ma faresti meglio a non parlare ancora. Hai bisogno di riposare "
+"un po', poi sono sicuro che tornerai in forma."
+
+msgctxt "116_Akiyama"
+msgid "Hm? You're trying to say something. What is it?"
+msgstr "Hm? Stai cercando di dire qualcosa. Cos'è?"
+
+msgctxt "164_Akiyama"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "188_Akiyama"
+msgid "What's this?"
+msgstr "Questo cos'è?"
+
+msgctxt "200_Akiyama"
+msgid ""
+"\"Since just resting is boring, I'd like you to stay here with me while I'm "
+"sucking on this lozenge, Akiyama-san.\""
+msgstr ""
+"Visto che stare a riposo è una palla, Akiyama-san, mi piacerebbe che tu "
+"restassi qui con me mentre succhio questa pastiglia per la gola."
+
+msgctxt "212_Akiyama"
+msgid ""
+"\"And since I want to keep practicing my Tokyo accent, I'd like you to talk "
+"to me the entire time.\""
+msgstr ""
+"E visto che voglio continuare a fare pratica con il mio accento di Tokyo, mi"
+" piacerebbe che tu mi parlassi per tutto il tempo."
+
+msgctxt "236_Akiyama"
+msgid "What's this now?"
+msgstr "E adesso cos'è?"
+
+msgctxt "248_Honoka"
+msgid "Not bad, right? You can hang out and help my vocal practice!"
+msgstr "Niente male, no? Puoi stare qui e aiutarmi con la pratica vocale!"
+
+msgctxt "260_Akiyama"
+msgid "Guess I'd better. You just leave it to Nurse Akiyama."
+msgstr "Mi sa che mi tocca. Lascia pure fare all'infermiera Akiyama."

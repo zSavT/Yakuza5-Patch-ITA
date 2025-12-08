@@ -1,0 +1,312 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1156"
+msgid "Received a <Color:8>1,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Hai ricevuto una mancia da <Color:8>1.000 yen<Color:Default> dal pubblico."
+
+msgctxt "1168"
+msgid "Received a <Color:8>2,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Hai ricevuto una mancia da <Color:8>2.000 yen<Color:Default> dal pubblico."
+
+msgctxt "1180"
+msgid "Received a <Color:8>4,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Hai ricevuto una mancia da <Color:8>4.000 yen<Color:Default> dal pubblico."
+
+msgctxt "1192"
+msgid "Received a <Color:8>6,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Hai ricevuto una mancia da <Color:8>6.000 yen<Color:Default> dal pubblico."
+
+msgctxt "1396"
+msgid "Received a <Color:8>500 yen<Color:Default> tip from the audience."
+msgstr ""
+"Hai ricevuto una mancia da <Color:8>500 yen<Color:Default> dal pubblico."
+
+msgctxt "1408"
+msgid "Received a <Color:8>1,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Hai ricevuto una mancia da <Color:8>1.000 yen<Color:Default> dal pubblico."
+
+msgctxt "1420"
+msgid "Received a <Color:8>1,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Hai ricevuto una mancia da <Color:8>1.000 yen<Color:Default> dal pubblico."
+
+msgctxt "1432"
+msgid "Received a <Color:8>2,000 yen<Color:Default> tip from the audience."
+msgstr ""
+"Hai ricevuto una mancia da <Color:8>2.000 yen<Color:Default> dal pubblico."
+
+msgctxt "26904"
+msgid "Atsuko"
+msgstr "Atsuko"
+
+msgctxt "26908"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "26912"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "26916"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "26920"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "26924"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "26928"
+msgid "Adjust Dance Heat Settings"
+msgstr "Regola le Impostazioni del Calore Danza"
+
+msgctxt "26932"
+msgid "No"
+msgstr "No"
+
+msgctxt "26936"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "26940"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "26944"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "26948"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "232_Atsuko"
+msgid "I lost!? I guess I need to practice more!"
+msgstr "Ho perso!? Mi sa che devo allenarmi di più!"
+
+msgctxt "268_Atsuko"
+msgid ""
+"Hehe. You tried your best, but you just weren't ready to go up against "
+"somebody like me."
+msgstr ""
+"Hehe. Hai fatto del tuo meglio, ma non eri pronta ad affrontare una come me."
+
+msgctxt "304_Atsuko"
+msgid "So, what is it? You looking to battle?"
+msgstr "Allora, che c'è? Vuoi sfidarmi?"
+
+msgctxt "400_Haruka"
+msgid "No, not especially."
+msgstr "No, non proprio."
+
+msgctxt "412_Atsuko"
+msgid "Oh. Fine then."
+msgstr "Oh. E va bene."
+
+msgctxt "448_Atsuko"
+msgid ""
+"Is this some kind of joke? You can't challenge me when you're exhausted like"
+" that! Come back when you're rested up!"
+msgstr ""
+"Ma che scherzi? Non puoi sfidarmi quando sei ridotta così a pezzi! Torna "
+"quando ti sarai ripresa!"
+
+msgctxt "460_Haruka"
+msgid "My apologies."
+msgstr "Mi scuso."
+
+msgctxt "496_Atsuko"
+msgid "So, what is it? You looking to battle?"
+msgstr "Allora, che c'è? Vuoi sfidarmi?"
+
+msgctxt "592_Haruka"
+msgid "No, not especially."
+msgstr "No, non proprio."
+
+msgctxt "604_Atsuko"
+msgid "Oh. Fine then."
+msgstr "Oh. E va bene."
+
+msgctxt "640_Atsuko"
+msgid ""
+"Is this some kind of joke? You can't challenge me when you're exhausted like"
+" that! Come back when you're rested up!"
+msgstr ""
+"Ma che scherzi? Non puoi sfidarmi quando sei ridotta così a pezzi! Torna "
+"quando ti sarai ripresa!"
+
+msgctxt "652_Haruka"
+msgid "My apologies."
+msgstr "Mi scuso."
+
+msgctxt "688_Atsuko"
+msgid "So, what is it? You looking to battle?"
+msgstr "Allora, che c'è? Vuoi sfidarmi?"
+
+msgctxt "760_Haruka"
+msgid "No, not especially."
+msgstr "No, non proprio."
+
+msgctxt "772_Atsuko"
+msgid "Oh. Fine then."
+msgstr "Oh. E va bene."
+
+msgctxt "808_Haruka"
+msgid "Yes! Would you be my opponent?"
+msgstr "Sì! Vuoi essere il mio sfidante?"
+
+msgctxt "820_Atsuko"
+msgid "Hehe. I'll try not to beat you too badly."
+msgstr "Hehe. Cercherò di non strapazzarti troppo."
+
+msgctxt "856_Atsuko"
+msgid "So, what is it? You looking to battle?"
+msgstr "Allora, che c'è? Vuoi sfidarmi?"
+
+msgctxt "928_Haruka"
+msgid "No, not especially."
+msgstr "No, non proprio."
+
+msgctxt "940_Atsuko"
+msgid "Oh. Fine then."
+msgstr "Oh. E va bene."
+
+msgctxt "976_Haruka"
+msgid "Yes! Would you be my opponent?"
+msgstr "Sì! Vuoi essere il mio sfidante?"
+
+msgctxt "988_Atsuko"
+msgid "Hehe. I'll try not to beat you too badly."
+msgstr "Hehe. Cercherò di non strapazzarti troppo."
+
+msgctxt "1048_Atsuko"
+msgid "I lost!? I guess I need to practice more!"
+msgstr "Ho perso!? Immagino di dovermi allenare di più!"
+
+msgctxt "1240_Atsuko"
+msgid ""
+"Hehe. You tried your best, but you just weren't ready to go up against "
+"somebody like me."
+msgstr ""
+"Hehe. Hai fatto del tuo meglio, ma non eri proprio pronto ad affrontare uno "
+"come me."
+
+msgctxt "1288_Atsuko"
+msgid "I lost!? I guess I need to practice more!"
+msgstr "Ho perso!? Immagino di dovermi allenare di più!"
+
+msgctxt "1480_Atsuko"
+msgid ""
+"Hehe. You tried your best, but you just weren't ready to go up against "
+"somebody like me."
+msgstr ""
+"Hehe. Hai fatto del tuo meglio, ma non eri proprio pronto ad affrontare uno "
+"come me."
+
+msgctxt "1516_Atsuko"
+msgid "So, what is it? You looking to battle?"
+msgstr "Allora, che c'è? Vuoi sfidarmi?"
+
+msgctxt "1636_Atsuko"
+msgid "No, not especially."
+msgstr "No, non proprio."
+
+msgctxt "1648_Atsuko"
+msgid "Oh. Fine then."
+msgstr "Oh. E va bene."
+
+msgctxt "1684_Atsuko"
+msgid ""
+"Is this some kind of joke? You can't challenge me when you're exhausted like"
+" that! Come back when you're rested up!"
+msgstr ""
+"Ma è uno scherzo? Non puoi sfidarmi quando sei ridotto uno straccio così! "
+"Torna quando ti sei riposato!"
+
+msgctxt "1696_Haruka"
+msgid "My apologies."
+msgstr "Mi scuso."
+
+msgctxt "1732_Atsuko"
+msgid "So, what is it? You looking to battle?"
+msgstr "Allora, che c'è? Vuoi sfidarmi?"
+
+msgctxt "1852_Atsuko"
+msgid "No, not especially."
+msgstr "No, non proprio."
+
+msgctxt "1864_Atsuko"
+msgid "Oh. Fine then."
+msgstr "Oh. E va bene."
+
+msgctxt "1900_Atsuko"
+msgid ""
+"Is this some kind of joke? You can't challenge me when you're exhausted like"
+" that! Come back when you're rested up!"
+msgstr ""
+"Ma è uno scherzo? Non puoi sfidarmi quando sei ridotto uno straccio così! "
+"Torna quando ti sei riposato!"
+
+msgctxt "1912_Haruka"
+msgid "My apologies."
+msgstr "Mi scuso."
+
+msgctxt "1948_Atsuko"
+msgid "So, what is it? You looking to battle?"
+msgstr "Allora, che c'è? Vuoi sfidarmi?"
+
+msgctxt "2044_Atsuko"
+msgid "No, not especially."
+msgstr "No, non proprio."
+
+msgctxt "2056_Atsuko"
+msgid "Oh. Fine then."
+msgstr "Oh. E va bene."
+
+msgctxt "2092_Atsuko"
+msgid "Yes! Would you be my opponent?"
+msgstr "Sì! Vuoi sfidarmi?"
+
+msgctxt "2104_Atsuko"
+msgid "Hehe. I'll try not to beat you too badly."
+msgstr "Eheh. Cercherò di non strapazzarti troppo."
+
+msgctxt "2140_Atsuko"
+msgid "So, what is it? You looking to battle?"
+msgstr "Allora, che c'è? Vuoi sfidarmi?"
+
+msgctxt "2236_Atsuko"
+msgid "No, not especially."
+msgstr "No, non proprio."
+
+msgctxt "2248_Atsuko"
+msgid "Oh. Fine then."
+msgstr "Oh. E va bene."
+
+msgctxt "2284_Atsuko"
+msgid "Yes! Would you be my opponent?"
+msgstr "Sì! Vuoi sfidarmi?"
+
+msgctxt "2296_Atsuko"
+msgid "Hehe. I'll try not to beat you too badly."
+msgstr "Eheh. Cercherò di non strapazzarti troppo."

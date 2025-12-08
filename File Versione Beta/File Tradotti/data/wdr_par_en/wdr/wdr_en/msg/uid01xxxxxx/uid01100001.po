@@ -1,0 +1,85 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1124"
+msgid "桐生"
+msgstr "Kiryu"
+
+msgctxt "1128"
+msgid "adv1_010/nakajima_1_010_010"
+msgstr "adv1_010/nakajima_1_010_010"
+
+msgctxt "1132"
+msgid "中嶋"
+msgstr "中嶋"
+
+msgctxt "1136"
+msgid "adv1_010/kiryu_0024"
+msgstr "adv1_010/kiryu_0024"
+
+msgctxt "1140"
+msgid "adv1_010/nakajima_0005"
+msgstr "adv1_010/nakajima_0005"
+
+msgctxt "1144"
+msgid "adv1_010/kiryu_0025"
+msgstr "adv1_010/kiryu_0025"
+
+msgctxt "1148"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "1152"
+msgid "景色"
+msgstr "景色"
+
+msgctxt "60_桐生"
+msgid "独り言テスト。"
+msgstr "独り言テスト。"
+
+msgctxt "72_中嶋"
+msgid "相手追加テスト。"
+msgstr "相手追加テスト。"
+
+msgctxt "84_桐生"
+msgid "フッ……"
+msgstr "フッ……"
+
+msgctxt "96_中嶋"
+msgid ""
+"そいじゃぁ明日も仕事頼んだけんね！\r\n"
+"お疲れ！"
+msgstr ""
+"そいじゃぁ明日も仕事頼んだけんね！\n"
+"お疲れ！"
+
+msgctxt "108_桐生"
+msgid "相手除外テスト。"
+msgstr "相手除外テスト。"
+
+msgctxt "120_桐生"
+msgid "（俺も明日の仕事がある。今日はもう家に帰ろう）"
+msgstr "（俺も明日の仕事がある。今日はもう家に帰ろう）"
+
+msgctxt "132_景色"
+msgid "景色です。"
+msgstr "景色です。"
+
+msgctxt "144_桐生"
+msgid "%s"
+msgstr "%s"
+
+msgctxt "156_桐生"
+msgid "撮影完了。"
+msgstr "撮影完了。"

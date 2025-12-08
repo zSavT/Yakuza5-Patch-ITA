@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "620"
+msgid "Employee"
+msgstr "Cameriere"
+
+msgctxt "624"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "44_Employee"
+msgid "Hi. I'll exchange your slot machine tokens for prizes."
+msgstr "Ciao. Ti scambio i gettoni delle slot con dei premi."
+
+msgctxt "68_Employee"
+msgid "Thank you. We look forward to your next visit."
+msgstr "Grazie. L'aspettiamo per la prossima visita."
+
+msgctxt "80_Employee"
+msgid "I see. We look forward to your next visit."
+msgstr "Capisco. L'aspettiamo la prossima volta."

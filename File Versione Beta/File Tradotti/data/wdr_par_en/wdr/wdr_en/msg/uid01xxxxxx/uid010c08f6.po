@@ -1,0 +1,274 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "292"
+msgid "You got 400 experience points."
+msgstr "Hai ottenuto 400 punti esperienza."
+
+msgctxt "580"
+msgid "You got <Color:8>30,000 yen<Color:Default>."
+msgstr "Hai ottenuto <Color:8>30,000 yen<Color:Default>."
+
+msgctxt "700"
+msgid "You got 400 experience points."
+msgstr "Hai ottenuto 400 punti esperienza."
+
+msgctxt "10048"
+msgid "A Princess"
+msgstr "Una Principessa"
+
+msgctxt "10052"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "10056"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "10060"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "10064"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "10068"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "10072"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "10076"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "10080"
+msgid "Mysterious Man"
+msgstr "Uomo Misterioso"
+
+msgctxt "10084"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "10088"
+msgid "Security Detail"
+msgstr "Scorta di sicurezza"
+
+msgctxt "10092"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "10096"
+msgid "Princess of Coutand"
+msgstr "Principessa di Coutand"
+
+msgctxt "10100"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "10104"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "76_A Princess"
+msgid ""
+"It looks like we've lost them. Thank you, driver. I am sorry I dragged you "
+"into all this."
+msgstr ""
+"Sembra che li abbiamo seminati. Grazie, autista. Mi dispiace averti "
+"trascinato in tutto questo."
+
+msgctxt "88_Kiryu"
+msgid "Um..."
+msgstr "Ehm..."
+
+msgctxt "100_A Princess"
+msgid "What is it?"
+msgstr "E cioè?"
+
+msgctxt "112_Kiryu"
+msgid "Who exactly are you?"
+msgstr "Chi sei esattamente?"
+
+msgctxt "124_A Princess"
+msgid "Like I said, I am a princess of the Kingdom of Coutand."
+msgstr "Come ho detto, sono una principessa del Regno di Coutand."
+
+msgctxt "136_Kiryu"
+msgid "Yes, I heard you."
+msgstr "Sì, ti ho sentito."
+
+msgctxt "148_A Princess"
+msgid "So was there something else you wanted to know?"
+msgstr "Allora, c'era qualcos'altro che volevi sapere?"
+
+msgctxt "160_Kiryu"
+msgid "No... I guess not."
+msgstr "No... credo di no."
+
+msgctxt "172_A Princess"
+msgid ""
+"Well, we've taken care of my security team. Now I'll have to find a place to"
+" hide. Thank you for getting me this far. I appreciate it."
+msgstr ""
+"Beh, abbiamo seminato la mia scorta di sicurezza. Ora dovrò trovare un posto"
+" dove nascondermi. Grazie per avermi portato fin qui. Lo apprezzo."
+
+msgctxt "184_A Princess"
+msgid "Here is the money for the ride."
+msgstr "Ecco i soldi per il passaggio."
+
+msgctxt "208_A Princess"
+msgid "Thank you."
+msgstr "Grazie."
+
+msgctxt "220_A Princess"
+msgid ""
+"I must be going. I trust that you won't mention you saw me to anyone else."
+msgstr "Devo andare. Confido che non dirai a nessun altro di avermi vista."
+
+msgctxt "232_Kiryu"
+msgid "Of course."
+msgstr "E di che."
+
+msgctxt "244_A Princess"
+msgid "Good. I am glad I ended up with you. Farewell."
+msgstr "Bene. Sono contenta di essere capitata con te. Addio."
+
+msgctxt "256_Kiryu"
+msgid "Take care... Your Royal Highness."
+msgstr "Faccia attenzione... Sua Altezza Reale."
+
+msgctxt "328_A Princess"
+msgid "They caught up with us... It's over."
+msgstr "Ci hanno beccati... È finita."
+
+msgctxt "340_Kiryu"
+msgid "Who are you guys? I'm trying to do my job here."
+msgstr "Chi siete voi? Sto cercando di fare il mio lavoro qui."
+
+msgctxt "352_Mysterious Man"
+msgid "We're security for the Kingdom of Coutand."
+msgstr "Siamo della sicurezza del Regno di Coutand."
+
+msgctxt "364_Kiryu"
+msgid "(She was telling the truth?)"
+msgstr "(Stava dicendo la verità?)"
+
+msgctxt "376_Security Detail"
+msgid "And we're taking you into custody for kidnapping our princess!"
+msgstr "E ti mettiamo in custodia per aver rapito la nostra principessa!"
+
+msgctxt "388_Princess of Coutand"
+msgid "Stop! He's done nothing wrong!"
+msgstr "Fermate! Non ha fatto nulla di male!"
+
+msgctxt "400_Security Detail"
+msgid "Please, Your Royal Highness. We're just doing our job."
+msgstr "Per favore, Sua Altezza Reale. Stiamo solo facendo il nostro lavoro."
+
+msgctxt "412_Security Detail"
+msgid ""
+"Now, get that driver! And I don't care if you have to knock him around to do"
+" it!"
+msgstr ""
+"Ora, prendete quel guidatore! E non mi interessa se dovete malmenarlo per "
+"farlo!"
+
+msgctxt "436_A Princess"
+msgid "Phew, thank you! Your driving skills really are amazing!"
+msgstr "Meno male, grazie! Le tue abilità di guida sono davvero incredibili!"
+
+msgctxt "448_Kiryu"
+msgid "Hm."
+msgstr "Mh."
+
+msgctxt "460_A Princess"
+msgid ""
+"Well, we've shaken off my security team. Now I'll have to find a place to "
+"hide. Thank you for getting me this far－I appreciate it."
+msgstr ""
+"Bene, ci siamo scrollati di dosso la mia scorta. Ora dovrò trovare un posto "
+"dove nascondermi. Grazie per avermi portato fin qui – lo apprezzo."
+
+msgctxt "472_Kiryu"
+msgid "Um..."
+msgstr "Ehm..."
+
+msgctxt "484_A Princess"
+msgid "What is it?"
+msgstr "E cioè?"
+
+msgctxt "496_Kiryu"
+msgid "So, who exactly were those guys?"
+msgstr "Allora, chi erano di preciso quei tizi?"
+
+msgctxt "508_A Princess"
+msgid "Hm? Like I said before, I am a princess of the Kingdom of Coutand, so－"
+msgstr ""
+"Mh? Come ti ho già detto, sono una principessa del Regno di Coutand, quindi－"
+
+msgctxt "520_Kiryu"
+msgid "Yes, I heard you the first time."
+msgstr "Sì, ti ho sentito la prima volta."
+
+msgctxt "532_A Princess"
+msgid "Then was there something else you wanted to know?"
+msgstr "Allora c'era qualcos'altro che volevi sapere?"
+
+msgctxt "544_Kiryu"
+msgid "...No, never mind. Anyway, is that all?"
+msgstr "...No, lascia stare. Comunque, è tutto?"
+
+msgctxt "556_A Princess"
+msgid "Yes. Here is money for the ride, along with a reward."
+msgstr "Sì. Ecco i soldi per la corsa, insieme a una ricompensa."
+
+msgctxt "604_A Princess"
+msgid "(That's a huge tip. Maybe she really is who she says.)"
+msgstr "(È una mancia enorme. Magari è davvero chi dice.)"
+
+msgctxt "616_Princess of Coutand"
+msgid ""
+"I must be going. I trust that you won't mention you saw me to anyone else."
+msgstr ""
+"Devo proprio andare. Mi fido che non farai parola con nessun altro di avermi"
+" visto."
+
+msgctxt "628_Kiryu"
+msgid "Of course."
+msgstr "E di che."
+
+msgctxt "640_Princess of Coutand"
+msgid ""
+"I am glad I met you. If only the man my father wanted me to marry was as "
+"gallant as you."
+msgstr ""
+"Sono contenta di averti incontrato. Magari l'uomo che mio padre voleva che "
+"sposassi fosse galante quanto te."
+
+msgctxt "652_Kiryu"
+msgid "Sorry? Did you say something?"
+msgstr "Scusa? Hai detto qualcosa?"
+
+msgctxt "664_Princess of Coutand"
+msgid "Oh, it's nothing. Farewell!"
+msgstr "Ma no, niente. Addio!"
+
+msgctxt "676_Kiryu"
+msgid "(Farewell, Princess.)"
+msgstr "(Addio, Principessa.)"

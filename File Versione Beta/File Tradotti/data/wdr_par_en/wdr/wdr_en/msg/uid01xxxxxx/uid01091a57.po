@@ -1,0 +1,686 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "18288"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "18292"
+msgid "adv2_900/saejima_2_900_620"
+msgstr "adv2_900/saejima_2_900_620"
+
+msgctxt "18296"
+msgid "Nishina"
+msgstr "Nishina"
+
+msgctxt "18300"
+msgid "adv2_900/nishina_2_900_470"
+msgstr "adv2_900/nishina_2_900_470"
+
+msgctxt "18304"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "18308"
+msgid "adv2_900/saejima_2_900_630"
+msgstr "adv2_900/saejima_2_900_630"
+
+msgctxt "18312"
+msgid "adv2_900/nishina_2_900_480"
+msgstr "adv2_900/nishina_2_900_480"
+
+msgctxt "18316"
+msgid "Sakurai"
+msgstr "Sakurai"
+
+msgctxt "18320"
+msgid "adv2_900/sakurai_2_900_200"
+msgstr "adv2_900/sakurai_2_900_200"
+
+msgctxt "18324"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "18328"
+msgid "P_SAE_TLK_stand_kamae"
+msgstr "P_SAE_TLK_stand_kamae"
+
+msgctxt "18332"
+msgid "adv2_900/saejima_2_900_640"
+msgstr "adv2_900/saejima_2_900_640"
+
+msgctxt "18336"
+msgid "adv2_900/nishina_2_900_490"
+msgstr "adv2_900/nishina_2_900_490"
+
+msgctxt "18340"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "18344"
+msgid "adv2_900/sakurai_2_900_210"
+msgstr "adv2_900/sakurai_2_900_210"
+
+msgctxt "18348"
+msgid "adv2_900/saejima_2_900_650"
+msgstr "adv2_900/saejima_2_900_650"
+
+msgctxt "18352"
+msgid "adv2_900/sakurai_2_900_220"
+msgstr "adv2_900/sakurai_2_900_220"
+
+msgctxt "18356"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "18360"
+msgid "Voice"
+msgstr "Voce"
+
+msgctxt "18364"
+msgid "adv2_900/okudera_2_900_050"
+msgstr "adv2_900/okudera_2_900_050"
+
+msgctxt "18368"
+msgid "adv2_900/sakurai_2_900_230"
+msgstr "adv2_900/sakurai_2_900_230"
+
+msgctxt "18372"
+msgid "Okudera"
+msgstr "Okudera"
+
+msgctxt "18376"
+msgid "adv2_900/okudera_2_900_060"
+msgstr "adv2_900/okudera_2_900_060"
+
+msgctxt "18380"
+msgid "adv2_900/saejima_2_900_660"
+msgstr "adv2_900/saejima_2_900_660"
+
+msgctxt "18384"
+msgid "adv2_900/okudera_2_900_070"
+msgstr "adv2_900/okudera_2_900_070"
+
+msgctxt "18388"
+msgid "adv2_900/saejima_2_900_670"
+msgstr "adv2_900/saejima_2_900_670"
+
+msgctxt "18392"
+msgid "adv2_900/okudera_2_900_080"
+msgstr "adv2_900/okudera_2_900_080"
+
+msgctxt "18396"
+msgid "adv2_900/nishina_2_900_500"
+msgstr "adv2_900/nishina_2_900_500"
+
+msgctxt "18400"
+msgid "adv2_900/sakurai_2_900_240"
+msgstr "adv2_900/sakurai_2_900_240"
+
+msgctxt "18404"
+msgid "adv2_900/saejima_2_900_680"
+msgstr "adv2_900/saejima_2_900_680"
+
+msgctxt "18408"
+msgid "adv2_900/okudera_2_900_090"
+msgstr "adv2_900/okudera_2_900_090"
+
+msgctxt "18412"
+msgid "kaiwabgm_hisou"
+msgstr "kaiwabgm_hisou"
+
+msgctxt "18416"
+msgid "adv2_900/saejima_2_900_690"
+msgstr "adv2_900/saejima_2_900_690"
+
+msgctxt "18420"
+msgid "adv2_900/okudera_2_900_100a"
+msgstr "adv2_900/okudera_2_900_100a"
+
+msgctxt "18424"
+msgid "adv2_900/okudera_2_900_100b"
+msgstr "adv2_900/okudera_2_900_100b"
+
+msgctxt "18428"
+msgid "adv2_900/saejima_2_900_700"
+msgstr "adv2_900/saejima_2_900_700"
+
+msgctxt "18432"
+msgid "adv2_900/okudera_2_900_110"
+msgstr "adv2_900/okudera_2_900_110"
+
+msgctxt "18436"
+msgid "adv2_900/nishina_2_900_510"
+msgstr "adv2_900/nishina_2_900_510"
+
+msgctxt "18440"
+msgid "adv2_900/okudera_2_900_120a"
+msgstr "adv2_900/okudera_2_900_120a"
+
+msgctxt "18444"
+msgid "adv2_900/okudera_2_900_120b"
+msgstr "adv2_900/okudera_2_900_120b"
+
+msgctxt "18448"
+msgid "adv2_900/saejima_2_900_710"
+msgstr "adv2_900/saejima_2_900_710"
+
+msgctxt "18452"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "18456"
+msgid "adv2_900/okudera_2_900_130a"
+msgstr "adv2_900/okudera_2_900_130a"
+
+msgctxt "18460"
+msgid "adv2_900/okudera_2_900_130b"
+msgstr "adv2_900/okudera_2_900_130b"
+
+msgctxt "18464"
+msgid "adv2_900/saejima_2_900_720"
+msgstr "adv2_900/saejima_2_900_720"
+
+msgctxt "18468"
+msgid "adv2_900/okudera_2_900_140a"
+msgstr "adv2_900/okudera_2_900_140a"
+
+msgctxt "18472"
+msgid "adv2_900/okudera_2_900_140b"
+msgstr "adv2_900/okudera_2_900_140b"
+
+msgctxt "18476"
+msgid "adv2_900/saejima_2_900_730"
+msgstr "adv2_900/saejima_2_900_730"
+
+msgctxt "18480"
+msgid "adv2_900/okudera_2_900_150a"
+msgstr "adv2_900/okudera_2_900_150a"
+
+msgctxt "18484"
+msgid "adv2_900/okudera_2_900_150b"
+msgstr "adv2_900/okudera_2_900_150b"
+
+msgctxt "18488"
+msgid "adv2_900/nishina_2_900_520"
+msgstr "adv2_900/nishina_2_900_520"
+
+msgctxt "18492"
+msgid "adv2_900/okudera_2_900_160a"
+msgstr "adv2_900/okudera_2_900_160a"
+
+msgctxt "18496"
+msgid "adv2_900/okudera_2_900_160b"
+msgstr "adv2_900/okudera_2_900_160b"
+
+msgctxt "18500"
+msgid "adv2_900/sakurai_2_900_250"
+msgstr "adv2_900/sakurai_2_900_250"
+
+msgctxt "18504"
+msgid "adv2_900/okudera_2_900_170"
+msgstr "adv2_900/okudera_2_900_170"
+
+msgctxt "18508"
+msgid "adv2_900/saejima_2_900_740"
+msgstr "adv2_900/saejima_2_900_740"
+
+msgctxt "18512"
+msgid "adv2_900/okudera_2_900_180"
+msgstr "adv2_900/okudera_2_900_180"
+
+msgctxt "18516"
+msgid "adv2_900/nishina_2_900_530"
+msgstr "adv2_900/nishina_2_900_530"
+
+msgctxt "18520"
+msgid "adv2_900/sakurai_2_900_260"
+msgstr "adv2_900/sakurai_2_900_260"
+
+msgctxt "18524"
+msgid "M_nml_stand"
+msgstr "M_nml_stand"
+
+msgctxt "18528"
+msgid "Talk_Kamae"
+msgstr "Talk_Kamae"
+
+msgctxt "18532"
+msgid "adv2_900/okudera_2_900_190"
+msgstr "adv2_900/okudera_2_900_190"
+
+msgctxt "18536"
+msgid "SS2_M_NSN_TLK_stand_rif_kamae"
+msgstr "SS2_M_NSN_TLK_stand_rif_kamae"
+
+msgctxt "18540"
+msgid "M_NML_TLK_stand_kamae"
+msgstr "M_NML_TLK_stand_kamae"
+
+msgctxt "18544"
+msgid "SS2_M_NSN_TLK_stand_rif_send"
+msgstr "SS2_M_NSN_TLK_stand_rif_send"
+
+msgctxt "18548"
+msgid "SS2_P_HNT_stand_nml"
+msgstr "SS2_P_HNT_stand_nml"
+
+msgctxt "18552"
+msgid "SS2_P_HNT_TLK_stand_rif_get"
+msgstr "SS2_P_HNT_TLK_stand_rif_get"
+
+msgctxt "18556"
+msgid "ArmsID"
+msgstr "ID Armi"
+
+msgctxt "18560"
+msgid "adv2_900/okudera_2_900_200"
+msgstr "adv2_900/okudera_2_900_200"
+
+msgctxt "18564"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "18568"
+msgid "adv2_900/nishina_2_900_540"
+msgstr "adv2_900/nishina_2_900_540"
+
+msgctxt "18572"
+msgid "adv2_900/saejima_2_900_750"
+msgstr "adv2_900/saejima_2_900_750"
+
+msgctxt "18576"
+msgid "adv2_900/nishina_2_900_550"
+msgstr "adv2_900/nishina_2_900_550"
+
+msgctxt "18580"
+msgid "adv2_900/okudera_2_900_210"
+msgstr "adv2_900/okudera_2_900_210"
+
+msgctxt "18584"
+msgid "adv2_900/nishina_2_900_560"
+msgstr "adv2_900/nishina_2_900_560"
+
+msgctxt "18588"
+msgid "adv2_900/okudera_2_900_220"
+msgstr "adv2_900/okudera_2_900_220"
+
+msgctxt "18592"
+msgid "adv2_900/nishina_2_900_570"
+msgstr "adv2_900/nishina_2_900_570"
+
+msgctxt "18596"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "18600"
+msgid "adv2_900/okudera_2_900_230a"
+msgstr "adv2_900/okudera_2_900_230a"
+
+msgctxt "18604"
+msgid "adv2_900/okudera_2_900_230b"
+msgstr "adv2_900/okudera_2_900_230b"
+
+msgctxt "18608"
+msgid "adv2_900/nishina_2_900_580"
+msgstr "adv2_900/nishina_2_900_580"
+
+msgctxt "18612"
+msgid "adv2_900/okudera_2_900_240a"
+msgstr "adv2_900/okudera_2_900_240a"
+
+msgctxt "18616"
+msgid "adv2_900/okudera_2_900_240b"
+msgstr "adv2_900/okudera_2_900_240b"
+
+msgctxt "18620"
+msgid "adv2_900/nishina_2_900_590"
+msgstr "adv2_900/nishina_2_900_590"
+
+msgctxt "56_Saejima"
+msgid "*pant* *pant*"
+msgstr "*anf* *anf*"
+
+msgctxt "68_Nishina"
+msgid "Saejima-san!"
+msgstr "Saejima-san!"
+
+msgctxt "92_Saejima"
+msgid "Hey... *pant* Didn't ya say... *huff* That ya couldn't help me?"
+msgstr "Ehi... *anf* Non avevi detto mica... *anf* Che non potevi aiutarmi?"
+
+msgctxt "104_Nishina"
+msgid "Circumstances changed."
+msgstr "Le circostanze sono cambiate."
+
+msgctxt "116_Sakurai"
+msgid ""
+"Someone called the police. Your confessions must've been overheard "
+"somehow..."
+msgstr ""
+"Qualcuno ha chiamato la polizia. Le tue confessioni devono essere state "
+"sentite in qualche modo..."
+
+msgctxt "128_Saejima"
+msgid "I see."
+msgstr "Capisco."
+
+msgctxt "140_Nishina"
+msgid ""
+"Well, what are you waiting for? Get away from here! We'll deal with Yama-"
+"oroshi's body."
+msgstr ""
+"Beh, cosa aspetti? Levati da qui! Ci pensiamo noi al corpo di Yama-oroshi."
+
+msgctxt "152_Sakurai"
+msgid "We'll say you went missing. Hey, it worked nine years ago!"
+msgstr "Diremo che sei scomparso. Ehi, ha funzionato nove anni fa!"
+
+msgctxt "164_Saejima"
+msgid "Nine years ago? What's that mean?"
+msgstr "Nove anni fa? Cosa significa?"
+
+msgctxt "176_Sakurai"
+msgid "Uh, it's, um..."
+msgstr "Ehm, è, ehm..."
+
+msgctxt "188_Voice"
+msgid "So that's what happened."
+msgstr "Quindi è andata così."
+
+msgctxt "200_Sakurai"
+msgid "Okudera-san!?"
+msgstr "Okudera-san!?"
+
+msgctxt "224_Okudera"
+msgid ""
+"I was the one who called the police. To have them arrest me. So you don't "
+"need to worry, Saejima."
+msgstr ""
+"Sono stato io a chiamare la polizia. Per farmi arrestare. Quindi non devi "
+"preoccuparti, Saejima."
+
+msgctxt "236_Saejima"
+msgid "Whaddya mean?"
+msgstr "Che vuoi dire?"
+
+msgctxt "248_Okudera"
+msgid ""
+"It's about time I settled my accounts. Not only with Yama-oroshi here, but "
+"with my own crime."
+msgstr ""
+"È ora che saldi i miei conti. Non solo con Yama-oroshi qui, ma anche con il "
+"mio stesso crimine."
+
+msgctxt "260_Saejima"
+msgid "Still don't understand ya."
+msgstr "Non ti capisco ancora."
+
+msgctxt "272_Okudera"
+msgid ""
+"Nine years ago, Sato－no, not Sato－the real Okudera... died here. With my gun"
+" aimed at him."
+msgstr ""
+"Nove anni fa, Sato—no, non Sato—il vero Okudera... è morto qui. Con la mia "
+"pistola puntata su di lui."
+
+msgctxt "284_Nishina"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "296_Sakurai"
+msgid "Hmm!?"
+msgstr "Mhh!?"
+
+msgctxt "308_Saejima"
+msgid "Ya... ya killed...?"
+msgstr "Tu... tu hai ucciso...?"
+
+msgctxt "320_Okudera"
+msgid ""
+"Saejima. I was an assassin who escaped from prison... with the sole purpose "
+"of killing Okudera."
+msgstr ""
+"Saejima. Sono stato un assassino fuggito di prigione... con l'unico scopo di"
+" uccidere Okudera."
+
+msgctxt "332_Saejima"
+msgid "You're an assassin? Truly?"
+msgstr "Sei un assassino? Davvero?"
+
+msgctxt "344_Okudera"
+msgid "I am. The real Okudera was expelled by a yakuza family in Tohoku."
+msgstr ""
+"Lo sono. Il vero Okudera è stato espulso da una famiglia yakuza nel Tohoku."
+
+msgctxt "356_Okudera"
+msgid "The family ordered me to kill him. That's why I broke out of prison."
+msgstr ""
+"La famiglia mi ha ordinato di ucciderlo. Per questo sono evaso di prigione."
+
+msgctxt "368_Saejima"
+msgid "But the story is he saved ya."
+msgstr "Ma la storia è che ti ha salvato."
+
+msgctxt "380_Okudera"
+msgid ""
+"I was saved by the man I was to kill. I even came to think of him as a "
+"friend. Life is strange. I don't know of any other explanation."
+msgstr ""
+"Sono stato salvato dall'uomo che dovevo uccidere. Sono persino arrivato a "
+"considerarlo un amico. La vita è strana. Non conosco altra spiegazione."
+
+msgctxt "392_Nishina"
+msgid "Okudera-san."
+msgstr "Okudera-san."
+
+msgctxt "404_Okudera"
+msgid ""
+"The family's order was absolute. Failing to take Okudera's life would have "
+"cost me my own."
+msgstr ""
+"L'ordine della famiglia era assoluto. Non togliere la vita a Okudera mi "
+"sarebbe costata la mia."
+
+msgctxt "416_Okudera"
+msgid ""
+"So, on that day nine years ago, when Okudera trekked to the mountain in "
+"pursuit of Yama-oroshi, I followed him."
+msgstr ""
+"Quindi, quel giorno di nove anni fa, quando Okudera si inoltrò sulla "
+"montagna all'inseguimento di Yama-oroshi, lo seguii."
+
+msgctxt "428_Saejima"
+msgid "Ya were gonna make it look like Yama-oroshi did the killin'."
+msgstr "Tu volevi far sembrare che Yama-oroshi avesse ucciso."
+
+msgctxt "440_Okudera"
+msgid "Yes. But, I hesitated."
+msgstr "Sì. Ma, ho esitato."
+
+msgctxt "452_Okudera"
+msgid ""
+"And as I stood there, gun still aimed and cocked, Okudera suddenly said, "
+"\"Go ahead. Shoot.\""
+msgstr ""
+"E mentre stavo lì, con la pistola ancora puntata e armata, Okudera disse "
+"all'improvviso: \"Vai avanti. Spara.\""
+
+msgctxt "464_Saejima"
+msgid "No way. Are you sayin'...?"
+msgstr "Ma dai. Stai dicendo...?"
+
+msgctxt "476_Okudera"
+msgid "Yes. Okudera knew everything. My plan to kill him... All of it."
+msgstr "Sì. Okudera sapeva tutto. Il mio piano per ucciderlo... Tutto."
+
+msgctxt "488_Okudera"
+msgid ""
+"He'd known all along, and yet he'd been accepting of me, teaching me how to "
+"hunt... rekindling my hope for life."
+msgstr ""
+"Lui sapeva tutto fin dall'inizio, eppure mi aveva accettato, insegnandomi a "
+"cacciare... riaccendendo la mia speranza di vita."
+
+msgctxt "500_Saejima"
+msgid "And yet... Ya shot him."
+msgstr "Eppure... Tu gli hai sparato."
+
+msgctxt "524_Okudera"
+msgid ""
+"I couldn't shoot. I decided at that moment that I'd rather be a marked man "
+"than kill this person who had been so kind."
+msgstr ""
+"Non potevo sparare. Ho deciso in quel momento che avrei preferito essere un "
+"uomo braccato piuttosto che uccidere questa persona che era stata così "
+"gentile."
+
+msgctxt "536_Okudera"
+msgid "And then, Okudera disappeared... under a giant, black mass of fur."
+msgstr "E poi, Okudera scomparve... sotto un'enorme massa di pelliccia nera."
+
+msgctxt "548_Nishina"
+msgid "Yama-oroshi."
+msgstr "Yama-oroshi."
+
+msgctxt "560_Okudera"
+msgid "Yes. What happened next, I don't know."
+msgstr "Sì. Cosa sia successo dopo, non lo so."
+
+msgctxt "572_Okudera"
+msgid ""
+"When I woke up, I found myself sprawled on blood-drenched snow. Okudera was "
+"beside me."
+msgstr ""
+"Quando mi sono svegliato, mi sono ritrovato disteso sulla neve intrisa di "
+"sangue. Okudera era accanto a me."
+
+msgctxt "584_Sakurai"
+msgid "That's terrible..."
+msgstr "È terribile..."
+
+msgctxt "596_Okudera"
+msgid ""
+"As he lay dying, Okudera grabbed my hand and said, \"Take my name and live. "
+"Live... and atone.\""
+msgstr ""
+"Mentre giaceva morente, Okudera mi afferrò la mano e disse: \"Prendi il mio "
+"nome e vivi. Vivi... ed espia.\""
+
+msgctxt "608_Saejima"
+msgid "(Dyin' wishes... Are they ever <Italic>not</Italic> heavy as hell?)"
+msgstr ""
+"(Ultimi desideri... Non sono <Italic>sempre</Italic> maledettamente "
+"pesanti?)"
+
+msgctxt "620_Okudera"
+msgid ""
+"You see, he was entrusting me with all the sins he himself had committed, "
+"but no longer had time to atone for. He knew that I too was a sinful "
+"man－that I could atone for us both."
+msgstr ""
+"Vedi, mi stava affidando tutti i peccati che lui stesso aveva commesso, ma "
+"per i quali non aveva più tempo di espiare. Sapeva che anch'io ero un uomo "
+"peccatore—che avrei potuto espiare per entrambi."
+
+msgctxt "632_Nishina"
+msgid "......"
+msgstr "......"
+
+msgctxt "644_Sakurai"
+msgid "*sigh*"
+msgstr "*sospiro*"
+
+msgctxt "656_Okudera"
+msgid ""
+"So, I know what I have to do. I'm going back behind bars to properly serve "
+"the rest of my sentence."
+msgstr ""
+"Dunque, so cosa devo fare. Tornerò in galera per scontare come si deve il "
+"resto della mia pena."
+
+msgctxt "740_Okudera"
+msgid "Why are you giving me this?"
+msgstr "Perché mi stai dando questo?"
+
+msgctxt "752_Nishina"
+msgid "You ought to settle things with your own hands."
+msgstr "Dovresti regolare i conti con le tue mani."
+
+msgctxt "764_Saejima"
+msgid "Nishina-han..."
+msgstr "Nishina-han..."
+
+msgctxt "776_Nishina"
+msgid ""
+"I mean it. You pursued Yama-oroshi for nine years. You should be the one to "
+"put an end to him."
+msgstr ""
+"Dico sul serio. Hai braccato Yama-oroshi per nove anni. Dovresti essere tu a"
+" mettergli fine."
+
+msgctxt "788_Okudera"
+msgid "......"
+msgstr "......"
+
+msgctxt "800_Nishina"
+msgid "Do it now, Okudera-san."
+msgstr "Fallo adesso, Okudera-san."
+
+msgctxt "812_Okudera"
+msgid ""
+"In the nearly ten years I've lived here, the most important thing I learned "
+"about hunting..."
+msgstr ""
+"Nei quasi dieci anni che ho vissuto qui, la cosa più importante che ho "
+"imparato sulla caccia..."
+
+msgctxt "824_Nishina"
+msgid "Is what?"
+msgstr "Cos'è?"
+
+msgctxt "836_Okudera"
+msgid "Hunting for any reason other than survival is just slaughter."
+msgstr ""
+"Cacciare per qualsiasi ragione che non sia la sopravvivenza è solo un "
+"massacro."
+
+msgctxt "848_Okudera"
+msgid "I have you, your village, and the mountain to thank for that lesson."
+msgstr ""
+"Devo ringraziare te, il tuo villaggio e la montagna per quella lezione."
+
+msgctxt "860_Nishina"
+msgid "Wait, you're not...?"
+msgstr "Aspetta, tu non sei...?"
+
+msgctxt "872_Okudera"
+msgid ""
+"No. If I pull this trigger right now, then I'm no different from who I was "
+"ten years ago."
+msgstr ""
+"No. Se premo questo grilletto proprio adesso, allora non sono diverso da chi"
+" ero dieci anni fa."
+
+msgctxt "884_Okudera"
+msgid ""
+"Nishina-han, will you let me stick to my principles as a hunter? To prove "
+"I'm a better man now?"
+msgstr ""
+"Nishina-han, mi permetterai di attenermi ai miei principi di cacciatore? Per"
+" dimostrare che sono un uomo migliore adesso?"
+
+msgctxt "896_Nishina"
+msgid "Yes."
+msgstr "Sì."
