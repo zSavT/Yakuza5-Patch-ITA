@@ -42,22 +42,22 @@ Qui sotto è riportata la struttura dei file modificabili, con descrizione breve
     - [ ] Da valutare se tradurre
 - Yakuza 5\main\data\auth_telop\auth_telop_en.par
     - All'interno sono presenti alcuni sprite di caption del gioco.
-    - [ ] Tradotto
+    - [x] Tradotto
 - Yakuza 5\main\data\bootpar\boot_en.par
    - All'interno sono presenti alcuni file bin per i tips e spiegazioni del gioco
-   - [ ] Tradotto
+   - [x] Tradotto
 - Yakuza 5\main\data\fontpar\font_hd_en.par
    - All'interno sono presenti i dati per il font utilizzato del gioco
-   - [ ] Tradotto
+   - [x] Tradotto
 - Yakuza 5\main\data\minigame_en
    - All'interno sono presenti vari dati relativi ai minigiochi (Con anche le caption per le canzoni del karaoke)
-   - [ ] Da valutare se tradurre
+   - [x] Tradotto
 - Yakuza 5\main\data\pausepar
    - All'interno sono presenti tantissimi sprite relativi alle caption del gioco, ai menu ecc...
-   - [ ] Tradotto
+   - [x] Tradotto
 - Yakuza 5\main\data\staypar\stay_en.par\stay_en
    - All'interno sono presenti vari file bin con informazioni varie per mosse ed altro
-   - [ ] Da valutare se tradurre
+   - [x] Tradotto
 
 # Funzionamento estrazione PAR
 
@@ -179,9 +179,8 @@ Lista dei progetti di patch in italiano per i giochi della serie:
 - [Yakuza 0](https://letraduzionidirulesless.wordpress.com/yakuza0-2/)
     - Come indicato nell'introduzione, la patch di Yakuza 0 è l'unica completa al 100% (o quasi).
     - La versione Director's Cut, presenta la lingua italiana.
-- [Yakuza Kiwami 1 e 2](https://vittolarosa93.wixsite.com/kiwamivideo)
-    - L'autore ha rilasciato sul sito delle patch parziali dei giochi/video dimostrativi.
-    - Verrà pubblicata prossimamente una patch ufficiale con al suo interno anche la traduzione in italiano.
+- Yakuza Kiwami 1 e 2
+   - Ufficialmente tradotti in italiano nelle nuove versioni. 
 - [Yakuza 3 Remastered](https://vittolarosa93.wixsite.com/kiwamivideo)
     - L'autore ha rilasciato sul sito delle patch parziali del gioco/video dimostrativo.
     - Il remake del gioco (e non la remastered) sarà localizzato in italiano.
@@ -208,5 +207,6 @@ All game rights, intellectual property, logo/names and movies/images are propert
 # Altri progetti di traduzione realizzati da me
 [Valkyria Chronicles Patch ITA](https://github.com/zSavT/Valkyria-Chronicles-Patch-ITA)
 
+[SoulFlow Patch ITA](https://github.com/zSavT/SoulFlow-Patch-ITA)
 
 [Digimon Story Cyber Sleuth: Complete Edition](https://github.com/zSavT/Digimon-Story-Cyber-Sleuth-Patch-ITA.git)
