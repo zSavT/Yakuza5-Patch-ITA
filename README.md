@@ -6,6 +6,7 @@
 
 ![GitHub contributors](https://img.shields.io/github/contributors/zSavT/Yakuza5-Patch-ITA)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/zSavT/Yakuza5-Patch-ITA/total)
+[![Static Badge](https://img.shields.io/badge/Download%20Test%20Version-Clicca%20qui-light_green)](https://github.com/zSavT/Yakuza5-Patch-ITA/releases/tag/v0.1.0-beta)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/verio12)
 
 
