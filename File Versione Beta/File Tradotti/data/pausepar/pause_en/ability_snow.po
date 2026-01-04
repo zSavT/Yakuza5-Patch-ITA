@@ -22,7 +22,7 @@ msgstr "Pupazzo di Neve"
 
 msgctxt "298\tSKILL_NAME"
 msgid "Spotter"
-msgstr "Osservatore"
+msgstr "Avvistatore"
 
 msgctxt "306\tSKILL_NAME"
 msgid "Stealth"
@@ -30,7 +30,7 @@ msgstr "Furtività"
 
 msgctxt "314\tSKILL_NAME"
 msgid "Deadeye"
-msgstr "Occhio di Falco"
+msgstr "Mira Perfetta"
 
 msgctxt "322\tSKILL_NAME"
 msgid "Mastery"
@@ -38,19 +38,19 @@ msgstr "Maestria"
 
 msgctxt "330\tSKILL_EXPLANATION"
 msgid "Boost snow walking speed"
-msgstr "Aumenta la velocità di movimento nella neve"
+msgstr "Aumenta la velocità di camminata sulla neve"
 
 msgctxt "355\tSKILL_EXPLANATION"
 msgid "Cut blizzard health loss"
-msgstr "Riduce la perdita di salute da bufera"
+msgstr "Riduce la perdita di salute durante le bufere"
 
 msgctxt "380\tSKILL_EXPLANATION"
 msgid "See animals on minimap"
-msgstr "Vedi animali sulla minimappa"
+msgstr "Vedi gli animali sulla minimappa"
 
 msgctxt "403\tSKILL_EXPLANATION"
 msgid "Boost camo in crouch"
-msgstr "Aumenta la mimetica mentre sei accovacciato"
+msgstr "Aumenta la mimetizzazione da accovacciato"
 
 msgctxt "424\tSKILL_EXPLANATION"
 msgid "Boost aim"
@@ -58,4 +58,4 @@ msgstr "Potenzia la mira"
 
 msgctxt "434\tSKILL_EXPLANATION"
 msgid "Boost aim/decrease health loss"
-msgstr "Migliora la mira/Diminuisce la perdita di salute"
+msgstr "Potenzia la mira/Diminuisce la perdita di salute"
