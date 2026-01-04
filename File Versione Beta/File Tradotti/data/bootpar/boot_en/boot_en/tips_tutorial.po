@@ -66,7 +66,7 @@ msgstr "Suggerimenti"
 
 msgctxt "1817\tTIPS_NAME"
 msgid "Memos"
-msgstr "Memos"
+msgstr "Memo"
 
 msgctxt "1823\tTIPS_NAME"
 msgid "Save Points"
@@ -78,7 +78,7 @@ msgstr "Icone Azione"
 
 msgctxt "1848\tTIPS_NAME"
 msgid "Health Recovery"
-msgstr "Recupero salute"
+msgstr "Recupero Salute"
 
 msgctxt "1864\tTIPS_NAME"
 msgid "Changing Characters"
@@ -90,7 +90,7 @@ msgstr "Mettere insieme i soldi, ecc."
 
 msgctxt "1904\tTIPS_NAME"
 msgid "Skipping Messages"
-msgstr "Saltare i messaggi"
+msgstr "Saltare i Messaggi"
 
 msgctxt "1922\tTIPS_NAME"
 msgid "<Action:Button_R1@Adventure> and <Action:Button_R3@Adventure> Buttons"
@@ -118,7 +118,7 @@ msgstr "Oggetti Equipaggiati 2"
 
 msgctxt "2064\tTIPS_NAME"
 msgid "Valuables"
-msgstr "Rarità"
+msgstr "Oggetti di Valore"
 
 msgctxt "2074\tTIPS_NAME"
 msgid "Encounters"
@@ -130,7 +130,7 @@ msgstr "Evitare Incontri"
 
 msgctxt "2105\tTIPS_NAME"
 msgid "Substories"
-msgstr "Sottotrame"
+msgstr "Sottostorie"
 
 msgctxt "2117\tTIPS_NAME"
 msgid "Resolved\" and \"Done\""
@@ -146,7 +146,7 @@ msgstr "Seconda Barra della Salute"
 
 msgctxt "2178\tTIPS_NAME"
 msgid "Eating to Enhance Ability"
-msgstr "Mangiare per potenziare le abilità"
+msgstr "Mangiare per Potenziare le Abilità"
 
 msgctxt "2204\tTIPS_NAME"
 msgid "Purchasing Items"
@@ -158,7 +158,7 @@ msgstr "Mostra Destinazioni"
 
 msgctxt "2242\tTIPS_NAME"
 msgid "Time of Day"
-msgstr "Ora del giorno"
+msgstr "Ora del Giorno"
 
 msgctxt "2254\tTIPS_NAME"
 msgid "Passersby"
@@ -166,11 +166,11 @@ msgstr "Passanti"
 
 msgctxt "2264\tTIPS_NAME"
 msgid "Inebriation "
-msgstr "Ebrezza"
+msgstr "Ebbrezza"
 
 msgctxt "2277\tTIPS_NAME"
 msgid "Getting Sober"
-msgstr "Diventare sobrio"
+msgstr "Diventare Sobrio"
 
 msgctxt "2291\tTIPS_NAME"
 msgid "Taxis"
@@ -178,7 +178,7 @@ msgstr "Taxi"
 
 msgctxt "2297\tTIPS_NAME"
 msgid "Moving Between Cities"
-msgstr "Spostarsi tra le città"
+msgstr "Spostarsi tra le Città"
 
 msgctxt "2319\tTIPS_NAME"
 msgid "First-Person Perspective"
@@ -186,11 +186,11 @@ msgstr "Prospettiva in Prima Persona"
 
 msgctxt "2344\tTIPS_NAME"
 msgid "Coin Lockers"
-msgstr "Armadietti a monete"
+msgstr "Armadietti a Monete"
 
 msgctxt "2357\tTIPS_NAME"
 msgid "Picking Up Garbage"
-msgstr "Raccogliere spazzatura"
+msgstr "Raccogliere Spazzatura"
 
 msgctxt "2376\tTIPS_NAME"
 msgid "Treasure Maps"
@@ -198,15 +198,15 @@ msgstr "Mappe del Tesoro"
 
 msgctxt "2390\tTIPS_NAME"
 msgid "Prize Tickets"
-msgstr "Biglietti premio"
+msgstr "Biglietti Premio"
 
 msgctxt "2404\tTIPS_NAME"
 msgid "Receiving Items"
-msgstr "Ricezione oggetti"
+msgstr "Ricezione Oggetti"
 
 msgctxt "2420\tTIPS_NAME"
 msgid "Haruka's Requests"
-msgstr "Le richieste di Haruka"
+msgstr "Le Richieste di Haruka"
 
 msgctxt "2438\tTIPS_NAME"
 msgid "Fighting Stance"
@@ -214,7 +214,7 @@ msgstr "Posizione di Lotta"
 
 msgctxt "2454\tTIPS_NAME"
 msgid "Grabbing Enemies"
-msgstr "Afferrare i nemici"
+msgstr "Afferrare i Nemici"
 
 msgctxt "2471\tTIPS_NAME"
 msgid "Finishing Moves"
@@ -254,11 +254,11 @@ msgstr "Attacco Pesante"
 
 msgctxt "2576\tTIPS_NAME"
 msgid "Turning Attack"
-msgstr "Attacco in rotazione"
+msgstr "Attacco in Rotazione"
 
 msgctxt "2591\tTIPS_NAME"
 msgid "Heat Actions"
-msgstr "Azioni Heat"
+msgstr "Heat Action"
 
 msgctxt "2604\tTIPS_NAME"
 msgid "Climax Heat"
@@ -266,11 +266,11 @@ msgstr "Heat Climax"
 
 msgctxt "2616\tTIPS_NAME"
 msgid "Building Up the Heat Gauge"
-msgstr "Accumulare la barra Heat"
+msgstr "Accumulare la Barra Heat"
 
 msgctxt "2643\tTIPS_NAME"
 msgid "Enhancing Heat Actions"
-msgstr "Potenziare le Mosse Calore"
+msgstr "Potenziare le Heat Action"
 
 msgctxt "2666\tTIPS_NAME"
 msgid "Stun"
@@ -278,7 +278,7 @@ msgstr "Stordimento"
 
 msgctxt "2671\tTIPS_NAME"
 msgid "Demoralizing Enemies"
-msgstr "Demoralizzare i nemici"
+msgstr "Demoralizzare i Nemici"
 
 msgctxt "2692\tTIPS_NAME"
 msgid "Enemy Reinforcements"
@@ -286,7 +286,7 @@ msgstr "Rinforzi Nemici"
 
 msgctxt "2713\tTIPS_NAME"
 msgid "Fleeing Enemies"
-msgstr "Nemici in fuga"
+msgstr "Nemici in Fuga"
 
 msgctxt "2729\tTIPS_NAME"
 msgid "Enraged Enemies"
@@ -310,7 +310,7 @@ msgstr "Il Colosseo"
 
 msgctxt "2803\tTIPS_NAME"
 msgid "Victory Road"
-msgstr "Strada della Vittoria"
+msgstr "Victory Road"
 
 msgctxt "2816\tTIPS_NAME"
 msgid "IF8"
@@ -322,7 +322,7 @@ msgstr "Raccogliere Armi"
 
 msgctxt "2839\tTIPS_NAME"
 msgid "Weapon Attacks"
-msgstr "Attacchi con armi"
+msgstr "Attacchi con Armi"
 
 msgctxt "2854\tTIPS_NAME"
 msgid "Obtaining Weapons"
@@ -330,7 +330,7 @@ msgstr "Ottenere Armi"
 
 msgctxt "2872\tTIPS_NAME"
 msgid "Equipping Weapons"
-msgstr "Equipaggiare le armi"
+msgstr "Equipaggiare le Armi"
 
 msgctxt "2890\tTIPS_NAME"
 msgid "Changing Weapons"
@@ -338,19 +338,19 @@ msgstr "Cambiare Armi"
 
 msgctxt "2907\tTIPS_NAME"
 msgid "Weapon Skill"
-msgstr "Abilità con le armi"
+msgstr "Abilità con le Armi"
 
 msgctxt "2920\tTIPS_NAME"
 msgid "Durability"
-msgstr "Durata nel tempo"
+msgstr "Durata nel Tempo"
 
 msgctxt "2931\tTIPS_NAME"
 msgid "Kicking Objects"
-msgstr "Calciare oggetti"
+msgstr "Calciare Oggetti"
 
 msgctxt "2947\tTIPS_NAME"
 msgid "Kamiyama Works"
-msgstr "Opere di Kamiyama"
+msgstr "Kamiyama Works"
 
 msgctxt "2962\tTIPS_NAME"
 msgid "Repair Kits"
@@ -362,7 +362,7 @@ msgstr "Spirito del Drago"
 
 msgctxt "2988\tTIPS_NAME"
 msgid "Charge Attack"
-msgstr "Attacco caricato"
+msgstr "Attacco Caricato"
 
 msgctxt "3002\tTIPS_NAME"
 msgid "Tiger Puppetry"
@@ -370,7 +370,7 @@ msgstr "Marionettismo della Tigre"
 
 msgctxt "3017\tTIPS_NAME"
 msgid "Launch Strike"
-msgstr "Colpo di lancio"
+msgstr "Colpo di Lancio"
 
 msgctxt "3031\tTIPS_NAME"
 msgid "My Meteor Tackle"
@@ -386,19 +386,19 @@ msgstr "Salto"
 
 msgctxt "3070\tTIPS_NAME"
 msgid "Sidestepping"
-msgstr "Schivata laterale"
+msgstr "Schivata Laterale"
 
 msgctxt "3083\tTIPS_NAME"
 msgid "Items During Chases"
-msgstr "Oggetti durante gli inseguimenti"
+msgstr "Oggetti durante gli Inseguimenti"
 
 msgctxt "3103\tTIPS_NAME"
 msgid "Throwing Attacks"
-msgstr "Attacchi di lancio"
+msgstr "Attacchi di Lancio"
 
 msgctxt "3120\tTIPS_NAME"
 msgid "The Devil Killers"
-msgstr "I Diavoli Assassini"
+msgstr "I Devil Killers"
 
 msgctxt "3138\tTIPS_NAME"
 msgid "Taxi Driver"
@@ -414,7 +414,7 @@ msgstr "Cacciatore e Assassino"
 
 msgctxt "3182\tTIPS_NAME"
 msgid "Princess League"
-msgstr "Lega delle Principesse"
+msgstr "Princess League"
 
 msgctxt "3198\tTIPS_NAME"
 msgid "Jobs"
@@ -446,7 +446,7 @@ msgstr "Allenamento di Yoko"
 
 msgctxt "3295\tTIPS_NAME"
 msgid "Haruka's Wages"
-msgstr "I salari di Haruka"
+msgstr "I Salari di Haruka"
 
 msgctxt "3310\tTIPS_NAME"
 msgid "Job and Event Difficulty"
@@ -458,7 +458,7 @@ msgstr "Abbandonare Incarichi e Battaglie"
 
 msgctxt "3361\tTIPS_NAME"
 msgid "Batting Center"
-msgstr "Centro di battuta"
+msgstr "Centro di Battuta"
 
 msgctxt "3376\tTIPS_NAME"
 msgid "Coach Igarashi"
@@ -466,7 +466,7 @@ msgstr "Allenatore Igarashi"
 
 msgctxt "3391\tTIPS_NAME"
 msgid "Equipping Baseball Gear"
-msgstr "Equipaggiare l'attrezzatura da baseball"
+msgstr "Equipaggiare l'Attrezzatura da Baseball"
 
 msgctxt "5047\tTIPS_EXPLANATION"
 msgid ""
@@ -555,7 +555,7 @@ msgstr ""
 "Quando i personaggi principali si ritrovano al New Serena, diventa possibile"
 " passare da uno all'altro. I tuoi soldi, così come i punti guadagnati ai "
 "casinò o al Colosseo, vengono messi in comune, insieme agli oggetti "
-"conservati nella Cassa oggetti."
+"conservati nella Cassa Oggetti."
 
 msgctxt "6833\tTIPS_EXPLANATION"
 msgid ""

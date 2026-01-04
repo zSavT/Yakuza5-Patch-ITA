@@ -22,7 +22,6 @@ msgid ""
 "(Please be aware that if you do not save the System Data, then you may lose settings and game clear information.)"
 msgstr ""
 "Continuare il gioco senza salvare i Dati di Sistema?\n"
-"\n"
 "(Tieni presente che se non salvi i Dati di Sistema, potresti perdere le impostazioni e le informazioni di completamento del gioco.)"
 
 msgctxt "0\t353\t2\tCHK"
@@ -34,8 +33,8 @@ msgid ""
 "If you do not save the Clear Data, then the additional menus that appear after a clear will not be saved.\n"
 "Return to title without saving Clear Data?"
 msgstr ""
-"Se non salvi i Dati Clear, i menu aggiuntivi che compaiono dopo il completamento non verranno salvati.\n"
-"Ritornare al titolo senza salvare i Dati Clear?"
+"Se non salvi i Dati di Completamento, i menu aggiuntivi che compaiono dopo il completamento non verranno salvati.\n"
+"Ritornare al titolo senza salvare i Dati di Completamento?"
 
 msgctxt "0\t527\t4\tCHK"
 msgid "Delete other data?"
@@ -63,11 +62,11 @@ msgstr ""
 "Creerai i dati che verranno usati per la modalità post-completamento appena sbloccata.\n"
 "Questo salverà tutti gli elementi, ma se inizi una \"Nuova Partita con Dati Completati\", allora elementi come l'avanzamento delle sottostorie non verranno salvati.\n"
 "Si raccomanda di creare un nuovo file di salvataggio. Tienine conto quando sovrascrivi un file di salvataggio esistente.\n"
-"Salvare questi Dati Completati?"
+"Salvare questi Dati Completati? "
 
 msgctxt "0\t1038\t8\tCHK"
 msgid "Received \"Gion Bell\" as a present."
-msgstr "Hai ricevuto \"Campana Gion\" in regalo."
+msgstr "Hai ricevuto \"Campana di Gion\" in regalo."
 
 msgctxt "0\t1073\t9\tCHK"
 msgid "Received \"Nishikigoi Amulet\" as a present."
@@ -79,7 +78,7 @@ msgstr "Hai ricevuto il \"Legame del Drago Giallo\" in regalo."
 
 msgctxt "0\t1165\t11\tCHK"
 msgid "Received \"Morning Glory Scarf\" as a present."
-msgstr "Ricevuto \"Sciarpa Gloria del Mattino\" in regalo."
+msgstr "Ricevuto \"Sciarpa Morning Glory\" in regalo."
 
 msgctxt "0\t1210\t12\tCHK"
 msgid "No new updates found."
@@ -215,7 +214,7 @@ msgstr "Non ci sono dati di sistema."
 
 msgctxt "0\t2049\t37\tCHK"
 msgid "There is no Clear Data."
-msgstr "Non ci sono dati puliti."
+msgstr "Non ci sono Dati di Completamento."
 
 msgctxt "0\t2073\t38\tCHK"
 msgid "YAKUZA 5"
@@ -248,7 +247,7 @@ msgstr "Difficile"
 
 msgctxt "0\t2238\t44\tCHK"
 msgid "Legend"
-msgstr "Legenda"
+msgstr "Leggenda"
 
 msgctxt "0\t2245\t45\tCHK"
 msgid "The 7th Omi Alliance Captain Watase Masaru"
@@ -268,7 +267,7 @@ msgstr "Gran Premio del Maestro d'Armi"
 
 msgctxt "0\t2355\t49\tCHK"
 msgid "Street Fight Grand Prix"
-msgstr "Gran Premio di Street Fight"
+msgstr "Gran Premio di Rissa da Strada"
 
 msgctxt "0\t2379\t50\tCHK"
 msgid "Limited Berserk"
@@ -296,11 +295,11 @@ msgstr "Gran Premio dell'Arena Leggendaria"
 
 msgctxt "0\t2482\t56\tCHK"
 msgid "Heat Bomber Grand Prix"
-msgstr "Heat Bomber Gran Premio"
+msgstr "Gran Premio Heat Bomber"
 
 msgctxt "0\t2505\t57\tCHK"
 msgid "Victory Road Finals Tournament"
-msgstr "Torneo Finale della Via della Vittoria"
+msgstr "Torneo Finale della Victory Road"
 
 msgctxt "0\t2536\t58\tCHK"
 msgid "Round 1"
@@ -336,7 +335,7 @@ msgid ""
 "Received \"Gold Plate\" as a present."
 msgstr ""
 "Dati di sistema da Fist of the North Star: Lost Paradise sono stati trovati.\n"
-"Ottenuta \"Placca d'oro\" in regalo."
+"Ottenuta \"Placca d'Oro\" in regalo."
 
 msgctxt "0\t2809\t65\tCHK"
 msgid "Equipment Confirmation"
@@ -376,7 +375,7 @@ msgid ""
 "Received \"Gold Plate\" as a present."
 msgstr ""
 "Dati di sistema di Judgment sono stati trovati.\n"
-"Ricevuto \"Piatto d'oro\" in regalo."
+"Ricevuto \"Piatto d'Oro\" in regalo."
 
 msgctxt "0\t2991\t74\tCHK"
 msgid "Yahata"
@@ -412,7 +411,7 @@ msgstr "Mira"
 
 msgctxt "0\t3051\t82\tCHK"
 msgid "Adjust Position / Spin Level Down"
-msgstr "Regola Posizione / Abbassa livello rotazione"
+msgstr "Regola Posizione / Abbassa Livello Rotazione"
 
 msgctxt "0\t3085\t83\tCHK"
 msgid "Adjust Position / Spin Level Left"
@@ -420,7 +419,7 @@ msgstr "Regola Posizione / Gira Livello a Sinistra"
 
 msgctxt "0\t3119\t84\tCHK"
 msgid "Adjust Position / Spin Level Right"
-msgstr "Regola posizione / Livello di rotazione a destra"
+msgstr "Regola Posizione / Livello di Rotazione a Destra"
 
 msgctxt "0\t3154\t85\tCHK"
 msgid "Adjust Position / Spin Level Up"
@@ -444,7 +443,7 @@ msgstr "Regola Traiettoria / Posizionamento Palla a Sinistra"
 
 msgctxt "0\t3311\t90\tCHK"
 msgid "Adjust Trajectory / Ball Placement Right"
-msgstr "Regola traiettoria / Posizionamento Palla Destra"
+msgstr "Regola Traiettoria / Posizionamento Palla Destra"
 
 msgctxt "0\t3352\t91\tCHK"
 msgid "Adjust Trajectory / Ball Placement Up"
@@ -460,11 +459,11 @@ msgstr "Colpo"
 
 msgctxt "0\t3411\t94\tCHK"
 msgid "Camera Control Down"
-msgstr "Controllo telecamera giù"
+msgstr "Controllo Telecamera Giù"
 
 msgctxt "0\t3431\t95\tCHK"
 msgid "Camera Control Left"
-msgstr "Controllo telecamera (sinistra)"
+msgstr "Controllo Telecamera Sinistra"
 
 msgctxt "0\t3451\t96\tCHK"
 msgid "Camera Control Right"
@@ -480,15 +479,15 @@ msgstr "Annulla"
 
 msgctxt "0\t3497\t99\tCHK"
 msgid "Cancel / Close Item Screen"
-msgstr "Annulla / Chiudi Schermata oggetti"
+msgstr "Annulla / Chiudi Schermata Oggetti"
 
 msgctxt "0\t3524\t100\tCHK"
 msgid "Cancel / Close Item Use Screen / Close Item Screen"
-msgstr "Annulla / Chiudi schermata uso oggetti / Chiudi schermata oggetti"
+msgstr "Annulla / Chiudi Schermata Uso Oggetti / Chiudi Schermata Oggetti"
 
 msgctxt "0\t3575\t101\tCHK"
 msgid "Cancel / Roll History / Close Item Screen"
-msgstr "Annulla / Cronologia lanci / Chiudi schermata oggetti"
+msgstr "Annulla / Cronologia Lanci / Chiudi Schermata Oggetti"
 
 msgctxt "0\t3617\t102\tCHK"
 msgid "Center View "
@@ -500,7 +499,7 @@ msgstr "Cambia Visualizzazione Punteggio"
 
 msgctxt "0\t3651\t104\tCHK"
 msgid "Change Shot Direction"
-msgstr "Cambia direzione sparo"
+msgstr "Cambia Direzione Sparo"
 
 msgctxt "0\t3673\t105\tCHK"
 msgid "Change Shot Range"
@@ -520,7 +519,7 @@ msgstr "Cambia Visuale Destra"
 
 msgctxt "0\t3738\t109\tCHK"
 msgid "Character Movement Down"
-msgstr "Movimento personaggio giù"
+msgstr "Movimento Personaggio Giù"
 
 msgctxt "0\t3762\t110\tCHK"
 msgid "Character Movement Left"
@@ -532,7 +531,7 @@ msgstr "Movimento Personaggio Destra"
 
 msgctxt "0\t3811\t112\tCHK"
 msgid "Character Movement Up"
-msgstr "Movimento personaggio su"
+msgstr "Movimento Personaggio Su"
 
 msgctxt "0\t3833\t113\tCHK"
 msgid "Chase Heat Action"
@@ -548,7 +547,7 @@ msgstr "Applaudi"
 
 msgctxt "0\t3870\t116\tCHK"
 msgid "Confirm / Pull Rod"
-msgstr "Conferma / Tira la canna"
+msgstr "Conferma / Tira la Canna"
 
 msgctxt "0\t3889\t117\tCHK"
 msgid "Confirm Bet"
@@ -564,11 +563,11 @@ msgstr "Controlli"
 
 msgctxt "0\t3934\t120\tCHK"
 msgid "Dash"
-msgstr "Trattino"
+msgstr "Scatto"
 
 msgctxt "0\t3939\t121\tCHK"
 msgid "Decrease Gauge"
-msgstr "Diminuisci indicatore"
+msgstr "Diminuisci Indicatore"
 
 msgctxt "0\t3954\t122\tCHK"
 msgid "Display 10 Frames"
@@ -576,7 +575,7 @@ msgstr "Mostra 10 Fotogrammi"
 
 msgctxt "0\t3972\t123\tCHK"
 msgid "Display / Hide Ball Number"
-msgstr "Mostra / Nascondi Numero palla"
+msgstr "Mostra / Nascondi Numero Palla"
 
 msgctxt "0\t3999\t124\tCHK"
 msgid "Display / Hide Info"
@@ -616,15 +615,15 @@ msgstr "Mossa Finale A"
 
 msgctxt "0\t4161\t133\tCHK"
 msgid "Finisher A - Left"
-msgstr "Mossa finale A - Sinistra"
+msgstr "Mossa Finale A - Sinistra"
 
 msgctxt "0\t4179\t134\tCHK"
 msgid "Finisher A - Right"
-msgstr "Mossa finale A - Destra"
+msgstr "Mossa Finale A - Destra"
 
 msgctxt "0\t4198\t135\tCHK"
 msgid "Finisher B"
-msgstr "Mossa finale B"
+msgstr "Mossa Finale B"
 
 msgctxt "0\t4209\t136\tCHK"
 msgid "Finisher B - Left"
@@ -632,7 +631,7 @@ msgstr "Mossa Finale B - Sinistra"
 
 msgctxt "0\t4227\t137\tCHK"
 msgid "Finisher B - Right"
-msgstr "Mossa finale B - Destra"
+msgstr "Mossa Finale B - Destra"
 
 msgctxt "0\t4246\t138\tCHK"
 msgid "First Person View "
@@ -640,7 +639,7 @@ msgstr "Visuale in Prima Persona"
 
 msgctxt "0\t4265\t139\tCHK"
 msgid "Focus"
-msgstr "Metti a fuoco"
+msgstr "Metti a Fuoco"
 
 msgctxt "0\t4271\t140\tCHK"
 msgid "Forward"
@@ -648,11 +647,11 @@ msgstr "Avanti"
 
 msgctxt "0\t4279\t141\tCHK"
 msgid "Give Reel Slack"
-msgstr "Dai filo"
+msgstr "Dai Filo"
 
 msgctxt "0\t4295\t142\tCHK"
 msgid "Guard / Change Grab Type"
-msgstr "Parata / Cambia tipo di presa"
+msgstr "Parata / Cambia Tipo di Presa"
 
 msgctxt "0\t4320\t143\tCHK"
 msgid "Help"
@@ -660,11 +659,11 @@ msgstr "Aiuto"
 
 msgctxt "0\t4325\t144\tCHK"
 msgid "Hide / Drop Weapon"
-msgstr "Riponi / Abbandona arma"
+msgstr "Riponi / Abbandona Arma"
 
 msgctxt "0\t4344\t145\tCHK"
 msgid "Increase Gauge"
-msgstr "Aumenta barra"
+msgstr "Aumenta Barra"
 
 msgctxt "0\t4359\t146\tCHK"
 msgid "Insert Coin"
@@ -684,7 +683,7 @@ msgstr "Linea"
 
 msgctxt "0\t4386\t150\tCHK"
 msgid "Look Back while Dashing"
-msgstr "Guarda indietro mentre scatti"
+msgstr "Guarda Indietro mentre Scatti"
 
 msgctxt "0\t4410\t151\tCHK"
 msgid "Look Back while Dashing (Right)"
@@ -728,11 +727,11 @@ msgstr "Sposta Telecamera (Sinistra)"
 
 msgctxt "0\t4587\t161\tCHK"
 msgid "Move Camera (Right)"
-msgstr "Muovi telecamera (Destra)"
+msgstr "Muovi Telecamera (Destra)"
 
 msgctxt "0\t4607\t162\tCHK"
 msgid "Move Camera Left"
-msgstr "Sposta telecamera a sinistra"
+msgstr "Sposta Telecamera a Sinistra"
 
 msgctxt "0\t4624\t163\tCHK"
 msgid "Move Camera Right"
@@ -768,7 +767,7 @@ msgstr "Sposta Cursore (Destra) / Cambia Categoria (Destra)"
 
 msgctxt "0\t4847\t171\tCHK"
 msgid "Move Cursor (Up)"
-msgstr "Sposta cursore (Su)"
+msgstr "Sposta Cursore (Su)"
 
 msgctxt "0\t4864\t172\tCHK"
 msgid "Move Cursor (Up) / Change Category (Up) "
@@ -784,7 +783,7 @@ msgstr "Sposta Cursore / Cambia Puntata Sinistra"
 
 msgctxt "0\t4965\t175\tCHK"
 msgid "Move Cursor / Change Bet Right"
-msgstr "Sposta cursore / Cambia puntata a destra"
+msgstr "Sposta Cursore / Cambia Puntata a Destra"
 
 msgctxt "0\t4996\t176\tCHK"
 msgid "Move Cursor / Change Bet Up"
@@ -796,11 +795,11 @@ msgstr "Sposta Cursore Giù / Cambia Categoria Giù"
 
 msgctxt "0\t5064\t178\tCHK"
 msgid "Move Cursor Left / Change Category Left"
-msgstr "Sposta cursore a sinistra / Cambia categoria a sinistra"
+msgstr "Sposta Cursore a Sinistra / Cambia Categoria a Sinistra"
 
 msgctxt "0\t5104\t179\tCHK"
 msgid "Move Cursor Right / Change Category Right"
-msgstr "Sposta cursore a destra / Cambia categoria a destra"
+msgstr "Sposta Cursore a Destra / Cambia Categoria a Destra"
 
 msgctxt "0\t5146\t180\tCHK"
 msgid "Move Cursor Up / Change Category Up"
@@ -824,7 +823,7 @@ msgstr "Sposta Cursore / Alza Canna"
 
 msgctxt "0\t5273\t185\tCHK"
 msgid "Move Cursor Down"
-msgstr "Sposta il cursore in basso"
+msgstr "Sposta il Cursore in Basso"
 
 msgctxt "0\t5290\t186\tCHK"
 msgid "Move Cursor Left"
@@ -836,23 +835,23 @@ msgstr "Sposta Cursore Destra"
 
 msgctxt "0\t5325\t188\tCHK"
 msgid "Move Cursor Up"
-msgstr "Sposta cursore su"
+msgstr "Sposta Cursore Su"
 
 msgctxt "0\t5340\t189\tCHK"
 msgid "Move Down"
-msgstr "Sposta giù"
+msgstr "Sposta Giù"
 
 msgctxt "0\t5350\t190\tCHK"
 msgid "Move Up"
-msgstr "Sposta su"
+msgstr "Sposta Su"
 
 msgctxt "0\t5358\t191\tCHK"
 msgid "Move Left"
-msgstr "Muovi a sinistra"
+msgstr "Muovi a Sinistra"
 
 msgctxt "0\t5368\t192\tCHK"
 msgid "Move Right"
-msgstr "Muovi a destra"
+msgstr "Muovi a Destra"
 
 msgctxt "0\t5379\t193\tCHK"
 msgid "Move Ship Down"
@@ -888,7 +887,7 @@ msgstr "Raccogli / Lancia"
 
 msgctxt "0\t5497\t201\tCHK"
 msgid "Place the Same Bet"
-msgstr "Piazza la stessa puntata"
+msgstr "Piazza la Stessa Puntata"
 
 msgctxt "0\t5516\t202\tCHK"
 msgid "Quickstep"
@@ -896,7 +895,7 @@ msgstr "Passo Rapido"
 
 msgctxt "0\t5526\t203\tCHK"
 msgid "Quickturn"
-msgstr "Giro rapido"
+msgstr "Giro Rapido"
 
 msgctxt "0\t5536\t204\tCHK"
 msgid "Quit / Back"
@@ -916,7 +915,7 @@ msgstr "Controlli Tabella Risultati"
 
 msgctxt "0\t5591\t208\tCHK"
 msgid "Return to Title menu"
-msgstr "Torna al menu Iniziale"
+msgstr "Torna al Menu Iniziale"
 
 msgctxt "0\t5612\t209\tCHK"
 msgid "Reverse Up and Down"
@@ -1080,7 +1079,7 @@ msgstr "Visualizza Controlli "
 
 msgctxt "0\t6256\t249\tCHK"
 msgid "View Hands"
-msgstr "Visualizza le mani"
+msgstr "Visualizza le Mani"
 
 msgctxt "0\t6267\t250\tCHK"
 msgid "View Tutorial"
@@ -1108,7 +1107,7 @@ msgstr "Ritira Alt."
 
 msgctxt "0\t6398\t256\tCHK"
 msgid "Release Reel"
-msgstr "Filmato di lancio"
+msgstr "Rilascia Mulinello"
 
 msgctxt "0\t6411\t257\tCHK"
 msgid "Release Reel Alt."
@@ -1124,11 +1123,11 @@ msgstr "Bobina di Rilascio (Velocità Doppia)"
 
 msgctxt "0\t6482\t260\tCHK"
 msgid "Replenish Snowballs"
-msgstr "Rifornisci palle di neve"
+msgstr "Rifornisci Palle di Neve"
 
 msgctxt "0\t6502\t261\tCHK"
 msgid "Throw Snowball"
-msgstr "Lancia Palla di neve"
+msgstr "Lancia Palla di Neve"
 
 msgctxt "0\t6517\t262\tCHK"
 msgid "Throw Scattershot"
@@ -1136,11 +1135,11 @@ msgstr "Lancia Colpo a Dispersione"
 
 msgctxt "0\t6535\t263\tCHK"
 msgid "Move Camera (Up)"
-msgstr "Sposta telecamera (Su)"
+msgstr "Sposta Telecamera (Su)"
 
 msgctxt "0\t6552\t264\tCHK"
 msgid "Move Camera (Down)"
-msgstr "Sposta telecamera (Giù)"
+msgstr "Sposta Telecamera (Giù)"
 
 msgctxt "0\t6571\t265\tCHK"
 msgid "Run (Double-tap to Dodge)"
@@ -1148,11 +1147,11 @@ msgstr "Corri (Doppio tocco per schivare)"
 
 msgctxt "0\t6597\t266\tCHK"
 msgid "Peek Left"
-msgstr "Sbircia a sinistra"
+msgstr "Sbircia a Sinistra"
 
 msgctxt "0\t6607\t267\tCHK"
 msgid "Peek Right"
-msgstr "Sbircia a destra"
+msgstr "Sbircia a Destra"
 
 msgctxt "0\t6618\t268\tCHK"
 msgid "Shoot Beam"
@@ -1160,7 +1159,7 @@ msgstr "Spara Raggio"
 
 msgctxt "0\t6629\t269\tCHK"
 msgid "Hit"
-msgstr "Colpire"
+msgstr "Colpisci"
 
 msgctxt "0\t6633\t270\tCHK"
 msgid "Stare Mode"
@@ -1200,7 +1199,7 @@ msgstr "Posa 4"
 
 msgctxt "0\t6742\t279\tCHK"
 msgid "Preselect Frame"
-msgstr "Cornice preselezionata"
+msgstr "Cornice Preselezionata"
 
 msgctxt "0\t6758\t280\tCHK"
 msgid "Remove Noodles"
@@ -1208,7 +1207,7 @@ msgstr "Rimuovi Noodle"
 
 msgctxt "0\t6773\t281\tCHK"
 msgid "Remove Noodles 1"
-msgstr "Rimuovi i noodles 1"
+msgstr "Rimuovi i Noodles 1"
 
 msgctxt "0\t6790\t282\tCHK"
 msgid "Remove Noodles 2"
@@ -1248,11 +1247,11 @@ msgstr "Schivata"
 
 msgctxt "0\t6906\t291\tCHK"
 msgid "Fire Gun"
-msgstr "Spara pistola"
+msgstr "Spara Pistola"
 
 msgctxt "0\t6915\t292\tCHK"
 msgid "Melee Attack"
-msgstr "Attacco ravvicinato"
+msgstr "Attacco Ravvicinato"
 
 msgctxt "0\t6928\t293\tCHK"
 msgid "Strafe Move / Shoot"
@@ -1268,7 +1267,7 @@ msgstr "Comando NPC"
 
 msgctxt "0\t6967\t296\tCHK"
 msgid "Throw Out Bear Bait"
-msgstr "Lancia l'esca per orsi"
+msgstr "Lancia l'Esca per Orsi"
 
 msgctxt "0\t6987\t297\tCHK"
 msgid "Answer"
@@ -1284,7 +1283,7 @@ msgstr "Risposta: Giù"
 
 msgctxt "0\t7016\t300\tCHK"
 msgid "Answer Left"
-msgstr "Risposta a sinistra"
+msgstr "Risposta a Sinistra"
 
 msgctxt "0\t7028\t301\tCHK"
 msgid "Answer Right"
@@ -1312,11 +1311,11 @@ msgstr "Riposiziona"
 
 msgctxt "0\t7101\t307\tCHK"
 msgid "Toggle Blinkers Left"
-msgstr "Alterna frecce sinistra"
+msgstr "Alterna Frecce Sinistra"
 
 msgctxt "0\t7122\t308\tCHK"
 msgid "Toggle Blinkers Right"
-msgstr "Attiva/Disattiva frecce destra"
+msgstr "Attiva/Disattiva Frecce Destra"
 
 msgctxt "0\t7144\t309\tCHK"
 msgid "Horn"
@@ -1324,7 +1323,7 @@ msgstr "Clacson"
 
 msgctxt "0\t7149\t310\tCHK"
 msgid "Turbo"
-msgstr "Conchiglia turbo"
+msgstr "Turbo"
 
 msgctxt "0\t7155\t311\tCHK"
 msgid "Drift"
@@ -1340,43 +1339,43 @@ msgstr "Evita"
 
 msgctxt "0\t7184\t314\tCHK"
 msgid "Move the Swing Cursor Up"
-msgstr "Sposta il cursore dell'oscillazione su"
+msgstr "Sposta il Cursore dell'Oscillazione Su"
 
 msgctxt "0\t7209\t315\tCHK"
 msgid "Move the Swing Cursor Down"
-msgstr "Sposta il cursore dello swing giù"
+msgstr "Sposta il Cursore dello Swing Giù"
 
 msgctxt "0\t7236\t316\tCHK"
 msgid "Move the Swing Cursor Left"
-msgstr "Sposta il Cursore dello Swing a sinistra"
+msgstr "Sposta il Cursore dello Swing a Sinistra"
 
 msgctxt "0\t7263\t317\tCHK"
 msgid "Move the Swing Cursor Right"
-msgstr "Sposta il cursore dello swing a destra"
+msgstr "Sposta il Cursore dello Swing a Destra"
 
 msgctxt "0\t7291\t318\tCHK"
 msgid "Swing Up"
-msgstr "Slancio in alto"
+msgstr "Slancio in Alto"
 
 msgctxt "0\t7300\t319\tCHK"
 msgid "Swing Right"
-msgstr "Sferra a destra"
+msgstr "Sferra a Destra"
 
 msgctxt "0\t7312\t320\tCHK"
 msgid "Swing Down"
-msgstr "Colpo in basso"
+msgstr "Colpo in Basso"
 
 msgctxt "0\t7323\t321\tCHK"
 msgid "Swing Left"
-msgstr "Oscilla a sinistra"
+msgstr "Oscilla a Sinistra"
 
 msgctxt "0\t7334\t322\tCHK"
 msgid "Dance Move"
-msgstr "Mossa di ballo"
+msgstr "Mossa di Ballo"
 
 msgctxt "0\t7345\t323\tCHK"
 msgid "Dance Move 1"
-msgstr "Mossa di ballo 1"
+msgstr "Mossa di Ballo 1"
 
 msgctxt "0\t7358\t324\tCHK"
 msgid "Dance Move 2"
@@ -1384,7 +1383,7 @@ msgstr "Mossa di Ballo 2"
 
 msgctxt "0\t7371\t325\tCHK"
 msgid "Dance Move 3"
-msgstr "Mossa di ballo 3"
+msgstr "Mossa di Ballo 3"
 
 msgctxt "0\t7384\t326\tCHK"
 msgid "Dance Move 4"
@@ -1420,7 +1419,7 @@ msgstr "Cambio Vestiti"
 
 msgctxt "0\t7469\t334\tCHK"
 msgid "Shake Hands"
-msgstr "Stringere la mano"
+msgstr "Stringere la Mano"
 
 msgctxt "0\t7481\t335\tCHK"
 msgid "Flash a \"Wait a sec\" smile"
@@ -1452,7 +1451,7 @@ msgstr "Colpo Anteriore Destro"
 
 msgctxt "0\t7586\t342\tCHK"
 msgid "Lever Up"
-msgstr "Leva su"
+msgstr "Leva Su"
 
 msgctxt "0\t7595\t343\tCHK"
 msgid "Lever Down"
@@ -1460,7 +1459,7 @@ msgstr "Leva Giù"
 
 msgctxt "0\t7606\t344\tCHK"
 msgid "Lever Left"
-msgstr "Leva a sinistra"
+msgstr "Leva a Sinistra"
 
 msgctxt "0\t7617\t345\tCHK"
 msgid "Lever Right"
@@ -1496,19 +1495,19 @@ msgstr "P + K + G"
 
 msgctxt "0\t7663\t353\tCHK"
 msgid "Wave Hands Left"
-msgstr "Agita le mani a sinistra"
+msgstr "Agita le Mani a Sinistra"
 
 msgctxt "0\t7679\t354\tCHK"
 msgid "Wave Hands Right"
-msgstr "Agita le mani a destra"
+msgstr "Agita le Mani a Destra"
 
 msgctxt "0\t7696\t355\tCHK"
 msgid "Wave Hands Left Alt."
-msgstr "Agita le mani Alt Sinistro"
+msgstr "Agita le Mani Alt Sinistro"
 
 msgctxt "0\t7717\t356\tCHK"
 msgid "Wave Hands Right Alt."
-msgstr "Agitare le mani Alt Destro."
+msgstr "Agitare le Mani Alt Destro."
 
 msgctxt "0\t7739\t357\tCHK"
 msgid "Select Ball Up"
@@ -1532,11 +1531,11 @@ msgstr "Opzione Destra"
 
 msgctxt "0\t7806\t362\tCHK"
 msgid "Do Something"
-msgstr "Fai qualcosa"
+msgstr "Fai Qualcosa"
 
 msgctxt "0\t7819\t363\tCHK"
 msgid "Do Nothing"
-msgstr "Non fare nulla"
+msgstr "Non Fare Nulla"
 
 msgctxt "0\t7830\t364\tCHK"
 msgid "Super Take Back"
@@ -1544,23 +1543,23 @@ msgstr "Super Ripresa"
 
 msgctxt "0\t7846\t365\tCHK"
 msgid "Move pointer Up"
-msgstr "Sposta cursore su"
+msgstr "Sposta Cursore Su"
 
 msgctxt "0\t7862\t366\tCHK"
 msgid "Move pointer Down"
-msgstr "Sposta cursore giù"
+msgstr "Sposta Cursore Giù"
 
 msgctxt "0\t7880\t367\tCHK"
 msgid "Move pointer Left"
-msgstr "Sposta puntatore a sinistra"
+msgstr "Sposta Puntatore a Sinistra"
 
 msgctxt "0\t7898\t368\tCHK"
 msgid "Move pointer Right"
-msgstr "Sposta puntatore Destra"
+msgstr "Sposta Puntatore Destra"
 
 msgctxt "0\t7917\t369\tCHK"
 msgid "Display Rules"
-msgstr "Regole di visualizzazione"
+msgstr "Regole di Visualizzazione"
 
 msgctxt "0\t7931\t370\tCHK"
 msgid "Confirm Discarded Tiles"
@@ -1592,7 +1591,7 @@ msgstr "Seleziona Azione (Destra)"
 
 msgctxt "0\t8077\t377\tCHK"
 msgid "Place The Same Bet / Retrieve chips"
-msgstr "Punta la stessa cifra / Ritira fiches"
+msgstr "Punta la Stessa Cifra / Ritira Fiches"
 
 msgctxt "0\t8113\t378\tCHK"
 msgid "Move Result Sheet"
@@ -1628,7 +1627,7 @@ msgstr "Cambia Direzione"
 
 msgctxt "0\t8269\t386\tCHK"
 msgid "Change Direction Up"
-msgstr "Cambia direzione (su)"
+msgstr "Cambia Direzione (Su)"
 
 msgctxt "0\t8289\t387\tCHK"
 msgid "Change Direction Down"
@@ -1644,23 +1643,23 @@ msgstr "Cambia Direzione Destra"
 
 msgctxt "0\t8356\t390\tCHK"
 msgid "One-roll Triple"
-msgstr "Tris in un lancio"
+msgstr "Tris in un Lancio"
 
 msgctxt "0\t8372\t391\tCHK"
 msgid "Selecting Row Up"
-msgstr "Selezione riga su"
+msgstr "Selezione Riga Su"
 
 msgctxt "0\t8389\t392\tCHK"
 msgid "Selecting Row Down"
-msgstr "Scorrimento riga in basso"
+msgstr "Scorrimento Riga in Basso"
 
 msgctxt "0\t8408\t393\tCHK"
 msgid "Selecting Row Left"
-msgstr "Selezione riga sinistra"
+msgstr "Selezione Riga Sinistra"
 
 msgctxt "0\t8427\t394\tCHK"
 msgid "Selecting Row Right"
-msgstr "Selezione riga a destra"
+msgstr "Selezione Riga a Destra"
 
 msgctxt "0\t8447\t395\tCHK"
 msgid "Heat Move 1"
@@ -1688,15 +1687,15 @@ msgstr "Alternativa"
 
 msgctxt "0\t8512\t401\tCHK"
 msgid "Drop Kick"
-msgstr "Calcio in caduta"
+msgstr "Calcio in Caduta"
 
 msgctxt "0\t8522\t402\tCHK"
 msgid "Side-step Left"
-msgstr "Passo laterale Sinistra"
+msgstr "Passo Laterale Sinistra"
 
 msgctxt "0\t8537\t403\tCHK"
 msgid "Side-step Right"
-msgstr "Schivata a destra"
+msgstr "Schivata a Destra"
 
 msgctxt "0\t8553\t404\tCHK"
 msgid "Pause"
@@ -1704,7 +1703,7 @@ msgstr "Pausa"
 
 msgctxt "0\t8559\t405\tCHK"
 msgid "Open Pause Menu"
-msgstr "Apri menu di pausa"
+msgstr "Apri Menu di Pausa"
 
 msgctxt "0\t8575\t406\tCHK"
 msgid "Grab / Throw / Special Attack"
@@ -1712,7 +1711,7 @@ msgstr "Presa / Proiezione / Attacco Speciale"
 
 msgctxt "0\t8605\t407\tCHK"
 msgid "Taunt / Put Away Weapon"
-msgstr "Provoca / Riponi l'arma"
+msgstr "Provoca / Riponi l'Arma"
 
 msgctxt "0\t8629\t408\tCHK"
 msgid "End Bet / Cancel"
@@ -1748,7 +1747,7 @@ msgstr "Annulla (Menu)"
 
 msgctxt "0\t8780\t416\tCHK"
 msgid "Display / Hide Action Commands"
-msgstr "Mostra / Nascondi Comandi d'azione"
+msgstr "Mostra / Nascondi Comandi d'Azione"
 
 msgctxt "0\t8811\t417\tCHK"
 msgid "Cancel / Close"
@@ -1764,11 +1763,11 @@ msgstr "Attacca"
 
 msgctxt "0\t8851\t420\tCHK"
 msgid "Result Table Controls Left"
-msgstr "Tabella dei risultati Controlli a sinistra"
+msgstr "Tabella dei Risultati Controlli a Sinistra"
 
 msgctxt "0\t8878\t421\tCHK"
 msgid "Result Table Controls Right"
-msgstr "Controlli tabella risultati: Destra"
+msgstr "Controlli Tabella Risultati: Destra"
 
 msgctxt "0\t8906\t422\tCHK"
 msgid "Control Mallet / Perspective Left"
@@ -1792,7 +1791,7 @@ msgstr "Inizia Gioco / Inserisci Moneta"
 
 msgctxt "0\t9066\t427\tCHK"
 msgid "Fast Forward Dialogues"
-msgstr "Avanzamento veloce dialoghi"
+msgstr "Avanzamento Veloce Dialoghi"
 
 msgctxt "0\t9089\t428\tCHK"
 msgid "View Help"
@@ -1832,15 +1831,15 @@ msgstr "Colpo Finale"
 
 msgctxt "0\t9210\t437\tCHK"
 msgid "Close-range Attack"
-msgstr "Attacco ravvicinato"
+msgstr "Attacco Ravvicinato"
 
 msgctxt "0\t9229\t438\tCHK"
 msgid "Love Shine / Long-range Attack"
-msgstr "Love Shine / Attacco a distanza"
+msgstr "Love Shine / Attacco a Distanza"
 
 msgctxt "0\t9260\t439\tCHK"
 msgid "Fast Forward"
-msgstr "Avanti veloce"
+msgstr "Avanti Veloce"
 
 msgctxt "0\t9273\t440\tCHK"
 msgid "Move Cursor (Down) (Alt.)"
@@ -1864,15 +1863,15 @@ msgstr "Sposta Cursore Giù / Cambia Categoria Giù Alt."
 
 msgctxt "0\t9421\t445\tCHK"
 msgid "Move Cursor Left / Change Category Left Alt."
-msgstr "Sposta cursore a sinistra / Cambia categoria a sinistra Alt."
+msgstr "Sposta Cursore a Sinistra / Cambia Categoria a Sinistra Alt."
 
 msgctxt "0\t9466\t446\tCHK"
 msgid "Move Cursor Right / Change Category Right Alt."
-msgstr "Sposta cursore a destra / Cambia categoria a destra Alternativa."
+msgstr "Sposta Cursore a Destra / Cambia Categoria a Destra Alternativa."
 
 msgctxt "0\t9513\t447\tCHK"
 msgid "Move Cursor Up / Change Category Up Alt."
-msgstr "Sposta cursore su / Cambia categoria su Alt."
+msgstr "Sposta Cursore Su / Cambia Categoria Su Alt."
 
 msgctxt "0\t9554\t448\tCHK"
 msgid "Select Tile Down Alt."
@@ -1884,7 +1883,7 @@ msgstr "Seleziona Casella Alt Sinistro"
 
 msgctxt "0\t9598\t450\tCHK"
 msgid "Select Tile Right Alt."
-msgstr "Seleziona Casella Alt destro."
+msgstr "Seleziona Casella Alt Destro."
 
 msgctxt "0\t9621\t451\tCHK"
 msgid "Select Tile Up Alt."
@@ -1892,19 +1891,19 @@ msgstr "Seleziona Riquadro Su Alt."
 
 msgctxt "0\t9641\t452\tCHK"
 msgid "Move pointer Up Alt."
-msgstr "Sposta puntatore su Alt."
+msgstr "Sposta Puntatore Su Alt."
 
 msgctxt "0\t9662\t453\tCHK"
 msgid "Move pointer Down Alt."
-msgstr "Muovi puntatore Giù Alt."
+msgstr "Muovi Puntatore Giù Alt."
 
 msgctxt "0\t9685\t454\tCHK"
 msgid "Move pointer Left Alt."
-msgstr "Sposta puntatore Alt sinistro."
+msgstr "Sposta Puntatore Alt Sinistro."
 
 msgctxt "0\t9708\t455\tCHK"
 msgid "Move pointer Right Alt."
-msgstr "Sposta puntatore Alt destro."
+msgstr "Sposta Puntatore Alt Destro."
 
 msgctxt "0\t9732\t456\tCHK"
 msgid "Select Action Up Alt."
@@ -1924,7 +1923,7 @@ msgstr "Seleziona Azione Alt Destro."
 
 msgctxt "0\t9827\t460\tCHK"
 msgid "Fast Forward Dialogue"
-msgstr "Avanti veloce dialogo"
+msgstr "Avanti Veloce Dialogo"
 
 msgctxt "0\t9849\t461\tCHK"
 msgid "Heat Eye"
@@ -1932,11 +1931,11 @@ msgstr "Sguardo Calore"
 
 msgctxt "0\t9858\t462\tCHK"
 msgid "Move Camera Left / Select Left Alt."
-msgstr "Sposta telecamera a sinistra / Seleziona Alt Sinistro."
+msgstr "Sposta Telecamera a Sinistra / Seleziona Alt Sinistro."
 
 msgctxt "0\t9894\t463\tCHK"
 msgid "Move Camera Right / Select Right Alt."
-msgstr "Sposta telecamera a destra / Seleziona Alt DX."
+msgstr "Sposta Telecamera a Destra / Seleziona Alt DX."
 
 msgctxt "0\t9932\t464\tCHK"
 msgid "Move Rod Left"
@@ -1952,7 +1951,7 @@ msgstr "Seleziona Su Alternativo."
 
 msgctxt "0\t9976\t467\tCHK"
 msgid "Select Down Alt."
-msgstr "Seleziona Giù alternativo."
+msgstr "Seleziona Giù Alternativo."
 
 msgctxt "0\t9993\t468\tCHK"
 msgid "Select Left Alt."
@@ -1960,11 +1959,11 @@ msgstr "Seleziona Alt Sinistro."
 
 msgctxt "0\t10010\t469\tCHK"
 msgid "Select Right Alt."
-msgstr "Seleziona Alt destro."
+msgstr "Seleziona Alt Destro."
 
 msgctxt "0\t10028\t470\tCHK"
 msgid "List of Hands"
-msgstr "Elenco delle mani"
+msgstr "Elenco delle Mani"
 
 msgctxt "0\t10042\t471\tCHK"
 msgid "Command Up"
@@ -1992,11 +1991,11 @@ msgstr "Regola Traiettoria / Posizionamento Palla Su Alternativo"
 
 msgctxt "0\t10245\t477\tCHK"
 msgid "Move Camera Up"
-msgstr "Sposta telecamera su"
+msgstr "Sposta Telecamera Su"
 
 msgctxt "0\t10260\t478\tCHK"
 msgid "Move Camera Down"
-msgstr "Sposta telecamera in basso"
+msgstr "Sposta Telecamera in Basso"
 
 msgctxt "0\t10277\t479\tCHK"
 msgid "Replenish Snowballs Alt."
@@ -2020,23 +2019,23 @@ msgstr "Sposta Cursore Sinistra Alt."
 
 msgctxt "0\t10389\t484\tCHK"
 msgid "Move Cursor Right Alt."
-msgstr "Sposta cursore a destra Alt."
+msgstr "Sposta Cursore a Destra Alt."
 
 msgctxt "0\t10412\t485\tCHK"
 msgid "Move Cursor Up Alt."
-msgstr "Muovi cursore su Alternativo."
+msgstr "Muovi Cursore Su Alternativo."
 
 msgctxt "0\t10432\t486\tCHK"
 msgid "Move the Swing Cursor Up Alt."
-msgstr "Sposta il cursore dello swing su (Alt.)"
+msgstr "Sposta il Cursore dello Swing Su (Alt.)"
 
 msgctxt "0\t10462\t487\tCHK"
 msgid "Move the Swing Cursor Down Alt."
-msgstr "Sposta il cursore dello swing Giù Alt."
+msgstr "Sposta il Cursore dello Swing Giù Alt."
 
 msgctxt "0\t10494\t488\tCHK"
 msgid "Move the Swing Cursor Left Alt."
-msgstr "Sposta il cursore oscillazione Alt Sinistro."
+msgstr "Sposta il Cursore Oscillazione Alt Sinistro."
 
 msgctxt "0\t10526\t489\tCHK"
 msgid "Move the Swing Cursor Right Alt."
@@ -2044,11 +2043,11 @@ msgstr "Sposta il Cursore dello Swing Alt Destro."
 
 msgctxt "0\t10559\t490\tCHK"
 msgid "Run (Double-tap to Dodge) Alt."
-msgstr "Corri (Doppio tocco per schivare) Alternativo."
+msgstr "Corri (Doppio Tocco per Schivare) Alternativo."
 
 msgctxt "0\t10590\t491\tCHK"
 msgid "Change bet amount"
-msgstr "Cambia importo puntata"
+msgstr "Cambia Importo Puntata"
 
 msgctxt "0\t10608\t492\tCHK"
 msgid "Change Item/Entry"

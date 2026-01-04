@@ -18,15 +18,15 @@ msgstr "Parlare con i Clienti"
 
 msgctxt "535\tTITLE"
 msgid "Driving Tips"
-msgstr "Consigli di guida"
+msgstr "Consigli di Guida"
 
 msgctxt "549\tTITLE"
 msgid "Turbo Boosts"
-msgstr "Spinte Turbo"
+msgstr "Turbo"
 
 msgctxt "562\tTITLE"
 msgid "Racing Heat Actions"
-msgstr "Azioni Calore di Gara"
+msgstr "Heat Action di Gara"
 
 msgctxt "582\tTITLE"
 msgid "Accelerating"
@@ -34,7 +34,7 @@ msgstr "Accelerazione"
 
 msgctxt "595\tTITLE"
 msgid "Red Lights and Braking"
-msgstr "Semafori rossi e Frenata"
+msgstr "Semafori Rossi e Frenata"
 
 msgctxt "618\tTITLE"
 msgid "Traffic Lights"
@@ -42,7 +42,7 @@ msgstr "Semafori"
 
 msgctxt "633\tTITLE"
 msgid "No Entry Areas"
-msgstr "Aree vietate"
+msgstr "Zone a Traffico Limitato"
 
 msgctxt "648\tTITLE"
 msgid "Drifting"
@@ -54,7 +54,7 @@ msgstr "Destinazioni"
 
 msgctxt "670\tTITLE"
 msgid "Stopping"
-msgstr "Arresto"
+msgstr "Fermarsi"
 
 msgctxt "679\tTITLE"
 msgid "Signaling"
@@ -62,7 +62,7 @@ msgstr "Segnalazione"
 
 msgctxt "689\tTITLE"
 msgid "Stopping"
-msgstr "Arresto"
+msgstr "Fermarsi"
 
 msgctxt "698\tTITLE"
 msgid "Pursuit Missions"
@@ -70,11 +70,11 @@ msgstr "Missioni di Inseguimento"
 
 msgctxt "715\tTITLE"
 msgid "Escape Missions"
-msgstr "Missioni di fuga"
+msgstr "Missioni di Fuga"
 
 msgctxt "731\tTITLE"
 msgid "Hauling a Food Stall"
-msgstr "Trasporto bancarella di cibo"
+msgstr "Trasporto Bancarella di Cibo"
 
 msgctxt "752\tTITLE"
 msgid "Free Races and Free Driving"
@@ -122,9 +122,9 @@ msgid ""
 " the usual limit, so time your boosts appropriately."
 msgstr ""
 "Quando la barra blu alla sinistra del tachimetro si riempie, puoi premere "
-"<Action:Button_Cross@Drive_Race> per usare la spinta turbo. Il turbo si "
-"ricarica gradualmente col tempo. Mentre utilizzi il turbo, puoi accelerare "
-"oltre il limite normale, quindi calibra bene le tue spinte."
+"<Action:Button_Cross@Drive_Race> per usare il turbo. Il turbo si ricarica "
+"gradualmente col tempo. Mentre utilizzi il turbo, puoi accelerare oltre il "
+"limite normale, quindi calibra bene il momento in cui usarlo."
 
 msgctxt "1956\tTEXT"
 msgid ""

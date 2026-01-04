@@ -14,7 +14,7 @@ msgstr ""
 
 msgctxt "210\tNAME"
 msgid "Air Hockey"
-msgstr "Hockey ad aria"
+msgstr "Air Hockey"
 
 msgctxt "223\tNAME"
 msgid "Darts"
@@ -22,7 +22,7 @@ msgstr "Freccette"
 
 msgctxt "231\tNAME"
 msgid "Pool"
-msgstr "Piscina"
+msgstr "Biliardo"
 
 msgctxt "238\tNAME"
 msgid "Bowling"
@@ -66,7 +66,7 @@ msgstr "Baccarat"
 
 msgctxt "341\tNAME"
 msgid "0UFO Catcher"
-msgstr "0Acchiappa UFO"
+msgstr "0UFO Catcher"
 
 msgctxt "356\tNAME"
 msgid "Gunrhein"
@@ -102,7 +102,7 @@ msgstr "Centro di Battuta di Nagoya"
 
 msgctxt "471\tNAME"
 msgid "Driving Range"
-msgstr "Campo pratica"
+msgstr "Campo Pratica"
 
 msgctxt "487\tNAME"
 msgid "River Fishing"
@@ -110,7 +110,7 @@ msgstr "Pesca Fluviale"
 
 msgctxt "503\tNAME"
 msgid "Sea Fishing"
-msgstr "Pesca in mare"
+msgstr "Pesca in Mare"
 
 msgctxt "517\tNAME"
 msgid "Taiko No Tatsujin"
@@ -118,7 +118,7 @@ msgstr "Taiko No Tatsujin"
 
 msgctxt "537\tNAME"
 msgid "PrintCircle"
-msgstr "Stampa Cerchio"
+msgstr "PrintCircle"
 
 msgctxt "551\tNAME"
 msgid "Tatsu-ya Noodles"
@@ -313,7 +313,7 @@ msgstr "Cricket Standard (Principiante)"
 
 msgctxt "2523\tSTRING"
 msgid "Standard Cricket (Intermediate)"
-msgstr "Standard Cricket (Intermedio)"
+msgstr "Cricket Standard (Intermedio)"
 
 msgctxt "2555\tSTRING"
 msgid "Standard Cricket (Advanced)"
@@ -341,7 +341,7 @@ msgstr "Cricket Nascosto (Intermedio)"
 
 msgctxt "2721\tSTRING"
 msgid "Hidden Cricket (Advanced)"
-msgstr "Grillo Nascosto (Avanzato)"
+msgstr "Cricket Nascosto (Avanzato)"
 
 msgctxt "2747\tSTRING"
 msgid "Count-up (Beginner)"
@@ -353,7 +353,7 @@ msgstr "Count-up (Intermedio)"
 
 msgctxt "2791\tSTRING"
 msgid "Count-up (Advanced)"
-msgstr "Conteggio (Avanzato)"
+msgstr "Count-up (Avanzato)"
 
 msgctxt "2811\tSTRING"
 msgid "Nine-ball (Advanced)"
@@ -377,7 +377,7 @@ msgstr "Biliardo Rompicapo Fase 1"
 
 msgctxt "2916\tSTRING"
 msgid "Puzzle Pool Stage 2"
-msgstr "Biliardo Rompicapo - Fase 2"
+msgstr "Biliardo Rompicapo Fase 2"
 
 msgctxt "2936\tSTRING"
 msgid "Puzzle Pool Stage 3"
@@ -385,23 +385,23 @@ msgstr "Biliardo Rompicapo Fase 3"
 
 msgctxt "2956\tSTRING"
 msgid "Puzzle Pool Stage 4"
-msgstr "Puzzle Pool Fase 4"
+msgstr "Biliardo Rompicapo Fase 4"
 
 msgctxt "2976\tSTRING"
 msgid "Puzzle Pool Stage 5"
-msgstr "Pool Puzzle Fase 5"
+msgstr "Biliardo Rompicapo Fase 5"
 
 msgctxt "2996\tSTRING"
 msgid "Puzzle Pool Stage 6"
-msgstr "Puzzle Pool Fase 6"
+msgstr "Biliardo Rompicapo Fase 6"
 
 msgctxt "3016\tSTRING"
 msgid "Puzzle Pool Stage 7"
-msgstr "Biliardo Puzzle Fase 7"
+msgstr "Biliardo Rompicapo Fase 7"
 
 msgctxt "3036\tSTRING"
 msgid "Puzzle Pool Stage 8"
-msgstr "Biliardo Puzzle Fase 8"
+msgstr "Biliardo Rompicapo Fase 8"
 
 msgctxt "3056\tSTRING"
 msgid "Points obtained in 10 frames."
@@ -409,15 +409,15 @@ msgstr "Punti ottenuti in 10 turni."
 
 msgctxt "3086\tSTRING"
 msgid "So Much More!"
-msgstr "E molto altro ancora!"
+msgstr "So Much More!"
 
 msgctxt "3100\tSTRING"
 msgid "Loneliness Loop"
-msgstr "Ciclo della Solitudine"
+msgstr "Loneliness Loop"
 
 msgctxt "3116\tSTRING"
 msgid "Because I Have You"
-msgstr "Perché ho te"
+msgstr "Because I Have You"
 
 msgctxt "3135\tSTRING"
 msgid "Baka Mitai"
@@ -437,7 +437,7 @@ msgstr "Ring"
 
 msgctxt "3186\tSTRING"
 msgid "Rouge of Love"
-msgstr "Rosso d'Amore"
+msgstr "Rouge of Love"
 
 msgctxt "3200\tSTRING"
 msgid "Get to the Top!"
@@ -445,19 +445,19 @@ msgstr "Get to the Top!"
 
 msgctxt "3216\tSTRING"
 msgid "Total Points"
-msgstr "Punti totali"
+msgstr "Punti Totali"
 
 msgctxt "3229\tSTRING"
 msgid "Total Points"
-msgstr "Punti totali"
+msgstr "Punti Totali"
 
 msgctxt "3242\tSTRING"
 msgid "Total Points"
-msgstr "Punti totali"
+msgstr "Punti Totali"
 
 msgctxt "3255\tSTRING"
 msgid "Total Points"
-msgstr "Punti totali"
+msgstr "Punti Totali"
 
 msgctxt "3268\tSTRING"
 msgid "Total Chips"
@@ -521,11 +521,11 @@ msgstr "Round 5"
 
 msgctxt "3407\tSTRING"
 msgid "Round 6"
-msgstr "Sesto Round"
+msgstr "Round 6"
 
 msgctxt "3415\tSTRING"
 msgid "Round 7"
-msgstr "Settimo Round"
+msgstr "Round 7"
 
 msgctxt "3423\tSTRING"
 msgid "Round 8"
@@ -541,15 +541,15 @@ msgstr "Round 10"
 
 msgctxt "3448\tSTRING"
 msgid "Maximum Pachinko Balls Won"
-msgstr "Massimo di palline del Pachinko vinte"
+msgstr "Massimo di Palline del Pachinko Vinte"
 
 msgctxt "3475\tSTRING"
 msgid "Maximum Slot Tokens Won"
-msgstr "Massimo di gettoni slot vinti"
+msgstr "Massimo di Gettoni Slot Vinti"
 
 msgctxt "3499\tSTRING"
 msgid "Total Wins"
-msgstr "Vittorie totali"
+msgstr "Vittorie Totali"
 
 msgctxt "3510\tSTRING"
 msgid "Highest score obtained"
@@ -557,11 +557,11 @@ msgstr "Punteggio più alto ottenuto"
 
 msgctxt "3533\tSTRING"
 msgid "Easy Game"
-msgstr "Gioco Facile"
+msgstr "Partita Facile"
 
 msgctxt "3543\tSTRING"
 msgid "Normal Game"
-msgstr "Gioco normale"
+msgstr "Partita Normale"
 
 msgctxt "3555\tSTRING"
 msgid "Academic Course (Gravure Photo 1)"
@@ -577,7 +577,7 @@ msgstr "Corso Accademico (Foto Gravure 3)"
 
 msgctxt "3657\tSTRING"
 msgid "Academic Course (Gravure Photo 4)"
-msgstr "Corso Accademico (Foto di Gravure 4)"
+msgstr "Corso Accademico (Foto Gravure 4)"
 
 msgctxt "3691\tSTRING"
 msgid "Academic Course (Gravure Photo 5)"
@@ -609,7 +609,7 @@ msgstr "Corso Normale Principiante"
 
 msgctxt "3895\tSTRING"
 msgid "Heat Eye Only Course"
-msgstr "Corso solo con Heat Eye"
+msgstr "Corso Solo con Heat Eye"
 
 msgctxt "3916\tSTRING"
 msgid "Intermediate Course"
@@ -629,7 +629,7 @@ msgstr "Corso Sawada"
 
 msgctxt "3981\tSTRING"
 msgid "Beginner Course"
-msgstr "Corso per principianti"
+msgstr "Corso per Principianti"
 
 msgctxt "3997\tSTRING"
 msgid "Intermediate Course"
@@ -661,11 +661,11 @@ msgstr "Mappy Medley Normale"
 
 msgctxt "4106\tSTRING"
 msgid "Nijiiro Yumeiro Taikoiro Easy"
-msgstr "Nijiiro Yumeiro Taikoiro Easy"
+msgstr "Nijiiro Yumeiro Taikoiro Facile"
 
 msgctxt "4136\tSTRING"
 msgid "Nijiiro Yumeiro Taikoiro Normal"
-msgstr "Nijiiro Yumeiro Taikoiro Normal"
+msgstr "Nijiiro Yumeiro Taikoiro Normale"
 
 msgctxt "4168\tSTRING"
 msgid "From the New World Normal"
@@ -681,7 +681,7 @@ msgstr "Kiryu <Action:Button_Circle@Print_Circle> riuscito"
 
 msgctxt "4271\tSTRING"
 msgid "Kiryu <Action:Button_Cross@Print_Circle> successful"
-msgstr "Kiryu <Action:Button_Cross@Print_Circle> è riuscito"
+msgstr "Kiryu <Action:Button_Cross@Print_Circle> riuscito"
 
 msgctxt "4323\tSTRING"
 msgid "Kiryu <Action:Button_Square@Print_Circle> successful"
@@ -765,7 +765,7 @@ msgstr "Deathmatch Principiante"
 
 msgctxt "5342\tSTRING"
 msgid "Deathmatch Expert"
-msgstr "Esperto Deathmatch"
+msgstr "Deathmatch Esperto"
 
 msgctxt "5360\tSTRING"
 msgid "Battle Royale Beginner"
@@ -773,7 +773,7 @@ msgstr "Battle Royale Principiante"
 
 msgctxt "5383\tSTRING"
 msgid "Battle Royale Intermediate"
-msgstr "Battaglia Reale Intermedio"
+msgstr "Battle Royale Intermedio"
 
 msgctxt "5410\tSTRING"
 msgid "Battle Royale Advanced"
