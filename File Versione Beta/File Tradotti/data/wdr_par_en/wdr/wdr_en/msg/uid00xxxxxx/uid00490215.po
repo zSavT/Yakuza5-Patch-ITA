@@ -1,0 +1,817 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1640"
+msgid "You got <Color:8>20,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1796"
+msgid "You got <Color:8>20,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "33356"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "33360"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "33364"
+msgid "Interviewer"
+msgstr ""
+
+msgctxt "33368"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "33372"
+msgid "Yara"
+msgstr ""
+
+msgctxt "33376"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "33380"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "33384"
+msgid "HAL_sitsofa"
+msgstr ""
+
+msgctxt "33388"
+msgid "P_SIN_sitsofa"
+msgstr ""
+
+msgctxt "33392"
+msgid "HAL_TLK_sitsofa_kamae"
+msgstr ""
+
+msgctxt "33396"
+msgid "P_SIN_TLK_sitsofa_kamae"
+msgstr ""
+
+msgctxt "33400"
+msgid "P_SIN_TLK_sitsofa_mail_lp"
+msgstr ""
+
+msgctxt "33404"
+msgid "P_SIN_TLK_sitsofa_mail_st"
+msgstr ""
+
+msgctxt "33408"
+msgid "P_SIN_TLK_sitsofa_mail_ed"
+msgstr ""
+
+msgctxt "33412"
+msgid "Prove them wrong"
+msgstr ""
+
+msgctxt "33416"
+msgid "Don't worry about it too much"
+msgstr ""
+
+msgctxt "33420"
+msgid "Make fun of them right back"
+msgstr ""
+
+msgctxt "33424"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "33428"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "33432"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "33436"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "33440"
+msgid "M_NML_TLK_sitsofa_think"
+msgstr ""
+
+msgctxt "33444"
+msgid "Looks aren't the only thing"
+msgstr ""
+
+msgctxt "33448"
+msgid "Put some effort into your appearance"
+msgstr ""
+
+msgctxt "33452"
+msgid "Forget about this girl"
+msgstr ""
+
+msgctxt "33456"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "33460"
+msgid "HAL_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "33464"
+msgid "HAL_TLK_stand_no"
+msgstr ""
+
+msgctxt "33468"
+msgid "HAL_TLK_sitsofa_kamae_st"
+msgstr ""
+
+msgctxt "33472"
+msgid "kaiwabgm_sublove1"
+msgstr ""
+
+msgctxt "33476"
+msgid "Just keep doing what you've been doing"
+msgstr ""
+
+msgctxt "33480"
+msgid "Those two people will be back soon"
+msgstr ""
+
+msgctxt "33484"
+msgid "Just try to hold on a little longer"
+msgstr ""
+
+msgctxt "33488"
+msgid "HAL_stand"
+msgstr ""
+
+msgctxt "33492"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "33496"
+msgid "M_NML_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "33500"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "33504"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "33508"
+msgid "Talk_Get"
+msgstr ""
+
+msgctxt "44_Haruka"
+msgid "Hello. I'm Haruka Sawamura. It's very nice to meet you."
+msgstr ""
+
+msgctxt "56_Interviewer"
+msgid "Welcome to Ryukyu Travel Publishing. I am Yara."
+msgstr ""
+
+msgctxt "68_Haruka"
+msgid "Oh, are you from Okinawa?"
+msgstr ""
+
+msgctxt "80_Yara"
+msgid "Born and raised. Haha! You could tell from my name?"
+msgstr ""
+
+msgctxt "92_Haruka"
+msgid "Yes. Now I feel like I'm back home!"
+msgstr ""
+
+msgctxt "104_Yara"
+msgid "That's great. Heheh. It'll make for an excellent interview, don't you think?"
+msgstr ""
+
+msgctxt "116_Haruka"
+msgid "It certainly will."
+msgstr ""
+
+msgctxt "176_Yara"
+msgid ""
+"We wanted to make this unique, so we asked Okinawan children to write to "
+"you letters for the magazine."
+msgstr ""
+
+msgctxt "188_Yara"
+msgid ""
+"The response was overwhelming! The greatest volume of mail we've ever "
+"received, in fact. You must be quite the celebrity there."
+msgstr ""
+
+msgctxt "200_Haruka"
+msgid "Really? That's amazing!"
+msgstr ""
+
+msgctxt "212_Yara"
+msgid "Space for the article is limited, so we picked just three letters."
+msgstr ""
+
+msgctxt "224_Yara"
+msgid "I'll read them to you, and then you can comment. Sound good?"
+msgstr ""
+
+msgctxt "236_Haruka"
+msgid "Absolutely."
+msgstr ""
+
+msgctxt "248_Yara"
+msgid ""
+"All right. The first letter is from a sixth grade boy named \"Professor "
+"Cosmos.\""
+msgstr ""
+
+msgctxt "260_Haruka"
+msgid "That's a pen name, I assume."
+msgstr ""
+
+msgctxt "272_Yara"
+msgid ""
+"Yes, all three letters are written under pen names. I guess \"Professor "
+"Cosmos\" is a big fan of outer space, huh?"
+msgstr ""
+
+msgctxt "284_Yara"
+msgid ""
+"Anyway, here we go. \"Dear Sawamura-san, I saw you dancing on TV. Wow! "
+"You're so cool!\""
+msgstr ""
+
+msgctxt "296_Yara"
+msgid ""
+"\"I'm not athletic like you. I can't do even one pull-up, and the other "
+"kids make fun of me. What should I do?\""
+msgstr ""
+
+msgctxt "308_Yara"
+msgid ""
+"Heh, I had the same problem when I was a kid. So! Any advice for "
+"\"Professor Cosmos\"?"
+msgstr ""
+
+msgctxt "320_Haruka"
+msgid ""
+"I would tell him... that I'm so sorry the other kids tease him! But why not "
+"turn those hurt feelings into inspiration?"
+msgstr ""
+
+msgctxt "332_Haruka"
+msgid ""
+"He said he liked my dancing. Well, when I first started, I couldn't dance "
+"well at all. It took so much practice."
+msgstr ""
+
+msgctxt "344_Haruka"
+msgid "My dance coach would probably say that I'm still not good enough, even now!"
+msgstr ""
+
+msgctxt "356_Haruka"
+msgid ""
+"But the important thing is to learn something new, and just feel good about "
+"that. So my advice is to keep trying!"
+msgstr ""
+
+msgctxt "368_Yara"
+msgid "Very wise. I think Professor Cosmos will be encouraged by that."
+msgstr ""
+
+msgctxt "380_Haruka"
+msgid ""
+"I would tell him... that I'm so sorry the other kids tease him! And if "
+"athletics aren't his thing, maybe he shouldn't worry about what they say."
+msgstr ""
+
+msgctxt "392_Haruka"
+msgid ""
+"After all, from the sound of his pen name he likes outer space. Why not "
+"focus on that instead?"
+msgstr ""
+
+msgctxt "404_Haruka"
+msgid ""
+"Who cares about doing a pull-up when you can impress the other kids with "
+"your knowledge of space!"
+msgstr ""
+
+msgctxt "416_Yara"
+msgid "Very smart thinking. I think Professor Cosmos will be encouraged by that."
+msgstr ""
+
+msgctxt "428_Haruka"
+msgid ""
+"I would tell him... that I'm so sorry the other kids tease him! They "
+"probably don't realize how awful it feels."
+msgstr ""
+
+msgctxt "440_Haruka"
+msgid ""
+"So why not teach them a lesson? Find something about them to pick on, and "
+"make fun of them right back."
+msgstr ""
+
+msgctxt "452_Haruka"
+msgid ""
+"Once they know how much it hurts, maybe they'll think twice before they do "
+"it again."
+msgstr ""
+
+msgctxt "464_Yara"
+msgid ""
+"...Yikes. That was a tad harsh. I hope you don't mind if I soften that up a "
+"bit for the article."
+msgstr ""
+
+msgctxt "476_Haruka"
+msgid "Oh! I'm sorry! Do whatever you think best."
+msgstr ""
+
+msgctxt "536_Yara"
+msgid ""
+"Now, then. On to letter number two. This is from \"I Heart Riona,\" a "
+"middle school boy."
+msgstr ""
+
+msgctxt "548_Haruka"
+msgid "What?"
+msgstr ""
+
+msgctxt "560_Yara"
+msgid ""
+"Haha! Yeah, that pen name caught me by surprise, too. What a romantic "
+"fellow."
+msgstr ""
+
+msgctxt "572_Haruka"
+msgid "(An Okinawa boy with a crush on a girl named Riona? Could it be Mitsuo?)"
+msgstr ""
+
+msgctxt "584_Haruka"
+msgid ""
+"(And Professor Cosmos said he was in sixth grade. Could that... possibly be "
+"Shiro?)"
+msgstr ""
+
+msgctxt "596_Yara"
+msgid "Sawamura-san?"
+msgstr ""
+
+msgctxt "608_Haruka"
+msgid "Oh! Sorry!"
+msgstr ""
+
+msgctxt "620_Haruka"
+msgid "(Oops! I better focus!)"
+msgstr ""
+
+msgctxt "632_Yara"
+msgid "Here's what it says."
+msgstr ""
+
+msgctxt "644_Yara"
+msgid ""
+"\"Dear Haruka, I've been watching you on TV and rooting for you! But I kind "
+"of get jealous of everyone else on TV... They're all so good-looking!\""
+msgstr ""
+
+msgctxt "656_Yara"
+msgid ""
+"\"There's a girl I like, but I don't think she likes me. Do you think it's "
+"because I'm not very handsome?\""
+msgstr ""
+
+msgctxt "668_Yara"
+msgid "He's rooting for you! Must be a big fan."
+msgstr ""
+
+msgctxt "680_Yara"
+msgid "Haha. He sounds like a passionate guy. As for his romantic dilemma..."
+msgstr ""
+
+msgctxt "692_Haruka"
+msgid "Sure, looks are a big part of what first attracts us to a person."
+msgstr ""
+
+msgctxt "704_Haruka"
+msgid ""
+"The entertainment industry certainly puts an emphasis on looks, that's for "
+"sure."
+msgstr ""
+
+msgctxt "716_Haruka"
+msgid ""
+"But they aren't the only thing. When a person truly likes someone, it has "
+"much more to do with personality, I think."
+msgstr ""
+
+msgctxt "728_Haruka"
+msgid ""
+"For example, how kind the person is, or how trustworthy. Character can play "
+"a bigger role than appearance."
+msgstr ""
+
+msgctxt "740_Haruka"
+msgid ""
+"Even in the entertainment industry, it counts for something if you're "
+"attractive on the inside as well as the outside."
+msgstr ""
+
+msgctxt "752_Haruka"
+msgid ""
+"What I'm trying to say is... if you really like this girl, show her the "
+"quality of your character, and see what happens. Good luck!"
+msgstr ""
+
+msgctxt "764_Yara"
+msgid "That's very nice. I'm sure your words will mean a lot to \"I Heart Riona.\""
+msgstr ""
+
+msgctxt "776_Haruka"
+msgid "Well, looks are a big part of what first attracts us to a person."
+msgstr ""
+
+msgctxt "788_Haruka"
+msgid "He could try putting some extra effort into his appearance."
+msgstr ""
+
+msgctxt "800_Haruka"
+msgid ""
+"Here in the entertainment industry, hair, makeup, and clothes are used to "
+"transform people beyond recognition."
+msgstr ""
+
+msgctxt "812_Haruka"
+msgid ""
+"And the really interesting thing is that people who look good start to gain "
+"confidence, and it shows."
+msgstr ""
+
+msgctxt "824_Haruka"
+msgid ""
+"When I'm all dressed up, I have to confess I feel different. It gives me "
+"courage when I'm onstage."
+msgstr ""
+
+msgctxt "836_Haruka"
+msgid ""
+"If you don't think you're very handsome, you don't have to just accept it. "
+"You can put effort into changing that."
+msgstr ""
+
+msgctxt "848_Yara"
+msgid ""
+"That's great insight, coming from an entertainer. I think he'll be "
+"encouraged!"
+msgstr ""
+
+msgctxt "860_Haruka"
+msgid "Sure, looks are a big part of what first attracts us to a person."
+msgstr ""
+
+msgctxt "872_Haruka"
+msgid ""
+"But they aren't the only thing. When a person truly likes someone, it has "
+"much more to do with personality, I think."
+msgstr ""
+
+msgctxt "884_Haruka"
+msgid ""
+"For example, how kind the person is, or how trustworthy. Character can play "
+"a bigger role than appearance."
+msgstr ""
+
+msgctxt "896_Haruka"
+msgid ""
+"If this girl doesn't recognize the quality of your character, then you "
+"should just forget about her."
+msgstr ""
+
+msgctxt "908_Yara"
+msgid ""
+"Ouch. A straight knife to the kid's heart. I hope you don't mind if I "
+"soften that up a little bit for the article."
+msgstr ""
+
+msgctxt "920_Haruka"
+msgid "Oh! I'm sorry! Do whatever you think best."
+msgstr ""
+
+msgctxt "980_Yara"
+msgid ""
+"Now for the third and final letter. It's from \"Dragon Mask Man,\" a boy in "
+"his second year of middle school."
+msgstr ""
+
+msgctxt "992_Haruka"
+msgid "*gasp*"
+msgstr ""
+
+msgctxt "1004_Yara"
+msgid "Uh, is there something wrong?"
+msgstr ""
+
+msgctxt "1016_Haruka"
+msgid "Oh. No, it's nothing. I misheard you. I'm sorry!"
+msgstr ""
+
+msgctxt "1028_Haruka"
+msgid ""
+"(\"Dragon Mask\"? That has to be Taichi! All three of these letters are "
+"from Morning Glory, for sure!)"
+msgstr ""
+
+msgctxt "1040_Haruka"
+msgid "(Now I see why Ayako told me to do a good job at this interview!)"
+msgstr ""
+
+msgctxt "1052_Yara"
+msgid "Um, are you ready to continue?"
+msgstr ""
+
+msgctxt "1064_Haruka"
+msgid "Oh! Yes, please. My apologies."
+msgstr ""
+
+msgctxt "1088_Yara"
+msgid ""
+"\"How do you do, Sawamura-san? I always watch you when you're on TV. You're "
+"the main topic of conversation at our house!\""
+msgstr ""
+
+msgctxt "1100_Yara"
+msgid ""
+"\"We used to have people who were like a mother and father to us, but they "
+"both left on long journeys.\""
+msgstr ""
+
+msgctxt "1112_Yara"
+msgid ""
+"\"Now I'm the oldest boy, so I've been trying to be responsible and "
+"dependable like they were, but it's not easy.\""
+msgstr ""
+
+msgctxt "1124_Yara"
+msgid "\"What can I do to become more like them?\""
+msgstr ""
+
+msgctxt "1136_Haruka"
+msgid "......"
+msgstr ""
+
+msgctxt "1148_Yara"
+msgid ""
+"Wow. He sounds like a very mature and thoughtful young man, wise beyond his "
+"years. Any advice for him, Sawamura-san?"
+msgstr ""
+
+msgctxt "1160_Haruka"
+msgid "It sounds like you've been doing great. Just keep at it."
+msgstr ""
+
+msgctxt "1172_Haruka"
+msgid ""
+"I'm sure all the younger children look up to you... because you already "
+"have those virtues you admire in the two people who left."
+msgstr ""
+
+msgctxt "1184_Haruka"
+msgid "Besides, those two weren't perfect. They made all kinds of mistakes."
+msgstr ""
+
+msgctxt "1196_Haruka"
+msgid ""
+"So don't worry about what you can't do now. You're already helping your "
+"family a lot."
+msgstr ""
+
+msgctxt "1208_Yara"
+msgid "Wow, Sawamura-san."
+msgstr ""
+
+msgctxt "1220_Haruka"
+msgid "Oh! I'm sorry! I..."
+msgstr ""
+
+msgctxt "1232_Yara"
+msgid ""
+"No, please don't apologize. I think... I think \"Dragon Mask Man\" really "
+"needed to hear something like that. We'll print it exactly the way you said "
+"it－no edits."
+msgstr ""
+
+msgctxt "1244_Haruka"
+msgid "Oh! Wonderful!"
+msgstr ""
+
+msgctxt "1256_Haruka"
+msgid "Don't worry. I'm sure those two will come back someday."
+msgstr ""
+
+msgctxt "1268_Haruka"
+msgid "I know everything is hard right now. I know you miss them."
+msgstr ""
+
+msgctxt "1280_Haruka"
+msgid ""
+"But they care so much for you... truly. They will return. You'll all be "
+"together again."
+msgstr ""
+
+msgctxt "1292_Haruka"
+msgid ""
+"Until then, stay strong, and just keep doing what you've been doing. You're "
+"already helping your family a lot."
+msgstr ""
+
+msgctxt "1304_Yara"
+msgid "Gee, Sawamura-san."
+msgstr ""
+
+msgctxt "1316_Haruka"
+msgid "Oh! I'm sorry. I..."
+msgstr ""
+
+msgctxt "1328_Yara"
+msgid ""
+"No, no need to apologize. It's just－I don't know if what you said is true. "
+"How would anybody know if those two will return? But... I'll still print "
+"what you said. No edits."
+msgstr ""
+
+msgctxt "1340_Haruka"
+msgid "Oh! Thank you!"
+msgstr ""
+
+msgctxt "1352_Haruka"
+msgid "You know what? Shame on your mother and father for leaving you all behind."
+msgstr ""
+
+msgctxt "1364_Haruka"
+msgid ""
+"That said, they probably already feel guilty about it. That feeling will "
+"make them come home someday."
+msgstr ""
+
+msgctxt "1376_Haruka"
+msgid ""
+"You just have to hold on a little longer. You're obviously an upstanding "
+"young man, and the children all look up to you."
+msgstr ""
+
+msgctxt "1388_Haruka"
+msgid "Keep doing what you've been doing. You're already helping your family a lot."
+msgstr ""
+
+msgctxt "1400_Yara"
+msgid "Gee, Sawamura-san."
+msgstr ""
+
+msgctxt "1412_Haruka"
+msgid "Oh! I'm sorry. I..."
+msgstr ""
+
+msgctxt "1424_Yara"
+msgid ""
+"No need to apologize. You obviously have strong feelings about the "
+"situation. I think your words might be what \"Dragon Mask Man\" needs to "
+"hear. I'll print them without any edits."
+msgstr ""
+
+msgctxt "1436_Haruka"
+msgid "I appreciate that."
+msgstr ""
+
+msgctxt "1496_Yara"
+msgid "Those were some fascinating answers. Thank you for coming."
+msgstr ""
+
+msgctxt "1508_Haruka"
+msgid "And thank you very much for having me!"
+msgstr ""
+
+msgctxt "1520_Yara"
+msgid ""
+"I have to say, I was surprised at how honestly you spoke. There aren't many "
+"who would be so direct with their fans, let alone fans who are children."
+msgstr ""
+
+msgctxt "1532_Haruka"
+msgid "Oh... I'm very sorry."
+msgstr ""
+
+msgctxt "1544_Yara"
+msgid "No worries. You're a sincere person who's simply trying to help."
+msgstr ""
+
+msgctxt "1556_Haruka"
+msgid ""
+"Um, would it be possible for me to read the rest of the letters that were "
+"sent in?"
+msgstr ""
+
+msgctxt "1568_Yara"
+msgid ""
+"Oh, sure. I actually have them right here. Shall I have them sent to your "
+"agency?"
+msgstr ""
+
+msgctxt "1580_Haruka"
+msgid "No, I'd like to take them with me now, if that's all right."
+msgstr ""
+
+msgctxt "1592_Yara"
+msgid "Are you sure? That's a lot of heavy paper to carry around!"
+msgstr ""
+
+msgctxt "1604_Haruka"
+msgid "It's okay! I'm stronger than I look."
+msgstr ""
+
+msgctxt "1616_Yara"
+msgid "Hahaha! You got it, then."
+msgstr ""
+
+msgctxt "1628_Yara"
+msgid "And here's some compensation for your time."
+msgstr ""
+
+msgctxt "1652_Haruka"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "1664_Yara"
+msgid "Best of luck to you in your career."
+msgstr ""
+
+msgctxt "1676_Haruka"
+msgid "That's very kind of you. Goodbye!"
+msgstr ""
+
+msgctxt "1688_Yara"
+msgid ""
+"You gave some fantastic answers. I'm sure the children who wrote the "
+"letters will be thrilled."
+msgstr ""
+
+msgctxt "1700_Haruka"
+msgid "Oh, I hope so!"
+msgstr ""
+
+msgctxt "1712_Haruka"
+msgid ""
+"Um, would it be possible for me to read the rest of the letters that were "
+"sent in?"
+msgstr ""
+
+msgctxt "1724_Yara"
+msgid ""
+"Oh, sure. I actually have them right here. Shall I have them sent to your "
+"agency?"
+msgstr ""
+
+msgctxt "1736_Haruka"
+msgid "No, I'd like to take them with me now, if that's all right."
+msgstr ""
+
+msgctxt "1748_Yara"
+msgid "Are you sure? That's a lot of heavy paper to carry around!"
+msgstr ""
+
+msgctxt "1760_Haruka"
+msgid "It's okay! I'm stronger than I look."
+msgstr ""
+
+msgctxt "1772_Yara"
+msgid "Hahaha! You got it, then."
+msgstr ""
+
+msgctxt "1784_Yara"
+msgid "And here's some compensation for your time."
+msgstr ""
+
+msgctxt "1808_Haruka"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "1820_Yara"
+msgid "We hope to have you back soon."
+msgstr ""
+
+msgctxt "1832_Haruka"
+msgid "I'd like that very much."
+msgstr ""

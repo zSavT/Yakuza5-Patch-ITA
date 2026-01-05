@@ -1,0 +1,815 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "488"
+msgid "You got <Color:8>Deer Meat<Color:Default>."
+msgstr ""
+
+msgctxt "1076"
+msgid "You got <Color:8>Deer Meat<Color:Default>."
+msgstr ""
+
+msgctxt "29340"
+msgid "Sakurai"
+msgstr ""
+
+msgctxt "29344"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "29348"
+msgid "So-so, I'd say."
+msgstr ""
+
+msgctxt "29352"
+msgid "Terrible!"
+msgstr ""
+
+msgctxt "29356"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "29360"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "29364"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "29368"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "29372"
+msgid "Yup, I'm headin' out."
+msgstr ""
+
+msgctxt "29376"
+msgid "Ain't ready yet."
+msgstr ""
+
+msgctxt "29380"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "29384"
+msgid "Mountain Gear"
+msgstr ""
+
+msgctxt "29388"
+msgid "dummy"
+msgstr ""
+
+msgctxt "29392"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "29396"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "29400"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "29404"
+msgid "WEPCT0000"
+msgstr ""
+
+msgctxt "29408"
+msgid "New Equipment"
+msgstr ""
+
+msgctxt "29412"
+msgid "New Weapon"
+msgstr ""
+
+msgctxt "29416"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "29420"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "29424"
+msgid "Not Ready Yet"
+msgstr ""
+
+msgctxt "29428"
+msgid "Ready!"
+msgstr ""
+
+msgctxt "29432"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "29436"
+msgid "Talk_Get"
+msgstr ""
+
+msgctxt "29440"
+msgid "2d_jm_yuki_map01"
+msgstr ""
+
+msgctxt "29444"
+msgid "2d_jm_yuki_map03"
+msgstr ""
+
+msgctxt "29448"
+msgid "Go to the Mountain"
+msgstr ""
+
+msgctxt "29452"
+msgid "Need More Time"
+msgstr ""
+
+msgctxt "29456"
+msgid "adv2_172/sakurai_2_172_260"
+msgstr ""
+
+msgctxt "29460"
+msgid "adv2_172/sakurai_2_172_270"
+msgstr ""
+
+msgctxt "29464"
+msgid "I gotta go up there."
+msgstr ""
+
+msgctxt "29468"
+msgid "Fine, I won't go up."
+msgstr ""
+
+msgctxt "29472"
+msgid "adv2_172/saejima_2_172_190"
+msgstr ""
+
+msgctxt "29476"
+msgid "adv2_172/sakurai_2_172_250a"
+msgstr ""
+
+msgctxt "29480"
+msgid "adv2_172/sakurai_2_172_250b"
+msgstr ""
+
+msgctxt "29484"
+msgid "adv2_172/saejima_2_172_110"
+msgstr ""
+
+msgctxt "29488"
+msgid "adv2_172/sakurai_2_172_180"
+msgstr ""
+
+msgctxt "29492"
+msgid "adv2_172/saejima_2_172_120"
+msgstr ""
+
+msgctxt "29496"
+msgid "adv2_172/sakurai_2_172_190a"
+msgstr ""
+
+msgctxt "29500"
+msgid "adv2_172/sakurai_2_172_190b"
+msgstr ""
+
+msgctxt "29504"
+msgid "adv2_172/saejima_2_172_130"
+msgstr ""
+
+msgctxt "29508"
+msgid "adv2_172/sakurai_2_172_200"
+msgstr ""
+
+msgctxt "29512"
+msgid "adv2_172/saejima_2_172_140"
+msgstr ""
+
+msgctxt "29516"
+msgid "adv2_172/sakurai_2_172_210"
+msgstr ""
+
+msgctxt "29520"
+msgid "adv2_172/saejima_2_172_150"
+msgstr ""
+
+msgctxt "29524"
+msgid "adv2_172/sakurai_2_172_220"
+msgstr ""
+
+msgctxt "29528"
+msgid "adv2_172/saejima_2_172_160"
+msgstr ""
+
+msgctxt "29532"
+msgid "adv2_172/sakurai_2_172_230"
+msgstr ""
+
+msgctxt "29536"
+msgid "adv2_172/saejima_2_172_170"
+msgstr ""
+
+msgctxt "29540"
+msgid "adv2_172/sakurai_2_172_240a"
+msgstr ""
+
+msgctxt "29544"
+msgid "adv2_172/sakurai_2_172_240b"
+msgstr ""
+
+msgctxt "29548"
+msgid "adv2_172/saejima_2_172_180"
+msgstr ""
+
+msgctxt "188_Sakurai"
+msgid "Hey, Saejima. How goes the hunting?"
+msgstr ""
+
+msgctxt "200_Saejima"
+msgid "So-so, I'd say."
+msgstr ""
+
+msgctxt "212_Sakurai"
+msgid "That's great!"
+msgstr ""
+
+msgctxt "224_Sakurai"
+msgid "Knowing that you and Okudera hunt together is a huge relief to all of us."
+msgstr ""
+
+msgctxt "236_Saejima"
+msgid "It's terrible."
+msgstr ""
+
+msgctxt "248_Sakurai"
+msgid ""
+"Well... it's all about practice, you know. Just keep trying; don't get "
+"discouraged."
+msgstr ""
+
+msgctxt "260_Sakurai"
+msgid "Don't beat yourself up over mistakes when you're still new at it."
+msgstr ""
+
+msgctxt "272_Sakurai"
+msgid "Are you ready to go to the mountain?"
+msgstr ""
+
+msgctxt "284_Sakurai"
+msgid "Nah, I ain't ready yet."
+msgstr ""
+
+msgctxt "296_Sakurai"
+msgid "Okay. Tell me when you are."
+msgstr ""
+
+msgctxt "308_Saejima"
+msgid "Sure thing."
+msgstr ""
+
+msgctxt "320_Sakurai"
+msgid "Yup, I'm headin' out."
+msgstr ""
+
+msgctxt "332_Mountain Gear"
+msgid ""
+"When heading to the mountain, you get a special <Color:7>snow "
+"gear<Color:Default> bag\r\n"
+"that holds gear and supplies specifically for that trip.\r\n"
+"Check the <Color:7>Equipment screen<Color:Default> before you set off!"
+msgstr ""
+
+msgctxt "344_Mountain Gear"
+msgid ""
+"To bring an item with you to the mountain, move it to the <Color:7>snow "
+"gear<Color:Default> bag\r\n"
+"on your <Color:7>Equipment screen<Color:Default>. Deer meat would be good "
+"to bring,\r\n"
+"so don't forget to put that into the <Color:7>snow gear<Color:Default> bag!"
+msgstr ""
+
+msgctxt "356_Mountain Gear"
+msgid ""
+"If you cancel an outing to the mountain, any items you\r\n"
+"already put in your bag will be moved to the <Color:7>Item "
+"Box<Color:Default>."
+msgstr ""
+
+msgctxt "404_Sakurai"
+msgid "Okay, you take care out there."
+msgstr ""
+
+msgctxt "428_Sakurai"
+msgid ""
+"Wait, after all the trouble you went through to get it, you're not going to "
+"take any food with you? Look, being out in the cold saps your strength. "
+"You'll need nourishment!"
+msgstr ""
+
+msgctxt "440_Mountain Gear"
+msgid ""
+"To bring an item with you to the mountain, move it to the <Color:7>snow "
+"gear<Color:Default> bag\r\n"
+"on your <Color:7>Equipment screen<Color:Default>. Deer meat would be good "
+"to bring,\r\n"
+"so don't forget to put that into the <Color:7>snow gear<Color:Default> bag!"
+msgstr ""
+
+msgctxt "464_Sakurai"
+msgid "Wait, Saejima, don't you have any deer meat?"
+msgstr ""
+
+msgctxt "476_Sakurai"
+msgid "Well, that won't do! Here, take this."
+msgstr ""
+
+msgctxt "524_Sakurai"
+msgid "Nah, I ain't ready yet."
+msgstr ""
+
+msgctxt "536_Sakurai"
+msgid "Okay. Tell me when you are."
+msgstr ""
+
+msgctxt "548_Saejima"
+msgid "Sure thing."
+msgstr ""
+
+msgctxt "620_Sakurai"
+msgid "How did it go? Did he lend you a gun?"
+msgstr ""
+
+msgctxt "632_Saejima"
+msgid "Nah. Got turned down."
+msgstr ""
+
+msgctxt "644_Sakurai"
+msgid "Thought so. Honestly, you should just give up. But since I know you won't..."
+msgstr ""
+
+msgctxt "716_New Equipment"
+msgid "You got Simple Cold Wear."
+msgstr ""
+
+msgctxt "740_New Weapon"
+msgid "You got a Horizontal Double Rifle."
+msgstr ""
+
+msgctxt "776_Sakurai"
+msgid "Where'd you get this gun?"
+msgstr ""
+
+msgctxt "788_Sakurai"
+msgid ""
+"Nishina-san dropped it off, actually. He doesn't want to lend you a rifle, "
+"but he wants you going up there unarmed even less."
+msgstr ""
+
+msgctxt "800_Saejima"
+msgid "What's his deal, anyway?"
+msgstr ""
+
+msgctxt "812_Sakurai"
+msgid ""
+"It's not your concern right now. So, are you gonna do what you said you'd "
+"do, and go to the mountain?"
+msgstr ""
+
+msgctxt "824_Sakurai"
+msgid "Nah, I ain't ready yet."
+msgstr ""
+
+msgctxt "836_Sakurai"
+msgid "Okay. Tell me when you are."
+msgstr ""
+
+msgctxt "848_Saejima"
+msgid "Sure thing."
+msgstr ""
+
+msgctxt "908_Sakurai"
+msgid "Yup, I'm headin' out."
+msgstr ""
+
+msgctxt "920_Mountain Gear"
+msgid ""
+"When heading to the mountain, you get a special <Color:7>snow "
+"gear<Color:Default> bag\r\n"
+"that holds gear and supplies specifically for that trip.\r\n"
+"Check the <Color:7>Equipment screen<Color:Default> before you set off!"
+msgstr ""
+
+msgctxt "932_Mountain Gear"
+msgid ""
+"To bring an item with you to the mountain, move it to the\r\n"
+"<Color:7>snow gear<Color:Default> bag on your <Color:7>Equipment "
+"screen<Color:Default>. Deer meat would be good to bring,\r\n"
+"so don't forget to put that into the <Color:7>snow gear<Color:Default> bag!"
+msgstr ""
+
+msgctxt "944_Mountain Gear"
+msgid ""
+"If you cancel an outing to the mountain, any items you\r\n"
+"already put in your bag will be moved to the <Color:7>Item "
+"Box<Color:Default>."
+msgstr ""
+
+msgctxt "992_Sakurai"
+msgid "Okay, you take care out there."
+msgstr ""
+
+msgctxt "1016_Sakurai"
+msgid ""
+"Wait, after all the trouble you went through to get it, you're not going to "
+"take any food with you? Look, being out in the cold saps your strength. "
+"You'll need nourishment!"
+msgstr ""
+
+msgctxt "1028_Mountain Gear"
+msgid ""
+"To bring an item with you to the mountain, move it to the\r\n"
+"<Color:7>snow gear<Color:Default> bag on your <Color:7>Equipment "
+"screen<Color:Default>. You can switch\r\n"
+"between the Item Box and your Inventory with "
+"<Action:Button_L1@Hunter_And_Killer> and "
+"<Action:Button_R1@Hunter_And_Killer>.\r\n"
+"Don't forget to pack some deer meat in your <Color:7>snow "
+"gear<Color:Default> bag!"
+msgstr ""
+
+msgctxt "1052_Sakurai"
+msgid "Wait, Saejima, don't you have any deer meat?"
+msgstr ""
+
+msgctxt "1064_Sakurai"
+msgid "Well, that won't do! Here, take this."
+msgstr ""
+
+msgctxt "1112_Sakurai"
+msgid "Nah, I ain't ready yet."
+msgstr ""
+
+msgctxt "1124_Sakurai"
+msgid "Okay. Tell me when you are."
+msgstr ""
+
+msgctxt "1136_Saejima"
+msgid "Sure thing."
+msgstr ""
+
+msgctxt "1208_Sakurai"
+msgid ""
+"His wife might be okay with lending it to you, but I don't know about "
+"Nishina-san himself... Might as well ask, though."
+msgstr ""
+
+msgctxt "1220_Saejima"
+msgid "Think I'm gonna go into the wild."
+msgstr ""
+
+msgctxt "1232_Sakurai"
+msgid "You're going after Okudera-san, aren't you?"
+msgstr ""
+
+msgctxt "1244_Saejima"
+msgid "Yeah... but also I'm gonna start huntin' on my own."
+msgstr ""
+
+msgctxt "1256_Sakurai"
+msgid "Wow. Really?"
+msgstr ""
+
+msgctxt "1268_Saejima"
+msgid ""
+"Nishina's wife was kind enough to share some food. I'm gonna repay her by "
+"catchin' some wild game."
+msgstr ""
+
+msgctxt "1280_Sakurai"
+msgid "Good luck..."
+msgstr ""
+
+msgctxt "1292_Saejima"
+msgid "Hey, if ya wanna be helpful, ya got a gun I can borrow?"
+msgstr ""
+
+msgctxt "1304_Sakurai"
+msgid ""
+"Hah. Before that, there's your clothes to deal with. You can't hunt wearing "
+"that－every animal's gonna see you from a mile away!"
+msgstr ""
+
+msgctxt "1316_Saejima"
+msgid "Well, what should I do?"
+msgstr ""
+
+msgctxt "1328_Sakurai"
+msgid ""
+"Hmm... I might have something in storage if you don't mind it being old. "
+"You won't look stylish, that's for sure."
+msgstr ""
+
+msgctxt "1340_Saejima"
+msgid "That don't matter. Be great if I could borrow it."
+msgstr ""
+
+msgctxt "1352_Sakurai"
+msgid "Sure. That just leaves the gun..."
+msgstr ""
+
+msgctxt "1364_Saejima"
+msgid "Ya got anythin'?"
+msgstr ""
+
+msgctxt "1376_Sakurai"
+msgid ""
+"As much as I'd like to help you, I only have one rifle. And I'm a hunter... "
+"We never allow ourselves to be without a gun."
+msgstr ""
+
+msgctxt "1388_Saejima"
+msgid "'Kay..."
+msgstr ""
+
+msgctxt "1400_Sakurai"
+msgid "I seem to remember Nishina-san having an extra one, though."
+msgstr ""
+
+msgctxt "1412_Saejima"
+msgid "That so?"
+msgstr ""
+
+msgctxt "1424_Sakurai"
+msgid ""
+"But who knows if he'd let you borrow it? His wife would be okay with it, "
+"but as for him... Well, he's not on great terms with Okudera-san right now."
+msgstr ""
+
+msgctxt "1436_Saejima"
+msgid "Only one way to find out."
+msgstr ""
+
+msgctxt "1448_Sakurai"
+msgid "True. Go ask him, and in the meantime I'll look for the clothes."
+msgstr ""
+
+msgctxt "1460_Saejima"
+msgid "Got it."
+msgstr ""
+
+msgctxt "1472_Sakurai"
+msgid "You wanna head to the mountain? Or do you need more time?"
+msgstr ""
+
+msgctxt "1484_Saejima"
+msgid "Not quite ready yet. Soon, though."
+msgstr ""
+
+msgctxt "1496_Sakurai"
+msgid "Tell me when you're ready. I'll be waiting here."
+msgstr ""
+
+msgctxt "1508_Saejima"
+msgid "I'm ready to go."
+msgstr ""
+
+msgctxt "1520_Sakurai"
+msgid "Okay. Be careful out there, Saejima. Whatever you do, stay near the river."
+msgstr ""
+
+msgctxt "1544_Sakurai"
+msgid "Hey. Did you manage to find some food?"
+msgstr ""
+
+msgctxt "1556_Saejima"
+msgid "Yeah. Someone was kind enough to share."
+msgstr ""
+
+msgctxt "1568_Sakurai"
+msgid ""
+"Good. Um, I have to confess, I actually had some I could've shared with "
+"you... But I wanted to see if you were determined enough to scrounge some "
+"up yourself."
+msgstr ""
+
+msgctxt "1580_Saejima"
+msgid "Heh, so you were testin' me?"
+msgstr ""
+
+msgctxt "1592_Sakurai"
+msgid "Sorry about that. But at least now I know that you're the real deal."
+msgstr ""
+
+msgctxt "1604_Saejima"
+msgid "Glad I passed. Ya got the map ready?"
+msgstr ""
+
+msgctxt "1616_Sakurai"
+msgid "Sure do."
+msgstr ""
+
+msgctxt "1640_Sakurai"
+msgid ""
+"I only drew the basic geography of the place, but it's enough to keep you "
+"from getting lost. Stick to the mountain's trailhead today－that's plenty to "
+"start with."
+msgstr ""
+
+msgctxt "1652_Saejima"
+msgid "Ya think Okudera-han's around there?"
+msgstr ""
+
+msgctxt "1664_Sakurai"
+msgid ""
+"Yeah, probably. I don't think he'd go further than that. Not without a good "
+"reason, anyway."
+msgstr ""
+
+msgctxt "1676_Saejima"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "1688_Sakurai"
+msgid ""
+"It's nothing. Like I said, the trailhead area should be enough for you "
+"today. The rest of the map's just in case you go back some other time."
+msgstr ""
+
+msgctxt "1700_Sakurai"
+msgid ""
+"I recommend you add your own notes, like about landmarks and stuff. There's "
+"no better guide than the one you make yourself!"
+msgstr ""
+
+msgctxt "1712_Saejima"
+msgid "Good point."
+msgstr ""
+
+msgctxt "1724_Sakurai"
+msgid "First things first. Look here on the map."
+msgstr ""
+
+msgctxt "1736_Sakurai"
+msgid ""
+"That's the trailhead closest to the village. That's where you start "
+"ascending."
+msgstr ""
+
+msgctxt "1748_Sakurai"
+msgid "And you should take that path when you're coming back as well."
+msgstr ""
+
+msgctxt "1760_Sakurai"
+msgid "The winding blue line is <Color:7>Mato River<Color:Default>."
+msgstr ""
+
+msgctxt "1772_Sakurai"
+msgid ""
+"Just work your way up along it, and you won't get lost. Yeah, definitely "
+"stay near the river for now."
+msgstr ""
+
+msgctxt "1784_Saejima"
+msgid "Got it. 'Preciate all you've done, Sakurai-han."
+msgstr ""
+
+msgctxt "1796_Sakurai"
+msgid ""
+"Well, I definitely can't do anything more! So are you planning to leave "
+"now? Or do you need time to get ready?"
+msgstr ""
+
+msgctxt "1808_Saejima"
+msgid "Not quite ready yet. Soon, though."
+msgstr ""
+
+msgctxt "1820_Sakurai"
+msgid "Tell me when you're ready. I'll be waiting here."
+msgstr ""
+
+msgctxt "1832_Saejima"
+msgid "I'm ready to go."
+msgstr ""
+
+msgctxt "1844_Sakurai"
+msgid "Okay. Be careful out there, Saejima. Whatever you do, stay near the river."
+msgstr ""
+
+msgctxt "1868_Sakurai"
+msgid ""
+"While I'm drawing the map, why don't you try scrounging up some food? If "
+"you explain your situation, someone might give you what little they have to "
+"spare."
+msgstr ""
+
+msgctxt "1880_Sakurai"
+msgid "You're not really going up to the mountain, are you?"
+msgstr ""
+
+msgctxt "1892_Sakurai"
+msgid "Take my advice－go back home."
+msgstr ""
+
+msgctxt "1904_Saejima"
+msgid "Fine, I won't go up."
+msgstr ""
+
+msgctxt "1916_Sakurai"
+msgid ""
+"Oh. Interesting. After everything Okudera-san told me, I was expecting you "
+"to be someone with a spine of steel, who wouldn't care what I had to say."
+msgstr ""
+
+msgctxt "1928_Sakurai"
+msgid "But instead, you're wise. You're choosing the safer option."
+msgstr ""
+
+msgctxt "1940_Saejima"
+msgid ""
+"I hafta go up there. I owe my life to Okudera－I can't just leave 'im alone "
+"in a blizzard. Gotta ask ya not to stand in my way."
+msgstr ""
+
+msgctxt "1952_Sakurai"
+msgid "Wow. Y'know... you're just like he said."
+msgstr ""
+
+msgctxt "1964_Saejima"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "1976_Sakurai"
+msgid "Yeah. Here's something else that Okudera-san said to me:"
+msgstr ""
+
+msgctxt "1988_Sakurai"
+msgid ""
+"\"Saejima won't listen if you try to stop him. But, try anyway. And then "
+"help him so at least he won't come blundering in blindly.\""
+msgstr ""
+
+msgctxt "2000_Saejima"
+msgid "Okudera-han said that?"
+msgstr ""
+
+msgctxt "2012_Sakurai"
+msgid ""
+"Yeah. He knew you wouldn't give up. And neither of us wants you to rush "
+"into this not knowing up from down."
+msgstr ""
+
+msgctxt "2024_Saejima"
+msgid "Alright. So what do I do?"
+msgstr ""
+
+msgctxt "2036_Sakurai"
+msgid ""
+"First, your clothing. Hm... Actually, what you're wearing right now should "
+"be good enough. After all, it's not like you'll be hunting or anything."
+msgstr ""
+
+msgctxt "2048_Saejima"
+msgid "Been good against the cold so far."
+msgstr ""
+
+msgctxt "2060_Sakurai"
+msgid "So that only leaves two things: food for emergencies, and a good map."
+msgstr ""
+
+msgctxt "2072_Saejima"
+msgid "How do I get those?"
+msgstr ""
+
+msgctxt "2084_Sakurai"
+msgid ""
+"I'll draw you a map. But food might be a problem. It's hard enough for the "
+"villagers to just feed themselves."
+msgstr ""
+
+msgctxt "2096_Saejima"
+msgid "I b'lieve that..."
+msgstr ""
+
+msgctxt "2108_Sakurai"
+msgid "While I'm drawing the map, why don't you try scrounging up some food?"
+msgstr ""
+
+msgctxt "2120_Sakurai"
+msgid ""
+"If you explain your situation, someone might give you what little they have "
+"to spare."
+msgstr ""
+
+msgctxt "2132_Saejima"
+msgid "Okay. I'll give it a try."
+msgstr ""
