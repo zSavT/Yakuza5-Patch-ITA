@@ -1,0 +1,838 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-31\n"
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2012"
+msgid "You got <Color:8>5,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "2048"
+msgid "You got <Color:8>Black Belt<Color:Default>."
+msgstr ""
+
+msgctxt "2096"
+msgid "You got <Color:8>8,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "2132"
+msgid "You got <Color:8>Fighter's Binding<Color:Default>."
+msgstr ""
+
+msgctxt "2180"
+msgid "You got <Color:8>Gauntlets<Color:Default>."
+msgstr ""
+
+msgctxt "2228"
+msgid "You got <Color:8>10,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "2264"
+msgid "You got <Color:8>Toughness Emperor<Color:Default>."
+msgstr ""
+
+msgctxt "2312"
+msgid "You got <Color:8>15,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "2348"
+msgid "You got <Color:8>Bottomless Lighter<Color:Default>."
+msgstr ""
+
+msgctxt "2420"
+msgid "You got <Color:8>20,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "32844"
+msgid "Store Owner"
+msgstr ""
+
+msgctxt "32848"
+msgid "Young Woman"
+msgstr ""
+
+msgctxt "32852"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "32856"
+msgid "Young Man"
+msgstr ""
+
+msgctxt "32860"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "32864"
+msgid "Owner"
+msgstr ""
+
+msgctxt "32868"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "32872"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "32876"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "32880"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "32884"
+msgid "Shinada"
+msgstr ""
+
+msgctxt "32888"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "32892"
+msgid "Player"
+msgstr ""
+
+msgctxt "32896"
+msgid "Talk_Cry"
+msgstr ""
+
+msgctxt "32900"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "32904"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "32908"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "32912"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "32916"
+msgid "dummy"
+msgstr ""
+
+msgctxt "32920"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "32924"
+msgid "Talk_Get"
+msgstr ""
+
+msgctxt "152_Store Owner"
+msgid "Would you like to buy some local specialties? Go ahead and take a look!"
+msgstr ""
+
+msgctxt "164_Young Woman"
+msgid "There isn't anything that really grabs me."
+msgstr ""
+
+msgctxt "176_Young Man"
+msgid "Yeah. Nothing looks that tasty."
+msgstr ""
+
+msgctxt "188_Young Woman"
+msgid "Those treats we got in Hokkaido were so delicious."
+msgstr ""
+
+msgctxt "200_Young Man"
+msgid ""
+"I can't agree more. They keep that up, and they'll have customers lining up "
+"for days."
+msgstr ""
+
+msgctxt "212_Young Woman"
+msgid "You're not wrong there. Nothing's really calling to me."
+msgstr ""
+
+msgctxt "224_Young Man"
+msgid "The movie's going to start soon. Let's get going."
+msgstr ""
+
+msgctxt "236_Young Woman"
+msgid "Oh, shoot, you're right! Let's go!"
+msgstr ""
+
+msgctxt "284_Store Owner"
+msgid "Oh, dear..."
+msgstr ""
+
+msgctxt "296_Store Owner"
+msgid "I guess my merchandise just isn't any good..."
+msgstr ""
+
+msgctxt "320_Store Owner"
+msgid ""
+"Welcome! I sell local specialties at a store nearby! Please come take a "
+"look!"
+msgstr ""
+
+msgctxt "344_Kiryu"
+msgid "(Nothing but senbei and manju... Pretty conventional stuff.)"
+msgstr ""
+
+msgctxt "356_Akiyama"
+msgid "(Nothing but senbei and manju... Pretty boring.)"
+msgstr ""
+
+msgctxt "368_Saejima"
+msgid "(Nothin' but senbei and manju... Ain't all that exciting.)"
+msgstr ""
+
+msgctxt "380_Shinada"
+msgid "(Nothing but senbei and manju... Pretty conventional stuff.)"
+msgstr ""
+
+msgctxt "392_Haruka"
+msgid "(Senbei and manju... It doesn't look all that appealing.)"
+msgstr ""
+
+msgctxt "404_Store Owner"
+msgid "What do you think? Not to your liking?"
+msgstr ""
+
+msgctxt "416_Player"
+msgid "......"
+msgstr ""
+
+msgctxt "428_Store Owner"
+msgid "......"
+msgstr ""
+
+msgctxt "440_Store Owner"
+msgid ""
+"You don't need to say anything. I can tell from your face that you don't "
+"see anything you like."
+msgstr ""
+
+msgctxt "452_Store Owner"
+msgid ""
+"What am I going to do!? My supplier doesn't have anything decent, and I've "
+"already paid the rent on this store!"
+msgstr ""
+
+msgctxt "464_Store Owner"
+msgid ""
+"I've never even been on a trip myself! How am I supposed to know what "
+"souvenirs sell!?"
+msgstr ""
+
+msgctxt "476_Store Owner"
+msgid ""
+"I just saw on the TV that local specialties were all the rage! I thought "
+"I'd be knee-deep in cash by now!"
+msgstr ""
+
+msgctxt "488_Store Owner"
+msgid "You... wouldn't happen to be from out of town, would you?"
+msgstr ""
+
+msgctxt "512_Kiryu"
+msgid "Yeah, I came from Fukuoka."
+msgstr ""
+
+msgctxt "524_Akiyama"
+msgid "Yeah, I'm from Osaka."
+msgstr ""
+
+msgctxt "536_Saejima"
+msgid "Yeah, I came from Hokkaido."
+msgstr ""
+
+msgctxt "548_Shinada"
+msgid "Yeah, I came here from Nagoya."
+msgstr ""
+
+msgctxt "560_Haruka"
+msgid "Actually, yes. I came from Osaka."
+msgstr ""
+
+msgctxt "572_Store Owner"
+msgid "Perfect! Then you must know all about the local specialties there, right?"
+msgstr ""
+
+msgctxt "584_Store Owner"
+msgid ""
+"Could you bring me some of them? I know it's a huge favor, but I swear "
+"you'll be well rewarded!"
+msgstr ""
+
+msgctxt "596_Store Owner"
+msgid ""
+"Might be hard to believe, but I'm somewhat of a whiz at marketing. Wanna "
+"know why?"
+msgstr ""
+
+msgctxt "608_Store Owner"
+msgid ""
+"So you know those singles mixers? Those things are chock full of college "
+"students and business women, and let me tell you, those girls know all the "
+"hottest trends."
+msgstr ""
+
+msgctxt "620_Store Owner"
+msgid ""
+"They've given me tons of information on what kinds of specialties I should "
+"be selling. I'll describe them to you, and you bring me items that match "
+"those descriptions."
+msgstr ""
+
+msgctxt "632_Store Owner"
+msgid ""
+"I'll reward you well, of course. And your help would mean so much to me and "
+"my business!"
+msgstr ""
+
+msgctxt "644_Store Owner"
+msgid ""
+"Oh, and you don't need to go out of your way. Just stop by a store while "
+"you're doing your thing whenever you've got time."
+msgstr ""
+
+msgctxt "668_Kiryu"
+msgid "I don't mind doing it on the side."
+msgstr ""
+
+msgctxt "680_Akiyama"
+msgid "Yeah, I could do that at some point."
+msgstr ""
+
+msgctxt "692_Saejima"
+msgid "All right, if I remember."
+msgstr ""
+
+msgctxt "704_Shinada"
+msgid "I'll do it if I get something in return."
+msgstr ""
+
+msgctxt "716_Haruka"
+msgid "I'll look around if I get a chance."
+msgstr ""
+
+msgctxt "728_Store Owner"
+msgid ""
+"Thank you! Well, I'll go and do some marketing research. Come and see me "
+"again sometime."
+msgstr ""
+
+msgctxt "752_Store Owner"
+msgid ""
+"I'm currently looking for souvenirs from regional cities. If you have any, "
+"I'd gladly take them off your hands."
+msgstr ""
+
+msgctxt "764_Store Owner"
+msgid "This is what I'm looking for right now."
+msgstr ""
+
+msgctxt "812_Store Owner"
+msgid "That's absolutely perfect! Just what I was looking for!"
+msgstr ""
+
+msgctxt "836_Store Owner"
+msgid "Keep up the good work!"
+msgstr ""
+
+msgctxt "848_Store Owner"
+msgid "I'm afraid I don't need that right now. Do you have anything else?"
+msgstr ""
+
+msgctxt "872_Store Owner"
+msgid ""
+"The original spicy fish roe flavor from Fukuya, which has been dedicated to "
+"quality since it opened."
+msgstr ""
+
+msgctxt "884_Store Owner"
+msgid ""
+"The secret to its enduring popularity is the tweaks they make based on "
+"customer feedback to fine-tune the flavor for each generation."
+msgstr ""
+
+msgctxt "896_Store Owner"
+msgid ""
+"Each plump piece of cod roe is bursting with goodness and lets the flavors "
+"of the ingredients shine."
+msgstr ""
+
+msgctxt "920_Store Owner"
+msgid ""
+"A mild-flavored spicy fish roe for those who don't like too much kick in "
+"their food."
+msgstr ""
+
+msgctxt "932_Store Owner"
+msgid ""
+"By bringing down the signature spiciness a notch, you can enjoy the flavors "
+"of the roe even more."
+msgstr ""
+
+msgctxt "956_Store Owner"
+msgid ""
+"Hot Emperor was created to answer the demand for a spicy fish roe packed "
+"with only the finest red chili peppers."
+msgstr ""
+
+msgctxt "968_Store Owner"
+msgid ""
+"Seven different spices are mixed into a sophisticated blend that takes "
+"advantage of the characteristics of each, adding depth to the taste."
+msgstr ""
+
+msgctxt "980_Store Owner"
+msgid ""
+"One bite sends waves of heat throughout the body, making this the perfect "
+"spicy fish roe for chili aficionados."
+msgstr ""
+
+msgctxt "1004_Store Owner"
+msgid "This product was created for customers who long for a taste of the old days."
+msgstr ""
+
+msgctxt "1016_Store Owner"
+msgid ""
+"The balance of flavorsome roasted chili peppers and salt recreates the "
+"original that first went on sale in 1949."
+msgstr ""
+
+msgctxt "1028_Store Owner"
+msgid ""
+"The heat catches up with you after a few bites, complementing its delicious "
+"flavor perfectly."
+msgstr ""
+
+msgctxt "1052_Store Owner"
+msgid ""
+"This confection features sweet Hokkaido beans enveloped in a soft, "
+"mochi-like shell. It has been a Hakata favorite for over thirty years."
+msgstr ""
+
+msgctxt "1064_Store Owner"
+msgid ""
+"It was awarded the Prime Minister's Prize at the 19th National "
+"Confectionery Exposition."
+msgstr ""
+
+msgctxt "1076_Store Owner"
+msgid ""
+"It has a natural, rustic flavor and remains one of the flagship Hakata "
+"confections of manufacturer Saemon."
+msgstr ""
+
+msgctxt "1088_Store Owner"
+msgid ""
+"Phrases from the Burabura theme song have entered the lexicon, and Hakata "
+"locals will even dance to it when it comes on."
+msgstr ""
+
+msgctxt "1100_Store Owner"
+msgid ""
+"The picture on the package was apparently modeled after the chairman of the "
+"company."
+msgstr ""
+
+msgctxt "1124_Store Owner"
+msgid ""
+"Flavorsome yellow bean jam inside plump pastry. It has a mellow taste and "
+"isn't sickeningly sweet."
+msgstr ""
+
+msgctxt "1136_Store Owner"
+msgid ""
+"Tsurunoko has been a popular confection in Hakata since it was first made "
+"in 1905."
+msgstr ""
+
+msgctxt "1160_Store Owner"
+msgid "Hakata Niwaka is a traditional folk art familiar to all Hakata residents."
+msgstr ""
+
+msgctxt "1172_Store Owner"
+msgid ""
+"Niwaka Senbei are amusing treats made in the shape of the half-masks used "
+"in the art."
+msgstr ""
+
+msgctxt "1184_Store Owner"
+msgid ""
+"Made with a generous amount of the finest flour and eggs and baked a golden "
+"brown, they are famous for their crunchy texture and egg flavor."
+msgstr ""
+
+msgctxt "1196_Store Owner"
+msgid "Each box contains a mask, reflecting the playful spirit of Hakata's people."
+msgstr ""
+
+msgctxt "1220_Store Owner"
+msgid ""
+"A local specialty made by Hanamidori, one of Hakata's most famous mizutaki "
+"restaurants."
+msgstr ""
+
+msgctxt "1232_Store Owner"
+msgid ""
+"This handmade treat is full of their house brand spicy fish roe and is a "
+"perfect accompaniment to any meal or drink."
+msgstr ""
+
+msgctxt "1256_Store Owner"
+msgid "A new favorite that combines potato chips and chocolate."
+msgstr ""
+
+msgctxt "1268_Store Owner"
+msgid ""
+"The light and crunchy potato chips are cut extra thin and coated with a "
+"layer of chocolate on one side that retains the potato aroma."
+msgstr ""
+
+msgctxt "1280_Store Owner"
+msgid ""
+"Sweet chocolate and salty potato chips blend together into a perfect "
+"harmony."
+msgstr ""
+
+msgctxt "1304_Store Owner"
+msgid ""
+"Cat tongue cookies are baked just long enough to add a golden tinge to the "
+"edges of the white cookie."
+msgstr ""
+
+msgctxt "1316_Store Owner"
+msgid ""
+"To get just the right result, the oven temperature must be monitored "
+"carefully."
+msgstr ""
+
+msgctxt "1328_Store Owner"
+msgid ""
+"The white chocolate sandwiched between the cookie halves is a blend created "
+"specially for Shiroi Koibito."
+msgstr ""
+
+msgctxt "1340_Store Owner"
+msgid ""
+"The sweet, smooth chocolate in the center adds the final touch to the "
+"Shiroi Koibito cookie, which has been a favorite for over thirty years."
+msgstr ""
+
+msgctxt "1364_Store Owner"
+msgid ""
+"Nature's finest, golden-yellow corn coated with high quality white "
+"chocolate."
+msgstr ""
+
+msgctxt "1376_Store Owner"
+msgid ""
+"One bite is enough to convey that this treat is a labor of love with "
+"nature's blessings from the fields of the north."
+msgstr ""
+
+msgctxt "1388_Store Owner"
+msgid ""
+"Particular attention is paid to preserving the original flavor of the "
+"ingredients."
+msgstr ""
+
+msgctxt "1400_Store Owner"
+msgid ""
+"This handmade delicacy is the result of a painstaking effort to do justice "
+"to nature's wonders."
+msgstr ""
+
+msgctxt "1424_Store Owner"
+msgid ""
+"Sapporo Agricultural College, a predecessor to Hokkaido University, was "
+"founded in 1876. Its teachers included Dr. William S. Clark."
+msgstr ""
+
+msgctxt "1436_Store Owner"
+msgid ""
+"It produced much talent based on the philosophies of frontier spirit, "
+"global perspective, all-round education, and practical learning."
+msgstr ""
+
+msgctxt "1448_Store Owner"
+msgid ""
+"This luxurious cookie includes generous amounts of Hokkaido milk. Its "
+"light, melt-in-your-mouth texture is enjoyed across Japan."
+msgstr ""
+
+msgctxt "1472_Store Owner"
+msgid ""
+"Sapporo Curry Yoshimi, known for Sapporo's famous soup curries, created "
+"this novel take on the rice cracker with a great flavor and aroma."
+msgstr ""
+
+msgctxt "1484_Store Owner"
+msgid ""
+"The chef's original spicy garam masala seals the deal, along with the "
+"aromatic shrimp baked into the senbei cracker."
+msgstr ""
+
+msgctxt "1496_Store Owner"
+msgid "They recreate an authentic soup curry taste."
+msgstr ""
+
+msgctxt "1508_Store Owner"
+msgid ""
+"Direct from the factory in Hokkaido to you! Individually wrapped crackers "
+"you can enjoy whenever you like."
+msgstr ""
+
+msgctxt "1532_Store Owner"
+msgid ""
+"A snack that replicates the taste of Sekai no Yamachan's premium chicken "
+"wings."
+msgstr ""
+
+msgctxt "1544_Store Owner"
+msgid ""
+"Their moist texture and aromatic fragrance make it hard to stop eating once "
+"you start."
+msgstr ""
+
+msgctxt "1568_Store Owner"
+msgid ""
+"You can recreate the taste of Yamamotoya Honten at home easily by simply "
+"boiling this in water."
+msgstr ""
+
+msgctxt "1580_Store Owner"
+msgid "Enjoy the delicious taste of freshly cooked noodles."
+msgstr ""
+
+msgctxt "1604_Store Owner"
+msgid ""
+"The aromatic Azuki Tsubu-an is made from meticulously steamed Hokkaido red "
+"beans."
+msgstr ""
+
+msgctxt "1616_Store Owner"
+msgid ""
+"The light-tasting Matcha-an is made with local Aichi Prefecture green tea, "
+"resulting in a mellow taste."
+msgstr ""
+
+msgctxt "1628_Store Owner"
+msgid "The Beni Tsubu-an is a colorful confection with white azuki beans."
+msgstr ""
+
+msgctxt "1652_Store Owner"
+msgid ""
+"Edo period traditions and skills are behind the flavorsome taste of this "
+"treat, which is made with carefully cooked fresh shrimp."
+msgstr ""
+
+msgctxt "1664_Store Owner"
+msgid ""
+"The manufacturer contacts producers directly to select only the best "
+"ingredients, and the manufacturing process locks the freshness in."
+msgstr ""
+
+msgctxt "1676_Store Owner"
+msgid "This confection lets you sample the taste of nature."
+msgstr ""
+
+msgctxt "1700_Store Owner"
+msgid ""
+"These rice cakes are made with non-glutinous rice flour, giving them a "
+"springy yet firm feel. Much effort has been put into their refined flavor."
+msgstr ""
+
+msgctxt "1712_Store Owner"
+msgid "They have a simple, elegant texture and feature five sweet-smelling flavors."
+msgstr ""
+
+msgctxt "1724_Store Owner"
+msgid "White tea, black tea, green tea, freshly steeped tea, and cherry blossom."
+msgstr ""
+
+msgctxt "1748_Store Owner"
+msgid "A juicy fried squid topped off with Kushikatsu Daruma's one-dip only sauce."
+msgstr ""
+
+msgctxt "1760_Store Owner"
+msgid ""
+"The subtle fragrance of the sauce and the delicious squid make this a real "
+"delicacy."
+msgstr ""
+
+msgctxt "1784_Store Owner"
+msgid "Osaka's famous 551 Horai Pork Buns are each lovingly shaped by expert chefs."
+msgstr ""
+
+msgctxt "1796_Store Owner"
+msgid ""
+"The pork is of course the star of the show, and it is diced instead of "
+"minced to produce a better texture."
+msgstr ""
+
+msgctxt "1808_Store Owner"
+msgid "The sweet onion and juicy pork create a taste sensation in your mouth!"
+msgstr ""
+
+msgctxt "1820_Store Owner"
+msgid ""
+"The other key point is the bun, which has a slight sweetness to bring out "
+"the flavor of the other ingredients."
+msgstr ""
+
+msgctxt "1844_Store Owner"
+msgid ""
+"These takoyaki contain choice ingredients and are cooked by hand on a "
+"special copper plate using bamboo chopsticks."
+msgstr ""
+
+msgctxt "1856_Store Owner"
+msgid ""
+"Most Osaka residents can even sing the commercial's jingle. Takomasa's "
+"takoyaki is pretty much Osaka's most famous specialty food."
+msgstr ""
+
+msgctxt "1880_Store Owner"
+msgid ""
+"Tsuruhashi Fugetsu's okonomiyaki is a healthy and addictive traditional "
+"treat."
+msgstr ""
+
+msgctxt "1892_Store Owner"
+msgid ""
+"All the sauce and other toppings are inside, so you can just heat it up in "
+"the microwave when you want to enjoy the authentic taste."
+msgstr ""
+
+msgctxt "1904_Store Owner"
+msgid ""
+"Each one is cooked by hand, so the taste is identical to what you can enjoy "
+"at the restaurant itself."
+msgstr ""
+
+msgctxt "1928_Store Owner"
+msgid ""
+"Osaka's famous okonomiyaki in cracker form. This snack features the strong "
+"taste of dried bonito and sauce, and it goes well with beer."
+msgstr ""
+
+msgctxt "1940_Store Owner"
+msgid "Packaged in bite-sized pieces, they can be enjoyed anywhere easily."
+msgstr ""
+
+msgctxt "1964_Store Owner"
+msgid ""
+"I see. Well, if you come across any good specialty products, please be sure "
+"to bring them to me."
+msgstr ""
+
+msgctxt "1988_Store Owner"
+msgid "Keep up the good work!"
+msgstr ""
+
+msgctxt "2000_Store Owner"
+msgid "Thank you so much! You're a lifesaver. Here is the reward I promised you."
+msgstr ""
+
+msgctxt "2024_Store Owner"
+msgid "Keep an eye out for anything else!"
+msgstr ""
+
+msgctxt "2036_Store Owner"
+msgid "Thank you so much! You're a lifesaver. Here is the reward I promised you."
+msgstr ""
+
+msgctxt "2072_Store Owner"
+msgid "Keep an eye out for anything else!"
+msgstr ""
+
+msgctxt "2084_Store Owner"
+msgid "Thank you so much! You're a lifesaver. Here is the reward I promised you."
+msgstr ""
+
+msgctxt "2108_Store Owner"
+msgid "Keep an eye out for anything else!"
+msgstr ""
+
+msgctxt "2120_Store Owner"
+msgid "Thank you so much! You're a lifesaver. Here is the reward I promised you."
+msgstr ""
+
+msgctxt "2156_Store Owner"
+msgid "Keep an eye out for anything else!"
+msgstr ""
+
+msgctxt "2168_Store Owner"
+msgid "Thank you so much! You're a lifesaver. Here is the reward I promised you."
+msgstr ""
+
+msgctxt "2204_Store Owner"
+msgid "Keep an eye out for anything else!"
+msgstr ""
+
+msgctxt "2216_Store Owner"
+msgid "Thank you so much! You're a lifesaver. Here is the reward I promised you."
+msgstr ""
+
+msgctxt "2240_Store Owner"
+msgid "Keep an eye out for anything else!"
+msgstr ""
+
+msgctxt "2252_Store Owner"
+msgid "Thank you so much! You're a lifesaver. Here is the reward I promised you."
+msgstr ""
+
+msgctxt "2288_Store Owner"
+msgid "Keep an eye out for anything else!"
+msgstr ""
+
+msgctxt "2300_Store Owner"
+msgid "Thank you so much! You're a lifesaver. Here is the reward I promised you."
+msgstr ""
+
+msgctxt "2324_Store Owner"
+msgid "Keep an eye out for anything else!"
+msgstr ""
+
+msgctxt "2336_Store Owner"
+msgid "Thank you so much! You're a lifesaver. Here is the reward I promised you."
+msgstr ""
+
+msgctxt "2372_Store Owner"
+msgid "Keep an eye out for anything else!"
+msgstr ""
+
+msgctxt "2384_Store Owner"
+msgid "Thank you so much. I think I've gathered enough souvenirs for now."
+msgstr ""
+
+msgctxt "2396_Store Owner"
+msgid "Business is booming thanks to you. I've had tons of new customers."
+msgstr ""
+
+msgctxt "2408_Store Owner"
+msgid ""
+"This is a little gift to show my appreciation for what you did for me. "
+"Please take it."
+msgstr ""
+
+msgctxt "2432_Store Owner"
+msgid "Thank you so very much!"
+msgstr ""
+
+msgctxt "2444_Store Owner"
+msgid "You've been a big help!"
+msgstr ""
