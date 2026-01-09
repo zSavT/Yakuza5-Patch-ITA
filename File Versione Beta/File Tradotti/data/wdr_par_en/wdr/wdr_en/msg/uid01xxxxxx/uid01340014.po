@@ -1,0 +1,1347 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "31140"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "31144"
+msgid "Riku"
+msgstr "Riku"
+
+msgctxt "31148"
+msgid "cab_riku_q_01/riku_25_0001"
+msgstr "cab_riku_q_01/riku_25_0001"
+
+msgctxt "31152"
+msgid "○Food"
+msgstr "○Cibo"
+
+msgctxt "31156"
+msgid "□Things You Want"
+msgstr "□Cose che desideri"
+
+msgctxt "31160"
+msgid "△Your Job"
+msgstr "△Il tuo lavoro"
+
+msgctxt "31164"
+msgid "F_CAB_TLK_sitsofa_yes_02"
+msgstr "F_CAB_TLK_sitsofa_yes_02"
+
+msgctxt "31168"
+msgid "cab_riku_q_01/riku_25_0002"
+msgstr "cab_riku_q_01/riku_25_0002"
+
+msgctxt "31172"
+msgid "cab_riku_q_01/riku_25_0003"
+msgstr "cab_riku_q_01/riku_25_0003"
+
+msgctxt "31176"
+msgid "F_CAB_TLK_sitsofa_no_02"
+msgstr "F_CAB_TLK_sitsofa_no_02"
+
+msgctxt "31180"
+msgid "cab_riku_q_01/riku_25_0004"
+msgstr "cab_riku_q_01/riku_25_0004"
+
+msgctxt "31184"
+msgid "F_CAB_TLK_sitsofa_resit"
+msgstr "F_CAB_TLK_sitsofa_resit"
+
+msgctxt "31188"
+msgid "cab_riku_q_01/riku_25_0005"
+msgstr "cab_riku_q_01/riku_25_0005"
+
+msgctxt "31192"
+msgid "cab_riku_q_01/riku_25_0006"
+msgstr "cab_riku_q_01/riku_25_0006"
+
+msgctxt "31196"
+msgid "F_CAB_TLK_sitsofa_shigusa_01"
+msgstr "F_CAB_TLK_sitsofa_shigusa_01"
+
+msgctxt "31200"
+msgid "cab_riku_q_01/riku_25_0007"
+msgstr "cab_riku_q_01/riku_25_0007"
+
+msgctxt "31204"
+msgid "cab_riku_q_01/riku_25_0008"
+msgstr "cab_riku_q_01/riku_25_0008"
+
+msgctxt "31208"
+msgid "cab_riku_q_01/riku_25_0009"
+msgstr "cab_riku_q_01/riku_25_0009"
+
+msgctxt "31212"
+msgid "F_CAB_TLK_sitsofa_think"
+msgstr "F_CAB_TLK_sitsofa_think"
+
+msgctxt "31216"
+msgid "cab_riku_q_01/riku_25_0010"
+msgstr "cab_riku_q_01/riku_25_0010"
+
+msgctxt "31220"
+msgid "cab_riku_q_01/riku_25_0011"
+msgstr "cab_riku_q_01/riku_25_0011"
+
+msgctxt "31224"
+msgid "cab_riku_q_01/riku_25_0012"
+msgstr "cab_riku_q_01/riku_25_0012"
+
+msgctxt "31228"
+msgid "cab_riku_q_02/riku_26_0001"
+msgstr "cab_riku_q_02/riku_26_0001"
+
+msgctxt "31232"
+msgid "○Ask About Indoor Hobbies"
+msgstr "○Chiedi degli hobby al chiuso"
+
+msgctxt "31236"
+msgid "□Ask About Outdoor Hobbies"
+msgstr "□Chiedi degli hobby all'aperto"
+
+msgctxt "31240"
+msgid "cab_riku_q_02/riku_26_0002"
+msgstr "cab_riku_q_02/riku_26_0002"
+
+msgctxt "31244"
+msgid "cab_riku_q_02/riku_26_0003"
+msgstr "cab_riku_q_02/riku_26_0003"
+
+msgctxt "31248"
+msgid "○A bit here and there."
+msgstr "○Un po' qua e là."
+
+msgctxt "31252"
+msgid "□Not so much, no."
+msgstr "□Non molto, no."
+
+msgctxt "31256"
+msgid "cab_riku_q_02/riku_26_0004"
+msgstr "cab_riku_q_02/riku_26_0004"
+
+msgctxt "31260"
+msgid "F_CAB_TLK_sitsofa_laugh_m"
+msgstr "F_CAB_TLK_sitsofa_laugh_m"
+
+msgctxt "31264"
+msgid "cab_riku_q_02/riku_26_0005"
+msgstr "cab_riku_q_02/riku_26_0005"
+
+msgctxt "31268"
+msgid "cab_riku_q_02/riku_26_0006"
+msgstr "cab_riku_q_02/riku_26_0006"
+
+msgctxt "31272"
+msgid "cab_riku_q_02/riku_26_0007"
+msgstr "cab_riku_q_02/riku_26_0007"
+
+msgctxt "31276"
+msgid "cab_riku_q_02/riku_26_0008"
+msgstr "cab_riku_q_02/riku_26_0008"
+
+msgctxt "31280"
+msgid "cab_riku_q_02/riku_26_0009"
+msgstr "cab_riku_q_02/riku_26_0009"
+
+msgctxt "31284"
+msgid "cab_riku_q_02/riku_26_0010"
+msgstr "cab_riku_q_02/riku_26_0010"
+
+msgctxt "31288"
+msgid "cab_riku_q_02/riku_26_0011"
+msgstr "cab_riku_q_02/riku_26_0011"
+
+msgctxt "31292"
+msgid "cab_riku_q_02/riku_26_0012"
+msgstr "cab_riku_q_02/riku_26_0012"
+
+msgctxt "31296"
+msgid "F_CAB_TLK_sitsofa_aiduchi"
+msgstr "F_CAB_TLK_sitsofa_aiduchi"
+
+msgctxt "31300"
+msgid "cab_riku_q_03/riku_27_0001"
+msgstr "cab_riku_q_03/riku_27_0001"
+
+msgctxt "31304"
+msgid "○What do you look for in a man?"
+msgstr "○Cosa cerchi in un uomo?"
+
+msgctxt "31308"
+msgid "□Are you okay with cheating?"
+msgstr "□Sei d'accordo con il tradimento?"
+
+msgctxt "31312"
+msgid "△How many guys have you dated?"
+msgstr "△Con quanti ragazzi sei uscita?"
+
+msgctxt "31316"
+msgid "cab_riku_q_03/riku_27_0002"
+msgstr "cab_riku_q_03/riku_27_0002"
+
+msgctxt "31320"
+msgid "cab_riku_q_03/riku_27_0003"
+msgstr "cab_riku_q_03/riku_27_0003"
+
+msgctxt "31324"
+msgid "cab_riku_q_03/riku_27_0004"
+msgstr "cab_riku_q_03/riku_27_0004"
+
+msgctxt "31328"
+msgid "cab_riku_q_03/riku_27_0005"
+msgstr "cab_riku_q_03/riku_27_0005"
+
+msgctxt "31332"
+msgid "cab_riku_q_03/riku_27_0006"
+msgstr "cab_riku_q_03/riku_27_0006"
+
+msgctxt "31336"
+msgid "cab_riku_q_03/riku_27_0007"
+msgstr "cab_riku_q_03/riku_27_0007"
+
+msgctxt "31340"
+msgid "○What if I said yes?"
+msgstr "○E se ti dicessi di sì?"
+
+msgctxt "31344"
+msgid "□What if I said no?"
+msgstr "□E se ti dicessi di no?"
+
+msgctxt "31348"
+msgid "cab_riku_q_03/riku_27_0008"
+msgstr "cab_riku_q_03/riku_27_0008"
+
+msgctxt "31352"
+msgid "cab_riku_q_03/riku_27_0009"
+msgstr "cab_riku_q_03/riku_27_0009"
+
+msgctxt "31356"
+msgid "cab_riku_q_03/riku_27_0010"
+msgstr "cab_riku_q_03/riku_27_0010"
+
+msgctxt "31360"
+msgid "cab_riku_q_03/riku_27_0011"
+msgstr "cab_riku_q_03/riku_27_0011"
+
+msgctxt "31364"
+msgid "cab_riku_q_03/riku_27_0012"
+msgstr "cab_riku_q_03/riku_27_0012"
+
+msgctxt "31368"
+msgid "cab_riku_q_03/riku_27_0013"
+msgstr "cab_riku_q_03/riku_27_0013"
+
+msgctxt "31372"
+msgid "cab_riku_q_03/riku_27_0014"
+msgstr "cab_riku_q_03/riku_27_0014"
+
+msgctxt "31376"
+msgid "cab_riku_q_03/riku_27_0015"
+msgstr "cab_riku_q_03/riku_27_0015"
+
+msgctxt "31380"
+msgid "cab_riku_q_04/riku_28_0001"
+msgstr "cab_riku_q_04/riku_28_0001"
+
+msgctxt "31384"
+msgid "○What's your best feature?"
+msgstr "○Qual è il tuo pregio migliore?"
+
+msgctxt "31388"
+msgid "□What are your shortcomings?"
+msgstr "□Quali sono i tuoi difetti?"
+
+msgctxt "31392"
+msgid "△Do you have any quirks?"
+msgstr "△Hai qualche mania?"
+
+msgctxt "31396"
+msgid "cab_riku_q_04/riku_28_0002"
+msgstr "cab_riku_q_04/riku_28_0002"
+
+msgctxt "31400"
+msgid "○Why's that?"
+msgstr "○Come mai?"
+
+msgctxt "31404"
+msgid "△Let me be the judge of that."
+msgstr "△Lascia che sia io a giudicare."
+
+msgctxt "31408"
+msgid "cab_riku_q_04/riku_28_0003"
+msgstr "cab_riku_q_04/riku_28_0003"
+
+msgctxt "31412"
+msgid "cab_riku_q_04/riku_28_0004"
+msgstr "cab_riku_q_04/riku_28_0004"
+
+msgctxt "31416"
+msgid "○Do you take actual baths?"
+msgstr "○Ti fai dei veri bagni?"
+
+msgctxt "31420"
+msgid "□Are you a shower person?"
+msgstr "□Sei il tipo da doccia?"
+
+msgctxt "31424"
+msgid "cab_riku_q_04/riku_28_0005"
+msgstr "cab_riku_q_04/riku_28_0005"
+
+msgctxt "31428"
+msgid "cab_riku_q_04/riku_28_0006"
+msgstr "cab_riku_q_04/riku_28_0006"
+
+msgctxt "31432"
+msgid "F_CAB_TLK_sitsofa_sorry"
+msgstr "F_CAB_TLK_sitsofa_sorry"
+
+msgctxt "31436"
+msgid "cab_riku_q_04/riku_28_0007"
+msgstr "cab_riku_q_04/riku_28_0007"
+
+msgctxt "31440"
+msgid "cab_riku_q_04/riku_28_0008"
+msgstr "cab_riku_q_04/riku_28_0008"
+
+msgctxt "31444"
+msgid "cab_riku_q_04/riku_28_0009"
+msgstr "cab_riku_q_04/riku_28_0009"
+
+msgctxt "31448"
+msgid "cab_riku_q_04/riku_28_0010"
+msgstr "cab_riku_q_04/riku_28_0010"
+
+msgctxt "31452"
+msgid "cab_riku_q_04/riku_28_0011"
+msgstr "cab_riku_q_04/riku_28_0011"
+
+msgctxt "31456"
+msgid "cab_riku_q_04/riku_28_0012"
+msgstr "cab_riku_q_04/riku_28_0012"
+
+msgctxt "31460"
+msgid "cab_riku_q_04/riku_28_0013"
+msgstr "cab_riku_q_04/riku_28_0013"
+
+msgctxt "31464"
+msgid "cab_riku_q_04/riku_28_0014"
+msgstr "cab_riku_q_04/riku_28_0014"
+
+msgctxt "31468"
+msgid "○I'm the same way."
+msgstr "○Anch'io sono così."
+
+msgctxt "31472"
+msgid "□You should listen better."
+msgstr "□Dovresti ascoltare meglio."
+
+msgctxt "31476"
+msgid "cab_riku_q_04/riku_28_0015"
+msgstr "cab_riku_q_04/riku_28_0015"
+
+msgctxt "31480"
+msgid "F_CAB_TLK_sitsofa_omoituku"
+msgstr "F_CAB_TLK_sitsofa_omoituku"
+
+msgctxt "31484"
+msgid "cab_riku_q_04/riku_28_0016"
+msgstr "cab_riku_q_04/riku_28_0016"
+
+msgctxt "31488"
+msgid "cab_riku_q_04/riku_28_0017"
+msgstr "cab_riku_q_04/riku_28_0017"
+
+msgctxt "31492"
+msgid "cab_riku_q_04/riku_28_0018"
+msgstr "cab_riku_q_04/riku_28_0018"
+
+msgctxt "31496"
+msgid "cab_riku_q_04/riku_28_0019"
+msgstr "cab_riku_q_04/riku_28_0019"
+
+msgctxt "31500"
+msgid "cab_riku_q_04/riku_28_0020"
+msgstr "cab_riku_q_04/riku_28_0020"
+
+msgctxt "31504"
+msgid "cab_riku_q_04/riku_28_0021"
+msgstr "cab_riku_q_04/riku_28_0021"
+
+msgctxt "31508"
+msgid "cab_riku_q_04/riku_28_0022"
+msgstr "cab_riku_q_04/riku_28_0022"
+
+msgctxt "31512"
+msgid "cab_riku_q_04/riku_28_0023"
+msgstr "cab_riku_q_04/riku_28_0023"
+
+msgctxt "31516"
+msgid "cab_riku_q_04/riku_28_0024"
+msgstr "cab_riku_q_04/riku_28_0024"
+
+msgctxt "31520"
+msgid "cab_riku_q_04/riku_28_0025"
+msgstr "cab_riku_q_04/riku_28_0025"
+
+msgctxt "31524"
+msgid "cab_riku_q_05/riku_29_0001"
+msgstr "cab_riku_q_05/riku_29_0001"
+
+msgctxt "31528"
+msgid "○What do you wear to bed?"
+msgstr "○Cosa ti metti per andare a letto?"
+
+msgctxt "31532"
+msgid "□What kind of kisser are you?"
+msgstr "□Che tipo sei quando baci?"
+
+msgctxt "31536"
+msgid "△What are your measurements?"
+msgstr "△Quali sono le tue misure?"
+
+msgctxt "31540"
+msgid "cab_riku_q_05/riku_29_0002"
+msgstr "cab_riku_q_05/riku_29_0002"
+
+msgctxt "31544"
+msgid "cab_riku_q_05/riku_29_0003"
+msgstr "cab_riku_q_05/riku_29_0003"
+
+msgctxt "31548"
+msgid "cab_riku_q_05/riku_29_0004"
+msgstr "cab_riku_q_05/riku_29_0004"
+
+msgctxt "31552"
+msgid "cab_riku_q_05/riku_29_0005"
+msgstr "cab_riku_q_05/riku_29_0005"
+
+msgctxt "31556"
+msgid "cab_riku_q_05/riku_29_0006"
+msgstr "cab_riku_q_05/riku_29_0006"
+
+msgctxt "31560"
+msgid "cab_riku_q_05/riku_29_0007"
+msgstr "cab_riku_q_05/riku_29_0007"
+
+msgctxt "31564"
+msgid "cab_riku_q_05/riku_29_0008"
+msgstr "cab_riku_q_05/riku_29_0008"
+
+msgctxt "31568"
+msgid "cab_riku_q_05/riku_29_0009"
+msgstr "cab_riku_q_05/riku_29_0009"
+
+msgctxt "31572"
+msgid "cab_riku_q_05/riku_29_0010"
+msgstr "cab_riku_q_05/riku_29_0010"
+
+msgctxt "31576"
+msgid "○Ah, okay."
+msgstr "○Ah, capisco."
+
+msgctxt "31580"
+msgid "△So you know your chest size..."
+msgstr "△Quindi conosci la tua taglia di seno..."
+
+msgctxt "31584"
+msgid "cab_riku_q_05/riku_29_0011"
+msgstr "cab_riku_q_05/riku_29_0011"
+
+msgctxt "31588"
+msgid "cab_riku_q_05/riku_29_0012"
+msgstr "cab_riku_q_05/riku_29_0012"
+
+msgctxt "284_Kiryu"
+msgid "So, what kind of things do you like?"
+msgstr "Allora, che genere di cose ti piacciono?"
+
+msgctxt "296_Riku"
+msgid "Huh? Well, what sorta things do ya mean?"
+msgstr "Eh? Beh, che genere di cose intendi?"
+
+msgctxt "308_Kiryu"
+msgid "What kind of food do you like?"
+msgstr "Che genere di cibo ti piace?"
+
+msgctxt "320_Riku"
+msgid "Gotta be potatoes!"
+msgstr "Direi le patate!"
+
+msgctxt "332_Kiryu"
+msgid "That was a quick answer."
+msgstr "È stata una risposta veloce."
+
+msgctxt "344_Riku"
+msgid ""
+"I can't resist the texture of a hot potato! And they're even supposed to be "
+"good for you!"
+msgstr ""
+"Non resisto alla consistenza di una patata bollente! E si dice pure che "
+"facciano bene!"
+
+msgctxt "356_Kiryu"
+msgid "Really? I'd figure it'd be the other way around."
+msgstr "Davvero? Avrei pensato fosse il contrario."
+
+msgctxt "368_Riku"
+msgid ""
+"Nope! They're good for your skin and can clear up swelling and constipation."
+" Plus, they're way lower in calories than y'might think!"
+msgstr ""
+"Ma no! Fanno bene alla pelle e aiutano contro gonfiori e stitichezza. In "
+"più, hanno molte meno calorie di quante potresti pensare!"
+
+msgctxt "380_Kiryu"
+msgid "I didn't know that."
+msgstr "Non lo sapevo."
+
+msgctxt "392_Riku"
+msgid ""
+"Aw, just talkin' about them is making me wanna go out and eat 'em! Kiryu-"
+"san, would ya treat me to some one day?"
+msgstr ""
+"Ah, solo a parlarne mi viene voglia di uscire a mangiarle! Kiryu-san, me le "
+"offriresti un giorno?"
+
+msgctxt "404_Kiryu"
+msgid "Heh, sure thing."
+msgstr "Heh, senz'altro."
+
+msgctxt "416_Kiryu"
+msgid "Is there anything that you want?"
+msgstr "C'è qualcosa che vorresti?"
+
+msgctxt "428_Riku"
+msgid "What? Are you getting me a present?"
+msgstr "Cosa? Mi vuoi fare un regalo?"
+
+msgctxt "440_Kiryu"
+msgid "No... I just want to know."
+msgstr "No... volevo solo saperlo."
+
+msgctxt "452_Riku"
+msgid "Let's see. Y'know, anything's fine by me, really."
+msgstr "Vediamo... Sai, per me va bene tutto, davvero."
+
+msgctxt "464_Kiryu"
+msgid "Are you just saying that?"
+msgstr "Lo dici tanto per dire?"
+
+msgctxt "476_Riku"
+msgid ""
+"No, really. I just mean like, I'm not all that into brand-name stuff, "
+"y'know?"
+msgstr ""
+"No, davvero. Voglio solo dire che non vado poi così matta per la roba di "
+"marca, sai?"
+
+msgctxt "488_Riku"
+msgid ""
+"If I get somethin' wicked expensive, I kinda feel guilty about it and all."
+msgstr ""
+"Se ricevo qualcosa di incredibilmente costoso, finisce che mi sento un po' "
+"in colpa e tutto il resto."
+
+msgctxt "500_Kiryu"
+msgid "Ah, okay. I get what you mean now."
+msgstr "Ah, okay. Ora ho capito cosa intendi."
+
+msgctxt "512_Kiryu"
+msgid "What do you like about your job? Why are you working here?"
+msgstr "Cosa ti piace del tuo lavoro? Perché lavori qui?"
+
+msgctxt "524_Riku"
+msgid "Hm. Well, to earn money."
+msgstr "Hm. Beh, per fare soldi."
+
+msgctxt "536_Kiryu"
+msgid "But it's not an easy job."
+msgstr "Ma non è un lavoro facile."
+
+msgctxt "548_Riku"
+msgid ""
+"Well, sometimes it can be kinda rough, yeah. But I guess that goes for any "
+"job, right?"
+msgstr ""
+"Beh, a volte può essere un po' dura, sì. Ma immagino che valga per qualsiasi"
+" lavoro, no?"
+
+msgctxt "560_Riku"
+msgid ""
+"Plus, I like talkin' to folks. Having the chance to chat up so many people "
+"is right up my alley."
+msgstr ""
+"E poi, mi piace parlare con la gente. Avere l'occasione di chiacchierare con"
+" così tante persone fa proprio al caso mio."
+
+msgctxt "572_Kiryu"
+msgid "I guess it's more fun than I'd thought."
+msgstr "Immagino che sia più divertente di quanto pensassi."
+
+msgctxt "584_Kiryu"
+msgid "What are your hobbies?"
+msgstr "Quali sono i tuoi hobby?"
+
+msgctxt "596_Riku"
+msgid ""
+"Hobbies, huh? Well, lately, I've been wicked busy, so I stay at home a lot."
+msgstr ""
+"Hobby, eh? Beh, ultimamente sono stata incredibilmente impegnata, quindi "
+"passo un sacco di tempo a casa."
+
+msgctxt "608_Kiryu"
+msgid "What do you do at home?"
+msgstr "Cosa fai a casa?"
+
+msgctxt "620_Riku"
+msgid "I've been readin' an awful lot lately."
+msgstr "Ultimamente sto leggendo un sacco."
+
+msgctxt "632_Kiryu"
+msgid "Really? What sort of things do you read?"
+msgstr "Davvero? Che genere di cose leggi?"
+
+msgctxt "644_Riku"
+msgid ""
+"Lately, it's been mysteries. Stuff that's been turned into TV miniseries. Do"
+" you do much readin', Kiryu-san?"
+msgstr ""
+"Ultimamente leggo soprattutto gialli. Roba da cui hanno tratto delle "
+"miniserie TV. Tu leggi molto, Kiryu-san?"
+
+msgctxt "656_Kiryu"
+msgid "A bit here and there."
+msgstr "Un po' qua e là."
+
+msgctxt "668_Riku"
+msgid "Oh yeah? What sorta books do y'read?"
+msgstr "Ah sì? Che genere di libri leggi?"
+
+msgctxt "680_Kiryu"
+msgid ""
+"Well, given how busy I am with work lately, it's mostly been business "
+"manuals and the like."
+msgstr ""
+"Beh, visto quanto sono stato impegnato col lavoro ultimamente, ho letto "
+"soprattutto manuali di business e roba del genere."
+
+msgctxt "692_Riku"
+msgid ""
+"Gotta keep your studies up to snuff, huh? So ya haven't read books for "
+"pleasure then?"
+msgstr ""
+"Devi sempre restare al passo con lo studio, eh? Quindi non hai letto libri "
+"per puro piacere, allora?"
+
+msgctxt "704_Kiryu"
+msgid ""
+"Not lately, no. I've fallen behind on my current events and magazine "
+"reading."
+msgstr ""
+"Ultimamente no. Sono rimasto un po' indietro con l'attualità e la lettura "
+"delle riviste."
+
+msgctxt "716_Riku"
+msgid ""
+"Aww. There are lotsa really good books out there. You oughta try and read "
+"more."
+msgstr ""
+"Ooh. Ci sono un sacco di libri davvero belli in giro. Dovresti provare a "
+"leggere di più."
+
+msgctxt "728_Kiryu"
+msgid "You're right. I should pick something up."
+msgstr "Hai ragione. Dovrei proprio rimediare qualcosa."
+
+msgctxt "740_Kiryu"
+msgid ""
+"Not much, no. When I have time away from work, I mostly read the newspaper."
+msgstr ""
+"Non molto, no. Quando ho un po' di tempo libero dal lavoro, leggo "
+"soprattutto il giornale."
+
+msgctxt "752_Riku"
+msgid "See, I'm the opposite. I ain't never read the paper."
+msgstr "Vedi, io sono l'esatto opposto. Non leggo mai il giornale."
+
+msgctxt "764_Kiryu"
+msgid ""
+"How do you stay up on current events, then? Isn't having conversation topics"
+" at hand a big part of a hostess' job?"
+msgstr ""
+"E come fai a tenerti aggiornata sull'attualità, allora? Avere degli "
+"argomenti di conversazione pronti non è una parte fondamentale del lavoro di"
+" una hostess?"
+
+msgctxt "776_Riku"
+msgid ""
+"I just get all the news on my phone. Readin' the newspaper's a big hassle, "
+"'cause it seems totally disorganized."
+msgstr ""
+"Prendo tutte le notizie dal telefono. Leggere il giornale è una gran "
+"seccatura, perché mi sembra tutto disorganizzato."
+
+msgctxt "788_Kiryu"
+msgid "I guess you're a sign of the times."
+msgstr "Immagino che tu sia un segno dei tempi."
+
+msgctxt "800_Kiryu"
+msgid "What do you do when you're out of the house?"
+msgstr "Cosa fai quando sei fuori casa?"
+
+msgctxt "812_Riku"
+msgid "Oh, I'm really into swimming and stuff."
+msgstr "Oh, mi piace un sacco il nuoto e roba così."
+
+msgctxt "824_Kiryu"
+msgid "I like to swim, too. I used to live in Okinawa, after all."
+msgstr "Anche a me piace nuotare. Dopotutto, ho vissuto a Okinawa."
+
+msgctxt "836_Riku"
+msgid ""
+"Really!? Oh, I'm wicked jealous! I bet the ocean must be real pretty there!"
+msgstr ""
+"Davvero!? Oh, ti invidio un sacco! Scommetto che il mare dev'essere proprio "
+"bello laggiù!"
+
+msgctxt "848_Kiryu"
+msgid "Yeah. Words really don't do it justice."
+msgstr "Sì. Le parole non gli rendono giustizia."
+
+msgctxt "860_Riku"
+msgid "That sounds nice. I'd like to go there someday."
+msgstr "Che bello. Mi piacerebbe andarci, un giorno."
+
+msgctxt "872_Kiryu"
+msgid "Maybe we can go together, just you and me."
+msgstr "Magari potremmo andarci insieme, solo io e te."
+
+msgctxt "884_Riku"
+msgid "Y'mean it? Because I'd totally go!"
+msgstr "Dici sul serio? Perché ci verrei assolutamente!"
+
+msgctxt "896_Kiryu"
+msgid "All right. It's a deal."
+msgstr "Va bene. Affare fatto."
+
+msgctxt "908_Kiryu"
+msgid "What are your thoughts when it comes to romance?"
+msgstr "Cosa ne pensi quando si tratta di romanticismo?"
+
+msgctxt "920_Riku"
+msgid "Romance? Like, in what sense?"
+msgstr "Il romanticismo? Tipo, in che senso?"
+
+msgctxt "932_Kiryu"
+msgid "What do you look for in a man?"
+msgstr "Cosa cerchi in un uomo?"
+
+msgctxt "944_Riku"
+msgid "What do I look for? Hmm. Nothin' specific, really."
+msgstr "Cosa cerco? Mmm. Niente di particolare, in realtà."
+
+msgctxt "956_Kiryu"
+msgid ""
+"That can't be true. You must have some standards, whether it's education, "
+"income, or even height."
+msgstr ""
+"Non può essere vero. Avrai pure dei criteri, che si tratti di istruzione, "
+"reddito o perfino l'altezza."
+
+msgctxt "968_Riku"
+msgid "Like not wantin' someone with a part-time job?"
+msgstr "Tipo non volere qualcuno con un lavoro part-time?"
+
+msgctxt "980_Kiryu"
+msgid "Yeah, that sort of thing."
+msgstr "Sì, qualcosa del genere."
+
+msgctxt "992_Riku"
+msgid ""
+"Hmm. Well, when I like someone, I just kinda get a feeling. Outta the blue, "
+"I just sorta think, \"Yeah, he's nice.\""
+msgstr ""
+"Mmm. Beh, quando mi piace qualcuno, mi scatta un po' una sensazione. Così, "
+"dal nulla, mi viene da pensare: \"Sì, lui è carino\"."
+
+msgctxt "1004_Kiryu"
+msgid "Then I guess there's no way for a guy to gain an advantage with you..."
+msgstr ""
+"Allora mi sa che non c'è modo per un uomo di partire avvantaggiato con te..."
+
+msgctxt "1016_Kiryu"
+msgid "Are you okay with cheating?"
+msgstr "Ti va bene il tradimento?"
+
+msgctxt "1028_Riku"
+msgid "Hmm. Yeah, I guess I'd probably let it slide."
+msgstr "Mmm. Sì, mi sa che probabilmente lascerei correre."
+
+msgctxt "1040_Kiryu"
+msgid "Oh, really? Why's that?"
+msgstr "Oh, davvero? Come mai?"
+
+msgctxt "1052_Riku"
+msgid ""
+"Well, if I really like someone, I don't wanna split up with them right then "
+"and there, even if they cheat on me."
+msgstr ""
+"Beh, se mi piace davvero qualcuno, non voglio mollarlo lì per lì, anche se "
+"mi tradisce."
+
+msgctxt "1064_Kiryu"
+msgid "I see."
+msgstr "Capisco."
+
+msgctxt "1076_Riku"
+msgid "Why do y'ask, Kiryu-san? Do you cheat?"
+msgstr "Perché me lo chiedi, Kiryu-san? Tu tradisci?"
+
+msgctxt "1088_Kiryu"
+msgid "What if I said yes? What would you do?"
+msgstr "E se ti dicessi di sì? Tu che faresti?"
+
+msgctxt "1100_Riku"
+msgid ""
+"Well, I'd be more at ease with ya comin' out with it than keeping it a "
+"secret."
+msgstr ""
+"Beh, mi sentirei più a mio agio se me lo dicessi apertamente piuttosto che "
+"se lo tenessi nascosto."
+
+msgctxt "1112_Kiryu"
+msgid "I see. I understand how you think."
+msgstr "Capisco. Ho capito come la pensi."
+
+msgctxt "1124_Riku"
+msgid ""
+"So, now that you know, what are ya gonna do? You planning on switchin' to "
+"another hostess?"
+msgstr ""
+"Allora, ora che lo sai, che hai intenzione di fare? Pensi di passare a "
+"un'altra hostess?"
+
+msgctxt "1136_Kiryu"
+msgid "Whoa, hey. Would that make you that angry?"
+msgstr "Ehi, ehi. Ti farebbe arrabbiare così tanto?"
+
+msgctxt "1148_Kiryu"
+msgid "What if I said no? Would you believe me?"
+msgstr "E se ti dicessi di no? Mi crederesti?"
+
+msgctxt "1160_Riku"
+msgid "Hmm. Probably not."
+msgstr "Mmm. Probabilmente no."
+
+msgctxt "1172_Kiryu"
+msgid ""
+"See? In the end, talk is cheap. That's why I prove myself through my "
+"actions."
+msgstr ""
+"Vedi? Alla fine le parole contano poco. Per questo dimostro chi sono con i "
+"fatti."
+
+msgctxt "1184_Riku"
+msgid ""
+"Oh yeah? All righty, then. You're gonna come by the club every day from now "
+"on, right?"
+msgstr ""
+"Ah sì? D'accordo, allora. Verrai al club ogni giorno d'ora in poi, giusto?"
+
+msgctxt "1196_Kiryu"
+msgid "I, uh... Yeah. Sure."
+msgstr "Io, ehm... Sì. Certo."
+
+msgctxt "1208_Kiryu"
+msgid "How many guys have you dated?"
+msgstr "Con quanti ragazzi sei uscita?"
+
+msgctxt "1220_Riku"
+msgid "Hmm. Lemme think. Like, five, maybe?"
+msgstr "Mmm. Fammi pensare. Tipo cinque, forse?"
+
+msgctxt "1232_Kiryu"
+msgid "You don't sound too sure about that."
+msgstr "Non sembri molto convinta."
+
+msgctxt "1244_Riku"
+msgid "Wait, no. Three?"
+msgstr "Aspetta, no. Tre?"
+
+msgctxt "1256_Kiryu"
+msgid "Why'd the number go down?"
+msgstr "Perché il numero è sceso?"
+
+msgctxt "1268_Riku"
+msgid ""
+"Well! Like, I don't know where things start to count as dating, is all."
+msgstr ""
+"Beh! È che non so bene da che punto si inizi a considerare come uscire "
+"insieme, tutto qui."
+
+msgctxt "1280_Kiryu"
+msgid "Have you ever actually dated anyone?"
+msgstr "Sei mai uscita davvero con qualcuno?"
+
+msgctxt "1292_Riku"
+msgid ""
+"Geez, Kiryu-san, why do y'have to be such a creep? Do ya always ask these "
+"kinda things?"
+msgstr ""
+"Uffa, Kiryu-san, perché devi fare così il viscido? Fai sempre domande del "
+"genere?"
+
+msgctxt "1304_Kiryu"
+msgid "Fine, you don't have to tell me."
+msgstr "Va bene, non dirmelo allora."
+
+msgctxt "1316_Kiryu"
+msgid "Mind if I ask you something about yourself?"
+msgstr "Ti dispiace se ti chiedo una cosa su di te?"
+
+msgctxt "1328_Riku"
+msgid "About me?"
+msgstr "Su di me?"
+
+msgctxt "1340_Kiryu"
+msgid "What's your best feature?"
+msgstr "Qual è il tuo punto di forza?"
+
+msgctxt "1352_Riku"
+msgid "Hmm. I guess I've got a pretty good collarbone."
+msgstr "Mmh. Direi che ho una bella clavicola."
+
+msgctxt "1364_Kiryu"
+msgid "Why's that?"
+msgstr "Perché?"
+
+msgctxt "1376_Riku"
+msgid "I just like how it's shaped. Did ya know that water pools up in mine?"
+msgstr ""
+"Mi piace proprio la sua forma. Lo sapevi che nella mia ci si raccoglie "
+"l'acqua?"
+
+msgctxt "1388_Kiryu"
+msgid "Ah. They do say that's a mark of beauty."
+msgstr "Ah. Dicono che sia un segno di bellezza."
+
+msgctxt "1400_Riku"
+msgid "Right? I smile when I see myself in the bathroom mirror."
+msgstr "Vero? Sorrido sempre quando mi guardo nello specchio del bagno."
+
+msgctxt "1412_Kiryu"
+msgid "Do you take actual baths?"
+msgstr "Ti fai dei bagni veri e propri?"
+
+msgctxt "1424_Riku"
+msgid ""
+"Oh, I'm absolutely a bath person! You gotta get in a good soak to get "
+"properly refreshed."
+msgstr ""
+"Oh, sono decisamente una tipa da bagno! Devi stare un bel po' a mollo per "
+"rigenerarti come si deve."
+
+msgctxt "1436_Kiryu"
+msgid "Isn't taking baths time-consuming, though?"
+msgstr "Ma farsi il bagno non porta via un sacco di tempo?"
+
+msgctxt "1448_Riku"
+msgid "Well, that's why I read and stuff when I'm in the tub."
+msgstr "Beh, ecco perché leggo e cose così mentre sono nella vasca."
+
+msgctxt "1460_Kiryu"
+msgid "Really?"
+msgstr "Davvero?"
+
+msgctxt "1472_Riku"
+msgid ""
+"Sometimes on my days off, I'll blow through an entire novel while takin' a "
+"soak!"
+msgstr ""
+"A volte, nei miei giorni liberi, mi divoro un intero romanzo mentre me ne "
+"sto a mollo!"
+
+msgctxt "1484_Kiryu"
+msgid "That's incredible."
+msgstr "È incredibile."
+
+msgctxt "1496_Kiryu"
+msgid "Are you a shower person?"
+msgstr "Sei un tipo da doccia?"
+
+msgctxt "1508_Riku"
+msgid ""
+"Oh, I'm absolutely a bath person! You gotta get in a good soak to get "
+"properly refreshed."
+msgstr ""
+"Oh, sono decisamente una tipa da bagno! Devi stare un bel po' a mollo per "
+"rigenerarti come si deve."
+
+msgctxt "1520_Riku"
+msgid "Do you only take showers, Kiryu-san?"
+msgstr "Ti fai solo la doccia, Kiryu-san?"
+
+msgctxt "1532_Kiryu"
+msgid ""
+"I get home from work late a lot of the time. When I do, I just take a quick "
+"shower and then go right to bed."
+msgstr ""
+"Torno spesso a casa tardi dal lavoro. Quando succede, mi faccio solo una "
+"doccia veloce e poi vado dritto a letto."
+
+msgctxt "1544_Riku"
+msgid "I see. I'll cut into my sleep time just to make sure I get a bath in."
+msgstr ""
+"Capisco. Io sacrificherei persino ore di sonno pur di riuscire a farmi un "
+"bagno."
+
+msgctxt "1556_Kiryu"
+msgid "You really like baths, huh?"
+msgstr "Ti piacciono proprio i bagni, eh?"
+
+msgctxt "1568_Kiryu"
+msgid "Let me be the judge of that."
+msgstr "Lascia che sia io a giudicarlo."
+
+msgctxt "1580_Riku"
+msgid "Ack, hey! What are ya doin'!?"
+msgstr "Ehi, ma che fai!?"
+
+msgctxt "1592_Kiryu"
+msgid "Weren't you trying to get me to check out your collarbone just now?"
+msgstr ""
+"Non stavi cercando di farmi dare un'occhiata alla tua clavicola poco fa?"
+
+msgctxt "1604_Riku"
+msgid ""
+"No! Stop ogling me like that! You're tryin' to sneak a look at my cleavage, "
+"aren't ya!?"
+msgstr ""
+"No! Smettila di mangiarmi con gli occhi così! Stai cercando di sbirciare "
+"nella mia scollatura, eh!?"
+
+msgctxt "1616_Kiryu"
+msgid "I am not!"
+msgstr "Non è vero!"
+
+msgctxt "1628_Kiryu"
+msgid "What do you consider your shortcomings?"
+msgstr "Quali consideri siano i tuoi difetti?"
+
+msgctxt "1640_Riku"
+msgid "Shortcomings, huh? I guess I can be pretty inattentive sometimes."
+msgstr "I difetti, eh? Direi che a volte so essere piuttosto distratta."
+
+msgctxt "1652_Kiryu"
+msgid "Inattentive in what way?"
+msgstr "In che senso distratta?"
+
+msgctxt "1664_Riku"
+msgid ""
+"Like, if a customer's talkin', I'll kinda randomly smile and nod and make "
+"'em mad."
+msgstr ""
+"Tipo, se un cliente parla, magari sorrido e annuisco un po' a caso e finisco"
+" per farlo arrabbiare."
+
+msgctxt "1676_Kiryu"
+msgid ""
+"I'm the same way. I'll have passengers chew me out for not listening to what"
+" they're talking about."
+msgstr ""
+"Succede lo stesso anche a me. Mi capita che i passeggeri mi facciano una "
+"lavata di capo perché non ascolto quello che dicono."
+
+msgctxt "1688_Riku"
+msgid "You too!?"
+msgstr "Anche tu!?"
+
+msgctxt "1700_Kiryu"
+msgid ""
+"Yeah. It's worse when they're drunk. No matter what I say, they want to turn"
+" it into some kind of argument."
+msgstr ""
+"Già. È ancora peggio quando sono ubriachi. Qualunque cosa io dica, cercano "
+"sempre di attaccare briga."
+
+msgctxt "1712_Riku"
+msgid ""
+"I hear ya! That happens to me, too. Even when I'm actually listenin' "
+"carefully."
+msgstr ""
+"Ti capisco! Succede anche a me. Anche quando in realtà sto ascoltando con "
+"attenzione."
+
+msgctxt "1724_Kiryu"
+msgid "We're in the same boat, you and me."
+msgstr "Siamo sulla stessa barca, io e te."
+
+msgctxt "1736_Kiryu"
+msgid "You should listen more."
+msgstr "Dovresti ascoltare di più."
+
+msgctxt "1748_Riku"
+msgid ""
+"But I couldn't care less about some guy prattlin' on about how good he's "
+"doin' at work."
+msgstr ""
+"Ma non me ne frega un accidente di qualche tizio che sproloquia su quanto "
+"gli vada bene il lavoro."
+
+msgctxt "1760_Kiryu"
+msgid ""
+"Is that so bad? A man who's good at his job is better than one that's not."
+msgstr ""
+"È davvero così male? Un uomo bravo nel suo lavoro è meglio di uno che non lo"
+" è."
+
+msgctxt "1772_Riku"
+msgid ""
+"That's not the point! Girls couldn't care less about guys braggin' about "
+"themselves! It's so, so annoying!"
+msgstr ""
+"Non è questo il punto! Alle ragazze non frega un accidente degli uomini che "
+"si vantano di se stessi! È davvero, davvero irritante!"
+
+msgctxt "1784_Riku"
+msgid ""
+"If that was all, I'd let 'em get away with it, but then it's, oh, I'm "
+"friends with so-and-so and they're so amazin', blah, blah, blah. Just stop "
+"braggin', dude!"
+msgstr ""
+"Se fosse solo quello, gliela farei anche passare, ma poi iniziano con: \"oh,"
+" sono amico di questo e di quello e sono così fantastici\", bla, bla, bla. "
+"Ma piantala di vantarti, tizio!"
+
+msgctxt "1796_Riku"
+msgid "Do guys think that kinda talk appeals to women? I mean, for reals?"
+msgstr ""
+"Ma gli uomini pensano davvero che quel genere di discorsi faccia colpo sulle"
+" donne? Cioè, dico sul serio?"
+
+msgctxt "1808_Kiryu"
+msgid "Okay, I hear you. Calm down."
+msgstr "D'accordo, ti capisco. Datti una calmata."
+
+msgctxt "1820_Kiryu"
+msgid "Do you have any particular quirks?"
+msgstr "Hai qualche fissa particolare?"
+
+msgctxt "1832_Riku"
+msgid "Quirks, huh? Lemme think about that."
+msgstr "Fisse, eh? Fammi un po' pensare."
+
+msgctxt "1844_Riku"
+msgid "Aha, I got one!"
+msgstr "Aha, ne ho trovata una!"
+
+msgctxt "1856_Kiryu"
+msgid "What is it?"
+msgstr "E cioè?"
+
+msgctxt "1868_Riku"
+msgid "When I'm deep in thought, I look up and to the side."
+msgstr "Quando sono sovrappensiero, guardo in alto e di lato."
+
+msgctxt "1880_Kiryu"
+msgid ""
+"Heh, now that you mention it, I've picked up on that habit because it's so "
+"cute."
+msgstr ""
+"Eh, ora che mi ci fai pensare, ci avevo fatto caso perché è un'abitudine "
+"davvero carina."
+
+msgctxt "1892_Riku"
+msgid "Hahaha! Oh, Kiryu-san, y'sure do know how to flatter a girl!"
+msgstr "Hahaha! Oh, Kiryu-san, sai proprio come lusingare una ragazza!"
+
+msgctxt "1904_Kiryu"
+msgid "Anything else?"
+msgstr "Qualcos'altro?"
+
+msgctxt "1916_Riku"
+msgid "Anything else? Hmm."
+msgstr "Qualcos'altro? Mmm."
+
+msgctxt "1928_Kiryu"
+msgid "Heh, you really do look up and to the side."
+msgstr "Eh eh, guardi proprio in alto e di lato."
+
+msgctxt "1940_Kiryu"
+msgid "Say, I've been wondering about something."
+msgstr "Senti, mi stavo chiedendo una cosa."
+
+msgctxt "1952_Riku"
+msgid "Oh?"
+msgstr "Oh?"
+
+msgctxt "1964_Kiryu"
+msgid "What do you wear to bed?"
+msgstr "Cosa ti metti per dormire?"
+
+msgctxt "1976_Riku"
+msgid "What? Why do y'wanna know that?"
+msgstr "Cosa? E perché vuoi saperlo?"
+
+msgctxt "1988_Kiryu"
+msgid "I was just curious, that's all."
+msgstr "Ero solo curioso, tutto qui."
+
+msgctxt "2000_Riku"
+msgid "Hey, you're just bein' a perv!"
+msgstr "Ehi, ma sei proprio un pervertito!"
+
+msgctxt "2012_Kiryu"
+msgid "No, I'm not. It's normal to wonder."
+msgstr "No, non lo sono. È normale essere curiosi."
+
+msgctxt "2024_Riku"
+msgid "Well, I usually wear pajamas. They're kinda on the baggy side."
+msgstr "Beh, di solito metto il pigiama. È un po' abbondante."
+
+msgctxt "2036_Kiryu"
+msgid "Baggy pajamas, huh?"
+msgstr "Pigiama abbondante, eh?"
+
+msgctxt "2048_Riku"
+msgid "You're still bein' pretty pervy..."
+msgstr "Sei ancora un bel pervertito..."
+
+msgctxt "2060_Kiryu"
+msgid "What kind of kisser are you?"
+msgstr "Che tipo sei quando baci?"
+
+msgctxt "2072_Riku"
+msgid "Kisser!?"
+msgstr "Baciare!?"
+
+msgctxt "2084_Kiryu"
+msgid "I'm just curious how you kiss, is all."
+msgstr "Sono solo curioso di sapere come baci, tutto qui."
+
+msgctxt "2096_Riku"
+msgid ""
+"Well, I guess I like simple ones. Pecks on the cheek and stuff. I'm not big "
+"on sloppy kissin'."
+msgstr ""
+"Beh, credo che mi piacciano quelli semplici. Bacetti sulla guancia e cose "
+"così. Non vado pazza per i baci troppo umidi."
+
+msgctxt "2108_Kiryu"
+msgid "How's it like? Can we try?"
+msgstr "Com'è? Possiamo provare?"
+
+msgctxt "2120_Riku"
+msgid "How's it like－oh no, I'm not fallin' for that!"
+msgstr "Com'è... oh no, non ci casco!"
+
+msgctxt "2132_Kiryu"
+msgid "Well, it was worth a try."
+msgstr "Beh, valeva la pena provarci."
+
+msgctxt "2144_Kiryu"
+msgid "What are your measurements?"
+msgstr "Quali sono le tue misure?"
+
+msgctxt "2156_Riku"
+msgid "I dunno. I'm not some pin-up girl y'know!"
+msgstr "Non lo so. Mica sono una pin-up, sai!"
+
+msgctxt "2168_Kiryu"
+msgid "Well, how do you buy clothes without knowing your measurements?"
+msgstr "Beh, e come fai a comprare i vestiti senza sapere le tue misure?"
+
+msgctxt "2180_Riku"
+msgid "Well, I know my chest and my waist sizes, but I dunno about my hips."
+msgstr ""
+"Beh, so le misure del mio seno e della mia vita, ma non so quelle dei "
+"fianchi."
+
+msgctxt "2192_Kiryu"
+msgid "Ah, okay."
+msgstr "Ah, okay."
+
+msgctxt "2204_Riku"
+msgid ""
+"Haha! Don't be so disappointed! Tell ya what. I'll go ahead and take my "
+"measurements for you next time, okay?"
+msgstr ""
+"Ahah! Non essere così deluso! Facciamo così: la prossima volta mi prenderò "
+"le misure apposta per te, okay?"
+
+msgctxt "2216_Kiryu"
+msgid "Really!?"
+msgstr "Davvero!?"
+
+msgctxt "2228_Kiryu"
+msgid "So you know your chest size, then."
+msgstr "Quindi conosci la misura del tuo seno, allora."
+
+msgctxt "2240_Riku"
+msgid ""
+"Geez, you're bein' a total perv, Kiryu-san. Ewww. No way am I tellin' ya "
+"that!"
+msgstr ""
+"Cavolo, Kiryu-san, sei proprio un pervertito. Che schifo. Non te lo dirò "
+"mai!"
+
+msgctxt "2252_Kiryu"
+msgid "Just asking..."
+msgstr "Chiedevo solo..."
+
+msgctxt "2264_Riku"
+msgid "Question Conversation 05"
+msgstr "Domanda conversazione 05"
+
+msgctxt "2276_Riku"
+msgid "Question Conversation 06"
+msgstr "Domanda conversazione 06"
+
+msgctxt "2288_Riku"
+msgid "Question Conversation 07"
+msgstr "Domanda conversazione 07"
+
+msgctxt "2300_Riku"
+msgid "Question Conversation 08"
+msgstr "Domanda conversazione 08"
+
+msgctxt "2312_Riku"
+msgid "Question Conversation 09"
+msgstr "Domanda conversazione 09"
+
+msgctxt "2324_Riku"
+msgid "Question Conversation 10"
+msgstr "Domanda conversazione 10"
+
+msgctxt "2336_Riku"
+msgid "Question Conversation 11"
+msgstr "Domanda conversazione 11"
+
+msgctxt "2348_Riku"
+msgid "Question Conversation 12"
+msgstr "Domanda conversazione 12"
+
+msgctxt "2360_Riku"
+msgid "Question Conversation 13"
+msgstr "Domanda conversazione 13"
+
+msgctxt "2372_Riku"
+msgid "Question Conversation 14"
+msgstr "Domanda conversazione 14"
+
+msgctxt "2384_Riku"
+msgid "Question Conversation 15"
+msgstr "Domanda conversazione 15"

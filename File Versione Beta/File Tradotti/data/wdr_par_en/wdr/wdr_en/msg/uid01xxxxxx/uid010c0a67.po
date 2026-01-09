@@ -1,0 +1,426 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "392"
+msgid "You got a <Color:8>Collateral Damage Belt<Color:Default>."
+msgstr ""
+"Hai ottenuto una <Color:8>Cintura del Danno Collaterale<Color:Default>."
+
+msgctxt "488"
+msgid "You got 800 experience points."
+msgstr "Hai ottenuto 800 punti esperienza."
+
+msgctxt "920"
+msgid "You got a <Color:8>Collateral Damage Belt<Color:Default>."
+msgstr ""
+"Hai ottenuto una <Color:8>Cintura del Danno Collaterale<Color:Default>."
+
+msgctxt "1016"
+msgid "You got 800 experience points."
+msgstr "Hai ottenuto 800 punti esperienza."
+
+msgctxt "17684"
+msgid "Kenta"
+msgstr "Kenta"
+
+msgctxt "17688"
+msgid "Talk_Cry"
+msgstr "Talk_Cry"
+
+msgctxt "17692"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "17696"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "17700"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "17704"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "17708"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "17712"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "17716"
+msgid "Kotetsu"
+msgstr "Kotetsu"
+
+msgctxt "17720"
+msgid "Talk_Get"
+msgstr "Talk_Get"
+
+msgctxt "17724"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "17728"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "17732"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "92_Kenta"
+msgid "No way. You even hit my Tomafork Mark 9!? Arrrrgh! This sucks!"
+msgstr ""
+"Ma dai! Hai persino centrato il mio Tomafork Mark 9!? Arrrrgh! Fa schifo!"
+
+msgctxt "104_Shinada"
+msgid "Hey, kid. Kenta, right? Which little league do you play for?"
+msgstr "Ehi, ragazzo. Kenta, giusto? In quale lega giovanile giochi?"
+
+msgctxt "116_Kenta"
+msgid "Why, what's it to ya!?"
+msgstr "Perché, e a te che te ne frega!?"
+
+msgctxt "128_Shinada"
+msgid ""
+"I've never seen a kid throw a forkball with that kind of dip. You must have "
+"some crazy coach."
+msgstr ""
+"Non ho mai visto un ragazzino lanciare una palla a forcella con una caduta "
+"del genere. Devi avere un allenatore pazzesco."
+
+msgctxt "140_Kenta"
+msgid "Yeah, well..."
+msgstr "Sì, beh..."
+
+msgctxt "152_Shinada"
+msgid ""
+"Take me to your coach right now. I need to chew this guy out, and fast."
+msgstr ""
+"Portami subito dal tuo allenatore. Devo fargli un cazziatone, e in fretta."
+
+msgctxt "164_Kenta"
+msgid "Huh? Why?"
+msgstr "Eh? Perché?"
+
+msgctxt "176_Shinada"
+msgid ""
+"Your coach is insane for letting a kid throw pitches like those. He's making"
+" you wreck your shoulder!"
+msgstr ""
+"Il tuo allenatore è un pazzo a lasciare che un ragazzino lanci tiri del "
+"genere. Ti sta facendo rovinare la spalla!"
+
+msgctxt "188_Kenta"
+msgid "No way! Seriously!?"
+msgstr "Non ci credo! Davvero!?"
+
+msgctxt "200_Shinada"
+msgid ""
+"That's common knowledge for young players! What's your coach thinking? Take "
+"me to him right now."
+msgstr ""
+"Ma questo è risaputo per i giovani giocatori! Cosa cavolo pensa il tuo "
+"allenatore? Portami subito da lui."
+
+msgctxt "212_Kenta"
+msgid "Why are you so mad? It's none of your business anyway!"
+msgstr "Ma perché sei così incazzato? Non sono affari tuoi comunque!"
+
+msgctxt "224_Shinada"
+msgid ""
+"I'm concerned over your condition. I don't want you ending up out of the "
+"game for good."
+msgstr ""
+"Sono preoccupato per le tue condizioni. Non voglio che tu finisca fuori dai "
+"giochi per sempre."
+
+msgctxt "236_Kenta"
+msgid "...You mean you're worried about me?"
+msgstr "...Vuoi dire che sei preoccupato per me?"
+
+msgctxt "248_Shinada"
+msgid "Yeah. So tell me who your coach is. He needs a good, long lecture."
+msgstr ""
+"Sì. Allora dimmi chi è il tuo allenatore. Ha bisogno di una bella, lunga "
+"ramanzina."
+
+msgctxt "260_Kenta"
+msgid "...I don't have one."
+msgstr "...Non ce l'ho."
+
+msgctxt "272_Shinada"
+msgid "How is that possible?"
+msgstr "Ma come è possibile?"
+
+msgctxt "284_Kenta"
+msgid "Look, I'm not with any team! I don't play for anyone!"
+msgstr "Guarda, non sono con nessuna squadra! Non gioco per nessuno!"
+
+msgctxt "296_Shinada"
+msgid "You sure about that?"
+msgstr "Ne sei sicuro?"
+
+msgctxt "308_Kenta"
+msgid "Okay, I have to go now, bye!"
+msgstr "Ok, devo andare adesso, ciao!"
+
+msgctxt "332_Kenta"
+msgid "......"
+msgstr "......"
+
+msgctxt "356_Kenta"
+msgid "Yo, awesome batter dude."
+msgstr "Ehi, mitico battitore, amico."
+
+msgctxt "368_Shinada"
+msgid "Well if it isn't Kotetsu the blogger. What's up?"
+msgstr "Ma guarda chi si vede, Kotetsu il blogger. Che si dice?"
+
+msgctxt "380_Kotetsu"
+msgid ""
+"Just ran into your nephew at the door. He said to give you this. It's a "
+"reward for hitting his miracle pitch, he said."
+msgstr ""
+"Mi sono appena imbattuto in tuo nipote alla porta. Mi ha detto di darti "
+"questo. Ha detto che è una ricompensa per aver colpito il suo lancio "
+"miracoloso."
+
+msgctxt "416_Shinada"
+msgid "Oh, okay... Thanks."
+msgstr "Oh, va bene... Grazie."
+
+msgctxt "428_Kotetsu"
+msgid "Something happen? The kid was crying."
+msgstr "È successo qualcosa? Il ragazzino piangeva."
+
+msgctxt "440_Shinada"
+msgid "Let's just say he's going through something complicated."
+msgstr "Diciamo solo che sta attraversando un momento complicato."
+
+msgctxt "452_Kotetsu"
+msgid ""
+"What do you mean? He's your nephew, right? But, on second\r\n"
+"thought, it's cool. I shouldn't be going around prying into\r\n"
+"other people's business."
+msgstr ""
+"Che vuoi dire? È tuo nipote, no? Ma, ripensandoci,\n"
+"va bene così. Non dovrei andare in giro a ficcare il naso negli\n"
+"affari altrui."
+
+msgctxt "464_Shinada"
+msgid "......"
+msgstr "......"
+
+msgctxt "536_Kenta"
+msgid "Too bad! Looks like my miracle pitch beat <Italic>you</Italic>! Again!"
+msgstr ""
+"Peccato! Sembra che il mio lancio miracoloso abbia battuto "
+"<Italic>te</Italic>! Di nuovo!"
+
+msgctxt "548_Kenta"
+msgid "Okay, gotta go, buh-bye!"
+msgstr "Ok, devo andare, ciao ciao!"
+
+msgctxt "572_Kenta"
+msgid "(Dangit! Beat by a kid again!)"
+msgstr "(Accidenti! Battuto da un ragazzino di nuovo!)"
+
+msgctxt "620_Kenta"
+msgid "No way. You even hit my Tomafork Mark 9!? Arrrrgh! This sucks!"
+msgstr ""
+"Non è possibile. Hai persino colpito il mio Tomafork Mark 9!? Arrrrgh! Che "
+"schifo!"
+
+msgctxt "632_Shinada"
+msgid "Hey, kid. Kenta, right? Which little league do you play for?"
+msgstr "Ehi, ragazzo. Kenta, giusto? In quale lega giovanile giochi?"
+
+msgctxt "644_Kenta"
+msgid "Why, what's it to ya!?"
+msgstr "Perché, che ti frega!?"
+
+msgctxt "656_Shinada"
+msgid ""
+"I've never seen a kid throw a forkball with that kind of dip. You must have "
+"some crazy coach."
+msgstr ""
+"Non ho mai visto un ragazzino tirare una forkball con quella discesa lì. "
+"Devi avere un allenatore pazzesco."
+
+msgctxt "668_Kenta"
+msgid "Yeah, well..."
+msgstr "Sì, be'..."
+
+msgctxt "680_Shinada"
+msgid ""
+"Take me to your coach right now. I need to chew this guy out, and fast."
+msgstr ""
+"Portami subito dal tuo allenatore. Devo fargli una ramanzina, e in fretta."
+
+msgctxt "692_Kenta"
+msgid "Huh? Why?"
+msgstr "Eh? Perché?"
+
+msgctxt "704_Shinada"
+msgid ""
+"Your coach is insane for letting a kid throw pitches like those. He's making"
+" you wreck your shoulder!"
+msgstr ""
+"Il tuo allenatore è un folle a lasciare che un ragazzino tiri lanci del "
+"genere. Ti sta facendo a pezzi la spalla!"
+
+msgctxt "716_Kenta"
+msgid "No way! Seriously!?"
+msgstr "Non ci credo! Davvero!?"
+
+msgctxt "728_Shinada"
+msgid ""
+"That's common knowledge for young players! What's your coach thinking? Take "
+"me to him right now."
+msgstr ""
+"Ma questa è roba che sanno tutti i giovani giocatori! Cosa gli salta in "
+"mente al tuo allenatore? Portami subito da lui."
+
+msgctxt "740_Kenta"
+msgid "Why are you so mad? It's none of your business anyway!"
+msgstr "Perché sei così arrabbiato? Che ti frega comunque!"
+
+msgctxt "752_Shinada"
+msgid ""
+"I'm concerned about your condition. I don't want you ending up out of the "
+"game for good."
+msgstr ""
+"Sono preoccupato per la tua condizione. Non voglio che tu finisca fuori dal "
+"gioco per sempre."
+
+msgctxt "764_Kenta"
+msgid "You mean... you're worried about me?"
+msgstr "Vuoi dire... sei preoccupato per me?"
+
+msgctxt "776_Shinada"
+msgid "Yeah. So tell me who your coach is. He needs a good, long lecture."
+msgstr ""
+"Sì. Allora dimmi chi è il tuo allenatore. Gli serve una bella, lunga "
+"ramanzina."
+
+msgctxt "788_Kenta"
+msgid "...I don't have one."
+msgstr "...Non ne ho uno."
+
+msgctxt "800_Shinada"
+msgid "How is that possible?"
+msgstr "Ma com'è possibile?"
+
+msgctxt "812_Kenta"
+msgid "Look, I'm not with any team! I don't play for anyone!"
+msgstr "Senti, non sono in nessuna squadra! Non gioco per nessuno!"
+
+msgctxt "824_Shinada"
+msgid "You sure about that?"
+msgstr "Ne sei proprio sicuro?"
+
+msgctxt "836_Kenta"
+msgid "Okay, I have to go now, bye!"
+msgstr "Ok, devo andare adesso, ciao!"
+
+msgctxt "860_Kenta"
+msgid "......"
+msgstr "......"
+
+msgctxt "872_Kotetsu"
+msgid "Yo, awesome batter dude."
+msgstr "Ehi, mitico battitore."
+
+msgctxt "884_Shinada"
+msgid "Well if it isn't Kotetsu the blogger. What's up?"
+msgstr "Ma guarda un po' chi si vede, Kotetsu il blogger. Che si dice?"
+
+msgctxt "896_Kotetsu"
+msgid "Just ran into your nephew at the door. He said to give you these."
+msgstr "Ho appena incrociato tuo nipote alla porta. Mi ha detto di darteli."
+
+msgctxt "908_Kotetsu"
+msgid "Said it's your phone and a reward for hitting his miracle pitch."
+msgstr ""
+"Ha detto che è il tuo cellulare e una ricompensa per aver colpito il suo "
+"lancio miracoloso."
+
+msgctxt "944_Shinada"
+msgid "Oh, okay. Thanks."
+msgstr "Ah, ok. Grazie."
+
+msgctxt "956_Kotetsu"
+msgid "Something happen? The kid was crying."
+msgstr "È successo qualcosa? Il ragazzino stava piangendo."
+
+msgctxt "968_Shinada"
+msgid "Let's just say he's going through something complicated."
+msgstr "Diciamo solo che sta passando qualcosa di complicato."
+
+msgctxt "980_Kotetsu"
+msgid ""
+"What do you mean? He's your nephew, right? But, on second\r\n"
+"thought, it's cool. I shouldn't be going around prying into\r\n"
+"other people's business."
+msgstr ""
+"Che intendi? È tuo nipote, no? Ma, a pensarci bene,\n"
+"lascia stare. Non dovrei andare in giro a ficcanasare negli\n"
+"affari degli altri."
+
+msgctxt "992_Shinada"
+msgid "......"
+msgstr "......"
+
+msgctxt "1064_Kenta"
+msgid "Too bad! Even a famous local batter can't get past my Tomafork Mark 9!"
+msgstr ""
+"Peccato! Persino un battitore famoso del quartiere non riesce a superare il "
+"mio Tomafork Mark 9!"
+
+msgctxt "1076_Kenta"
+msgid ""
+"But you're not all that bad. Lemme practice on you again some other time, "
+"okay? Buh-bye now!"
+msgstr ""
+"Ma non sei poi così male. Fammi fare pratica con te un'altra volta, ok? Ciao"
+" ciao adesso!"
+
+msgctxt "1100_Kenta"
+msgid "(How'd he make his pitches sink like that? That's one crazy kid...)"
+msgstr ""
+"(Come ha fatto affondare i suoi lanci così? Quel ragazzino è pazzesco...)"
+
+msgctxt "1112_Kotetsu"
+msgid ""
+"Yo, awesome batter dude. Your nephew gave me your phone. Said I should "
+"return it to you."
+msgstr ""
+"Ehi, grande battitore. Tuo nipote mi ha dato il tuo cellulare. Ha detto che "
+"dovevo restituirtelo."
+
+msgctxt "1124_Shinada"
+msgid "Uh, okay. Thanks."
+msgstr "Ah, ok. Grazie."
+
+msgctxt "1136_Shinada"
+msgid ""
+"(Where'd this kid learn to pitch? If he keeps throwing like that, he'll only"
+" end up injured later down the line...)"
+msgstr ""
+"(Dove ha imparato a lanciare questo ragazzino? Se continua a lanciare così, "
+"finirà solo per farsi male più avanti...)"

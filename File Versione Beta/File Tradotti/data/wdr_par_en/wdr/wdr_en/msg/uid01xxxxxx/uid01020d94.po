@@ -1,0 +1,2215 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "752"
+msgid "You can change characters now."
+msgstr "Ora puoi cambiare i personaggi."
+
+msgctxt "764"
+msgid ""
+"Select \"Select Character\" from the hideout menu or talk to\r\n"
+"the character you want to change to."
+msgstr ""
+"Seleziona \"Seleziona Personaggio\" dal menu del covo o parla con\n"
+"il personaggio con cui vuoi cambiare."
+
+msgctxt "50064"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "50068"
+msgid "adv3_455/haruka_0251"
+msgstr "adv3_455/haruka_0251"
+
+msgctxt "50072"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "50076"
+msgid "adv3_455/akiyama_0111a"
+msgstr "adv3_455/akiyama_0111a"
+
+msgctxt "50080"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "50084"
+msgid "adv3_455/akiyama_0111b"
+msgstr "adv3_455/akiyama_0111b"
+
+msgctxt "50088"
+msgid "C3455_AKI_TLK_serch_desk_lp"
+msgstr "C3455_AKI_TLK_serch_desk_lp"
+
+msgctxt "50092"
+msgid "C3455_AKI_TLK_serch_desk_st"
+msgstr "C3455_AKI_TLK_serch_desk_st"
+
+msgctxt "50096"
+msgid "adv3_455/haruka_0252a"
+msgstr "adv3_455/haruka_0252a"
+
+msgctxt "50100"
+msgid "adv3_455/haruka_0252b"
+msgstr "adv3_455/haruka_0252b"
+
+msgctxt "50104"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "50108"
+msgid "P_AKI_TLK_stand_kamae"
+msgstr "P_AKI_TLK_stand_kamae"
+
+msgctxt "50112"
+msgid "C3455_AKI_TLK_serch_desk_ed"
+msgstr "C3455_AKI_TLK_serch_desk_ed"
+
+msgctxt "50116"
+msgid "adv3_455/akiyama_0112"
+msgstr "adv3_455/akiyama_0112"
+
+msgctxt "50120"
+msgid "C3455_AKI_TLK_mov_kinko"
+msgstr "C3455_AKI_TLK_mov_kinko"
+
+msgctxt "50124"
+msgid "adv3_455/akiyama_0113"
+msgstr "adv3_455/akiyama_0113"
+
+msgctxt "50128"
+msgid "C3455_AKI_TLK_try_kinko1"
+msgstr "C3455_AKI_TLK_try_kinko1"
+
+msgctxt "50132"
+msgid "adv3_455/haruka_0253"
+msgstr "adv3_455/haruka_0253"
+
+msgctxt "50136"
+msgid "adv3_455/akiyama_0114"
+msgstr "adv3_455/akiyama_0114"
+
+msgctxt "50140"
+msgid "C3455_AKI_TLK_look_keyhole"
+msgstr "C3455_AKI_TLK_look_keyhole"
+
+msgctxt "50144"
+msgid "adv3_455/haruka_0254"
+msgstr "adv3_455/haruka_0254"
+
+msgctxt "50148"
+msgid "adv3_455/akiyama_0115"
+msgstr "adv3_455/akiyama_0115"
+
+msgctxt "50152"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "50156"
+msgid "ACDEV0054"
+msgstr "ACDEV0054"
+
+msgctxt "50160"
+msgid "C3455_AKI_TLK_try_kinko2"
+msgstr "C3455_AKI_TLK_try_kinko2"
+
+msgctxt "50164"
+msgid "adv3_455/akiyama_0116"
+msgstr "adv3_455/akiyama_0116"
+
+msgctxt "50168"
+msgid "adv3_455/haruka_0255"
+msgstr "adv3_455/haruka_0255"
+
+msgctxt "50172"
+msgid "ACDEV0250"
+msgstr "ACDEV0250"
+
+msgctxt "50176"
+msgid "C3455_HAL_TLK_take_pen_kamae"
+msgstr "C3455_HAL_TLK_take_pen_kamae"
+
+msgctxt "50180"
+msgid "C3455_HAL_TLK_take_pen"
+msgstr "C3455_HAL_TLK_take_pen"
+
+msgctxt "50184"
+msgid "adv3_455/akiyama_0117"
+msgstr "adv3_455/akiyama_0117"
+
+msgctxt "50188"
+msgid "adv3_455/haruka_0256"
+msgstr "adv3_455/haruka_0256"
+
+msgctxt "50192"
+msgid "adv3_450_1/akiyama_0110"
+msgstr "adv3_450_1/akiyama_0110"
+
+msgctxt "50196"
+msgid "adv3_450_1/haruka_0250a"
+msgstr "adv3_450_1/haruka_0250a"
+
+msgctxt "50200"
+msgid "adv3_450_1/haruka_0250b"
+msgstr "adv3_450_1/haruka_0250b"
+
+msgctxt "50204"
+msgid "adv3_435_1/akiyama_3_435_010"
+msgstr "adv3_435_1/akiyama_3_435_010"
+
+msgctxt "50208"
+msgid "ACDEV0150"
+msgstr "ACDEV0150"
+
+msgctxt "50212"
+msgid "ACSAI0008"
+msgstr "ACSAI0008"
+
+msgctxt "50216"
+msgid "P_AKI_TLK_stand_mail_lp"
+msgstr "P_AKI_TLK_stand_mail_lp"
+
+msgctxt "50220"
+msgid "P_AKI_TLK_stand_mail_st"
+msgstr "P_AKI_TLK_stand_mail_st"
+
+msgctxt "50224"
+msgid "F_NML_MOV_stand_mail_lp"
+msgstr "F_NML_MOV_stand_mail_lp"
+
+msgctxt "50228"
+msgid "F_NML_MOV_stand_mail_st"
+msgstr "F_NML_MOV_stand_mail_st"
+
+msgctxt "50232"
+msgid "adv3_435_1/haruka_3_435_010"
+msgstr "adv3_435_1/haruka_3_435_010"
+
+msgctxt "50236"
+msgid "adv3_435_1/akiyama_3_435_020"
+msgstr "adv3_435_1/akiyama_3_435_020"
+
+msgctxt "50240"
+msgid "adv3_435_1/akiyama_3_435_030"
+msgstr "adv3_435_1/akiyama_3_435_030"
+
+msgctxt "50244"
+msgid "P_AKI_TLK_stand_mail_ed"
+msgstr "P_AKI_TLK_stand_mail_ed"
+
+msgctxt "50248"
+msgid "F_NML_MOV_stand_mail_ed"
+msgstr "F_NML_MOV_stand_mail_ed"
+
+msgctxt "50252"
+msgid "adv3_435_1/haruka_3_435_020"
+msgstr "adv3_435_1/haruka_3_435_020"
+
+msgctxt "50256"
+msgid "M_nml_stand"
+msgstr "M_nml_stand"
+
+msgctxt "50260"
+msgid "M_NML_TLK_stand_kamae"
+msgstr "M_NML_TLK_stand_kamae"
+
+msgctxt "50264"
+msgid "Horie"
+msgstr "Horie"
+
+msgctxt "50268"
+msgid "adv3_430/akiyama_0085a"
+msgstr "adv3_430/akiyama_0085a"
+
+msgctxt "50272"
+msgid "adv3_430/akiyama_0085b"
+msgstr "adv3_430/akiyama_0085b"
+
+msgctxt "50276"
+msgid "adv3_430/horie_0130"
+msgstr "adv3_430/horie_0130"
+
+msgctxt "50280"
+msgid "adv3_430/akiyama_0086a"
+msgstr "adv3_430/akiyama_0086a"
+
+msgctxt "50284"
+msgid "adv3_430/akiyama_0086b"
+msgstr "adv3_430/akiyama_0086b"
+
+msgctxt "50288"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "50292"
+msgid "adv3_430/horie_0131a"
+msgstr "adv3_430/horie_0131a"
+
+msgctxt "50296"
+msgid "adv3_430/horie_0131b"
+msgstr "adv3_430/horie_0131b"
+
+msgctxt "50300"
+msgid "adv3_430/akiyama_0087"
+msgstr "adv3_430/akiyama_0087"
+
+msgctxt "50304"
+msgid "adv3_430/horie_0132a"
+msgstr "adv3_430/horie_0132a"
+
+msgctxt "50308"
+msgid "adv3_430/horie_0132b"
+msgstr "adv3_430/horie_0132b"
+
+msgctxt "50312"
+msgid "adv3_430/horie_0132c"
+msgstr "adv3_430/horie_0132c"
+
+msgctxt "50316"
+msgid "adv3_430/horie_0132d"
+msgstr "adv3_430/horie_0132d"
+
+msgctxt "50320"
+msgid "adv3_430/akiyama_0088"
+msgstr "adv3_430/akiyama_0088"
+
+msgctxt "50324"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "50328"
+msgid "adv3_430/horie_0133a"
+msgstr "adv3_430/horie_0133a"
+
+msgctxt "50332"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "50336"
+msgid "adv3_430/horie_0133b"
+msgstr "adv3_430/horie_0133b"
+
+msgctxt "50340"
+msgid "adv3_430/horie_0133c"
+msgstr "adv3_430/horie_0133c"
+
+msgctxt "50344"
+msgid "adv3_430/akiyama_0089"
+msgstr "adv3_430/akiyama_0089"
+
+msgctxt "50348"
+msgid "adv3_430/horie_0134a"
+msgstr "adv3_430/horie_0134a"
+
+msgctxt "50352"
+msgid "adv3_430/horie_0134b"
+msgstr "adv3_430/horie_0134b"
+
+msgctxt "50356"
+msgid "adv3_430/horie_0134c"
+msgstr "adv3_430/horie_0134c"
+
+msgctxt "50360"
+msgid "adv3_430/haruka_0233"
+msgstr "adv3_430/haruka_0233"
+
+msgctxt "50364"
+msgid "HAL_TLK_stand_udekumi_f_lp"
+msgstr "HAL_TLK_stand_udekumi_f_lp"
+
+msgctxt "50368"
+msgid "HAL_TLK_stand_udekumi_f_st"
+msgstr "HAL_TLK_stand_udekumi_f_st"
+
+msgctxt "50372"
+msgid "adv3_430/akiyama_0090"
+msgstr "adv3_430/akiyama_0090"
+
+msgctxt "50376"
+msgid "adv3_430/haruka_0234"
+msgstr "adv3_430/haruka_0234"
+
+msgctxt "50380"
+msgid "HAL_TLK_stand_kamae"
+msgstr "HAL_TLK_stand_kamae"
+
+msgctxt "50384"
+msgid "HAL_TLK_stand_udekumi_f_en"
+msgstr "HAL_TLK_stand_udekumi_f_en"
+
+msgctxt "50388"
+msgid "adv3_430/horie_0135"
+msgstr "adv3_430/horie_0135"
+
+msgctxt "50392"
+msgid "adv3_430/akiyama_0091a"
+msgstr "adv3_430/akiyama_0091a"
+
+msgctxt "50396"
+msgid "kaiwabgm_hope01"
+msgstr "kaiwabgm_hope01"
+
+msgctxt "50400"
+msgid "adv3_430/akiyama_0091b"
+msgstr "adv3_430/akiyama_0091b"
+
+msgctxt "50404"
+msgid "adv3_430/haruka_0235"
+msgstr "adv3_430/haruka_0235"
+
+msgctxt "50408"
+msgid "adv3_430/akiyama_0092a"
+msgstr "adv3_430/akiyama_0092a"
+
+msgctxt "50412"
+msgid "adv3_430/akiyama_0092b"
+msgstr "adv3_430/akiyama_0092b"
+
+msgctxt "50416"
+msgid "adv3_430/horie_0136"
+msgstr "adv3_430/horie_0136"
+
+msgctxt "50420"
+msgid "HAL_TLK_stand_surp"
+msgstr "HAL_TLK_stand_surp"
+
+msgctxt "50424"
+msgid "adv3_430/akiyama_0093a"
+msgstr "adv3_430/akiyama_0093a"
+
+msgctxt "50428"
+msgid "adv3_430/akiyama_0093b"
+msgstr "adv3_430/akiyama_0093b"
+
+msgctxt "50432"
+msgid "adv3_430/akiyama_0093c"
+msgstr "adv3_430/akiyama_0093c"
+
+msgctxt "50436"
+msgid "adv3_430/horie_0137"
+msgstr "adv3_430/horie_0137"
+
+msgctxt "50440"
+msgid "adv3_430/akiyama_0094"
+msgstr "adv3_430/akiyama_0094"
+
+msgctxt "50444"
+msgid "adv3_430/horie_0138"
+msgstr "adv3_430/horie_0138"
+
+msgctxt "50448"
+msgid "adv3_430/akiyama_0095a"
+msgstr "adv3_430/akiyama_0095a"
+
+msgctxt "50452"
+msgid "adv3_430/akiyama_0095b"
+msgstr "adv3_430/akiyama_0095b"
+
+msgctxt "50456"
+msgid "adv3_430/akiyama_0095c"
+msgstr "adv3_430/akiyama_0095c"
+
+msgctxt "50460"
+msgid "adv3_430/haruka_0236"
+msgstr "adv3_430/haruka_0236"
+
+msgctxt "50464"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "50468"
+msgid "adv3_430/akiyama_0096a"
+msgstr "adv3_430/akiyama_0096a"
+
+msgctxt "50472"
+msgid "adv3_430/akiyama_0096b"
+msgstr "adv3_430/akiyama_0096b"
+
+msgctxt "50476"
+msgid "adv3_430/horie_0139"
+msgstr "adv3_430/horie_0139"
+
+msgctxt "50480"
+msgid "adv3_430/haruka_0237"
+msgstr "adv3_430/haruka_0237"
+
+msgctxt "50484"
+msgid "adv3_430/akiyama_0097a"
+msgstr "adv3_430/akiyama_0097a"
+
+msgctxt "50488"
+msgid "adv3_430/akiyama_0097b"
+msgstr "adv3_430/akiyama_0097b"
+
+msgctxt "50492"
+msgid "adv3_430/akiyama_0097c"
+msgstr "adv3_430/akiyama_0097c"
+
+msgctxt "50496"
+msgid "adv3_430/haruka_0238"
+msgstr "adv3_430/haruka_0238"
+
+msgctxt "50500"
+msgid "adv3_430/akiyama_0098a"
+msgstr "adv3_430/akiyama_0098a"
+
+msgctxt "50504"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "50508"
+msgid "adv3_430/akiyama_0098b"
+msgstr "adv3_430/akiyama_0098b"
+
+msgctxt "50512"
+msgid "adv3_430/akiyama_0098c"
+msgstr "adv3_430/akiyama_0098c"
+
+msgctxt "50516"
+msgid "adv3_430/horie_0140"
+msgstr "adv3_430/horie_0140"
+
+msgctxt "50520"
+msgid "adv3_430/akiyama_0099a"
+msgstr "adv3_430/akiyama_0099a"
+
+msgctxt "50524"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "50528"
+msgid "adv3_430/akiyama_0099b"
+msgstr "adv3_430/akiyama_0099b"
+
+msgctxt "50532"
+msgid "adv3_430/horie_0141"
+msgstr "adv3_430/horie_0141"
+
+msgctxt "50536"
+msgid "adv3_430/haruka_0239"
+msgstr "adv3_430/haruka_0239"
+
+msgctxt "50540"
+msgid "adv3_430/akiyama_0100"
+msgstr "adv3_430/akiyama_0100"
+
+msgctxt "50544"
+msgid "P_AKI_TLK_stand_udekumi_lp"
+msgstr "P_AKI_TLK_stand_udekumi_lp"
+
+msgctxt "50548"
+msgid "P_AKI_TLK_stand_udekumi_st"
+msgstr "P_AKI_TLK_stand_udekumi_st"
+
+msgctxt "50552"
+msgid "adv3_430/haruka_0240"
+msgstr "adv3_430/haruka_0240"
+
+msgctxt "50556"
+msgid "kaiwabgm_serious02"
+msgstr "kaiwabgm_serious02"
+
+msgctxt "50560"
+msgid "adv3_430/akiyama_0101a"
+msgstr "adv3_430/akiyama_0101a"
+
+msgctxt "50564"
+msgid "adv3_430/akiyama_0101b"
+msgstr "adv3_430/akiyama_0101b"
+
+msgctxt "50568"
+msgid "P_AKI_TLK_stand_udekumi_yes"
+msgstr "P_AKI_TLK_stand_udekumi_yes"
+
+msgctxt "50572"
+msgid "adv3_430/haruka_0241"
+msgstr "adv3_430/haruka_0241"
+
+msgctxt "50576"
+msgid "adv3_430/akiyama_0102"
+msgstr "adv3_430/akiyama_0102"
+
+msgctxt "50580"
+msgid "P_AKI_TLK_stand_udekumi_ed"
+msgstr "P_AKI_TLK_stand_udekumi_ed"
+
+msgctxt "50584"
+msgid "adv3_430/haruka_0242a"
+msgstr "adv3_430/haruka_0242a"
+
+msgctxt "50588"
+msgid "adv3_430/haruka_0242b"
+msgstr "adv3_430/haruka_0242b"
+
+msgctxt "50592"
+msgid "adv3_430/akiyama_0103a"
+msgstr "adv3_430/akiyama_0103a"
+
+msgctxt "50596"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "50600"
+msgid "adv3_430/akiyama_0103b"
+msgstr "adv3_430/akiyama_0103b"
+
+msgctxt "50604"
+msgid "adv3_430/haruka_0243"
+msgstr "adv3_430/haruka_0243"
+
+msgctxt "50608"
+msgid "adv3_430/akiyama_0104a"
+msgstr "adv3_430/akiyama_0104a"
+
+msgctxt "50612"
+msgid "adv3_430/akiyama_0104b"
+msgstr "adv3_430/akiyama_0104b"
+
+msgctxt "50616"
+msgid "adv3_430/akiyama_0104c"
+msgstr "adv3_430/akiyama_0104c"
+
+msgctxt "50620"
+msgid "adv3_430/haruka_0244"
+msgstr "adv3_430/haruka_0244"
+
+msgctxt "50624"
+msgid "adv3_430/akiyama_0105a"
+msgstr "adv3_430/akiyama_0105a"
+
+msgctxt "50628"
+msgid "adv3_430/akiyama_0105b"
+msgstr "adv3_430/akiyama_0105b"
+
+msgctxt "50632"
+msgid "adv3_430/horie_0142"
+msgstr "adv3_430/horie_0142"
+
+msgctxt "50636"
+msgid "adv3_430/akiyama_0106a"
+msgstr "adv3_430/akiyama_0106a"
+
+msgctxt "50640"
+msgid "adv3_430/akiyama_0106b"
+msgstr "adv3_430/akiyama_0106b"
+
+msgctxt "50644"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "50648"
+msgid "adv3_430/akiyama_0106c"
+msgstr "adv3_430/akiyama_0106c"
+
+msgctxt "50652"
+msgid "adv3_430/haruka_0245"
+msgstr "adv3_430/haruka_0245"
+
+msgctxt "50656"
+msgid "adv3_430/akiyama_0107"
+msgstr "adv3_430/akiyama_0107"
+
+msgctxt "50660"
+msgid "adv3_430/haruka_0246"
+msgstr "adv3_430/haruka_0246"
+
+msgctxt "50664"
+msgid "adv3_430/akiyama_0108a"
+msgstr "adv3_430/akiyama_0108a"
+
+msgctxt "50668"
+msgid "adv3_430/akiyama_0108b"
+msgstr "adv3_430/akiyama_0108b"
+
+msgctxt "50672"
+msgid "adv3_430/haruka_0247"
+msgstr "adv3_430/haruka_0247"
+
+msgctxt "50676"
+msgid "adv3_430/horie_0143"
+msgstr "adv3_430/horie_0143"
+
+msgctxt "50680"
+msgid "adv3_430/haruka_0248"
+msgstr "adv3_430/haruka_0248"
+
+msgctxt "50684"
+msgid "adv3_420/akiyama_0075"
+msgstr "adv3_420/akiyama_0075"
+
+msgctxt "50688"
+msgid "Yamaura"
+msgstr "Yamaura"
+
+msgctxt "50692"
+msgid "adv3_420/yamaura_0020"
+msgstr "adv3_420/yamaura_0020"
+
+msgctxt "50696"
+msgid "adv3_420/haruka_0224a"
+msgstr "adv3_420/haruka_0224a"
+
+msgctxt "50700"
+msgid "adv3_420/haruka_0224b"
+msgstr "adv3_420/haruka_0224b"
+
+msgctxt "50704"
+msgid "adv3_420/yamaura_0021"
+msgstr "adv3_420/yamaura_0021"
+
+msgctxt "50708"
+msgid "adv3_420/haruka_0225a"
+msgstr "adv3_420/haruka_0225a"
+
+msgctxt "50712"
+msgid "adv3_420/haruka_0225b"
+msgstr "adv3_420/haruka_0225b"
+
+msgctxt "50716"
+msgid "adv3_420/akiyama_0076"
+msgstr "adv3_420/akiyama_0076"
+
+msgctxt "50720"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "50724"
+msgid "F_NML_TLK_stand_udekumi_lp"
+msgstr "F_NML_TLK_stand_udekumi_lp"
+
+msgctxt "50728"
+msgid "F_NML_TLK_stand_udekumi_st"
+msgstr "F_NML_TLK_stand_udekumi_st"
+
+msgctxt "50732"
+msgid "adv3_420/yamaura_0022a"
+msgstr "adv3_420/yamaura_0022a"
+
+msgctxt "50736"
+msgid "adv3_420/yamaura_0022b"
+msgstr "adv3_420/yamaura_0022b"
+
+msgctxt "50740"
+msgid "adv3_420/yamaura_0022c"
+msgstr "adv3_420/yamaura_0022c"
+
+msgctxt "50744"
+msgid "F_NML_TLK_stand_udekumi_ed"
+msgstr "F_NML_TLK_stand_udekumi_ed"
+
+msgctxt "50748"
+msgid "adv3_420/yamaura_0022d"
+msgstr "adv3_420/yamaura_0022d"
+
+msgctxt "50752"
+msgid "kaiwabgm_serious01"
+msgstr "kaiwabgm_serious01"
+
+msgctxt "50756"
+msgid "adv3_420/akiyama_0077"
+msgstr "adv3_420/akiyama_0077"
+
+msgctxt "50760"
+msgid "About what time did Park-san die?"
+msgstr "Verso che ora è morta Park-san?"
+
+msgctxt "50764"
+msgid "Where did she jump from?"
+msgstr "Da dove è saltata?"
+
+msgctxt "50768"
+msgid "How far down is it, anyway?"
+msgstr "Quanto in giù è, comunque?"
+
+msgctxt "50772"
+msgid "I guess that's about it."
+msgstr "Immagino sia tutto."
+
+msgctxt "50776"
+msgid "adv3_420/akiyama_0078"
+msgstr "adv3_420/akiyama_0078"
+
+msgctxt "50780"
+msgid "adv3_420/haruka_0226"
+msgstr "adv3_420/haruka_0226"
+
+msgctxt "50784"
+msgid "adv3_420/akiyama_0079"
+msgstr "adv3_420/akiyama_0079"
+
+msgctxt "50788"
+msgid "adv3_420/akiyama_3_420_010"
+msgstr "adv3_420/akiyama_3_420_010"
+
+msgctxt "50792"
+msgid "adv3_420/haruka_0227"
+msgstr "adv3_420/haruka_0227"
+
+msgctxt "50796"
+msgid "adv3_420/akiyama_0080a"
+msgstr "adv3_420/akiyama_0080a"
+
+msgctxt "50800"
+msgid "adv3_420/akiyama_0080b"
+msgstr "adv3_420/akiyama_0080b"
+
+msgctxt "50804"
+msgid "adv3_420/haruka_0228"
+msgstr "adv3_420/haruka_0228"
+
+msgctxt "50808"
+msgid "adv3_420/akiyama_0081a"
+msgstr "adv3_420/akiyama_0081a"
+
+msgctxt "50812"
+msgid "adv3_420/akiyama_0081b"
+msgstr "adv3_420/akiyama_0081b"
+
+msgctxt "50816"
+msgid "adv3_420/akiyama_0081c"
+msgstr "adv3_420/akiyama_0081c"
+
+msgctxt "50820"
+msgid "adv3_420/haruka_0229"
+msgstr "adv3_420/haruka_0229"
+
+msgctxt "50824"
+msgid "adv3_420/akiyama_3_420_020"
+msgstr "adv3_420/akiyama_3_420_020"
+
+msgctxt "50828"
+msgid "C3420_AKI_TLK_look_down_lp"
+msgstr "C3420_AKI_TLK_look_down_lp"
+
+msgctxt "50832"
+msgid "C3420_AKI_TLK_look_down_st"
+msgstr "C3420_AKI_TLK_look_down_st"
+
+msgctxt "50836"
+msgid "adv3_420/akiyama_0082a"
+msgstr "adv3_420/akiyama_0082a"
+
+msgctxt "50840"
+msgid "adv3_420/akiyama_0082b"
+msgstr "adv3_420/akiyama_0082b"
+
+msgctxt "50844"
+msgid "adv3_420/akiyama_0082c"
+msgstr "adv3_420/akiyama_0082c"
+
+msgctxt "50848"
+msgid "adv3_420/akiyama_0082d"
+msgstr "adv3_420/akiyama_0082d"
+
+msgctxt "50852"
+msgid "C3420_AKI_TLK_look_down_ed"
+msgstr "C3420_AKI_TLK_look_down_ed"
+
+msgctxt "50856"
+msgid "adv3_420/haruka_0230"
+msgstr "adv3_420/haruka_0230"
+
+msgctxt "50860"
+msgid "adv3_420/akiyama_0083"
+msgstr "adv3_420/akiyama_0083"
+
+msgctxt "50864"
+msgid "adv3_420/akiyama_3_420_030"
+msgstr "adv3_420/akiyama_3_420_030"
+
+msgctxt "50868"
+msgid "adv3_420/haruka_0231"
+msgstr "adv3_420/haruka_0231"
+
+msgctxt "50872"
+msgid "adv3_420/akiyama_0084a"
+msgstr "adv3_420/akiyama_0084a"
+
+msgctxt "50876"
+msgid "adv3_420/akiyama_0084b"
+msgstr "adv3_420/akiyama_0084b"
+
+msgctxt "50880"
+msgid "adv3_420/haruka_0232"
+msgstr "adv3_420/haruka_0232"
+
+msgctxt "50884"
+msgid "adv3_410_1/akiyama_0072a"
+msgstr "adv3_410_1/akiyama_0072a"
+
+msgctxt "50888"
+msgid "adv3_410_1/akiyama_0072b"
+msgstr "adv3_410_1/akiyama_0072b"
+
+msgctxt "50892"
+msgid "adv3_410_1/akiyama_0072c"
+msgstr "adv3_410_1/akiyama_0072c"
+
+msgctxt "50896"
+msgid "adv3_410_1/haruka_0222"
+msgstr "adv3_410_1/haruka_0222"
+
+msgctxt "50900"
+msgid "adv3_410_1/akiyama_0073"
+msgstr "adv3_410_1/akiyama_0073"
+
+msgctxt "50904"
+msgid "adv3_410_1/haruka_0223"
+msgstr "adv3_410_1/haruka_0223"
+
+msgctxt "50908"
+msgid "adv3_410_1/akiyama_0074"
+msgstr "adv3_410_1/akiyama_0074"
+
+msgctxt "50912"
+msgid "adv3_400/akiyama_0032"
+msgstr "adv3_400/akiyama_0032"
+
+msgctxt "50916"
+msgid "adv3_400/horie_0115a"
+msgstr "adv3_400/horie_0115a"
+
+msgctxt "50920"
+msgid "adv3_400/horie_0115b"
+msgstr "adv3_400/horie_0115b"
+
+msgctxt "50924"
+msgid "adv3_400/horie_0115c"
+msgstr "adv3_400/horie_0115c"
+
+msgctxt "50928"
+msgid "adv3_400/akiyama_0033"
+msgstr "adv3_400/akiyama_0033"
+
+msgctxt "50932"
+msgid "adv3_400/horie_0116"
+msgstr "adv3_400/horie_0116"
+
+msgctxt "50936"
+msgid "adv3_400/akiyama_0034"
+msgstr "adv3_400/akiyama_0034"
+
+msgctxt "50940"
+msgid "adv3_400/horie_0117"
+msgstr "adv3_400/horie_0117"
+
+msgctxt "50944"
+msgid "adv3_400/akiyama_0035"
+msgstr "adv3_400/akiyama_0035"
+
+msgctxt "50948"
+msgid "adv3_400/horie_0118a"
+msgstr "adv3_400/horie_0118a"
+
+msgctxt "50952"
+msgid "adv3_400/horie_0118b"
+msgstr "adv3_400/horie_0118b"
+
+msgctxt "50956"
+msgid "adv3_400/akiyama_0036a"
+msgstr "adv3_400/akiyama_0036a"
+
+msgctxt "50960"
+msgid "adv3_400/akiyama_0036b"
+msgstr "adv3_400/akiyama_0036b"
+
+msgctxt "50964"
+msgid "adv3_400/horie_0119"
+msgstr "adv3_400/horie_0119"
+
+msgctxt "50968"
+msgid "adv3_400/akiyama_0037"
+msgstr "adv3_400/akiyama_0037"
+
+msgctxt "50972"
+msgid "adv3_400/horie_0120a"
+msgstr "adv3_400/horie_0120a"
+
+msgctxt "50976"
+msgid "adv3_400/horie_0120b"
+msgstr "adv3_400/horie_0120b"
+
+msgctxt "50980"
+msgid "adv3_400/horie_0120c"
+msgstr "adv3_400/horie_0120c"
+
+msgctxt "50984"
+msgid "adv3_400/akiyama_0038"
+msgstr "adv3_400/akiyama_0038"
+
+msgctxt "50988"
+msgid "adv3_400/horie_0121a"
+msgstr "adv3_400/horie_0121a"
+
+msgctxt "50992"
+msgid "adv3_400/horie_0121b"
+msgstr "adv3_400/horie_0121b"
+
+msgctxt "50996"
+msgid "adv3_400/akiyama_0039a"
+msgstr "adv3_400/akiyama_0039a"
+
+msgctxt "51000"
+msgid "adv3_400/akiyama_0039b"
+msgstr "adv3_400/akiyama_0039b"
+
+msgctxt "51004"
+msgid "adv3_400/horie_0122a"
+msgstr "adv3_400/horie_0122a"
+
+msgctxt "51008"
+msgid "adv3_400/horie_0122b"
+msgstr "adv3_400/horie_0122b"
+
+msgctxt "51012"
+msgid "adv3_400/horie_0122c"
+msgstr "adv3_400/horie_0122c"
+
+msgctxt "51016"
+msgid "adv3_400/horie_0122d"
+msgstr "adv3_400/horie_0122d"
+
+msgctxt "51020"
+msgid "adv3_400/horie_0122e"
+msgstr "adv3_400/horie_0122e"
+
+msgctxt "51024"
+msgid "adv3_400/akiyama_0040a"
+msgstr "adv3_400/akiyama_0040a"
+
+msgctxt "51028"
+msgid "adv3_400/akiyama_0040b"
+msgstr "adv3_400/akiyama_0040b"
+
+msgctxt "51032"
+msgid "adv3_400/horie_0123"
+msgstr "adv3_400/horie_0123"
+
+msgctxt "51036"
+msgid "adv3_400/akiyama_0041"
+msgstr "adv3_400/akiyama_0041"
+
+msgctxt "51040"
+msgid "adv3_400/horie_0124a"
+msgstr "adv3_400/horie_0124a"
+
+msgctxt "51044"
+msgid "adv3_400/horie_0124b"
+msgstr "adv3_400/horie_0124b"
+
+msgctxt "51048"
+msgid "adv3_400/akiyama_0042"
+msgstr "adv3_400/akiyama_0042"
+
+msgctxt "51052"
+msgid "adv3_400/horie_0125a"
+msgstr "adv3_400/horie_0125a"
+
+msgctxt "51056"
+msgid "adv3_400/horie_0125b"
+msgstr "adv3_400/horie_0125b"
+
+msgctxt "51060"
+msgid "adv3_400/horie_0125c"
+msgstr "adv3_400/horie_0125c"
+
+msgctxt "51064"
+msgid "adv3_400/akiyama_0043"
+msgstr "adv3_400/akiyama_0043"
+
+msgctxt "51068"
+msgid "adv3_400/horie_0126"
+msgstr "adv3_400/horie_0126"
+
+msgctxt "51072"
+msgid "adv3_400/akiyama_0044"
+msgstr "adv3_400/akiyama_0044"
+
+msgctxt "51076"
+msgid "adv3_400/horie_0127"
+msgstr "adv3_400/horie_0127"
+
+msgctxt "51080"
+msgid "adv3_400/akiyama_0045a"
+msgstr "adv3_400/akiyama_0045a"
+
+msgctxt "51084"
+msgid "adv3_400/akiyama_0045b"
+msgstr "adv3_400/akiyama_0045b"
+
+msgctxt "51088"
+msgid "adv3_400/akiyama_0045c"
+msgstr "adv3_400/akiyama_0045c"
+
+msgctxt "51092"
+msgid "adv3_400/akiyama_0045d"
+msgstr "adv3_400/akiyama_0045d"
+
+msgctxt "51096"
+msgid "adv3_400/akiyama_0045e"
+msgstr "adv3_400/akiyama_0045e"
+
+msgctxt "51100"
+msgid "adv3_400/horie_0128"
+msgstr "adv3_400/horie_0128"
+
+msgctxt "51104"
+msgid "adv3_400/akiyama_0046"
+msgstr "adv3_400/akiyama_0046"
+
+msgctxt "51108"
+msgid "adv3_400/horie_0129"
+msgstr "adv3_400/horie_0129"
+
+msgctxt "51112"
+msgid "adv3_400/akiyama_0047"
+msgstr "adv3_400/akiyama_0047"
+
+msgctxt "200_Haruka"
+msgid "Oh, look! Here it is."
+msgstr "Oh, guarda! Eccolo."
+
+msgctxt "212_Akiyama"
+msgid "So this is the infamous note?"
+msgstr "Quindi questa è la famigerata nota?"
+
+msgctxt "224_Akiyama"
+msgid ""
+"Now, if we could just find some of her left-handed writing\r\n"
+"to compare it to. See anything?"
+msgstr ""
+"Ora, se solo potessimo trovare qualche suo scritto mancino\n"
+"per confrontarlo. Vedi qualcosa?"
+
+msgctxt "260_Haruka"
+msgid ""
+"Come to think of it, she wrote Horie-san a memo just before\r\n"
+"she died, and she used her left hand."
+msgstr ""
+"A pensarci bene, ha scritto una nota a Horie-san appena prima\n"
+"di morire, e ha usato la mano sinistra."
+
+msgctxt "272_Haruka"
+msgid "I bet it's still around here somewhere."
+msgstr "Scommetto che è ancora qui da qualche parte."
+
+msgctxt "284_Akiyama"
+msgid "Hey, how about that safe?"
+msgstr "Ehi, e la cassaforte?"
+
+msgctxt "296_Akiyama"
+msgid "...It's locked."
+msgstr "...È chiusa a chiave."
+
+msgctxt "308_Haruka"
+msgid "You're going to open it?"
+msgstr "Lo apri?"
+
+msgctxt "320_Akiyama"
+msgid "What an oddly-shaped keyhole."
+msgstr "Che buco della serratura dalla forma strana."
+
+msgctxt "332_Haruka"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "344_Akiyama"
+msgid ""
+"See for yourself. It looks like you could shove a pencil or something in "
+"there."
+msgstr ""
+"Guarda tu stesso. Sembra che ci potresti ficcare una matita o qualcosa lì "
+"dentro."
+
+msgctxt "368_Akiyama"
+msgid "Nope, no good. Not that I expected it to work."
+msgstr "Niente, non va. Non che mi aspettassi che funzionasse."
+
+msgctxt "380_Haruka"
+msgid "Wait a minute. Maybe..."
+msgstr "Aspetta un attimo. Forse..."
+
+msgctxt "392_Akiyama"
+msgid "What's that?"
+msgstr "Cos'è?"
+
+msgctxt "404_Haruka"
+msgid ""
+"A pen Park-san gave to me before she died. She said it was\r\n"
+"an early debut present..."
+msgstr ""
+"Una penna che Park-san mi ha dato prima di morire. Diceva che era\n"
+"un regalo di debutto anticipato..."
+
+msgctxt "428_Akiyama"
+msgid "Hmm... It doesn't look like Horie-chan's back yet."
+msgstr "Mmm... non mi pare che Horie-chan sia ancora rientrata."
+
+msgctxt "440_Haruka"
+msgid "No, it doesn't..."
+msgstr "No, non va..."
+
+msgctxt "464_Akiyama"
+msgid "Where do you think Park-san's note might be?"
+msgstr "Dove pensi che il biglietto di Park-san possa essere?"
+
+msgctxt "476_Haruka"
+msgid "In Park-san's office, if the police have returned it."
+msgstr "Nell'ufficio di Park-san, se la polizia l'ha restituito."
+
+msgctxt "488_Haruka"
+msgid "They've been putting her things in a tray there."
+msgstr "Hanno messo le sue cose lì in un vassoio."
+
+msgctxt "512_Akiyama"
+msgid "Mind if we exchange email addresses?"
+msgstr "Ti andrebbe di scambiarci le email?"
+
+msgctxt "524_Haruka"
+msgid "Oh, of course."
+msgstr "Oh, certo."
+
+msgctxt "536_Akiyama"
+msgid ""
+"Heh. Don't think I've ever gotten an idol's email address\r\n"
+"before. Must be pretty lucky."
+msgstr ""
+"Heh. Non credo di aver mai avuto l'email di un'idol\n"
+"prima d'ora. Devo essere piuttosto fortunato."
+
+msgctxt "548_Akiyama"
+msgid "Okay, well, I guess I'll head back to my office."
+msgstr "Ok, beh, mi sa che torno al mio ufficio."
+
+msgctxt "560_Haruka"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "632_Horie"
+msgid ""
+"Well, I can't just wait around here, so I think I'll go down\r\n"
+"to the police station. Maybe that'll speed up us getting the\r\n"
+"evidence back."
+msgstr ""
+"Beh, non posso stare qui con le mani in mano, quindi credo che scenderò\n"
+"alla stazione di polizia. Magari così facciamo prima a riavere le\n"
+"prove."
+
+msgctxt "644_Horie"
+msgid ""
+"I'll probably be back this evenin' at the earliest. You can\r\n"
+"use this time to do whatever ya need."
+msgstr ""
+"Probabilmente torno stasera, al più presto. Puoi\n"
+"approfittarne per fare quello che ti pare."
+
+msgctxt "656_Haruka"
+msgid "All right. Thank you, Horie-san."
+msgstr "Ok. Grazie, Horie-san."
+
+msgctxt "668_Horie"
+msgid "Oh, no need to thank me. This is for Dyna Chair's future."
+msgstr ""
+"Oh, non c'è bisogno di ringraziarmi. Questo è per il futuro di Dyna Chair."
+
+msgctxt "740_Haruka"
+msgid ""
+"(Horie-san will be back this evening. Maybe I should go home\r\n"
+"and try and get some rest.)"
+msgstr ""
+"Horie-san tornerà stasera. Magari dovrei andare a casa\n"
+"e cercare di riposare un po'."
+
+msgctxt "788_Akiyama"
+msgid ""
+"Sorry to spring this on you, but it looks like Haruka-chan\r\n"
+"will be coming with me."
+msgstr ""
+"Scusa se ti prendo alla sprovvista, ma sembra che Haruka-chan\n"
+"verrà con me."
+
+msgctxt "800_Akiyama"
+msgid ""
+"The two of us are going to look into whether or not it was really suicide."
+msgstr "Noi due verificheremo se è stato davvero un suicidio o meno."
+
+msgctxt "812_Horie"
+msgid "What!? Why Haruka-chan!?"
+msgstr "Cosa!? Perché Haruka-chan!?"
+
+msgctxt "824_Akiyama"
+msgid ""
+"Well, to tell the truth, this isn't the first time Haruka and I have crossed"
+" paths."
+msgstr "Beh, a dire il vero, io e Haruka ci siamo già incrociati."
+
+msgctxt "836_Akiyama"
+msgid ""
+"I never dreamed she was here at Park-san's agency. I could\r\n"
+"barely believe my eyes when I saw her."
+msgstr ""
+"Non mi sarei mai sognato che fosse qui all'agenzia di Park-san.\n"
+"A malapena credevo ai miei occhi quando l'ho vista."
+
+msgctxt "848_Horie"
+msgid ""
+"I see. Small world. And, well, with what's happened and\r\n"
+"all..."
+msgstr ""
+"Capisco. Che mondo piccolo. E, beh, con quello che è successo e\\ntutto il "
+"resto..."
+
+msgctxt "860_Horie"
+msgid ""
+"I guess this is no time for her to be thinkin' about the Princess League, "
+"anyway."
+msgstr ""
+"Immagino che non sia il momento per lei di pensare alla Princess League, "
+"comunque."
+
+msgctxt "872_Akiyama"
+msgid "The Princess League?"
+msgstr "La Lega della Principessa?"
+
+msgctxt "884_Horie"
+msgid ""
+"Oh, yeah. It's an audition-style music competition put on by\r\n"
+"an Osaka TV station."
+msgstr ""
+"Oh, sì. È una competizione musicale in stile audizione messa su da\n"
+"una stazione televisiva di Osaka."
+
+msgctxt "896_Horie"
+msgid "The way the show works is..."
+msgstr "Lo show funziona così..."
+
+msgctxt "908_Horie"
+msgid ""
+"A big record company promises a major debut to whoever can\r\n"
+"win their way through the tournament."
+msgstr ""
+"Una grande casa discografica promette un debutto importante a chiunque riesca a\n"
+"vincere il torneo."
+
+msgctxt "920_Horie"
+msgid "Haruka-chan's right in the middle of competing in the finals."
+msgstr "Haruka-chan è proprio nel bel mezzo delle finali."
+
+msgctxt "932_Akiyama"
+msgid "She made it to the finals!? That's incredible! I mean, isn't it?"
+msgstr "È arrivata alle finali!? È incredibile! Cioè, non è vero?"
+
+msgctxt "944_Horie"
+msgid "It is! It really is! She's a talented girl."
+msgstr "Lo è! Lo è per davvero! È una ragazza in gamba."
+
+msgctxt "956_Horie"
+msgid "Park-san was absolutely set on having Haruka-chan win..."
+msgstr "Park-san ci teneva un mondo a far vincere Haruka-chan..."
+
+msgctxt "968_Horie"
+msgid "And then puttin' on a major concert in Tokyo for her debut."
+msgstr "E poi organizzare un grande concerto a Tokyo per il suo debutto."
+
+msgctxt "980_Akiyama"
+msgid "But there's no guarantee she'll win!"
+msgstr "Ma non è detto che vinca!"
+
+msgctxt "992_Horie"
+msgid ""
+"Right. But that's how much Park-san was willin' to bet on\r\n"
+"Haruka-chan and her abilities."
+msgstr ""
+"Giusto. Ma è quanto Park-san era disposta a scommettere su\n"
+"Haruka-chan e le sue capacità."
+
+msgctxt "1004_Horie"
+msgid ""
+"But I guess Haruka-chan really shouldn't be appearin' on the\r\n"
+"show now that Park-san is gone."
+msgstr ""
+"Ma immagino che Haruka-chan non dovrebbe proprio apparire nello\n"
+"show ora che Park-san non c'è più."
+
+msgctxt "1016_Horie"
+msgid ""
+"She probably should hold off on that kind of thing for the\r\n"
+"time being."
+msgstr "Probabilmente dovrebbe sospendere quelle cose per il\\nmomento."
+
+msgctxt "1028_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "1040_Akiyama"
+msgid "No way. She has to go on. No matter what."
+msgstr "Assolutamente no. Deve esibirsi. A qualsiasi costo."
+
+msgctxt "1052_Haruka"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "1064_Horie"
+msgid "Why do you say that?"
+msgstr "Perché dici così?"
+
+msgctxt "1076_Akiyama"
+msgid "Because that was Park-san's dream."
+msgstr "Perché quello era il sogno di Park-san."
+
+msgctxt "1088_Akiyama"
+msgid ""
+"Haruka-chan, remember how I told you Park-san came to borrow\r\n"
+"money from me?"
+msgstr ""
+"Haruka-chan, ti ricordi che ti avevo detto che Park-san è venuta a prendermi dei\n"
+"soldi in prestito?"
+
+msgctxt "1100_Haruka"
+msgid "Yes."
+msgstr "Sì."
+
+msgctxt "1112_Akiyama"
+msgid "Well, that 300 million yen she borrowed..."
+msgstr "Beh, quei 300 milioni di yen che aveva preso in prestito..."
+
+msgctxt "1124_Akiyama"
+msgid "That was a fund to produce a concert in Tokyo."
+msgstr "Quello era un fondo per produrre un concerto a Tokyo."
+
+msgctxt "1136_Horie"
+msgid "Really!? You sure about that!?"
+msgstr "Davvero!? Ne sei proprio sicuro!?"
+
+msgctxt "1148_Akiyama"
+msgid "Positive. Well, probably not the whole 300 million."
+msgstr "Certo. Beh, probabilmente non tutti i 300 milioni."
+
+msgctxt "1160_Akiyama"
+msgid ""
+"Some of that was likely for other promotional activities in\r\n"
+"Tokyo, but that's beside the point."
+msgstr ""
+"Una parte di quelli era probabilmente per altre attività promozionali a\n"
+"Tokyo, ma questo non c'entra."
+
+msgctxt "1172_Akiyama"
+msgid ""
+"She came to borrow money from me because she was that\r\n"
+"confident Haruka-chan would win."
+msgstr ""
+"È venuta a prendermi dei soldi in prestito perché era così\n"
+"fiduciosa che Haruka-chan avrebbe vinto."
+
+msgctxt "1184_Horie"
+msgid ""
+"But, if I remember right, Park-san borrowed that money\r\n"
+"from you－"
+msgstr ""
+"Ma, se non ricordo male, Park-san ha preso in prestito quei soldi\n"
+"da te－"
+
+msgctxt "1196_Akiyama"
+msgid "A year and a half ago."
+msgstr "Un anno e mezzo fa."
+
+msgctxt "1208_Horie"
+msgid "Then, that means－"
+msgstr "Allora, questo significa－"
+
+msgctxt "1220_Akiyama"
+msgid ""
+"Exactly. She made up her mind the instant she met\r\n"
+"Haruka-chan."
+msgstr ""
+"Esatto. Si è decisa nell'istante in cui ha incontrato\n"
+"Haruka-chan."
+
+msgctxt "1232_Akiyama"
+msgid ""
+"She was going to see to it that Haruka-chan had that concert\r\n"
+"in Tokyo, no matter what."
+msgstr ""
+"Si sarebbe assicurata che Haruka-chan avesse quel concerto\n"
+"a Tokyo, a qualunque costo."
+
+msgctxt "1244_Akiyama"
+msgid ""
+"Of course, at the time, I had no idea the money was for you, Haruka-chan..."
+msgstr ""
+"Certo, all'epoca non avevo idea che i soldi fossero per te, Haruka-chan..."
+
+msgctxt "1256_Haruka"
+msgid "Park-san did all of that... for me?"
+msgstr "Park-san ha fatto tutto questo... per me?"
+
+msgctxt "1268_Akiyama"
+msgid "That's why you can't just give up on her dream."
+msgstr "È per questo che non puoi semplicemente arrenderti al suo sogno."
+
+msgctxt "1280_Akiyama"
+msgid ""
+"If you don't keep her dream alive, all her efforts will have\r\n"
+"been in vain."
+msgstr ""
+"Se non mantieni vivo il suo sogno, tutti i suoi sforzi saranno stati\n"
+"vani."
+
+msgctxt "1292_Horie"
+msgid "......"
+msgstr "......"
+
+msgctxt "1304_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "1316_Akiyama"
+msgid "Haruka-chan, I know how you feel about Park-san."
+msgstr "Haruka-chan, capisco come ti senti per Park-san."
+
+msgctxt "1328_Akiyama"
+msgid ""
+"So I won't try to stop you from looking into her death with\r\n"
+"me."
+msgstr ""
+"Quindi non cercherò di fermarti dal indagare sulla sua morte con\n"
+"me."
+
+msgctxt "1340_Akiyama"
+msgid "But at the same time..."
+msgstr "Ma allo stesso tempo..."
+
+msgctxt "1352_Haruka"
+msgid ""
+"I'll do it. I'll do both. Carrying on her dream is every bit\r\n"
+"as important to me as finding out the truth about her death."
+msgstr ""
+"Lo farò. Farò entrambe le cose. Portare avanti il suo sogno è altrettanto\n"
+"importante per me quanto scoprire la verità sulla sua morte."
+
+msgctxt "1364_Akiyama"
+msgid ""
+"And there you go. There's the girl Park-san and Kiryu-san\r\n"
+"saw something special in."
+msgstr ""
+"Ed eccola qui la ragazza in cui Park-san e Kiryu-san\n"
+"hanno visto qualcosa di speciale."
+
+msgctxt "1376_Akiyama"
+msgid "And you, Horie-chan. We're counting on you."
+msgstr "E tu, Horie-chan. Contiamo su di te."
+
+msgctxt "1388_Akiyama"
+msgid ""
+"It'll be your job to make sure our Haruka-chan here gets to\r\n"
+"that Princess whatever-it-is."
+msgstr ""
+"Sarà il tuo compito assicurarti che la nostra Haruka-chan qui arrivi a\n"
+"quel titolo di Principessa, o come si chiami."
+
+msgctxt "1400_Horie"
+msgid ""
+"Yes! I'll make sure! But, to be honest, I'm not sure how,\r\n"
+"now that the money is gone..."
+msgstr ""
+"Sì! Me ne assicurerò! Ma, ad essere onesta, non sono sicura di come,\n"
+"ora che i soldi sono spariti..."
+
+msgctxt "1412_Akiyama"
+msgid ""
+"That's why I'm getting that three hundred million back－to make her dream "
+"come true."
+msgstr ""
+"È per questo che recupererò quei trecento milioni per realizzare il suo "
+"sogno."
+
+msgctxt "1424_Akiyama"
+msgid "And in order to do that, we need to investigate her death."
+msgstr "E per fare questo, dobbiamo indagare sulla sua morte."
+
+msgctxt "1436_Horie"
+msgid "Akiyama-san... All right, I'm in."
+msgstr "Akiyama-san... Va bene, ci sto."
+
+msgctxt "1448_Haruka"
+msgid "But how do we go about investigating her death?"
+msgstr "Ma come facciamo a indagare sulla sua morte?"
+
+msgctxt "1460_Akiyama"
+msgid "I think the key lies in that suicide note."
+msgstr "Credo che la chiave stia in quel biglietto d'addio."
+
+msgctxt "1472_Haruka"
+msgid "Her note?"
+msgstr "Il suo biglietto d'addio?"
+
+msgctxt "1484_Akiyama"
+msgid "If it wasn't a suicide, it means the killer fabricated it."
+msgstr "Se non è stato un suicidio, significa che l'assassino l'ha inscenato."
+
+msgctxt "1496_Akiyama"
+msgid "Horie-chan, you said you thought it looked like her handwriting."
+msgstr "Horie-chan, hai detto che pensavi sembrasse la sua calligrafia."
+
+msgctxt "1508_Haruka"
+msgid "I saw it, too, but... Ah!"
+msgstr "Anch'io l'ho visto, ma... Ah!"
+
+msgctxt "1520_Akiyama"
+msgid "What is it?"
+msgstr "E cioè?"
+
+msgctxt "1532_Haruka"
+msgid ""
+"Come to think of it, Park-san hurt her hand a little while\r\n"
+"ago. Her right hand."
+msgstr ""
+"A pensarci bene, Park-san si è fatta male alla mano poco tempo\\r\n"
+"fa. La sua mano destra."
+
+msgctxt "1544_Haruka"
+msgid ""
+"But she said she used to write with her left hand, so she\r\n"
+"just went back to doing that."
+msgstr ""
+"Ma lei ha detto che scriveva con la mano sinistra, quindi\n"
+"è semplicemente tornata a farlo."
+
+msgctxt "1556_Akiyama"
+msgid "Okay, so she would've used her left hand to write that note."
+msgstr ""
+"Ok, quindi avrebbe usato la sua mano sinistra per scrivere quel biglietto "
+"d'addio."
+
+msgctxt "1568_Akiyama"
+msgid "Provided she was the one who wrote it, of course."
+msgstr "Sempre che l'abbia scritto lei, ovvio."
+
+msgctxt "1580_Haruka"
+msgid "Right."
+msgstr "Giusto."
+
+msgctxt "1592_Akiyama"
+msgid ""
+"But if that note is written in the handwriting style of her\r\n"
+"right hand..."
+msgstr ""
+"Ma se quel biglietto d'addio è scritto con la calligrafia della sua\\r\n"
+"mano destra..."
+
+msgctxt "1604_Akiyama"
+msgid "Then somebody forged it."
+msgstr "Allora qualcuno l'ha falsificato."
+
+msgctxt "1616_Akiyama"
+msgid ""
+"And that would mean that her death was only made to look\r\n"
+"like a suicide－by her killer."
+msgstr ""
+"E questo significherebbe che la sua morte era solo fatta sembrare\\nun "
+"suicidio dal suo assassino."
+
+msgctxt "1628_Haruka"
+msgid "Exactly."
+msgstr "Esatto."
+
+msgctxt "1640_Akiyama"
+msgid "I think it's time we took a look at that note for ourselves."
+msgstr "È ora di dare un'occhiata a quel biglietto d'addio di persona."
+
+msgctxt "1652_Akiyama"
+msgid ""
+"You said the police would give it back after the handwriting\r\n"
+"was evaluated, right?"
+msgstr ""
+"Hai detto che la polizia l'avrebbe restituito dopo la valutazione della calligrafia,\n"
+"giusto?"
+
+msgctxt "1664_Horie"
+msgid "That's right. They didn't think it'd take too long."
+msgstr "Esatto. Non pensavano che ci sarebbe voluto troppo tempo."
+
+msgctxt "1676_Akiyama"
+msgid "Okay, we'll wait until then."
+msgstr "Ok, aspetteremo fino ad allora."
+
+msgctxt "1688_Akiyama"
+msgid "I probably should do at least a little work for my company..."
+msgstr "Mi sa che dovrei fare almeno un po' di lavoro per la mia azienda..."
+
+msgctxt "1700_Akiyama"
+msgid ""
+"And if there's anything you want to do, Haruka-chan, now\r\n"
+"would be the time to do it."
+msgstr ""
+"E se c'è qualcosa che vuoi fare, Haruka-chan, adesso\n"
+"sarebbe il momento di farlo."
+
+msgctxt "1712_Haruka"
+msgid ""
+"No, that's all right. I'll just wait here. I can't do\r\n"
+"anything else at a time like this."
+msgstr ""
+"No, va bene così. Aspetterò qui e basta. Non posso fare\\naltro in un "
+"momento come questo."
+
+msgctxt "1724_Akiyama"
+msgid "Well, this might be your only chance."
+msgstr "Beh, questa potrebbe essere la tua unica possibilità."
+
+msgctxt "1736_Haruka"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "1748_Akiyama"
+msgid ""
+"You have the Princess League finals coming up, right? No way\r\n"
+"you'll be able to do anything else once that rolls around."
+msgstr ""
+"Hai le finali della Princess League in arrivo, giusto? Non c'è verso\n"
+"che tu possa fare altro una volta che quelle inizieranno."
+
+msgctxt "1760_Akiyama"
+msgid ""
+"So anything you need to do now, you'd better do while you\r\n"
+"have time to spare."
+msgstr ""
+"Quindi, qualsiasi cosa tu debba fare adesso, faresti meglio a farla mentre "
+"hai\\ntempo a disposizione."
+
+msgctxt "1772_Haruka"
+msgid "When you put it that way... All right."
+msgstr "Se la metti così... Va bene."
+
+msgctxt "1784_Horie"
+msgid ""
+"Good. If the police contact me, I'll let you know. You just\r\n"
+"take it easy."
+msgstr ""
+"Bene. Se la polizia mi contatta, te lo faccio sapere. Tu stai\n"
+"tranquillo e basta."
+
+msgctxt "1796_Haruka"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "1832_Akiyama"
+msgid "Hello."
+msgstr "Salve."
+
+msgctxt "1844_Yamaura"
+msgid "Who're you?"
+msgstr "Chi saresti?"
+
+msgctxt "1856_Haruka"
+msgid "This is Akiyama-san from Sky Finance in Tokyo."
+msgstr "Sono Akiyama-san della Sky Finance di Tokyo."
+
+msgctxt "1868_Haruka"
+msgid "Horie-san asked him to come discuss Park-san."
+msgstr "Horie-san gli ha chiesto di venire per parlare di Park-san."
+
+msgctxt "1880_Yamaura"
+msgid "He did, huh...? I see."
+msgstr "L'ha fatto, eh...? Capisco."
+
+msgctxt "1892_Haruka"
+msgid "Akiyama-san, this is Yamaura-san."
+msgstr "Akiyama-san, sono Yamaura-san."
+
+msgctxt "1904_Haruka"
+msgid "She works at the agency. She's my vocal coach, too."
+msgstr "Lavora all'agenzia. È anche la mia vocal coach."
+
+msgctxt "1916_Akiyama"
+msgid "Howdy."
+msgstr "Ehilà."
+
+msgctxt "1928_Yamaura"
+msgid ""
+"Howdy... Listen, Haruka. If ya want a voice lesson, you can\r\n"
+"come to the studio."
+msgstr ""
+"Ehilà... Ascolta, Haruka. Se vuoi una lezione di canto, puoi\n"
+"venire allo studio."
+
+msgctxt "1940_Yamaura"
+msgid "Christina is here, too."
+msgstr "Anche Christina è qui."
+
+msgctxt "1952_Yamaura"
+msgid ""
+"We gotta do something to distract ourselves at a time like\r\n"
+"this, right?"
+msgstr ""
+"Dobbiamo pur fare qualcosa per distrarci in un momento come\n"
+"questo, giusto?"
+
+msgctxt "1964_Yamaura"
+msgid "I'll see ya later."
+msgstr "A dopo."
+
+msgctxt "2012_Akiyama"
+msgid "So this is where it happened, huh...?"
+msgstr "Quindi è qui che è successo, eh...?"
+
+msgctxt "2024_Akiyama"
+msgid "(What else do I need to know?)"
+msgstr "Cos'altro mi serve sapere?"
+
+msgctxt "2060_Akiyama"
+msgid "Haruka-chan, about what time did the incident happen?"
+msgstr "Haruka-chan, verso che ora è successo l'incidente?"
+
+msgctxt "2072_Haruka"
+msgid ""
+"This morning at about six. People in the neighborhood heard\r\n"
+"the impact."
+msgstr ""
+"Stamattina verso le sei. La gente del quartiere ha sentito\n"
+"l'impatto."
+
+msgctxt "2084_Akiyama"
+msgid "I see."
+msgstr "Capisco."
+
+msgctxt "2096_Akiyama"
+msgid "I wonder where she was supposed to have jumped from..."
+msgstr "Mi chiedo da dove sarebbe dovuta saltare..."
+
+msgctxt "2108_Haruka"
+msgid "Akiyama-san... They say this is where she jumped."
+msgstr "Akiyama-san... Dicono sia qui che è saltata."
+
+msgctxt "2120_Akiyama"
+msgid "Hmm. Seems like a good spot to fabricate a suicide, if you ask me."
+msgstr ""
+"Hmm. Sembra il posto giusto per inscenare un suicidio, se vuoi sapere la "
+"mia."
+
+msgctxt "2132_Akiyama"
+msgid ""
+"What about that shoe thing people sometimes do when they\r\n"
+"commit suicide? Were her shoes taken off and left neatly on the spot?"
+msgstr ""
+"E quella faccenda delle scarpe che a volte si fa quando ci si\n"
+"suicida? Le sue scarpe le avevano tolte e lasciate in ordine sul posto?"
+
+msgctxt "2144_Haruka"
+msgid "Yes, apparently so."
+msgstr "Sì, a quanto pare."
+
+msgctxt "2156_Akiyama"
+msgid "Hmm. Very textbook. A practically model suicide."
+msgstr "Hmm. Molto da manuale. Un suicidio praticamente esemplare."
+
+msgctxt "2168_Akiyama"
+msgid "Somehow, that doesn't really seem like Park-san, either."
+msgstr "Eppure, non mi sembra proprio da Park-san, neanche."
+
+msgctxt "2180_Akiyama"
+msgid "If you ask me, this whole thing reeks."
+msgstr "Se vuoi sapere la mia, tutta questa faccenda mi puzza."
+
+msgctxt "2192_Haruka"
+msgid "I agree."
+msgstr "Sono d'accordo."
+
+msgctxt "2204_Akiyama"
+msgid "How far down is it from here?"
+msgstr "Quanto in basso è da qui?"
+
+msgctxt "2228_Akiyama"
+msgid ""
+"Hmm. At this height, there's no guarantee. You'd have to try\r\n"
+"and fall head first."
+msgstr ""
+"Hmm. A quest'altezza, non c'è nessuna garanzia. Dovresti provare\n"
+"a cadere di testa."
+
+msgctxt "2240_Akiyama"
+msgid ""
+"If you landed feet first, you might end up with some\r\n"
+"compound fractures, but you'd definitely pull through."
+msgstr ""
+"Se atterrassi sui piedi, potresti ritrovarti con qualche\n"
+"frattura composta, ma te la caveresti di sicuro."
+
+msgctxt "2252_Akiyama"
+msgid ""
+"And on a busy street like this, wouldn't you worry about\r\n"
+"maybe hurting somebody else?"
+msgstr ""
+"E in una strada trafficata come questa, non ti verrebbe il pensiero di\n"
+"magari far male a qualcun altro?"
+
+msgctxt "2264_Akiyama"
+msgid "Wouldn't you pick a better spot if you were going to jump?"
+msgstr "Non sceglieresti un posto migliore se volessi saltare?"
+
+msgctxt "2276_Haruka"
+msgid "Yes, I think you might be right."
+msgstr "Sì, credo tu abbia ragione."
+
+msgctxt "2288_Akiyama"
+msgid ""
+"If it were me, I'd pick someplace higher, where I could be\r\n"
+"sure I'd die instantly."
+msgstr ""
+"Se fossi al posto mio, sceglierei un posto più alto, dove potrei essere\n"
+"sicuro di morire all'istante."
+
+msgctxt "2312_Akiyama"
+msgid "I guess that's about all we're gonna find out from this place."
+msgstr "Credo che sia tutto quello che tireremo fuori da qui."
+
+msgctxt "2324_Haruka"
+msgid "You've seen enough, Akiyama-san?"
+msgstr "Hai visto abbastanza, Akiyama-san?"
+
+msgctxt "2336_Akiyama"
+msgid "Yeah. But I don't see any definite proof of a faked suicide."
+msgstr "Sì. Ma non vedo nessuna prova concreta di un suicidio simulato."
+
+msgctxt "2348_Akiyama"
+msgid "Wanna head back down?"
+msgstr "Vogliamo tornare giù?"
+
+msgctxt "2360_Haruka"
+msgid "All right..."
+msgstr "Va bene..."
+
+msgctxt "2384_Akiyama"
+msgid "Now, let's see. Where to start?"
+msgstr "Allora, vediamo. Da dove iniziare?"
+
+msgctxt "2396_Akiyama"
+msgid ""
+"If we want to prove that it was a murder, we'd better have a\r\n"
+"look at the scene."
+msgstr ""
+"Se vogliamo dimostrare che è stato un omicidio, faremmo meglio a dare "
+"un'occhiata alla scena."
+
+msgctxt "2408_Akiyama"
+msgid "Although, that might be hard for you, Haruka-chan."
+msgstr "Però, potrebbe essere difficile per te, Haruka-chan."
+
+msgctxt "2420_Haruka"
+msgid "I'll be all right."
+msgstr "Starò bene."
+
+msgctxt "2432_Akiyama"
+msgid ""
+"Okay. Good on you for keeping your chin up... Now, where do\r\n"
+"they think she jumped from?"
+msgstr ""
+"Va bene. Bravo te a tenere duro... Ora, da dove\n"
+"pensano che sia saltata?"
+
+msgctxt "2444_Haruka"
+msgid "From the roof of this building. It's the fifth floor."
+msgstr "Dal tetto di questo edificio. È il quinto piano."
+
+msgctxt "2456_Akiyama"
+msgid "Okay, let's head on up and see what we can learn."
+msgstr "Va bene, andiamo su e vediamo cosa possiamo imparare."
+
+msgctxt "2492_Akiyama"
+msgid "And they're certain it was a suicide?"
+msgstr "E sono certi che sia stato un suicidio?"
+
+msgctxt "2504_Horie"
+msgid ""
+"There was a note. Sounds like the police will have it back\r\n"
+"to us pretty soon. The handwriting's being evaluated."
+msgstr ""
+"C'era un biglietto. Sembra che la polizia ce lo ridarà\n"
+"abbastanza presto. Stanno valutando la calligrafia."
+
+msgctxt "2516_Horie"
+msgid "As far as I could tell, though, it was her writing."
+msgstr "Per quanto ne sapevo io, però, era la sua calligrafia."
+
+msgctxt "2528_Horie"
+msgid "Given that, the police are pretty sure it's suicide."
+msgstr "Dato ciò, la polizia è abbastanza sicura che sia suicidio."
+
+msgctxt "2540_Akiyama"
+msgid "I see... So she left a note, huh?"
+msgstr "Capisco... Quindi ha lasciato un biglietto, eh?"
+
+msgctxt "2552_Horie"
+msgid ""
+"The detective said that, lately, suicides are on the rise\r\n"
+"among executives of smaller companies. He sees it all the time, apparently."
+msgstr ""
+"Il detective ha detto che, ultimamente, i suicidi sono in aumento\n"
+"tra i dirigenti delle aziende più piccole. Lo vede in continuazione, a quanto pare."
+
+msgctxt "2564_Akiyama"
+msgid "Yeah, you do hear about that kind of thing a lot, I guess..."
+msgstr "Già, se ne sente spesso parlare di queste cose, immagino..."
+
+msgctxt "2576_Horie"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "2588_Akiyama"
+msgid "So what did her note say?"
+msgstr "Allora cosa diceva il suo biglietto?"
+
+msgctxt "2600_Horie"
+msgid "It was really short. Just two sentences."
+msgstr "Era davvero breve. Solo due frasi."
+
+msgctxt "2612_Horie"
+msgid "All she wrote was, \"I'm tired. I'm sorry.\""
+msgstr "Tutto ciò che scrisse fu: \"Sono stanca. Mi dispiace.\""
+
+msgctxt "2624_Akiyama"
+msgid "\"I'm tired. I'm sorry.\" That's it?"
+msgstr "\"Sono stanca. Mi dispiace.\" Tutto qui?"
+
+msgctxt "2636_Akiyama"
+msgid "That doesn't sound like her."
+msgstr "Non mi sembra da lei."
+
+msgctxt "2648_Horie"
+msgid "I thought the same thing."
+msgstr "Ho pensato la stessa cosa."
+
+msgctxt "2660_Akiyama"
+msgid "What do you think happened to her?"
+msgstr "Secondo te, cosa le è successo?"
+
+msgctxt "2672_Horie"
+msgid "To be honest, I don't really know."
+msgstr "A dire il vero, non lo so davvero."
+
+msgctxt "2684_Horie"
+msgid ""
+"From a business standpoint, she had a lot of enemies, but,\r\n"
+"as far as I know, none of that was enough to make her wanna kill herself."
+msgstr ""
+"Dal punto di vista degli affari, aveva un sacco di nemici, ma,\n"
+"per quanto ne so, niente di tutto ciò era abbastanza da spingerla a volersi suicidare."
+
+msgctxt "2696_Horie"
+msgid ""
+"But there's one more very serious problem I wanted to talk\r\n"
+"to ya about..."
+msgstr ""
+"Ma c'è un altro problema molto serio di cui volevo\n"
+"parlarti..."
+
+msgctxt "2708_Akiyama"
+msgid "What's that?"
+msgstr "Cos'è?"
+
+msgctxt "2720_Horie"
+msgid "It's about the money Park-san borrowed from you."
+msgstr "Si tratta dei soldi che Park-san ti ha preso in prestito."
+
+msgctxt "2732_Horie"
+msgid ""
+"I looked in the safe earlier to check on it, and it wasn't\r\n"
+"there anymore."
+msgstr ""
+"Ho guardato nella cassaforte prima per controllare, e non c'era\n"
+"più."
+
+msgctxt "2744_Akiyama"
+msgid "So you think it was stolen?"
+msgstr "Quindi pensi che sia stato rubato?"
+
+msgctxt "2756_Akiyama"
+msgid "And the person who took it murdered Park-san?"
+msgstr "E la persona che l'ha preso ha ucciso Park-san?"
+
+msgctxt "2768_Horie"
+msgid "Well, I can't say for sure, of course."
+msgstr "Beh, non posso esserne sicuro, certo."
+
+msgctxt "2780_Horie"
+msgid ""
+"There's always the possibility Park-san moved it somewhere\r\n"
+"recently."
+msgstr ""
+"C'è sempre la possibilità che Park-san l'abbia spostato da qualche parte\n"
+"di recente."
+
+msgctxt "2792_Horie"
+msgid ""
+"If I could find the account book Park-san kept, I might be\r\n"
+"able to tell you something, but it hasn't turned up yet."
+msgstr ""
+"Se riuscissi a trovare il libro contabile che Park-san teneva, potrei dirti "
+"qualcosa, ma non è ancora saltato fuori."
+
+msgctxt "2804_Horie"
+msgid ""
+"Still, I wanted to let you know there's a chance the money's\r\n"
+"been stolen."
+msgstr ""
+"Comunque, volevo farti sapere che c'è la possibilità che i soldi siano stati\n"
+"rubati."
+
+msgctxt "2816_Horie"
+msgid ""
+"If that's the case, quite honestly, I don't see how we\r\n"
+"could ever pay you back."
+msgstr ""
+"Se le cose stanno così, a essere sincero, non vedo come\\nriusciremmo mai a "
+"ripagarti."
+
+msgctxt "2828_Akiyama"
+msgid "Oh, of course not. I'd never ask you to pay."
+msgstr "Oh, certo che no. Non ti chiederei mai di pagare."
+
+msgctxt "2840_Akiyama"
+msgid ""
+"I lent the money to Park-san personally, after all, not to\r\n"
+"Dyna Chair."
+msgstr ""
+"Ho prestato i soldi a Park-san personalmente, dopotutto, non a\n"
+"Dyna Chair."
+
+msgctxt "2852_Horie"
+msgid "Yes, I know, but still. It's such a large sum of money..."
+msgstr "Sì, lo so, ma comunque. È una somma di denaro così ingente..."
+
+msgctxt "2864_Akiyama"
+msgid ""
+"Anyway, now that all this has happened, what's the agency\r\n"
+"going to do?"
+msgstr ""
+"Comunque, adesso che è successo tutto questo, cosa l'agenzia\n"
+"farà?"
+
+msgctxt "2876_Horie"
+msgid ""
+"I don't know... Park-san always ran everything herself.\r\n"
+"I really can't imagine what we'll do without her."
+msgstr ""
+"Non lo so... Park-san ha sempre gestito tutto da sola.\n"
+"Non riesco proprio a immaginare cosa faremo senza di lei."
+
+msgctxt "2888_Horie"
+msgid ""
+"But there's this one new girl Park-san had been pouring all\r\n"
+"her energy into. She's just about to make her big debut."
+msgstr ""
+"Ma c'è questa ragazza nuova in cui Park-san aveva riversato tutte\\nle sue "
+"energie. Sta per fare il suo grande debutto."
+
+msgctxt "2900_Akiyama"
+msgid "A new girl, huh?"
+msgstr "Una ragazza nuova, eh?"
+
+msgctxt "2912_Horie"
+msgid ""
+"Yeah, she has great promise. A real gem, this girl.\r\n"
+"Park-san went all the way to Okinawa to find her."
+msgstr ""
+"Sì, promette bene. Una vera gemma, questa ragazza.\n"
+"Park-san è andata fino a Okinawa per trovarla."
+
+msgctxt "2924_Horie"
+msgid ""
+"Park-san put so much time and effort into nurturing her. If\r\n"
+"the agency were to close now, all of that would go to waste."
+msgstr ""
+"Park-san ha messo così tanto tempo e impegno nel coltivarla. Se\n"
+"l'agenzia dovesse chiudere ora, tutto ciò andrebbe sprecato."
+
+msgctxt "2936_Horie"
+msgid "I know Park-san would've hated that."
+msgstr "So che Park-san avrebbe odiato quello."
+
+msgctxt "2948_Akiyama"
+msgid ""
+"Horie-chan, it sounds to me like you don't think she\r\n"
+"committed suicide."
+msgstr "Horie-chan, mi sembra che tu non creda che si\\nsia suicidata."
+
+msgctxt "2960_Horie"
+msgid ""
+"You better believe I don't. The Park-san I knew never\r\n"
+"would've done that."
+msgstr ""
+"Ci puoi giurare di no. La Park-san che conoscevo non\n"
+"l'avrebbe mai fatto."
+
+msgctxt "2972_Akiyama"
+msgid "I have to say, I agree with you."
+msgstr "Devo dire, sono d'accordo con te."
+
+msgctxt "2984_Horie"
+msgid "What about you, Akiyama-san? What are your plans after this?"
+msgstr "E tu, Akiyama-san? Cosa farai dopo questo?"
+
+msgctxt "2996_Akiyama"
+msgid ""
+"I plan to do some poking around on my own. I am a\r\n"
+"moneylender, after all. Wouldn't be very good at my job\r\n"
+"if I didn't keep track of my loans."
+msgstr ""
+"Ho intenzione di ficcanasare un po' per conto mio. Sono un\n"
+"prestatore di denaro, dopotutto. Non farei un buon lavoro\n"
+"se non tenessi traccia dei miei prestiti."
+
+msgctxt "3008_Akiyama"
+msgid "If somebody did kill her and took the money..."
+msgstr "Se qualcuno l'ha uccisa e si è preso i soldi..."
+
+msgctxt "3020_Akiyama"
+msgid "Then I'll just have to get it back."
+msgstr "Allora mi toccherà riprendermeli."
+
+msgctxt "3032_Akiyama"
+msgid ""
+"And with what you told me, I doubt we can count on the\r\n"
+"police helping out."
+msgstr ""
+"E con quello che mi hai detto, dubito che possiamo contare sulla\n"
+"polizia che ci dia una mano."
+
+msgctxt "3044_Akiyama"
+msgid ""
+"If I really want to find out the truth behind her death,\r\n"
+"then I guess I'll just have to do it myself."
+msgstr ""
+"Se voglio davvero scoprire la verità dietro la sua morte,\n"
+"allora mi sa che mi toccherà farlo da solo."
+
+msgctxt "3056_Horie"
+msgid "Akiyama-san..."
+msgstr "Akiyama-san..."
+
+msgctxt "3068_Akiyama"
+msgid "So who was the last person to see Park-san alive?"
+msgstr "Allora, chi è stata l'ultima persona a vedere Park-san viva?"
+
+msgctxt "3080_Horie"
+msgid ""
+"The new girl I told you about earlier. She's in the studio\r\n"
+"on the fourth floor right now. I'll show you the way up."
+msgstr ""
+"La ragazza nuova di cui ti parlavo prima. È nello studio\n"
+"al quarto piano proprio adesso. Ti mostro la strada per salire."
+
+msgctxt "3092_Akiyama"
+msgid "Nah, that's all right. I'll figure it out."
+msgstr "No, va bene. Ci penso io."

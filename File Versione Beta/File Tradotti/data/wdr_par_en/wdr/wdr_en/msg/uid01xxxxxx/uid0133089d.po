@@ -1,0 +1,631 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "652"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Collana di Haruka<Color:Default>."
+
+msgctxt "712"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round when you are playing cho-han.\r\n"
+" "
+msgstr ""
+"Haruka d'ora in poi di tanto in tanto prevederà l'esito di una mano quando "
+"giochi a cho-han."
+
+msgctxt "760"
+msgid "You got <Color:8>Haruka's Lunch<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Il pranzo di Haruka<Color:Default>."
+
+msgctxt "820"
+msgid "You got <Color:8>Haruka's First-Aid Kit<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Kit di Primo Soccorso di Haruka<Color:Default>."
+
+msgctxt "880"
+msgid "You got <Color:8>Red Jewel<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Gemma Rossa<Color:Default>."
+
+msgctxt "940"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr "Hai ottenuto <Color:8>L'Amuleto di Haruka<Color:Default>."
+
+msgctxt "1000"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr "Hai ottenuto <Color:8>il cioccolato di Haruka<Color:Default>."
+
+msgctxt "1060"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Dolcetto di Haruka<Color:Default>."
+
+msgctxt "1168"
+msgid "You got <Color:8>Morning Glory Belly Warmer<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Scaldapancia del Glicine<Color:Default>."
+
+msgctxt "27860"
+msgid "Staff"
+msgstr "Staff"
+
+msgctxt "27864"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "27868"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "27872"
+msgid "Talk_Info_R"
+msgstr "Talk_Info_R"
+
+msgctxt "27876"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "27880"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "27884"
+msgid "P_TLK_sitchr_kamae"
+msgstr "P_TLK_sitchr_kamae"
+
+msgctxt "27888"
+msgid "Chef"
+msgstr "Chef"
+
+msgctxt "27892"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "27896"
+msgid "P_TLK_stand_kamae"
+msgstr "P_TLK_stand_kamae"
+
+msgctxt "27900"
+msgid "P_TLK_sitchr_yes"
+msgstr "P_TLK_sitchr_yes"
+
+msgctxt "27904"
+msgid "ArmsID"
+msgstr "ID Armi"
+
+msgctxt "27908"
+msgid "HAL_TLK_sitchr_eat_donburi_min"
+msgstr "HAL_TLK_sitchr_eat_donburi_min"
+
+msgctxt "27912"
+msgid "HAL_TLK_sitchr_kamae"
+msgstr "HAL_TLK_sitchr_kamae"
+
+msgctxt "27916"
+msgid "HAL_TLK_sitchr_smile"
+msgstr "HAL_TLK_sitchr_smile"
+
+msgctxt "27920"
+msgid "P_stand"
+msgstr "P_stand"
+
+msgctxt "27924"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "27928"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "27932"
+msgid "Honoka"
+msgstr "Honoka"
+
+msgctxt "27936"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "27940"
+msgid "○Why not try dancing?"
+msgstr "○Perché non provi a ballare?"
+
+msgctxt "27944"
+msgid "□There's no easy way to do it."
+msgstr "□Non c'è un modo facile per farlo."
+
+msgctxt "27948"
+msgid "△Maybe eat less?"
+msgstr "△Magari mangiare meno?"
+
+msgctxt "27952"
+msgid "Talk_Kamae"
+msgstr "Talk_Kamae"
+
+msgctxt "27956"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "27960"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "27964"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "27968"
+msgid "0"
+msgstr "0"
+
+msgctxt "27972"
+msgid "Idle"
+msgstr "Inattivo"
+
+msgctxt "160_Staff"
+msgid "Welcome."
+msgstr "Benvenuto."
+
+msgctxt "172_Staff"
+msgid "Let me show you to your table."
+msgstr "Lasci che la accompagni al suo tavolo."
+
+msgctxt "196_Player"
+msgid "(I'm broke.)"
+msgstr "(Sono al verde.)"
+
+msgctxt "208_Staff"
+msgid "Sorry. There's something I need to take care of."
+msgstr "Scusa. Ho una cosa da sbrigare."
+
+msgctxt "220_Staff"
+msgid "Ah, I see. Please do come again."
+msgstr "Ah, capisco. Torni pure."
+
+msgctxt "268_Staff"
+msgid "May I take your order?"
+msgstr "Posso prendere la sua ordinazione?"
+
+msgctxt "280_Haruka"
+msgid ""
+"Uncle Kaz, I'd really like some <Color:8>Potato, Mochi, & Cheese "
+"Okonomiyaki<Color:Default>."
+msgstr ""
+"Zio Kaz, mi andrebbe proprio un <Color:8>okonomiyaki con patate, mochi e "
+"formaggio<Color:Default>."
+
+msgctxt "292_Kiryu"
+msgid ""
+"(Haruka wants to have some <Color:8>Potato, Mochi, & Cheese "
+"Okonomiyaki<Color:Default>...)"
+msgstr ""
+"(Haruka vorrebbe dell'<Color:8>okonomiyaki con patate, mochi e "
+"formaggio<Color:Default>...)"
+
+msgctxt "316_Staff"
+msgid ""
+"But I wanted some <Color:8>Potato, Mochi, & Cheese "
+"Okonomiyaki<Color:Default>..."
+msgstr ""
+"Ma io volevo dell'<Color:8>okonomiyaki con patate, mochi e "
+"formaggio<Color:Default>..."
+
+msgctxt "352_Staff"
+msgid "This looks really tasty! Thanks, Uncle Kaz!"
+msgstr "Sembra una vera delizia! Grazie, zio Kaz!"
+
+msgctxt "496_Haruka"
+msgid "Thanks for treating me!"
+msgstr "Grazie per avermi offerto!"
+
+msgctxt "508_Staff"
+msgid "(Haruka sure seems happy.)"
+msgstr "(Haruka sembra proprio felice.)"
+
+msgctxt "592_Staff"
+msgid "That was delicious!"
+msgstr "Era delizioso!"
+
+msgctxt "640_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! This is for you!\r\n"
+" "
+msgstr "Grazie, Zio Kaz! Questo è per te!"
+
+msgctxt "700_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come play cho-han with you next time, okay?\r\n"
+" "
+msgstr ""
+"Grazie infinite, Zio Kaz! Voglio venire a giocare a cho-han con te la "
+"prossima volta, okay?"
+
+msgctxt "748_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I have a present for you!\r\n"
+" "
+msgstr "Grazie mille, Zio Kaz! Ho un regalo per te!"
+
+msgctxt "808_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "868_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "928_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "988_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "1048_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "1144_Haruka"
+msgid ""
+"Thanks for doing all that stuff for me, Uncle Kaz!\r\n"
+" "
+msgstr "Grazie per aver fatto tutte quelle cose per me, Zio Kaz!"
+
+msgctxt "1156_Staff"
+msgid ""
+"Here, this is a special present, just for you!\r\n"
+" "
+msgstr "Ecco, questo è un regalo speciale, solo per te!"
+
+msgctxt "1180_Haruka"
+msgid "Thanks, Uncle Kaz! I love you!"
+msgstr "Grazie, Zio Kaz! Ti voglio bene!"
+
+msgctxt "1216_Staff"
+msgid "I hope that was to your liking. Please come again."
+msgstr "Spero ti sia piaciuto. Torna a trovarci."
+
+msgctxt "1240_Staff"
+msgid "Thank you very much. Please come again."
+msgstr "Grazie mille. Torni a trovarci."
+
+msgctxt "1264_Staff"
+msgid "Welcome."
+msgstr "Benvenuto."
+
+msgctxt "1276_Staff"
+msgid "Let me show you to your table."
+msgstr "Lasci che la accompagni al suo tavolo."
+
+msgctxt "1324_Staff"
+msgid "May I take your order?"
+msgstr "Posso prendere la sua ordinazione?"
+
+msgctxt "1336_Honoka"
+msgid "Ooh, I want some <Color:8>Fugetsuyaki (Modan)<Color:Default>."
+msgstr "Ooh, mi va proprio del <Color:8>Fugetsuyaki (Modan)<Color:Default>."
+
+msgctxt "1348_Player"
+msgid ""
+"(Honoka-chan wants to have some <Color:8>Fugetsuyaki "
+"(Modan)<Color:Default>.)"
+msgstr ""
+"(Honoka-chan vorrebbe del <Color:8>Fugetsuyaki (Modan)<Color:Default>.)"
+
+msgctxt "1420_Honoka"
+msgid "This looks delish!"
+msgstr "Sembra una delizia!"
+
+msgctxt "1480_Honoka"
+msgid "I'm not gettin' any exercise lately."
+msgstr "Ultimamente non sto facendo per niente moto."
+
+msgctxt "1492_Player"
+msgid ""
+"Me too. I'm so busy with work that when I do finally get a day off, I'm in "
+"no mood to go and work out."
+msgstr ""
+"Anch'io. Sono così preso dal lavoro che, quando finalmente ho un giorno "
+"libero, non ho proprio voglia di mettermi a fare esercizio."
+
+msgctxt "1504_Honoka"
+msgid ""
+"But I can't let this get outta hand. I just bought a suit to go job huntin',"
+" and I gotta make sure I fit in my dresses I wear to the club."
+msgstr ""
+"Ma non posso lasciare che la situazione mi sfugga di mano. Ho appena "
+"comprato un completo per cercare lavoro e devo assicurarmi di entrare ancora"
+" nei vestiti che metto al club."
+
+msgctxt "1516_Player"
+msgid ""
+"I don't think you have anything to worry about, but then why not try going "
+"to the gym?"
+msgstr ""
+"Non credo che tu debba preoccuparti, ma allora perché non provi ad andare in"
+" palestra?"
+
+msgctxt "1528_Honoka"
+msgid ""
+"Nah, that ain't my style. Exercisin' justa exercise? That's so borin'. It'd "
+"get old way too fast for me."
+msgstr ""
+"Nah, non fa proprio per me. Allenarsi tanto per allenarsi? È così noioso. Mi"
+" stuferei troppo in fretta."
+
+msgctxt "1540_Honoka"
+msgid "I wish there was a way to burn fat while still havin' fun."
+msgstr ""
+"Magari ci fosse un modo per bruciare i grassi e divertirsi allo stesso "
+"tempo."
+
+msgctxt "1552_Player"
+msgid ""
+"Why not try dancing? That'll help you melt away the fat whether you want to "
+"or not."
+msgstr ""
+"Perché non provi a ballare? Ti farà sciogliere i grassi, che tu lo voglia o "
+"no."
+
+msgctxt "1564_Honoka"
+msgid "Dancin', huh? Sometimes I practice the real simple stuff at home."
+msgstr ""
+"Ballare, eh? Ogni tanto faccio un po' di pratica con le robe proprio "
+"semplici a casa."
+
+msgctxt "1576_Player"
+msgid "Oh, really?"
+msgstr "Oh, davvero?"
+
+msgctxt "1588_Honoka"
+msgid ""
+"Idol groups are real popular lately, right? If a client asks me to do a song"
+" at karaoke, I gotta make sure I know the dance routine."
+msgstr ""
+"I gruppi di idol vanno per la maggiore ultimamente, vero? Se un cliente mi "
+"chiede di fare un pezzo al karaoke, devo assicurarmi di conoscere la "
+"coreografia."
+
+msgctxt "1600_Player"
+msgid ""
+"Good point. They make those dances pretty simple so that people can copy the"
+" moves without too much difficulty."
+msgstr ""
+"Hai ragione. Creano quelle coreografie in modo piuttosto semplice, così la "
+"gente può copiarne i passi senza troppa fatica."
+
+msgctxt "1612_Honoka"
+msgid ""
+"Yeah! And if I can pull it off, I feel like I've accomplished somethin'!"
+msgstr "Sì! E se mi viene bene, mi sento come se avessi concluso qualcosa!"
+
+msgctxt "1624_Player"
+msgid ""
+"So, why not try some more songs? By the time you've mastered the dance "
+"moves, I bet your body would be in better shape."
+msgstr ""
+"Allora, perché non provi con qualche altra canzone? Scommetto che per quando"
+" avrai imparato bene i passi, sarai decisamente più in forma."
+
+msgctxt "1636_Honoka"
+msgid ""
+"Okay! I wonder what songs would be good? Maybe I oughta check out some music"
+" shows on TV!"
+msgstr ""
+"Ok! Chissà quali canzoni potrebbero andare bene? Magari dovrei dare "
+"un'occhiata a qualche programma musicale in TV!"
+
+msgctxt "1648_Player"
+msgid ""
+"There's no easy way to do it. Everybody struggles. Maintaining good looks is"
+" like looking for a job. It's never as straightforward as it seems."
+msgstr ""
+"Non c'è una via facile per riuscirci. Tutti fanno fatica. Mantenere un "
+"bell'aspetto è come cercare lavoro. Non è mai così semplice come sembra."
+
+msgctxt "1660_Honoka"
+msgid "I know all that! That's why I'm stressin' out every which way."
+msgstr ""
+"Lo so bene! È per questo che mi sto stressando in tutti i modi possibili."
+
+msgctxt "1672_Honoka"
+msgid "And how 'bout you, Akiyama-san? Ain't ya worried about your weight?"
+msgstr "E tu invece, Akiyama-san? Non ti preoccupi mica del tuo peso?"
+
+msgctxt "1684_Player"
+msgid "Yeah, well. Lately, it's been weighing on me."
+msgstr "Eh, già. Ultimamente la cosa mi sta pesando."
+
+msgctxt "1696_Player"
+msgid ""
+"I bought this dieting gadget that looked like it might be good from a "
+"shopping channel on TV. But I only used it two or three times before I quit."
+msgstr ""
+"Ho comprato questo attrezzo per la dieta che sembrava buono su un canale di "
+"televendite. Ma l'ho usato solo due o tre volte prima di mollare."
+
+msgctxt "1708_Player"
+msgid ""
+"I thought if I could do it while watching TV, I'd be able to keep it up, but"
+" it was a lot more hassle than I'd bargained for."
+msgstr ""
+"Pensavo che se avessi potuto farlo mentre guardavo la TV, sarei riuscito a "
+"continuare, ma è stata una seccatura molto più grande di quanto avessi "
+"previsto."
+
+msgctxt "1720_Honoka"
+msgid ""
+"Ya see? You can't try to cheat your way to weight loss while watchin' "
+"television. Ya gotta work out properly!"
+msgstr ""
+"Visto? Non puoi cercare scorciatoie per perdere peso mentre guardi la "
+"televisione. Devi allenarti come si deve!"
+
+msgctxt "1732_Player"
+msgid "Wait, when did the tables get turned here?"
+msgstr "Ehi, ma quand'è che le parti si sono invertite?"
+
+msgctxt "1744_Player"
+msgid ""
+"Maybe eat less? That way you'll be able to drop weight without exercising "
+"that much."
+msgstr ""
+"Magari mangiare meno? In questo modo riusciresti a calare di peso senza fare"
+" troppo esercizio."
+
+msgctxt "1756_Honoka"
+msgid ""
+"You're sayin' that now? Tellin' me to watch what I eat when you're takin' me"
+" out to dinner? Yer evil, Akiyama-san."
+msgstr ""
+"Me lo dici solo adesso? Mi dici di stare attenta a quello che mangio proprio"
+" mentre mi porti fuori a cena? Sei perfido, Akiyama-san."
+
+msgctxt "1768_Player"
+msgid ""
+"Hey, I didn't say not to eat anything. All I'm suggesting is that you watch "
+"what you eat, and maybe order one fewer dish."
+msgstr ""
+"Ehi, non ho mica detto di non mangiare nulla. Ti sto solo suggerendo di "
+"stare attenta a quello che mangi e magari di ordinare un piatto in meno."
+
+msgctxt "1780_Player"
+msgid ""
+"You won't need to spend money on working out, and your dining expenses will "
+"drop. You're killing two birds with one stone. Give it a try."
+msgstr ""
+"Non dovrai spendere soldi per allenarti e le tue spese per i pasti "
+"scenderanno. Prenderesti due piccioni con una fava. Facci un pensierino."
+
+msgctxt "1792_Honoka"
+msgid "Hmm. Like I get what ya mean, but..."
+msgstr "Mmm. Capisco cosa intendi, ma..."
+
+msgctxt "1804_Honoka"
+msgid "Right now I'm eatin'! The diet can start tomorrow!"
+msgstr "Adesso sto mangiando! La dieta comincia domani!"
+
+msgctxt "1816_Player"
+msgid "Sheesh. That sounds likely."
+msgstr "Uff. C'era da aspettarselo."
+
+msgctxt "1876_Honoka"
+msgid "Thanks for treatin' me!"
+msgstr "Grazie per avermi offerto!"
+
+msgctxt "1936_Staff"
+msgid "Here is your check."
+msgstr "Ecco il suo conto."
+
+msgctxt "1984_Staff"
+msgid "Thank you very much. Please come again."
+msgstr "Grazie mille. Torni a trovarci."
+
+msgctxt "2020_Staff"
+msgid "Welcome."
+msgstr "Benvenuto."
+
+msgctxt "2032_Staff"
+msgid "Let me show you to your table."
+msgstr "Lasci che la accompagni al suo tavolo."
+
+msgctxt "2068_Player"
+msgid "(I'm broke.)"
+msgstr "(Sono al verde.)"
+
+msgctxt "2104_Kiryu"
+msgid "(I don't need to eat right now.)"
+msgstr "(Non ho bisogno di mangiare adesso.)"
+
+msgctxt "2116_Akiyama"
+msgid "(I'm not hungry right now.)"
+msgstr "(Non ho fame in questo momento.)"
+
+msgctxt "2128_Saejima"
+msgid "(I'm still full.)"
+msgstr "(Sono ancora pieno.)"
+
+msgctxt "2140_Shinada"
+msgid "(Unfortunately, I'm kinda full.)"
+msgstr "(Purtroppo, sono un po' pieno.)"
+
+msgctxt "2152_Haruka"
+msgid "(I'm stuffed.)"
+msgstr "(Sono strapieno.)"
+
+msgctxt "2176_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr "Scusa. Ho una cosa da sbrigare."
+
+msgctxt "2188_Akiyama"
+msgid "Sorry. I have some urgent business to get to."
+msgstr "Scusa. Ho una faccenda urgente da sbrigare."
+
+msgctxt "2200_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr "Mi dispiace, ma devo filare."
+
+msgctxt "2212_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr "Oh, mi dispiace. Ho una cosa..."
+
+msgctxt "2224_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr "Mi dispiace davvero. È saltato fuori un imprevisto."
+
+msgctxt "2236_Staff"
+msgid "Ah, I see. Please do come again."
+msgstr "Ah, capisco. Torni pure."
+
+msgctxt "2296_Staff"
+msgid "May I take your order?"
+msgstr "Posso prendere la sua ordinazione?"
+
+msgctxt "2344_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr "Scusa. Ho una cosa da sbrigare."
+
+msgctxt "2356_Akiyama"
+msgid "Sorry. I have some urgent business to take care of."
+msgstr "Scusa. Ho degli affari urgenti da sbrigare."
+
+msgctxt "2368_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr "Mi dispiace, ma devo filare."
+
+msgctxt "2380_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr "Oh, mi dispiace. Ho una cosa..."
+
+msgctxt "2392_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr "Mi dispiace davvero. È saltato fuori un imprevisto."
+
+msgctxt "2404_Staff"
+msgid "I see. Well, please come again."
+msgstr "Capisco. Beh, torni pure."
+
+msgctxt "2464_Staff"
+msgid "Here is your check."
+msgstr "Ecco il suo conto."
+
+msgctxt "2512_Staff"
+msgid "Thank you very much. Please come again."
+msgstr "Grazie mille. Torni a trovarci."

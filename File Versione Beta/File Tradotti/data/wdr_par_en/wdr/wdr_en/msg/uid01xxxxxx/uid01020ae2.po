@@ -1,0 +1,1439 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "42224"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "42228"
+msgid "adv4_220/shinada_0297"
+msgstr "adv4_220/shinada_0297"
+
+msgctxt "42232"
+msgid "C4220_UNO_TLK_kimoi_sup"
+msgstr "C4220_UNO_TLK_kimoi_sup"
+
+msgctxt "42236"
+msgid "Takasugi"
+msgstr "Takasugi"
+
+msgctxt "42240"
+msgid "adv4_220/takasugi_0105"
+msgstr "adv4_220/takasugi_0105"
+
+msgctxt "42244"
+msgid "adv4_220/shinada_0298"
+msgstr "adv4_220/shinada_0298"
+
+msgctxt "42248"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "42252"
+msgid "Uno"
+msgstr "Uno"
+
+msgctxt "42256"
+msgid "adv4_220/uno_0077"
+msgstr "adv4_220/uno_0077"
+
+msgctxt "42260"
+msgid "adv4_220/shinada_0299"
+msgstr "adv4_220/shinada_0299"
+
+msgctxt "42264"
+msgid "kaiwabgm_fuon05"
+msgstr "kaiwabgm_fuon05"
+
+msgctxt "42268"
+msgid "adv4_220/takasugi_0106"
+msgstr "adv4_220/takasugi_0106"
+
+msgctxt "42272"
+msgid "adv4_220/shinada_0300"
+msgstr "adv4_220/shinada_0300"
+
+msgctxt "42276"
+msgid "adv4_220/takasugi_0107"
+msgstr "adv4_220/takasugi_0107"
+
+msgctxt "42280"
+msgid "adv4_220/shinada_0301"
+msgstr "adv4_220/shinada_0301"
+
+msgctxt "42284"
+msgid "M_NML_TLK_stand_kamae"
+msgstr "M_NML_TLK_stand_kamae"
+
+msgctxt "42288"
+msgid "adv4_220/uno_0078"
+msgstr "adv4_220/uno_0078"
+
+msgctxt "42292"
+msgid "adv4_220/takasugi_0108"
+msgstr "adv4_220/takasugi_0108"
+
+msgctxt "42296"
+msgid "adv4_220/shinada_0302"
+msgstr "adv4_220/shinada_0302"
+
+msgctxt "42300"
+msgid "C4220_SIN_TLK_turn_SAK_kamae"
+msgstr "C4220_SIN_TLK_turn_SAK_kamae"
+
+msgctxt "42304"
+msgid "C4220_SIN_TLK_turn_SAK"
+msgstr "C4220_SIN_TLK_turn_SAK"
+
+msgctxt "42308"
+msgid "C4220_SAK_TLK_turn_SIN_kamae"
+msgstr "C4220_SAK_TLK_turn_SIN_kamae"
+
+msgctxt "42312"
+msgid "C4220_SAK_TLK_turn_SIN"
+msgstr "C4220_SAK_TLK_turn_SIN"
+
+msgctxt "42316"
+msgid "adv4_220/shinada_0303"
+msgstr "adv4_220/shinada_0303"
+
+msgctxt "42320"
+msgid "adv4_220/uno_0079"
+msgstr "adv4_220/uno_0079"
+
+msgctxt "42324"
+msgid "Sakai"
+msgstr "Sakai"
+
+msgctxt "42328"
+msgid "adv4_220/sakai_0001"
+msgstr "adv4_220/sakai_0001"
+
+msgctxt "42332"
+msgid "adv4_220/shinada_0304"
+msgstr "adv4_220/shinada_0304"
+
+msgctxt "42336"
+msgid "adv4_220/sakai_0002"
+msgstr "adv4_220/sakai_0002"
+
+msgctxt "42340"
+msgid "adv4_220/uno_0080"
+msgstr "adv4_220/uno_0080"
+
+msgctxt "42344"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "42348"
+msgid "adv4_220/sakai_0003"
+msgstr "adv4_220/sakai_0003"
+
+msgctxt "42352"
+msgid "C4220_SAK_TLK_turn_SIN_follow"
+msgstr "C4220_SAK_TLK_turn_SIN_follow"
+
+msgctxt "42356"
+msgid "C4220_SIN_TLK_turn_SAK_follow"
+msgstr "C4220_SIN_TLK_turn_SAK_follow"
+
+msgctxt "42360"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "42364"
+msgid "adv4_220/shinada_0295"
+msgstr "adv4_220/shinada_0295"
+
+msgctxt "42368"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "42372"
+msgid "Shifty Man"
+msgstr "Uomo Losco"
+
+msgctxt "42376"
+msgid "adv4_220/nagoya_man3_0001"
+msgstr "adv4_220/nagoya_man3_0001"
+
+msgctxt "42380"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "42384"
+msgid "adv4_220/shinada_0296"
+msgstr "adv4_220/shinada_0296"
+
+msgctxt "42388"
+msgid "adv4_220/nagoya_man3_0002"
+msgstr "adv4_220/nagoya_man3_0002"
+
+msgctxt "42392"
+msgid "adv4_220/takasugi_0104"
+msgstr "adv4_220/takasugi_0104"
+
+msgctxt "42396"
+msgid "A10750_shinada_crane"
+msgstr "A10750_shinada_crane"
+
+msgctxt "42400"
+msgid "ACYAM0102"
+msgstr "ACYAM0102"
+
+msgctxt "42404"
+msgid "Massage Parlor Employee"
+msgstr "Dipendente del Centro Massaggi"
+
+msgctxt "42408"
+msgid "adv4_160_01/fuuzoku_0001"
+msgstr "adv4_160_01/fuuzoku_0001"
+
+msgctxt "42412"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "42416"
+msgid "adv4_160_01/uno_0030"
+msgstr "adv4_160_01/uno_0030"
+
+msgctxt "42420"
+msgid "adv4_160_01/fuuzoku_0002"
+msgstr "adv4_160_01/fuuzoku_0002"
+
+msgctxt "42424"
+msgid "adv4_160_01/shinada_0224"
+msgstr "adv4_160_01/shinada_0224"
+
+msgctxt "42428"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "42432"
+msgid "adv4_160_01/uno_0031a"
+msgstr "adv4_160_01/uno_0031a"
+
+msgctxt "42436"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "42440"
+msgid "adv4_160_01/uno_0031b"
+msgstr "adv4_160_01/uno_0031b"
+
+msgctxt "42444"
+msgid "adv4_160_01/shinada_0225"
+msgstr "adv4_160_01/shinada_0225"
+
+msgctxt "42448"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "42452"
+msgid "adv4_160_01/uno_0032"
+msgstr "adv4_160_01/uno_0032"
+
+msgctxt "42456"
+msgid "adv4_160_01/shinada_0226"
+msgstr "adv4_160_01/shinada_0226"
+
+msgctxt "42460"
+msgid "P_SIN_TLK_stand_surp"
+msgstr "P_SIN_TLK_stand_surp"
+
+msgctxt "42464"
+msgid "adv4_160_01/uno_0033"
+msgstr "adv4_160_01/uno_0033"
+
+msgctxt "42468"
+msgid "adv4_160_01/takasugi_0069"
+msgstr "adv4_160_01/takasugi_0069"
+
+msgctxt "42472"
+msgid "adv4_160_01/uno_0034"
+msgstr "adv4_160_01/uno_0034"
+
+msgctxt "42476"
+msgid "C4160_UNO_TLK_bibiri"
+msgstr "C4160_UNO_TLK_bibiri"
+
+msgctxt "42480"
+msgid "adv4_160_01/shinada_0227"
+msgstr "adv4_160_01/shinada_0227"
+
+msgctxt "42484"
+msgid "adv4_160_01/uno_0035"
+msgstr "adv4_160_01/uno_0035"
+
+msgctxt "42488"
+msgid "adv4_160_01/shinada_0228"
+msgstr "adv4_160_01/shinada_0228"
+
+msgctxt "42492"
+msgid "adv4_160_01/uno_0036a"
+msgstr "adv4_160_01/uno_0036a"
+
+msgctxt "42496"
+msgid "adv4_160_01/uno_0036b"
+msgstr "adv4_160_01/uno_0036b"
+
+msgctxt "42500"
+msgid "adv4_160_01/shinada_0229"
+msgstr "adv4_160_01/shinada_0229"
+
+msgctxt "42504"
+msgid "adv4_160_01/takasugi_0069a"
+msgstr "adv4_160_01/takasugi_0069a"
+
+msgctxt "42508"
+msgid "adv4_160_01/shinada_0230"
+msgstr "adv4_160_01/shinada_0230"
+
+msgctxt "42512"
+msgid "Phone_st"
+msgstr "Phone_st"
+
+msgctxt "42516"
+msgid "adv4_160_01/takasugi_0070a"
+msgstr "adv4_160_01/takasugi_0070a"
+
+msgctxt "42520"
+msgid "adv4_160_01/takasugi_0070b"
+msgstr "adv4_160_01/takasugi_0070b"
+
+msgctxt "42524"
+msgid "adv4_160_01/takasugi_0070c"
+msgstr "adv4_160_01/takasugi_0070c"
+
+msgctxt "42528"
+msgid "Phone_ed"
+msgstr "Phone_ed"
+
+msgctxt "42532"
+msgid "adv4_160_01/takasugi_0071"
+msgstr "adv4_160_01/takasugi_0071"
+
+msgctxt "42536"
+msgid "adv4_160_01/shinada_0231"
+msgstr "adv4_160_01/shinada_0231"
+
+msgctxt "42540"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "42544"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "42548"
+msgid "Scowling Man"
+msgstr "Uomo Accigliato"
+
+msgctxt "42552"
+msgid "adv4_130/nagoya_man1_0005"
+msgstr "adv4_130/nagoya_man1_0005"
+
+msgctxt "42556"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "42560"
+msgid "Older Guy"
+msgstr "Uomo Anziano"
+
+msgctxt "42564"
+msgid "adv4_130/nagoya_man2_0003"
+msgstr "adv4_130/nagoya_man2_0003"
+
+msgctxt "42568"
+msgid "adv4_130/shinada_0179"
+msgstr "adv4_130/shinada_0179"
+
+msgctxt "42572"
+msgid "adv4_130/shinada_0180"
+msgstr "adv4_130/shinada_0180"
+
+msgctxt "42576"
+msgid "adv4_130/shinada_0181"
+msgstr "adv4_130/shinada_0181"
+
+msgctxt "42580"
+msgid "C4130_SIN_TLK_down_standup"
+msgstr "C4130_SIN_TLK_down_standup"
+
+msgctxt "42584"
+msgid "P_SIN_TLK_stand_kamae"
+msgstr "P_SIN_TLK_stand_kamae"
+
+msgctxt "42588"
+msgid "Milky"
+msgstr "Latte"
+
+msgctxt "42592"
+msgid "adv4_130/milk_0015"
+msgstr "adv4_130/milk_0015"
+
+msgctxt "42596"
+msgid "adv4_130/shinada_0182"
+msgstr "adv4_130/shinada_0182"
+
+msgctxt "42600"
+msgid "adv4_130/milk_0016a"
+msgstr "adv4_130/milk_0016a"
+
+msgctxt "42604"
+msgid "adv4_130/milk_0016b"
+msgstr "adv4_130/milk_0016b"
+
+msgctxt "42608"
+msgid "adv4_130/milk_0016c"
+msgstr "adv4_130/milk_0016c"
+
+msgctxt "42612"
+msgid "adv4_130/shinada_0183"
+msgstr "adv4_130/shinada_0183"
+
+msgctxt "42616"
+msgid "adv4_130/milk_0017"
+msgstr "adv4_130/milk_0017"
+
+msgctxt "42620"
+msgid "news02"
+msgstr "news02"
+
+msgctxt "42624"
+msgid "adv4_120/shinada_0174"
+msgstr "adv4_120/shinada_0174"
+
+msgctxt "42628"
+msgid "kaiwabgm_serious01"
+msgstr "kaiwabgm_serious01"
+
+msgctxt "42632"
+msgid "Fujita"
+msgstr "Fujita"
+
+msgctxt "42636"
+msgid "Talk_Kamae"
+msgstr "Talk_Kamae"
+
+msgctxt "42640"
+msgid "adv4_120/nagoya_man1_0001"
+msgstr "adv4_120/nagoya_man1_0001"
+
+msgctxt "42644"
+msgid "adv4_120/nagoya_man2_0001a"
+msgstr "adv4_120/nagoya_man2_0001a"
+
+msgctxt "42648"
+msgid "adv4_120/nagoya_man2_0001b"
+msgstr "adv4_120/nagoya_man2_0001b"
+
+msgctxt "42652"
+msgid "adv4_120/shinada_0175"
+msgstr "adv4_120/shinada_0175"
+
+msgctxt "42656"
+msgid "adv4_120/nagoya_man1_0002"
+msgstr "adv4_120/nagoya_man1_0002"
+
+msgctxt "42660"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "42664"
+msgid "adv4_120/shinada_0176"
+msgstr "adv4_120/shinada_0176"
+
+msgctxt "42668"
+msgid "Older Man"
+msgstr "Uomo Anziano"
+
+msgctxt "42672"
+msgid "adv4_120/nagoya_man2_0002"
+msgstr "adv4_120/nagoya_man2_0002"
+
+msgctxt "42676"
+msgid "adv4_120/nagoya_man1_0003"
+msgstr "adv4_120/nagoya_man1_0003"
+
+msgctxt "42680"
+msgid "adv4_120/shinada_0177a"
+msgstr "adv4_120/shinada_0177a"
+
+msgctxt "42684"
+msgid "adv4_120/shinada_0177b"
+msgstr "adv4_120/shinada_0177b"
+
+msgctxt "42688"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "42692"
+msgid "adv4_120/shinada_0178"
+msgstr "adv4_120/shinada_0178"
+
+msgctxt "42696"
+msgid "adv4_120/nagoya_man1_0004"
+msgstr "adv4_120/nagoya_man1_0004"
+
+msgctxt "42700"
+msgid "Middle-aged Businessman"
+msgstr "Uomo d'affari di mezza età"
+
+msgctxt "42704"
+msgid "adv4_115/salarym_4_115_010"
+msgstr "adv4_115/salarym_4_115_010"
+
+msgctxt "42708"
+msgid "Young Businessman"
+msgstr "Giovane Uomo d'Affari"
+
+msgctxt "42712"
+msgid "adv4_115/salaryy_4_115_010"
+msgstr "adv4_115/salaryy_4_115_010"
+
+msgctxt "42716"
+msgid "adv4_115/salarym_4_115_020"
+msgstr "adv4_115/salarym_4_115_020"
+
+msgctxt "42720"
+msgid "adv4_115/salaryy_4_115_020"
+msgstr "adv4_115/salaryy_4_115_020"
+
+msgctxt "42724"
+msgid "adv4_115/salarym_4_115_030"
+msgstr "adv4_115/salarym_4_115_030"
+
+msgctxt "42728"
+msgid "adv4_115/shinada_4_115_010"
+msgstr "adv4_115/shinada_4_115_010"
+
+msgctxt "42732"
+msgid "adv4_115/shinada_4_115_020"
+msgstr "adv4_115/shinada_4_115_020"
+
+msgctxt "42736"
+msgid "adv4_115/salaryy_4_115_030"
+msgstr "adv4_115/salaryy_4_115_030"
+
+msgctxt "42740"
+msgid "adv4_115/shinada_4_115_030"
+msgstr "adv4_115/shinada_4_115_030"
+
+msgctxt "42744"
+msgid "adv4_115/salaryy_4_115_040"
+msgstr "adv4_115/salaryy_4_115_040"
+
+msgctxt "42748"
+msgid "adv4_115/shinada_4_115_040"
+msgstr "adv4_115/shinada_4_115_040"
+
+msgctxt "42752"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "42756"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "42760"
+msgid "Shirakawa"
+msgstr "Shirakawa"
+
+msgctxt "42764"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "42768"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "42772"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "244_Shinada"
+msgid "......"
+msgstr "......"
+
+msgctxt "256_Takasugi"
+msgid "Hell of an accident, wouldn't you say?"
+msgstr "Un bell'incidente, non trovi?"
+
+msgctxt "268_Shinada"
+msgid "That was no accident."
+msgstr "Quello non è stato un incidente."
+
+msgctxt "280_Uno"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "292_Shinada"
+msgid "I saw someone up there on the roof."
+msgstr "Ho visto qualcuno lassù sul tetto."
+
+msgctxt "304_Takasugi"
+msgid ""
+"I can't see a dang thing up there. What kind of superhuman\r\n"
+"eyes do you have?"
+msgstr ""
+"Non vedo un cavolo lassù. Che razza di occhi da superuomo\n"
+"hai?"
+
+msgctxt "316_Shinada"
+msgid "I can see 20/10. I've got great dynamic vision, too.  But still..."
+msgstr "Ci vedo 20/10. Ho anche un'ottima visione dinamica. Ma comunque..."
+
+msgctxt "328_Takasugi"
+msgid "What'd this fool look like?"
+msgstr "Che aspetto aveva 'sto scemo?"
+
+msgctxt "340_Shinada"
+msgid "Why would he be here...?"
+msgstr "Perché dovrebbe essere qui...?"
+
+msgctxt "352_Uno"
+msgid "Someone you know?"
+msgstr "Qualcuno che conosci?"
+
+msgctxt "364_Takasugi"
+msgid "Who!?"
+msgstr "Chi!?"
+
+msgctxt "376_Shinada"
+msgid "My Wyverns teammate..."
+msgstr "Il mio compagno di squadra dei Wyverns..."
+
+msgctxt "388_Shinada"
+msgid "Sakai-san."
+msgstr "Sakai-san."
+
+msgctxt "400_Uno"
+msgid "Sakai? Why are you here!?"
+msgstr "Sakai? Perché sei qui!?"
+
+msgctxt "412_Sakai"
+msgid "......"
+msgstr "......"
+
+msgctxt "424_Shinada"
+msgid "Sakai-san, were you the one who killed him?"
+msgstr "Sakai-san, l'hai ucciso tu?"
+
+msgctxt "436_Sakai"
+msgid "......"
+msgstr "......"
+
+msgctxt "448_Uno"
+msgid "Answer him, Sakai!"
+msgstr "Rispondigli, Sakai!"
+
+msgctxt "460_Sakai"
+msgid "Too many people around. Let's take this inside."
+msgstr "Troppa gente in giro. Parliamone dentro."
+
+msgctxt "496_Shinada"
+msgid "What's the big idea!?"
+msgstr "Ma che ti salta in mente!?"
+
+msgctxt "508_Shifty Man"
+msgid "I, uh... I was just..."
+msgstr "Io, uh... stavo solo..."
+
+msgctxt "520_Shinada"
+msgid "Why would you do this?"
+msgstr "Perché mai faresti questo?"
+
+msgctxt "532_Shifty Man"
+msgid "I'm... so sorry. Honestly..."
+msgstr "Mi... dispiace tanto. Davvero..."
+
+msgctxt "544_Takasugi"
+msgid "Look out, Shinada!"
+msgstr "Attento, Shinada!"
+
+msgctxt "604_Shinada"
+msgid ""
+"(Uno-san was right all along. I should get to his clinic and let him know.)"
+msgstr ""
+"(Alla fine Uno-san aveva ragione. Devo andare alla sua clinica e farglielo "
+"sapere.)"
+
+msgctxt "652_Shinada"
+msgid "Don't come snooping around if you're not gonna pay!"
+msgstr "Non venire a ficcare il naso se non paghi!"
+
+msgctxt "664_Uno"
+msgid "Why the heck not? Your sign says \"browsing welcome\"!"
+msgstr ""
+"E perché no, scusa? Sul vostro cartello c'è scritto \"liberi di curiosare\"!"
+
+msgctxt "676_Massage Parlor Employee"
+msgid "Yeah, but what kinda cheapo comes to ogle photos for half an hour!?"
+msgstr "Sì, ma che razza di tirchio viene a guardarsi le foto per mezz'ora!?"
+
+msgctxt "700_Shinada"
+msgid "Oh! Found you!"
+msgstr "Oh! Ti ho trovato!"
+
+msgctxt "712_Uno"
+msgid "Shinada, hurry up! I need that thirty grand!"
+msgstr "Shinada, sbrigati! Ho bisogno di quei trenta sacchi!"
+
+msgctxt "724_Uno"
+msgid ""
+"I found me a real amateur! No industry experience, <Italic>and</Italic> "
+"she's born in the 90s!"
+msgstr ""
+"Mi sono scovato una vera dilettante! Nessuna esperienza nel settore, "
+"<Italic>e</Italic> ha pure la classe '90!"
+
+msgctxt "736_Shinada"
+msgid ""
+"Go back to work, Uno-san. You can't just ditch your clinic to go playing "
+"around all the time."
+msgstr ""
+"Torna al lavoro, Uno-san. Non puoi mica mollare la tua clinica per andare a "
+"spassartela in giro per tutto il tempo."
+
+msgctxt "748_Uno"
+msgid "You're one to talk. Now gimme!"
+msgstr "Proprio tu parli. Ora dammi!"
+
+msgctxt "760_Shinada"
+msgid "Hold that thought. I'm here to ask you something."
+msgstr "Frena un attimo. Sono qui per chiederti qualcosa."
+
+msgctxt "772_Uno"
+msgid "The money first!"
+msgstr "Prima i soldi!"
+
+msgctxt "784_Takasugi"
+msgid "I'll cover his expenses."
+msgstr "Coprirò le sue spese."
+
+msgctxt "796_Uno"
+msgid "Oh... No, that's quite all right."
+msgstr "Oh... No, va benissimo così."
+
+msgctxt "808_Shinada"
+msgid "Why not? You can go get rubbed, so just let him take care of it."
+msgstr ""
+"E perché no? Puoi andare a farti massaggiare, quindi lascia che ci pensi "
+"lui."
+
+msgctxt "820_Uno"
+msgid ""
+"<Italic>I'd</Italic> rather not get involved with shady people, unlike a\r\n"
+"certain someone I know!"
+msgstr ""
+"<Italic>Preferirei</Italic> non immischiarmi con gente losca, a differenza "
+"di un\\ncerto qualcuno che conosco!"
+
+msgctxt "832_Shinada"
+msgid "I'm the one paying him back, so you don't have to freak out..."
+msgstr "Sono io che lo ripago, quindi non devi sclerare..."
+
+msgctxt "844_Uno"
+msgid ""
+"Forget it. Doing business with a leech like that will only get you bled dry."
+msgstr ""
+"Lascia perdere. Fare affari con una sanguisuga così ti spremerà fino "
+"all'osso."
+
+msgctxt "856_Uno"
+msgid "But from a leech like you, I'm getting back every last yen!"
+msgstr "Ma da una sanguisuga come te, rivoglio fino all'ultimo yen!"
+
+msgctxt "880_Shinada"
+msgid "Well, there goes our only lead."
+msgstr "Beh, è andata la nostra unica pista."
+
+msgctxt "892_Takasugi"
+msgid "Shinada, give me his work number."
+msgstr "Shinada, dammi il suo numero di lavoro."
+
+msgctxt "904_Shinada"
+msgid "Why?"
+msgstr "Perché?"
+
+msgctxt "952_Shinada"
+msgid "Hello? Is this Uno Acupuncture Clinic?"
+msgstr "Pronto? È la Clinica di Agopuntura Uno?"
+
+msgctxt "964_Takasugi"
+msgid ""
+"Yes, may I come in for a massage, please? Yes. The longest course you have."
+msgstr ""
+"Sì, posso venire per un massaggio, per favore? Sì. Il corso più lungo che "
+"avete."
+
+msgctxt "976_Takasugi"
+msgid "Wonderful, I'll be right over!"
+msgstr "Ottimo, arrivo subito!"
+
+msgctxt "1000_Takasugi"
+msgid ""
+"That old perv. He was so giddy to get paid to get laid,\r\n"
+"I nearly threw up in my mouth."
+msgstr ""
+"Quel vecchio porco. Era così su di giri all'idea di farsi pagare per scopare,\n"
+"che mi è quasi venuto da vomitare in bocca."
+
+msgctxt "1012_Shinada"
+msgid "Then shall we pay that old perv a visit?"
+msgstr "Allora andiamo a trovare quel vecchio porco?"
+
+msgctxt "1036_Takasugi"
+msgid ""
+"...So. How do we go about finding a fresh face at one of\r\n"
+"these massage parlors? I'm sure a nightlife navigator like\r\n"
+"you knows all about that naughty stuff."
+msgstr ""
+"...Allora. Come facciamo a trovare una faccia nuova in uno di\n"
+"questi centri massaggi? Sono sicuro che un navigatore della notte come\n"
+"te sa tutto di quelle porcherie."
+
+msgctxt "1048_Player"
+msgid "Not off the top of my head, no."
+msgstr "Non mi viene in mente, no."
+
+msgctxt "1060_Player"
+msgid ""
+"But take a look. If we ask at an info booth like the one\r\n"
+"over there, we should come up on some leads."
+msgstr ""
+"Ma dai un'occhiata. Se chiediamo a un punto informazioni come quello\n"
+"lì, dovremmo trovare qualche pista."
+
+msgctxt "1084_Takasugi"
+msgid ""
+"Makes sense... but damn. Never thought my job would have me hunting down a "
+"pervert hunting for prey. Life sure takes ya strange places."
+msgstr ""
+"Ha senso... ma cavolo. Non avrei mai pensato che il mio lavoro mi avrebbe "
+"portato a dare la caccia a un pervertito a caccia di prede. La vita ti porta"
+" proprio in posti strani."
+
+msgctxt "1108_Shinada"
+msgid "(...I'll just go home.)"
+msgstr "(...Me ne vado a casa.)"
+
+msgctxt "1132_Shinada"
+msgid ""
+"(Milky-chan said to meet her on the roof atop Futo Momo. Hope the cake's not"
+" all gone!)"
+msgstr ""
+"(Milky-chan ha detto di incontrarla sul tetto in cima al Futo Momo. Spero "
+"che la torta non sia già finita!)"
+
+msgctxt "1156_Shinada"
+msgid "Ah, I feel much better!"
+msgstr "Ah, mi sento proprio meglio!"
+
+msgctxt "1168_Shinada"
+msgid ""
+"Yeah, I needed a good stress reliever, what with the\r\n"
+"Wyverns' shit performance these days."
+msgstr ""
+"Già, avevo proprio bisogno di uno sfogo, con la\n"
+"prestazione di merda dei Wyverns in questi giorni."
+
+msgctxt "1192_Shinada"
+msgid "This is what I get getting worked up over baseball..."
+msgstr "Ecco cosa mi succede a scaldarmi per il baseball..."
+
+msgctxt "1204_Shinada"
+msgid "Agh, oww..."
+msgstr "Ah, ahi..."
+
+msgctxt "1216_Shinada"
+msgid "Even so, this is nothing compared to what you had to go through..."
+msgstr ""
+"Anche così, questo non è niente in confronto a quello che hai dovuto "
+"affrontare..."
+
+msgctxt "1252_Milky"
+msgid "Ta-chan? Can we talk?"
+msgstr "Ta-chan? Possiamo parlare?"
+
+msgctxt "1264_Shinada"
+msgid "Uh, sure."
+msgstr "Uh, certo."
+
+msgctxt "1276_Milky"
+msgid "What's wrong? Caught a cold?"
+msgstr "Che c'è? Hai preso il raffreddore?"
+
+msgctxt "1288_Milky"
+msgid "Anyway, the girls and I made some cake for our Christmas campaign."
+msgstr ""
+"Comunque, io e le ragazze abbiamo fatto un po' di torta per la nostra "
+"campagna di Natale."
+
+msgctxt "1300_Milky"
+msgid ""
+"But it's been slow and we have a lot of leftovers. Wanna swing by if you're "
+"hungry?"
+msgstr ""
+"Ma è andata lenta e abbiamo un sacco di avanzi. Ti va di fare un salto se "
+"hai fame?"
+
+msgctxt "1312_Shinada"
+msgid "All right. I might just do that."
+msgstr "Va bene. Potrei proprio farlo."
+
+msgctxt "1324_Milky"
+msgid "Okay then, meet you at the roof!"
+msgstr "Va bene allora, ci vediamo sul tetto!"
+
+msgctxt "1372_Shinada"
+msgid "Coach..."
+msgstr "Allenatore..."
+
+msgctxt "1396_Shinada"
+msgid ""
+"I would not be here today if it weren't for the hard work and generous "
+"support of those who stood by me."
+msgstr ""
+"Non sarei qui oggi se non fosse stato per il duro lavoro e il generoso "
+"supporto di quelli che mi sono stati vicini."
+
+msgctxt "1408_Fujita"
+msgid ""
+"What I aim to do is give our team a second chance, to get\r\n"
+"back the championship and our self-respect."
+msgstr ""
+"Quello che punto a fare è dare alla nostra squadra una seconda possibilità, per riavere\n"
+"il campionato e il nostro rispetto."
+
+msgctxt "1420_Fujita"
+msgid "And to all our fans, this victory will be ours together."
+msgstr "E a tutti i nostri fan, questa vittoria sarà nostra insieme."
+
+msgctxt "1432_Scowling Man"
+msgid ""
+"Wasn't he managing the Wyverns when that match fixing scandal broke out?"
+msgstr ""
+"Non era lui che gestiva i Wyverns quando è scoppiato quello scandalo delle "
+"combine?"
+
+msgctxt "1444_Older Guy"
+msgid "Surprised they let him still be a manager."
+msgstr "Sorpreso che lo lascino ancora fare il manager."
+
+msgctxt "1456_Older Guy"
+msgid "And with the Gigants, no less. That's a slap in the face to Nagoya."
+msgstr ""
+"E nientemeno che con i Gigants. Questo è uno schiaffo in faccia a Nagoya."
+
+msgctxt "1468_Shinada"
+msgid "You idiots don't know a damn thing."
+msgstr "Voi idioti non sapete un cavolo."
+
+msgctxt "1480_Scowling Man"
+msgid "Hey, buddy, was that directed at us?"
+msgstr "Ehi, compare, era diretto a noi?"
+
+msgctxt "1492_Shinada"
+msgid "Oh, uh, no! I was just..."
+msgstr "Oh, uhm, no! Stavo solo..."
+
+msgctxt "1516_Older Man"
+msgid ""
+"We've rooted for the Wyverns since we were in the crib. What don't we know a"
+" damn about?"
+msgstr ""
+"Abbiamo tifato per i Wyverns da quando eravamo nella culla. Cosa non "
+"sappiamo un cavolo?"
+
+msgctxt "1528_Scowling Man"
+msgid ""
+"That scumbag up there dragged the Wyverns through a huge shitshow. He's a "
+"disgrace to Nagoya!"
+msgstr ""
+"Quel farabutto lassù ha trascinato i Wyverns in un gran casino. È una "
+"vergogna per Nagoya!"
+
+msgctxt "1540_Shinada"
+msgid "There was never any proof!"
+msgstr "Non c'è mai stata alcuna prova!"
+
+msgctxt "1552_Shinada"
+msgid "He just took the blame for it as any manager would!"
+msgstr "Si è solo preso la colpa, come farebbe qualsiasi manager!"
+
+msgctxt "1564_Shinada"
+msgid "...Oops. Got carried away."
+msgstr "...Ops. Mi sono lasciato prendere la mano."
+
+msgctxt "1576_Scowling Man"
+msgid "That's it, you're coming with us!"
+msgstr "Basta, vieni con noi!"
+
+msgctxt "1600_Middle-aged Businessman"
+msgid "What!? You can't be serious!"
+msgstr "Cosa!? Non puoi fare sul serio!"
+
+msgctxt "1612_Young Businessman"
+msgid "Serious as serious can be. Saw it right up there on the big screen."
+msgstr "Serio come non mai. L'ho visto proprio lassù sul megaschermo."
+
+msgctxt "1624_Middle-aged Businessman"
+msgid "But Fujita of all people? Come on!"
+msgstr "Ma proprio Fujita? Ma dai!"
+
+msgctxt "1636_Young Businessman"
+msgid "I know, I was shocked too. Didn't think he'd be eligible for manager."
+msgstr "Lo so, ero scioccato anch'io. Non pensavo potesse fare il manager."
+
+msgctxt "1648_Middle-aged Businessman"
+msgid ""
+"Then it's over. Might as well cancel next season already. What are the "
+"Gigants thinking?"
+msgstr ""
+"Allora è finita. Tanto vale annullare già la prossima stagione. Cosa hanno "
+"in testa i Gigants?"
+
+msgctxt "1660_Shinada"
+msgid "Huh... Are the Gigants... being managed... by Fujita?"
+msgstr "Eh... I Gigants... sono gestiti... da Fujita?"
+
+msgctxt "1684_Shinada"
+msgid "Excuse me, but what were you just talking about?"
+msgstr "Scusi, ma di cosa stavate parlando?"
+
+msgctxt "1696_Young Businessman"
+msgid ""
+"Oh! We were just saying the Gigants' new manager is going to be Fujita."
+msgstr "Oh! Dicevamo solo che il nuovo manager dei Gigants sarà Fujita."
+
+msgctxt "1708_Shinada"
+msgid "Impossible..."
+msgstr "Impossibile..."
+
+msgctxt "1720_Young Businessman"
+msgid ""
+"It's true. Check it out on the big screen. They had that story on replay."
+msgstr ""
+"È vero. Dagli un'occhiata sul megaschermo. Ripassavano quella notizia."
+
+msgctxt "1732_Shinada"
+msgid "Thanks..."
+msgstr "Grazie..."
+
+msgctxt "1744_Shinada"
+msgid ""
+"(I need to see this with my own eyes. Let's get to that big screen TV!)"
+msgstr "(Devo vederlo con i miei occhi. Andiamo a quel megaschermo!)"
+
+msgctxt "1768_Shinada"
+msgid "Hey. Tatsuo Shinada, right?"
+msgstr "Ehi. Tatsuo Shinada, giusto?"
+
+msgctxt "1780_Shinada"
+msgid "Oh... yeah. And you are?"
+msgstr "Oh... sì. E tu chi saresti?"
+
+msgctxt "1792_Man"
+msgid "Hah, of course you'd forget. Twenty years is a long time."
+msgstr "Ah, certo che ti saresti scordato. Vent'anni sono tanti."
+
+msgctxt "1804_Shinada"
+msgid "I'm not sure I follow."
+msgstr "Non ti seguo."
+
+msgctxt "1816_Man"
+msgid ""
+"You really don't remember your teammate from high school? Your old training "
+"buddy?"
+msgstr ""
+"Davvero non ti ricordi del tuo compagno di squadra delle superiori? Del tuo "
+"vecchio compagno di allenamento?"
+
+msgctxt "1828_Shinada"
+msgid "Wait, you played for West Kamuro High?"
+msgstr "Aspetta, giocavi alla West Kamuro High?"
+
+msgctxt "1840_Man"
+msgid ""
+"Damn straight. I was there until we were juniors. The name Shirakawa ring "
+"any bells?"
+msgstr ""
+"Certo che sì. Ero lì fino al nostro terzo anno. Il nome Shirakawa ti dice "
+"niente?"
+
+msgctxt "1852_Shinada"
+msgid ""
+"Shirakawa!? Holy cow, it's been forever! What a coincidence, running into "
+"you like this!"
+msgstr ""
+"Shirakawa!? Mamma mia, è un'eternità! Che combinazione, incontrarti così!"
+
+msgctxt "1864_Shirakawa"
+msgid "Coincidence? Hardly. I've been looking for you all this time."
+msgstr "Coincidenza? Per niente. Ti ho cercato per tutto questo tempo."
+
+msgctxt "1876_Shirakawa"
+msgid ""
+"I finally got word that you might be in Nagoya. Wasn't easy tracking your "
+"ass down."
+msgstr ""
+"Finalmente mi è arrivata voce che potresti essere a Nagoya. Non è stato "
+"facile scovarti."
+
+msgctxt "1888_Shinada"
+msgid "Is there... a reason you came to see me?"
+msgstr "C'è... un motivo per cui sei venuto a trovarmi?"
+
+msgctxt "1900_Shirakawa"
+msgid "Yeah. Revenge. Don't tell me you forgot what happened."
+msgstr ""
+"Sì. Vendetta. Non vorrai mica dirmi che ti sei scordato quello che è "
+"successo."
+
+msgctxt "1912_Shinada"
+msgid "...Is this about that game in our second year?"
+msgstr "...Si tratta di quella partita del nostro secondo anno?"
+
+msgctxt "1924_Shirakawa"
+msgid ""
+"Bingo. It was the summer regional final... the qualifier for us to go to "
+"nationals at Koshien Stadium."
+msgstr ""
+"Bingo. Era la finale regionale estiva... la partita di qualificazione per "
+"andare ai nazionali al Koshien Stadium."
+
+msgctxt "1936_Shinada"
+msgid "......"
+msgstr "......"
+
+msgctxt "1948_Shirakawa"
+msgid ""
+"What's wrong? Why don't you open your mouth and say\r\n"
+"something? I know I'm not speaking gibberish here."
+msgstr ""
+"Che c'è? Perché non apri bocca e dici\n"
+"qualcosa? So che non sto parlando a vanvera, qui."
+
+msgctxt "1960_Shinada"
+msgid "No. I know you're not."
+msgstr "No. So che non lo sei."
+
+msgctxt "1972_Shirakawa"
+msgid ""
+"Then what, you'd rather forget what you did? Or maybe you\r\n"
+"can't even stand the thought of it. Well, allow me to jog\r\n"
+"your memory."
+msgstr ""
+"E allora, preferiresti dimenticare quello che hai fatto? O forse non\n"
+"sopporti nemmeno il pensiero. Beh, permettimi di rinfrescarti\n"
+"la memoria."
+
+msgctxt "1984_Shirakawa"
+msgid ""
+"The game that everything rode on was locked in a pitchers' duel. Me, the ace"
+" of West Kamuro, versus Akamatsu, a monster who could throw at 150 "
+"kilometers an hour."
+msgstr ""
+"La partita in cui tutto era in gioco era un duello di lanciatori. Io, l'asso"
+" di West Kamuro, contro Akamatsu, un mostro che poteva lanciare a 150 "
+"chilometri orari."
+
+msgctxt "1996_Shirakawa"
+msgid ""
+"It was the bottom of the ninth, score tied at 0. We had two outs, but also "
+"runners on second and third. It was a perfect setup for you to bang out a "
+"walk-off home run."
+msgstr ""
+"Era il nono inning, parte bassa, punteggio di 0 a 0. Avevamo due eliminati, "
+"ma anche corridori in seconda e terza base. Era la situazione perfetta per "
+"te per battere un fuoricampo walk-off."
+
+msgctxt "2008_Shinada"
+msgid "......"
+msgstr "......"
+
+msgctxt "2020_Shirakawa"
+msgid ""
+"Guess even a beast like Akamatsu must've been nervous, what with a ticket to"
+" Koshien on the line. He ended up giving away three balls and no strikes."
+msgstr ""
+"Immagino che persino una bestia come Akamatsu dovesse essere nervosa, con un"
+" biglietto per il Koshien in palio. Finì per concedere tre palle e nessuno "
+"strike."
+
+msgctxt "2032_Shirakawa"
+msgid ""
+"On his fourth pitch, he deliberately threw a fastball outside the strike "
+"zone."
+msgstr ""
+"Al suo quarto lancio, ha lanciato di proposito una palla veloce fuori dalla "
+"zona di strike."
+
+msgctxt "2044_Shirakawa"
+msgid ""
+"His reasoning was simple－first base was open. So instead of giving the "
+"cleanup hitter his big chance, it was safer to walk you instead."
+msgstr ""
+"Il suo ragionamento era semplice: la prima base era libera. Quindi, invece "
+"di dare al battitore di pulizia una grossa chance, era più sicuro concederti"
+" una base su ball."
+
+msgctxt "2056_Shirakawa"
+msgid ""
+"You could have easily walked to first, but no, you just had to swing at that"
+" wild pitch. Which became a pop fly that went right into the infielder's "
+"glove."
+msgstr ""
+"Avresti potuto ottenere una base su ball facilmente, ma no, tu dovevi "
+"proprio fare swing su quella palla pazza. Che è diventata una palla alta che"
+" è finita dritta nel guanto dell'interno."
+
+msgctxt "2068_Shinada"
+msgid "......"
+msgstr "......"
+
+msgctxt "2080_Shirakawa"
+msgid ""
+"That out caused the game to go into extra innings. But at the top of the "
+"tenth, their batters ran me ragged. We got destroyed."
+msgstr ""
+"Quell'eliminazione fece andare la partita ai supplementari. Ma alla parte "
+"alta del decimo, i loro battitori mi hanno fatto a pezzi. Siamo stati "
+"distrutti."
+
+msgctxt "2092_Shinada"
+msgid ""
+"...Then you quit the team the day after, and even left the school. Heard it "
+"was 'cause you blew out your shoulder."
+msgstr ""
+"...Poi hai mollato la squadra il giorno dopo, e hai pure lasciato la scuola."
+" Ho sentito dire che era perché ti eri spaccato la spalla."
+
+msgctxt "2104_Shirakawa"
+msgid ""
+"My shoulder was wrecked, all right. But that's not why I quit. It was "
+"because I was betrayed by the guy I trusted the most."
+msgstr ""
+"La mia spalla era spaccata, sì. Ma non è per questo che ho mollato. È stato "
+"perché sono stato tradito dal ragazzo di cui mi fidavo di più."
+
+msgctxt "2116_Shinada"
+msgid "You mean..."
+msgstr "Vuoi dire..."
+
+msgctxt "2128_Shirakawa"
+msgid "Yeah. You."
+msgstr "Sì, proprio tu."
+
+msgctxt "2140_Shinada"
+msgid "Shirakawa..."
+msgstr "Shirakawa..."
+
+msgctxt "2152_Shirakawa"
+msgid ""
+"After my dreams of baseball went spiraling down the drain, I joined a small "
+"printing company. The year after, I watched you play at Koshien on TV."
+msgstr ""
+"Dopo che i miei sogni nel baseball sono andati a rotoli, mi sono unito a una piccola tipografia.\n"
+"L'anno dopo, ti ho visto giocare al Koshien in TV."
+
+msgctxt "2164_Shirakawa"
+msgid ""
+"The entire time, I never stopped wondering why you went for that wild pitch "
+"instead of taking the walk."
+msgstr ""
+"Per tutto il tempo, non ho mai smesso di chiedermi perché sei andato su "
+"quella palla pazza invece di ottenere la base su ball."
+
+msgctxt "2176_Shirakawa"
+msgid ""
+"It took a couple years, but I finally got my answer. When you batted for the"
+" big leagues your one and only time."
+msgstr ""
+"Ci sono voluti un paio d'anni, ma alla fine ho avuto la mia risposta. Quando"
+" hai battuto nelle major league la tua unica e sola volta."
+
+msgctxt "2188_Shinada"
+msgid "What are you getting at, Shirakawa?"
+msgstr "Dove vuoi arrivare, Shirakawa?"
+
+msgctxt "2200_Shirakawa"
+msgid ""
+"I'm saying you're the kind of scum who puts himself ahead of\r\n"
+"the team. That only your own victory matters!"
+msgstr ""
+"Sto dicendo che sei il tipo di feccia che mette sé stesso prima\n"
+"della squadra. Che conta solo la tua vittoria!"
+
+msgctxt "2212_Shinada"
+msgid "How could you say that!?"
+msgstr "Come hai potuto dire una cosa del genere!?"
+
+msgctxt "2224_Shirakawa"
+msgid ""
+"Everyone knew Akamatsu was the tournament's top pitcher.\r\n"
+"I mean, you couldn't get a single hit off him the entire\r\n"
+"game."
+msgstr ""
+"Tutti sapevano che Akamatsu era il lanciatore di punta del torneo.\n"
+"Cioè, non riuscivi a fargli nemmeno una valida per tutta\n"
+"la partita."
+
+msgctxt "2236_Shirakawa"
+msgid ""
+"But you wanted to prove yourself, didn't you? That you were\r\n"
+"good enough to hit one of Akamatsu's pitches... that you\r\n"
+"were better than everyone else!"
+msgstr ""
+"Ma volevi metterti alla prova, non è vero? Che eri\n"
+"abbastanza bravo da battere uno dei lanci di Akamatsu... che eri\n"
+"migliore di tutti gli altri!"
+
+msgctxt "2248_Shirakawa"
+msgid ""
+"Why else would you swing at an outside pitch on a\r\n"
+"three-and-nothing count!? Like a fucking amateur!?"
+msgstr ""
+"Perché mai avresti battuto su un lancio esterno con un\n"
+"conto di tre palle e zero strike!? Come un fottuto dilettante!?"
+
+msgctxt "2260_Shirakawa"
+msgid ""
+"If only you had walked, we'd have been set for a game-winning hit. But there"
+" was no guarantee you'd get another chance to bat. So you went ahead and "
+"blew it."
+msgstr ""
+"Se solo avessi ottenuto la base su ball, saremmo stati pronti per una valida"
+" decisiva. Ma non c'era garanzia che avresti avuto un'altra occasione per "
+"battere. Così sei andato avanti e hai rovinato tutto."
+
+msgctxt "2272_Shinada"
+msgid ""
+"That's not true! I read that pitch to the best of my ability. And I went for"
+" it because I was sure I could win it for the team."
+msgstr ""
+"Non è vero! Ho letto quel lancio al meglio delle mie capacità. E ci ho "
+"provato perché ero sicuro di poter far vincere la squadra."
+
+msgctxt "2284_Shinada"
+msgid ""
+"But, at the time, I simply didn't have what it took to get a hit off "
+"Akamatsu. That's all it was, man."
+msgstr ""
+"Ma, all'epoca, semplicemente non avevo quello che serviva per fare una "
+"valida contro Akamatsu. Tutto qui, amico."
+
+msgctxt "2296_Shirakawa"
+msgid ""
+"Don't feed me that crap! You can say any damned thing you want in "
+"retrospect, but that doesn't change what you did."
+msgstr ""
+"Non raccontarmi stronzate! Puoi dire tutte le stronzate che vuoi col senno "
+"di poi, ma questo non cambia quello che hai fatto."
+
+msgctxt "2308_Shirakawa"
+msgid ""
+"You talk like it was some miscalculation, but I know better. The only reason"
+" you pulled that stunt back then was to satisfy your own ego. And I'm going "
+"to prove it to you."
+msgstr ""
+"Parli come se fosse stato un errore di valutazione, ma io la so lunga. "
+"L'unica ragione per cui hai fatto quella stronzata all'epoca era per "
+"soddisfare il tuo ego. E te lo dimostrerò."
+
+msgctxt "2320_Shinada"
+msgid "...How?"
+msgstr "...Come?"
+
+msgctxt "2332_Shirakawa"
+msgid ""
+"By making you relive Akamatsu's pitching from twenty years\r\n"
+"back! That's how, Shinada!"
+msgstr ""
+"Facendoti rivivere i lanci di Akamatsu di vent'anni\n"
+"fa! Ecco come, Shinada!"
+
+msgctxt "2344_Shinada"
+msgid "That's crazy talk!"
+msgstr "È roba da matti!"
+
+msgctxt "2356_Shirakawa"
+msgid ""
+"You yourself said you didn't have what it took <Italic>at the time</Italic>.\r\n"
+"That means you think you could pull it off now. Right?"
+msgstr ""
+"Tu stesso hai detto che non avevi quello che serviva <Italic>all'epoca</Italic>.\n"
+"\n"
+"Questo significa che pensi di potercela fare adesso. Giusto?"
+
+msgctxt "2368_Shinada"
+msgid ""
+"Hold on. Shirakawa, are you seriously asking me to go up\r\n"
+"against Akamatsu from back in our high-school heyday?\r\n"
+"I'd, like, need a time machine for that!"
+msgstr ""
+"Aspetta. Shirakawa, mi stai seriamente chiedendo di affrontare\n"
+"Akamatsu dai nostri tempi d'oro del liceo?\n"
+"Mi servirebbe, tipo, una macchina del tempo per farlo!"
+
+msgctxt "2380_Shirakawa"
+msgid ""
+"No, dumbass. I'll be doing the pitching. I can replicate Akamatsu's style "
+"flawlessly."
+msgstr ""
+"No, coglione. Sarò io a lanciare. Posso replicare lo stile di Akamatsu alla "
+"perfezione."
+
+msgctxt "2392_Shinada"
+msgid "What about your shoulder?"
+msgstr "E la tua spalla?"
+
+msgctxt "2404_Shirakawa"
+msgid ""
+"To hell with that! Point is, if you can hit what I throw, I'll know you had "
+"the skills, and chalk it all up a harmless error."
+msgstr ""
+"Al diavolo! Il punto è, se riesci a battere quello che lancio, saprò che "
+"avevi le capacità, e considererò il tutto un errore innocuo."
+
+msgctxt "2416_Shirakawa"
+msgid ""
+"But if you choke, that means you were shit to begin with. It'll be proof "
+"that you robbed me of baseball for your own pride. And I will make you pay."
+msgstr ""
+"Ma se ti caghi sotto, vuol dire che facevi schifo fin dall'inizio. Sarà la "
+"prova che mi hai privato del baseball per il tuo orgoglio. E te la farò "
+"pagare."
+
+msgctxt "2428_Shinada"
+msgid ""
+"Is this what drove you to search for me all these years? To figure out what "
+"was going on in my head?"
+msgstr ""
+"È questo che ti ha portato a cercarmi tutti questi anni? Per scoprire cosa "
+"mi passava per la testa?"
+
+msgctxt "2440_Shirakawa"
+msgid "......"
+msgstr "......"
+
+msgctxt "2452_Shinada"
+msgid ""
+"Okay then. If that's what'll make you happy, I'll gladly get a hit off you."
+msgstr ""
+"Va bene allora. Se è questo che ti renderà felice, ti farò una battuta "
+"volentieri."

@@ -1,0 +1,300 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "11800"
+msgid "Staff"
+msgstr "Staff"
+
+msgctxt "11804"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "11808"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "11812"
+msgid "Talk_Info_R"
+msgstr "Talk_Info_R"
+
+msgctxt "11816"
+msgid "P_TLK_sitchr_kamae"
+msgstr "P_TLK_sitchr_kamae"
+
+msgctxt "11820"
+msgid "Chef"
+msgstr "Chef"
+
+msgctxt "11824"
+msgid "Honoka"
+msgstr "Honoka"
+
+msgctxt "11828"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "11832"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "11836"
+msgid "Talk_Kamae"
+msgstr "Talk_Kamae"
+
+msgctxt "11840"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "11844"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "11848"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "11852"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "11856"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "11860"
+msgid "P_TLK_sitcnt_kamae"
+msgstr "P_TLK_sitcnt_kamae"
+
+msgctxt "11864"
+msgid "Look at Right Wall"
+msgstr "Guarda la parete destra"
+
+msgctxt "11868"
+msgid "Look at Left Wall"
+msgstr "Guarda la parete sinistra"
+
+msgctxt "11872"
+msgid "Order"
+msgstr "Ordina"
+
+msgctxt "11876"
+msgid "Leave"
+msgstr "Andarsene"
+
+msgctxt "11880"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "11884"
+msgid "0"
+msgstr "0"
+
+msgctxt "11888"
+msgid "Idle"
+msgstr "Inattivo"
+
+msgctxt "88_Staff"
+msgid "Welcome."
+msgstr "Benvenuto."
+
+msgctxt "100_Staff"
+msgid "Let me show you to your table."
+msgstr "Lasci che la accompagni al suo tavolo."
+
+msgctxt "148_Staff"
+msgid "May I take your order?"
+msgstr "Posso prendere la sua ordinazione?"
+
+msgctxt "160_Honoka"
+msgid "Oh, I want the <Color:8>Matsutake Set<Color:Default>!"
+msgstr "Oh, voglio il <Color:8>Set al matsutake<Color:Default>!"
+
+msgctxt "172_Player"
+msgid "(Honoka-chan wants to have the <Color:8>Matsutake Set<Color:Default>.)"
+msgstr "(Honoka-chan vuole il <Color:8>Set al matsutake<Color:Default>.)"
+
+msgctxt "244_Honoka"
+msgid "This looks delish!"
+msgstr "Sembra una delizia!"
+
+msgctxt "304_Honoka"
+msgid "Thanks for treatin' me!"
+msgstr "Grazie per avermi offerto!"
+
+msgctxt "364_Staff"
+msgid "Here is your check."
+msgstr "Ecco il suo conto."
+
+msgctxt "388_Staff"
+msgid "Thank you very much. Please come again."
+msgstr "Grazie mille. Torni a trovarci."
+
+msgctxt "400_Staff"
+msgid "Thank you very much."
+msgstr "Grazie mille."
+
+msgctxt "436_Staff"
+msgid "Welcome."
+msgstr "Benvenuto."
+
+msgctxt "448_Staff"
+msgid "Let me show you to your table."
+msgstr "Lasci che la accompagni al suo tavolo."
+
+msgctxt "484_Player"
+msgid "(I'm broke.)"
+msgstr "(Sono al verde.)"
+
+msgctxt "520_Kiryu"
+msgid "(I don't need to eat right now.)"
+msgstr "(Non ho bisogno di mangiare adesso.)"
+
+msgctxt "532_Akiyama"
+msgid "(I'm not hungry right now.)"
+msgstr "(Non ho fame in questo momento.)"
+
+msgctxt "544_Saejima"
+msgid "(I'm still full.)"
+msgstr "(Sono ancora pieno.)"
+
+msgctxt "556_Shinada"
+msgid "(Unfortunately, I'm kinda full.)"
+msgstr "(Purtroppo, sono un po' pieno.)"
+
+msgctxt "568_Haruka"
+msgid "(I'm stuffed.)"
+msgstr "(Sono strapieno.)"
+
+msgctxt "604_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr "Scusa. Ho una cosa da sbrigare."
+
+msgctxt "616_Akiyama"
+msgid "Sorry. I have some urgent business I need to take care of."
+msgstr "Mi dispiace. Ho degli affari urgenti di cui devo occuparmi."
+
+msgctxt "628_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr "Mi dispiace, ma devo filare."
+
+msgctxt "640_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr "Oh, mi dispiace. Ho una cosa..."
+
+msgctxt "652_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr "Mi dispiace davvero. È saltato fuori un imprevisto."
+
+msgctxt "664_Staff"
+msgid "I see. Well, please come again."
+msgstr "Capisco. Beh, torni pure."
+
+msgctxt "736_Staff"
+msgid "May I take your order?"
+msgstr "Posso prendere la sua ordinazione?"
+
+msgctxt "760_Kiryu"
+msgid ""
+"(I bet that <Color:8>Grilled Marbled Wagyu<Color:Default> is pretty good.)"
+msgstr ""
+"(Scommetto che quel <Color:8>Wagyu marezzato alla griglia<Color:Default> sia"
+" niente male.)"
+
+msgctxt "772_Akiyama"
+msgid ""
+"(That <Color:8>Grilled Marbled Wagyu<Color:Default> seems like it might be "
+"good.)"
+msgstr ""
+"(Quel <Color:8>Wagyu marezzato alla griglia<Color:Default> sembra niente "
+"male.)"
+
+msgctxt "784_Saejima"
+msgid ""
+"(The <Color:8>Grilled Marbled Wagyu<Color:Default> sounds pretty tasty.)"
+msgstr ""
+"(Quel <Color:8>Wagyu marezzato alla griglia<Color:Default> sembra proprio "
+"buono.)"
+
+msgctxt "796_Shinada"
+msgid ""
+"(Oooh, <Color:8>Grilled Marbled Wagyu<Color:Default>! I bet that's good!)"
+msgstr ""
+"(Oooh, <Color:8>Wagyu marezzato alla griglia<Color:Default>! Scommetto che è"
+" proprio buono!)"
+
+msgctxt "808_Haruka"
+msgid ""
+"(Oh, the <Color:8>Grilled Marbled Wagyu<Color:Default> sounds delicious!)"
+msgstr ""
+"(Oh, quel <Color:8>Wagyu marezzato alla griglia<Color:Default> sembra "
+"delizioso!)"
+
+msgctxt "844_Kiryu"
+msgid "(The <Color:8>Matsutake Set<Color:Default> might not be bad.)"
+msgstr "(Il <Color:8>Set Matsutake<Color:Default> non dovrebbe essere male.)"
+
+msgctxt "856_Akiyama"
+msgid ""
+"(The <Color:8>Matsutake Set<Color:Default> seems like it might be all "
+"right.)"
+msgstr "(Il <Color:8>Set Matsutake<Color:Default> sembra niente male.)"
+
+msgctxt "868_Saejima"
+msgid "(<Color:8>Matsutake Set<Color:Default>? Sounds good to me.)"
+msgstr "(<Color:8>Set Matsutake<Color:Default>? Mi ispira.)"
+
+msgctxt "880_Shinada"
+msgid "(Oooh! The <Color:8>Matsutake Set<Color:Default> sounds good!)"
+msgstr ""
+"(Oooh! Il <Color:8>Set Matsutake<Color:Default> sembra proprio buono!)"
+
+msgctxt "892_Haruka"
+msgid "(I feel like having the <Color:8>Matsutake Set<Color:Default>.)"
+msgstr "(Mi andrebbe proprio il <Color:8>Set Matsutake<Color:Default>.)"
+
+msgctxt "916_Staff"
+msgid "May I take your order?"
+msgstr "Posso prendere la sua ordinazione?"
+
+msgctxt "964_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr "Scusa. Ho una cosa da sbrigare."
+
+msgctxt "976_Akiyama"
+msgid "Sorry. I have some urgent business I need to take care of."
+msgstr "Mi dispiace. Ho degli affari urgenti di cui devo occuparmi."
+
+msgctxt "988_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr "Mi dispiace, ma devo filare."
+
+msgctxt "1000_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr "Oh, mi dispiace. Ho una cosa..."
+
+msgctxt "1012_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr "Mi dispiace davvero. È saltato fuori un imprevisto."
+
+msgctxt "1024_Chef"
+msgid "Ah, I see. Please do come again."
+msgstr "Ah, capisco. Torni pure."
+
+msgctxt "1072_Staff"
+msgid "Here is your check."
+msgstr "Ecco il suo conto."
+
+msgctxt "1096_Staff"
+msgid "Thank you very much. Please come again."
+msgstr "Grazie mille. Torni a trovarci."

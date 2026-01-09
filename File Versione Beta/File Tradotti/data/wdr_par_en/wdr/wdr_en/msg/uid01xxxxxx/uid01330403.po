@@ -1,0 +1,1180 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "32240"
+msgid "Daigo"
+msgstr "Daigo"
+
+msgctxt "32244"
+msgid "adv4_305_01/daigo_4_305_010"
+msgstr "adv4_305_01/daigo_4_305_010"
+
+msgctxt "32248"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "32252"
+msgid "P_adv"
+msgstr "P_adv"
+
+msgctxt "32256"
+msgid "P_TLK_sitgrd_agura_kamae_ed"
+msgstr "P_TLK_sitgrd_agura_kamae_ed"
+
+msgctxt "32260"
+msgid "adv4_305_01/shinada_4_305_010"
+msgstr "adv4_305_01/shinada_4_305_010"
+
+msgctxt "32264"
+msgid "adv4_305_01/daigo_4_305_020"
+msgstr "adv4_305_01/daigo_4_305_020"
+
+msgctxt "32268"
+msgid "adv4_305_01/daigo_4_305_030"
+msgstr "adv4_305_01/daigo_4_305_030"
+
+msgctxt "32272"
+msgid "adv4_305_01/shinada_4_305_020"
+msgstr "adv4_305_01/shinada_4_305_020"
+
+msgctxt "32276"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "32280"
+msgid "0"
+msgstr "0"
+
+msgctxt "32284"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "32288"
+msgid "adv4_300/shinada_0419"
+msgstr "adv4_300/shinada_0419"
+
+msgctxt "32292"
+msgid "C4300_DGO_TLK_look_album_kamae"
+msgstr "C4300_DGO_TLK_look_album_kamae"
+
+msgctxt "32296"
+msgid "C4300_DGO_TLK_get_album"
+msgstr "C4300_DGO_TLK_get_album"
+
+msgctxt "32300"
+msgid "C4300_DGO_TLK_serch_DGO"
+msgstr "C4300_DGO_TLK_serch_DGO"
+
+msgctxt "32304"
+msgid "adv4_300/shinada_0420a"
+msgstr "adv4_300/shinada_0420a"
+
+msgctxt "32308"
+msgid "adv4_300/shinada_0420b"
+msgstr "adv4_300/shinada_0420b"
+
+msgctxt "32312"
+msgid "adv4_300/daigo_0094"
+msgstr "adv4_300/daigo_0094"
+
+msgctxt "32316"
+msgid "C4300_DGO_TLK_look_DGO_kamae"
+msgstr "C4300_DGO_TLK_look_DGO_kamae"
+
+msgctxt "32320"
+msgid "C4300_DGO_TLK_look_DGO"
+msgstr "C4300_DGO_TLK_look_DGO"
+
+msgctxt "32324"
+msgid "adv4_300/shinada_0421"
+msgstr "adv4_300/shinada_0421"
+
+msgctxt "32328"
+msgid "adv4_300/daigo_0095"
+msgstr "adv4_300/daigo_0095"
+
+msgctxt "32332"
+msgid "adv4_300/shinada_0422"
+msgstr "adv4_300/shinada_0422"
+
+msgctxt "32336"
+msgid "adv4_300/daigo_0096"
+msgstr "adv4_300/daigo_0096"
+
+msgctxt "32340"
+msgid "adv4_300/shinada_0423"
+msgstr "adv4_300/shinada_0423"
+
+msgctxt "32344"
+msgid "adv4_300/daigo_0097"
+msgstr "adv4_300/daigo_0097"
+
+msgctxt "32348"
+msgid "adv4_300/shinada_0424a"
+msgstr "adv4_300/shinada_0424a"
+
+msgctxt "32352"
+msgid "adv4_300/shinada_0424b"
+msgstr "adv4_300/shinada_0424b"
+
+msgctxt "32356"
+msgid "adv4_300/daigo_0098"
+msgstr "adv4_300/daigo_0098"
+
+msgctxt "32360"
+msgid "Talk_Kamae"
+msgstr "Talk_Kamae"
+
+msgctxt "32364"
+msgid "adv4_300/shinada_0425a"
+msgstr "adv4_300/shinada_0425a"
+
+msgctxt "32368"
+msgid "adv4_300/shinada_0425b"
+msgstr "adv4_300/shinada_0425b"
+
+msgctxt "32372"
+msgid "adv4_300/shinada_0425c"
+msgstr "adv4_300/shinada_0425c"
+
+msgctxt "32376"
+msgid "adv4_300/daigo_0099a"
+msgstr "adv4_300/daigo_0099a"
+
+msgctxt "32380"
+msgid "adv4_300/daigo_0099b"
+msgstr "adv4_300/daigo_0099b"
+
+msgctxt "32384"
+msgid "adv4_300/shinada_0426"
+msgstr "adv4_300/shinada_0426"
+
+msgctxt "32388"
+msgid "adv4_300/daigo_0100a"
+msgstr "adv4_300/daigo_0100a"
+
+msgctxt "32392"
+msgid "adv4_300/daigo_0100b"
+msgstr "adv4_300/daigo_0100b"
+
+msgctxt "32396"
+msgid "adv4_300/shinada_0427"
+msgstr "adv4_300/shinada_0427"
+
+msgctxt "32400"
+msgid "adv4_300/daigo_0101a"
+msgstr "adv4_300/daigo_0101a"
+
+msgctxt "32404"
+msgid "adv4_300/daigo_0101b"
+msgstr "adv4_300/daigo_0101b"
+
+msgctxt "32408"
+msgid "adv4_300/daigo_0101c"
+msgstr "adv4_300/daigo_0101c"
+
+msgctxt "32412"
+msgid "adv4_300/daigo_0101d"
+msgstr "adv4_300/daigo_0101d"
+
+msgctxt "32416"
+msgid "adv4_300/shinada_0428a"
+msgstr "adv4_300/shinada_0428a"
+
+msgctxt "32420"
+msgid "adv4_300/shinada_0428b"
+msgstr "adv4_300/shinada_0428b"
+
+msgctxt "32424"
+msgid "adv4_300/daigo_0102a"
+msgstr "adv4_300/daigo_0102a"
+
+msgctxt "32428"
+msgid "kaiwabgm_impress"
+msgstr "kaiwabgm_impress"
+
+msgctxt "32432"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "32436"
+msgid "adv4_300/daigo_0102b"
+msgstr "adv4_300/daigo_0102b"
+
+msgctxt "32440"
+msgid "adv4_300/daigo_0102c"
+msgstr "adv4_300/daigo_0102c"
+
+msgctxt "32444"
+msgid "adv4_300/daigo_0102d"
+msgstr "adv4_300/daigo_0102d"
+
+msgctxt "32448"
+msgid "adv4_300/daigo_0102e"
+msgstr "adv4_300/daigo_0102e"
+
+msgctxt "32452"
+msgid "adv4_300/shinada_0429"
+msgstr "adv4_300/shinada_0429"
+
+msgctxt "32456"
+msgid "adv4_300/daigo_0103a"
+msgstr "adv4_300/daigo_0103a"
+
+msgctxt "32460"
+msgid "adv4_300/daigo_0103b"
+msgstr "adv4_300/daigo_0103b"
+
+msgctxt "32464"
+msgid "adv4_300/shinada_0430"
+msgstr "adv4_300/shinada_0430"
+
+msgctxt "32468"
+msgid "adv4_300/daigo_0104a"
+msgstr "adv4_300/daigo_0104a"
+
+msgctxt "32472"
+msgid "adv4_300/daigo_0104b"
+msgstr "adv4_300/daigo_0104b"
+
+msgctxt "32476"
+msgid "adv4_300/shinada_0431"
+msgstr "adv4_300/shinada_0431"
+
+msgctxt "32480"
+msgid "adv4_300/daigo_0105a"
+msgstr "adv4_300/daigo_0105a"
+
+msgctxt "32484"
+msgid "adv4_300/daigo_0105b"
+msgstr "adv4_300/daigo_0105b"
+
+msgctxt "32488"
+msgid "adv4_300/daigo_0105c"
+msgstr "adv4_300/daigo_0105c"
+
+msgctxt "32492"
+msgid "adv4_300/shinada_0432"
+msgstr "adv4_300/shinada_0432"
+
+msgctxt "32496"
+msgid "adv4_300/daigo_0106"
+msgstr "adv4_300/daigo_0106"
+
+msgctxt "32500"
+msgid "adv4_300/shinada_0433"
+msgstr "adv4_300/shinada_0433"
+
+msgctxt "32504"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "32508"
+msgid "adv4_300/daigo_0107"
+msgstr "adv4_300/daigo_0107"
+
+msgctxt "32512"
+msgid "adv4_300/shinada_0434"
+msgstr "adv4_300/shinada_0434"
+
+msgctxt "32516"
+msgid "adv4_300/daigo_0108"
+msgstr "adv4_300/daigo_0108"
+
+msgctxt "32520"
+msgid "adv4_300/shinada_0435"
+msgstr "adv4_300/shinada_0435"
+
+msgctxt "32524"
+msgid "adv4_300/daigo_0109a"
+msgstr "adv4_300/daigo_0109a"
+
+msgctxt "32528"
+msgid "adv4_300/daigo_0109b"
+msgstr "adv4_300/daigo_0109b"
+
+msgctxt "32532"
+msgid "adv4_300/shinada_0436"
+msgstr "adv4_300/shinada_0436"
+
+msgctxt "32536"
+msgid "adv4_300/daigo_0110a"
+msgstr "adv4_300/daigo_0110a"
+
+msgctxt "32540"
+msgid "adv4_300/daigo_0110b"
+msgstr "adv4_300/daigo_0110b"
+
+msgctxt "32544"
+msgid "Masked Man"
+msgstr "Uomo mascherato"
+
+msgctxt "32548"
+msgid "adv4_290/daigo_0078a"
+msgstr "adv4_290/daigo_0078a"
+
+msgctxt "32552"
+msgid "kaiwabgm_serious01"
+msgstr "kaiwabgm_serious01"
+
+msgctxt "32556"
+msgid "P_TLK_sitgrd_agura_yes"
+msgstr "P_TLK_sitgrd_agura_yes"
+
+msgctxt "32560"
+msgid "adv4_290/daigo_0078b"
+msgstr "adv4_290/daigo_0078b"
+
+msgctxt "32564"
+msgid "adv4_290/shinada_0405a"
+msgstr "adv4_290/shinada_0405a"
+
+msgctxt "32568"
+msgid "adv4_290/shinada_0405b"
+msgstr "adv4_290/shinada_0405b"
+
+msgctxt "32572"
+msgid "adv4_290/shinada_0405c"
+msgstr "adv4_290/shinada_0405c"
+
+msgctxt "32576"
+msgid "adv4_290/shinada_0405d"
+msgstr "adv4_290/shinada_0405d"
+
+msgctxt "32580"
+msgid "adv4_290/daigo_0079a"
+msgstr "adv4_290/daigo_0079a"
+
+msgctxt "32584"
+msgid "adv4_290/daigo_0079b"
+msgstr "adv4_290/daigo_0079b"
+
+msgctxt "32588"
+msgid "adv4_290/shinada_0406a"
+msgstr "adv4_290/shinada_0406a"
+
+msgctxt "32592"
+msgid "adv4_290/shinada_0406b"
+msgstr "adv4_290/shinada_0406b"
+
+msgctxt "32596"
+msgid "adv4_290/shinada_0406c"
+msgstr "adv4_290/shinada_0406c"
+
+msgctxt "32600"
+msgid "adv4_290/shinada_0407a"
+msgstr "adv4_290/shinada_0407a"
+
+msgctxt "32604"
+msgid "adv4_290/shinada_0407b"
+msgstr "adv4_290/shinada_0407b"
+
+msgctxt "32608"
+msgid "adv4_290/daigo_0081"
+msgstr "adv4_290/daigo_0081"
+
+msgctxt "32612"
+msgid "adv4_290/shinada_0408"
+msgstr "adv4_290/shinada_0408"
+
+msgctxt "32616"
+msgid "adv4_290/shinada_0409a"
+msgstr "adv4_290/shinada_0409a"
+
+msgctxt "32620"
+msgid "adv4_290/shinada_0409b"
+msgstr "adv4_290/shinada_0409b"
+
+msgctxt "32624"
+msgid "adv4_290/daigo_0083"
+msgstr "adv4_290/daigo_0083"
+
+msgctxt "32628"
+msgid "adv4_290/shinada_0410a"
+msgstr "adv4_290/shinada_0410a"
+
+msgctxt "32632"
+msgid "adv4_290/shinada_0410b"
+msgstr "adv4_290/shinada_0410b"
+
+msgctxt "32636"
+msgid "adv4_290/daigo_0084"
+msgstr "adv4_290/daigo_0084"
+
+msgctxt "32640"
+msgid "adv4_290/shinada_0411a"
+msgstr "adv4_290/shinada_0411a"
+
+msgctxt "32644"
+msgid "adv4_290/shinada_0411b"
+msgstr "adv4_290/shinada_0411b"
+
+msgctxt "32648"
+msgid "adv4_290/shinada_0411c"
+msgstr "adv4_290/shinada_0411c"
+
+msgctxt "32652"
+msgid "adv4_290/daigo_0085"
+msgstr "adv4_290/daigo_0085"
+
+msgctxt "32656"
+msgid "adv4_290/shinada_0412a"
+msgstr "adv4_290/shinada_0412a"
+
+msgctxt "32660"
+msgid "adv4_290/shinada_0412b"
+msgstr "adv4_290/shinada_0412b"
+
+msgctxt "32664"
+msgid "adv4_290/shinada_0413a"
+msgstr "adv4_290/shinada_0413a"
+
+msgctxt "32668"
+msgid "adv4_290/shinada_0413b"
+msgstr "adv4_290/shinada_0413b"
+
+msgctxt "32672"
+msgid "P_TLK_sitgrd_agura_no"
+msgstr "P_TLK_sitgrd_agura_no"
+
+msgctxt "32676"
+msgid "adv4_290/shinada_0413c"
+msgstr "adv4_290/shinada_0413c"
+
+msgctxt "32680"
+msgid "adv4_290/daigo_0087a"
+msgstr "adv4_290/daigo_0087a"
+
+msgctxt "32684"
+msgid "adv4_290/daigo_0087b"
+msgstr "adv4_290/daigo_0087b"
+
+msgctxt "32688"
+msgid "adv4_290/shinada_0414"
+msgstr "adv4_290/shinada_0414"
+
+msgctxt "32692"
+msgid "adv4_290/daigo_0088a"
+msgstr "adv4_290/daigo_0088a"
+
+msgctxt "32696"
+msgid "P_TLK_stand_kamae"
+msgstr "P_TLK_stand_kamae"
+
+msgctxt "32700"
+msgid "adv4_290/daigo_0088b"
+msgstr "adv4_290/daigo_0088b"
+
+msgctxt "32704"
+msgid "C4290_DGO_TLK_put_bag"
+msgstr "C4290_DGO_TLK_put_bag"
+
+msgctxt "32708"
+msgid "adv4_290/daigo_0089"
+msgstr "adv4_290/daigo_0089"
+
+msgctxt "32712"
+msgid "adv4_290/shinada_0415"
+msgstr "adv4_290/shinada_0415"
+
+msgctxt "32716"
+msgid "adv4_290/daigo_0090"
+msgstr "adv4_290/daigo_0090"
+
+msgctxt "32720"
+msgid "adv4_290/shinada_0416a"
+msgstr "adv4_290/shinada_0416a"
+
+msgctxt "32724"
+msgid "adv4_290/shinada_0416b"
+msgstr "adv4_290/shinada_0416b"
+
+msgctxt "32728"
+msgid "adv4_285_03/daigo_4_285_050"
+msgstr "adv4_285_03/daigo_4_285_050"
+
+msgctxt "32732"
+msgid "adv4_285_03/shinada_4_285_080"
+msgstr "adv4_285_03/shinada_4_285_080"
+
+msgctxt "32736"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "32740"
+msgid "adv4_285_03/daigo_4_285_060"
+msgstr "adv4_285_03/daigo_4_285_060"
+
+msgctxt "32744"
+msgid "adv4_285_03/shinada_4_285_090"
+msgstr "adv4_285_03/shinada_4_285_090"
+
+msgctxt "32748"
+msgid "adv4_285_01/daigo_4_285_010"
+msgstr "adv4_285_01/daigo_4_285_010"
+
+msgctxt "32752"
+msgid "adv4_285_01/shinada_4_285_030"
+msgstr "adv4_285_01/shinada_4_285_030"
+
+msgctxt "32756"
+msgid "adv4_285_01/daigo_4_285_020"
+msgstr "adv4_285_01/daigo_4_285_020"
+
+msgctxt "32760"
+msgid "adv4_285_01/shinada_4_285_040"
+msgstr "adv4_285_01/shinada_4_285_040"
+
+msgctxt "32764"
+msgid "P_SIN_TLK_stand_kamae"
+msgstr "P_SIN_TLK_stand_kamae"
+
+msgctxt "32768"
+msgid "P_SIN_TLK_sitgrd_kamae_st"
+msgstr "P_SIN_TLK_sitgrd_kamae_st"
+
+msgctxt "108_Daigo"
+msgid "Tatsuo, you okay now?"
+msgstr "Tatsuo, tutto a posto ora?"
+
+msgctxt "120_Shinada"
+msgid "Uh-huh. Good to go."
+msgstr "Mh-mh. Sono pronto."
+
+msgctxt "132_Daigo"
+msgid "Then make sure you prepare for what's ahead."
+msgstr "Allora assicurati di prepararti per quello che ci aspetta."
+
+msgctxt "144_Daigo"
+msgid "There's no telling what may happen in Tokyo."
+msgstr "Non si può mai sapere cosa potrebbe succedere a Tokyo."
+
+msgctxt "156_Shinada"
+msgid "Okay. Will do."
+msgstr "Okay. Sarà fatto."
+
+msgctxt "204_Shinada"
+msgid "Huh? Dojima, you said? Wait... could it be?"
+msgstr "Eh? Hai detto Dojima? Aspetta... non sarà mica...?"
+
+msgctxt "240_Daigo"
+msgid "Let's see... Huh, where are you?"
+msgstr "Vediamo... Uh, dove sei?"
+
+msgctxt "252_Shinada"
+msgid ""
+"I swear, I remember a Dojima-kun in Homeroom 1 who had the\r\n"
+"best grades in the class. Uh..."
+msgstr ""
+"Giuro, mi ricordo di un Dojima-kun nella sezione 1 che aveva i\n"
+"voti migliori della classe. Uh..."
+
+msgctxt "264_Daigo"
+msgid "I was in Homeroom 1 all right, but I'm not in that yearbook."
+msgstr "Ero nella sezione 1, è vero, ma non sono in quell'annuario."
+
+msgctxt "276_Shinada"
+msgid "Huh? Why not?"
+msgstr "Eh? Perché no?"
+
+msgctxt "288_Daigo"
+msgid "Because I never graduated. I was expelled."
+msgstr "Perché non mi sono mai diplomato. Sono stato espulso."
+
+msgctxt "300_Shinada"
+msgid "You were!?"
+msgstr "Davvero!?"
+
+msgctxt "312_Daigo"
+msgid ""
+"I caused some major trouble the summer of our third year...\r\n"
+"I ended up graduating from juvie instead."
+msgstr ""
+"Ho combinato un bel casino l'estate del nostro terzo anno...\n"
+"Ho finito per diplomarmi al riformatorio, invece."
+
+msgctxt "324_Shinada"
+msgid "Juvie? Huh? As in juvenile detention!?"
+msgstr "Riformatorio? Eh? Nel senso di detenzione minorile!?"
+
+msgctxt "336_Daigo"
+msgid "I had it out with a gang from Kamuro Tech High."
+msgstr "Me la sono vista con una banda del liceo tecnico di Kamuro."
+
+msgctxt "348_Shinada"
+msgid ""
+"Kamuro Tech? They were Tokyo's worst bad-boy school. We played them in the "
+"East Tokyo Final."
+msgstr ""
+"Il liceo tecnico di Kamuro? Era la peggior scuola di teppisti di Tokyo. Ci "
+"abbiamo giocato contro nella finale di Tokyo Est."
+
+msgctxt "360_Shinada"
+msgid ""
+"Huh? Wait. There was someone who fought a whole bunch of Kamuro Tech guys "
+"all by himself the day before our regional final. Was that..."
+msgstr ""
+"Eh? Aspetta. C'era qualcuno che ha affrontato un mucchio di tizi del tecnico"
+" di Kamuro tutto da solo il giorno prima della nostra finale regionale. Eri "
+"tu...?"
+
+msgctxt "372_Daigo"
+msgid "Me."
+msgstr "Io."
+
+msgctxt "384_Shinada"
+msgid ""
+"I remember that. Those punks from Kamuro Tech were threatening our players "
+"to forfeit the final."
+msgstr ""
+"Me lo ricordo. Quei teppisti del tecnico di Kamuro stavano minacciando i "
+"nostri giocatori perché dessero forfait alla finale."
+
+msgctxt "396_Shinada"
+msgid "But the day before the game, they all got sent to the emergency room."
+msgstr "Ma il giorno prima della partita, finirono tutti al pronto soccorso."
+
+msgctxt "408_Shinada"
+msgid ""
+"That let us play the final without interference. We won and went on to "
+"nationals!"
+msgstr ""
+"Così abbiamo potuto giocare la finale senza interferenze. Abbiamo vinto e "
+"siamo andati ai nazionali!"
+
+msgctxt "420_Daigo"
+msgid ""
+"And at Koshien, we lost 2 to 1 in the first round, to Sawada and the rest of"
+" Chukyo Academy."
+msgstr ""
+"E al Koshien, abbiamo perso 2 a 1 al primo turno, contro Sawada e il resto "
+"della Chukyo Academy."
+
+msgctxt "432_Daigo"
+msgid ""
+"Your home run was our only hit. I saw it on TV, in a waiting room at family "
+"court."
+msgstr ""
+"Il tuo fuoricampo è stato la nostra unica battuta valida. L'ho visto in TV, "
+"in una sala d'attesa del tribunale per i minorenni."
+
+msgctxt "444_Shinada"
+msgid ""
+"But man, that blows my mind... I had no idea you saved our\r\n"
+"hides back then. Why would you put yourself through that?"
+msgstr ""
+"Ma cavolo, questa cosa mi lascia di sasso... Non avevo idea che all'epoca ci avessi salvato la\n"
+"pelle. Perché hai voluto passare un guaio del genere?"
+
+msgctxt "456_Daigo"
+msgid "For me, seeing the baseball team make it to nationals at Koshien..."
+msgstr ""
+"Per me, vedere la squadra di baseball arrivare ai nazionali al Koshien..."
+
+msgctxt "468_Daigo"
+msgid "No, for everyone at West Kamuro that summer, that was our dream."
+msgstr ""
+"No, per tutti al West Kamuro quell'estate, quello era il nostro sogno."
+
+msgctxt "480_Shinada"
+msgid "Your dream?"
+msgstr "Il tuo sogno?"
+
+msgctxt "492_Daigo"
+msgid "Yeah. You were the one who gave us that dream in the first place."
+msgstr "Già. Sei stato tu a regalarci quel sogno, per cominciare."
+
+msgctxt "504_Daigo"
+msgid "For all of us back then, all we wanted was to see you go to Koshien."
+msgstr ""
+"Per tutti noi all'epoca, l'unica cosa che volevamo era vederti andare al "
+"Koshien."
+
+msgctxt "516_Daigo"
+msgid ""
+"But that dream was about to be shattered by the opposing\r\n"
+"school. And only I had the muscle to protect it."
+msgstr ""
+"Ma quel sogno stava per essere infranto dalla scuola\n"
+"avversaria. E solo io avevo i muscoli per proteggerlo."
+
+msgctxt "528_Daigo"
+msgid "For me, protecting that dream was the same as protecting my own."
+msgstr "Per me, proteggere quel sogno era lo stesso che proteggere il mio."
+
+msgctxt "540_Shinada"
+msgid ""
+"I can kind of understand, but that got you expelled and landed you in juvie."
+msgstr ""
+"Riesco quasi a capire, ma per quello sei stato espulso e sei finito al "
+"riformatorio."
+
+msgctxt "552_Shinada"
+msgid "Did you really have to make that big a sacrifice?"
+msgstr "Dovevi davvero fare un sacrificio così grande?"
+
+msgctxt "564_Daigo"
+msgid ""
+"This may sound sentimental, but people do entrust their dreams to others."
+msgstr ""
+"Potrà sembrare sentimentale, ma le persone affidano davvero i propri sogni "
+"agli altri."
+
+msgctxt "576_Daigo"
+msgid ""
+"They lay down what they couldn't achieve on their own, and\r\n"
+"offer it to someone who can."
+msgstr ""
+"Depongono ciò che non sono riusciti a ottenere da soli, e\n"
+"lo offrono a chi invece può."
+
+msgctxt "588_Daigo"
+msgid ""
+"By watching that person march forward, carrying a bright new\r\n"
+"future on their shoulders..."
+msgstr ""
+"Osservando quella persona avanzare, portando un nuovo\n"
+"futuro radioso sulle proprie spalle..."
+
+msgctxt "600_Daigo"
+msgid "They can accept their own reality and live their own lives..."
+msgstr "Possono accettare la propria realtà e vivere le proprie vite..."
+
+msgctxt "612_Daigo"
+msgid ""
+"Thinking that one day, they too might be able to make their own dreams come "
+"true."
+msgstr ""
+"Pensando che un giorno, anche loro potrebbero riuscire a realizzare i propri"
+" sogni."
+
+msgctxt "624_Shinada"
+msgid "I don't get it."
+msgstr "Non capisco."
+
+msgctxt "636_Daigo"
+msgid "I had no dream of my own back then."
+msgstr "A quei tempi non avevo un sogno tutto mio."
+
+msgctxt "648_Daigo"
+msgid ""
+"Despite that, I knew I could at least help someone else reach\r\n"
+"their full potential."
+msgstr ""
+"Nonostante ciò, sapevo di poter almeno aiutare qualcun altro a raggiungere\n"
+"il suo pieno potenziale."
+
+msgctxt "660_Shinada"
+msgid "......"
+msgstr "......"
+
+msgctxt "672_Daigo"
+msgid ""
+"I was already destined to take over the family business.\r\n"
+"Graduating was the least of my concerns."
+msgstr ""
+"Ero già destinato a ereditare gli affari di famiglia.\n"
+"Diplomarmi era l'ultima delle mie preoccupazioni."
+
+msgctxt "684_Daigo"
+msgid ""
+"It was more important to help the team get to Koshien. Everyone's hopes were"
+" riding on it."
+msgstr ""
+"Era più importante aiutare la squadra ad arrivare al Koshien. Le speranze di"
+" tutti dipendevano da quello."
+
+msgctxt "696_Shinada"
+msgid "......"
+msgstr "......"
+
+msgctxt "708_Daigo"
+msgid "I'll never forget the moment when your home run cleared the stadium."
+msgstr ""
+"Non dimenticherò mai il momento in cui il tuo fuoricampo ha superato lo "
+"stadio."
+
+msgctxt "720_Daigo"
+msgid ""
+"Even now, thinking back on it gives me the motivation to\r\n"
+"keep moving forward, even when the road ahead seems grim."
+msgstr ""
+"Ancora oggi, ripensarci mi dà la motivazione per\n"
+"continuare ad andare avanti, anche quando la strada davanti a me sembra cupa."
+
+msgctxt "732_Daigo"
+msgid "Tatsuo, you have no idea how grateful I am to you."
+msgstr "Tatsuo, non hai idea di quanto ti sia grato."
+
+msgctxt "744_Shinada"
+msgid "Dojima-kun, that family business of yours..."
+msgstr "Dojima-kun, quegli affari di famiglia..."
+
+msgctxt "756_Daigo"
+msgid ""
+"I'm the Tojo Clan's sixth chairman. Although I'm currently\r\n"
+"off their radar for the time being."
+msgstr ""
+"Sono il sesto presidente del Clan Tojo. Anche se al momento\n"
+"sono fuori dai loro radar."
+
+msgctxt "768_Shinada"
+msgid "You serious!?"
+msgstr "Ma dici davvero!?"
+
+msgctxt "780_Daigo"
+msgid ""
+"That's why I need to handle this. It's too risky for a civilian like you to "
+"get in any deeper."
+msgstr ""
+"Ecco perché devo occuparmene io. È troppo rischioso per un civile come te "
+"spingersi oltre."
+
+msgctxt "792_Shinada"
+msgid "......"
+msgstr "......"
+
+msgctxt "804_Daigo"
+msgid ""
+"You gave everyone enough to dream about. It's my turn to help you regain the"
+" one you lost."
+msgstr ""
+"Hai fatto sognare tutti a sufficienza. Ora tocca a me aiutarti a "
+"riconquistare quello che hai perso."
+
+msgctxt "816_Shinada"
+msgid "What do you mean...?"
+msgstr "Che cosa intendi...?"
+
+msgctxt "828_Daigo"
+msgid ""
+"When everything is said and done, I'll have the major leagues rescind your "
+"permanent ban."
+msgstr ""
+"Quando tutto sarà finito, farò in modo che la lega professionistica revochi "
+"la tua squalifica a vita."
+
+msgctxt "840_Daigo"
+msgid ""
+"And if you can't return as a player, I'll negotiate your return as either a "
+"coach or manager."
+msgstr ""
+"E se non potrai tornare come giocatore, negozierò il tuo ritorno come "
+"allenatore o manager."
+
+msgctxt "852_Shinada"
+msgid "......"
+msgstr "......"
+
+msgctxt "864_Daigo"
+msgid "But for now, use that money to get your affairs in order."
+msgstr "Ma per ora, usa quei soldi per sistemare le tue faccende."
+
+msgctxt "876_Daigo"
+msgid ""
+"Don't worry. I have more going for me now than just\r\n"
+"brute strength. I'll rewind those 15 years you lost."
+msgstr ""
+"Non preoccuparti. Ora ho molto più dalla mia parte della semplice\n"
+"forza bruta. Riavvolgerò quei 15 anni che hai perso."
+
+msgctxt "912_Masked Man"
+msgid "So, the Nagoya Family was never a true yakuza organization."
+msgstr ""
+"Quindi la Famiglia Nagoya non è mai stata una vera organizzazione yakuza."
+
+msgctxt "924_Masked Man"
+msgid ""
+"It came into existence 15 years ago as a neighborhood watch to protect local"
+" interests."
+msgstr ""
+"È nata 15 anni fa come una ronda di quartiere per proteggere gli interessi "
+"locali."
+
+msgctxt "936_Shinada"
+msgid "Right. And the one controlling the Nagoya Family ever since..."
+msgstr "Esatto. E colui che controlla la Famiglia Nagoya da allora..."
+
+msgctxt "948_Shinada"
+msgid ""
+"Was the same person managing me and the rest of the Wyverns－Fujita-san."
+msgstr ""
+"Era la stessa persona che gestiva me e il resto dei Wyverns—Fujita-san."
+
+msgctxt "960_Shinada"
+msgid ""
+"Back then, the town was split east and west between the Tojo Clan and the "
+"Omi Alliance."
+msgstr ""
+"A quei tempi, la città era divisa tra est e ovest tra il Clan Tojo e "
+"l'Alleanza Omi."
+
+msgctxt "972_Shinada"
+msgid ""
+"They both ran match-fixing rackets to supplement their baseball betting, all"
+" of which depended on the Wyverns."
+msgstr ""
+"Entrambi gestivano giri di partite truccate per alimentare le proprie "
+"scommesse sul baseball, e tutto quanto dipendeva dai Wyverns."
+
+msgctxt "984_Masked Man"
+msgid ""
+"So your expulsion was all part of Fujita's scheme to drive off the Tojo and "
+"the Omi..."
+msgstr ""
+"Quindi la tua espulsione faceva parte del piano di Fujita per scacciare il "
+"Clan Tojo e l'Alleanza Omi..."
+
+msgctxt "996_Masked Man"
+msgid "Clearing them out of Nagoya was his true objective."
+msgstr "Spazzarli via da Nagoya era il suo vero obiettivo."
+
+msgctxt "1008_Shinada"
+msgid "After Fujita-san resigned as manager, he kept the truth hidden."
+msgstr ""
+"Dopo che Fujita-san si è dimesso da allenatore, ha tenuto nascosta la "
+"verità."
+
+msgctxt "1020_Shinada"
+msgid ""
+"At the same time, he made it seem like the Nagoya Family was a legitimate "
+"yakuza gang to keep any real yakuza groups from moving in."
+msgstr ""
+"Allo stesso tempo, ha fatto sembrare che la Famiglia Nagoya fosse una vera "
+"banda yakuza per impedire a qualunque vero gruppo yakuza di insediarsi."
+
+msgctxt "1032_Shinada"
+msgid "It's like they were a secret society or a mafia or something."
+msgstr ""
+"Era come se fossero una società segreta, o la mafia, o qualcosa del genere."
+
+msgctxt "1044_Masked Man"
+msgid "......"
+msgstr "......"
+
+msgctxt "1056_Shinada"
+msgid ""
+"But, that all ended yesterday. The Nagoya Family was well organized, but its"
+" members were still just regular citizens."
+msgstr ""
+"Ma tutto questo è finito ieri. La Famiglia Nagoya era ben organizzata, ma i "
+"suoi membri erano comunque solo dei semplici cittadini."
+
+msgctxt "1068_Shinada"
+msgid "Now that their secret's out, they're powerless."
+msgstr "Ora che il loro segreto è venuto a galla, non hanno più alcun potere."
+
+msgctxt "1080_Masked Man"
+msgid "What about your attackers?"
+msgstr "E i tuoi aggressori?"
+
+msgctxt "1092_Shinada"
+msgid "They all turned themselves in this morning."
+msgstr "Si sono tutti costituiti stamattina."
+
+msgctxt "1104_Masked Man"
+msgid "......"
+msgstr "......"
+
+msgctxt "1116_Shinada"
+msgid ""
+"Ushijima-san and Milky-chan－the two who looked after me the most－persuaded "
+"the rest to do it."
+msgstr ""
+"Ushijima-san e Milky-chan — i due che si sono presi più cura di me — hanno "
+"convinto gli altri a farlo."
+
+msgctxt "1128_Shinada"
+msgid ""
+"For 15 years, they harbored their secret in silence, dreading that this day "
+"would come."
+msgstr ""
+"Per 15 anni hanno custodito il loro segreto in silenzio, temendo che questo "
+"giorno sarebbe arrivato."
+
+msgctxt "1140_Masked Man"
+msgid "That must have been difficult for you."
+msgstr "Deve essere stato difficile per te."
+
+msgctxt "1152_Shinada"
+msgid "Well, yeah. But I can't go feeling sorry for myself."
+msgstr "Beh, sì. Ma non posso stare a piangermi addosso."
+
+msgctxt "1164_Shinada"
+msgid "Not until I find the real enemy who's behind all this."
+msgstr ""
+"Non finché non avrò trovato il vero nemico che si nasconde dietro tutto "
+"questo."
+
+msgctxt "1176_Masked Man"
+msgid "What do you mean?"
+msgstr "Cosa intendi?"
+
+msgctxt "1188_Shinada"
+msgid ""
+"Last night, when Ushijima-san and the others captured me, I knew for sure."
+msgstr ""
+"Ieri sera, quando Ushijima-san e gli altri mi hanno catturato, ne ho avuto "
+"la certezza."
+
+msgctxt "1200_Shinada"
+msgid "These guys weren't killers."
+msgstr "Quei tipi non erano degli assassini."
+
+msgctxt "1212_Shinada"
+msgid ""
+"It's true they were acting on Fujita-san's orders, but they're not capable "
+"of staging the accidents which happened over the past few days."
+msgstr ""
+"È vero che eseguivano gli ordini di Fujita-san, ma non sono in grado di "
+"orchestrare gli incidenti che si sono verificati negli ultimi giorni."
+
+msgctxt "1224_Masked Man"
+msgid "You mean Sakai's death at the construction site?"
+msgstr "Intendi la morte di Sakai al cantiere?"
+
+msgctxt "1236_Shinada"
+msgid ""
+"That's not all. I nearly lost my life several times as soon\r\n"
+"as I started looking into the Nagoya Family."
+msgstr ""
+"Non è tutto. Ho rischiato la pelle diverse volte non appena\n"
+"ho iniziato a indagare sulla Famiglia Nagoya."
+
+msgctxt "1248_Shinada"
+msgid ""
+"I'm sure the recent deaths of the Tojo and Omi officers were\r\n"
+"part of their grand scheme, too."
+msgstr ""
+"Sono sicuro che anche le recenti morti degli ufficiali del Tojo e dell'Omi fossero\n"
+"parte del loro grande piano."
+
+msgctxt "1260_Masked Man"
+msgid "......"
+msgstr "......"
+
+msgctxt "1272_Shinada"
+msgid "Ushijima-san and the others were part of the Nagoya Family, sure."
+msgstr "Ushijima-san e gli altri facevano parte della Famiglia Nagoya, certo."
+
+msgctxt "1284_Shinada"
+msgid ""
+"But they hesitated to even raise a fist at me. Murder would\r\n"
+"be completely out of the question for them."
+msgstr ""
+"Ma hanno esitato persino ad alzare le mani su di me. L'omicidio sarebbe\n"
+"del tutto fuori discussione per loro."
+
+msgctxt "1296_Shinada"
+msgid "There have to be actual criminals behind this."
+msgstr "Devono esserci dei veri criminali dietro tutto questo."
+
+msgctxt "1308_Masked Man"
+msgid ""
+"Let me get this straight. This so-called Nagoya Family is a\r\n"
+"front for an actual, more sinister yakuza group?"
+msgstr ""
+"Fammi capire bene. Questa cosiddetta Famiglia Nagoya è una\n"
+"copertura per un vero gruppo yakuza, ben più sinistro?"
+
+msgctxt "1320_Masked Man"
+msgid "I see. Then I know a man who's involved. It has to be him..."
+msgstr "Capisco. Allora conosco un uomo che è coinvolto. Deve essere lui..."
+
+msgctxt "1332_Shinada"
+msgid "What man? You know who's pulling Fujita-san's strings?"
+msgstr "Quale uomo? Sai chi sta tirando i fili di Fujita-san?"
+
+msgctxt "1344_Masked Man"
+msgid ""
+"I've been investigating the Nagoya Family to see whether\r\n"
+"the guy I'm thinking of is linked to this or not."
+msgstr ""
+"Ho indagato sulla Famiglia Nagoya per vedere se\n"
+"l'uomo che ho in mente sia legato a tutto questo o meno."
+
+msgctxt "1356_Masked Man"
+msgid "But it looks like I'll need to hear the rest from Fujita himself."
+msgstr "Ma sembra che dovrò sentire il resto da Fujita in persona."
+
+msgctxt "1392_Daigo"
+msgid "Well done. Your pay, as promised."
+msgstr "Ben fatto. La tua paga, come promesso."
+
+msgctxt "1404_Shinada"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "1416_Masked Man"
+msgid ""
+"Your job's over. I'm going back to Tokyo. I suggest you clear your debts and"
+" think about finding a new line of work."
+msgstr ""
+"Il tuo compito è finito. Torno a Tokyo. Ti suggerisco di saldare i tuoi "
+"debiti e di pensare a cercarti un nuovo lavoro."
+
+msgctxt "1428_Shinada"
+msgid "Hold on a second. Are you gonna go meet Fujita-san?"
+msgstr "Aspetta un secondo. Hai intenzione di andare a incontrare Fujita-san?"
+
+msgctxt "1452_Daigo"
+msgid "Then count me in on this. I've got some questions of my own for him!"
+msgstr "Allora conta pure su di me. Ho anch'io un paio di domande da fargli!"
+
+msgctxt "1476_Masked Man"
+msgid "You're late."
+msgstr "Sei in ritardo."
+
+msgctxt "1488_Shinada"
+msgid "Ahahah... My bad."
+msgstr "Ahahah... Colpa mia."
+
+msgctxt "1500_Masked Man"
+msgid "We don't have much time. Let's hear it."
+msgstr "Non abbiamo molto tempo. Sentiamo."
+
+msgctxt "1512_Shinada"
+msgid "Okay. I'm not sure where to start..."
+msgstr "Va bene. Non so bene da dove cominciare..."
+
+msgctxt "1572_Shinada"
+msgid "(It's morning... Man, feels like I slept for years.)"
+msgstr "(È mattina... Cavolo, mi sembra di aver dormito per anni.)"
+
+msgctxt "1584_Shinada"
+msgid "(Oh, right. I have to report to that guy.)"
+msgstr "(Ah, già. Devo fare rapporto a quel tizio.)"
+
+msgctxt "1608_Masked Man"
+msgid "What is it?"
+msgstr "E cioè?"
+
+msgctxt "1620_Shinada"
+msgid "I have something important to tell you."
+msgstr "Ho una cosa importante da dirti."
+
+msgctxt "1632_Masked Man"
+msgid ""
+"Wait. I'll hear it in person. I take it you're at home? Then I'll be over."
+msgstr ""
+"Aspetta. Me lo dirai di persona. Immagino che tu sia a casa? Allora sto "
+"arrivando."
+
+msgctxt "1644_Shinada"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "1668_Shinada"
+msgid "(I'm sure he'll take his sweet time... Maybe I'll step out for a bit?)"
+msgstr "(Di sicuro se la prenderà comoda... Magari esco un attimo?)"

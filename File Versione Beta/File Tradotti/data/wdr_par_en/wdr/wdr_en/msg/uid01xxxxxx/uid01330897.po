@@ -1,0 +1,417 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "608"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Collana di Haruka<Color:Default>."
+
+msgctxt "668"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round when you are playing cho-han.\r\n"
+" "
+msgstr ""
+"Haruka d'ora in poi di tanto in tanto prevederà l'esito di una mano quando "
+"giochi a cho-han."
+
+msgctxt "716"
+msgid "You got <Color:8>Haruka's Lunch<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Il pranzo di Haruka<Color:Default>."
+
+msgctxt "776"
+msgid "You got <Color:8>Haruka's First-Aid Kit<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Kit di Primo Soccorso di Haruka<Color:Default>."
+
+msgctxt "836"
+msgid "You got <Color:8>Red Jewel<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Gemma Rossa<Color:Default>."
+
+msgctxt "896"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr "Hai ottenuto <Color:8>L'Amuleto di Haruka<Color:Default>."
+
+msgctxt "956"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr "Hai ottenuto <Color:8>il cioccolato di Haruka<Color:Default>."
+
+msgctxt "1016"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Dolcetto di Haruka<Color:Default>."
+
+msgctxt "1124"
+msgid "You got <Color:8>Morning Glory Belly Warmer<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Scaldapancia del Glicine<Color:Default>."
+
+msgctxt "20604"
+msgid "Staff"
+msgstr "Staff"
+
+msgctxt "20608"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "20612"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "20616"
+msgid "Talk_Info_L"
+msgstr "Talk_Info_L"
+
+msgctxt "20620"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "20624"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "20628"
+msgid "P_TLK_sitchr_kamae"
+msgstr "P_TLK_sitchr_kamae"
+
+msgctxt "20632"
+msgid "Chef"
+msgstr "Chef"
+
+msgctxt "20636"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "20640"
+msgid "P_TLK_stand_kamae"
+msgstr "P_TLK_stand_kamae"
+
+msgctxt "20644"
+msgid "P_TLK_sitchr_yes"
+msgstr "P_TLK_sitchr_yes"
+
+msgctxt "20648"
+msgid "ArmsID"
+msgstr "ID Armi"
+
+msgctxt "20652"
+msgid "HAL_TLK_sitchr_eat_donburi_min"
+msgstr "HAL_TLK_sitchr_eat_donburi_min"
+
+msgctxt "20656"
+msgid "HAL_TLK_sitchr_kamae"
+msgstr "HAL_TLK_sitchr_kamae"
+
+msgctxt "20660"
+msgid "HAL_TLK_sitchr_smile"
+msgstr "HAL_TLK_sitchr_smile"
+
+msgctxt "20664"
+msgid "P_stand"
+msgstr "P_stand"
+
+msgctxt "20668"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "20672"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "20676"
+msgid "Talk_Kamae"
+msgstr "Talk_Kamae"
+
+msgctxt "20680"
+msgid "Honoka"
+msgstr "Honoka"
+
+msgctxt "20684"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "20688"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "20692"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "20696"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "20700"
+msgid "0"
+msgstr "0"
+
+msgctxt "20704"
+msgid "Idle"
+msgstr "Inattivo"
+
+msgctxt "104_Staff"
+msgid "Welcome."
+msgstr "Benvenuto."
+
+msgctxt "116_Staff"
+msgid "Let me show you to your table."
+msgstr "Lasci che la accompagni al suo tavolo."
+
+msgctxt "140_Player"
+msgid "(I'm broke.)"
+msgstr "(Sono al verde.)"
+
+msgctxt "152_Staff"
+msgid "Sorry. There's something I need to take care of."
+msgstr "Scusa. Ho una cosa da sbrigare."
+
+msgctxt "164_Staff"
+msgid "I see. Well, please come again."
+msgstr "Capisco. Beh, torni pure."
+
+msgctxt "212_Staff"
+msgid "May I take your order?"
+msgstr "Posso prendere la sua ordinazione?"
+
+msgctxt "224_Haruka"
+msgid "Uncle Kaz, I'd really like the <Color:8>Dojima Set<Color:Default>."
+msgstr "Zio Kaz, mi andrebbe proprio il <Color:8>Set Dojima<Color:Default>."
+
+msgctxt "236_Kiryu"
+msgid "(Haruka wants to have the <Color:8>Dojima Set<Color:Default>...)"
+msgstr "(Haruka vorrebbe il <Color:8>Set Dojima<Color:Default>...)"
+
+msgctxt "260_Staff"
+msgid "But I wanted the <Color:8>Dojima Set<Color:Default>..."
+msgstr "Ma io volevo il <Color:8>Set Dojima<Color:Default>..."
+
+msgctxt "296_Staff"
+msgid "This looks really tasty! Thanks, Uncle Kaz!"
+msgstr "Sembra una vera delizia! Grazie, zio Kaz!"
+
+msgctxt "452_Haruka"
+msgid "Thanks for treating me!"
+msgstr "Grazie per avermi offerto!"
+
+msgctxt "464_Staff"
+msgid "(Haruka sure seems happy.)"
+msgstr "(Haruka sembra proprio felice.)"
+
+msgctxt "548_Staff"
+msgid "That was delicious!"
+msgstr "Era delizioso!"
+
+msgctxt "596_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! This is for you!\r\n"
+" "
+msgstr "Grazie, Zio Kaz! Questo è per te!"
+
+msgctxt "656_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come play cho-han with you next time, okay?\r\n"
+" "
+msgstr ""
+"Grazie infinite, Zio Kaz! Voglio venire a giocare a cho-han con te la "
+"prossima volta, okay?"
+
+msgctxt "704_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I have a present for you!\r\n"
+" "
+msgstr "Grazie mille, Zio Kaz! Ho un regalo per te!"
+
+msgctxt "764_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "824_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "884_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "944_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "1004_Haruka"
+msgid ""
+"Thanks, Uncle Kaz! I want to give you this!\r\n"
+" "
+msgstr "Grazie, zio Kaz! Voglio darti questo!"
+
+msgctxt "1100_Haruka"
+msgid ""
+"Thanks for doing all that stuff for me, Uncle Kaz!\r\n"
+" "
+msgstr "Grazie per aver fatto tutte quelle cose per me, Zio Kaz!"
+
+msgctxt "1112_Staff"
+msgid ""
+"Here, this is a special present, just for you!\r\n"
+" "
+msgstr "Ecco, questo è un regalo speciale, solo per te!"
+
+msgctxt "1136_Haruka"
+msgid "Thanks, Uncle Kaz! I love you!"
+msgstr "Grazie, Zio Kaz! Ti voglio bene!"
+
+msgctxt "1172_Staff"
+msgid "I hope that was to your liking. Please come again."
+msgstr "Spero ti sia piaciuto. Torna a trovarci."
+
+msgctxt "1196_Staff"
+msgid "Thank you very much. Please come again."
+msgstr "Grazie mille. Torni a trovarci."
+
+msgctxt "1220_Staff"
+msgid "Welcome."
+msgstr "Benvenuto."
+
+msgctxt "1232_Staff"
+msgid "Let me show you to your table."
+msgstr "Lasci che la accompagni al suo tavolo."
+
+msgctxt "1280_Staff"
+msgid "May I take your order?"
+msgstr "Posso prendere la sua ordinazione?"
+
+msgctxt "1292_Honoka"
+msgid "Oh, I want the <Color:8>Torafugu \"Benten\" Course<Color:Default>!"
+msgstr "Oh, voglio il <Color:8>Menu Torafugu \"Benten\"<Color:Default>!"
+
+msgctxt "1304_Player"
+msgid ""
+"(Honoka-chan wants to have the <Color:8>Torafugu \"Benten\" "
+"Course<Color:Default>.)"
+msgstr "(Honoka-chan vuole il <Color:8>Menu Torafugu \"Benten\"<Color:Default>.)"
+
+msgctxt "1376_Honoka"
+msgid "This looks delish!"
+msgstr "Sembra una delizia!"
+
+msgctxt "1436_Honoka"
+msgid "Thanks for treatin' me!"
+msgstr "Grazie per avermi offerto!"
+
+msgctxt "1484_Staff"
+msgid "Here is your check."
+msgstr "Ecco il suo conto."
+
+msgctxt "1508_Staff"
+msgid "Thank you very much. Please come again."
+msgstr "Grazie mille. Torni a trovarci."
+
+msgctxt "1520_Staff"
+msgid "Thank you very much."
+msgstr "Grazie mille."
+
+msgctxt "1556_Staff"
+msgid "Welcome."
+msgstr "Benvenuto."
+
+msgctxt "1568_Staff"
+msgid "Let me show you to your table."
+msgstr "Lasci che la accompagni al suo tavolo."
+
+msgctxt "1604_Player"
+msgid "(I'm broke.)"
+msgstr "(Sono al verde.)"
+
+msgctxt "1640_Kiryu"
+msgid "(I don't need to eat right now.)"
+msgstr "(Non ho bisogno di mangiare adesso.)"
+
+msgctxt "1652_Akiyama"
+msgid "(I'm not hungry right now.)"
+msgstr "(Non ho fame in questo momento.)"
+
+msgctxt "1664_Saejima"
+msgid "(I'm still full.)"
+msgstr "(Sono ancora pieno.)"
+
+msgctxt "1676_Shinada"
+msgid "(Unfortunately, I'm kinda full.)"
+msgstr "(Purtroppo, sono un po' pieno.)"
+
+msgctxt "1688_Haruka"
+msgid "(I'm stuffed.)"
+msgstr "(Sono strapieno.)"
+
+msgctxt "1724_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr "Scusa. Ho una cosa da sbrigare."
+
+msgctxt "1736_Akiyama"
+msgid "Sorry. I have some urgent business."
+msgstr "Scusa. Ho degli affari urgenti."
+
+msgctxt "1748_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr "Mi dispiace, ma devo filare."
+
+msgctxt "1760_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr "Oh, mi dispiace. Ho una cosa..."
+
+msgctxt "1772_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr "Mi dispiace davvero. È saltato fuori un imprevisto."
+
+msgctxt "1784_Staff"
+msgid "I see. Well, please come again."
+msgstr "Capisco. Beh, torni pure."
+
+msgctxt "1844_Staff"
+msgid "May I take your order?"
+msgstr "Posso prendere la sua ordinazione?"
+
+msgctxt "1892_Kiryu"
+msgid "Sorry. There's something I need to take care of."
+msgstr "Scusa. Ho una cosa da sbrigare."
+
+msgctxt "1904_Akiyama"
+msgid "Sorry. I have some urgent business I need to take care of."
+msgstr "Mi dispiace. Ho degli affari urgenti di cui devo occuparmi."
+
+msgctxt "1916_Saejima"
+msgid "Sorry, but I gotta jet."
+msgstr "Mi dispiace, ma devo filare."
+
+msgctxt "1928_Shinada"
+msgid "Oh, I'm sorry. I've got this thing..."
+msgstr "Oh, mi dispiace. Ho una cosa..."
+
+msgctxt "1940_Haruka"
+msgid "I'm really sorry. Something just came up."
+msgstr "Mi dispiace davvero. È saltato fuori un imprevisto."
+
+msgctxt "1952_Staff"
+msgid "Ah, I see. Please do come again."
+msgstr "Ah, capisco. Torni pure."
+
+msgctxt "2000_Staff"
+msgid "Here is your check."
+msgstr "Ecco il suo conto."
+
+msgctxt "2024_Staff"
+msgid "Thank you very much. Please come again."
+msgstr "Grazie mille. Torni a trovarci."

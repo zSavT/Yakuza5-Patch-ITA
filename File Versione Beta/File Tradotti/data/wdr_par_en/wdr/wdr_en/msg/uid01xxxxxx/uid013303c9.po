@@ -1,0 +1,357 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "172"
+msgid "Do you want to fish here?"
+msgstr "Vuoi pescare qui?"
+
+msgctxt "11668"
+msgid "Start Fishing"
+msgstr "Inizia a pescare"
+
+msgctxt "11672"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "11676"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "11680"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "11684"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "11688"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "11692"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "11696"
+msgid "Fishing"
+msgstr "Pesca"
+
+msgctxt "11700"
+msgid "Read Instructions"
+msgstr "Leggi Istruzioni"
+
+msgctxt "11704"
+msgid "Don't Fish"
+msgstr "Non pescare"
+
+msgctxt "11708"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "11712"
+msgid "Keep Fishing"
+msgstr "Continua a pescare"
+
+msgctxt "11716"
+msgid "Stop Fishing"
+msgstr "Smetti di pescare"
+
+msgctxt "196_Kiryu"
+msgid "(Maybe I'll do some fishing.)"
+msgstr "(Magari mi faccio una pescata.)"
+
+msgctxt "208_Akiyama"
+msgid "(A little fishing could be fun.)"
+msgstr "(Un po' di pesca potrebbe essere divertente.)"
+
+msgctxt "220_Saejima"
+msgid "(Time for some fishin'.)"
+msgstr "(È ora di farsi una pescata.)"
+
+msgctxt "232_Shinada"
+msgid "(Think I'll take a fishing break.)"
+msgstr "(Quasi quasi mi prendo una pausa per pescare.)"
+
+msgctxt "244_Haruka"
+msgid "(Yay, it's fishing time!)"
+msgstr "(Evviva, è ora di pescare!)"
+
+msgctxt "280_Kiryu"
+msgid "(Not right now.)"
+msgstr "(Non ora.)"
+
+msgctxt "292_Akiyama"
+msgid "(Maybe now's not the time.)"
+msgstr "(Forse ora non è il momento.)"
+
+msgctxt "304_Saejima"
+msgid "(Some other time.)"
+msgstr "(Un'altra volta.)"
+
+msgctxt "316_Shinada"
+msgid "(Maybe I shouldn't right now.)"
+msgstr "(Forse è meglio di no, per ora.)"
+
+msgctxt "328_Haruka"
+msgid "(Maybe some other time.)"
+msgstr "(Magari un'altra volta.)"
+
+msgctxt "340_Fishing"
+msgid ""
+"Select your bait, then decide where to cast your line. Each type of bait has"
+" a different range of effect, and the fish won't bite if you use the wrong "
+"bait. Items in your possession that can be used as bait will be shown in a "
+"list."
+msgstr ""
+"Seleziona l'esca, poi decidi dove lanciare la lenza. Ogni tipo di esca ha un"
+" raggio d'azione diverso e i pesci non abboccheranno se userai l'esca "
+"sbagliata. Gli oggetti in tuo possesso che possono essere usati come esca "
+"verranno mostrati in un elenco."
+
+msgctxt "352_Fishing"
+msgid ""
+"The gauge shows where the most fish are. Use bait that is effective in those"
+" areas."
+msgstr ""
+"L'indicatore mostra dove si trova la maggior parte dei pesci. Usa un'esca "
+"efficace in quelle zone."
+
+msgctxt "364_Fishing"
+msgid ""
+"Once you cast your line, wait for a fish to bite. Watch the float carefully."
+" As soon as it bobs down, press <Action:Button_Cross@Fishing_Sea> to quickly"
+" pull your pole up."
+msgstr ""
+"Una volta lanciata la lenza, aspetta che un pesce abbocchi. Osserva "
+"attentamente il galleggiante. Non appena affonda, premi "
+"<Action:Button_Cross@Fishing_Sea> per tirare su la canna rapidamente."
+
+msgctxt "376_Fishing"
+msgid ""
+"<Action:Button_R1@Fishing_Sea> reels in, while <Action:Button_L1@Fishing_Sea> adds slack.\r\n"
+"Pay attention to the Tension Gauge, and don't let the fish snap your line.\r\n"
+"Use <Action:Button_LS_Left@Fishing_Sea><Action:Button_LS_Right@Fishing_Sea>, following the movement of the fish. Use <Action:Button_LS_Up@Fishing_Sea><Action:Button_LS_Down@Fishing_Sea> to raise or lower the pole."
+msgstr ""
+"<Action:Button_R1@Fishing_Sea> recupera la lenza, mentre <Action:Button_L1@Fishing_Sea> la allenta.\n"
+"Presta attenzione all'indicatore della tensione e non lasciare che il pesce spezzi la lenza.\n"
+"Usa <Action:Button_LS_Left@Fishing_Sea><Action:Button_LS_Right@Fishing_Sea> seguendo il movimento del pesce. Usa <Action:Button_LS_Up@Fishing_Sea><Action:Button_LS_Down@Fishing_Sea> per alzare o abbassare la canna."
+
+msgctxt "388_Fishing"
+msgid ""
+"If you control the line's tension and completely reel it in, you will "
+"successfully catch the fish."
+msgstr ""
+"Se controlli la tensione della lenza e la recuperi completamente, riuscirai "
+"a catturare il pesce."
+
+msgctxt "412_Kiryu"
+msgid "(I bet there are lots of fish over there...)"
+msgstr "(Scommetto che laggiù è pieno di pesci...)"
+
+msgctxt "424_Akiyama"
+msgid "(I bet I could catch some fish over there...)"
+msgstr "(Scommetto che laggiù potrei pescare qualche pesce...)"
+
+msgctxt "436_Saejima"
+msgid "(Bet I could catch some fish over there...)"
+msgstr "(Scommetto che laggiù potrei pescare qualche pesce...)"
+
+msgctxt "448_Shinada"
+msgid "(That looks like a good spot over there...)"
+msgstr "(Sembra un buon punto, laggiù...)"
+
+msgctxt "460_Haruka"
+msgid "(Maybe there's some fish over there...)"
+msgstr "(Magari laggiù c'è qualche pesce...)"
+
+msgctxt "508_Kiryu"
+msgid "(Okay, now for some bait. This is what I've got here...)"
+msgstr "(Bene, ora l'esca. Vediamo cos'ho...)"
+
+msgctxt "520_Akiyama"
+msgid "(What sort of bait should I use? Hmm... This is what I've got here.)"
+msgstr "(Che tipo di esca dovrei usare? Mmh... Vediamo cos'ho qui.)"
+
+msgctxt "532_Saejima"
+msgid "(Now for some bait. This is what I got...)"
+msgstr "(Ora l'esca. Vediamo cos'ho...)"
+
+msgctxt "544_Shinada"
+msgid "(Okay, time to bait up. Let's see what I have here...)"
+msgstr "(Bene, è ora di mettere l'esca. Vediamo cos'ho qui...)"
+
+msgctxt "556_Haruka"
+msgid "(I guess I'll need some bait. Let's see what I have with me...)"
+msgstr "(Immagino mi servirà dell'esca. Vediamo cos'ho con me...)"
+
+msgctxt "592_Kiryu"
+msgid "(I'll check the instructions.)"
+msgstr "(Darò un'occhiata alle istruzioni.)"
+
+msgctxt "604_Akiyama"
+msgid "(Maybe I should read the instructions.)"
+msgstr "(Forse dovrei leggere le istruzioni.)"
+
+msgctxt "616_Saejima"
+msgid "(Better read the instructions.)"
+msgstr "(Meglio leggere le istruzioni.)"
+
+msgctxt "628_Shinada"
+msgid "(Let's take a look at those instructions.)"
+msgstr "(Diamo un'occhiata a quelle istruzioni.)"
+
+msgctxt "640_Haruka"
+msgid "(I better read the instructions.)"
+msgstr "(Meglio leggere le istruzioni.)"
+
+msgctxt "676_Kiryu"
+msgid "(Maybe later.)"
+msgstr "(Magari più tardi.)"
+
+msgctxt "688_Akiyama"
+msgid "(No, not now.)"
+msgstr "(No, non ora.)"
+
+msgctxt "700_Saejima"
+msgid "(Nah, not now.)"
+msgstr "(No, non ora.)"
+
+msgctxt "712_Shinada"
+msgid "(Maybe another time.)"
+msgstr "(Magari un'altra volta.)"
+
+msgctxt "724_Haruka"
+msgid "(Maybe later.)"
+msgstr "(Magari più tardi.)"
+
+msgctxt "760_Kiryu"
+msgid "(I didn't get a bite.)"
+msgstr "(Non ha abboccato nulla.)"
+
+msgctxt "772_Akiyama"
+msgid "(Looks like I didn't get a bite.)"
+msgstr "(Sembra che non abbia abboccato nulla.)"
+
+msgctxt "784_Saejima"
+msgid "(They ain't bitin'.)"
+msgstr "(Non abboccano.)"
+
+msgctxt "796_Shinada"
+msgid "(Guess I struck out.)"
+msgstr "(Mi sa che ho fatto cilecca.)"
+
+msgctxt "808_Haruka"
+msgid "(Hmm, didn't catch anything.)"
+msgstr "(Hmm, non ho pescato nulla.)"
+
+msgctxt "844_Kiryu"
+msgid "(My cast was off.)"
+msgstr "(Ho sbagliato il lancio.)"
+
+msgctxt "856_Akiyama"
+msgid "(Missed my mark.)"
+msgstr "(Ho mancato la mira.)"
+
+msgctxt "868_Saejima"
+msgid "(Bah, blew that cast.)"
+msgstr "(Bah, ho cannato il lancio.)"
+
+msgctxt "880_Shinada"
+msgid "(Guess I cast a foul.)"
+msgstr "(Mi sa che ho fatto un lancio in fallo.)"
+
+msgctxt "892_Haruka"
+msgid "(My cast didn't go where I wanted.)"
+msgstr "(Il lancio non è andato dove volevo.)"
+
+msgctxt "928_Kiryu"
+msgid "(The line broke.)"
+msgstr "(La lenza si è spezzata.)"
+
+msgctxt "940_Akiyama"
+msgid "(Looks like my line broke.)"
+msgstr "(Sembra che la lenza si sia spezzata.)"
+
+msgctxt "952_Saejima"
+msgid "(The line broke.)"
+msgstr "(La lenza si è spezzata.)"
+
+msgctxt "964_Shinada"
+msgid "(Great, my line broke.)"
+msgstr "(Fantastico, la lenza si è spezzata.)"
+
+msgctxt "976_Haruka"
+msgid "(How come my line broke?)"
+msgstr "(Come mai la lenza si è spezzata?)"
+
+msgctxt "1012_Kiryu"
+msgid "(The fish got away.)"
+msgstr "(Il pesce è scappato.)"
+
+msgctxt "1024_Akiyama"
+msgid "(Guess I lost that one.)"
+msgstr "(Mi sa che quello l'ho perso.)"
+
+msgctxt "1036_Saejima"
+msgid "(It got away.)"
+msgstr "(È scappato.)"
+
+msgctxt "1048_Shinada"
+msgid "(Looks like it got away.)"
+msgstr "(Sembra che sia scappato.)"
+
+msgctxt "1060_Haruka"
+msgid "(Aw, it got away.)"
+msgstr "(Uffa, è scappato.)"
+
+msgctxt "1108_Kiryu"
+msgid "(I should use some new bait.)"
+msgstr "(Dovrei usare un'esca nuova.)"
+
+msgctxt "1120_Akiyama"
+msgid "(Maybe I should try some new bait.)"
+msgstr "(Forse dovrei provare un'esca nuova.)"
+
+msgctxt "1132_Saejima"
+msgid "(Lemme try some other kinda bait.)"
+msgstr "(Fammi provare un altro tipo di esca.)"
+
+msgctxt "1144_Shinada"
+msgid "(Time to switch up the bait.)"
+msgstr "(È ora di cambiare esca.)"
+
+msgctxt "1156_Haruka"
+msgid "(Maybe a new kind of bait will work.)"
+msgstr "(Forse un nuovo tipo di esca funzionerà.)"
+
+msgctxt "1192_Kiryu"
+msgid "(That's enough for now.)"
+msgstr "(Basta così per ora.)"
+
+msgctxt "1204_Akiyama"
+msgid "(I've had enough fishing for now.)"
+msgstr "(Per ora ho pescato abbastanza.)"
+
+msgctxt "1216_Saejima"
+msgid "(I'm gonna call it quits for now.)"
+msgstr "(Per ora smetto qui.)"
+
+msgctxt "1228_Shinada"
+msgid "(That's enough fishing for now.)"
+msgstr "(Per ora ho pescato abbastanza.)"
+
+msgctxt "1240_Haruka"
+msgid "(I think I'll stop for now.)"
+msgstr "(Credo che per ora smetterò.)"

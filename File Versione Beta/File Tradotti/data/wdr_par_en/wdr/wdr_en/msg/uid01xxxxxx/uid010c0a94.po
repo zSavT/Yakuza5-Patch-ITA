@@ -1,0 +1,342 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "156"
+msgid "You got a <Color:8>Lucky Hanafuda Card<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Carta Hanafuda Fortunata<Color:Default>."
+
+msgctxt "216"
+msgid "You got 2,000 experience points."
+msgstr "Hai ottenuto 2.000 punti esperienza."
+
+msgctxt "13236"
+msgid "Tsutsukubo"
+msgstr "Tsutsukubo"
+
+msgctxt "13240"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "13244"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "13248"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "13252"
+msgid "Talk_Get"
+msgstr "Talk_Get"
+
+msgctxt "13256"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "13260"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "13264"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "13268"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "13272"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "13276"
+msgid "Arrogant Man"
+msgstr "Uomo Arrogante"
+
+msgctxt "13280"
+msgid "Self-assured Man"
+msgstr "Uomo Sicuro di sé"
+
+msgctxt "13284"
+msgid "M_yng_stand"
+msgstr "M_yng_stand"
+
+msgctxt "13288"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "13292"
+msgid "Talk_Info_R"
+msgstr "Talk_Info_R"
+
+msgctxt "13296"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "13300"
+msgid "Sinister Man"
+msgstr "Uomo Sinistro"
+
+msgctxt "108_Tsutsukubo"
+msgid ""
+"Ugh... You kicked my ass at slugging <Italic>and</Italic> brawling. Who are "
+"you?"
+msgstr ""
+"Ugh... Mi hai fatto il culo sia a battere <Italic>che</Italic> a menare. Chi"
+" sei?"
+
+msgctxt "120_Shinada"
+msgid ""
+"Just a random customer. Now you treat bats with respect, all right? Or else."
+msgstr ""
+"Sono solo un cliente a caso. Ora tratti le mazze con rispetto, capito? "
+"Sennò..."
+
+msgctxt "132_Tsutsukubo"
+msgid "Yessir! Roger that! I'll never misuse them again!"
+msgstr "Sissignore! Ricevuto! Non le userò più male!"
+
+msgctxt "144_Tsutsukubo"
+msgid "Here, this is for causing you trouble. Take it, please."
+msgstr "Tieni, questo è per il disturbo. Prendilo, per favore."
+
+msgctxt "180_Tsutsukubo"
+msgid ""
+"From now on, please feel free to use the Tokai Wonderkid title. I'm not "
+"worthy of it anymore."
+msgstr ""
+"D'ora in poi, sentiti libero di usare il titolo di Tokai Wonderkid. Non ne "
+"sono più degno."
+
+msgctxt "192_Shinada"
+msgid "Uh, thanks but no thanks."
+msgstr "Uh, grazie ma no grazie."
+
+msgctxt "252_Tsutsukubo"
+msgid "Holy shit. What a batter."
+msgstr "Cazzo. Che battitore."
+
+msgctxt "264_Shinada"
+msgid "There. Are you satisfied, Tokai Wonderkid-san?"
+msgstr "Ecco. Sei soddisfatto, Tokai Wonderkid-san?"
+
+msgctxt "276_Shinada"
+msgid "Okay. I'm outta here."
+msgstr "Ok. Me ne vado."
+
+msgctxt "288_Tsutsukubo"
+msgid "Hold it right there!"
+msgstr "Fermi lì!"
+
+msgctxt "300_Shinada"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "312_Tsutsukubo"
+msgid ""
+"You're not walking away and leaving me the loser. That stresses me out, you "
+"know? I'm gonna have to work that off, too."
+msgstr ""
+"Non te ne vai e mi lasci qui il perdente. Questa cosa mi manda in "
+"sbattimento, sai? Dovrò pur sfogarla anch'io."
+
+msgctxt "324_Shinada"
+msgid "Oh boy. Should've seen this coming."
+msgstr "Ahia. Dovevo immaginarlo."
+
+msgctxt "336_Tsutsukubo"
+msgid ""
+"If you want to apologize for getting uppity with me, here's your chance."
+msgstr ""
+"Se vuoi scusarti per aver fatto il gradasso con me, ecco la tua occasione."
+
+msgctxt "348_Shinada"
+msgid ""
+"Bow down to some goofballs who don't respect their bats? Not about to "
+"happen."
+msgstr ""
+"Sottomettermi a quattro babbei che non rispettano le loro mazze? Col cavolo."
+
+msgctxt "360_Tsutsukubo"
+msgid ""
+"Heh. Have it your way. I'll show you how to use a bat properly. Get him, "
+"boys!"
+msgstr ""
+"Heh. Come vuoi. Ti farò vedere come si usa una mazza come si deve. "
+"Prendetelo, ragazzi!"
+
+msgctxt "384_Tsutsukubo"
+msgid "Heh. This batter's all talk. I'm still the best."
+msgstr "Heh. Questo battitore è solo un gradasso. Sono ancora il migliore."
+
+msgctxt "396_Tsutsukubo"
+msgid ""
+"You can baby your bat all you want, but that won't help you hit a home run. "
+"You get that now?"
+msgstr ""
+"Puoi coccolare la tua mazza quanto ti pare, ma questo non ti farà fare un "
+"home run. L'hai capito adesso?"
+
+msgctxt "408_Shinada"
+msgid "(I can't believe I lost to this scumbag...)"
+msgstr "(Non ci credo di aver perso contro questo bastardo...)"
+
+msgctxt "420_Tsutsukubo"
+msgid ""
+"Hey, that was fun, though. I'll take you on anytime. 'Cause I'm the Tokai "
+"Wonderkid! Hahaha!"
+msgstr ""
+"Ehi, però è stato divertente. Ti affronterò quando vuoi. Perché sono il "
+"Tokai Wonderkid! Hahaha!"
+
+msgctxt "468_Arrogant Man"
+msgid "Gwaah! What's with this guy? He's freaking tough."
+msgstr "Gwaah! Che ha questo qui? È fottutamente tosto."
+
+msgctxt "480_Shinada"
+msgid "Huh, guess you guys are all talk."
+msgstr "Eh, mi sa che siete tutti dei gradassi."
+
+msgctxt "492_Self-assured Man"
+msgid "Boys? What's going on?"
+msgstr "Ragazzi? Che succede?"
+
+msgctxt "504_Arrogant Man"
+msgid "Oh! Uh, nothing, Tsutsukubo-san!"
+msgstr "Oh! Uh, niente, Tsutsukubo-san!"
+
+msgctxt "516_Shinada"
+msgid "What now? Are you their boss or something?"
+msgstr "E adesso? Sei il loro capo o qualcosa del genere?"
+
+msgctxt "528_Tsutsukubo"
+msgid "Yeah, I am. What's it to you?"
+msgstr "Sì, sono io. Che ti importa?"
+
+msgctxt "540_Arrogant Man"
+msgid ""
+"This dickhead started harassing us, saying don't mistreat bats and other "
+"lame shit. I think you should kick his ass!"
+msgstr ""
+"Questo stronzo ha iniziato a romperci le scatole, dicendo di non maltrattare"
+" le mazze e altre stronzate del genere. Penso che dovresti spaccargli il "
+"culo!"
+
+msgctxt "552_Tsutsukubo"
+msgid ""
+"Huh. Don't mistreat bats, eh? So what, this guy's some sort of baseball "
+"fanatic? Wait a minute..."
+msgstr ""
+"Eh. Non maltrattare le mazze, eh? E allora, questo qui è una specie di "
+"fanatico del baseball? Aspetta un attimo..."
+
+msgctxt "564_Shinada"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "576_Tsutsukubo"
+msgid ""
+"I knew it. I saw your face on a blog. You're the wicked batter of Nagoya."
+msgstr ""
+"Lo sapevo. Ho visto la tua faccia su un blog. Sei il battitore micidiale di "
+"Nagoya."
+
+msgctxt "588_Shinada"
+msgid "(Great. Thanks, Kotetsu.)"
+msgstr "(Grande. Grazie, Kotetsu.)"
+
+msgctxt "600_Tsutsukubo"
+msgid "Hahahaha! This is perfect! I've been meaning to see how good you are."
+msgstr "Ahahahah! Questo è perfetto! Volevo proprio vedere quanto sei bravo."
+
+msgctxt "612_Tsutsukubo"
+msgid "So, we doing this or what?"
+msgstr "Allora, si fa o no?"
+
+msgctxt "624_Shinada"
+msgid "Doing what? Another fight?"
+msgstr "Cosa si fa? Un'altra rissa?"
+
+msgctxt "636_Tsutsukubo"
+msgid "No, man. Baseball."
+msgstr "No, amico. Baseball."
+
+msgctxt "648_Arrogant Man"
+msgid ""
+"Tsutsukubo-san here used to be called the Tokai Wonderkid\r\n"
+"back when he batted cleanup! I mean, sure, he's just a lowly\r\n"
+"street thug now, but still! The man represents!"
+msgstr ""
+"Il Tsutsukubo qui era conosciuto come il Tokai Wonderkid\n"
+"quando batteva come cleanup! Voglio dire, certo, ora è solo un misero\n"
+"delinquente di strada, ma comunque! Il tipo ha ancora il suo peso!"
+
+msgctxt "660_Tsutsukubo"
+msgid "Care to repeat that, dumbshit?"
+msgstr "Vuoi ripeterlo, stronzo?"
+
+msgctxt "672_Arrogant Man"
+msgid "Oh! Uh... Sorry!"
+msgstr "Oh! Uh... Scusa!"
+
+msgctxt "684_Tsutsukubo"
+msgid "Well, I guess he's not that far off. Anyway, you ready go at it?"
+msgstr ""
+"Beh, in fondo non ha tutti i torti. Comunque, sei pronto a darci dentro?"
+
+msgctxt "696_Shinada"
+msgid "No, not really. Why's it gotta be me?"
+msgstr "No, non proprio. Perché proprio io?"
+
+msgctxt "708_Tsutsukubo"
+msgid ""
+"The blog said you were the best slugger in Nagoya. Which is bullshit, "
+"because I'm the best."
+msgstr ""
+"Il blog diceva che eri il miglior slugger di Nagoya. Il che è una stronzata,"
+" perché io sono il migliore."
+
+msgctxt "720_Shinada"
+msgid ""
+"Oh, is that how it is? Well, we're both batters. How do you propose we do "
+"this?"
+msgstr "Ah, è così, eh? Beh, siamo entrambi battitori. Come la mettiamo?"
+
+msgctxt "732_Tsutsukubo"
+msgid "Gotta be a home run derby."
+msgstr "Per forza un home run derby."
+
+msgctxt "744_Shinada"
+msgid "Now you're speaking my language."
+msgstr "Ora sì che parli la mia lingua."
+
+msgctxt "768_Arrogant Man"
+msgid ""
+"Okay, how do you wanna settle this? It's not too late, you know. You can "
+"still get down on your knees and beg forgiveness."
+msgstr ""
+"Allora, come la mettiamo? Non è troppo tardi, lo sai. Puoi ancora metterti "
+"in ginocchio e implorare perdono."
+
+msgctxt "780_Shinada"
+msgid "Yeah, like that'll ever happen."
+msgstr "Sì, come no."
+
+msgctxt "792_Sinister Man"
+msgid ""
+"Hehehe, is that right? You should be worrying about yourself, and not some "
+"cheapshit bat!"
+msgstr ""
+"Hehehe, è così, eh? Dovresti preoccuparti di te stesso, e non di qualche "
+"mazza del cazzo!"

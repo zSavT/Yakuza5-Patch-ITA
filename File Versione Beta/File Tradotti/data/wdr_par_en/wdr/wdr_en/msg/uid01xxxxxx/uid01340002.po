@@ -1,0 +1,437 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "16680"
+msgid "Staff"
+msgstr "Staff"
+
+msgctxt "16684"
+msgid "M_SHP_TLK_stand_ojigi"
+msgstr "M_SHP_TLK_stand_ojigi"
+
+msgctxt "16688"
+msgid "Visit"
+msgstr "Visita"
+
+msgctxt "16692"
+msgid "Leave"
+msgstr "Andarsene"
+
+msgctxt "16696"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "16700"
+msgid "M_SHP_TLK_stand_quest"
+msgstr "M_SHP_TLK_stand_quest"
+
+msgctxt "16704"
+msgid "Himura"
+msgstr "Himura"
+
+msgctxt "16708"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "16712"
+msgid "Stay Longer"
+msgstr "Resta ancora"
+
+msgctxt "16716"
+msgid "The Snow Festival"
+msgstr "Il Festival della Neve"
+
+msgctxt "16720"
+msgid "Hokkaido"
+msgstr "Hokkaido"
+
+msgctxt "16724"
+msgid "Girls with Big Breasts"
+msgstr "Ragazze con il seno grande"
+
+msgctxt "16728"
+msgid "The Curry Soup Breakfast Diet"
+msgstr "La dieta della zuppa di curry a colazione"
+
+msgctxt "16732"
+msgid "Uni Season in July"
+msgstr "La stagione dei ricci a luglio"
+
+msgctxt "16736"
+msgid "Why White Chocolate is White"
+msgstr "Perché il cioccolato bianco è bianco"
+
+msgctxt "16740"
+msgid "Hot Water Bottles, Cold Days"
+msgstr "Borse dell'acqua calda, giorni freddi"
+
+msgctxt "16744"
+msgid "New Year's Food in Hokkaido"
+msgstr "Cibo di Capodanno a Hokkaido"
+
+msgctxt "16748"
+msgid "Nothing"
+msgstr "Niente"
+
+msgctxt "16752"
+msgid "Her Interests"
+msgstr "I suoi interessi"
+
+msgctxt "16756"
+msgid "Her Hobbies"
+msgstr "I suoi hobby"
+
+msgctxt "16760"
+msgid "Her Thoughts on Romance"
+msgstr "Cosa pensa dell'amore"
+
+msgctxt "16764"
+msgid "About Herself"
+msgstr "Su di lei"
+
+msgctxt "16768"
+msgid "TMI"
+msgstr "Troppe informazioni"
+
+msgctxt "16772"
+msgid "Order Something"
+msgstr "Ordina qualcosa"
+
+msgctxt "16776"
+msgid "Don't Order"
+msgstr "Non ordinare nulla"
+
+msgctxt "16780"
+msgid "Ask Her Out"
+msgstr "Chiedile di uscire"
+
+msgctxt "16784"
+msgid "Not Yet"
+msgstr "Non ancora"
+
+msgctxt "16788"
+msgid "Go Home"
+msgstr "Torna a casa"
+
+msgctxt "16792"
+msgid "M_NML_TLK_stand_call"
+msgstr "M_NML_TLK_stand_call"
+
+msgctxt "16796"
+msgid "M_SHP_TLK_stand_yes"
+msgstr "M_SHP_TLK_stand_yes"
+
+msgctxt "332_Staff"
+msgid "Hello. Welcome to Rose Hip."
+msgstr "Salve. Benvenuto al Rose Hip."
+
+msgctxt "344_Staff"
+msgid ""
+"Our establishment has an 8,400 yen minimum, along with a 3,150 yen cover "
+"charge. Requesting a specific hostess incurs another 3,150 yen fee."
+msgstr ""
+"Il nostro locale prevede una spesa minima di 8.400 yen, oltre a una quota "
+"d'ingresso di 3.150 yen. La scelta di una hostess specifica comporta un "
+"ulteriore costo di 3.150 yen."
+
+msgctxt "368_Staff"
+msgid "Would you like to join us today?"
+msgstr "Le va di fermarsi da noi oggi?"
+
+msgctxt "392_Staff"
+msgid "I'll find you a hostess then. This way, sir."
+msgstr "Allora le cerco subito una hostess. Da questa parte, signore."
+
+msgctxt "404_Staff"
+msgid "You'd like to see Kaguya-san? This way, sir."
+msgstr "Desidera vedere Kaguya-san? Da questa parte, signore."
+
+msgctxt "416_Staff"
+msgid "I see. We hope you'll come by again, sir."
+msgstr "Capisco. Speriamo che tornerà a trovarci, signore."
+
+msgctxt "428_Staff"
+msgid ""
+"I'm terribly sorry, sir, but Kaguya isn't here at the moment, I'm afraid."
+msgstr ""
+"Sono davvero spiacente, signore, ma temo che Kaguya non sia qui al momento."
+
+msgctxt "440_Player"
+msgid "Okay. I'll come back later."
+msgstr "Va bene. Ripasserò più tardi."
+
+msgctxt "452_Staff"
+msgid "We look forward to your next visit, sir."
+msgstr "La aspettiamo per la sua prossima visita, signore."
+
+msgctxt "464_Player"
+msgid "(Damn. Don't have enough money.)"
+msgstr "(Maledizione. Non ho abbastanza soldi.)"
+
+msgctxt "476_Player"
+msgid "Actually..."
+msgstr "In realtà..."
+
+msgctxt "488_Staff"
+msgid "Is something the matter?"
+msgstr "C'è qualcosa che non va?"
+
+msgctxt "500_Player"
+msgid "Sorry. I'll hafta come back later."
+msgstr "Scusa. Dovrò ripassare più tardi."
+
+msgctxt "512_Player"
+msgid "(I'm gonna need at least 15,000 yen.)"
+msgstr "(Mi serviranno almeno 15.000 yen.)"
+
+msgctxt "524_Staff"
+msgid "Your check, sir."
+msgstr "Ecco il conto, signore."
+
+msgctxt "536_Staff"
+msgid "Thank you very much."
+msgstr "Grazie mille."
+
+msgctxt "572_Staff"
+msgid ""
+"You're coming up on your time limit, sir. Would you care for an extension?"
+msgstr "Il suo tempo sta per scadere, signore. Desidera un prolungamento?"
+
+msgctxt "584_Himura"
+msgid ""
+"Kaguya-chan's already agreed to go out with you, so shouldn't you be heading"
+" out about now?"
+msgstr ""
+"Kaguya-chan ha già accettato di uscire con te, quindi non dovresti andare "
+"proprio adesso?"
+
+msgctxt "596_Saejima"
+msgid "Oh yeah."
+msgstr "Oh sì."
+
+msgctxt "608_Saejima"
+msgid "No thanks. I gotta go."
+msgstr "No grazie. Devo andare."
+
+msgctxt "620_Staff"
+msgid "Understood, sir."
+msgstr "Capito, signore."
+
+msgctxt "668_Staff"
+msgid ""
+"You're coming up on your time limit, sir. Would you care for an extension?"
+msgstr "Il suo tempo sta per scadere, signore. Desidera un prolungamento?"
+
+msgctxt "680_Staff"
+msgid "Very well, then. Enjoy the rest of your stay."
+msgstr "Molto bene, allora. Si goda il resto della serata."
+
+msgctxt "692_Staff"
+msgid "Understood, sir."
+msgstr "Capito, signore."
+
+msgctxt "704_Staff"
+msgid ""
+"You're coming up on your time limit, sir. Would you care for an extension?"
+msgstr "Il suo tempo sta per scadere, signore. Desidera un prolungamento?"
+
+msgctxt "728_Himura"
+msgid ""
+"You can't bail now, Saejima-san! You need to ask her out on an after hours "
+"date!"
+msgstr ""
+"Non puoi mica tirarti indietro adesso, Saejima-san! Devi chiederle di uscire"
+" per un appuntamento dopolavoro!"
+
+msgctxt "740_Saejima"
+msgid "(Guess I gotta...)"
+msgstr "(Mi sa che mi tocca...)"
+
+msgctxt "752_Saejima"
+msgid "Gimme an extension."
+msgstr "Vada per il prolungamento."
+
+msgctxt "764_Staff"
+msgid "Very well, then. Enjoy the rest of your stay."
+msgstr "Molto bene, allora. Si goda il resto della serata."
+
+msgctxt "776_Staff"
+msgid ""
+"You're coming up on your time limit, sir. Would you care for an extension?"
+msgstr "Il suo tempo sta per scadere, signore. Desidera un prolungamento?"
+
+msgctxt "788_Player"
+msgid "(Gah... Can't afford an extension.)"
+msgstr "(Gah... Non posso permettermi un prolungamento.)"
+
+msgctxt "800_Player"
+msgid "Nah, I'm goin'."
+msgstr "Nah, me ne vado."
+
+msgctxt "812_Staff"
+msgid "Understood, sir."
+msgstr "Capito, signore."
+
+msgctxt "824_Player"
+msgid "(Should I talk about somethin' else?)"
+msgstr "(Dovrei parlare di qualcos'altro?)"
+
+msgctxt "836_Player"
+msgid "(Maybe I oughta ask a question.)"
+msgstr "(Forse dovrei farle una domanda.)"
+
+msgctxt "848_Player"
+msgid "(Maybe I oughta order somethin'.)"
+msgstr "(Forse dovrei ordinare qualcosa.)"
+
+msgctxt "860_Player"
+msgid "(Should I give her a present?)"
+msgstr "(Dovrei darle un regalo?)"
+
+msgctxt "872_Player"
+msgid "(Should I ask her out on a date?)"
+msgstr "(Dovrei chiederle di uscire?)"
+
+msgctxt "884_Player"
+msgid "(Maybe I oughta go.)"
+msgstr "(Forse dovrei andare.)"
+
+msgctxt "896_Player"
+msgid "(What should I talk about?)"
+msgstr "(Di cosa dovrei parlare?)"
+
+msgctxt "1160_Player"
+msgid "(What should I ask about?)"
+msgstr "(Di cosa dovrei chiederle?)"
+
+msgctxt "1244_Player"
+msgid "(What should I do?)"
+msgstr "(Che faccio?)"
+
+msgctxt "1328_Player"
+msgid "(She already said yes. I don't needa push it.)"
+msgstr "(Ha già detto di sì. Non serve insistere.)"
+
+msgctxt "1340_Player"
+msgid ""
+"(She already turned me down once. I oughta back down for now and try some "
+"other time.)"
+msgstr ""
+"(Mi ha già rifiutato una volta. Farò meglio a lasciar perdere per ora e a "
+"riprovarci un'altra volta.)"
+
+msgctxt "1352_Player"
+msgid "(What should I do?)"
+msgstr "(Che faccio?)"
+
+msgctxt "1388_Player"
+msgid "(What should I do?)"
+msgstr "(Che faccio?)"
+
+msgctxt "1424_Staff"
+msgid "Hello. Welcome to Rose Hip."
+msgstr "Salve. Benvenuto al Rose Hip."
+
+msgctxt "1436_Staff"
+msgid ""
+"Our establishment has an 8,400 yen minimum, along with a 3,150 yen cover "
+"charge. Requesting a specific hostess incurs another 3,150 yen fee."
+msgstr ""
+"Il nostro locale prevede una tariffa minima di 8.400 yen, oltre a un "
+"supplemento di 3.150 yen. La scelta di una hostess specifica comporta un "
+"ulteriore addebito di 3.150 yen."
+
+msgctxt "1448_Staff"
+msgid "Would you like to join us today?"
+msgstr "Le andrebbe di fermarsi da noi oggi?"
+
+msgctxt "1460_Himura"
+msgid ""
+"Oh yeah! We are loaded today, buddy! Let us see your most popular girl!"
+msgstr ""
+"Oh sì! Oggi siamo carichi di grana, amico! Facci vedere la vostra ragazza "
+"più richiesta!"
+
+msgctxt "1472_Staff"
+msgid "Understood, sir."
+msgstr "Capito, signore."
+
+msgctxt "1484_Himura"
+msgid ""
+"That there was my fancy way of asking the club to bring us their girl, "
+"Kaguya-chan."
+msgstr ""
+"Quello era il mio modo ricercato per chiedere al locale di portarci la loro "
+"ragazza, Kaguya-chan."
+
+msgctxt "1508_Himura"
+msgid ""
+"Saejima-san, if you make the girl do all the talking, she's going to think "
+"you're boring."
+msgstr ""
+"Saejima-san, se lasci che sia sempre la ragazza a parlare, finirà per "
+"pensare che sei noioso."
+
+msgctxt "1520_Player"
+msgid "What do I do then?"
+msgstr "E allora cosa dovrei fare?"
+
+msgctxt "1532_Himura"
+msgid ""
+"Sometimes you should be the one to bring up a topic to talk about. Or maybe "
+"you can try ordering something else."
+msgstr ""
+"A volte dovresti essere tu a tirare fuori un argomento di cui parlare. O "
+"magari potresti provare a ordinare qualcos'altro."
+
+msgctxt "1544_Himura"
+msgid "Maybe start by asking her on a date!"
+msgstr "Magari comincia col chiederle di uscire!"
+
+msgctxt "1556_Player"
+msgid "Say what now? That's kind of a big thing to start with."
+msgstr ""
+"Dici sul serio? Mi sembra un passo un po' troppo grosso per cominciare."
+
+msgctxt "1568_Himura"
+msgid "What are you talking about? No guts, no glory!"
+msgstr "Ma che stai dicendo? Chi non risica non rosica!"
+
+msgctxt "1580_Player"
+msgid "Ah, well. Guess I'll give it a shot."
+msgstr "Ah, beh. Vedrò di farci un tentativo."
+
+msgctxt "1592_Himura"
+msgid "Now be sure and try lots of different things!"
+msgstr "Ora vedi di provare un sacco di cose diverse, mi raccomando!"
+
+msgctxt "1604_Himura"
+msgid "You can't leave yet, man!"
+msgstr "Non puoi ancora andartene, amico!"
+
+msgctxt "1616_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "1628_Player"
+msgid "(Okay, how to start...)"
+msgstr "(Ok, come inizio...)"
+
+msgctxt "1640_Himura"
+msgid "Start by asking her on a date! I'm sure she'll go for it!"
+msgstr "Comincia col chiederle di uscire! Sono sicuro che ci starà!"
+
+msgctxt "1652_Player"
+msgid "......"
+msgstr "......"

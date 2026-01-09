@@ -1,0 +1,1127 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "584"
+msgid ""
+"<Color:8>\r\n"
+"<Color:Default>"
+msgstr ""
+"<Color:8>\n"
+"<Color:Default>"
+
+msgctxt "704"
+msgid ""
+"<Color:8>\r\n"
+"<Color:Default>"
+msgstr ""
+"<Color:8>\n"
+"<Color:Default>"
+
+msgctxt "45532"
+msgid "Honoka"
+msgstr "Honoka"
+
+msgctxt "45536"
+msgid "cab_honoka_a_01/honoka_36_0001"
+msgstr "cab_honoka_a_01/honoka_36_0001"
+
+msgctxt "45540"
+msgid "F_cab_stand_tlk_ojigi_01"
+msgstr "F_cab_stand_tlk_ojigi_01"
+
+msgctxt "45544"
+msgid "cab_honoka_a_01/honoka_36_0006"
+msgstr "cab_honoka_a_01/honoka_36_0006"
+
+msgctxt "45548"
+msgid "F_cab_stand_tlk_ojigi_02"
+msgstr "F_cab_stand_tlk_ojigi_02"
+
+msgctxt "45552"
+msgid "cab_honoka_a_01/honoka_36_0007"
+msgstr "cab_honoka_a_01/honoka_36_0007"
+
+msgctxt "45556"
+msgid "F_cab_stand_tlk_byeA"
+msgstr "F_cab_stand_tlk_byeA"
+
+msgctxt "45560"
+msgid "cab_honoka_a_01/honoka_36_0008"
+msgstr "cab_honoka_a_01/honoka_36_0008"
+
+msgctxt "45564"
+msgid "cab_honoka_a_01/honoka_36_0002"
+msgstr "cab_honoka_a_01/honoka_36_0002"
+
+msgctxt "45568"
+msgid "cab_honoka_a_01/honoka_36_0003"
+msgstr "cab_honoka_a_01/honoka_36_0003"
+
+msgctxt "45572"
+msgid "2d_mr_meishi_honoka00"
+msgstr "2d_mr_meishi_honoka00"
+
+msgctxt "45576"
+msgid "cab_honoka_a_01/honoka_36_0004"
+msgstr "cab_honoka_a_01/honoka_36_0004"
+
+msgctxt "45580"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "45584"
+msgid "cab_honoka_a_01/honoka_36_0005"
+msgstr "cab_honoka_a_01/honoka_36_0005"
+
+msgctxt "45588"
+msgid "cab_honoka_a_01/honoka_36_0009"
+msgstr "cab_honoka_a_01/honoka_36_0009"
+
+msgctxt "45592"
+msgid "2d_mr_meishi_honoka01"
+msgstr "2d_mr_meishi_honoka01"
+
+msgctxt "45596"
+msgid "cab_honoka_a_01/honoka_36_0010"
+msgstr "cab_honoka_a_01/honoka_36_0010"
+
+msgctxt "45600"
+msgid "F_cab_sitsofa_tlk_tereruA"
+msgstr "F_cab_sitsofa_tlk_tereruA"
+
+msgctxt "45604"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr "F_cab_sitsofa_tlk_noA"
+
+msgctxt "45608"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr "F_cab_sitsofa_tlk_suprise"
+
+msgctxt "45612"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "45616"
+msgid "P_sitsofaR_tlk_yes"
+msgstr "P_sitsofaR_tlk_yes"
+
+msgctxt "45620"
+msgid "F_cab_sitsofa_sync_order"
+msgstr "F_cab_sitsofa_sync_order"
+
+msgctxt "45624"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr "F_cab_sitsofa_tlk_yes"
+
+msgctxt "45628"
+msgid "Not at all."
+msgstr "Niente affatto."
+
+msgctxt "45632"
+msgid "Sorry, no."
+msgstr "Spiacente, no."
+
+msgctxt "45636"
+msgid "cab_honoka_a_01/honoka_36_0011"
+msgstr "cab_honoka_a_01/honoka_36_0011"
+
+msgctxt "45640"
+msgid "cab_honoka_a_01/honoka_36_0012"
+msgstr "cab_honoka_a_01/honoka_36_0012"
+
+msgctxt "45644"
+msgid "cab_honoka_f_01/honoka_35_0007"
+msgstr "cab_honoka_f_01/honoka_35_0007"
+
+msgctxt "45648"
+msgid "cab_honoka_f_01/honoka_35_0009"
+msgstr "cab_honoka_f_01/honoka_35_0009"
+
+msgctxt "45652"
+msgid "cab_honoka_f_01/honoka_35_0008"
+msgstr "cab_honoka_f_01/honoka_35_0008"
+
+msgctxt "45656"
+msgid "cab_honoka_f_01/honoka_35_0010"
+msgstr "cab_honoka_f_01/honoka_35_0010"
+
+msgctxt "45660"
+msgid "cab_honoka_f_01/honoka_35_0012"
+msgstr "cab_honoka_f_01/honoka_35_0012"
+
+msgctxt "45664"
+msgid "cab_honoka_f_01/honoka_35_0011"
+msgstr "cab_honoka_f_01/honoka_35_0011"
+
+msgctxt "45668"
+msgid "cab_honoka_f_01/honoka_35_0013"
+msgstr "cab_honoka_f_01/honoka_35_0013"
+
+msgctxt "45672"
+msgid "cab_honoka_f_01/honoka_35_0001"
+msgstr "cab_honoka_f_01/honoka_35_0001"
+
+msgctxt "45676"
+msgid "cab_honoka_f_01/honoka_35_0006"
+msgstr "cab_honoka_f_01/honoka_35_0006"
+
+msgctxt "45680"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr "F_cab_sitsofa_tlk_happy"
+
+msgctxt "45684"
+msgid "cab_honoka_f_01/honoka_35_0005"
+msgstr "cab_honoka_f_01/honoka_35_0005"
+
+msgctxt "45688"
+msgid "cab_honoka_f_01/honoka_35_0004"
+msgstr "cab_honoka_f_01/honoka_35_0004"
+
+msgctxt "45692"
+msgid "cab_honoka_f_01/honoka_35_0003"
+msgstr "cab_honoka_f_01/honoka_35_0003"
+
+msgctxt "45696"
+msgid "cab_honoka_f_01/honoka_35_0002"
+msgstr "cab_honoka_f_01/honoka_35_0002"
+
+msgctxt "45700"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr "F_cab_sitsofa_tlk_angry"
+
+msgctxt "45704"
+msgid "cab_honoka_a_01/honoka_36_0013"
+msgstr "cab_honoka_a_01/honoka_36_0013"
+
+msgctxt "45708"
+msgid "F_cab_stand_tlk_byeB"
+msgstr "F_cab_stand_tlk_byeB"
+
+msgctxt "45712"
+msgid "P_AKI_TLK_stand_yes"
+msgstr "P_AKI_TLK_stand_yes"
+
+msgctxt "45716"
+msgid "cab_honoka_a_01/honoka_36_0014"
+msgstr "cab_honoka_a_01/honoka_36_0014"
+
+msgctxt "45720"
+msgid "F_cab_stand_sp13_sync_yubi_st"
+msgstr "F_cab_stand_sp13_sync_yubi_st"
+
+msgctxt "45724"
+msgid "P_stand_sp13_sync_yubi_st"
+msgstr "P_stand_sp13_sync_yubi_st"
+
+msgctxt "45728"
+msgid "cab_honoka_a_01/honoka_36_0016"
+msgstr "cab_honoka_a_01/honoka_36_0016"
+
+msgctxt "45732"
+msgid "F_cab_stand_sp13_sync_yubi_ed"
+msgstr "F_cab_stand_sp13_sync_yubi_ed"
+
+msgctxt "45736"
+msgid "P_stand_sp13_sync_yubi_ed"
+msgstr "P_stand_sp13_sync_yubi_ed"
+
+msgctxt "45740"
+msgid "F_cab_stand_sp14_sync_hoho_st"
+msgstr "F_cab_stand_sp14_sync_hoho_st"
+
+msgctxt "45744"
+msgid "P_stand_sp14_sync_hoho_st"
+msgstr "P_stand_sp14_sync_hoho_st"
+
+msgctxt "45748"
+msgid "cab_honoka_a_01/honoka_36_0015"
+msgstr "cab_honoka_a_01/honoka_36_0015"
+
+msgctxt "45752"
+msgid "F_cab_stand_sp14_sync_hoho_ed"
+msgstr "F_cab_stand_sp14_sync_hoho_ed"
+
+msgctxt "45756"
+msgid "P_stand_sp14_sync_hoho_ed"
+msgstr "P_stand_sp14_sync_hoho_ed"
+
+msgctxt "45760"
+msgid "F_cab_stand_sync_dakiA_st"
+msgstr "F_cab_stand_sync_dakiA_st"
+
+msgctxt "45764"
+msgid "P_stand_sync_dakiA_st"
+msgstr "P_stand_sync_dakiA_st"
+
+msgctxt "45768"
+msgid "cab_honoka_a_01/honoka_36_0017"
+msgstr "cab_honoka_a_01/honoka_36_0017"
+
+msgctxt "45772"
+msgid "F_cab_stand_sync_dakiA_ed"
+msgstr "F_cab_stand_sync_dakiA_ed"
+
+msgctxt "45776"
+msgid "P_stand_sync_dakiA_ed"
+msgstr "P_stand_sync_dakiA_ed"
+
+msgctxt "45780"
+msgid "F_cab_stand_sp11_sync_mimi_st"
+msgstr "F_cab_stand_sp11_sync_mimi_st"
+
+msgctxt "45784"
+msgid "P_stand_sp11_sync_mimi_st"
+msgstr "P_stand_sp11_sync_mimi_st"
+
+msgctxt "45788"
+msgid "cab_honoka_a_01/honoka_36_0018"
+msgstr "cab_honoka_a_01/honoka_36_0018"
+
+msgctxt "45792"
+msgid "F_cab_stand_sp11_sync_mimi_ed"
+msgstr "F_cab_stand_sp11_sync_mimi_ed"
+
+msgctxt "45796"
+msgid "P_stand_sp11_sync_mimi_ed"
+msgstr "P_stand_sp11_sync_mimi_ed"
+
+msgctxt "45800"
+msgid "P_sitsofaR_tlk_gacha"
+msgstr "P_sitsofaR_tlk_gacha"
+
+msgctxt "488_Honoka"
+msgid "Hello there."
+msgstr "Ehilà."
+
+msgctxt "500_Honoka"
+msgid "Akiyama-san, welcome! I'm super happy that ya decided to request me!"
+msgstr ""
+"Akiyama-san, benvenuto! Sono felicissima che tu abbia deciso di chiedere di "
+"me!"
+
+msgctxt "512_Honoka"
+msgid "Did ya come to see me? I gotta wonder if ya might be fallin' for me!"
+msgstr ""
+"Sei venuto a trovarmi? Mi chiedo se per caso non ti stia innamorando di me!"
+
+msgctxt "524_Honoka"
+msgid "I've been waitin' for ya, Akiyama-san! Today's gonna be a lotta fun!"
+msgstr "Ti stavo aspettando, Akiyama-san! Oggi ci divertiremo un sacco!"
+
+msgctxt "560_Honoka"
+msgid "Nice to meet you. My name's Honoka!"
+msgstr "Piacere di conoscerti. Mi chiamo Honoka!"
+
+msgctxt "572_Honoka"
+msgid ""
+"Here, this is my business card. <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Ecco, questo è il mio biglietto da visita. "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "608_Honoka"
+msgid "You got Honoka's business card."
+msgstr "Hai preso il biglietto da visita di Honoka."
+
+msgctxt "644_Honoka"
+msgid "And what's your name, sir?"
+msgstr "E lei come si chiama, signore?"
+
+msgctxt "656_Akiyama"
+msgid "Shun Akiyama."
+msgstr "Shun Akiyama."
+
+msgctxt "668_Honoka"
+msgid "It's a pleasure to meet ya, Akiyama-san!"
+msgstr "È un piacere conoscerti, Akiyama-san!"
+
+msgctxt "680_Akiyama"
+msgid "Likewise."
+msgstr "Altrettanto."
+
+msgctxt "692_Honoka"
+msgid "Thanks again for comin'!"
+msgstr "Grazie ancora per essere venuto!"
+
+msgctxt "728_Honoka"
+msgid "You got Honoka's business card."
+msgstr "Hai preso il biglietto da visita di Honoka."
+
+msgctxt "752_Honoka"
+msgid "Just for you, Akiyama-san!"
+msgstr "Solo per te, Akiyama-san!"
+
+msgctxt "800_Honoka"
+msgid "You smell nice, Akiyama-san. Ya wearin' cologne?"
+msgstr "Hai un buon profumo, Akiyama-san. Ti sei messo la colonia?"
+
+msgctxt "812_Honoka"
+msgid ""
+"Someone's lookin' good! I like how that outfit looks on ya! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Qualcuno è proprio un figurino! Mi piace un sacco come ti sta quel completo!"
+" <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "824_Honoka"
+msgid "You're lookin' nice today! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Oggi sei proprio un figurino! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "836_Honoka"
+msgid "Wearin' the usual again, Akiyama-san?"
+msgstr "Indossi di nuovo il solito completo, Akiyama-san?"
+
+msgctxt "848_Honoka"
+msgid "Sorry, but that getup ain't so hot."
+msgstr "Scusa, ma quel completo non è un granché."
+
+msgctxt "860_Honoka"
+msgid "Ah, no way! I think I'd straight-up kill myself if I had to wear that."
+msgstr ""
+"Ah, non ci credo! Penso proprio che mi ammazzerei seduta stante se dovessi "
+"mettermi quella roba."
+
+msgctxt "896_Honoka"
+msgid "This is an error."
+msgstr "Questo è un errore."
+
+msgctxt "908_Honoka"
+msgid "What'll it be?"
+msgstr "Cosa prendete?"
+
+msgctxt "932_Player"
+msgid "I'll have this."
+msgstr "Prendo questo."
+
+msgctxt "944_Honoka"
+msgid "For real!? You're so generous, Akiyama-san!"
+msgstr "Dici sul serio!? Sei così generoso, Akiyama-san!"
+
+msgctxt "956_Honoka"
+msgid "Oh? Really?"
+msgstr "Oh? Davvero?"
+
+msgctxt "968_Honoka"
+msgid "Gold champagne, please!"
+msgstr "Uno Champagne Gold, per favore!"
+
+msgctxt "980_Honoka"
+msgid "Gonna try yer luck, huh?"
+msgstr "Vuoi tentare la fortuna, eh?"
+
+msgctxt "992_Honoka"
+msgid "Oh? Really?"
+msgstr "Oh? Davvero?"
+
+msgctxt "1004_Honoka"
+msgid "All right. We'll keep your bottle for ya, Akiyama-san."
+msgstr "D'accordo. Ti terremo da parte la bottiglia, Akiyama-san."
+
+msgctxt "1016_Honoka"
+msgid "One bottle for storage!"
+msgstr "Una bottiglia da mettere da parte!"
+
+msgctxt "1028_Honoka"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "1040_Honoka"
+msgid "All right. A house bottle it is."
+msgstr "D'accordo. Vada per la bottiglia della casa."
+
+msgctxt "1136_Player"
+msgid "I'd like you to bring me my bottle."
+msgstr "Vorrei che mi portassi la mia bottiglia."
+
+msgctxt "1148_Honoka"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "1172_Honoka"
+msgid "Mind if I have some?"
+msgstr "Ti dispiace se ne prendo un po'?"
+
+msgctxt "1184_Honoka"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "1196_Honoka"
+msgid "Oh, sorry."
+msgstr "Oh, scusa."
+
+msgctxt "1208_Honoka"
+msgid "Mind if I have some?"
+msgstr "Ti dispiace se ne prendo un po'?"
+
+msgctxt "1220_Honoka"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "1232_Honoka"
+msgid "Oh, sorry."
+msgstr "Oh, scusa."
+
+msgctxt "1244_Honoka"
+msgid "Your glass is empty. Whaddya want next?"
+msgstr "Il tuo bicchiere è vuoto. Che cosa ti porto adesso?"
+
+msgctxt "1268_Player"
+msgid "I'll have this."
+msgstr "Prendo questo."
+
+msgctxt "1280_Honoka"
+msgid "For real!? You're so generous, Akiyama-san!"
+msgstr "Dici sul serio!? Sei proprio generoso, Akiyama-san!"
+
+msgctxt "1292_Honoka"
+msgid "Oh? Really?"
+msgstr "Oh? Davvero?"
+
+msgctxt "1304_Honoka"
+msgid "Gold champagne, please!"
+msgstr "Champagne Gold, per favore!"
+
+msgctxt "1316_Honoka"
+msgid "Gonna try yer luck, huh?"
+msgstr "Vuoi tentare la fortuna, eh?"
+
+msgctxt "1328_Honoka"
+msgid "Oh? Really?"
+msgstr "Oh? Davvero?"
+
+msgctxt "1340_Honoka"
+msgid "All right. We'll keep your bottle for ya, Akiyama-san."
+msgstr "Va bene. Terremo la tua bottiglia per te, Akiyama-san."
+
+msgctxt "1352_Honoka"
+msgid "One bottle for storage!"
+msgstr "Una bottiglia da mettere via!"
+
+msgctxt "1364_Honoka"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "1376_Honoka"
+msgid "All right. A house bottle it is."
+msgstr "Va bene. Vada per la bottiglia della casa."
+
+msgctxt "1484_Honoka"
+msgid "Mind if I have a glass, too?"
+msgstr "Ti dispiace se ne prendo un bicchiere anch'io?"
+
+msgctxt "1496_Player"
+msgid "(Damn, I don't have the money.)"
+msgstr "(Dannazione, non ho i soldi.)"
+
+msgctxt "1508_Player"
+msgid "Sorry, no."
+msgstr "No, mi spiace."
+
+msgctxt "1520_Honoka"
+msgid "Mind if I have a glass, too?"
+msgstr "Ti dispiace se ne prendo un bicchiere anch'io?"
+
+msgctxt "1532_Honoka"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "1544_F_cab_sitsofa_sync_order"
+msgid "Much obliged!"
+msgstr "Grazie mille!"
+
+msgctxt "1556_Honoka"
+msgid "Oh, sorry."
+msgstr "Oh, scusa."
+
+msgctxt "1568_Honoka"
+msgid "Mind if I have a glass, too?"
+msgstr "Ti dispiace se ne prendo un bicchiere anch'io?"
+
+msgctxt "1580_Honoka"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "1592_Honoka"
+msgid "Oh, sorry."
+msgstr "Oh, scusa."
+
+msgctxt "1604_Player"
+msgid "I'm kinda hungry."
+msgstr "Ho un po' di fame."
+
+msgctxt "1616_Honoka"
+msgid "What'll it be?"
+msgstr "Cosa prendete?"
+
+msgctxt "1640_Player"
+msgid "I'll have this."
+msgstr "Prendo questo."
+
+msgctxt "1652_Honoka"
+msgid "Sure thing!"
+msgstr "Certo!"
+
+msgctxt "1664_Honoka"
+msgid "Ooh, ya like that? <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Ooh, ti piace? <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "1676_Honoka"
+msgid "Sure, all right."
+msgstr "Certo, va bene."
+
+msgctxt "1688_Honoka"
+msgid "Ya actually like that? You and me got different tastes."
+msgstr "Ti piace davvero? Abbiamo gusti diversi, io e te."
+
+msgctxt "1700_Honoka"
+msgid "If ya want somethin', just speak up."
+msgstr "Se vuoi qualcosa, dillo pure."
+
+msgctxt "1736_Honoka"
+msgid "Hey, wanna play the chocolate stick game?"
+msgstr "Ehi, ti va di fare il gioco dei bastoncini di cioccolato?"
+
+msgctxt "1748_Player"
+msgid "Sure, that sounds fun."
+msgstr "Certo, sembra divertente."
+
+msgctxt "1784_Honoka"
+msgid "Here, lemme feed it to ya! <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Tieni, lascia che ti imbocchi io! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "1796_Player"
+msgid "Oh, really?"
+msgstr "Oh, davvero?"
+
+msgctxt "1892_Honoka"
+msgid "Excuse me!"
+msgstr "Scusi!"
+
+msgctxt "1988_Honoka"
+msgid "Lemme get that for ya."
+msgstr "Lascia che te lo prenda."
+
+msgctxt "2000_Player"
+msgid "Thanks."
+msgstr "Grazie."
+
+msgctxt "2012_Honoka"
+msgid "Here you are!"
+msgstr "Ecco a te!"
+
+msgctxt "2024_Honoka"
+msgid "You're quite the drinker!"
+msgstr "Sei proprio un gran bevitore!"
+
+msgctxt "2036_Player"
+msgid "Thanks."
+msgstr "Grazie."
+
+msgctxt "2048_Honoka"
+msgid "Here you are!"
+msgstr "Ecco a te!"
+
+msgctxt "2060_Honoka"
+msgid "Lemme refill your glass for ya."
+msgstr "Lascia che ti rabbocchi il bicchiere."
+
+msgctxt "2072_Player"
+msgid "Thanks."
+msgstr "Grazie."
+
+msgctxt "2084_Honoka"
+msgid "Here you are!"
+msgstr "Ecco a te!"
+
+msgctxt "2132_Honoka"
+msgid "Cheeeers!"
+msgstr "Saluuute!"
+
+msgctxt "2144_Honoka"
+msgid "Thanks for comin'! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Grazie per essere venuto! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "2156_Player"
+msgid "I have to be going."
+msgstr "Devo andare."
+
+msgctxt "2180_Honoka"
+msgid "Why don't ya kill time somewhere? I'll give ya a call later."
+msgstr "Perché non ammazzi il tempo da qualche parte? Ti chiamo più tardi."
+
+msgctxt "2192_Player"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "2216_Honoka"
+msgid "All right. Let me get ya your bill."
+msgstr "Va bene. Ti porto il conto."
+
+msgctxt "2228_Honoka"
+msgid "Check, please!"
+msgstr "Il conto, per favore!"
+
+msgctxt "2240_Honoka"
+msgid "You're leavin' already?"
+msgstr "Te ne vai già?"
+
+msgctxt "2252_Player"
+msgid "Yeah..."
+msgstr "Già..."
+
+msgctxt "2264_Honoka"
+msgid "Check, please!"
+msgstr "Il conto, per favore!"
+
+msgctxt "2276_Honoka"
+msgid "Your glass is empty. What do ya want next?"
+msgstr "Hai il bicchiere vuoto. Cosa prendi adesso?"
+
+msgctxt "2288_Player"
+msgid "(Oops, I don't have the money.)"
+msgstr "(Ops, non ho i soldi.)"
+
+msgctxt "2300_Player"
+msgid "I should actually get going."
+msgstr "In realtà dovrei proprio andare."
+
+msgctxt "2312_Honoka"
+msgid "You're leavin' already?"
+msgstr "Te ne vai già?"
+
+msgctxt "2324_Player"
+msgid "Yeah..."
+msgstr "Già..."
+
+msgctxt "2336_Honoka"
+msgid "Check, please!"
+msgstr "Il conto, per favore!"
+
+msgctxt "2348_Honoka"
+msgid "Mind if I have another glass?"
+msgstr "Ti dispiace se ne prendo un altro?"
+
+msgctxt "2360_Player"
+msgid "(Oops, I don't have the money.)"
+msgstr "(Ops, non ho i soldi.)"
+
+msgctxt "2372_Player"
+msgid "I should actually get going."
+msgstr "In realtà dovrei proprio andare."
+
+msgctxt "2384_Honoka"
+msgid "You're leavin' already?"
+msgstr "Te ne vai già?"
+
+msgctxt "2396_Player"
+msgid "Yeah..."
+msgstr "Già..."
+
+msgctxt "2408_Honoka"
+msgid "Check, please!"
+msgstr "Il conto, per favore!"
+
+msgctxt "2420_Honoka"
+msgid "......"
+msgstr "......"
+
+msgctxt "2432_Player"
+msgid "(Guess I've run out of stuff to talk about. I should be on my way.)"
+msgstr ""
+"(Mi sa che ho finito gli argomenti di cui parlare. Farei meglio ad andare.)"
+
+msgctxt "2444_Player"
+msgid "I have to get going."
+msgstr "Devo andare."
+
+msgctxt "2456_Honoka"
+msgid "You're leavin' already?"
+msgstr "Te ne vai già?"
+
+msgctxt "2468_Player"
+msgid "Yeah..."
+msgstr "Già..."
+
+msgctxt "2480_Honoka"
+msgid "Check, please!"
+msgstr "Il conto, per favore!"
+
+msgctxt "2492_Player"
+msgid "Want to go out after this?"
+msgstr "Ti va di uscire dopo?"
+
+msgctxt "2516_Honoka"
+msgid "I already told ya no. Yeesh, you're persistent."
+msgstr "Te l'ho già detto di no. Mamma mia, quanto sei insistente."
+
+msgctxt "2528_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "2540_Honoka"
+msgid "Nuh-uh! Ya can ask all ya want, but no means no!"
+msgstr "Scordatelo! Puoi chiedermelo quanto vuoi, ma no vuol dire no!"
+
+msgctxt "2552_Player"
+msgid "No go, huh?"
+msgstr "Niente da fare, eh?"
+
+msgctxt "2564_Honoka"
+msgid "After this?"
+msgstr "Dopo?"
+
+msgctxt "2588_Honoka"
+msgid "Oh, I've already got other plans today. But ask me again next time."
+msgstr ""
+"Oh, ho già altri impegni per oggi. Ma chiedimelo di nuovo la prossima volta."
+
+msgctxt "2600_Player"
+msgid "That's too bad. But I understand."
+msgstr "È un peccato. Ma capisco."
+
+msgctxt "2612_Honoka"
+msgid "Today really ain't so great. I'm not really in the mood."
+msgstr "Oggi non è proprio giornata. Non sono proprio in vena."
+
+msgctxt "2624_Player"
+msgid "Okay. Some other time, if you feel like it."
+msgstr "D'accordo. Sarà per un'altra volta, se ne avrai voglia."
+
+msgctxt "2636_Honoka"
+msgid "Maybe after I get to know ya a bit better!"
+msgstr "Magari dopo che ti avrò conosciuto un po' meglio!"
+
+msgctxt "2648_Player"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "2660_Honoka"
+msgid "This is an error."
+msgstr "Questo è un errore."
+
+msgctxt "2672_Player"
+msgid "Want to go out after this?"
+msgstr "Ti va di uscire dopo?"
+
+msgctxt "2696_Honoka"
+msgid ""
+"Geez, you're persistent! But I guess it'd be okay to go out for a little "
+"bit. Better than havin' ya pesterin' me all night."
+msgstr ""
+"E dai, quanto sei insistente! Però credo che potrei uscire per un po'. "
+"Meglio che averti qui a darmi il tormento tutta la notte."
+
+msgctxt "2708_Player"
+msgid "Oh, great."
+msgstr "Oh, ottimo."
+
+msgctxt "2720_Honoka"
+msgid ""
+"Ya wanna go out with me that bad, huh? Okay, I can spare a little time."
+msgstr ""
+"Vuoi così tanto uscire con me, eh? Va bene, posso dedicarti un po' di tempo."
+
+msgctxt "2732_Player"
+msgid "Oh, great."
+msgstr "Oh, ottimo."
+
+msgctxt "2744_Honoka"
+msgid "After this?"
+msgstr "Dopo di qui?"
+
+msgctxt "2768_Honoka"
+msgid ""
+"Sure, I've been wantin' to spend more time with ya myself, Akiyama-san!"
+msgstr "Certo, anch'io avevo voglia di passare più tempo con te, Akiyama-san!"
+
+msgctxt "2780_Player"
+msgid "Really now?"
+msgstr "Ma davvero?"
+
+msgctxt "2792_Honoka"
+msgid ""
+"Sure I would! I'd never say no to goin' on a date with you, Akiyama-san!"
+msgstr ""
+"Certo che sì! Non direi mai di no a un appuntamento con te, Akiyama-san!"
+
+msgctxt "2804_Player"
+msgid "That's what I like to hear."
+msgstr "Proprio quello che volevo sentire."
+
+msgctxt "2816_Honoka"
+msgid "Why not? I got some free time!"
+msgstr "Perché no? Ho un po' di tempo libero!"
+
+msgctxt "2828_Player"
+msgid "Really?"
+msgstr "Davvero?"
+
+msgctxt "2840_Honoka"
+msgid "This is an error."
+msgstr "Questo è un errore."
+
+msgctxt "2852_Honoka"
+msgid "What's up?"
+msgstr "Che c'è?"
+
+msgctxt "2876_Honoka"
+msgid ""
+"Ooh, I really like this! But I bet ya knew that already, didn't ya, Akiyama-"
+"san?"
+msgstr ""
+"Ooh, questo mi piace un sacco! Ma scommetto che lo sapevi già, vero, "
+"Akiyama-san?"
+
+msgctxt "2888_Honoka"
+msgid "Whoa, for real!? I've been wantin' this! Thank you!"
+msgstr "Uao, sul serio!? Lo volevo da un sacco! Grazie!"
+
+msgctxt "2900_Honoka"
+msgid "Are ya sure? I'll take good care of this!"
+msgstr "Dici sul serio? Ne avrò molta cura!"
+
+msgctxt "2912_Honoka"
+msgid "Oh, thanks..."
+msgstr "Oh, grazie..."
+
+msgctxt "2924_Honoka"
+msgid "The heck is this!? I dunno what to do with it."
+msgstr "Ma che diavolo è!? Non so proprio cosa farmene."
+
+msgctxt "2936_Honoka"
+msgid "Huh? This again?"
+msgstr "Eh? Di nuovo questo?"
+
+msgctxt "2948_Honoka"
+msgid "You already gave me this. Did ya forget?"
+msgstr "Me l'hai già dato. Te lo sei dimenticato?"
+
+msgctxt "2960_Honoka"
+msgid "This is an error."
+msgstr "Questo è un errore."
+
+msgctxt "3116_Honoka"
+msgid "I hope you'll come by again, Akiyama-san."
+msgstr "Spero che tornerai a trovarmi, Akiyama-san."
+
+msgctxt "3128_Player"
+msgid "Next time I'll put in a request for you."
+msgstr "La prossima volta chiederò di te."
+
+msgctxt "3140_Honoka"
+msgid "For real? Then I'll be waitin'!"
+msgstr "Sul serio? Allora ti aspetterò!"
+
+msgctxt "3176_Honoka"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "3188_Honoka"
+msgid "Thanks for comin' today! See ya later!"
+msgstr "Grazie per essere venuto oggi! Ci vediamo!"
+
+msgctxt "3200_Player"
+msgid "You too."
+msgstr "Anche a te."
+
+msgctxt "3212_Honoka"
+msgid "Hehe! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Ehe! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3236_Honoka"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "3248_Honoka"
+msgid "Today was really fun!"
+msgstr "Oggi è stato proprio divertente!"
+
+msgctxt "3260_Player"
+msgid "I had a good time, too."
+msgstr "Mi sono divertito anch'io."
+
+msgctxt "3272_Honoka"
+msgid "Hehe! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Ehe! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3296_Honoka"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "3308_Honoka"
+msgid "Ya come back soon now!"
+msgstr "Torna presto a trovarmi!"
+
+msgctxt "3320_Player"
+msgid "Will do."
+msgstr "Lo farò."
+
+msgctxt "3332_Honoka"
+msgid "Hehe! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Ehe! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3356_Honoka"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "3368_Honoka"
+msgid "See ya later, okay? <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Ci vediamo dopo, okay? <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3380_Player"
+msgid "Sure thing."
+msgstr "Ma certo!"
+
+msgctxt "3392_Honoka"
+msgid "Hehe! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Ehe! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3404_Honoka"
+msgid "Wonder what you'll get?"
+msgstr "Chissà cosa riceverai?"
+
+msgctxt "3416_Player"
+msgid "Fingers crossed."
+msgstr "Incrociamo le dita."
+
+msgctxt "3500_Honoka"
+msgid "You won <Color:8>Toughness Infinity<Color:Default>!"
+msgstr "Hai vinto <Color:8>Toughness Infinity<Color:Default>!"
+
+msgctxt "3524_Honoka"
+msgid ""
+"That one pops out a lot. I'm wonderin' if it's even worth what ya paid."
+msgstr "Quello esce un sacco. Mi chiedo se valga davvero quanto l'hai pagato."
+
+msgctxt "3536_Player"
+msgid "Don't say that. You're making me sad..."
+msgstr "Non dire così. Mi rendi triste..."
+
+msgctxt "3548_Honoka"
+msgid "You won <Color:8>French Cologne<Color:Default>!"
+msgstr "Hai vinto <Color:8>Colonia francese<Color:Default>!"
+
+msgctxt "3572_Honoka"
+msgid ""
+"That one pops out a lot. I'm wonderin' if it's even worth what ya paid."
+msgstr "Quello esce un sacco. Mi chiedo se valga davvero quanto l'hai pagato."
+
+msgctxt "3584_Player"
+msgid "Don't say that. You're making me sad..."
+msgstr "Non dire così. Mi rendi triste..."
+
+msgctxt "3596_Honoka"
+msgid "You won <Color:8>Staminan Spark<Color:Default>!"
+msgstr "Hai vinto <Color:8>Staminan Spark<Color:Default>!"
+
+msgctxt "3620_Honoka"
+msgid "Hey, that ain't too bad! Ya kinda got yer money's worth on that one."
+msgstr "Ehi, niente male! Direi che con quello ne è valsa la pena."
+
+msgctxt "3632_Player"
+msgid "This isn't about the money, you know."
+msgstr "Non è una questione di soldi, sai."
+
+msgctxt "3644_Honoka"
+msgid "You won <Color:8>Goddess of Children Amulet<Color:Default>!"
+msgstr "Hai vinto <Color:8>Amuleto della dea dei bambini<Color:Default>!"
+
+msgctxt "3668_Honoka"
+msgid "Hey, that ain't too bad! Ya kinda got yer money's worth on that one."
+msgstr "Ehi, niente male! Direi che con quello ne è valsa la pena."
+
+msgctxt "3680_Player"
+msgid "This isn't about the money, you know."
+msgstr "Non è una questione di soldi, sai."
+
+msgctxt "3692_Honoka"
+msgid "You won <Color:8>Monogrammed Bag<Color:Default>!"
+msgstr "Hai vinto <Color:8>Borsa monogrammata<Color:Default>!"
+
+msgctxt "3716_Honoka"
+msgid "Amazin'! That's super rare! Can ya get me one too?"
+msgstr "Incredibile! È super raro! Ne prendi uno anche a me?"
+
+msgctxt "3728_Player"
+msgid "Really? Then I guess I shouldn't give it away."
+msgstr "Davvero? Allora mi sa che farei meglio a non regalarlo."
+
+msgctxt "3740_Honoka"
+msgid "You won <Color:8>Italian Women's Watch<Color:Default>!"
+msgstr "Hai vinto <Color:8>Orologio da donna italiano<Color:Default>!"
+
+msgctxt "3764_Honoka"
+msgid "Amazin'! That's super rare! Can ya get me one too?"
+msgstr "Incredibile! È super raro! Ne prendi uno anche a me?"
+
+msgctxt "3776_Player"
+msgid "Really? Then I guess I shouldn't give it away."
+msgstr "Davvero? Allora mi sa che farei meglio a non regalarlo."
+
+msgctxt "3788_Honoka"
+msgid "You won <Color:8>Mystery Stone<Color:Default>!"
+msgstr "Hai vinto <Color:8>Pietra misteriosa<Color:Default>!"
+
+msgctxt "3812_Honoka"
+msgid "Amazin'! That's super rare! Can ya get me one too?"
+msgstr "Incredibile! È super raro! Ne prendi uno anche a me?"
+
+msgctxt "3824_Player"
+msgid "Really? Then I guess I shouldn't give it away."
+msgstr "Davvero? Allora mi sa che farei meglio a non regalarlo."
+
+msgctxt "3836_Honoka"
+msgid "You won <Color:8>Swiss Watch<Color:Default>!"
+msgstr "Hai vinto <Color:8>Orologio svizzero<Color:Default>!"
+
+msgctxt "3860_Honoka"
+msgid ""
+"That's incredible! Ya hit the jackpot! Makes sense a man like you would have"
+" good luck. <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Incredibile! Hai fatto il colpaccio! Ci sta che un uomo come te sia così "
+"fortunato. <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3872_Player"
+msgid "Heh, not bad."
+msgstr "Eheh, niente male."
+
+msgctxt "3884_Honoka"
+msgid "You won <Color:8>Platinum Membership Card<Color:Default>!"
+msgstr "Hai vinto <Color:8>Tessera socio platino<Color:Default>!"
+
+msgctxt "3908_Honoka"
+msgid ""
+"That's incredible! Ya hit the jackpot! Makes sense a man like you would have"
+" good luck. <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Incredibile! Hai fatto il colpaccio! Ci sta che un uomo come te sia così "
+"fortunato. <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3920_Player"
+msgid "Heh, not bad."
+msgstr "Eheh, niente male."
+
+msgctxt "3932_Honoka"
+msgid "Time to do the chocolate stick game!"
+msgstr "È ora di fare il gioco del bastoncino di cioccolato!"
+
+msgctxt "3944_Honoka"
+msgid "Champagne time!"
+msgstr "È l'ora dello champagne!"
+
+msgctxt "3956_Honoka"
+msgid "Champagne tower, please!"
+msgstr "Torre di champagne, per favore!"

@@ -1,0 +1,1037 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "24440"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "24444"
+msgid "adv4_310/shinada_0460"
+msgstr "adv4_310/shinada_0460"
+
+msgctxt "24448"
+msgid "Sawada"
+msgstr "Sawada"
+
+msgctxt "24452"
+msgid "adv4_310/sawada_0002a"
+msgstr "adv4_310/sawada_0002a"
+
+msgctxt "24456"
+msgid "adv4_310/sawada_0002b"
+msgstr "adv4_310/sawada_0002b"
+
+msgctxt "24460"
+msgid "adv4_310/shinada_0461"
+msgstr "adv4_310/shinada_0461"
+
+msgctxt "24464"
+msgid "adv4_310/sawada_0003"
+msgstr "adv4_310/sawada_0003"
+
+msgctxt "24468"
+msgid "adv4_310/shinada_0462"
+msgstr "adv4_310/shinada_0462"
+
+msgctxt "24472"
+msgid "adv4_310/sawada_0004"
+msgstr "adv4_310/sawada_0004"
+
+msgctxt "24476"
+msgid "kaiwabgm_serious02"
+msgstr "kaiwabgm_serious02"
+
+msgctxt "24480"
+msgid "adv4_310/shinada_0463"
+msgstr "adv4_310/shinada_0463"
+
+msgctxt "24484"
+msgid "adv4_310/sawada_0005"
+msgstr "adv4_310/sawada_0005"
+
+msgctxt "24488"
+msgid "adv4_310/shinada_0464"
+msgstr "adv4_310/shinada_0464"
+
+msgctxt "24492"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "24496"
+msgid "adv4_310/sawada_0006a"
+msgstr "adv4_310/sawada_0006a"
+
+msgctxt "24500"
+msgid "adv4_310/sawada_0006b"
+msgstr "adv4_310/sawada_0006b"
+
+msgctxt "24504"
+msgid "adv4_310/shinada_0465"
+msgstr "adv4_310/shinada_0465"
+
+msgctxt "24508"
+msgid "adv4_310/sawada_0007a"
+msgstr "adv4_310/sawada_0007a"
+
+msgctxt "24512"
+msgid "adv4_310/sawada_0007b"
+msgstr "adv4_310/sawada_0007b"
+
+msgctxt "24516"
+msgid "adv4_310/shinada_0466a"
+msgstr "adv4_310/shinada_0466a"
+
+msgctxt "24520"
+msgid "adv4_310/shinada_0466b"
+msgstr "adv4_310/shinada_0466b"
+
+msgctxt "24524"
+msgid "adv4_310/sawada_0008"
+msgstr "adv4_310/sawada_0008"
+
+msgctxt "24528"
+msgid "adv4_310/shinada_0467a"
+msgstr "adv4_310/shinada_0467a"
+
+msgctxt "24532"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "24536"
+msgid "adv4_310/shinada_0467b"
+msgstr "adv4_310/shinada_0467b"
+
+msgctxt "24540"
+msgid "adv4_310/sawada_0009"
+msgstr "adv4_310/sawada_0009"
+
+msgctxt "24544"
+msgid "adv4_310/shinada_0468a"
+msgstr "adv4_310/shinada_0468a"
+
+msgctxt "24548"
+msgid "adv4_310/shinada_0468b"
+msgstr "adv4_310/shinada_0468b"
+
+msgctxt "24552"
+msgid "adv4_310/shinada_0468c"
+msgstr "adv4_310/shinada_0468c"
+
+msgctxt "24556"
+msgid "adv4_310/sawada_0010"
+msgstr "adv4_310/sawada_0010"
+
+msgctxt "24560"
+msgid "adv4_310/shinada_0469a"
+msgstr "adv4_310/shinada_0469a"
+
+msgctxt "24564"
+msgid "adv4_310/shinada_0469b"
+msgstr "adv4_310/shinada_0469b"
+
+msgctxt "24568"
+msgid "adv4_310/shinada_0469c"
+msgstr "adv4_310/shinada_0469c"
+
+msgctxt "24572"
+msgid "adv4_310/sawada_0011"
+msgstr "adv4_310/sawada_0011"
+
+msgctxt "24576"
+msgid "kaiwabgm_tension03"
+msgstr "kaiwabgm_tension03"
+
+msgctxt "24580"
+msgid "adv4_310/shinada_0470"
+msgstr "adv4_310/shinada_0470"
+
+msgctxt "24584"
+msgid "adv4_310/sawada_0012a"
+msgstr "adv4_310/sawada_0012a"
+
+msgctxt "24588"
+msgid "adv4_310/sawada_0012b"
+msgstr "adv4_310/sawada_0012b"
+
+msgctxt "24592"
+msgid "adv4_310/shinada_0471"
+msgstr "adv4_310/shinada_0471"
+
+msgctxt "24596"
+msgid "adv4_310/sawada_0013a"
+msgstr "adv4_310/sawada_0013a"
+
+msgctxt "24600"
+msgid "ArmsID"
+msgstr "ID Armi"
+
+msgctxt "24604"
+msgid "C4310_SWD_TLK_aim_gun"
+msgstr "C4310_SWD_TLK_aim_gun"
+
+msgctxt "24608"
+msgid "C4310_SWD_TLK_gun_kamae"
+msgstr "C4310_SWD_TLK_gun_kamae"
+
+msgctxt "24612"
+msgid "adv4_310/sawada_0013b"
+msgstr "adv4_310/sawada_0013b"
+
+msgctxt "24616"
+msgid "adv4_310/shinada_0472"
+msgstr "adv4_310/shinada_0472"
+
+msgctxt "24620"
+msgid "adv4_310/sawada_0014"
+msgstr "adv4_310/sawada_0014"
+
+msgctxt "24624"
+msgid "C4310_SWD_TLK_gun_laugh"
+msgstr "C4310_SWD_TLK_gun_laugh"
+
+msgctxt "24628"
+msgid "adv4_310/shinada_0473"
+msgstr "adv4_310/shinada_0473"
+
+msgctxt "24632"
+msgid "adv4_310/sawada_0015a"
+msgstr "adv4_310/sawada_0015a"
+
+msgctxt "24636"
+msgid "adv4_310/sawada_0015b"
+msgstr "adv4_310/sawada_0015b"
+
+msgctxt "24640"
+msgid "adv4_310/shinada_0474"
+msgstr "adv4_310/shinada_0474"
+
+msgctxt "24644"
+msgid "adv4_310/sawada_0016"
+msgstr "adv4_310/sawada_0016"
+
+msgctxt "24648"
+msgid "adv4_310/shinada_0475"
+msgstr "adv4_310/shinada_0475"
+
+msgctxt "24652"
+msgid "adv4_310/sawada_0017"
+msgstr "adv4_310/sawada_0017"
+
+msgctxt "24656"
+msgid "adv4_310/shinada_0476"
+msgstr "adv4_310/shinada_0476"
+
+msgctxt "24660"
+msgid "adv4_310/sawada_0018"
+msgstr "adv4_310/sawada_0018"
+
+msgctxt "24664"
+msgid "C4310_SWD_TLK_gun_yes"
+msgstr "C4310_SWD_TLK_gun_yes"
+
+msgctxt "24668"
+msgid "adv4_310/shinada_0477"
+msgstr "adv4_310/shinada_0477"
+
+msgctxt "24672"
+msgid "adv4_310/sawada_0019a"
+msgstr "adv4_310/sawada_0019a"
+
+msgctxt "24676"
+msgid "adv4_310/sawada_0019b"
+msgstr "adv4_310/sawada_0019b"
+
+msgctxt "24680"
+msgid "adv4_310/sawada_0019c"
+msgstr "adv4_310/sawada_0019c"
+
+msgctxt "24684"
+msgid "adv4_310/shinada_0478"
+msgstr "adv4_310/shinada_0478"
+
+msgctxt "24688"
+msgid "adv4_310/sawada_0020"
+msgstr "adv4_310/sawada_0020"
+
+msgctxt "24692"
+msgid "adv4_310/shinada_0479"
+msgstr "adv4_310/shinada_0479"
+
+msgctxt "24696"
+msgid "adv4_310/sawada_0021a"
+msgstr "adv4_310/sawada_0021a"
+
+msgctxt "24700"
+msgid "C4310_SWD_TLK_gun_no"
+msgstr "C4310_SWD_TLK_gun_no"
+
+msgctxt "24704"
+msgid "adv4_310/sawada_0021b"
+msgstr "adv4_310/sawada_0021b"
+
+msgctxt "24708"
+msgid "adv4_310/shinada_0480"
+msgstr "adv4_310/shinada_0480"
+
+msgctxt "24712"
+msgid "adv4_310/sawada_0022a"
+msgstr "adv4_310/sawada_0022a"
+
+msgctxt "24716"
+msgid "adv4_310/sawada_0022b"
+msgstr "adv4_310/sawada_0022b"
+
+msgctxt "24720"
+msgid "adv4_310/shinada_0481"
+msgstr "adv4_310/shinada_0481"
+
+msgctxt "24724"
+msgid "adv4_310/sawada_0023a"
+msgstr "adv4_310/sawada_0023a"
+
+msgctxt "24728"
+msgid "adv4_310/sawada_0023b"
+msgstr "adv4_310/sawada_0023b"
+
+msgctxt "24732"
+msgid "adv4_310/shinada_0482a"
+msgstr "adv4_310/shinada_0482a"
+
+msgctxt "24736"
+msgid "adv4_310/shinada_0482b"
+msgstr "adv4_310/shinada_0482b"
+
+msgctxt "24740"
+msgid "adv4_310/sawada_0024a"
+msgstr "adv4_310/sawada_0024a"
+
+msgctxt "24744"
+msgid "adv4_310/sawada_0024b"
+msgstr "adv4_310/sawada_0024b"
+
+msgctxt "24748"
+msgid "adv4_310/shinada_0483"
+msgstr "adv4_310/shinada_0483"
+
+msgctxt "24752"
+msgid "adv4_310/sawada_0025a"
+msgstr "adv4_310/sawada_0025a"
+
+msgctxt "24756"
+msgid "C4310_SWD_TLK_gun_tlk"
+msgstr "C4310_SWD_TLK_gun_tlk"
+
+msgctxt "24760"
+msgid "adv4_310/sawada_0025b"
+msgstr "adv4_310/sawada_0025b"
+
+msgctxt "24764"
+msgid "adv4_310/sawada_0025c"
+msgstr "adv4_310/sawada_0025c"
+
+msgctxt "24768"
+msgid "adv4_310/sawada_0025d"
+msgstr "adv4_310/sawada_0025d"
+
+msgctxt "24772"
+msgid "C4310_SWD_TLK_gun_idle_02"
+msgstr "C4310_SWD_TLK_gun_idle_02"
+
+msgctxt "24776"
+msgid "adv4_310/shinada_0484"
+msgstr "adv4_310/shinada_0484"
+
+msgctxt "24780"
+msgid "adv4_310/sawada_0026a"
+msgstr "adv4_310/sawada_0026a"
+
+msgctxt "24784"
+msgid "adv4_310/sawada_0026b"
+msgstr "adv4_310/sawada_0026b"
+
+msgctxt "24788"
+msgid "adv4_310/shinada_0485"
+msgstr "adv4_310/shinada_0485"
+
+msgctxt "24792"
+msgid "adv4_310/sawada_0027a"
+msgstr "adv4_310/sawada_0027a"
+
+msgctxt "24796"
+msgid "adv4_310/sawada_0027b"
+msgstr "adv4_310/sawada_0027b"
+
+msgctxt "24800"
+msgid "C4310_SWD_TLK_gun_idle_01"
+msgstr "C4310_SWD_TLK_gun_idle_01"
+
+msgctxt "24804"
+msgid "adv4_310/sawada_0027c"
+msgstr "adv4_310/sawada_0027c"
+
+msgctxt "24808"
+msgid "adv4_310/sawada_0027d"
+msgstr "adv4_310/sawada_0027d"
+
+msgctxt "24812"
+msgid "adv4_310/shinada_0486"
+msgstr "adv4_310/shinada_0486"
+
+msgctxt "24816"
+msgid "adv4_310/sawada_0028"
+msgstr "adv4_310/sawada_0028"
+
+msgctxt "24820"
+msgid "adv4_310/shinada_0487"
+msgstr "adv4_310/shinada_0487"
+
+msgctxt "24824"
+msgid "adv4_310/sawada_0029"
+msgstr "adv4_310/sawada_0029"
+
+msgctxt "24828"
+msgid "adv4_310/sawada_0030a"
+msgstr "adv4_310/sawada_0030a"
+
+msgctxt "24832"
+msgid "adv4_310/sawada_0030b"
+msgstr "adv4_310/sawada_0030b"
+
+msgctxt "24836"
+msgid "adv4_310/sawada_0030c"
+msgstr "adv4_310/sawada_0030c"
+
+msgctxt "24840"
+msgid "adv4_310/sawada_0030d"
+msgstr "adv4_310/sawada_0030d"
+
+msgctxt "24844"
+msgid "adv4_310/sawada_0030e"
+msgstr "adv4_310/sawada_0030e"
+
+msgctxt "24848"
+msgid "adv4_310/shinada_0488"
+msgstr "adv4_310/shinada_0488"
+
+msgctxt "24852"
+msgid "adv4_310/sawada_0031"
+msgstr "adv4_310/sawada_0031"
+
+msgctxt "24856"
+msgid "adv4_310/shinada_0489"
+msgstr "adv4_310/shinada_0489"
+
+msgctxt "24860"
+msgid "adv4_310/sawada_0032"
+msgstr "adv4_310/sawada_0032"
+
+msgctxt "24864"
+msgid "adv4_310/shinada_0490"
+msgstr "adv4_310/shinada_0490"
+
+msgctxt "24868"
+msgid "adv4_310/sawada_0033"
+msgstr "adv4_310/sawada_0033"
+
+msgctxt "24872"
+msgid "adv4_310/shinada_0491"
+msgstr "adv4_310/shinada_0491"
+
+msgctxt "24876"
+msgid "adv4_310/sawada_0034"
+msgstr "adv4_310/sawada_0034"
+
+msgctxt "24880"
+msgid "adv4_310/shinada_0492"
+msgstr "adv4_310/shinada_0492"
+
+msgctxt "24884"
+msgid "adv4_310/sawada_0035"
+msgstr "adv4_310/sawada_0035"
+
+msgctxt "24888"
+msgid "adv4_310/shinada_0493"
+msgstr "adv4_310/shinada_0493"
+
+msgctxt "24892"
+msgid "adv4_310/sawada_0036"
+msgstr "adv4_310/sawada_0036"
+
+msgctxt "44_Shinada"
+msgid "Sawada."
+msgstr "Sawada."
+
+msgctxt "56_Sawada"
+msgid "I had a feeling you would know to find me here."
+msgstr "Sapevo che avresti saputo dove trovarmi."
+
+msgctxt "68_Sawada"
+msgid "Good on you, Shinada."
+msgstr "Niente male, Shinada."
+
+msgctxt "80_Shinada"
+msgid ""
+"I saw the evening paper. Never would've expected the\r\n"
+"league's top pitcher to get traded to the Wyverns,\r\n"
+"the eternal underdog."
+msgstr ""
+"Ho visto il giornale della sera. Non mi sarei mai aspettato che il\n"
+"miglior lanciatore della lega venisse ceduto ai Wyverns,\n"
+"l'eterna squadra sfavorita."
+
+msgctxt "92_Sawada"
+msgid ""
+"It was my promise to Fujita-san. That I would take his place in 15 years."
+msgstr ""
+"Era la mia promessa a Fujita-san. Che avrei preso il suo posto tra 15 anni."
+
+msgctxt "104_Shinada"
+msgid ""
+"I didn't realize Fujita-san's return to baseball would mean a new boss for "
+"the Nagoya Family."
+msgstr ""
+"Non immaginavo che il ritorno al baseball di Fujita-san avrebbe significato "
+"un nuovo boss per la Famiglia Nagoya."
+
+msgctxt "116_Sawada"
+msgid "Heh."
+msgstr "Eh."
+
+msgctxt "128_Shinada"
+msgid "Am I wrong, Sawada?"
+msgstr "Mi sbaglio, Sawada?"
+
+msgctxt "140_Sawada"
+msgid "You are aware this is my hometown, right?"
+msgstr "Lo sai che questa è la mia città, vero?"
+
+msgctxt "152_Shinada"
+msgid ""
+"Yup. The ace of Chukyo Academy, the genius of Nagoya. You had plenty of "
+"nicknames in high school."
+msgstr ""
+"Già. L'asso della Chukyo Academy, il genio di Nagoya. Ne avevi di soprannomi"
+" alle superiori."
+
+msgctxt "164_Sawada"
+msgid ""
+"But life can be strange, can't it? By the luck of the draw, my career ended "
+"up in Tokyo."
+msgstr ""
+"Ma la vita è strana, no? Per un colpo di fortuna, la mia carriera è finita a"
+" Tokyo."
+
+msgctxt "176_Sawada"
+msgid "While you, a Tokyo native, joined the ranks of Nagoya's elites."
+msgstr ""
+"Mentre tu, originario di Tokyo, sei entrato a far parte dell'élite di "
+"Nagoya."
+
+msgctxt "188_Shinada"
+msgid "......"
+msgstr "......"
+
+msgctxt "200_Sawada"
+msgid ""
+"As a result, you had your career stolen for Nagoya's sake. A place with no "
+"connection to you."
+msgstr ""
+"E così ti hanno rubato la carriera per il bene di Nagoya. Un posto che non "
+"c'entrava nulla con te."
+
+msgctxt "212_Sawada"
+msgid "While I became the league's undisputed ace."
+msgstr "Mentre io sono diventato l'asso indiscusso della lega."
+
+msgctxt "224_Shinada"
+msgid "But now you're back in Nagoya."
+msgstr "Ma ora sei tornato a Nagoya."
+
+msgctxt "236_Shinada"
+msgid "Are you doing this to inherit the Nagoya Family from Fujita-san?"
+msgstr "Lo stai facendo per ereditare la Famiglia Nagoya da Fujita-san?"
+
+msgctxt "248_Sawada"
+msgid "That's right."
+msgstr "Esatto."
+
+msgctxt "260_Shinada"
+msgid "Why? Why do you need to go so far to protect the Nagoya Family!?"
+msgstr ""
+"Perché? Perché devi arrivare a tanto per proteggere la Famiglia Nagoya!?"
+
+msgctxt "272_Shinada"
+msgid "Isn't there something else you should be protecting instead!?"
+msgstr "Non c'è qualcos'altro che dovresti proteggere, invece!?"
+
+msgctxt "284_Sawada"
+msgid "......"
+msgstr "......"
+
+msgctxt "296_Shinada"
+msgid ""
+"A friend from high school once told me... that people like us help others to"
+" dream."
+msgstr ""
+"Un amico delle superiori una volta mi ha detto... che quelli come noi "
+"aiutano gli altri a sognare."
+
+msgctxt "308_Shinada"
+msgid "You and I do more than just play some game here!"
+msgstr ""
+"Io e te facciamo molto di più che giocare a una semplice partita, qui!"
+
+msgctxt "320_Shinada"
+msgid ""
+"The players who stand on this field carry the dreams of all sorts of people!"
+msgstr ""
+"I giocatori che scendono su questo campo portano sulle spalle i sogni di "
+"ogni genere di persone!"
+
+msgctxt "332_Sawada"
+msgid "......"
+msgstr "......"
+
+msgctxt "344_Shinada"
+msgid ""
+"You've heard, haven't you? Ushijima-san, Manabe-san...\r\n"
+"The entire Nagoya Family has turned itself in."
+msgstr ""
+"L'avrai saputo, no? Ushijima-san, Manabe-san...\n"
+"L'intera Famiglia Nagoya si è costituita."
+
+msgctxt "356_Shinada"
+msgid "Sawada, the Nagoya Family is finished. Let me put it to you straight."
+msgstr "Sawada, la Famiglia Nagoya è finita. Te lo dico chiaramente."
+
+msgctxt "368_Shinada"
+msgid "I want you to stop causing any more suffering using the Nagoya Family."
+msgstr ""
+"Voglio che smetti di causare altra sofferenza usando la Famiglia Nagoya."
+
+msgctxt "380_Sawada"
+msgid "Apparently you're blind to what's really going on."
+msgstr ""
+"A quanto pare sei cieco di fronte a quello che sta succedendo davvero."
+
+msgctxt "392_Shinada"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "404_Sawada"
+msgid "I know the Nagoya Family is finished."
+msgstr "So che la Famiglia Nagoya è finita."
+
+msgctxt "416_Sawada"
+msgid "I came back to Nagoya to finish one last job."
+msgstr "Sono tornato a Nagoya per portare a termine un ultimo lavoro."
+
+msgctxt "428_Shinada"
+msgid "What's that?"
+msgstr "Cos'è?"
+
+msgctxt "440_Sawada"
+msgid ""
+"What else? To get rid of the guy who's got the most dirt on\r\n"
+"the Nagoya Family."
+msgstr ""
+"Cos'altro? Per sbarazzarmi del tizio che ha più sporco sulla\n"
+"Famiglia Nagoya."
+
+msgctxt "452_Sawada"
+msgid "That was my final task."
+msgstr "Quello era il mio ultimo compito."
+
+msgctxt "464_Shinada"
+msgid "Sawada..."
+msgstr "Sawada..."
+
+msgctxt "476_Sawada"
+msgid ""
+"Everyone who turned themselves in this morning has been released. No one "
+"will be pressing any charges."
+msgstr ""
+"Tutti quelli che si sono costituiti stamattina sono stati rilasciati. "
+"Nessuno sporgerà denuncia."
+
+msgctxt "488_Shinada"
+msgid "How is that－"
+msgstr "Com'è possibile－"
+
+msgctxt "500_Sawada"
+msgid ""
+"Shinada, this thing is controlled by someone far more powerful than you can "
+"imagine."
+msgstr ""
+"Shinada, questa faccenda è controllata da qualcuno di molto più potente di "
+"quanto tu possa immaginare."
+
+msgctxt "512_Sawada"
+msgid ""
+"Someone with the power to play the police like puppets.\r\n"
+"That's what you're up against."
+msgstr ""
+"Qualcuno con il potere di manovrare la polizia come marionette.\n"
+"Ecco contro chi hai a che fare."
+
+msgctxt "524_Shinada"
+msgid ""
+"You're just being used, Sawada. Who's doing this? Who's really aiming that "
+"gun!?"
+msgstr ""
+"Ti stanno solo usando, Sawada. Chi c'è dietro? Chi sta davvero puntando "
+"quella pistola!?"
+
+msgctxt "536_Sawada"
+msgid "Over there."
+msgstr "Laggiù."
+
+msgctxt "548_Shinada"
+msgid "Who are they?"
+msgstr "Chi sono?"
+
+msgctxt "560_Sawada"
+msgid "My observers. From the Omi Alliance."
+msgstr "I miei osservatori. Dell'Alleanza Omi."
+
+msgctxt "572_Shinada"
+msgid "The Omi? Why them?"
+msgstr "L'Omi? Perché proprio loro?"
+
+msgctxt "584_Sawada"
+msgid ""
+"That's your answer. Fujita-san and I, we were used by a faction within the "
+"Omi Alliance."
+msgstr ""
+"Ecco la tua risposta. Io e Fujita-san siamo stati usati da una fazione "
+"interna all'Alleanza Omi."
+
+msgctxt "596_Shinada"
+msgid "A faction?"
+msgstr "Una fazione?"
+
+msgctxt "608_Sawada"
+msgid "An offshoot from Kobe. The Kuroha Family."
+msgstr "Una costola di Kobe. La Famiglia Kuroha."
+
+msgctxt "620_Sawada"
+msgid ""
+"The Nagoya Family was constructed as a puppet organization for the Kuroha "
+"Family to drive out the Omi Alliance and take their piece of the pie."
+msgstr ""
+"La Famiglia Nagoya è stata creata come un'organizzazione fantoccio per la "
+"Famiglia Kuroha per cacciare l'Alleanza Omi e prendersi la loro fetta della "
+"torta."
+
+msgctxt "632_Sawada"
+msgid ""
+"In other words, it's part of an internal schism within the Omi Alliance."
+msgstr "In altre parole, fa parte di una scissione interna all'Alleanza Omi."
+
+msgctxt "644_Shinada"
+msgid "Just so one Omi group could drive out another Omi group?"
+msgstr "Solo perché un gruppo dell'Omi potesse cacciarne un altro?"
+
+msgctxt "656_Sawada"
+msgid ""
+"And both Coach Fujita and I sold our souls to the Kuroha Family to make our "
+"dreams come true."
+msgstr ""
+"E sia l'allenatore Fujita che io abbiamo venduto l'anima alla Famiglia "
+"Kuroha per realizzare i nostri sogni."
+
+msgctxt "668_Shinada"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "680_Sawada"
+msgid ""
+"Shinada, I was never the genius or the baseball hero you thought I was."
+msgstr ""
+"Shinada, non sono mai stato il genio o l'eroe del baseball che credevi "
+"fossi."
+
+msgctxt "692_Sawada"
+msgid ""
+"Even way back at Koshien... I only won the nationals with the Kuroha's help."
+msgstr ""
+"Persino ai tempi del Koshien... ho vinto i nazionali solo con l'aiuto dei "
+"Kuroha."
+
+msgctxt "704_Shinada"
+msgid "That can't be..."
+msgstr "Non può essere..."
+
+msgctxt "716_Sawada"
+msgid ""
+"It is. The Kuroha bribed coaches from other schools and threatened their "
+"players."
+msgstr ""
+"È così. I Kuroha hanno corrotto gli allenatori delle altre scuole e "
+"minacciato i loro giocatori."
+
+msgctxt "728_Sawada"
+msgid "They did anything possible so I could win."
+msgstr "Hanno fatto di tutto per farmi vincere."
+
+msgctxt "740_Shinada"
+msgid ""
+"Wait, so the goons from Kamuro Tech who threatened us before the regional "
+"final..."
+msgstr ""
+"Aspetta, quindi quegli scagnozzi del Kamuro Tech che ci hanno minacciato "
+"prima della finale regionale..."
+
+msgctxt "752_Sawada"
+msgid "That's right. The Kuroha's doing."
+msgstr "Proprio così. È stata opera dei Kuroha."
+
+msgctxt "764_Sawada"
+msgid "Of course, some punk from your school had to go screw up the plan."
+msgstr ""
+"Naturalmente, qualche teppistello della tua scuola ha dovuto mandare "
+"all'aria il piano."
+
+msgctxt "776_Shinada"
+msgid "So our first-round game against each other was your only real match."
+msgstr ""
+"Quindi la partita del primo turno in cui ci siamo affrontati è stata la tua "
+"unica vera partita."
+
+msgctxt "788_Shinada"
+msgid "No wonder I didn't notice."
+msgstr "Non c'è da stupirsi se non me ne sono accorto."
+
+msgctxt "800_Sawada"
+msgid ""
+"For me, the Koshien tournament was only real in the first round. That match "
+"was essentially the final."
+msgstr ""
+"Per me, il torneo del Koshien è stato vero solo nel primo turno. Quella "
+"partita è stata essenzialmente la finale."
+
+msgctxt "812_Sawada"
+msgid ""
+"The pure, unbridled slugging machine, Tatsuo Shinada. All I had to do was "
+"hold you off one game, and we'd have that tournament in the bag."
+msgstr ""
+"La pura, scatenata macchina da fuoricampo, Tatsuo Shinada. Mi bastava "
+"tenerti a bada per una sola partita, e avremmo avuto quel torneo in tasca."
+
+msgctxt "824_Shinada"
+msgid "......"
+msgstr "......"
+
+msgctxt "836_Sawada"
+msgid "I'd say I did that and then some."
+msgstr "Direi proprio di averlo fatto, e pure di più."
+
+msgctxt "848_Sawada"
+msgid ""
+"I kicked you out of nationals first round, which got you buried in the draft"
+" to the Wyverns."
+msgstr ""
+"Ti ho sbattuto fuori dalle nazionali al primo turno, il che ti ha fatto "
+"sprofondare nel draft dei Wyverns."
+
+msgctxt "860_Sawada"
+msgid ""
+"Whereas I was considered the pinnacle of high school\r\n"
+"baseball and signed with the Gigants as their first pick."
+msgstr ""
+"Mentre io ero considerato l'apice del baseball\n"
+"liceale e venni ingaggiato dai Gigants come prima scelta."
+
+msgctxt "872_Sawada"
+msgid ""
+"Can you guess why the Kuroha Family went so far to make me win the "
+"nationals?"
+msgstr ""
+"Riesci a immaginare perché la Famiglia Kuroha si sia spinta così oltre per "
+"farmi vincere le nazionali?"
+
+msgctxt "884_Shinada"
+msgid "No..."
+msgstr "No..."
+
+msgctxt "896_Sawada"
+msgid ""
+"Oh yes. They did it to enable match fixing in every single game I pitched "
+"between the Gigants and the Wyverns."
+msgstr ""
+"Proprio così. Lo hanno fatto per poter truccare ogni singola partita che ho "
+"lanciato tra i Gigants e i Wyverns."
+
+msgctxt "908_Sawada"
+msgid ""
+"It was completely undetectable, and nothing was swayed by chance. The Kuroha"
+" gained complete and utter control of baseball betting."
+msgstr ""
+"Era assolutamente impossibile da scoprire, e niente era lasciato al caso. I "
+"Kuroha ottennero il controllo totale e assoluto sulle scommesse del "
+"baseball."
+
+msgctxt "920_Shinada"
+msgid "That's crazy..."
+msgstr "È assurdo..."
+
+msgctxt "932_Sawada"
+msgid ""
+"Baseball betting is a tough thing to manage. It's not easy to fix a game."
+msgstr ""
+"Le scommesse sul baseball sono un affare difficile da gestire. Non è facile "
+"truccare una partita."
+
+msgctxt "944_Sawada"
+msgid ""
+"You can pay off a pitcher, but if the opposing batters don't score, you "
+"can't force a win."
+msgstr ""
+"Puoi corrompere un lanciatore, ma se i battitori avversari non segnano, non "
+"puoi forzare una vittoria."
+
+msgctxt "956_Sawada"
+msgid ""
+"You can pay off the batters, but if the opponents don't score, you can't "
+"force a loss."
+msgstr ""
+"Puoi corrompere i battitori, ma se gli avversari non segnano, non puoi "
+"forzare una sconfitta."
+
+msgctxt "968_Sawada"
+msgid ""
+"But the Wyvern's starting lineup and manager were in on it.\r\n"
+"And if they face me as the opposing pitcher..."
+msgstr ""
+"Ma la formazione titolare e il manager dei Wyverns erano della partita.\n"
+"E se mi affrontano come lanciatore avversario..."
+
+msgctxt "980_Shinada"
+msgid "...Then fixing matches would practically be child's play."
+msgstr ""
+"...Allora truccare le partite sarebbe praticamente un gioco da ragazzi."
+
+msgctxt "992_Sawada"
+msgid ""
+"That was the idea. But even though it was nearly flawless, it failed just "
+"once."
+msgstr ""
+"L'idea era quella. Ma nonostante fosse quasi impeccabile, ha fallito una "
+"sola volta."
+
+msgctxt "1004_Shinada"
+msgid "......"
+msgstr "......"
+
+msgctxt "1016_Sawada"
+msgid "That game where you hit your home run, Shinada."
+msgstr "Quella partita in cui hai battuto quel fuoricampo, Shinada."
+
+msgctxt "1028_Sawada"
+msgid ""
+"The Kuroha Family's order was for the home team,\r\n"
+"the Wyverns, to lose with a 1-0 score."
+msgstr ""
+"L'ordine della Famiglia Kuroha era che la squadra di casa,\n"
+"i Wyverns, perdesse con il punteggio di 1-0."
+
+msgctxt "1040_Sawada"
+msgid ""
+"But, at the bottom of the ninth, the Gigants didn't have a run to their "
+"name."
+msgstr ""
+"Ma, nella parte bassa del nono, i Gigants non avevano segnato nemmeno un "
+"punto."
+
+msgctxt "1052_Sawada"
+msgid ""
+"Even if they wanted us to win, there was nothing they could do if our "
+"batters couldn't score."
+msgstr ""
+"Anche se volevano farci vincere, non potevano farci niente se i nostri "
+"battitori non riuscivano a segnare."
+
+msgctxt "1064_Sawada"
+msgid ""
+"And using a blatant error to get our team ahead would've looked bad in front"
+" of the cameras."
+msgstr ""
+"E usare un errore plateale per portare la nostra squadra in vantaggio "
+"avrebbe dato nell'occhio davanti alle telecamere."
+
+msgctxt "1076_Sawada"
+msgid ""
+"So Coach Fujita replaced Sakai on second with you, a guy with no major "
+"league experience, to pinch hit."
+msgstr ""
+"Quindi il coach Fujita ha sostituito Sakai in seconda con te, un tizio senza"
+" alcuna esperienza in prima squadra, per farti entrare come battitore "
+"d'emergenza."
+
+msgctxt "1088_Shinada"
+msgid "That means Coach Fujita thought I couldn't get a hit off of you?"
+msgstr ""
+"Quindi il coach Fujita pensava che non sarei mai riuscito a fare una valida "
+"contro di te?"
+
+msgctxt "1100_Sawada"
+msgid "He knew your strengths and weaknesses better than anyone."
+msgstr ""
+"Conosceva i tuoi punti di forza e le tue debolezze meglio di chiunque altro."
+
+msgctxt "1112_Shinada"
+msgid "That's why he instructed you to keep throwing curveballs at me?"
+msgstr ""
+"È per questo che ti ha ordinato di continuare a lanciarmi palle curve?"
+
+msgctxt "1124_Sawada"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "1136_Shinada"
+msgid "But then, that seventh pitch. Why'd you change to a fastball?"
+msgstr "Ma poi, quel settimo lancio. Perché sei passato alla palla dritta?"
+
+msgctxt "1148_Sawada"
+msgid "......"
+msgstr "......"
+
+msgctxt "1160_Shinada"
+msgid "Did you ignore orders just so you could settle our showdown, Sawada?"
+msgstr ""
+"Hai ignorato gli ordini solo per poter chiudere la nostra sfida, Sawada?"
+
+msgctxt "1172_Sawada"
+msgid "No. That was definitely Fujita-san's order."
+msgstr "No. Quello era senza dubbio l'ordine di Fujita-san."
+
+msgctxt "1184_Shinada"
+msgid "What? That was his call...?"
+msgstr "Cosa? È stata una sua decisione...?"
+
+msgctxt "1196_Sawada"
+msgid ""
+"That's right. I was instructed to throw that fastball\r\n"
+"by none other than Coach Fujita. Make no mistake."
+msgstr ""
+"Proprio così. Mi è stato ordinato di lanciare quella palla dritta\n"
+"proprio dal coach Fujita. Non ci sono dubbi."
+
+msgctxt "1208_Shinada"
+msgid "Why? Why would he do that!?"
+msgstr "Perché? Perché mai l'avrebbe fatto!?"
+
+msgctxt "1220_Sawada"
+msgid "Because..."
+msgstr "Perché..."

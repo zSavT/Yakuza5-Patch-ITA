@@ -1,0 +1,1392 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "644"
+msgid "You got 2,000 experience points."
+msgstr "Hai ottenuto 2.000 punti esperienza."
+
+msgctxt "872"
+msgid "All snow gear must be moved to the Item Box or Inventory."
+msgstr ""
+"Tutto l'equipaggiamento da neve deve essere spostato nella Cassa Oggetti o "
+"nell'Inventario."
+
+msgctxt "920"
+msgid "You got 2,000 experience points."
+msgstr "Hai ottenuto 2.000 punti esperienza."
+
+msgctxt "1352"
+msgid "You got <Color:8>Deer Meat<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Carne di Cervo<Color:Default>."
+
+msgctxt "39680"
+msgid "C2070_P_BAB_sleepB_kamae"
+msgstr "C2070_P_BAB_sleepB_kamae"
+
+msgctxt "39684"
+msgid "Okudera"
+msgstr "Okudera"
+
+msgctxt "39688"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "39692"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "39696"
+msgid "ACYAM0003"
+msgstr "ACYAM0003"
+
+msgctxt "39700"
+msgid "ACDEV0184"
+msgstr "ACDEV0184"
+
+msgctxt "39704"
+msgid "SS2_P_SAE_TLK_sitgrd_eat_kamae"
+msgstr "SS2_P_SAE_TLK_sitgrd_eat_kamae"
+
+msgctxt "39708"
+msgid "SS2_P_SAE_TLK_sitgrd_eat"
+msgstr "SS2_P_SAE_TLK_sitgrd_eat"
+
+msgctxt "39712"
+msgid "Baba"
+msgstr "Baba"
+
+msgctxt "39716"
+msgid "adv2_214/baba_2_214_010"
+msgstr "adv2_214/baba_2_214_010"
+
+msgctxt "39720"
+msgid "kaiwabgm_heartwarm01"
+msgstr "kaiwabgm_heartwarm01"
+
+msgctxt "39724"
+msgid "adv2_214/saejima_2_214_010"
+msgstr "adv2_214/saejima_2_214_010"
+
+msgctxt "39728"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "39732"
+msgid "adv2_214/baba_2_214_020"
+msgstr "adv2_214/baba_2_214_020"
+
+msgctxt "39736"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "39740"
+msgid "adv2_214/okudera_2_214_010"
+msgstr "adv2_214/okudera_2_214_010"
+
+msgctxt "39744"
+msgid "adv2_214/baba_2_214_030"
+msgstr "adv2_214/baba_2_214_030"
+
+msgctxt "39748"
+msgid "adv2_214/okudera_2_214_020"
+msgstr "adv2_214/okudera_2_214_020"
+
+msgctxt "39752"
+msgid "M_NML_SET_sitgrd_agura_02"
+msgstr "M_NML_SET_sitgrd_agura_02"
+
+msgctxt "39756"
+msgid "adv2_214/saejima_2_214_020"
+msgstr "adv2_214/saejima_2_214_020"
+
+msgctxt "39760"
+msgid "adv2_214/okudera_2_214_030"
+msgstr "adv2_214/okudera_2_214_030"
+
+msgctxt "39764"
+msgid "adv2_214/saejima_2_214_030"
+msgstr "adv2_214/saejima_2_214_030"
+
+msgctxt "39768"
+msgid "New Equipment"
+msgstr "Nuovo Equipaggiamento"
+
+msgctxt "39772"
+msgid "adv2_214/okudera_2_214_040"
+msgstr "adv2_214/okudera_2_214_040"
+
+msgctxt "39776"
+msgid "adv2_214/saejima_2_214_040"
+msgstr "adv2_214/saejima_2_214_040"
+
+msgctxt "39780"
+msgid "adv2_214/baba_2_214_040"
+msgstr "adv2_214/baba_2_214_040"
+
+msgctxt "39784"
+msgid "adv2_214/okudera_2_214_050"
+msgstr "adv2_214/okudera_2_214_050"
+
+msgctxt "39788"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "39792"
+msgid "P_TLK_stand_kamae"
+msgstr "P_TLK_stand_kamae"
+
+msgctxt "39796"
+msgid "P_TLK_sitgrd_agura_kamae_ed"
+msgstr "P_TLK_sitgrd_agura_kamae_ed"
+
+msgctxt "39800"
+msgid "adv2_214/saejima_2_214_050"
+msgstr "adv2_214/saejima_2_214_050"
+
+msgctxt "39804"
+msgid "M_nml_stand"
+msgstr "M_nml_stand"
+
+msgctxt "39808"
+msgid "adv2_214/okudera_2_214_060"
+msgstr "adv2_214/okudera_2_214_060"
+
+msgctxt "39812"
+msgid "adv2_214/okudera_2_214_070"
+msgstr "adv2_214/okudera_2_214_070"
+
+msgctxt "39816"
+msgid "adv2_214/saejima_2_214_060"
+msgstr "adv2_214/saejima_2_214_060"
+
+msgctxt "39820"
+msgid "adv2_214/saejima_2_214_070"
+msgstr "adv2_214/saejima_2_214_070"
+
+msgctxt "39824"
+msgid "adv2_214/okudera_2_214_080"
+msgstr "adv2_214/okudera_2_214_080"
+
+msgctxt "39828"
+msgid "Move Everything to the Item Box"
+msgstr "Sposta tutto nella Cassa Oggetti"
+
+msgctxt "39832"
+msgid "Choose Items for Your Inventory"
+msgstr "Scegli gli oggetti per il tuo Inventario"
+
+msgctxt "39836"
+msgid "New Skill: Snowman"
+msgstr "Nuova abilità: Pupazzo di neve"
+
+msgctxt "39840"
+msgid "Transferring Mountain Gear"
+msgstr "Trasferimento equipaggiamento da montagna"
+
+msgctxt "39844"
+msgid "New Skill: Ice Walk"
+msgstr "Nuova abilità: Camminata sul ghiaccio"
+
+msgctxt "39848"
+msgid "Kimiyo"
+msgstr "Kimiyo"
+
+msgctxt "39852"
+msgid "F_oba_stand"
+msgstr "F_oba_stand"
+
+msgctxt "39856"
+msgid "Talk_Kamae"
+msgstr "Talk_Kamae"
+
+msgctxt "39860"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "39864"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "39868"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "39872"
+msgid "Sakurai"
+msgstr "Sakurai"
+
+msgctxt "39876"
+msgid "adv2_172/sakurai_2_172_010"
+msgstr "adv2_172/sakurai_2_172_010"
+
+msgctxt "39880"
+msgid "adv2_172/saejima_2_172_010"
+msgstr "adv2_172/saejima_2_172_010"
+
+msgctxt "39884"
+msgid "adv2_172/sakurai_2_172_020"
+msgstr "adv2_172/sakurai_2_172_020"
+
+msgctxt "39888"
+msgid "adv2_172/sakurai_2_172_030"
+msgstr "adv2_172/sakurai_2_172_030"
+
+msgctxt "39892"
+msgid "adv2_172/saejima_2_172_020"
+msgstr "adv2_172/saejima_2_172_020"
+
+msgctxt "39896"
+msgid "adv2_172/sakurai_2_172_040"
+msgstr "adv2_172/sakurai_2_172_040"
+
+msgctxt "39900"
+msgid "adv2_172/saejima_2_172_030"
+msgstr "adv2_172/saejima_2_172_030"
+
+msgctxt "39904"
+msgid "adv2_172/sakurai_2_172_050"
+msgstr "adv2_172/sakurai_2_172_050"
+
+msgctxt "39908"
+msgid "adv2_172/sakurai_2_172_060"
+msgstr "adv2_172/sakurai_2_172_060"
+
+msgctxt "39912"
+msgid "adv2_172/saejima_2_172_040"
+msgstr "adv2_172/saejima_2_172_040"
+
+msgctxt "39916"
+msgid "adv2_172/sakurai_2_172_070a"
+msgstr "adv2_172/sakurai_2_172_070a"
+
+msgctxt "39920"
+msgid "adv2_172/sakurai_2_172_070b"
+msgstr "adv2_172/sakurai_2_172_070b"
+
+msgctxt "39924"
+msgid "adv2_172/saejima_2_172_050"
+msgstr "adv2_172/saejima_2_172_050"
+
+msgctxt "39928"
+msgid "adv2_172/sakurai_2_172_080"
+msgstr "adv2_172/sakurai_2_172_080"
+
+msgctxt "39932"
+msgid "adv2_172/saejima_2_172_060"
+msgstr "adv2_172/saejima_2_172_060"
+
+msgctxt "39936"
+msgid "adv2_172/sakurai_2_172_090a"
+msgstr "adv2_172/sakurai_2_172_090a"
+
+msgctxt "39940"
+msgid "adv2_172/sakurai_2_172_090b"
+msgstr "adv2_172/sakurai_2_172_090b"
+
+msgctxt "39944"
+msgid "adv2_172/sakurai_2_172_100"
+msgstr "adv2_172/sakurai_2_172_100"
+
+msgctxt "39948"
+msgid "adv2_172/sakurai_2_172_110"
+msgstr "adv2_172/sakurai_2_172_110"
+
+msgctxt "39952"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "39956"
+msgid "adv2_172/saejima_2_172_070"
+msgstr "adv2_172/saejima_2_172_070"
+
+msgctxt "39960"
+msgid "adv2_172/sakurai_2_172_120"
+msgstr "adv2_172/sakurai_2_172_120"
+
+msgctxt "39964"
+msgid "adv2_172/sakurai_2_172_130"
+msgstr "adv2_172/sakurai_2_172_130"
+
+msgctxt "39968"
+msgid "adv2_172/sakurai_2_172_140a"
+msgstr "adv2_172/sakurai_2_172_140a"
+
+msgctxt "39972"
+msgid "adv2_172/sakurai_2_172_140b"
+msgstr "adv2_172/sakurai_2_172_140b"
+
+msgctxt "39976"
+msgid "adv2_172/saejima_2_172_080"
+msgstr "adv2_172/saejima_2_172_080"
+
+msgctxt "39980"
+msgid "adv2_172/sakurai_2_172_150"
+msgstr "adv2_172/sakurai_2_172_150"
+
+msgctxt "39984"
+msgid "adv2_172/sakurai_2_172_160"
+msgstr "adv2_172/sakurai_2_172_160"
+
+msgctxt "39988"
+msgid "adv2_172/sakurai_2_172_170"
+msgstr "adv2_172/sakurai_2_172_170"
+
+msgctxt "39992"
+msgid "I gotta go up there."
+msgstr "Devo salire lassù."
+
+msgctxt "39996"
+msgid "Fine, I won't go up."
+msgstr "Va bene, non salirò."
+
+msgctxt "40000"
+msgid "adv2_172/saejima_2_172_190"
+msgstr "adv2_172/saejima_2_172_190"
+
+msgctxt "40004"
+msgid "adv2_172/sakurai_2_172_250a"
+msgstr "adv2_172/sakurai_2_172_250a"
+
+msgctxt "40008"
+msgid "adv2_172/sakurai_2_172_250b"
+msgstr "adv2_172/sakurai_2_172_250b"
+
+msgctxt "40012"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "40016"
+msgid "adv2_172/saejima_2_172_110"
+msgstr "adv2_172/saejima_2_172_110"
+
+msgctxt "40020"
+msgid "adv2_172/sakurai_2_172_180"
+msgstr "adv2_172/sakurai_2_172_180"
+
+msgctxt "40024"
+msgid "adv2_172/saejima_2_172_120"
+msgstr "adv2_172/saejima_2_172_120"
+
+msgctxt "40028"
+msgid "adv2_172/sakurai_2_172_190a"
+msgstr "adv2_172/sakurai_2_172_190a"
+
+msgctxt "40032"
+msgid "adv2_172/sakurai_2_172_190b"
+msgstr "adv2_172/sakurai_2_172_190b"
+
+msgctxt "40036"
+msgid "adv2_172/saejima_2_172_130"
+msgstr "adv2_172/saejima_2_172_130"
+
+msgctxt "40040"
+msgid "adv2_172/sakurai_2_172_200"
+msgstr "adv2_172/sakurai_2_172_200"
+
+msgctxt "40044"
+msgid "adv2_172/saejima_2_172_140"
+msgstr "adv2_172/saejima_2_172_140"
+
+msgctxt "40048"
+msgid "adv2_172/sakurai_2_172_210"
+msgstr "adv2_172/sakurai_2_172_210"
+
+msgctxt "40052"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "40056"
+msgid "adv2_172/saejima_2_172_150"
+msgstr "adv2_172/saejima_2_172_150"
+
+msgctxt "40060"
+msgid "adv2_172/sakurai_2_172_220"
+msgstr "adv2_172/sakurai_2_172_220"
+
+msgctxt "40064"
+msgid "adv2_172/saejima_2_172_160"
+msgstr "adv2_172/saejima_2_172_160"
+
+msgctxt "40068"
+msgid "adv2_172/sakurai_2_172_230"
+msgstr "adv2_172/sakurai_2_172_230"
+
+msgctxt "40072"
+msgid "adv2_172/saejima_2_172_170"
+msgstr "adv2_172/saejima_2_172_170"
+
+msgctxt "40076"
+msgid "adv2_172/sakurai_2_172_240a"
+msgstr "adv2_172/sakurai_2_172_240a"
+
+msgctxt "40080"
+msgid "adv2_172/sakurai_2_172_240b"
+msgstr "adv2_172/sakurai_2_172_240b"
+
+msgctxt "40084"
+msgid "adv2_172/saejima_2_172_180"
+msgstr "adv2_172/saejima_2_172_180"
+
+msgctxt "40088"
+msgid "Authoritative Villager"
+msgstr "Abitante autorevole"
+
+msgctxt "40092"
+msgid "adv2_171/nishina_2_171_010"
+msgstr "adv2_171/nishina_2_171_010"
+
+msgctxt "40096"
+msgid "adv2_171/nishina_2_171_020"
+msgstr "adv2_171/nishina_2_171_020"
+
+msgctxt "40100"
+msgid "adv2_171/saejima_2_171_010"
+msgstr "adv2_171/saejima_2_171_010"
+
+msgctxt "40104"
+msgid "Nishina"
+msgstr "Nishina"
+
+msgctxt "40108"
+msgid "adv2_171/nishina_2_171_030"
+msgstr "adv2_171/nishina_2_171_030"
+
+msgctxt "40112"
+msgid "adv2_171/saejima_2_171_020"
+msgstr "adv2_171/saejima_2_171_020"
+
+msgctxt "40116"
+msgid "adv2_171/nishina_2_171_040"
+msgstr "adv2_171/nishina_2_171_040"
+
+msgctxt "40120"
+msgid "adv2_171/nishina_2_171_050"
+msgstr "adv2_171/nishina_2_171_050"
+
+msgctxt "40124"
+msgid "adv2_171/saejima_2_171_030"
+msgstr "adv2_171/saejima_2_171_030"
+
+msgctxt "40128"
+msgid "adv2_171/nishina_2_171_060"
+msgstr "adv2_171/nishina_2_171_060"
+
+msgctxt "40132"
+msgid "adv2_171/saejima_2_171_040"
+msgstr "adv2_171/saejima_2_171_040"
+
+msgctxt "40136"
+msgid "adv2_171/nishina_2_171_070"
+msgstr "adv2_171/nishina_2_171_070"
+
+msgctxt "40140"
+msgid "adv2_171/saejima_2_171_050"
+msgstr "adv2_171/saejima_2_171_050"
+
+msgctxt "40144"
+msgid "adv2_171/nishina_2_171_080"
+msgstr "adv2_171/nishina_2_171_080"
+
+msgctxt "40148"
+msgid "adv2_171/nishina_2_171_090"
+msgstr "adv2_171/nishina_2_171_090"
+
+msgctxt "40152"
+msgid "adv2_171/nishina_2_171_100"
+msgstr "adv2_171/nishina_2_171_100"
+
+msgctxt "40156"
+msgid "adv2_171/saejima_2_171_060"
+msgstr "adv2_171/saejima_2_171_060"
+
+msgctxt "40160"
+msgid "adv2_171/nishina_2_171_110"
+msgstr "adv2_171/nishina_2_171_110"
+
+msgctxt "40164"
+msgid "adv2_171/saejima_2_171_070"
+msgstr "adv2_171/saejima_2_171_070"
+
+msgctxt "40168"
+msgid "adv2_171/nishina_2_171_120"
+msgstr "adv2_171/nishina_2_171_120"
+
+msgctxt "40172"
+msgid "adv2_171/saejima_2_171_080"
+msgstr "adv2_171/saejima_2_171_080"
+
+msgctxt "40176"
+msgid "adv2_171/nishina_2_171_130"
+msgstr "adv2_171/nishina_2_171_130"
+
+msgctxt "40180"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "40184"
+msgid "adv2_171/saejima_2_171_090"
+msgstr "adv2_171/saejima_2_171_090"
+
+msgctxt "40188"
+msgid "adv2_171/nishina_2_171_140"
+msgstr "adv2_171/nishina_2_171_140"
+
+msgctxt "40192"
+msgid "adv2_171/saejima_2_171_100"
+msgstr "adv2_171/saejima_2_171_100"
+
+msgctxt "40196"
+msgid "adv2_171/nishina_2_171_150"
+msgstr "adv2_171/nishina_2_171_150"
+
+msgctxt "40200"
+msgid "adv2_171/saejima_2_171_110"
+msgstr "adv2_171/saejima_2_171_110"
+
+msgctxt "40204"
+msgid "adv2_171/nishina_2_171_160a"
+msgstr "adv2_171/nishina_2_171_160a"
+
+msgctxt "40208"
+msgid "adv2_171/nishina_2_171_160b"
+msgstr "adv2_171/nishina_2_171_160b"
+
+msgctxt "164_Okudera"
+msgid "Never thought I'd have to be rescued by anyone. I'm getting old."
+msgstr ""
+"Non avrei mai pensato che qualcuno dovesse venire a salvarmi. Sto diventando"
+" vecchio."
+
+msgctxt "176_Saejima"
+msgid "I'm just glad yer safe. You're like a mentor to me, Okudera-han."
+msgstr ""
+"Sono solo felice che stiate bene. Siete come un mentore per me, Okudera-han."
+
+msgctxt "188_Okudera"
+msgid "Hmph."
+msgstr "Hmph."
+
+msgctxt "200_Okudera"
+msgid "Let's eat. Baba there must be hungry."
+msgstr "Mangiamo. Quel Baba deve avere fame."
+
+msgctxt "272_Baba"
+msgid ""
+"This is... good, I think. It's not as gamey as I thought it would be. Yep, "
+"yep, tasty. Real tasty."
+msgstr ""
+"Questo è... buono, credo. Non sa di selvatico come pensavo. Sì, sì, "
+"saporito. Davvero saporito."
+
+msgctxt "284_Saejima"
+msgid ""
+"Can't say I like it myself... Just tastes lean and dry. But that's rabbit "
+"for ya."
+msgstr ""
+"Non posso dire che piaccia un granché pure a me... Sa solo di magro e "
+"asciutto. Ma d'altronde, il coniglio è così."
+
+msgctxt "296_Baba"
+msgid "I feel like it's making my strength return, at least."
+msgstr "Sento che mi sta facendo tornare le forze, almeno."
+
+msgctxt "308_Okudera"
+msgid "Seems you're well on the way to recovery, Baba."
+msgstr "Pare che tu sia sulla buona strada per riprenderti, Baba."
+
+msgctxt "320_Baba"
+msgid ""
+"Yes. I... I really want to thank you both. For everything. I'm very\r\n"
+"grateful."
+msgstr ""
+"Sì. Io... voglio davvero ringraziarvi entrambi. Per tutto. Vi sono molto\n"
+"grato."
+
+msgctxt "332_Okudera"
+msgid ""
+"Saejima, good news about your cold weather clothes. I used the rabbit's skin"
+" to patch them up. Would you like to try them on?"
+msgstr ""
+"Saejima, buone notizie per i tuoi abiti per il freddo. Ho usato la pelle del"
+" coniglio per rattopparli. Ti va di provarli?"
+
+msgctxt "392_Saejima"
+msgid "Real warm. Downright cozy."
+msgstr "Davvero caldi. Si sta un incanto."
+
+msgctxt "404_Okudera"
+msgid "That'll slow down your energy loss on the mountain."
+msgstr "Rallenterà la perdita di energie in montagna."
+
+msgctxt "416_Saejima"
+msgid "Thank you, Okudera-han."
+msgstr "Grazie, Okudera-han."
+
+msgctxt "428_New Equipment"
+msgid "You got Special Cold Wear."
+msgstr "Hai ottenuto l'Abbigliamento per il freddo speciale."
+
+msgctxt "440_Okudera"
+msgid ""
+"Don't thank me. You're the one who caught the rabbit, and risked your life "
+"to do so."
+msgstr ""
+"Non ringraziarmi. Sei tu quello che ha catturato il coniglio, rischiando la "
+"vita per farlo."
+
+msgctxt "452_Saejima"
+msgid "Hmph, modest as always."
+msgstr "Mpf, modesto come sempre."
+
+msgctxt "464_Baba"
+msgid "Heh. That's for sure."
+msgstr "Heh. Poco ma sicuro."
+
+msgctxt "476_Okudera"
+msgid "So be it, then."
+msgstr "E sia, allora."
+
+msgctxt "500_Saejima"
+msgid "Where ya goin' now?"
+msgstr "Dove vai adesso?"
+
+msgctxt "512_Okudera"
+msgid ""
+"To check on the village. I want to see if the road is still closed from the "
+"snow."
+msgstr ""
+"A dare un'occhiata al villaggio. Voglio vedere se la strada è ancora chiusa "
+"per la neve."
+
+msgctxt "524_Okudera"
+msgid "Surely you two have something to do yourselves?"
+msgstr "Di sicuro avrete qualcosa da fare anche voi, no?"
+
+msgctxt "536_Saejima"
+msgid ""
+"Yah. How 'bout I go instead of you? Can't have my own mentor doin' my work "
+"for me."
+msgstr ""
+"Già. Che ne dici se ci vado io al posto tuo? Non posso permettere che il mio"
+" mentore faccia il lavoro al posto mio."
+
+msgctxt "548_Saejima"
+msgid ""
+"'Sides, Okudera-han, ya can't be over yer injuries already. Ya still need "
+"rest."
+msgstr ""
+"E poi, Okudera-han, non puoi esserti già ripreso dalle ferite. Hai ancora "
+"bisogno di riposo."
+
+msgctxt "560_Okudera"
+msgid "Hmph. Well, do as you will."
+msgstr "Mpf. Beh, fa' come ti pare."
+
+msgctxt "596_C2070_P_BAB_sleepB_kamae"
+msgid "All snow gear must be moved to the Item Box or Inventory."
+msgstr ""
+"Tutto l'equipaggiamento da neve deve essere spostato nella Cassa Oggetti o "
+"nell'Inventario."
+
+msgctxt "656_New Skill: Snowman"
+msgid "Reduces health loss from being in the cold."
+msgstr "Riduce la perdita di salute causata dal freddo."
+
+msgctxt "704_Saejima"
+msgid "Huh, didn't know anybody owned trucks here."
+msgstr "Uhm, non sapevo che qualcuno avesse dei camion qui."
+
+msgctxt "716_Okudera"
+msgid ""
+"None of the villagers do. The guy with the truck is a trader who visits us "
+"to conduct business. He must be stuck here because of the road closure."
+msgstr ""
+"Nessun abitante del villaggio ce l'ha. Il tipo col camion è un commerciante "
+"che viene qui per affari. Dev'essere rimasto bloccato per via della chiusura"
+" della strada."
+
+msgctxt "728_Okudera"
+msgid ""
+"We sell him animal skins and meat, and he sells us goods from the city. Even"
+" in this place, commerce is everything."
+msgstr ""
+"Gli vendiamo pelli e carne, e lui ci vende merce della città. Anche in un "
+"posto come questo, il commercio è tutto."
+
+msgctxt "740_Saejima"
+msgid ""
+"Yeah, just like everywhere else. Guess I'll be doin' business with him "
+"myself soon."
+msgstr ""
+"Già, proprio come dappertutto. Mi sa che tra poco ci dovrò fare affari "
+"anch'io."
+
+msgctxt "752_Okudera"
+msgid ""
+"So go introduce yourself. If you're going to be working with somebody, it's "
+"always best to know each other's names."
+msgstr ""
+"Quindi vai a presentarti. Se hai intenzione di lavorare con qualcuno, è "
+"sempre meglio conoscere i rispettivi nomi."
+
+msgctxt "800_Okudera"
+msgid "You made it back safely. The mountain was kind to you."
+msgstr "Sei tornato sano e salvo. La montagna è stata clemente con te."
+
+msgctxt "812_Okudera"
+msgid ""
+"Tell me when you decide to go hunting again. Until then, I'll hold on to "
+"your rifle. Okay?"
+msgstr ""
+"Dimmi quando deciderai di tornare a caccia. Fino ad allora, il tuo fucile lo"
+" terrò io. Va bene?"
+
+msgctxt "824_Saejima"
+msgid "Sure, nice of ya."
+msgstr "Certo, gentile da parte tua."
+
+msgctxt "848_Transferring Mountain Gear"
+msgid ""
+"If you collect an item on the mountain and want to use it elsewhere, move it"
+" to your Inventory when you return to the village."
+msgstr ""
+"Se raccogli un oggetto sulla montagna e vuoi usarlo altrove, spostalo nel "
+"tuo Inventario quando torni al villaggio."
+
+msgctxt "860_Transferring Mountain Gear"
+msgid ""
+"Upon return, items you collected on the mountain are moved to the Item Box.\r\n"
+"Transfer the ones you want to use to your Inventory. The deer meat for\r\n"
+"Nishina's wife has been automatically moved to Valuables."
+msgstr ""
+"Al tuo ritorno, gli oggetti raccolti sulla montagna vengono spostati nella Cassa oggetti.\n"
+"Sposta quelli che vuoi usare nel tuo Inventario. La carne di cervo per\n"
+"la moglie di Nishina è stata spostata automaticamente negli Oggetti di valore."
+
+msgctxt "932_New Skill: Ice Walk"
+msgid "Raises walking speed in the snow."
+msgstr "Aumenta la velocità di camminata sulla neve."
+
+msgctxt "956_Saejima"
+msgid "What're ya doin' with that shovel?"
+msgstr "Che ci fai con quel badile?"
+
+msgctxt "968_Kimiyo"
+msgid "Huh? Oh, I was going to dig up some meat I buried here last fall."
+msgstr ""
+"Eh? Oh, stavo per dissotterrare della carne che avevo seppellito qui "
+"l'autunno scorso."
+
+msgctxt "980_Saejima"
+msgid "Ya buried some meat?"
+msgstr "Hai seppellito della carne?"
+
+msgctxt "992_Kimiyo"
+msgid ""
+"Yes, the ground acts as a natural freezer, so the meat can stay there all "
+"winter without spoiling. We store food this way for emergencies."
+msgstr ""
+"Sì, il terreno funge da congelatore naturale, così la carne può restare lì "
+"tutto l'inverno senza andare a male. Conserviamo il cibo in questo modo per "
+"le emergenze."
+
+msgctxt "1004_Saejima"
+msgid ""
+"Alright. Uh, so if yer diggin' it up... does that mean there's an emergency?"
+msgstr ""
+"Va bene. Uh, quindi se lo stai dissotterrando... significa che c'è "
+"un'emergenza?"
+
+msgctxt "1016_Kimiyo"
+msgid "...I suppose you could call it that."
+msgstr "...Suppongo che si possa definire così."
+
+msgctxt "1028_Saejima"
+msgid "(So she shared food with me when they were already running low...)"
+msgstr "(Quindi ha spartito il cibo con me quando erano già a corto...)"
+
+msgctxt "1040_Saejima"
+msgid "Is yer husband out huntin'? Saw some deer on the mountain yesterday."
+msgstr "Tuo marito è fuori a caccia? Ieri ho visto dei cervi sulla montagna."
+
+msgctxt "1052_Kimiyo"
+msgid ""
+"No, because Okudera-san left on a hunt this morning. While he's out there, "
+"none of the others will go."
+msgstr ""
+"No, perché Okudera-san è uscito a caccia stamattina. Finché lui è là fuori, "
+"nessuno degli altri ci andrà."
+
+msgctxt "1064_Saejima"
+msgid "Why's that?"
+msgstr "Perché?"
+
+msgctxt "1076_Kimiyo"
+msgid ""
+"They say that Yama-oroshi is more likely to attack when Okudera-san's scent "
+"is in the air. Just like that day nine years ago."
+msgstr ""
+"Dicono che sia più probabile che Yama-oroshi attacchi quando l'odore di "
+"Okudera-san è nell'aria. Proprio come quel giorno di nove anni fa."
+
+msgctxt "1088_Saejima"
+msgid ""
+"So, yer husband stays at home, afraid to hunt, and then makes ya come out "
+"here an' dig up meat?"
+msgstr ""
+"Quindi tuo marito se ne sta a casa, ha paura di andare a caccia, e poi manda"
+" te fin qui a dissotterrare della carne?"
+
+msgctxt "1100_Kimiyo"
+msgid ""
+"Huh? Oh, no, no... It's not like that. I just thought today was a good day "
+"to do this."
+msgstr ""
+"Eh? Oh, no, no... Non è così. Ho solo pensato che oggi fosse il giorno "
+"giusto per farlo."
+
+msgctxt "1112_Saejima"
+msgid "Hm."
+msgstr "Mh."
+
+msgctxt "1124_Kimiyo"
+msgid "Oh! Here it is!"
+msgstr "Oh! Eccolo qui!"
+
+msgctxt "1196_Kimiyo"
+msgid ""
+"This meat from last fall has more fat on it than the meat hunted at other "
+"times of the year."
+msgstr ""
+"Questa carne dell'autunno scorso ha più grasso rispetto a quella cacciata in"
+" altri periodi dell'anno."
+
+msgctxt "1208_Saejima"
+msgid "Interestin'."
+msgstr "Interessante."
+
+msgctxt "1220_Kimiyo"
+msgid "Here... for you."
+msgstr "Tieni... è per te."
+
+msgctxt "1232_Saejima"
+msgid "Eh? Why for me?"
+msgstr "Eh? Perché a me?"
+
+msgctxt "1244_Kimiyo"
+msgid "You're going after Okudera-san again, aren't you?"
+msgstr "Stai andando di nuovo a cercare Okudera-san, vero?"
+
+msgctxt "1256_Saejima"
+msgid "Sure, might be, but..."
+msgstr "Certo, può darsi, ma..."
+
+msgctxt "1268_Kimiyo"
+msgid "Well, better safe than sorry."
+msgstr "Beh, meglio andare sul sicuro."
+
+msgctxt "1280_Saejima"
+msgid "But... ain't ya in need of this food?"
+msgstr "Ma... non ne hai bisogno tu, di questo cibo?"
+
+msgctxt "1292_Kimiyo"
+msgid ""
+"Yes. But I can't turn my back on someone determined to go to the mountain in"
+" this blizzard."
+msgstr ""
+"Sì. Ma non posso voltare le spalle a qualcuno determinato ad andare in "
+"montagna con questa bufera."
+
+msgctxt "1304_Kimiyo"
+msgid ""
+"If it makes you feel any better about it, come back and share food with me "
+"if you happen to gather any while you're on the mountain."
+msgstr ""
+"Se ti fa sentire meglio, torna a spartire il cibo con me se ti capita di "
+"trovarne un po' mentre sei in montagna."
+
+msgctxt "1316_Saejima"
+msgid "I will. That's a promise."
+msgstr "Lo farò. È una promessa."
+
+msgctxt "1328_Kimiyo"
+msgid "In the past, we all used to help each other out like this."
+msgstr "In passato, ci aiutavamo tutti a vicenda in questo modo."
+
+msgctxt "1340_Kimiyo"
+msgid ""
+"That's the kind of village I remember, at least. Please, be careful out "
+"there."
+msgstr ""
+"Almeno, questo è il tipo di villaggio che ricordo. Per favore, sta' attento "
+"là fuori."
+
+msgctxt "1424_Sakurai"
+msgid "You're Saejima-san, aren't you?"
+msgstr "Sei Saejima-san, vero?"
+
+msgctxt "1436_Saejima"
+msgid "How'd ya know my name?"
+msgstr "E tu come fai a sapere il mio nome?"
+
+msgctxt "1448_Sakurai"
+msgid ""
+"Okudera-san told me to look out for a big man almost two meters tall, and if"
+" he tried to leave the village, I should stop him."
+msgstr ""
+"Okudera-san mi ha detto di tenere d'occhio un uomo enorme alto quasi due "
+"metri e che, se avesse cercato di lasciare il villaggio, avrei dovuto "
+"fermarlo."
+
+msgctxt "1460_Sakurai"
+msgid "Okudera-san doesn't want a repeat of the tragedy nine years ago."
+msgstr "Okudera-san non vuole che si ripeta la tragedia di nove anni fa."
+
+msgctxt "1472_Saejima"
+msgid "What tragedy?"
+msgstr "Quale tragedia?"
+
+msgctxt "1484_Sakurai"
+msgid "Yama-oroshi attacked our village."
+msgstr "Yama-oroshi ha attaccato il nostro villaggio."
+
+msgctxt "1496_Saejima"
+msgid "Yama-oroshi. Ya mean that giant bear?"
+msgstr "Yama-oroshi. Intendi quell'orso gigante?"
+
+msgctxt "1508_Sakurai"
+msgid ""
+"Yeah. At the time, Okudera lived with his hunting partner, a man named Sato."
+" He was a good guy. But one day..."
+msgstr ""
+"Già. A quel tempo, Okudera viveva con il suo compagno di caccia, un uomo di "
+"nome Sato. Era un brav'uomo. Ma un giorno..."
+
+msgctxt "1520_Sakurai"
+msgid ""
+"Sato was pursuing Yama-oroshi, and ended up chasing him straight into the "
+"village. It was terrifying for all of us."
+msgstr ""
+"Sato stava inseguendo Yama-oroshi e ha finito per spingerlo dritto fin "
+"dentro al villaggio. È stato terrificante per tutti noi."
+
+msgctxt "1532_Saejima"
+msgid "Geez..."
+msgstr "Accidenti..."
+
+msgctxt "1544_Sakurai"
+msgid ""
+"You see, that day, Sato heard that Yama-oroshi had been spotted, so he took "
+"it upon himself to go eliminate the menace."
+msgstr ""
+"Vedi, quel giorno Sato sentì che Yama-oroshi era stato avvistato, così si "
+"prese l'incarico di andare a eliminare quella minaccia."
+
+msgctxt "1556_Sakurai"
+msgid "There was a blizzard that day, too."
+msgstr "C'era una tormenta anche quel giorno."
+
+msgctxt "1580_Saejima"
+msgid "And? What happened?"
+msgstr "E quindi? Cos'è successo?"
+
+msgctxt "1592_Sakurai"
+msgid ""
+"Sato went missing. Okudera-san went after him, and was injured badly. And "
+"that's... when it happened."
+msgstr ""
+"Sato scomparve. Okudera-san andò a cercarlo e rimase gravemente ferito. Ed è"
+" stato allora... che è successo."
+
+msgctxt "1604_Saejima"
+msgid "Yama-oroshi's attack on the village?"
+msgstr "L'attacco di Yama-oroshi al villaggio?"
+
+msgctxt "1616_Sakurai"
+msgid "Yes. Thankfully, nobody died. That was a miracle in and of itself."
+msgstr "Sì. Per fortuna non è morto nessuno. È stato un miracolo di per sé."
+
+msgctxt "1628_Sakurai"
+msgid ""
+"But buildings were knocked flat, and every last morsel of food in storage "
+"was eaten."
+msgstr ""
+"Ma gli edifici furono rasi al suolo e ogni singolo briciolo di cibo nelle "
+"scorte venne divorato."
+
+msgctxt "1640_Sakurai"
+msgid ""
+"Getting through the winter is always tough. Losing our entire food supplies "
+"like that... it was devastating. You can't imagine."
+msgstr ""
+"Superare l'inverno è sempre dura. Perdere tutte le nostre scorte di cibo in "
+"quel modo... è stato devastante. Non puoi neanche immaginare."
+
+msgctxt "1652_Sakurai"
+msgid "We were pushed to the very brink of starvation."
+msgstr "Siamo stati spinti proprio sull'orlo della fame."
+
+msgctxt "1664_Saejima"
+msgid "That's terrible."
+msgstr "È terribile."
+
+msgctxt "1676_Sakurai"
+msgid ""
+"Ever since then, Okudera-san's been shunned by the rest of the village."
+msgstr "Da allora, Okudera-san è stato evitato dal resto del villaggio."
+
+msgctxt "1688_Sakurai"
+msgid ""
+"And every winter, when it's snowing hard, he still takes to the mountain in "
+"search of Yama-oroshi."
+msgstr ""
+"E ogni inverno, quando nevica forte, sale ancora sulla montagna in cerca di "
+"Yama-oroshi."
+
+msgctxt "1700_Sakurai"
+msgid "He shows no consideration for the other hunters."
+msgstr "Non mostra alcun riguardo per gli altri cacciatori."
+
+msgctxt "1712_Sakurai"
+msgid ""
+"Maybe he's trying to get revenge for what Yama-oroshi did nine years ago. "
+"That's what the rest of us think, anyway."
+msgstr ""
+"Forse sta cercando di vendicarsi per quello che ha fatto Yama-oroshi nove "
+"anni fa. Comunque, è quello che pensiamo noi altri."
+
+msgctxt "1724_Saejima"
+msgid "An' that's what he's doin' right now?"
+msgstr "Ed è quello che sta facendo proprio adesso?"
+
+msgctxt "1736_Sakurai"
+msgid ""
+"No, he said he had an errand today. Something about finding Yama-oroshi's "
+"food source."
+msgstr ""
+"No, ha detto che oggi aveva una commissione. Qualcosa riguardo alla ricerca "
+"della fonte di cibo di Yama-oroshi."
+
+msgctxt "1748_Saejima"
+msgid "(He means Baba-chan.)"
+msgstr "(Si riferisce a Baba-chan.)"
+
+msgctxt "1760_Saejima"
+msgid "(Tellin' Okudera-han about Yama-oroshi has stirred up trouble...)"
+msgstr ""
+"(Aver parlato a Okudera-han di Yama-oroshi ha scatenato un bel casino...)"
+
+msgctxt "1772_Sakurai"
+msgid ""
+"Look, you don't need to know any of this, anyway. You shouldn't go up to the"
+" mountain－you'll just be another guy to worry about."
+msgstr ""
+"Senti, tanto non hai bisogno di sapere nulla di tutto questo. Non dovresti "
+"andare sulla montagna－saresti solo un altro di cui preoccuparsi."
+
+msgctxt "1784_Sakurai"
+msgid "Trust me, you should just go home."
+msgstr "Dammi retta, faresti meglio a tornartene a casa."
+
+msgctxt "1796_Saejima"
+msgid "Fine, I won't go up."
+msgstr "Va bene, non salirò."
+
+msgctxt "1808_Sakurai"
+msgid ""
+"Oh. Interesting. After everything Okudera-san told me, I was expecting you "
+"to be someone with a spine of steel, who wouldn't care what I had to say."
+msgstr ""
+"Oh. Interessante. Dopo tutto quello che mi ha detto Okudera-san, mi "
+"aspettavo che fossi uno con la schiena d’acciaio, che non avrebbe dato peso "
+"alle mie parole."
+
+msgctxt "1820_Sakurai"
+msgid "But instead, you're wise. You're choosing the safer option."
+msgstr "E invece sei saggio. Stai scegliendo l’opzione più sicura."
+
+msgctxt "1832_Saejima"
+msgid ""
+"I hafta go up there. I owe my life to Okudera－I can't just leave 'im alone "
+"in a blizzard. Gotta ask ya not to stand in my way."
+msgstr ""
+"Devo salire lassù. Devo la vita a Okudera—non posso lasciarlo da solo in una"
+" bufera. Ti chiedo di non metterti sulla mia strada."
+
+msgctxt "1844_Sakurai"
+msgid "Wow. Y'know... you're just like he said."
+msgstr "Wow. Sai… sei proprio come ha detto lui."
+
+msgctxt "1856_Saejima"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "1868_Sakurai"
+msgid "Yeah. Here's something else that Okudera-san said to me:"
+msgstr "Già. Ecco un’altra cosa che Okudera-san mi ha detto:"
+
+msgctxt "1880_Sakurai"
+msgid ""
+"\"Saejima won't listen if you try to stop him. But, try anyway. And then "
+"help him so at least he won't come blundering in blindly.\""
+msgstr ""
+"«Saejima non ascolterà se cerchi di fermarlo. Ma provaci comunque. E poi "
+"aiutalo, così almeno non si butterà allo sbaraglio.»"
+
+msgctxt "1892_Saejima"
+msgid "Okudera-han said that?"
+msgstr "Okudera-han ha detto questo?"
+
+msgctxt "1904_Sakurai"
+msgid ""
+"Yeah. He knew you wouldn't give up. And neither of us wants you to rush into"
+" this not knowing up from down."
+msgstr ""
+"Sì. Sapeva che non avresti mollato. E nessuno di noi vuole che ti butti in "
+"questa cosa senza sapere cosa ti aspetta."
+
+msgctxt "1916_Saejima"
+msgid "Alright. So what do I do?"
+msgstr "Va bene. Allora cosa devo fare?"
+
+msgctxt "1928_Sakurai"
+msgid ""
+"First, your clothing. Hm... Actually, what you're wearing right now should "
+"be good enough. After all, it's not like you'll be hunting or anything."
+msgstr ""
+"Prima, i tuoi vestiti. Hm… in realtà, quello che indossi ora dovrebbe andare"
+" bene. Dopotutto, non andrai a caccia o altro."
+
+msgctxt "1940_Saejima"
+msgid "Ah. Sounds good, then."
+msgstr "Ah. Va bene, allora."
+
+msgctxt "1952_Sakurai"
+msgid "So that only leaves two things: food for emergencies, and a good map."
+msgstr ""
+"Quindi restano solo due cose: cibo per le emergenze e una buona mappa."
+
+msgctxt "1964_Saejima"
+msgid "How do I get those?"
+msgstr "Come li ottengo?"
+
+msgctxt "1976_Sakurai"
+msgid ""
+"I'll draw you a map. But food might be a problem. It's hard enough for the "
+"villagers to just feed themselves."
+msgstr ""
+"La mappa te la disegno io. Ma il cibo potrebbe essere un problema. Per i "
+"villaggi è già difficile sfamare se stessi."
+
+msgctxt "1988_Saejima"
+msgid "I b'lieve that..."
+msgstr "Ci credo…"
+
+msgctxt "2000_Sakurai"
+msgid "While I'm drawing the map, why don't you try scrounging up some food?"
+msgstr ""
+"Mentre disegno la mappa, perché non provi a procurarti un po’ di cibo?"
+
+msgctxt "2012_Sakurai"
+msgid ""
+"If you explain your situation, someone might give you what little they have "
+"to spare."
+msgstr ""
+"Se spieghi la tua situazione, qualcuno potrebbe darti quel poco che può "
+"permettersi di condividere."
+
+msgctxt "2024_Saejima"
+msgid "Okay. I'll give it a try."
+msgstr "Okay. Ci proverò."
+
+msgctxt "2060_Authoritative Villager"
+msgid "Hey, hold on there."
+msgstr "Ehi, aspetta un momento."
+
+msgctxt "2084_Authoritative Villager"
+msgid ""
+"You're the one who got hauled into the village this morning, right? I've got"
+" something to ask you."
+msgstr ""
+"Sei tu quello che hanno portato al villaggio stamattina, giusto? Ho una cosa"
+" da chiederti."
+
+msgctxt "2096_Saejima"
+msgid "Who are you?"
+msgstr "Chi sei?"
+
+msgctxt "2108_Nishina"
+msgid "I'm Nishina. I'm what you might call the leader of the hunters."
+msgstr ""
+"Sono Nishina. Sono quello che potresti definire il capo dei cacciatori."
+
+msgctxt "2120_Saejima"
+msgid "So there's a huntin' community here."
+msgstr "Quindi qui c'è una comunità di cacciatori."
+
+msgctxt "2132_Nishina"
+msgid "Yeah. It's a dying way of life, but we're still here for now."
+msgstr ""
+"Già. È uno stile di vita che sta scomparendo, ma per ora siamo ancora qui."
+
+msgctxt "2144_Nishina"
+msgid ""
+"Traditional hunters have called this village home ever since it was founded."
+msgstr ""
+"I cacciatori tradizionali hanno fatto di questo villaggio la loro casa sin "
+"dalla sua fondazione."
+
+msgctxt "2156_Saejima"
+msgid "What was it ya wanted to ask me?"
+msgstr "Cos'è che volevi chiedermi?"
+
+msgctxt "2168_Nishina"
+msgid ""
+"We're worried... about another guy who's also a visitor to our town, much "
+"like yourself. We don't know what he's going to do next."
+msgstr ""
+"Siamo preoccupati... per un altro tizio, anche lui un forestiero qui al "
+"villaggio, proprio come te. Non sappiamo cosa abbia intenzione di fare."
+
+msgctxt "2180_Saejima"
+msgid "What other visitor?"
+msgstr "Quale altro forestiero?"
+
+msgctxt "2192_Nishina"
+msgid "Okudera. The man who brought you in."
+msgstr "Okudera. L'uomo che ti ha portato qui."
+
+msgctxt "2204_Saejima"
+msgid "He's a newcomer?"
+msgstr "È un forestiero?"
+
+msgctxt "2216_Nishina"
+msgid ""
+"No, not a newcomer. He's lived in the village a long time, actually. But "
+"he's still considered a visitor, because he's not originally from here."
+msgstr ""
+"No, non è un nuovo arrivato. In realtà vive nel villaggio da un sacco di "
+"tempo. Ma viene ancora considerato un forestiero, perché non è originario di"
+" qui."
+
+msgctxt "2228_Nishina"
+msgid ""
+"In fact, I don't know where he came from. One of our hunters found him in "
+"the woods one day. He was lost, so the hunter brought him back to the "
+"village. Then he just... stayed."
+msgstr ""
+"A dire il vero, non so nemmeno da dove sia venuto. Un giorno uno dei nostri "
+"cacciatori lo trovò nei boschi. Si era perso, così lo riportò al villaggio. "
+"Poi è semplicemente... rimasto."
+
+msgctxt "2240_Nishina"
+msgid ""
+"That was ten years ago. Ever since, he's only been trouble to us locals."
+msgstr ""
+"È successo dieci anni fa. Da allora, non ha fatto altro che causare problemi"
+" a noi del posto."
+
+msgctxt "2252_Saejima"
+msgid ""
+"(Looks like there ain't no love lost 'tween the villagers and Okudera-han.)"
+msgstr ""
+"(Sembra che non corra proprio buon sangue tra gli abitanti del villaggio e "
+"Okudera-han.)"
+
+msgctxt "2264_Saejima"
+msgid "So, what's concernin' ya?"
+msgstr "Quindi, cos'è che vi preoccupa?"
+
+msgctxt "2276_Nishina"
+msgid ""
+"I heard he went to the mountain this morning. Is it because the monster was "
+"sighted?"
+msgstr ""
+"Ho sentito che stamattina è andato in montagna. È perché è stato avvistato "
+"il mostro?"
+
+msgctxt "2288_Saejima"
+msgid "Monster?"
+msgstr "Mostro?"
+
+msgctxt "2300_Nishina"
+msgid ""
+"Yama-oroshi. He's a giant, man-eating bear. Twice the size of a regular "
+"bear."
+msgstr ""
+"Yama-oroshi. È un orso gigante, un mangiatore di uomini. Grande il doppio di"
+" un orso normale."
+
+msgctxt "2312_Saejima"
+msgid "Yeah? Huh. Sounds like the bear that attacked me."
+msgstr "Ah sì? Mh. Sembra proprio l'orso che mi ha attaccato."
+
+msgctxt "2324_Nishina"
+msgid "What!? You were attacked by Yama-oroshi?"
+msgstr "Cosa!? Sei stato attaccato da Yama-oroshi?"
+
+msgctxt "2336_Saejima"
+msgid ""
+"I mean, I ain't sure or nothin', but it fits yer description of the beast."
+msgstr ""
+"Voglio dire, non ne sono proprio sicuro, ma corrisponde alla vostra "
+"descrizione della bestia."
+
+msgctxt "2348_Nishina"
+msgid "Does Okudera know about this?"
+msgstr "Okudera ne è al corrente?"
+
+msgctxt "2360_Saejima"
+msgid "Yeah, 'course."
+msgstr "Sì, certo."
+
+msgctxt "2372_Nishina"
+msgid ""
+"Then... that's why... Agh, there's no time to explain! I have to tell the "
+"others."
+msgstr ""
+"Allora... ecco perché... Ah, non c'è tempo per spiegare! Devo avvisare gli "
+"altri."
+
+msgctxt "2384_Saejima"
+msgid "Somethin' the matter?"
+msgstr "Qualcosa non va?"
+
+msgctxt "2396_Nishina"
+msgid "Yes! If you don't plan on dying today, go inside and lock up tight!"
+msgstr "Sì! Se non hai intenzione di morire oggi, vai dentro e sbarra tutto!"
+
+msgctxt "2408_Nishina"
+msgid "Whatever you do, don't go chasing after Okudera. You understand!?"
+msgstr ""
+"Qualunque cosa tu faccia, non provare a inseguire Okudera. Mi hai capito!?"
+
+msgctxt "2432_C2070_P_BAB_sleepB_kamae"
+msgid ""
+"(Musta been some trouble here... Somethin' to do with Okudera-han and that "
+"man-eatin' bear.)"
+msgstr ""
+"(Dev'esserci stato qualche guaio qui... Qualcosa che ha a che fare con "
+"Okudera-han e quell'orso mangiatore di uomini.)"
+
+msgctxt "2468_Saejima"
+msgid ""
+"(Who woulda thought there'd be a village this deep in the mountains...)"
+msgstr ""
+"(Chi l'avrebbe mai detto che ci fosse un villaggio così nel cuore delle "
+"montagne...)"
+
+msgctxt "2480_Saejima"
+msgid "(Damn, and it's mornin' already. How long was I out?)"
+msgstr "(Dannazione, è già mattina. Per quanto tempo sono rimasto svenuto?)"

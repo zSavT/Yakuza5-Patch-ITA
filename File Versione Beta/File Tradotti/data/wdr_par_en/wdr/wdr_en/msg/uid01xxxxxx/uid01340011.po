@@ -1,0 +1,280 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "11488"
+msgid "Attendant"
+msgstr "Addetto"
+
+msgctxt "11492"
+msgid "M_SHP_TLK_stand_ojigi"
+msgstr "M_SHP_TLK_stand_ojigi"
+
+msgctxt "11496"
+msgid "Visit"
+msgstr "Visita"
+
+msgctxt "11500"
+msgid "Leave"
+msgstr "Andarsene"
+
+msgctxt "11504"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "11508"
+msgid "M_SHP_TLK_stand_quest"
+msgstr "M_SHP_TLK_stand_quest"
+
+msgctxt "11512"
+msgid "Stay Longer"
+msgstr "Resta ancora"
+
+msgctxt "11516"
+msgid "Baseball"
+msgstr "Baseball"
+
+msgctxt "11520"
+msgid "People of Fukuoka"
+msgstr "La gente di Fukuoka"
+
+msgctxt "11524"
+msgid "Lots of Pretty Girls"
+msgstr "Tante ragazze carine"
+
+msgctxt "11528"
+msgid "Uses for Spicy Fish Roe"
+msgstr "Usi delle uova di pesce piccanti"
+
+msgctxt "11532"
+msgid "Tomato Tonkotsu for Women"
+msgstr "Tonkotsu al pomodoro per donne"
+
+msgctxt "11536"
+msgid "Hotpot for Beautiful Skin"
+msgstr "Hotpot per una pelle splendida"
+
+msgctxt "11540"
+msgid "Local Vending Machines"
+msgstr "Distributori automatici locali"
+
+msgctxt "11544"
+msgid "Popular Hakata Textiles for Women"
+msgstr "Popolari tessuti di Hakata per donne"
+
+msgctxt "11548"
+msgid "Nothing"
+msgstr "Niente"
+
+msgctxt "11552"
+msgid "Her Likes"
+msgstr "Cosa le piace"
+
+msgctxt "11556"
+msgid "Her Hobbies"
+msgstr "I suoi hobby"
+
+msgctxt "11560"
+msgid "Her Thoughts on Romance"
+msgstr "Cosa pensa dell'amore"
+
+msgctxt "11564"
+msgid "About Herself"
+msgstr "Su di lei"
+
+msgctxt "11568"
+msgid "TMI"
+msgstr "Troppe informazioni"
+
+msgctxt "11572"
+msgid "Order Something"
+msgstr "Ordina qualcosa"
+
+msgctxt "11576"
+msgid "Don't Order"
+msgstr "Non ordinare"
+
+msgctxt "11580"
+msgid "Ask Her Out"
+msgstr "Chiedile di uscire"
+
+msgctxt "11584"
+msgid "Not Yet"
+msgstr "Non ancora"
+
+msgctxt "11588"
+msgid "Go Home"
+msgstr "Torna a casa"
+
+msgctxt "268_Attendant"
+msgid "Hello there. Welcome to La Seine."
+msgstr "Salve. Benvenuto a La Seine."
+
+msgctxt "280_Attendant"
+msgid ""
+"Our establishment has an 8,400 yen minimum, along with a 3,150 yen cover "
+"charge. Choosing a specific hostess incurs another 3,150 yen fee."
+msgstr ""
+"Il nostro locale prevede una consumazione minima di 8.400 yen, oltre a una "
+"quota d'ingresso di 3.150 yen. Scegliere una hostess specifica comporta "
+"un'ulteriore tariffa di 3.150 yen."
+
+msgctxt "304_Attendant"
+msgid "Would you like to join us today?"
+msgstr "Le andrebbe di accomodarsi oggi?"
+
+msgctxt "328_Attendant"
+msgid "I'll find you a hostess then. This way, sir."
+msgstr "Allora le cercherò una hostess. Da questa parte, signore."
+
+msgctxt "340_Attendant"
+msgid "You'd like to see Riku-san? This way, sir."
+msgstr "Desidera vedere Riku-san? Da questa parte, signore."
+
+msgctxt "352_Attendant"
+msgid "I see. We hope you'll come by again, sir."
+msgstr "Capisco. Ci auguriamo di rivederla presto, signore."
+
+msgctxt "364_Attendant"
+msgid ""
+"I'm terribly sorry, sir, but Riku-san isn't available at the moment, I'm "
+"afraid."
+msgstr ""
+"Sono davvero spiacente, signore, ma temo che Riku-san non sia disponibile al"
+" momento."
+
+msgctxt "376_Player"
+msgid "I see. I'll come back later, then."
+msgstr "Capisco. Allora tornerò più tardi."
+
+msgctxt "388_Attendant"
+msgid "We look forward to your next visit, sir."
+msgstr "La aspettiamo per la sua prossima visita, signore."
+
+msgctxt "400_Player"
+msgid "(Damn. I don't have enough money.)"
+msgstr "(Accidenti. Non ho abbastanza soldi.)"
+
+msgctxt "412_Player"
+msgid "Hold on!"
+msgstr "Aspetta!"
+
+msgctxt "424_Attendant"
+msgid "Is something the matter?"
+msgstr "C'è qualcosa che non va?"
+
+msgctxt "436_Player"
+msgid "Sorry. I'll have to come back later."
+msgstr "Scusa. Dovrò tornare più tardi."
+
+msgctxt "448_Player"
+msgid "(I'll need at least 15,000 yen.)"
+msgstr "(Mi serviranno almeno 15.000 yen.)"
+
+msgctxt "460_Attendant"
+msgid "Your check, sir."
+msgstr "Ecco il conto, signore."
+
+msgctxt "472_Attendant"
+msgid "Thank you very much."
+msgstr "Grazie mille."
+
+msgctxt "520_Attendant"
+msgid ""
+"You're coming up on your time limit, sir. Would you care for an extension?"
+msgstr ""
+"Il tempo a sua disposizione sta per scadere, signore. Desidera un "
+"prolungamento?"
+
+msgctxt "532_Attendant"
+msgid "Very well, then. Enjoy the rest of your stay."
+msgstr "Molto bene, allora. Le auguro un buon proseguimento."
+
+msgctxt "544_Attendant"
+msgid "Understood, sir."
+msgstr "Capito, signore."
+
+msgctxt "556_Attendant"
+msgid ""
+"You're coming up on your time limit, sir. Would you care for an extension?"
+msgstr ""
+"Il tempo a sua disposizione sta per scadere, signore. Desidera un "
+"prolungamento?"
+
+msgctxt "568_Player"
+msgid "(I can't afford an extension right now.)"
+msgstr "(Al momento non posso permettermi un prolungamento.)"
+
+msgctxt "580_Player"
+msgid "No thanks. I'll be on my way."
+msgstr "No grazie. Ora vado."
+
+msgctxt "592_Attendant"
+msgid "Understood, sir."
+msgstr "Capito, signore."
+
+msgctxt "604_Player"
+msgid "(Should I change the subject?)"
+msgstr "(Dovrei cambiare argomento?)"
+
+msgctxt "616_Player"
+msgid "(Maybe I should ask a question?)"
+msgstr "(Forse dovrei farle una domanda?)"
+
+msgctxt "628_Player"
+msgid "(Maybe I should order something?)"
+msgstr "(Forse dovrei ordinare qualcosa?)"
+
+msgctxt "640_Player"
+msgid "(Should I give her a present?)"
+msgstr "(Dovrei farle un regalo?)"
+
+msgctxt "652_Player"
+msgid "(Should I ask her out on a date?)"
+msgstr "(Dovrei chiederle di uscire?)"
+
+msgctxt "664_Player"
+msgid "(I should be on my way.)"
+msgstr "(Dovrei andare.)"
+
+msgctxt "676_Player"
+msgid "(What should I talk about?)"
+msgstr "(Di cosa dovrei parlare?)"
+
+msgctxt "940_Player"
+msgid "(What should I ask about?)"
+msgstr "(Cosa dovrei chiederle?)"
+
+msgctxt "1024_Player"
+msgid "(What should I do?)"
+msgstr "(Che faccio?)"
+
+msgctxt "1108_Player"
+msgid "(She already said yes. I shouldn't be so pushy about it.)"
+msgstr "(Ha già detto di sì. Non dovrei insistere troppo.)"
+
+msgctxt "1120_Player"
+msgid ""
+"(She already turned me down once. I should probably wait before I ask her "
+"again.)"
+msgstr ""
+"(Mi ha già rifiutato una volta. Probabilmente dovrei aspettare prima di "
+"chiederglielo di nuovo.)"
+
+msgctxt "1132_Player"
+msgid "(What should I do?)"
+msgstr "(Che faccio?)"
+
+msgctxt "1168_Player"
+msgid "(What should I do?)"
+msgstr "(Che faccio?)"

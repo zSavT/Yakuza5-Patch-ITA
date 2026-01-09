@@ -1,0 +1,1151 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "584"
+msgid ""
+"<Color:8>\r\n"
+"<Color:Default>"
+msgstr ""
+"<Color:8>\n"
+"<Color:Default>"
+
+msgctxt "728"
+msgid ""
+"<Color:8>\r\n"
+"<Color:Default>"
+msgstr ""
+"<Color:8>\n"
+"<Color:Default>"
+
+msgctxt "45888"
+msgid "Riku"
+msgstr "Riku"
+
+msgctxt "45892"
+msgid "cab_riku_a_01/riku_36_0001"
+msgstr "cab_riku_a_01/riku_36_0001"
+
+msgctxt "45896"
+msgid "F_cab_stand_tlk_ojigi_01"
+msgstr "F_cab_stand_tlk_ojigi_01"
+
+msgctxt "45900"
+msgid "cab_riku_a_01/riku_36_0006"
+msgstr "cab_riku_a_01/riku_36_0006"
+
+msgctxt "45904"
+msgid "F_cab_stand_tlk_ojigi_02"
+msgstr "F_cab_stand_tlk_ojigi_02"
+
+msgctxt "45908"
+msgid "cab_riku_a_01/riku_36_0007"
+msgstr "cab_riku_a_01/riku_36_0007"
+
+msgctxt "45912"
+msgid "F_cab_stand_tlk_byeA"
+msgstr "F_cab_stand_tlk_byeA"
+
+msgctxt "45916"
+msgid "cab_riku_a_01/riku_36_0008"
+msgstr "cab_riku_a_01/riku_36_0008"
+
+msgctxt "45920"
+msgid "cab_riku_a_01/riku_36_0002"
+msgstr "cab_riku_a_01/riku_36_0002"
+
+msgctxt "45924"
+msgid "cab_riku_a_01/riku_36_0003"
+msgstr "cab_riku_a_01/riku_36_0003"
+
+msgctxt "45928"
+msgid "2d_mr_meishi_riku00"
+msgstr "2d_mr_meishi_riku00"
+
+msgctxt "45932"
+msgid "cab_riku_a_01/riku_36_0004"
+msgstr "cab_riku_a_01/riku_36_0004"
+
+msgctxt "45936"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "45940"
+msgid "cab_riku_a_01/riku_36_0005"
+msgstr "cab_riku_a_01/riku_36_0005"
+
+msgctxt "45944"
+msgid "cab_riku_a_01/riku_36_0009"
+msgstr "cab_riku_a_01/riku_36_0009"
+
+msgctxt "45948"
+msgid "2d_mr_meishi_riku01"
+msgstr "2d_mr_meishi_riku01"
+
+msgctxt "45952"
+msgid "cab_riku_a_01/riku_36_0010"
+msgstr "cab_riku_a_01/riku_36_0010"
+
+msgctxt "45956"
+msgid "F_cab_sitsofa_tlk_tereruA"
+msgstr "F_cab_sitsofa_tlk_tereruA"
+
+msgctxt "45960"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr "F_cab_sitsofa_tlk_noA"
+
+msgctxt "45964"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr "F_cab_sitsofa_tlk_suprise"
+
+msgctxt "45968"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "45972"
+msgid "P_sitsofaR_tlk_yes"
+msgstr "P_sitsofaR_tlk_yes"
+
+msgctxt "45976"
+msgid "F_cab_sitsofa_sync_order"
+msgstr "F_cab_sitsofa_sync_order"
+
+msgctxt "45980"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr "F_cab_sitsofa_tlk_yes"
+
+msgctxt "45984"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "45988"
+msgid "No."
+msgstr "No."
+
+msgctxt "45992"
+msgid "Sorry, no."
+msgstr "Mi dispiace, no."
+
+msgctxt "45996"
+msgid "cab_riku_a_01/riku_36_0011"
+msgstr "cab_riku_a_01/riku_36_0011"
+
+msgctxt "46000"
+msgid "cab_riku_a_01/riku_36_0012"
+msgstr "cab_riku_a_01/riku_36_0012"
+
+msgctxt "46004"
+msgid "F_CAB_TLK_sitsofa_after_st"
+msgstr "F_CAB_TLK_sitsofa_after_st"
+
+msgctxt "46008"
+msgid "cab_riku_f_01/riku_35_0007"
+msgstr "cab_riku_f_01/riku_35_0007"
+
+msgctxt "46012"
+msgid "F_CAB_TLK_sitsofa_after_no"
+msgstr "F_CAB_TLK_sitsofa_after_no"
+
+msgctxt "46016"
+msgid "cab_riku_f_01/riku_35_0009"
+msgstr "cab_riku_f_01/riku_35_0009"
+
+msgctxt "46020"
+msgid "cab_riku_f_01/riku_35_0008"
+msgstr "cab_riku_f_01/riku_35_0008"
+
+msgctxt "46024"
+msgid "cab_riku_f_01/riku_35_0012"
+msgstr "cab_riku_f_01/riku_35_0012"
+
+msgctxt "46028"
+msgid "F_CAB_TLK_sitsofa_after_ok"
+msgstr "F_CAB_TLK_sitsofa_after_ok"
+
+msgctxt "46032"
+msgid "cab_riku_f_01/riku_35_0011"
+msgstr "cab_riku_f_01/riku_35_0011"
+
+msgctxt "46036"
+msgid "cab_riku_f_01/riku_35_0010"
+msgstr "cab_riku_f_01/riku_35_0010"
+
+msgctxt "46040"
+msgid "cab_riku_f_01/riku_35_0013"
+msgstr "cab_riku_f_01/riku_35_0013"
+
+msgctxt "46044"
+msgid "cab_riku_f_01/riku_35_0001"
+msgstr "cab_riku_f_01/riku_35_0001"
+
+msgctxt "46048"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr "F_cab_sitsofa_tlk_happy"
+
+msgctxt "46052"
+msgid "cab_riku_f_01/riku_35_0005"
+msgstr "cab_riku_f_01/riku_35_0005"
+
+msgctxt "46056"
+msgid "cab_riku_f_01/riku_35_0004"
+msgstr "cab_riku_f_01/riku_35_0004"
+
+msgctxt "46060"
+msgid "cab_riku_f_01/riku_35_0003"
+msgstr "cab_riku_f_01/riku_35_0003"
+
+msgctxt "46064"
+msgid "cab_riku_f_01/riku_35_0002"
+msgstr "cab_riku_f_01/riku_35_0002"
+
+msgctxt "46068"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr "F_cab_sitsofa_tlk_angry"
+
+msgctxt "46072"
+msgid "cab_riku_a_01/riku_36_0013"
+msgstr "cab_riku_a_01/riku_36_0013"
+
+msgctxt "46076"
+msgid "F_cab_stand_tlk_byeB"
+msgstr "F_cab_stand_tlk_byeB"
+
+msgctxt "46080"
+msgid "P_TLK_stand_yes"
+msgstr "P_TLK_stand_yes"
+
+msgctxt "46084"
+msgid "cab_riku_a_01/riku_36_0014"
+msgstr "cab_riku_a_01/riku_36_0014"
+
+msgctxt "46088"
+msgid "F_cab_stand_sync_byeC_st"
+msgstr "F_cab_stand_sync_byeC_st"
+
+msgctxt "46092"
+msgid "P_stand_sync_byeC_st"
+msgstr "P_stand_sync_byeC_st"
+
+msgctxt "46096"
+msgid "cab_riku_a_01/riku_36_0015"
+msgstr "cab_riku_a_01/riku_36_0015"
+
+msgctxt "46100"
+msgid "F_cab_stand_sync_byeC_ed"
+msgstr "F_cab_stand_sync_byeC_ed"
+
+msgctxt "46104"
+msgid "P_stand_sync_byeC_ed"
+msgstr "P_stand_sync_byeC_ed"
+
+msgctxt "46108"
+msgid "F_cab_stand_sp14_sync_hoho_st"
+msgstr "F_cab_stand_sp14_sync_hoho_st"
+
+msgctxt "46112"
+msgid "P_stand_sp14_sync_hoho_st"
+msgstr "P_stand_sp14_sync_hoho_st"
+
+msgctxt "46116"
+msgid "cab_riku_a_01/riku_36_0016"
+msgstr "cab_riku_a_01/riku_36_0016"
+
+msgctxt "46120"
+msgid "F_cab_stand_sp14_sync_hoho_ed"
+msgstr "F_cab_stand_sp14_sync_hoho_ed"
+
+msgctxt "46124"
+msgid "P_stand_sp14_sync_hoho_ed"
+msgstr "P_stand_sp14_sync_hoho_ed"
+
+msgctxt "46128"
+msgid "F_cab_stand_sync_dakiA_st"
+msgstr "F_cab_stand_sync_dakiA_st"
+
+msgctxt "46132"
+msgid "P_stand_sync_dakiA_st"
+msgstr "P_stand_sync_dakiA_st"
+
+msgctxt "46136"
+msgid "cab_riku_a_01/riku_36_0017"
+msgstr "cab_riku_a_01/riku_36_0017"
+
+msgctxt "46140"
+msgid "F_cab_stand_sync_dakiA_ed"
+msgstr "F_cab_stand_sync_dakiA_ed"
+
+msgctxt "46144"
+msgid "P_stand_sync_dakiA_ed"
+msgstr "P_stand_sync_dakiA_ed"
+
+msgctxt "46148"
+msgid "F_cab_stand_sp11_sync_mimi_st"
+msgstr "F_cab_stand_sp11_sync_mimi_st"
+
+msgctxt "46152"
+msgid "P_stand_sp11_sync_mimi_st"
+msgstr "P_stand_sp11_sync_mimi_st"
+
+msgctxt "46156"
+msgid "cab_riku_a_01/riku_36_0018"
+msgstr "cab_riku_a_01/riku_36_0018"
+
+msgctxt "46160"
+msgid "F_cab_stand_sp11_sync_mimi_ed"
+msgstr "F_cab_stand_sp11_sync_mimi_ed"
+
+msgctxt "46164"
+msgid "P_stand_sp11_sync_mimi_ed"
+msgstr "P_stand_sp11_sync_mimi_ed"
+
+msgctxt "46168"
+msgid "P_sitsofaR_tlk_gacha"
+msgstr "P_sitsofaR_tlk_gacha"
+
+msgctxt "488_Riku"
+msgid "Hello."
+msgstr "Salve."
+
+msgctxt "500_Riku"
+msgid "Welcome, Kiryu-san! I'm so happy ya picked me!"
+msgstr "Benvenuto, Kiryu-san! Sono felicissima che tu abbia scelto me!"
+
+msgctxt "512_Riku"
+msgid "You came to see me? Does that mean ya like me?"
+msgstr "Sei venuto a trovarmi? Significa che ti piaccio?"
+
+msgctxt "524_Riku"
+msgid "Kiryu-san, I've been waitin' for ya! Today's gonna be a blast!"
+msgstr "Kiryu-san, ti stavo aspettando! Oggi ci divertiremo un sacco!"
+
+msgctxt "560_Riku"
+msgid "Nice to meet you. I'm Riku!"
+msgstr "Piacere di conoscerti. Sono Riku!"
+
+msgctxt "572_Riku"
+msgid "Here's my card. <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Ecco il mio biglietto da visita. <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "608_Riku"
+msgid "You got Riku's business card."
+msgstr "Hai il biglietto da visita di Riku."
+
+msgctxt "644_Riku"
+msgid "Do you mind if I ask your name?"
+msgstr "Ti dispiace se ti chiedo il tuo nome?"
+
+msgctxt "656_Kiryu"
+msgid "My name?"
+msgstr "Il mio nome?"
+
+msgctxt "668_Kiryu"
+msgid "(Using my real name shouldn't be a problem.)"
+msgstr "(Usare il mio vero nome non dovrebbe essere un problema.)"
+
+msgctxt "680_Kiryu"
+msgid "Kazuma Kiryu."
+msgstr "Kazuma Kiryu."
+
+msgctxt "692_Riku"
+msgid "Well then, Kiryu-san, it's great to meet ya!"
+msgstr "Beh allora, Kiryu-san, è un piacere conoscerti!"
+
+msgctxt "704_Kiryu"
+msgid "Nice to meet you too."
+msgstr "Piacere mio."
+
+msgctxt "716_Riku"
+msgid "Hit me up anytime!"
+msgstr "Fatti sentire quando vuoi!"
+
+msgctxt "752_Riku"
+msgid "You got Riku's business card."
+msgstr "Hai il biglietto da visita di Riku."
+
+msgctxt "776_Riku"
+msgid "Just for you, Kiryu-san!"
+msgstr "Solo per te, Kiryu-san!"
+
+msgctxt "824_Riku"
+msgid ""
+"You smell really nice! <Color:255,200,200,255>♥<Color:Default> Are you "
+"wearing cologne? I really like it!"
+msgstr ""
+"Hai un profumo fantastico! <Color:255,200,200,255>♥<Color:Default> Ti sei "
+"messo del profumo? Mi piace un sacco!"
+
+msgctxt "836_Riku"
+msgid ""
+"Oh, look at you, all fancied up! <Color:255,200,200,255>♥<Color:Default> You"
+" take real pride in your appearance, don't ya, Kiryu-san?"
+msgstr ""
+"Oh, ma guardati, tutto in ghingheri! <Color:255,200,200,255>♥<Color:Default>"
+" Ci tieni proprio al tuo aspetto, vero, Kiryu-san?"
+
+msgctxt "848_Riku"
+msgid ""
+"I like what you're wearing today. <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Mi piace come sei vestito oggi. <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "860_Riku"
+msgid "I see you're wearin' the usual."
+msgstr "Vedo che indossi il solito."
+
+msgctxt "872_Riku"
+msgid "Did y'think those clothes look good on you?"
+msgstr "Pensavi che quei vestiti ti stessero bene?"
+
+msgctxt "884_Riku"
+msgid "...You're really not lookin' so hot."
+msgstr "...Non hai proprio un bell'aspetto."
+
+msgctxt "920_Riku"
+msgid "This is an error."
+msgstr "Questo è un errore."
+
+msgctxt "932_Riku"
+msgid "What'll it be?"
+msgstr "Cosa prendete?"
+
+msgctxt "956_Player"
+msgid "I'll have this."
+msgstr "Prendo questo."
+
+msgctxt "968_Riku"
+msgid "Whoa, really!?"
+msgstr "Wow, davvero!?"
+
+msgctxt "980_Riku"
+msgid "Oh wow, Kiryu-san, that's so generous of you!"
+msgstr "Oh wow, Kiryu-san, sei davvero generoso!"
+
+msgctxt "992_Riku"
+msgid "Whoa, really!?"
+msgstr "Wow, davvero!?"
+
+msgctxt "1004_Riku"
+msgid "Gold Champagne it is!"
+msgstr "E Champagne d'oro sia!"
+
+msgctxt "1016_Riku"
+msgid "Gonna try your luck, huh?"
+msgstr "Vuoi tentare la fortuna, eh?"
+
+msgctxt "1028_Riku"
+msgid "Whoa, really!?"
+msgstr "Wow, davvero!?"
+
+msgctxt "1040_Riku"
+msgid "All right, then! We'll keep your bottle for ya, Kiryu-san."
+msgstr "Va bene, allora! Ti terremo da parte la bottiglia, Kiryu-san."
+
+msgctxt "1052_Riku"
+msgid "One bottle for storage!"
+msgstr "Una bottiglia da mettere da parte!"
+
+msgctxt "1064_Riku"
+msgid "All right!"
+msgstr "Bene!"
+
+msgctxt "1076_Riku"
+msgid "All right. A house bottle it is, then."
+msgstr "Va bene. Allora vada per una bottiglia della casa."
+
+msgctxt "1172_Player"
+msgid "Could you get me my bottle?"
+msgstr "Potresti portarmi la mia bottiglia?"
+
+msgctxt "1184_Riku"
+msgid "All right!"
+msgstr "Bene!"
+
+msgctxt "1208_Riku"
+msgid "May I join you for a drink?"
+msgstr "Posso bere qualcosa con te?"
+
+msgctxt "1220_Riku"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "1232_Riku"
+msgid "Oh, all right..."
+msgstr "Oh, va bene..."
+
+msgctxt "1244_Riku"
+msgid "May I join you for a drink?"
+msgstr "Posso bere qualcosa con te?"
+
+msgctxt "1256_Riku"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "1268_Riku"
+msgid "Oh, all right..."
+msgstr "Oh, va bene..."
+
+msgctxt "1280_Riku"
+msgid "Your glass is empty. Did y'want some more?"
+msgstr "Il tuo bicchiere è vuoto. Ne vuoi dell'altro?"
+
+msgctxt "1304_Player"
+msgid "I'll have this."
+msgstr "Prendo questo."
+
+msgctxt "1316_Riku"
+msgid "Whoa, really!?"
+msgstr "Whoa, davvero!?"
+
+msgctxt "1328_Riku"
+msgid "Oh wow, Kiryu-san, that's so generous of you!"
+msgstr "Oh wow, Kiryu-san, sei davvero generoso!"
+
+msgctxt "1340_Riku"
+msgid "Whoa, really!?"
+msgstr "Whoa, davvero!?"
+
+msgctxt "1352_Riku"
+msgid "Gold Champagne it is!"
+msgstr "Champagne Gold sia!"
+
+msgctxt "1364_Riku"
+msgid "Gonna try your luck, huh?"
+msgstr "Vuoi tentare la fortuna, eh?"
+
+msgctxt "1376_Riku"
+msgid "Whoa, really!?"
+msgstr "Whoa, davvero!?"
+
+msgctxt "1388_Riku"
+msgid "All right, then! We'll keep your bottle for ya, Kiryu-san."
+msgstr "Va bene, allora! Terremo la tua bottiglia da parte, Kiryu-san."
+
+msgctxt "1400_Riku"
+msgid "One bottle for storage!"
+msgstr "Una bottiglia da mettere da parte!"
+
+msgctxt "1412_Riku"
+msgid "All right!"
+msgstr "Bene!"
+
+msgctxt "1424_Riku"
+msgid "All right. A house bottle it is, then."
+msgstr "Va bene. Allora vada per una bottiglia della casa."
+
+msgctxt "1532_Riku"
+msgid "May I have another drink?"
+msgstr "Posso prendere un altro drink?"
+
+msgctxt "1544_Player"
+msgid "(Damn, I don't have the cash.)"
+msgstr "(Dannazione, non ho i contanti.)"
+
+msgctxt "1556_Player"
+msgid "Sorry, no."
+msgstr "No, mi dispiace."
+
+msgctxt "1568_Riku"
+msgid "May I have another drink?"
+msgstr "Posso prendere un altro drink?"
+
+msgctxt "1580_Riku"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "1592_Riku"
+msgid "Oh, all right..."
+msgstr "Oh, va bene..."
+
+msgctxt "1604_Riku"
+msgid "May I have another drink?"
+msgstr "Posso prendere un altro drink?"
+
+msgctxt "1616_Riku"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "1628_Riku"
+msgid "Oh, all right..."
+msgstr "Oh, va bene..."
+
+msgctxt "1640_Player"
+msgid "I'm kind of hungry."
+msgstr "Ho un po' di fame."
+
+msgctxt "1652_Riku"
+msgid "What would y'like?"
+msgstr "Cosa ti va?"
+
+msgctxt "1676_Player"
+msgid "I'll have this please."
+msgstr "Prendo questo, per favore."
+
+msgctxt "1688_Riku"
+msgid "Sure thing!"
+msgstr "Certo!"
+
+msgctxt "1700_Riku"
+msgid "Oh, you like that, huh? <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Oh, ti piace, eh? <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "1712_Riku"
+msgid "Sure, all right."
+msgstr "Certo, va bene."
+
+msgctxt "1724_Riku"
+msgid "You like that? I never woulda figured."
+msgstr "Ti piace? Non l'avrei mai detto."
+
+msgctxt "1736_Riku"
+msgid "Okay. Another time then."
+msgstr "Va bene. Sarà per un'altra volta allora."
+
+msgctxt "1772_Riku"
+msgid "Wanna play the chocolate stick game?"
+msgstr "Ti va di fare il gioco del bastoncino di cioccolato?"
+
+msgctxt "1784_Player"
+msgid "Heh, sure."
+msgstr "Heh, certo."
+
+msgctxt "1820_Riku"
+msgid "Here, I'll feed it to ya. <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Ecco, te lo imbocco io. <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "1832_Player"
+msgid "What!?"
+msgstr "Cosa!?"
+
+msgctxt "1928_Riku"
+msgid "C'mere, please!"
+msgstr "Vieni qui, per favore!"
+
+msgctxt "2024_Riku"
+msgid "I'm puttin' it together now."
+msgstr "Lo sto preparando proprio ora."
+
+msgctxt "2036_Player"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "2048_Riku"
+msgid "Here ya go!"
+msgstr "Eccoti!"
+
+msgctxt "2060_Riku"
+msgid "You're quite the drinker!"
+msgstr "Sei proprio un gran bevitore!"
+
+msgctxt "2072_Player"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "2084_Riku"
+msgid "Here ya go!"
+msgstr "Eccoti!"
+
+msgctxt "2096_Riku"
+msgid "Your glass is empty. Lemme fix that."
+msgstr "Hai il bicchiere vuoto. Ci penso io."
+
+msgctxt "2108_Player"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "2120_Riku"
+msgid "Here ya go!"
+msgstr "Eccoti!"
+
+msgctxt "2168_Riku"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "2180_Riku"
+msgid "Thanks for comin'! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Grazie di essere venuto! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "2192_Player"
+msgid "I have to be on my way."
+msgstr "Devo andare."
+
+msgctxt "2216_Riku"
+msgid ""
+"Okay, can y'hang out somewhere and wait for me? I'll give you a call later, "
+"'kay?"
+msgstr ""
+"Ok, puoi farti un giro da qualche parte e aspettarmi? Ti chiamo più tardi, "
+"ok?"
+
+msgctxt "2228_Player"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "2252_Riku"
+msgid "All right, let me get you your check, then."
+msgstr "Va bene, allora vado a prenderti il conto."
+
+msgctxt "2264_Riku"
+msgid "Check, please!"
+msgstr "Il conto, per favore!"
+
+msgctxt "2276_Riku"
+msgid "You're leavin' already?"
+msgstr "Te ne vai già?"
+
+msgctxt "2288_Player"
+msgid "Yeah..."
+msgstr "Già..."
+
+msgctxt "2300_Riku"
+msgid "Check, please!"
+msgstr "Il conto, per favore!"
+
+msgctxt "2312_Riku"
+msgid "Your glass is empty. Did y'want some more?"
+msgstr "Il tuo bicchiere è vuoto. Ne vuoi ancora?"
+
+msgctxt "2324_Player"
+msgid "(Damn, I don't have the cash.)"
+msgstr "(Dannazione, non ho i soldi.)"
+
+msgctxt "2336_Riku"
+msgid "You're leavin' already?"
+msgstr "Te ne vai già?"
+
+msgctxt "2348_Player"
+msgid "Yeah..."
+msgstr "Già..."
+
+msgctxt "2360_Riku"
+msgid "Check, please!"
+msgstr "Il conto, per favore!"
+
+msgctxt "2372_Riku"
+msgid "May I join you for a drink?"
+msgstr "Posso unirmi a te per un drink?"
+
+msgctxt "2384_Player"
+msgid "(Damn, I don't have the cash.)"
+msgstr "(Dannazione, non ho i soldi.)"
+
+msgctxt "2396_Player"
+msgid "Sorry, I have to be on my way."
+msgstr "Scusa, adesso devo andare."
+
+msgctxt "2408_Riku"
+msgid "You're leavin' already?"
+msgstr "Te ne vai già?"
+
+msgctxt "2420_Player"
+msgid "Yeah..."
+msgstr "Già..."
+
+msgctxt "2432_Riku"
+msgid "Check, please!"
+msgstr "Il conto, per favore!"
+
+msgctxt "2444_Riku"
+msgid "......"
+msgstr "......"
+
+msgctxt "2456_Player"
+msgid ""
+"(Looks like we've run out of things to talk about. I should get going.)"
+msgstr "(Sembra che abbiamo esaurito gli argomenti. Farei meglio ad andare.)"
+
+msgctxt "2468_Player"
+msgid "I have to be on my way."
+msgstr "Adesso devo andare."
+
+msgctxt "2480_Riku"
+msgid "You're leavin' already?"
+msgstr "Te ne vai già?"
+
+msgctxt "2492_Player"
+msgid "Yeah..."
+msgstr "Già..."
+
+msgctxt "2504_Riku"
+msgid "Check, please!"
+msgstr "Il conto, per favore!"
+
+msgctxt "2516_Player"
+msgid "Feel like coming out with me after this?"
+msgstr "Ti va di uscire con me dopo?"
+
+msgctxt "2540_Riku"
+msgid "What? I already told ya no! Geez, you're a nag."
+msgstr "Cosa? Ti ho già detto di no! Mamma mia, quanto sei pesante."
+
+msgctxt "2552_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "2564_Riku"
+msgid "Askin' again ain't gonna change my mind!"
+msgstr "Chiedermelo ancora non mi farà cambiare idea!"
+
+msgctxt "2576_Player"
+msgid "Hm..."
+msgstr "Mmm..."
+
+msgctxt "2588_Riku"
+msgid "Like after this?"
+msgstr "Tipo dopo?"
+
+msgctxt "2612_Riku"
+msgid ""
+"Sorry, Kiryu-san. I've already got a previous engagement today. But ask me "
+"again next time."
+msgstr ""
+"Mi dispiace, Kiryu-san. Ho già un altro impegno per oggi. Però riprova la "
+"prossima volta."
+
+msgctxt "2624_Player"
+msgid "Ah, all right. It's okay. I understand."
+msgstr "Ah, va bene. Non preoccuparti. Capisco."
+
+msgctxt "2636_Riku"
+msgid "Hmm. Not today, sorry. I'm feelin' kinda off."
+msgstr "Mmm. Oggi no, scusa. Non mi sento molto in forma."
+
+msgctxt "2648_Player"
+msgid "All right. Maybe another time, when you feel up to it."
+msgstr "Va bene. Magari un'altra volta, quando te la senti."
+
+msgctxt "2660_Riku"
+msgid "Hmm. Maybe after we get t'know each other a bit better."
+msgstr "Mmm. Magari quando ci saremo conosciuti un po' meglio."
+
+msgctxt "2672_Player"
+msgid "Got it."
+msgstr "Capito."
+
+msgctxt "2684_Riku"
+msgid "This is an error."
+msgstr "Questo è un errore."
+
+msgctxt "2696_Player"
+msgid "Feel like coming out with me after this?"
+msgstr "Ti va di uscire con me dopo?"
+
+msgctxt "2720_Riku"
+msgid "Okay, fine, if ya insist. But only for a little while, 'kay?"
+msgstr "E va bene, se proprio insisti. Però solo per un po', ok?"
+
+msgctxt "2732_Player"
+msgid "All right!"
+msgstr "Bene!"
+
+msgctxt "2744_Riku"
+msgid ""
+"Haha. You wanna go out with me that bad? Sure. But just for a little bit, "
+"'kay?"
+msgstr "Ahah. Vuoi uscire con me così tanto? Certo. Ma solo per un po', ok?"
+
+msgctxt "2756_Player"
+msgid "Heh, all right."
+msgstr "Heh, va bene."
+
+msgctxt "2768_Riku"
+msgid "Like after this?"
+msgstr "Tipo dopo?"
+
+msgctxt "2792_Riku"
+msgid "Sure. I've been wantin' to spend more time with ya myself."
+msgstr "Certo. Anch'io volevo passare più tempo con te."
+
+msgctxt "2804_Player"
+msgid "I see."
+msgstr "Capisco."
+
+msgctxt "2816_Riku"
+msgid "Of course I do! There's no way I'd turn ya down, Kiryu-san."
+msgstr "Certo che sì! Non potrei mai rifiutarti, Kiryu-san."
+
+msgctxt "2828_Player"
+msgid "That's what I like to hear."
+msgstr "Proprio quello che volevo sentire."
+
+msgctxt "2840_Riku"
+msgid "Yeah, okay. I got nothin' else to do."
+msgstr "Sì, va bene. Tanto non ho nient'altro da fare."
+
+msgctxt "2852_Player"
+msgid "Really?"
+msgstr "Davvero?"
+
+msgctxt "2864_Riku"
+msgid "This is an error."
+msgstr "Questo è un errore."
+
+msgctxt "2876_Riku"
+msgid "What's up?"
+msgstr "Che c'è?"
+
+msgctxt "2900_Riku"
+msgid "Oh wow, is this really for me?"
+msgstr "Oh wow, è proprio per me?"
+
+msgctxt "2912_Kiryu"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "2924_Riku"
+msgid "But getting somethin' this expensive makes me feel kinda guilty."
+msgstr "Ma ricevere qualcosa di così costoso mi fa sentire un po' in colpa."
+
+msgctxt "2936_Kiryu"
+msgid "Really?"
+msgstr "Davvero?"
+
+msgctxt "2948_Riku"
+msgid "Oh, no way! I had my eye on this! Thank you!"
+msgstr "Oh, non ci credo! Lo tenevo d'occhio! Grazie!"
+
+msgctxt "2960_Riku"
+msgid "Are you sure!? I'll take good care of it!"
+msgstr "Dici sul serio!? Ne avrò molta cura!"
+
+msgctxt "2972_Riku"
+msgid "Oh, thanks..."
+msgstr "Oh, grazie..."
+
+msgctxt "2984_Riku"
+msgid "What's this? I dunno what to do with it."
+msgstr "E questo cos'è? Non so proprio cosa farmene."
+
+msgctxt "2996_Riku"
+msgid "Huh? You're givin' me another one?"
+msgstr "Eh? Me ne regali un altro?"
+
+msgctxt "3008_Riku"
+msgid "But you already gave me this. Don't ya remember?"
+msgstr "Ma questo me l'hai già dato. Non te lo ricordi?"
+
+msgctxt "3020_Riku"
+msgid "This is an error."
+msgstr "Questo è un errore."
+
+msgctxt "3176_Riku"
+msgid "Kiryu-san, will y'come and see me again?"
+msgstr "Kiryu-san, verrai ancora a trovarmi?"
+
+msgctxt "3188_Player"
+msgid "I'll ask for you next time."
+msgstr "La prossima volta chiederò di te."
+
+msgctxt "3200_Riku"
+msgid "You mean it? Then I'll be waitin'!"
+msgstr "Dici sul serio? Allora ti aspetterò!"
+
+msgctxt "3236_Riku"
+msgid "Kiryu-san!"
+msgstr "Kiryu-san!"
+
+msgctxt "3248_Riku"
+msgid "I had lotsa fun today!"
+msgstr "Mi sono divertita un sacco oggi!"
+
+msgctxt "3260_Player"
+msgid "Yeah, me too."
+msgstr "Sì, anch'io."
+
+msgctxt "3272_Riku"
+msgid "Hehe. <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Ehe. <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3296_Riku"
+msgid "Kiryu-san!"
+msgstr "Kiryu-san!"
+
+msgctxt "3308_Riku"
+msgid "Thanks for comin' by! See ya later!"
+msgstr "Grazie di essere passato! A dopo!"
+
+msgctxt "3320_Player"
+msgid "Later."
+msgstr "A dopo."
+
+msgctxt "3332_Riku"
+msgid "Hehe. <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Ehe. <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3356_Riku"
+msgid "Kiryu-san!"
+msgstr "Kiryu-san!"
+
+msgctxt "3368_Riku"
+msgid "I'll be waitin' for ya!"
+msgstr "Ti aspetterò!"
+
+msgctxt "3380_Player"
+msgid "Thanks."
+msgstr "Grazie."
+
+msgctxt "3392_Riku"
+msgid "Hehe. <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Ehe. <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3428_Riku"
+msgid "Kiryu-san!"
+msgstr "Kiryu-san!"
+
+msgctxt "3440_Riku"
+msgid "I'll see ya later! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Ci vediamo dopo! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3452_Player"
+msgid "Sure thing."
+msgstr "Ma certo!"
+
+msgctxt "3464_Riku"
+msgid "Hehe. <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Ehe. <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3476_Riku"
+msgid "Wonder what you're gonna get."
+msgstr "Chissà cosa riceverai."
+
+msgctxt "3488_Player"
+msgid "Here goes."
+msgstr "Si parte."
+
+msgctxt "3572_Riku"
+msgid "You won <Color:8>Toughness Infinity<Color:Default>!"
+msgstr "Hai vinto <Color:8>Toughness Infinity<Color:Default>!"
+
+msgctxt "3596_Riku"
+msgid "Oh, that one's kinda common."
+msgstr "Oh, quello è piuttosto comune."
+
+msgctxt "3608_Player"
+msgid "I see."
+msgstr "Capisco."
+
+msgctxt "3620_Riku"
+msgid "You won <Color:8>French Cologne<Color:Default>!"
+msgstr "Hai vinto <Color:8>French Cologne<Color:Default>!"
+
+msgctxt "3644_Riku"
+msgid "Oh, that one's kinda common."
+msgstr "Oh, quello è piuttosto comune."
+
+msgctxt "3656_Player"
+msgid "I see."
+msgstr "Capisco."
+
+msgctxt "3668_Riku"
+msgid "You won <Color:8>Staminan Spark<Color:Default>!"
+msgstr "Hai vinto <Color:8>Staminan Spark<Color:Default>!"
+
+msgctxt "3692_Riku"
+msgid "Yeah, that's pretty okay I guess."
+msgstr "Sì, direi che non è male."
+
+msgctxt "3704_Player"
+msgid "I see."
+msgstr "Capisco."
+
+msgctxt "3716_Riku"
+msgid "You won <Color:8>Goddess of Children Amulet<Color:Default>!"
+msgstr "Hai vinto <Color:8>Goddess of Children Amulet<Color:Default>!"
+
+msgctxt "3740_Riku"
+msgid "Yeah, that's pretty okay I guess."
+msgstr "Sì, direi che non è male."
+
+msgctxt "3752_Player"
+msgid "I see."
+msgstr "Capisco."
+
+msgctxt "3764_Riku"
+msgid "You won <Color:8>Monogrammed Bag<Color:Default>!"
+msgstr "Hai vinto <Color:8>Monogrammed Bag<Color:Default>!"
+
+msgctxt "3788_Riku"
+msgid "Oh, wow! Those are wicked rare!"
+msgstr "Oh, wow! Quelli sono rarissimi!"
+
+msgctxt "3800_Player"
+msgid "Oh, really?"
+msgstr "Oh, davvero?"
+
+msgctxt "3812_Riku"
+msgid "You won <Color:8>Italian Women's Watch<Color:Default>!"
+msgstr "Hai vinto <Color:8>Italian Women's Watch<Color:Default>!"
+
+msgctxt "3836_Riku"
+msgid "Oh, wow! Those are wicked rare!"
+msgstr "Oh, wow! Quelli sono rarissimi!"
+
+msgctxt "3848_Player"
+msgid "Oh, really?"
+msgstr "Oh, davvero?"
+
+msgctxt "3860_Riku"
+msgid "You won <Color:8>Mystery Stone<Color:Default>!"
+msgstr "Hai vinto <Color:8>Mystery Stone<Color:Default>!"
+
+msgctxt "3884_Riku"
+msgid "Oh, wow! Those are wicked rare!"
+msgstr "Oh, wow! Quelli sono rarissimi!"
+
+msgctxt "3896_Player"
+msgid "Oh, really?"
+msgstr "Oh, davvero?"
+
+msgctxt "3908_Riku"
+msgid "You won <Color:8>Swiss Watch<Color:Default>!"
+msgstr "Hai vinto <Color:8>Swiss Watch<Color:Default>!"
+
+msgctxt "3932_Riku"
+msgid ""
+"Oh wow, you hit the jackpot! Congrats, Kiryu-san! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Oh wow, hai fatto il jackpot! Congratulazioni, Kiryu-san! "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3944_Player"
+msgid "Great!"
+msgstr "Ottimo!"
+
+msgctxt "3956_Riku"
+msgid "You won <Color:8>Platinum Membership Card<Color:Default>!"
+msgstr "Hai vinto <Color:8>Platinum Membership Card<Color:Default>!"
+
+msgctxt "3980_Riku"
+msgid ""
+"Oh wow, you hit the jackpot! Congrats, Kiryu-san! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Oh wow, hai fatto il jackpot! Congratulazioni, Kiryu-san! "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3992_Player"
+msgid "Great!"
+msgstr "Ottimo!"
+
+msgctxt "4004_Riku"
+msgid "Time for the chocolate stick game!"
+msgstr "È ora del gioco dei bastoncini di cioccolato!"
+
+msgctxt "4016_Riku"
+msgid "One bottle of champagne!"
+msgstr "Una bottiglia di champagne!"
+
+msgctxt "4028_Riku"
+msgid "Champagne tower, please!"
+msgstr "Una piramide di champagne, per favore!"

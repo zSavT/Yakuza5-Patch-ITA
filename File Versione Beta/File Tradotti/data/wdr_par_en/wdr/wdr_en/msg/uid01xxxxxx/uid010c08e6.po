@@ -1,0 +1,709 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "20960"
+msgid "Nagging Naoko"
+msgstr "Naoko la Brontolona"
+
+msgctxt "20964"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "20968"
+msgid "I'm sorry, but that's not possible."
+msgstr "Mi dispiace, ma non è possibile."
+
+msgctxt "20972"
+msgid "I'll do my absolute best."
+msgstr "Farò del mio assoluto meglio."
+
+msgctxt "20976"
+msgid "......"
+msgstr "......"
+
+msgctxt "20980"
+msgid "SS1_P_TAX_no"
+msgstr "SS1_P_TAX_no"
+
+msgctxt "20984"
+msgid "SS1_F_OBA_TAX_chohatu"
+msgstr "SS1_F_OBA_TAX_chohatu"
+
+msgctxt "20988"
+msgid "SS1_F_OBA_TAX_angry"
+msgstr "SS1_F_OBA_TAX_angry"
+
+msgctxt "20992"
+msgid "SS1_P_TAX_question"
+msgstr "SS1_P_TAX_question"
+
+msgctxt "20996"
+msgid "SS1_F_OBA_TAX_nod"
+msgstr "SS1_F_OBA_TAX_nod"
+
+msgctxt "21000"
+msgid "SS1_F_OBA_TAX_angry2"
+msgstr "SS1_F_OBA_TAX_angry2"
+
+msgctxt "21004"
+msgid "SS1_P_TAX_nod_A"
+msgstr "SS1_P_TAX_nod_A"
+
+msgctxt "21008"
+msgid "SS1_F_OBA_TAX_question"
+msgstr "SS1_F_OBA_TAX_question"
+
+msgctxt "21012"
+msgid "SS1_F_OBA_TAX_talk"
+msgstr "SS1_F_OBA_TAX_talk"
+
+msgctxt "21016"
+msgid "SS1_P_TAX_sad"
+msgstr "SS1_P_TAX_sad"
+
+msgctxt "21020"
+msgid "SS1_F_OBA_TAX_no"
+msgstr "SS1_F_OBA_TAX_no"
+
+msgctxt "21024"
+msgid "SS1_F_OBA_TAX_angry1"
+msgstr "SS1_F_OBA_TAX_angry1"
+
+msgctxt "21028"
+msgid "Turn the Heater Off"
+msgstr "Spegni il Riscaldamento"
+
+msgctxt "21032"
+msgid "Ask Her Preference"
+msgstr "Chiedile cosa preferisce"
+
+msgctxt "21036"
+msgid "Leave the Heater On"
+msgstr "Lascia il Riscaldamento Acceso"
+
+msgctxt "21040"
+msgid "SS1_F_OBA_TAX_sad"
+msgstr "SS1_F_OBA_TAX_sad"
+
+msgctxt "21044"
+msgid "SS1_P_TAX_idle_hearing"
+msgstr "SS1_P_TAX_idle_hearing"
+
+msgctxt "21048"
+msgid "Calmly Persuade Her"
+msgstr "Convinci con calma"
+
+msgctxt "21052"
+msgid "Get Angry"
+msgstr "Arrabbiati"
+
+msgctxt "21056"
+msgid "Just Keep Listening"
+msgstr "Ascolta e basta"
+
+msgctxt "21060"
+msgid "SS1_F_OBA_TAX_nobig"
+msgstr "SS1_F_OBA_TAX_nobig"
+
+msgctxt "21064"
+msgid "SS1_F_OBA_TAX_tefuri"
+msgstr "SS1_F_OBA_TAX_tefuri"
+
+msgctxt "21068"
+msgid "SS1_F_OBA_TAX_look_kry_st"
+msgstr "SS1_F_OBA_TAX_look_kry_st"
+
+msgctxt "21072"
+msgid "SS1_F_OBA_TAX_look_kry_lp"
+msgstr "SS1_F_OBA_TAX_look_kry_lp"
+
+msgctxt "44_Nagging Naoko"
+msgid ""
+"Get me to <Color:22>Nagasu Boulevard<Color:Default> in three minutes. Got "
+"it?"
+msgstr ""
+"Portami a <Color:22>Nagasu Boulevard<Color:Default> in tre minuti. Capito?"
+
+msgctxt "56_Kiryu"
+msgid "(There's no way I'll make it in three minutes.)"
+msgstr "(Non c'è modo di farcela in tre minuti.)"
+
+msgctxt "68_Nagging Naoko"
+msgid ""
+"I'm very sorry, but I don't think it's possible to get you there in three "
+"minutes."
+msgstr "Mi dispiace molto, ma non credo sia possibile farcela in tre minuti."
+
+msgctxt "80_Nagging Naoko"
+msgid "Why not!? The last taxi I took got me there in three minutes!"
+msgstr ""
+"Perché no!? L'ultimo taxi che ho preso mi ci ha portato in tre minuti!"
+
+msgctxt "92_Nagging Naoko"
+msgid ""
+"Are you telling me you won't do what I ask? I'm going to complain to the "
+"taxi bureau!"
+msgstr ""
+"Mi stai dicendo che non farai quello che ti chiedo? Mi lamenterò all'ufficio"
+" taxi!"
+
+msgctxt "104_Kiryu"
+msgid "What time was it when you last took this trip?"
+msgstr "Che ora era quando ha fatto quest'ultima corsa?"
+
+msgctxt "116_Nagging Naoko"
+msgid "Oh... It was two or three in the morning."
+msgstr "Oh... Erano le due o le tre del mattino."
+
+msgctxt "128_Kiryu"
+msgid ""
+"Well, at that time of night it might be doable, but right now the roads are "
+"busy."
+msgstr ""
+"Beh, a quell'ora della notte si potrebbe anche fare, ma adesso le strade "
+"sono trafficate."
+
+msgctxt "140_Nagging Naoko"
+msgid "Hmph. Well, just go as fast as you can."
+msgstr "Hmph. Beh, vai il più veloce che puoi."
+
+msgctxt "152_Kiryu"
+msgid "(She seems to have settled down.)"
+msgstr "(Sembra si sia calmata.)"
+
+msgctxt "164_Nagging Naoko"
+msgid "Okay. I'll do the best I can."
+msgstr "Va bene. Farò del mio meglio."
+
+msgctxt "176_Nagging Naoko"
+msgid ""
+"That's vague! Can I count on getting there within three minutes or not!?"
+msgstr "Questo è vago! Posso contare di farcela in tre minuti o no!?"
+
+msgctxt "188_Nagging Naoko"
+msgid ""
+"If you can't, I'm putting in a complaint with the taxi bureau! And I'll "
+"expect compensation."
+msgstr ""
+"Se non ci riesci, farò una lamentela all'ufficio taxi! E pretenderò un "
+"risarcimento."
+
+msgctxt "200_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "212_Nagging Naoko"
+msgid "Well, can you or can you not!?"
+msgstr "Beh, ci riesci o no!?"
+
+msgctxt "224_Kiryu"
+msgid ""
+"I'm sorry, I'm afraid it's not possible to get you there in three minutes."
+msgstr "Mi dispiace, temo non sia possibile arrivarci in tre minuti."
+
+msgctxt "236_Nagging Naoko"
+msgid "Ugh! Why didn't you say so in the first place, then!?"
+msgstr "Uffa! Perché non l'hai detto subito, allora!?"
+
+msgctxt "248_Kiryu"
+msgid "I apologize."
+msgstr "Mi scuso."
+
+msgctxt "260_Nagging Naoko"
+msgid "Hmph. Well, let's get moving."
+msgstr "Hmph. Beh, muoviamoci."
+
+msgctxt "272_Kiryu"
+msgid "(She seems to have calmed down.)"
+msgstr "(Sembra si sia calmata.)"
+
+msgctxt "284_Nagging Naoko"
+msgid "(I'll pretend I didn't hear her.)"
+msgstr "(Faccio finta di non averla sentita.)"
+
+msgctxt "296_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "308_Nagging Naoko"
+msgid ""
+"What!? Are you ignoring me? You horrible man! I feel completely "
+"disrespected!"
+msgstr ""
+"Cosa!? Mi stai ignorando? Brutto uomo! Mi sento completamente mancata di "
+"rispetto!"
+
+msgctxt "320_Nagging Naoko"
+msgid ""
+"I'm going to file a complaint... No, scratch that! I'll launch a civil suit "
+"against you!"
+msgstr "Sto per fare una lamentela... Anzi, no! Ti farò una causa civile!"
+
+msgctxt "332_Kiryu"
+msgid "(I have to calm her down somehow.)"
+msgstr "(Devo calmarla in qualche modo.)"
+
+msgctxt "344_Kiryu"
+msgid ""
+"I'm sorry, ma'am, but it will be difficult to get you there in three "
+"minutes."
+msgstr "Mi dispiace, signora, ma sarà difficile arrivarci in tre minuti."
+
+msgctxt "356_Nagging Naoko"
+msgid "Ugh! Why didn't you say so in the first place, then!?"
+msgstr "Uffa! Perché non l'hai detto subito, allora!?"
+
+msgctxt "368_Kiryu"
+msgid "I apologize."
+msgstr "Mi scuso."
+
+msgctxt "380_Nagging Naoko"
+msgid "Hmph. Well, let's get moving."
+msgstr "Hmph. Beh, muoviamoci."
+
+msgctxt "392_Kiryu"
+msgid "(It's never a good idea to ignore a complainer.)"
+msgstr "(Non è mai una buona idea ignorare chi si lamenta.)"
+
+msgctxt "416_Nagging Naoko"
+msgid "Gah! That noise is bugging me!"
+msgstr "Uffa! Quel rumore mi sta dando fastidio!"
+
+msgctxt "428_Kiryu"
+msgid "Noise?"
+msgstr "Rumore?"
+
+msgctxt "440_Nagging Naoko"
+msgid "That blowing sound!"
+msgstr "Quel rumore d'aria!"
+
+msgctxt "452_Kiryu"
+msgid "Oh, that's just the sound of the heater."
+msgstr "Oh, è solo il rumore del riscaldamento."
+
+msgctxt "464_Nagging Naoko"
+msgid "Well, it's really getting on my nerves. Gah!"
+msgstr "Beh, mi sta davvero dando sui nervi. Uffa!"
+
+msgctxt "476_Nagging Naoko"
+msgid "(If the sound bugs her, I'll just turn it off.)"
+msgstr "(Se il rumore le dà fastidio, lo spengo e basta.)"
+
+msgctxt "488_Nagging Naoko"
+msgid "......"
+msgstr "......"
+
+msgctxt "500_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "512_Nagging Naoko"
+msgid ""
+"Brr, now I'm getting chilly! Why is it so cold in here all of a sudden!?"
+msgstr ""
+"Brrr, adesso mi viene freddo! Perché fa così freddo qui all'improvviso!?"
+
+msgctxt "524_Kiryu"
+msgid "I turned the heater off."
+msgstr "Ho spento il riscaldamento."
+
+msgctxt "536_Nagging Naoko"
+msgid ""
+"Why would you do that? It's freezing out there. Are you going to pay my "
+"medical bills if I catch a cold!?"
+msgstr ""
+"Perché mai l'hai fatto? Lì fuori si gela. Mi pagherai tu le spese mediche se"
+" mi prendo un raffreddore!?"
+
+msgctxt "548_Kiryu"
+msgid "You said it was noisy."
+msgstr "Hai detto che faceva rumore."
+
+msgctxt "560_Nagging Naoko"
+msgid "Well, yes, but I never told you to turn it off!"
+msgstr "Beh, sì, ma non ti ho mai detto di spegnerlo!"
+
+msgctxt "572_Nagging Naoko"
+msgid "I'm calling the taxi bureau up right now!"
+msgstr "Chiamo subito il centralino dei taxi!"
+
+msgctxt "584_Kiryu"
+msgid "I'm very sorry. I should have asked you before I turned it off."
+msgstr "Mi dispiace molto. Avrei dovuto chiederti prima di spegnerlo."
+
+msgctxt "596_Nagging Naoko"
+msgid "Hmph. Well, since you apologized, I suppose I'll let it go this time."
+msgstr ""
+"Hmph. Beh, dato che ti sei scusato, suppongo che per questa volta la lascerò"
+" correre."
+
+msgctxt "608_Kiryu"
+msgid "(That settles that for now.)"
+msgstr "(Per il momento, è a posto così.)"
+
+msgctxt "620_Nagging Naoko"
+msgid "Shall I turn the heater off?"
+msgstr "Spengo il riscaldamento?"
+
+msgctxt "632_Nagging Naoko"
+msgid ""
+"What? If you switch off the heater on a cold day like this, I'd catch a "
+"cold! Are you going to pay my medical bills!?"
+msgstr ""
+"Cosa? Se spegni il riscaldamento in una giornata così fredda, mi prenderei "
+"un raffreddore! Mi pagherai tu le spese mediche!?"
+
+msgctxt "644_Kiryu"
+msgid "Then it's fine to leave it on?"
+msgstr "Allora va bene lasciarlo acceso?"
+
+msgctxt "656_Nagging Naoko"
+msgid "Yeah, yeah, just leave the damned thing on."
+msgstr "Sì, sì, lascia acceso quel dannato coso, e basta."
+
+msgctxt "668_Kiryu"
+msgid "What about the noise?"
+msgstr "E il rumore?"
+
+msgctxt "680_Nagging Naoko"
+msgid "Tch. I'm used to it now."
+msgstr "Tch. Ormai ci sono abituata."
+
+msgctxt "692_Kiryu"
+msgid "(She seems to have calmed down.)"
+msgstr "(Sembra che si sia calmata.)"
+
+msgctxt "704_Nagging Naoko"
+msgid "(If I turn the heater off, it'll get cold. I'll just leave it on.)"
+msgstr "(Se spengo il riscaldamento, farà freddo. Lo lascio acceso e basta.)"
+
+msgctxt "716_Nagging Naoko"
+msgid "Grr, that noise is really starting to grate on my nerves!"
+msgstr "Grr, quel rumore mi sta proprio dando sui nervi!"
+
+msgctxt "728_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "740_Nagging Naoko"
+msgid "It's really driving me crazy!"
+msgstr "Mi sta proprio facendo impazzire!"
+
+msgctxt "752_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "764_Nagging Naoko"
+msgid "Don't you care about your passengers!? Do something about it!"
+msgstr "Non te ne frega niente dei tuoi passeggeri!? Fai qualcosa a riguardo!"
+
+msgctxt "776_Kiryu"
+msgid "But if I turn it off, it will get cold."
+msgstr "Ma se lo spengo, farà freddo."
+
+msgctxt "788_Nagging Naoko"
+msgid ""
+"I wasn't asking for your opinion! I'm the customer, aren't I? The customer "
+"is always right!"
+msgstr ""
+"Non ti ho chiesto la tua opinione! Sono la cliente, no? Il cliente ha sempre"
+" ragione!"
+
+msgctxt "800_Nagging Naoko"
+msgid ""
+"I've never been treated this unjustly before. I'll be filing a complaint "
+"with the taxi bureau!"
+msgstr ""
+"Non sono mai stata trattata così ingiustamente prima d'ora. Presenterò un "
+"reclamo all'ufficio dei taxi!"
+
+msgctxt "812_Kiryu"
+msgid "I'm very sorry. What would you like me to do with the heater?"
+msgstr "Mi dispiace molto. Cosa vorrebbe che facessi con il riscaldamento?"
+
+msgctxt "824_Nagging Naoko"
+msgid ""
+"Oh, just leave it on! But if you slip up again, I'm making that call, you "
+"hear!?"
+msgstr ""
+"Oh, lascialo acceso e basta! Ma se sbagli di nuovo, farò quella chiamata, mi"
+" hai sentito!?"
+
+msgctxt "836_Kiryu"
+msgid "(It's never a good idea to ignore a complainer, I guess.)"
+msgstr "(Non è mai una buona idea ignorare chi si lamenta, immagino.)"
+
+msgctxt "848_Nagging Naoko"
+msgid "(That's where she wanted me to drop her, but...)"
+msgstr "(È lì che voleva che la lasciassi, ma...)"
+
+msgctxt "860_Kiryu"
+msgid ""
+"Ma'am? There's a truck parked where you wanted me to drop you, so I'll stop "
+"a bit short."
+msgstr ""
+"Signora? C'è un camion parcheggiato dove voleva che la lasciassi, quindi mi "
+"fermerò un po' prima."
+
+msgctxt "872_Nagging Naoko"
+msgid "What!? You won't drop me where I asked you to!?"
+msgstr "Cosa!? Non mi farai scendere dove ti ho chiesto!?"
+
+msgctxt "884_Kiryu"
+msgid "It's only a few meters away."
+msgstr "Sono solo pochi metri."
+
+msgctxt "896_Nagging Naoko"
+msgid "Ugh! Fine."
+msgstr "Uff! Va bene."
+
+msgctxt "908_Kiryu"
+msgid "I apologize for the inconvenience."
+msgstr "Mi dispiace per il disagio."
+
+msgctxt "920_Nagging Naoko"
+msgid "Yeah, well, you realize you won't get paid now, right?"
+msgstr "Sì, beh, ti rendi conto che non verrai pagato adesso, vero?"
+
+msgctxt "932_Kiryu"
+msgid "What!?"
+msgstr "Cosa!?"
+
+msgctxt "944_Nagging Naoko"
+msgid "Isn't that how it goes? It's your job to take me where I ask you to."
+msgstr "Non è così che funziona? È il tuo lavoro portarmi dove ti chiedo."
+
+msgctxt "956_Nagging Naoko"
+msgid ""
+"Whether a few meters or a few hundred meters, I don't have to pay if you "
+"don't drop me there."
+msgstr ""
+"Che siano pochi metri o qualche centinaio di metri, non devo pagare se non "
+"mi lasci lì."
+
+msgctxt "968_Nagging Naoko"
+msgid ""
+"Or do you want me to complain to the bureau that you didn't bring me to "
+"where I wanted to go!?"
+msgstr ""
+"O vuoi che mi lamenti all'ufficio che non mi hai portato dove volevo "
+"andare!?"
+
+msgctxt "980_Nagging Naoko"
+msgid ""
+"I could get your license revoked, you know! I could shut down your entire "
+"company!"
+msgstr ""
+"Potrei farti revocare la licenza, sai! Potrei far chiudere la tua intera "
+"compagnia!"
+
+msgctxt "992_Nagging Naoko"
+msgid ""
+"Got it? I'm not just bullying you! I'm trying to uphold standards here!"
+msgstr ""
+"Capito? Non ti sto mica solo bullizzando! Sto cercando di far rispettare gli"
+" standard qui!"
+
+msgctxt "1004_Nagging Naoko"
+msgid "(She's really going too far. What am I going to do now?)"
+msgstr "(Sta davvero esagerando. Che faccio adesso?)"
+
+msgctxt "1016_Nagging Naoko"
+msgid ""
+"(I should avoid getting emotional here, and try persuading her calmly.)"
+msgstr ""
+"(Dovrei evitare di innervosirmi qui, e cercare di convincerla con calma.)"
+
+msgctxt "1028_Kiryu"
+msgid ""
+"Excuse me, ma'am? There may have been some deficiencies with my service, and"
+" I apologize for that."
+msgstr ""
+"Mi scusi, signora? Potrebbe esserci stata qualche carenza nel mio servizio, "
+"e mi dispiace per questo."
+
+msgctxt "1040_Nagging Naoko"
+msgid ""
+"Hmph! Deficiencies all over the place! You didn't even take me the whole "
+"way!"
+msgstr "Hmph! Carenze dappertutto! Non mi hai nemmeno portato fino in fondo!"
+
+msgctxt "1052_Kiryu"
+msgid ""
+"Well, can you tell me how I could take you to the spot you requested, under "
+"the circumstances?"
+msgstr ""
+"Beh, può dirmi come avrei potuto portarla nel punto che ha richiesto, date "
+"le circostanze?"
+
+msgctxt "1064_Nagging Naoko"
+msgid "Uh... Huh!?"
+msgstr "Uh... Eh!?"
+
+msgctxt "1076_Kiryu"
+msgid ""
+"You'll have to forgive me, but I haven't been doing this very long. I'd like"
+" to hear what you suggest I do."
+msgstr ""
+"Mi dovrà perdonare, ma non è da molto che faccio questo lavoro. Vorrei "
+"sentire cosa mi suggerisce di fare."
+
+msgctxt "1088_Nagging Naoko"
+msgid "Why me?"
+msgstr "Perché io?"
+
+msgctxt "1100_Kiryu"
+msgid "You did say you wanted to improve the standards of service."
+msgstr "Lei aveva detto che voleva migliorare gli standard di servizio."
+
+msgctxt "1112_Nagging Naoko"
+msgid "Yeah, but... Oh, never mind. Just pull up here."
+msgstr "Sì, ma... Oh, lascia perdere. Accosti qui."
+
+msgctxt "1124_Kiryu"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "1136_Kiryu"
+msgid "(That seems to have calmed her down.)"
+msgstr "(Questo sembra averla calmata.)"
+
+msgctxt "1148_Nagging Naoko"
+msgid "(I'll just let loose and yell at her.)"
+msgstr "(Mi sfogherò e le urlerò contro.)"
+
+msgctxt "1160_Kiryu"
+msgid "Ma'am..."
+msgstr "Signora..."
+
+msgctxt "1172_Nagging Naoko"
+msgid "What!?"
+msgstr "Cosa!?"
+
+msgctxt "1184_Kiryu"
+msgid "Come at me, you bellyacher! I'll take you down a notch!"
+msgstr "Fatti sotto, lamentona! Ti rimetterò al tuo posto!"
+
+msgctxt "1196_Nagging Naoko"
+msgid "......"
+msgstr "......"
+
+msgctxt "1208_Kiryu"
+msgid "(Did that work?)"
+msgstr "(Ha funzionato?)"
+
+msgctxt "1220_Nagging Naoko"
+msgid "WHAT!? Have you got a screw loose or something!?"
+msgstr "Cosa!? Hai qualche rotella fuori posto o cosa!?"
+
+msgctxt "1232_Nagging Naoko"
+msgid ""
+"I'll come at you all right! One call to the complaints center and you'll be "
+"history!"
+msgstr ""
+"Certo che ti vengo contro! Una chiamata al centro reclami e sarai spacciato!"
+
+msgctxt "1244_Nagging Naoko"
+msgid "Let me out right here! You messed with the wrong lady, pal!"
+msgstr ""
+"Scendimi proprio qui! Ti sei messo contro la persona sbagliata, amico!"
+
+msgctxt "1256_Kiryu"
+msgid "(That only got her more worked up.)"
+msgstr "(Questo l'ha solo fatta alterare ancora di più.)"
+
+msgctxt "1268_Nagging Naoko"
+msgid ""
+"(Once she's said her piece, she'll calm down and pay for the ride, I'm sure."
+" I'll just stay quiet and listen.)"
+msgstr ""
+"(Una volta che si sarà sfogata, si calmerà e pagherà la corsa, ne sono "
+"certo. Mi limiterò a stare zitto e ascoltare.)"
+
+msgctxt "1280_Nagging Naoko"
+msgid ""
+"Too many taxi drivers treat their passengers like imbeciles! Don't they give"
+" you training? I highly doubt it!"
+msgstr ""
+"Troppi tassisti trattano i loro passeggeri come degli imbecilli! Non vi "
+"danno una formazione? Ne dubito fortemente!"
+
+msgctxt "1292_Nagging Naoko"
+msgid ""
+"You have no professionalism at all! You've got to remember, this is a "
+"service industry!"
+msgstr ""
+"Non hai proprio professionalità! Devi ricordarti, questa è un'industria di "
+"servizi!"
+
+msgctxt "1304_Kiryu"
+msgid "(Seems she's just getting warmed up.)"
+msgstr "(Sembra che si stia solo scaldando.)"
+
+msgctxt "1316_Nagging Naoko"
+msgid ""
+"And these days we get drivers who don't even know the roads, or who drive "
+"like maniacs!"
+msgstr ""
+"E di questi tempi ci capitano autisti che non conoscono nemmeno le strade, o"
+" che guidano come dei matti!"
+
+msgctxt "1328_Nagging Naoko"
+msgid ""
+"It's true! I read it in a weekly magazine! Manners and morals among taxi "
+"drivers have taken a dive!"
+msgstr ""
+"È vero! L'ho letto su una rivista settimanale! I modi e la moralità tra i "
+"tassisti sono andati a rotoli!"
+
+msgctxt "1340_Kiryu"
+msgid "(Now she's not even talking about her own complaints against me.)"
+msgstr "(Ora non sta nemmeno più parlando delle sue lamentele contro di me.)"
+
+msgctxt "1352_Nagging Naoko"
+msgid ""
+"I also saw that some of you guys used to be presidents of failed companies! "
+"What's the world coming to!?"
+msgstr ""
+"Ho anche visto che alcuni di voi eravate presidenti di aziende fallite! Dove"
+" stiamo andando a finire!?"
+
+msgctxt "1364_Nagging Naoko"
+msgid ""
+"You work hard all your life, then one mistake and you're out on the curb, "
+"your wife and child leaving you by the roadside. What a miserable time!"
+msgstr ""
+"Lavori sodo per tutta la vita, poi un errore e ti ritrovi in mezzo a una "
+"strada, tua moglie e tuo figlio ti lasciano per strada. Che periodo di "
+"merda!"
+
+msgctxt "1376_Nagging Naoko"
+msgid ""
+"Kids these days have their hopes and dreams crushed before they even get out"
+" of school! Who's responsible for this mess!?"
+msgstr ""
+"I ragazzi di oggi hanno le loro speranze e i loro sogni infranti ancora "
+"prima di finire la scuola! Chi è il responsabile di questo casino!?"
+
+msgctxt "1388_Kiryu"
+msgid "(What is she even complaining about now?)"
+msgstr "(Ormai di cosa si sta lamentando?)"
+
+msgctxt "1400_Nagging Naoko"
+msgid "*pant* *pant* It feels good to get that off my chest. Let me out here."
+msgstr "*pant* *pant* Mi ha fatto bene sfogarmi. Mi lasci scendere qui."
+
+msgctxt "1412_Kiryu"
+msgid "(She seems to have calmed down, but that monologue was exhausting.)"
+msgstr "(Sembra che si sia calmata, ma quel monologo è stato estenuante.)"

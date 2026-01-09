@@ -1,0 +1,650 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "18900"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "18904"
+msgid "SS1_M_NML_TAX_look_g2_st"
+msgstr "SS1_M_NML_TAX_look_g2_st"
+
+msgctxt "18908"
+msgid "Woman"
+msgstr "Donna"
+
+msgctxt "18912"
+msgid "SS1_F_CTE_TAX_look_l_g2_st"
+msgstr "SS1_F_CTE_TAX_look_l_g2_st"
+
+msgctxt "18916"
+msgid "SS1_M_NML_TAX_look_g2_lp"
+msgstr "SS1_M_NML_TAX_look_g2_lp"
+
+msgctxt "18920"
+msgid "SS1_F_CTE_TAX_look_l_g2_ed"
+msgstr "SS1_F_CTE_TAX_look_l_g2_ed"
+
+msgctxt "18924"
+msgid "SS1_M_NML_TAX_look_g2_ed"
+msgstr "SS1_M_NML_TAX_look_g2_ed"
+
+msgctxt "18928"
+msgid "Ken-kun"
+msgstr "Ken-kun"
+
+msgctxt "18932"
+msgid "SS1_M_NML_TAX_tere"
+msgstr "SS1_M_NML_TAX_tere"
+
+msgctxt "18936"
+msgid "Mi-tan"
+msgstr "Mi-tan"
+
+msgctxt "18940"
+msgid "SS1_F_CTE_TAX_tere_g2"
+msgstr "SS1_F_CTE_TAX_tere_g2"
+
+msgctxt "18944"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "18948"
+msgid "SS1_F_CTE_TAX_nee_g2"
+msgstr "SS1_F_CTE_TAX_nee_g2"
+
+msgctxt "18952"
+msgid "SS1_M_NML_TAX_nee"
+msgstr "SS1_M_NML_TAX_nee"
+
+msgctxt "18956"
+msgid "SS1_M_NML_TAX_look_kiryu_st"
+msgstr "SS1_M_NML_TAX_look_kiryu_st"
+
+msgctxt "18960"
+msgid "I was just thinking how lucky you both are."
+msgstr "Stavo proprio pensando a quanto siete fortunati voi due."
+
+msgctxt "18964"
+msgid "I was just thinking how annoying you both are."
+msgstr "Stavo proprio pensando a quanto siete fastidiosi voi due."
+
+msgctxt "18968"
+msgid "I was just checking the cars behind us."
+msgstr "Stavo solo controllando le macchine dietro di noi."
+
+msgctxt "18972"
+msgid "SS1_P_TAX_nod_A"
+msgstr "SS1_P_TAX_nod_A"
+
+msgctxt "18976"
+msgid "SS1_M_NML_TAX_look_kiryu_ed"
+msgstr "SS1_M_NML_TAX_look_kiryu_ed"
+
+msgctxt "18980"
+msgid "SS1_M_NML_TAX_nod_B"
+msgstr "SS1_M_NML_TAX_nod_B"
+
+msgctxt "18984"
+msgid "SS1_F_CTE_TAX_talk_g2"
+msgstr "SS1_F_CTE_TAX_talk_g2"
+
+msgctxt "18988"
+msgid "SS1_F_CTE_TAX_angry_g2"
+msgstr "SS1_F_CTE_TAX_angry_g2"
+
+msgctxt "18992"
+msgid "SS1_M_NML_TAX_idle"
+msgstr "SS1_M_NML_TAX_idle"
+
+msgctxt "18996"
+msgid "SS1_F_CTE_TAX_no"
+msgstr "SS1_F_CTE_TAX_no"
+
+msgctxt "19000"
+msgid "SS1_M_NML_TAX_yubisasi_cmcl"
+msgstr "SS1_M_NML_TAX_yubisasi_cmcl"
+
+msgctxt "19004"
+msgid "SS1_P_TAX_no"
+msgstr "SS1_P_TAX_no"
+
+msgctxt "19008"
+msgid "SS1_M_NML_TAX_look_kiryu_lp"
+msgstr "SS1_M_NML_TAX_look_kiryu_lp"
+
+msgctxt "19012"
+msgid "SS1_M_NML_TAX_laugh"
+msgstr "SS1_M_NML_TAX_laugh"
+
+msgctxt "19016"
+msgid "SS1_F_CTE_TAX_look_l_g2_lp"
+msgstr "SS1_F_CTE_TAX_look_l_g2_lp"
+
+msgctxt "19020"
+msgid "SS1_M_NML_TAX_no"
+msgstr "SS1_M_NML_TAX_no"
+
+msgctxt "19024"
+msgid "SS1_M_NML_TAX_nobig"
+msgstr "SS1_M_NML_TAX_nobig"
+
+msgctxt "19028"
+msgid "Yes, your girlfriend is cuter."
+msgstr "Sì, la tua ragazza è più carina."
+
+msgctxt "19032"
+msgid "No, Haruka Sawamura is cuter."
+msgstr "No, Haruka Sawamura è più carina."
+
+msgctxt "19036"
+msgid "A pretty face isn't everything, you know."
+msgstr "Una bella faccia non è tutto, sai."
+
+msgctxt "19040"
+msgid "SS1_M_NML_TAX_nodbig_g2"
+msgstr "SS1_M_NML_TAX_nodbig_g2"
+
+msgctxt "19044"
+msgid "SS1_M_NML_TAX_angry"
+msgstr "SS1_M_NML_TAX_angry"
+
+msgctxt "19048"
+msgid "SS1_M_NML_TAX_question"
+msgstr "SS1_M_NML_TAX_question"
+
+msgctxt "19052"
+msgid "SS1_F_CTE_TAX_sad"
+msgstr "SS1_F_CTE_TAX_sad"
+
+msgctxt "19056"
+msgid "SS1_F_CTE_TAX_look_kry_g1_st"
+msgstr "SS1_F_CTE_TAX_look_kry_g1_st"
+
+msgctxt "19060"
+msgid "SS1_F_CTE_TAX_look_kry_g1_ed"
+msgstr "SS1_F_CTE_TAX_look_kry_g1_ed"
+
+msgctxt "19064"
+msgid "SS1_F_CTE_TAX_surp_g2"
+msgstr "SS1_F_CTE_TAX_surp_g2"
+
+msgctxt "19068"
+msgid "SS1_M_NML_TAX_nod"
+msgstr "SS1_M_NML_TAX_nod"
+
+msgctxt "19072"
+msgid "I can't do that."
+msgstr "Non posso farlo."
+
+msgctxt "19076"
+msgid "Okay, then."
+msgstr "Ok, allora."
+
+msgctxt "19080"
+msgid "SS1_M_NML_TAX_surp"
+msgstr "SS1_M_NML_TAX_surp"
+
+msgctxt "19084"
+msgid "SS1_M_NML_TAX_guts"
+msgstr "SS1_M_NML_TAX_guts"
+
+msgctxt "19088"
+msgid "SS1_F_CTE_TAX_laugh"
+msgstr "SS1_F_CTE_TAX_laugh"
+
+msgctxt "44_Man"
+msgid "Hey, it's our three month anniversary!"
+msgstr "Ehi, è il nostro terzo mesiversario!"
+
+msgctxt "56_Woman"
+msgid "We're going to be together forever, Ken-kun!"
+msgstr "Staremo insieme per sempre, Ken-kun!"
+
+msgctxt "80_Man"
+msgid "I feel like we were made for each other, Mi-tan."
+msgstr "Sento che siamo fatti l'uno per l'altra, Mi-tan."
+
+msgctxt "92_Mi-tan"
+msgid "I was just thinking the same thing!"
+msgstr "Stavo proprio pensando la stessa cosa!"
+
+msgctxt "104_Kiryu"
+msgid "(A couple of love birds.)"
+msgstr "(Una coppia di piccioncini.)"
+
+msgctxt "116_Man"
+msgid "Hmm? Why are you peeking at us in the mirror?"
+msgstr "Hmm? Perché ci stai sbirciando nello specchietto?"
+
+msgctxt "128_Man"
+msgid "I was just thinking how lucky you both are."
+msgstr "Stavo proprio pensando a quanto siete fortunati voi due."
+
+msgctxt "140_Ken-kun"
+msgid "Hahaha. People stare at us on the street a lot, too."
+msgstr "Ahahah. La gente ci fissa per strada un sacco anche."
+
+msgctxt "152_Mi-tan"
+msgid "They're just jealous of how in love we are."
+msgstr "Sono solo gelosi di quanto siamo innamorati."
+
+msgctxt "164_Man"
+msgid ""
+"Don't worry, driver. You'll find your soul mate soon enough. Just like me "
+"and Mi-tan!"
+msgstr ""
+"Non preoccuparti, tassista. La tua anima gemella la troverai presto anche "
+"tu. Proprio come me e Mi-tan!"
+
+msgctxt "176_Mi-tan"
+msgid "Good luck!"
+msgstr "Buona fortuna!"
+
+msgctxt "188_Kiryu"
+msgid "(They're in a good mood.)"
+msgstr "(Sono di buon umore.)"
+
+msgctxt "200_Man"
+msgid "I was just thinking how annoying you both are."
+msgstr "Stavo proprio pensando a quanto siete fastidiosi voi due."
+
+msgctxt "212_Mi-tan"
+msgid "What? Why?"
+msgstr "Cosa? Perché?"
+
+msgctxt "224_Ken-kun"
+msgid ""
+"I bet you're single, right? You must be jealous that we have it so good."
+msgstr ""
+"Scommetto che sei single, vero? Devi essere geloso che stiamo così bene."
+
+msgctxt "236_Mi-tan"
+msgid "You really ought to grow up, mister."
+msgstr "Dovresti proprio crescere, signore."
+
+msgctxt "248_Ken-kun"
+msgid "I agree!"
+msgstr "Sono d'accordo!"
+
+msgctxt "260_Kiryu"
+msgid "(That didn't make them too happy.)"
+msgstr "(Non li ha resi troppo felici.)"
+
+msgctxt "272_Man"
+msgid "No, I was just checking the cars behind us."
+msgstr "No, stavo solo controllando le macchine dietro di noi."
+
+msgctxt "296_Man"
+msgid "Oh, I see. Sorry."
+msgstr "Ah, capisco. Scusa."
+
+msgctxt "308_Ken-kun"
+msgid "I just thought you might have your eye on my gorgeous girl here."
+msgstr ""
+"Pensavo solo che potresti aver messo gli occhi sulla mia splendida ragazza "
+"qui."
+
+msgctxt "320_Mi-tan"
+msgid "Aww, you're embarrassing me, Ken-kun!"
+msgstr "Aw, mi metti in imbarazzo, Ken-kun!"
+
+msgctxt "332_Ken-kun"
+msgid "It's true! I could stare at your beautiful face all day, Mi-tan!"
+msgstr "È vero! Potrei guardare il tuo bel viso tutto il giorno, Mi-tan!"
+
+msgctxt "344_Mi-tan"
+msgid "And I could look into your dreamy eyes for hours, Ken-kun!"
+msgstr "E potrei guardare nei tuoi occhi sognanti per ore, Ken-kun!"
+
+msgctxt "356_Ken-kun"
+msgid "Let's do it, then!"
+msgstr "Facciamolo, allora!"
+
+msgctxt "368_Mi-tan"
+msgid "Oh, come on. You're making me blush."
+msgstr "Ma dai! Mi stai facendo arrossire."
+
+msgctxt "392_Man"
+msgid "(They're in good spirits.)"
+msgstr "(Sono su di giri.)"
+
+msgctxt "416_Man"
+msgid "Your makeup looks amazing today, Mi-tan!"
+msgstr "Il tuo trucco è stupendo oggi, Mi-tan!"
+
+msgctxt "428_Mi-tan"
+msgid "Thanks! I copied it off this idol I saw on TV, Haruka Sawamura!"
+msgstr ""
+"Grazie! L'ho copiato da questa idol che ho visto in TV, Haruka Sawamura!"
+
+msgctxt "440_Kiryu"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "452_Ken-kun"
+msgid "I see. But you're much cuter than Haruka Sawamura, Mi-tan!"
+msgstr "Capisco. Ma sei molto più carina di Haruka Sawamura, Mi-tan!"
+
+msgctxt "464_Mi-tan"
+msgid "No way! You're just saying that."
+msgstr "Ma va'! Dici solo così."
+
+msgctxt "488_Man"
+msgid "No, I mean it! You're just as pretty as any of those idols, Mi-tan!"
+msgstr ""
+"No, dico sul serio! Sei carina quanto una qualsiasi di quelle idol, Mi-tan!"
+
+msgctxt "512_Man"
+msgid "Hey, driver. My girl's way cuter than Haruka Sawamura, right?"
+msgstr ""
+"Ehi, tassista. La mia ragazza è molto più carina di Haruka Sawamura, vero?"
+
+msgctxt "524_Man"
+msgid "Of course, your girlfriend is cuter."
+msgstr "Ma certo, la tua ragazza è più carina."
+
+msgctxt "536_Ken-kun"
+msgid ""
+"See!? The driver agrees with me! You could even be on TV if you wanted, Mi-"
+"tan!"
+msgstr ""
+"Vedi!? Il tassista è d'accordo con me! Potresti persino andare in TV se "
+"volessi, Mi-tan!"
+
+msgctxt "548_Mi-tan"
+msgid "Yay! Maybe I'll start looking for an agency."
+msgstr "Evviva! Magari comincerò a cercare un'agenzia."
+
+msgctxt "560_Ken-kun"
+msgid "Hehe, you'd be a star in no time!"
+msgstr "Hehe, diventeresti una star in un attimo!"
+
+msgctxt "584_Man"
+msgid "(At least they're happy.)"
+msgstr "(Almeno sono felici.)"
+
+msgctxt "596_Man"
+msgid "No, I think Haruka Sawamura is cuter."
+msgstr "No, secondo me Haruka Sawamura è più carina."
+
+msgctxt "608_Ken-kun"
+msgid ""
+"What!? Have you got something wrong with your eyes? My Mi-tan is the "
+"prettiest girl in the world!"
+msgstr ""
+"Ma cosa?! Hai problemi agli occhi? La mia Mi-tan è la ragazza più bella del "
+"mondo!"
+
+msgctxt "620_Kiryu"
+msgid "I don't agree."
+msgstr "Non sono d'accordo."
+
+msgctxt "632_Ken-kun"
+msgid "Are you dissing my girl, driver?"
+msgstr "Stai sfottendo la mia ragazza, tassista?"
+
+msgctxt "644_Kiryu"
+msgid "No."
+msgstr "No."
+
+msgctxt "656_Mi-tan"
+msgid "Tch. I hate this guy!"
+msgstr "Tsk. Odio questo tipo!"
+
+msgctxt "668_Ken-kun"
+msgid "Don't cry, Mi-tan!"
+msgstr "Non piangere, Mi-tan!"
+
+msgctxt "680_Ken-kun"
+msgid "Even if the world's against you, I'll always have your back!"
+msgstr "Anche se il mondo è contro di te, io ti coprirò sempre le spalle!"
+
+msgctxt "692_Mi-tan"
+msgid "Oh, Ken-kun..."
+msgstr "Oh, Ken-kun..."
+
+msgctxt "704_Ken-kun"
+msgid "Mi-tan..."
+msgstr "Mi-tan..."
+
+msgctxt "716_Mi-tan"
+msgid "I love you, Ken-kun!"
+msgstr "Ti amo, Ken-kun!"
+
+msgctxt "740_Man"
+msgid "Geez..."
+msgstr "Accidenti..."
+
+msgctxt "752_Man"
+msgid "A pretty face isn't everything, you know."
+msgstr "Una bella faccia non è tutto, sai."
+
+msgctxt "764_Mi-tan"
+msgid "Huh? What's that supposed to mean?"
+msgstr "Eh? Che vorrebbe dire?"
+
+msgctxt "776_Ken-kun"
+msgid "So you focus on the body more, do you?"
+msgstr "Quindi ti concentri più sul fisico, eh?"
+
+msgctxt "788_Kiryu"
+msgid "No."
+msgstr "No."
+
+msgctxt "800_Mi-tan"
+msgid ""
+"Now that I think about it, I did get the feeling he was checking out my "
+"boobs and butt in the mirror."
+msgstr ""
+"Ora che ci ripenso, mi è sembrato che mi stesse sbirciando le tette e il "
+"sedere dallo specchietto."
+
+msgctxt "812_Ken-kun"
+msgid ""
+"Driver! I know Mi-tan is a perfect ten, but you shouldn't leer at her like "
+"that!"
+msgstr ""
+"Tassista! So che Mi-tan è una strafica, ma non dovresti metterle gli occhi "
+"addosso in quel modo!"
+
+msgctxt "824_Kiryu"
+msgid "I wasn't."
+msgstr "Non stavo."
+
+msgctxt "836_Mi-tan"
+msgid "Ugh. Boys are always staring at me like I'm a piece of meat."
+msgstr "Uff. I ragazzi mi fissano sempre come se fossi un pezzo di carne."
+
+msgctxt "848_Ken-kun"
+msgid "It can't be helped, Mi-tan. You're just too damn attractive!"
+msgstr ""
+"Non ci si può far niente, Mi-tan. Sei semplicemente troppo una strafica!"
+
+msgctxt "860_Mi-tan"
+msgid "But you'll always be my one and only, Ken-kun!"
+msgstr "Ma sarai sempre il mio unico e solo, Ken-kun!"
+
+msgctxt "872_Ken-kun"
+msgid "I love you, Mi-tan!"
+msgstr "Ti amo, Mi-tan!"
+
+msgctxt "896_Man"
+msgid "Geez..."
+msgstr "Accidenti..."
+
+msgctxt "920_Man"
+msgid "Say, Mi-tan."
+msgstr "Senti, Mi-tan."
+
+msgctxt "932_Mi-tan"
+msgid "Yes, Ken-kun?"
+msgstr "Sì, Ken-kun?"
+
+msgctxt "944_Ken-kun"
+msgid "Did you talk to your dad about us getting married?"
+msgstr "Hai parlato a tuo padre di noi che ci sposiamo?"
+
+msgctxt "956_Mi-tan"
+msgid "Oh. Well, about that..."
+msgstr "Oh. Beh, a proposito..."
+
+msgctxt "968_Ken-kun"
+msgid "What's wrong?"
+msgstr "Che succede?"
+
+msgctxt "980_Mi-tan"
+msgid ""
+"Dad says he's completely against me marrying a guy who doesn't have a job."
+msgstr ""
+"Papà dice che è proprio contrario a che io sposi uno che non ha un lavoro."
+
+msgctxt "992_Ken-kun"
+msgid ""
+"Huh!? But what does that matter!? Can't he see how much we love each other!?"
+msgstr "Eh!? Ma cosa c'entra!? Non vede quanto ci amiamo!?"
+
+msgctxt "1004_Ken-kun"
+msgid "All we need is love, right? Work has nothing to do with it!"
+msgstr "Ci basta l'amore, no? Il lavoro non c'entra niente!"
+
+msgctxt "1016_Mi-tan"
+msgid "Yeah! I think so, too!"
+msgstr "Già! La penso anch'io così!"
+
+msgctxt "1028_Ken-kun"
+msgid "Let's run away together in this taxi, Mi-tan!"
+msgstr "Scappiamo via insieme in questo taxi, Mi-tan!"
+
+msgctxt "1040_Mi-tan"
+msgid "Yeah! Let's elope, Ken-kun!"
+msgstr "Già! Scappiamo via, Ken-kun!"
+
+msgctxt "1064_Man"
+msgid "Driver, just take us someplace far away!"
+msgstr "Tassista, portaci via in un posto lontano e basta!"
+
+msgctxt "1076_Man"
+msgid "I'm afraid I can't do that."
+msgstr "Temo di non poterlo fare."
+
+msgctxt "1088_Ken-kun"
+msgid "Huh? Why not!?"
+msgstr "Eh? Perché no!?"
+
+msgctxt "1100_Kiryu"
+msgid "Do you have money on you for a trip like that?"
+msgstr "Avete soldi addosso per un viaggio del genere?"
+
+msgctxt "1112_Ken-kun"
+msgid "Uh, how much do you have, Mi-tan?"
+msgstr "Ehm, quanto hai, Mi-tan?"
+
+msgctxt "1124_Mi-tan"
+msgid ""
+"Me!? I don't have anything on me today! Don't you have any cash, Ken-kun?"
+msgstr "Io!? Non ho niente addosso oggi! Non hai soldi, Ken-kun?"
+
+msgctxt "1136_Ken-kun"
+msgid "I've got around 3,000 yen."
+msgstr "Ho circa 3.000 yen."
+
+msgctxt "1148_Mi-tan"
+msgid "That won't even get us out of Fukuoka..."
+msgstr "Questo non ci basterà neanche per uscire da Fukuoka..."
+
+msgctxt "1160_Ken-kun"
+msgid ""
+"I guess we need money if we want to run off and get married, huh? I'd better"
+" look for a job."
+msgstr ""
+"Mi sa che ci servono soldi se vogliamo scappare e sposarci, eh? Mi conviene "
+"cercare un lavoro."
+
+msgctxt "1172_Mi-tan"
+msgid "I'm sure you can get one easily, Ken-kun!"
+msgstr "Sono sicura che un lavoro lo trovi facilmente, Ken-kun!"
+
+msgctxt "1184_Ken-kun"
+msgid ""
+"Yeah! Once I have a job, your dad might even warm up to the idea of us "
+"getting married!"
+msgstr ""
+"Sì! Quando avrò un lavoro, tuo padre potrebbe persino vederla di buon occhio"
+" l'idea che ci sposiamo!"
+
+msgctxt "1196_Mi-tan"
+msgid "That's right! That'd be perfect!"
+msgstr "Proprio così! Sarebbe perfetto!"
+
+msgctxt "1208_Ken-kun"
+msgid "We won't be going anywhere today, driver."
+msgstr "Non andremo da nessuna parte oggi, tassista."
+
+msgctxt "1220_Kiryu"
+msgid "(They're finally coming down to earth.)"
+msgstr "(Stanno finalmente tornando con i piedi per terra.)"
+
+msgctxt "1232_Man"
+msgid "Okay, then."
+msgstr "Ok, allora."
+
+msgctxt "1244_Ken-kun"
+msgid "All right! Thanks, driver!"
+msgstr "Va bene! Grazie, tassista!"
+
+msgctxt "1256_Mi-tan"
+msgid "You're too kind!"
+msgstr "Sei troppo gentile!"
+
+msgctxt "1268_Ken-kun"
+msgid "Yeah! He was moved by the depth of our love!"
+msgstr "Sì! Si è commosso dalla profondità del nostro amore!"
+
+msgctxt "1280_Mi-tan"
+msgid "I guess even without money, as long as you have love you can get by!"
+msgstr ""
+"Mi sa che anche senza soldi, finché c'è amore, si riesce ad andare avanti!"
+
+msgctxt "1292_Kiryu"
+msgid "Hold on. You mean you don't have any money?"
+msgstr "Aspetta un attimo. Cioè, non avete soldi?"
+
+msgctxt "1304_Ken-kun"
+msgid "Of course not. I don't have a job, after all."
+msgstr "Certo che no. Non ho un lavoro, dopotutto."
+
+msgctxt "1316_Kiryu"
+msgid "And what about the fare for this trip?"
+msgstr "E la tariffa di questa corsa?"
+
+msgctxt "1328_Ken-kun"
+msgid "I thought you were going to take us for free?"
+msgstr "Pensavo che ci avresti portato gratis?"
+
+msgctxt "1340_Kiryu"
+msgid "This is my job. I can't do that."
+msgstr "È il mio lavoro. Non posso farlo."
+
+msgctxt "1352_Mi-tan"
+msgid "Oh, what a stingy man!"
+msgstr "Oh, che uomo tirchio!"
+
+msgctxt "1364_Ken-kun"
+msgid "Grownups think about nothing but cash!"
+msgstr "I grandi non pensano ad altro che ai soldi!"
+
+msgctxt "1376_Kiryu"
+msgid "(Somehow I ended up getting yelled at.)"
+msgstr "In qualche modo mi sono ritrovato a farmi sgridare."

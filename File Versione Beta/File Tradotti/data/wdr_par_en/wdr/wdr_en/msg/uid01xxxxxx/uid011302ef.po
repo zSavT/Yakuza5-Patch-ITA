@@ -1,0 +1,1862 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1676"
+msgid "You learned <Color:9>Tiger Iron Hammer<Color:Default>."
+msgstr "Hai appreso <Color:9>Martello di ferro della tigre<Color:Default>."
+
+msgctxt "2096"
+msgid "You learned <Color:9>Tiger Roar<Color:Default>."
+msgstr "Hai appreso <Color:9>Ruggito della tigre<Color:Default>."
+
+msgctxt "2516"
+msgid "You learned <Color:9>Tiger Essence of Braining<Color:Default>."
+msgstr ""
+"Hai appreso <Color:9>Essenza della tigre: Frantumacervello<Color:Default>."
+
+msgctxt "3068"
+msgid "You learned <Color:9>Herculean Spirit<Color:Default>."
+msgstr "Hai appreso <Color:9>Spirito erculeo<Color:Default>."
+
+msgctxt "3824"
+msgid "You learned <Color:9>Tiger Dragon Drop<Color:Default>."
+msgstr "Hai appreso <Color:9>Caduta del drago della tigre<Color:Default>."
+
+msgctxt "4856"
+msgid "You learned <Color:9>Tiger Essence of Blitzing<Color:Default>."
+msgstr "Hai appreso <Color:9>Essenza della tigre: Assalto<Color:Default>."
+
+msgctxt "67344"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "67348"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "67352"
+msgid "???"
+msgstr "???"
+
+msgctxt "67356"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "67360"
+msgid "Tendo"
+msgstr "Tendo"
+
+msgctxt "67364"
+msgid "Mysterious Voice"
+msgstr "Voce misteriosa"
+
+msgctxt "67368"
+msgid "White-haired Elder"
+msgstr "Anziano dai capelli bianchi"
+
+msgctxt "67372"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "67376"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "67380"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "67384"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "67388"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "67392"
+msgid "Talk_Udekumi_st"
+msgstr "Talk_Udekumi_st"
+
+msgctxt "67396"
+msgid "Talk_Udekumi_ed"
+msgstr "Talk_Udekumi_ed"
+
+msgctxt "67400"
+msgid "Tendo's Training"
+msgstr "Allenamento di Tendo"
+
+msgctxt "67404"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "67408"
+msgid "Yoroke_FL_small"
+msgstr "Yoroke_FL_small"
+
+msgctxt "67412"
+msgid "Yoroke_FR_small"
+msgstr "Yoroke_FR_small"
+
+msgctxt "67416"
+msgid "Yoroke_FR_mini"
+msgstr "Yoroke_FR_mini"
+
+msgctxt "67420"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "67424"
+msgid "M_NML_TLK_stand_tendo_kamae"
+msgstr "M_NML_TLK_stand_tendo_kamae"
+
+msgctxt "67428"
+msgid "M_NML_TLK_stand_tendo_kamae_st"
+msgstr "M_NML_TLK_stand_tendo_kamae_st"
+
+msgctxt "67432"
+msgid "Todoroki"
+msgstr "Todoroki"
+
+msgctxt "67436"
+msgid "M_NML_TLK_stand_tendo_yes"
+msgstr "M_NML_TLK_stand_tendo_yes"
+
+msgctxt "67440"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "67444"
+msgid "M_NML_TLK_stand_tendo_chohatu"
+msgstr "M_NML_TLK_stand_tendo_chohatu"
+
+msgctxt "67448"
+msgid "M_NML_TLK_stand_kamae"
+msgstr "M_NML_TLK_stand_kamae"
+
+msgctxt "67452"
+msgid "M_NML_TLK_sitgrd_shagamu_ed"
+msgstr "M_NML_TLK_sitgrd_shagamu_ed"
+
+msgctxt "67456"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "67460"
+msgid "Talk_CryBig_st"
+msgstr "Talk_CryBig_st"
+
+msgctxt "67464"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "67468"
+msgid "Talk_CryBig_ed"
+msgstr "Talk_CryBig_ed"
+
+msgctxt "67472"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "67476"
+msgid "M_NML_TLK_stand_tendo_no"
+msgstr "M_NML_TLK_stand_tendo_no"
+
+msgctxt "67480"
+msgid "Ikazuchi"
+msgstr "Ikazuchi"
+
+msgctxt "67484"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "67488"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "67492"
+msgid "Homura"
+msgstr "Homura"
+
+msgctxt "67496"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "67500"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "67504"
+msgid "Seseragi"
+msgstr "Seseragi"
+
+msgctxt "67508"
+msgid "Talk_Cry"
+msgstr "Talk_Cry"
+
+msgctxt "67512"
+msgid "Talk_Udekumi_No"
+msgstr "Talk_Udekumi_No"
+
+msgctxt "67516"
+msgid "M_NML_SET_sitgrd_down_01"
+msgstr "M_NML_SET_sitgrd_down_01"
+
+msgctxt "67520"
+msgid "M_NML_TLK_stand_tendo_down"
+msgstr "M_NML_TLK_stand_tendo_down"
+
+msgctxt "67524"
+msgid "Talk_Info_R"
+msgstr "Talk_Info_R"
+
+msgctxt "67528"
+msgid "0"
+msgstr "0"
+
+msgctxt "284_Player"
+msgid "(I should come back here when I'm alone.)"
+msgstr "(Dovrei tornare qui quando sono da solo.)"
+
+msgctxt "308_Saejima"
+msgid "(This the shrine the villagers were talkin' about?)"
+msgstr "(È questo il santuario di cui parlavano gli abitanti del villaggio?)"
+
+msgctxt "320_Saejima"
+msgid "(Don't see no sage 'round here.)"
+msgstr "(Non vedo nessun saggio da queste parti.)"
+
+msgctxt "332_???"
+msgid ""
+"Make an offering from the heart, and the mountain gods will share with you "
+"their wisdom."
+msgstr ""
+"Fai un'offerta col cuore e gli dei della montagna condivideranno con te la "
+"loro saggezza."
+
+msgctxt "344_Saejima"
+msgid "Huh? Who said that?"
+msgstr "Eh? Chi ha parlato?"
+
+msgctxt "356_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "368_Saejima"
+msgid "I know I ain't just hearin' things."
+msgstr "So di non essermelo immaginato."
+
+msgctxt "380_Saejima"
+msgid "(So I'm supposed to make an offering? Question is, what?)"
+msgstr "(Quindi dovrei fare un'offerta? Il punto è: cosa?)"
+
+msgctxt "392_Saejima"
+msgid ""
+"(The voice said something about mountain gods, so maybe they want something "
+"natural from the mountain. I should buy some vegetables from the village.)"
+msgstr ""
+"(Quella voce ha parlato degli dei della montagna, quindi forse vogliono "
+"qualcosa di naturale che provenga dalla montagna. Dovrei comprare della "
+"verdura al villaggio.)"
+
+msgctxt "404_Saejima"
+msgid "(Should I try making an offering?)"
+msgstr "(Dovrei provare a fare un'offerta?)"
+
+msgctxt "596_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "608_Tendo"
+msgid "......"
+msgstr "......"
+
+msgctxt "620_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "632_Tendo"
+msgid "It seems the mountain gods do not seek that which you offer."
+msgstr "Pare che gli dei della montagna non cerchino ciò che offri."
+
+msgctxt "644_Saejima"
+msgid "No good, huh? Guess I'll try something else."
+msgstr "Niente da fare, eh? Mi sa che proverò qualcos'altro."
+
+msgctxt "656_Tendo"
+msgid ""
+"Leave that offering where it is and go. Your gesture will no doubt please "
+"the mountain gods."
+msgstr ""
+"Lascia quell'offerta dove si trova e va'. Il tuo gesto compiacerà senza "
+"dubbio gli dei della montagna."
+
+msgctxt "668_Saejima"
+msgid "Yeah? Well, they can have it."
+msgstr "Ah sì? Beh, se lo possono pure prendere."
+
+msgctxt "716_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "728_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "740_Saejima"
+msgid "Nothing happened. Guess I got the offering wrong."
+msgstr "Non è successo niente. Mi sa che ho sbagliato l'offerta."
+
+msgctxt "752_Saejima"
+msgid ""
+"Some vegetables from the village might work. Maybe I'll stop by the store."
+msgstr ""
+"Della verdura del villaggio potrebbe funzionare. Magari farò un salto al "
+"negozio."
+
+msgctxt "800_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "812_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "824_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "836_Mysterious Voice"
+msgid "Very well, I shall grace you with the voices of the heavens."
+msgstr "Molto bene, ti farò dono delle voci del cielo."
+
+msgctxt "848_Saejima"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "872_White-haired Elder"
+msgid "Hohoho!"
+msgstr "Hohoho!"
+
+msgctxt "884_Saejima"
+msgid "Who're you?"
+msgstr "Chi saresti?"
+
+msgctxt "896_White-haired Elder"
+msgid "Me? I'm the one they call Tendo."
+msgstr "Io? Sono colui che chiamano Tendo."
+
+msgctxt "908_Saejima"
+msgid ""
+"Tendo, huh? Guess I shouldn't be surprised. You definitely got the look of a"
+" sage."
+msgstr ""
+"Tendo, eh? Beh, non dovrei sorprendermi. Hai proprio l'aspetto di un saggio."
+
+msgctxt "920_Tendo"
+msgid "A sage? Well, I could see how people might think that."
+msgstr "Un saggio? Beh, capisco perché la gente possa pensarlo."
+
+msgctxt "932_Tendo"
+msgid ""
+"But truth be told, it is not that simple, for I am a being both animate and "
+"inanimate."
+msgstr ""
+"Ma a dire il vero, non è così semplice, perché io sono un essere sia animato"
+" che inanimato."
+
+msgctxt "944_Saejima"
+msgid "Ya lost me already. Whatever, just tell me what you're doin' here."
+msgstr "Mi hai già perso. Vabbè, dimmi solo che ci fai qui."
+
+msgctxt "956_Tendo"
+msgid "Well, you see, this shrine is the dwelling of the mountain gods."
+msgstr ""
+"Beh, vedi, questo santuario è la dimora delle divinità della montagna."
+
+msgctxt "968_Tendo"
+msgid ""
+"These mighty deities are the very creators of this mountain. As for me, I "
+"train each day to be able to hear their voices."
+msgstr ""
+"Queste potenti divinità sono proprio i creatori di questa montagna. Quanto a"
+" me, mi alleno ogni giorno per poter udire le loro voci."
+
+msgctxt "980_Saejima"
+msgid "You can hear what the gods say? Is that even possible?"
+msgstr "Riesci a sentire quello che dicono gli dei? Ma è davvero possibile?"
+
+msgctxt "992_Tendo"
+msgid ""
+"The whispering wind, the babbling brook, the creaking tree... They're all "
+"murmurings of the gods."
+msgstr ""
+"Il vento che sussurra, il ruscello che gorgoglia, l'albero che "
+"scricchiola... Sono tutti mormorii delle divinità."
+
+msgctxt "1004_Tendo"
+msgid ""
+"Heed their call and open your mind. Oh, and make an offering to the gods "
+"while you're at it."
+msgstr ""
+"Presta ascolto al loro richiamo e apri la mente. Oh, e già che ci sei, fai "
+"un'offerta alle divinità."
+
+msgctxt "1016_Saejima"
+msgid "Uh... An offering?"
+msgstr "Uh... Un'offerta?"
+
+msgctxt "1028_Tendo"
+msgid "What did you expect? The gods don't offer their wisdom for nothing."
+msgstr "Che ti aspettavi? Gli dei non offrono la loro saggezza per niente."
+
+msgctxt "1040_Tendo"
+msgid "As you sow, so you shall reap, and all that."
+msgstr "Si raccoglie quello che si semina, e tutto il resto."
+
+msgctxt "1052_Saejima"
+msgid "Right. I think I get it."
+msgstr "Va bene. Credo di aver capito."
+
+msgctxt "1064_Tendo"
+msgid ""
+"I imagine it is power you seek. Great strength that will take you to the "
+"next level."
+msgstr ""
+"Immagino che sia il potere ciò che cerchi. Una forza immensa che ti porterà "
+"al livello successivo."
+
+msgctxt "1076_Saejima"
+msgid "Strength? What're you talking about?"
+msgstr "Forza? Di che cosa stai parlando?"
+
+msgctxt "1088_Tendo"
+msgid "No, no, say no more. I know what is in your heart."
+msgstr "No, no, non dire altro. So cosa hai nel cuore."
+
+msgctxt "1100_Saejima"
+msgid "Is that right?"
+msgstr "È così?"
+
+msgctxt "1112_Tendo"
+msgid "I will help you hear the voices of the heavens."
+msgstr "Ti aiuterò a udire le voci del cielo."
+
+msgctxt "1124_Tendo"
+msgid ""
+"And in so doing, I just might bring myself one step closer to my own "
+"enlightenment."
+msgstr ""
+"E così facendo, potrei avvicinarmi di un passo alla mia stessa "
+"illuminazione."
+
+msgctxt "1136_Saejima"
+msgid ""
+"So lemme get this straight. If I make an offering, I can ask you to make me "
+"more powerful?"
+msgstr ""
+"Fammi capire bene. Se faccio un'offerta, posso chiederti di rendermi più "
+"forte?"
+
+msgctxt "1148_Tendo"
+msgid "Yes, that's the gist of it. You are quite perceptive, I must say."
+msgstr "Sì, in sostanza è così. Sei piuttosto perspicace, devo dire."
+
+msgctxt "1160_Saejima"
+msgid "And if I ain't sure what to offer, I can ask you?"
+msgstr "E se non sono sicuro di cosa offrire, posso chiedere a te?"
+
+msgctxt "1172_Tendo"
+msgid ""
+"Just so. Do that, and the mountain gods will surely answer your prayers."
+msgstr ""
+"Proprio così. Fallo, e gli dei della montagna esaudiranno sicuramente le tue"
+" preghiere."
+
+msgctxt "1184_Saejima"
+msgid ""
+"Can't help but feel like you're takin' me for a ride, old man. But what the "
+"hell, I'll give it a try."
+msgstr ""
+"Non posso fare a meno di pensare che mi stai prendendo in giro, vecchio. Ma "
+"che diavolo, farò un tentativo."
+
+msgctxt "1196_Tendo's Training"
+msgid ""
+"<Color:7>Heat Actions are not available<Color:Default> in training battles. "
+"Make sure you are prepared before you begin, as you never know what might "
+"happen on the mountain."
+msgstr ""
+"<Color:7>Le Azioni Heat non sono disponibili<Color:Default> negli scontri di"
+" addestramento. Assicurati di essere pronto prima di iniziare, perché non si"
+" sa mai cosa potrebbe accadere sulla montagna."
+
+msgctxt "1208_Saejima"
+msgid "Fine. I'll be back after I get some offerings and stuff."
+msgstr "Va bene. Tornerò dopo aver recuperato un po' di offerte e il resto."
+
+msgctxt "1220_Tendo"
+msgid "Excellent. I'll be waiting."
+msgstr "Eccellente. Ti aspetterò."
+
+msgctxt "1256_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "1268_Tendo"
+msgid "......"
+msgstr "......"
+
+msgctxt "1280_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "1292_Tendo"
+msgid "Ngh!"
+msgstr "Ugh!"
+
+msgctxt "1304_Saejima"
+msgid "What's wrong!?"
+msgstr "Che c'è che non va!?"
+
+msgctxt "1316_Tendo"
+msgid "I can't... I can't move! Ngh!"
+msgstr "Non riesco... non riesco a muovermi! Ugh!"
+
+msgctxt "1328_Saejima"
+msgid "Hold on, old man!"
+msgstr "Ehi, aspetta, vecchio!"
+
+msgctxt "1340_Tendo"
+msgid "......"
+msgstr "......"
+
+msgctxt "1352_Saejima"
+msgid "...Old man?"
+msgstr "...Vecchio?"
+
+msgctxt "1364_Tendo"
+msgid "......"
+msgstr "......"
+
+msgctxt "1376_Saejima"
+msgid "Whoa, he's floatin'!"
+msgstr "Ehi, sta fluttuando!"
+
+msgctxt "1388_Todoroki"
+msgid "I am Todoroki, god of this mountain."
+msgstr "Io sono Todoroki, il dio di questa montagna."
+
+msgctxt "1400_Saejima"
+msgid "Todoroki!?"
+msgstr "Todoroki!?"
+
+msgctxt "1412_Todoroki"
+msgid "If it is power you seek, then endure the ordeal I put before you."
+msgstr ""
+"Se è il potere ciò che cerchi, allora supera la prova che ti pongo dinanzi."
+
+msgctxt "1424_Saejima"
+msgid "The hell?"
+msgstr "Che diavolo?"
+
+msgctxt "1436_Todoroki"
+msgid "Yes, though I can offer no assurance that you shall survive."
+msgstr "Sì, sebbene non possa assicurarti che sopravvivrai."
+
+msgctxt "1448_Todoroki"
+msgid ""
+"But if your heart still beats by the end, new power is what you shall have."
+msgstr ""
+"Ma se alla fine il tuo cuore batterà ancora, otterrai un nuovo potere."
+
+msgctxt "1460_Saejima"
+msgid "Wait, what're you gonna do?"
+msgstr "Aspetta, che hai intenzione di fare?"
+
+msgctxt "1472_Todoroki"
+msgid "The time for talk is over! Let us begin!"
+msgstr "Basta con le chiacchiere! Cominciamo!"
+
+msgctxt "1496_Saejima"
+msgid "Is it over?"
+msgstr "È finita?"
+
+msgctxt "1508_Tendo"
+msgid "Ugh..."
+msgstr "Ugh..."
+
+msgctxt "1520_Saejima"
+msgid "You okay, old man!?"
+msgstr "Tutto bene, vecchio!?"
+
+msgctxt "1532_Tendo"
+msgid "Every bone in this old body aches. What on earth happened?"
+msgstr ""
+"Ogni osso di questo vecchio corpo mi duole. Ma che diavolo è successo?"
+
+msgctxt "1544_Saejima"
+msgid ""
+"You mean you don't remember? You got possessed by some mountain god named "
+"Todoroki. Then you said something about an ordeal and attacked me."
+msgstr ""
+"Vuoi dire che non ricordi? Sei stato posseduto da una specie di dio della "
+"montagna di nome Todoroki. Poi hai detto qualcosa riguardo a una prova e mi "
+"hai attaccato."
+
+msgctxt "1556_Tendo"
+msgid "Is that what happened? The mountain god Todoroki, you say?"
+msgstr "È andata così? Il dio della montagna Todoroki, dici?"
+
+msgctxt "1568_Saejima"
+msgid "...Old man?"
+msgstr "...Vecchio?"
+
+msgctxt "1580_Tendo"
+msgid ""
+"To think a god of the mountain would use my body as a vessel... I'm so "
+"happy, I think I'm going to cry."
+msgstr ""
+"Pensare che un dio della montagna abbia usato il mio corpo come tramite... "
+"Sono così felice che mi viene da piangere."
+
+msgctxt "1592_Saejima"
+msgid "Hey, cut it out. You're one weird geezer, you know that?"
+msgstr "Ehi, dacci un taglio. Sei proprio un vecchio strambo, lo sai?"
+
+msgctxt "1604_Tendo"
+msgid ""
+"Saejima, was it? I wasn't able to speak with the mountain god, but you did, "
+"correct?"
+msgstr ""
+"Saejima, giusto? Io non sono riuscito a parlare con il dio della montagna, "
+"ma tu sì, dico bene?"
+
+msgctxt "1616_Saejima"
+msgid "You mean Todoroki? Yeah, I did."
+msgstr "Intendi Todoroki? Sì, l'ho fatto."
+
+msgctxt "1628_Tendo"
+msgid "Oh... Oh blessed tears of joy..."
+msgstr "Oh... Oh, benedette lacrime di gioia..."
+
+msgctxt "1640_Saejima"
+msgid "Will you stop cryin' already and explain what's goin' on?"
+msgstr ""
+"La vuoi piantare di piangere una buona volta e spiegarmi che sta succedendo?"
+
+msgctxt "1652_Tendo"
+msgid ""
+"Do you notice anything different? Did the god of the mountain grant you new "
+"power?"
+msgstr ""
+"Noti niente di diverso? Il dio della montagna ti ha concesso un nuovo "
+"potere?"
+
+msgctxt "1664_Saejima"
+msgid "Hmm, come to think of it..."
+msgstr "Hmm, ora che ci penso..."
+
+msgctxt "1688_Tendo"
+msgid "Hoho! You did gain new power!"
+msgstr "Oho! Hai ottenuto davvero un nuovo potere!"
+
+msgctxt "1700_Tendo"
+msgid ""
+"I knew these old eyes did not deceive me! This is the happiest day of my "
+"life!"
+msgstr ""
+"Sapevo che questi vecchi occhi non mi ingannavano! Questo è il giorno più "
+"felice della mia vita!"
+
+msgctxt "1712_Saejima"
+msgid "Yeah? Well, good for you, old man."
+msgstr "Sì? Beh, buon per te, vecchio."
+
+msgctxt "1724_Tendo"
+msgid ""
+"Come again, Saejima. And bring another offering if you are to speak with the"
+" gods once more."
+msgstr ""
+"Torna pure, Saejima. E porta un'altra offerta se vuoi parlare di nuovo con "
+"gli dei."
+
+msgctxt "1736_Saejima"
+msgid ""
+"Yeah, well this was all kinda creepy, but if it'll make me stronger, I guess"
+" it's worth it."
+msgstr ""
+"Già, beh, è stato tutto un po' inquietante, ma se mi renderà più forte, "
+"immagino che ne valga la pena."
+
+msgctxt "1748_Tendo"
+msgid "Then I'll look forward to seeing you again."
+msgstr "Allora non vedo l'ora di rivederti."
+
+msgctxt "1784_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "1796_Tendo"
+msgid "......"
+msgstr "......"
+
+msgctxt "1808_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "1820_Tendo"
+msgid "Ngh!"
+msgstr "Ugh!"
+
+msgctxt "1832_Saejima"
+msgid "Hold on, old man!"
+msgstr "Aspetta, vecchio!"
+
+msgctxt "1844_Tendo"
+msgid "......"
+msgstr "......"
+
+msgctxt "1856_Saejima"
+msgid "Here we go again..."
+msgstr "Ci risiamo..."
+
+msgctxt "1868_???"
+msgid "Ah, it is you... The one who seeks power."
+msgstr "Ah, sei tu... Colui che cerca il potere."
+
+msgctxt "1880_Saejima"
+msgid "Is that you, Todoroki?"
+msgstr "Sei tu, Todoroki?"
+
+msgctxt "1892_Tendo"
+msgid "No, I am his elder brother, Ikazuchi."
+msgstr "No, sono suo fratello maggiore, Ikazuchi."
+
+msgctxt "1904_Saejima"
+msgid "Ikazuchi? So Todoroki has a brother?"
+msgstr "Ikazuchi? Quindi Todoroki ha un fratello?"
+
+msgctxt "1916_Ikazuchi"
+msgid "The clan of the mountain gods watches over this mountain."
+msgstr "Il clan degli dei della montagna veglia su questa montagna."
+
+msgctxt "1928_Saejima"
+msgid "There's a whole family of you guys?"
+msgstr "C'è un'intera famiglia di voi?"
+
+msgctxt "1940_Ikazuchi"
+msgid ""
+"Correct. Now then, that you endured Todoroki's ordeal shows you are quite "
+"promising for a mortal."
+msgstr ""
+"Esatto. Dunque, il fatto che tu abbia superato la prova di Todoroki dimostra"
+" che sei piuttosto promettente, per essere un mortale."
+
+msgctxt "1952_Ikazuchi"
+msgid ""
+"But the ordeal I shall put you through is far more terrible than my "
+"brother's."
+msgstr ""
+"Ma la prova a cui ti sottoporrò è molto più terribile di quella di mio "
+"fratello."
+
+msgctxt "1964_Saejima"
+msgid "Never said I'd accept, but it don't look like I got much of a choice."
+msgstr ""
+"Non ho mai detto che avrei accettato, ma non sembra che io abbia molta "
+"scelta."
+
+msgctxt "1976_Ikazuchi"
+msgid "Enough talk. Now brace yourself, for the trial draws nigh!"
+msgstr "Basta parlare. Ora preparati, perché la prova è imminente!"
+
+msgctxt "2000_Tendo"
+msgid "Ugh..."
+msgstr "Ugh..."
+
+msgctxt "2012_Saejima"
+msgid "You okay, old man?"
+msgstr "Tutto bene, vecchio?"
+
+msgctxt "2024_Tendo"
+msgid "Did I lose consciousness again?"
+msgstr "Ho perso di nuovo conoscenza?"
+
+msgctxt "2036_Saejima"
+msgid "Yeah. This time, Todoroki's big brother Ikazuchi stopped by."
+msgstr "Già. Stavolta è passato Ikazuchi, il fratello maggiore di Todoroki."
+
+msgctxt "2048_Tendo"
+msgid ""
+"Todoroki and Ikazuchi... Both gods are told of in the ancient tales of this "
+"mountain."
+msgstr ""
+"Todoroki e Ikazuchi... Di entrambi gli dei si narra negli antichi racconti "
+"di questa montagna."
+
+msgctxt "2060_Saejima"
+msgid ""
+"Yeah? Guess I made the acquaintance of a couple of pretty important guys, "
+"huh?"
+msgstr ""
+"Ah sì? A quanto pare ho fatto la conoscenza di un paio di tizi piuttosto "
+"importanti, eh?"
+
+msgctxt "2072_Tendo"
+msgid "That you did. So tell me, what did the gods bestow upon you this time?"
+msgstr "Proprio così. Allora dimmi, cosa ti hanno donato gli dei stavolta?"
+
+msgctxt "2084_Saejima"
+msgid "Hm, lemme see here..."
+msgstr "Hm, fammi vedere un po'..."
+
+msgctxt "2108_Tendo"
+msgid ""
+"Listen to the words of the mountain gods and you just might draw closer to a"
+" greater truth."
+msgstr ""
+"Ascolta le parole degli dei della montagna e potresti avvicinarti a una "
+"verità superiore."
+
+msgctxt "2120_Tendo"
+msgid ""
+"You are on your way toward achieving a greater connection with the mountain "
+"gods－one I have only dreamed of. You must continue."
+msgstr ""
+"Ti stai avviando a raggiungere una connessione superiore con gli dei della "
+"montagna—una che io ho solo sognato. Devi continuare."
+
+msgctxt "2132_Saejima"
+msgid "You got it, old man."
+msgstr "Sarà fatto, vecchio."
+
+msgctxt "2168_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "2180_Tendo"
+msgid "......"
+msgstr "......"
+
+msgctxt "2192_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "2204_Tendo"
+msgid "......"
+msgstr "......"
+
+msgctxt "2216_Saejima"
+msgid "Wrong offering?"
+msgstr "Offerta sbagliata?"
+
+msgctxt "2228_Tendo"
+msgid "Ngh!"
+msgstr "Ugh!"
+
+msgctxt "2240_Saejima"
+msgid "Guess I hit the mark."
+msgstr "Direi che ho fatto centro."
+
+msgctxt "2252_Tendo"
+msgid "......"
+msgstr "......"
+
+msgctxt "2264_???"
+msgid "So you are the one who mocks the gods of the mountain?"
+msgstr "Quindi sei tu quello che si fa beffe degli dei della montagna?"
+
+msgctxt "2276_Saejima"
+msgid "How many of these guys are there?"
+msgstr "Ma quanti ce ne sono di questi tizi?"
+
+msgctxt "2288_Tendo"
+msgid "I am Homura, first and foremost among the mountain god clan."
+msgstr ""
+"Io sono Homura, il primo e più importante del clan degli dei della montagna."
+
+msgctxt "2300_Saejima"
+msgid "Does that make you the dad, then?"
+msgstr "E questo farebbe di te il padre, allora?"
+
+msgctxt "2312_Homura"
+msgid "That I am. And you have denigrated my sons."
+msgstr "Proprio così. E hai denigrato i miei figli."
+
+msgctxt "2324_Saejima"
+msgid "I ain't done nothin' like that."
+msgstr "Non ho fatto niente del genere."
+
+msgctxt "2336_Homura"
+msgid "Your words ring false, for it is the nature of mortals to lie."
+msgstr ""
+"Le tue parole suonano false, poiché è nella natura dei mortali mentire."
+
+msgctxt "2348_Saejima"
+msgid ""
+"If you don't believe a word I say, then I dunno why we're even talkin'."
+msgstr ""
+"Se non credi a una parola di quello che dico, allora non so nemmeno perché "
+"stiamo a parlare."
+
+msgctxt "2360_Homura"
+msgid "You claim to seek power. I shall show you what true power is."
+msgstr "Affermi di cercare il potere. Ti mostrerò cos'è il vero potere."
+
+msgctxt "2372_Homura"
+msgid "Then will you know the folly of your ways!"
+msgstr "Allora conoscerai la follia delle tue azioni!"
+
+msgctxt "2396_Tendo"
+msgid "......"
+msgstr "......"
+
+msgctxt "2408_Saejima"
+msgid "You okay, old man?"
+msgstr "Tutto bene, vecchio?"
+
+msgctxt "2420_Tendo"
+msgid "......"
+msgstr "......"
+
+msgctxt "2432_Saejima"
+msgid "Gramps? You're not dead, are ya?"
+msgstr "Vecchio? Non sarai mica morto, eh?"
+
+msgctxt "2444_Tendo"
+msgid "Ugh... No, I'm still here."
+msgstr "Ugh... No, sono ancora qui."
+
+msgctxt "2456_Saejima"
+msgid "Ain't this training a little too hard on ya?"
+msgstr "Non è che questo allenamento è un po' troppo duro per te?"
+
+msgctxt "2468_Tendo"
+msgid ""
+"You mean being pummeled by an ox of a man like you? The answer is a "
+"definitive yes."
+msgstr ""
+"Intendi essere pestato da un bue come te? La risposta è decisamente sì."
+
+msgctxt "2480_Saejima"
+msgid "Er, yeah... Sorry about that."
+msgstr "Ehm, già... Scusa per quello."
+
+msgctxt "2492_Tendo"
+msgid ""
+"No, it's quite all right. Now, tell me what the gods bestowed upon you this "
+"time."
+msgstr ""
+"No, va bene così. Ora, dimmi cosa ti hanno concesso gli dèi questa volta."
+
+msgctxt "2504_Saejima"
+msgid "Lemme see here..."
+msgstr "Vediamo un po'..."
+
+msgctxt "2528_Tendo"
+msgid "Hmm... I, too, sense something growing within me, albeit slowly."
+msgstr ""
+"Hmm... Anch'io percepisco qualcosa crescere dentro di me, sebbene "
+"lentamente."
+
+msgctxt "2540_Saejima"
+msgid "Something growin' within you? Like what?"
+msgstr "Qualcosa che cresce dentro di te? Tipo cosa?"
+
+msgctxt "2552_Tendo"
+msgid ""
+"I can't say for sure, but I do believe it's a step toward the greater truth."
+msgstr ""
+"Non saprei dirlo con certezza, ma credo proprio che sia un passo verso la "
+"verità suprema."
+
+msgctxt "2564_Saejima"
+msgid ""
+"Well, I don't know much about these mountain gods of yours, but they seem "
+"pretty pissed off."
+msgstr ""
+"Beh, non so molto di questi tuoi dèi della montagna, ma sembrano proprio "
+"incazzati."
+
+msgctxt "2576_Tendo"
+msgid ""
+"The wrath of the mountain gods is the wrath of nature. A message for us "
+"mortals."
+msgstr ""
+"L'ira degli dèi della montagna è l'ira della natura. Un messaggio per noi "
+"mortali."
+
+msgctxt "2588_Saejima"
+msgid "You mean like, take better care of the environment? Stuff like that?"
+msgstr "Intendi tipo prenderci più cura dell'ambiente? Roba del genere?"
+
+msgctxt "2600_Tendo"
+msgid "Just so. Well, Saejima, I do hope you stop by again."
+msgstr "Proprio così. Beh, Saejima, spero proprio che passerai di nuovo."
+
+msgctxt "2636_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "2648_Tendo"
+msgid "......"
+msgstr "......"
+
+msgctxt "2660_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "2672_Tendo"
+msgid "Ngh!"
+msgstr "Ugh!"
+
+msgctxt "2684_Saejima"
+msgid "Here it comes!"
+msgstr "Eccolo!"
+
+msgctxt "2696_Tendo"
+msgid ""
+"No, I'm afraid it's merely my backside. It's itching something terrible."
+msgstr ""
+"No, temo sia soltanto il mio fondoschiena. Mi prude in un modo terribile."
+
+msgctxt "2708_Saejima"
+msgid "You picked one helluva time to get an itchy ass, old man."
+msgstr ""
+"Hai scelto proprio un bel momento per farti venire il prurito al culo, "
+"vecchio."
+
+msgctxt "2720_Tendo"
+msgid "Sorry... Ngh!"
+msgstr "Scusa... Ugh!"
+
+msgctxt "2732_Saejima"
+msgid "Enough already. If it itches that bad, I'll scratch it for ya."
+msgstr "Adesso basta. Se ti prude così tanto, te lo gratto io."
+
+msgctxt "2744_Tendo"
+msgid "......"
+msgstr "......"
+
+msgctxt "2756_Saejima"
+msgid "Oh, guess it's the real thing now."
+msgstr "Oh, a quanto pare stavolta si fa sul serio."
+
+msgctxt "2768_???"
+msgid "Let us dispense with the pleasantries. Now, prepare yourself!"
+msgstr "Basta con i convenevoli. Ora, preparati!"
+
+msgctxt "2816_Saejima"
+msgid "Whoa, whoa, slow down! Ain't you even gonna tell me your name?"
+msgstr "Ehi, ehi, frena! Non hai nemmeno intenzione di dirmi come ti chiami?"
+
+msgctxt "2828_???"
+msgid "My name? Your ears are not worthy of hearing it."
+msgstr "Il mio nome? Le tue orecchie non sono degne di udirlo."
+
+msgctxt "2840_Saejima"
+msgid ""
+"Heh, this one sounds like a real asshole. The others were at least a little "
+"more sociable."
+msgstr ""
+"Eheh, questo qui sembra proprio un vero stronzo. Gli altri erano almeno un "
+"po' più socievoli."
+
+msgctxt "2852_???"
+msgid "Very well, my name is Seseragi."
+msgstr "E va bene, il mio nome è Seseragi."
+
+msgctxt "2864_Saejima"
+msgid "So now you gimme your name? What happened to the high and mighty bit?"
+msgstr ""
+"E così adesso mi dici il tuo nome? Che fine ha fatto l'atteggiamento da "
+"superiore?"
+
+msgctxt "2876_Seseragi"
+msgid ""
+"There is no need for such a tone. You shall find this encounter to your "
+"benefit, no doubt."
+msgstr ""
+"Non c'è bisogno di usare questo tono. Senza dubbio, trarrai beneficio da "
+"questo incontro."
+
+msgctxt "2888_Saejima"
+msgid "Now a mountain god's tryin' to calm me down? Man, what next?"
+msgstr ""
+"Adesso pure un dio della montagna cerca di darmi una calmata? Accidenti, "
+"cos'altro mi aspetta?"
+
+msgctxt "2900_Seseragi"
+msgid "If you would seek power, then prove that you can endure my ordeal."
+msgstr ""
+"Se cerchi il potere, allora dimostra di poter sopportare la mia prova."
+
+msgctxt "2912_Saejima"
+msgid "Why didn't ya just open with that instead of wastin' both our time?"
+msgstr ""
+"Perché non hai cominciato subito così invece di farci perdere tempo a "
+"entrambi?"
+
+msgctxt "2924_Seseragi"
+msgid "There are myriad paths in this world. This is but one of them."
+msgstr ""
+"Esistono miriadi di sentieri in questo mondo. Questo non è che uno di essi."
+
+msgctxt "2936_Saejima"
+msgid "Whatever you say, buddy."
+msgstr "Come dici tu, amico."
+
+msgctxt "2948_Seseragi"
+msgid "Now, brace yourself!"
+msgstr "Ora, preparati!"
+
+msgctxt "2972_Tendo"
+msgid "Ugh..."
+msgstr "Ugh..."
+
+msgctxt "2984_Saejima"
+msgid "You there, old man?"
+msgstr "Ci sei, vecchio?"
+
+msgctxt "2996_Tendo"
+msgid "Did a mountain god possess me again?"
+msgstr "Mi ha posseduto di nuovo un dio della montagna?"
+
+msgctxt "3008_Saejima"
+msgid "It was some smart-ass named Seseragi this time."
+msgstr "Stavolta era un saputello di nome Seseragi."
+
+msgctxt "3020_Saejima"
+msgid ""
+"His personality seemed a little erratic, though. These gods are gettin' "
+"kinda half-assed."
+msgstr ""
+"Il suo carattere sembrava un po' instabile, però. Questi dei stanno "
+"diventando un po' delle mezze cartucce."
+
+msgctxt "3032_Tendo"
+msgid ""
+"No, I believe it's simply a matter of each one having a distinct personality"
+" in accordance with the natural phenomenon over which it presides."
+msgstr ""
+"No, credo sia semplicemente una questione legata al fatto che ognuno di loro"
+" abbia una personalità distinta, in base al fenomeno naturale su cui "
+"presiede."
+
+msgctxt "3044_Tendo"
+msgid ""
+"But enough about that. What sort of power did you gain this time, Saejima?"
+msgstr ""
+"Ma basta parlare di questo. Che tipo di potere hai ottenuto stavolta, "
+"Saejima?"
+
+msgctxt "3056_Saejima"
+msgid "Hm, lemme see here..."
+msgstr "Hm, fammi un po' vedere..."
+
+msgctxt "3080_Saejima"
+msgid ""
+"But the offering was a little different this time, and that conversation "
+"was... weird."
+msgstr ""
+"Ma stavolta l'offerta era un po' diversa, e quella conversazione è stata... "
+"strana."
+
+msgctxt "3092_Saejima"
+msgid "Can't help thinkin' there's something strange goin' on here."
+msgstr "Non posso fare a meno di pensare che ci sia qualcosa di strano qui."
+
+msgctxt "3104_Tendo"
+msgid ""
+"Don't be silly, Saejima. It's really quite simple. The gods are as fickle as"
+" mountain weather."
+msgstr ""
+"Non dire sciocchezze, Saejima. È tutto molto semplice. Gli dei sono volubili"
+" come il tempo in montagna."
+
+msgctxt "3116_Saejima"
+msgid "I dunno about that, but whatever."
+msgstr "Non ne sono mica tanto convinto, ma vabbè."
+
+msgctxt "3128_Tendo"
+msgid "Yes, well, I hope you'll visit again when you get a chance."
+msgstr ""
+"Sì, be', spero che tornerai a farmi visita quando ne avrai l'occasione."
+
+msgctxt "3140_Saejima"
+msgid "Yeah, I'll do that."
+msgstr "Sì, lo farò."
+
+msgctxt "3176_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "3188_Tendo"
+msgid "......"
+msgstr "......"
+
+msgctxt "3200_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "3212_Tendo"
+msgid "Ngh!"
+msgstr "Ugh!"
+
+msgctxt "3224_Saejima"
+msgid "Here it comes!"
+msgstr "Eccolo!"
+
+msgctxt "3236_Tendo"
+msgid "......"
+msgstr "......"
+
+msgctxt "3248_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "3260_Tendo"
+msgid "......"
+msgstr "......"
+
+msgctxt "3272_Saejima"
+msgid "Well? Did I strike out this time?"
+msgstr "Be'? Ho fatto cilecca stavolta?"
+
+msgctxt "3284_Tendo"
+msgid "Hm...? Ah!"
+msgstr "Hm...? Ah!"
+
+msgctxt "3296_Saejima"
+msgid "What's goin' on, old man?"
+msgstr "Che succede, vecchio?"
+
+msgctxt "3308_Tendo"
+msgid "......"
+msgstr "......"
+
+msgctxt "3332_Tendo"
+msgid "......"
+msgstr "......"
+
+msgctxt "3344_Saejima"
+msgid "Well? What's with that pause?"
+msgstr "Be'? Cos'è quella pausa?"
+
+msgctxt "3356_???"
+msgid "Let go of the past, and then you shall be free, Saejima."
+msgstr "Lasciati alle spalle il passato e sarai libero, Saejima."
+
+msgctxt "3368_Saejima"
+msgid "You know my name? Why'd ya keep callin' me \"mortal\" before, then?"
+msgstr ""
+"Conosci il mio nome? Allora perché prima continuavi a chiamarmi \"mortale\"?"
+
+msgctxt "3380_???"
+msgid "Oh, right... About your name..."
+msgstr "Oh, già... A proposito del tuo nome..."
+
+msgctxt "3392_???"
+msgid "I, uh... I plucked it from the mind of this old man."
+msgstr "Io, ecco... L'ho estrapolato dalla mente di questo vecchio."
+
+msgctxt "3404_Saejima"
+msgid ""
+"Okay, guess that could explain it, considerin' you're possessin' the old "
+"guy."
+msgstr ""
+"Ok, direi che questo lo spiega, visto che ti sei impossessato del vecchio."
+
+msgctxt "3416_Saejima"
+msgid "But what gets me is, none of this is surprising me anymore."
+msgstr ""
+"Ma la cosa assurda è che ormai niente di tutto questo mi sorprende più."
+
+msgctxt "3428_???"
+msgid "I'm Todoroki, leader of the mountain gods."
+msgstr "Sono Todoroki, il capo degli dei della montagna."
+
+msgctxt "3440_Saejima"
+msgid "Todoroki? So you're that first god I met before."
+msgstr "Todoroki? Quindi sei quel primo dio che ho incontrato prima."
+
+msgctxt "3452_Saejima"
+msgid "Wait a sec. I thought Homura was supposed to be the boss god."
+msgstr ""
+"Aspetta un attimo. Credevo che Homura dovesse essere il capo degli dei."
+
+msgctxt "3464_Todoroki"
+msgid "......"
+msgstr "......"
+
+msgctxt "3476_Saejima"
+msgid ""
+"And you sound different from last time. Not soundin' so, uh... godly this "
+"time."
+msgstr ""
+"E hai un tono diverso dall'ultima volta. Non sembri così... ecco... divino, "
+"stavolta."
+
+msgctxt "3488_Todoroki"
+msgid "......"
+msgstr "......"
+
+msgctxt "3500_Todoroki"
+msgid "Homura's dead!"
+msgstr "Homura è morto!"
+
+msgctxt "3512_Saejima"
+msgid "What!? Mountain gods can die!?"
+msgstr "Cosa!? Gli dei della montagna possono morire!?"
+
+msgctxt "3524_Todoroki"
+msgid ""
+"Just so! And I changed the way I speak so I could become the new leader!"
+msgstr ""
+"Proprio così! E ho cambiato il mio modo di parlare per poter diventare il "
+"nuovo leader!"
+
+msgctxt "3536_Saejima"
+msgid "I guess that could explain it, but..."
+msgstr "Direi che questo lo spiega, ma..."
+
+msgctxt "3548_Todoroki"
+msgid "It isn't easy being a mountain god, you know."
+msgstr "Non è mica facile essere un dio della montagna, sai."
+
+msgctxt "3560_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "3572_Saejima"
+msgid "Somethin' don't smell right here."
+msgstr "C'è qualcosa che non mi quadra."
+
+msgctxt "3584_Todoroki"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "3596_Saejima"
+msgid "You're actin' kinda weird. If I find out you've been punkin' me..."
+msgstr ""
+"Ti stai comportando in modo strano. Se scopro che mi stai prendendo per i "
+"fondelli..."
+
+msgctxt "3608_Todoroki"
+msgid "......"
+msgstr "......"
+
+msgctxt "3620_Saejima"
+msgid "I can't help feelin' like－"
+msgstr "Non posso fare a meno di pensare che－"
+
+msgctxt "3632_Todoroki"
+msgid "Silence! It is time to do battle!"
+msgstr "Silenzio! È il momento di combattere!"
+
+msgctxt "3656_Saejima"
+msgid ""
+"Strange how Todoroki just attacked like that. It was like he was tryin' to "
+"hide something."
+msgstr ""
+"È strano che Todoroki abbia attaccato così, all'improvviso. Sembrava quasi "
+"che cercasse di nascondere qualcosa."
+
+msgctxt "3668_Tendo"
+msgid "Ow ow ow!"
+msgstr "Ahi ahi ahi!"
+
+msgctxt "3680_Saejima"
+msgid "You okay, old man?"
+msgstr "Tutto bene, vecchio?"
+
+msgctxt "3692_Tendo"
+msgid "Don't you know how to pull your punches?"
+msgstr "Ma non sai proprio andarci piano?"
+
+msgctxt "3704_Saejima"
+msgid ""
+"What about those mountain gods? They always come at me like a freight train."
+msgstr "E quegli dei della montagna? Mi caricano sempre come dei treni merci."
+
+msgctxt "3716_Tendo"
+msgid "Yes, well, you have a point there."
+msgstr "Sì, beh, su questo non hai tutti i torti."
+
+msgctxt "3728_Saejima"
+msgid ""
+"Anyway, that god was actin' kinda sketchy this time. Kinda hard to believe "
+"he was even a god."
+msgstr ""
+"Comunque, stavolta quel dio si è comportato in modo un po' sospetto. Faccio "
+"quasi fatica a credere che fosse davvero un dio."
+
+msgctxt "3740_Saejima"
+msgid ""
+"Then again, he did say he was Todoroki, so I guess he was the same god I met"
+" the first time. Man, now I'm really confused."
+msgstr ""
+"D'altra parte, ha detto di essere Todoroki, quindi immagino fosse lo stesso "
+"dio che ho incontrato la prima volta. Cavolo, adesso sono proprio confuso."
+
+msgctxt "3752_Tendo"
+msgid ""
+"That is just the way of the world, Saejima. Some things simply cannot be "
+"explained."
+msgstr ""
+"È così che va il mondo, Saejima. Certe cose semplicemente non si possono "
+"spiegare."
+
+msgctxt "3764_Saejima"
+msgid ""
+"Not you, too, old man. I got enough half-assed explanations from Todoroki."
+msgstr ""
+"Non metterti pure tu, vecchio. Ne ho già avute fin troppe di spiegazioni del"
+" cavolo da Todoroki."
+
+msgctxt "3776_Saejima"
+msgid ""
+"I can't help feelin' there's somethin' fishy with this mountain god thing."
+msgstr ""
+"Non posso fare a meno di pensare che ci sia qualcosa di losco in tutta "
+"questa storia degli dei della montagna."
+
+msgctxt "3788_Tendo"
+msgid "A needless focus on details will only lead to vexation, Saejima."
+msgstr "Fissarsi inutilmente sui dettagli ti porterà solo affanno, Saejima."
+
+msgctxt "3800_Tendo"
+msgid "Now, do you notice any new powers this time?"
+msgstr "Allora, hai notato qualche nuovo potere stavolta?"
+
+msgctxt "3812_Saejima"
+msgid "Hm, lemme see here..."
+msgstr "Hm, vediamo un po'..."
+
+msgctxt "3836_Saejima"
+msgid ""
+"I like powerin' up like this, but something about this whole thing don't sit"
+" right with me."
+msgstr ""
+"Mi piace potenziarmi così, ma c'è qualcosa in tutta questa storia che non mi"
+" convince."
+
+msgctxt "3848_Saejima"
+msgid ""
+"I also noticed the offerings I need to get are startin' to get more "
+"expensive."
+msgstr ""
+"Ho anche notato che le offerte che devo rimediare stanno iniziando a farsi "
+"più care."
+
+msgctxt "3860_Tendo"
+msgid ""
+"The gods of the mountains have many needs. You'd be wise to keep showing "
+"them your generosity."
+msgstr ""
+"Gli dei della montagna hanno molte necessità. Sarebbe saggio continuare a "
+"mostrare loro la tua generosità."
+
+msgctxt "3872_Saejima"
+msgid ""
+"Ugh, this is really startin' to bug me. Better get it outta my head or it's "
+"gonna keep me up all night."
+msgstr ""
+"Ugh, questa storia sta iniziando a darmi proprio sui nervi. Meglio levarmela"
+" dalla testa o finirà per non farmi dormire tutta la notte."
+
+msgctxt "3884_Tendo"
+msgid ""
+"That would be the wise choice. Clear your mind so you may hear when the gods"
+" speak to you."
+msgstr ""
+"Sarebbe la scelta più saggia. Libera la mente, così potrai udire quando gli "
+"dei ti parleranno."
+
+msgctxt "3896_Saejima"
+msgid "Yeah, I'll do that."
+msgstr "Già, farò così."
+
+msgctxt "3908_Tendo"
+msgid "Well, Saejima, I do hope you stop by again."
+msgstr "Bene, Saejima, spero proprio che passerai di nuovo."
+
+msgctxt "3944_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "3956_Tendo"
+msgid "......"
+msgstr "......"
+
+msgctxt "3968_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "3980_Tendo"
+msgid "Ngh!"
+msgstr "Ugh!"
+
+msgctxt "3992_Saejima"
+msgid "This offering's gonna work!?"
+msgstr "Questa offerta funzionerà!?"
+
+msgctxt "4004_???"
+msgid "......"
+msgstr "......"
+
+msgctxt "4016_Saejima"
+msgid "Who we got this time?"
+msgstr "Chi abbiamo stavolta?"
+
+msgctxt "4028_???"
+msgid "Who is it that disturbs my slumber?"
+msgstr "Chi è che disturba il mio sonno?"
+
+msgctxt "4040_Saejima"
+msgid "Yaaaah!"
+msgstr "Yaaaah!"
+
+msgctxt "4052_Tendo"
+msgid "Yikes! What the－!?"
+msgstr "Accidenti! Ma che－!?"
+
+msgctxt "4064_Tendo"
+msgid "Why did you－er, I mean, who is it that disturbs－"
+msgstr "Perché hai－ehm, cioè, chi è che disturba－"
+
+msgctxt "4076_Saejima"
+msgid "I knew it! This was all a buncha bull."
+msgstr "Lo sapevo! Era tutto un mucchio di stronzate."
+
+msgctxt "4088_Saejima"
+msgid "Your magic and those mountain gods were total schlock."
+msgstr "La tua magia e quegli dei della montagna erano una vera schifezza."
+
+msgctxt "4100_Tendo"
+msgid "What!? Nonsense! Stop this disobedience at once!"
+msgstr "Cosa!? Sciocchezze! Smettila subito con questa disobbedienza!"
+
+msgctxt "4112_Saejima"
+msgid ""
+"You had me goin' for a while, but you blew it when you couldn't keep your "
+"gods straight."
+msgstr ""
+"Mi hai fregato per un po', ma hai mandato tutto all'aria quando non sei "
+"riuscito a distinguere i tuoi stessi dei."
+
+msgctxt "4124_Saejima"
+msgid ""
+"Then there's those offerings! I ain't dumb. Anyone could see it's just stuff"
+" you yourself wanted."
+msgstr ""
+"E poi ci sono quelle offerte! Mica sono scemo. Chiunque capirebbe che è solo"
+" roba che volevi tu."
+
+msgctxt "4136_Tendo"
+msgid "Ack!"
+msgstr "Ah!"
+
+msgctxt "4148_Saejima"
+msgid ""
+"Fess up, old man. You had a good run, but the cat's outta the bag. You're "
+"just lucky I got a good sense of humor."
+msgstr ""
+"Sputa il rospo, vecchio. Ti è andata bene finora, ma ormai sei stato "
+"scoperto. Sei fortunato che io abbia un buon senso dell'umorismo."
+
+msgctxt "4160_Tendo"
+msgid "......"
+msgstr "......"
+
+msgctxt "4172_Tendo"
+msgid "Apologies. I couldn't stop myself."
+msgstr "Chiedo scusa. Non sono riuscito a trattenermi."
+
+msgctxt "4184_Saejima"
+msgid "Honesty's the best policy. Never forget that."
+msgstr "L'onestà è la miglior politica. Non dimenticarlo mai."
+
+msgctxt "4196_Saejima"
+msgid "Why're you doing this anyway? The villagers are really creeped out."
+msgstr ""
+"Ma perché lo fai, poi? Gli abitanti del villaggio sono davvero spaventati."
+
+msgctxt "4208_Tendo"
+msgid "Ah, yes, well..."
+msgstr "Ah, sì, beh..."
+
+msgctxt "4220_Tendo"
+msgid "Ngh!"
+msgstr "Ugh!"
+
+msgctxt "4232_Saejima"
+msgid "Cut the crap already, old man."
+msgstr "Dacci un taglio con queste stronzate, vecchio."
+
+msgctxt "4244_Tendo"
+msgid "......"
+msgstr "......"
+
+msgctxt "4256_Saejima"
+msgid ""
+"You really gonna pull this? Again? Come on, old man, I know it's all a load "
+"of crap."
+msgstr ""
+"Vuoi davvero rifarlo? Di nuovo? Ma dai, vecchio, lo so che sono tutte "
+"stronzate."
+
+msgctxt "4268_???"
+msgid ""
+"We, the gods of the mountain, shall not stand for this! You have mocked us "
+"for the last time!"
+msgstr ""
+"Noi, gli dèi della montagna, non tollereremo questo! Ci hai schernito per "
+"l'ultima volta!"
+
+msgctxt "4280_Saejima"
+msgid "C'mon, old man... You can't be serious."
+msgstr "Dai, vecchio... Non farai mica sul serio."
+
+msgctxt "4292_???"
+msgid ""
+"We expect little from you, for such base behavior is the nature of man, but "
+"we shall no longer tolerate such ignorance."
+msgstr ""
+"Ci aspettiamo poco da te, poiché un comportamento tanto vile è proprio della"
+" natura umana, ma non tollereremo più una simile ignoranza."
+
+msgctxt "4304_???"
+msgid ""
+"Prepare to suffer the wrath of the mountain gods and atone for your sins!"
+msgstr ""
+"Preparati a subire l'ira degli dèi della montagna e a espiare i tuoi "
+"peccati!"
+
+msgctxt "4316_Saejima"
+msgid "Aw, come on! They're real? The old man really pissed 'em off!"
+msgstr "Ma dai! Esistono davvero? Il vecchio li ha fatti incazzare sul serio!"
+
+msgctxt "4328_???"
+msgid "Prepare yourself, mortal! The day of judgment is nigh!"
+msgstr "Preparati, mortale! Il giorno del giudizio è vicino!"
+
+msgctxt "4352_Saejima"
+msgid "*huff* *huff*"
+msgstr "*anf* *anf*"
+
+msgctxt "4364_???"
+msgid "I see you are no mere mortal."
+msgstr "Vedo che non sei un semplice mortale."
+
+msgctxt "4376_Saejima"
+msgid "Nah, I'm just a regular guy."
+msgstr "Nah, sono solo un tipo qualunque."
+
+msgctxt "4388_Saejima"
+msgid ""
+"We may seem insignificant to you, but walk a mile in our shoes, and you'll "
+"see it ain't so easy."
+msgstr ""
+"Potremmo sembrarti insignificanti, ma prova a metterti nei nostri panni e "
+"vedrai che non è mica così facile."
+
+msgctxt "4400_???"
+msgid "Fool! I see now that there is no point in dealing with your kind."
+msgstr ""
+"Sciocco! Ora vedo che non ha alcun senso avere a che fare con quelli della "
+"tua specie."
+
+msgctxt "4412_???"
+msgid "Go! Live your life like the lowly worm that you are!"
+msgstr "Vai! Vivi la tua vita come l'infimo verme che sei!"
+
+msgctxt "4424_???"
+msgid "......"
+msgstr "......"
+
+msgctxt "4436_Saejima"
+msgid "Hey, old guy!"
+msgstr "Ehi, vecchio!"
+
+msgctxt "4448_Tendo"
+msgid "Ooh... Ugh..."
+msgstr "Ooh... Ugh..."
+
+msgctxt "4460_Saejima"
+msgid "You okay, old man!?"
+msgstr "Tutto bene, vecchio!?"
+
+msgctxt "4472_Tendo"
+msgid "Yes, I'll be fine."
+msgstr "Sì, starò bene."
+
+msgctxt "4484_Saejima"
+msgid ""
+"Yeah? Well, all your screwin' around made a real mountain god come knockin'."
+msgstr ""
+"Ah sì? Beh, con tutte le tue stronzate hai fatto venire a bussare un vero "
+"dio della montagna."
+
+msgctxt "4496_Tendo"
+msgid "Yes, I heard the whole thing unfold from some deep recess of my mind."
+msgstr ""
+"Sì, ho sentito tutto quanto svolgersi da qualche recesso profondo della mia "
+"mente."
+
+msgctxt "4508_Tendo"
+msgid ""
+"So the gods of the mountain really do exist. I... suppose I overstepped my "
+"bounds there."
+msgstr ""
+"Quindi gli dei della montagna esistono davvero. Immagino... di aver passato "
+"il segno."
+
+msgctxt "4520_Saejima"
+msgid "Tell me about it. You better watch yourself."
+msgstr "Dimmelo te. Vedi di stare attento."
+
+msgctxt "4532_Tendo"
+msgid "Indeed. I will take that warning to heart."
+msgstr "Già. Farò tesoro di questo avvertimento."
+
+msgctxt "4544_Tendo"
+msgid ""
+"I'm done meddling in such things. Anyway, I'm glad I met you, Saejima. It "
+"has been great fun."
+msgstr ""
+"Ho chiuso con l'intromettermi in certe faccende. Comunque, mi ha fatto "
+"piacere conoscerti, Saejima. È stato molto divertente."
+
+msgctxt "4556_Tendo"
+msgid ""
+"My remaining years are few, but I will strive to leave something of worth "
+"for the next generation."
+msgstr ""
+"Mi restano pochi anni da vivere, ma farò di tutto per lasciare qualcosa di "
+"valore alla prossima generazione."
+
+msgctxt "4568_Tendo"
+msgid ""
+"Come visit me anytime you'd like, Saejima. I'll be here continuing my "
+"communion with the gods."
+msgstr ""
+"Vieni pure a trovarmi quando vuoi, Saejima. Sarò qui a continuare la mia "
+"comunione con gli dei."
+
+msgctxt "4616_Saejima"
+msgid "Not so fast."
+msgstr "Non così in fretta."
+
+msgctxt "4628_Tendo"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "4640_Saejima"
+msgid "Couldn't even get a word in with you wrappin' up your farewell speech."
+msgstr ""
+"Non sono nemmeno riuscito ad aprire bocca, con te che stavi lì a finire il "
+"tuo discorso d'addio."
+
+msgctxt "4652_Tendo"
+msgid "Oh, was there something you wanted to say?"
+msgstr "Oh, c'era qualcosa che volevi dire?"
+
+msgctxt "4664_Saejima"
+msgid ""
+"We never finished our talk. You know, the one about why you were doin' all "
+"this?"
+msgstr ""
+"Non abbiamo mai finito il nostro discorso. Sai, quello sul perché stessi "
+"facendo tutto questo?"
+
+msgctxt "4676_Saejima"
+msgid "Then there's your magic tricks. How'd you pull that off, anyway?"
+msgstr ""
+"E poi ci sono i tuoi trucchetti. Comunque, come hai fatto a metterli in "
+"scena?"
+
+msgctxt "4688_Tendo"
+msgid "Oh, um... About that..."
+msgstr "Oh, ehm... Riguardo a quello..."
+
+msgctxt "4700_Saejima"
+msgid ""
+"Look, if you don't wanna talk about it, fine. But you gotta stop tryin' to "
+"scam offerings outta people."
+msgstr ""
+"Senti, se non ne vuoi parlare, fa niente. Ma vedi di piantarla di scroccare "
+"offerte alla gente."
+
+msgctxt "4712_Saejima"
+msgid ""
+"Besides, if you really can do magic like that, you could make a serious "
+"livin' off it."
+msgstr ""
+"E poi, se sai davvero fare magie del genere, potresti camparci alla grande."
+
+msgctxt "4724_Tendo"
+msgid "I suppose you have a point there."
+msgstr "Suppongo che tu abbia ragione."
+
+msgctxt "4736_Tendo"
+msgid "Saejima, I must apologize for deceiving you as I did."
+msgstr "Saejima, devo scusarmi per averti ingannato in quel modo."
+
+msgctxt "4748_Tendo"
+msgid "But now it is time for me to reveal my true identity to you."
+msgstr "Ma ora è giunto il momento che io ti sveli la mia vera identità."
+
+msgctxt "4760_Saejima"
+msgid "Ngh!"
+msgstr "Ugh!"
+
+msgctxt "4784_Saejima"
+msgid "...Old man?"
+msgstr "...Vecchio?"
+
+msgctxt "4796_Saejima"
+msgid "He just disappeared. And what was that about his true identity?"
+msgstr ""
+"È sparito così, dal nulla. E che cos'era quella storia della sua vera "
+"identità?"
+
+msgctxt "4808_Saejima"
+msgid "Wha－!?"
+msgstr "Ma che－!?"
+
+msgctxt "4820_Saejima"
+msgid "Was that old man really one of them mountain gods?"
+msgstr "Quel vecchio era davvero una di quelle divinità della montagna?"
+
+msgctxt "4832_Saejima"
+msgid "Nah. No way. That's impossible."
+msgstr "Nah. Non può essere. È impossibile."
+
+msgctxt "4844_Saejima"
+msgid ""
+"Well, that was a little freaky, but it wasn't all for nothin'. Got some new "
+"skills out of it, at least."
+msgstr ""
+"Beh, è stata una roba un po' inquietante, ma non è stato tutto inutile. "
+"Almeno ne ho ricavato delle nuove abilità."
+
+msgctxt "4868_Saejima"
+msgid "Maybe we'll meet again sometime, old man."
+msgstr "Magari ci incontreremo di nuovo un giorno, vecchio."
+
+msgctxt "4880_Saejima"
+msgid "See ya."
+msgstr "Ci si vede."

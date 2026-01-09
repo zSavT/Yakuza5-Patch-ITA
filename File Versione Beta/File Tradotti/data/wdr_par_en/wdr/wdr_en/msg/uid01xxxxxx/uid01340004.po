@@ -1,0 +1,1184 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "620"
+msgid ""
+"<Color:8>\r\n"
+"<Color:Default>"
+msgstr ""
+"<Color:8>\n"
+"<Color:Default>"
+
+msgctxt "764"
+msgid ""
+"<Color:8>\r\n"
+"<Color:Default>"
+msgstr ""
+"<Color:8>\n"
+"<Color:Default>"
+
+msgctxt "47948"
+msgid "Kaguya"
+msgstr "Kaguya"
+
+msgctxt "47952"
+msgid "cab_kaguya_a_01/kaguya_36_0001"
+msgstr "cab_kaguya_a_01/kaguya_36_0001"
+
+msgctxt "47956"
+msgid "F_cab_stand_tlk_ojigi_01"
+msgstr "F_cab_stand_tlk_ojigi_01"
+
+msgctxt "47960"
+msgid "Himura"
+msgstr "Himura"
+
+msgctxt "47964"
+msgid "cab_kaguya_a_01/kaguya_36_0006"
+msgstr "cab_kaguya_a_01/kaguya_36_0006"
+
+msgctxt "47968"
+msgid "F_cab_stand_tlk_ojigi_02"
+msgstr "F_cab_stand_tlk_ojigi_02"
+
+msgctxt "47972"
+msgid "cab_kaguya_a_01/kaguya_36_0007"
+msgstr "cab_kaguya_a_01/kaguya_36_0007"
+
+msgctxt "47976"
+msgid "F_cab_stand_tlk_byeA"
+msgstr "F_cab_stand_tlk_byeA"
+
+msgctxt "47980"
+msgid "cab_kaguya_a_01/kaguya_36_0008"
+msgstr "cab_kaguya_a_01/kaguya_36_0008"
+
+msgctxt "47984"
+msgid "cab_kaguya_a_01/kaguya_36_0002"
+msgstr "cab_kaguya_a_01/kaguya_36_0002"
+
+msgctxt "47988"
+msgid "cab_kaguya_a_01/kaguya_36_0003"
+msgstr "cab_kaguya_a_01/kaguya_36_0003"
+
+msgctxt "47992"
+msgid "2d_mr_meishi_kaguya00"
+msgstr "2d_mr_meishi_kaguya00"
+
+msgctxt "47996"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "48000"
+msgid "cab_kaguya_a_01/kaguya_36_0004"
+msgstr "cab_kaguya_a_01/kaguya_36_0004"
+
+msgctxt "48004"
+msgid "cab_kaguya_a_01/kaguya_36_0005"
+msgstr "cab_kaguya_a_01/kaguya_36_0005"
+
+msgctxt "48008"
+msgid "cab_kaguya_a_01/kaguya_36_0009"
+msgstr "cab_kaguya_a_01/kaguya_36_0009"
+
+msgctxt "48012"
+msgid "2d_mr_meishi_kaguya01"
+msgstr "2d_mr_meishi_kaguya01"
+
+msgctxt "48016"
+msgid "cab_kaguya_a_01/kaguya_36_0010"
+msgstr "cab_kaguya_a_01/kaguya_36_0010"
+
+msgctxt "48020"
+msgid "F_cab_sitsofa_tlk_tereruA"
+msgstr "F_cab_sitsofa_tlk_tereruA"
+
+msgctxt "48024"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr "F_cab_sitsofa_tlk_noA"
+
+msgctxt "48028"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr "F_cab_sitsofa_tlk_suprise"
+
+msgctxt "48032"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "48036"
+msgid "P_sitsofaR_tlk_yes"
+msgstr "P_sitsofaR_tlk_yes"
+
+msgctxt "48040"
+msgid "F_cab_sitsofa_sync_order"
+msgstr "F_cab_sitsofa_sync_order"
+
+msgctxt "48044"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr "F_cab_sitsofa_tlk_yes"
+
+msgctxt "48048"
+msgid "Go ahead."
+msgstr "Vai pure."
+
+msgctxt "48052"
+msgid "No way."
+msgstr "Ma va."
+
+msgctxt "48056"
+msgid "Riku"
+msgstr "Riku"
+
+msgctxt "48060"
+msgid "cab_kaguya_a_01/kaguya_36_0011"
+msgstr "cab_kaguya_a_01/kaguya_36_0011"
+
+msgctxt "48064"
+msgid "cab_kaguya_a_01/kaguya_36_0012"
+msgstr "cab_kaguya_a_01/kaguya_36_0012"
+
+msgctxt "48068"
+msgid "F_CAB_TLK_sitsofa_after_st"
+msgstr "F_CAB_TLK_sitsofa_after_st"
+
+msgctxt "48072"
+msgid "cab_kaguya_f_01/kaguya_35_0007"
+msgstr "cab_kaguya_f_01/kaguya_35_0007"
+
+msgctxt "48076"
+msgid "F_CAB_TLK_sitsofa_after_no"
+msgstr "F_CAB_TLK_sitsofa_after_no"
+
+msgctxt "48080"
+msgid "cab_kaguya_f_01/kaguya_35_0009"
+msgstr "cab_kaguya_f_01/kaguya_35_0009"
+
+msgctxt "48084"
+msgid "cab_kaguya_f_01/kaguya_35_0008"
+msgstr "cab_kaguya_f_01/kaguya_35_0008"
+
+msgctxt "48088"
+msgid "cab_kaguya_f_01/kaguya_35_0010"
+msgstr "cab_kaguya_f_01/kaguya_35_0010"
+
+msgctxt "48092"
+msgid "F_CAB_TLK_sitsofa_after_ok"
+msgstr "F_CAB_TLK_sitsofa_after_ok"
+
+msgctxt "48096"
+msgid "cab_kaguya_f_01/kaguya_35_0012"
+msgstr "cab_kaguya_f_01/kaguya_35_0012"
+
+msgctxt "48100"
+msgid "cab_kaguya_f_01/kaguya_35_0011"
+msgstr "cab_kaguya_f_01/kaguya_35_0011"
+
+msgctxt "48104"
+msgid "cab_kaguya_f_01/kaguya_35_0013"
+msgstr "cab_kaguya_f_01/kaguya_35_0013"
+
+msgctxt "48108"
+msgid "cab_kaguya_f_01/kaguya_35_0001"
+msgstr "cab_kaguya_f_01/kaguya_35_0001"
+
+msgctxt "48112"
+msgid "cab_kaguya_f_01/kaguya_35_0006"
+msgstr "cab_kaguya_f_01/kaguya_35_0006"
+
+msgctxt "48116"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr "F_cab_sitsofa_tlk_happy"
+
+msgctxt "48120"
+msgid "cab_kaguya_f_01/kaguya_35_0005"
+msgstr "cab_kaguya_f_01/kaguya_35_0005"
+
+msgctxt "48124"
+msgid "cab_kaguya_f_01/kaguya_35_0004"
+msgstr "cab_kaguya_f_01/kaguya_35_0004"
+
+msgctxt "48128"
+msgid "cab_kaguya_f_01/kaguya_35_0003"
+msgstr "cab_kaguya_f_01/kaguya_35_0003"
+
+msgctxt "48132"
+msgid "cab_kaguya_f_01/kaguya_35_0002"
+msgstr "cab_kaguya_f_01/kaguya_35_0002"
+
+msgctxt "48136"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr "F_cab_sitsofa_tlk_angry"
+
+msgctxt "48140"
+msgid "cab_kaguya_a_01/kaguya_36_0013"
+msgstr "cab_kaguya_a_01/kaguya_36_0013"
+
+msgctxt "48144"
+msgid "F_cab_stand_tlk_byeB"
+msgstr "F_cab_stand_tlk_byeB"
+
+msgctxt "48148"
+msgid "P_SAE_TLK_stand_yes"
+msgstr "P_SAE_TLK_stand_yes"
+
+msgctxt "48152"
+msgid "cab_kaguya_a_01/kaguya_36_0014"
+msgstr "cab_kaguya_a_01/kaguya_36_0014"
+
+msgctxt "48156"
+msgid "F_cab_stand_sp13_sync_yubi_st"
+msgstr "F_cab_stand_sp13_sync_yubi_st"
+
+msgctxt "48160"
+msgid "P_stand_sp13_sync_yubi_st"
+msgstr "P_stand_sp13_sync_yubi_st"
+
+msgctxt "48164"
+msgid "cab_kaguya_a_01/kaguya_36_0016"
+msgstr "cab_kaguya_a_01/kaguya_36_0016"
+
+msgctxt "48168"
+msgid "F_cab_stand_sp13_sync_yubi_ed"
+msgstr "F_cab_stand_sp13_sync_yubi_ed"
+
+msgctxt "48172"
+msgid "P_stand_sp13_sync_yubi_ed"
+msgstr "P_stand_sp13_sync_yubi_ed"
+
+msgctxt "48176"
+msgid "F_cab_stand_sp12_sync_mune_st"
+msgstr "F_cab_stand_sp12_sync_mune_st"
+
+msgctxt "48180"
+msgid "P_stand_sp12_sync_mune_st"
+msgstr "P_stand_sp12_sync_mune_st"
+
+msgctxt "48184"
+msgid "cab_kaguya_a_01/kaguya_36_0015"
+msgstr "cab_kaguya_a_01/kaguya_36_0015"
+
+msgctxt "48188"
+msgid "F_cab_stand_sp12_sync_mune_ed"
+msgstr "F_cab_stand_sp12_sync_mune_ed"
+
+msgctxt "48192"
+msgid "P_stand_sp12_sync_mune_ed"
+msgstr "P_stand_sp12_sync_mune_ed"
+
+msgctxt "48196"
+msgid "F_cab_stand_sync_dakiA_st"
+msgstr "F_cab_stand_sync_dakiA_st"
+
+msgctxt "48200"
+msgid "P_stand_sync_dakiA_st"
+msgstr "P_stand_sync_dakiA_st"
+
+msgctxt "48204"
+msgid "cab_kaguya_a_01/kaguya_36_0017"
+msgstr "cab_kaguya_a_01/kaguya_36_0017"
+
+msgctxt "48208"
+msgid "F_cab_stand_sync_dakiA_ed"
+msgstr "F_cab_stand_sync_dakiA_ed"
+
+msgctxt "48212"
+msgid "P_stand_sync_dakiA_ed"
+msgstr "P_stand_sync_dakiA_ed"
+
+msgctxt "48216"
+msgid "F_cab_stand_sp11_sync_mimi_st"
+msgstr "F_cab_stand_sp11_sync_mimi_st"
+
+msgctxt "48220"
+msgid "P_stand_sp11_sync_mimi_st"
+msgstr "P_stand_sp11_sync_mimi_st"
+
+msgctxt "48224"
+msgid "cab_kaguya_a_01/kaguya_36_0018"
+msgstr "cab_kaguya_a_01/kaguya_36_0018"
+
+msgctxt "48228"
+msgid "F_cab_stand_sp11_sync_mimi_ed"
+msgstr "F_cab_stand_sp11_sync_mimi_ed"
+
+msgctxt "48232"
+msgid "P_stand_sp11_sync_mimi_ed"
+msgstr "P_stand_sp11_sync_mimi_ed"
+
+msgctxt "48236"
+msgid "P_sitsofaR_tlk_gacha"
+msgstr "P_sitsofaR_tlk_gacha"
+
+msgctxt "488_Kaguya"
+msgid "Hello there."
+msgstr "Ehilà."
+
+msgctxt "512_Himura"
+msgid ""
+"Well? Isn't she hot? Kaguya-chan here is 26 years old, a Scorpio, and her "
+"blood type is A. She has a younger sister, and she watches martial arts!"
+msgstr ""
+"Allora? Non è uno schianto? Qui Kaguya-chan ha 26 anni, è dello Scorpione e "
+"il suo gruppo sanguigno è A. Ha una sorella minore e segue le arti marziali!"
+
+msgctxt "524_Himura"
+msgid "So, I came here to enjoy a sweet evening with Kaguya-chan."
+msgstr "Quindi, sono venuto qui per godermi una dolce serata con Kaguya-chan."
+
+msgctxt "536_Kaguya"
+msgid "Saejima-san, welcome! Thank you for requesting me!"
+msgstr "Saejima-san, benvenuto! Grazie per aver chiesto di me!"
+
+msgctxt "548_Kaguya"
+msgid "You came to see me? Oh, let me guess. Am I growing on you?"
+msgstr ""
+"Sei venuto a trovarmi? Oh, fammi indovinare. Sto iniziando a piacerti?"
+
+msgctxt "560_Kaguya"
+msgid "Saejima-san, I've been waiting for you! I'm looking forward to today!"
+msgstr "Saejima-san, ti stavo aspettando! Non vedo l'ora di oggi!"
+
+msgctxt "596_Kaguya"
+msgid "Nice to meet you. I'm Kaguya."
+msgstr "Piacere di conoscerti. Io sono Kaguya."
+
+msgctxt "608_Kaguya"
+msgid "Here, this is my business card."
+msgstr "Ecco, questo è il mio biglietto da visita."
+
+msgctxt "644_Kaguya"
+msgid "You got a business card."
+msgstr "Hai ottenuto un biglietto da visita."
+
+msgctxt "692_Saejima"
+msgid ""
+"(This girl is just like Himura said. Guess he's not completely fulla bull.)"
+msgstr ""
+"(Questa ragazza è proprio come diceva Himura. A quanto pare non spara solo "
+"stronzate.)"
+
+msgctxt "704_Kaguya"
+msgid "May I ask your name?"
+msgstr "Posso chiederti come ti chiami?"
+
+msgctxt "716_Saejima"
+msgid "Taiga Saejima."
+msgstr "Taiga Saejima."
+
+msgctxt "728_Kaguya"
+msgid "Saejima-san, it's a pleasure!"
+msgstr "Saejima-san, è un piacere!"
+
+msgctxt "740_Saejima"
+msgid "Same."
+msgstr "Altrettanto."
+
+msgctxt "752_Kaguya"
+msgid "Thank you coming to see me all the time!"
+msgstr "Grazie per venire a trovarmi sempre!"
+
+msgctxt "788_Kaguya"
+msgid "You got a business card."
+msgstr "Hai ottenuto un biglietto da visita."
+
+msgctxt "812_Kaguya"
+msgid "Just for you, Saejima-san!"
+msgstr "Solo per te, Saejima-san!"
+
+msgctxt "860_Kaguya"
+msgid ""
+"You smell good! That's so sexy, Saejima-san! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Hai un buon profumo! È così sexy, Saejima-san! "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "872_Kaguya"
+msgid ""
+"Ooh, fancy! You're pulling off that outfit better than I would have "
+"expected, Saejima-san! <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Ooh, che eleganza! Ti sta meglio di quanto mi sarei aspettato, Saejima-san! "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "884_Kaguya"
+msgid ""
+"Your outfit today looks good on you. I really like it! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Il tuo outfit di oggi ti sta proprio bene. Mi piace un sacco! "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "896_Kaguya"
+msgid "Wearing the usual, I see."
+msgstr "Vedo che indossi il solito."
+
+msgctxt "908_Kaguya"
+msgid "Your fashion sense is very, uh, original."
+msgstr "Il tuo senso dello stile è molto, ehm, originale."
+
+msgctxt "920_Kaguya"
+msgid ""
+"Whoa, what's the deal with that outfit? If you didn't have anything to wear,"
+" maybe it would be better for you to stay at home, you know?"
+msgstr ""
+"Uau, ma che roba è quell'outfit? Se non avevi niente da metterti, forse era "
+"meglio se restavi a casa, sai?"
+
+msgctxt "956_Kaguya"
+msgid "This is an error."
+msgstr "Questo è un errore."
+
+msgctxt "968_Kaguya"
+msgid "What would you like to order?"
+msgstr "Cosa desideri ordinare?"
+
+msgctxt "992_Player"
+msgid "I'll have this."
+msgstr "Prendo questo."
+
+msgctxt "1004_Kaguya"
+msgid "Oh, are you sure?"
+msgstr "Oh, ne sei sicuro?"
+
+msgctxt "1016_Kaguya"
+msgid "Oh, wow! You're so generous, Saejima-san!"
+msgstr "Oh, uau! Sei davvero generoso, Saejima-san!"
+
+msgctxt "1028_Kaguya"
+msgid "Oh, are you sure?"
+msgstr "Oh, ne sei sicuro?"
+
+msgctxt "1040_Kaguya"
+msgid "Gold champagne, please!"
+msgstr "Champagne d'oro, per favore!"
+
+msgctxt "1052_Kaguya"
+msgid "Oh, feel like trying your luck?"
+msgstr "Oh, hai voglia di tentare la fortuna?"
+
+msgctxt "1064_Kaguya"
+msgid "Oh, are you sure?"
+msgstr "Oh, ne sei sicuro?"
+
+msgctxt "1076_Kaguya"
+msgid "All right. We'll keep a bottle for you, Saejima-san."
+msgstr "Va bene. Terremo una bottiglia da parte per te, Saejima-san."
+
+msgctxt "1088_Kaguya"
+msgid "One bottle for storage, please!"
+msgstr "Una bottiglia da tenere da parte, per favore!"
+
+msgctxt "1100_Kaguya"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "1112_Kaguya"
+msgid "Sure thing. A house bottle it is."
+msgstr "Certamente. Vada per la bottiglia della casa."
+
+msgctxt "1208_Player"
+msgid "Could ya fetch me my bottle?"
+msgstr "Mi porteresti la mia bottiglia?"
+
+msgctxt "1220_Kaguya"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "1244_Kaguya"
+msgid "Do you mind if I have some, too?"
+msgstr "Ti dispiace se ne prendo un po' anch'io?"
+
+msgctxt "1256_Kaguya"
+msgid "Yay! Cheers!"
+msgstr "Evviva! Cin cin!"
+
+msgctxt "1268_Kaguya"
+msgid "Oh. Okay..."
+msgstr "Oh. Va bene..."
+
+msgctxt "1280_Kaguya"
+msgid "Do you mind if I have some, too?"
+msgstr "Ti dispiace se ne prendo un po' anch'io?"
+
+msgctxt "1292_Kaguya"
+msgid "Yay! Cheers!"
+msgstr "Evviva! Cin cin!"
+
+msgctxt "1304_Kaguya"
+msgid "Oh. Okay..."
+msgstr "Oh. Va bene..."
+
+msgctxt "1316_Kaguya"
+msgid "Your glass is empty. Would you like something?"
+msgstr "Il tuo bicchiere è vuoto. Ti andrebbe qualcosa?"
+
+msgctxt "1340_Player"
+msgid "I'll have this."
+msgstr "Prendo questo."
+
+msgctxt "1352_Kaguya"
+msgid "Oh, are you sure?"
+msgstr "Oh, sei sicuro?"
+
+msgctxt "1364_Kaguya"
+msgid "Oh, wow! You're so generous, Saejima-san!"
+msgstr "Oh, wow! Sei così generoso, Saejima-san!"
+
+msgctxt "1376_Kaguya"
+msgid "Oh, are you sure?"
+msgstr "Oh, sei sicuro?"
+
+msgctxt "1388_Kaguya"
+msgid "Gold champagne, please!"
+msgstr "Champagne Gold, per favore!"
+
+msgctxt "1400_Kaguya"
+msgid "Oh, feel like trying your luck?"
+msgstr "Oh, ti va di tentare la fortuna?"
+
+msgctxt "1412_Kaguya"
+msgid "Oh, are you sure?"
+msgstr "Oh, sei sicuro?"
+
+msgctxt "1424_Kaguya"
+msgid "All right. We'll keep a bottle for you, Saejima-san."
+msgstr "Va bene. Terremo da parte la bottiglia per te, Saejima-san."
+
+msgctxt "1436_Kaguya"
+msgid "One bottle for storage, please!"
+msgstr "Una bottiglia da tenere da parte, per favore!"
+
+msgctxt "1448_Kaguya"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "1460_Kaguya"
+msgid "Sure thing. A house bottle it is."
+msgstr "Certamente. Allora una bottiglia della casa."
+
+msgctxt "1568_Kaguya"
+msgid "Do you mind if I have another glass?"
+msgstr "Ti dispiace se ne prendo un altro bicchiere?"
+
+msgctxt "1580_Player"
+msgid "(Damn, I don't got the cash.)"
+msgstr "(Maledizione, non ho i soldi.)"
+
+msgctxt "1592_Player"
+msgid "No can do."
+msgstr "Niente da fare."
+
+msgctxt "1604_Kaguya"
+msgid "Can I have another drink?"
+msgstr "Posso prendere un altro drink?"
+
+msgctxt "1616_Kaguya"
+msgid "Yay! Cheers!"
+msgstr "Evviva! Cin cin!"
+
+msgctxt "1628_Kaguya"
+msgid "Oh. Okay..."
+msgstr "Oh. Va bene..."
+
+msgctxt "1640_Kaguya"
+msgid "Do you mind if I have another glass?"
+msgstr "Ti dispiace se ne prendo un altro bicchiere?"
+
+msgctxt "1652_Kaguya"
+msgid "Yay! Cheers!"
+msgstr "Evviva! Cin cin!"
+
+msgctxt "1664_Kaguya"
+msgid "Oh. Okay..."
+msgstr "Oh. Va bene..."
+
+msgctxt "1676_Player"
+msgid "I'm kinda hungry."
+msgstr "Ho un po' di fame."
+
+msgctxt "1688_Kaguya"
+msgid "What would you like?"
+msgstr "Cosa vorresti?"
+
+msgctxt "1712_Player"
+msgid "I'll have this."
+msgstr "Prendo questo."
+
+msgctxt "1724_Kaguya"
+msgid "All right!"
+msgstr "Bene!"
+
+msgctxt "1736_Kaguya"
+msgid "Oh hey, you like that too? <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Oh ehi, piace anche a te? <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "1748_Kaguya"
+msgid "Sure, okay."
+msgstr "Certo, va bene."
+
+msgctxt "1760_Kaguya"
+msgid "You actually like that? I guess our tastes are pretty different."
+msgstr "Ti piace davvero? Mi sa che i nostri gusti sono piuttosto diversi."
+
+msgctxt "1772_Kaguya"
+msgid "Okay, maybe some other time."
+msgstr "Va bene, magari un'altra volta."
+
+msgctxt "1808_Kaguya"
+msgid "Hey, want to play the chocolate stick game?"
+msgstr "Ehi, ti va di fare il gioco dei bastoncini?"
+
+msgctxt "1820_Player"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "1856_Kaguya"
+msgid "Here, let me feed it to you. <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Tieni, ti imbocco io. <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "1868_Player"
+msgid "Say what now!?"
+msgstr "Che hai detto!?"
+
+msgctxt "1964_Kaguya"
+msgid "Over here, please!"
+msgstr "Da questa parte, prego!"
+
+msgctxt "2060_Kaguya"
+msgid "I'll fix your drink."
+msgstr "Ti preparo il drink."
+
+msgctxt "2072_Player"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "2084_Kaguya"
+msgid "Here you are!"
+msgstr "Ecco a te!"
+
+msgctxt "2096_Kaguya"
+msgid "You're quite a big drinker!"
+msgstr "Sei proprio un gran bevitore!"
+
+msgctxt "2108_Player"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "2120_Kaguya"
+msgid "Here you are!"
+msgstr "Ecco a te!"
+
+msgctxt "2132_Kaguya"
+msgid "Let me refill your glass for you."
+msgstr "Ti riempio di nuovo il bicchiere."
+
+msgctxt "2144_Player"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "2156_Kaguya"
+msgid "Here you are!"
+msgstr "Ecco a te!"
+
+msgctxt "2204_Kaguya"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "2216_Kaguya"
+msgid "Thank you for coming! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Grazie per essere venuto! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "2228_Player"
+msgid "I gotta get goin'."
+msgstr "Devo andare."
+
+msgctxt "2252_Kaguya"
+msgid ""
+"Why don't you go and kill time somewhere? I'll be in touch with you later."
+msgstr ""
+"Perché non vai ad ammazzare il tempo da qualche parte? Ti farò sapere più "
+"tardi."
+
+msgctxt "2264_Player"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "2288_Kaguya"
+msgid "All right, I'll get you your check."
+msgstr "Va bene, vado a prenderti il conto."
+
+msgctxt "2300_Kaguya"
+msgid "Check, please!"
+msgstr "Il conto, per favore!"
+
+msgctxt "2312_Kaguya"
+msgid "Oh, you're leaving already?"
+msgstr "Oh, te ne vai già?"
+
+msgctxt "2324_Player"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "2336_Kaguya"
+msgid "Check, please!"
+msgstr "Il conto, per favore!"
+
+msgctxt "2348_Kaguya"
+msgid "Your glass is empty. Would you like something?"
+msgstr "Hai il bicchiere vuoto. Ti va di ordinare qualcosa?"
+
+msgctxt "2360_Player"
+msgid "(Oops, I don't got the cash on me.)"
+msgstr "(Ops, non ho i soldi con me.)"
+
+msgctxt "2372_Player"
+msgid "No, I gotta get goin'."
+msgstr "No, devo andare."
+
+msgctxt "2384_Kaguya"
+msgid "Oh, you're leaving already?"
+msgstr "Oh, te ne vai già?"
+
+msgctxt "2396_Player"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "2408_Kaguya"
+msgid "Check, please!"
+msgstr "Il conto, per favore!"
+
+msgctxt "2420_Kaguya"
+msgid "Do you mind if I have some, too?"
+msgstr "Ti dispiace se ne bevo un po' anch'io?"
+
+msgctxt "2432_Player"
+msgid "(Oops, I don't got the cash on me.)"
+msgstr "(Ops, non ho i soldi con me.)"
+
+msgctxt "2444_Player"
+msgid "No, I gotta get goin'."
+msgstr "No, devo andare."
+
+msgctxt "2456_Kaguya"
+msgid "Oh, you're leaving already?"
+msgstr "Oh, te ne vai già?"
+
+msgctxt "2468_Player"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "2480_Kaguya"
+msgid "Check, please!"
+msgstr "Il conto, per favore!"
+
+msgctxt "2492_Kaguya"
+msgid "......"
+msgstr "......"
+
+msgctxt "2504_Player"
+msgid "(Guess I've run outta stuff to talk about. I oughta be on my way.)"
+msgstr "(Mi sa che ho finito gli argomenti. Sarà meglio che vada.)"
+
+msgctxt "2516_Player"
+msgid "I gotta get goin'."
+msgstr "Devo andare."
+
+msgctxt "2528_Kaguya"
+msgid "Oh, you're leaving already?"
+msgstr "Oh, te ne vai già?"
+
+msgctxt "2540_Player"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "2552_Kaguya"
+msgid "Check, please!"
+msgstr "Il conto, per favore!"
+
+msgctxt "2564_Player"
+msgid "Wanna go on a date after this?"
+msgstr "Ti va un appuntamento dopo?"
+
+msgctxt "2588_Kaguya"
+msgid "I already told you, no. Geez, you're a nag."
+msgstr "Te l'ho già detto, no. Cavolo, quanto sei pesante."
+
+msgctxt "2600_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "2612_Kaguya"
+msgid "Ask all you want, but the answer's still no!"
+msgstr "Chiedi pure quanto vuoi, ma la risposta è sempre no!"
+
+msgctxt "2624_Player"
+msgid "Guess ya really mean it."
+msgstr "Mi sa che fai proprio sul serio."
+
+msgctxt "2636_Kaguya"
+msgid "After my shift, you mean?"
+msgstr "Intendi dopo il mio turno?"
+
+msgctxt "2660_Kaguya"
+msgid ""
+"Sorry, Saejima-san, I already have plans today. But please ask me again "
+"sometime."
+msgstr ""
+"Scusa, Saejima-san, oggi ho già dei programmi. Ma riprova pure un'altra "
+"volta, mi raccomando."
+
+msgctxt "2672_Player"
+msgid "No problem. I understand."
+msgstr "Nessun problema. Capisco."
+
+msgctxt "2684_Kaguya"
+msgid "Yeah, I don't know. I'm not really in the mood today."
+msgstr "Sì, non saprei. Oggi non sono proprio in vena."
+
+msgctxt "2696_Player"
+msgid "Okay. Maybe next time."
+msgstr "Va bene. Sarà per la prossima volta."
+
+msgctxt "2708_Kaguya"
+msgid ""
+"I'm sorry, but I feel like we should get to know each other better first."
+msgstr "Scusa, ma credo che dovremmo conoscerci meglio prima."
+
+msgctxt "2720_Player"
+msgid "I see."
+msgstr "Capisco."
+
+msgctxt "2732_Kaguya"
+msgid "This is an error."
+msgstr "Questo è un errore."
+
+msgctxt "2744_Player"
+msgid "Wanna go on a date after this?"
+msgstr "Ti va un appuntamento dopo il turno?"
+
+msgctxt "2768_Kaguya"
+msgid "Hmm. Okay, but just for a little bit."
+msgstr "Hmm. Va bene, ma solo per un po'."
+
+msgctxt "2780_Player"
+msgid "Heh. Glad I asked."
+msgstr "Heh. Ho fatto bene a chiedere."
+
+msgctxt "2792_Kaguya"
+msgid "You want to go out with me that badly? Okay, just for a little bit."
+msgstr "Vuoi così tanto uscire con me? Va bene, ma solo per un po'."
+
+msgctxt "2804_Player"
+msgid "Really?"
+msgstr "Davvero?"
+
+msgctxt "2816_Kaguya"
+msgid "After my shift, you mean?"
+msgstr "Dopo il mio turno, intendi?"
+
+msgctxt "2840_Kaguya"
+msgid "Sure, I've been wanting to spend more time with you too, Saejima-san."
+msgstr ""
+"Certo, anch'io avevo voglia di passare un po' più di tempo con te, Saejima-"
+"san."
+
+msgctxt "2852_Player"
+msgid "Oh, really?"
+msgstr "Oh, davvero?"
+
+msgctxt "2864_Kaguya"
+msgid "Of course I do! I'd never say no to you, Saejima-san!"
+msgstr "Certo che sì! Non ti direi mai di no, Saejima-san!"
+
+msgctxt "2876_Player"
+msgid "That's great."
+msgstr "Ottimo."
+
+msgctxt "2888_Kaguya"
+msgid "Yeah, okay. Sometimes it's nice to get out and walk around a bit."
+msgstr "Sì, d'accordo. Ogni tanto è piacevole uscire e fare due passi."
+
+msgctxt "2900_Player"
+msgid "Really?"
+msgstr "Davvero?"
+
+msgctxt "2912_Kaguya"
+msgid "This is an error."
+msgstr "Questo è un errore."
+
+msgctxt "2924_Kaguya"
+msgid "What is it?"
+msgstr "E cioè?"
+
+msgctxt "2948_Kaguya"
+msgid "I love it! You know me so well, Saejima-san!"
+msgstr "Mi piace un sacco! Mi conosci proprio bene, Saejima-san!"
+
+msgctxt "2960_Kaguya"
+msgid "Wow, really!? I've been wanting one of these! Thank you!"
+msgstr "Wow, davvero!? Ne volevo proprio uno! Grazie!"
+
+msgctxt "2972_Kaguya"
+msgid "Are you sure? I'll take good care of it!"
+msgstr "Sei sicuro? Ne avrò molta cura!"
+
+msgctxt "2984_Kaguya"
+msgid "Oh, thanks."
+msgstr "Oh, grazie."
+
+msgctxt "2996_Kaguya"
+msgid "What the heck is this? I'm not sure what I'd even need this for."
+msgstr ""
+"Ma che diavolo è questa roba? Non saprei proprio a cosa mi possa servire."
+
+msgctxt "3008_Kaguya"
+msgid "Huh? This again?"
+msgstr "Eh? Di nuovo?"
+
+msgctxt "3020_Kaguya"
+msgid "I don't really need more than one of these."
+msgstr "Non me ne serve davvero più di uno."
+
+msgctxt "3032_Kaguya"
+msgid "This is an error."
+msgstr "Questo è un errore."
+
+msgctxt "3200_Kaguya"
+msgid "Maybe you'd like to come see me again, Saejima-san?"
+msgstr "Magari ti andrebbe di venirmi a trovare di nuovo, Saejima-san?"
+
+msgctxt "3212_Player"
+msgid "Sure, I'll ask for ya next time I come in."
+msgstr "Certo, chiederò di te la prossima volta che vengo."
+
+msgctxt "3224_Kaguya"
+msgid "You really mean it!? I'll be waiting!"
+msgstr "Dici sul serio!? Ti aspetterò!"
+
+msgctxt "3260_Kaguya"
+msgid "Saejima-san!"
+msgstr "Saejima-san!"
+
+msgctxt "3272_Kaguya"
+msgid "Thanks for coming today! See you later!"
+msgstr "Grazie per essere venuto oggi! A più tardi!"
+
+msgctxt "3284_Player"
+msgid "Yeah, see ya."
+msgstr "Sì, ci vediamo."
+
+msgctxt "3296_Kaguya"
+msgid "Hehe! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Eheh! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3320_Kaguya"
+msgid "Saejima-san!"
+msgstr "Saejima-san!"
+
+msgctxt "3332_Kaguya"
+msgid "I had so much fun today!"
+msgstr "Mi sono divertita un mondo oggi!"
+
+msgctxt "3344_Player"
+msgid "Yeah, me too."
+msgstr "Sì, anch'io."
+
+msgctxt "3356_Kaguya"
+msgid "Hehe! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Eheh! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3380_Kaguya"
+msgid "Saejima-san!"
+msgstr "Saejima-san!"
+
+msgctxt "3392_Kaguya"
+msgid "I'll be waiting!"
+msgstr "Ti aspetto!"
+
+msgctxt "3404_Player"
+msgid "Sure thing."
+msgstr "Ma certo!"
+
+msgctxt "3416_Kaguya"
+msgid "Hehe! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Eheh! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3452_Kaguya"
+msgid "Saejima-san!"
+msgstr "Saejima-san!"
+
+msgctxt "3464_Kaguya"
+msgid "See you later! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "A dopo! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3476_Player"
+msgid "You bet."
+msgstr "Ci puoi scommettere."
+
+msgctxt "3488_Kaguya"
+msgid "Hehe! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Eheh! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3512_Kaguya"
+msgid "Saejima-san!"
+msgstr "Saejima-san!"
+
+msgctxt "3524_Kaguya"
+msgid "See you later! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "A dopo! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3536_Player"
+msgid "You bet."
+msgstr "Ci puoi scommettere."
+
+msgctxt "3548_Kaguya"
+msgid "Hehe! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Eheh! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3560_Kaguya"
+msgid "I wonder what you'll get!"
+msgstr "Chissà cosa riceverai!"
+
+msgctxt "3572_Player"
+msgid "Fingers crossed..."
+msgstr "Incrociamo le dita..."
+
+msgctxt "3656_Kaguya"
+msgid "You won <Color:8>Toughness Infinity<Color:Default>!"
+msgstr "Hai vinto <Color:8>Toughness Infinity<Color:Default>!"
+
+msgctxt "3680_Kaguya"
+msgid "Oh, one of those. We see them a lot."
+msgstr "Oh, uno di quelli. Ne vediamo un sacco."
+
+msgctxt "3692_Player"
+msgid "That's no good. Maybe I oughta try again."
+msgstr "Così non va. Forse dovrei riprovarci."
+
+msgctxt "3704_Kaguya"
+msgid "You won <Color:8>French Cologne<Color:Default>!"
+msgstr "Hai vinto <Color:8>Colonia francese<Color:Default>!"
+
+msgctxt "3728_Kaguya"
+msgid "Oh, one of those. We see them a lot."
+msgstr "Oh, uno di quelli. Ne vediamo un sacco."
+
+msgctxt "3740_Player"
+msgid "That's no good. Maybe I oughta try again."
+msgstr "Così non va. Forse dovrei riprovarci."
+
+msgctxt "3752_Kaguya"
+msgid "You won <Color:8>Staminan Spark<Color:Default>!"
+msgstr "Hai vinto <Color:8>Staminan Spark<Color:Default>!"
+
+msgctxt "3776_Kaguya"
+msgid "Oh, that one's not so bad."
+msgstr "Oh, quello non è poi così male."
+
+msgctxt "3788_Player"
+msgid "There's all kindsa things in here, huh?"
+msgstr "C'è proprio di tutto qui dentro, eh?"
+
+msgctxt "3800_Kaguya"
+msgid "You won <Color:8>Goddess of Children Amulet<Color:Default>!"
+msgstr "Hai vinto <Color:8>Amuleto della Dea dei Bambini<Color:Default>!"
+
+msgctxt "3824_Kaguya"
+msgid "Oh, that one's not so bad."
+msgstr "Oh, quello non è poi così male."
+
+msgctxt "3836_Player"
+msgid "There's all kindsa things in here, huh?"
+msgstr "C'è proprio di tutto qui dentro, eh?"
+
+msgctxt "3848_Kaguya"
+msgid "You won <Color:8>Monogrammed Bag<Color:Default>!"
+msgstr "Hai vinto <Color:8>Borsa monogrammata<Color:Default>!"
+
+msgctxt "3872_Kaguya"
+msgid "Oh wow, that's pretty rare!"
+msgstr "Oh wow, è davvero raro!"
+
+msgctxt "3884_Player"
+msgid "Heh, that's great."
+msgstr "Heh, niente male."
+
+msgctxt "3896_Kaguya"
+msgid "You won <Color:8>Italian Women's Watch<Color:Default>!"
+msgstr "Hai vinto <Color:8>Orologio da donna italiano<Color:Default>!"
+
+msgctxt "3920_Kaguya"
+msgid "Oh wow, that's pretty rare!"
+msgstr "Oh wow, è davvero raro!"
+
+msgctxt "3932_Player"
+msgid "Heh, that's great."
+msgstr "Heh, niente male."
+
+msgctxt "3944_Kaguya"
+msgid "You won <Color:8>Mystery Stone<Color:Default>!"
+msgstr "Hai vinto <Color:8>Pietra misteriosa<Color:Default>!"
+
+msgctxt "3968_Kaguya"
+msgid "Oh wow, that's pretty rare!"
+msgstr "Oh wow, è davvero raro!"
+
+msgctxt "3980_Player"
+msgid "Heh, that's great."
+msgstr "Heh, niente male."
+
+msgctxt "3992_Kaguya"
+msgid "You won <Color:8>Swiss Watch<Color:Default>!"
+msgstr "Hai vinto <Color:8>Orologio svizzero<Color:Default>!"
+
+msgctxt "4016_Kaguya"
+msgid ""
+"Whoa! You hit the jackpot! Way to go, Saejima-san! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Wow! Hai fatto il colpaccio! Così si fa, Saejima-san! "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "4028_Player"
+msgid "Heh, guess it was worth it."
+msgstr "Heh, direi che ne è valsa la pena."
+
+msgctxt "4040_Kaguya"
+msgid "You won <Color:8>Platinum Membership Card<Color:Default>!"
+msgstr "Hai vinto <Color:8>Tessera socio platino<Color:Default>!"
+
+msgctxt "4064_Kaguya"
+msgid ""
+"Whoa! You hit the jackpot! Way to go, Saejima-san! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Wow! Hai fatto il colpaccio! Così si fa, Saejima-san! "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "4076_Player"
+msgid "Heh, guess it was worth it."
+msgstr "Heh, direi che ne è valsa la pena."
+
+msgctxt "4088_Kaguya"
+msgid "Chocolate stick game time!"
+msgstr "È l'ora del gioco dei bastoncini al cioccolato!"
+
+msgctxt "4100_Kaguya"
+msgid "Champagne time!"
+msgstr "È l'ora dello champagne!"
+
+msgctxt "4112_Kaguya"
+msgid "Champagne tower, please!"
+msgstr "Una torre di champagne, per favore!"

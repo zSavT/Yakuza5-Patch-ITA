@@ -1,0 +1,624 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "17032"
+msgid "Ushijima"
+msgstr "Ushijima"
+
+msgctxt "17036"
+msgid "adv4_260/ushijima_0030"
+msgstr "adv4_260/ushijima_0030"
+
+msgctxt "17040"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "17044"
+msgid "adv4_260/shinada_0349"
+msgstr "adv4_260/shinada_0349"
+
+msgctxt "17048"
+msgid "adv4_260/ushijima_0031"
+msgstr "adv4_260/ushijima_0031"
+
+msgctxt "17052"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "17056"
+msgid "adv4_260/shinada_0350"
+msgstr "adv4_260/shinada_0350"
+
+msgctxt "17060"
+msgid "P_SIN_TLK_sitchr_yes"
+msgstr "P_SIN_TLK_sitchr_yes"
+
+msgctxt "17064"
+msgid "Takasugi"
+msgstr "Takasugi"
+
+msgctxt "17068"
+msgid "adv4_260/takasugi_0136a"
+msgstr "adv4_260/takasugi_0136a"
+
+msgctxt "17072"
+msgid "adv4_260/takasugi_0136b"
+msgstr "adv4_260/takasugi_0136b"
+
+msgctxt "17076"
+msgid "C4260_TSG_TLK_yes"
+msgstr "C4260_TSG_TLK_yes"
+
+msgctxt "17080"
+msgid "adv4_260/ushijima_0032"
+msgstr "adv4_260/ushijima_0032"
+
+msgctxt "17084"
+msgid "adv4_260/shinada_0351"
+msgstr "adv4_260/shinada_0351"
+
+msgctxt "17088"
+msgid "P_SIN_TLK_sitchr_surp"
+msgstr "P_SIN_TLK_sitchr_surp"
+
+msgctxt "17092"
+msgid "adv4_260/ushijima_0033"
+msgstr "adv4_260/ushijima_0033"
+
+msgctxt "17096"
+msgid "adv4_260/shinada_0352"
+msgstr "adv4_260/shinada_0352"
+
+msgctxt "17100"
+msgid "adv4_260/ushijima_0034a"
+msgstr "adv4_260/ushijima_0034a"
+
+msgctxt "17104"
+msgid "adv4_260/ushijima_0034b"
+msgstr "adv4_260/ushijima_0034b"
+
+msgctxt "17108"
+msgid "adv4_260/ushijima_0034c"
+msgstr "adv4_260/ushijima_0034c"
+
+msgctxt "17112"
+msgid "adv4_260/shinada_0353"
+msgstr "adv4_260/shinada_0353"
+
+msgctxt "17116"
+msgid "P_SIN_TLK_sitchr_kansin"
+msgstr "P_SIN_TLK_sitchr_kansin"
+
+msgctxt "17120"
+msgid "C4260_USJ_TLK_send_coffee"
+msgstr "C4260_USJ_TLK_send_coffee"
+
+msgctxt "17124"
+msgid "Talk_Kamae"
+msgstr "Talk_Kamae"
+
+msgctxt "17128"
+msgid "adv4_260/ushijima_0035a"
+msgstr "adv4_260/ushijima_0035a"
+
+msgctxt "17132"
+msgid "adv4_260/ushijima_0035b"
+msgstr "adv4_260/ushijima_0035b"
+
+msgctxt "17136"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "17140"
+msgid "adv4_260/ushijima_0035c"
+msgstr "adv4_260/ushijima_0035c"
+
+msgctxt "17144"
+msgid "adv4_260/ushijima_0036"
+msgstr "adv4_260/ushijima_0036"
+
+msgctxt "17148"
+msgid "adv4_260/takasugi_0137"
+msgstr "adv4_260/takasugi_0137"
+
+msgctxt "17152"
+msgid "adv4_260/ushijima_0037a"
+msgstr "adv4_260/ushijima_0037a"
+
+msgctxt "17156"
+msgid "adv4_260/ushijima_0037b"
+msgstr "adv4_260/ushijima_0037b"
+
+msgctxt "17160"
+msgid "adv4_260/ushijima_0038a"
+msgstr "adv4_260/ushijima_0038a"
+
+msgctxt "17164"
+msgid "adv4_260/ushijima_0038b"
+msgstr "adv4_260/ushijima_0038b"
+
+msgctxt "17168"
+msgid "adv4_260/ushijima_0038c"
+msgstr "adv4_260/ushijima_0038c"
+
+msgctxt "17172"
+msgid "adv4_260/ushijima_0038d"
+msgstr "adv4_260/ushijima_0038d"
+
+msgctxt "17176"
+msgid "adv4_260/shinada_0355"
+msgstr "adv4_260/shinada_0355"
+
+msgctxt "17180"
+msgid "P_SIN_TLK_sitchr_think"
+msgstr "P_SIN_TLK_sitchr_think"
+
+msgctxt "17184"
+msgid "adv4_260/takasugi_0139a"
+msgstr "adv4_260/takasugi_0139a"
+
+msgctxt "17188"
+msgid "adv4_260/takasugi_0139b"
+msgstr "adv4_260/takasugi_0139b"
+
+msgctxt "17192"
+msgid "adv4_260/ushijima_0039a"
+msgstr "adv4_260/ushijima_0039a"
+
+msgctxt "17196"
+msgid "adv4_260/ushijima_0039b"
+msgstr "adv4_260/ushijima_0039b"
+
+msgctxt "17200"
+msgid "adv4_260/ushijima_0039c"
+msgstr "adv4_260/ushijima_0039c"
+
+msgctxt "17204"
+msgid "P_SIN_TLK_stand_phone_lp"
+msgstr "P_SIN_TLK_stand_phone_lp"
+
+msgctxt "17208"
+msgid "C4260_SIN_TLK_standup_phone"
+msgstr "C4260_SIN_TLK_standup_phone"
+
+msgctxt "17212"
+msgid "Milky"
+msgstr "Latte"
+
+msgctxt "17216"
+msgid "adv4_260/milk_0033"
+msgstr "adv4_260/milk_0033"
+
+msgctxt "17220"
+msgid "kaiwabgm_tension02"
+msgstr "kaiwabgm_tension02"
+
+msgctxt "17224"
+msgid "adv4_260/shinada_0356"
+msgstr "adv4_260/shinada_0356"
+
+msgctxt "17228"
+msgid "adv4_260/milk_0034a"
+msgstr "adv4_260/milk_0034a"
+
+msgctxt "17232"
+msgid "adv4_260/milk_0034b"
+msgstr "adv4_260/milk_0034b"
+
+msgctxt "17236"
+msgid "adv4_260/shinada_0357"
+msgstr "adv4_260/shinada_0357"
+
+msgctxt "17240"
+msgid "adv4_260/shinada_0358"
+msgstr "adv4_260/shinada_0358"
+
+msgctxt "17244"
+msgid "adv4_260/takasugi_0141"
+msgstr "adv4_260/takasugi_0141"
+
+msgctxt "17248"
+msgid "C4260_TSG_TLK_no"
+msgstr "C4260_TSG_TLK_no"
+
+msgctxt "17252"
+msgid "C4260_TSG_TLK_standup_follow"
+msgstr "C4260_TSG_TLK_standup_follow"
+
+msgctxt "17256"
+msgid "adv4_260/shinada_0361"
+msgstr "adv4_260/shinada_0361"
+
+msgctxt "17260"
+msgid "adv4_260/shinada_0362a"
+msgstr "adv4_260/shinada_0362a"
+
+msgctxt "17264"
+msgid "adv4_260/shinada_0362b"
+msgstr "adv4_260/shinada_0362b"
+
+msgctxt "17268"
+msgid "adv4_260/ushijima_0041"
+msgstr "adv4_260/ushijima_0041"
+
+msgctxt "17272"
+msgid "adv4_250/ushijima_0026"
+msgstr "adv4_250/ushijima_0026"
+
+msgctxt "17276"
+msgid "kaiwabgm_kanjyonashi01"
+msgstr "kaiwabgm_kanjyonashi01"
+
+msgctxt "17280"
+msgid "adv4_250/shinada_0346"
+msgstr "adv4_250/shinada_0346"
+
+msgctxt "17284"
+msgid "adv4_250/ushijima_0027"
+msgstr "adv4_250/ushijima_0027"
+
+msgctxt "17288"
+msgid "adv4_250/takasugi_0132"
+msgstr "adv4_250/takasugi_0132"
+
+msgctxt "17292"
+msgid "adv4_250/ushijima_0028"
+msgstr "adv4_250/ushijima_0028"
+
+msgctxt "17296"
+msgid "adv4_250/takasugi_0133"
+msgstr "adv4_250/takasugi_0133"
+
+msgctxt "17300"
+msgid "adv4_250/ushijima_0029"
+msgstr "adv4_250/ushijima_0029"
+
+msgctxt "17304"
+msgid "adv4_250/takasugi_0134"
+msgstr "adv4_250/takasugi_0134"
+
+msgctxt "17308"
+msgid "M_NML_TLK_stand_look_phone_st"
+msgstr "M_NML_TLK_stand_look_phone_st"
+
+msgctxt "17312"
+msgid "adv4_250/shinada_0347"
+msgstr "adv4_250/shinada_0347"
+
+msgctxt "17316"
+msgid "adv4_250/takasugi_0135"
+msgstr "adv4_250/takasugi_0135"
+
+msgctxt "17320"
+msgid "M_NML_TLK_stand_look_phone_ed"
+msgstr "M_NML_TLK_stand_look_phone_ed"
+
+msgctxt "17324"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "72_Ushijima"
+msgid "So, what is it you wanted to ask me?"
+msgstr "Allora, cos'è che volevi chiedermi?"
+
+msgctxt "84_Shinada"
+msgid "It's a question about Nagoya."
+msgstr "È una domanda su Nagoya."
+
+msgctxt "96_Ushijima"
+msgid ""
+"Oh? I never took you for one of those concerned citizen\r\n"
+"types."
+msgstr ""
+"Oh? Non ti facevo proprio il tipo da cittadino\n"
+"modello."
+
+msgctxt "108_Shinada"
+msgid ""
+"Well, let's just say I have to write a non-sexy article for once. That's all"
+" it is."
+msgstr ""
+"Beh, diciamo solo che per una volta devo scrivere un articolo non osé. Tutto"
+" qui."
+
+msgctxt "120_Takasugi"
+msgid "Look, did something abruptly change around here 15 years back?"
+msgstr "Senti, è cambiato qualcosa all'improvviso da queste parti 15 anni fa?"
+
+msgctxt "132_Takasugi"
+msgid ""
+"For instance, I heard the Nagoya Family started popping up around that time."
+msgstr ""
+"Per esempio, ho sentito che la Nagoya Family ha iniziato a spuntare fuori "
+"proprio in quel periodo."
+
+msgctxt "144_Ushijima"
+msgid ""
+"What, so now you're after details about the Nagoya Family? Then I've got "
+"nothing to tell you."
+msgstr ""
+"Cosa? Adesso saresti a caccia di dettagli sulla Nagoya Family? Allora non ho"
+" niente da dirti."
+
+msgctxt "156_Shinada"
+msgid "Why not?"
+msgstr "Perché no?"
+
+msgctxt "168_Ushijima"
+msgid "We owe the Nagoya Family our livelihood."
+msgstr "Dobbiamo alla Nagoya Family il nostro sostentamento."
+
+msgctxt "180_Shinada"
+msgid "What do you mean?"
+msgstr "Cosa intendi?"
+
+msgctxt "192_Ushijima"
+msgid "15 years ago, Kineicho was a bloody nightmare."
+msgstr "15 anni fa, Kineicho era un incubo sanguinario."
+
+msgctxt "204_Ushijima"
+msgid ""
+"Honjincho Street was caught in a turf war between the Tojo Clan and the Omi "
+"Alliance."
+msgstr ""
+"Honjincho Street era finita nel mezzo di una guerra per il territorio tra il"
+" Clan Tojo e l'Alleanza Omi."
+
+msgctxt "216_Ushijima"
+msgid ""
+"Those militants were always causing some sort of scuffle or strife. Not to "
+"mention crime."
+msgstr ""
+"Quei miliziani causavano continuamente qualche tipo di rissa o scontro. Per "
+"non parlare della criminalità."
+
+msgctxt "228_Shinada"
+msgid "But it's so peaceful now."
+msgstr "Ma ora è così tranquillo."
+
+msgctxt "264_Ushijima"
+msgid ""
+"Back then, the Tojo and the Omi controlled the baseball betting business."
+msgstr ""
+"All'epoca, il Tojo e l'Omi controllavano il giro delle scommesse sul "
+"baseball."
+
+msgctxt "276_Ushijima"
+msgid ""
+"Plus this city's caught right between them, so any conflicts they had "
+"spilled over into our everyday lives."
+msgstr ""
+"In più, questa città si trovava proprio nel mezzo, quindi ogni loro scontro "
+"finiva per ripercuotersi sulla nostra vita quotidiana."
+
+msgctxt "288_Ushijima"
+msgid ""
+"But after a certain incident, the two gangs were suddenly forced out of "
+"Nagoya."
+msgstr ""
+"Ma dopo un certo incidente, le due bande furono improvvisamente cacciate da "
+"Nagoya."
+
+msgctxt "300_Shinada"
+msgid "......"
+msgstr "......"
+
+msgctxt "312_Ushijima"
+msgid ""
+"That match fixing scandal with the Wyverns 15 years ago.\r\n"
+"You don't remember?"
+msgstr ""
+"Quello scandalo delle partite truccate dei Wyverns di 15 anni fa.\n"
+"Non te lo ricordi?"
+
+msgctxt "324_Takasugi"
+msgid "Oh, yeah, that."
+msgstr "Ah, già, quello."
+
+msgctxt "336_Shinada"
+msgid "......"
+msgstr "......"
+
+msgctxt "348_Ushijima"
+msgid ""
+"Well, I'm not really a sports person, so I can't say I know all the details."
+msgstr ""
+"Beh, non sono proprio un appassionato di sport, quindi non saprei dirti "
+"tutti i dettagli."
+
+msgctxt "360_Ushijima"
+msgid ""
+"But the scandal brought baseball betting under the law's\r\n"
+"watchful eye. And evidently, that was enough to push the\r\n"
+"Tojo and the Omi out of Nagoya for good."
+msgstr ""
+"Ma lo scandalo ha messo le scommesse sul baseball sotto l'occhio\n"
+"vigile della legge. Ed evidentemente, è bastato questo per cacciare\n"
+"il Tojo e l'Omi da Nagoya per sempre."
+
+msgctxt "372_Takasugi"
+msgid "......"
+msgstr "......"
+
+msgctxt "384_Ushijima"
+msgid ""
+"With those two tyrants gone, the Nagoya Family stepped in to clean up their "
+"mess."
+msgstr ""
+"Con quei due tiranni fuori dai piedi, la Nagoya Family è intervenuta per "
+"ripulire il loro casino."
+
+msgctxt "396_Ushijima"
+msgid "They've been looking after our town ever since."
+msgstr "Da allora si sono sempre presi cura della nostra città."
+
+msgctxt "408_Ushijima"
+msgid ""
+"They're still yakuza, no doubt, but they don't start\r\n"
+"conflicts or run protection on us."
+msgstr ""
+"Sono pur sempre yakuza, non c'è dubbio, ma non scatenano\n"
+"scontri e non ci chiedono il pizzo."
+
+msgctxt "420_Ushijima"
+msgid ""
+"By and large, we all get to live out our days in peace...\r\n"
+"in exchange for one little major league hiccup."
+msgstr ""
+"In linea di massima, riusciamo tutti a vivere le nostre giornate in pace...\n"
+"in cambio di un piccolo intoppo da serie A."
+
+msgctxt "432_Shinada"
+msgid "A sacrifice for Nagoya..."
+msgstr "Un sacrificio per Nagoya..."
+
+msgctxt "444_Takasugi"
+msgid "The dots are starting to connect."
+msgstr "I puntini iniziano a unirsi."
+
+msgctxt "456_Takasugi"
+msgid "So, I take it you know who the boss of this Nagoya Family is?"
+msgstr "Quindi, immagino che tu sappia chi è il boss di questa Nagoya Family?"
+
+msgctxt "468_Ushijima"
+msgid ""
+"I can't imagine why you'd want to know, but I suggest you give that up."
+msgstr ""
+"Non riesco a immaginare perché tu voglia saperlo, ma ti suggerisco di "
+"lasciar perdere."
+
+msgctxt "480_Ushijima"
+msgid ""
+"I couldn't tell you who's in charge, and I don't give a damn. The Nagoya "
+"Family protects us behind the scenes."
+msgstr ""
+"Non saprei dirti chi comanda, e non me ne frega un accidente. La Nagoya "
+"Family ci protegge dietro le quinte."
+
+msgctxt "492_Ushijima"
+msgid "For anyone doing business in this town, that's all we need to know."
+msgstr ""
+"Per chiunque faccia affari in questa città, non ci serve sapere altro."
+
+msgctxt "540_Milky"
+msgid "Ta-chan!? Please, I need your help! They took my brother away!"
+msgstr ""
+"Ta-chan!? Ti prego, ho bisogno del tuo aiuto! Si sono portati via mio "
+"fratello!"
+
+msgctxt "552_Shinada"
+msgid "They took Toriyama-san? Who?"
+msgstr "Hanno preso Toriyama-san? Chi?"
+
+msgctxt "564_Milky"
+msgid "I don't know. One of the men had a wound on his cheek."
+msgstr "Non lo so. Uno di quegli uomini aveva una ferita sulla guancia."
+
+msgctxt "576_Milky"
+msgid "I'm following them now. I'm near Warehouse 62 at the port. Ahhh－!"
+msgstr ""
+"Li sto seguendo proprio ora. Sono vicino al Magazzino 62 al porto. Ahhh－!"
+
+msgctxt "588_Shinada"
+msgid "Milky-chan!?"
+msgstr "Milky-chan!?"
+
+msgctxt "612_Ushijima"
+msgid "......"
+msgstr "......"
+
+msgctxt "624_Shinada"
+msgid "Takasugi-san, there's somewhere I need to be!"
+msgstr "Takasugi-san, c'è un posto dove devo andare!"
+
+msgctxt "636_Takasugi"
+msgid "Sheesh. If you're going, I have to go too, dammit."
+msgstr "E che diamine. Se ci vai tu, devo andarci anch'io, maledizione."
+
+msgctxt "648_Shinada"
+msgid "Takasugi-san!?"
+msgstr "Takasugi-san!?"
+
+msgctxt "660_Shinada"
+msgid "Okay, Ushijima-san. If you think of anything, let me know."
+msgstr ""
+"D'accordo, Ushijima-san. Se ti viene in mente qualcosa, fammelo sapere."
+
+msgctxt "672_Shinada"
+msgid "Oh, uh, I don't have to put this coffee on a tab, do I?"
+msgstr "Oh, ehm, non devo mica mettere questo caffè sul conto, vero?"
+
+msgctxt "684_Ushijima"
+msgid "Nah."
+msgstr "Nah."
+
+msgctxt "696_Ushijima"
+msgid "......"
+msgstr "......"
+
+msgctxt "792_Ushijima"
+msgid "Hey, what are you doing here at this hour? Come to settle your tab?"
+msgstr "Ehi, che ci fai qui a quest'ora? Sei venuto a saldare il conto?"
+
+msgctxt "804_Shinada"
+msgid "Actually, I came here to ask you something."
+msgstr "A dire il vero, sono venuto a chiederti una cosa."
+
+msgctxt "816_Ushijima"
+msgid "I told you, you're banned until you pay me in full."
+msgstr ""
+"Te l'ho detto, non puoi entrare finché non avrai saldato tutto il debito."
+
+msgctxt "840_Takasugi"
+msgid "In that case, I'll cover it."
+msgstr "In quel caso, pago io."
+
+msgctxt "852_Ushijima"
+msgid ""
+"And you must be the loan shark shaking Shinada down. Haven't heard much good"
+" about you."
+msgstr ""
+"E tu devi essere lo strozzino che sta spremendo Shinada. Non ho sentito dire"
+" granché di buono sul tuo conto."
+
+msgctxt "864_Takasugi"
+msgid ""
+"Don't know what kind of horror stories you're hearing, but all my clients "
+"love me."
+msgstr ""
+"Non so che razza di storie dell'orrore ti abbiano raccontato, ma i miei "
+"clienti mi adorano tutti."
+
+msgctxt "876_Ushijima"
+msgid ""
+"Well, as far as I'm concerned, whoever pays the bill is a valued customer."
+msgstr ""
+"Beh, per quanto mi riguarda, chiunque paghi il conto è un cliente di "
+"riguardo."
+
+msgctxt "900_Ushijima"
+msgid "Huh? What the hell? You ran up a tab this high?"
+msgstr "Eh? Ma che diavolo? Hai accumulato un conto così alto?"
+
+msgctxt "912_Shinada"
+msgid "You're not gonna, um...?"
+msgstr "Non vorrai mica, ehm...?"
+
+msgctxt "924_Takasugi"
+msgid "Of course I'm tacking this on to your loan."
+msgstr "Ovvio che questo lo aggiungo al tuo debito."
+
+msgctxt "936_Shinada"
+msgid "......"
+msgstr "......"

@@ -1,0 +1,574 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "140"
+msgid ""
+"Question one. Between Osaka Prefecture and Tokyo\r\n"
+"Metropolis, Osaka is the bigger of the two. True or false?"
+msgstr ""
+"Prima domanda. Tra la prefettura di Osaka e la metropoli di\n"
+"Tokyo, Osaka è la più grande delle due. Vero o falso?"
+
+msgctxt "20808"
+msgid "Announcer"
+msgstr "Presentatore"
+
+msgctxt "20812"
+msgid "Game Show Host"
+msgstr "Presentatore"
+
+msgctxt "20816"
+msgid "kaiwabgm_quiz"
+msgstr "kaiwabgm_quiz"
+
+msgctxt "20820"
+msgid "Maya"
+msgstr "Maya"
+
+msgctxt "20824"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "20828"
+msgid "ACDEV0194"
+msgstr "ACDEV0194"
+
+msgctxt "20832"
+msgid "ACDEV0196"
+msgstr "ACDEV0196"
+
+msgctxt "20836"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "20840"
+msgid "SD05_P_AKI_stand_kanpe_kamae"
+msgstr "SD05_P_AKI_stand_kanpe_kamae"
+
+msgctxt "20844"
+msgid "True"
+msgstr "Vero"
+
+msgctxt "20848"
+msgid "False"
+msgstr "Falso"
+
+msgctxt "20852"
+msgid "SD05_P_AKI_stand_kanpe_st"
+msgstr "SD05_P_AKI_stand_kanpe_st"
+
+msgctxt "20856"
+msgid "SD05_P_AKI_stand_kanpe_lp"
+msgstr "SD05_P_AKI_stand_kanpe_lp"
+
+msgctxt "20860"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "20864"
+msgid "SD05_F_NML_TLK_sitsofa_funya"
+msgstr "SD05_F_NML_TLK_sitsofa_funya"
+
+msgctxt "20868"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "44_Announcer"
+msgid "This is Sotenbori Love Check Quiz!"
+msgstr "Questo è il Sotenbori Love Check Quiz!"
+
+msgctxt "56_Game Show Host"
+msgid "Welcome to the show, Strawberry Maya-chan."
+msgstr "Benvenuta allo show, Strawberry Maya-chan."
+
+msgctxt "68_Game Show Host"
+msgid ""
+"Maya-chan, you're well known for your quirky ways, but some\r\n"
+"rumors say you're actually a quiet, serious, and relatively\r\n"
+"ordinary person."
+msgstr ""
+"Maya-chan, sei famosa per i tuoi modi stravaganti, ma alcune\n"
+"voci dicono che in realtà sei una persona tranquilla, seria e\n"
+"piuttosto comune."
+
+msgctxt "80_Maya"
+msgid ""
+"Oh, non, non, no! I am not quirky at all! I am the princess\r\n"
+"of the Strawberry Kingdom!"
+msgstr ""
+"Oh, no, no, no! Non sono affatto stravagante! Sono la principessa\n"
+"del Regno delle Fragole!"
+
+msgctxt "92_Game Show Host"
+msgid "Ah, please forgive me."
+msgstr "Ah, ti prego di scusarmi."
+
+msgctxt "104_Game Show Host"
+msgid "Now, let's begin, shall we?"
+msgstr "Bene, vogliamo iniziare?"
+
+msgctxt "116_Game Show Host"
+msgid "It's time for Sotenbori Love Check Quiz!"
+msgstr "È il momento del Sotenbori Love Check Quiz!"
+
+msgctxt "128_Akiyama"
+msgid ""
+"(Okay, let's get the cue cards ready. For Maya-chan to stay\r\n"
+"in character, she has to give the wrong answers. Meaning I\r\n"
+"have to give her the wrong answers.)"
+msgstr ""
+"(Ok, prepariamo i cartelli. Affinché Maya-chan rimanga\n"
+"nel personaggio, deve dare le risposte sbagliate. Quindi\n"
+"devo suggerirle io le risposte sbagliate.)"
+
+msgctxt "152_Announcer"
+msgid "(Maya-chan, say true!)"
+msgstr "(Maya-chan, di' vero!)"
+
+msgctxt "164_Maya"
+msgid "That's true."
+msgstr "È vero."
+
+msgctxt "176_Game Show Host"
+msgid "Incorrect."
+msgstr "Sbagliato."
+
+msgctxt "188_Announcer"
+msgid "(Maya-chan, say false!)"
+msgstr "(Maya-chan, di' falso!)"
+
+msgctxt "200_Maya"
+msgid "I'm going to say false."
+msgstr "Dico falso."
+
+msgctxt "212_Game Show Host"
+msgid "Correct."
+msgstr "Corretto."
+
+msgctxt "224_Announcer"
+msgid ""
+"Question two. Two times three times four times zero divided\r\n"
+"by two equals zero. True or false?"
+msgstr ""
+"Domanda numero due. Due per tre per quattro per zero diviso\n"
+"per due fa zero. Vero o falso?"
+
+msgctxt "236_Announcer"
+msgid "(Maya-chan, say true!)"
+msgstr "(Maya-chan, di' vero!)"
+
+msgctxt "248_Maya"
+msgid "I'll say true."
+msgstr "Dico vero."
+
+msgctxt "260_Game Show Host"
+msgid "Correct."
+msgstr "Corretto."
+
+msgctxt "272_Announcer"
+msgid "(Maya-chan, say false!)"
+msgstr "(Maya-chan, di' falso!)"
+
+msgctxt "284_Maya"
+msgid "I believe it's false."
+msgstr "Credo sia falso."
+
+msgctxt "296_Game Show Host"
+msgid "Incorrect."
+msgstr "Sbagliato."
+
+msgctxt "308_Announcer"
+msgid "Question three. Dolphins are mammals. True or false?"
+msgstr "Domanda numero tre. I delfini sono mammiferi. Vero o falso?"
+
+msgctxt "320_Announcer"
+msgid "(Maya-chan, say true!)"
+msgstr "(Maya-chan, di' vero!)"
+
+msgctxt "332_Maya"
+msgid "Um... True?"
+msgstr "Ehm... Vero?"
+
+msgctxt "344_Game Show Host"
+msgid "Correct."
+msgstr "Corretto."
+
+msgctxt "356_Announcer"
+msgid "(Maya-chan, say false!)"
+msgstr "(Maya-chan, di' falso!)"
+
+msgctxt "368_Maya"
+msgid "This one's false."
+msgstr "Questa è falsa."
+
+msgctxt "380_Game Show Host"
+msgid "Incorrect."
+msgstr "Sbagliato."
+
+msgctxt "392_Announcer"
+msgid ""
+"Question four. Idol and idle. Both are people. True or\r\n"
+"false?"
+msgstr ""
+"Domanda numero quattro. Idol e idle. Entrambi sono persone. Vero o\n"
+"falso?"
+
+msgctxt "404_Announcer"
+msgid "(Maya-chan, say true!)"
+msgstr "(Maya-chan, di' vero!)"
+
+msgctxt "416_Maya"
+msgid "Definitely true."
+msgstr "Sicuramente vero."
+
+msgctxt "428_Game Show Host"
+msgid "Incorrect."
+msgstr "Sbagliato."
+
+msgctxt "440_Announcer"
+msgid "(Maya-chan, say false!)"
+msgstr "(Maya-chan, di' falso!)"
+
+msgctxt "452_Maya"
+msgid "Definitely false."
+msgstr "Sicuramente falso."
+
+msgctxt "464_Game Show Host"
+msgid "Correct."
+msgstr "Corretto."
+
+msgctxt "476_Announcer"
+msgid ""
+"Question five. The first computer ran on batteries. True or\r\n"
+"false?"
+msgstr ""
+"Domanda numero cinque. Il primo computer funzionava a batterie. Vero o\n"
+"falso?"
+
+msgctxt "488_Announcer"
+msgid "(Maya-chan, say true!)"
+msgstr "(Maya-chan, di' vero!)"
+
+msgctxt "500_Maya"
+msgid "It must be true."
+msgstr "Deve essere vero."
+
+msgctxt "512_Game Show Host"
+msgid "Incorrect."
+msgstr "Sbagliato."
+
+msgctxt "524_Announcer"
+msgid "(Maya-chan, say false!)"
+msgstr "(Maya-chan, di' falso!)"
+
+msgctxt "536_Maya"
+msgid "It must be false."
+msgstr "Deve essere falso."
+
+msgctxt "548_Game Show Host"
+msgid "Correct."
+msgstr "Corretto."
+
+msgctxt "560_Announcer"
+msgid ""
+"Question six. The final day of July is the thirty-first.\r\n"
+"True or false?"
+msgstr ""
+"Domanda numero sei. L'ultimo giorno di luglio è il trentuno.\n"
+"Vero o falso?"
+
+msgctxt "572_Announcer"
+msgid "(Maya-chan, say true!)"
+msgstr "(Maya-chan, di' vero!)"
+
+msgctxt "584_Maya"
+msgid "My answer is true."
+msgstr "La mia risposta è vero."
+
+msgctxt "596_Game Show Host"
+msgid "Correct."
+msgstr "Corretto."
+
+msgctxt "608_Announcer"
+msgid "(Maya-chan, say false!)"
+msgstr "(Maya-chan, di' falso!)"
+
+msgctxt "620_Maya"
+msgid "My answer is false."
+msgstr "La mia risposta è falso."
+
+msgctxt "632_Game Show Host"
+msgid "Incorrect."
+msgstr "Sbagliato."
+
+msgctxt "644_Announcer"
+msgid ""
+"Question seven. The legal drinking age is eighteen. True or\r\n"
+"false?"
+msgstr ""
+"Domanda numero sette. L'età legale per bere è diciotto anni. Vero o\n"
+"falso?"
+
+msgctxt "656_Announcer"
+msgid "(Maya-chan, say true!)"
+msgstr "(Maya-chan, di' vero!)"
+
+msgctxt "668_Maya"
+msgid "I hope it's true."
+msgstr "Spero che sia vero."
+
+msgctxt "680_Game Show Host"
+msgid "Incorrect."
+msgstr "Sbagliato."
+
+msgctxt "692_Announcer"
+msgid "(Maya-chan, say false!)"
+msgstr "(Maya-chan, di' falso!)"
+
+msgctxt "704_Maya"
+msgid "That's false."
+msgstr "È falso."
+
+msgctxt "716_Game Show Host"
+msgid "Correct."
+msgstr "Corretto."
+
+msgctxt "728_Announcer"
+msgid ""
+"Question eight. H is hydrogen, O is oxygen, and Na is\r\n"
+"natrogen. True or false?"
+msgstr ""
+"Domanda numero otto. H è l'idrogeno, O è l'ossigeno e Na è il\n"
+"natrogeno. Vero o falso?"
+
+msgctxt "740_Announcer"
+msgid "(Maya-chan, say true!)"
+msgstr "(Maya-chan, di' vero!)"
+
+msgctxt "752_Maya"
+msgid "For sure, true."
+msgstr "Di sicuro, vero."
+
+msgctxt "764_Game Show Host"
+msgid "Incorrect."
+msgstr "Sbagliato."
+
+msgctxt "776_Announcer"
+msgid "(Maya-chan, say false!)"
+msgstr "(Maya-chan, di' falso!)"
+
+msgctxt "788_Maya"
+msgid "For sure, false."
+msgstr "Di sicuro, falso."
+
+msgctxt "800_Game Show Host"
+msgid "Correct."
+msgstr "Corretto."
+
+msgctxt "812_Announcer"
+msgid ""
+"Question nine. French toast did not originate in France.\r\n"
+"True or false?"
+msgstr ""
+"Domanda numero nove. Il french toast non è nato in Francia.\n"
+"Vero o falso?"
+
+msgctxt "824_Announcer"
+msgid "(Maya-chan, say true!)"
+msgstr "(Maya-chan, di' vero!)"
+
+msgctxt "836_Maya"
+msgid "I say true."
+msgstr "Dico vero."
+
+msgctxt "848_Game Show Host"
+msgid "Correct."
+msgstr "Corretto."
+
+msgctxt "860_Announcer"
+msgid "(Maya-chan, say false!)"
+msgstr "(Maya-chan, di' falso!)"
+
+msgctxt "872_Maya"
+msgid "I say false."
+msgstr "Dico falso."
+
+msgctxt "884_Game Show Host"
+msgid "Incorrect."
+msgstr "Sbagliato."
+
+msgctxt "896_Announcer"
+msgid ""
+"Question ten. The French Revolution came before the\r\n"
+"Russian Revolution. True or false?"
+msgstr ""
+"Domanda numero dieci. La rivoluzione francese è avvenuta prima della\n"
+"rivoluzione russa. Vero o falso?"
+
+msgctxt "908_Announcer"
+msgid "(Maya-chan, say true!)"
+msgstr "(Maya-chan, di' vero!)"
+
+msgctxt "920_Maya"
+msgid "Why, that's true."
+msgstr "Beh, è vero."
+
+msgctxt "932_Game Show Host"
+msgid "Correct."
+msgstr "Corretto."
+
+msgctxt "944_Announcer"
+msgid "(Maya-chan, say false!)"
+msgstr "(Maya-chan, di' falso!)"
+
+msgctxt "956_Maya"
+msgid "Why, that's false."
+msgstr "Beh, è falso."
+
+msgctxt "968_Game Show Host"
+msgid "Incorrect."
+msgstr "Sbagliato."
+
+msgctxt "992_Announcer"
+msgid ""
+"Amazing! You got a perfect ten out of ten. That's odd,\r\n"
+"Maya-chan. You seem to be a lot smarter than you initially\r\n"
+"led us to believe."
+msgstr ""
+"Incredibile! Hai ottenuto un dieci su dieci perfetto. Che strano,\n"
+"Maya-chan. Sembri molto più intelligente di quanto inizialmente\n"
+"ci avessi fatto credere."
+
+msgctxt "1004_Maya"
+msgid "Well, I, uh..."
+msgstr "Beh, io, ehm..."
+
+msgctxt "1016_Maya"
+msgid "Foonyapar!"
+msgstr "Foonyapar!"
+
+msgctxt "1028_Game Show Host"
+msgid ""
+"Sorry, you're not fooling anyone now. You're obviously just playing a silly "
+"character."
+msgstr ""
+"Spiacente, ormai non stai più ingannando nessuno. È palese che tu stia solo "
+"interpretando un personaggio sciocco."
+
+msgctxt "1040_Maya"
+msgid "......"
+msgstr "......"
+
+msgctxt "1052_Game Show Host"
+msgid "Join us next time on Sotenbori Love Check Quiz!"
+msgstr "Alla prossima puntata di Sotenbori Love Check Quiz!"
+
+msgctxt "1064_Announcer"
+msgid ""
+"You scored surprisingly high. That's odd, Maya-chan. You\r\n"
+"seem to be much smarter than you led us to believe."
+msgstr ""
+"Hai ottenuto un punteggio sorprendentemente alto. Che strano, Maya-chan. Sembri\n"
+"molto più intelligente di quanto ci avessi fatto credere."
+
+msgctxt "1076_Maya"
+msgid "Oh, no, I just..."
+msgstr "Oh, no, io... ecco..."
+
+msgctxt "1088_Maya"
+msgid "Foonyapar!"
+msgstr "Foonyapar!"
+
+msgctxt "1100_Game Show Host"
+msgid ""
+"Sorry, you're not fooling anyone now. You're obviously just playing a silly "
+"character."
+msgstr ""
+"Spiacente, ormai non stai più ingannando nessuno. È palese che tu stia solo "
+"interpretando un personaggio sciocco."
+
+msgctxt "1112_Maya"
+msgid "......"
+msgstr "......"
+
+msgctxt "1124_Game Show Host"
+msgid "Join us next time on Sotenbori Love Check Quiz!"
+msgstr "Alla prossima puntata di Sotenbori Love Check Quiz!"
+
+msgctxt "1136_Announcer"
+msgid ""
+"Your score was more or less average. Do you think that will change\r\n"
+"how your character is perceived?"
+msgstr ""
+"Il tuo punteggio è stato più o meno nella media. Pensi che questo cambierà\n"
+"il modo in cui viene percepito il tuo personaggio?"
+
+msgctxt "1148_Maya"
+msgid "Character? Maya doesn't understand, pon!"
+msgstr "Personaggio? Maya non capisce, pon!"
+
+msgctxt "1160_Game Show Host"
+msgid ""
+"I see. Good for you, then. Join us next time on Sotenbori\r\n"
+"Love Check Quiz!"
+msgstr ""
+"Capisco. Buon per te, allora. Alla prossima puntata di Sotenbori\n"
+"Love Check Quiz!"
+
+msgctxt "1172_Announcer"
+msgid ""
+"I have to say, the results are what we expected. Were the\r\n"
+"questions perhaps too challenging for a princess from the Strawberry Kingdom?"
+msgstr ""
+"Devo dire che i risultati sono quelli che ci aspettavamo. Le\n"
+"domande erano forse troppo difficili per una principessa del Regno delle Fragole?"
+
+msgctxt "1184_Maya"
+msgid ""
+"Ooh, oui, indeed they were. Much too hard for me,\r\n"
+"paloomp."
+msgstr ""
+"Ooh, oui, proprio così. Erano decisamente troppo difficili per me,\n"
+"paloomp."
+
+msgctxt "1196_Game Show Host"
+msgid ""
+"Thank you for coming, Strawberry Maya. Join us next time on\r\n"
+"Sotenbori Love Check Quiz!"
+msgstr ""
+"Grazie per essere venuta, Strawberry Maya. Alla prossima puntata di\n"
+"Sotenbori Love Check Quiz!"
+
+msgctxt "1208_Announcer"
+msgid ""
+"Wow. A spectacular zero out of ten. That takes some doing,\r\n"
+"even if you're guessing randomly. Was it perhaps too hard\r\n"
+"for the Strawberry princess?"
+msgstr ""
+"Wow. Uno spettacolare zero su dieci. Ce ne vuole d'impegno,\n"
+"anche a tirare a indovinare. Forse era troppo difficile\n"
+"per la principessa delle Fragole?"
+
+msgctxt "1220_Maya"
+msgid "Ooh, oui, indeed it was. Much too hard for me, paloomp."
+msgstr ""
+"Ooh, oui, proprio così. Era decisamente troppo difficile per me, paloomp."
+
+msgctxt "1232_Game Show Host"
+msgid ""
+"Thank you for coming, Strawberry Maya. Join us next time on\r\n"
+"Sotenbori Love Check Quiz!"
+msgstr ""
+"Grazie per essere venuta, Strawberry Maya. Alla prossima puntata di\n"
+"Sotenbori Love Check Quiz!"

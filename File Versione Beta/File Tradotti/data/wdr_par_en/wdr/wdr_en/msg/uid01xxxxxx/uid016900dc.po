@@ -1,0 +1,987 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "40148"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "40152"
+msgid "Nomu-san"
+msgstr "Nomu-san"
+
+msgctxt "40156"
+msgid "kaiwabgm_eeyan"
+msgstr "kaiwabgm_eeyan"
+
+msgctxt "40160"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "40164"
+msgid "Studio Audience"
+msgstr "Pubblico in studio"
+
+msgctxt "40168"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "40172"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "40176"
+msgid "M_NML_TLK_sitcnt_kansin_NOM"
+msgstr "M_NML_TLK_sitcnt_kansin_NOM"
+
+msgctxt "40180"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "40184"
+msgid "M_NML_TLK_sitcnt_introduce_HAL"
+msgstr "M_NML_TLK_sitcnt_introduce_HAL"
+
+msgctxt "40188"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "40192"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "40196"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "40200"
+msgid "No, never."
+msgstr "No, mai."
+
+msgctxt "40204"
+msgid "Sometimes."
+msgstr "A volte."
+
+msgctxt "40208"
+msgid "I'll leave it to your imagination."
+msgstr "Lo lascio alla vostra immaginazione."
+
+msgctxt "40212"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "40216"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "40220"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "40224"
+msgid "Talk_Info_R"
+msgstr "Talk_Info_R"
+
+msgctxt "40228"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "40232"
+msgid "Audience Member"
+msgstr "Membro del pubblico"
+
+msgctxt "40236"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "40240"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "40244"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "40248"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "40252"
+msgid "I always try to give it everything I've got."
+msgstr "Cerco sempre di mettercela tutta."
+
+msgctxt "40256"
+msgid "A big crowd does really get me going."
+msgstr "Una grande folla mi dà una carica incredibile."
+
+msgctxt "40260"
+msgid "The fewer the guests, the harder I try."
+msgstr "Meno persone ci sono, più ce la metto tutta."
+
+msgctxt "40264"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "40268"
+msgid "They're just as they appear on TV."
+msgstr "Sono proprio come appaiono in TV."
+
+msgctxt "40272"
+msgid "They're pretty aggressive towards me."
+msgstr "Sono piuttosto aggressivi nei miei confronti."
+
+msgctxt "40276"
+msgid "We get along great."
+msgstr "Andiamo molto d'accordo."
+
+msgctxt "40280"
+msgid "I'm grateful for all the time we had together!"
+msgstr "Sono grata per tutto il tempo che abbiamo passato insieme!"
+
+msgctxt "40284"
+msgid "Thank you, everyone!"
+msgstr "Grazie a tutti!"
+
+msgctxt "40288"
+msgid "Please continue to lend me your support!"
+msgstr "Per favore, continuate a sostenermi!"
+
+msgctxt "40292"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "40296"
+msgid "The P-Set girls."
+msgstr "Le ragazze delle P-Set."
+
+msgctxt "40300"
+msgid "The T-Set girls."
+msgstr "Le ragazze delle T-Set."
+
+msgctxt "40304"
+msgid "The T-Pet girls."
+msgstr "Le ragazze delle T-Pet."
+
+msgctxt "40308"
+msgid "M_NML_TLK_sitcnt_smilebig_lp"
+msgstr "M_NML_TLK_sitcnt_smilebig_lp"
+
+msgctxt "40312"
+msgid "M_NML_TLK_sitcnt_titlecall_st"
+msgstr "M_NML_TLK_sitcnt_titlecall_st"
+
+msgctxt "40316"
+msgid "M_NML_TLK_sitcnt_kamae"
+msgstr "M_NML_TLK_sitcnt_kamae"
+
+msgctxt "40320"
+msgid "M_NML_TLK_sitcnt_titlecall_en"
+msgstr "M_NML_TLK_sitcnt_titlecall_en"
+
+msgctxt "56_dummy"
+msgid ""
+"Hello and welcome to \"Love to See You Smile\"! How is everybody doing "
+"today?"
+msgstr "Salve e benvenuti a \"Vogliamo vedervi sorridere\"! Come state oggi?"
+
+msgctxt "68_Studio Audience"
+msgid "So-so!"
+msgstr "Così così!"
+
+msgctxt "80_Nomu-san"
+msgid "Ahh, and how are you all sleeping these days?"
+msgstr "Ahh, e come state dormendo in questi giorni?"
+
+msgctxt "92_Studio Audience"
+msgid "So-so!"
+msgstr "Così così!"
+
+msgctxt "104_Nomu-san"
+msgid "And what's a slang term for a low rider?"
+msgstr "E qual è un termine gergale per una low rider?"
+
+msgctxt "116_Studio Audience"
+msgid "LOLO!"
+msgstr "LOLO!"
+
+msgctxt "128_Nomu-san"
+msgid ""
+"Hahaha. You're all just too good to me, folks! Thank you for playing along."
+msgstr ""
+"Ahahah. Siete fin troppo buoni con me, ragazzi! Grazie per avermi "
+"assecondato."
+
+msgctxt "152_dummy"
+msgid "......"
+msgstr "......"
+
+msgctxt "164_Nomu-san"
+msgid ""
+"Let's get started then, shall we? Today's guest will be joining us for the "
+"fifth and final time now, folks. It's the marvelous singing sensation, "
+"Haruka Sawamura-chan!"
+msgstr ""
+"Iniziamo allora, che ne dite? L'ospite di oggi sarà con noi per la quinta e "
+"ultima volta, gente. È la meravigliosa rivelazione del canto, Haruka "
+"Sawamura-chan!"
+
+msgctxt "176_Haruka"
+msgid "Hello, everyone! I'm Haruka Sawamura! It's nice to see all of you!"
+msgstr "Ciao a tutti! Sono Haruka Sawamura! È un piacere vedervi!"
+
+msgctxt "188_Studio Audience"
+msgid "Haruka-chan, you're so cute!"
+msgstr "Haruka-chan, sei così carina!"
+
+msgctxt "224_dummy"
+msgid "Haruka-chaaan!"
+msgstr "Haruka-chaaan!"
+
+msgctxt "236_Nomu-san"
+msgid ""
+"What a beautiful smile! Your popularity is just shooting through the roof "
+"now, isn't it?"
+msgstr ""
+"Che sorriso splendido! Ormai la tua popolarità sta proprio schizzando alle "
+"stelle, non è vero?"
+
+msgctxt "248_Haruka"
+msgid "Thank you very much!"
+msgstr "Grazie mille!"
+
+msgctxt "260_dummy"
+msgid "Huh? What's with her?"
+msgstr "Eh? Che le succede?"
+
+msgctxt "272_Nomu-san"
+msgid ""
+"Come on now, Haruka-chan! A fan is trying to give you some encouragement! "
+"Don't you have any response for them?"
+msgstr ""
+"Dai, Haruka-chan! Un fan sta cercando di farti coraggio! Non hai niente da "
+"rispondergli?"
+
+msgctxt "284_Haruka"
+msgid "Oh, I'm so sorry! I was caught off guard, and I couldn't－"
+msgstr ""
+"Oh, mi dispiace tanto! Mi avete colta di sorpresa e non sono riuscita a－"
+
+msgctxt "296_Nomu-san"
+msgid "But this is your fifth time on the show!"
+msgstr "Ma questa è già la tua quinta volta nel programma!"
+
+msgctxt "308_Haruka"
+msgid "I'm really sorry!"
+msgstr "Mi dispiace molto!"
+
+msgctxt "320_dummy"
+msgid ""
+"Okay! Seeing as this is your last day, I thought we could finally talk about"
+" the Princess League."
+msgstr ""
+"Bene! Visto che questo è il tuo ultimo giorno, pensavo che potessimo "
+"finalmente parlare della Princess League."
+
+msgctxt "332_Nomu-san"
+msgid ""
+"As I'm sure you all know, the Princess League is a hit show that pits idol "
+"against idol. The pressure must be intense!"
+msgstr ""
+"Come sicuramente saprete tutti, la Princess League è un programma di "
+"successo che mette le idol l'una contro l'altra. La pressione dev'essere "
+"intensa!"
+
+msgctxt "344_Haruka"
+msgid "Yes, it is. I get really nervous every single time."
+msgstr "Sì, è così. Mi sento molto nervosa ogni singola volta."
+
+msgctxt "356_Nomu-san"
+msgid ""
+"That's because it's win or go home, isn't it? I bet there's a lot of tension"
+" and drama between you and your opponents backstage."
+msgstr ""
+"È perché o si vince o si va a casa, non è vero? Scommetto che c'è un sacco "
+"di tensione e drammi tra te e le tue avversarie dietro le quinte."
+
+msgctxt "368_Nomu-san"
+msgid "Do you ever get picked on by the other contestants on the show?"
+msgstr ""
+"Ti capita mai di essere presa di mira dalle altre concorrenti nel programma?"
+
+msgctxt "380_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "392_Nomu-san"
+msgid "Looks like Haruka-chan is at a loss for words."
+msgstr "Sembra che Haruka-chan sia rimasta senza parole."
+
+msgctxt "416_dummy"
+msgid "I'm sorry!"
+msgstr "Mi dispiace!"
+
+msgctxt "428_Nomu-san"
+msgid "I guess things are so bad you can't even talk about it on-air, huh?"
+msgstr ""
+"A quanto pare le cose vanno talmente male che non puoi nemmeno parlarne in "
+"diretta, eh?"
+
+msgctxt "440_Haruka"
+msgid "No, never. We all just try to play fair and do our best, that's it."
+msgstr ""
+"No, mai. Cerchiamo solo di gareggiare lealmente e di dare il massimo, tutto "
+"qui."
+
+msgctxt "452_Studio Audience"
+msgid "Ah!"
+msgstr "Ah!"
+
+msgctxt "464_Nomu-san"
+msgid ""
+"Are you sure? No thumbtacks on your chair or ripped outfits or anything?"
+msgstr ""
+"Ne sei proprio sicura? Niente puntine sulla sedia, vestiti strappati o roba "
+"del genere?"
+
+msgctxt "476_Haruka"
+msgid "Oh no, nothing like that."
+msgstr "Oh no, niente del genere."
+
+msgctxt "500_dummy"
+msgid ""
+"Okay, so you don't get picked on. Does that mean you're the one harassing "
+"everybody else?"
+msgstr ""
+"Okay, quindi non ti prendono di mira. Significa che sei tu quella che "
+"tormenta tutti gli altri?"
+
+msgctxt "512_Haruka"
+msgid "No, of course not!"
+msgstr "No, assolutamente no!"
+
+msgctxt "536_Haruka"
+msgid ""
+"Sometimes. If I run into my opponents backstage before the show, they might "
+"taunt me or something like that."
+msgstr ""
+"A volte. Se incontro le mie avversarie nel backstage prima del programma, "
+"capita che mi provochino o cose del genere."
+
+msgctxt "548_Studio Audience"
+msgid "Ah!"
+msgstr "Ah!"
+
+msgctxt "560_Nomu-san"
+msgid "And what do you do in retaliation?"
+msgstr "E cosa fai per vendicarti?"
+
+msgctxt "572_Haruka"
+msgid "I don't do anything in retaliation!"
+msgstr "Non faccio nulla per vendicarmi!"
+
+msgctxt "596_dummy"
+msgid "Come on. You can tell me! I'll keep it a secret."
+msgstr "Dai, puoi dirmelo! Manterrò il segreto."
+
+msgctxt "608_Haruka"
+msgid "Well, I guess I sometimes do glare back a little."
+msgstr "Beh, credo che a volte ricambi un po' lo sguardo."
+
+msgctxt "620_Nomu-san"
+msgid "What!? That's it? Come on now..."
+msgstr "Cosa!? Tutto qui? Ma dai..."
+
+msgctxt "644_Haruka"
+msgid "I'll leave it to your imagination."
+msgstr "Lo lascio alla tua immaginazione."
+
+msgctxt "656_Nomu-san"
+msgid ""
+"Aww, if that's all you're gonna say, everybody's gonna imagine the worst, "
+"you know!"
+msgstr "Ma dai, se dici solo questo, tutti si immagineranno il peggio, sai!"
+
+msgctxt "680_dummy"
+msgid "Really?"
+msgstr "Davvero?"
+
+msgctxt "692_Nomu-san"
+msgid "Of course! You have to give us a little more than that, Haruka-chan."
+msgstr "Ma certo! Devi dirci qualcosa di più, Haruka-chan."
+
+msgctxt "704_Haruka"
+msgid "...No, I'll just leave it at that."
+msgstr "...No, mi fermerò qui."
+
+msgctxt "716_Nomu-san"
+msgid "Wow, you're stubborn, aren't you?"
+msgstr "Wow, sei proprio testarda, eh?"
+
+msgctxt "740_dummy"
+msgid ""
+"When you're on the Princess League, your fans are up pretty close, aren't "
+"they? Hey, kind of like they are now, here in the audience!"
+msgstr ""
+"Quando sei alla Princess League, i fan ti stanno proprio vicini, vero? Ehi, "
+"un po' come adesso, qui tra il pubblico!"
+
+msgctxt "752_Audience Member"
+msgid "Haruka-chan, you're so cute!"
+msgstr "Haruka-chan, sei così carina!"
+
+msgctxt "788_dummy"
+msgid "Haruka-chaaan!"
+msgstr "Haruka-chaaan!"
+
+msgctxt "800_Nomu-san"
+msgid "See that? You're a pro at this now!"
+msgstr "Visto? Ormai sei una professionista!"
+
+msgctxt "812_Haruka"
+msgid "Thank you very much!"
+msgstr "Grazie mille!"
+
+msgctxt "824_dummy"
+msgid "Huh? What's with her?"
+msgstr "Eh? Che le prende?"
+
+msgctxt "836_Nomu-san"
+msgid ""
+"Come on now, Haruka-chan! A fan is trying to give you some encouragement! "
+"Don't you have any response for them?"
+msgstr ""
+"Avanti, Haruka-chan! Un fan sta cercando di darti un po' di incoraggiamento!"
+" Non hai proprio niente da dirgli?"
+
+msgctxt "848_Haruka"
+msgid "Oh, I'm so sorry! I was caught off guard, and I couldn't－"
+msgstr ""
+"Oh, mi dispiace tanto! Mi sono lasciata cogliere alla sprovvista e non sono "
+"riuscita a－"
+
+msgctxt "860_Nomu-san"
+msgid ""
+"Yeah, yeah. Well, I guess these things happen. Anyway, let's get back to "
+"what we were talking about."
+msgstr ""
+"Sì, sì. Be', immagino siano cose che capitano. Comunque, torniamo a quello "
+"di cui stavamo parlando."
+
+msgctxt "872_Nomu-san"
+msgid ""
+"The Princess League audience members get pretty wild with enthusiasm, don't "
+"they?"
+msgstr ""
+"Il pubblico della Princess League si scatena parecchio per l'entusiasmo, "
+"vero?"
+
+msgctxt "884_Haruka"
+msgid ""
+"Oh yes. It really encourages me to keep going and give them a great show."
+msgstr ""
+"Oh sì. Mi dà davvero la forza di continuare e di offrire loro un grande "
+"spettacolo."
+
+msgctxt "896_Nomu-san"
+msgid ""
+"I bet the audiences are much smaller when you're not performing on TV. Does "
+"that kind of thing make it harder for you to do your best?"
+msgstr ""
+"Scommetto che il pubblico è molto meno numeroso quando non ti esibisci in "
+"TV. Una cosa del genere ti rende più difficile dare il massimo?"
+
+msgctxt "908_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "920_Nomu-san"
+msgid "Hey, you're just gonna leave me hanging!?"
+msgstr "Ehi, hai intenzione di lasciarmi così in sospeso!?"
+
+msgctxt "932_Haruka"
+msgid "Oh! I'm so sorry!"
+msgstr "Oh! Mi dispiace tanto!"
+
+msgctxt "956_dummy"
+msgid ""
+"You have to try and keep the conversation going, Haruka-chan. You're on the "
+"clock, you know."
+msgstr ""
+"Devi cercare di far proseguire la conversazione, Haruka-chan. Il tempo "
+"scorre, sai."
+
+msgctxt "980_Haruka"
+msgid ""
+"When I'm on stage, I always try to give it everything I've got. The number "
+"of guests doesn't affect my motivation."
+msgstr ""
+"Quando sono sul palco, cerco sempre di dare il massimo. Il numero di "
+"spettatori non influisce sulla mia motivazione."
+
+msgctxt "1004_dummy"
+msgid ""
+"Really? But doesn't a smaller audience at least take some of the pressure "
+"off?"
+msgstr ""
+"Davvero? Ma un pubblico più piccolo non aiuta almeno ad allentare un po' la "
+"pressione?"
+
+msgctxt "1016_Haruka"
+msgid "Not at all. I still try my absolute best!"
+msgstr "Per niente. Cerco comunque di dare il massimo!"
+
+msgctxt "1040_dummy"
+msgid "Okay, okay. I see you aren't going to budge."
+msgstr "Va bene, va bene. Vedo che non hai intenzione di cedere."
+
+msgctxt "1064_Haruka"
+msgid ""
+"A big crowd does really get me going. For example, I'm sure to make my "
+"movements a little bigger so everyone can see."
+msgstr ""
+"Una grande folla mi carica davvero molto. Per esempio, mi assicuro di "
+"rendere i miei movimenti un po' più ampi, così che tutti possano vederli."
+
+msgctxt "1076_Nomu-san"
+msgid "Oh? Does that mean you slack off when the audience is smaller?"
+msgstr "Oh? Significa che batti la fiacca quando il pubblico è meno numeroso?"
+
+msgctxt "1088_Haruka"
+msgid ""
+"Of course not! When the audience is smaller, I'm able to look into the eyes "
+"of each guest and really appreciate every person there."
+msgstr ""
+"Certo che no! Quando il pubblico è meno numeroso, riesco a guardare negli "
+"occhi ogni singolo spettatore e ad apprezzare davvero ogni persona presente."
+
+msgctxt "1100_Studio Audience"
+msgid "Ah!"
+msgstr "Ah!"
+
+msgctxt "1112_Nomu-san"
+msgid ""
+"Oh, okay. I get it. A smaller audience is much more intimate, isn't it?"
+msgstr ""
+"Oh, okay. Capisco. Un pubblico meno numeroso è molto più intimo, vero?"
+
+msgctxt "1124_Haruka"
+msgid ""
+"Actually, the fewer the guests, the harder I try. I feel pressure to keep "
+"the audience members I have and not let any of them escape!"
+msgstr ""
+"A dire il vero, meno sono gli spettatori, più mi impegno. Sento la pressione"
+" di dovermi tenere stretto il pubblico che ho e di non lasciarne scappare "
+"nessuno!"
+
+msgctxt "1136_Studio Audience"
+msgid "Ah!"
+msgstr "Ah!"
+
+msgctxt "1148_Nomu-san"
+msgid "As an idol, I'm sure you've experienced all different kinds of shows."
+msgstr ""
+"Come idol, sono sicuro che avrai fatto esperienza di ogni genere di "
+"spettacolo."
+
+msgctxt "1160_Nomu-san"
+msgid ""
+"You might have to perform in the rain, on the roof of a department store. I "
+"even bet some shows you can count the number of guests on one hand."
+msgstr ""
+"Potrebbe capitarti di doverti esibire sotto la pioggia, sul tetto di un "
+"grande magazzino. Scommetto persino che in certi spettacoli gli spettatori "
+"si possano contare sulle dita di una mano."
+
+msgctxt "1172_Studio Audience"
+msgid "Ah!"
+msgstr "Ah!"
+
+msgctxt "1184_Haruka"
+msgid "Sometimes it is like that, yes."
+msgstr "A volte è proprio così, sì."
+
+msgctxt "1196_Nomu-san"
+msgid "Being an idol sure doesn't sound like an easy job."
+msgstr "Certo che fare l'idol non sembra proprio un lavoro facile."
+
+msgctxt "1208_dummy"
+msgid ""
+"You know, when I think of the Princess League, T-Set are the idols that "
+"first come to mind. What are they really like?"
+msgstr ""
+"Sai, quando penso alla Princess League, le T-Set sono le prime idol che mi "
+"vengono in mente. Come sono veramente?"
+
+msgctxt "1220_Haruka"
+msgid "What do you mean?"
+msgstr "Cosa intendi?"
+
+msgctxt "1232_Nomu-san"
+msgid "Well, when we see them on TV, they look so outgoing and flamboyant."
+msgstr ""
+"Beh, quando le vediamo in TV, sembrano così estroverse e appariscenti."
+
+msgctxt "1244_Nomu-san"
+msgid ""
+"But as your rivals on the Princess League, what are they like when you meet "
+"them backstage?"
+msgstr ""
+"Ma in veste di tue rivali nella Princess League, come sono quando le "
+"incontri dietro le quinte?"
+
+msgctxt "1256_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "1268_Nomu-san"
+msgid "Well, come on, say something!"
+msgstr "Beh, dai, di' qualcosa!"
+
+msgctxt "1280_Haruka"
+msgid "Oh! I'm so sorry!"
+msgstr "Oh! Mi dispiace tanto!"
+
+msgctxt "1292_Nomu-san"
+msgid ""
+"That just won't do, Haruka-chan. This is the fifth time you've been on the "
+"show, you know!"
+msgstr ""
+"Così non va bene, Haruka-chan. Questa è la quinta volta che partecipi alla "
+"trasmissione, sai!"
+
+msgctxt "1304_Haruka"
+msgid "They're just as they appear on TV: bright and beautiful."
+msgstr "Sono proprio come appaiono in TV: solari e bellissime."
+
+msgctxt "1316_Studio Audience"
+msgid "Ah!"
+msgstr "Ah!"
+
+msgctxt "1328_Nomu-san"
+msgid "That may be, but I think you're every bit as beautiful, Haruka-chan."
+msgstr "Sarà come dici, ma penso che tu sia altrettanto bella, Haruka-chan."
+
+msgctxt "1340_Haruka"
+msgid "Thank you very much!"
+msgstr "Grazie mille!"
+
+msgctxt "1352_Nomu-san"
+msgid ""
+"I'd certainly be hard-pressed to choose between the two of you, that's for "
+"sure!"
+msgstr "Farei certamente fatica a scegliere tra voi due, poco ma sicuro!"
+
+msgctxt "1364_Studio Audience"
+msgid "What!?"
+msgstr "Cosa!?"
+
+msgctxt "1376_Nomu-san"
+msgid ""
+"I'm kidding! Just joking around! Of course I'd choose you, Haruka-chan."
+msgstr ""
+"Scherzavo! Stavo solo scherzando! Ovviamente sceglierei te, Haruka-chan."
+
+msgctxt "1400_Haruka"
+msgid "To be honest, they're pretty aggressive towards me."
+msgstr "A dire il vero, sono piuttosto aggressive nei miei confronti."
+
+msgctxt "1412_Studio Audience"
+msgid "Ah!"
+msgstr "Ah!"
+
+msgctxt "1424_Nomu-san"
+msgid ""
+"Hold on! Are you really sure you want to say that on-air!? That comment "
+"could get you into some trouble later, you know!"
+msgstr ""
+"Aspetta un attimo! Sei proprio sicura di volerlo dire in diretta!? Quel "
+"commento potrebbe metterti nei guai più tardi, lo sai!"
+
+msgctxt "1436_Haruka"
+msgid "Oh..."
+msgstr "Oh..."
+
+msgctxt "1448_Nomu-san"
+msgid "That's all you have to say!?"
+msgstr "È tutto quello che hai da dire!?"
+
+msgctxt "1472_Haruka"
+msgid "T-Set and I get along great, actually."
+msgstr "In realtà, io e le T-Set andiamo molto d'accordo."
+
+msgctxt "1484_Nomu-san"
+msgid "You mean, you go out to eat together and stuff?"
+msgstr "Vuoi dire che uscite a mangiare insieme e cose del genere?"
+
+msgctxt "1496_Haruka"
+msgid "Well, nothing like that, no."
+msgstr "Beh, niente del genere, no."
+
+msgctxt "1520_dummy"
+msgid "Text each other, then?"
+msgstr "Vi messaggiate, allora?"
+
+msgctxt "1532_Haruka"
+msgid "We don't do that either."
+msgstr "Non facciamo nemmeno quello."
+
+msgctxt "1544_Nomu-san"
+msgid "Hm. Exactly how do you get along, then?"
+msgstr "Hm. Esattamente in che modo andate d'accordo, allora?"
+
+msgctxt "1568_dummy"
+msgid ""
+"Well, folks. It looks like we're just about out of time for today. Thanks "
+"for our chat, Haruka-chan!"
+msgstr ""
+"Bene, gente. Sembra che il nostro tempo a disposizione per oggi sia quasi "
+"finito. Grazie per la chiacchierata, Haruka-chan!"
+
+msgctxt "1580_Studio Audience"
+msgid "Aww!"
+msgstr "Aww!"
+
+msgctxt "1592_Haruka"
+msgid "Thank you very much!"
+msgstr "Grazie mille!"
+
+msgctxt "1604_Nomu-san"
+msgid "And now comes everybody's favorite part! It's time for the smile vote!"
+msgstr ""
+"Ed ora arriva la parte preferita di tutti! È il momento del voto del "
+"sorriso!"
+
+msgctxt "1616_Nomu-san"
+msgid ""
+"Each one of our audience members has a button in front of them. If they "
+"think Haruka-chan has been interesting, they'll press their button and give "
+"her a smile!"
+msgstr ""
+"Ognuno dei membri del nostro pubblico ha un pulsante davanti a sé. Se "
+"pensano che Haruka-chan sia stata interessante, premeranno il pulsante e le "
+"regaleranno un sorriso!"
+
+msgctxt "1628_Nomu-san"
+msgid ""
+"Since this is the last time, if you get 90 smiles or more, I'll give you an "
+"exclusive Nomu-san cell phone strap!"
+msgstr ""
+"Visto che questa è l'ultima volta, se otterrai 90 sorrisi o più, ti regalerò"
+" un esclusivo ciondolo per cellulare di Nomu-san!"
+
+msgctxt "1640_Nomu-san"
+msgid ""
+"Before the voting begins, why don't you go ahead and say something to the "
+"audience?"
+msgstr ""
+"Prima che inizino le votazioni, forza, perché non dici qualcosa al pubblico?"
+
+msgctxt "1652_Haruka"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "1664_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "1676_Nomu-san"
+msgid "Well, come on, say something!"
+msgstr "Beh, dai, di' qualcosa!"
+
+msgctxt "1700_dummy"
+msgid ""
+"Okay! Audience, if you thought Haruka-chan was interesting, press your "
+"button now!"
+msgstr ""
+"Okay! Pubblico, se pensate che Haruka-chan sia stata interessante, premete "
+"il vostro pulsante ora!"
+
+msgctxt "1712_Haruka"
+msgid ""
+"After five times on the show, I'm grateful for all the time we had together!"
+" I hope you vote for me!"
+msgstr ""
+"Dopo essere stata qui per cinque volte, vi sono grata per tutto il tempo "
+"passato insieme! Spero che voterete per me!"
+
+msgctxt "1724_Nomu-san"
+msgid "Yes, thank you for coming on the show so many times!"
+msgstr "Sì, grazie per essere venuta in trasmissione così tante volte!"
+
+msgctxt "1736_Nomu-san"
+msgid ""
+"Okay! Audience, if you thought Haruka-chan was interesting, press your "
+"button now!"
+msgstr ""
+"Okay! Pubblico, se pensate che Haruka-chan sia stata interessante, premete "
+"il vostro pulsante ora!"
+
+msgctxt "1748_Haruka"
+msgid "Thank you, everyone! I hope you vote for me!"
+msgstr "Grazie a tutti! Spero che voterete per me!"
+
+msgctxt "1760_Nomu-san"
+msgid "Isn't she cute? I hope you all vote for her, too!"
+msgstr "Non è carina? Spero che voterete tutti anche per lei!"
+
+msgctxt "1772_Nomu-san"
+msgid ""
+"Okay! Audience, if you thought Haruka-chan was interesting, press your "
+"button now!"
+msgstr ""
+"Okay! Pubblico, se pensate che Haruka-chan sia stata interessante, premete "
+"il vostro pulsante ora!"
+
+msgctxt "1784_Haruka"
+msgid "Please continue to lend me your support!"
+msgstr "Per favore, continuate a sostenermi!"
+
+msgctxt "1796_Nomu-san"
+msgid "Isn't she cute, everybody? I hope you all continue to support her too!"
+msgstr ""
+"Non è carina, gente? Spero che continuerete tutti a sostenerla anche voi!"
+
+msgctxt "1808_Nomu-san"
+msgid ""
+"Okay! Audience, if you thought Haruka-chan was interesting, press your "
+"button now!"
+msgstr ""
+"Okay! Pubblico, se pensate che Haruka-chan sia stata interessante, premete "
+"il vostro pulsante ora!"
+
+msgctxt "1832_dummy"
+msgid "Yeah!"
+msgstr "Sì!"
+
+msgctxt "1844_Nomu-san"
+msgid "Wow! You did it, Haruka! You managed to break 90 smiles!"
+msgstr "Wow! Ce l'hai fatta, Haruka! Sei riuscita a superare i 90 sorrisi!"
+
+msgctxt "1868_dummy"
+msgid "Thank you very much!"
+msgstr "Grazie mille!"
+
+msgctxt "1880_Nomu-san"
+msgid "Congratulations, Haruka-chan, you win the Nomu-san strap!"
+msgstr "Congratulazioni, Haruka-chan, hai vinto il laccetto di Nomu-san!"
+
+msgctxt "1892_dummy"
+msgid "Aww!"
+msgstr "Aww!"
+
+msgctxt "1904_Nomu-san"
+msgid "Ahh. The result wasn't as high as we hoped."
+msgstr "Ahhh. Il risultato non è stato alto come speravamo."
+
+msgctxt "1916_Haruka"
+msgid "Yes. Thank you."
+msgstr "Sì. Grazie."
+
+msgctxt "1928_Nomu-san"
+msgid ""
+"Okay, Haruka-chan. Before we say goodbye, we'd like you to invite a friend "
+"to be our next guest here on the show. Who would you like to invite?"
+msgstr ""
+"Okay, Haruka-chan. Prima di salutarci, vorremmo che invitassi un amico come "
+"nostro prossimo ospite qui nel programma. Chi vorresti invitare?"
+
+msgctxt "1940_Haruka"
+msgid "Let's see. I think I'd like to invite..."
+msgstr "Vediamo. Penso che mi piacerebbe invitare..."
+
+msgctxt "1952_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "1964_Nomu-san"
+msgid "What's the matter? Can you not think of anyone!?"
+msgstr "Che succede? Non ti viene in mente nessuno!?"
+
+msgctxt "1976_Haruka"
+msgid "Oh, I'm sorry! I'd like to invite the T-Set girls!"
+msgstr "Oh, scusate! Vorrei invitare le ragazze delle T-Set!"
+
+msgctxt "1988_Nomu-san"
+msgid "Hmm. Are you sure you're really friends?"
+msgstr "Hmm. Sei sicura che siate davvero amiche?"
+
+msgctxt "2012_Haruka"
+msgid "I think I'd like to invite the P-Set girls."
+msgstr "I think I'd like to invite the P-Set girls."
+
+msgctxt "2024_Nomu-san"
+msgid "P-Set? Uh... Don't you mean T-Set?"
+msgstr "P-Set? Uh... Non intendevi le T-Set?"
+
+msgctxt "2036_Haruka"
+msgid "Oh, I'm so sorry! I meant T-Set!"
+msgstr "Oh, scusatemi tanto! Intendevo le T-Set!"
+
+msgctxt "2048_Nomu-san"
+msgid "Hmm. Are you sure you're really friends?"
+msgstr "Hmm. Sei sicura che siate davvero amiche?"
+
+msgctxt "2072_Haruka"
+msgid "I think I'd like to invite the T-Set girls."
+msgstr "Penso che mi piacerebbe invitare le ragazze delle T-Set."
+
+msgctxt "2084_Studio Audience"
+msgid "Ah!"
+msgstr "Ah!"
+
+msgctxt "2096_Haruka"
+msgid "I think I'd like to invite the T-Pet girls."
+msgstr "Penso che mi piacerebbe invitare le ragazze delle T-Pet."
+
+msgctxt "2108_Nomu-san"
+msgid "T-Pet? Uh... Don't you mean T-Set?"
+msgstr "T-Pet? Uh... Non intendevi le T-Set?"
+
+msgctxt "2120_Haruka"
+msgid "Oh, I'm so sorry! I meant T-Set!"
+msgstr "Oh, scusatemi tanto! Intendevo le T-Set!"
+
+msgctxt "2132_Nomu-san"
+msgid "Hmm. Are you sure you're really friends?"
+msgstr "Hmm. Sei sicura che siate davvero amiche?"
+
+msgctxt "2156_dummy"
+msgid ""
+"All right! You heard it, folks! Our guests next time will be the girls of "
+"T-Set!"
+msgstr ""
+"Bene! L'avete sentito, gente! Le nostre prossime ospiti saranno le ragazze "
+"delle T-Set!"
+
+msgctxt "2168_Nomu-san"
+msgid "Haruka-chan, thank you for coming on our show. And five times at that!"
+msgstr ""
+"Haruka-chan, grazie per essere venuta nel nostro show. E per ben cinque "
+"volte!"
+
+msgctxt "2192_dummy"
+msgid "Thank you very much for having me!"
+msgstr "Grazie mille per avermi ospitata!"
+
+msgctxt "2204_Nomu-san"
+msgid ""
+"Well, until we meet again! What's that we always say? Love to see you..."
+msgstr "Bene, alla prossima! Com'è che diciamo sempre? Vogliamo vedervi..."
+
+msgctxt "2216_Studio Audience"
+msgid "Smile!"
+msgstr "Sorridere!"
+
+msgctxt "2240_dummy"
+msgid "Thank you, everybody!"
+msgstr "Grazie a tutti!"

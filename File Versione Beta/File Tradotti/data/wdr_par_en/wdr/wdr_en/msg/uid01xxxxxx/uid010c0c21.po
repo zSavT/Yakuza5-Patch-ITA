@@ -1,0 +1,604 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "160"
+msgid "You got <Color:8>PrintCircle Book<Color:Default>."
+msgstr "Hai ottenuto <Color:8>PrintCircle Book<Color:Default>."
+
+msgctxt "304"
+msgid "You got <Color:8>PrintCircle Book<Color:Default>."
+msgstr "Hai ottenuto <Color:8>PrintCircle Book<Color:Default>."
+
+msgctxt "436"
+msgid "You got <Color:8>PrintCircle Book<Color:Default>."
+msgstr "Hai ottenuto <Color:8>PrintCircle Book<Color:Default>."
+
+msgctxt "1588"
+msgid "You got <Color:8>PrintCircle Book<Color:Default>."
+msgstr "Hai ottenuto <Color:8>PrintCircle Book<Color:Default>."
+
+msgctxt "34536"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "34540"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "34544"
+msgid "PrintCircle Book"
+msgstr "Libro del Cerchio di Stampa"
+
+msgctxt "34548"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "34552"
+msgid "Take Photos"
+msgstr "Scatta foto"
+
+msgctxt "34556"
+msgid "Don't Take Photos"
+msgstr "Non scattare foto"
+
+msgctxt "34560"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "34564"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "34568"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "34572"
+msgid "Honoka"
+msgstr "Honoka"
+
+msgctxt "34576"
+msgid "Riku"
+msgstr "Riku"
+
+msgctxt "34580"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "34584"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "34588"
+msgid "Kaguya"
+msgstr "Kaguya"
+
+msgctxt "34592"
+msgid "Shion"
+msgstr "Shion"
+
+msgctxt "34596"
+msgid "Hinata"
+msgstr "Hinata"
+
+msgctxt "34600"
+msgid "Invite Someone"
+msgstr "Invita qualcuno"
+
+msgctxt "34604"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "34608"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "34612"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "34616"
+msgid "Nobody"
+msgstr "Nessuno"
+
+msgctxt "124_Player"
+msgid "(This was fun. Maybe I'll do something else now.)"
+msgstr "(È stato divertente. Magari faccio qualcos'altro adesso.)"
+
+msgctxt "148_Player"
+msgid "A photo booth, huh? And I just so happen to have a photo book with me."
+msgstr "Una cabina fotografica, eh? E guarda caso ho un fotolibro con me."
+
+msgctxt "184_Player"
+msgid ""
+"You can paste up to 4 photos in your photo book. If you wish to add more, "
+"you will need to replace an existing photo."
+msgstr ""
+"Puoi incollare fino a 4 foto nel tuo fotolibro. Se vuoi aggiungerne altre, "
+"dovrai sostituire una foto esistente."
+
+msgctxt "196_Player"
+msgid "Uncle Kaz! Let's try out the photo booth!"
+msgstr "Zio Kaz! Proviamo la cabina fotografica!"
+
+msgctxt "208_Player"
+msgid ""
+"(A photo booth, huh? 400 yen for a session. Maybe I should get some pictures"
+" taken?)"
+msgstr ""
+"(Una cabina fotografica, eh? 400 yen per una sessione. Magari dovrei farmi "
+"delle foto?)"
+
+msgctxt "232_Player"
+msgid "(I don't have the money.)"
+msgstr "(Non ho i soldi.)"
+
+msgctxt "244_Player"
+msgid "(Maybe not.)"
+msgstr "(Forse no.)"
+
+msgctxt "256_Player"
+msgid "(Sure, let's give it a go.)"
+msgstr "(Certo, proviamoci.)"
+
+msgctxt "292_Player"
+msgid "A photo booth, huh? And I just so happen to have a photo book with me."
+msgstr "Una cabina fotografica, eh? E guarda caso ho un fotolibro con me."
+
+msgctxt "328_Player"
+msgid ""
+"You can paste up to 4 photos in your photo book. If you wish to add more, "
+"you will need to replace an existing photo."
+msgstr ""
+"Puoi incollare fino a 4 foto nel tuo fotolibro. Se vuoi aggiungerne altre, "
+"dovrai sostituire una foto esistente."
+
+msgctxt "340_Player"
+msgid ""
+"(A photo booth, huh? 400 yen for a session. Maybe Haruka and I should give "
+"it a try?)"
+msgstr ""
+"(Una cabina fotografica, eh? 400 yen per una sessione. Magari io e Haruka "
+"dovremmo provarci?)"
+
+msgctxt "364_Player"
+msgid "(I don't have the money.)"
+msgstr "(Non ho i soldi.)"
+
+msgctxt "376_Player"
+msgid "(Maybe not.)"
+msgstr "(Forse no.)"
+
+msgctxt "388_Player"
+msgid "(Sure, let's give it a go.)"
+msgstr "(Certo, proviamoci.)"
+
+msgctxt "424_Player"
+msgid "A photo booth, huh? And I just so happen to have a photo book with me."
+msgstr "Una cabina fotografica, eh? E guarda caso ho un fotolibro con me."
+
+msgctxt "460_Player"
+msgid ""
+"You can paste up to 4 photos in your photo book. If you wish to add more, "
+"you will need to replace an existing photo."
+msgstr ""
+"Puoi incollare fino a 4 foto nel tuo fotolibro. Se vuoi aggiungerne altre, "
+"dovrai sostituire una foto esistente."
+
+msgctxt "472_Player"
+msgid ""
+"Let's do the photo booth! I like the \"Wanted\" frame! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Facciamo la cabina fotografica! Mi piace la cornice \"Wanted\"! "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "484_Player"
+msgid ""
+"(A photo booth, huh? 400 yen for a session. Maybe I should get some pictures"
+" taken?)"
+msgstr ""
+"(Una cabina fotografica, eh? 400 yen per una sessione. Magari mi faccio fare"
+" qualche foto?)"
+
+msgctxt "508_Player"
+msgid "(I don't have the money.)"
+msgstr "(Non ho i soldi.)"
+
+msgctxt "520_Player"
+msgid "(Maybe not.)"
+msgstr "(Forse no.)"
+
+msgctxt "532_Player"
+msgid "(Sure, let's give it a go.)"
+msgstr "(Certo, proviamoci.)"
+
+msgctxt "580_Riku"
+msgid "Those pics came out wicked good!"
+msgstr "Quelle foto sono venute pazzesche!"
+
+msgctxt "592_Riku"
+msgid "Hmm. These didn't turn out so hot, huh?"
+msgstr "Hmm. Questi non sono venuti mica un granché, eh?"
+
+msgctxt "604_Riku"
+msgid "What did ya even call me out for? You meanie!"
+msgstr "Che diavolo mi hai chiamato a fare? Brutto cattivo!"
+
+msgctxt "664_Riku"
+msgid ""
+"That was wicked fun! I'm headin' back to Hakata now! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"È stato uno spasso! Me ne torno ad Hakata adesso! "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "712_Riku"
+msgid ""
+"That was wicked fun! Call me again anytime! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"È stato uno spasso! Richiamami quando vuoi! "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "772_Honoka"
+msgid "Hey, these came out pretty good!"
+msgstr "Ehi, queste sono venute proprio bene!"
+
+msgctxt "784_Honoka"
+msgid "Aw, these didn't turn out so great."
+msgstr "Ah, questi non sono venuti mica un granché."
+
+msgctxt "796_Honoka"
+msgid "Really!? Why'd ya even call me?"
+msgstr "Davvero!? Che diavolo mi hai chiamato a fare?"
+
+msgctxt "856_Honoka"
+msgid ""
+"That was a lotta fun! Gimme a call again, okay? "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"È stato uno spasso! Richiamami, ok? <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "904_Honoka"
+msgid ""
+"That was a lotta fun! I'm gonna head back to Tokyo now. "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"È stato uno spasso! Me ne torno a Tokyo adesso. "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "964_Kaguya"
+msgid "Oh, those came out nice!"
+msgstr "Oh, sono venuti proprio bene!"
+
+msgctxt "976_Kaguya"
+msgid "These didn't come out all that well."
+msgstr "Questi non sono venuti un granché."
+
+msgctxt "988_Kaguya"
+msgid ""
+"What? You called me out here and now we're not even going to take pictures? "
+"I should have just stayed in bed."
+msgstr ""
+"Cosa? Mi hai fatto venire fin qui e adesso non facciamo nemmeno le foto? "
+"Sarei dovuto starmene a letto."
+
+msgctxt "1048_Kaguya"
+msgid ""
+"That was a lot of fun! I need to head back home now. "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"È stato uno spasso! Me ne torno a casa adesso. "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "1096_Kaguya"
+msgid ""
+"That was a lot of fun! Please give me a call again! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"È stato uno spasso! Richiamami ancora! "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "1156_Shion"
+msgid "Those turned out lovely!"
+msgstr "Sono venuti una meraviglia!"
+
+msgctxt "1168_Shion"
+msgid "Oh, I don't think we did a good job, here."
+msgstr "Oh, non credo che abbiamo fatto mica un gran lavoro, qui."
+
+msgctxt "1180_Shion"
+msgid ""
+"What's the meaning of this? You made me come all the way out here, and we're"
+" not taking any pictures?"
+msgstr ""
+"Ma che significa? Mi hai fatto venire fin qui, e non facciamo nemmeno le "
+"foto?"
+
+msgctxt "1240_Shion"
+msgid ""
+"That was quite fun! I'll be heading back to Nagoya now. "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"È stato uno spasso! Me ne torno a Nagoya adesso. "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "1288_Shion"
+msgid ""
+"That was quite fun! Please, call me again whenever you'd like! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"È stato uno spasso! Per favore, richiamami quando vuoi! "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "1348_Hinata"
+msgid "Ahaha! Oh, those came out awesome!"
+msgstr "Ahaha! Oh, sono venuti una figata!"
+
+msgctxt "1360_Hinata"
+msgid "Aww, these pics aren't so great."
+msgstr "Ah, queste foto non sono un granché."
+
+msgctxt "1372_Hinata"
+msgid ""
+"I came all this way and we're not even getting pictures taken? I seriously "
+"don't get you."
+msgstr ""
+"Sono venuta fin qui e non facciamo nemmeno le foto? Non ti capisco proprio."
+
+msgctxt "1432_Hinata"
+msgid ""
+"That was loads of fun! Please ask me out again! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"È stato uno spasso! Invita-mi ancora! "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "1480_Kiryu"
+msgid "We'll have to take some more sometime."
+msgstr "Ci toccherà farne altre un'altra volta."
+
+msgctxt "1576_Player"
+msgid "A photo booth, huh? And I just so happen to have a photo book with me."
+msgstr ""
+"Una cabina fotografica, eh? E guarda un po', mi porto dietro proprio un "
+"fotolibro."
+
+msgctxt "1612_Player"
+msgid ""
+"You can paste up to 4 photos in your photo book. If you wish to add more, "
+"you will need to replace an existing photo."
+msgstr ""
+"Puoi incollare fino a 4 foto nel tuo fotolibro. Se vuoi aggiungerne altre, "
+"dovrai sostituire una foto esistente."
+
+msgctxt "1624_Player"
+msgid ""
+"(A photo booth, huh? 400 yen for a session. Maybe I should get some pictures"
+" taken?)"
+msgstr ""
+"Una cabina fotografica, eh? 400 yen per una sessione. Magari mi faccio "
+"qualche foto?"
+
+msgctxt "1660_Kiryu"
+msgid "(I don't have the money.)"
+msgstr "(Non ho i soldi.)"
+
+msgctxt "1672_Akiyama"
+msgid "(I don't have the money.)"
+msgstr "(Non ho i soldi.)"
+
+msgctxt "1684_Saejima"
+msgid "(I ain't got the money.)"
+msgstr "(Non ho i soldi.)"
+
+msgctxt "1696_Shinada"
+msgid "(I don't have enough money.)"
+msgstr "(Non ho abbastanza soldi.)"
+
+msgctxt "1708_Haruka"
+msgid "(I don't have enough money.)"
+msgstr "(Non ho abbastanza soldi.)"
+
+msgctxt "1744_Kiryu"
+msgid "(Sure, let's give it a go.)"
+msgstr "(Certo, proviamoci.)"
+
+msgctxt "1756_Akiyama"
+msgid "(All right, let's give it a try.)"
+msgstr "(Va bene, proviamoci.)"
+
+msgctxt "1768_Saejima"
+msgid "(Yeah, let's give this a go.)"
+msgstr "(Sì, proviamoci.)"
+
+msgctxt "1780_Shinada"
+msgid "(Okay, let's do this.)"
+msgstr "(Va bene, facciamolo.)"
+
+msgctxt "1792_Haruka"
+msgid "(All righty, here we go!)"
+msgstr "(Va bene, eccoci!)"
+
+msgctxt "1828_Kiryu"
+msgid "(Maybe not...)"
+msgstr "(Forse no...)"
+
+msgctxt "1840_Akiyama"
+msgid "(No, let's not.)"
+msgstr "(No, lasciamo stare.)"
+
+msgctxt "1852_Saejima"
+msgid "(Nah, better not.)"
+msgstr "(No, lasciamo stare.)"
+
+msgctxt "1864_Shinada"
+msgid "(Maybe not.)"
+msgstr "(Forse no.)"
+
+msgctxt "1876_Haruka"
+msgid "(Maybe next time.)"
+msgstr "(Magari la prossima volta.)"
+
+msgctxt "1900_Player"
+msgid "(Who should I call?)"
+msgstr "(Chi dovrei chiamare?)"
+
+msgctxt "1924_Player"
+msgid "(I'll call up Riku.)"
+msgstr "(Chiamo Riku.)"
+
+msgctxt "1936_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "1996_Riku"
+msgid ""
+"Sorry to keep ya waitin'! <Color:255,200,200,255>♥<Color:Default> So, "
+"y'wanted to do the photo booth with me, Kiryu-san?"
+msgstr ""
+"Scusa per l'attesa! <Color:255,200,200,255>♥<Color:Default> Allora, volevi "
+"fare la cabina fotografica con me, Kiryu-san?"
+
+msgctxt "2008_Player"
+msgid "Shall we get started?"
+msgstr "Iniziamo?"
+
+msgctxt "2032_Player"
+msgid "(Guess I'll give Kaguya a call.)"
+msgstr "(Penso che chiamerò Kaguya.)"
+
+msgctxt "2044_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "2104_Kaguya"
+msgid ""
+"Sorry to keep you waiting! I didn't know you liked this sort of thing, "
+"Saejima-san! <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Scusa per l'attesa! Non sapevo ti piacesse questo genere di cose, Saejima-"
+"san! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "2116_Player"
+msgid "Yeah, well, wanna do this?"
+msgstr "Sì, beh, ci stai?"
+
+msgctxt "2140_Player"
+msgid "(I should give Honoka-chan a call.)"
+msgstr "(Dovrei chiamare Honoka-chan.)"
+
+msgctxt "2224_Honoka"
+msgid ""
+"Sorry for the wait! This was outta the blue, Akiyama-san. So, ya wanna take "
+"some photo booth pics with me, huh?"
+msgstr ""
+"Scusa per l'attesa! Questa mi è piovuta dal cielo, Akiyama-san. Allora, vuoi"
+" fare delle foto alla cabina fotografica con me, eh?"
+
+msgctxt "2236_Player"
+msgid "Yeah. Shall we get started?"
+msgstr "Sì. Iniziamo?"
+
+msgctxt "2248_Honoka"
+msgid ""
+"Are ya kiddin' me!? You're the one who said ya needed my help at yer club in"
+" Kamurocho! Why'd ya call me back to Osaka?"
+msgstr ""
+"Ma mi stai prendendo in giro!? Sei tu quello che ha detto che ti serviva una"
+" mano al tuo club a Kamurocho! Perché mi hai richiamato a Osaka?"
+
+msgctxt "2260_Player"
+msgid ""
+"Haha, that's my bad. It's just that there are limited-edition frames that "
+"are only available here."
+msgstr ""
+"Haha, colpa mia. È solo che ci sono cornici in edizione limitata disponibili"
+" solo qui."
+
+msgctxt "2284_Player"
+msgid "(Maybe I should give Shion-chan a call.)"
+msgstr "(Magari dovrei chiamare Shion-chan.)"
+
+msgctxt "2296_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "2356_Shion"
+msgid ""
+"Apologies for the delay, Shinada-san! This was all just a little out of the "
+"blue. Are you that eager for me to join you in the photo booth?"
+msgstr ""
+"Scusa per l'attesa, Shinada-san! Questa mi è piovuta dal cielo un po' "
+"all'improvviso. Ma sei così smanioso che ti raggiunga alla cabina "
+"fotografica?"
+
+msgctxt "2368_Player"
+msgid ""
+"Hehe, yeah. <Color:255,200,200,255>♥<Color:Default> Well, want to get "
+"started?"
+msgstr "Hehe, sì. <Color:255,200,200,255>♥<Color:Default> Beh, iniziamo?"
+
+msgctxt "2404_Player"
+msgid "(I'll give Hinata a call.)"
+msgstr "(Chiamo Hinata.)"
+
+msgctxt "2416_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "2476_Hinata"
+msgid ""
+"Sorry to keep you waiting! You know, Kiryu-san, I'd never have pegged you as"
+" a photo booth guy. <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Scusa per l'attesa! Sai, Kiryu-san, non ti avrei mai preso per il tipo da "
+"cabina fotografica. <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "2488_Player"
+msgid "Heh. Well, want to get started?"
+msgstr "Heh. Allora, iniziamo?"
+
+msgctxt "2512_Player"
+msgid "(I'll give Hinata-chan a call.)"
+msgstr "(Chiamo Hinata-chan.)"
+
+msgctxt "2524_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "2584_Hinata"
+msgid "Sorry to keep you waiting."
+msgstr "Scusa se ti ho fatto aspettare."
+
+msgctxt "2596_Player"
+msgid "It's all right. Shall we begin?"
+msgstr "Va bene. Iniziamo?"
+
+msgctxt "2620_Player"
+msgid "(I should call Uncle Kaz.)"
+msgstr "(Magari dovrei chiamare Zio Kaz.)"
+
+msgctxt "2632_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "2704_Kiryu"
+msgid "Sorry for the wait."
+msgstr "Scusa per l'attesa."
+
+msgctxt "2716_Player"
+msgid "Aw, it's fine! Come on, let's get started!"
+msgstr "Ma va, è tutto a posto! Dai, iniziamo!"

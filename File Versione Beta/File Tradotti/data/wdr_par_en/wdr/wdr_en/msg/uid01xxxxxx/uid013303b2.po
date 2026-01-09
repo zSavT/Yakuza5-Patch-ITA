@@ -1,0 +1,781 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "20084"
+msgid "Shinada"
+msgstr "Shinada"
+
+msgctxt "20088"
+msgid "adv4_195/shinada_0259"
+msgstr "adv4_195/shinada_0259"
+
+msgctxt "20092"
+msgid "Manabe"
+msgstr "Manabe"
+
+msgctxt "20096"
+msgid "adv4_195/manabe_0001"
+msgstr "adv4_195/manabe_0001"
+
+msgctxt "20100"
+msgid "C4195_MNB_TLK_meat_cut_look"
+msgstr "C4195_MNB_TLK_meat_cut_look"
+
+msgctxt "20104"
+msgid "adv4_195/shinada_0260"
+msgstr "adv4_195/shinada_0260"
+
+msgctxt "20108"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "20112"
+msgid "adv4_195/manabe_0002"
+msgstr "adv4_195/manabe_0002"
+
+msgctxt "20116"
+msgid "adv4_195/shinada_0261"
+msgstr "adv4_195/shinada_0261"
+
+msgctxt "20120"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "20124"
+msgid "adv4_195/manabe_0003"
+msgstr "adv4_195/manabe_0003"
+
+msgctxt "20128"
+msgid "Takasugi"
+msgstr "Takasugi"
+
+msgctxt "20132"
+msgid "adv4_195/takasugi_0077a"
+msgstr "adv4_195/takasugi_0077a"
+
+msgctxt "20136"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "20140"
+msgid "adv4_195/takasugi_0077b"
+msgstr "adv4_195/takasugi_0077b"
+
+msgctxt "20144"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "20148"
+msgid "adv4_195/manabe_0004"
+msgstr "adv4_195/manabe_0004"
+
+msgctxt "20152"
+msgid "adv4_195/takasugi_0078"
+msgstr "adv4_195/takasugi_0078"
+
+msgctxt "20156"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "20160"
+msgid "adv4_195/shinada_0262"
+msgstr "adv4_195/shinada_0262"
+
+msgctxt "20164"
+msgid "adv4_195/manabe_0005"
+msgstr "adv4_195/manabe_0005"
+
+msgctxt "20168"
+msgid "adv4_195/takasugi_0079"
+msgstr "adv4_195/takasugi_0079"
+
+msgctxt "20172"
+msgid "adv4_195/manabe_0006"
+msgstr "adv4_195/manabe_0006"
+
+msgctxt "20176"
+msgid "adv4_195/takasugi_0080"
+msgstr "adv4_195/takasugi_0080"
+
+msgctxt "20180"
+msgid "kaiwabgm_fuon02"
+msgstr "kaiwabgm_fuon02"
+
+msgctxt "20184"
+msgid "C4195_MNB_TLK_meat_cut_kamae"
+msgstr "C4195_MNB_TLK_meat_cut_kamae"
+
+msgctxt "20188"
+msgid "adv4_195/shinada_0263"
+msgstr "adv4_195/shinada_0263"
+
+msgctxt "20192"
+msgid "C4195_MNB_TLK_odosu_st"
+msgstr "C4195_MNB_TLK_odosu_st"
+
+msgctxt "20196"
+msgid "adv4_195/manabe_0007"
+msgstr "adv4_195/manabe_0007"
+
+msgctxt "20200"
+msgid "adv4_195/takasugi_0081"
+msgstr "adv4_195/takasugi_0081"
+
+msgctxt "20204"
+msgid "adv4_195/manabe_0008"
+msgstr "adv4_195/manabe_0008"
+
+msgctxt "20208"
+msgid "adv4_195/shinada_0264"
+msgstr "adv4_195/shinada_0264"
+
+msgctxt "20212"
+msgid "adv4_195/manabe_0009"
+msgstr "adv4_195/manabe_0009"
+
+msgctxt "20216"
+msgid "adv4_195/shinada_0265a"
+msgstr "adv4_195/shinada_0265a"
+
+msgctxt "20220"
+msgid "adv4_195/shinada_0265b"
+msgstr "adv4_195/shinada_0265b"
+
+msgctxt "20224"
+msgid "adv4_195/manabe_0010"
+msgstr "adv4_195/manabe_0010"
+
+msgctxt "20228"
+msgid "adv4_195/shinada_0266a"
+msgstr "adv4_195/shinada_0266a"
+
+msgctxt "20232"
+msgid "adv4_195/shinada_0266b"
+msgstr "adv4_195/shinada_0266b"
+
+msgctxt "20236"
+msgid "0"
+msgstr "0"
+
+msgctxt "20240"
+msgid "adv4_195/manabe_0011"
+msgstr "adv4_195/manabe_0011"
+
+msgctxt "20244"
+msgid "adv4_200/manabe_0012"
+msgstr "adv4_200/manabe_0012"
+
+msgctxt "20248"
+msgid "kaiwabgm_fuon03"
+msgstr "kaiwabgm_fuon03"
+
+msgctxt "20252"
+msgid "adv4_200/manabe_0013a"
+msgstr "adv4_200/manabe_0013a"
+
+msgctxt "20256"
+msgid "adv4_200/manabe_0013b"
+msgstr "adv4_200/manabe_0013b"
+
+msgctxt "20260"
+msgid "adv4_200/manabe_0013c"
+msgstr "adv4_200/manabe_0013c"
+
+msgctxt "20264"
+msgid "adv4_200/manabe_0013d"
+msgstr "adv4_200/manabe_0013d"
+
+msgctxt "20268"
+msgid "Talk_Cry"
+msgstr "Talk_Cry"
+
+msgctxt "20272"
+msgid "adv4_200/shinada_0267a"
+msgstr "adv4_200/shinada_0267a"
+
+msgctxt "20276"
+msgid "adv4_200/shinada_0267b"
+msgstr "adv4_200/shinada_0267b"
+
+msgctxt "20280"
+msgid "adv4_200/manabe_0014"
+msgstr "adv4_200/manabe_0014"
+
+msgctxt "20284"
+msgid "adv4_200/takasugi_0082"
+msgstr "adv4_200/takasugi_0082"
+
+msgctxt "20288"
+msgid "adv4_200/manabe_0015"
+msgstr "adv4_200/manabe_0015"
+
+msgctxt "20292"
+msgid "adv4_200/shinada_0268"
+msgstr "adv4_200/shinada_0268"
+
+msgctxt "20296"
+msgid "adv4_200/manabe_0016a"
+msgstr "adv4_200/manabe_0016a"
+
+msgctxt "20300"
+msgid "adv4_200/manabe_0016b"
+msgstr "adv4_200/manabe_0016b"
+
+msgctxt "20304"
+msgid "adv4_200/shinada_0269"
+msgstr "adv4_200/shinada_0269"
+
+msgctxt "20308"
+msgid "adv4_200/manabe_0017a"
+msgstr "adv4_200/manabe_0017a"
+
+msgctxt "20312"
+msgid "adv4_200/manabe_0017b"
+msgstr "adv4_200/manabe_0017b"
+
+msgctxt "20316"
+msgid "adv4_200/takasugi_0083"
+msgstr "adv4_200/takasugi_0083"
+
+msgctxt "20320"
+msgid "adv4_200/manabe_0018"
+msgstr "adv4_200/manabe_0018"
+
+msgctxt "20324"
+msgid "adv4_200/manabe_0019"
+msgstr "adv4_200/manabe_0019"
+
+msgctxt "20328"
+msgid "adv4_200/takasugi_0084"
+msgstr "adv4_200/takasugi_0084"
+
+msgctxt "20332"
+msgid "adv4_200/manabe_0020"
+msgstr "adv4_200/manabe_0020"
+
+msgctxt "20336"
+msgid "adv4_200/shinada_0270a"
+msgstr "adv4_200/shinada_0270a"
+
+msgctxt "20340"
+msgid "adv4_200/shinada_0270b"
+msgstr "adv4_200/shinada_0270b"
+
+msgctxt "20344"
+msgid "adv4_200/takasugi_0085a"
+msgstr "adv4_200/takasugi_0085a"
+
+msgctxt "20348"
+msgid "adv4_200/takasugi_0085b"
+msgstr "adv4_200/takasugi_0085b"
+
+msgctxt "20352"
+msgid "adv4_200/manabe_0021"
+msgstr "adv4_200/manabe_0021"
+
+msgctxt "20356"
+msgid "adv4_200/shinada_0271"
+msgstr "adv4_200/shinada_0271"
+
+msgctxt "20360"
+msgid "adv4_200/manabe_0022a"
+msgstr "adv4_200/manabe_0022a"
+
+msgctxt "20364"
+msgid "adv4_200/manabe_0022b"
+msgstr "adv4_200/manabe_0022b"
+
+msgctxt "20368"
+msgid "adv4_200/shinada_0272"
+msgstr "adv4_200/shinada_0272"
+
+msgctxt "20372"
+msgid "adv4_200/manabe_0023a"
+msgstr "adv4_200/manabe_0023a"
+
+msgctxt "20376"
+msgid "adv4_200/manabe_0023b"
+msgstr "adv4_200/manabe_0023b"
+
+msgctxt "20380"
+msgid "adv4_200/takasugi_0086"
+msgstr "adv4_200/takasugi_0086"
+
+msgctxt "20384"
+msgid "adv4_200/shinada_0273"
+msgstr "adv4_200/shinada_0273"
+
+msgctxt "20388"
+msgid "adv4_200/manabe_0024"
+msgstr "adv4_200/manabe_0024"
+
+msgctxt "20392"
+msgid "adv4_200/shinada_0274a"
+msgstr "adv4_200/shinada_0274a"
+
+msgctxt "20396"
+msgid "adv4_200/shinada_0274b"
+msgstr "adv4_200/shinada_0274b"
+
+msgctxt "20400"
+msgid "adv4_200/manabe_0025a"
+msgstr "adv4_200/manabe_0025a"
+
+msgctxt "20404"
+msgid "adv4_200/manabe_0025b"
+msgstr "adv4_200/manabe_0025b"
+
+msgctxt "20408"
+msgid "adv4_200/shinada_0275"
+msgstr "adv4_200/shinada_0275"
+
+msgctxt "20412"
+msgid "adv4_200/manabe_0026a"
+msgstr "adv4_200/manabe_0026a"
+
+msgctxt "20416"
+msgid "adv4_200/manabe_0026b"
+msgstr "adv4_200/manabe_0026b"
+
+msgctxt "20420"
+msgid "adv4_200/shinada_0276"
+msgstr "adv4_200/shinada_0276"
+
+msgctxt "20424"
+msgid "Customer"
+msgstr "Cliente"
+
+msgctxt "20428"
+msgid "adv4_200/mana_guest_0001"
+msgstr "adv4_200/mana_guest_0001"
+
+msgctxt "20432"
+msgid "ArmsID"
+msgstr "ID Armi"
+
+msgctxt "20436"
+msgid "adv4_200/manabe_0027"
+msgstr "adv4_200/manabe_0027"
+
+msgctxt "20440"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "44_Shinada"
+msgid "Manabe-san?"
+msgstr "Manabe-san?"
+
+msgctxt "56_Manabe"
+msgid "Huh? Who're you? Can't just have people wandering into my kitchen..."
+msgstr ""
+"Eh? E tu chi sei? Non posso mica far gironzolare la gente nella mia "
+"cucina..."
+
+msgctxt "68_Shinada"
+msgid ""
+"You don't remember? Guess you wouldn't. After all, we only shared the same "
+"bench for one day. No wonder you forgot."
+msgstr ""
+"Non ti ricordi? Immagino di no. Dopotutto, abbiamo diviso la stessa panchina"
+" solo per un giorno. Non mi stupisce che tu te ne sia dimenticato."
+
+msgctxt "80_Manabe"
+msgid "You're... Shinada?"
+msgstr "Sei... Shinada?"
+
+msgctxt "92_Shinada"
+msgid "So you do remember. I'm honored."
+msgstr "Allora ti ricordi. Ne sono onorato."
+
+msgctxt "104_Manabe"
+msgid ""
+"I could barely recognize ya, what with that scruffy look.\r\n"
+"But I couldn't forget you even if I tried."
+msgstr ""
+"Facevo fatica a riconoscerti, con quell'aria trasandata.\n"
+"Ma non potrei dimenticarti nemmeno se ci provassi."
+
+msgctxt "116_Takasugi"
+msgid "And what is that supposed to mean?"
+msgstr "E che cosa vorrebbe dire?"
+
+msgctxt "128_Takasugi"
+msgid ""
+"I know it ain't his extensive batting record that sticks out in your mind."
+msgstr ""
+"So bene che non è per il suo strabiliante record in battuta che ti è rimasto"
+" impresso."
+
+msgctxt "140_Manabe"
+msgid "And you are?"
+msgstr "E tu sei?"
+
+msgctxt "152_Takasugi"
+msgid "An acquaintance. Nothing to shit your pants over."
+msgstr "Un conoscente. Niente per cui farsela sotto."
+
+msgctxt "164_Shinada"
+msgid ""
+"Manabe-san, I don't mean to bother you at work, but I need to ask you "
+"something."
+msgstr ""
+"Manabe-san, non voglio disturbarti mentre lavori, ma devo chiederti una "
+"cosa."
+
+msgctxt "176_Manabe"
+msgid "About what? To be blunt, I'd rather ya get the hell out."
+msgstr ""
+"Riguardo a cosa? A essere schietto, preferirei che te ne andassi fuori dai "
+"piedi."
+
+msgctxt "188_Takasugi"
+msgid ""
+"Hey now, is that how you treat a teammate you haven't seen in fifteen years?"
+msgstr ""
+"Ehi, andiamo, è così che tratti un compagno di squadra che non vedi da "
+"quindici anni?"
+
+msgctxt "200_Manabe"
+msgid "......"
+msgstr "......"
+
+msgctxt "212_Takasugi"
+msgid ""
+"Or is there something you don't want him finding out? Maybe... something "
+"along the lines of match fixing?"
+msgstr ""
+"O c'è qualcosa che non vuoi che scopra? Magari... qualcosa tipo delle "
+"partite truccate?"
+
+msgctxt "224_Shinada"
+msgid "Whoa!"
+msgstr "Whoa!"
+
+msgctxt "236_Manabe"
+msgid "Say those words again, and I'll make sure they'll be your last."
+msgstr "Ripeti ancora quelle parole e farò in modo che siano le tue ultime."
+
+msgctxt "248_Takasugi"
+msgid ""
+"And then he pulls out a knife. Suspicious doesn't even\r\n"
+"begin to describe you by this point."
+msgstr ""
+"E ora tira fuori pure un coltello. Definirti sospetto è dir poco,\n"
+"arrivati a questo punto."
+
+msgctxt "260_Manabe"
+msgid "...Did Uno tell ya?"
+msgstr "...Te l'ha detto Uno?"
+
+msgctxt "272_Shinada"
+msgid "Yes."
+msgstr "Sì."
+
+msgctxt "284_Manabe"
+msgid "And ya want me to clear up what happened fifteen years ago?"
+msgstr "E vorresti che facessi luce su cos'è successo quindici anni fa?"
+
+msgctxt "296_Shinada"
+msgid ""
+"Yes. But I will say, I don't believe we'd ever take part in match fixing."
+msgstr ""
+"Sì. Ma lasciatelo dire, non credo che avremmo mai preso parte a delle "
+"partite truccate."
+
+msgctxt "308_Shinada"
+msgid "And I wasn't stealing signs to begin with."
+msgstr "E tanto per cominciare, non stavo rubando i segnali."
+
+msgctxt "320_Manabe"
+msgid "Then what do you wanna ask me?"
+msgstr "Allora cosa vuoi chiedermi?"
+
+msgctxt "332_Shinada"
+msgid "I just need confirmation."
+msgstr "Mi serve solo una conferma."
+
+msgctxt "344_Shinada"
+msgid ""
+"I want to hear it from you, a core player with the Wyverns\r\n"
+"I knew, that there was no match fixing. That's all."
+msgstr ""
+"Voglio sentirlo dire da te, un giocatore chiave dei Wyverns\n"
+"Sapevo che non c'erano partite truccate. Tutto qui."
+
+msgctxt "356_Manabe"
+msgid "I'll tell ya. But don't go prying any deeper into this. Got it?"
+msgstr ""
+"Te lo dirò. Ma non metterti a scavare più a fondo in questa faccenda. "
+"Chiaro?"
+
+msgctxt "368_Manabe"
+msgid "Not all games... were legit."
+msgstr "Non tutte le partite... erano regolari."
+
+msgctxt "380_Shinada"
+msgid "(No!)"
+msgstr "(No!)"
+
+msgctxt "392_Manabe"
+msgid "I dunno who was sendin' instructions."
+msgstr "Non so chi mandasse le istruzioni."
+
+msgctxt "404_Manabe"
+msgid ""
+"But I was gettin' texts left and right, orderin' me to steal signs and throw"
+" games."
+msgstr ""
+"Ma ricevevo messaggi a destra e a manca che mi ordinavano di rubare i "
+"segnali e vendermi le partite."
+
+msgctxt "416_Manabe"
+msgid "Players who disobeyed were shuffled off the team within months."
+msgstr ""
+"I giocatori che non ubbidivano venivano sbattuti fuori dalla squadra nel "
+"giro di pochi mesi."
+
+msgctxt "428_Manabe"
+msgid ""
+"We only kept followin' those orders so we could keep playin' in the big "
+"leagues."
+msgstr ""
+"Abbiamo continuato a seguire quegli ordini solo per poter continuare a "
+"giocare nella massima serie."
+
+msgctxt "440_Shinada"
+msgid "No way..."
+msgstr "Non è possibile..."
+
+msgctxt "452_Shinada"
+msgid ""
+"I was with the team a long time, but I never heard anything like that..."
+msgstr ""
+"Sono rimasto in squadra per un sacco di tempo, ma non ho mai sentito nulla "
+"del genere..."
+
+msgctxt "464_Manabe"
+msgid ""
+"You were only with the big club a day. Nobody but the starters were gettin' "
+"instructions to cheat."
+msgstr ""
+"Sei rimasto in prima squadra solo un giorno. Nessuno a parte i titolari "
+"riceveva istruzioni per barare."
+
+msgctxt "476_Takasugi"
+msgid "Heh. You're just giving us one juicy morsel after another, eh?"
+msgstr "Heh. Ci stai servendo un bocconcino succulento dopo l'altro, eh?"
+
+msgctxt "488_Manabe"
+msgid "Baseball's a lot like meat, y'know."
+msgstr "Il baseball è un po' come la carne, sai."
+
+msgctxt "500_Shinada"
+msgid "......"
+msgstr "......"
+
+msgctxt "512_Manabe"
+msgid ""
+"When servin' meat to customers, someone in the back has to rip out the "
+"blood, guts, and ugly shit that ain't fit to eat first."
+msgstr ""
+"Quando servi la carne ai clienti, qualcuno nel retro deve prima tirar fuori "
+"il sangue, le budella e tutta quella merda schifosa che non si può mangiare."
+
+msgctxt "524_Manabe"
+msgid ""
+"Only after all that effort do the clean and pretty parts reach the table."
+msgstr ""
+"Solo dopo tutta quella fatica le parti belle e pulite arrivano in tavola."
+
+msgctxt "536_Shinada"
+msgid "......"
+msgstr "......"
+
+msgctxt "548_Manabe"
+msgid "Same thing in baseball. Some things ya can't drag out into the open."
+msgstr ""
+"È la stessa cosa nel baseball. Certe cose non si possono proprio trascinare "
+"allo scoperto."
+
+msgctxt "560_Manabe"
+msgid "No need to, either. Nobody watchin' the game could stand the sight."
+msgstr ""
+"E non ce n'è nemmeno bisogno. Nessuno che guarda la partita riuscirebbe a "
+"sopportare una scena simile."
+
+msgctxt "572_Takasugi"
+msgid "......"
+msgstr "......"
+
+msgctxt "584_Manabe"
+msgid ""
+"That's why it's better to keep your head down. Makes it easier to digest."
+msgstr ""
+"Ecco perché è meglio starsene a testa bassa. Rende il tutto più facile da "
+"digerire."
+
+msgctxt "596_Manabe"
+msgid ""
+"When you're eatin' good meat, no one wants to imagine a screamin' cow "
+"gettin' dragged to the slaughter."
+msgstr ""
+"Quando ti mangi della buona carne, nessuno ha voglia di immaginarsi una "
+"mucca che urla mentre viene trascinata al macello."
+
+msgctxt "608_Takasugi"
+msgid "......"
+msgstr "......"
+
+msgctxt "620_Manabe"
+msgid ""
+"It's better not to know. What happened behind the scenes? Just forget about "
+"it."
+msgstr ""
+"È meglio non sapere. Quello che è successo dietro le quinte? Scordatelo e "
+"basta."
+
+msgctxt "632_Shinada"
+msgid "But baseball was my everything."
+msgstr "Ma il baseball era tutto per me."
+
+msgctxt "644_Shinada"
+msgid ""
+"Having learned this much, how am I supposed to just bow my head and walk "
+"away?"
+msgstr ""
+"Ora che so tutto questo, come dovrei fare a chinare la testa e andarmene?"
+
+msgctxt "656_Takasugi"
+msgid ""
+"Manabe-san, you already left the league. If the match fixing was exposed "
+"now, you couldn't be charged due to the statute of limitations."
+msgstr ""
+"Manabe-san, hai già lasciato il campionato. Se le partite truccate venissero"
+" a galla ora, non saresti nemmeno perseguibile per via della prescrizione."
+
+msgctxt "668_Takasugi"
+msgid "You never thought of trying to identify the mastermind?"
+msgstr "Non hai mai pensato di provare a identificare il mandante?"
+
+msgctxt "680_Manabe"
+msgid "I thought about it, but not to the point of putting myself in danger."
+msgstr "Ci ho pensato, ma non fino al punto di mettermi in pericolo."
+
+msgctxt "692_Shinada"
+msgid "Danger?"
+msgstr "Pericolo?"
+
+msgctxt "704_Manabe"
+msgid ""
+"There actually was a player who tried to blow the whistle after he got "
+"traded to another team."
+msgstr ""
+"In realtà c'è stato un giocatore che ha provato a vuotare il sacco dopo "
+"essere stato ceduto a un'altra squadra."
+
+msgctxt "716_Manabe"
+msgid ""
+"He must've felt guilty about throwing all those games.\r\n"
+"Thing is, the poor guy ended up dyin' in an accident."
+msgstr ""
+"Si sarà sentito in colpa per aver venduto tutte quelle partite.\n"
+"Il fatto è che quel poveraccio è finito morto in un incidente."
+
+msgctxt "728_Shinada"
+msgid "An accident!?"
+msgstr "Un incidente!?"
+
+msgctxt "740_Manabe"
+msgid ""
+"That's why ya need to give this up. Understand? We're\r\n"
+"puttin' our necks on the line just talkin' like this."
+msgstr ""
+"Ecco perché devi lasciar perdere. Capito? Stiamo\n"
+"rischiando l'osso del collo solo a parlarne in questo modo."
+
+msgctxt "752_Manabe"
+msgid ""
+"Haven't you had a few near misses already? You must know what I'm talkin' "
+"about."
+msgstr ""
+"Non te la sei già vista brutta un paio di volte? Sai bene di cosa parlo."
+
+msgctxt "764_Takasugi"
+msgid "You don't say..."
+msgstr "Davvero..."
+
+msgctxt "776_Shinada"
+msgid "You mean those...?"
+msgstr "Ti riferisci a quelli...?"
+
+msgctxt "788_Manabe"
+msgid "Go home. Go back to your regular life."
+msgstr "Vattene a casa. Torna alla tua vita di sempre."
+
+msgctxt "800_Shinada"
+msgid ""
+"Please, one last question! Why did you tell me all this after keeping it a "
+"secret for fifteen years?"
+msgstr ""
+"Ti prego, un'ultima domanda! Perché mi hai raccontato tutto questo dopo "
+"averlo tenuto segreto per quindici anni?"
+
+msgctxt "812_Shinada"
+msgid "You knew it could put you at risk, too. So why?"
+msgstr "Sapevi che avrebbe messo in pericolo anche te. Allora perché?"
+
+msgctxt "824_Manabe"
+msgid "Simple as this. All the illicit stuff stopped after ya left the game."
+msgstr ""
+"È molto semplice. Tutte quelle porcate sono finite dopo che hai lasciato il "
+"giro."
+
+msgctxt "836_Manabe"
+msgid "That's why I thought you, out of all people, have the right to know."
+msgstr ""
+"Ecco perché ho pensato che proprio tu, fra tutti, avessi il diritto di "
+"sapere."
+
+msgctxt "848_Shinada"
+msgid ""
+"I was expelled and that brought an end to the match fixing?\r\n"
+"How the hell does that work!?"
+msgstr ""
+"Mi hanno radiato e questo ha messo fine alle partite truccate?\n"
+"Come diavolo è possibile!?"
+
+msgctxt "860_Manabe"
+msgid ""
+"That was the last question, you said. Use your head for a minute. Then "
+"you'll realize..."
+msgstr ""
+"Quella era l'ultima domanda, avevi detto. Usa la testa per un istante. "
+"Allora capirai..."
+
+msgctxt "872_Manabe"
+msgid "If you dig any deeper into this, it's gonna be a huge mistake."
+msgstr ""
+"Se scavi ancora più a fondo in questa storia, farai un errore madornale."
+
+msgctxt "884_Shinada"
+msgid "......"
+msgstr "......"
+
+msgctxt "908_Shinada"
+msgid "Hey, chief. You open yet?"
+msgstr "Ehi, capo. Siete già aperti?"
+
+msgctxt "920_Manabe"
+msgid "Yeah, just about. C'mon in!"
+msgstr "Sì, quasi. Entra pure!"

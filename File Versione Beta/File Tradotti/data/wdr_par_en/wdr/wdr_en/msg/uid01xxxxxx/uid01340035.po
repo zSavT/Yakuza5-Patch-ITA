@@ -1,0 +1,1157 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "584"
+msgid ""
+"<Color:8>\r\n"
+"<Color:Default>"
+msgstr ""
+"<Color:8>\n"
+"<Color:Default>"
+
+msgctxt "704"
+msgid ""
+"<Color:8>\r\n"
+"<Color:Default>"
+msgstr ""
+"<Color:8>\n"
+"<Color:Default>"
+
+msgctxt "45844"
+msgid "Hinata"
+msgstr "Hinata"
+
+msgctxt "45848"
+msgid "cab_hinata_a_01/hinata_36_0001"
+msgstr "cab_hinata_a_01/hinata_36_0001"
+
+msgctxt "45852"
+msgid "F_cab_stand_tlk_ojigi_01"
+msgstr "F_cab_stand_tlk_ojigi_01"
+
+msgctxt "45856"
+msgid "cab_hinata_a_01/hinata_36_0006"
+msgstr "cab_hinata_a_01/hinata_36_0006"
+
+msgctxt "45860"
+msgid "F_cab_stand_tlk_ojigi_02"
+msgstr "F_cab_stand_tlk_ojigi_02"
+
+msgctxt "45864"
+msgid "cab_hinata_a_01/hinata_36_0007"
+msgstr "cab_hinata_a_01/hinata_36_0007"
+
+msgctxt "45868"
+msgid "F_cab_stand_tlk_byeA"
+msgstr "F_cab_stand_tlk_byeA"
+
+msgctxt "45872"
+msgid "cab_hinata_a_01/hinata_36_0008"
+msgstr "cab_hinata_a_01/hinata_36_0008"
+
+msgctxt "45876"
+msgid "cab_hinata_a_01/hinata_36_0002"
+msgstr "cab_hinata_a_01/hinata_36_0002"
+
+msgctxt "45880"
+msgid "cab_hinata_a_01/hinata_36_0003"
+msgstr "cab_hinata_a_01/hinata_36_0003"
+
+msgctxt "45884"
+msgid "2d_mr_meishi_hinata00"
+msgstr "2d_mr_meishi_hinata00"
+
+msgctxt "45888"
+msgid "cab_hinata_a_01/hinata_36_0004"
+msgstr "cab_hinata_a_01/hinata_36_0004"
+
+msgctxt "45892"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "45896"
+msgid "cab_hinata_a_01/hinata_36_0005"
+msgstr "cab_hinata_a_01/hinata_36_0005"
+
+msgctxt "45900"
+msgid "cab_hinata_a_01/hinata_36_0009"
+msgstr "cab_hinata_a_01/hinata_36_0009"
+
+msgctxt "45904"
+msgid "2d_mr_meishi_hinata01"
+msgstr "2d_mr_meishi_hinata01"
+
+msgctxt "45908"
+msgid "cab_hinata_a_01/hinata_36_0010"
+msgstr "cab_hinata_a_01/hinata_36_0010"
+
+msgctxt "45912"
+msgid "F_cab_sitsofa_tlk_tereruA"
+msgstr "F_cab_sitsofa_tlk_tereruA"
+
+msgctxt "45916"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr "F_cab_sitsofa_tlk_noA"
+
+msgctxt "45920"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr "F_cab_sitsofa_tlk_suprise"
+
+msgctxt "45924"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "45928"
+msgid "P_sitsofaR_tlk_yes"
+msgstr "P_sitsofaR_tlk_yes"
+
+msgctxt "45932"
+msgid "F_cab_sitsofa_sync_order"
+msgstr "F_cab_sitsofa_sync_order"
+
+msgctxt "45936"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr "F_cab_sitsofa_tlk_yes"
+
+msgctxt "45940"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "45944"
+msgid "No thanks."
+msgstr "No grazie."
+
+msgctxt "45948"
+msgid "Sorry, no."
+msgstr "Mi spiace, no."
+
+msgctxt "45952"
+msgid "cab_hinata_a_01/hinata_36_0011"
+msgstr "cab_hinata_a_01/hinata_36_0011"
+
+msgctxt "45956"
+msgid "cab_hinata_a_01/hinata_36_0012"
+msgstr "cab_hinata_a_01/hinata_36_0012"
+
+msgctxt "45960"
+msgid "cab_hinata_f_01/hinata_35_0007"
+msgstr "cab_hinata_f_01/hinata_35_0007"
+
+msgctxt "45964"
+msgid "cab_hinata_f_01/hinata_35_0009"
+msgstr "cab_hinata_f_01/hinata_35_0009"
+
+msgctxt "45968"
+msgid "cab_hinata_f_01/hinata_35_0008"
+msgstr "cab_hinata_f_01/hinata_35_0008"
+
+msgctxt "45972"
+msgid "cab_hinata_f_01/hinata_35_0010"
+msgstr "cab_hinata_f_01/hinata_35_0010"
+
+msgctxt "45976"
+msgid "cab_hinata_f_01/hinata_35_0012"
+msgstr "cab_hinata_f_01/hinata_35_0012"
+
+msgctxt "45980"
+msgid "cab_hinata_f_01/hinata_35_0011"
+msgstr "cab_hinata_f_01/hinata_35_0011"
+
+msgctxt "45984"
+msgid "cab_hinata_f_01/hinata_35_0013"
+msgstr "cab_hinata_f_01/hinata_35_0013"
+
+msgctxt "45988"
+msgid "cab_hinata_f_01/hinata_35_0001"
+msgstr "cab_hinata_f_01/hinata_35_0001"
+
+msgctxt "45992"
+msgid "cab_hinata_f_01/hinata_35_0006"
+msgstr "cab_hinata_f_01/hinata_35_0006"
+
+msgctxt "45996"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr "F_cab_sitsofa_tlk_happy"
+
+msgctxt "46000"
+msgid "cab_hinata_f_01/hinata_35_0005"
+msgstr "cab_hinata_f_01/hinata_35_0005"
+
+msgctxt "46004"
+msgid "cab_hinata_f_01/hinata_35_0004"
+msgstr "cab_hinata_f_01/hinata_35_0004"
+
+msgctxt "46008"
+msgid "cab_hinata_f_01/hinata_35_0003"
+msgstr "cab_hinata_f_01/hinata_35_0003"
+
+msgctxt "46012"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr "F_cab_sitsofa_tlk_angry"
+
+msgctxt "46016"
+msgid "cab_hinata_f_01/hinata_35_0002"
+msgstr "cab_hinata_f_01/hinata_35_0002"
+
+msgctxt "46020"
+msgid "cab_hinata_a_01/hinata_36_0013"
+msgstr "cab_hinata_a_01/hinata_36_0013"
+
+msgctxt "46024"
+msgid "F_cab_stand_tlk_byeB"
+msgstr "F_cab_stand_tlk_byeB"
+
+msgctxt "46028"
+msgid "P_TLK_stand_yes"
+msgstr "P_TLK_stand_yes"
+
+msgctxt "46032"
+msgid "cab_hinata_a_01/hinata_36_0014"
+msgstr "cab_hinata_a_01/hinata_36_0014"
+
+msgctxt "46036"
+msgid "F_cab_stand_sync_byeC_st"
+msgstr "F_cab_stand_sync_byeC_st"
+
+msgctxt "46040"
+msgid "P_stand_sync_byeC_st"
+msgstr "P_stand_sync_byeC_st"
+
+msgctxt "46044"
+msgid "cab_hinata_a_01/hinata_36_0015"
+msgstr "cab_hinata_a_01/hinata_36_0015"
+
+msgctxt "46048"
+msgid "F_cab_stand_sync_byeC_ed"
+msgstr "F_cab_stand_sync_byeC_ed"
+
+msgctxt "46052"
+msgid "P_stand_sync_byeC_ed"
+msgstr "P_stand_sync_byeC_ed"
+
+msgctxt "46056"
+msgid "F_cab_stand_sp14_sync_hoho_st"
+msgstr "F_cab_stand_sp14_sync_hoho_st"
+
+msgctxt "46060"
+msgid "P_stand_sp14_sync_hoho_st"
+msgstr "P_stand_sp14_sync_hoho_st"
+
+msgctxt "46064"
+msgid "cab_hinata_a_01/hinata_36_0016"
+msgstr "cab_hinata_a_01/hinata_36_0016"
+
+msgctxt "46068"
+msgid "F_cab_stand_sp14_sync_hoho_ed"
+msgstr "F_cab_stand_sp14_sync_hoho_ed"
+
+msgctxt "46072"
+msgid "P_stand_sp14_sync_hoho_ed"
+msgstr "P_stand_sp14_sync_hoho_ed"
+
+msgctxt "46076"
+msgid "F_cab_stand_sync_dakiA_st"
+msgstr "F_cab_stand_sync_dakiA_st"
+
+msgctxt "46080"
+msgid "P_stand_sync_dakiA_st"
+msgstr "P_stand_sync_dakiA_st"
+
+msgctxt "46084"
+msgid "cab_hinata_a_01/hinata_36_0017"
+msgstr "cab_hinata_a_01/hinata_36_0017"
+
+msgctxt "46088"
+msgid "F_cab_stand_sync_dakiA_ed"
+msgstr "F_cab_stand_sync_dakiA_ed"
+
+msgctxt "46092"
+msgid "P_stand_sync_dakiA_ed"
+msgstr "P_stand_sync_dakiA_ed"
+
+msgctxt "46096"
+msgid "F_cab_stand_sp11_sync_mimi_st"
+msgstr "F_cab_stand_sp11_sync_mimi_st"
+
+msgctxt "46100"
+msgid "P_stand_sp11_sync_mimi_st"
+msgstr "P_stand_sp11_sync_mimi_st"
+
+msgctxt "46104"
+msgid "cab_hinata_a_01/hinata_36_0018"
+msgstr "cab_hinata_a_01/hinata_36_0018"
+
+msgctxt "46108"
+msgid "F_cab_stand_sp11_sync_mimi_ed"
+msgstr "F_cab_stand_sp11_sync_mimi_ed"
+
+msgctxt "46112"
+msgid "P_stand_sp11_sync_mimi_ed"
+msgstr "P_stand_sp11_sync_mimi_ed"
+
+msgctxt "46116"
+msgid "P_sitsofaR_tlk_gacha"
+msgstr "P_sitsofaR_tlk_gacha"
+
+msgctxt "488_Hinata"
+msgid "Hello there!"
+msgstr "Ehilà!"
+
+msgctxt "500_Hinata"
+msgid "Kiryu-san, welcome back! I'm so glad you picked me!"
+msgstr "Kiryu-san, bentornato! Sono così felice che tu abbia scelto me!"
+
+msgctxt "512_Hinata"
+msgid ""
+"Did you come all the way here to see me? Hehe. You must have it for me "
+"pretty bad!"
+msgstr ""
+"Sei venuto fin qui apposta per vedermi? Eh eh. Ti sei proprio preso una "
+"bella cotta per me!"
+
+msgctxt "524_Hinata"
+msgid "Kiryu-san! I've been waiting for you!"
+msgstr "Kiryu-san! Ti stavo aspettando!"
+
+msgctxt "560_Hinata"
+msgid "Nice to meet you! I'm Hinata Osaki."
+msgstr "Piacere di conoscerti! Sono Hinata Osaki."
+
+msgctxt "572_Hinata"
+msgid "Here's my card. <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Ecco il mio biglietto da visita. <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "608_Hinata"
+msgid "You got a business card."
+msgstr "Hai ottenuto un biglietto da visita."
+
+msgctxt "644_Hinata"
+msgid "May I ask your name?"
+msgstr "Posso chiederti come ti chiami?"
+
+msgctxt "656_Kiryu"
+msgid "Kazuma Kiryu."
+msgstr "Kazuma Kiryu."
+
+msgctxt "668_Hinata"
+msgid "A pleasure to meet you, Kiryu-san!"
+msgstr "È un piacere conoscerti, Kiryu-san!"
+
+msgctxt "680_Kiryu"
+msgid "Nice to meet you, too."
+msgstr "Piacere mio."
+
+msgctxt "692_Hinata"
+msgid "Thanks for coming!"
+msgstr "Grazie per essere venuto!"
+
+msgctxt "728_Hinata"
+msgid "You got a business card."
+msgstr "Hai ottenuto un biglietto da visita."
+
+msgctxt "752_Hinata"
+msgid "Just for you, Kiryu-san."
+msgstr "Solo per te, Kiryu-san."
+
+msgctxt "800_Hinata"
+msgid ""
+"You smell nice. <Color:255,200,200,255>♥<Color:Default> Are you wearing "
+"cologne? I admire a man who has such discerning taste."
+msgstr ""
+"Hai un buon profumo. <Color:255,200,200,255>♥<Color:Default> Porti del "
+"profumo? Ammiro un uomo che ha un gusto così raffinato."
+
+msgctxt "812_Hinata"
+msgid ""
+"Nice outfit there, Kiryu-san! <Color:255,200,200,255>♥<Color:Default> You "
+"must spend a lot to dress that nicely."
+msgstr ""
+"Bel completo, Kiryu-san! <Color:255,200,200,255>♥<Color:Default> Devi "
+"spendere parecchio per vestirti così bene."
+
+msgctxt "824_Hinata"
+msgid ""
+"You're looking nice today, Kiryu-san. That really suits you. "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Oggi stai proprio bene, Kiryu-san. Ti sta davvero bene. "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "836_Hinata"
+msgid "Dressed as usual, I see."
+msgstr "Vedo che sei vestito come al solito."
+
+msgctxt "848_Hinata"
+msgid ""
+"So, about that outfit. It's definitely... Well, it's definitely something."
+msgstr ""
+"Allora, riguardo a quel completo. È decisamente... Beh, di certo si fa "
+"notare."
+
+msgctxt "860_Hinata"
+msgid "Oh, that outfit's hideous! Why are you even outside with that?"
+msgstr ""
+"Oh, quel completo è orrendo! Perché mai te ne vai in giro conciato così?"
+
+msgctxt "896_Hinata"
+msgid "Error"
+msgstr "Errore"
+
+msgctxt "908_Hinata"
+msgid "What would you like to order?"
+msgstr "Cosa vorresti ordinare?"
+
+msgctxt "932_Player"
+msgid "I'll have this."
+msgstr "Prendo questo."
+
+msgctxt "944_Hinata"
+msgid "What? Really!?"
+msgstr "Cosa? Davvero!?"
+
+msgctxt "956_Hinata"
+msgid "Wow, Kiryu-san! Look at you, big spender!"
+msgstr "Wow, Kiryu-san! Guardati, uno che non bada a spese!"
+
+msgctxt "968_Hinata"
+msgid "What? Really!?"
+msgstr "Cosa? Davvero!?"
+
+msgctxt "980_Hinata"
+msgid "Gold Champagne it is!"
+msgstr "E allora Champagne Gold sia!"
+
+msgctxt "992_Hinata"
+msgid "Oh, are you going to give it a try? Ah, it's gonna be fun!"
+msgstr "Oh, vuoi fare un tentativo? Ah, sarà divertente!"
+
+msgctxt "1004_Hinata"
+msgid "What? Really!?"
+msgstr "Cosa? Davvero!?"
+
+msgctxt "1016_Hinata"
+msgid "All right. We'll keep your bottle for you, Kiryu-san."
+msgstr "Va bene. Terremo la bottiglia per te, Kiryu-san."
+
+msgctxt "1028_Hinata"
+msgid "One bottle for storage!"
+msgstr "Una bottiglia da mettere in deposito!"
+
+msgctxt "1040_Hinata"
+msgid "All right!"
+msgstr "Bene!"
+
+msgctxt "1052_Hinata"
+msgid "A house bottle? Sure thing!"
+msgstr "Una bottiglia della casa? Certamente!"
+
+msgctxt "1148_Player"
+msgid "Could you get me my bottle?"
+msgstr "Mi porteresti la mia bottiglia?"
+
+msgctxt "1160_Hinata"
+msgid "All right!"
+msgstr "Bene!"
+
+msgctxt "1184_Hinata"
+msgid "Mind if I join you for a drink?"
+msgstr "Ti dispiace se bevo qualcosa con te?"
+
+msgctxt "1196_Hinata"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "1208_Hinata"
+msgid "Oh, okay."
+msgstr "Ah, okay."
+
+msgctxt "1220_Hinata"
+msgid "Mind if I join you for a drink?"
+msgstr "Ti dispiace se bevo qualcosa con te?"
+
+msgctxt "1232_Hinata"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "1244_Hinata"
+msgid "Oh, okay."
+msgstr "Ah, okay."
+
+msgctxt "1256_Hinata"
+msgid "Your glass is empty. Would you like some more?"
+msgstr "Il tuo bicchiere è vuoto. Ne vuoi ancora?"
+
+msgctxt "1280_Player"
+msgid "I'll have this."
+msgstr "Prendo questo."
+
+msgctxt "1292_Hinata"
+msgid "What? Really!?"
+msgstr "Cosa? Davvero!?"
+
+msgctxt "1304_Hinata"
+msgid "Wow, Kiryu-san! Look at you, big spender!"
+msgstr "Wow, Kiryu-san! Ma guardati, che spendaccione!"
+
+msgctxt "1316_Hinata"
+msgid "What? Really!?"
+msgstr "Cosa? Davvero!?"
+
+msgctxt "1328_Hinata"
+msgid "Gold Champagne it is!"
+msgstr "Champagne Gold sia!"
+
+msgctxt "1340_Hinata"
+msgid "Oh, are you going to give it a try? Ah, it's gonna be fun!"
+msgstr "Oh, vuoi fare un tentativo? Ah, sarà divertente!"
+
+msgctxt "1352_Hinata"
+msgid "What? Really!?"
+msgstr "Cosa? Davvero!?"
+
+msgctxt "1364_Hinata"
+msgid "All right. We'll keep your bottle for you, Kiryu-san."
+msgstr "Va bene. Terremo la tua bottiglia per te, Kiryu-san."
+
+msgctxt "1376_Hinata"
+msgid "One bottle for storage!"
+msgstr "Una bottiglia da mettere da parte!"
+
+msgctxt "1388_Hinata"
+msgid "All right!"
+msgstr "Bene!"
+
+msgctxt "1400_Hinata"
+msgid "A house bottle? Sure thing!"
+msgstr "Una bottiglia della casa? Certamente!"
+
+msgctxt "1508_Hinata"
+msgid "Can I have another drink?"
+msgstr "Posso prendere un altro drink?"
+
+msgctxt "1520_Player"
+msgid "(Damn, I don't have the cash.)"
+msgstr "(Maledizione, non ho i contanti.)"
+
+msgctxt "1532_Player"
+msgid "Sorry, no."
+msgstr "No, mi spiace."
+
+msgctxt "1544_Hinata"
+msgid "Can I have another drink?"
+msgstr "Posso prendere un altro drink?"
+
+msgctxt "1556_Hinata"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "1568_Hinata"
+msgid "Oh, okay."
+msgstr "Ah, okay."
+
+msgctxt "1580_Hinata"
+msgid "Can I have another drink?"
+msgstr "Posso prendere un altro drink?"
+
+msgctxt "1592_Hinata"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "1604_Hinata"
+msgid "Oh, okay."
+msgstr "Ah, okay."
+
+msgctxt "1616_Player"
+msgid "I'm kind of hungry."
+msgstr "Ho un po' di fame."
+
+msgctxt "1628_Hinata"
+msgid "What would you like to order?"
+msgstr "Cosa vorresti ordinare?"
+
+msgctxt "1652_Player"
+msgid "I'll have this."
+msgstr "Prendo questo."
+
+msgctxt "1664_Hinata"
+msgid "All right!"
+msgstr "Bene!"
+
+msgctxt "1676_Hinata"
+msgid "Oh, you like that, huh? <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Oh, ti piace, eh? <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "1688_Hinata"
+msgid "Okay, sure thing."
+msgstr "Okay, certo."
+
+msgctxt "1700_Hinata"
+msgid "You like that? Oh."
+msgstr "Ti piace? Oh."
+
+msgctxt "1712_Hinata"
+msgid "Okay. Maybe some other time."
+msgstr "Okay. Magari un'altra volta."
+
+msgctxt "1748_Hinata"
+msgid "Hey, want to play the chocolate stick game?"
+msgstr "Ehi, ti va di fare il gioco del bastoncino di cioccolato?"
+
+msgctxt "1760_Player"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "1796_Hinata"
+msgid "Okay, let me feed it to you. <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Okay, lascia che ti imbocchi. <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "1808_Player"
+msgid "What!?"
+msgstr "Cosa!?"
+
+msgctxt "1904_Hinata"
+msgid "Over here, please."
+msgstr "Da questa parte, per favore."
+
+msgctxt "2000_Hinata"
+msgid "Let me mix that for you."
+msgstr "Lascia che te lo prepari io."
+
+msgctxt "2012_Player"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "2024_Hinata"
+msgid "Drink up!"
+msgstr "Bevi tutto!"
+
+msgctxt "2036_Hinata"
+msgid "You sure drink a lot!"
+msgstr "Certo che bevi un sacco!"
+
+msgctxt "2048_Player"
+msgid "I suppose."
+msgstr "Immagino."
+
+msgctxt "2060_Hinata"
+msgid "Drink up!"
+msgstr "Bevi tutto!"
+
+msgctxt "2072_Hinata"
+msgid "Your glass is empty. Let me take care of that."
+msgstr "Il tuo bicchiere è vuoto. Lascia che ci pensi io."
+
+msgctxt "2084_Player"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "2096_Hinata"
+msgid "Drink up!"
+msgstr "Bevi tutto!"
+
+msgctxt "2144_Hinata"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "2156_Hinata"
+msgid "Thanks for coming! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Grazie per essere venuto! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "2168_Player"
+msgid "I should be on my way."
+msgstr "Dovrei andare."
+
+msgctxt "2192_Hinata"
+msgid "You go and do your thing, okay? I'll be in touch in a bit."
+msgstr "Tu vai pure a fare le tue cose, ok? Ci sentiamo tra poco."
+
+msgctxt "2204_Player"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "2228_Hinata"
+msgid "Sure, I'll get you the check."
+msgstr "Certo, ti porto subito il conto."
+
+msgctxt "2240_Hinata"
+msgid "Check, please!"
+msgstr "Il conto, per favore!"
+
+msgctxt "2252_Hinata"
+msgid "You're leaving already?"
+msgstr "Te ne vai già?"
+
+msgctxt "2264_Player"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "2276_Hinata"
+msgid "Check, please!"
+msgstr "Il conto, per favore!"
+
+msgctxt "2288_Hinata"
+msgid "Your glass is empty. Would you like some more?"
+msgstr "Il tuo bicchiere è vuoto. Ne vuoi ancora?"
+
+msgctxt "2300_Player"
+msgid "(Damn, I don't have the cash.)"
+msgstr "(Dannazione, non ho i contanti.)"
+
+msgctxt "2312_Player"
+msgid "Sorry, I have to be on my way."
+msgstr "Scusa, devo andare."
+
+msgctxt "2324_Hinata"
+msgid "You're leaving already?"
+msgstr "Te ne vai già?"
+
+msgctxt "2336_Player"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "2348_Hinata"
+msgid "Check, please!"
+msgstr "Il conto, per favore!"
+
+msgctxt "2360_Hinata"
+msgid "Can I have another drink?"
+msgstr "Posso avere un altro drink?"
+
+msgctxt "2372_Player"
+msgid "(Damn, I don't have the cash.)"
+msgstr "(Dannazione, non ho i contanti.)"
+
+msgctxt "2384_Player"
+msgid "Sorry, I have to be on my way."
+msgstr "Scusa, devo andare."
+
+msgctxt "2396_Hinata"
+msgid "You're leaving already?"
+msgstr "Te ne vai già?"
+
+msgctxt "2408_Player"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "2420_Hinata"
+msgid "Check, please!"
+msgstr "Il conto, per favore!"
+
+msgctxt "2432_Hinata"
+msgid "......"
+msgstr "......"
+
+msgctxt "2444_Player"
+msgid ""
+"(Looks like we've run out of things to talk about. I should get going.)"
+msgstr ""
+"(Sembra che non abbiamo più nulla di cui parlare. Sarà meglio che vada.)"
+
+msgctxt "2456_Player"
+msgid "I should be on my way."
+msgstr "Sarà meglio che vada."
+
+msgctxt "2468_Hinata"
+msgid "You're leaving already?"
+msgstr "Te ne vai già?"
+
+msgctxt "2480_Player"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "2492_Hinata"
+msgid "Check, please!"
+msgstr "Il conto, per favore!"
+
+msgctxt "2504_Player"
+msgid "Feel like coming out with me after this?"
+msgstr "Ti va di uscire con me dopo?"
+
+msgctxt "2528_Hinata"
+msgid "I don't like people who can't take a hint."
+msgstr "Non mi piacciono le persone che non capiscono l'antifona."
+
+msgctxt "2540_Player"
+msgid "Oh..."
+msgstr "Oh..."
+
+msgctxt "2552_Hinata"
+msgid ""
+"You're being too desperate, Kiryu-san! Asking again isn't going to change my"
+" mind!"
+msgstr ""
+"Sei troppo disperato, Kiryu-san! Chiedermelo di nuovo non mi farà cambiare "
+"idea!"
+
+msgctxt "2564_Player"
+msgid "Oh..."
+msgstr "Oh..."
+
+msgctxt "2576_Hinata"
+msgid "After this, you mean?"
+msgstr "Dopo, intendi?"
+
+msgctxt "2600_Hinata"
+msgid ""
+"Sorry, Kiryu-san. I have other plans today. But ask me next time, okay?"
+msgstr ""
+"Scusa, Kiryu-san. Oggi ho altri programmi. Però riprovaci la prossima volta,"
+" ok?"
+
+msgctxt "2612_Player"
+msgid "Ah, all right. I understand."
+msgstr "Ah, va bene. Capisco."
+
+msgctxt "2624_Hinata"
+msgid "Sorry, not today. I'm not really in the mood."
+msgstr "Scusa, non oggi. Non sono proprio in vena."
+
+msgctxt "2636_Player"
+msgid "All right. Maybe some other time, when you feel up to it."
+msgstr "Va bene. Sarà per un'altra volta, quando te la sentirai."
+
+msgctxt "2648_Hinata"
+msgid ""
+"Isn't that kind of sudden? Let's spend more time talking here in the club "
+"first, okay?"
+msgstr ""
+"Non ti sembra un po' improvviso? Passiamo ancora un po' di tempo a "
+"chiacchierare qui al club prima, ok?"
+
+msgctxt "2660_Player"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "2672_Hinata"
+msgid "Error"
+msgstr "Errore"
+
+msgctxt "2684_Player"
+msgid "Feel like coming out with me after this?"
+msgstr "Ti va di uscire con me dopo?"
+
+msgctxt "2708_Hinata"
+msgid "Well, if you insist. I guess a little date wouldn't hurt."
+msgstr ""
+"Beh, se proprio insisti. Immagino che un appuntamento non faccia male."
+
+msgctxt "2720_Player"
+msgid "Great."
+msgstr "Bene."
+
+msgctxt "2732_Hinata"
+msgid "You're that eager to go out with me, huh? Okay! I can spare some time."
+msgstr ""
+"Hai proprio tutta questa voglia di uscire con me, eh? Va bene! Posso "
+"ritagliarmi un po' di tempo."
+
+msgctxt "2744_Player"
+msgid "Thanks..."
+msgstr "Grazie..."
+
+msgctxt "2756_Hinata"
+msgid "After this, you mean?"
+msgstr "Intendi dopo?"
+
+msgctxt "2780_Hinata"
+msgid "Yeah, I'd like to spend more time with you, too!"
+msgstr "Sì, anche a me piacerebbe passare più tempo con te!"
+
+msgctxt "2792_Player"
+msgid "Good."
+msgstr "Bene."
+
+msgctxt "2804_Hinata"
+msgid "Absolutely! I had a feeling you might ask me out, Kiryu-san!"
+msgstr ""
+"Certamente! Avevo come la sensazione che me lo avresti chiesto, Kiryu-san!"
+
+msgctxt "2816_Player"
+msgid "Guess you can read me like a book."
+msgstr "Vedo che mi leggi come un libro aperto."
+
+msgctxt "2828_Hinata"
+msgid "Sure, I've got nothing else going on."
+msgstr "Certo, non ho altri impegni."
+
+msgctxt "2840_Player"
+msgid "Really?"
+msgstr "Davvero?"
+
+msgctxt "2852_Hinata"
+msgid "Error"
+msgstr "Errore"
+
+msgctxt "2864_Hinata"
+msgid "What is it?"
+msgstr "E cioè?"
+
+msgctxt "2888_Hinata"
+msgid ""
+"Oh, I love it! <Color:255,200,200,255>♥<Color:Default> You really know me, "
+"Kiryu-san!"
+msgstr ""
+"Oh, lo adoro! <Color:255,200,200,255>♥<Color:Default> Mi conosci proprio "
+"bene, Kiryu-san!"
+
+msgctxt "2900_Hinata"
+msgid "Oh, I've been wanting this! Thank you!"
+msgstr "Oh, lo volevo proprio! Grazie!"
+
+msgctxt "2912_Hinata"
+msgid "Are you sure? I'll take really good care of it, promise."
+msgstr "Sei sicuro? Ne avrò davvero molta cura, promesso."
+
+msgctxt "2924_Hinata"
+msgid "Oh. Thanks."
+msgstr "Oh. Grazie."
+
+msgctxt "2936_Hinata"
+msgid "What's this? What am I even supposed to do with it?"
+msgstr "E questo cos'è? Cosa dovrei farci?"
+
+msgctxt "2948_Hinata"
+msgid "What? You're giving me another one of these?"
+msgstr "Cosa? Me ne stai dando un altro di questi?"
+
+msgctxt "2960_Hinata"
+msgid ""
+"You gave me this before. Do you give out so many you forget who you gave "
+"them to, or what?"
+msgstr ""
+"Me l'hai già dato questo. Ne regali così tanti che ti dimentichi a chi li "
+"dai, o cosa?"
+
+msgctxt "2972_Hinata"
+msgid "Error"
+msgstr "Errore"
+
+msgctxt "3128_Hinata"
+msgid "I hope you'll come see me again, Kiryu-san!"
+msgstr "Spero che verrai di nuovo a trovarmi, Kiryu-san!"
+
+msgctxt "3140_Player"
+msgid "I like you. I'll be sure to ask for you next time."
+msgstr "Mi piaci. Chiederò sicuramente di te la prossima volta."
+
+msgctxt "3152_Hinata"
+msgid "Really!? I can't wait!"
+msgstr "Davvero!? Non vedo l'ora!"
+
+msgctxt "3188_Hinata"
+msgid "Kiryu-san!"
+msgstr "Kiryu-san!"
+
+msgctxt "3200_Hinata"
+msgid "I had lots of fun today!"
+msgstr "Mi sono divertita un sacco oggi!"
+
+msgctxt "3212_Player"
+msgid "Yeah, me too."
+msgstr "Sì, anch'io."
+
+msgctxt "3224_Hinata"
+msgid "Haha! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Ahah! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3248_Hinata"
+msgid "Kiryu-san!"
+msgstr "Kiryu-san!"
+
+msgctxt "3260_Hinata"
+msgid "Thanks for coming today. Stop by again, okay?"
+msgstr "Grazie per essere venuto oggi. Torna a trovarmi, okay?"
+
+msgctxt "3272_Player"
+msgid "See you next time."
+msgstr "Ci vediamo alla prossima."
+
+msgctxt "3284_Hinata"
+msgid "Haha! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Ahah! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3308_Hinata"
+msgid "Kiryu-san!"
+msgstr "Kiryu-san!"
+
+msgctxt "3320_Hinata"
+msgid "I'll be waiting for you!"
+msgstr "La aspetterò!"
+
+msgctxt "3332_Player"
+msgid "Thanks."
+msgstr "Grazie."
+
+msgctxt "3344_Hinata"
+msgid "Haha! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Ahah! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3368_Hinata"
+msgid "Kiryu-san!"
+msgstr "Kiryu-san!"
+
+msgctxt "3380_Hinata"
+msgid "I'll see you around! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Ci vediamo in giro! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3392_Player"
+msgid "You too."
+msgstr "Anche tu."
+
+msgctxt "3404_Hinata"
+msgid "Haha! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Ahah! <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3416_Hinata"
+msgid "I wonder what you'll get!"
+msgstr "Chissà cosa riceverai!"
+
+msgctxt "3428_Player"
+msgid "Here goes."
+msgstr "Si parte."
+
+msgctxt "3512_Hinata"
+msgid "You won <Color:8>Toughness Infinity<Color:Default>!"
+msgstr "Hai vinto <Color:8>Toughness Infinity<Color:Default>!"
+
+msgctxt "3536_Hinata"
+msgid "Oh, that's super common. But hey, at least it's useful."
+msgstr "Oh, succede spessissimo. Ma ehi, almeno è utile."
+
+msgctxt "3548_Player"
+msgid "Right."
+msgstr "Giusto."
+
+msgctxt "3560_Hinata"
+msgid "You won <Color:8>French Cologne<Color:Default>!"
+msgstr "Hai vinto <Color:8>French Cologne<Color:Default>!"
+
+msgctxt "3584_Hinata"
+msgid "Oh, that's super common. But hey, at least it's useful."
+msgstr "Oh, succede spessissimo. Ma ehi, almeno è utile."
+
+msgctxt "3596_Player"
+msgid "Right."
+msgstr "Giusto."
+
+msgctxt "3608_Hinata"
+msgid "You won <Color:8>Staminan Spark<Color:Default>!"
+msgstr "Hai vinto <Color:8>Staminan Spark<Color:Default>!"
+
+msgctxt "3632_Hinata"
+msgid "Oooh, that's a good one! Lucky you, Kiryu-san!"
+msgstr "Oooh, questo è un gran bel colpo! Che fortuna, Kiryu-san!"
+
+msgctxt "3644_Player"
+msgid "No, I'm sure I can do better."
+msgstr "No, sono sicuro di poter fare di meglio."
+
+msgctxt "3656_Hinata"
+msgid "You won <Color:8>Goddess of Children Amulet<Color:Default>!"
+msgstr "Hai vinto <Color:8>Goddess of Children Amulet<Color:Default>!"
+
+msgctxt "3680_Hinata"
+msgid "Oooh, that's a good one! Lucky you, Kiryu-san!"
+msgstr "Oooh, questo è un gran bel colpo! Che fortuna, Kiryu-san!"
+
+msgctxt "3692_Player"
+msgid "No, I'm sure I can do better."
+msgstr "No, sono sicuro di poter fare di meglio."
+
+msgctxt "3704_Hinata"
+msgid "You won <Color:8>Monogrammed Bag<Color:Default>!"
+msgstr "Hai vinto <Color:8>Monogrammed Bag<Color:Default>!"
+
+msgctxt "3728_Hinata"
+msgid "Oh wow! I almost never see anyone win those! Better take care of that."
+msgstr ""
+"Oh wow! Non capita quasi mai di vederne vincere uno! Mi raccomando, trattalo"
+" bene."
+
+msgctxt "3740_Player"
+msgid "Thanks for the tip."
+msgstr "Grazie per la dritta."
+
+msgctxt "3752_Hinata"
+msgid "You won <Color:8>Italian Women's Watch<Color:Default>!"
+msgstr "Hai vinto <Color:8>Italian Women's Watch<Color:Default>!"
+
+msgctxt "3776_Hinata"
+msgid "Oh wow! I almost never see anyone win those! Better take care of that."
+msgstr ""
+"Oh wow! Non capita quasi mai di vederne vincere uno! Mi raccomando, trattalo"
+" bene."
+
+msgctxt "3788_Player"
+msgid "Thanks for the tip."
+msgstr "Grazie per la dritta."
+
+msgctxt "3800_Hinata"
+msgid "You won <Color:8>Mystery Stone<Color:Default>!"
+msgstr "Hai vinto <Color:8>Mystery Stone<Color:Default>!"
+
+msgctxt "3824_Hinata"
+msgid "Oh wow! I almost never see anyone win those! Better take care of that."
+msgstr ""
+"Oh wow! Non capita quasi mai di vederne vincere uno! Mi raccomando, trattalo"
+" bene."
+
+msgctxt "3836_Player"
+msgid "Thanks for the tip."
+msgstr "Grazie per la dritta."
+
+msgctxt "3848_Hinata"
+msgid "You won <Color:8>Swiss Watch<Color:Default>!"
+msgstr "Hai vinto <Color:8>Swiss Watch<Color:Default>!"
+
+msgctxt "3872_Hinata"
+msgid ""
+"Whoa, you hit the jackpot! You're really lucky, Kiryu-san! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Wow, hai fatto il colpaccio! Sei proprio fortunato, Kiryu-san! "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3884_Player"
+msgid "Excellent."
+msgstr "Eccellente."
+
+msgctxt "3896_Hinata"
+msgid "You won <Color:8>Platinum Membership Card<Color:Default>!"
+msgstr "Hai vinto <Color:8>Platinum Membership Card<Color:Default>!"
+
+msgctxt "3920_Hinata"
+msgid ""
+"Whoa, you hit the jackpot! You're really lucky, Kiryu-san! "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Wow, hai fatto il colpaccio! Sei proprio fortunato, Kiryu-san! "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "3932_Player"
+msgid "Excellent."
+msgstr "Eccellente."
+
+msgctxt "3944_Hinata"
+msgid "Time for the chocolate stick game!"
+msgstr "È il momento del gioco dei bastoncini!"
+
+msgctxt "3956_Hinata"
+msgid "One bottle of champagne, please!"
+msgstr "Una bottiglia di champagne, per favore!"
+
+msgctxt "3968_Hinata"
+msgid "Champagne tower, please!"
+msgstr "Una torre di champagne, per favore!"

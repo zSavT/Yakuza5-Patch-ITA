@@ -1,0 +1,1777 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "58432"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "58436"
+msgid "Morinaga"
+msgstr "Morinaga"
+
+msgctxt "58440"
+msgid "adv1_120_1/morinaga_0050"
+msgstr "adv1_120_1/morinaga_0050"
+
+msgctxt "58444"
+msgid "Aizawa"
+msgstr "Aizawa"
+
+msgctxt "58448"
+msgid "adv1_120_1/aizawa_0037"
+msgstr "adv1_120_1/aizawa_0037"
+
+msgctxt "58452"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "58456"
+msgid "adv1_120_1/kiryu_0224a"
+msgstr "adv1_120_1/kiryu_0224a"
+
+msgctxt "58460"
+msgid "adv1_120_1/kiryu_0224b"
+msgstr "adv1_120_1/kiryu_0224b"
+
+msgctxt "58464"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "58468"
+msgid "adv1_120_1/aizawa_0038"
+msgstr "adv1_120_1/aizawa_0038"
+
+msgctxt "58472"
+msgid "adv1_120_1/kiryu_0225"
+msgstr "adv1_120_1/kiryu_0225"
+
+msgctxt "58476"
+msgid "adv1_120_1/morinaga_0051"
+msgstr "adv1_120_1/morinaga_0051"
+
+msgctxt "58480"
+msgid "adv1_120_1/kiryu_0226"
+msgstr "adv1_120_1/kiryu_0226"
+
+msgctxt "58484"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "58488"
+msgid "adv1_120_1/morinaga_0052"
+msgstr "adv1_120_1/morinaga_0052"
+
+msgctxt "58492"
+msgid "adv1_120_1/kiryu_0227"
+msgstr "adv1_120_1/kiryu_0227"
+
+msgctxt "58496"
+msgid "adv1_120_1/aizawa_0039a"
+msgstr "adv1_120_1/aizawa_0039a"
+
+msgctxt "58500"
+msgid "adv1_120_1/aizawa_0039b"
+msgstr "adv1_120_1/aizawa_0039b"
+
+msgctxt "58504"
+msgid "adv1_120_1/kiryu_0228a"
+msgstr "adv1_120_1/kiryu_0228a"
+
+msgctxt "58508"
+msgid "adv1_120_1/kiryu_0228b"
+msgstr "adv1_120_1/kiryu_0228b"
+
+msgctxt "58512"
+msgid "adv1_120_1/morinaga_0053"
+msgstr "adv1_120_1/morinaga_0053"
+
+msgctxt "58516"
+msgid "adv1_120_1/aizawa_0040"
+msgstr "adv1_120_1/aizawa_0040"
+
+msgctxt "58520"
+msgid "adv1_120_1/kiryu_0229a"
+msgstr "adv1_120_1/kiryu_0229a"
+
+msgctxt "58524"
+msgid "adv1_120_1/kiryu_0229b"
+msgstr "adv1_120_1/kiryu_0229b"
+
+msgctxt "58528"
+msgid "adv1_120_1/morinaga_1_120_010"
+msgstr "adv1_120_1/morinaga_1_120_010"
+
+msgctxt "58532"
+msgid "Then let's go."
+msgstr "Allora, andiamo."
+
+msgctxt "58536"
+msgid "Hold off for a bit."
+msgstr "Aspetta un attimo."
+
+msgctxt "58540"
+msgid "adv1_120_2/morinaga_1_120_030"
+msgstr "adv1_120_2/morinaga_1_120_030"
+
+msgctxt "58544"
+msgid "Yeah, it's time."
+msgstr "Già, è ora."
+
+msgctxt "58548"
+msgid "Not yet."
+msgstr "Non ancora."
+
+msgctxt "58552"
+msgid "adv1_120_2/kiryu_1_120_040"
+msgstr "adv1_120_2/kiryu_1_120_040"
+
+msgctxt "58556"
+msgid "adv1_120_2/morinaga_1_120_040"
+msgstr "adv1_120_2/morinaga_1_120_040"
+
+msgctxt "58560"
+msgid "adv1_120_2/kiryu_1_120_030"
+msgstr "adv1_120_2/kiryu_1_120_030"
+
+msgctxt "58564"
+msgid "adv1_120_1/kiryu_1_120_020"
+msgstr "adv1_120_1/kiryu_1_120_020"
+
+msgctxt "58568"
+msgid "adv1_120_1/morinaga_1_120_020"
+msgstr "adv1_120_1/morinaga_1_120_020"
+
+msgctxt "58572"
+msgid "0"
+msgstr "0"
+
+msgctxt "58576"
+msgid "adv1_120_1/kiryu_1_120_010"
+msgstr "adv1_120_1/kiryu_1_120_010"
+
+msgctxt "58580"
+msgid "Creeper"
+msgstr "Viscido"
+
+msgctxt "58584"
+msgid "Taxi Driver"
+msgstr "Tassista"
+
+msgctxt "58588"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "58592"
+msgid "Oyama"
+msgstr "Oyama"
+
+msgctxt "58596"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "58600"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "58604"
+msgid "Wada"
+msgstr "Wada"
+
+msgctxt "58608"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "58612"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "58616"
+msgid "Mack"
+msgstr "Mack"
+
+msgctxt "58620"
+msgid "Talk_Kosite_st"
+msgstr "Talk_Kosite_st"
+
+msgctxt "58624"
+msgid "Revelations"
+msgstr "Rivelazioni"
+
+msgctxt "58628"
+msgid "Phone_st"
+msgstr "Phone_st"
+
+msgctxt "58632"
+msgid "Phone_ed"
+msgstr "Phone_ed"
+
+msgctxt "58636"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "58640"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "58644"
+msgid "Man in Black"
+msgstr "Uomo in nero"
+
+msgctxt "58648"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "58652"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "58656"
+msgid "M_NML_SET_cheer_stand_jump"
+msgstr "M_NML_SET_cheer_stand_jump"
+
+msgctxt "58660"
+msgid "Talk_Info_R"
+msgstr "Talk_Info_R"
+
+msgctxt "58664"
+msgid "Nakajima"
+msgstr "Nakajima"
+
+msgctxt "58668"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "58672"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "58676"
+msgid "adv1_080/aizawa_0019a"
+msgstr "adv1_080/aizawa_0019a"
+
+msgctxt "58680"
+msgid "adv1_080/aizawa_0019b"
+msgstr "adv1_080/aizawa_0019b"
+
+msgctxt "58684"
+msgid "kaiwabgm_fuon03"
+msgstr "kaiwabgm_fuon03"
+
+msgctxt "58688"
+msgid "adv1_080/kiryu_0128"
+msgstr "adv1_080/kiryu_0128"
+
+msgctxt "58692"
+msgid "adv1_080/aizawa_0020a"
+msgstr "adv1_080/aizawa_0020a"
+
+msgctxt "58696"
+msgid "adv1_080/aizawa_0020b"
+msgstr "adv1_080/aizawa_0020b"
+
+msgctxt "58700"
+msgid "adv1_080/kiryu_0129"
+msgstr "adv1_080/kiryu_0129"
+
+msgctxt "58704"
+msgid "adv1_080/aizawa_0021"
+msgstr "adv1_080/aizawa_0021"
+
+msgctxt "58708"
+msgid "adv1_080/kiryu_0130"
+msgstr "adv1_080/kiryu_0130"
+
+msgctxt "58712"
+msgid "adv1_080/aizawa_0022"
+msgstr "adv1_080/aizawa_0022"
+
+msgctxt "58716"
+msgid "adv1_080/kiryu_0131"
+msgstr "adv1_080/kiryu_0131"
+
+msgctxt "58720"
+msgid "adv1_080/aizawa_0023"
+msgstr "adv1_080/aizawa_0023"
+
+msgctxt "58724"
+msgid "adv1_080/kiryu_0132"
+msgstr "adv1_080/kiryu_0132"
+
+msgctxt "58728"
+msgid "adv1_080/aizawa_0024"
+msgstr "adv1_080/aizawa_0024"
+
+msgctxt "58732"
+msgid "adv1_080/kiryu_0133a"
+msgstr "adv1_080/kiryu_0133a"
+
+msgctxt "58736"
+msgid "adv1_080/kiryu_0133b"
+msgstr "adv1_080/kiryu_0133b"
+
+msgctxt "58740"
+msgid "adv1_080/aizawa_0025a"
+msgstr "adv1_080/aizawa_0025a"
+
+msgctxt "58744"
+msgid "adv1_080/aizawa_0025b"
+msgstr "adv1_080/aizawa_0025b"
+
+msgctxt "58748"
+msgid "adv1_080/kiryu_0134a"
+msgstr "adv1_080/kiryu_0134a"
+
+msgctxt "58752"
+msgid "adv1_080/kiryu_0134b"
+msgstr "adv1_080/kiryu_0134b"
+
+msgctxt "58756"
+msgid "adv1_080/aizawa_0026"
+msgstr "adv1_080/aizawa_0026"
+
+msgctxt "58760"
+msgid "adv1_080/kiryu_0135"
+msgstr "adv1_080/kiryu_0135"
+
+msgctxt "58764"
+msgid "Talk_Udekumi_st"
+msgstr "Talk_Udekumi_st"
+
+msgctxt "58768"
+msgid "adv1_080/aizawa_0027a"
+msgstr "adv1_080/aizawa_0027a"
+
+msgctxt "58772"
+msgid "adv1_080/aizawa_0027b"
+msgstr "adv1_080/aizawa_0027b"
+
+msgctxt "58776"
+msgid "adv1_080/aizawa_0027c"
+msgstr "adv1_080/aizawa_0027c"
+
+msgctxt "58780"
+msgid "adv1_080/kiryu_0136"
+msgstr "adv1_080/kiryu_0136"
+
+msgctxt "58784"
+msgid "Talk_Udekumi_ed"
+msgstr "Talk_Udekumi_ed"
+
+msgctxt "58788"
+msgid "adv1_080/aizawa_0028a"
+msgstr "adv1_080/aizawa_0028a"
+
+msgctxt "58792"
+msgid "adv1_080/aizawa_0028b"
+msgstr "adv1_080/aizawa_0028b"
+
+msgctxt "58796"
+msgid "adv1_080/kiryu_0137"
+msgstr "adv1_080/kiryu_0137"
+
+msgctxt "58800"
+msgid "adv1_080/aizawa_0029a"
+msgstr "adv1_080/aizawa_0029a"
+
+msgctxt "58804"
+msgid "adv1_080/aizawa_0029b"
+msgstr "adv1_080/aizawa_0029b"
+
+msgctxt "58808"
+msgid "adv1_080/aizawa_0029c"
+msgstr "adv1_080/aizawa_0029c"
+
+msgctxt "58812"
+msgid "adv1_080/aizawa_0029d"
+msgstr "adv1_080/aizawa_0029d"
+
+msgctxt "58816"
+msgid "adv1_080/aizawa_0030a"
+msgstr "adv1_080/aizawa_0030a"
+
+msgctxt "58820"
+msgid "adv1_080/aizawa_0030b"
+msgstr "adv1_080/aizawa_0030b"
+
+msgctxt "58824"
+msgid "adv1_080/kiryu_0139a"
+msgstr "adv1_080/kiryu_0139a"
+
+msgctxt "58828"
+msgid "adv1_080/kiryu_0139b"
+msgstr "adv1_080/kiryu_0139b"
+
+msgctxt "58832"
+msgid "Yamagasa Family Member"
+msgstr "Membro della Famiglia Yamagasa"
+
+msgctxt "58836"
+msgid "kaiwabgm_fuon02"
+msgstr "kaiwabgm_fuon02"
+
+msgctxt "58840"
+msgid "adv1_070_4/kiryu_1_070_160"
+msgstr "adv1_070_4/kiryu_1_070_160"
+
+msgctxt "58844"
+msgid "adv1_070_4/kiryu_1_070_170"
+msgstr "adv1_070_4/kiryu_1_070_170"
+
+msgctxt "58848"
+msgid "Yakuza-looking Thug"
+msgstr "Scagnozzo dall'aspetto da yakuza"
+
+msgctxt "58852"
+msgid "adv1_070_3/taxi_guest1_1_070_010"
+msgstr "adv1_070_3/taxi_guest1_1_070_010"
+
+msgctxt "58856"
+msgid "adv1_070_3/kiryu_1_070_010"
+msgstr "adv1_070_3/kiryu_1_070_010"
+
+msgctxt "58860"
+msgid "adv1_070_3/taxi_guest1_1_070_020"
+msgstr "adv1_070_3/taxi_guest1_1_070_020"
+
+msgctxt "58864"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "58868"
+msgid "adv1_070_3/kiryu_1_070_020"
+msgstr "adv1_070_3/kiryu_1_070_020"
+
+msgctxt "58872"
+msgid "adv1_070_3/taxi_guest1_1_070_030"
+msgstr "adv1_070_3/taxi_guest1_1_070_030"
+
+msgctxt "58876"
+msgid "adv1_070_3/kiryu_1_070_030"
+msgstr "adv1_070_3/kiryu_1_070_030"
+
+msgctxt "276_Morinaga"
+msgid "Fourth Chairman!"
+msgstr "Quarto Presidente!"
+
+msgctxt "288_Aizawa"
+msgid "What are you doing here?"
+msgstr "Che ci fai qui?"
+
+msgctxt "300_Kiryu"
+msgid "I thought I might find you two here."
+msgstr "Pensavo di trovarvi qui."
+
+msgctxt "312_Kiryu"
+msgid ""
+"I came for the same reason as you. I heard Watase from the Omi Alliance was "
+"in there."
+msgstr ""
+"Sono venuto per lo stesso motivo tuo. Ho sentito che Watase dell'Alleanza "
+"Omi era lì dentro."
+
+msgctxt "324_Aizawa"
+msgid "But why'd you have to..."
+msgstr "Ma perché hai dovuto..."
+
+msgctxt "336_Kiryu"
+msgid ""
+"I was worried you wouldn't be able to keep your cool. It could have easily "
+"ended up a bloodbath."
+msgstr ""
+"Temevo non riuscissi a mantenere il sangue freddo. Poteva facilmente finire "
+"in un bagno di sangue."
+
+msgctxt "348_Morinaga"
+msgid ""
+"But Watase showing up in Fukuoka has got to be linked to the chairman's "
+"disappearance, right?"
+msgstr ""
+"Ma Watase che si fa vedere a Fukuoka... deve per forza essere collegato alla"
+" scomparsa del presidente, no?"
+
+msgctxt "360_Kiryu"
+msgid "No, Watase's in the clear. He didn't kidnap Daigo."
+msgstr "No, Watase è pulito. Non ha rapito Daigo."
+
+msgctxt "372_Morinaga"
+msgid "And he told you that himself?"
+msgstr "E te l'ha detto lui stesso?"
+
+msgctxt "384_Kiryu"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "396_Aizawa"
+msgid ""
+"Hold on! You're not actually going to believe the word of an Omi boss, are "
+"you?"
+msgstr "Aspetta! Non vorrai mica credere alla parola di un boss Omi, vero?"
+
+msgctxt "408_Aizawa"
+msgid "Who else would have a motive!?"
+msgstr "Chi altri avrebbe un movente!?"
+
+msgctxt "420_Kiryu"
+msgid ""
+"He was telling the truth. Watase isn't the type to plot some underhanded "
+"scheme."
+msgstr "Diceva la verità. Watase non è il tipo da architettare mosse subdole."
+
+msgctxt "432_Kiryu"
+msgid "It's safe to assume he wasn't involved with Daigo's disappearance."
+msgstr ""
+"Si può tranquillamente supporre che non fosse coinvolto nella scomparsa di "
+"Daigo."
+
+msgctxt "444_Morinaga"
+msgid "If you say so, I'm sure you're right."
+msgstr "Se lo dici tu, sono sicuro che hai ragione."
+
+msgctxt "456_Aizawa"
+msgid "But then who's behind it!?"
+msgstr "Ma allora chi c'è dietro!?"
+
+msgctxt "468_Kiryu"
+msgid "That's what I wanted to talk to you about."
+msgstr "È proprio di questo che volevo parlarti."
+
+msgctxt "480_Kiryu"
+msgid "Do you have a few?"
+msgstr "Hai un momento?"
+
+msgctxt "492_Morinaga"
+msgid ""
+"We'll always make time for you, Fourth Chairman. Just give us the word and "
+"we'll follow."
+msgstr ""
+"Avremo sempre tempo per te, Quarto Presidente. Basta che ci dia la parola e "
+"ti seguiremo."
+
+msgctxt "504_Morinaga"
+msgid "Are you ready to fill us in, Fourth Chairman?"
+msgstr "Sei pronto a metterci al corrente, Quarto Presidente?"
+
+msgctxt "516_Kiryu"
+msgid "I need you to wait just a little longer."
+msgstr "Ho bisogno che tu aspetti ancora un po'."
+
+msgctxt "528_Morinaga"
+msgid "Understood."
+msgstr "Capito."
+
+msgctxt "540_Kiryu"
+msgid "Sorry to keep you waiting. Come with me."
+msgstr "Scusa l'attesa. Vieni con me."
+
+msgctxt "552_Kiryu"
+msgid "Okay. It won't be long before I'm ready."
+msgstr "Va bene. Manca poco e sarò pronto."
+
+msgctxt "564_Morinaga"
+msgid "All right. We'll be here whenever you're good to go."
+msgstr "Va bene. Saremo qui quando sarai pronto."
+
+msgctxt "624_Kiryu"
+msgid "Okay. Come with me, then."
+msgstr "Va bene. Vieni con me, allora."
+
+msgctxt "672_Morinaga"
+msgid "Fourth Chairman!"
+msgstr "Quarto Presidente!"
+
+msgctxt "684_Aizawa"
+msgid "What are you doing here?"
+msgstr "Che ci fai tu qui?"
+
+msgctxt "696_Kiryu"
+msgid "I thought I might find you two here."
+msgstr "Pensavo di trovare voi due qui."
+
+msgctxt "708_Kiryu"
+msgid ""
+"I came for the same reason as you. I heard Watase from the Omi Alliance was "
+"in there."
+msgstr ""
+"Sono venuto per la tua stessa ragione. Ho sentito che Watase dell'Alleanza "
+"Omi era lì dentro."
+
+msgctxt "720_Aizawa"
+msgid "But why'd you have to..."
+msgstr "Ma perché dovevi..."
+
+msgctxt "732_Kiryu"
+msgid ""
+"I was worried you wouldn't be able to keep your cool. It could have easily "
+"ended up a bloodbath."
+msgstr ""
+"Ero preoccupato che non saresti riuscito a mantenere la calma. Sarebbe "
+"potuto finire facilmente in un bagno di sangue."
+
+msgctxt "744_Morinaga"
+msgid ""
+"But Watase showing up in Fukuoka has got to be linked to the chairman's "
+"disappearance, right?"
+msgstr ""
+"Ma Watase che spunta a Fukuoka dev'essere per forza collegato alla scomparsa"
+" del presidente, no?"
+
+msgctxt "756_Kiryu"
+msgid "No, Watase's in the clear. He didn't kidnap Daigo."
+msgstr "No, Watase non c'entra. Non è stato lui a rapire Daigo."
+
+msgctxt "768_Morinaga"
+msgid "And he told you that himself?"
+msgstr "E te l'ha detto proprio lui?"
+
+msgctxt "780_Kiryu"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "792_Aizawa"
+msgid ""
+"Hold on! You're not actually going to believe the word of an Omi boss, are "
+"you?"
+msgstr "Aspetta! Non vorrai mica credere alla parola di un boss Omi?"
+
+msgctxt "804_Aizawa"
+msgid "Who else would have a motive!?"
+msgstr "Chi altro avrebbe un movente!?"
+
+msgctxt "816_Kiryu"
+msgid ""
+"He was telling the truth. Watase isn't the type to plot some underhanded "
+"scheme."
+msgstr ""
+"Stava dicendo la verità. Watase non è il tipo da macchinare qualcosa di "
+"losco."
+
+msgctxt "828_Kiryu"
+msgid "It's safe to assume he wasn't involved with Daigo's disappearance."
+msgstr ""
+"Si può tranquillamente dare per scontato che non c'entrasse con la scomparsa"
+" di Daigo."
+
+msgctxt "840_Morinaga"
+msgid "If you say so, I'm sure you're right."
+msgstr "Se lo dici tu, sono sicuro che hai ragione."
+
+msgctxt "852_Aizawa"
+msgid "But then who's behind it!?"
+msgstr "Ma allora chi c'è dietro!?"
+
+msgctxt "864_Kiryu"
+msgid "That's what I wanted to talk to you about."
+msgstr "È proprio di questo che volevo parlarti."
+
+msgctxt "876_Kiryu"
+msgid "Do you have a few?"
+msgstr "Hai un attimo?"
+
+msgctxt "888_Morinaga"
+msgid ""
+"We'll always make time for you, Fourth Chairman. Just give us the word and "
+"we'll follow."
+msgstr ""
+"Avremo sempre tempo per te, Quarto Presidente. Basta che tu dia l'ordine e "
+"ti seguiremo."
+
+msgctxt "900_Morinaga"
+msgid "Are you ready to fill us in, Fourth Chairman?"
+msgstr "Sei pronto a metterci al corrente, Quarto Presidente?"
+
+msgctxt "912_Kiryu"
+msgid "I need you to wait just a little longer."
+msgstr "Ho bisogno che aspetti ancora un attimo."
+
+msgctxt "924_Morinaga"
+msgid "Understood."
+msgstr "Capito."
+
+msgctxt "936_Kiryu"
+msgid "Sorry to keep you waiting. Come with me."
+msgstr "Scusa l'attesa. Vieni con me."
+
+msgctxt "948_Kiryu"
+msgid "Okay. It won't be long before I'm ready."
+msgstr "Va bene. Sarò pronto tra poco."
+
+msgctxt "960_Morinaga"
+msgid "All right. We'll be here whenever you're good to go."
+msgstr "Va bene. Saremo qui quando sarai pronto."
+
+msgctxt "1020_Kiryu"
+msgid "Okay. Come with me, then."
+msgstr "Va bene. Vieni con me, allora."
+
+msgctxt "1068_Creeper"
+msgid ""
+"So this is the place, huh? Woo-diggity-hoo! See you soon,\r\n"
+"Ryoko-chan!"
+msgstr ""
+"Allora, è questo il posto, eh? Evvai! Ci vediamo presto,\n"
+"Ryoko-chan!"
+
+msgctxt "1092_Kiryu"
+msgid "(Damn. It's hard to lose someone on purpose...)"
+msgstr "(Dannazione. È difficile perdere qualcuno di proposito...)"
+
+msgctxt "1116_Taxi Driver"
+msgid "Ah, there you are."
+msgstr "Ah, eccoti."
+
+msgctxt "1128_Kiryu"
+msgid "Who are you?"
+msgstr "Chi sei?"
+
+msgctxt "1140_Taxi Driver"
+msgid "The name's Oyama. I was driving the taxi in front of you earlier."
+msgstr "Sono Oyama. Ero io alla guida del taxi davanti a te, poco fa."
+
+msgctxt "1152_Kiryu"
+msgid "Oh, that was you? Sorry, I didn't mean to tailgate you like that."
+msgstr "Ah, eri tu? Scusa, non intendevo starti così attaccato dietro."
+
+msgctxt "1164_Kiryu"
+msgid ""
+"It's just that my passenger was up to something, so I tried to make it look "
+"like I lost you. Unfortunately, it didn't go as planned..."
+msgstr ""
+"È solo che il mio passeggero stava combinando qualcosa, così ho provato a "
+"far finta di averti perso. Sfortunatamente, non è andata come previsto..."
+
+msgctxt "1176_Oyama"
+msgid ""
+"Oh, that's okay. I got a similar impression that something was up. So I "
+"dropped off the girl I was carrying somewhere else. Made it look like "
+"nothing out of the ordinary."
+msgstr ""
+"Oh, va bene. Ho avuto la stessa impressione che ci fosse qualcosa sotto. "
+"Così ho lasciato la ragazza che avevo a bordo altrove. Ho fatto sembrare che"
+" non ci fosse niente di strano."
+
+msgctxt "1188_Kiryu"
+msgid "That's a relief."
+msgstr "Meno male."
+
+msgctxt "1200_Oyama"
+msgid "Yep. That girl was all by her lonesome, you see."
+msgstr "Già. Quella ragazza era tutta sola, vedi."
+
+msgctxt "1212_Oyama"
+msgid "She said a stalker was following her, and asked me to shake him loose."
+msgstr ""
+"Ha detto che uno stalker la stava seguendo, e mi ha chiesto di "
+"seminarglielo."
+
+msgctxt "1224_Kiryu"
+msgid "So he really was stalking her, then..."
+msgstr "Allora la stava davvero seguendo..."
+
+msgctxt "1236_Oyama"
+msgid ""
+"Yeah, and it wasn't the first time, either. Sounds like he's\r\n"
+"been at it for a while."
+msgstr ""
+"Già, e non era nemmeno la prima volta. Sembra che stia\n"
+"andando avanti così da un po'."
+
+msgctxt "1248_Kiryu"
+msgid ""
+"I see. I could tell something was wrong with my passenger\r\n"
+"right from the start. But I'm glad the girl is safe."
+msgstr ""
+"Capisco. Ho capito che c'era qualcosa che non andava con il mio passeggero\n"
+"fin dall'inizio. Ma sono contento che la ragazza sia al sicuro."
+
+msgctxt "1260_Oyama"
+msgid ""
+"Indeed. This isn't the first time I've picked her up either. My daughter's "
+"around her age, so I guess I feel compelled to see her out of harm's way."
+msgstr ""
+"In effetti. Non è la prima volta che la carico neanch'io. Mia figlia ha più "
+"o meno la sua età, quindi immagino di sentirmi in dovere di vederla al "
+"sicuro."
+
+msgctxt "1272_Kiryu"
+msgid "That's good of you..."
+msgstr "È un bel gesto da parte tua..."
+
+msgctxt "1284_Oyama"
+msgid "Well, I'd better get back to work. Thanks for cooperating, eh?"
+msgstr "Beh, è meglio che torni al lavoro. Grazie per la collaborazione, eh?"
+
+msgctxt "1296_Kiryu"
+msgid "No, thank you."
+msgstr "No, grazie."
+
+msgctxt "1308_Kiryu"
+msgid "Sorry. I tried my best, but I lost them."
+msgstr "Scusa. Ho fatto del mio meglio, ma li ho persi."
+
+msgctxt "1320_Creeper"
+msgid ""
+"Aw, crap! And I was <Italic>this</Italic> close to figuring out where Ryoko-"
+"chan lives!"
+msgstr ""
+"Maledizione! Ed ero <Italic>a tanto così</Italic> dallo scoprire dove abita "
+"Ryoko-chan!"
+
+msgctxt "1332_Creeper"
+msgid "Why'd you do it, huh!? You lost her on purpose! Didn't you!"
+msgstr "Perché l'hai fatto, eh!? L'hai persa apposta! Non è vero!?"
+
+msgctxt "1344_Kiryu"
+msgid "Don't be rude, sir. Of course I didn't."
+msgstr "Non sia maleducato, signore. Certo che no."
+
+msgctxt "1356_Man"
+msgid ""
+"Hmph! You're full of shit. Fine then! This lion's just gonna have to chase "
+"his gazelle on foot!"
+msgstr ""
+"Hmph! Sei un bugiardo di merda. Va bene allora! Questo leone dovrà inseguire"
+" la sua gazzella a piedi!"
+
+msgctxt "1368_Creeper"
+msgid "Oh, and I'm never takin' your stinkin' taxi again!"
+msgstr "Oh, e non prenderò mai più il tuo schifoso taxi!"
+
+msgctxt "1392_Kiryu"
+msgid "Hold on, sir! Your fare!"
+msgstr "Aspetti, signore! Il conto!"
+
+msgctxt "1404_Kiryu"
+msgid "Damn..."
+msgstr "Cavolo..."
+
+msgctxt "1428_Taxi Driver"
+msgid "Ah, there you are."
+msgstr "Ah, eccoti."
+
+msgctxt "1440_Kiryu"
+msgid "Do I know you?"
+msgstr "Ti conosco?"
+
+msgctxt "1452_Taxi Driver"
+msgid "The name's Oyama. I was driving the taxi in front of you earlier."
+msgstr "Mi chiamo Oyama. Ero alla guida del taxi davanti a te poco fa."
+
+msgctxt "1464_Oyama"
+msgid "You lost me intentionally back there, right? Thanks for doing that."
+msgstr "Mi hai seminato apposta là dietro, vero? Grazie per averlo fatto."
+
+msgctxt "1476_Kiryu"
+msgid "Oh, that was you? Sorry, I never wanted to tail you."
+msgstr "Ah, eri tu? Scusa, non ho mai voluto seguirti."
+
+msgctxt "1488_Oyama"
+msgid "Mm, that's okay. I could tell something was up."
+msgstr "Mmm, va bene. Ho capito che c'era qualcosa sotto."
+
+msgctxt "1500_Kiryu"
+msgid ""
+"Do you have any idea what was going on between our\r\n"
+"passengers?"
+msgstr ""
+"Hai idea di cosa stesse succedendo tra i nostri\n"
+"passeggeri?"
+
+msgctxt "1512_Oyama"
+msgid "Not much. Mine was a young girl."
+msgstr "Non molto. La mia era una ragazzina."
+
+msgctxt "1524_Oyama"
+msgid "She said a stalker was following her, and asked me to shake him off."
+msgstr ""
+"Ha detto che uno stalker la stava seguendo, e mi ha chiesto di seminarlo."
+
+msgctxt "1536_Kiryu"
+msgid "Has this happened before?"
+msgstr "Ti è già capitato?"
+
+msgctxt "1548_Oyama"
+msgid ""
+"Apparently this wasn't the first time. It sounds like he's been after her a "
+"while."
+msgstr ""
+"A quanto pare non era la prima volta. Sembra che le stia dietro da un po'."
+
+msgctxt "1560_Oyama"
+msgid "Thanks to you, nothin' came of it, though."
+msgstr "Grazie a te, non ne è saltato fuori niente, però."
+
+msgctxt "1572_Kiryu"
+msgid ""
+"So that's what he was up to... I knew something about him\r\n"
+"was off."
+msgstr ""
+"Allora è questo che combinava... Sapevo che c'era qualcosa che non andava\n"
+"in lui."
+
+msgctxt "1584_Kiryu"
+msgid "Well, I'm just glad the girl ended up safe."
+msgstr "Beh, sono solo contento che la ragazza sia finita sana e salva."
+
+msgctxt "1596_Oyama"
+msgid ""
+"Shame this sort of thing happens... I've picked this girl up a few times "
+"now. She's around my daughter's age, so I wanted to make sure she was all "
+"right."
+msgstr ""
+"Che brutta storia che succedano 'ste cose... Ho caricato questa ragazza un "
+"paio di volte ormai. Ha più o meno l'età di mia figlia, e quindi volevo "
+"essere sicuro che fosse a posto."
+
+msgctxt "1608_Kiryu"
+msgid "...That's good of you."
+msgstr "...Bel gesto."
+
+msgctxt "1620_Oyama"
+msgid "Well, I'd better get back to work. Thanks for cooperating."
+msgstr "Beh, è meglio che mi rimetta al lavoro. Grazie per aver collaborato."
+
+msgctxt "1632_Kiryu"
+msgid "No, thank you."
+msgstr "No, grazie."
+
+msgctxt "1656_Wada"
+msgid "There's the man. Hey, Suzuki-san!"
+msgstr "Eccolo. Ehi, Suzuki-san!"
+
+msgctxt "1668_Kiryu"
+msgid "Oh, Wada-san. How are you feeling?"
+msgstr "Oh, Wada-san. Come si sente?"
+
+msgctxt "1680_Wada"
+msgid ""
+"Better. I appreciate you taking over. Whatever foul plague\r\n"
+"was infesting my stomach has started to clear up already."
+msgstr ""
+"Meglio. Ti ringrazio per avermi sostituito. Qualunque brutta piaga\n"
+"che mi stava infestando lo stomaco ha iniziato a passare già."
+
+msgctxt "1692_Kiryu"
+msgid "Good to hear."
+msgstr "Bello a sapersi."
+
+msgctxt "1704_Wada"
+msgid "Okay, then it's back to work for me. Thanks again."
+msgstr "Ok, allora mi rimetto al lavoro. Grazie ancora."
+
+msgctxt "1716_Kiryu"
+msgid "Sure thing."
+msgstr "Ma certo!"
+
+msgctxt "1800_Mack"
+msgid "Hm..."
+msgstr "Mmm..."
+
+msgctxt "1812_Mack"
+msgid "Hmmmmmm..."
+msgstr "Mmmmmmm..."
+
+msgctxt "1824_Mack"
+msgid ""
+"...Kiryu-san. My Mack senses. They speak to me. A decisive moment's in the "
+"making, and it's gonna go down nearby!"
+msgstr ""
+"...Kiryu-san. I miei sensi da Mack. Mi stanno parlando. Un momento decisivo "
+"è in arrivo, e si scatenerà qui vicino!"
+
+msgctxt "1836_Kiryu"
+msgid "How can you tell?"
+msgstr "Come fai a dirlo?"
+
+msgctxt "1848_Mack"
+msgid ""
+"Shoot, I've taken so many of these dang photos, it's like I\r\n"
+"have a sixth sense! ...For good shots, not ghosts, ya dig."
+msgstr ""
+"Accidenti, ho scattato così tante di queste dannate foto, è come se\n"
+"avessi un sesto senso! ...Per i buoni scatti, non per i fantasmi, capisci?"
+
+msgctxt "1860_Mack"
+msgid ""
+"But yeah! I know a Revelation's about to happen here.\r\n"
+"I can feel it rattlin' away in my bones!"
+msgstr ""
+"Ma sì! So che una Rivelazione sta per accadere qui.\n"
+"Me la sento ronzare nelle ossa!"
+
+msgctxt "1872_dummy"
+msgid ""
+"You can learn new techniques by witnessing\r\n"
+"Revelations around town."
+msgstr ""
+"Puoi imparare nuove tecniche osservando\\nRivelazioni in giro per la città."
+
+msgctxt "1884_dummy"
+msgid ""
+"To trigger a Revelation, you'll need to resolve\r\n"
+"problems that occur in that locale."
+msgstr ""
+"Per attivare una Rivelazione, dovrai risolvere\\ni problemi che si "
+"verificano in quella località."
+
+msgctxt "1896_dummy"
+msgid ""
+"There's no way of knowing what events will\r\n"
+"trigger a Revelation, but it pays to try and fix\r\n"
+"any sticky situations you come across."
+msgstr ""
+"Non si sa mai quali eventi\n"
+"attiveranno una Rivelazione, ma conviene cercare di risolvere\n"
+"ogni situazione spinosa che ti capita a tiro."
+
+msgctxt "1908_dummy"
+msgid ""
+"You can also unlock new techniques by using\r\n"
+"certain weapons enough times."
+msgstr ""
+"Puoi anche sbloccare nuove tecniche usando\\ncerte armi abbastanza volte."
+
+msgctxt "1920_dummy"
+msgid ""
+"The weapons and techniques unlocked differ\r\n"
+"from character to character. Try using a variety\r\n"
+"of weapons and see what you can discover."
+msgstr ""
+"Le armi e le tecniche sbloccate differiscono\n"
+"da personaggio a personaggio. Prova a usare una varietà\n"
+"di armi e vedi cosa riesci a scoprire."
+
+msgctxt "1944_Mack"
+msgid "Hold on. Gotta take this real quick."
+msgstr "Un attimo. Devo fare 'sta cosa al volo."
+
+msgctxt "1956_Mack"
+msgid "Our date?"
+msgstr "Il nostro appuntamento?"
+
+msgctxt "1968_Mack"
+msgid "Oh, of course! Our date!"
+msgstr "Oh, certo! Il nostro appuntamento!"
+
+msgctxt "1980_Mack"
+msgid "Ahaha! Sorry, honey."
+msgstr "Ahaha! Scusa, tesoro."
+
+msgctxt "1992_Mack"
+msgid "No, I didn't forget! I was just... uh... having a Revelation?"
+msgstr "No, non ho dimenticato! Stavo solo... uh... avendo una Rivelazione?"
+
+msgctxt "2004_Mack"
+msgid ""
+"No, no, wait! I was actually on my way right now! Be there fast as I can!"
+msgstr "No, no, aspetta! Stavo proprio arrivando adesso! Arrivo subito!"
+
+msgctxt "2016_Mack"
+msgid "Love you, sweetheart. See you in a few, okay?"
+msgstr "Ti amo, tesoro. Ci vediamo tra poco, okay?"
+
+msgctxt "2040_dummy"
+msgid "My b, Kiryu-san."
+msgstr "Colpa mia, Kiryu-san."
+
+msgctxt "2052_Kiryu"
+msgid "What happened?"
+msgstr "Che è successo?"
+
+msgctxt "2064_Mack"
+msgid "Gotta bounce. Something urgent just sprung up."
+msgstr "Devo filare. È saltata fuori una cosa urgente."
+
+msgctxt "2076_Mack"
+msgid ""
+"I do hate to miss a photo op－feels like my heart's getting sliced clean in "
+"two."
+msgstr ""
+"Odio da morire perdermi un'occasione per una foto: mi sento il cuore "
+"tagliato a metà."
+
+msgctxt "2088_Mack"
+msgid ""
+"But I know you can do it, Kiryu-san! You're always the man for the job!"
+msgstr ""
+"Ma so che puoi farcela, Kiryu-san! Sei sempre l'uomo giusto per il lavoro!"
+
+msgctxt "2100_Kiryu"
+msgid "Hey, just a minute here..."
+msgstr "Ehi, aspetta un attimo..."
+
+msgctxt "2112_Mack"
+msgid "Adios, amigo!"
+msgstr "Adios, amigo!"
+
+msgctxt "2136_Kiryu"
+msgid ""
+"(He seemed pretty sure something was about to go down here... But what could"
+" it be?)"
+msgstr ""
+"(Sembrava piuttosto sicuro che qui stesse per succedere qualcosa di "
+"grosso... Ma cosa poteva essere?)"
+
+msgctxt "2148_Kiryu"
+msgid "(In any case, I'd better get this cab back over to Nagasu Taxi.)"
+msgstr "Ad ogni modo, farei meglio a riportare questo taxi alla Nagasu Taxi."
+
+msgctxt "2172_Man"
+msgid "Hey! You! I need a ride, quick!"
+msgstr "Ehi tu! Mi serve un passaggio, subito!"
+
+msgctxt "2184_Man"
+msgid "*gasp* Follow that cab up ahead! *pant*"
+msgstr "*ansimo* Insegui quel taxi là davanti! *ansimo*"
+
+msgctxt "2196_Kiryu"
+msgid "Uh..."
+msgstr "Ehm..."
+
+msgctxt "2208_Man"
+msgid "What, you gonna turn down a payin' customer!?"
+msgstr "Cosa, ti metti a rifiutare un cliente che paga!?"
+
+msgctxt "2220_Kiryu"
+msgid "I never said that."
+msgstr "Non l'ho mai detto."
+
+msgctxt "2232_Man"
+msgid "Then step on it! They're getting away!"
+msgstr "Allora pigia! Stanno scappando!"
+
+msgctxt "2244_Kiryu"
+msgid ""
+"(Refusing a ride might not look good on the company. And he's already pretty"
+" agitated... Guess I have no choice.)"
+msgstr ""
+"(Rifiutare un passaggio non farebbe una bella figura per la compagnia. E lui"
+" è già piuttosto agitato... Mi sa che non ho scelta.)"
+
+msgctxt "2256_Kiryu"
+msgid "Okay, get in."
+msgstr "Va bene, sali."
+
+msgctxt "2268_Man"
+msgid ""
+"Make sure you don't let them know we're following them...\r\n"
+"Heh, heheheh."
+msgstr ""
+"Assicurati di non far capire loro che li stiamo seguendo...\n"
+"Heh, heheheh."
+
+msgctxt "2280_Creeper"
+msgid ""
+"You're gonna lead me right to your doorstep, Ryoko-chan,\r\n"
+"my sweet!"
+msgstr ""
+"Mi condurrai dritto alla tua porta, Ryoko-chan,\n"
+"mia cara!"
+
+msgctxt "2292_Kiryu"
+msgid ""
+"(Something's really off about this guy. I should probably let the other taxi"
+" get away and make it look like an accident.)"
+msgstr ""
+"(Questo tizio non mi convince per niente. Forse dovrei lasciare che l'altro "
+"taxi scappi e farla passare per un incidente.)"
+
+msgctxt "2316_Wada"
+msgid "Oh, Suzuki-san. Just the man I wanted to see."
+msgstr "Oh, Suzuki-san. Proprio l'uomo che volevo vedere."
+
+msgctxt "2340_Kiryu"
+msgid "Wada-san? What can I help you with?"
+msgstr "Wada-san? Cosa posso fare per lei?"
+
+msgctxt "2352_Wada"
+msgid ""
+"So, I was right in the middle of a ride, see, when all of a sudden the "
+"bubbleguts got me. Stomach pains, y'know? Anyway they got so bad I had to "
+"get up and push out a great big－"
+msgstr ""
+"Allora, stavo proprio nel bel mezzo di un passaggio, capisci, quando "
+"all'improvviso mi sono venute le budella in subbuglio. Mal di pancia, sai? "
+"Comunque sono diventati così forti che ho dovuto alzarmi e spingere fuori un"
+" gran bel－"
+
+msgctxt "2364_Kiryu"
+msgid "I think I get the picture. Are you gonna be okay?"
+msgstr "Credo di aver capito. Te la caverai?"
+
+msgctxt "2376_Wada"
+msgid ""
+"Not till it all settles down... down there. Anyway, I explained to the chief"
+" that I'm a little backed up, so I'm gonna need some backup."
+msgstr ""
+"Non finché non si calma tutto... laggiù. Comunque, ho spiegato al capo che "
+"sono un po' intasato, quindi mi servirà qualche rinforzo."
+
+msgctxt "2388_Wada"
+msgid ""
+"I know you're technically off-shift, but would you mind taking this "
+"passenger for me?"
+msgstr ""
+"So che sei tecnicamente fuori turno, ma ti dispiacerebbe prendere questo "
+"passeggero per me?"
+
+msgctxt "2400_Kiryu"
+msgid "Do you really need me to do it?"
+msgstr "Serve proprio che lo faccia io?"
+
+msgctxt "2412_Wada"
+msgid ""
+"I could certainly use the help. I'll go ahead and notify the chief that－ "
+"Ooh! Oh geez! Owowow!"
+msgstr ""
+"Mi farebbe senz'altro comodo una mano. Mi sbrigo a riferire al capo che－ "
+"Ugh! Oh cavolo! Ahi, ahi, ahi!"
+
+msgctxt "2424_Kiryu"
+msgid ""
+"(Looks like he's in pretty bad shape. He should probably be lying down.)"
+msgstr "(Sembra che sia messo proprio male. Dovrebbe forse sdraiarsi.)"
+
+msgctxt "2436_Kiryu"
+msgid ""
+"Okay, you just leave it to me. Go get off your feet as soon as you can."
+msgstr "Ok, lascia fare a me. Vai a riposarti il prima possibile."
+
+msgctxt "2448_dummy"
+msgid ""
+"Whew, I owe ya one... Um, 'scuse me. Another driver will be taking over from"
+" here, one of our finest. Will that be all right with you, sir?"
+msgstr ""
+"Uff, te ne devo una... Ehm, mi scusi. Un altro autista subentrerà da qui, "
+"uno dei nostri migliori. Le va bene così, signore?"
+
+msgctxt "2460_dummy"
+msgid "......"
+msgstr "......"
+
+msgctxt "2472_dummy"
+msgid "I owe you one, Suzuki-san... Ooof."
+msgstr "Te ne devo una, Suzuki-san... Uff."
+
+msgctxt "2484_Kiryu"
+msgid "Sorry to keep you waiting."
+msgstr "Scusa se ti ho fatto aspettare."
+
+msgctxt "2496_Man in Black"
+msgid "......"
+msgstr "......"
+
+msgctxt "2508_Kiryu"
+msgid "(Huh? I know this guy...)"
+msgstr "(Eh? Conosco questo tizio...)"
+
+msgctxt "2520_Man in Black"
+msgid ""
+"Do my eyes deceive me, or is that the baddest cat to ever walk the streets "
+"of Japan?"
+msgstr ""
+"I miei occhi mi stanno ingannando, o quello è il pezzo da novanta più tosto "
+"che abbia mai messo piede per le strade del Giappone?"
+
+msgctxt "2532_Man in Black"
+msgid ""
+"Whoa-ho-ho, I knew it! Kiryu-san! Dude, it's me, Mack Shinozuka! We used to "
+"kick it a few years back."
+msgstr ""
+"Uo-ho-ho, lo sapevo! Kiryu-san! Amico, sono io, Mack Shinozuka! Ci si vedeva"
+" in giro qualche anno fa."
+
+msgctxt "2544_Mack"
+msgid "Remember?"
+msgstr "Ti ricordi?"
+
+msgctxt "2556_Kiryu"
+msgid ""
+"(That's right, we have met before. He's a photographer that travels around "
+"the world, if I recall correctly. But...)"
+msgstr ""
+"(Esatto, ci siamo già incontrati. È un fotografo che viaggia per il mondo, "
+"se non ricordo male. Ma...)"
+
+msgctxt "2568_Kiryu"
+msgid "Sorry, I think you have the wrong guy. I'm Suzuki."
+msgstr "Scusi, credo che abbia sbagliato persona. Sono Suzuki."
+
+msgctxt "2580_Mack"
+msgid "Hahaha, whatever you say, Kiryu-san! Man, it's good to see you again!"
+msgstr "Ahahah, come dici tu, Kiryu-san! Amico, è bello rivederti!"
+
+msgctxt "2592_Kiryu"
+msgid "Like I said, my name is Suzuki..."
+msgstr "Come ho detto, mi chiamo Suzuki..."
+
+msgctxt "2604_Mack"
+msgid ""
+"Sure is a trip running into you out here! Shouldn't you be in Kamurocho, "
+"doing crazy yakuza stuff－you know, busting heads, taking names?"
+msgstr ""
+"È pazzesco beccarti qui fuori! Non dovresti essere a Kamurocho, a fare le "
+"tue solite robe da yakuza toste—sai, spaccare teste e farti un nome?"
+
+msgctxt "2616_Kiryu"
+msgid ""
+"(He's not listening... I can't risk anyone hearing this, so I'd better get "
+"us both on the road.)"
+msgstr ""
+"(Non mi sta ascoltando... Non posso rischiare che qualcuno senta questo, "
+"quindi è meglio che lo faccia salire e partiamo.)"
+
+msgctxt "2628_Kiryu"
+msgid "I'll get you where you want to go, sir. Please, hop in."
+msgstr "La porterò dove desidera, signore. Prego, salga."
+
+msgctxt "2640_Mack"
+msgid "You got it, Kiryu-san, old buddy!"
+msgstr "Capito, Kiryu-san, vecchio amico!"
+
+msgctxt "2664_Kiryu"
+msgid "(<Color:7>Olivier<Color:Default>'s the spot, huh...)"
+msgstr "(<Color:7>Olivier<Color:Default> è il posto, eh...)"
+
+msgctxt "2700_Nakajima"
+msgid "Phew, that was a feast! Man, their sashimi really is somethin' else."
+msgstr ""
+"Cavolo, che scorpacciata! Amico, il loro sashimi è davvero una roba "
+"pazzesca."
+
+msgctxt "2712_Nakajima"
+msgid "Huh? That you, Suzuki-san?"
+msgstr "Eh? Sei tu, Suzuki-san?"
+
+msgctxt "2724_Kiryu"
+msgid "Yeah, it's me."
+msgstr "Sì, sono io."
+
+msgctxt "2736_Nakajima"
+msgid "Oh. Well what brings ya out here?"
+msgstr "Oh. Bene, cosa ti porta qui fuori?"
+
+msgctxt "2748_Kiryu"
+msgid "Actually... Hirakawa-san asked me to come get you."
+msgstr "In realtà... Hirakawa-san mi ha chiesto di venire a prenderti."
+
+msgctxt "2760_Nakajima"
+msgid "What, I stay out too long or somethin'? Sorry 'bout that."
+msgstr ""
+"Cosa, sono rimasto fuori troppo a lungo o roba del genere? Scusa per quello."
+
+msgctxt "2772_Nakajima"
+msgid ""
+"All I remember is I was havin' a mighty good meal, so I ordered some more "
+"drinks and... poof! Where's the time all go? Hahaha!"
+msgstr ""
+"Tutto quello che ricordo è che mi stavo facendo una gran bella scorpacciata,"
+" così ho ordinato ancora da bere e... puff! Dov'è finito tutto il tempo? "
+"Hahaha!"
+
+msgctxt "2784_Kiryu"
+msgid "Sorry to interrupt, Chief, but..."
+msgstr "Mi scusi l'interruzione, Capo, ma..."
+
+msgctxt "2796_Nakajima"
+msgid "Yeah?"
+msgstr "Sì?"
+
+msgctxt "2808_Kiryu"
+msgid ""
+"Something urgent has actually come up. Would it be all right if I asked you "
+"to head back alone?"
+msgstr ""
+"In realtà è saltato fuori qualcosa di urgente. Ti dispiacerebbe se ti "
+"chiedessi di tornare indietro da solo?"
+
+msgctxt "2820_Nakajima"
+msgid "Y'got it, buddy. Not a problem."
+msgstr "Certo, amico. Nessun problema."
+
+msgctxt "2832_Kiryu"
+msgid "Thank you. I really appreciate it."
+msgstr "Grazie. Te ne sono davvero grato."
+
+msgctxt "2856_Kiryu"
+msgid "(So the Omi Alliance sent Watase over to Olivier.)"
+msgstr "(Allora l'Alleanza Omi ha mandato Watase da Olivier.)"
+
+msgctxt "2868_Kiryu"
+msgid ""
+"(Things are bound to go wrong if Morinaga gets there before I do. I have to "
+"get to him first!)"
+msgstr ""
+"(Le cose andranno sicuramente male se Morinaga ci arriva prima di me. Devo "
+"raggiungerlo per primo!)"
+
+msgctxt "2904_Kiryu"
+msgid ""
+"(The chief's favorite diner is in the <Color:7>alley at the north end of "
+"Chikuzengawa Street<Color:Default>.)"
+msgstr ""
+"(La tavola calda preferita del Capo è nel <Color:7>vicolo all'estremità nord"
+" di Chikuzengawa Street<Color:Default>.)"
+
+msgctxt "2940_Aizawa"
+msgid "I never meant to intrude!"
+msgstr "Non volevo intromettermi!"
+
+msgctxt "2952_Aizawa"
+msgid ""
+"But I couldn't take him to the hospital, and there was\r\n"
+"nowhere else to go... You were the only option I had."
+msgstr ""
+"Ma non potevo portarlo all'ospedale, e non c'era\n"
+"altro posto dove andare... Eri l'unica opzione che avevo."
+
+msgctxt "2964_Kiryu"
+msgid "How did you know where I live?"
+msgstr "Come sapevi dove vivo?"
+
+msgctxt "2976_Aizawa"
+msgid ""
+"After we learned a \"Taichi Suzuki\" drove the last taxi the chairman got "
+"in, we got hold of the local real estate info and tracked you down."
+msgstr ""
+"Dopo che abbiamo scoperto che un \"Taichi Suzuki\" ha guidato l'ultimo taxi "
+"su cui è salito il presidente, abbiamo messo le mani sulle informazioni "
+"immobiliari della zona e ti abbiamo rintracciato."
+
+msgctxt "2988_Aizawa"
+msgid ""
+"The only rental contract for a Taichi Suzuki here was your place, so it "
+"wasn't hard to find."
+msgstr ""
+"L'unico contratto di affitto per un Taichi Suzuki qui era il tuo posto, "
+"quindi non è stato difficile trovarlo."
+
+msgctxt "3000_Kiryu"
+msgid "I see... Why didn't you come see me earlier, then?"
+msgstr "Capisco... Perché non sei venuto a trovarmi prima, allora?"
+
+msgctxt "3012_Aizawa"
+msgid ""
+"Morinaga-aniki wanted to do things right. He says as representatives of the "
+"Tojo Clan, we can't be seen breaking code."
+msgstr ""
+"Morinaga-aniki voleva fare le cose per bene. Dice che, in quanto "
+"rappresentanti del Clan Tojo, non possiamo essere visti infrangere il "
+"codice."
+
+msgctxt "3024_Kiryu"
+msgid "So that's why you came to wait for me after work."
+msgstr "Ecco perché sei venuto ad aspettarmi dopo il lavoro."
+
+msgctxt "3036_Aizawa"
+msgid "Right. Morinaga-aniki does everything by the book, no matter what."
+msgstr ""
+"Giusto. Morinaga-aniki fa sempre tutto alla lettera, a prescindere da tutto."
+
+msgctxt "3048_Kiryu"
+msgid ""
+"So what happened? That doesn't look like something you get from a regular "
+"brawl."
+msgstr ""
+"Allora, che è successo? Quella non sembra una ferita che ti fai in una rissa"
+" qualsiasi."
+
+msgctxt "3060_Aizawa"
+msgid "Some Yamagasa men got the drop on us."
+msgstr "Degli uomini Yamagasa ci hanno colto di sorpresa."
+
+msgctxt "3072_Kiryu"
+msgid "They attacked you?"
+msgstr "Ti hanno attaccato?"
+
+msgctxt "3084_Aizawa"
+msgid ""
+"Ever since Chairman Dojima met Madarame, the Yamagasa Family\r\n"
+"patriarch, their men have been ambushing ours left and right...\r\n"
+"We're ten down already."
+msgstr ""
+"Da quando il Presidente Dojima ha incontrato Madarame, il patriarca della Famiglia Yamagasa,\n"
+"i loro uomini hanno iniziato a tendere imboscate ai nostri a destra e a manca...\n"
+"Abbiamo già perso dieci uomini."
+
+msgctxt "3096_Kiryu"
+msgid "Why would they do that?"
+msgstr "Perché farebbero una cosa del genere?"
+
+msgctxt "3108_Kiryu"
+msgid "I thought the alliance talks were going well."
+msgstr "Pensavo che i colloqui per l'alleanza stessero andando bene."
+
+msgctxt "3120_Aizawa"
+msgid "That only goes for upper management."
+msgstr "Questo vale solo per i vertici."
+
+msgctxt "3132_Aizawa"
+msgid ""
+"Their men on the street aren't too happy about the Tojo Clan being in "
+"Fukuoka."
+msgstr ""
+"I loro uomini in strada non sono affatto contenti della presenza del Clan "
+"Tojo a Fukuoka."
+
+msgctxt "3144_Kiryu"
+msgid "Okay... But why come to me?"
+msgstr "Va bene... Ma perché proprio da me?"
+
+msgctxt "3156_Kiryu"
+msgid "Surely your fellow Tojo Clan members could help."
+msgstr "Ma i tuoi compagni del Clan Tojo potrebbero darti una mano."
+
+msgctxt "3168_Aizawa"
+msgid "Not possible."
+msgstr "Non è possibile."
+
+msgctxt "3180_Kiryu"
+msgid "Why not?"
+msgstr "Perché no?"
+
+msgctxt "3192_Aizawa"
+msgid ""
+"We're the chairman's bodyguards. When he went missing, that fell on "
+"Morinaga-aniki."
+msgstr ""
+"Siamo le guardie del corpo del presidente. Quando è scomparso, è toccato a "
+"Morinaga-aniki."
+
+msgctxt "3204_Aizawa"
+msgid "There's gonna be hell to pay, even if he shows up now."
+msgstr "Ci saranno guai grossi, anche se si facesse vivo adesso."
+
+msgctxt "3216_Aizawa"
+msgid ""
+"And if anyone found out Morinaga-aniki got bruised up by the Yamagasa on top"
+" of losing the chairman, he'd really be in for it."
+msgstr ""
+"E se qualcuno scoprisse che Morinaga-aniki è stato malmenato dagli Yamagasa "
+"oltre ad aver perso il presidente, sarebbe davvero in grossi guai."
+
+msgctxt "3228_Kiryu"
+msgid "But it isn't his fault he got ambushed."
+msgstr "Ma non è colpa sua se è stato vittima di un agguato."
+
+msgctxt "3240_Aizawa"
+msgid "That wouldn't matter to Patriarch Aoyama. He doesn't like excuses."
+msgstr ""
+"Questo non importerebbe al Patriarca Aoyama. Non gli piacciono le scuse."
+
+msgctxt "3252_Aizawa"
+msgid "And... he lets nothing go unpunished."
+msgstr "E... non lascia nulla impunito."
+
+msgctxt "3264_Kiryu"
+msgid ""
+"Yakuza families aren't like companies. He won't get far just by playing "
+"authoritarian."
+msgstr ""
+"Le famiglie yakuza non sono come le aziende. Non andrà lontano solo a fare "
+"l'autoritario."
+
+msgctxt "3276_Aizawa"
+msgid "I hear what you're saying."
+msgstr "Capisco quello che dici."
+
+msgctxt "3288_Aizawa"
+msgid ""
+"But it's a known fact that Patriarch Aoyama's discipline is what makes the "
+"Tojo Clan strong."
+msgstr ""
+"Ma è risaputo che la disciplina del Patriarca Aoyama è ciò che rende forte "
+"il Clan Tojo."
+
+msgctxt "3300_Aizawa"
+msgid "He shows no mercy to members who betray us or violate an order."
+msgstr "Non perdona i membri che ci tradiscono o violano un ordine."
+
+msgctxt "3312_Aizawa"
+msgid ""
+"Even a big-name family dating back to the third chairman got axed after "
+"causing a scandal."
+msgstr ""
+"Anche una famiglia di spicco risalente al terzo presidente è stata fatta "
+"fuori dopo aver causato uno scandalo."
+
+msgctxt "3324_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "3336_Aizawa"
+msgid ""
+"He's promoted lots of younger families that prove loyal and produce results "
+"instead."
+msgstr ""
+"Ha promosso molte famiglie più giovani che si dimostrano leali e producono "
+"risultati, invece."
+
+msgctxt "3348_Aizawa"
+msgid ""
+"It might sound harsh, but everyone knows where they stand. The whole clan "
+"feels reinvigorated, and morale is high."
+msgstr ""
+"Potrà suonare duro, ma tutti sanno qual è il loro posto. L'intero clan si "
+"sente rinvigorito, e il morale è alto."
+
+msgctxt "3360_Kiryu"
+msgid "Reinvigorated, huh?"
+msgstr "Rinvigorito, eh?"
+
+msgctxt "3372_Kiryu"
+msgid ""
+"I guess me and my brothers from back in the day have fallen behind the "
+"times."
+msgstr ""
+"Immagino che io e i miei fratelli di un tempo siamo rimasti indietro coi "
+"tempi."
+
+msgctxt "3408_Kiryu"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "3432_Aizawa"
+msgid "Hold on! We just want to ask a few questions!"
+msgstr "Fermi! Vogliamo solo fare qualche domanda!"
+
+msgctxt "3444_Yamagasa Family Member"
+msgid "Yeah, right! I know what you Tojo snakes're up to!"
+msgstr "Sì, certo! So cosa state combinando voi, serpenti del Tojo!"
+
+msgctxt "3456_Yamagasa Family Member"
+msgid ""
+"Yer tryin' to pin the fact that your chairman went missing on us, and use "
+"that as an excuse to steal our turf!"
+msgstr ""
+"State cercando di addossarci la colpa della sparizione del vostro "
+"presidente, e usare questo come scusa per rubarci il nostro territorio!"
+
+msgctxt "3468_Aizawa"
+msgid "You want to say that again, asshole?"
+msgstr "Vuoi ripeterlo, stronzo?"
+
+msgctxt "3480_Morinaga"
+msgid "Aizawa! Calm down!"
+msgstr "Aizawa! Stai calmo!"
+
+msgctxt "3492_Aizawa"
+msgid "But Aniki!"
+msgstr "Ma Aniki!"
+
+msgctxt "3504_Morinaga"
+msgid "Aggravating things with the Yamagasa helps nobody."
+msgstr "Inasprire i rapporti con gli Yamagasa non serve a nessuno."
+
+msgctxt "3528_Morinaga"
+msgid ""
+"You'll have to excuse my partner here. He's a bit quick to fly off the "
+"handle."
+msgstr ""
+"Dovrete scusare il mio socio qui. È un po' svelto a perdere le staffe."
+
+msgctxt "3540_Aizawa"
+msgid "Aniki! You're just gonna let this guy walk after what he said!?"
+msgstr "Aniki! Lo lasci andare così dopo quello che ha detto!?"
+
+msgctxt "3552_Yamagasa Family Member"
+msgid ""
+"Hmph, I knew somethin' like this would happen. Us regular ol' Yamagasa boys "
+"were against this alliance from the get-go!"
+msgstr ""
+"Hmph, sapevo che sarebbe successa una roba del genere. Noi, i soliti ragazzi"
+" Yamagasa, eravamo contro quest'alleanza fin dall'inizio!"
+
+msgctxt "3564_Aizawa"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "3576_Yamagasa Family Member"
+msgid ""
+"Look, pal. I dunno how y'run things up in Tokyo, but don't go thinkin' yer "
+"the star of the show here in Fukuoka!"
+msgstr ""
+"Senti, amico. Non so come gestite le cose su a Tokyo, ma non credere di "
+"essere il protagonista qui a Fukuoka!"
+
+msgctxt "3588_Morinaga"
+msgid ""
+"Yes, we understand that, but is there any way you can let this slide? I "
+"assure you I'll discipline my friend here accordingly for the way he's "
+"treated you."
+msgstr ""
+"Sì, lo capiamo, ma c'è un modo per lasciar correre questa cosa? Le assicuro "
+"che rimetterò in riga il mio amico qui come si deve per come l'ha trattato."
+
+msgctxt "3600_Yamagasa Family Member"
+msgid ""
+"No way, you ain't gettin' off that easy! I'm gonna go report this right now!"
+msgstr ""
+"Manco per sogno, non te la caverai così facilmente! Vado a denunciarlo "
+"subito!"
+
+msgctxt "3612_Morinaga"
+msgid "Ngh..."
+msgstr "Ngh..."
+
+msgctxt "3624_Aizawa"
+msgid "Hey, get back here!"
+msgstr "Ehi, torna qui!"
+
+msgctxt "3636_Morinaga"
+msgid ""
+" Stop it, Aizawa. You've done more than enough already. Now come, we need to"
+" keep looking for the chairman."
+msgstr ""
+"Smettila, Aizawa. Ne hai già fatte abbastanza. Ora vieni, dobbiamo "
+"continuare a cercare il presidente."
+
+msgctxt "3660_Aizawa"
+msgid "...Fine."
+msgstr "...Fine."
+
+msgctxt "3672_Kiryu"
+msgid "That guy really needs to learn how to control his temper."
+msgstr "Quel tipo deve proprio imparare a tenere a freno il suo carattere."
+
+msgctxt "3696_Kiryu"
+msgid "The Tojo Clan... Daigo..."
+msgstr "Il Clan Tojo... Daigo..."
+
+msgctxt "3708_Kiryu"
+msgid "I have nothing to do with them now."
+msgstr "Non ho più niente a che fare con loro."
+
+msgctxt "3756_Yakuza-looking Thug"
+msgid "Hey, driver. I ordered a taxi here."
+msgstr "Ehi, tassista. Ho ordinato un taxi qui."
+
+msgctxt "3768_Kiryu"
+msgid "Right. Thank you for waiting. I'm from Nagasu Taxi."
+msgstr "Bene. Grazie per l'attesa. Sono di Nagasu Taxi."
+
+msgctxt "3780_Yakuza-looking Thug"
+msgid "Whatever. Let's roll."
+msgstr "Vabbè. Muoviamoci."
+
+msgctxt "3792_Kiryu"
+msgid "Of course. Where to?"
+msgstr "Certo. Dove andiamo?"
+
+msgctxt "3804_Yakuza-looking Thug"
+msgid "Hakata Station, on the double."
+msgstr "Stazione di Hakata, subito."
+
+msgctxt "3816_Kiryu"
+msgid "Understood."
+msgstr "Capito."

@@ -1,0 +1,1304 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2196"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Staminan Royale<Color:Default>."
+
+msgctxt "2376"
+msgid "You got a <Color:8>Staminan XX<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Staminan XX<Color:Default>."
+
+msgctxt "2544"
+msgid "You got a <Color:8>Staminan X<Color:Default>."
+msgstr "Hai ottenuto uno <Color:8>Staminan X<Color:Default>."
+
+msgctxt "2688"
+msgid "You got 3,000 experience points."
+msgstr "Hai ottenuto 3.000 punti esperienza."
+
+msgctxt "49924"
+msgid "Young Punk"
+msgstr "Giovane Punk"
+
+msgctxt "49928"
+msgid "kaiwabgm_subkanjyonashi"
+msgstr "kaiwabgm_subkanjyonashi"
+
+msgctxt "49932"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "49936"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "49940"
+msgid "Yasuhiro"
+msgstr "Yasuhiro"
+
+msgctxt "49944"
+msgid "SC12_HAL_TLK_sign_write"
+msgstr "SC12_HAL_TLK_sign_write"
+
+msgctxt "49948"
+msgid "Yasuhiko Yamakasi"
+msgstr "Yasuhiko Yamakasi"
+
+msgctxt "49952"
+msgid "Yasuhiro Yamasaki"
+msgstr "Yasuhiro Yamasaki"
+
+msgctxt "49956"
+msgid "Yasuko Yasakami"
+msgstr "Yasuko Yasakami"
+
+msgctxt "49960"
+msgid "Yasuhiko Yakasaki"
+msgstr "Yasuhiko Yakasaki"
+
+msgctxt "49964"
+msgid "Yazuhiro Yamazaki"
+msgstr "Yazuhiro Yamazaki"
+
+msgctxt "49968"
+msgid "WEECP0078"
+msgstr "WEECP0078"
+
+msgctxt "49972"
+msgid "HAL_stand"
+msgstr "HAL_stand"
+
+msgctxt "49976"
+msgid "SC12_HAL_TLK_sign_send"
+msgstr "SC12_HAL_TLK_sign_send"
+
+msgctxt "49980"
+msgid "SC12_M_NML_TLK_sign_kamae"
+msgstr "SC12_M_NML_TLK_sign_kamae"
+
+msgctxt "49984"
+msgid "SC12_M_NML_TLK_sign_get"
+msgstr "SC12_M_NML_TLK_sign_get"
+
+msgctxt "49988"
+msgid "ACDEV0196"
+msgstr "ACDEV0196"
+
+msgctxt "49992"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "49996"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "50000"
+msgid "SC12_HAL_TLK_sign_kamae"
+msgstr "SC12_HAL_TLK_sign_kamae"
+
+msgctxt "50004"
+msgid "Middle-aged Woman"
+msgstr "Donna di mezza età"
+
+msgctxt "50008"
+msgid "Misaki"
+msgstr "Misaki"
+
+msgctxt "50012"
+msgid "Misako Tobayashi"
+msgstr "Misako Tobayashi"
+
+msgctxt "50016"
+msgid "Mizaki Takahachi"
+msgstr "Mizaki Takahachi"
+
+msgctxt "50020"
+msgid "Misaki Takahashi"
+msgstr "Misaki Takahashi"
+
+msgctxt "50024"
+msgid "Mizaki Tabakashi"
+msgstr "Mizaki Tabakashi"
+
+msgctxt "50028"
+msgid "Masaki Tobayakashi"
+msgstr "Masaki Tobayakashi"
+
+msgctxt "50032"
+msgid "SC12_F_NML_TLK_sign_kamae"
+msgstr "SC12_F_NML_TLK_sign_kamae"
+
+msgctxt "50036"
+msgid "SC12_F_NML_TLK_sign_get"
+msgstr "SC12_F_NML_TLK_sign_get"
+
+msgctxt "50040"
+msgid "Avid Fan"
+msgstr "Fan Accanito"
+
+msgctxt "50044"
+msgid "Toshikazu"
+msgstr "Toshikazu"
+
+msgctxt "50048"
+msgid "Tochikazu Sekigushi"
+msgstr "Tochikazu Sekigushi"
+
+msgctxt "50052"
+msgid "Toshiyazu Segikuchi"
+msgstr "Toshiyazu Segikuchi"
+
+msgctxt "50056"
+msgid "Toshikazu Sekiguchi"
+msgstr "Toshikazu Sekiguchi"
+
+msgctxt "50060"
+msgid "Toshigazu Sekigushi"
+msgstr "Toshigazu Sekigushi"
+
+msgctxt "50064"
+msgid "Toshikazu Sekigushi"
+msgstr "Toshikazu Sekigushi"
+
+msgctxt "50068"
+msgid "Passerby"
+msgstr "Passante"
+
+msgctxt "50072"
+msgid "Hideaki"
+msgstr "Hideaki"
+
+msgctxt "50076"
+msgid "Hideaki Ishikawa"
+msgstr "Hideaki Ishikawa"
+
+msgctxt "50080"
+msgid "Hideaki Ishiwaka"
+msgstr "Hideaki Ishiwaka"
+
+msgctxt "50084"
+msgid "Hideki Ishikawa"
+msgstr "Hideki Ishikawa"
+
+msgctxt "50088"
+msgid "Hideaki Ichikawa"
+msgstr "Hideaki Ichikawa"
+
+msgctxt "50092"
+msgid "Hideki Ishiwaka"
+msgstr "Hideki Ishiwaka"
+
+msgctxt "50096"
+msgid "Innocent Child"
+msgstr "Bambino Innocente"
+
+msgctxt "50100"
+msgid "Akiharu"
+msgstr "Akiharu"
+
+msgctxt "50104"
+msgid "Akiharu Fukujima"
+msgstr "Akiharu Fukujima"
+
+msgctxt "50108"
+msgid "Akiharu Fukushima"
+msgstr "Akiharu Fukushima"
+
+msgctxt "50112"
+msgid "Arikaru Fushujima"
+msgstr "Arikaru Fushujima"
+
+msgctxt "50116"
+msgid "Arikaru Fushukima"
+msgstr "Arikaru Fushukima"
+
+msgctxt "50120"
+msgid "Akihime Fushujima"
+msgstr "Akihime Fushujima"
+
+msgctxt "50124"
+msgid "SC12_M_CLD_TLK_sign_kamae"
+msgstr "SC12_M_CLD_TLK_sign_kamae"
+
+msgctxt "50128"
+msgid "SC12_M_CLD_TLK_sign_get"
+msgstr "SC12_M_CLD_TLK_sign_get"
+
+msgctxt "50132"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "50136"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "50140"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "50144"
+msgid "Talk_Get"
+msgstr "Talk_Get"
+
+msgctxt "50148"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "50152"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "50156"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "50160"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "50164"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "50168"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "50172"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "50176"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "72_Young Punk"
+msgid "Hey, me first! Heheh. Wait till the boys see this!"
+msgstr "Ehi, io per primo! Heheh. Aspetta che i ragazzi vedano questo!"
+
+msgctxt "84_Haruka"
+msgid "Who shall I make this out to?"
+msgstr "A chi lo dedico?"
+
+msgctxt "96_Yasuhiro"
+msgid "Can ya do \"Yasuhiro Yamasaki\"?"
+msgstr "Me lo scrivi per \"Yasuhiro Yamasaki\"?"
+
+msgctxt "108_Haruka"
+msgid "All right. Let's see..."
+msgstr "Va bene. Vediamo un po'..."
+
+msgctxt "120_Young Punk"
+msgid "Here you are. Did I get it right?"
+msgstr "Ecco a te. Ho scritto giusto?"
+
+msgctxt "132_Young Punk"
+msgid ""
+"No, no, no! It was supposed to be \"Yasuhiro Yamasaki\"! You\r\n"
+"put \"Yasuhiko Yamakasi\"!"
+msgstr ""
+"No, no, no! Doveva essere \"Yasuhiro Yamasaki\"! Hai\n"
+"scritto \"Yasuhiko Yamakasi\"!"
+
+msgctxt "144_Haruka"
+msgid "Wha－? I did?"
+msgstr "Cosa－? L'ho fatto?"
+
+msgctxt "156_Yasuhiro"
+msgid ""
+"I mean, ya got a few letters right, but that's not how you\r\n"
+"spell my first or last name!"
+msgstr ""
+"Cioè, hai azzeccato qualche lettera, ma non è così che si\n"
+"scrivono il mio nome o cognome!"
+
+msgctxt "168_Haruka"
+msgid "I'm so sorry! Please forgive me!"
+msgstr "Mi dispiace tanto! Ti prego, perdonami!"
+
+msgctxt "180_Young Punk"
+msgid "Here you are. Did I get it right?"
+msgstr "Ecco a te. Ho scritto giusto?"
+
+msgctxt "192_Young Punk"
+msgid ""
+"Yup! You got it! Hey, thanks. The boys're gonna be so\r\n"
+"jealous!"
+msgstr ""
+"Sì! Hai azzeccato! Ehi, grazie. I ragazzi saranno così\n"
+"gelosi!"
+
+msgctxt "204_Haruka"
+msgid "You're very welcome!"
+msgstr "Ma figurati!"
+
+msgctxt "216_Young Punk"
+msgid "Here you are. Did I get it right?"
+msgstr "Ecco a te. Ho scritto giusto?"
+
+msgctxt "228_Young Punk"
+msgid ""
+"No, no, no! It's supposed to be \"Yasuhiro Yamasaki\"! You put\r\n"
+"\"Yasuko Yasakami\"!"
+msgstr ""
+"No, no, no! Doveva essere \"Yasuhiro Yamasaki\"! Hai\n"
+"scritto \"Yasuko Yasakami\"!"
+
+msgctxt "240_Yasuhiro"
+msgid ""
+"I mean, ya got a few letters right, but that's not how you\r\n"
+"spell my first or last name!"
+msgstr ""
+"Cioè, hai azzeccato qualche lettera, ma non è così che si\n"
+"scrivono il mio nome o cognome!"
+
+msgctxt "252_Haruka"
+msgid "I'm so sorry! Please forgive me!"
+msgstr "Mi dispiace tanto! Ti prego, perdonami!"
+
+msgctxt "264_Young Punk"
+msgid "Here you are. Did I get it right?"
+msgstr "Ecco a te. Ho scritto giusto?"
+
+msgctxt "276_Young Punk"
+msgid ""
+"No, no, no! It was supposed to be \"Yasuhiro Yamasaki\"! You put \"Yasuhiko "
+"Yakasaki\"!"
+msgstr ""
+"No, no, no! Doveva essere \"Yasuhiro Yamasaki\"! Hai scritto \"Yasuhiko "
+"Yakasaki\"!"
+
+msgctxt "288_Haruka"
+msgid "Wha－? I did!?"
+msgstr "Cosa?! Ho sbagliato!?"
+
+msgctxt "300_Yasuhiro"
+msgid ""
+"I mean, ya got a few letters right, but that's not how you\r\n"
+"spell my first or last name!"
+msgstr ""
+"Cioè, hai azzeccato qualche lettera, ma non è così che si\n"
+"scrivono il mio nome o cognome!"
+
+msgctxt "312_Haruka"
+msgid "I'm so sorry! Please forgive me!"
+msgstr "Mi dispiace tanto! Ti prego, perdonami!"
+
+msgctxt "324_Young Punk"
+msgid "Here you are. Did I get it right?"
+msgstr "Ecco a te. Ho scritto giusto?"
+
+msgctxt "336_Young Punk"
+msgid "No, no, no! It's supposed to be \"Yasuhiro Yamasaki\"!"
+msgstr "No, no, no! Doveva essere \"Yasuhiro Yamasaki\"!"
+
+msgctxt "348_Haruka"
+msgid "Hm? What did I write?"
+msgstr "Eh? Che ho scritto?"
+
+msgctxt "360_Yasuhiro"
+msgid "You put \"Yazuhiro Yamazaki\"!"
+msgstr "Hai scritto \"Yazuhiro Yamazaki\"!"
+
+msgctxt "372_Yasuhiro"
+msgid ""
+"I mean, ya got a few letters right, but that's not how you\r\n"
+"spell my first or last name!"
+msgstr ""
+"Cioè, hai azzeccato qualche lettera, ma non è così che si\n"
+"scrivono il mio nome o cognome!"
+
+msgctxt "384_Haruka"
+msgid "I'm so sorry! Please forgive me!"
+msgstr "Mi dispiace tanto! Ti prego, perdonami!"
+
+msgctxt "456_Young Punk"
+msgid "I'm next, dearie!"
+msgstr "Sono il prossimo, tesoro!"
+
+msgctxt "468_Haruka"
+msgid "Who should I make it out to?"
+msgstr "A chi lo scrivo?"
+
+msgctxt "480_Misaki"
+msgid ""
+"Make it out to \"Misaki Takahashi.\" Great name, huh? Good\r\n"
+"thing I live up to it!"
+msgstr ""
+"Scrivilo a \"Misaki Takahashi.\" Bel nome, eh? Per\n"
+"fortuna che sono all'altezza!"
+
+msgctxt "492_Haruka"
+msgid "All right. Let's see..."
+msgstr "Ok. Vediamo un po'..."
+
+msgctxt "504_Young Punk"
+msgid "Here you are. Did I get it right?"
+msgstr "Ecco a te. Ho scritto giusto?"
+
+msgctxt "516_Young Punk"
+msgid "Wait a second! Weren't ya listenin'!?"
+msgstr "Un attimo! Ma non stavi a sentire!?"
+
+msgctxt "528_Misaki"
+msgid ""
+"I said \"Misaki Takahashi.\" You wrote \"Misako Tobayashi\"!\r\n"
+"That's way off!"
+msgstr ""
+"Ho detto \"Misaki Takahashi.\" Hai scritto \"Misako Tobayashi\"!\"\n"
+"Non c'hai proprio preso!"
+
+msgctxt "540_Haruka"
+msgid "Oh! I'm so sorry!"
+msgstr "Oh! Mi dispiace tanto!"
+
+msgctxt "552_Misaki"
+msgid "Might wanna clean out your ears next time!"
+msgstr "Magari la prossima volta, apri bene le orecchie!"
+
+msgctxt "564_Young Punk"
+msgid "Here you are. Did I get it right?"
+msgstr "Ecco a te. Ho scritto giusto?"
+
+msgctxt "576_Young Punk"
+msgid ""
+"Ah, I see what ya did. Well, ya got a couple letters right\r\n"
+"at least."
+msgstr ""
+"Ah, ho capito cosa hai combinato. Beh, almeno un paio di lettere le hai "
+"azzeccate."
+
+msgctxt "588_Misaki"
+msgid "I said \"Misaki Takahashi.\" You wrote \"Mizaki Takahachi\"!"
+msgstr "Ho detto \"Misaki Takahashi.\" Hai scritto \"Mizaki Takahachi\"!\""
+
+msgctxt "600_Haruka"
+msgid "Oh! I'm so sorry!"
+msgstr "Oh! Mi dispiace tanto!"
+
+msgctxt "612_Young Punk"
+msgid "Here you are. Did I get it right?"
+msgstr "Ecco a te. Ho scritto giusto?"
+
+msgctxt "624_Young Punk"
+msgid ""
+"Yeah, that's exactly it! Thank you, Haruka! I'll be rootin'\r\n"
+"for ya, girl!"
+msgstr ""
+"Sì, è proprio così! Grazie, Haruka! Farò il tifo\n"
+"per te, Haruka!"
+
+msgctxt "636_Haruka"
+msgid "Thank you very much!"
+msgstr "Grazie mille!"
+
+msgctxt "648_Young Punk"
+msgid "Here you are. Did I get it right?"
+msgstr "Ecco a te. Ho scritto giusto?"
+
+msgctxt "660_Young Punk"
+msgid "What's this? Weren't ya listenin'!?"
+msgstr "Ma cos'è? Non stavi ad ascoltare!?"
+
+msgctxt "672_Misaki"
+msgid ""
+"I said \"Misaki Takahashi.\" You wrote \"Mizaki Tabakashi\"!\r\n"
+"That's way off!"
+msgstr ""
+"Ho detto \"Misaki Takahashi.\" Hai scritto \"Mizaki Tabakashi\"!\n"
+"È tutto sbagliato!"
+
+msgctxt "684_Haruka"
+msgid "Oh! I'm so sorry!"
+msgstr "Oh! Mi dispiace tanto!"
+
+msgctxt "696_Misaki"
+msgid "Might wanna clean out your ears next time!"
+msgstr "Ti conviene darti una pulita alle orecchie la prossima volta!"
+
+msgctxt "708_Young Punk"
+msgid "Here you are. Did I get it right?"
+msgstr "Ecco a te. Ho scritto giusto?"
+
+msgctxt "720_Young Punk"
+msgid "What's this? Weren't ya listenin'!?"
+msgstr "Ma cos'è? Non stavi ad ascoltare!?"
+
+msgctxt "732_Haruka"
+msgid "Oh! Was that wrong?"
+msgstr "Oh! Era sbagliato?"
+
+msgctxt "744_Misaki"
+msgid "I said \"Misaki Takahashi.\" You wrote \"Masaki Tobayakashi\"."
+msgstr "Ho detto \"Misaki Takahashi.\" Hai scritto \"Masaki Tobayakashi\"."
+
+msgctxt "756_Misaki"
+msgid "That's way off!"
+msgstr "È tutto sbagliato!"
+
+msgctxt "768_Haruka"
+msgid "I'm so sorry!"
+msgstr "Mi dispiace tanto!"
+
+msgctxt "840_Young Punk"
+msgid ""
+"This is so exciting! I can't believe I'm going to get your\r\n"
+"autograph! I'm a huge fan!"
+msgstr ""
+"Che emozione pazzesca! Non ci credo che otterrò il tuo\n"
+"autografo! Sono un tuo fan sfegatato!"
+
+msgctxt "852_Haruka"
+msgid "And who am I making this out to?"
+msgstr "E a chi lo dedico?"
+
+msgctxt "864_Toshikazu"
+msgid "It's \"Toshikazu Sekiguchi.\""
+msgstr "È \"Toshikazu Sekiguchi.\""
+
+msgctxt "876_Haruka"
+msgid "All right. Let's see..."
+msgstr "Va bene. Vediamo..."
+
+msgctxt "888_Young Punk"
+msgid "Here you are. Did I get it right?"
+msgstr "Ecco a te. Ho scritto giusto?"
+
+msgctxt "900_Young Punk"
+msgid ""
+"Well, not exactly. I said \"Toshikazu Sekiguchi,\"  but you\r\n"
+"wrote \"Tochikazu Sekigushi.\""
+msgstr ""
+"Beh, non proprio. Ho detto \"Toshikazu Sekiguchi\", ma tu\n"
+"hai scritto \"Tochikazu Sekigushi\"."
+
+msgctxt "912_Haruka"
+msgid "Oh, I'm sorry! Please forgive me!"
+msgstr "Oh, mi dispiace tanto! Ti prego, perdonami!"
+
+msgctxt "924_Toshikazu"
+msgid "I probably didn't say it clearly enough..."
+msgstr "Probabilmente non l'ho detto abbastanza chiaramente..."
+
+msgctxt "936_Young Punk"
+msgid "Here you are. Did I get it right?"
+msgstr "Ecco a te. Ho scritto giusto?"
+
+msgctxt "948_Young Punk"
+msgid "Well, that's kind of close. You were only off by a little."
+msgstr "Beh, ci sei quasi. Ti sei sbagliata solo di poco."
+
+msgctxt "960_Toshikazu"
+msgid ""
+"I said \"Toshikazu Sekiguchi,\" but you wrote \"Toshiyazu\r\n"
+"Segikuchi.\""
+msgstr ""
+"Ho detto \"Toshikazu Sekiguchi\", ma tu hai scritto \"Toshiyazu\n"
+"Segikuchi\"."
+
+msgctxt "972_Haruka"
+msgid "Oh, I'm so sorry!"
+msgstr "Oh, mi dispiace molto!"
+
+msgctxt "984_Toshikazu"
+msgid ""
+"Don't feel bad, Haruka-chan. I probably didn't say it\r\n"
+"clearly enough."
+msgstr ""
+"Non ti preoccupare, Haruka-chan. Probabilmente non l'ho detto\n"
+"abbastanza chiaramente."
+
+msgctxt "996_Young Punk"
+msgid "Here you are. Did I get it right?"
+msgstr "Ecco a te. Ho scritto giusto?"
+
+msgctxt "1008_Young Punk"
+msgid ""
+"Yes, that's right! This is beautiful! I'll treasure it\r\n"
+"forever!"
+msgstr ""
+"Sì, è proprio così! È bellissimo! Lo custodirò\n"
+"per sempre!"
+
+msgctxt "1020_Young Punk"
+msgid "Here you are. Did I get it right?"
+msgstr "Ecco a te. Ho scritto giusto?"
+
+msgctxt "1032_Young Punk"
+msgid ""
+"Well, not exactly. I said \"Toshikazu Sekiguchi,\"  but you\r\n"
+"wrote \"Toshigazu Sekigushi.\""
+msgstr ""
+"Beh, non proprio. Ho detto \"Toshikazu Sekiguchi\", ma tu\n"
+"hai scritto \"Toshigazu Sekigushi\"."
+
+msgctxt "1044_Haruka"
+msgid "Oh, I'm so sorry!"
+msgstr "Oh, mi dispiace molto!"
+
+msgctxt "1056_Toshikazu"
+msgid ""
+"Don't feel bad, Haruka-chan. I probably didn't say it\r\n"
+"clearly enough."
+msgstr ""
+"Non ti preoccupare, Haruka-chan. Probabilmente non l'ho detto\n"
+"abbastanza chiaramente."
+
+msgctxt "1068_Young Punk"
+msgid "Here you are. Did I get it right?"
+msgstr "Ecco a te. Ho scritto giusto?"
+
+msgctxt "1080_Young Punk"
+msgid "Hmm. Not exactly..."
+msgstr "Hmm. Non proprio..."
+
+msgctxt "1092_Toshikazu"
+msgid ""
+"My name's Toshikazu Sekiguchi, but you wrote \"Toshikazu\r\n"
+"Sekigushi.\""
+msgstr ""
+"Mi chiamo Toshikazu Sekiguchi, ma hai scritto \"Toshikazu\n"
+"Sekigushi.\""
+
+msgctxt "1104_Haruka"
+msgid "Oh, I'm so sorry!"
+msgstr "Oh, mi dispiace molto!"
+
+msgctxt "1116_Toshikazu"
+msgid ""
+"That's all right, Haruka! Don't feel bad. I probably didn't\r\n"
+"say it clearly enough."
+msgstr ""
+"Va tutto bene, Haruka! Non ti preoccupare. Probabilmente non l'ho detto\n"
+"abbastanza chiaramente."
+
+msgctxt "1188_Young Punk"
+msgid "My turn! My whole family always watches you on TV, you know!"
+msgstr "Tocca a me! Tutta la mia famiglia ti guarda sempre in TV, lo sai!"
+
+msgctxt "1200_Haruka"
+msgid "Thank you very much! Who am I making this out to?"
+msgstr "Grazie mille! Per chi lo faccio?"
+
+msgctxt "1212_Hideaki"
+msgid "Oh, right! Could you make it out to \"Hideaki Ishikawa\"?"
+msgstr "Ah, giusto! Potresti farlo per \"Hideaki Ishikawa\"?"
+
+msgctxt "1224_Haruka"
+msgid "All right. Let's see..."
+msgstr "Allora. Vediamo..."
+
+msgctxt "1236_Young Punk"
+msgid "Here you are. Did I get it right?"
+msgstr "Ecco a te. Ho scritto giusto?"
+
+msgctxt "1248_Young Punk"
+msgid "That's right! Just like the famous action star!"
+msgstr "Esatto! Proprio come la famosa star d'azione!"
+
+msgctxt "1260_Hideaki"
+msgid ""
+"My favorite of his is that one where he lays the smackdown\r\n"
+"on all those street thugs!"
+msgstr ""
+"Il suo preferito è quello in cui concia per le feste\\ntutti quei teppisti "
+"di strada!"
+
+msgctxt "1272_Hideaki"
+msgid "Man, I wish I was as cool as him!"
+msgstr "Cavolo, vorrei essere figo come lui!"
+
+msgctxt "1284_Haruka"
+msgid "I don't think I've ever seen that movie."
+msgstr "Non credo di aver mai visto quel film."
+
+msgctxt "1296_Hideaki"
+msgid "Well, thanks for the autograph, Haruka-chan!"
+msgstr "Beh, grazie per l'autografo, Haruka-chan!"
+
+msgctxt "1308_Young Punk"
+msgid "Here you are. Did I get it right?"
+msgstr "Ecco a te. Ho scritto giusto?"
+
+msgctxt "1320_Young Punk"
+msgid ""
+"Huh? You've never heard of Hideaki Ishikawa? He's super\r\n"
+"famous. We have the exact same name."
+msgstr ""
+"Eh? Non hai mai sentito parlare di Hideaki Ishikawa? È super\n"
+"famoso. Abbiamo lo stesso identico nome."
+
+msgctxt "1332_Hideaki"
+msgid "But you wrote \"Hideaki Ishiwaka.\""
+msgstr "Ma hai scritto \"Hideaki Ishiwaka\"."
+
+msgctxt "1344_Haruka"
+msgid "I'm so sorry!"
+msgstr "Mi dispiace tanto!"
+
+msgctxt "1356_Hideaki"
+msgid "I guess you're too young to know his movies..."
+msgstr "Immagino tu sia troppo giovane per conoscere i suoi film..."
+
+msgctxt "1368_Young Punk"
+msgid "Here you are. Did I get it right?"
+msgstr "Ecco a te. Ho scritto giusto?"
+
+msgctxt "1380_Young Punk"
+msgid ""
+"Huh? You've never heard of Hideaki Ishikawa? He's super\r\n"
+"famous! We have the exact same name."
+msgstr ""
+"Eh? Non hai mai sentito parlare di Hideaki Ishikawa? È super\n"
+"famoso! Abbiamo lo stesso identico nome."
+
+msgctxt "1392_Hideaki"
+msgid ""
+"But it looks like you wrote \"Hideki Ishikawa.\" Oh well,\r\n"
+"that's all right. At least I got your autograph!"
+msgstr ""
+"Ma hai scritto \"Hideki Ishikawa.\" Vabbè,\n"
+"va bene lo stesso. Almeno ho il tuo autografo!"
+
+msgctxt "1404_Haruka"
+msgid "Did I? I'm so sorry!"
+msgstr "Davvero? Mi dispiace tanto!"
+
+msgctxt "1416_Young Punk"
+msgid "Here you are. Did I get it right?"
+msgstr "Ecco a te. Ho scritto giusto?"
+
+msgctxt "1428_Young Punk"
+msgid ""
+"Huh? You've never heard of Hideaki Ishikawa? He's super\r\n"
+"famous. We have the exact same name."
+msgstr ""
+"Eh? Non hai mai sentito parlare di Hideaki Ishikawa? È super\n"
+"famoso. Abbiamo lo stesso identico nome."
+
+msgctxt "1440_Hideaki"
+msgid "But it looks like you wrote \"Hideaki Ichikawa.\""
+msgstr "Ma hai scritto \"Hideaki Ichikawa\"."
+
+msgctxt "1452_Haruka"
+msgid "I'm so sorry!"
+msgstr "Mi dispiace tanto!"
+
+msgctxt "1464_Hideaki"
+msgid "I guess you're too young to know his movies..."
+msgstr "Immagino tu sia troppo giovane per conoscere i suoi film..."
+
+msgctxt "1476_Young Punk"
+msgid "Here you are. Did I get it right?"
+msgstr "Ecco a te. Ho scritto giusto?"
+
+msgctxt "1488_Young Punk"
+msgid ""
+"Huh? You don't know Hideaki Ishikawa? He's super famous.\r\n"
+"We have the exact same name."
+msgstr ""
+"Eh? Non hai mai sentito parlare di Hideaki Ishikawa? È super famoso.\n"
+"Abbiamo lo stesso identico nome."
+
+msgctxt "1500_Haruka"
+msgid "Oh! I'm so sorry! What did I write?"
+msgstr "Oh! Mi dispiace tanto! Cosa ho scritto?"
+
+msgctxt "1512_Hideaki"
+msgid ""
+"You wrote \"Hideki Ishiwaka.\" Oh well, that's all right.\r\n"
+"At least I got your autograph!"
+msgstr ""
+"Hai scritto \"Hideki Ishiwaka.\" Vabbè, va bene lo stesso.\n"
+"Almeno ho il tuo autografo!"
+
+msgctxt "1584_Young Punk"
+msgid "It's my turn! I saw you on TV!"
+msgstr "È il mio turno! Ti ho vista in TV!"
+
+msgctxt "1596_Haruka"
+msgid "You did? Thanks for watching! What's your name?"
+msgstr "Davvero? Grazie per avermi seguita! Come ti chiami?"
+
+msgctxt "1608_Akiharu"
+msgid "It's \"Akiharu Fukushima.\""
+msgstr "È \"Akiharu Fukushima\"."
+
+msgctxt "1620_Haruka"
+msgid "Wow! That's a pretty complex name."
+msgstr "Wow! È un nome piuttosto complesso."
+
+msgctxt "1632_Akiharu"
+msgid "You think so?"
+msgstr "La pensi così?"
+
+msgctxt "1644_Haruka"
+msgid "You really know how to spell that?"
+msgstr "Sai davvero come si scrive?"
+
+msgctxt "1656_Akiharu"
+msgid "Yup! It's my own name, isn't it?"
+msgstr "Sì! È il mio stesso nome, no?"
+
+msgctxt "1668_Haruka"
+msgid "Right, I guess that makes sense."
+msgstr "Sì, ha senso."
+
+msgctxt "1680_Haruka"
+msgid "All right. Let's see..."
+msgstr "Va bene. Vediamo..."
+
+msgctxt "1692_Young Punk"
+msgid "Here you are. Did I get it right?"
+msgstr "Ecco a te. L'ho scritto bene?"
+
+msgctxt "1704_Young Punk"
+msgid "That's not what I saaaid!"
+msgstr "Non è quello che ho detto!"
+
+msgctxt "1716_Akiharu"
+msgid "You wrote \"Akiharu Fukujima.\" I said \"Akiharu Fukushima.\""
+msgstr "Hai scritto \"Akiharu Fukujima\". Ho detto \"Akiharu Fukushima\"."
+
+msgctxt "1728_Haruka"
+msgid "Oh no! I'm really sorry!"
+msgstr "Oh no! Mi dispiace davvero!"
+
+msgctxt "1740_Akiharu"
+msgid "It's okay."
+msgstr "Va bene."
+
+msgctxt "1752_Young Punk"
+msgid "Here you are. Did I get it right?"
+msgstr "Ecco a te. L'ho scritto bene?"
+
+msgctxt "1764_Young Punk"
+msgid "Yeah! That's perfect! Woohoo!"
+msgstr "Sì! È perfetto! Evvai!"
+
+msgctxt "1776_Haruka"
+msgid "Was it hard to spell your name when you were first learning to write?"
+msgstr ""
+"Ti è stato difficile scrivere il tuo nome quando stavi imparando a scrivere "
+"per la prima volta?"
+
+msgctxt "1788_Akiharu"
+msgid ""
+"Nah, it was easy! What kind of dummy would I be if I\r\n"
+"couldn't write my own name!?"
+msgstr ""
+"Nah, è stato facile! Che razza di dummy sarei se non\n"
+"riuscissi a scrivere il mio nome!?"
+
+msgctxt "1800_Haruka"
+msgid "Yeah, I guess you're right."
+msgstr "Già, immagino tu abbia ragione."
+
+msgctxt "1812_Young Punk"
+msgid "Here you are. Did I get it right?"
+msgstr "Ecco a te. L'ho scritto bene?"
+
+msgctxt "1824_Young Punk"
+msgid ""
+"That's not it! You wrote \"Arikaru Fushujima.\" I said\r\n"
+"\"Akiharu Fukushima.\""
+msgstr ""
+"Non è quello! Hai scritto \"Arikaru Fushujima\". Ho detto\n"
+"\"Akiharu Fukushima\"."
+
+msgctxt "1836_Haruka"
+msgid "Oh no! I'm really sorry!"
+msgstr "Oh no! Mi dispiace davvero!"
+
+msgctxt "1848_Akiharu"
+msgid "I mean, it's not that hard, is it? How were you so off?"
+msgstr ""
+"Cioè, non è mica così difficile, vero? Come hai fatto a sbagliare così "
+"tanto?"
+
+msgctxt "1860_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "1872_Young Punk"
+msgid "Here you are. Did I get it right?"
+msgstr "Ecco a te. L'ho scritto bene?"
+
+msgctxt "1884_Young Punk"
+msgid ""
+"That's not it! You wrote \"Arikaru Fushukima.\" I said\r\n"
+"\"Akiharu Fukushima.\""
+msgstr ""
+"Non è quello! Hai scritto \"Arikaru Fushukima\". Ho detto\n"
+"\"Akiharu Fukushima\"."
+
+msgctxt "1896_Haruka"
+msgid "Oh no! I'm really sorry!"
+msgstr "Oh no! Mi dispiace davvero!"
+
+msgctxt "1908_Akiharu"
+msgid "I mean, it's not that hard, is it? How were you so off?"
+msgstr ""
+"Cioè, non è mica così difficile, vero? Come hai fatto a sbagliare così "
+"tanto?"
+
+msgctxt "1920_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "1932_Young Punk"
+msgid "Here you are. Did I get it right?"
+msgstr "Ecco a te. L'ho scritto bene?"
+
+msgctxt "1944_Young Punk"
+msgid "Nooo! That's not right!"
+msgstr "Nooo! Non è giusto!"
+
+msgctxt "1956_Haruka"
+msgid "Oh, I'm sorry! What did I get wrong?"
+msgstr "Oh, mi dispiace! Cosa ho sbagliato?"
+
+msgctxt "1968_Akiharu"
+msgid ""
+"You wrote \"Akihime Fushujima.\" I said \"Akiharu Fukushima.\"\r\n"
+"And \"Akihime\" is a girl's name! How do you mess it up that\r\n"
+"bad?"
+msgstr ""
+"Hai scritto \"Akihime Fushujima\". Ho detto \"Akiharu Fukushima\".\n"
+"E \"Akihime\" è un nome da ragazza! Come hai fatto a sbagliarlo così\n"
+"tanto?"
+
+msgctxt "1980_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "2064_Young Punk"
+msgid ""
+"All right, people. You all got your autographs! This session\r\n"
+"is now officially over!"
+msgstr ""
+"Bene, gente. Avete preso tutti i vostri autografi! Questa sessione\n"
+"è ora ufficialmente finita!"
+
+msgctxt "2076_Yasuhiro"
+msgid "Like I said before, who made you king!?"
+msgstr "Come ho detto prima, chi ti ha fatto re!?"
+
+msgctxt "2088_Toshikazu"
+msgid "Thank you very much for your time, Haruka-chan."
+msgstr "Grazie mille per il tuo tempo, Haruka-chan."
+
+msgctxt "2112_Young Punk"
+msgid ""
+"Thank you all very much! I hope you'll all continue to\r\n"
+"support me!"
+msgstr ""
+"Grazie mille a tutti! Spero che continuerete a\n"
+"sostenermi!"
+
+msgctxt "2124_Hideaki"
+msgid "Of course we will!"
+msgstr "Ovvio che sì!"
+
+msgctxt "2136_Akiharu"
+msgid "Good luck, Haruka-chan!"
+msgstr "In bocca al lupo, Haruka-chan!"
+
+msgctxt "2148_Misaki"
+msgid "You're the best!"
+msgstr "Sei la migliore!"
+
+msgctxt "2160_Yasuhiro"
+msgid "I'll be watchin' ya on TV!"
+msgstr "Ti guarderò in TV!"
+
+msgctxt "2172_Toshikazu"
+msgid ""
+"We all wanted to thank you, so we all pitched in and got you\r\n"
+"this. We're sorry for swarming you earlier."
+msgstr ""
+"Volevamo tutti ringraziarti, così abbiamo fatto una colletta e ti abbiamo preso\n"
+"questo. Ci dispiace di averti assalito prima."
+
+msgctxt "2220_Young Punk"
+msgid "Oh, thank you very much!"
+msgstr "Oh, grazie mille!"
+
+msgctxt "2232_Toshikazu"
+msgid "We'd better split before anybody else shows up."
+msgstr "È meglio che ce la filiamo prima che si presenti qualcun altro."
+
+msgctxt "2244_Toshikazu"
+msgid ""
+"All right, people! Let's give Haruka-chan a big round of\r\n"
+"applause!"
+msgstr ""
+"Forza, gente! Facciamo a Haruka-chan un grande\n"
+"applauso!"
+
+msgctxt "2256_Yasuhiro"
+msgid ""
+"You want the whole town to come runnin' over!? Might as well\r\n"
+"get on the bullhorn!"
+msgstr ""
+"Vuoi che tutta la città venga qui di corsa!? Tanto vale\n"
+"metterti al megafono!"
+
+msgctxt "2268_Toshikazu"
+msgid "Oh, right. Sorry..."
+msgstr "Ah, giusto. Scusa..."
+
+msgctxt "2280_Haruka"
+msgid "Hehehe..."
+msgstr "Ehehe..."
+
+msgctxt "2292_Young Punk"
+msgid ""
+"Thank you all very much! I just want to say I really am\r\n"
+"sorry to the people whose names I got wrong."
+msgstr ""
+"Grazie mille a tutti! Voglio solo dirvi che mi dispiace davvero\n"
+"[p]per tutti quelli a cui ho sbagliato il nome."
+
+msgctxt "2304_Hideaki"
+msgid "Aw, don't worry about it!"
+msgstr "Dai, non ti preoccupare!"
+
+msgctxt "2316_Akiharu"
+msgid "Good luck, Haruka-chan!"
+msgstr "Buona fortuna, Haruka-chan!"
+
+msgctxt "2328_Misaki"
+msgid "You're the best!"
+msgstr "Sei il migliore!"
+
+msgctxt "2340_Yasuhiro"
+msgid "Yeah, don't feel bad about a little thing like that!"
+msgstr "Dai, non ti preoccupare per una cosa così da poco!"
+
+msgctxt "2352_Toshikazu"
+msgid ""
+"We all wanted to thank you, so we all pitched in and got you\r\n"
+"this. We're sorry for swarming you earlier."
+msgstr ""
+"Volevamo tutti ringraziarti, così abbiamo fatto una colletta e ti abbiamo preso\n"
+"questo. Ci dispiace averti assalito prima."
+
+msgctxt "2400_Young Punk"
+msgid "Wow! Thanks so much!"
+msgstr "Wow! Grazie un sacco!"
+
+msgctxt "2412_Toshikazu"
+msgid "We'd better split before anybody else shows up."
+msgstr "È meglio che ce ne andiamo prima che arrivi qualcun altro."
+
+msgctxt "2424_Toshikazu"
+msgid ""
+"All right, people! We all walk away like nothing ever\r\n"
+"happened! No smiling! No chit-chat! None of it!"
+msgstr ""
+"Ok, gente! Ce ne andiamo tutti come se niente fosse mai\n"
+"successo! Niente sorrisi! Niente chiacchiere! Niente di niente!"
+
+msgctxt "2436_Yasuhiro"
+msgid ""
+"Slow your roll there, your highness! Let's just walk away\r\n"
+"like normal!"
+msgstr ""
+"Frena un attimo, maestà! Andiamocene\n"
+"come se niente fosse!"
+
+msgctxt "2448_Haruka"
+msgid "Hehehe..."
+msgstr "Ehehe..."
+
+msgctxt "2460_Young Punk"
+msgid ""
+"I'm really sorry, everyone. I got all your names wrong...\r\n"
+"Oh, I feel so awful!"
+msgstr ""
+"Mi dispiace tantissimo, ragazzi. Ho sbagliato tutti i vostri nomi...\n"
+"Oh, mi sento così uno schifo!"
+
+msgctxt "2472_Hideaki"
+msgid "Hey, these things happen."
+msgstr "Ehi, capita."
+
+msgctxt "2484_Akiharu"
+msgid "Just try a little harder next time, Haruka-chan!"
+msgstr "Impegnati un po' di più la prossima volta, Haruka-chan!"
+
+msgctxt "2496_Misaki"
+msgid ""
+"Don't let all that singin' distract you from your studies,\r\n"
+"ya hear?"
+msgstr ""
+"Non lasciare che tutto quel cantare ti distragga dai tuoi studi,\n"
+"capito?"
+
+msgctxt "2508_Yasuhiro"
+msgid "Yeah, don't feel bad about a little thing like that!"
+msgstr "Dai, non te la prendere per una sciocchezza del genere!"
+
+msgctxt "2520_Toshikazu"
+msgid ""
+"We all wanted to thank you, so we all pitched in and got you\r\n"
+"this. We're sorry for swarming you earlier."
+msgstr ""
+"Volevamo tutti ringraziarti, così abbiamo fatto una colletta e ti abbiamo preso\n"
+"questo. Ci dispiace per esserti piombati addosso prima."
+
+msgctxt "2568_Young Punk"
+msgid "Aw, thank you very much!"
+msgstr "Oh, grazie tantissimo!"
+
+msgctxt "2580_Toshikazu"
+msgid "We'd better split before anybody else shows up."
+msgstr "Meglio che ce la filiamo prima che arrivi qualcun altro."
+
+msgctxt "2592_Toshikazu"
+msgid ""
+"All right, people! We all walk away like nothing ever\r\n"
+"happened! No smiling! No chit-chat! None of it!"
+msgstr ""
+"Ok, gente! Ce ne andiamo tutti come se niente fosse mai\n"
+"successo! Niente sorrisi! Niente chiacchiere! Niente di niente!"
+
+msgctxt "2604_Yasuhiro"
+msgid ""
+"Slow your roll there, your highness! Let's just walk away\r\n"
+"like normal!"
+msgstr ""
+"Frena un attimo lì, altezza! Andiamocene\n"
+"normalmente!"
+
+msgctxt "2616_Haruka"
+msgid "Hehehe..."
+msgstr "Ehehe..."
+
+msgctxt "2724_Young Punk"
+msgid "Hey! You're Haruka-chan, aren't you!?"
+msgstr "Ehi! Sei Haruka-chan, vero!?"
+
+msgctxt "2736_Haruka"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "2748_Avid Fan"
+msgid ""
+"It is you! I knew it! I'm a big fan of yours! I always watch\r\n"
+"you on TV! I can't believe I'm seeing you out and about like\r\n"
+"this!"
+msgstr ""
+"Sei tu! Lo sapevo! Sono un tuo grande fan! Ti guardo sempre\n"
+"in TV! Non posso credere di vederti in giro così!"
+
+msgctxt "2760_Passerby"
+msgid "Haruka-chan!? From the Princess League!?"
+msgstr "Haruka-chan!? Della Princess League!?"
+
+msgctxt "2772_Middle-aged Woman"
+msgid "No way! Ya gotta be kiddin' me!"
+msgstr "Non ci credo! Mi stai prendendo in giro!"
+
+msgctxt "2784_Innocent Child"
+msgid "Haruka-chan is here!?"
+msgstr "Haruka-chan è qui!?"
+
+msgctxt "2796_Young Punk"
+msgid "Hey! They're sayin' Haruka-chan is over here!"
+msgstr "Ehi! Dicono che Haruka-chan è qui!"
+
+msgctxt "2808_Middle-aged Woman"
+msgid "You get your eyes checked any time recently? She's right there!"
+msgstr "Ma ti sei fatto controllare gli occhi ultimamente? È proprio lì!"
+
+msgctxt "2820_Haruka"
+msgid "Hello..."
+msgstr "Ciao..."
+
+msgctxt "2832_Avid Fan"
+msgid ""
+"Oh, man! I'm sorry, Haruka-chan. Me and my big mouth. Look\r\n"
+"at all these people!"
+msgstr ""
+"Oh, cavolo! Mi dispiace, Haruka-chan. Io e la mia lingua lunga. Guarda\n"
+"quanta gente!"
+
+msgctxt "2844_Haruka"
+msgid "No, no. It's all right."
+msgstr "No, no. È tutto a posto."
+
+msgctxt "2856_Avid Fan"
+msgid ""
+"Really? You mean it? In that case, could I have your\r\n"
+"autograph?"
+msgstr ""
+"Davvero? Dici sul serio? Allora, potrei avere il tuo\n"
+"autografo?"
+
+msgctxt "2868_Passerby"
+msgid "Hey, I want an autograph, too!"
+msgstr "Ehi, voglio anch'io un autografo!"
+
+msgctxt "2880_Young Punk"
+msgid "Haruka-chan, me too!"
+msgstr "Haruka-chan, anch'io!"
+
+msgctxt "2892_Innocent Child"
+msgid "Can I have your autograph, too, Haruka-chan?"
+msgstr "Potrei avere anch'io il tuo autografo, Haruka-chan?"
+
+msgctxt "2904_Avid Fan"
+msgid "Okay, everybody. Just calm down! Don't mob the poor girl!"
+msgstr "Ok, gente. Calmatevi! Non vi accalcate addosso alla povera ragazza!"
+
+msgctxt "2916_Young Punk"
+msgid ""
+"Whaddya talkin' about? You're the bulb who came up with the\r\n"
+"bright idea!"
+msgstr ""
+"Ma che dici? Sei tu che te ne sei uscito con la\n"
+"brillante idea!"
+
+msgctxt "2928_Middle-aged Woman"
+msgid "You'll be a good girl and give us your autograph, now, won't ya?"
+msgstr "Farai la brava e ci firmerai un autografo, adesso, su?"
+
+msgctxt "2940_Haruka"
+msgid "Of course! I'd be happy to give everyone my autograph!"
+msgstr "Certo! Sono felice di dare a tutti il mio autografo!"
+
+msgctxt "2952_Avid Fan"
+msgid ""
+"Great! Okay, people, listen up! Please form an orderly line!\r\n"
+"We don't want to block traffic, here. Wait your turn! And no\r\n"
+"pushing!"
+msgstr ""
+"Grande! Ok, gente, ascoltate! Mettetevi in fila, per favore!\n"
+"Non vogliamo bloccare il traffico, qui. Aspettate il vostro turno! E niente\n"
+"spintoni!"
+
+msgctxt "2964_Young Punk"
+msgid "Who died and made you king?"
+msgstr "Ma chi ti credi di essere, il re?"
+
+msgctxt "2976_Avid Fan"
+msgid "Okay, Haruka-chan! We're all ready for you!"
+msgstr "Ok, Haruka-chan! Siamo tutti pronti per te!"
+
+msgctxt "2988_Haruka"
+msgid "All right. Thank you!"
+msgstr "Ok. Grazie!"

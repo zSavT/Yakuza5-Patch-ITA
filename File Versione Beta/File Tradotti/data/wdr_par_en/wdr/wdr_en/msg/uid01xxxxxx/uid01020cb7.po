@@ -1,0 +1,1357 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "37368"
+msgid "Yamaura"
+msgstr "Yamaura"
+
+msgctxt "37372"
+msgid "cp-110/yamaura_1042a"
+msgstr "cp-110/yamaura_1042a"
+
+msgctxt "37376"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "37380"
+msgid "cp-110/yamaura_1042b"
+msgstr "cp-110/yamaura_1042b"
+
+msgctxt "37384"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "37388"
+msgid "cp-110/haruka_1056"
+msgstr "cp-110/haruka_1056"
+
+msgctxt "37392"
+msgid "cp-110/yamaura_1043a"
+msgstr "cp-110/yamaura_1043a"
+
+msgctxt "37396"
+msgid "cp-110/yamaura_1043b"
+msgstr "cp-110/yamaura_1043b"
+
+msgctxt "37400"
+msgid "cp-110/haruka_1057"
+msgstr "cp-110/haruka_1057"
+
+msgctxt "37404"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "37408"
+msgid "cp-110/yamaura_1044a"
+msgstr "cp-110/yamaura_1044a"
+
+msgctxt "37412"
+msgid "cp-110/yamaura_1044b"
+msgstr "cp-110/yamaura_1044b"
+
+msgctxt "37416"
+msgid "cp-110/haruka_1058"
+msgstr "cp-110/haruka_1058"
+
+msgctxt "37420"
+msgid "cp-110/yamaura_1045"
+msgstr "cp-110/yamaura_1045"
+
+msgctxt "37424"
+msgid "cp-110/yamaura_1042ba"
+msgstr "cp-110/yamaura_1042ba"
+
+msgctxt "37428"
+msgid "cp-110/yamaura_1042bb"
+msgstr "cp-110/yamaura_1042bb"
+
+msgctxt "37432"
+msgid "cp-110/yamaura_1043baa"
+msgstr "cp-110/yamaura_1043baa"
+
+msgctxt "37436"
+msgid "cp-110/yamaura_1043bab"
+msgstr "cp-110/yamaura_1043bab"
+
+msgctxt "37440"
+msgid "cp-110/yamaura_1043bb"
+msgstr "cp-110/yamaura_1043bb"
+
+msgctxt "37444"
+msgid "cp-110/haruka_1057b"
+msgstr "cp-110/haruka_1057b"
+
+msgctxt "37448"
+msgid "cp-110/yamaura_1044ba"
+msgstr "cp-110/yamaura_1044ba"
+
+msgctxt "37452"
+msgid "cp-110/yamaura_1044bb"
+msgstr "cp-110/yamaura_1044bb"
+
+msgctxt "37456"
+msgid "cp-110/haruka_1058b"
+msgstr "cp-110/haruka_1058b"
+
+msgctxt "37460"
+msgid "cp-110/yamaura_1045b"
+msgstr "cp-110/yamaura_1045b"
+
+msgctxt "37464"
+msgid "cp-100/yamaura_1039"
+msgstr "cp-100/yamaura_1039"
+
+msgctxt "37468"
+msgid "cp-100/haruka_1046"
+msgstr "cp-100/haruka_1046"
+
+msgctxt "37472"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "37476"
+msgid "cp-100/yamaura_3_609_030"
+msgstr "cp-100/yamaura_3_609_030"
+
+msgctxt "37480"
+msgid "cp-100/yamaura_1041"
+msgstr "cp-100/yamaura_1041"
+
+msgctxt "37484"
+msgid "Assistant Director"
+msgstr "Assistente Regista"
+
+msgctxt "37488"
+msgid "cp-100/tvad_0001"
+msgstr "cp-100/tvad_0001"
+
+msgctxt "37492"
+msgid "cp-100/haruka_1047"
+msgstr "cp-100/haruka_1047"
+
+msgctxt "37496"
+msgid "cp-100/yamaura_3_609_040"
+msgstr "cp-100/yamaura_3_609_040"
+
+msgctxt "37500"
+msgid "cp-100/haruka_3_609_030"
+msgstr "cp-100/haruka_3_609_030"
+
+msgctxt "37504"
+msgid "cp-100/yamaura_3_609_050"
+msgstr "cp-100/yamaura_3_609_050"
+
+msgctxt "37508"
+msgid "kaiwabgm_hope02"
+msgstr "kaiwabgm_hope02"
+
+msgctxt "37512"
+msgid "cp-100/haruka_3_609_040"
+msgstr "cp-100/haruka_3_609_040"
+
+msgctxt "37516"
+msgid "cp-100/yamaura_3_609_060"
+msgstr "cp-100/yamaura_3_609_060"
+
+msgctxt "37520"
+msgid "cp-100/haruka_3_609_050"
+msgstr "cp-100/haruka_3_609_050"
+
+msgctxt "37524"
+msgid "cp-100/yamaura_3_609_070a"
+msgstr "cp-100/yamaura_3_609_070a"
+
+msgctxt "37528"
+msgid "cp-100/yamaura_3_609_070b"
+msgstr "cp-100/yamaura_3_609_070b"
+
+msgctxt "37532"
+msgid "cp-100/yamaura_3_609_080a"
+msgstr "cp-100/yamaura_3_609_080a"
+
+msgctxt "37536"
+msgid "cp-100/yamaura_3_609_080b"
+msgstr "cp-100/yamaura_3_609_080b"
+
+msgctxt "37540"
+msgid "cp-100/yamaura_3_609_090a"
+msgstr "cp-100/yamaura_3_609_090a"
+
+msgctxt "37544"
+msgid "cp-100/yamaura_3_609_090b"
+msgstr "cp-100/yamaura_3_609_090b"
+
+msgctxt "37548"
+msgid "cp-100/yamaura_3_609_100a"
+msgstr "cp-100/yamaura_3_609_100a"
+
+msgctxt "37552"
+msgid "cp-100/yamaura_3_609_110"
+msgstr "cp-100/yamaura_3_609_110"
+
+msgctxt "37556"
+msgid "cp-100/yamaura_3_609_120"
+msgstr "cp-100/yamaura_3_609_120"
+
+msgctxt "37560"
+msgid "cp-100/yamaura_3_609_130"
+msgstr "cp-100/yamaura_3_609_130"
+
+msgctxt "37564"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "37568"
+msgid "No"
+msgstr "No"
+
+msgctxt "37572"
+msgid "cp-100/haruka_3_609_080"
+msgstr "cp-100/haruka_3_609_080"
+
+msgctxt "37576"
+msgid "cp-100/haruka_3_609_120"
+msgstr "cp-100/haruka_3_609_120"
+
+msgctxt "37580"
+msgid "cp-100/yamaura_3_609_160"
+msgstr "cp-100/yamaura_3_609_160"
+
+msgctxt "37584"
+msgid "cp-100/yamaura_3_609_170"
+msgstr "cp-100/yamaura_3_609_170"
+
+msgctxt "37588"
+msgid "cp-100/yamaura_3_609_180"
+msgstr "cp-100/yamaura_3_609_180"
+
+msgctxt "37592"
+msgid "cp-100/yamaura_3_609_190"
+msgstr "cp-100/yamaura_3_609_190"
+
+msgctxt "37596"
+msgid "cp-100/haruka_3_609_140"
+msgstr "cp-100/haruka_3_609_140"
+
+msgctxt "37600"
+msgid "cp-100/yamaura_3_609_200"
+msgstr "cp-100/yamaura_3_609_200"
+
+msgctxt "37604"
+msgid "cp-100/haruka_3_609_160"
+msgstr "cp-100/haruka_3_609_160"
+
+msgctxt "37608"
+msgid "cp-100/yamaura_3_609_210a"
+msgstr "cp-100/yamaura_3_609_210a"
+
+msgctxt "37612"
+msgid "cp-100/yamaura_3_609_210b"
+msgstr "cp-100/yamaura_3_609_210b"
+
+msgctxt "37616"
+msgid "cp-100/haruka_3_609_170"
+msgstr "cp-100/haruka_3_609_170"
+
+msgctxt "37620"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "37624"
+msgid "cp-100/yamaura_3_609_220"
+msgstr "cp-100/yamaura_3_609_220"
+
+msgctxt "37628"
+msgid "cp-100/haruka_3_609_180"
+msgstr "cp-100/haruka_3_609_180"
+
+msgctxt "37632"
+msgid "cp-100/haruka_3_609_150"
+msgstr "cp-100/haruka_3_609_150"
+
+msgctxt "37636"
+msgid "cp-100/haruka_3_609_090"
+msgstr "cp-100/haruka_3_609_090"
+
+msgctxt "37640"
+msgid "cp-100/haruka_3_609_100"
+msgstr "cp-100/haruka_3_609_100"
+
+msgctxt "37644"
+msgid "cp-100/yamaura_3_609_140"
+msgstr "cp-100/yamaura_3_609_140"
+
+msgctxt "37648"
+msgid "cp-100/yamaura_3_609_150"
+msgstr "cp-100/yamaura_3_609_150"
+
+msgctxt "37652"
+msgid "cp-100/haruka_3_609_110"
+msgstr "cp-100/haruka_3_609_110"
+
+msgctxt "37656"
+msgid "cp-100/yamaura_1036a"
+msgstr "cp-100/yamaura_1036a"
+
+msgctxt "37660"
+msgid "cp-100/yamaura_1036b"
+msgstr "cp-100/yamaura_1036b"
+
+msgctxt "37664"
+msgid "cp-100/yamaura_1037a"
+msgstr "cp-100/yamaura_1037a"
+
+msgctxt "37668"
+msgid "cp-100/yamaura_1037b"
+msgstr "cp-100/yamaura_1037b"
+
+msgctxt "37672"
+msgid "cp-100/haruka_1045a"
+msgstr "cp-100/haruka_1045a"
+
+msgctxt "37676"
+msgid "cp-100/haruka_1045b"
+msgstr "cp-100/haruka_1045b"
+
+msgctxt "37680"
+msgid "cp-100/yamaura_1038b"
+msgstr "cp-100/yamaura_1038b"
+
+msgctxt "37684"
+msgid "cp-030/yamaura_1010a"
+msgstr "cp-030/yamaura_1010a"
+
+msgctxt "37688"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "37692"
+msgid "cp-030/yamaura_1010b"
+msgstr "cp-030/yamaura_1010b"
+
+msgctxt "37696"
+msgid "cp-030/yamaura_1010c"
+msgstr "cp-030/yamaura_1010c"
+
+msgctxt "37700"
+msgid "cp-030/haruka_1025"
+msgstr "cp-030/haruka_1025"
+
+msgctxt "37704"
+msgid "cp-030/yamaura_3_478_010a"
+msgstr "cp-030/yamaura_3_478_010a"
+
+msgctxt "37708"
+msgid "cp-030/yamaura_3_478_010b"
+msgstr "cp-030/yamaura_3_478_010b"
+
+msgctxt "37712"
+msgid "cp-030/yamaura_3_478_010c"
+msgstr "cp-030/yamaura_3_478_010c"
+
+msgctxt "37716"
+msgid "cp-030/haruka_3_478_010"
+msgstr "cp-030/haruka_3_478_010"
+
+msgctxt "37720"
+msgid "cp-030/yamaura_3_478_020a"
+msgstr "cp-030/yamaura_3_478_020a"
+
+msgctxt "37724"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "37728"
+msgid "cp-030/yamaura_3_478_020b"
+msgstr "cp-030/yamaura_3_478_020b"
+
+msgctxt "37732"
+msgid "cp-030/haruka_3_478_020"
+msgstr "cp-030/haruka_3_478_020"
+
+msgctxt "37736"
+msgid "cp-030/yamaura_3_478_030a"
+msgstr "cp-030/yamaura_3_478_030a"
+
+msgctxt "37740"
+msgid "cp-030/yamaura_3_478_030b"
+msgstr "cp-030/yamaura_3_478_030b"
+
+msgctxt "37744"
+msgid "cp-030/haruka_3_478_030"
+msgstr "cp-030/haruka_3_478_030"
+
+msgctxt "37748"
+msgid "cp-030/yamaura_1011"
+msgstr "cp-030/yamaura_1011"
+
+msgctxt "37752"
+msgid "cp-030/haruka_1026"
+msgstr "cp-030/haruka_1026"
+
+msgctxt "37756"
+msgid "cp-030/yamaura_1012a"
+msgstr "cp-030/yamaura_1012a"
+
+msgctxt "37760"
+msgid "cp-030/yamaura_1012b"
+msgstr "cp-030/yamaura_1012b"
+
+msgctxt "37764"
+msgid "cp-030/yamaura_1012c"
+msgstr "cp-030/yamaura_1012c"
+
+msgctxt "37768"
+msgid "cp-030/haruka_1027"
+msgstr "cp-030/haruka_1027"
+
+msgctxt "37772"
+msgid "cp-030/yamaura_1013"
+msgstr "cp-030/yamaura_1013"
+
+msgctxt "37776"
+msgid "cp-020/yamaura_1008a"
+msgstr "cp-020/yamaura_1008a"
+
+msgctxt "37780"
+msgid "cp-020/yamaura_1009"
+msgstr "cp-020/yamaura_1009"
+
+msgctxt "37784"
+msgid "cp-020/tvad_0001"
+msgstr "cp-020/tvad_0001"
+
+msgctxt "37788"
+msgid "cp-020/haruka_1022"
+msgstr "cp-020/haruka_1022"
+
+msgctxt "37792"
+msgid "cp-020/yamaura_1004a"
+msgstr "cp-020/yamaura_1004a"
+
+msgctxt "37796"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "37800"
+msgid "cp-020/yamaura_1004b"
+msgstr "cp-020/yamaura_1004b"
+
+msgctxt "37804"
+msgid "cp-020/haruka_1019"
+msgstr "cp-020/haruka_1019"
+
+msgctxt "37808"
+msgid "cp-020/yamaura_1005"
+msgstr "cp-020/yamaura_1005"
+
+msgctxt "37812"
+msgid "cp-020/yamaura_1006a"
+msgstr "cp-020/yamaura_1006a"
+
+msgctxt "37816"
+msgid "cp-020/yamaura_1006b"
+msgstr "cp-020/yamaura_1006b"
+
+msgctxt "37820"
+msgid "cp-020/haruka_1021"
+msgstr "cp-020/haruka_1021"
+
+msgctxt "37824"
+msgid "cp-020/yamaura_1007b"
+msgstr "cp-020/yamaura_1007b"
+
+msgctxt "37828"
+msgid "cp-010/haruka_1004"
+msgstr "cp-010/haruka_1004"
+
+msgctxt "37832"
+msgid "cp-010/yamaura_1001"
+msgstr "cp-010/yamaura_1001"
+
+msgctxt "37836"
+msgid "cp-010/haruka_1005"
+msgstr "cp-010/haruka_1005"
+
+msgctxt "37840"
+msgid "cp-010/yamaura_1002"
+msgstr "cp-010/yamaura_1002"
+
+msgctxt "37844"
+msgid "cp-010/haruka_1006"
+msgstr "cp-010/haruka_1006"
+
+msgctxt "37848"
+msgid "cp-010/yamaura_1003"
+msgstr "cp-010/yamaura_1003"
+
+msgctxt "37852"
+msgid "cp-010/haruka_1007b"
+msgstr "cp-010/haruka_1007b"
+
+msgctxt "37856"
+msgid "cp-010/yamaura_3_476_010"
+msgstr "cp-010/yamaura_3_476_010"
+
+msgctxt "37860"
+msgid "Nakai"
+msgstr "Nakai"
+
+msgctxt "37864"
+msgid "cp-010/nakai_1001"
+msgstr "cp-010/nakai_1001"
+
+msgctxt "37868"
+msgid "kaiwabgm_tension06"
+msgstr "kaiwabgm_tension06"
+
+msgctxt "37872"
+msgid "cp-010/haruka_1008"
+msgstr "cp-010/haruka_1008"
+
+msgctxt "37876"
+msgid "cp-010/nakai_1002"
+msgstr "cp-010/nakai_1002"
+
+msgctxt "37880"
+msgid "cp-010/haruka_1009"
+msgstr "cp-010/haruka_1009"
+
+msgctxt "37884"
+msgid "cp-010/nakai_1003a"
+msgstr "cp-010/nakai_1003a"
+
+msgctxt "37888"
+msgid "cp-010/nakai_1003b"
+msgstr "cp-010/nakai_1003b"
+
+msgctxt "37892"
+msgid "cp-010/haruka_1010"
+msgstr "cp-010/haruka_1010"
+
+msgctxt "37896"
+msgid "cp-010/nakai_1004"
+msgstr "cp-010/nakai_1004"
+
+msgctxt "37900"
+msgid "cp-010/haruka_1011"
+msgstr "cp-010/haruka_1011"
+
+msgctxt "37904"
+msgid "cp-010/nakai_1005a"
+msgstr "cp-010/nakai_1005a"
+
+msgctxt "37908"
+msgid "cp-010/nakai_1005b"
+msgstr "cp-010/nakai_1005b"
+
+msgctxt "37912"
+msgid "cp-010/nakai_1006a"
+msgstr "cp-010/nakai_1006a"
+
+msgctxt "37916"
+msgid "cp-010/nakai_1006b"
+msgstr "cp-010/nakai_1006b"
+
+msgctxt "37920"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "37924"
+msgid "cp-010/haruka_1013"
+msgstr "cp-010/haruka_1013"
+
+msgctxt "37928"
+msgid "cp-010/nakai_1007"
+msgstr "cp-010/nakai_1007"
+
+msgctxt "37932"
+msgid "cp-010/haruka_1014a"
+msgstr "cp-010/haruka_1014a"
+
+msgctxt "37936"
+msgid "cp-010/haruka_1014b"
+msgstr "cp-010/haruka_1014b"
+
+msgctxt "37940"
+msgid "cp-010/nakai_1008"
+msgstr "cp-010/nakai_1008"
+
+msgctxt "37944"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "37948"
+msgid "cp-010/haruka_1015"
+msgstr "cp-010/haruka_1015"
+
+msgctxt "37952"
+msgid "cp-010/nakai_1009a"
+msgstr "cp-010/nakai_1009a"
+
+msgctxt "37956"
+msgid "cp-010/nakai_1009b"
+msgstr "cp-010/nakai_1009b"
+
+msgctxt "37960"
+msgid "cp-010/haruka_1016"
+msgstr "cp-010/haruka_1016"
+
+msgctxt "37964"
+msgid "cp-010/nakai_1010a"
+msgstr "cp-010/nakai_1010a"
+
+msgctxt "37968"
+msgid "cp-010/nakai_1010b"
+msgstr "cp-010/nakai_1010b"
+
+msgctxt "37972"
+msgid "cp-010/haruka_1017"
+msgstr "cp-010/haruka_1017"
+
+msgctxt "37976"
+msgid "cp-010/nakai_1011"
+msgstr "cp-010/nakai_1011"
+
+msgctxt "37980"
+msgid "cp-010/haruka_1018"
+msgstr "cp-010/haruka_1018"
+
+msgctxt "156_Yamaura"
+msgid "You did it, Haruka! You really did it!"
+msgstr "Ci sei riuscita, Haruka! Ci sei riuscita davvero!"
+
+msgctxt "168_Yamaura"
+msgid "I just wish Park-san and Horie-kun were here to see it too."
+msgstr ""
+"Vorrei solo che Park-san e Horie-kun fossero qui a vederlo anche loro."
+
+msgctxt "180_Haruka"
+msgid "Yamaura-san..."
+msgstr "Yamaura-san..."
+
+msgctxt "192_Yamaura"
+msgid ""
+"Park-san found a real star when she found you. I just know\r\n"
+"you can make the Japan Dome event a success."
+msgstr ""
+"Park-san ha trovato una vera star quando ha trovato te. So per certo che\n"
+"puoi rendere l'evento al Japan Dome un successo."
+
+msgctxt "204_Yamaura"
+msgid ""
+"I believe you'll fulfill both your and Park-san's dreams.\r\n"
+"I really do."
+msgstr ""
+"Credo che realizzerai sia i tuoi sogni che quelli di Park-san.\n"
+"Ci credo davvero."
+
+msgctxt "216_Haruka"
+msgid "Thank you!"
+msgstr "Grazie!"
+
+msgctxt "228_Yamaura"
+msgid ""
+"Oh, that's right. We left Christina back at the office,\r\n"
+"didn't we?"
+msgstr ""
+"Ah, giusto. Abbiamo lasciato Christina in ufficio,\n"
+"vero?"
+
+msgctxt "240_Yamaura"
+msgid "We oughta head back and tell him the good news."
+msgstr "Faremo meglio a tornare indietro e dirgli le buone notizie."
+
+msgctxt "252_Haruka"
+msgid "Right."
+msgstr "Giusto."
+
+msgctxt "264_Yamaura"
+msgid "Okay, let's get goin'."
+msgstr "Ok, muoviamoci."
+
+msgctxt "288_Yamaura"
+msgid ""
+"Well, Haruka, the results aren't exactly what we hoped for,\r\n"
+"but, either way, great job."
+msgstr ""
+"Beh, Haruka, i risultati non sono proprio quelli che speravamo,\n"
+"ma, comunque, ottimo lavoro."
+
+msgctxt "300_Yamaura"
+msgid ""
+"Shame Park-san and Horie-kun couldn't be here to watch you\r\n"
+"give it your all up there."
+msgstr ""
+"Che peccato che Park-san e Horie-kun non potessero essere qui a guardarti\n"
+"dare tutta te stessa là sopra."
+
+msgctxt "312_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "324_Yamaura"
+msgid ""
+"And don't forget. Park-san knew what she was doing when she\r\n"
+"chose you."
+msgstr ""
+"E non dimenticare. Park-san sapeva quello che faceva quando ti ha\n"
+"scelto."
+
+msgctxt "336_Yamaura"
+msgid "I just know you can make the Japan Dome event a success."
+msgstr "So per certo che puoi rendere l'evento al Japan Dome un successo."
+
+msgctxt "348_Yamaura"
+msgid ""
+"I believe you'll fulfill both your and Park-san's dreams.\r\n"
+"I really do."
+msgstr ""
+"Credo che realizzerai sia i tuoi sogni che quelli di Park-san.\n"
+"Ci credo davvero."
+
+msgctxt "360_Haruka"
+msgid "Yamaura-san..."
+msgstr "Yamaura-san..."
+
+msgctxt "372_Yamaura"
+msgid ""
+"Oh, that's right. We left Christina back at the office,\r\n"
+"didn't we?"
+msgstr ""
+"Ah, giusto. Abbiamo lasciato Christina in ufficio,\n"
+"vero?"
+
+msgctxt "384_Yamaura"
+msgid "We oughta head back and tell him how it went."
+msgstr "Faremo meglio a tornare indietro e dirgli com'è andata."
+
+msgctxt "396_Haruka"
+msgid "Right."
+msgstr "Giusto."
+
+msgctxt "408_Yamaura"
+msgid "Okay, let's go, then."
+msgstr "Ok, muoviamoci, allora."
+
+msgctxt "456_Yamaura"
+msgid "Oh, yeah. That's good. That's real good."
+msgstr "Ah, sì. Va bene. Va proprio bene."
+
+msgctxt "468_Haruka"
+msgid "Now I'm all embarrassed."
+msgstr "Adesso sono tutta imbarazzata."
+
+msgctxt "480_Yamaura"
+msgid ""
+"Don't worry 'bout that. All ya gotta think about now is your performance."
+msgstr ""
+"Non ti preoccupare di quello. Tutto quello a cui devi pensare ora è la tua "
+"esibizione."
+
+msgctxt "528_Yamaura"
+msgid "Come in!"
+msgstr "Avanti!"
+
+msgctxt "552_Assistant Director"
+msgid "Excuse me, Sawamura-san. We're just about ready."
+msgstr "Mi scusi, Sawamura-san. Siamo quasi pronti."
+
+msgctxt "564_Haruka"
+msgid "All right. Thank you."
+msgstr "Va bene. Grazie."
+
+msgctxt "576_Yamaura"
+msgid "Hey, Haruka."
+msgstr "Ehi, Haruka."
+
+msgctxt "588_Haruka"
+msgid "Yes?"
+msgstr "Sì?"
+
+msgctxt "600_Yamaura"
+msgid "Once you leave this room, there's no turnin' back."
+msgstr "Una volta che lasci questa stanza, non si torna più indietro."
+
+msgctxt "612_Haruka"
+msgid "I know. It's my one and only chance."
+msgstr "Lo so. È la mia unica e sola possibilità."
+
+msgctxt "624_Yamaura"
+msgid ""
+"That's not what I'm talkin' about. It's just... once you\r\n"
+"walk through that door, you'll never be a regular girl ever again."
+msgstr ""
+"Non è di questo che sto parlando. È solo che... una volta che\n"
+"varchi quella porta, non sarai mai più una ragazza normale."
+
+msgctxt "636_Haruka"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "648_Yamaura"
+msgid "Listen to me, Haruka."
+msgstr "Dammi retta, Haruka."
+
+msgctxt "672_Yamaura"
+msgid ""
+"Whether ya win or lose today, your life as a normal high\r\n"
+"school girl is over."
+msgstr ""
+"Che tu vinca o perda oggi, la tua vita da normale ragazza delle\n"
+"superiori è finita."
+
+msgctxt "684_Yamaura"
+msgid "If ya win, you'll have your big debut."
+msgstr "Se vinci, farai il tuo grande debutto."
+
+msgctxt "696_Yamaura"
+msgid ""
+"And that means no matter where ya go, you'll have people's\r\n"
+"eyes on you at all times."
+msgstr ""
+"E questo significa che, non importa dove vai, avrai gli occhi della\n"
+"gente addosso in ogni momento."
+
+msgctxt "708_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "720_Yamaura"
+msgid ""
+"And if ya lose, you'll have to live with that feelin' for the rest of your "
+"life."
+msgstr ""
+"E se perdi, dovrai convivere con quella sensazione per il resto della tua "
+"vita."
+
+msgctxt "732_Yamaura"
+msgid ""
+"People might sympathize with you for a while, but they might\r\n"
+"start to feel contempt for ya, too."
+msgstr ""
+"La gente potrebbe compatirti per un po', ma potrebbe\n"
+"iniziare a provare disprezzo anche per te."
+
+msgctxt "744_Yamaura"
+msgid ""
+"You're damned if you win, damned if you lose. And you only\r\n"
+"get to enjoy your victories for a little while. That's just\r\n"
+"how it goes in the entertainment industry."
+msgstr ""
+"Se vinci sei fregato, se perdi sei fregato. E ti godi le\n"
+"vittorie solo per un attimo. È proprio così che\n"
+"funziona nell'industria dell'intrattenimento."
+
+msgctxt "756_Yamaura"
+msgid ""
+"Knowing all that, are ya sure you still wanna pursue this dream of yours?"
+msgstr ""
+"Sapendo tutto questo, sei sicura di voler ancora inseguire questo tuo sogno?"
+
+msgctxt "768_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "780_Yamaura"
+msgid ""
+"If your dream is really something else, now's your last\r\n"
+"chance to change your mind."
+msgstr ""
+"Se il tuo sogno è davvero qualcos'altro, ora è la tua ultima\n"
+"occasione per cambiare idea."
+
+msgctxt "792_Yamaura"
+msgid ""
+"What do you wanna do, Haruka? Are ya really ready to walk\r\n"
+"out onto that stage for the final round?"
+msgstr ""
+"Cosa vuoi fare, Haruka? Sei davvero pronta a salire\n"
+"su quel palco per la finale?"
+
+msgctxt "804_Haruka"
+msgid "Yes. I've made up my mind."
+msgstr "Sì. Ho deciso."
+
+msgctxt "816_Haruka"
+msgid "Yamaura-san... I..."
+msgstr "Yamaura-san... Io..."
+
+msgctxt "828_Yamaura"
+msgid "Hesitant?"
+msgstr "Esitante?"
+
+msgctxt "840_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "852_Yamaura"
+msgid ""
+"I'd like to see you go on, of course. That'd no doubt be the\r\n"
+"best thing for the agency."
+msgstr ""
+"Certo, mi piacerebbe vederti andare avanti. Sarebbe senza dubbio la\n"
+"cosa migliore per l'agenzia."
+
+msgctxt "864_Yamaura"
+msgid ""
+"But I know how much you've been through just to get this\r\n"
+"far, so I'll ask ya one more time."
+msgstr ""
+"Ma so quanto hai passato solo per arrivare fin qui,\\nquindi te lo chiedo "
+"un'ultima volta."
+
+msgctxt "876_Yamaura"
+msgid "Do you want to drop out of the final round?"
+msgstr "Vuoi ritirarti dalla finale?"
+
+msgctxt "888_Haruka"
+msgid "Yes."
+msgstr "Sì."
+
+msgctxt "900_Yamaura"
+msgid "Are you sure?"
+msgstr "Ne sei sicuro?"
+
+msgctxt "912_Haruka"
+msgid "Yes. I'm sure."
+msgstr "Sì. Ne sono sicuro."
+
+msgctxt "924_Yamaura"
+msgid "All right, I understand... especially now that Park-san is gone."
+msgstr "Va bene, capisco... specialmente ora che Park-san non c'è più."
+
+msgctxt "936_Yamaura"
+msgid ""
+"And this is your whole life we're talking about. Nobody can\r\n"
+"say you're making the wrong choice."
+msgstr ""
+"È la tua vita intera di cui stiamo parlando. Nessuno può\n"
+"dire che stai facendo la scelta sbagliata."
+
+msgctxt "948_Haruka"
+msgid "I'm sorry, Yamaura-san."
+msgstr "Mi dispiace, Yamaura-san."
+
+msgctxt "960_Yamaura"
+msgid "Don't be. This is about you, and I respect your decision."
+msgstr "Non devi esserlo. Si tratta di te, e rispetto la tua decisione."
+
+msgctxt "972_Haruka"
+msgid "Thank you."
+msgstr "Grazie."
+
+msgctxt "996_Haruka"
+msgid "No. No, wait! I'll do it!"
+msgstr "No. No, aspetta! Lo farò!"
+
+msgctxt "1008_Haruka"
+msgid ""
+"No matter how difficult things might get, I don't want to\r\n"
+"live with the regret of not ever trying."
+msgstr ""
+"Per quanto le cose si mettano male, non voglio\n"
+"vivere col rimpianto di non averci nemmeno provato."
+
+msgctxt "1020_Haruka"
+msgid "Park-san's dream is my dream now."
+msgstr "Il sogno di Park-san è il mio sogno ora."
+
+msgctxt "1032_Yamaura"
+msgid "All right. In that case..."
+msgstr "Va bene. In tal caso..."
+
+msgctxt "1044_Yamaura"
+msgid ""
+"Haruka, get out there and bring us back a win on that final\r\n"
+"round!"
+msgstr ""
+"Haruka, dacci dentro e portaci a casa la vittoria in quest'ultimo\n"
+"turno!"
+
+msgctxt "1056_Haruka"
+msgid "I will!"
+msgstr "Lo farò!"
+
+msgctxt "1080_Yamaura"
+msgid "Unbelievable! Those little brats are the top idols in Osaka!?"
+msgstr "Incredibile! Quei mocciosi sono le migliori idol di Osaka!?"
+
+msgctxt "1092_Yamaura"
+msgid "I'm surprised their fans can't see right through 'em!"
+msgstr "Sono sorpreso che i loro fan non ci vedano attraverso!"
+
+msgctxt "1104_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "1116_Yamaura"
+msgid "Haruka, don't you dare lose to those two! That's an order!"
+msgstr "Haruka, non osare perdere contro quelle due! È un ordine!"
+
+msgctxt "1128_Yamaura"
+msgid "Put those girls to shame!"
+msgstr "Falle sfigurare!"
+
+msgctxt "1140_Haruka"
+msgid "Shame? Well, I don't know about that..."
+msgstr "Sfigurare? Beh, non saprei..."
+
+msgctxt "1152_Haruka"
+msgid "But don't worry. I'll win. I have to!"
+msgstr "Ma non preoccuparti. Vincerò. Devo farlo!"
+
+msgctxt "1164_Yamaura"
+msgid ""
+"That's right. For both Park-san and Horie-kun's sakes.\r\n"
+"Okay, let's get to it. Time to change into your costume."
+msgstr ""
+"Esatto. Per il bene di Park-san e di Horie-kun.\n"
+"Bene, diamoci dentro. È ora di metterti il costume."
+
+msgctxt "1224_Yamaura"
+msgid "You did it, Haruka! Now all that's left is the final round!"
+msgstr "Ce l'hai fatta, Haruka! Ora manca solo il turno finale!"
+
+msgctxt "1236_Yamaura"
+msgid "You've come such a long way, kiddo."
+msgstr "Hai fatto molta strada, piccola."
+
+msgctxt "1248_Yamaura"
+msgid "I bet Park-san was right there watchin', too."
+msgstr "Scommetto che Park-san era proprio lì a guardare, anche."
+
+msgctxt "1260_Haruka"
+msgid "...Yeah."
+msgstr "...Già."
+
+msgctxt "1272_Yamaura"
+msgid "You did it, Haruka! Now all that's left is the final round!"
+msgstr "Ce l'hai fatta, Haruka! Ora manca solo il turno finale!"
+
+msgctxt "1284_Yamaura"
+msgid "T-Set'll be fighting for their lives out there."
+msgstr "T-Set si giocherà la vita lì fuori."
+
+msgctxt "1296_Yamaura"
+msgid "You'll have to give it everything you got, right to the very end!"
+msgstr "Dovrai dare il tutto per tutto, fino alla fine!"
+
+msgctxt "1308_Haruka"
+msgid "Right!"
+msgstr "Giusto!"
+
+msgctxt "1320_Yamaura"
+msgid "What happened, Haruka? I know you can do better than that."
+msgstr "Che è successo, Haruka? So che puoi fare di meglio."
+
+msgctxt "1332_Yamaura"
+msgid ""
+"Oh well, nothin' we can do about it now. You just gotta try\r\n"
+"extra hard in the final round."
+msgstr ""
+"Vabbè, non c'è più niente da fare, ormai. Devi solo impegnarti\n"
+"ancora di più nel turno finale."
+
+msgctxt "1344_Haruka"
+msgid "Right..."
+msgstr "Giusto..."
+
+msgctxt "1356_Yamaura"
+msgid "This is bad, Haruka. T-Set's way ahead of you now."
+msgstr "Metti male, Haruka. T-Set ti ha staccato di un sacco, ormai."
+
+msgctxt "1368_Yamaura"
+msgid ""
+"The final round is next. It'll be your last chance to turn\r\n"
+"this thing around. You can do it!"
+msgstr ""
+"Adesso c'è il turno finale. Sarà la tua ultima chance per ribaltare\n"
+"questa situazione. Ce la puoi fare!"
+
+msgctxt "1380_Haruka"
+msgid "I can do it!"
+msgstr "Ce la posso fare!"
+
+msgctxt "1392_Yamaura"
+msgid ""
+"All right. Let's get back to Sotenbori. You're supposed to\r\n"
+"meet Akiyama-san, right?"
+msgstr ""
+"Va bene. Torniamo a Sotenbori. Dovresti\n"
+"incontrare Akiyama-san, giusto?"
+
+msgctxt "1404_Haruka"
+msgid "Yes."
+msgstr "Sì."
+
+msgctxt "1416_Yamaura"
+msgid "Well, just don't go overboard."
+msgstr "Beh, non esagerare."
+
+msgctxt "1428_Yamaura"
+msgid ""
+"To be honest, I'd rather see ya spendin' your extra time on\r\n"
+"lessons and the like."
+msgstr ""
+"Ad essere sincero, preferirei vederti spendere il tuo tempo extra in\n"
+"lezioni e roba così."
+
+msgctxt "1440_Yamaura"
+msgid ""
+"Christina and I will be standin' by, so come see us anytime,\r\n"
+"ya hear?"
+msgstr ""
+"Christina e io saremo qui ad aspettarti, quindi passa a trovarci quando vuoi,\n"
+"capito?"
+
+msgctxt "1452_Haruka"
+msgid "Yes. Thank you."
+msgstr "Sì. Grazie."
+
+msgctxt "1464_Yamaura"
+msgid "All right, let's go."
+msgstr "Va bene, andiamo."
+
+msgctxt "1500_Yamaura"
+msgid "Well, would ya look at you! You look absolutely fantastic!"
+msgstr "Beh, ma guarda un po' te! Stai proprio una favola!"
+
+msgctxt "1524_Yamaura"
+msgid "Come in!"
+msgstr "Avanti!"
+
+msgctxt "1536_Assistant Director"
+msgid "Excuse me, Sawamura-san. We're just about ready."
+msgstr "Scusi, Sawamura-san. Siamo quasi pronti."
+
+msgctxt "1548_Haruka"
+msgid "All right. Thank you."
+msgstr "Va bene. Grazie."
+
+msgctxt "1572_Yamaura"
+msgid "Why did you make a promise like that!?"
+msgstr "Perché hai fatto una promessa del genere!?"
+
+msgctxt "1584_Yamaura"
+msgid "Didn't Horie-kun tell ya to stay away from 'em?"
+msgstr "Non ti ha detto Horie-kun di starne alla larga?"
+
+msgctxt "1596_Haruka"
+msgid "I'm sorry. I just couldn't keep quiet any longer."
+msgstr "Mi dispiace. Non ce la facevo più a stare zitto."
+
+msgctxt "1608_Yamaura"
+msgid "Yeah, I'll bet he was countin' on that. That's how he operates."
+msgstr "Già, scommetto che ci contava eccome. È il suo modo di fare."
+
+msgctxt "1620_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "1632_Yamaura"
+msgid ""
+"Well, that's okay. All you gotta do is trounce 'em and\r\n"
+"that'll be the end of it."
+msgstr ""
+"Beh, va bene. Devi solo farli a pezzi e\n"
+"sarà finita lì."
+
+msgctxt "1644_Yamaura"
+msgid ""
+"I know you can do it. Take that T-Set down a peg, and you'll\r\n"
+"be the top idol in Osaka!"
+msgstr ""
+"So che puoi farcela. Fagli abbassare la cresta ai T-Set, e\n"
+"sarai la miglior idol di Osaka!"
+
+msgctxt "1656_Haruka"
+msgid "Right!"
+msgstr "Giusto!"
+
+msgctxt "1668_Yamaura"
+msgid "Well, you'd better hurry up and get changed."
+msgstr "Beh, faresti meglio a sbrigarti e cambiarti."
+
+msgctxt "1716_Haruka"
+msgid "Yamaura-san? Are you all right?"
+msgstr "Yamaura-san? Sta bene?"
+
+msgctxt "1728_Yamaura"
+msgid ""
+"Well, to tell you the truth, I haven't been in a TV station\r\n"
+"in a while."
+msgstr ""
+"Beh, a dire il vero, non metto piede in una stazione televisiva\n"
+"da un bel po'."
+
+msgctxt "1740_Haruka"
+msgid "Really?"
+msgstr "Davvero?"
+
+msgctxt "1752_Yamaura"
+msgid "Yeah. I'm kinda nervous."
+msgstr "Già. Sono un po' nervoso."
+
+msgctxt "1764_Haruka"
+msgid "It'll be all right, Yamaura-san."
+msgstr "Andrà tutto bene, Yamaura-san."
+
+msgctxt "1776_Yamaura"
+msgid "Heh. Sorry. I should be the one saying that to you."
+msgstr "Heh. Scusa. Dovrei essere io a dirtelo."
+
+msgctxt "1788_Haruka"
+msgid "That's okay. Shall we go? The dressing room is right up here."
+msgstr "Va bene. Andiamo? Lo spogliatoio è proprio qui."
+
+msgctxt "1800_Yamaura"
+msgid "Okay. I'll go check it out for you first."
+msgstr "Va bene. Vado a controllare io per te prima."
+
+msgctxt "1836_Nakai"
+msgid "Sawamura."
+msgstr "Sawamura."
+
+msgctxt "1848_Haruka"
+msgid "Hmm?"
+msgstr "Hmm?"
+
+msgctxt "1860_Nakai"
+msgid "It's me, T-Set's manager."
+msgstr "Sono io, il manager dei T-Set."
+
+msgctxt "1872_Haruka"
+msgid "Nakai-san?"
+msgstr "Nakai-san?"
+
+msgctxt "1884_Nakai"
+msgid "So, your president just dies and here you are, huh?"
+msgstr "Quindi, è appena morto il tuo presidente e tu sei qui, eh?"
+
+msgctxt "1896_Nakai"
+msgid ""
+"But I guess a tiny little agency like yours can't afford to\r\n"
+"show some respect, can it?"
+msgstr ""
+"Ma suppongo che una stenterella di agenzia come la tua non possa permettersi"
+" di\\nmostrare un po' di rispetto, vero?"
+
+msgctxt "1908_Haruka"
+msgid "If you'll excuse me."
+msgstr "Con permesso."
+
+msgctxt "1932_Nakai"
+msgid ""
+"By the way, are you sure your president's death was really a\r\n"
+"suicide?"
+msgstr ""
+"A proposito, sei sicuro che la morte del tuo presidente sia stata davvero un\n"
+"suicidio?"
+
+msgctxt "1944_Haruka"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "1956_Nakai"
+msgid ""
+"Park-san had a lot of enemies, after all. There's quite a\r\n"
+"few in the industry that would've been glad to see her go."
+msgstr ""
+"Park-san aveva un sacco di nemici, dopotutto. Ce ne sono un bel\\npo' "
+"nell'ambiente che sarebbero stati ben contenti di vederla sparire."
+
+msgctxt "1968_Nakai"
+msgid "Are you sure somebody didn't kill her and make it look like suicide?"
+msgstr ""
+"Sei sicuro che qualcuno non l'abbia fatta fuori e l'abbia fatta passare per "
+"un suicidio?"
+
+msgctxt "1980_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "1992_Nakai"
+msgid "I see we're aiming for the sympathy votes today."
+msgstr "Vedo che oggi si punta sui voti di simpatia."
+
+msgctxt "2004_Nakai"
+msgid ""
+"Say, what if the killer turns out to be somebody from Dyna\r\n"
+"Chair?"
+msgstr ""
+"Senti, e se l'assassino si rivelasse essere qualcuno della Dyna\n"
+"Chair?"
+
+msgctxt "2016_Haruka"
+msgid "Please, stop!"
+msgstr "Ti prego, smettila!"
+
+msgctxt "2028_Nakai"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "2040_Haruka"
+msgid "Nakai-san, if I win against T-Set..."
+msgstr "Nakai-san, se vinco contro le T-Set..."
+
+msgctxt "2052_Haruka"
+msgid "Will you promise to leave us alone and never speak to us again?"
+msgstr "Mi prometti di lasciarci in pace e di non parlarci mai più?"
+
+msgctxt "2064_Nakai"
+msgid "You're a funny girl, you know that?"
+msgstr "Sei proprio una tipa divertente, lo sai?"
+
+msgctxt "2076_Haruka"
+msgid "Do you promise?"
+msgstr "Lo prometti?"
+
+msgctxt "2088_Nakai"
+msgid ""
+"If you want me to promise, then you gotta put up somethin' on your end, too."
+msgstr ""
+"Se vuoi che ti prometta, allora devi mettere qualcosa sul piatto anche tu."
+
+msgctxt "2100_Nakai"
+msgid "I know! If you lose, you have to switch to our agency. Deal?"
+msgstr "Lo so! Se perdi, devi passare alla nostra agenzia. Ci stai?"
+
+msgctxt "2112_Haruka"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "2124_Nakai"
+msgid "You could be an opener for T-Set."
+msgstr "Potresti fare da apripista per le T-Set."
+
+msgctxt "2136_Nakai"
+msgid ""
+"Be great to have two nice big sisters to look after you,\r\n"
+"wouldn't you agree?"
+msgstr ""
+"Sarebbe fantastico avere due belle sorellone che si prendano cura di te,\n"
+"non credi?"
+
+msgctxt "2148_Haruka"
+msgid "...It's a deal."
+msgstr "...Affare fatto."
+
+msgctxt "2160_Nakai"
+msgid "You better hold up your end when you lose!"
+msgstr "Ti conviene rispettare i patti quando perdi!"
+
+msgctxt "2172_Haruka"
+msgid "Please excuse me."
+msgstr "Chiedo scusa."

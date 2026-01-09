@@ -1,0 +1,424 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "14688"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "14692"
+msgid "Yuka"
+msgstr "Yuka"
+
+msgctxt "14696"
+msgid "Subaru"
+msgstr "Subaru"
+
+msgctxt "14700"
+msgid "Riku"
+msgstr "Riku"
+
+msgctxt "14704"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "14708"
+msgid "M_YKZS_TLK_damage_no"
+msgstr "M_YKZS_TLK_damage_no"
+
+msgctxt "14712"
+msgid "F_SXY_TLK_stand_surp"
+msgstr "F_SXY_TLK_stand_surp"
+
+msgctxt "14716"
+msgid "F_YNG_TLK_stand_kansin"
+msgstr "F_YNG_TLK_stand_kansin"
+
+msgctxt "14720"
+msgid "M_YKZS_TLK_damage_yes"
+msgstr "M_YKZS_TLK_damage_yes"
+
+msgctxt "14724"
+msgid "F_SXY_TLK_stand_think"
+msgstr "F_SXY_TLK_stand_think"
+
+msgctxt "14728"
+msgid "Asumi"
+msgstr "Asumi"
+
+msgctxt "14732"
+msgid "F_YNG_TLK_stand_yes"
+msgstr "F_YNG_TLK_stand_yes"
+
+msgctxt "14736"
+msgid "F_SXY_TLK_stand_yes"
+msgstr "F_SXY_TLK_stand_yes"
+
+msgctxt "14740"
+msgid "F_SXY_TLK_stand_no"
+msgstr "F_SXY_TLK_stand_no"
+
+msgctxt "14744"
+msgid "F_SXY_TLK_stand_gakkari"
+msgstr "F_SXY_TLK_stand_gakkari"
+
+msgctxt "14748"
+msgid "M_YKZ_TLK_stand_request"
+msgstr "M_YKZ_TLK_stand_request"
+
+msgctxt "14752"
+msgid "P_TLK_stand_away"
+msgstr "P_TLK_stand_away"
+
+msgctxt "14756"
+msgid "M_YKZS_TLK_stand_yes"
+msgstr "M_YKZS_TLK_stand_yes"
+
+msgctxt "14760"
+msgid "P_TLK_stand_no"
+msgstr "P_TLK_stand_no"
+
+msgctxt "14764"
+msgid "F_SXY_TLK_stand_angry"
+msgstr "F_SXY_TLK_stand_angry"
+
+msgctxt "14768"
+msgid "F_SXY_TLK_stand_sorry"
+msgstr "F_SXY_TLK_stand_sorry"
+
+msgctxt "14772"
+msgid "F_SXY_TLK_stand_crybig_st"
+msgstr "F_SXY_TLK_stand_crybig_st"
+
+msgctxt "14776"
+msgid "P_TLK_stand_yes"
+msgstr "P_TLK_stand_yes"
+
+msgctxt "14780"
+msgid "P_TLK_stand_udekumi_st"
+msgstr "P_TLK_stand_udekumi_st"
+
+msgctxt "14784"
+msgid "F_SXY_TLK_stand_ojigi"
+msgstr "F_SXY_TLK_stand_ojigi"
+
+msgctxt "14788"
+msgid "P_TLK_stand_udekumi_no"
+msgstr "P_TLK_stand_udekumi_no"
+
+msgctxt "14792"
+msgid "F_SXY_TLK_stand_smile"
+msgstr "F_SXY_TLK_stand_smile"
+
+msgctxt "14796"
+msgid "P_TLK_stand_udekumi_ed"
+msgstr "P_TLK_stand_udekumi_ed"
+
+msgctxt "14800"
+msgid "F_SXY_TLK_stand_sync_dakiA_st"
+msgstr "F_SXY_TLK_stand_sync_dakiA_st"
+
+msgctxt "14804"
+msgid "P_TLK_stand_sync_dakiA_st"
+msgstr "P_TLK_stand_sync_dakiA_st"
+
+msgctxt "56_Yuka"
+msgid "Subaru-kun!"
+msgstr "Subaru-kun!"
+
+msgctxt "80_Subaru"
+msgid "Ugh. Yuka? Is that you?"
+msgstr "Ugh. Yuka? Sei tu?"
+
+msgctxt "104_Riku"
+msgid "Yuka-chan!?"
+msgstr "Yuka-chan!?"
+
+msgctxt "116_Yuka"
+msgid ""
+"What? Riku!? I got your email and got here as fast as I could. What on earth"
+" is goin' on here?"
+msgstr ""
+"Cosa? Riku!? Ho ricevuto la tua email e sono arrivata qui il più in fretta "
+"possibile. Ma che diamine sta succedendo qui?"
+
+msgctxt "128_Kiryu"
+msgid "Email?"
+msgstr "Email?"
+
+msgctxt "140_Riku"
+msgid ""
+"I sent it to them when they had me held up in the car. I told Yuka-chan and "
+"Asumi-chan that Subaru-san had assaulted me."
+msgstr ""
+"L'ho mandata a loro mentre mi tenevano bloccata in auto. Ho detto a Yuka-"
+"chan e ad Asumi-chan che Subaru-san mi aveva aggredita."
+
+msgctxt "152_Kiryu"
+msgid "Ah, I see. That's good thinking."
+msgstr "Ah, capisco. Ben pensato."
+
+msgctxt "176_Yuka"
+msgid "Subaru-kun, you're hurt. What happened?"
+msgstr "Subaru-kun, sei ferito. Cos'è successo?"
+
+msgctxt "188_Subaru"
+msgid "This guy here, he just..."
+msgstr "Questo tizio qui, ha appena..."
+
+msgctxt "200_Kiryu"
+msgid "I just what?"
+msgstr "Io avrei fatto cosa?"
+
+msgctxt "212_Yuka"
+msgid "Oh, dear."
+msgstr "Oh, cielo."
+
+msgctxt "224_Riku"
+msgid ""
+"Wait a sec! What're ya playin' at here? Y'tried to attack me and ya damn "
+"well know it!"
+msgstr ""
+"Aspetta un attimo! Che gioco stai cercando di fare? Hai cercato di "
+"aggredirmi e lo sai fin troppo bene!"
+
+msgctxt "236_Riku"
+msgid "Yuka-chan, ya can't believe this guy!"
+msgstr "Yuka-chan, non puoi credere a questo tizio!"
+
+msgctxt "248_Subaru"
+msgid "'Course she believes me. Ain't that right, Yuka-chan?"
+msgstr "Certo che mi crede. Non è così, Yuka-chan?"
+
+msgctxt "260_Yuka"
+msgid "Subaru-kun, I..."
+msgstr "Subaru-kun, io..."
+
+msgctxt "284_Asumi"
+msgid "Subaru-kun!"
+msgstr "Subaru-kun!"
+
+msgctxt "296_Riku"
+msgid "Asumi-chan!?"
+msgstr "Asumi-chan!?"
+
+msgctxt "308_Asumi"
+msgid "Riku-chan!? What's goin' on here? Subaru-kun, who is that?"
+msgstr "Riku-chan!? Che succede qui? Subaru-kun, chi è lei?"
+
+msgctxt "320_Riku"
+msgid "Hey, um, Yuka-chan, Asumi-chan."
+msgstr "Ehi, ehm, Yuka-chan, Asumi-chan."
+
+msgctxt "392_Riku"
+msgid "So there y'go. <Italic>Now</Italic> do ya believe me?"
+msgstr "Ecco qua. <Italic>Adesso</Italic> mi credete?"
+
+msgctxt "404_Asumi"
+msgid "I mean, seein' all a' this is a bit..."
+msgstr "Voglio dire, vedere tutto questo è un po'..."
+
+msgctxt "416_Yuka"
+msgid "I didn't want to believe it, but it's true, ain't it?"
+msgstr "Non volevo crederci, ma è la verità, vero?"
+
+msgctxt "428_Kiryu"
+msgid "Hey, don't you have anything to say for yourself?"
+msgstr "Ehi, non hai niente da dire a tua discolpa?"
+
+msgctxt "440_Subaru"
+msgid "I'm sorry. For lying to ya."
+msgstr "Mi dispiace. Per avervi mentito."
+
+msgctxt "452_Asumi"
+msgid "Subaru-kun..."
+msgstr "Subaru-kun..."
+
+msgctxt "464_Kiryu"
+msgid ""
+"If you're sorry, then get the hell out of here. And never show your face "
+"around these girls again."
+msgstr ""
+"Se ti dispiace, allora vedi di sparire da qui. E non farti mai più vedere "
+"vicino a queste ragazze."
+
+msgctxt "476_Subaru"
+msgid "Yeah, okay. I got it."
+msgstr "Sì, va bene. Ho capito."
+
+msgctxt "500_Yuka"
+msgid "Oh, Subaru-kun!"
+msgstr "Oh, Subaru-kun!"
+
+msgctxt "512_Riku"
+msgid "This... This ain't how I wanted things t'go."
+msgstr "Questo... Non era così che volevo che andassero le cose."
+
+msgctxt "524_Kiryu"
+msgid ""
+" When people have problems like this, you can't always settle them neatly."
+msgstr ""
+"Quando le persone hanno problemi di questo tipo, non sempre si riesce a "
+"risolvere tutto in modo pulito."
+
+msgctxt "536_Riku"
+msgid "Kiryu-san..."
+msgstr "Kiryu-san..."
+
+msgctxt "548_Yuka"
+msgid "Hey, Riku? I'm sorry."
+msgstr "Ehi, Riku? Mi dispiace."
+
+msgctxt "560_Riku"
+msgid "Yuka-chan?"
+msgstr "Yuka-chan?"
+
+msgctxt "572_Yuka"
+msgid "I didn't trust ya, and I said such awful things about you."
+msgstr "Non ho avuto fiducia in te e ho detto delle cose terribili su di te."
+
+msgctxt "584_Asumi"
+msgid "Me too. Y'sent me emails, and I didn't even respond. I'm so sorry."
+msgstr ""
+"Anch'io. Mi hai mandato delle email e non ti ho nemmeno risposto. Mi "
+"dispiace tanto."
+
+msgctxt "596_Riku"
+msgid "Gah, I'm so ticked off at the both of ya!"
+msgstr "Argh, mi fate proprio arrabbiare, voi due!"
+
+msgctxt "608_Yuka"
+msgid "But...!"
+msgstr "Ma…!"
+
+msgctxt "620_Kiryu"
+msgid "Riku?"
+msgstr "Riku?"
+
+msgctxt "632_Riku"
+msgid "Yuka-chan, why'd y'even think about going t'work in the sex business?"
+msgstr ""
+"Yuka-chan, perché hai anche solo pensato di andare a lavorare nel giro del "
+"sesso?"
+
+msgctxt "644_Yuka"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "656_Riku"
+msgid ""
+"And you, Asumi-chan! If y'needed money, you shoulda come and talked to me, "
+"first!"
+msgstr ""
+"E tu, Asumi-chan! Se avevi bisogno di soldi, avresti dovuto venire a "
+"parlarne prima con me!"
+
+msgctxt "668_Asumi"
+msgid "But, Riku-chan, I thought if I did ya wouldn't like me anymore."
+msgstr ""
+"Ma, Riku-chan, pensavo che se lo avessi fatto non mi avresti più voluto "
+"bene."
+
+msgctxt "680_Riku"
+msgid "I'd never do that! I been worried sick 'bout the both of ya!"
+msgstr "Non lo farei mai! Mi sono preoccupata da morire per voi due!"
+
+msgctxt "692_Yuka"
+msgid "Riku-chan!"
+msgstr "Riku-chan!"
+
+msgctxt "704_Asumi"
+msgid "I'm sorry! I'm so sorry!"
+msgstr "Mi dispiace! Mi dispiace tanto!"
+
+msgctxt "716_Kiryu"
+msgid "It looks like things worked out in the end."
+msgstr "Sembra che alla fine sia andato tutto bene."
+
+msgctxt "776_Kiryu"
+msgid "I'm glad you cleared up this misunderstanding."
+msgstr "Sono contento che abbiate chiarito questo malinteso."
+
+msgctxt "788_Riku"
+msgid "That's all thanks to you, Kiryu-san."
+msgstr "È tutto merito tuo, Kiryu-san."
+
+msgctxt "800_Kiryu"
+msgid ""
+"No, it's not. It's because you care so much about your friends and tried so "
+"hard to do something for them."
+msgstr ""
+"No, non è così. È perché tieni tanto alle tue amiche e ti sei impegnata "
+"molto per fare qualcosa per loro."
+
+msgctxt "812_Kiryu"
+msgid "I mean, maybe you overdid it a little, but..."
+msgstr "Voglio dire, forse hai esagerato un po', ma..."
+
+msgctxt "824_Riku"
+msgid "Heh. Guess I got lotsa stuff to think about here, don't I?"
+msgstr "Heh. Mi sa che ho un bel po' di cose su cui riflettere, eh?"
+
+msgctxt "836_Riku"
+msgid "Hey, Kiryu-san. I really gotta thank you."
+msgstr "Ehi, Kiryu-san. Devo proprio ringraziarti."
+
+msgctxt "848_Kiryu"
+msgid "Thank me?"
+msgstr "Ringraziarmi?"
+
+msgctxt "860_Riku"
+msgid "Ya know, for givin' me so much advice!"
+msgstr "Sai, per avermi dato così tanti consigli!"
+
+msgctxt "872_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "884_Riku"
+msgid ""
+"I'm always the one giving other folks advice, but I need some of my own "
+"every now and then, too."
+msgstr ""
+"Sono sempre io quella che dà consigli agli altri, ma ogni tanto ne ho "
+"bisogno anch'io."
+
+msgctxt "896_Riku"
+msgid "I can't even imagine what my life would be like without ya, Kiryu-san."
+msgstr ""
+"Non riesco nemmeno a immaginare come sarebbe la mia vita senza di te, Kiryu-"
+"san."
+
+msgctxt "908_Kiryu"
+msgid "And what if sticking with me just brings more trouble?"
+msgstr "E se stare con me portasse solo altri guai?"
+
+msgctxt "920_Riku"
+msgid ""
+"I don't mind that. After all, with the two of us workin' together, there's "
+"no problem we can't tackle!"
+msgstr ""
+"Non mi importa. Dopotutto, con noi due che lavoriamo insieme, non c'è "
+"problema che non possiamo affrontare!"
+
+msgctxt "932_Kiryu"
+msgid "Maybe you're right."
+msgstr "Forse hai ragione."
+
+msgctxt "944_Riku"
+msgid "But for today, let me just show ya my appreciation."
+msgstr "Ma per oggi, lascia che ti dimostri la mia gratitudine."
+
+msgctxt "956_Kiryu"
+msgid "Right, got it."
+msgstr "Va bene, ricevuto."

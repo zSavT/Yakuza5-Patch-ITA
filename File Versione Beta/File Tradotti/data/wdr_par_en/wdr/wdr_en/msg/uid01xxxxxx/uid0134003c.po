@@ -1,0 +1,1743 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "40948"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "40952"
+msgid "Hinata"
+msgstr "Hinata"
+
+msgctxt "40956"
+msgid "cab_hinata_q_01/hinata_25_0001"
+msgstr "cab_hinata_q_01/hinata_25_0001"
+
+msgctxt "40960"
+msgid "○Food"
+msgstr "○Cibo"
+
+msgctxt "40964"
+msgid "□Music"
+msgstr "□Musica"
+
+msgctxt "40968"
+msgid "△Gifts"
+msgstr "△Regali"
+
+msgctxt "40972"
+msgid "cab_hinata_q_01/hinata_25_0002"
+msgstr "cab_hinata_q_01/hinata_25_0002"
+
+msgctxt "40976"
+msgid "F_CAB_TLK_sitsofa_laugh_m"
+msgstr "F_CAB_TLK_sitsofa_laugh_m"
+
+msgctxt "40980"
+msgid "cab_hinata_q_01/hinata_25_0003"
+msgstr "cab_hinata_q_01/hinata_25_0003"
+
+msgctxt "40984"
+msgid "cab_hinata_q_01/hinata_25_0004"
+msgstr "cab_hinata_q_01/hinata_25_0004"
+
+msgctxt "40988"
+msgid "○I like those too."
+msgstr "○Piacciono anche a me."
+
+msgctxt "40992"
+msgid "□That's unusual."
+msgstr "□È insolito."
+
+msgctxt "40996"
+msgid "△What don't you like?"
+msgstr "△Cosa non ti piace?"
+
+msgctxt "41000"
+msgid "F_CAB_TLK_sitsofa_yes_02"
+msgstr "F_CAB_TLK_sitsofa_yes_02"
+
+msgctxt "41004"
+msgid "cab_hinata_q_01/hinata_25_0005"
+msgstr "cab_hinata_q_01/hinata_25_0005"
+
+msgctxt "41008"
+msgid "F_CAB_TLK_sitsofa_think"
+msgstr "F_CAB_TLK_sitsofa_think"
+
+msgctxt "41012"
+msgid "cab_hinata_q_01/hinata_25_0006"
+msgstr "cab_hinata_q_01/hinata_25_0006"
+
+msgctxt "41016"
+msgid "cab_hinata_q_01/hinata_25_0007"
+msgstr "cab_hinata_q_01/hinata_25_0007"
+
+msgctxt "41020"
+msgid "cab_hinata_q_01/hinata_25_0008"
+msgstr "cab_hinata_q_01/hinata_25_0008"
+
+msgctxt "41024"
+msgid "F_CAB_TLK_sitsofa_no_02"
+msgstr "F_CAB_TLK_sitsofa_no_02"
+
+msgctxt "41028"
+msgid "cab_hinata_q_01/hinata_25_0009"
+msgstr "cab_hinata_q_01/hinata_25_0009"
+
+msgctxt "41032"
+msgid "cab_hinata_q_01/hinata_25_0010"
+msgstr "cab_hinata_q_01/hinata_25_0010"
+
+msgctxt "41036"
+msgid "cab_hinata_q_01/hinata_25_0011"
+msgstr "cab_hinata_q_01/hinata_25_0011"
+
+msgctxt "41040"
+msgid "○Me too."
+msgstr "○Anch'io."
+
+msgctxt "41044"
+msgid "□That's not my style."
+msgstr "□Non è il mio stile."
+
+msgctxt "41048"
+msgid "cab_hinata_q_01/hinata_25_0012"
+msgstr "cab_hinata_q_01/hinata_25_0012"
+
+msgctxt "41052"
+msgid "F_CAB_TLK_sitsofa_maenomeri"
+msgstr "F_CAB_TLK_sitsofa_maenomeri"
+
+msgctxt "41056"
+msgid "cab_hinata_q_01/hinata_25_0013"
+msgstr "cab_hinata_q_01/hinata_25_0013"
+
+msgctxt "41060"
+msgid "F_CAB_TLK_sitsofa_omoituku"
+msgstr "F_CAB_TLK_sitsofa_omoituku"
+
+msgctxt "41064"
+msgid "cab_hinata_q_01/hinata_25_0014"
+msgstr "cab_hinata_q_01/hinata_25_0014"
+
+msgctxt "41068"
+msgid "cab_hinata_q_01/hinata_25_0015"
+msgstr "cab_hinata_q_01/hinata_25_0015"
+
+msgctxt "41072"
+msgid "cab_hinata_q_01/hinata_25_0016"
+msgstr "cab_hinata_q_01/hinata_25_0016"
+
+msgctxt "41076"
+msgid "cab_hinata_q_02/hinata_26_0001"
+msgstr "cab_hinata_q_02/hinata_26_0001"
+
+msgctxt "41080"
+msgid "cab_hinata_q_02/hinata_26_0002"
+msgstr "cab_hinata_q_02/hinata_26_0002"
+
+msgctxt "41084"
+msgid "○Rentals, huh?"
+msgstr "○I noleggi, eh?"
+
+msgctxt "41088"
+msgid "□Going to the theater is nice."
+msgstr "□Andare a teatro è bello."
+
+msgctxt "41092"
+msgid "cab_hinata_q_02/hinata_26_0003"
+msgstr "cab_hinata_q_02/hinata_26_0003"
+
+msgctxt "41096"
+msgid "○That makes sense."
+msgstr "○Ha senso."
+
+msgctxt "41100"
+msgid "□That doesn't get old?"
+msgstr "□Non ti stufa mai?"
+
+msgctxt "41104"
+msgid "△If you like them, buy them."
+msgstr "△Se ti piacciono, comprali."
+
+msgctxt "41108"
+msgid "cab_hinata_q_02/hinata_26_0004"
+msgstr "cab_hinata_q_02/hinata_26_0004"
+
+msgctxt "41112"
+msgid "cab_hinata_q_02/hinata_26_0005"
+msgstr "cab_hinata_q_02/hinata_26_0005"
+
+msgctxt "41116"
+msgid "cab_hinata_q_02/hinata_26_0006"
+msgstr "cab_hinata_q_02/hinata_26_0006"
+
+msgctxt "41120"
+msgid "cab_hinata_q_02/hinata_26_0007"
+msgstr "cab_hinata_q_02/hinata_26_0007"
+
+msgctxt "41124"
+msgid "cab_hinata_q_02/hinata_26_0008"
+msgstr "cab_hinata_q_02/hinata_26_0008"
+
+msgctxt "41128"
+msgid "cab_hinata_q_02/hinata_26_0009"
+msgstr "cab_hinata_q_02/hinata_26_0009"
+
+msgctxt "41132"
+msgid "cab_hinata_q_02/hinata_26_0010"
+msgstr "cab_hinata_q_02/hinata_26_0010"
+
+msgctxt "41136"
+msgid "F_CAB_TLK_sitsofa_shigusa_01"
+msgstr "F_CAB_TLK_sitsofa_shigusa_01"
+
+msgctxt "41140"
+msgid "cab_hinata_q_02/hinata_26_0011"
+msgstr "cab_hinata_q_02/hinata_26_0011"
+
+msgctxt "41144"
+msgid "○That's for sure."
+msgstr "○Questo è poco ma sicuro."
+
+msgctxt "41148"
+msgid "□That's a shame."
+msgstr "□Che peccato."
+
+msgctxt "41152"
+msgid "cab_hinata_q_02/hinata_26_0012"
+msgstr "cab_hinata_q_02/hinata_26_0012"
+
+msgctxt "41156"
+msgid "cab_hinata_q_02/hinata_26_0013"
+msgstr "cab_hinata_q_02/hinata_26_0013"
+
+msgctxt "41160"
+msgid "cab_hinata_q_02/hinata_26_0014"
+msgstr "cab_hinata_q_02/hinata_26_0014"
+
+msgctxt "41164"
+msgid "cab_hinata_q_03/hinata_27_0001"
+msgstr "cab_hinata_q_03/hinata_27_0001"
+
+msgctxt "41168"
+msgid "○Requirements for Men"
+msgstr "○I requisiti per gli uomini"
+
+msgctxt "41172"
+msgid "□Behaviors You Like"
+msgstr "□I modi di fare che ti piacciono"
+
+msgctxt "41176"
+msgid "△Age Preferences"
+msgstr "△Preferenze d'età"
+
+msgctxt "41180"
+msgid "cab_hinata_q_03/hinata_27_0002"
+msgstr "cab_hinata_q_03/hinata_27_0002"
+
+msgctxt "41184"
+msgid "○Why's that?"
+msgstr "○Come mai?"
+
+msgctxt "41188"
+msgid "□You don't understand."
+msgstr "□Non capisci."
+
+msgctxt "41192"
+msgid "△Anything else?"
+msgstr "△Qualcos'altro?"
+
+msgctxt "41196"
+msgid "cab_hinata_q_03/hinata_27_0003"
+msgstr "cab_hinata_q_03/hinata_27_0003"
+
+msgctxt "41200"
+msgid "○I see."
+msgstr "○Capisco."
+
+msgctxt "41204"
+msgid "□Deal with it."
+msgstr "□Fattene una ragione."
+
+msgctxt "41208"
+msgid "cab_hinata_q_03/hinata_27_0004"
+msgstr "cab_hinata_q_03/hinata_27_0004"
+
+msgctxt "41212"
+msgid "cab_hinata_q_03/hinata_27_0005"
+msgstr "cab_hinata_q_03/hinata_27_0005"
+
+msgctxt "41216"
+msgid "cab_hinata_q_03/hinata_27_0006"
+msgstr "cab_hinata_q_03/hinata_27_0006"
+
+msgctxt "41220"
+msgid "cab_hinata_q_03/hinata_27_0007"
+msgstr "cab_hinata_q_03/hinata_27_0007"
+
+msgctxt "41224"
+msgid "cab_hinata_q_03/hinata_27_0008"
+msgstr "cab_hinata_q_03/hinata_27_0008"
+
+msgctxt "41228"
+msgid "cab_hinata_q_03/hinata_27_0009"
+msgstr "cab_hinata_q_03/hinata_27_0009"
+
+msgctxt "41232"
+msgid "cab_hinata_q_03/hinata_27_0010"
+msgstr "cab_hinata_q_03/hinata_27_0010"
+
+msgctxt "41236"
+msgid "cab_hinata_q_03/hinata_27_0011"
+msgstr "cab_hinata_q_03/hinata_27_0011"
+
+msgctxt "41240"
+msgid "cab_hinata_q_03/hinata_27_0012"
+msgstr "cab_hinata_q_03/hinata_27_0012"
+
+msgctxt "41244"
+msgid "cab_hinata_q_03/hinata_27_0013"
+msgstr "cab_hinata_q_03/hinata_27_0013"
+
+msgctxt "41248"
+msgid "cab_hinata_q_03/hinata_27_0014"
+msgstr "cab_hinata_q_03/hinata_27_0014"
+
+msgctxt "41252"
+msgid "F_CAB_TLK_sitsofa_sorry"
+msgstr "F_CAB_TLK_sitsofa_sorry"
+
+msgctxt "41256"
+msgid "cab_hinata_q_03/hinata_27_0015"
+msgstr "cab_hinata_q_03/hinata_27_0015"
+
+msgctxt "41260"
+msgid "○Wow."
+msgstr "○Wow."
+
+msgctxt "41264"
+msgid "□That seems demeaning."
+msgstr "□Mi sembra umiliante."
+
+msgctxt "41268"
+msgid "cab_hinata_q_03/hinata_27_0016"
+msgstr "cab_hinata_q_03/hinata_27_0016"
+
+msgctxt "41272"
+msgid "○Yeah."
+msgstr "○Sì."
+
+msgctxt "41276"
+msgid "□No."
+msgstr "□No."
+
+msgctxt "41280"
+msgid "cab_hinata_q_03/hinata_27_0017"
+msgstr "cab_hinata_q_03/hinata_27_0017"
+
+msgctxt "41284"
+msgid "cab_hinata_q_03/hinata_27_0018"
+msgstr "cab_hinata_q_03/hinata_27_0018"
+
+msgctxt "41288"
+msgid "cab_hinata_q_03/hinata_27_0019"
+msgstr "cab_hinata_q_03/hinata_27_0019"
+
+msgctxt "41292"
+msgid "cab_hinata_q_03/hinata_27_0020"
+msgstr "cab_hinata_q_03/hinata_27_0020"
+
+msgctxt "41296"
+msgid "cab_hinata_q_03/hinata_27_0021"
+msgstr "cab_hinata_q_03/hinata_27_0021"
+
+msgctxt "41300"
+msgid "□That's surprising."
+msgstr "□È sorprendente."
+
+msgctxt "41304"
+msgid "cab_hinata_q_03/hinata_27_0022"
+msgstr "cab_hinata_q_03/hinata_27_0022"
+
+msgctxt "41308"
+msgid "○I guess you're right."
+msgstr "○Immagino tu abbia ragione."
+
+msgctxt "41312"
+msgid "□It still matters."
+msgstr "□È comunque importante."
+
+msgctxt "41316"
+msgid "△Why not younger guys?"
+msgstr "△Perché non i ragazzi più giovani?"
+
+msgctxt "41320"
+msgid "cab_hinata_q_03/hinata_27_0023"
+msgstr "cab_hinata_q_03/hinata_27_0023"
+
+msgctxt "41324"
+msgid "cab_hinata_q_03/hinata_27_0024"
+msgstr "cab_hinata_q_03/hinata_27_0024"
+
+msgctxt "41328"
+msgid "cab_hinata_q_03/hinata_27_0025"
+msgstr "cab_hinata_q_03/hinata_27_0025"
+
+msgctxt "41332"
+msgid "cab_hinata_q_03/hinata_27_0026"
+msgstr "cab_hinata_q_03/hinata_27_0026"
+
+msgctxt "41336"
+msgid "cab_hinata_q_04/hinata_28_0001"
+msgstr "cab_hinata_q_04/hinata_28_0001"
+
+msgctxt "41340"
+msgid "○Do you have any siblings?"
+msgstr "○Hai dei fratelli?"
+
+msgctxt "41344"
+msgid "□What's your best feature?"
+msgstr "□Qual è il tuo pregio migliore?"
+
+msgctxt "41348"
+msgid "△Got any special talents?"
+msgstr "△Hai qualche talento particolare?"
+
+msgctxt "41352"
+msgid "cab_hinata_q_04/hinata_28_0002"
+msgstr "cab_hinata_q_04/hinata_28_0002"
+
+msgctxt "41356"
+msgid "○I'm envious."
+msgstr "○Ti invidio."
+
+msgctxt "41360"
+msgid "□You don't seem like it."
+msgstr "□Non si direbbe."
+
+msgctxt "41364"
+msgid "cab_hinata_q_04/hinata_28_0003"
+msgstr "cab_hinata_q_04/hinata_28_0003"
+
+msgctxt "41368"
+msgid "cab_hinata_q_04/hinata_28_0004"
+msgstr "cab_hinata_q_04/hinata_28_0004"
+
+msgctxt "41372"
+msgid "cab_hinata_q_04/hinata_28_0005"
+msgstr "cab_hinata_q_04/hinata_28_0005"
+
+msgctxt "41376"
+msgid "cab_hinata_q_04/hinata_28_0006"
+msgstr "cab_hinata_q_04/hinata_28_0006"
+
+msgctxt "41380"
+msgid "cab_hinata_q_04/hinata_28_0007"
+msgstr "cab_hinata_q_04/hinata_28_0007"
+
+msgctxt "41384"
+msgid "cab_hinata_q_04/hinata_28_0008"
+msgstr "cab_hinata_q_04/hinata_28_0008"
+
+msgctxt "41388"
+msgid "cab_hinata_q_04/hinata_28_0009"
+msgstr "cab_hinata_q_04/hinata_28_0009"
+
+msgctxt "41392"
+msgid "cab_hinata_q_04/hinata_28_0010"
+msgstr "cab_hinata_q_04/hinata_28_0010"
+
+msgctxt "41396"
+msgid "cab_hinata_q_04/hinata_28_0011"
+msgstr "cab_hinata_q_04/hinata_28_0011"
+
+msgctxt "41400"
+msgid "cab_hinata_q_04/hinata_28_0012"
+msgstr "cab_hinata_q_04/hinata_28_0012"
+
+msgctxt "41404"
+msgid "○Nice."
+msgstr "○Bene."
+
+msgctxt "41408"
+msgid "□That's weird."
+msgstr "□È strano."
+
+msgctxt "41412"
+msgid "cab_hinata_q_04/hinata_28_0013"
+msgstr "cab_hinata_q_04/hinata_28_0013"
+
+msgctxt "41416"
+msgid "F_CAB_TLK_sitsofa_resit"
+msgstr "F_CAB_TLK_sitsofa_resit"
+
+msgctxt "41420"
+msgid "cab_hinata_q_04/hinata_28_0014"
+msgstr "cab_hinata_q_04/hinata_28_0014"
+
+msgctxt "41424"
+msgid "cab_hinata_q_04/hinata_28_0015"
+msgstr "cab_hinata_q_04/hinata_28_0015"
+
+msgctxt "41428"
+msgid "cab_hinata_q_04/hinata_28_0016"
+msgstr "cab_hinata_q_04/hinata_28_0016"
+
+msgctxt "41432"
+msgid "cab_hinata_q_04/hinata_28_0017"
+msgstr "cab_hinata_q_04/hinata_28_0017"
+
+msgctxt "41436"
+msgid "cab_hinata_q_04/hinata_28_0018"
+msgstr "cab_hinata_q_04/hinata_28_0018"
+
+msgctxt "41440"
+msgid "cab_hinata_q_04/hinata_28_0019"
+msgstr "cab_hinata_q_04/hinata_28_0019"
+
+msgctxt "41444"
+msgid "cab_hinata_q_05/hinata_29_0001"
+msgstr "cab_hinata_q_05/hinata_29_0001"
+
+msgctxt "41448"
+msgid "○What are your measurements?"
+msgstr "○Quali sono le tue misure?"
+
+msgctxt "41452"
+msgid "□Are you a dom or a sub?"
+msgstr "□Sei dominante o sottomessa?"
+
+msgctxt "41456"
+msgid "△What do you wear to bed?"
+msgstr "△Cosa metti per dormire?"
+
+msgctxt "41460"
+msgid "cab_hinata_q_05/hinata_29_0002"
+msgstr "cab_hinata_q_05/hinata_29_0002"
+
+msgctxt "41464"
+msgid "□Uh, never mind."
+msgstr "□Uh, come non detto."
+
+msgctxt "41468"
+msgid "cab_hinata_q_05/hinata_29_0003"
+msgstr "cab_hinata_q_05/hinata_29_0003"
+
+msgctxt "41472"
+msgid "cab_hinata_q_05/hinata_29_0004"
+msgstr "cab_hinata_q_05/hinata_29_0004"
+
+msgctxt "41476"
+msgid "cab_hinata_q_05/hinata_29_0005"
+msgstr "cab_hinata_q_05/hinata_29_0005"
+
+msgctxt "41480"
+msgid "cab_hinata_q_05/hinata_29_0006"
+msgstr "cab_hinata_q_05/hinata_29_0006"
+
+msgctxt "41484"
+msgid "cab_hinata_q_05/hinata_29_0007"
+msgstr "cab_hinata_q_05/hinata_29_0007"
+
+msgctxt "41488"
+msgid "cab_hinata_q_05/hinata_29_0008"
+msgstr "cab_hinata_q_05/hinata_29_0008"
+
+msgctxt "41492"
+msgid "cab_hinata_q_05/hinata_29_0009"
+msgstr "cab_hinata_q_05/hinata_29_0009"
+
+msgctxt "41496"
+msgid "□That's pretty tomboyish of you."
+msgstr "□Sei proprio un maschiaccio."
+
+msgctxt "41500"
+msgid "cab_hinata_q_05/hinata_29_0010"
+msgstr "cab_hinata_q_05/hinata_29_0010"
+
+msgctxt "41504"
+msgid "cab_hinata_q_05/hinata_29_0011"
+msgstr "cab_hinata_q_05/hinata_29_0011"
+
+msgctxt "41508"
+msgid "cab_hinata_q_05/hinata_29_0012"
+msgstr "cab_hinata_q_05/hinata_29_0012"
+
+msgctxt "41512"
+msgid "cab_hinata_q_05/hinata_29_0013"
+msgstr "cab_hinata_q_05/hinata_29_0013"
+
+msgctxt "41516"
+msgid "Riku"
+msgstr "Riku"
+
+msgctxt "284_Kiryu"
+msgid "Do you mind telling me what you like?"
+msgstr "Ti va di dirmi cosa ti piace?"
+
+msgctxt "296_Hinata"
+msgid "What I like? As in...?"
+msgstr "Cosa mi piace? Nel senso...?"
+
+msgctxt "308_Kiryu"
+msgid "What foods do you like?"
+msgstr "Quali cibi ti piacciono?"
+
+msgctxt "320_Hinata"
+msgid "Hmm. I guess tripe?"
+msgstr "Mmm. Direi la trippa?"
+
+msgctxt "332_Hinata"
+msgid "Oh, and I've been pretty into shellfish lately!"
+msgstr "Oh, e ultimamente mi piacciono un sacco i frutti di mare!"
+
+msgctxt "344_Kiryu"
+msgid "Shellfish?"
+msgstr "Frutti di mare?"
+
+msgctxt "356_Hinata"
+msgid ""
+"Yeah, the kind you get at the convenience store. Snacks for drinking, like "
+"scallops and whelk."
+msgstr ""
+"Sì, quelli che trovi al convenience store. Stuzzichini da mangiare mentre "
+"bevi, tipo capesante e buccini."
+
+msgctxt "368_Kiryu"
+msgid ""
+"I like those too. They've got a crunchy texture that makes them addicting."
+msgstr ""
+"Piacciono anche a me. Hanno una consistenza croccante che crea dipendenza."
+
+msgctxt "380_Hinata"
+msgid ""
+"Right! When I'm feeling peckish, I'll nibble on some. Before I know it, I'll"
+" have polished off an entire bag. So I have to be careful."
+msgstr ""
+"Esatto! Quando ho un languorino, ne sgranocchio un po'. Prima di rendermene "
+"conto, ho già spazzolato un intero sacchetto. Quindi devo stare attenta."
+
+msgctxt "392_Kiryu"
+msgid ""
+"I know how that goes. I bet you and I could have a great night out drinking."
+msgstr ""
+"So bene come funziona. Scommetto che io e te passeremmo una gran bella "
+"serata fuori a bere."
+
+msgctxt "404_Kiryu"
+msgid ""
+"Young women don't usually go for that stuff. Is there a reason you like it "
+"so much?"
+msgstr ""
+"Di solito alle ragazze giovani non piace quella roba. C'è un motivo per cui "
+"ti piace così tanto?"
+
+msgctxt "416_Hinata"
+msgid ""
+"I guess I got into it when I was out for sushi, and realized how tasty it "
+"was."
+msgstr ""
+"Credo di aver iniziato ad appassionarmi quando sono andata a mangiare sushi "
+"e mi sono resa conto di quanto fosse buono."
+
+msgctxt "428_Kiryu"
+msgid "I see. Then you must like shellfish when you go out for sushi, too."
+msgstr ""
+"Capisco. Allora ti piaceranno i frutti di mare anche quando vai a mangiare "
+"sushi."
+
+msgctxt "440_Hinata"
+msgid "Yeah! I even like shellfish more than toro!"
+msgstr "Sì! I frutti di mare mi piacciono persino più del toro!"
+
+msgctxt "452_Kiryu"
+msgid "I see. I'll have to remember that."
+msgstr "Capisco. Me lo terrò a mente."
+
+msgctxt "464_Kiryu"
+msgid "What don't you like?"
+msgstr "Cosa non ti piace?"
+
+msgctxt "476_Hinata"
+msgid "Green peppers!"
+msgstr "I peperoni verdi!"
+
+msgctxt "488_Kiryu"
+msgid "Wow, that was fast. I guess lots of women don't."
+msgstr "Wow, che rapidità. Immagino che a molte donne non piacciano."
+
+msgctxt "500_Hinata"
+msgid "And tomatoes! And carrots! Oh, and broccoli, celery... Asparagus too!"
+msgstr ""
+"E i pomodori! E le carote! Oh, e i broccoli, il sedano... Anche gli "
+"asparagi!"
+
+msgctxt "512_Kiryu"
+msgid ""
+"So... vegetables? That's not good for your health. Vegetables have important"
+" nutrients."
+msgstr ""
+"Quindi... niente verdure? Non fa bene alla salute. Le verdure contengono "
+"nutrienti importanti."
+
+msgctxt "524_Hinata"
+msgid "Don't worry about it. I drink vegetable juice, so I'm A-OK."
+msgstr "Non preoccuparti. Bevo il succo di verdura, quindi sono a posto."
+
+msgctxt "536_Kiryu"
+msgid "Hm. I guess."
+msgstr "Hm. Immagino."
+
+msgctxt "548_Kiryu"
+msgid "What kind of music do you listen to?"
+msgstr "Che genere di musica ascolti?"
+
+msgctxt "560_Hinata"
+msgid "I like rock."
+msgstr "Mi piace il rock."
+
+msgctxt "572_Kiryu"
+msgid "Me too. I sing it a lot at karaoke."
+msgstr "Anch'io. Lo canto spesso al karaoke."
+
+msgctxt "584_Hinata"
+msgid "No, this is different! I'm into visual kei."
+msgstr "No, è diverso! Vado matta per il visual kei."
+
+msgctxt "596_Kiryu"
+msgid ""
+"Visual kei? Ah, those bands with crazy hair, makeup, and costumes. That was "
+"the rage for a while, huh? I'm not too familiar with that era."
+msgstr ""
+"Visual kei? Ah, quei gruppi con capigliature assurde, trucco e costumi. "
+"Andavano un sacco di moda un tempo, eh? Non ho molta familiarità con quel "
+"periodo."
+
+msgctxt "608_Hinata"
+msgid ""
+"No, they're totally still around! If you don't know about them, you don't "
+"need to pretend."
+msgstr ""
+"No, esistono ancora, eccome! Se non li conosci, non c'è bisogno di fingere."
+
+msgctxt "620_Kiryu"
+msgid "There sure are lots of kinds of rock music, huh?"
+msgstr "Ce ne sono proprio tanti di generi di musica rock, eh?"
+
+msgctxt "632_Kiryu"
+msgid "That's not my style. I'm into soulful music, like the blues."
+msgstr ""
+"Non è proprio il mio stile. Mi piace la musica carica di sentimento, come il"
+" blues."
+
+msgctxt "644_Hinata"
+msgid ""
+"Haha, that's perfect! That's so you, Kiryu-san. You have to sing some for me"
+" next time!"
+msgstr ""
+"Haha, è perfetto! È proprio da te, Kiryu-san. La prossima volta me ne devi "
+"cantare un po'!"
+
+msgctxt "656_Kiryu"
+msgid "Sure, all right."
+msgstr "Certo, va bene."
+
+msgctxt "668_Kiryu"
+msgid "What do you want most right now?"
+msgstr "Cos'è che desideri di più in questo momento?"
+
+msgctxt "680_Hinata"
+msgid "Hmm. I guess some clothes?"
+msgstr "Mmm. Direi dei vestiti?"
+
+msgctxt "692_Kiryu"
+msgid "What kind of clothes?"
+msgstr "Che tipo di vestiti?"
+
+msgctxt "704_Hinata"
+msgid ""
+"Just everyday clothes, really. I don't have a lot of variety in my wardrobe,"
+" so more choices will let me mix and match."
+msgstr ""
+"Solo vestiti da tutti i giorni, davvero. Non ho molta varietà nel mio "
+"guardaroba, quindi avere più scelta mi permetterebbe di fare vari "
+"abbinamenti."
+
+msgctxt "716_Kiryu"
+msgid ""
+"Ah. I always wear the same stuff, but I guess it's a little different for "
+"women."
+msgstr ""
+"Ah. Porto sempre la solita roba, ma immagino che per le donne sia un po' "
+"diverso."
+
+msgctxt "728_Kiryu"
+msgid "What are your hobbies?"
+msgstr "Quali sono i tuoi hobby?"
+
+msgctxt "740_Hinata"
+msgid ""
+"I don't really have many, but if I had to say, I guess I'm into watching "
+"movies."
+msgstr ""
+"Non ne ho proprio molti, ma se dovessi dire, direi che mi piace guardare i "
+"film."
+
+msgctxt "752_Kiryu"
+msgid "Oh? Do you go to the movies a lot?"
+msgstr "Oh? Vai spesso al cinema?"
+
+msgctxt "764_Hinata"
+msgid "Not really, but I do rent them a bunch."
+msgstr "Non proprio, però ne noleggio un sacco."
+
+msgctxt "776_Kiryu"
+msgid "Rentals, huh? So you mostly watch movies at home?"
+msgstr "Noleggi, eh? Quindi guardi i film soprattutto a casa?"
+
+msgctxt "788_Hinata"
+msgid ""
+"Yeah. But I watch the same films over and over. I don't really have a lot of"
+" knowledge about movies."
+msgstr ""
+"Sì. Ma riguardo gli stessi film in continuazione. Non è che ne sappia poi "
+"così tanto di cinema."
+
+msgctxt "800_Kiryu"
+msgid ""
+"That makes sense. It's nice to see a wide variety of films, but you can "
+"still be a movie buff just by rewatching famous movies."
+msgstr ""
+"Ha senso. È bello vedere un'ampia varietà di film, ma si può comunque essere"
+" dei cinefili anche solo riguardando i film famosi."
+
+msgctxt "812_Hinata"
+msgid ""
+"If I like a movie, I'll watch it again and again, until I have all the lines"
+" memorized!"
+msgstr ""
+"Se un film mi piace, lo guardo e lo riguardo finché non imparo a memoria "
+"tutte le battute!"
+
+msgctxt "824_Kiryu"
+msgid ""
+"That's impressive. I'll only rewatch a movie if I accidentally rent one I've"
+" already seen."
+msgstr ""
+"È impressionante. Io riguardo un film solo se mi capita di noleggiarne uno "
+"che ho già visto per sbaglio."
+
+msgctxt "836_Hinata"
+msgid ""
+"Haha! Yeah, when I rent things, the clerk will look at my rental history and"
+" be all, \"You've already rented this, miss.\""
+msgstr ""
+"Ahah! Sì, quando noleggio qualcosa, il commesso controlla la mia cronologia "
+"dei noleggi e mi fa: \"Ha già noleggiato questo, signorina\"."
+
+msgctxt "848_Kiryu"
+msgid "How do you respond to that?"
+msgstr "E tu come rispondi?"
+
+msgctxt "860_Hinata"
+msgid ""
+"With, \"Yeah, what about it?\" If I like something, why can't I watch it "
+"multiple times?"
+msgstr ""
+"Rispondo: \"Sì, e allora?\". Se mi piace una cosa, perché non posso "
+"guardarla più volte?"
+
+msgctxt "872_Kiryu"
+msgid "Good point."
+msgstr "Giusta osservazione."
+
+msgctxt "884_Kiryu"
+msgid ""
+"That doesn't get old? Maybe it'd be good to try watching some other films."
+msgstr ""
+"Non ti stanca? Magari sarebbe una buona idea provare a guardare anche altri "
+"film."
+
+msgctxt "896_Hinata"
+msgid ""
+"It's not like I always watch the same thing. It's only every few months that"
+" I'll decide to rent something I feel like seeing again."
+msgstr ""
+"Non è che guardo sempre la stessa cosa. È solo che ogni qualche mese decido "
+"di noleggiare qualcosa che ho voglia di rivedere."
+
+msgctxt "908_Kiryu"
+msgid "So you watch something completely different on other occasions?"
+msgstr "Quindi in altre occasioni guardi qualcosa di completamente diverso?"
+
+msgctxt "920_Hinata"
+msgid ""
+"I mean, I have more than one movie I like. I try to rotate through them, but"
+" I wind up wanting to watch the first one I see anyways."
+msgstr ""
+"Voglio dire, ho più di un film che mi piace. Cerco di alternarli, ma alla "
+"fine finisco sempre per voler riguardare il primo."
+
+msgctxt "932_Kiryu"
+msgid "But that's just the same set of films over and over."
+msgstr "Ma così finisci per guardare sempre lo stesso gruppo di film."
+
+msgctxt "944_Kiryu"
+msgid ""
+"If you like them so much, buy them. DVDs are cheap these days, so it's more "
+"expensive to keep renting them."
+msgstr ""
+"Se ti piacciono così tanto, comprali. Ormai i DVD costano poco, quindi ti "
+"costa di più continuare a noleggiarli."
+
+msgctxt "956_Hinata"
+msgid ""
+"Nah, there's too much stuff at my house. Besides, the rental place is close "
+"by, and it's fine as long as I can rent it whenever I want."
+msgstr ""
+"Ma no, ho troppa roba a casa mia. E poi il videonoleggio è qui vicino, e mi "
+"va bene finché posso noleggiarlo ogni volta che voglio."
+
+msgctxt "968_Kiryu"
+msgid ""
+"So you try not to buy unnecessary things?\r\n"
+"You never do any impulse shopping?"
+msgstr ""
+"Quindi cerchi di non comprare cose superflue?\n"
+"Non fai mai acquisti d'impulso?"
+
+msgctxt "980_Hinata"
+msgid ""
+"Nope! I guess I'm not much of a materialist. I'd much rather spend my money "
+"on an enjoyable experience."
+msgstr ""
+"Macché! Direi che non sono un tipo molto materialista. Preferisco di gran "
+"lunga spendere i miei soldi in un'esperienza piacevole."
+
+msgctxt "992_Kiryu"
+msgid "Ah, so you're one of those people."
+msgstr "Ah, quindi sei uno di quelli."
+
+msgctxt "1004_Kiryu"
+msgid ""
+"Going to the theater is nice, too. Films nowadays are really impressive, "
+"especially on the big screen."
+msgstr ""
+"Anche andare al cinema è bello. I film al giorno d'oggi sono davvero "
+"impressionanti, specialmente sul grande schermo."
+
+msgctxt "1016_Hinata"
+msgid ""
+"Yeah, but I don't really watch action movies, so my TV at home is fine. And "
+"that way I can just sit back and relax."
+msgstr ""
+"Già, ma non guardo molto i film d'azione, quindi la mia TV a casa va benissimo.\n"
+"E in questo modo posso mettermi comodo e rilassarmi."
+
+msgctxt "1028_Kiryu"
+msgid ""
+"That's for sure. Sitting in a movie theater chair for two hours can get "
+"pretty tiring."
+msgstr ""
+"Questo è poco ma sicuro. Stare seduti sulla poltrona di un cinema per due "
+"ore può essere piuttosto stancante."
+
+msgctxt "1040_Hinata"
+msgid "Yeah! And at home I can rewind something if I wind up dozing off."
+msgstr "Già! E a casa posso mandare indietro se finisco per abbioccarmi."
+
+msgctxt "1052_Kiryu"
+msgid ""
+"I've been there. I went to see a movie after work once and wound up passing "
+"out. Maybe viewing at home is better."
+msgstr ""
+"È capitato anche a me. Una volta sono andato a vedere un film dopo il lavoro"
+" e sono finito per crollare. Forse è meglio guardarseli a casa."
+
+msgctxt "1064_Kiryu"
+msgid ""
+"That's a shame. We have so many theaters here in Tokyo. Since you live here,"
+" you should take more advantage of them."
+msgstr ""
+"È un peccato. Ci sono così tanti cinema qui a Tokyo. Visto che vivi qui, "
+"dovresti approfittarne di più."
+
+msgctxt "1076_Kiryu"
+msgid ""
+"If you live in the suburbs, there are times when you want to watch a movie, "
+"but it's not showing anywhere nearby."
+msgstr ""
+"Se abiti in periferia, a volte vorresti guardare un film, ma non lo danno da"
+" nessuna parte qui vicino."
+
+msgctxt "1088_Hinata"
+msgid ""
+"Well, I like being able to rent something on the spot when I feel like "
+"watching a movie."
+msgstr ""
+"Beh, mi piace poter noleggiare qualcosa sul momento quando ho voglia di "
+"guardare un film."
+
+msgctxt "1100_Hinata"
+msgid ""
+"Going to the theater requires making plans, and I don't like doing that."
+msgstr "Andare al cinema richiede di fare programmi, e non mi piace farlo."
+
+msgctxt "1112_Kiryu"
+msgid "I suppose theaters have their pros and cons, just like anything."
+msgstr ""
+"Immagino che i cinema abbiano i loro pro e contro, proprio come tutto il "
+"resto."
+
+msgctxt "1124_Kiryu"
+msgid "I want to hear your thoughts on romance."
+msgstr "Vorrei sapere cosa ne pensi dell'amore."
+
+msgctxt "1136_Hinata"
+msgid "Romance? Like in what sense?"
+msgstr "L'amore? Tipo in che senso?"
+
+msgctxt "1148_Kiryu"
+msgid "What requirements do you have for men?"
+msgstr "Quali sono i tuoi requisiti per un uomo?"
+
+msgctxt "1160_Hinata"
+msgid ""
+"Let's see. Well, he can't be a smoker. I seriously don't get the appeal."
+msgstr ""
+"Vediamo... Beh, non deve essere un fumatore. Seriamente, non ne capisco il "
+"fascino."
+
+msgctxt "1172_Kiryu"
+msgid "Why is smoking a deal breaker?"
+msgstr "Perché il fumo è un ostacolo insormontabile?"
+
+msgctxt "1184_Hinata"
+msgid ""
+"Because it makes your clothes stink, and you have to wash them right away. "
+"It's such a hassle."
+msgstr ""
+"Perché ti fa puzzare i vestiti e devi lavarli subito. È una vera seccatura."
+
+msgctxt "1196_Kiryu"
+msgid ""
+"I see. I never really thought about that. Is it so bad that you can't stand "
+"it?"
+msgstr ""
+"Capisco. Non ci avevo mai pensato veramente. È così terribile da non "
+"riuscire a sopportarlo?"
+
+msgctxt "1208_Hinata"
+msgid "Could you stand someone who reeked like garbage, Kiryu-san?"
+msgstr "Riusciresti a sopportare qualcuno che puzza di spazzatura, Kiryu-san?"
+
+msgctxt "1220_Kiryu"
+msgid ""
+"I suppose not. It's only natural to have an aversion to something like that."
+msgstr "Direi di no. È naturale provare avversione per qualcosa del genere."
+
+msgctxt "1232_Hinata"
+msgid "See? It's pretty gross."
+msgstr "Vedi? Fa proprio schifo."
+
+msgctxt "1244_Kiryu"
+msgid "I'll have to be more careful from now on."
+msgstr "Dovrò stare più attento d'ora in poi."
+
+msgctxt "1256_Kiryu"
+msgid ""
+"Deal with it. It's just a smell. Is it that much different than the smell of"
+" liquor?"
+msgstr ""
+"Fattene una ragione. È solo un odore. È così diverso dall'odore dell'alcol?"
+
+msgctxt "1268_Hinata"
+msgid ""
+"It's not only the smell, but it's rough on the lungs too! To non-smokers, "
+"it's practically poison gas."
+msgstr ""
+"Non è solo l'odore, ma fa male anche ai polmoni! Per chi non fuma, è "
+"praticamente gas tossico."
+
+msgctxt "1280_Hinata"
+msgid ""
+"Guys know the harm secondhand smoke can cause, but they still smoke anyway. "
+"It's like, really?"
+msgstr ""
+"I ragazzi sanno quanto possa far male il fumo passivo, eppure continuano a "
+"fumare lo stesso. Cioè, sul serio?"
+
+msgctxt "1292_Kiryu"
+msgid ""
+"Is it really that harsh to non-smokers? I'll have to be more mindful of that"
+" in the future."
+msgstr ""
+"È davvero così pesante per chi non fuma? Dovrò farci più attenzione in "
+"futuro."
+
+msgctxt "1304_Kiryu"
+msgid "You don't understand. Back in my day, smoking was a sign of maturity."
+msgstr "Non capisci. Ai miei tempi, fumare era un segno di maturità."
+
+msgctxt "1316_Kiryu"
+msgid ""
+"When I was a kid, we were all into the image of movie stars and the like "
+"smoking cigarettes."
+msgstr ""
+"Quando ero un ragazzino, eravamo tutti affascinati dall'immagine delle star "
+"del cinema e simili che fumavano sigarette."
+
+msgctxt "1328_Hinata"
+msgid ""
+"Maybe that's how things used to be in the old days, but it's not cool at all"
+" now."
+msgstr "Magari un tempo era così, ma ora non è affatto figo."
+
+msgctxt "1340_Hinata"
+msgid ""
+"Smokers are totally oblivious to others' needs. It's not about whether it's "
+"cool to smoke or not."
+msgstr ""
+"I fumatori ignorano completamente le esigenze degli altri. Non si tratta di "
+"quanto sia figo o meno fumare."
+
+msgctxt "1352_Kiryu"
+msgid "So then what's the problem?"
+msgstr "E allora qual è il problema?"
+
+msgctxt "1364_Kiryu"
+msgid "Anything else? That can't be the only thing."
+msgstr "C'è altro? Non può essere l'unica cosa."
+
+msgctxt "1376_Hinata"
+msgid "Well, I like a guy who's got game."
+msgstr "Beh, mi piace l'uomo che ci sa fare."
+
+msgctxt "1388_Kiryu"
+msgid "Game?"
+msgstr "Saperci fare?"
+
+msgctxt "1400_Hinata"
+msgid ""
+"Yeah. Someone with charm, who naturally draws people to him. I like guys "
+"like that."
+msgstr ""
+"Già. Qualcuno con fascino, che attiri naturalmente le persone a sé. Mi "
+"piacciono i tipi così."
+
+msgctxt "1412_Kiryu"
+msgid ""
+"Do you like to be in that inner circle, too? I wouldn't have taken you to be"
+" such a fan girl."
+msgstr ""
+"Ti piace far parte di quella cerchia ristretta anche a te? Non ti avrei mai "
+"detto una simile fangirl."
+
+msgctxt "1424_Hinata"
+msgid ""
+"Well, so what if I am? I wouldn't go out with someone if he's not attractive"
+" to others."
+msgstr ""
+"Beh, e allora? E se anche fosse? Non uscirei mai con qualcuno che non sia "
+"attraente anche per gli altri."
+
+msgctxt "1436_Kiryu"
+msgid "I guess you have a point."
+msgstr "Immagino che tu abbia ragione."
+
+msgctxt "1448_Kiryu"
+msgid "How do you like a guy to behave?"
+msgstr "Come ti piace che si comporti un uomo?"
+
+msgctxt "1460_Hinata"
+msgid "How indeed? Hmm."
+msgstr "Già, come? Hmm."
+
+msgctxt "1472_Hinata"
+msgid "My heart really starts racing if a guy beckons me over."
+msgstr ""
+"Mi batte davvero forte il cuore se un uomo mi fa cenno di avvicinarmi."
+
+msgctxt "1484_Kiryu"
+msgid "Beckons you over?"
+msgstr "Ti fa cenno di avvicinarti?"
+
+msgctxt "1496_Hinata"
+msgid ""
+"Yeah, like, when a guy waves his hand to be all, \"C'mere, you.\" I'll just "
+"run right on over!"
+msgstr ""
+"Sì, tipo quando un uomo fa un cenno con la mano come a dire: \"Ehi, vieni "
+"qui\". Gli correrei subito incontro!"
+
+msgctxt "1508_Kiryu"
+msgid "Wow. That's a new one."
+msgstr "Wow. Questa mi è nuova."
+
+msgctxt "1520_Hinata"
+msgid ""
+"Don't you ever feel that way, Kiryu-san? If a girl did a cute little wave "
+"from afar, as if to say, \"Come over here, you!\" wouldn't you want to?"
+msgstr ""
+"Non ti capita mai di sentirti così, Kiryu-san? Se una ragazza ti facesse un "
+"cenno carino da lontano, come a dirti \"Ehi, vieni qui!\", non ti verrebbe "
+"voglia?"
+
+msgctxt "1532_Kiryu"
+msgid ""
+"Yeah. I'd probably get the wrong idea and assume she was interested in me."
+msgstr ""
+"Sì. Probabilmente mi farei un'idea sbagliata e penserei che sia interessata "
+"a me."
+
+msgctxt "1544_Hinata"
+msgid "See? That's what I'm talking about."
+msgstr "Vedi? È proprio di questo che parlo."
+
+msgctxt "1556_Kiryu"
+msgid "Hm. I think I understand."
+msgstr "Hm. Credo di aver capito."
+
+msgctxt "1568_Kiryu"
+msgid "No. If she needs something, she can come to me."
+msgstr "No. Se ha bisogno di qualcosa, può venire lei da me."
+
+msgctxt "1580_Hinata"
+msgid ""
+"That's not what I mean at all! Geez! Don't you know anything about how "
+"flirting works?"
+msgstr ""
+"Non intendevo affatto questo! Uffa! Ma non ne sai proprio niente di come si "
+"flirta?"
+
+msgctxt "1592_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "1604_Kiryu"
+msgid "That seems demeaning, don't you think?"
+msgstr "Sembra un po' umiliante, non credi?"
+
+msgctxt "1616_Hinata"
+msgid "Nooo, he's taking charge! It's way cool. And super hot, too!"
+msgstr "Nooo, sta prendendo il comando! È fighissimo. Ed è pure super sexy!"
+
+msgctxt "1628_Kiryu"
+msgid "Alright, but wouldn't you want to be treated more like his equal?"
+msgstr "Va bene, ma non vorresti essere trattata più come una sua pari?"
+
+msgctxt "1640_Hinata"
+msgid ""
+"Nah, I want to be doted on! Someone who really takes care of me, you know?"
+msgstr ""
+"Nah, voglio essere viziata! Qualcuno che si prenda davvero cura di me, sai?"
+
+msgctxt "1652_Kiryu"
+msgid "I guess that's one way to look at it."
+msgstr "Immagino che sia un modo di vederla."
+
+msgctxt "1664_Kiryu"
+msgid "Do you like your guys to be in a certain age range?"
+msgstr "Ti piacciono gli uomini di una certa fascia d'età?"
+
+msgctxt "1676_Hinata"
+msgid ""
+"Age range, huh? Well, I'm not into younger guys, so I guess they can be my "
+"age or older."
+msgstr ""
+"Fascia d'età, eh? Beh, non mi interessano i ragazzi più giovani, quindi "
+"direi che possono avere la mia età o essere più grandi."
+
+msgctxt "1688_Kiryu"
+msgid "I see. So age isn't that important to you."
+msgstr "Capisco. Quindi l'età non è poi così importante per te."
+
+msgctxt "1700_Kiryu"
+msgid ""
+"That's surprising. I thought you'd be more picky about that sort of thing."
+msgstr "È sorprendente. Pensavo fossi più esigente su questo genere di cose."
+
+msgctxt "1712_Hinata"
+msgid ""
+"I mean, isn't it more important that our personalities mesh well? Age really"
+" has nothing to do with that."
+msgstr ""
+"Voglio dire, non è più importante che le nostre personalità vadano "
+"d'accordo? L'età non c'entra proprio nulla con questo."
+
+msgctxt "1724_Kiryu"
+msgid ""
+"I guess you're right. You can't judge someone just on how old they are."
+msgstr ""
+"Immagino che tu abbia ragione. Non si può giudicare qualcuno solo in base "
+"alla sua età."
+
+msgctxt "1736_Hinata"
+msgid ""
+"See, I like people who aren't overly picky! It's good that you're so "
+"understanding, Kiryu-san."
+msgstr ""
+"Vedi, mi piace chi non è troppo esigente! È un bene che tu sia così "
+"comprensivo, Kiryu-san."
+
+msgctxt "1748_Kiryu"
+msgid "Thank you. I think."
+msgstr "Grazie. Credo."
+
+msgctxt "1760_Kiryu"
+msgid ""
+"It still matters. A big age gap brings with it a big difference in values. "
+"Could you date someone from your parents' generation? I'd say no."
+msgstr ""
+"Conta comunque. Un grande divario d'età porta con sé una grande differenza "
+"di valori. Riusciresti a frequentare qualcuno della generazione dei tuoi "
+"genitori? Direi di no."
+
+msgctxt "1772_Hinata"
+msgid ""
+"But what's wrong with having different values? I find that rather "
+"fascinating about people."
+msgstr ""
+"Ma cosa c'è di male ad avere valori diversi? Lo trovo piuttosto affascinante"
+" nelle persone."
+
+msgctxt "1784_Hinata"
+msgid ""
+"Though I may not get along well with someone who's as nitpicky as you, "
+"Kiryu-san."
+msgstr ""
+"Però potrei non andare d'accordo con qualcuno di pignolo come te, Kiryu-san."
+
+msgctxt "1796_Kiryu"
+msgid "Well then."
+msgstr "Beh, allora."
+
+msgctxt "1808_Kiryu"
+msgid "Why don't you like younger guys?"
+msgstr "Perché non ti piacciono i ragazzi più giovani?"
+
+msgctxt "1820_Hinata"
+msgid ""
+"I guess because I have a kid brother and sister? I just think I've had "
+"enough of dealing with younger people."
+msgstr ""
+"Immagino sia perché ho un fratello e una sorella più piccoli? Credo solo di "
+"averne abbastanza di avere a che fare con persone più giovani."
+
+msgctxt "1832_Kiryu"
+msgid ""
+"So you want to connect with someone your age or older. That makes sense."
+msgstr "Quindi vuoi stare con qualcuno della tua età o più grande. Ha senso."
+
+msgctxt "1844_Kiryu"
+msgid "Mind telling me about yourself?"
+msgstr "Ti va di parlarmi di te?"
+
+msgctxt "1856_Hinata"
+msgid "What do you want to know?"
+msgstr "Cosa vuoi sapere?"
+
+msgctxt "1868_Kiryu"
+msgid "Do you have any siblings?"
+msgstr "Hai dei fratelli?"
+
+msgctxt "1880_Hinata"
+msgid "Yeah, a younger brother and sister. I'm the oldest."
+msgstr "Sì, un fratello e una sorella più piccoli. Sono la più grande."
+
+msgctxt "1892_Kiryu"
+msgid "I'm envious. I bet that's a fun family."
+msgstr "Ti invidio. Scommetto che è una famiglia divertente."
+
+msgctxt "1904_Hinata"
+msgid "Are you an only child, Kiryu-san?"
+msgstr "Sei figlio unico, Kiryu-san?"
+
+msgctxt "1916_Kiryu"
+msgid ""
+"Yeah. But I was raised with other children, who were like siblings to me. A "
+"boy my age, and a girl three years younger."
+msgstr ""
+"Sì. Però sono cresciuto insieme ad altri bambini, che per me erano come "
+"fratelli. Un ragazzo della mia età e una ragazza di tre anni più giovane."
+
+msgctxt "1928_Hinata"
+msgid ""
+"Oh, I wish I had siblings the same age as me! Tell me, what's that like?"
+msgstr "Oh, vorrei avere dei fratelli della mia stessa età! Dimmi, com'è?"
+
+msgctxt "1940_Kiryu"
+msgid "Hey, I thought I was the one asking questions."
+msgstr "Ehi, pensavo fossi io quello che doveva fare le domande."
+
+msgctxt "1952_Kiryu"
+msgid ""
+"You don't seem like it. You give off the impression of being an only child. "
+"Actually, more like the youngest child."
+msgstr ""
+"Non si direbbe. Dai l'impressione di essere figlia unica. Anzi, sembri quasi"
+" la più piccola."
+
+msgctxt "1964_Hinata"
+msgid ""
+"Yeah, I get that a lot. But it's only 'cause I'm here with you, Kiryu-san."
+msgstr "Sì, me lo dicono spesso. Ma è solo perché sono qui con te, Kiryu-san."
+
+msgctxt "1976_Kiryu"
+msgid "What do you mean?"
+msgstr "Cosa intendi?"
+
+msgctxt "1988_Hinata"
+msgid ""
+"Well, I'm the oldest child at home. So when I go out, I like to be the one "
+"that's doted on for a change."
+msgstr ""
+"Be', a casa sono la più grande. Quindi, quando esco, mi piace essere io "
+"quella coccolata, tanto per cambiare."
+
+msgctxt "2000_Kiryu"
+msgid "Okay, I see. Then I'll dote on you all you want."
+msgstr "Va bene, capisco. Allora ti coccolerò quanto vuoi."
+
+msgctxt "2012_Hinata"
+msgid "You really mean it!? Yaaay!"
+msgstr "Dici davvero!? Sììì!"
+
+msgctxt "2024_Kiryu"
+msgid "...I might regret this."
+msgstr "...Potrei pentirmene."
+
+msgctxt "2036_Kiryu"
+msgid "What's your favorite part of your body?"
+msgstr "Qual è la parte del tuo corpo che preferisci?"
+
+msgctxt "2048_Hinata"
+msgid "Hmm. I do like that my legs are long."
+msgstr "Mmh. Mi piace molto il fatto di avere le gambe lunghe."
+
+msgctxt "2060_Kiryu"
+msgid "Oh? How long are they?"
+msgstr "Oh? Quanto sono lunghe?"
+
+msgctxt "2072_Hinata"
+msgid "85 centimeters!"
+msgstr "85 centimetri!"
+
+msgctxt "2084_Kiryu"
+msgid "And how tall are you?"
+msgstr "E quanto sei alta?"
+
+msgctxt "2096_Hinata"
+msgid "160, on the dot."
+msgstr "160 spaccati."
+
+msgctxt "2108_Kiryu"
+msgid "So your legs are longer than your torso? That is pretty impressive."
+msgstr "Quindi hai le gambe più lunghe del busto? È davvero notevole."
+
+msgctxt "2120_Hinata"
+msgid "I know, right? I'm pretty proud of it."
+msgstr "Vero? Ne vado piuttosto fiera."
+
+msgctxt "2132_Kiryu"
+msgid "Got any special talents?"
+msgstr "Hai qualche talento speciale?"
+
+msgctxt "2144_Hinata"
+msgid ""
+"Cleaning up rooms, I guess? When I see someone else's messy room, I just "
+"have this urge to clean it all up."
+msgstr ""
+"Pulire le stanze, direi? Quando vedo la stanza disordinata di qualcun altro,"
+" mi viene proprio voglia di rimettere tutto in ordine."
+
+msgctxt "2156_Kiryu"
+msgid "Nice. Girls who are good at domestic chores are pretty desirable."
+msgstr ""
+"Bene. Le ragazze brave nelle faccende domestiche sono piuttosto apprezzate."
+
+msgctxt "2168_Hinata"
+msgid ""
+"Right? And since I'm against buying things people don't need, I can save you"
+" money too!"
+msgstr ""
+"Vero? E visto che sono contraria a comprare roba che non serve, posso anche "
+"farti risparmiare!"
+
+msgctxt "2180_Kiryu"
+msgid "That's weird. You shouldn't have to pick up someone else's mess."
+msgstr "È strano. Non dovresti dover sistemare il disordine di qualcun altro."
+
+msgctxt "2192_Hinata"
+msgid ""
+"Well, my house is tiny, so I've picked up a lot of tricks to make the most "
+"out of a small space."
+msgstr ""
+"Beh, casa mia è minuscola, quindi ho imparato un sacco di trucchi per "
+"sfruttare al meglio uno spazio ridotto."
+
+msgctxt "2204_Hinata"
+msgid ""
+"In fact, it's gotten to the point where my mom really relies on me to take "
+"care of things like that."
+msgstr ""
+"Anzi, ormai siamo arrivati al punto che mia madre conta davvero su di me per"
+" occuparsi di cose del genere."
+
+msgctxt "2216_Kiryu"
+msgid "It's good you're taking care of your parents."
+msgstr "È un bene che ti prenda cura dei tuoi genitori."
+
+msgctxt "2228_Kiryu"
+msgid "Anything else?"
+msgstr "Qualcos'altro?"
+
+msgctxt "2240_Hinata"
+msgid "Oh, I'm good at hailing a taxi!"
+msgstr "Oh, sono brava a chiamare i taxi!"
+
+msgctxt "2252_Kiryu"
+msgid "A taxi? What do you mean by that?"
+msgstr "Un taxi? In che senso?"
+
+msgctxt "2264_Hinata"
+msgid ""
+"Around here, there are a lot of drivers who won't pick up hostesses. We're "
+"too much trouble for them or something."
+msgstr ""
+"Da queste parti ci sono un sacco di tassisti che non caricano le hostess. "
+"Forse siamo una seccatura per loro, o qualcosa del genere."
+
+msgctxt "2276_Kiryu"
+msgid "Really? That's not right."
+msgstr "Davvero? Non è giusto."
+
+msgctxt "2288_Hinata"
+msgid ""
+"Yeah, but I have a secret move I use that guarantees a cab driver will stop "
+"for me!"
+msgstr ""
+"Già, ma ho una mossa segreta che garantisce che un tassista si fermi per me!"
+
+msgctxt "2300_Kiryu"
+msgid "Heh. So what's your move?"
+msgstr "Heh. E quindi qual è la tua mossa?"
+
+msgctxt "2312_Hinata"
+msgid "I wave a 10,000 yen note at them! That usually gets them to stop."
+msgstr "Gli sventolo una banconota da 10.000 yen! Di solito così si fermano."
+
+msgctxt "2324_Kiryu"
+msgid ""
+"That's ridiculous. You know we're only allowed to charge for what's on the "
+"meter, right?"
+msgstr ""
+"È assurdo. Lo sai che ci è permesso far pagare solo quello che indica il "
+"tassametro, vero?"
+
+msgctxt "2336_Kiryu"
+msgid "You know, I've been wondering about something."
+msgstr "Sai, mi stavo chiedendo una cosa."
+
+msgctxt "2348_Hinata"
+msgid "Yeah?"
+msgstr "Sì?"
+
+msgctxt "2360_Kiryu"
+msgid "What are your measurements?"
+msgstr "Quali sono le tue misure?"
+
+msgctxt "2372_Hinata"
+msgid "What!? I can't hear you!"
+msgstr "Cosa!? Non ti sento!"
+
+msgctxt "2384_Kiryu"
+msgid "I said, what are your measurements?"
+msgstr "Ho detto, quali sono le tue misure?"
+
+msgctxt "2396_Hinata"
+msgid "Why would you need to know that?"
+msgstr "Perché mai dovresti saperlo?"
+
+msgctxt "2408_Kiryu"
+msgid "Isn't that something people usually want to know?"
+msgstr "Non è una cosa che la gente di solito vuole sapere?"
+
+msgctxt "2420_Hinata"
+msgid "Okay... They're, uh, 100, 100, 100."
+msgstr "Va bene... Sono, ehm, 100, 100, 100."
+
+msgctxt "2432_Kiryu"
+msgid "Maybe I shouldn't have asked that."
+msgstr "Forse non avrei dovuto chiederlo."
+
+msgctxt "2444_Kiryu"
+msgid "Uh, never mind. That was a rude question."
+msgstr "Ehm, lascia stare. È stata una domanda maleducata."
+
+msgctxt "2456_Hinata"
+msgid ""
+"Look, I'm working on making my boobs bigger, okay? I'll let you know once "
+"I'm done with that."
+msgstr ""
+"Senti, mi sto impegnando per farmi crescere le tette, okay? Ti farò sapere "
+"quando avrò finito."
+
+msgctxt "2468_Kiryu"
+msgid "Bigger? By doing what?"
+msgstr "Più grandi? Facendo cosa?"
+
+msgctxt "2480_Hinata"
+msgid ""
+"You know, drinking soy milk, eating cabbage, swimming... Lots of things!"
+msgstr ""
+"Sai, bevendo latte di soia, mangiando cavoli, nuotando... Un sacco di cose!"
+
+msgctxt "2492_Kiryu"
+msgid "Wow, you're really committed, aren't you?"
+msgstr "Wow, fai proprio sul serio, eh?"
+
+msgctxt "2504_Kiryu"
+msgid "Are you a dom or a sub?"
+msgstr "Sei un dom o un sub?"
+
+msgctxt "2516_Hinata"
+msgid "What? Neither, I guess."
+msgstr "Cosa? Nessuno dei due, direi."
+
+msgctxt "2528_Kiryu"
+msgid "Well, if you had to pick one or the other, which would it be?"
+msgstr "Beh, se dovessi sceglierne uno dei due, quale sarebbe?"
+
+msgctxt "2540_Hinata"
+msgid ""
+"Ugh, I can't stand men who self-identify themselves like that. They sexually"
+" harass a girl and then are all, \"It's because I'm a dom.\" I mean, come "
+"on."
+msgstr ""
+"Ugh, non sopporto gli uomini che si autodefiniscono così. Molestano una "
+"ragazza e poi dicono: \"È perché sono un dom\". Voglio dire, ma per favore."
+
+msgctxt "2552_Kiryu"
+msgid "I can see you don't like this conversation topic at all."
+msgstr "Vedo che questo argomento non ti piace affatto."
+
+msgctxt "2564_Kiryu"
+msgid "What do you wear to bed?"
+msgstr "Cosa metti per andare a letto?"
+
+msgctxt "2576_Hinata"
+msgid "Umm... Usually just my sweats."
+msgstr "Uhm... Di solito metto solo la tuta."
+
+msgctxt "2588_Kiryu"
+msgid ""
+"Me too. Sweats are the best for hanging around the house and just lounging "
+"around."
+msgstr "Anch'io. La tuta è il massimo per stare in casa e rilassarsi un po'."
+
+msgctxt "2600_Hinata"
+msgid "You really think so, too? Guess we're agreed, then!"
+msgstr "Lo pensi davvero anche tu? Allora siamo d'accordo!"
+
+msgctxt "2612_Kiryu"
+msgid "...This subject did not go the way I thought it would."
+msgstr "...Questo argomento non è andato come pensavo."
+
+msgctxt "2624_Hinata"
+msgid "Anyways, I don't really care about what guys wear to bed."
+msgstr ""
+"Comunque, non mi importa granché di cosa mettono gli uomini per andare a "
+"letto."
+
+msgctxt "2636_Kiryu"
+msgid "I see."
+msgstr "Capisco."
+
+msgctxt "2648_Kiryu"
+msgid ""
+"That's pretty tomboyish of you. I'd have figured you wore proper sleepwear."
+msgstr ""
+"È un comportamento un po' da maschiaccio. Avrei immaginato che indossassi un"
+" pigiama vero e proprio."
+
+msgctxt "2660_Hinata"
+msgid ""
+"Well, I practice dancing in my room a lot, so I like to wear stuff that's "
+"easy to move around in."
+msgstr ""
+"Beh, faccio spesso pratica di danza in camera mia, quindi mi piace indossare"
+" roba che sia comoda per muovermi."
+
+msgctxt "2672_Kiryu"
+msgid "I work out in sweats myself."
+msgstr "Anch'io mi alleno in tuta."
+
+msgctxt "2684_Hinata"
+msgid ""
+"Yeah, see? Having to change is such a hassle, and it's not like I dance "
+"enough to sweat either."
+msgstr ""
+"Visto? Dovermi cambiare è proprio uno sbattimento, e poi non è che balli "
+"così tanto da sudare."
+
+msgctxt "2696_Kiryu"
+msgid "Makes sense."
+msgstr "Ha senso."
+
+msgctxt "2708_Riku"
+msgid "Question Conversation 05"
+msgstr "Domanda conversazione 05"
+
+msgctxt "2720_Riku"
+msgid "Question Conversation 06"
+msgstr "Domanda conversazione 06"
+
+msgctxt "2732_Riku"
+msgid "Question Conversation 07"
+msgstr "Domanda conversazione 07"
+
+msgctxt "2744_Riku"
+msgid "Question Conversation 08"
+msgstr "Domanda conversazione 08"
+
+msgctxt "2756_Riku"
+msgid "Question Conversation 09"
+msgstr "Domanda conversazione 09"
+
+msgctxt "2768_Riku"
+msgid "Question Conversation 10"
+msgstr "Domanda conversazione 10"
+
+msgctxt "2780_Riku"
+msgid "Question Conversation 11"
+msgstr "Domanda conversazione 11"
+
+msgctxt "2792_Riku"
+msgid "Question Conversation 12"
+msgstr "Domanda conversazione 12"
+
+msgctxt "2804_Riku"
+msgid "Question Conversation 13"
+msgstr "Domanda conversazione 13"
+
+msgctxt "2816_Riku"
+msgid "Question Conversation 14"
+msgstr "Domanda conversazione 14"
+
+msgctxt "2828_Riku"
+msgid "Question Conversation 15"
+msgstr "Domanda conversazione 15"

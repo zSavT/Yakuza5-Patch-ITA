@@ -1,0 +1,1368 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "41488"
+msgid "Horie"
+msgstr "Horie"
+
+msgctxt "41492"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "41496"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "41500"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "41504"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "41508"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "41512"
+msgid "Manda"
+msgstr "Manda"
+
+msgctxt "41516"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "41520"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "41524"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "41528"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "41532"
+msgid "Yes, of course!"
+msgstr "Sì, certo!"
+
+msgctxt "41536"
+msgid "I'm really bad at that kind of thing..."
+msgstr "Sono una frana in quel genere di cose..."
+
+msgctxt "41540"
+msgid "Idle"
+msgstr "Inattivo"
+
+msgctxt "41544"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "41548"
+msgid "Program Director"
+msgstr "Direttore di programma"
+
+msgctxt "41552"
+msgid "adv3_130/horie_0040a"
+msgstr "adv3_130/horie_0040a"
+
+msgctxt "41556"
+msgid "adv3_130/horie_0040b"
+msgstr "adv3_130/horie_0040b"
+
+msgctxt "41560"
+msgid "adv3_130/haruka_0075"
+msgstr "adv3_130/haruka_0075"
+
+msgctxt "41564"
+msgid "adv3_130/horie_0041a"
+msgstr "adv3_130/horie_0041a"
+
+msgctxt "41568"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "41572"
+msgid "adv3_130/horie_0041b"
+msgstr "adv3_130/horie_0041b"
+
+msgctxt "41576"
+msgid "adv3_130/haruka_0076"
+msgstr "adv3_130/haruka_0076"
+
+msgctxt "41580"
+msgid "adv3_130/horie_3_130_010"
+msgstr "adv3_130/horie_3_130_010"
+
+msgctxt "41584"
+msgid "adv3_130/horie_3_130_020a"
+msgstr "adv3_130/horie_3_130_020a"
+
+msgctxt "41588"
+msgid "adv3_130/horie_3_130_020b"
+msgstr "adv3_130/horie_3_130_020b"
+
+msgctxt "41592"
+msgid "adv3_130/horie_3_130_020c"
+msgstr "adv3_130/horie_3_130_020c"
+
+msgctxt "41596"
+msgid "adv3_130/haruka_3_130_010"
+msgstr "adv3_130/haruka_3_130_010"
+
+msgctxt "41600"
+msgid "adv3_130/horie_0042a"
+msgstr "adv3_130/horie_0042a"
+
+msgctxt "41604"
+msgid "adv3_130/horie_0042b"
+msgstr "adv3_130/horie_0042b"
+
+msgctxt "41608"
+msgid "adv3_130/horie_0042c"
+msgstr "adv3_130/horie_0042c"
+
+msgctxt "41612"
+msgid "adv3_130/haruka_0077"
+msgstr "adv3_130/haruka_0077"
+
+msgctxt "41616"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "41620"
+msgid "Yoko"
+msgstr "Yoko"
+
+msgctxt "41624"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "41628"
+msgid "2d_yk_map_yoko"
+msgstr "2d_yk_map_yoko"
+
+msgctxt "41632"
+msgid "Yoko's Training"
+msgstr "Allenamento di Yoko"
+
+msgctxt "41636"
+msgid "adv3_115/horie_3_120_010"
+msgstr "adv3_115/horie_3_120_010"
+
+msgctxt "41640"
+msgid "adv3_115/haruka_3_120_010"
+msgstr "adv3_115/haruka_3_120_010"
+
+msgctxt "41644"
+msgid "adv3_115/horie_3_120_020"
+msgstr "adv3_115/horie_3_120_020"
+
+msgctxt "41648"
+msgid "adv3_115/haruka_3_120_020"
+msgstr "adv3_115/haruka_3_120_020"
+
+msgctxt "41652"
+msgid "adv3_115/horie_3_120_030"
+msgstr "adv3_115/horie_3_120_030"
+
+msgctxt "41656"
+msgid "adv3_115/haruka_3_120_030"
+msgstr "adv3_115/haruka_3_120_030"
+
+msgctxt "41660"
+msgid "adv3_115/horie_3_120_040"
+msgstr "adv3_115/horie_3_120_040"
+
+msgctxt "41664"
+msgid "adv3_115/horie_3_120_050"
+msgstr "adv3_115/horie_3_120_050"
+
+msgctxt "41668"
+msgid "adv3_115/horie_3_120_100a"
+msgstr "adv3_115/horie_3_120_100a"
+
+msgctxt "41672"
+msgid "adv3_115/horie_3_120_100b"
+msgstr "adv3_115/horie_3_120_100b"
+
+msgctxt "41676"
+msgid "adv3_115/haruka_0073"
+msgstr "adv3_115/haruka_0073"
+
+msgctxt "41680"
+msgid "adv3_115/horie_0039"
+msgstr "adv3_115/horie_0039"
+
+msgctxt "41684"
+msgid "Assistant Director"
+msgstr "Assistente Regista"
+
+msgctxt "41688"
+msgid "adv3_115/tvad_0001"
+msgstr "adv3_115/tvad_0001"
+
+msgctxt "41692"
+msgid "adv3_115/haruka_0074"
+msgstr "adv3_115/haruka_0074"
+
+msgctxt "41696"
+msgid "adv3_115/horie_0033a"
+msgstr "adv3_115/horie_0033a"
+
+msgctxt "41700"
+msgid "adv3_115/horie_0033b"
+msgstr "adv3_115/horie_0033b"
+
+msgctxt "41704"
+msgid "adv3_115/horie_0033c"
+msgstr "adv3_115/horie_0033c"
+
+msgctxt "41708"
+msgid "adv3_115/haruka_0070"
+msgstr "adv3_115/haruka_0070"
+
+msgctxt "41712"
+msgid "adv3_115/horie_0034a"
+msgstr "adv3_115/horie_0034a"
+
+msgctxt "41716"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "41720"
+msgid "adv3_115/horie_0034b"
+msgstr "adv3_115/horie_0034b"
+
+msgctxt "41724"
+msgid "adv3_115/haruka_0071"
+msgstr "adv3_115/haruka_0071"
+
+msgctxt "41728"
+msgid "adv3_115/horie_0035"
+msgstr "adv3_115/horie_0035"
+
+msgctxt "41732"
+msgid "adv3_115/haruka_0072a"
+msgstr "adv3_115/haruka_0072a"
+
+msgctxt "41736"
+msgid "adv3_115/haruka_0072b"
+msgstr "adv3_115/haruka_0072b"
+
+msgctxt "41740"
+msgid "adv3_115/haruka_0072c"
+msgstr "adv3_115/haruka_0072c"
+
+msgctxt "41744"
+msgid "adv3_115/horie_0036ba"
+msgstr "adv3_115/horie_0036ba"
+
+msgctxt "41748"
+msgid "adv3_115/horie_0036bb"
+msgstr "adv3_115/horie_0036bb"
+
+msgctxt "41752"
+msgid "adv3_115/horie_0036bc"
+msgstr "adv3_115/horie_0036bc"
+
+msgctxt "41756"
+msgid "adv3_115/horie_0036bd"
+msgstr "adv3_115/horie_0036bd"
+
+msgctxt "41760"
+msgid "adv3_115/horie_0036be"
+msgstr "adv3_115/horie_0036be"
+
+msgctxt "41764"
+msgid "???"
+msgstr "???"
+
+msgctxt "41768"
+msgid "Mai"
+msgstr "Mai"
+
+msgctxt "41772"
+msgid "C3110_MAI_arm_pain_tlk_01"
+msgstr "C3110_MAI_arm_pain_tlk_01"
+
+msgctxt "41776"
+msgid "adv3_010_0/mai_0005a"
+msgstr "adv3_010_0/mai_0005a"
+
+msgctxt "41780"
+msgid "adv3_010_0/mai_0005b"
+msgstr "adv3_010_0/mai_0005b"
+
+msgctxt "41784"
+msgid "C3110_MAI_arm_pain_tlk_02"
+msgstr "C3110_MAI_arm_pain_tlk_02"
+
+msgctxt "41788"
+msgid "adv3_010_0/horie_0030"
+msgstr "adv3_010_0/horie_0030"
+
+msgctxt "41792"
+msgid "Nakai"
+msgstr "Nakai"
+
+msgctxt "41796"
+msgid "adv3_010_0/nakai_0002a"
+msgstr "adv3_010_0/nakai_0002a"
+
+msgctxt "41800"
+msgid "adv3_010_0/nakai_0002b"
+msgstr "adv3_010_0/nakai_0002b"
+
+msgctxt "41804"
+msgid "adv3_010_0/nakai_0002c"
+msgstr "adv3_010_0/nakai_0002c"
+
+msgctxt "41808"
+msgid "adv3_010_0/nakai_0002d"
+msgstr "adv3_010_0/nakai_0002d"
+
+msgctxt "41812"
+msgid "adv3_010_0/horie_0031"
+msgstr "adv3_010_0/horie_0031"
+
+msgctxt "41816"
+msgid "adv3_010_0/nakai_0003"
+msgstr "adv3_010_0/nakai_0003"
+
+msgctxt "41820"
+msgid "Azusa"
+msgstr "Azusa"
+
+msgctxt "41824"
+msgid "adv3_010_0/azusa_0004"
+msgstr "adv3_010_0/azusa_0004"
+
+msgctxt "41828"
+msgid "adv3_010_0/horie_0032"
+msgstr "adv3_010_0/horie_0032"
+
+msgctxt "41832"
+msgid "adv3_010_0/haruka_0065"
+msgstr "adv3_010_0/haruka_0065"
+
+msgctxt "41836"
+msgid "adv3_010_0/mai_0006a"
+msgstr "adv3_010_0/mai_0006a"
+
+msgctxt "41840"
+msgid "C3110_MAI_arm_pain_tlk_03"
+msgstr "C3110_MAI_arm_pain_tlk_03"
+
+msgctxt "41844"
+msgid "adv3_010_0/mai_0006b"
+msgstr "adv3_010_0/mai_0006b"
+
+msgctxt "41848"
+msgid "adv3_010_0/mai_0007"
+msgstr "adv3_010_0/mai_0007"
+
+msgctxt "41852"
+msgid "F_NML_TLK_stand_kamae"
+msgstr "F_NML_TLK_stand_kamae"
+
+msgctxt "41856"
+msgid "C3110_MAI_arm_pain_kamae_ed"
+msgstr "C3110_MAI_arm_pain_kamae_ed"
+
+msgctxt "41860"
+msgid "adv3_010_0/haruka_0066"
+msgstr "adv3_010_0/haruka_0066"
+
+msgctxt "41864"
+msgid "kaiwabgm_heartwarm04"
+msgstr "kaiwabgm_heartwarm04"
+
+msgctxt "41868"
+msgid "adv3_010_0/mai_0008"
+msgstr "adv3_010_0/mai_0008"
+
+msgctxt "41872"
+msgid "adv3_010_0/haruka_0067"
+msgstr "adv3_010_0/haruka_0067"
+
+msgctxt "41876"
+msgid "adv3_010_0/mai_0009"
+msgstr "adv3_010_0/mai_0009"
+
+msgctxt "41880"
+msgid "adv3_010_0/haruka_0068a"
+msgstr "adv3_010_0/haruka_0068a"
+
+msgctxt "41884"
+msgid "adv3_010_0/haruka_0068b"
+msgstr "adv3_010_0/haruka_0068b"
+
+msgctxt "41888"
+msgid "adv3_010_0/haruka_0068c"
+msgstr "adv3_010_0/haruka_0068c"
+
+msgctxt "41892"
+msgid "adv3_010_0/mai_0010"
+msgstr "adv3_010_0/mai_0010"
+
+msgctxt "41896"
+msgid "adv3_010_0/haruka_0069"
+msgstr "adv3_010_0/haruka_0069"
+
+msgctxt "41900"
+msgid "adv3_010_0/azusa_0005"
+msgstr "adv3_010_0/azusa_0005"
+
+msgctxt "41904"
+msgid "adv3_010_0/nakai_0004"
+msgstr "adv3_010_0/nakai_0004"
+
+msgctxt "41908"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "41912"
+msgid "adv3_010_0/mai_0011"
+msgstr "adv3_010_0/mai_0011"
+
+msgctxt "41916"
+msgid "adv3_010_0/azusa_0006"
+msgstr "adv3_010_0/azusa_0006"
+
+msgctxt "41920"
+msgid "adv3_010_0/nakai_0005a"
+msgstr "adv3_010_0/nakai_0005a"
+
+msgctxt "41924"
+msgid "adv3_010_0/nakai_0005b"
+msgstr "adv3_010_0/nakai_0005b"
+
+msgctxt "41928"
+msgid "adv3_010_0/mai_0012"
+msgstr "adv3_010_0/mai_0012"
+
+msgctxt "41932"
+msgid "adv3_010_0/azusa_0007"
+msgstr "adv3_010_0/azusa_0007"
+
+msgctxt "41936"
+msgid "adv3_010_0/mai_0013"
+msgstr "adv3_010_0/mai_0013"
+
+msgctxt "41940"
+msgid "adv3_090/horie_0022"
+msgstr "adv3_090/horie_0022"
+
+msgctxt "41944"
+msgid "adv3_090/haruka_0062"
+msgstr "adv3_090/haruka_0062"
+
+msgctxt "41948"
+msgid "adv3_090/horie_0023a"
+msgstr "adv3_090/horie_0023a"
+
+msgctxt "41952"
+msgid "adv3_090/horie_0023b"
+msgstr "adv3_090/horie_0023b"
+
+msgctxt "41956"
+msgid "adv3_090/horie_0023c"
+msgstr "adv3_090/horie_0023c"
+
+msgctxt "41960"
+msgid "adv3_090/horie_0023d"
+msgstr "adv3_090/horie_0023d"
+
+msgctxt "41964"
+msgid "adv3_090/horie_0024"
+msgstr "adv3_090/horie_0024"
+
+msgctxt "41968"
+msgid "adv3_080/horie_0012c"
+msgstr "adv3_080/horie_0012c"
+
+msgctxt "41972"
+msgid "蒼天テレビ"
+msgstr "蒼天テレビ"
+
+msgctxt "216_Horie"
+msgid "Good job, Haruka-chan. Were you nervous?"
+msgstr "Bel lavoro, Haruka-chan. Eri nervosa?"
+
+msgctxt "228_Haruka"
+msgid "Yes, I'm sorry. I was getting pretty flustered!"
+msgstr "Sì, mi dispiace. Ero piuttosto agitata!"
+
+msgctxt "240_Horie"
+msgid ""
+"That's all right. You'd never done anythin' like this\r\n"
+"before, and it was all so sudden, too."
+msgstr ""
+"Va bene così. Non avevi mai fatto una cosa del genere\n"
+"prima, e poi è stato tutto così improvviso."
+
+msgctxt "252_Horie"
+msgid "Anyway, let's go see Manda-san again."
+msgstr "Comunque, andiamo a trovare Manda-san di nuovo."
+
+msgctxt "264_Haruka"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "276_Horie"
+msgid "Fantastic job, Haruka-chan!"
+msgstr "Fantastico lavoro, Haruka-chan!"
+
+msgctxt "288_Haruka"
+msgid "I was a little nervous."
+msgstr "Ero un po' nervosa."
+
+msgctxt "300_Horie"
+msgid "Well, it didn't show. You really stood out!"
+msgstr "Beh, non si è visto. Ti sei fatta notare un sacco!"
+
+msgctxt "312_Haruka"
+msgid "Thank you."
+msgstr "Grazie."
+
+msgctxt "324_Horie"
+msgid "Anyway, let's go see Manda-san again."
+msgstr "Comunque, andiamo a trovare Manda-san di nuovo."
+
+msgctxt "336_Haruka"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "360_Horie"
+msgid "Manda-san!"
+msgstr "Manda-san!"
+
+msgctxt "372_Manda"
+msgid "Ah, the people from Dyna Chair..."
+msgstr "Ah, quelli della Dyna Chair..."
+
+msgctxt "384_Horie"
+msgid "We're terribly sorry about earlier today!"
+msgstr "Siamo terribilmente dispiaciuti per prima oggi!"
+
+msgctxt "396_Haruka"
+msgid "Our sincerest apologies!"
+msgstr "Le nostre più sincere scuse!"
+
+msgctxt "408_Manda"
+msgid "Wait. Hold it right there."
+msgstr "Aspetta. Fermo lì."
+
+msgctxt "420_Horie"
+msgid "Pardon?"
+msgstr "Come scusa?"
+
+msgctxt "432_Manda"
+msgid "Good timing, you two! This is perfect."
+msgstr "Che tempismo, voi due! È perfetto."
+
+msgctxt "444_Horie"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "456_Manda"
+msgid ""
+"Well, we had that famous model－I can't seem to remember her\r\n"
+"name－scheduled to go on our game show, but she up and\r\n"
+"canceled last minute!"
+msgstr ""
+"Dunque, avevamo in programma quella famosa modella—che non mi ricordo il\n"
+"nome—prevista per il nostro game show, ma ci ha dato buca all'ultimo\n"
+"minuto!"
+
+msgctxt "468_Manda"
+msgid ""
+"The studio's in an uproar! But here you people come along\r\n"
+"like a gift from up above! What do you say? Think you can\r\n"
+"take her place, young lady?"
+msgstr ""
+"Lo studio è sottosopra! Ma ecco che voi arrivate\n"
+"come un dono dal cielo! Che ne dici? Credi di poter\n"
+"prendere il suo posto, ragazza?"
+
+msgctxt "480_Horie"
+msgid ""
+"Wha...? Yes, of course! Haruka's schedule is open for the\r\n"
+"rest of the day."
+msgstr ""
+"Cosa...? Sì, certo! Il programma di Haruka è libero per il\n"
+"resto della giornata."
+
+msgctxt "492_Horie"
+msgid ""
+"Whaddya think, Haruka-chan? Can you do it? He said it's some\r\n"
+"sort of game show..."
+msgstr ""
+"Che ne pensi, Haruka-chan? Ce la fai? Ha detto che è una specie\n"
+"di game show..."
+
+msgctxt "504_Haruka"
+msgid "Yes, of course! I'd love to go on!"
+msgstr "Sì, certo! Mi piacerebbe tanto partecipare!"
+
+msgctxt "516_Manda"
+msgid "Great! That's the spirit!"
+msgstr "Fantastico! Così si fa!"
+
+msgctxt "528_Manda"
+msgid "Hey, Hayashida! I found a fill-in!"
+msgstr "Ehi, Hayashida! Ho trovato un tappabuchi!"
+
+msgctxt "540_Program Director"
+msgid ""
+"A fill-in...? Wait! You're Haruka Sawamura! Wow! Aren't we\r\n"
+"lucky! All right, let me explain how it's going to go. Right\r\n"
+"this way, if you would."
+msgstr ""
+"Un tappabuchi...? Aspetta! Tu sei Haruka Sawamura! Wow! Ma che\n"
+"fortuna! Va bene, lascia che ti spieghi come andrà. Da questa\n"
+"parte, se vuoi."
+
+msgctxt "552_Haruka"
+msgid "Yes, of course!"
+msgstr "Sì, certo!"
+
+msgctxt "564_Haruka"
+msgid "I don't know. I'm really bad at that kind of thing..."
+msgstr "Non lo so. Sono una frana in quel genere di cose..."
+
+msgctxt "576_Manda"
+msgid ""
+"Don't worry about a thing! You'll do great! Hey, Hayashida!\r\n"
+"I found a fill-in!"
+msgstr ""
+"Non preoccuparti di niente! Farai un figurone! Ehi, Hayashida!\n"
+"Ho trovato un tappabuchi!"
+
+msgctxt "588_Horie"
+msgid "But－"
+msgstr "Ma..."
+
+msgctxt "600_Program Director"
+msgid ""
+"A fill-in...? Wait! You're Haruka Sawamura! Wow! Aren't we\r\n"
+"lucky! All right, let me explain how it's going to go. Right\r\n"
+"this way, if you would."
+msgstr ""
+"Un tappabuchi...? Aspetta! Tu sei Haruka Sawamura! Wow! Ma che\n"
+"fortuna! Va bene, lascia che ti spieghi come andrà. Da questa\n"
+"parte, se vuoi."
+
+msgctxt "612_Haruka"
+msgid "Really? Okay..."
+msgstr "Davvero? Va bene..."
+
+msgctxt "624_Horie"
+msgid "Er... Good luck!"
+msgstr "Ehm... In bocca al lupo!"
+
+msgctxt "672_Horie"
+msgid "Okay, let's find Manda-san."
+msgstr "Va bene, cerchiamo Manda-san."
+
+msgctxt "708_Horie"
+msgid "You did it, Haruka-chan! That was great!"
+msgstr "Ce l'hai fatta, Haruka-chan! Hai fatto un figurone!"
+
+msgctxt "720_Horie"
+msgid ""
+"Truly amazing performance! Keep it up, and I'll bet you'll\r\n"
+"win round two tomorrow, too!"
+msgstr ""
+"Prestazione davvero incredibile! Continua così, e scommetto che ti porti\n"
+"a casa pure il secondo round domani!"
+
+msgctxt "732_Haruka"
+msgid "Really? I hope so!"
+msgstr "Davvero? Lo spero!"
+
+msgctxt "744_Horie"
+msgid "What a shame. I'm so sorry, Haruka-chan..."
+msgstr "Che peccato. Sono così dispiaciuto, Haruka-chan..."
+
+msgctxt "756_Horie"
+msgid ""
+"But don't worry. You did great out there! I bet ya can win\r\n"
+"round two tomorrow!"
+msgstr ""
+"Ma non preoccuparti. Hai fatto un figurone! Scommetto che ti porti a casa\n"
+"il secondo round domani!"
+
+msgctxt "768_Haruka"
+msgid "I'm sorry. I'll do better tomorrow!"
+msgstr "Mi dispiace. Farò meglio domani!"
+
+msgctxt "780_Horie"
+msgid "What a shame. I'm so sorry, Haruka-chan..."
+msgstr "Che peccato. Sono così dispiaciuto, Haruka-chan..."
+
+msgctxt "792_Horie"
+msgid "I'm sure you're upset, but T-Set is some pretty stiff competition."
+msgstr ""
+"Sarai di certo dispiaciuto, ma le T-Set sono una concorrenza mica da ridere."
+
+msgctxt "804_Horie"
+msgid "They aren't like any of the others you've gone up against."
+msgstr "Non sono mica come tutti gli altri che hai affrontato."
+
+msgctxt "816_Horie"
+msgid "Just try to shake it off and regroup for round two tomorrow!"
+msgstr ""
+"Cerca di scrollartela di dosso e riprenditi per il secondo round di domani!"
+
+msgctxt "828_Haruka"
+msgid "All right, I will!"
+msgstr "Va bene, lo farò!"
+
+msgctxt "840_Horie"
+msgid "Okay, let's head back to Sotenbori."
+msgstr "Va bene, torniamo a Sotenbori."
+
+msgctxt "852_Horie"
+msgid "We really should apologize to Manda-san again..."
+msgstr "Dovremmo proprio scusarci di nuovo con Manda-san..."
+
+msgctxt "864_Horie"
+msgid ""
+"But he's not answering his cell. I hope he ain't still\r\n"
+"mad..."
+msgstr ""
+"Ma non risponde al cellulare. Spero che non sia ancora\n"
+"arrabbiato..."
+
+msgctxt "876_Haruka"
+msgid "Me, too."
+msgstr "Anch'io."
+
+msgctxt "912_Yoko"
+msgid "Hmm. Not bad, not bad."
+msgstr "Niente male, niente male."
+
+msgctxt "924_Haruka"
+msgid "Wow! I've never looked this good before!"
+msgstr "Wow! Non mi sono mai vista così bene prima d'ora!"
+
+msgctxt "936_Yoko"
+msgid ""
+"Heh, see what happens when you're in the hands of a professional? Oh, by the"
+" way, bumpkin, I have a little present for you."
+msgstr ""
+"Eh eh, hai visto cosa succede quando sei nelle mani di una professionista? "
+"Ah, a proposito, campagnola, ho un piccolo regalo per te."
+
+msgctxt "948_Haruka"
+msgid "What's this?"
+msgstr "Questo cos'è?"
+
+msgctxt "960_Yoko"
+msgid ""
+"A quick-change costume. It's an old, special design of mine, and I just "
+"can't bear to see it go to waste, so I want you to have it."
+msgstr ""
+"Un costume a cambio rapido. È un mio vecchio design speciale, e proprio non "
+"riesco a vederlo sprecato, così voglio dartelo."
+
+msgctxt "972_Yoko"
+msgid ""
+"Quick-change is all about timing, my dear. When you feel the\r\n"
+"time is just right, change into this and watch everyone be\r\n"
+"blown away!"
+msgstr ""
+"Il cambio rapido è tutta questione di tempismo, cara mia. Quando senti che il\n"
+"momento è quello giusto, indossalo e guarda tutti rimanere\n"
+"a bocca aperta!"
+
+msgctxt "984_Haruka"
+msgid "Oh, my goodness! Thank you so very much!"
+msgstr "Oh, mio Dio! Grazie tantissimo!"
+
+msgctxt "1020_Yoko"
+msgid "And now the rest is up to you, my little bumpkin."
+msgstr "E ora il resto sta a te, mia piccola campagnola."
+
+msgctxt "1032_Haruka"
+msgid ""
+"Thank you again, Yoko-san! But... why are you being so nice\r\n"
+"to me?"
+msgstr ""
+"Grazie ancora, Yoko-san! Ma... perché sei così gentile\n"
+"con me?"
+
+msgctxt "1044_Yoko"
+msgid ""
+"Well... you remind me of someone. A certain idol I used to\r\n"
+"work on."
+msgstr "Beh... mi ricordi qualcuno. Una certa idol di cui mi occupavo."
+
+msgctxt "1056_Yoko"
+msgid ""
+"But, in the end, I wasn't able to make her shine like she\r\n"
+"deserved..."
+msgstr ""
+"Ma, alla fine, non sono riuscito a farla brillare come\n"
+"meritava..."
+
+msgctxt "1068_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "1080_Yoko"
+msgid ""
+"I see this as my second chance, part of my own little\r\n"
+"agenda, you might say."
+msgstr ""
+"La vedo come la mia seconda possibilità, parte della mia piccola\n"
+"agenda personale, potresti dire."
+
+msgctxt "1092_Yoko"
+msgid "If that bothers you, feel free to say so."
+msgstr "Se la cosa ti disturba, sentiti pure libero di dirlo."
+
+msgctxt "1104_Haruka"
+msgid "Bother me? Of course not!  I'm very grateful to you."
+msgstr "Disturbarmi? Ma certo che no! Ti sono molto grata."
+
+msgctxt "1116_Yoko"
+msgid "Good. Well then, I think I'll get going."
+msgstr "Bene. Allora, direi che vado."
+
+msgctxt "1128_Yoko"
+msgid ""
+"You can find me under Iwao Bridge in Sotenbori if you ever\r\n"
+"want to learn more beauty secrets. Good luck, now!"
+msgstr ""
+"Puoi trovarmi sotto il Ponte Iwao a Sotenbori se dovessi mai\n"
+"voler imparare altri segreti di bellezza. Buona fortuna, adesso!"
+
+msgctxt "1152_Haruka"
+msgid "Thank you very much, Yoko-san!"
+msgstr "Grazie mille, Yoko-san!"
+
+msgctxt "1164_Horie"
+msgid ""
+"There are many advantages to Yoko's training.\r\n"
+"\r\n"
+" -It fills the Climax Heat Gauge.\r\n"
+" -It boosts the number of times Idol Heat can be used.\r\n"
+" -It greatly improves Appeal.\r\n"
+"\r\n"
+"Train with Yoko before a Princess League round to prepare\r\n"
+"yourself for victory!"
+msgstr ""
+"Ci sono molti vantaggi nell'allenamento di Yoko.\n"
+"\n"
+" -Riempie la barra Climax Heat.\n"
+" -Aumenta il numero di volte in cui si può usare l'Idol Heat.\n"
+" -Migliora notevolmente l'Appeal.\n"
+"\n"
+"Allenati con Yoko prima di un round della Princess League per prepararti\n"
+"alla vittoria!"
+
+msgctxt "1224_Horie"
+msgid "Hey, are you all ready?"
+msgstr "Ehi, siete tutti pronti?"
+
+msgctxt "1236_Haruka"
+msgid "Yes, I'm ready."
+msgstr "Sì, sono pronto."
+
+msgctxt "1248_Horie"
+msgid "Okay, I'm comin' in."
+msgstr "Ok, entro."
+
+msgctxt "1296_Haruka"
+msgid "What do you think? Do I look strange?"
+msgstr "Cosa ne pensi? Sembro strana?"
+
+msgctxt "1308_Horie"
+msgid "Actually, I'd say you look fantastic!"
+msgstr "Anzi, direi che sembri fantastica!"
+
+msgctxt "1320_Haruka"
+msgid ""
+"Oh, I'm so glad! I don't have much experience with makeup\r\n"
+"and all."
+msgstr ""
+"Oh, sono così contenta! Non ho molta esperienza col trucco\\ne tutto il "
+"resto."
+
+msgctxt "1332_Horie"
+msgid ""
+"Why, the way you look, even T-Set's fans'll be fallin' in\r\n"
+"love with you!"
+msgstr ""
+"Ma dai, con il tuo look, perfino i fan delle T-Set si innamoreranno\n"
+"di te!"
+
+msgctxt "1344_Horie"
+msgid "Okay, I guess it's time."
+msgstr "Ok, credo sia ora."
+
+msgctxt "1356_Horie"
+msgid ""
+"And don't worry. Just do what you've been practicin' in your\r\n"
+"lessons, and you'll be just fine."
+msgstr ""
+"E non preoccuparti. Fai solo quello che hai praticato nelle tue\\nlezioni, e"
+" andrà tutto bene."
+
+msgctxt "1368_Horie"
+msgid "You've put a ton of effort into this! So have confidence in yourself."
+msgstr ""
+"Hai messo un sacco di impegno in questo! Quindi abbi fiducia in te stesso."
+
+msgctxt "1380_Haruka"
+msgid "Right."
+msgstr "Giusto."
+
+msgctxt "1404_Horie"
+msgid "Come in!"
+msgstr "Entra!"
+
+msgctxt "1416_Assistant Director"
+msgid "Excuse me. Sawamura-san, are you ready?"
+msgstr "Scusi, Sawamura-san, sei pronta?"
+
+msgctxt "1428_Haruka"
+msgid "Yes, I am."
+msgstr "Sì, lo sono."
+
+msgctxt "1452_Horie"
+msgid "We've had some bad blood with Osaka Talent."
+msgstr "Abbiamo avuto del cattivo sangue con la Osaka Talent."
+
+msgctxt "1464_Horie"
+msgid "Did ya know T-Set used to go to our trainin' school?"
+msgstr "Ma lo sai che le T-Set andavano alla nostra scuola di addestramento?"
+
+msgctxt "1476_Horie"
+msgid ""
+"But they just couldn't deal with the way Park-san does\r\n"
+"things, so they moved to Osaka Talent."
+msgstr ""
+"Ma non riuscivano proprio a reggere il modo in cui Park-san fa le\n"
+"cose, così si sono spostate alla Osaka Talent."
+
+msgctxt "1488_Haruka"
+msgid "I didn't know that."
+msgstr "Non lo sapevo."
+
+msgctxt "1500_Horie"
+msgid ""
+"I'd try not to agitate them too much if I were you... But no\r\n"
+"worries if ya do."
+msgstr ""
+"Cercherei di non agitarli troppo, fossi in te... Ma non\\npreoccuparti se lo"
+" fai."
+
+msgctxt "1512_Horie"
+msgid ""
+"I guess you gotta be tough if you wanna make it in this\r\n"
+"business."
+msgstr ""
+"Immagino che devi essere tosto se vuoi farcela in questo\n"
+"ambiente."
+
+msgctxt "1524_Haruka"
+msgid "Agitate?"
+msgstr "Agitare?"
+
+msgctxt "1536_Horie"
+msgid ""
+"Huh? Isn't that what you were tryna to do by telling 'em to\r\n"
+"shove off to Okinawa?"
+msgstr ""
+"Eh? Non è quello che stavi cercando di fare dicendogli di\n"
+"levarsi di torno e andare a Okinawa?"
+
+msgctxt "1548_Haruka"
+msgid "They just seemed stressed, that's all."
+msgstr "Sembravano solo stressati, tutto qui."
+
+msgctxt "1560_Haruka"
+msgid "Okinawa really is a wonderful place."
+msgstr "Okinawa è davvero un posto meraviglioso."
+
+msgctxt "1572_Haruka"
+msgid ""
+"If you ever get the chance, you should go see it for\r\n"
+"yourself someday. Watch all your worries disappear."
+msgstr ""
+"Se ti capita mai l'occasione, dovresti andare a vederlo di\n"
+"persona un giorno. Vedrai tutte le tue preoccupazioni sparire."
+
+msgctxt "1584_Horie"
+msgid "I see. Guess you're a girl of a much higher caliber than I realized."
+msgstr ""
+"Capisco. Immagino che tu sia una ragazza di ben altro spessore di quanto "
+"pensassi."
+
+msgctxt "1596_Horie"
+msgid ""
+"Well, anyway, we kinda got off to a bad start before the\r\n"
+"performance even started, but let's try and pull it together. You can do this!"
+msgstr ""
+"Beh, comunque, siamo partiti un po' col piede sbagliato prima ancora che la\n"
+"esibizione iniziasse, ma cerchiamo di riprenderci. Puoi farcela!"
+
+msgctxt "1608_Horie"
+msgid "Your clothes are all ready to go, so go ahead and get changed."
+msgstr "I tuoi vestiti sono tutti pronti, quindi vai pure a cambiarti."
+
+msgctxt "1620_Horie"
+msgid "You can use the makeup that's here."
+msgstr "Puoi usare il trucco che c'è qui."
+
+msgctxt "1632_Horie"
+msgid "I'll be waiting outside. Okay, good luck!"
+msgstr "Ti aspetterò fuori. Va bene, in bocca al lupo!"
+
+msgctxt "1692_???"
+msgid "I'm coming in!"
+msgstr "Entro!"
+
+msgctxt "1704_Haruka"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "1716_Haruka"
+msgid "Yoko-san!?"
+msgstr "Yoko-san!?"
+
+msgctxt "1728_Haruka"
+msgid "But isn't Horie-san...? Didn't you see my manager outside?"
+msgstr "Ma Horie-san non è...? Non hai visto il mio manager fuori?"
+
+msgctxt "1740_Yoko"
+msgid ""
+"Oh, him? Yes, I saw a fellow with a very serious face out there. He must've "
+"been lost in thought."
+msgstr ""
+"Oh, lui? Sì, ho visto un tizio con una faccia molto seria lì fuori. "
+"Dev'essere stato perso nei suoi pensieri."
+
+msgctxt "1752_Haruka"
+msgid "Oh, okay... Anyway, what brings you here?"
+msgstr "Oh, va bene... Comunque, che ci fai qui?"
+
+msgctxt "1764_Yoko"
+msgid ""
+"What brings me here? Hmm. Maybe it has something to do with\r\n"
+"the fact that you're a little country bumpkin?"
+msgstr ""
+"Che ci faccio qui? Mmm. Magari c'entra il fatto che sei una piccola "
+"campagnola?"
+
+msgctxt "1776_Haruka"
+msgid "A bumpkin!? What do you mean!?"
+msgstr "Una campagnola!? Che vuoi dire!?"
+
+msgctxt "1788_Yoko"
+msgid ""
+"A rugged little bumpkin fresh off the farm. You can't even\r\n"
+"stay on your feet, it seems."
+msgstr ""
+"Una piccola campagnola rozza, appena scesa dalla fattoria. Non riesci nemmeno\n"
+"a stare in piedi, a quanto pare."
+
+msgctxt "1800_Haruka"
+msgid "Oh... You saw that?"
+msgstr "Oh... L'hai visto?"
+
+msgctxt "1812_Yoko"
+msgid ""
+"I just happened to, yes. So those two are your opponents, is\r\n"
+"that right?"
+msgstr ""
+"Mi è capitato, sì. Quindi quelle due sono le tue rivali, è\n"
+"giusto?"
+
+msgctxt "1824_Haruka"
+msgid "Yes, that's right."
+msgstr "Sì, esatto."
+
+msgctxt "1836_Yoko"
+msgid ""
+"Well, setting aside their obvious lack of manners, they\r\n"
+"certainly look professional."
+msgstr ""
+"Beh, tralasciando la loro palese maleducazione,\n"
+"hanno decisamente un aspetto professionale."
+
+msgctxt "1848_Yoko"
+msgid ""
+"I don't know anything about your level of talent, but right\r\n"
+"now you're clearly at a disadvantage."
+msgstr ""
+"Non so nulla del tuo livello di talento, ma proprio\n"
+"adesso sei chiaramente in svantaggio."
+
+msgctxt "1860_Haruka"
+msgid "That may be true, but what else can I do but do my best?"
+msgstr "Sarà anche vero, ma che altro posso fare se non dare il massimo?"
+
+msgctxt "1872_Yoko"
+msgid ""
+"Listen up, little bumpkin. I'm sorry if this stings a bit,\r\n"
+"but simply doing your best won't earn you any recognition in\r\n"
+"this industry."
+msgstr ""
+"Ascolta bene, piccola campagnola. Mi dispiace se ti brucia un po',\n"
+"ma semplicemente dare il massimo non ti farà guadagnare alcun riconoscimento in\n"
+"quest'industria."
+
+msgctxt "1884_Yoko"
+msgid ""
+"You have to learn to magnify your natural appeal several\r\n"
+"times over if you wanna make it."
+msgstr ""
+"Devi imparare ad amplificare il tuo fascino naturale di diverse\\nvolte se "
+"vuoi farcela."
+
+msgctxt "1896_Yoko"
+msgid ""
+"And right now, you don't know how. That's the biggest\r\n"
+"difference between you and your opponents."
+msgstr ""
+"E proprio adesso, non sai come. Questa è la più grande\n"
+"differenza tra te e i tuoi rivali."
+
+msgctxt "1908_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "1920_Yoko"
+msgid ""
+"You just need a little push in the right direction, and I'm\r\n"
+"the perfect person to give it to you."
+msgstr ""
+"Ti serve solo una piccola spinta nella giusta direzione, e io sono\n"
+"la persona perfetta per dartela."
+
+msgctxt "1932_Haruka"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "1944_Yoko"
+msgid ""
+"No time for questions! Now, show me your outfit! Come on,\r\n"
+"let's see it!"
+msgstr ""
+"Niente tempo per le domande! Ora, mostrami il tuo outfit! Dai,\n"
+"fammi vedere!"
+
+msgctxt "1956_Haruka"
+msgid "Okay!"
+msgstr "Ok!"
+
+msgctxt "1992_Mai"
+msgid "Ow! You better hope that doesn't leave a mark!"
+msgstr "Ahi! Faresti meglio a sperare che non lasci un segno!"
+
+msgctxt "2004_Mai"
+msgid "It'll ruin our performance!"
+msgstr "Rovinerà la nostra esibizione!"
+
+msgctxt "2016_Horie"
+msgid "But you tripped Haruka!"
+msgstr "Ma tu hai fatto inciampare Haruka!"
+
+msgctxt "2028_Nakai"
+msgid "I'd tone it down a little if I were you, hmm?"
+msgstr "Se fossi in te, ci andrei piano, mmh?"
+
+msgctxt "2040_Nakai"
+msgid ""
+"If you're looking to start something, though, just know we\r\n"
+"won't hold back."
+msgstr ""
+"Se hai intenzione di attaccare briga, però, sappi solo che non ci\n"
+"tireremo indietro."
+
+msgctxt "2052_Nakai"
+msgid "Step on our toes..."
+msgstr "Pestarci i piedi..."
+
+msgctxt "2064_Nakai"
+msgid "And we'll squash your little agency in no time flat."
+msgstr "E faremo a pezzi la tua piccola agenzia in men che non si dica."
+
+msgctxt "2076_Horie"
+msgid "......"
+msgstr "......"
+
+msgctxt "2088_Nakai"
+msgid "What? You got something to say?"
+msgstr "Cosa? Hai qualcosa da dire?"
+
+msgctxt "2100_Azusa"
+msgid "No wonder Dyna Chair can't hold on to any of its talent!"
+msgstr ""
+"Non c'è da stupirsi che Dyna Chair non riesca a trattenere nessuno dei suoi "
+"talenti!"
+
+msgctxt "2112_Horie"
+msgid "Ngh!"
+msgstr "Ugh!"
+
+msgctxt "2124_Haruka"
+msgid ""
+"Horie-san, we don't have time for this. I have to get\r\n"
+"changed."
+msgstr ""
+"Horie-san, non abbiamo tempo per questo. Devo\n"
+"cambiarmi."
+
+msgctxt "2136_Mai"
+msgid "Oh, so you think you can just walk away, do you!?"
+msgstr "Ah, quindi pensi di potertene andare e basta!?"
+
+msgctxt "2148_Mai"
+msgid "What do you intend to do about my arm!?"
+msgstr "Cosa intendi fare riguardo al mio braccio!?"
+
+msgctxt "2172_Mai"
+msgid "What do you want?"
+msgstr "Che vuoi?"
+
+msgctxt "2184_Haruka"
+msgid "...Have you ever been to Okinawa?"
+msgstr "...Sei mai stato a Okinawa?"
+
+msgctxt "2196_Mai"
+msgid "Huh? What?"
+msgstr "Eh? Cosa?"
+
+msgctxt "2208_Haruka"
+msgid "Okinawa. Have you ever been?"
+msgstr "Okinawa. Sei mai stato?"
+
+msgctxt "2220_Mai"
+msgid "Nope, never... Why do you ask?"
+msgstr "No, mai... Perché lo chiedi?"
+
+msgctxt "2232_Haruka"
+msgid ""
+"You'd like Okinawa. The sea is so pretty, and the air is clean and clear."
+msgstr ""
+"Ti piacerebbe Okinawa. Il mare è così bello, e l'aria è pulita e limpida."
+
+msgctxt "2244_Haruka"
+msgid "All your troubles will melt away. You should go sometime."
+msgstr "Tutti i tuoi problemi svaniranno. Dovresti andarci prima o poi."
+
+msgctxt "2256_Haruka"
+msgid "I could even tell you a few spots you wouldn't want to miss."
+msgstr "Potrei persino dirti qualche posto che non ti vorresti perdere."
+
+msgctxt "2268_Mai"
+msgid "Huh!?"
+msgstr "Eh!?"
+
+msgctxt "2280_Haruka"
+msgid "Let's go, Horie-san."
+msgstr "Andiamo, Horie-san."
+
+msgctxt "2316_Azusa"
+msgid "What's with her?"
+msgstr "Che le prende?"
+
+msgctxt "2328_Nakai"
+msgid ""
+"I think she was sayin' a little trip to Okinawa might cheer\r\n"
+"you sourpusses up."
+msgstr ""
+"Credo che stesse dicendo che una capatina a Okinawa potrebbe tirare su il morale a\n"
+"voi musoni."
+
+msgctxt "2340_Mai"
+msgid "What!?"
+msgstr "Cosa!?"
+
+msgctxt "2352_Azusa"
+msgid "Wait a minute. Just what're you implying, Nakai-san!?"
+msgstr "Aspetta un attimo. Che stai insinuando, Nakai-san!?"
+
+msgctxt "2364_Nakai"
+msgid "Hmm. Now I see what Park-san saw in her..."
+msgstr "Mmh. Adesso capisco cosa Park-san vedesse in lei..."
+
+msgctxt "2376_Nakai"
+msgid "All right. That's enough, girls."
+msgstr "Va bene. Basta così, ragazze."
+
+msgctxt "2388_Mai"
+msgid "Huh!? You've got to be kidding me!"
+msgstr "Eh!? Mi stai prendendo in giro!"
+
+msgctxt "2400_Azusa"
+msgid "Haruka Sawamura..."
+msgstr "Haruka Sawamura..."
+
+msgctxt "2412_Mai"
+msgid "Ooh, that girl really ticks me off."
+msgstr "Uff, quella ragazza mi sta proprio sulle scatole."
+
+msgctxt "2436_Horie"
+msgid "Oh, man. I can't believe that happened..."
+msgstr "Mannaggia. Non ci credo che sia successo..."
+
+msgctxt "2448_Haruka"
+msgid "I'm so sorry. I'll try to make up for it on the stage."
+msgstr "Mi dispiace tanto. Cercherò di farmi perdonare sul palco."
+
+msgctxt "2460_Horie"
+msgid "T-Set... What a buncha brats..."
+msgstr "T-Set... Che manica di mocciosi..."
+
+msgctxt "2472_Horie"
+msgid ""
+"What's wrong with Osaka Talent, letting 'em get away with\r\n"
+"that kind of behavior?"
+msgstr ""
+"Ma che ha l'Osaka Talent, a lasciargli passare\n"
+"un comportamento del genere?"
+
+msgctxt "2484_Horie"
+msgid ""
+"...Oh well, there's nothin' we can do about it now. Best you\r\n"
+"go and get changed."
+msgstr ""
+"...Vabbè, non c'è più niente che possiamo farci. Faresti meglio ad\n"
+"andare a cambiarti."
+
+msgctxt "2496_Horie"
+msgid "There's a room up here you can use, they said."
+msgstr "C'è una stanza qui sopra che puoi usare, hanno detto."
+
+msgctxt "2508_Horie"
+msgid "Here it is. Go ahead."
+msgstr "Ecco. Vai pure."
+
+msgctxt "2556_Horie"
+msgid ""
+"Oh, before you get changed, let's go say hello to the\r\n"
+"producer, Manda-san."
+msgstr ""
+"Oh, prima che ti cambi, andiamo a salutare il\n"
+"produttore, Manda-san."

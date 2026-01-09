@@ -1,0 +1,1628 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1140"
+msgid "You can now change characters."
+msgstr "Ora puoi cambiare personaggi."
+
+msgctxt "1152"
+msgid ""
+"Select \"Select Character\" from the hideout menu or talk to\r\n"
+"the character you want to change to."
+msgstr ""
+"Seleziona \"Seleziona personaggio\" dal menu del covo o parla con\n"
+"il personaggio a cui vuoi passare."
+
+msgctxt "41572"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "41576"
+msgid "adv3_630/akiyama_0274"
+msgstr "adv3_630/akiyama_0274"
+
+msgctxt "41580"
+msgid "Hakamada"
+msgstr "Hakamada"
+
+msgctxt "41584"
+msgid "adv3_630/hakamada_0020"
+msgstr "adv3_630/hakamada_0020"
+
+msgctxt "41588"
+msgid "adv3_630/akiyama_0275"
+msgstr "adv3_630/akiyama_0275"
+
+msgctxt "41592"
+msgid "adv3_630/hakamada_0021a"
+msgstr "adv3_630/hakamada_0021a"
+
+msgctxt "41596"
+msgid "adv3_630/hakamada_0021b"
+msgstr "adv3_630/hakamada_0021b"
+
+msgctxt "41600"
+msgid "adv3_630/akiyama_0276"
+msgstr "adv3_630/akiyama_0276"
+
+msgctxt "41604"
+msgid "adv3_630/hakamada_0022"
+msgstr "adv3_630/hakamada_0022"
+
+msgctxt "41608"
+msgid "adv3_630/akiyama_0277"
+msgstr "adv3_630/akiyama_0277"
+
+msgctxt "41612"
+msgid "adv3_630/hakamada_0023"
+msgstr "adv3_630/hakamada_0023"
+
+msgctxt "41616"
+msgid "adv3_630/akiyama_0278a"
+msgstr "adv3_630/akiyama_0278a"
+
+msgctxt "41620"
+msgid "adv3_630/akiyama_0278b"
+msgstr "adv3_630/akiyama_0278b"
+
+msgctxt "41624"
+msgid "adv3_630/akiyama_0278c"
+msgstr "adv3_630/akiyama_0278c"
+
+msgctxt "41628"
+msgid "adv3_630/hakamada_0024"
+msgstr "adv3_630/hakamada_0024"
+
+msgctxt "41632"
+msgid "adv3_630/akiyama_0279"
+msgstr "adv3_630/akiyama_0279"
+
+msgctxt "41636"
+msgid "adv3_630/hakamada_0025"
+msgstr "adv3_630/hakamada_0025"
+
+msgctxt "41640"
+msgid "adv3_630/akiyama_0280"
+msgstr "adv3_630/akiyama_0280"
+
+msgctxt "41644"
+msgid "adv3_615/akiyama_0255"
+msgstr "adv3_615/akiyama_0255"
+
+msgctxt "41648"
+msgid "C3615_KSE_TLK_tabaco_turn"
+msgstr "C3615_KSE_TLK_tabaco_turn"
+
+msgctxt "41652"
+msgid "Serizawa"
+msgstr "Serizawa"
+
+msgctxt "41656"
+msgid "adv3_615/kurosawa_0081"
+msgstr "adv3_615/kurosawa_0081"
+
+msgctxt "41660"
+msgid "kaiwabgm_fuon01"
+msgstr "kaiwabgm_fuon01"
+
+msgctxt "41664"
+msgid "P_AKI_sitsofa"
+msgstr "P_AKI_sitsofa"
+
+msgctxt "41668"
+msgid "P_AKI_TLK_sitsofa_kamae"
+msgstr "P_AKI_TLK_sitsofa_kamae"
+
+msgctxt "41672"
+msgid "adv3_620/akiyama_0256"
+msgstr "adv3_620/akiyama_0256"
+
+msgctxt "41676"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "41680"
+msgid "adv3_620/kurosawa_0082"
+msgstr "adv3_620/kurosawa_0082"
+
+msgctxt "41684"
+msgid "C3620_KSW_TLK_sitsofa_kamae"
+msgstr "C3620_KSW_TLK_sitsofa_kamae"
+
+msgctxt "41688"
+msgid "C3620_KSW_TLK_sitsofa_aiduchi"
+msgstr "C3620_KSW_TLK_sitsofa_aiduchi"
+
+msgctxt "41692"
+msgid "adv3_620/akiyama_0257"
+msgstr "adv3_620/akiyama_0257"
+
+msgctxt "41696"
+msgid "adv3_620/kurosawa_0083"
+msgstr "adv3_620/kurosawa_0083"
+
+msgctxt "41700"
+msgid "C3620_KSW_TLK_sitsofa_yes"
+msgstr "C3620_KSW_TLK_sitsofa_yes"
+
+msgctxt "41704"
+msgid "adv3_620/akiyama_0258a"
+msgstr "adv3_620/akiyama_0258a"
+
+msgctxt "41708"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "41712"
+msgid "adv3_620/akiyama_0258b"
+msgstr "adv3_620/akiyama_0258b"
+
+msgctxt "41716"
+msgid "C3620_KSW_TLK_sitsofa_tabaco"
+msgstr "C3620_KSW_TLK_sitsofa_tabaco"
+
+msgctxt "41720"
+msgid "adv3_620/kurosawa_0084a"
+msgstr "adv3_620/kurosawa_0084a"
+
+msgctxt "41724"
+msgid "adv3_620/kurosawa_0084b"
+msgstr "adv3_620/kurosawa_0084b"
+
+msgctxt "41728"
+msgid "adv3_620/kurosawa_0084c"
+msgstr "adv3_620/kurosawa_0084c"
+
+msgctxt "41732"
+msgid "adv3_620/akiyama_0259"
+msgstr "adv3_620/akiyama_0259"
+
+msgctxt "41736"
+msgid "adv3_620/kurosawa_0085a"
+msgstr "adv3_620/kurosawa_0085a"
+
+msgctxt "41740"
+msgid "adv3_620/kurosawa_0085b"
+msgstr "adv3_620/kurosawa_0085b"
+
+msgctxt "41744"
+msgid "adv3_620/kurosawa_0085c"
+msgstr "adv3_620/kurosawa_0085c"
+
+msgctxt "41748"
+msgid "adv3_620/kurosawa_0086"
+msgstr "adv3_620/kurosawa_0086"
+
+msgctxt "41752"
+msgid "adv3_620/akiyama_0261"
+msgstr "adv3_620/akiyama_0261"
+
+msgctxt "41756"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "41760"
+msgid "adv3_620/kurosawa_0087a"
+msgstr "adv3_620/kurosawa_0087a"
+
+msgctxt "41764"
+msgid "adv3_620/kurosawa_0087b"
+msgstr "adv3_620/kurosawa_0087b"
+
+msgctxt "41768"
+msgid "adv3_620/kurosawa_0087c"
+msgstr "adv3_620/kurosawa_0087c"
+
+msgctxt "41772"
+msgid "adv3_620/akiyama_0262"
+msgstr "adv3_620/akiyama_0262"
+
+msgctxt "41776"
+msgid "adv3_620/kurosawa_0088a"
+msgstr "adv3_620/kurosawa_0088a"
+
+msgctxt "41780"
+msgid "adv3_620/kurosawa_0088b"
+msgstr "adv3_620/kurosawa_0088b"
+
+msgctxt "41784"
+msgid "adv3_620/akiyama_0263"
+msgstr "adv3_620/akiyama_0263"
+
+msgctxt "41788"
+msgid "adv3_620/kurosawa_0089a"
+msgstr "adv3_620/kurosawa_0089a"
+
+msgctxt "41792"
+msgid "adv3_620/kurosawa_0089b"
+msgstr "adv3_620/kurosawa_0089b"
+
+msgctxt "41796"
+msgid "adv3_620/kurosawa_0089c"
+msgstr "adv3_620/kurosawa_0089c"
+
+msgctxt "41800"
+msgid "adv3_620/akiyama_0264"
+msgstr "adv3_620/akiyama_0264"
+
+msgctxt "41804"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "41808"
+msgid "adv3_620/kurosawa_0090"
+msgstr "adv3_620/kurosawa_0090"
+
+msgctxt "41812"
+msgid "adv3_620/akiyama_0265"
+msgstr "adv3_620/akiyama_0265"
+
+msgctxt "41816"
+msgid "adv3_620/kurosawa_0091"
+msgstr "adv3_620/kurosawa_0091"
+
+msgctxt "41820"
+msgid "M_NML_TLK_stand_kamae"
+msgstr "M_NML_TLK_stand_kamae"
+
+msgctxt "41824"
+msgid "C3620_KSW_TLK_sitsofa_standup"
+msgstr "C3620_KSW_TLK_sitsofa_standup"
+
+msgctxt "41828"
+msgid "adv3_620/akiyama_0266"
+msgstr "adv3_620/akiyama_0266"
+
+msgctxt "41832"
+msgid "adv3_620/akiyama_0267"
+msgstr "adv3_620/akiyama_0267"
+
+msgctxt "41836"
+msgid "adv3_620/akiyama_0268"
+msgstr "adv3_620/akiyama_0268"
+
+msgctxt "41840"
+msgid "adv3_620/hakamada_0014"
+msgstr "adv3_620/hakamada_0014"
+
+msgctxt "41844"
+msgid "kaiwabgm_tension01"
+msgstr "kaiwabgm_tension01"
+
+msgctxt "41848"
+msgid "adv3_620/akiyama_0269a"
+msgstr "adv3_620/akiyama_0269a"
+
+msgctxt "41852"
+msgid "adv3_620/akiyama_0269b"
+msgstr "adv3_620/akiyama_0269b"
+
+msgctxt "41856"
+msgid "P_AKI_stand"
+msgstr "P_AKI_stand"
+
+msgctxt "41860"
+msgid "P_AKI_TLK_stand_kamae"
+msgstr "P_AKI_TLK_stand_kamae"
+
+msgctxt "41864"
+msgid "C3620_AKI_TLK_sitsofa_standup"
+msgstr "C3620_AKI_TLK_sitsofa_standup"
+
+msgctxt "41868"
+msgid "adv3_620/hakamada_0015"
+msgstr "adv3_620/hakamada_0015"
+
+msgctxt "41872"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "41876"
+msgid "adv3_620/akiyama_0270"
+msgstr "adv3_620/akiyama_0270"
+
+msgctxt "41880"
+msgid "C3620_AKI_TLK_goodtiming"
+msgstr "C3620_AKI_TLK_goodtiming"
+
+msgctxt "41884"
+msgid "adv3_620/hakamada_0016"
+msgstr "adv3_620/hakamada_0016"
+
+msgctxt "41888"
+msgid "adv3_620/akiyama_0271a"
+msgstr "adv3_620/akiyama_0271a"
+
+msgctxt "41892"
+msgid "adv3_620/akiyama_0271b"
+msgstr "adv3_620/akiyama_0271b"
+
+msgctxt "41896"
+msgid "adv3_620/hakamada_0017"
+msgstr "adv3_620/hakamada_0017"
+
+msgctxt "41900"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "41904"
+msgid "adv3_620/akiyama_0272"
+msgstr "adv3_620/akiyama_0272"
+
+msgctxt "41908"
+msgid "adv3_620/hakamada_0018"
+msgstr "adv3_620/hakamada_0018"
+
+msgctxt "41912"
+msgid "adv3_620/akiyama_0273"
+msgstr "adv3_620/akiyama_0273"
+
+msgctxt "41916"
+msgid "Talk_Udekumi_st"
+msgstr "Talk_Udekumi_st"
+
+msgctxt "41920"
+msgid "adv3_620/hakamada_0019a"
+msgstr "adv3_620/hakamada_0019a"
+
+msgctxt "41924"
+msgid "adv3_620/hakamada_0019b"
+msgstr "adv3_620/hakamada_0019b"
+
+msgctxt "41928"
+msgid "Talk_Udekumi_ed"
+msgstr "Talk_Udekumi_ed"
+
+msgctxt "41932"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "41936"
+msgid "翌日"
+msgstr "Il giorno dopo"
+
+msgctxt "41944"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "41948"
+msgid "Osaka Detective"
+msgstr "Detective di Osaka"
+
+msgctxt "41952"
+msgid "adv3_460/oosaka_deka_0004a"
+msgstr "adv3_460/oosaka_deka_0004a"
+
+msgctxt "41956"
+msgid "adv3_460/oosaka_deka_0004b"
+msgstr "adv3_460/oosaka_deka_0004b"
+
+msgctxt "41960"
+msgid "adv3_460/oosaka_deka_0004c"
+msgstr "adv3_460/oosaka_deka_0004c"
+
+msgctxt "41964"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "41968"
+msgid "adv3_460/akiyama_0147a"
+msgstr "adv3_460/akiyama_0147a"
+
+msgctxt "41972"
+msgid "adv3_460/akiyama_0147b"
+msgstr "adv3_460/akiyama_0147b"
+
+msgctxt "41976"
+msgid "adv3_460/akiyama_0147c"
+msgstr "adv3_460/akiyama_0147c"
+
+msgctxt "41980"
+msgid "adv3_460/oosaka_deka_0005a"
+msgstr "adv3_460/oosaka_deka_0005a"
+
+msgctxt "41984"
+msgid "adv3_460/oosaka_deka_0005b"
+msgstr "adv3_460/oosaka_deka_0005b"
+
+msgctxt "41988"
+msgid "adv3_460/oosaka_deka_0005c"
+msgstr "adv3_460/oosaka_deka_0005c"
+
+msgctxt "41992"
+msgid "adv3_460/akiyama_0148a"
+msgstr "adv3_460/akiyama_0148a"
+
+msgctxt "41996"
+msgid "adv3_460/akiyama_0148b"
+msgstr "adv3_460/akiyama_0148b"
+
+msgctxt "42000"
+msgid "adv3_460/oosaka_deka_0006a"
+msgstr "adv3_460/oosaka_deka_0006a"
+
+msgctxt "42004"
+msgid "adv3_460/oosaka_deka_0006b"
+msgstr "adv3_460/oosaka_deka_0006b"
+
+msgctxt "42008"
+msgid "adv3_460/oosaka_deka_0006c"
+msgstr "adv3_460/oosaka_deka_0006c"
+
+msgctxt "42012"
+msgid "C3460_DEK_TLK_go_back"
+msgstr "C3460_DEK_TLK_go_back"
+
+msgctxt "42016"
+msgid "C3460_HAL_TLK_into_home_donki"
+msgstr "C3460_HAL_TLK_into_home_donki"
+
+msgctxt "42020"
+msgid "ACDEV0102"
+msgstr "ACDEV0102"
+
+msgctxt "42024"
+msgid "P_AKI_TLK_sitsofa_kamae_ed"
+msgstr "P_AKI_TLK_sitsofa_kamae_ed"
+
+msgctxt "42028"
+msgid "ArmsID"
+msgstr "ID Armi"
+
+msgctxt "42032"
+msgid "adv3_470/haruka_0271"
+msgstr "adv3_470/haruka_0271"
+
+msgctxt "42036"
+msgid "adv3_470/akiyama_0149"
+msgstr "adv3_470/akiyama_0149"
+
+msgctxt "42040"
+msgid "adv3_470/haruka_0272"
+msgstr "adv3_470/haruka_0272"
+
+msgctxt "42044"
+msgid "adv3_470/akiyama_0150a"
+msgstr "adv3_470/akiyama_0150a"
+
+msgctxt "42048"
+msgid "adv3_470/akiyama_0150b"
+msgstr "adv3_470/akiyama_0150b"
+
+msgctxt "42052"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "42056"
+msgid "adv3_470/akiyama_0150c"
+msgstr "adv3_470/akiyama_0150c"
+
+msgctxt "42060"
+msgid "adv3_470/haruka_0273a"
+msgstr "adv3_470/haruka_0273a"
+
+msgctxt "42064"
+msgid "adv3_470/haruka_0273b"
+msgstr "adv3_470/haruka_0273b"
+
+msgctxt "42068"
+msgid "adv3_470/akiyama_0151"
+msgstr "adv3_470/akiyama_0151"
+
+msgctxt "42072"
+msgid "adv3_470/haruka_0274"
+msgstr "adv3_470/haruka_0274"
+
+msgctxt "42076"
+msgid "adv3_470/akiyama_0152a"
+msgstr "adv3_470/akiyama_0152a"
+
+msgctxt "42080"
+msgid "Talk_Udekumi_Yes"
+msgstr "Talk_Udekumi_Yes"
+
+msgctxt "42084"
+msgid "adv3_470/akiyama_0152b"
+msgstr "adv3_470/akiyama_0152b"
+
+msgctxt "42088"
+msgid "adv3_470/haruka_0275"
+msgstr "adv3_470/haruka_0275"
+
+msgctxt "42092"
+msgid "kaiwabgm_serious01"
+msgstr "kaiwabgm_serious01"
+
+msgctxt "42096"
+msgid "adv3_470/akiyama_0153"
+msgstr "adv3_470/akiyama_0153"
+
+msgctxt "42100"
+msgid "adv3_470/haruka_0276a"
+msgstr "adv3_470/haruka_0276a"
+
+msgctxt "42104"
+msgid "adv3_470/haruka_0276b"
+msgstr "adv3_470/haruka_0276b"
+
+msgctxt "42108"
+msgid "adv3_470/haruka_0276c"
+msgstr "adv3_470/haruka_0276c"
+
+msgctxt "42112"
+msgid "adv3_470/haruka_0276d"
+msgstr "adv3_470/haruka_0276d"
+
+msgctxt "42116"
+msgid "adv3_470/akiyama_0154a"
+msgstr "adv3_470/akiyama_0154a"
+
+msgctxt "42120"
+msgid "adv3_470/akiyama_0154b"
+msgstr "adv3_470/akiyama_0154b"
+
+msgctxt "42124"
+msgid "adv3_470/akiyama_0154c"
+msgstr "adv3_470/akiyama_0154c"
+
+msgctxt "42128"
+msgid "adv3_470/haruka_0277"
+msgstr "adv3_470/haruka_0277"
+
+msgctxt "42132"
+msgid "adv3_470/akiyama_0155"
+msgstr "adv3_470/akiyama_0155"
+
+msgctxt "42136"
+msgid "adv3_470/haruka_0278"
+msgstr "adv3_470/haruka_0278"
+
+msgctxt "42140"
+msgid "Yamaura"
+msgstr "Yamaura"
+
+msgctxt "42144"
+msgid "adv3_470/yamaura_0023"
+msgstr "adv3_470/yamaura_0023"
+
+msgctxt "42148"
+msgid "adv3_470/haruka_0279"
+msgstr "adv3_470/haruka_0279"
+
+msgctxt "42152"
+msgid "Talk_Phone_yes"
+msgstr "Talk_Phone_yes"
+
+msgctxt "42156"
+msgid "adv3_470/yamaura_0024a"
+msgstr "adv3_470/yamaura_0024a"
+
+msgctxt "42160"
+msgid "adv3_470/yamaura_0024b"
+msgstr "adv3_470/yamaura_0024b"
+
+msgctxt "42164"
+msgid "adv3_470/haruka_0280"
+msgstr "adv3_470/haruka_0280"
+
+msgctxt "42168"
+msgid "adv3_470/yamaura_0025"
+msgstr "adv3_470/yamaura_0025"
+
+msgctxt "42172"
+msgid "adv3_470/haruka_0281"
+msgstr "adv3_470/haruka_0281"
+
+msgctxt "42176"
+msgid "adv3_470/yamaura_0026a"
+msgstr "adv3_470/yamaura_0026a"
+
+msgctxt "42180"
+msgid "adv3_470/yamaura_0026b"
+msgstr "adv3_470/yamaura_0026b"
+
+msgctxt "42184"
+msgid "adv3_470/yamaura_0026c"
+msgstr "adv3_470/yamaura_0026c"
+
+msgctxt "42188"
+msgid "adv3_470/haruka_0282"
+msgstr "adv3_470/haruka_0282"
+
+msgctxt "42192"
+msgid "adv3_470/yamaura_0027b"
+msgstr "adv3_470/yamaura_0027b"
+
+msgctxt "42196"
+msgid "adv3_470/haruka_0283"
+msgstr "adv3_470/haruka_0283"
+
+msgctxt "42200"
+msgid "adv3_470/yamaura_0028"
+msgstr "adv3_470/yamaura_0028"
+
+msgctxt "42204"
+msgid "adv3_470/haruka_0284"
+msgstr "adv3_470/haruka_0284"
+
+msgctxt "42208"
+msgid "adv3_470/yamaura_0029"
+msgstr "adv3_470/yamaura_0029"
+
+msgctxt "42212"
+msgid "adv3_470/haruka_0285"
+msgstr "adv3_470/haruka_0285"
+
+msgctxt "42216"
+msgid "adv3_470/yamaura_0030ba"
+msgstr "adv3_470/yamaura_0030ba"
+
+msgctxt "42220"
+msgid "adv3_470/yamaura_0030bb"
+msgstr "adv3_470/yamaura_0030bb"
+
+msgctxt "42224"
+msgid "adv3_470/haruka_0286"
+msgstr "adv3_470/haruka_0286"
+
+msgctxt "42228"
+msgid "adv3_470/akiyama_0156"
+msgstr "adv3_470/akiyama_0156"
+
+msgctxt "42232"
+msgid "adv3_470/haruka_0287"
+msgstr "adv3_470/haruka_0287"
+
+msgctxt "42236"
+msgid "adv3_470/akiyama_0157"
+msgstr "adv3_470/akiyama_0157"
+
+msgctxt "42240"
+msgid "Hana"
+msgstr "Hana"
+
+msgctxt "42244"
+msgid "adv3_470/hana_0012"
+msgstr "adv3_470/hana_0012"
+
+msgctxt "42248"
+msgid "kaiwabgm_hana"
+msgstr "kaiwabgm_hana"
+
+msgctxt "42252"
+msgid "adv3_470/akiyama_0158"
+msgstr "adv3_470/akiyama_0158"
+
+msgctxt "42256"
+msgid "adv3_470/hana_0013"
+msgstr "adv3_470/hana_0013"
+
+msgctxt "42260"
+msgid "adv3_470/akiyama_0159a"
+msgstr "adv3_470/akiyama_0159a"
+
+msgctxt "42264"
+msgid "adv3_470/akiyama_0159b"
+msgstr "adv3_470/akiyama_0159b"
+
+msgctxt "42268"
+msgid "adv3_470/akiyama_0159c"
+msgstr "adv3_470/akiyama_0159c"
+
+msgctxt "42272"
+msgid "adv3_470/hana_0014a"
+msgstr "adv3_470/hana_0014a"
+
+msgctxt "42276"
+msgid "adv3_470/hana_0014b"
+msgstr "adv3_470/hana_0014b"
+
+msgctxt "42280"
+msgid "adv3_470/akiyama_0160"
+msgstr "adv3_470/akiyama_0160"
+
+msgctxt "42284"
+msgid "adv3_470/hana_0015"
+msgstr "adv3_470/hana_0015"
+
+msgctxt "42288"
+msgid "adv3_470/akiyama_0161"
+msgstr "adv3_470/akiyama_0161"
+
+msgctxt "42292"
+msgid "adv3_470/hana_0016a"
+msgstr "adv3_470/hana_0016a"
+
+msgctxt "42296"
+msgid "adv3_470/hana_0016b"
+msgstr "adv3_470/hana_0016b"
+
+msgctxt "42300"
+msgid "adv3_470/akiyama_0162"
+msgstr "adv3_470/akiyama_0162"
+
+msgctxt "42304"
+msgid "adv3_470/hana_0017"
+msgstr "adv3_470/hana_0017"
+
+msgctxt "42308"
+msgid "adv3_470/akiyama_0163"
+msgstr "adv3_470/akiyama_0163"
+
+msgctxt "42312"
+msgid "adv3_470/hana_0018"
+msgstr "adv3_470/hana_0018"
+
+msgctxt "42316"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "42320"
+msgid "adv3_470/akiyama_0164"
+msgstr "adv3_470/akiyama_0164"
+
+msgctxt "42324"
+msgid "adv3_470/hana_0019"
+msgstr "adv3_470/hana_0019"
+
+msgctxt "42328"
+msgid "adv3_470/akiyama_0165"
+msgstr "adv3_470/akiyama_0165"
+
+msgctxt "42332"
+msgid "adv3_470/hana_0020"
+msgstr "adv3_470/hana_0020"
+
+msgctxt "42336"
+msgid "adv3_470/akiyama_0166a"
+msgstr "adv3_470/akiyama_0166a"
+
+msgctxt "42340"
+msgid "adv3_470/akiyama_0166b"
+msgstr "adv3_470/akiyama_0166b"
+
+msgctxt "42344"
+msgid "adv3_470/akiyama_0166c"
+msgstr "adv3_470/akiyama_0166c"
+
+msgctxt "42348"
+msgid "adv3_470/haruka_0288"
+msgstr "adv3_470/haruka_0288"
+
+msgctxt "108_Akiyama"
+msgid "Now tell me where I can find this Kanai."
+msgstr "Ora dimmi dove posso trovare questo Kanai."
+
+msgctxt "120_Hakamada"
+msgid "What do ya want with him?"
+msgstr "Che c'hai con lui?"
+
+msgctxt "132_Akiyama"
+msgid "That's none of your business. Just tell me where he is."
+msgstr "Non sono affari tuoi. Dimmi solo dov'è."
+
+msgctxt "144_Hakamada"
+msgid ""
+"I heard the Ousaka Enterprises office is about an hour's\r\n"
+"drive from Sotenbori."
+msgstr ""
+"Ho sentito che l'ufficio della Ousaka Enterprises è a circa un'ora\n"
+"di macchina da Sotenbori."
+
+msgctxt "156_Hakamada"
+msgid "Ya might try lookin' there."
+msgstr "Magari prova a darci un'occhiata lì."
+
+msgctxt "168_Akiyama"
+msgid "An hour, huh? That's pretty out of the way."
+msgstr "Un'ora, eh? È un bel po' fuori mano."
+
+msgctxt "180_Hakamada"
+msgid ""
+"Of course it's outta the way, ya can't have that kinda place\r\n"
+"on a downtown street corner."
+msgstr ""
+"Certo che è fuori mano, non è che puoi avere un posto del genere\n"
+"su un angolo di strada in centro."
+
+msgctxt "192_Akiyama"
+msgid "...?"
+msgstr "...?"
+
+msgctxt "204_Hakamada"
+msgid ""
+"Anyway, he's a director, so I bet he leaves the heavy\r\n"
+"liftin' to his boys and just stays in the office doin' desk\r\n"
+"work or somethin'."
+msgstr ""
+"Comunque, è un direttore, quindi scommetto che lascia il lavoro pesante\n"
+"ai suoi ragazzi e se ne sta solo in ufficio a fare roba da scrivania\n"
+"o qualcosa del genere."
+
+msgctxt "216_Akiyama"
+msgid "Desk work? Him? I'm havin' a hard time picturing that..."
+msgstr "Roba da scrivania? Lui? Faccio fatica a immaginarlo..."
+
+msgctxt "228_Akiyama"
+msgid "In any case, it looks like I'll have to go pay him a visit."
+msgstr "Comunque, mi sa che dovrò andargli a fare una visita."
+
+msgctxt "240_Akiyama"
+msgid "By the way, I'd rather not see you boys again."
+msgstr "A proposito, non mi va di rivedervi, ragazzi."
+
+msgctxt "252_Hakamada"
+msgid "......"
+msgstr "......"
+
+msgctxt "264_Akiyama"
+msgid "Got a problem with that?"
+msgstr "C'hai problemi con questo?"
+
+msgctxt "276_Hakamada"
+msgid "Fine. I'm sick of seein' your face anyway."
+msgstr "Va bene. Sono stufo di vederti la faccia, comunque."
+
+msgctxt "288_Akiyama"
+msgid "We finally agree on something."
+msgstr "Finalmente d'accordo su qualcosa."
+
+msgctxt "348_Akiyama"
+msgid ""
+"(This Ousaka Enterprises is pretty far. I guess I'll take a\r\n"
+"cab. And if this Kanai guy is there, I'd better be\r\n"
+"prepared...)"
+msgstr ""
+"(Questa Ousaka Enterprises è un bel po' lontana. Immagino che prenderò un\n"
+"taxi. E se questo Kanai è lì, sarà meglio che mi tenga\n"
+"pronto...)"
+
+msgctxt "372_Akiyama"
+msgid "And just who might you be?"
+msgstr "E tu chi saresti?"
+
+msgctxt "384_Serizawa"
+msgid ""
+"We just talked on the phone. I've been waiting for you,\r\n"
+"Akiyama-san."
+msgstr ""
+"Abbiamo appena parlato al telefono. Ti stavo aspettando,\n"
+"Akiyama-san."
+
+msgctxt "444_Akiyama"
+msgid ""
+"You bust into my office and you won't even tell me your\r\n"
+"name? That's not very polite."
+msgstr ""
+"Irrompi nel mio ufficio e non mi dici nemmeno il tuo\\nnome? Non è per "
+"niente educato."
+
+msgctxt "456_Serizawa"
+msgid ""
+"You don't think Mirei Park-san's death was a suicide, do\r\n"
+"you?"
+msgstr ""
+"Non credi che la morte di Mirei Park-san sia stato un suicidio, non "
+"è\\nvero?"
+
+msgctxt "468_Akiyama"
+msgid "I'll ask again. Who are you?"
+msgstr "Te lo chiedo di nuovo. Chi saresti?"
+
+msgctxt "480_Serizawa"
+msgid "Let's just say I'm with the police."
+msgstr "Diciamo solo che sono della polizia."
+
+msgctxt "492_Akiyama"
+msgid "You sure don't look it."
+msgstr "Non lo sembri affatto."
+
+msgctxt "504_Akiyama"
+msgid ""
+"But whatever. What do the police want with me? And why all\r\n"
+"the secrecy?"
+msgstr "Ma vabbè. Cosa vuole la polizia da me? E perché tutto\\nquesto mistero?"
+
+msgctxt "516_Serizawa"
+msgid "Why don't you just hear me out first?"
+msgstr "Perché non mi ascolti prima?"
+
+msgctxt "528_Serizawa"
+msgid ""
+"The one who killed Park was a man named Ogita, a former\r\n"
+"dance instructor at Dyna Chair."
+msgstr ""
+"Quello che ha ucciso Park era uno di nome Ogita, un ex\n"
+"istruttore di ballo alla Dyna Chair."
+
+msgctxt "540_Serizawa"
+msgid "With me so far?"
+msgstr "Ci sei fin qui?"
+
+msgctxt "552_Akiyama"
+msgid "Go on."
+msgstr "Avanti."
+
+msgctxt "564_Serizawa"
+msgid ""
+"He's most likely the one who pushed Dyna Chair's Horie off\r\n"
+"the roof as well."
+msgstr ""
+"È molto probabile che sia stato lui a spingere Horie della Dyna Chair "
+"giù\\ndal tetto pure."
+
+msgctxt "576_Serizawa"
+msgid ""
+"But it's not just him. There's a certain organization\r\n"
+"wrapped up in all this, as well."
+msgstr ""
+"Ma non è solo lui. C'è una certa organizzazione\n"
+"coinvolta in tutto questo, pure."
+
+msgctxt "588_Serizawa"
+msgid "They're the ones I'm after."
+msgstr "Sono loro quelli a cui do la caccia."
+
+msgctxt "600_Akiyama"
+msgid "......"
+msgstr "......"
+
+msgctxt "612_Serizawa"
+msgid ""
+"The one pulling the strings on this thing is Ousaka\r\n"
+"Enterprises－an Omi Alliance front company, and a powerful\r\n"
+"one at that."
+msgstr ""
+"Quello che tira le fila di 'sta cosa è la Ousaka\n"
+"Enterprises－una compagnia di facciata dell'Omi Alliance, e pure una potente."
+
+msgctxt "624_Akiyama"
+msgid "Ousaka Enterprises... Backed up by the Omi Alliance, you say?"
+msgstr "Ousaka Enterprises... Appoggiata dall'Omi Alliance, dici?"
+
+msgctxt "636_Serizawa"
+msgid ""
+"This Ousaka Enterprises is a slippery fish. They don't let\r\n"
+"themselves get caught."
+msgstr ""
+"Questa Ousaka Enterprises è un osso duro. Non si fanno\n"
+"beccare."
+
+msgctxt "648_Serizawa"
+msgid ""
+"Its executive director, a man named Kamon Kanai, has been\r\n"
+"running around doing their dirty work."
+msgstr ""
+"Il suo direttore esecutivo, un uomo di nome Kamon Kanai, si è\n"
+"sbattuto in giro a fare il loro sporco lavoro."
+
+msgctxt "660_Serizawa"
+msgid "That's about all the police have learned."
+msgstr "È più o meno tutto quello che la polizia ha scoperto."
+
+msgctxt "672_Akiyama"
+msgid "Kanai, huh?"
+msgstr "Kanai, eh?"
+
+msgctxt "684_Serizawa"
+msgid "Ogita was apparently working for this Kanai."
+msgstr "Ogita a quanto pare lavorava per questo Kanai."
+
+msgctxt "696_Serizawa"
+msgid ""
+"Kanai is also the one who used a forger to fabricate Park's\r\n"
+"suicide note."
+msgstr ""
+"Kanai è anche quello che ha usato un falsario per falsificare di Park\\nla "
+"lettera di suicidio."
+
+msgctxt "708_Akiyama"
+msgid "So he's our man, is he?"
+msgstr "Allora è lui il nostro uomo, eh?"
+
+msgctxt "720_Serizawa"
+msgid ""
+"After the Park incident, we left those two at large. We've\r\n"
+"had them under surveillance ever since."
+msgstr ""
+"Dopo l'incidente di Park, abbiamo lasciato quei due a piede libero.\n"
+"Li abbiamo tenuti sotto sorveglianza da allora."
+
+msgctxt "732_Serizawa"
+msgid ""
+"The Omi Alliance is a ticking time bomb right now. They're all scrambling to"
+" get in line for the chairman's spot, so anything could happen."
+msgstr ""
+"L'Omi Alliance è una bomba a orologeria in questo momento. Stanno tutti "
+"sgomitando per la poltrona del presidente, quindi può succedere di tutto."
+
+msgctxt "744_Serizawa"
+msgid ""
+"Not a good time to go sticking your nose into their\r\n"
+"business, if you ask me."
+msgstr ""
+"Non è un buon momento per andare a ficcare il naso nei loro\n"
+"affari, se me lo chiedi."
+
+msgctxt "756_Akiyama"
+msgid ""
+"Really? It sounds a whole lot more like you're begging me to\r\n"
+"do the exact opposite."
+msgstr ""
+"Davvero? Mi sa tanto che tu mi stia praticamente implorando di\n"
+"fare l'esatto contrario."
+
+msgctxt "768_Serizawa"
+msgid "......"
+msgstr "......"
+
+msgctxt "780_Akiyama"
+msgid "Just what are you after, anyway?"
+msgstr "Cos'è che cerchi, comunque?"
+
+msgctxt "792_Serizawa"
+msgid "You've been warned, Akiyama-san."
+msgstr "Sei stato avvertito, Akiyama-san."
+
+msgctxt "816_Akiyama"
+msgid ""
+"Sheesh... I've got people crawling out of the woodwork everywhere I go."
+msgstr "Accidenti... mi spunta gente dal nulla ovunque vada."
+
+msgctxt "828_Akiyama"
+msgid "Ousaka Enterprises and the Omi Alliance..."
+msgstr "Ousaka Enterprises e l'Omi Alliance..."
+
+msgctxt "840_Akiyama"
+msgid "Park-san... Just what did you get yourself involved with?"
+msgstr "Park-san... In che guaio ti sei cacciato?"
+
+msgctxt "912_Hakamada"
+msgid "How's business, Sky Finance-han?"
+msgstr "Come vanno gli affari, Sky Finance-han?"
+
+msgctxt "924_Akiyama"
+msgid "You boys again? I thought I told you I'm a very busy man..."
+msgstr ""
+"Voi di nuovo? Credevo di avertelo già detto che sono un uomo molto "
+"impegnato..."
+
+msgctxt "936_Akiyama"
+msgid ""
+"Wait a minute. Hakamada-san, was it? Didn't you say you were\r\n"
+"with the Omi Alliance?"
+msgstr ""
+"Aspetta un attimo. Hakamada-san, giusto? Non mi avevi detto che eri\n"
+"con l'Omi Alliance?"
+
+msgctxt "948_Hakamada"
+msgid "That's right. And ya better learn to show some respect."
+msgstr "Esatto. E faresti meglio a imparare a mostrare un po' di rispetto."
+
+msgctxt "960_Akiyama"
+msgid "Good timing!"
+msgstr "Che tempismo!"
+
+msgctxt "972_Hakamada"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "984_Akiyama"
+msgid ""
+"There's this fellow, the executive director of Ousaka\r\n"
+"Enterprises, a front company of the Omi Alliance..."
+msgstr ""
+"C'è 'sto tizio, il direttore esecutivo della Ousaka\n"
+"Enterprises, una società di facciata della Omi Alliance..."
+
+msgctxt "996_Akiyama"
+msgid "He goes by the name of Kanai. Think you can take me to him?"
+msgstr "Si fa chiamare Kanai. Credi di potermi portare da lui?"
+
+msgctxt "1008_Hakamada"
+msgid "Ousaka Enterprises!? Where'd ya hear that name?"
+msgstr "Ousaka Enterprises!? Dove l'hai sentito quel nome?"
+
+msgctxt "1020_Akiyama"
+msgid "Can you take me or not?"
+msgstr "Mi porti o no?"
+
+msgctxt "1032_Hakamada"
+msgid "You just took this way beyond us gettin' revenge."
+msgstr "Hai appena spinto 'sta faccenda ben oltre il nostro vendicarci."
+
+msgctxt "1044_Akiyama"
+msgid "Ah, so you have heard of them."
+msgstr "Ah, quindi ne hai sentito parlare."
+
+msgctxt "1056_Hakamada"
+msgid ""
+"Hey, I dunno what you're tryin' to dig up here, pal, but now that you said "
+"that name..."
+msgstr ""
+"Ehi, non so cosa stai cercando di tirare fuori qui, compare, ma ora che hai "
+"detto quel nome..."
+
+msgctxt "1068_Hakamada"
+msgid "I'd say you just dug your own grave! Time to die!"
+msgstr "Direi che ti sei appena scavato la fossa! È ora di morire!"
+
+msgctxt "1104_Akiyama"
+msgid ""
+"(It's time I paid a visit to Osaka Talent. Think I'll take a\r\n"
+"taxi.)"
+msgstr ""
+"È ora che faccia una visita alla Osaka Talent. Credo che prenderò un\n"
+"taxi."
+
+msgctxt "1128_Haruka"
+msgid ""
+"(I have to get ready for the Princess League. I should get\r\n"
+"back to Dyna Chair first.)"
+msgstr ""
+"(Devo prepararmi per la Princess League. Dovrei tornare\n"
+"alla Dyna Chair prima.)"
+
+msgctxt "1176_Osaka Detective"
+msgid ""
+"I'm certain we'll find Kan Ogita sooner than later. We've\r\n"
+"put out an emergency alert all over Osaka."
+msgstr ""
+"Sono certo che troveremo Kan Ogita presto. Abbiamo\n"
+"diramato un allarme d'emergenza in tutta Osaka."
+
+msgctxt "1188_Osaka Detective"
+msgid ""
+"That's as a material witness for the assault and attempted\r\n"
+"murder of Hiroshi Horie-san, however."
+msgstr ""
+"Questo è come testimone chiave per l'aggressione e il tentato\n"
+"omicidio di Hiroshi Horie-san, però."
+
+msgctxt "1200_Osaka Detective"
+msgid ""
+"I don't think we'll be able to bring him up on charges for\r\n"
+"the Mirei Park incident."
+msgstr ""
+"Non credo che riusciremo a incriminarlo per\\nl'incidente del Parco Mirei."
+
+msgctxt "1212_Akiyama"
+msgid "Why not? Look, it's like I said."
+msgstr "Perché no? Guarda, è come ho detto."
+
+msgctxt "1224_Akiyama"
+msgid "There was trouble between Ogita and Park-san."
+msgstr "C'è stato del casino tra Ogita e Park-san."
+
+msgctxt "1236_Akiyama"
+msgid ""
+"Isn't that a critical fact in the investigation of her\r\n"
+"death?"
+msgstr ""
+"Non è un fatto critico nell'indagine sulla sua\n"
+"morte?"
+
+msgctxt "1248_Osaka Detective"
+msgid ""
+"Yes, well, the Park incident has already been declared a\r\n"
+"suicide."
+msgstr "Sì, beh, l'incidente del Parco è già stato dichiarato un\\nsuicidio."
+
+msgctxt "1260_Osaka Detective"
+msgid "And with the police having made that conclusion..."
+msgstr "E con la polizia che è giunta a quella conclusione..."
+
+msgctxt "1272_Osaka Detective"
+msgid ""
+"It'd be hard to reopen the investigation based on that piece of information "
+"alone."
+msgstr ""
+"Sarebbe difficile riaprire l'indagine basandosi solo su quell'informazione."
+
+msgctxt "1284_Akiyama"
+msgid ""
+"Seriously...? But there was a yakuza with a gun there and\r\n"
+"everything!"
+msgstr "Davvero...? Ma c'era uno yakuza con una pistola lì e\\ntutto il resto!"
+
+msgctxt "1296_Akiyama"
+msgid "It wouldn't make any sense to <Italic>not</Italic> suspect Ogita."
+msgstr "Non avrebbe alcun senso <Italic>non</Italic> sospettare Ogita."
+
+msgctxt "1308_Osaka Detective"
+msgid "Well, we'll get to the bottom of all that once we catch him."
+msgstr "Beh, faremo luce su tutta la faccenda una volta che lo acchiappiamo."
+
+msgctxt "1320_Osaka Detective"
+msgid ""
+"Please leave the rest to the police. We can't have civilians\r\n"
+"getting involved..."
+msgstr ""
+"Lasciate il resto alla polizia. Non possiamo permettere che i civili\\r\\nsi"
+" immischino..."
+
+msgctxt "1332_Osaka Detective"
+msgid "It's just too dangerous. Understand?"
+msgstr "È proprio troppo pericoloso. Capisci?"
+
+msgctxt "1452_Haruka"
+msgid "What did he say?"
+msgstr "Cosa ha detto?"
+
+msgctxt "1464_Akiyama"
+msgid ""
+"Apparently, they don't believe Ogita had anything to do with\r\n"
+"Park-san's death."
+msgstr ""
+"A quanto pare, non credono che Ogita c'entri qualcosa con\n"
+"la morte di Park-san."
+
+msgctxt "1476_Haruka"
+msgid "I see..."
+msgstr "Capisco..."
+
+msgctxt "1488_Akiyama"
+msgid "Oh, thanks for going shopping for me."
+msgstr "Oh, grazie per avermi fatto la spesa."
+
+msgctxt "1500_Akiyama"
+msgid ""
+"Without Hana-chan here, I don't have any decent food or\r\n"
+"drinks in the office."
+msgstr "Senza Hana-chan qui, non ho cibo decente o\\nbibite in ufficio."
+
+msgctxt "1512_Akiyama"
+msgid ""
+"Am I allowed to ask a famous idol to do that kind of stuff\r\n"
+"for me?"
+msgstr "Posso davvero chiedere a un'idol famosa di fare sta roba\\nper me?"
+
+msgctxt "1524_Haruka"
+msgid "I'm not famous. I'm just an ordinary high school student."
+msgstr "Non sono famosa. Sono solo una normale studentessa delle superiori."
+
+msgctxt "1536_Haruka"
+msgid "What are you going to do next?"
+msgstr "Cosa farai dopo?"
+
+msgctxt "1548_Akiyama"
+msgid ""
+"Well, we can't just sit on our hands and hope the police\r\n"
+"find Ogita, right?"
+msgstr ""
+"Beh, non possiamo stercene con le mani in mano e sperare che la "
+"polizia\\ntrovi Ogita, vero?"
+
+msgctxt "1560_Haruka"
+msgid "Right."
+msgstr "Giusto."
+
+msgctxt "1572_Akiyama"
+msgid ""
+"But it wouldn't be very productive for us to try and do the same as the "
+"police, either."
+msgstr ""
+"Ma non sarebbe neanche molto produttivo per noi fare lo stesso della "
+"polizia."
+
+msgctxt "1584_Akiyama"
+msgid "If only there was something else we could do..."
+msgstr "Se solo ci fosse qualcos'altro da fare..."
+
+msgctxt "1596_Haruka"
+msgid "Akiyama-san, do you know of any forgers around here?"
+msgstr "Akiyama-san, conosci dei falsari qui in giro?"
+
+msgctxt "1608_Akiyama"
+msgid "A forger, huh? What do you know about forgers?"
+msgstr "Un falsario, eh? Cosa sai dei falsari?"
+
+msgctxt "1620_Haruka"
+msgid "A long time ago, when I first met Uncle Kaz..."
+msgstr "Tanto tempo fa, quando ho conosciuto per la prima volta Zio Kaz..."
+
+msgctxt "1632_Haruka"
+msgid ""
+"I heard him talking about a man who did that kind of thing\r\n"
+"for a living."
+msgstr "L'ho sentito parlare di un uomo che faceva quella roba\\nper vivere."
+
+msgctxt "1644_Haruka"
+msgid "I've been thinking about Park-san's note..."
+msgstr "Stavo pensando alla nota di Park-san..."
+
+msgctxt "1656_Haruka"
+msgid "There must be a forger somewhere here in Sotenbori, too."
+msgstr "Ci dev'essere un falsario anche qui a Sotenbori."
+
+msgctxt "1668_Akiyama"
+msgid ""
+"Hmm. You might be on to something. Anybody can fake\r\n"
+"someone's handwriting, but it'd take more than an amateur to fool police evaluation."
+msgstr ""
+"Mmm. Potresti averci preso. Chiunque può falsificare\\nla scrittura di "
+"qualcuno, ma ci vorrebbe più di un dilettante per fregare la polizia."
+
+msgctxt "1680_Akiyama"
+msgid "A professional forger would definitely do the trick, though."
+msgstr ""
+"Un falsario professionista, però, quello sì che farebbe proprio al caso "
+"nostro."
+
+msgctxt "1692_Akiyama"
+msgid ""
+"Good thinking, Haruka-chan. If we find a forger here in\r\n"
+"Sotenbori, he might lead us to Ogita and that guy with the gun."
+msgstr ""
+"Ottima idea, Haruka-chan. Se troviamo un falsario qui a\n"
+"Sotenbori, potrebbe portarci da Ogita e quel tizio con la pistola."
+
+msgctxt "1704_Haruka"
+msgid "Exactly."
+msgstr "Esatto."
+
+msgctxt "1716_Akiyama"
+msgid "Let me ask around and see what I can find out."
+msgstr "Fammi chiedere in giro e vedo cosa scopro."
+
+msgctxt "1740_Haruka"
+msgid "Hello? This is Haruka."
+msgstr "Pronto? Sono Haruka."
+
+msgctxt "1752_Yamaura"
+msgid "Haruka, ya got a second?"
+msgstr "Haruka, hai un attimo?"
+
+msgctxt "1764_Haruka"
+msgid "Oh, Yamaura-san. How is Horie-san...?"
+msgstr "Oh, Yamaura-san. Come sta Horie-san...?"
+
+msgctxt "1776_Yamaura"
+msgid ""
+"He'll be in the hospital for a good while, but he's gonna\r\n"
+"make it. Don't worry."
+msgstr "Starà in ospedale per un bel po', ma ce la farà. Non preoccuparti."
+
+msgctxt "1788_Yamaura"
+msgid "He won't be able to manage you anymore, of course."
+msgstr "Non potrà più farti da manager, ovviamente."
+
+msgctxt "1800_Haruka"
+msgid "Poor Horie-san..."
+msgstr "Povero Horie-san..."
+
+msgctxt "1812_Yamaura"
+msgid "I can always try and fill his shoes, if you want."
+msgstr "Posso sempre provare a prendere il suo posto, se ti va."
+
+msgctxt "1824_Haruka"
+msgid "What? You'd do that for me?"
+msgstr "Cosa? Lo faresti per me?"
+
+msgctxt "1836_Yamaura"
+msgid "Hey, I want to see what happens to that dream of yours too, kiddo."
+msgstr "Ehi, voglio vedere anch'io come va a finire quel tuo sogno, ragazza."
+
+msgctxt "1848_Yamaura"
+msgid "Besides, when I think of Horie-kun and Park-san..."
+msgstr "E poi, se penso a Horie-kun e Park-san..."
+
+msgctxt "1860_Yamaura"
+msgid ""
+"I know that you makin' the debut they worked so hard for\r\n"
+"would mean the absolute world to them."
+msgstr ""
+"Lo so che il tuo debutto, quello per cui si sono dati tanto da fare,\n"
+"significherebbe il mondo intero per loro."
+
+msgctxt "1872_Haruka"
+msgid "Oh, thank you, Yamaura-san!"
+msgstr "Oh, grazie, Yamaura-san!"
+
+msgctxt "1884_Yamaura"
+msgid ""
+"Also, this is kind of sudden, but I got a call sayin'\r\n"
+"they're doing round two of the finals."
+msgstr ""
+"Inoltre, è un po' improvviso, ma mi hanno chiamato dicendo\\nche faranno il "
+"secondo round delle finali."
+
+msgctxt "1896_Haruka"
+msgid "Really? But wouldn't it look bad if I went on?"
+msgstr "Davvero? Ma non farei una brutta figura se andassi avanti?"
+
+msgctxt "1908_Yamaura"
+msgid ""
+"Manda-san heard about Park-san, but he still wants you to go\r\n"
+"on, he said."
+msgstr ""
+"Manda-san ha saputo di Park-san, ma vuole comunque che tu vada\n"
+"avanti, ha detto."
+
+msgctxt "1920_Haruka"
+msgid "He does? Okay."
+msgstr "Davvero? Va bene."
+
+msgctxt "1932_Yamaura"
+msgid "Think ya can do it?"
+msgstr "Credi di farcela, eh?"
+
+msgctxt "1944_Haruka"
+msgid "Yes. Of course."
+msgstr "Sì. Certo."
+
+msgctxt "1956_Yamaura"
+msgid "Good. Glad to hear it."
+msgstr "Bene. Sono contento di sentirlo."
+
+msgctxt "1968_Yamaura"
+msgid ""
+"Okay, then. I'll be waiting for you at Dyna Chair. Come on\r\n"
+"over when you're ready."
+msgstr ""
+"Va bene, allora. Ti aspetterò al Dyna Chair. Passa di qui\n"
+"quando sei pronto."
+
+msgctxt "1980_Haruka"
+msgid "All right, I will. Thank you!"
+msgstr "Va bene, lo farò. Grazie!"
+
+msgctxt "2004_Akiyama"
+msgid "Quite the busy little bee, aren't you, Haruka-chan?"
+msgstr "Sei proprio un'ape operaia, eh, Haruka-chan?"
+
+msgctxt "2016_Haruka"
+msgid "No I'm not..."
+msgstr "No, non lo sono..."
+
+msgctxt "2040_Akiyama"
+msgid "Hello?"
+msgstr "Salve?"
+
+msgctxt "2052_Hana"
+msgid "Chief, can you talk?"
+msgstr "Capo, puoi parlare?"
+
+msgctxt "2064_Akiyama"
+msgid "Oh, hi, Hana-chan. Yeah, sure."
+msgstr "Oh, ciao, Hana-chan. Sì, certo."
+
+msgctxt "2076_Hana"
+msgid "What's the status on the Park-san situation?"
+msgstr "A che punto siamo con la situazione di Park-san?"
+
+msgctxt "2088_Akiyama"
+msgid "Uh, let's maybe save that discussion for another time, shall we?"
+msgstr ""
+"Uh, magari rimandiamo quella discussione a un altro momento, che ne dici?"
+
+msgctxt "2100_Akiyama"
+msgid "Oh, yeah! Sorry to drop this on you out of the blue..."
+msgstr "Ah, già! Scusa se ti butto addosso questa cosa così all'improvviso..."
+
+msgctxt "2112_Akiyama"
+msgid "But do you think you can track down a forger in Kamurocho for me?"
+msgstr "Ma pensi di riuscire a rintracciare un falsario a Kamurocho per me?"
+
+msgctxt "2124_Hana"
+msgid "A forger!? Chief, just what are you up to this time?"
+msgstr "Un falsario!? Capo, che cosa stai combinando questa volta?"
+
+msgctxt "2136_Hana"
+msgid ""
+"And what in the world does it have to do with opening the\r\n"
+"new branch!?"
+msgstr ""
+"E che diavolo c'entra con l'apertura della\n"
+"nuova filiale!?"
+
+msgctxt "2148_Akiyama"
+msgid ""
+"Well, nothing really... but it is something I need taken\r\n"
+"care of."
+msgstr ""
+"Beh, niente di che, in realtà... ma è una cosa che dev'essere\n"
+"sbrigata."
+
+msgctxt "2160_Hana"
+msgid "Well, take care of it yourself! You can leave me out of it!"
+msgstr "Beh, sbrigatela tu! Non mi ci mettere in mezzo!"
+
+msgctxt "2172_Akiyama"
+msgid "Aw, don't be like that. I'm begging you!"
+msgstr "Ah, non fare così. Ti supplico!"
+
+msgctxt "2184_Hana"
+msgid ""
+"Forget it! I've got work up to my ears over here, with you\r\n"
+"being gone."
+msgstr ""
+"Lascia stare! Ho il lavoro fino al collo qui, ora che tu\n"
+"non ci sei."
+
+msgctxt "2196_Hana"
+msgid ""
+"Why does everything but actual work always come first with\r\n"
+"you!?"
+msgstr ""
+"Perché tutto, tranne il lavoro vero e proprio, viene sempre prima per\n"
+"te!?"
+
+msgctxt "2208_Akiyama"
+msgid "Please, Hana-chan? I'll bring you back some steamed buns."
+msgstr "Ti prego, Hana-chan? Ti riporterò dei panini al vapore."
+
+msgctxt "2220_Hana"
+msgid "Steamed buns?"
+msgstr "Panini al vapore?"
+
+msgctxt "2232_Akiyama"
+msgid "That's right. A hundred of them!"
+msgstr "Esatto. Cento!"
+
+msgctxt "2244_Hana"
+msgid "Fine. Just this one last time!"
+msgstr "Va bene. Solo quest'ultima volta!"
+
+msgctxt "2256_Akiyama"
+msgid ""
+"You're the best, Hana-chan! Now, about this Kamurocho\r\n"
+"forger... Think you can find him by tomorrow?"
+msgstr ""
+"Sei la migliore, Hana-chan! Ora, a proposito di questo falsario di Kamurocho\n"
+"... Pensi di riuscire a trovarlo entro domani?"
+
+msgctxt "2268_Hana"
+msgid ""
+"Did you forget who you're talking to? I'll have it done in\r\n"
+"an hour."
+msgstr ""
+"Ti sei dimenticato con chi stai parlando? Lo avrò sbrigato in\n"
+"un'ora."
+
+msgctxt "2280_Akiyama"
+msgid ""
+"That's my Hana-chan! Could you have him call my cell? I want\r\n"
+"to talk to him."
+msgstr ""
+"Questa è la mia Hana-chan! Potresti fargli chiamare il mio cellulare? Voglio\n"
+"parlargli."
+
+msgctxt "2292_Hana"
+msgid "Will do."
+msgstr "Lo farò."
+
+msgctxt "2316_Akiyama"
+msgid ""
+"That ought to move things along. The best way to find a\r\n"
+"forger is to ask another forger."
+msgstr ""
+"Dovrebbe far girare le cose. Il modo migliore per trovare un\n"
+"falsario è chiedere a un altro falsario."
+
+msgctxt "2328_Akiyama"
+msgid ""
+"I'll wait for Hana-chan to call back. You'd better get going\r\n"
+"on the Princess League thing."
+msgstr ""
+"Aspetterò che Hana-chan richiami. Faresti meglio a darti una mossa\n"
+"con la faccenda della Princess League."
+
+msgctxt "2340_Akiyama"
+msgid "We can meet up at Dyna Chair later."
+msgstr "Ci vediamo al Dyna Chair più tardi."
+
+msgctxt "2352_Haruka"
+msgid "All right. Sounds good."
+msgstr "Va bene. Perfetto."
