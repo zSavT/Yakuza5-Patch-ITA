@@ -26,7 +26,7 @@ msgstr "Bicchiere da whisky (Destra)"
 
 msgctxt "0\t37696\t3\tCHK"
 msgid "Whisky Glass (Left)"
-msgstr "Bicchiere da Whisky (Sinistra)"
+msgstr "Bicchiere da whisky (Sinistra)"
 
 msgctxt "0\t37716\t4\tCHK"
 msgid "Chisel (Right)"
@@ -222,7 +222,7 @@ msgstr "Pala"
 
 msgctxt "0\t38682\t52\tCHK"
 msgid "Fully Cooked Tsuruhashi Fugetsu Okonomiyaki"
-msgstr "Cotto alla perfezione Tsuruhashi Fugetsu Okonomiyaki"
+msgstr "Okonomiyaki Tsuruhashi Fugetsu ben cotto"
 
 msgctxt "0\t38726\t53\tCHK"
 msgid "Tsuruhashi Fugetsu Okonomiyaki with Plate"
@@ -250,7 +250,7 @@ msgstr "Pasta del minimarket"
 
 msgctxt "0\t38926\t59\tCHK"
 msgid "Convenience Store Curry"
-msgstr "Curry del Minimarket"
+msgstr "Curry del minimarket"
 
 msgctxt "0\t38950\t60\tCHK"
 msgid "New Digital Song Catalog"
@@ -270,7 +270,7 @@ msgstr "Taccuino"
 
 msgctxt "0\t39037\t64\tCHK"
 msgid "Drawing Bell"
-msgstr "Campana dell'estrazione"
+msgstr "Campanella della lotteria"
 
 msgctxt "0\t39050\t65\tCHK"
 msgid "Cardboard Box (Deliveries)"
@@ -302,7 +302,7 @@ msgstr "Sedia Pieghevole"
 
 msgctxt "0\t39197\t72\tCHK"
 msgid "PrintCircle of Haruka, Akari, and Yui"
-msgstr "Stampa del Cerchio di Haruka, Akari e Yui"
+msgstr "Purikura di Haruka, Akari e Yui"
 
 msgctxt "0\t39235\t73\tCHK"
 msgid "Haruka's Cell Phone (Adventure)"
@@ -386,15 +386,15 @@ msgstr "Libretto di Haruka - Ver. Chiusa (Avventura)"
 
 msgctxt "0\t39839\t93\tCHK"
 msgid "Haruka's Bankbook - Open Ver. (Adventure)"
-msgstr "Il libretto bancario di Haruka - Ver. aperta (Avventura)"
+msgstr "Libretto di Haruka - Ver. Aperta (Avventura)"
 
 msgctxt "0\t39881\t94\tCHK"
 msgid "Haruka's Bag (Adventure)"
-msgstr "La borsa di Haruka (Avventura)"
+msgstr "Borsa di Haruka (Avventura)"
 
 msgctxt "0\t39906\t95\tCHK"
 msgid "Cue Card"
-msgstr "Scheda Suggeritore"
+msgstr "Gobbo"
 
 msgctxt "0\t39915\t96\tCHK"
 msgid "Felt-Tip Pen (Adventure)"
@@ -406,7 +406,7 @@ msgstr "Ramen su un Vassoio"
 
 msgctxt "0\t39956\t98\tCHK"
 msgid "Autograph Paper"
-msgstr "Carta per autografi"
+msgstr "Cartoncino per autografi"
 
 msgctxt "0\t39972\t99\tCHK"
 msgid "Envelope"
@@ -458,7 +458,7 @@ msgstr "Nunchaku (Avventura)"
 
 msgctxt "0\t40174\t111\tCHK"
 msgid "IF7 Helmet (Adventure)"
-msgstr "IF7 Casco (Avventura)"
+msgstr "Casco IF7 (Avventura)"
 
 msgctxt "0\t40197\t112\tCHK"
 msgid "Photo of Majima, Park, and Katsuya (Adventure)"
@@ -478,7 +478,7 @@ msgstr "Catene che hanno trattenuto Majima (Avventura)"
 
 msgctxt "0\t40338\t116\tCHK"
 msgid "Shinada's Tab (Adventure)"
-msgstr "Scheda di Shinada (Avventura)"
+msgstr "Conto di Shinada (Avventura)"
 
 msgctxt "0\t40364\t117\tCHK"
 msgid "Map of Tsukimino (Adventure)"
@@ -498,7 +498,7 @@ msgstr "Libro contabile (Avventura)"
 
 msgctxt "0\t40473\t121\tCHK"
 msgid "Park's Fountain Pen (Adventure)"
-msgstr "Penna stilografica di Park (Avventura)"
+msgstr "Stilografica di Park (Avventura)"
 
 msgctxt "0\t40505\t122\tCHK"
 msgid "Kurosawa's Gun (Adventure)"
@@ -506,7 +506,7 @@ msgstr "Pistola di Kurosawa (Avventura)"
 
 msgctxt "0\t40532\t123\tCHK"
 msgid "Daigo's Gun (Adventure)"
-msgstr "La pistola di Daigo (Avventura)"
+msgstr "Pistola di Daigo (Avventura)"
 
 msgctxt "0\t40556\t124\tCHK"
 msgid "Newspaper Reporting Sawada's Trade (Adventure)"
@@ -566,7 +566,7 @@ msgstr "Taiko No Tatsujin 2P Bacchetta Taiko Blu Sinistra"
 
 msgctxt "0\t40967\t138\tCHK"
 msgid "Taiko No Tatsujin 2P Blue Right Taiko Stick"
-msgstr "Taiko No Tatsujin Bacchetta Taiko Blu Destra 2P"
+msgstr "Taiko No Tatsujin 2P Bacchetta Taiko Blu Destra"
 
 msgctxt "0\t41011\t139\tCHK"
 msgid "Flower Bag (Adventure)"
@@ -590,7 +590,7 @@ msgstr "[WDR] Borsa da lavoro A (Sinistra)"
 
 msgctxt "0\t41141\t144\tCHK"
 msgid "[WDR] Business Bag A (Right)"
-msgstr "[WDR] Borsa da Affari A (Destra)"
+msgstr "[WDR] Borsa da lavoro A (Destra)"
 
 msgctxt "0\t41170\t145\tCHK"
 msgid "[WDR] Business Bag B (Left)"
@@ -610,15 +610,15 @@ msgstr "[WDR] Borsone A (Destra)"
 
 msgctxt "0\t41286\t149\tCHK"
 msgid "[WDR] Overnight Bag B (Left)"
-msgstr "[WDR] Borsone per la notte B (Sinistra)"
+msgstr "[WDR] Borsone B (Sinistra)"
 
 msgctxt "0\t41315\t150\tCHK"
 msgid "[WDR] Overnight Bag B (Right)"
-msgstr "[WDR] Borsa da viaggio B (Destra)"
+msgstr "[WDR] Borsone B (Destra)"
 
 msgctxt "0\t41345\t151\tCHK"
 msgid "[WDR] Handbag A (Left)"
-msgstr "[WDR] Borsetta A (Sinistra)"
+msgstr "[WDR] Borsa A (Sinistra)"
 
 msgctxt "0\t41368\t152\tCHK"
 msgid "[WDR] Handbag A (Right)"
@@ -638,7 +638,7 @@ msgstr "[WDR] Sacchetto di carta A_Piccolo (Sinistra)"
 
 msgctxt "0\t41470\t156\tCHK"
 msgid "[WDR] Paper Bag A_Small (Right)"
-msgstr "[WDR] Sacchetto di carta A piccolo (Destra)"
+msgstr "[WDR] Sacchetto di carta A_Piccolo (Destra)"
 
 msgctxt "0\t41502\t157\tCHK"
 msgid "[WDR] Paper Bag B_Small (Left)"
@@ -666,7 +666,7 @@ msgstr "[WDR] Sacchetto di carta D_Medio (Destra)"
 
 msgctxt "0\t41695\t163\tCHK"
 msgid "[WDR] Paper Bag E_Large (Left)"
-msgstr "[WDR] Borsa di carta E_Grande (Sinistra)"
+msgstr "[WDR] Sacchetto di carta E_Grande (Sinistra)"
 
 msgctxt "0\t41726\t164\tCHK"
 msgid "[WDR] Paper Bag E_Large (Right)"
@@ -678,7 +678,7 @@ msgstr "[WDR] Sacchetto di carta A_Doppio (Sinistra)"
 
 msgctxt "0\t41790\t166\tCHK"
 msgid "[WDR] Paper Bag A_Double (Right)"
-msgstr "[WDR] Busta di carta A_Doppio (Destra)"
+msgstr "[WDR] Sacchetto di carta A_Doppio (Destra)"
 
 msgctxt "0\t41823\t167\tCHK"
 msgid "[WDR] Paper Bag B_Double (Left)"
@@ -742,7 +742,7 @@ msgstr "[WDR] Ramen"
 
 msgctxt "0\t42177\t182\tCHK"
 msgid "[WDR] Shake"
-msgstr "[WDR] Scuotere"
+msgstr "[WDR] Frullato"
 
 msgctxt "0\t42189\t183\tCHK"
 msgid "[WDR] Newspaper"
@@ -770,7 +770,7 @@ msgstr "[Minigioco] <Golf> Ferro A"
 
 msgctxt "0\t42335\t189\tCHK"
 msgid "[Minigame] <Golf> Iron B"
-msgstr "[Minigame] <Golf> Ferro B"
+msgstr "[Minigioco] <Golf> Ferro B"
 
 msgctxt "0\t42360\t190\tCHK"
 msgid "[Minigame] <Golf> Iron C"
@@ -810,11 +810,11 @@ msgstr "[ADV] Sake in tazza"
 
 msgctxt "0\t42587\t199\tCHK"
 msgid "[ADV] Kiryu's Cell Phone"
-msgstr "[ADV] Cellulare di Kiryu"
+msgstr "[ADV] Telefonino di Kiryu"
 
 msgctxt "0\t42612\t200\tCHK"
 msgid "[ADV] Kiryu's Cigarette"
-msgstr "[ADV] La sigaretta di Kiryu"
+msgstr "[ADV] Sigaretta di Kiryu"
 
 msgctxt "0\t42636\t201\tCHK"
 msgid "[ADV] [Matsuya] Matsuya Bowl"
@@ -8761,6 +8761,7 @@ msgstr "Scooter argentato"
 msgctxt "0\t88239\t2186\tCHK"
 msgid "Bat [minigame] Batting Bat"
 msgstr "Mazda [minigioco] Mazda da battuta"
+msgstr "Mazza [minigioco] Mazza da battuta"
 
 msgctxt "0\t88266\t2187\tCHK"
 msgid "Flag [Minigame] <Golf> Flag"
