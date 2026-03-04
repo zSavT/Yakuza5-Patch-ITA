@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-04\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "44"
+msgid "Hey! Where do ya think you're goin'!?"
+msgstr "Ehi! Dove credi di andare!?"
+
+msgctxt "56"
+msgid "(There's a lot of them... Hm?)"
+msgstr "(Ce ne sono un bel po'... Hm?)"
+
+msgctxt "68"
+msgid "(That heavy machinery could be useful.)"
+msgstr "(Quei macchinari pesanti potrebbero tornare utili.)"
+
+msgctxt "668"
+msgid "Worker"
+msgstr "Operaio"
+
+msgctxt "672"
+msgid "battle"
+msgstr "combattimento"
+
+msgctxt "676"
+msgid "voice_kind::eID_osk_m_gang_l|voice::eID_btllong_enc_010_breakin"
+msgstr "voice_kind::eID_osk_m_gang_l|voice::eID_btllong_enc_010_breakin"
+
+msgctxt "680"
+msgid "voice_kind::eID_osk_m_gang_l|voice::eID_btllong_enc_030_ambush"
+msgstr "voice_kind::eID_osk_m_gang_l|voice::eID_btllong_enc_030_ambush"
+
+msgctxt "684"
+msgid "voice_kind::eID_osk_m_ippan30s|voice::eID_btllong_enc_031_ambush"
+msgstr "voice_kind::eID_osk_m_ippan30s|voice::eID_btllong_enc_031_ambush"
+
+msgctxt "688"
+msgid "voice_kind::eID_osk_m_ippan40s|voice::eID_btllong_enc_030_ambush"
+msgstr "voice_kind::eID_osk_m_ippan40s|voice::eID_btllong_enc_030_ambush"
+
+msgctxt "692"
+msgid "voice_kind::eID_osk_m_yakuza40s|voice::eID_btllong_enc_010_breakin"
+msgstr "voice_kind::eID_osk_m_yakuza40s|voice::eID_btllong_enc_010_breakin"
+
+msgctxt "696"
+msgid "Player"
+msgstr "Giocatore"
