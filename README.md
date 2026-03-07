@@ -43,10 +43,10 @@ Qui sotto è riportata la struttura dei file modificabili, con descrizione breve
     - [x] Tradotto
 - Yakuza 5\main\data\2dpar\sprite_en.par
     - All'interno sono presenti alcuni sprite per delle azioni di gioco
-    - [ ] Da valutare se tradurre
+    - [x] Tradotto
 - Yakuza 5\main\data\2dpar\ui_en.par
     - All'interno sono presenti alcuni sprite, in tantissimi sotto par, per le interazioni di alcuni oggetti in game (Come ATM, taxi ecc...)
-    - [ ] Da valutare se tradurre
+    - [x] Tradotto
 - Yakuza 5\main\data\auth_telop\auth_telop_en.par
     - All'interno sono presenti alcuni sprite di caption del gioco.
     - [x] Tradotto
