@@ -10,7 +10,7 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/verio12)
 
 
-Il "progetto" è nato totalmente a caso e spinto dalla mia curiosità nel riuscire a modificare i testi del gioco, dopo aver provato la Patch per Yakuza 0 sviluppata da [Rulesless](https://letraduzionidirulesless.wordpress.com/yakuza0-2/). <br> La mia ricerca è iniziata cercando sul web, l'esistenza di altre patch di traduzioni in altre lingue, per poter analizzare la patch e comprendere più velocemente quali siano i file contenenti i testi del gioco.<br> Per questo motivo ho iniziato ad analizzare la [patch spagnola](https://steamcommunity.com/sharedfiles/filedetails/?id=3385318071) del gioco.<p>
+Il "progetto" è nato totalmente a caso e spinto dalla mia curiosità di riuscire a modificare i testi del gioco, dopo aver provato la Patch per Yakuza 0 sviluppata da [Rulesless](https://letraduzionidirulesless.wordpress.com/yakuza0-2/). <br> La mia ricerca è iniziata cercando sul web l'esistenza di altre patch di traduzioni in altre lingue, per poter analizzare la patch e comprendere più velocemente quali siano i file contenenti i testi del gioco.<br> Per questo motivo ho iniziato ad analizzare la [patch spagnola](https://steamcommunity.com/sharedfiles/filedetails/?id=3385318071) del gioco.<p>
 Analizzando i file, mi sono accorto che il gioco utilizza principalmente i file _PAR_ e _BIN_ (con varianti di questi ultimi in alcuni casi).I file PAR contengono i principali dati del gioco (immagini, animazioni ecc...) e lo stesso vale per i file BIN. Su GitHub ho casualmente trovato alcune repo che permettono di scompattare e ricompattare questi file; in tal modo ho iniziato a comprendere come muovere i primi passi per la traduzione dei testi del gioco.
 
 # Immagini Patch
@@ -115,7 +115,7 @@ Esempio di importazione:
 
 # Funzionamento estrazione MSG
 
-Per i file MSG, si utilizza il programma realizzato da ma [BZ](https://brazilalliance.com.br/).
+Per i file MSG, si utilizza il programma realizzato da [BZ](https://brazilalliance.com.br/).
 
 # Funzionamento installer
 
@@ -135,7 +135,7 @@ Nella cartella "_dist_", è presente l'eseguibile.
 ### Linux (Steam Deck)
 
 Per generare l'eseguibile per Linux, bisogna fare qualche passaggio in più. L'installer è creato tramite la WSL per Windows.
-Per prima cosa bisogna creare l'ambiente virtuale per python tramite il comando:
+Per prima cosa bisogna creare l'ambiente virtuale per Python tramite il comando:
 ```ps
 python3 -m venv venv
 ```
@@ -165,7 +165,7 @@ Successivamente bisogna avviare il comando per la creazione del file eseguibile:
 pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "patch_ai.pkg:." --add-data "chiave.txt:." installer.py
 ```
 
-Una volta terminato, si può disattivare l'ambiente con il commando:
+Una volta terminato, si può disattivare l'ambiente con il comando:
 ```ps
 deactivate
 ```
@@ -185,11 +185,11 @@ Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha 
 Lista dei progetti di patch in italiano per i giochi della serie:
 - [Yakuza 0](https://letraduzionidirulesless.wordpress.com/yakuza0-2/)
     - Come indicato nell'introduzione, la patch di Yakuza 0 è l'unica completa al 100% (o quasi).
-    - La versione Director's Cut, presenta la lingua italiana.
+    - La versione Director's Cut presenta la lingua italiana.
 - Yakuza Kiwami 1, 2 e 3
    - Ufficialmente tradotti in italiano nelle nuove versioni. 
 - [Yakuza 4 Remastered](https://github.com/zSavT/Yakuza4-Patch-ITA)
-    - Un'altra patch realizzata da me per la serie Yakuza è quella di Yakuza 4, il funzionamento ed il materiale tradotto è il medesimo.
+    - Un'altra patch realizzata da me per la serie Yakuza è quella di Yakuza 4, il funzionamento ed il materiale tradotto sono gli stessi.
 - [Yakuza 5 Remastered](https://github.com/zSavT/Yakuza5-Patch-ITA)
     - Questo progetto.
 - [Yakuza 6](https://www.nexusmods.com/yakuza6/mods/220)
@@ -200,13 +200,13 @@ Lista dei progetti di patch in italiano per i giochi della serie:
 Si ringrazia
 
 - Per la codifica e la decodifica dei file _PAR_ del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/Kaplas80/ParManager.git) da Kaplas80.<br>
-- Per la codifica e la decodifica dei file BIN 2007.03.19 del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/SlowpokeVG/Yakuza-2007.03.19-bin-file-exporter-importer) da SlowpokeVG.
+- Per la codifica e la decodifica dei file BIN 2007.03.19 del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/SlowpokeVG/Yakuza-2007.03.19-bin-file-exporter-importer) di SlowpokeVG.
 - Per la modifica dei font, è stata realizzata partendo dalla mod 4K dei font reperibile da [qui](https://www.nexusmods.com/yakuza4remastered/mods/14) realizzata da Chalkint.
 - Per la codifica dei file _MSG_, _BIN_ del gioco, si utilizza il programma sviluppato da [BZ](https://brazilalliance.com.br/).
 
 ## Copyright
-This patch does not contain copyrighted material, has no functional autonomy, and you must have your original own copy to apply it.
-All game rights, intellectual property, logo/names and movies/images are property of Sega Corporation.
+This patch does not contain copyrighted material, has no functional autonomy, and you must have your own original copy to apply it.
+All game rights, intellectual property, logo/names, and movies/images are property of Sega Corporation.
 
 # Altri progetti di traduzione realizzati da me
 [Valkyria Chronicles Patch ITA](https://github.com/zSavT/Valkyria-Chronicles-Patch-ITA)
