@@ -1,4 +1,4 @@
-# Yakuza5-Patch-ITA
+# Yakuza 5 Remastered Patch ITA
 <p align="center">
   <img src="img/LogoYakuza5.png" /><br>
     Progetto per la traduzione del gioco Yakuza 5 REMASTERED in italiano.
