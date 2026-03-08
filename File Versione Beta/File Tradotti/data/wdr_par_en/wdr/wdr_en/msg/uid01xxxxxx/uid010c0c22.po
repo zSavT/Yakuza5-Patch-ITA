@@ -14,15 +14,15 @@ msgstr ""
 
 msgctxt "144"
 msgid "You got <Color:8>PrintCircle Book<Color:Default>."
-msgstr "Hai ottenuto <Color:8>Libro PrintCircle<Color:Default>."
+msgstr "Hai ottenuto l'<Color:8>Album PrintCircle<Color:Default>."
 
 msgctxt "276"
 msgid "You got <Color:8>PrintCircle Book<Color:Default>."
-msgstr "Hai ottenuto <Color:8>Libro PrintCircle<Color:Default>."
+msgstr "Hai ottenuto l'<Color:8>Album PrintCircle<Color:Default>."
 
 msgctxt "1500"
 msgid "You got <Color:8>PrintCircle Book<Color:Default>."
-msgstr "Hai ottenuto <Color:8>Libro PrintCircle<Color:Default>."
+msgstr "Hai ottenuto l'<Color:8>Album PrintCircle<Color:Default>."
 
 msgctxt "36416"
 msgid "Player"
@@ -34,7 +34,7 @@ msgstr "Talk_Think"
 
 msgctxt "36424"
 msgid "PrintCircle Book"
-msgstr "Libro del Cerchio di Stampa"
+msgstr "Album PrintCircle"
 
 msgctxt "36428"
 msgid "Take Photos"
