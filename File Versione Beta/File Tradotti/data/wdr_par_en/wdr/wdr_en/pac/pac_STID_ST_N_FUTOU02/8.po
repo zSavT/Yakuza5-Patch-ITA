@@ -1,0 +1,25 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-04\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "176"
+msgid "voice_kind::eID_ngy_m_gang_m|voice::eID_btllong_enc_010_breakin"
+msgstr "voice_kind::eID_ngy_m_gang_m|voice::eID_btllong_enc_010_breakin"
+
+msgctxt "180"
+msgid "voice_kind::eID_ngy_m_yakuza40s|voice::eID_btllong_enc_031_ambush"
+msgstr "voice_kind::eID_ngy_m_yakuza40s|voice::eID_btllong_enc_031_ambush"
+
+msgctxt "184"
+msgid "voice_kind::eID_ngy_m_young_m|voice::eID_btllong_enc_030_ambush"
+msgstr "voice_kind::eID_ngy_m_young_m|voice::eID_btllong_enc_030_ambush"

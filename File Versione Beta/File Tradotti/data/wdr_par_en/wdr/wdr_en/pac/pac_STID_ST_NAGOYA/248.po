@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-5-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-04\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "7828"
+msgid "P_SIN_sitsofa"
+msgstr "P_SIN_sitsofa"
+
+msgctxt "7832"
+msgid "M_nml_sitsofa"
+msgstr "M_nml_sitsofa"
+
+msgctxt "7836"
+msgid "P_SIN_TLK_sitsofa_kamae"
+msgstr "P_SIN_TLK_sitsofa_kamae"
+
+msgctxt "7840"
+msgid "M_NML_TLK_sitsofa_kamae"
+msgstr "M_NML_TLK_sitsofa_kamae"
+
+msgctxt "7844"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "7848"
+msgid "P_SIN_sitchr"
+msgstr "P_SIN_sitchr"
+
+msgctxt "7852"
+msgid "M_nml_sitchr"
+msgstr "M_nml_sitchr"
+
+msgctxt "7856"
+msgid "P_SIN_TLK_sitchr_kamae"
+msgstr "P_SIN_TLK_sitchr_kamae"
+
+msgctxt "7860"
+msgid "M_NML_TLK_sitchr_kamae"
+msgstr "M_NML_TLK_sitchr_kamae"
