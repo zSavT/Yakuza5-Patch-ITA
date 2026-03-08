@@ -14,19 +14,19 @@ msgstr ""
 
 msgctxt "1288"
 msgid "You got a <Color:8>Staminan Spark<Color:Default>."
-msgstr "Hai un <Color:8>Staminan Spark<Color:Default>."
+msgstr "Hai ottenuto uno <Color:8>Staminan Spark<Color:Default>."
 
 msgctxt "1396"
 msgid "You got <Color:8>Bronze Plate<Color:Default>."
-msgstr "Hai ottenuto <Color:8>Targa di Bronzo<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Targa di Bronzo<Color:Default>."
 
 msgctxt "1528"
 msgid "You got some <Color:8>Milk<Color:Default>."
-msgstr "Hai del <Color:8>Latte<Color:Default>."
+msgstr "Hai ottenuto del <Color:8>Latte<Color:Default>."
 
 msgctxt "1696"
 msgid "You got some <Color:8>Pocket Tissues<Color:Default>."
-msgstr "Hai preso dei <Color:8>fazzoletti di carta<Color:Default>."
+msgstr "Hai ottenuto dei <Color:8>Fazzoletti<Color:Default>."
 
 msgctxt "29132"
 msgid "Hirakawa"
@@ -133,16 +133,16 @@ msgid ""
 "The chief is probably at that diner he loves so much. Can you go bring him "
 "back for me?"
 msgstr ""
-"Il capo è di sicuro in quel diner che adora. Vai a riportarlo indietro per "
-"me?"
+"Il capo è probabilmente in quella tavola calda che adora. Puoi andare a "
+"riportarlo indietro per me?"
 
 msgctxt "232_Kiryu"
 msgid "Hey there."
-msgstr "Ciao."
+msgstr "Ehi."
 
 msgctxt "244_Hirakawa"
 msgid "Hello, Suzuki-san. Do you have a moment?"
-msgstr "Ciao, Suzuki-san. Hai un momento?"
+msgstr "Salve, Suzuki-san. Hai un momento?"
 
 msgctxt "256_Kiryu"
 msgid "Sure."
@@ -150,13 +150,13 @@ msgstr "Certo."
 
 msgctxt "268_Hirakawa"
 msgid "It's not urgent, but can you go run an errand for me?"
-msgstr "Non c'è fretta, ma potresti andarmi a fare una commissione?"
+msgstr "Non c'è fretta, ma potresti farmi una commissione?"
 
 msgctxt "280_Hirakawa"
 msgid ""
 "That chief of ours went out to get some food and still hasn't come back."
 msgstr ""
-"Quel nostro capo è uscito a prendere qualcosa da mangiare e non è ancora "
+"Il nostro capo è uscito a prendere qualcosa da mangiare e non è ancora "
 "tornato."
 
 msgctxt "292_Kiryu"
@@ -176,7 +176,7 @@ msgstr "Certo. Lo riporterò qui in men che non si dica."
 
 msgctxt "340_Hirakawa"
 msgid "Welcome back, Suzuki-san. You've been gone for quite a while."
-msgstr "Bentornato, Suzuki-san. È da un bel po' che non ti si vede."
+msgstr "Bentornato, Suzuki-san. Sei stato via per un bel po'."
 
 msgctxt "352_Kiryu"
 msgid "Well, I did have a long-distance passenger."
@@ -196,11 +196,11 @@ msgstr "Lo farò."
 
 msgctxt "448_Hirakawa"
 msgid "Oh, Suzuki-san. Just who I wanted to see."
-msgstr "Oh, Suzuki-san. Proprio lei volevo vedere."
+msgstr "Oh, Suzuki-san. Proprio chi volevo vedere."
 
 msgctxt "460_Kiryu"
 msgid "Good morning, Hirakawa-san. What can I do for you?"
-msgstr "Buongiorno, Hirakawa-san. Cosa posso fare per lei?"
+msgstr "Buongiorno, Hirakawa-san. Cosa posso fare per te?"
 
 msgctxt "472_Hirakawa"
 msgid ""
@@ -227,7 +227,7 @@ msgstr "Capito."
 
 msgctxt "520_Kiryu"
 msgid "Sure, no problem."
-msgstr "Certo, nessuna grana."
+msgstr "Certo, nessun problema."
 
 msgctxt "532_Hirakawa"
 msgid "They're waiting at Nagasu Bridge. Drive safely."
