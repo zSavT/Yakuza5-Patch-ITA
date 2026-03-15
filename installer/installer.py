@@ -53,12 +53,12 @@ HEAD_ICON_PATH = resource_path("assets/head_icon.png")
 YT_ICON = resource_path("assets/youtube.png")
 GH_ICON = resource_path("assets/github.png")
 WEB_ICON = resource_path("assets/web.png")
-VERSIONE = "v0.2.0-beta"
+VERSIONE = "v1.0"
 ALT_SITE_NAME = "TBA"
 ALT_SITE_URL = "https://www.youtube.com/@zSavT"
-CREDITI = "Patch By SavT e Lowrentio"
+CREDITI = "Patch By SavT"
 EXE_NAME = "Yakuza5.exe"
-EXE_SUBFOLDER = "Yakuza 5\main"
+EXE_SUBFOLDER = os.path.join("Yakuza 5", "main")
 
 LICENZA = """1) La presente patch va utilizzata exclusively sul gioco originale legittimamente detenuto per il quale è stata creata.
 2) Questa patch è stata creata senza fini di lucro.
