@@ -123,48 +123,67 @@ Per poter generare l'eseguibile dello script bisogna utilizzare la libreria "__p
 
 Per generare l'eseguibile dell'installer per Windows, bisogna utilizzare il seguente comando:
 ```ps
-pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "patch_ai.pkg:."--add-data "chiave.txt:." installer.py
+pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "chiave.txt:." installer.py
 ```
-Nella cartella "_dist_", è presente l'eseguibile.
-### Linux (Steam Deck)
 
-Per generare l'eseguibile per Linux, bisogna fare qualche passaggio in più. L'installer è creato tramite la WSL per Windows.
-Per prima cosa bisogna creare l'ambiente virtuale per python tramite il comando:
-```ps
+Nella cartella "_dist_", è presente l'eseguibile.
+
+### Linux (Steam Deck & altre Distribuzioni)
+Per generare l'eseguibile su Linux, i passaggi variano leggermente in base al gestore pacchetti della tua distribuzione. L'installer è testato per essere compilato tramite ambiente virtuale (venv) per non sporcare il sistema.
+
+Scegli il comando in base alla tua distribuzione:
+
+**Debian / Ubuntu / Mint / Pop!_OS:**
+
+```Bash
+sudo apt update && sudo apt install -y python3-pip python3-venv
+```
+**Arch Linux / SteamOS (Steam Deck):**
+
+```Bash
+sudo pacman -S python-pip
+```
+**Fedora / RHEL / AlmaLinux:**
+
+```Bash
+sudo dnf install python3-pip python3-devel
+```
+**openSUSE:**
+
+```Bash
+sudo zypper install python3-pip python3-devel
+```
+#### Preparazione dell'ambiente virtuale
+Una volta installate le dipendenze di base, la procedura è identica per tutti:
+
+
+```Bash
 python3 -m venv venv
 ```
-Se non fosse presente la funzione nell'ambiente, si può installare tramite il seguente comando:
-```ps
-sudo apt-get install -y python3-venv
-```
-Con il comando seguente, attiviamo l'ambiente:
-```ps
+Attiva l'ambiente
+```Bash
 source venv/bin/activate
 ```
-Dopo aver attivato l'ambiente bisogna installare pyinstaller con il comando:
-```ps
-pip3 install pyinstaller
-```
-Se pip non è presente nell'ambiente, bisogna installarlo con il comando:
-```ps
-sudo apt install -y python3-pip
-```
-Successivamente bisogna installare tutte le librerie utilizzate, presenti nel file requirements.txt, che in ogni caso sono:
 
-- PyQt6
-- pyzipper
-
-Successivamente bisogna avviare il comando per la creazione del file eseguibile:
-```ps
-pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "patch_ai.pkg:." --add-data "chiave.txt:." installer.py
+Aggiorna pip e installa i requisiti
+```Bash
+pip install --upgrade pip
+pip install pyinstaller PyQt6 pyzipper
 ```
 
-Una volta terminato, si può disattivare l'ambiente con il commando:
-```ps
+#### Creazione dell'eseguibile
+Con l'ambiente venv attivo, avvia il comando per la creazione del file eseguibile:
+
+```Bash
+pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "chiave.txt:." installer.py
+```
+Una volta terminato, puoi uscire dall'ambiente:
+
+```Bash
 deactivate
 ```
 
-Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha tipo/estensione).
+Nella cartella dist troverai l'eseguibile per Linux (senza estensione).
 
 ## TO DO
 
