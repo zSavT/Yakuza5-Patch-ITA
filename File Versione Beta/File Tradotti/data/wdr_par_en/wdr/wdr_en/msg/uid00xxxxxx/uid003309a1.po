@@ -14,11 +14,11 @@ msgstr ""
 
 msgctxt "160"
 msgid "You got <Color:8>20,000 yen<Color:Default>."
-msgstr "Hai intascato <Color:8>20.000 yen<Color:Default>."
+msgstr "Hai ottenuto <Color:8>20.000 yen<Color:Default>."
 
 msgctxt "376"
 msgid "You got a <Color:8>Borrowed Single-lens Reflex Camera<Color:Default>."
-msgstr "Hai intascato una <Color:8>Reflex in prestito<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Reflex in prestito<Color:Default>."
 
 msgctxt "8028"
 msgid "Tourism Board Employee"
@@ -54,7 +54,7 @@ msgstr "Talk_Think"
 
 msgctxt "8060"
 msgid "Tourist Spots"
-msgstr "Luoghi turistici"
+msgstr "Luoghi Turistici"
 
 msgctxt "76_Tourism Board Employee"
 msgid "Hey there! How's your photography going? Well, I hope?"
@@ -84,7 +84,7 @@ msgstr ""
 
 msgctxt "148_Tourism Board Employee"
 msgid "Here's the reward I promised. Go ahead, take it."
-msgstr "Ecco la ricompensa che ti ho promesso. Prendilo pure."
+msgstr "Ecco la ricompensa che ti ho promesso. Prendila pure."
 
 msgctxt "172_Tourism Board Employee"
 msgid "Thank you so much for your help!"
@@ -167,8 +167,7 @@ msgstr ""
 
 msgctxt "340_Player"
 msgid "(Not much reason to say no. I guess I could snap a few shots.)"
-msgstr ""
-"Non c'è un gran motivo per dire di no. Tanto vale fare qualche scatto."
+msgstr "(Non c'è un gran motivo per dire di no. Tanto vale fare qualche scatto.)"
 
 msgctxt "352_Player"
 msgid "Okay, you've got a deal."

@@ -46,15 +46,15 @@ msgstr "Talk_No"
 
 msgctxt "104_Employee"
 msgid "Welcome. Are you ready to order? What would you like to drink?"
-msgstr "Benvenuto. Sei pronto a ordinare? Cosa vorresti bere?"
+msgstr "Benvenuto. È pronto a ordinare? Cosa desidera da bere?"
 
 msgctxt "140_Employee"
 msgid "What would you like to eat?"
-msgstr "Cosa ti piacerebbe mangiare?"
+msgstr "Cosa le piacerebbe mangiare?"
 
 msgctxt "272_Employee"
 msgid "Thank you very much. Your total comes to %s."
-msgstr "Grazie mille. Sono %s."
+msgstr "Grazie mille. In totale sono %s."
 
 msgctxt "284_Employee"
 msgid "Thank you very much."
@@ -78,15 +78,15 @@ msgstr "(Non ho ancora fame.)"
 
 msgctxt "368_Player"
 msgid "(I'm full now.)"
-msgstr "(Sono pieno ora.)"
+msgstr "(Sono già pieno.)"
 
 msgctxt "392_Player"
 msgid "Sorry. Something came up."
-msgstr "Scusa. Mi è saltato fuori qualcosa."
+msgstr "Scusi. Ho avuto un imprevisto."
 
 msgctxt "404_Player"
 msgid "Excuse me. I've got an urgent errand."
-msgstr "Scusi. Ho una commissione urgente."
+msgstr "Mi scusi. Ho una commissione urgente."
 
 msgctxt "416_Player"
 msgid "Sorry. Gotta run."
@@ -94,7 +94,7 @@ msgstr "Scusa. Devo scappare."
 
 msgctxt "428_Player"
 msgid "Sorry, I forgot I had to do something."
-msgstr "Scusa, mi ero scordato che dovevo fare una cosa."
+msgstr "Scusa, ho dimenticato di dover fare una cosa."
 
 msgctxt "440_Player"
 msgid "I'm so sorry. I have to go."
@@ -102,11 +102,11 @@ msgstr "Mi dispiace tanto. Devo andare."
 
 msgctxt "452_Employee"
 msgid "Very well. We hope you'll come by again soon."
-msgstr "Molto bene. Speriamo che tornerai a trovarci presto."
+msgstr "Molto bene. Speriamo torni presto a trovarci."
 
 msgctxt "476_Employee"
 msgid "Here's the food menu."
-msgstr "Ecco il menù del cibo."
+msgstr "Ecco il menù."
 
 msgctxt "560_Employee"
 msgid "Thank you very much. Your total comes to %s."
@@ -114,11 +114,11 @@ msgstr "Grazie mille. Sono %s."
 
 msgctxt "632_Employee"
 msgid "Oh, and we're giving these out. Here, please take one."
-msgstr "Oh, e stiamo dando via questi. Tieni, prendine uno."
+msgstr "Oh, e stiamo distribuendo questi. Tenga, ne prenda uno."
 
 msgctxt "692_Employee"
 msgid "Welcome. Are you ready to order? What would you like to drink?"
-msgstr "Benvenuto. Sei pronto a ordinare? Cosa vorresti da bere?"
+msgstr "Benvenuto. È pronto a ordinare? Cosa desidera da bere?"
 
 msgctxt "728_Player"
 msgid "(Got no money...)"
@@ -126,7 +126,7 @@ msgstr "(Non ho soldi...)"
 
 msgctxt "764_Employee"
 msgid "What would you like to eat?"
-msgstr "Cosa ti piacerebbe mangiare?"
+msgstr "Cosa le piacerebbe mangiare?"
 
 msgctxt "824_Employee"
 msgid "Thank you very much. Here is your bill."
@@ -154,15 +154,15 @@ msgstr "(Non ho ancora fame.)"
 
 msgctxt "920_Player"
 msgid "(I'm full now.)"
-msgstr "(Sono pieno ora.)"
+msgstr "(Sono già pieno.)"
 
 msgctxt "944_Player"
 msgid "Sorry. Something came up."
-msgstr "Scusa. Mi è saltato fuori qualcosa."
+msgstr "Scusi. Ho avuto un imprevisto."
 
 msgctxt "956_Player"
 msgid "Excuse me. I've got an urgent errand."
-msgstr "Scusi. Ho una commissione urgente."
+msgstr "Mi scusi. Ho una commissione urgente."
 
 msgctxt "968_Player"
 msgid "Sorry. Gotta run."
@@ -170,7 +170,7 @@ msgstr "Scusa. Devo scappare."
 
 msgctxt "980_Player"
 msgid "Sorry, I forgot I had to do something."
-msgstr "Scusa, mi ero scordato che dovevo fare una cosa."
+msgstr "Scusa, ho dimenticato di dover fare una cosa."
 
 msgctxt "992_Player"
 msgid "I'm so sorry. I have to go."
@@ -178,11 +178,11 @@ msgstr "Mi dispiace tanto. Devo andare."
 
 msgctxt "1004_Employee"
 msgid "Very well. We hope you'll come by again soon."
-msgstr "Molto bene. Speriamo che tornerai a trovarci presto."
+msgstr "Molto bene. Speriamo torni presto a trovarci."
 
 msgctxt "1028_Employee"
 msgid "Here's the food menu."
-msgstr "Ecco il menù del cibo."
+msgstr "Ecco il menù."
 
 msgctxt "1064_Employee"
 msgid "Thank you very much. Here is your bill."
@@ -190,11 +190,11 @@ msgstr "Grazie mille. Ecco il conto."
 
 msgctxt "1136_Employee"
 msgid "Oh, and we're giving these out. Here, please take one."
-msgstr "Oh, e stiamo dando via questi. Tieni, prendine uno."
+msgstr "Oh, e stiamo distribuendo questi. Tenga, ne prenda uno."
 
 msgctxt "1196_Employee"
 msgid "Welcome. Are you ready to order? What would you like to drink?"
-msgstr "Benvenuto. Sei pronto per ordinare? Cosa desideri da bere?"
+msgstr "Benvenuto. È pronto a ordinare? Cosa desidera da bere?"
 
 msgctxt "1232_Player"
 msgid "(Got no money...)"
@@ -202,7 +202,7 @@ msgstr "(Non ho soldi...)"
 
 msgctxt "1268_Employee"
 msgid "What would you like to eat?"
-msgstr "Cosa ti piacerebbe mangiare?"
+msgstr "Cosa le piacerebbe mangiare?"
 
 msgctxt "1376_Employee"
 msgid "Thank you very much. Here is your bill."
@@ -230,15 +230,15 @@ msgstr "(Non ho ancora fame.)"
 
 msgctxt "1472_Player"
 msgid "(I'm full now.)"
-msgstr "(Sono pieno ora.)"
+msgstr "(Sono già pieno.)"
 
 msgctxt "1496_Player"
 msgid "Sorry. Something came up."
-msgstr "Scusa. Mi è saltato fuori qualcosa."
+msgstr "Scusi. Ho avuto un imprevisto."
 
 msgctxt "1508_Player"
 msgid "Excuse me. I've got an urgent errand."
-msgstr "Scusi. Ho una commissione urgente."
+msgstr "Mi scusi. Ho una commissione urgente."
 
 msgctxt "1520_Player"
 msgid "Sorry. Gotta run."
@@ -246,7 +246,7 @@ msgstr "Scusa. Devo scappare."
 
 msgctxt "1532_Player"
 msgid "Sorry, I forgot I had to do something."
-msgstr "Scusa, mi ero scordato che dovevo fare una cosa."
+msgstr "Scusa, ho dimenticato di dover fare una cosa."
 
 msgctxt "1544_Player"
 msgid "I'm so sorry. I have to go."
@@ -254,11 +254,11 @@ msgstr "Mi dispiace tanto. Devo andare."
 
 msgctxt "1556_Employee"
 msgid "Very well. We hope you'll come by again soon."
-msgstr "Molto bene. Speriamo che tornerai a trovarci presto."
+msgstr "Molto bene. Speriamo torni presto a trovarci."
 
 msgctxt "1580_Employee"
 msgid "Here's the food menu."
-msgstr "Ecco il menù del cibo."
+msgstr "Ecco il menù."
 
 msgctxt "1640_Employee"
 msgid "Thank you very much. Here is your bill."

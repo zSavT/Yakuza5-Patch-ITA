@@ -54,7 +54,7 @@ msgstr ""
 
 msgctxt "100_Player"
 msgid "Furthermore, your health will recover while at a hideout."
-msgstr "Inoltre, la tua salute si riprenderà al covo."
+msgstr "Inoltre, recupererai salute mentre ti trovi in un covo."
 
 msgctxt "124_Kiryu"
 msgid "(A package arrived.)"
@@ -66,7 +66,7 @@ msgstr "(Sembra che mi sia arrivato un pacco.)"
 
 msgctxt "148_Saejima"
 msgid "(Got a package delivered.)"
-msgstr "(Mi è arrivato un pacco.)"
+msgstr "(M'hanno consegnato un pacco.)"
 
 msgctxt "160_Shinada"
 msgid "(Hey, I got a package!)"
