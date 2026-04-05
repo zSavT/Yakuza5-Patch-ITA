@@ -81,7 +81,7 @@ Ovviamente, le parentesi quadre non devono essere incluse nel comando.
 
 Lo script utilizzato per la pre-traduzione dei testi è [Alumen](https://github.com/zSavT/Alumen.git) che utilizza le api di Gemini 2.5 per poter funzionare. Maggiori informazioni sono presenti nella repository del tool.
 
-## Struttura file CSV
+## Struttura file CSV (Versione Alpha Patch)
 
 I file csv del gioco hanno il seguente formato:
 
@@ -186,14 +186,6 @@ deactivate
 ```
 
 Nella cartella dist troverai l'eseguibile per Linux (senza estensione).
-
-## TO DO
-
-- [x] Codifica e decodifica dei file PAR
-- [x] Codifica e decodifica dei file BIN 2007.03.19
-- [x] Codifica e decodifica dei restanti file BIN
-- [x] Codifica e decodifica dei file MSG
-- [x] Modifica al Font
 
 # Altre patch della serie
 
