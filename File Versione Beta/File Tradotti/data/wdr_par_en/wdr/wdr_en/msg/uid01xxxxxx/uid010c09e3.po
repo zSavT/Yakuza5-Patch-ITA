@@ -18,7 +18,7 @@ msgstr "Giocatore"
 
 msgctxt "2840"
 msgid "To Street Level"
-msgstr "Al piano strada"
+msgstr "Al piano terra"
 
 msgctxt "2844"
 msgid "To the Fourth Floor"
@@ -38,7 +38,7 @@ msgstr "Akiyama"
 
 msgctxt "108_Player"
 msgid "(Where should I take the elevator?)"
-msgstr "(Dove dovrei prendere l'ascensore?)"
+msgstr "(A che piano vado?)"
 
 msgctxt "132_Haruka"
 msgid "I can't go out dressed like this. I should get changed."
@@ -50,7 +50,7 @@ msgstr "(Lascia perdere.)"
 
 msgctxt "180_Haruka"
 msgid "Akiyama-san, aren't we going to Park-san's office?"
-msgstr "Akiyama, non andiamo all'ufficio della signora Park?"
+msgstr "Akiyama-san, non andiamo all'ufficio di Park-san?"
 
 msgctxt "192_Akiyama"
 msgid "Whoops, right you are."
@@ -58,7 +58,7 @@ msgstr "Ops, hai ragione."
 
 msgctxt "204_Haruka"
 msgid "Akiyama-san, aren't we going up to the roof?"
-msgstr "Akiyama, non andiamo sul tetto?"
+msgstr "Akiyama-san, non andiamo sul tetto?"
 
 msgctxt "216_Akiyama"
 msgid "Oh, yeah. Let's go."
@@ -69,12 +69,12 @@ msgid ""
 "(The girl who last saw Park-san is supposed to be in the "
 "lesson studio.)"
 msgstr ""
-"(La ragazza che ha visto la signora Park l'ultima volta dovrebbe essere "
-"nello studio di lezione.)"
+"(La ragazza che ha visto Park-san per l'ultima volta dovrebbe essere "
+"nella sala prove.)"
 
 msgctxt "240_Player"
 msgid "(Where should I take the elevator?)"
-msgstr "(Dove dovrei prendere l'ascensore?)"
+msgstr "(A che piano vado?)"
 
 msgctxt "264_Haruka"
 msgid "I can't go out dressed like this. I should get changed."

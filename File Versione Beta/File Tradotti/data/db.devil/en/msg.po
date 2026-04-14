@@ -1435,7 +1435,7 @@ msgstr "Furore"
 
 msgctxt "0\t7524\t338\tCHK"
 msgid "Beat Rim Left"
-msgstr "Batti Bordo Sinistro"
+msgstr "Colpisci Bordo Sinistro"
 
 msgctxt "0\t7538\t339\tCHK"
 msgid "Beat Rim Right"
@@ -1443,11 +1443,11 @@ msgstr "Colpisci Bordo Destro"
 
 msgctxt "0\t7553\t340\tCHK"
 msgid "Beat Front Left"
-msgstr "Picchia Avanti a Sinistra"
+msgstr "Colpisci Centro Sinistro"
 
 msgctxt "0\t7569\t341\tCHK"
 msgid "Beat Front Right"
-msgstr "Colpo Anteriore Destro"
+msgstr "Colpisci Centro Destro"
 
 msgctxt "0\t7586\t342\tCHK"
 msgid "Lever Up"
@@ -1459,11 +1459,11 @@ msgstr "Leva Giù"
 
 msgctxt "0\t7606\t344\tCHK"
 msgid "Lever Left"
-msgstr "Leva a Sinistra"
+msgstr "Leva A Sinistra"
 
 msgctxt "0\t7617\t345\tCHK"
 msgid "Lever Right"
-msgstr "Leva Destra"
+msgstr "Leva A Destra"
 
 msgctxt "0\t7629\t346\tCHK"
 msgid "P"

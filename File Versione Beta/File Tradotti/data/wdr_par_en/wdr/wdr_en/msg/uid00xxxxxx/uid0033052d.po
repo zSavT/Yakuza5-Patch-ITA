@@ -21,7 +21,7 @@ msgid ""
 "Haruka will now occasionally predict the outcome of a round when you are playing cho-han. "
 " "
 msgstr ""
-"Haruka d'ora in poi di tanto in tanto prevederà l'esito di una mano quando "
+"Ora Haruka prevederà occasionalmente l'esito di un turno quando "
 "giochi a cho-han."
 
 msgctxt "508"
@@ -383,7 +383,7 @@ msgstr "Benvenuti. In quanti siete?"
 
 msgctxt "1660_Kiryu"
 msgid "Just one."
-msgstr "Solo uno."
+msgstr "Sono da solo."
 
 msgctxt "1672_Akiyama"
 msgid "One, please."
@@ -391,15 +391,15 @@ msgstr "Uno, per favore."
 
 msgctxt "1684_Saejima"
 msgid "Just me."
-msgstr "Solo io."
+msgstr "Sono da solo."
 
 msgctxt "1696_Shinada"
 msgid "Just one!"
-msgstr "Solo uno!"
+msgstr "Sono da solo!"
 
 msgctxt "1708_Haruka"
 msgid "One, please."
-msgstr "Uno, per favore."
+msgstr "Una persona, per favore."
 
 msgctxt "1732_Staff"
 msgid "Very well. If you'd follow me, please."
@@ -415,7 +415,7 @@ msgstr "Mi spiace, devo proprio andare."
 
 msgctxt "1780_Akiyama"
 msgid "Sorry. I have some urgent business."
-msgstr "Scusa. Ho degli affari urgenti."
+msgstr "Scusate. Ho un impegno urgente."
 
 msgctxt "1792_Saejima"
 msgid "Sorry, but I gotta jet."
@@ -439,7 +439,7 @@ msgstr "Benvenuti. In quanti siete?"
 
 msgctxt "1924_Kiryu"
 msgid "Just one."
-msgstr "Solo uno."
+msgstr "Sono da solo."
 
 msgctxt "1936_Akiyama"
 msgid "One, please."
@@ -447,15 +447,15 @@ msgstr "Uno, per favore."
 
 msgctxt "1948_Saejima"
 msgid "Just me."
-msgstr "Solo io."
+msgstr "Sono da solo."
 
 msgctxt "1960_Shinada"
 msgid "Just one!"
-msgstr "Solo uno!"
+msgstr "Sono da solo!"
 
 msgctxt "1972_Haruka"
 msgid "One, please."
-msgstr "Uno, per favore."
+msgstr "Una persona, per favore."
 
 msgctxt "1996_Staff"
 msgid "Very well. If you'd follow me, please."
@@ -471,7 +471,7 @@ msgstr "Mi spiace, devo proprio andare."
 
 msgctxt "2044_Akiyama"
 msgid "Sorry. I have some urgent business."
-msgstr "Scusa. Ho degli affari urgenti."
+msgstr "Scusate. Ho un impegno urgente."
 
 msgctxt "2056_Saejima"
 msgid "Sorry, but I gotta jet."

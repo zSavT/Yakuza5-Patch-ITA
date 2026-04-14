@@ -114,7 +114,7 @@ msgstr "(Non ho ancora fame.)"
 
 msgctxt "368_Player"
 msgid "(I'm full now.)"
-msgstr "(Sono pieno ora.)"
+msgstr "(Non ho più fame, ora.)"
 
 msgctxt "392_Player"
 msgid "Sorry. Something came up."
@@ -130,7 +130,7 @@ msgstr "Scusa. Devo scappare."
 
 msgctxt "428_Player"
 msgid "Sorry, I forgot I had to do something."
-msgstr "Scusa, mi ero scordato che dovevo fare una cosa."
+msgstr "Scusa, ho dimenticato una cosa da fare."
 
 msgctxt "440_Player"
 msgid "I'm so sorry. I have to go."
