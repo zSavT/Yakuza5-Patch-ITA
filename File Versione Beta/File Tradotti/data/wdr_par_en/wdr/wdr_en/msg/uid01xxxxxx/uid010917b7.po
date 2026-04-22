@@ -26,7 +26,7 @@ msgstr "Giocatore"
 
 msgctxt "2708"
 msgid "Repair the Hut"
-msgstr "Ripara la Capanna"
+msgstr "Ripara la capanna"
 
 msgctxt "2712"
 msgid "Not Now"
@@ -46,7 +46,7 @@ msgstr "Hai trovato una capanna da caccia."
 
 msgctxt "200_Player"
 msgid "(Okudera-han's with me. Repairin' the hut's gotta wait.)"
-msgstr "Okudera-han è con me. Riparare la capanna deve aspettare."
+msgstr "(Okudera-han è con me. Riparare la capanna dovrà aspettare.)"
 
 msgctxt "224_Hunting Hut Found"
 msgid "You found a hunting hut."
@@ -66,11 +66,11 @@ msgstr "(Bene. Così dovrebbe andare.)"
 
 msgctxt "356_Player"
 msgid "(Ain't got a hut repair kit.)"
-msgstr "(Non c'ho un kit per riparare la capanna.)"
+msgstr "(Non c'ho un kit di riparazione capanna.)"
 
 msgctxt "368_Player"
 msgid "(Not right now.)"
-msgstr "(Non ora.)"
+msgstr "(Non adesso.)"
 
 msgctxt "380_Reload"
 msgid "Your ammunition was restocked."

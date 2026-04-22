@@ -70,11 +70,11 @@ msgstr "(Cosa bere?)"
 
 msgctxt "140_Haruka"
 msgid "(Let's see, what should I drink?)"
-msgstr "(Vediamo, cosa bere?)"
+msgstr "(Vediamo, cosa prendo da bere?)"
 
 msgctxt "176_Kiryu"
 msgid "(What should I order for food?)"
-msgstr "(Cosa mangiare?)"
+msgstr "(Cosa prendo da mangiare?)"
 
 msgctxt "188_Akiyama"
 msgid "(Now, what do I feel like eating?)"
@@ -82,7 +82,7 @@ msgstr "(Allora, cosa mi va di mangiare?)"
 
 msgctxt "200_Saejima"
 msgid "(What to eat?)"
-msgstr "(Cosa mangiare?)"
+msgstr "(Cosa prendo da mangiare?)"
 
 msgctxt "212_Shinada"
 msgid "(What do I feel like eating?)"
@@ -114,11 +114,11 @@ msgstr "(Non ho ancora fame.)"
 
 msgctxt "368_Player"
 msgid "(I'm full now.)"
-msgstr "(Non ho più fame, ora.)"
+msgstr "(Sono pieno, ora.)"
 
 msgctxt "392_Player"
 msgid "Sorry. Something came up."
-msgstr "Scusa. Mi è saltato fuori qualcosa."
+msgstr "Scusa. Ho avuto un imprevisto."
 
 msgctxt "404_Player"
 msgid "Excuse me. I've got an urgent errand."

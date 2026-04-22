@@ -49,12 +49,12 @@ msgid ""
 "Here you can save your game, move items to the Item Box, and view your play "
 "stats."
 msgstr ""
-"Qui puoi salvare la partita, spostare oggetti nella Cassetta Oggetti, e "
+"Qui puoi salvare la partita, spostare oggetti nella Cassa oggetti e "
 "visualizzare le tue statistiche di gioco."
 
 msgctxt "100_Player"
 msgid "Furthermore, your health will recover while at a hideout."
-msgstr "Inoltre, la tua salute si riprenderà al covo."
+msgstr "Inoltre, la tua salute si rigenererà mentre ti trovi nel covo."
 
 msgctxt "124_Kiryu"
 msgid "(A package arrived.)"
@@ -66,11 +66,11 @@ msgstr "(Sembra che mi sia arrivato un pacco.)"
 
 msgctxt "148_Saejima"
 msgid "(Got a package delivered.)"
-msgstr "(È arrivato un pacco.)"
+msgstr "(Mi hanno consegnato un pacco.)"
 
 msgctxt "160_Shinada"
 msgid "(Hey, I got a package!)"
-msgstr "(Hey, mi è arrivato un pacco!)"
+msgstr "(Ehi, mi è arrivato un pacco!)"
 
 msgctxt "172_Haruka"
 msgid "(A package arrived.)"
