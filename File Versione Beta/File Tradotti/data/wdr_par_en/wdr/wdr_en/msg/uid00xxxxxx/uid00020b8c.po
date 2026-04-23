@@ -94,15 +94,15 @@ msgstr "adv5_205_1/akiyama_5_205_100"
 
 msgctxt "156_Akiyama"
 msgid "%s-san. You good and ready?"
-msgstr "%s-san. Sei a posto e pronto?"
+msgstr "%s-san. Tutto pronto?"
 
 msgctxt "168_Akiyama"
 msgid "%s-san. Finished getting ready?"
-msgstr "%s-san. Hai finito di prepararti?"
+msgstr "%s-san. Hai finito con i preparativi?"
 
 msgctxt "180_Akiyama"
 msgid "Finished getting ready?"
-msgstr "Hai finito di prepararti?"
+msgstr "Hai finito con i preparativi?"
 
 msgctxt "192_Player"
 msgid "No, I still have things to take care of."
@@ -110,7 +110,7 @@ msgstr "No, ho ancora delle cose da sbrigare."
 
 msgctxt "204_Akiyama"
 msgid "All right. Let me know when you're done."
-msgstr "Ok. Fammi sapere quando hai finito."
+msgstr "D'accordo. Fammi sapere quando hai finito."
 
 msgctxt "216_Player"
 msgid "No, still gotta tie up of a few loose ends."
@@ -118,15 +118,15 @@ msgstr "No, devo ancora sistemare un paio di faccende in sospeso."
 
 msgctxt "228_Akiyama"
 msgid "All right. Let me know when you're done."
-msgstr "Ok. Fammi sapere quando hai finito."
+msgstr "D'accordo. Fammi sapere quando hai finito."
 
 msgctxt "240_Player"
 msgid "Nope, still got some stuff I need to do."
-msgstr "Na, c'ho ancora un po' di roba da sbrigare."
+msgstr "Nah, ho ancora un po' di roba da sbrigare."
 
 msgctxt "252_Akiyama"
 msgid "All right. Say the word when you're done."
-msgstr "Va bene. Quando hai fatto, dimmi pure."
+msgstr "Va bene. Fammi un fischio quando hai finito."
 
 msgctxt "276_Player"
 msgid "Yeah."
@@ -134,7 +134,7 @@ msgstr "Sì."
 
 msgctxt "288_Akiyama"
 msgid "Okay, it's almost time."
-msgstr "Ok, è quasi ora."
+msgstr "Va bene, è quasi ora."
 
 msgctxt "300_Player"
 msgid "Yeah."
@@ -142,7 +142,7 @@ msgstr "Sì."
 
 msgctxt "312_Akiyama"
 msgid "Okay, it's almost time."
-msgstr "Ok, è quasi ora."
+msgstr "Va bene, è quasi ora."
 
 msgctxt "324_Player"
 msgid "Yes!"
