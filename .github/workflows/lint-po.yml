@@ -1,0 +1,27 @@
+name: Lint PO Files (Yakuza 5 ITA)
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+    types: [opened, synchronize, reopened]
+jobs:
+  check-syntax:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Gettext
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y gettext
+
+      - name: Verify PO Files Syntax
+        run: |
+          BASE_PATH="File Versione Beta/File Tradotti/data"
+          echo "Avvio controllo dei file .po in: $BASE_PATH"
+          
+          # Il comando trova i file e interrompe il workflow se msgfmt trova errori
+          find "$BASE_PATH" -name "*.po" -print0 | xargs -0 -I {} msgfmt -c -v -o /dev/null "{}"
