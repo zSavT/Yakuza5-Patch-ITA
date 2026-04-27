@@ -1,27 +1,35 @@
-name: Lint PO Files (Yakuza 5 ITA)
+name: Check PO Structure
 
 on:
   push:
     branches: [ main ]
+    paths:
+      - 'File Versione Beta/File Tradotti/data/**'
   pull_request:
     branches: [ main ]
-    types: [opened, synchronize, reopened]
+    paths:
+      - 'File Versione Beta/File Tradotti/data/**'
+
 jobs:
-  check-syntax:
+  validate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Install Gettext
+      - name: Install gettext
         run: |
           sudo apt-get update
           sudo apt-get install -y gettext
 
-      - name: Verify PO Files Syntax
+      - name: Validate PO Syntax
         run: |
-          BASE_PATH="File Versione Beta/File Tradotti/data"
-          echo "Avvio controllo dei file .po in: $BASE_PATH"
-          
-          # Il comando trova i file e interrompe il workflow se msgfmt trova errori
-          find "$BASE_PATH" -name "*.po" -print0 | xargs -0 -I {} msgfmt -c -v -o /dev/null "{}"
+          TARGET_DIR="File Versione Beta/File Tradotti/data"
+          find "$TARGET_DIR" -name "*.po" -print0 | xargs -0 -I {} sh -c '
+            OUTPUT=$(msgfmt -c -o /dev/null "{}" 2>&1)
+            STATUS=$?
+            if [ $STATUS -ne 0 ]; then
+              echo "❌ ERRORE CRITICO: {}"
+              echo "$OUTPUT" | grep -v "warning:"
+              exit 1
+            fi
+          '
