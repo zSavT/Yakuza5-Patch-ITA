@@ -22,7 +22,7 @@ msgstr "Talk_Ojigi"
 
 msgctxt "1084"
 msgid "Young Salesman"
-msgstr "Giovane Venditore"
+msgstr "Giovane rappresentante"
 
 msgctxt "1088"
 msgid "Talk_Gakkari"
@@ -38,7 +38,7 @@ msgstr "0"
 
 msgctxt "44_Kiryu"
 msgid "I'm here from Nagasu Taxi. You called?"
-msgstr "Sono della Nagasu Taxi. Ha chiamato?"
+msgstr "Sono della Nagasu Taxi. Ha chiamato lei?"
 
 msgctxt "56_Kiryu"
 msgid ""
@@ -49,8 +49,8 @@ msgstr ""
 
 msgctxt "68_Young Salesman"
 msgid "Yeah, I need to go to <Color:22>Chikuzengawa Street<Color:Default>."
-msgstr "Sì, devo andare a <Color:22>Chikuzengawa Street<Color:Default>."
+msgstr "Sì, devo andare in <Color:22>Chikuzengawa Street<Color:Default>."
 
 msgctxt "80_Kiryu"
 msgid "Then let's be on our way."
-msgstr "Allora, si parte."
+msgstr "D'accordo, andiamo."

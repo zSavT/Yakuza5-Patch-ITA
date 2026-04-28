@@ -14,7 +14,7 @@ msgstr ""
 
 msgctxt "92"
 msgid "You got <Color:8>5,000 yen<Color:Default>."
-msgstr "Hai ottenuto <Color:8>5,000 yen<Color:Default>."
+msgstr "Hai ottenuto <Color:8>5.000 yen<Color:Default>."
 
 msgctxt "308"
 msgid "You got 400 experience points."
@@ -22,7 +22,7 @@ msgstr "Hai ottenuto 400 punti esperienza."
 
 msgctxt "4128"
 msgid "Young Salesman"
-msgstr "Giovane Venditore"
+msgstr "Giovane rappresentante"
 
 msgctxt "4132"
 msgid "Talk_Ojigi"
@@ -62,11 +62,11 @@ msgstr "Ehi, grazie per il passaggio! Sono pronto a riprovarci!"
 
 msgctxt "68_Kiryu"
 msgid "(Good to see that he's cheered up.)"
-msgstr "(Fa piacere vederlo tirato su.)"
+msgstr "(Fa piacere vedere che si è tirato su di morale.)"
 
 msgctxt "80_Young Salesman"
 msgid "Here's the fare. Let me add a little something on top!"
-msgstr "Ecco la tariffa. Ti metto su qualcosina in più!"
+msgstr "Ecco i soldi della corsa. Ci aggiungo un piccolo extra!"
 
 msgctxt "116_Young Salesman"
 msgid "Thank you."
@@ -82,11 +82,11 @@ msgstr "Ehi, grazie per il passaggio! Sono pronto a riprovarci!"
 
 msgctxt "152_Kiryu"
 msgid "(Good to see that he's cheered up.)"
-msgstr "(Fa piacere vederlo tirato su.)"
+msgstr "(Fa piacere vedere che si è tirato su di morale.)"
 
 msgctxt "164_Young Salesman"
 msgid "Here's the fare."
-msgstr "Ecco la tariffa."
+msgstr "Ecco i soldi della corsa."
 
 msgctxt "188_Young Salesman"
 msgid "Thank you."
@@ -98,11 +98,11 @@ msgstr "Mi sa che mi darò da fare, eh?"
 
 msgctxt "212_Young Salesman"
 msgid "Thanks for the ride... Oh, right, the fare."
-msgstr "Grazie per il passaggio... Ah, giusto, la tariffa."
+msgstr "Grazie per il passaggio... Ah, giusto, i soldi della corsa."
 
 msgctxt "224_Kiryu"
 msgid "(He looks even gloomier now.)"
-msgstr "(Sembra ancora più mogio.)"
+msgstr "(Sembra ancora più giù di morale ora.)"
 
 msgctxt "248_Young Salesman"
 msgid "Thank you."
