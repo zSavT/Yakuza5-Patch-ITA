@@ -35,7 +35,7 @@ jobs:
             relative_path="${original_file#"$ORIGINAL_DIR"/}"
             translated_file="$TRANSLATED_DIR/$relative_path"
 
-            echo "🔍 Checking: $relative_path"
+            
 
             if [[ ! -f "$translated_file" ]]; then
               echo "❌ File mancante: $translated_file"
