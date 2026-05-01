@@ -1,0 +1,57 @@
+name: Check PO consistency
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  check-po:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check msgctxt consistency
+        run: |
+          ORIGINAL_DIR="File Versione Beta/File Originali"
+          TRANSLATED_DIR="File Versione Beta/File Tradotti"
+
+          error_found=0
+
+          find "$ORIGINAL_DIR" -name "*.po" | while read -r original_file; do
+            relative_path="${original_file#$ORIGINAL_DIR/}"
+            translated_file="$TRANSLATED_DIR/$relative_path"
+
+            echo "🔍 Checking: $relative_path"
+
+            if [ ! -f "$translated_file" ]; then
+              echo "❌ File mancante: $translated_file"
+              error_found=1
+              continue
+            fi
+
+            # Estrai SOLO il contenuto tra virgolette
+            original_ctx=$(grep '^msgctxt' "$original_file" | sed -E 's/^msgctxt "(.*)"$/\1/')
+            translated_ctx=$(grep '^msgctxt' "$translated_file" | sed -E 's/^msgctxt "(.*)"$/\1/')
+
+            # Salva in file temporanei per confronto robusto
+            echo "$original_ctx" | sort -u > original_ctx.txt
+            echo "$translated_ctx" | sort -u > translated_ctx.txt
+
+            # Confronto
+            while IFS= read -r ctx; do
+              grep -Fxq "$ctx" translated_ctx.txt || {
+                echo "❌ Mancante in $relative_path:"
+                echo "   msgctxt \"$ctx\""
+                error_found=1
+              }
+            done < original_ctx.txt
+
+          done
+
+          if [ $error_found -ne 0 ]; then
+            echo "❌ Controllo fallito"
+            exit 1
+          else
+            echo "✅ Tutti i msgctxt sono presenti"
+          fi
