@@ -1,0 +1,69 @@
+name: PO Files Consistency Check
+
+# Scegli quando far partire l'azione (es. ad ogni push o pull request)
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  check-po-files:
+    runs-on: ubuntu-latest
+    steps:
+      # Fondamentale: scarica il codice del repository nella macchina virtuale
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Qui incolli lo script che abbiamo visto prima
+      - name: Check msgctxt consistency
+        shell: bash
+        run: |
+          set -eu
+
+          ORIGINAL_DIR="File Versione Beta/File Originali"
+          TRANSLATED_DIR="File Versione Beta/File Tradotti"
+          error_found=0
+
+          # Verifica che le directory esistano prima di iniziare
+          if [ ! -d "$ORIGINAL_DIR" ] || [ ! -d "$TRANSLATED_DIR" ]; then
+            echo "❌ Una delle cartelle non esiste. Controlla i percorsi!"
+            exit 1
+          fi
+
+          while IFS= read -r -d '' original_file; do
+            relative_path="${original_file#"$ORIGINAL_DIR"/}"
+            translated_file="$TRANSLATED_DIR/$relative_path"
+
+            echo "🔍 Checking: $relative_path"
+
+            if [[ ! -f "$translated_file" ]]; then
+              echo "❌ File mancante: $translated_file"
+              error_found=1
+              continue
+            fi
+
+            original_tmp=$(mktemp)
+            translated_tmp=$(mktemp)
+
+            grep '^msgctxt "' "$original_file" | sort -u > "$original_tmp"
+            grep '^msgctxt "' "$translated_file" | sort -u > "$translated_tmp"
+
+            missing_contexts=$(comm -23 "$original_tmp" "$translated_tmp")
+
+            if [[ -n "$missing_contexts" ]]; then
+              echo "❌ Mancanti in $relative_path:"
+              echo "$missing_contexts" | sed 's/^/   /'
+              error_found=1
+            fi
+
+            rm -f "$original_tmp" "$translated_tmp"
+
+          done < <(find "$ORIGINAL_DIR" -type f -name "*.po" -print0)
+
+          if [[ $error_found -ne 0 ]]; then
+            echo "❌ Controllo fallito: discrepanza nei msgctxt"
+            exit 1
+          else
+            echo "✅ Tutti i msgctxt sono coerenti"
+          fi
