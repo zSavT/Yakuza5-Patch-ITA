@@ -1,57 +1,49 @@
-name: Check PO consistency
+- name: Check msgctxt consistency
+  shell: bash
+  run: |
+    set -eu
 
-on:
-  push:
-  pull_request:
+    ORIGINAL_DIR="File Versione Beta/File Originali"
+    TRANSLATED_DIR="File Versione Beta/File Tradotti"
+    error_found=0
 
-jobs:
-  check-po:
-    runs-on: ubuntu-latest
+    # Trova i file .po
+    while IFS= read -r -d '' original_file; do
+      relative_path="${original_file#"$ORIGINAL_DIR"/}"
+      translated_file="$TRANSLATED_DIR/$relative_path"
 
-    steps:
-      - uses: actions/checkout@v4
+      echo "🔍 Checking: $relative_path"
 
-      - name: Check msgctxt consistency
-        run: |
-          ORIGINAL_DIR="File Versione Beta/File Originali"
-          TRANSLATED_DIR="File Versione Beta/File Tradotti"
+      if [[ ! -f "$translated_file" ]]; then
+        echo "❌ File mancante: $translated_file"
+        error_found=1
+        continue
+      fi
 
-          error_found=0
+      original_tmp=$(mktemp)
+      translated_tmp=$(mktemp)
 
-          find "$ORIGINAL_DIR" -name "*.po" | while read -r original_file; do
-            relative_path="${original_file#$ORIGINAL_DIR/}"
-            translated_file="$TRANSLATED_DIR/$relative_path"
 
-            echo "🔍 Checking: $relative_path"
+      grep '^msgctxt "' "$original_file" | sort -u > "$original_tmp"
+      grep '^msgctxt "' "$translated_file" | sort -u > "$translated_tmp"
 
-            if [ ! -f "$translated_file" ]; then
-              echo "❌ File mancante: $translated_file"
-              error_found=1
-              continue
-            fi
+      # 'comm -23' restituisce le righe presenti nel primo file ma non nel secondo
+      # È MOLTO più veloce di un ciclo while con grep interno
+      missing_contexts=$(comm -23 "$original_tmp" "$translated_tmp")
 
-            # Estrai SOLO il contenuto tra virgolette
-            original_ctx=$(grep '^msgctxt' "$original_file" | sed -E 's/^msgctxt "(.*)"$/\1/')
-            translated_ctx=$(grep '^msgctxt' "$translated_file" | sed -E 's/^msgctxt "(.*)"$/\1/')
+      if [[ -n "$missing_contexts" ]]; then
+        echo "❌ Mancanti in $relative_path:"
+        echo "$missing_contexts" | sed 's/^/   /'
+        error_found=1
+      fi
 
-            # Salva in file temporanei per confronto robusto
-            echo "$original_ctx" | sort -u > original_ctx.txt
-            echo "$translated_ctx" | sort -u > translated_ctx.txt
+      rm -f "$original_tmp" "$translated_tmp"
 
-            # Confronto
-            while IFS= read -r ctx; do
-              grep -Fxq "$ctx" translated_ctx.txt || {
-                echo "❌ Mancante in $relative_path:"
-                echo "   msgctxt \"$ctx\""
-                error_found=1
-              }
-            done < original_ctx.txt
+    done < <(find "$ORIGINAL_DIR" -type f -name "*.po" -print0)
 
-          done
-
-          if [ $error_found -ne 0 ]; then
-            echo "❌ Controllo fallito"
-            exit 1
-          else
-            echo "✅ Tutti i msgctxt sono presenti"
-          fi
+    if [[ $error_found -ne 0 ]]; then
+      echo "❌ Controllo fallito: discrepanza nei msgctxt"
+      exit 1
+    else
+      echo "✅ Tutti i msgctxt sono coerenti"
+    fi
