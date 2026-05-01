@@ -22,7 +22,7 @@ jobs:
           set -eu
 
           ORIGINAL_DIR="File Versione Beta/File Originali"
-          TRANSLATED_DIR="File Versione Beta/File Tradotti"
+          TRANSLATED_DIR="File Versione Beta/File Tradotti/data"
           error_found=0
 
           # Verifica che le directory esistano prima di iniziare
