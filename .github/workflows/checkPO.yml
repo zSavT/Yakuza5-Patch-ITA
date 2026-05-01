@@ -1,4 +1,4 @@
-name: PO Files Consistency Check
+name: Confronto file PO originali e tradotti (msgctxt)
 
 # Scegli quando far partire l'azione (es. ad ogni push o pull request)
 on:
