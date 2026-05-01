@@ -55,7 +55,7 @@ msgstr "Pti."
 
 msgctxt "39543"
 msgid "Your Points"
-msgstr "I Tuoi Punti"
+msgstr "I tuoi punti"
 
 msgctxt "39555"
 msgid "Your Tags"
@@ -1434,15 +1434,15 @@ msgstr "Esci"
 
 msgctxt "45984"
 msgid "Swap Ammo"
-msgstr "Cambia Munizioni"
+msgstr "Cambia munizioni"
 
 msgctxt "45994"
 msgid "Select Ball"
-msgstr "Seleziona Palla"
+msgstr "Seleziona palla"
 
 msgctxt "46006"
 msgid "Fastball"
-msgstr "Palla Veloce"
+msgstr "Palla veloce"
 
 msgctxt "46015"
 msgid "Forkball"
@@ -1454,11 +1454,11 @@ msgstr "Sinker"
 
 msgctxt "46031"
 msgid "Curveball"
-msgstr "Palla Curva"
+msgstr "Palla curva"
 
 msgctxt "46041"
 msgid "Select Ball"
-msgstr "Seleziona Palla"
+msgstr "Seleziona palla"
 
 msgctxt "46053"
 msgid "Charge"
@@ -1470,11 +1470,11 @@ msgstr "Scatena"
 
 msgctxt "46068"
 msgid "Stack Up Cargo"
-msgstr "Impila Carico"
+msgstr "Impila carico"
 
 msgctxt "46083"
 msgid "Put Down Cargo"
-msgstr "Metti Giù Carico"
+msgstr "Metti giù carico"
 
 msgctxt "46098"
 msgid "Forward"
@@ -1506,7 +1506,7 @@ msgstr "Lanciafiamme"
 
 msgctxt "46155"
 msgid "Forklift"
-msgstr "Carrello Elevatore"
+msgstr "Carrello elevatore"
 
 msgctxt "46164"
 msgid "Mortar"
@@ -1514,19 +1514,19 @@ msgstr "Mortaio"
 
 msgctxt "46171"
 msgid "Pitching Machine"
-msgstr "Macchina Lanciapalle"
+msgstr "Macchina lanciapalle"
 
 msgctxt "46188"
 msgid "Railgun"
-msgstr "Cannone a Rotaia"
+msgstr "Cannone a rotaia"
 
 msgctxt "46196"
 msgid "Tank"
-msgstr "Carro Armato"
+msgstr "Carro armato"
 
 msgctxt "46201"
 msgid "Armored Car"
-msgstr "Auto Blindata"
+msgstr "Auto blindata"
 
 msgctxt "46213"
 msgid "Fire Extinguisher"
@@ -1534,23 +1534,23 @@ msgstr "Estintore"
 
 msgctxt "46231"
 msgid "Anti-tank Cannon"
-msgstr "Cannone Anticarro"
+msgstr "Cannone anticarro"
 
 msgctxt "46248"
 msgid "Sniper Rifle"
-msgstr "Fucile da Cecchino"
+msgstr "Fucile da cecchino"
 
 msgctxt "46261"
 msgid "No Equipment"
-msgstr "Nessun Equipaggiamento"
+msgstr "Nessun equipaggiamento"
 
 msgctxt "46274"
 msgid "No Target Selected"
-msgstr "Nessun Bersaglio Selezionato"
+msgstr "Nessun bersaglio selezionato"
 
 msgctxt "46293"
 msgid "Ammo Reload Required"
-msgstr "Ricarica Munizioni Necessaria"
+msgstr "Ricarica munizioni necessaria"
 
 msgctxt "46314"
 msgid "Close"
@@ -1558,7 +1558,7 @@ msgstr "Chiudi"
 
 msgctxt "46320"
 msgid "Total Score"
-msgstr "Punteggio Totale"
+msgstr "Punteggio totale"
 
 msgctxt "46332"
 msgid "%3d：%02d：%02d"
@@ -1591,6 +1591,7 @@ msgstr "%d yen"
 msgctxt "46390"
 msgid "EXP Earned"
 msgstr "EXP Guadagnata"
+msgstr "EXP guadagnata"
 
 msgctxt "46401"
 msgid "Rank"
@@ -1830,7 +1831,7 @@ msgstr "Menu"
 
 msgctxt "48063"
 msgid "<Action:Button_Triangle@UI> Return to Title"
-msgstr "<Action:Button_Triangle@UI> Torna al Titolo"
+msgstr "<Action:Button_Triangle@UI> Torna al titolo"
 
 msgctxt "48107"
 msgid "<Action:Button_Triangle@UI> Quit"
@@ -1838,7 +1839,7 @@ msgstr "<Action:Button_Triangle@UI> Esci"
 
 msgctxt "48140"
 msgid "<Action:Button_Triangle@UI> Return to Game Select"
-msgstr "<Action:Button_Triangle@UI> Torna alla Selezione Partita"
+msgstr "<Action:Button_Triangle@UI> Torna alla selezione partita"
 
 msgctxt "48190"
 msgid "Save"
@@ -1858,7 +1859,7 @@ msgstr "Layout"
 
 msgctxt "48220"
 msgid "Change Clothes"
-msgstr "Cambia Vestiti"
+msgstr "Cambia vestiti"
 
 msgctxt "48235"
 msgid "Ranking"
@@ -1874,11 +1875,11 @@ msgstr "Oggetti"
 
 msgctxt "48253"
 msgid "Abandon the Mountain"
-msgstr "Abbandona la Montagna"
+msgstr "Abbandona la montagna"
 
 msgctxt "48274"
 msgid "Change Characters"
-msgstr "Cambia Personaggi"
+msgstr "Cambia personaggi"
 
 msgctxt "48292"
 msgid "Normal"
@@ -1958,11 +1959,11 @@ msgstr "In possesso di Shinada"
 
 msgctxt "48814"
 msgid "Normal Results"
-msgstr "Risultati Normali"
+msgstr "Risultati normali"
 
 msgctxt "48829"
 msgid "Total Kills"
-msgstr "Uccisioni Totali"
+msgstr "Uccisioni totali"
 
 msgctxt "48841"
 msgid "Please select a character."
@@ -8490,7 +8491,7 @@ msgstr "Usare questo oggetto?"
 
 msgctxt "84960"
 msgid "Your Points"
-msgstr "I Tuoi Punti"
+msgstr "I tuoi punti"
 
 msgctxt "84972"
 msgid "Bet"
@@ -11612,7 +11613,7 @@ msgstr "Partita Divisa"
 
 msgctxt "100531"
 msgid "Balls Left"
-msgstr "Palle Rimaste"
+msgstr "Palle rimaste"
 
 msgctxt "100542"
 msgid "Hmph!/Hah!"
@@ -12044,7 +12045,7 @@ msgstr "Tanimura"
 
 msgctxt "102414"
 msgid "Simple Black"
-msgstr "Nero Semplice"
+msgstr "Nero semplice"
 
 msgctxt "102427"
 msgid "Hat Trick"
@@ -12056,11 +12057,11 @@ msgstr "Geos"
 
 msgctxt "102442"
 msgid "Simple Green"
-msgstr "Verde Semplice"
+msgstr "Verde semplice"
 
 msgctxt "102455"
 msgid "Speedy Billy"
-msgstr "Billy Veloce"
+msgstr "Billy veloce"
 
 msgctxt "102468"
 msgid "Jupiter"
@@ -12336,11 +12337,11 @@ msgstr ""
 
 msgctxt "104063"
 msgid "Dart Parts"
-msgstr "Parti della Freccetta"
+msgstr "Parti della freccetta"
 
 msgctxt "104074"
 msgid "Flight Parts"
-msgstr "Parti della Coda"
+msgstr "Parti della coda"
 
 msgctxt "104087"
 msgid "Save"
@@ -12764,23 +12765,23 @@ msgstr "Re del Ramen"
 
 msgctxt "107428"
 msgid "Top Tier Ramen Shop"
-msgstr "Ramen di Prima Categoria"
+msgstr "Ramen di prima categoria"
 
 msgctxt "107448"
 msgid "Secretly Popular Shop"
-msgstr "Locale Segretamente Popolare"
+msgstr "Locale segretto popolare"
 
 msgctxt "107470"
 msgid "So-so Ramen Shop"
-msgstr "Ramen Così-Così"
+msgstr "Ramen così-così"
 
 msgctxt "107487"
 msgid "Dingy Shop"
-msgstr "Locale Squallido"
+msgstr "Locale squallido"
 
 msgctxt "107498"
 msgid "Deserted Shop"
-msgstr "Locale Deserto"
+msgstr "Locale deserto"
 
 msgctxt "107512"
 msgid "Rank S"
@@ -12828,7 +12829,7 @@ msgstr "%d + %d = %d pti"
 
 msgctxt "107607"
 msgid "Ramen King Complete"
-msgstr "Re del Ramen Completato"
+msgstr "Re del Ramen completato"
 
 msgctxt "107627"
 msgid "Incomplete"
@@ -12844,11 +12845,11 @@ msgstr "Scambia"
 
 msgctxt "107669"
 msgid "Previous Page"
-msgstr "Pagina Precedente"
+msgstr "Pagina precedente"
 
 msgctxt "107683"
 msgid "Next Page"
-msgstr "Pagina Successiva"
+msgstr "Pagina successiva"
 
 msgctxt "107693"
 msgid "OK"
@@ -12884,11 +12885,11 @@ msgstr "Orata"
 
 msgctxt "107750"
 msgid "Devil Scorpionfish"
-msgstr "Scorfano Diavolo"
+msgstr "Scorfano diavolo"
 
 msgctxt "107769"
 msgid "Thread-sail Filefish"
-msgstr "Pesce Balestra Filamentoso"
+msgstr "Pesce balestra filamentoso"
 
 msgctxt "107790"
 msgid "Prawn"
@@ -12904,15 +12905,15 @@ msgstr "Ghiozzo"
 
 msgctxt "107805"
 msgid "Steel Drum"
-msgstr "Bidone di Metallo"
+msgstr "Bidone di metallo"
 
 msgctxt "107816"
 msgid "Treasure Chest"
-msgstr "Scrigno del Tesoro"
+msgstr "Scrigno del tesoro"
 
 msgctxt "107831"
 msgid "Great White Shark"
-msgstr "Squalo Bianco"
+msgstr "Squalo bianco"
 
 msgctxt "107849"
 msgid "Ito"
@@ -12920,11 +12921,11 @@ msgstr "Ito"
 
 msgctxt "107853"
 msgid "Giant Oarfish"
-msgstr "Pesce Remo Gigante"
+msgstr "Pesce remo gigante"
 
 msgctxt "107867"
 msgid "Giant Crab"
-msgstr "Granchio Gigante"
+msgstr "Granchio gigante"
 
 msgctxt "107878"
 msgid "Octopus"
@@ -12936,7 +12937,7 @@ msgstr "Ombrello"
 
 msgctxt "107895"
 msgid "Blowfish"
-msgstr "Pesce Palla"
+msgstr "Pesce palla"
 
 msgctxt "107904"
 msgid "Carp"
@@ -12952,7 +12953,7 @@ msgstr "Nishikigoi"
 
 msgctxt "107924"
 msgid "Ghost Koi"
-msgstr "Koi Fantasma"
+msgstr "Koi fantasma"
 
 msgctxt "107934"
 msgid "Goby"
@@ -12968,7 +12969,7 @@ msgstr "Black Bass"
 
 msgctxt "107958"
 msgid "Rainbow Trout"
-msgstr "Trota Arcobaleno"
+msgstr "Trota arcobaleno"
 
 msgctxt "107972"
 msgid "Salmon"
@@ -12980,7 +12981,7 @@ msgstr "Ito"
 
 msgctxt "107983"
 msgid "Pond Turtle"
-msgstr "Tartaruga di Stagno"
+msgstr "Tartaruga di stagno"
 
 msgctxt "107995"
 msgid "Umbrella"
@@ -12988,11 +12989,11 @@ msgstr "Ombrello"
 
 msgctxt "108004"
 msgid "Silver Arowana"
-msgstr "Arowana Argentata"
+msgstr "Arowana argentata"
 
 msgctxt "108019"
 msgid "Snakehead"
-msgstr "Testa di Serpente"
+msgstr "Testa di serpente"
 
 msgctxt "108029"
 msgid "Eek! Is someone peeping!?"
@@ -13316,7 +13317,7 @@ msgstr "Coperto"
 
 msgctxt "109969"
 msgid "Hostess Selection"
-msgstr "Scelta Hostess"
+msgstr "Scelta hostess"
 
 msgctxt "109987"
 msgid "Food/Drink"
@@ -13336,7 +13337,7 @@ msgstr "%s (scontato)"
 
 msgctxt "110035"
 msgid "Choose a Subject to Talk About"
-msgstr "Scegli un Argomento di cui Parlare"
+msgstr "Scegli un argomento di cui parlare"
 
 msgctxt "110066"
 msgid "Ask a Question"
@@ -13344,15 +13345,15 @@ msgstr "Fai una Domanda"
 
 msgctxt "110081"
 msgid "Make an Additional Order"
-msgstr "Fai un Ordine Aggiuntivo"
+msgstr "Fai un ordine aggiuntivo"
 
 msgctxt "110106"
 msgid "Give a Gift"
-msgstr "Dai un Regalo"
+msgstr "Dai un regalo"
 
 msgctxt "110118"
 msgid "Invite to a Date"
-msgstr "Invita a un Appuntamento"
+msgstr "Invita a un appuntamento"
 
 msgctxt "110135"
 msgid "Leave"
@@ -13376,11 +13377,11 @@ msgstr "Ombretto"
 
 msgctxt "110180"
 msgid "Glitter Eye Shadow"
-msgstr "Ombretto Brillante"
+msgstr "Ombretto brillante"
 
 msgctxt "110199"
 msgid "Color Contacts"
-msgstr "Lenti Colorate"
+msgstr "Lenti colorate"
 
 msgctxt "110214"
 msgid "Blush"
@@ -13388,7 +13389,7 @@ msgstr "Blush"
 
 msgctxt "110220"
 msgid "Glitter Blush"
-msgstr "Blush Brillante"
+msgstr "Blush brillante"
 
 msgctxt "110234"
 msgid "Lipstick"
@@ -13436,7 +13437,7 @@ msgstr "Colore E"
 
 msgctxt "110312"
 msgid "Casual Wear"
-msgstr "Abiti Casual"
+msgstr "Abiti casual"
 
 msgctxt "110324"
 msgid "None"
@@ -13448,7 +13449,7 @@ msgstr "Posseduto"
 
 msgctxt "110335"
 msgid "Default Hairstyle"
-msgstr "Acconciatura Predefinita"
+msgstr "Acconciatura predefinita"
 
 msgctxt "110353"
 msgid "Please choose clothes to replace casual wear."
@@ -13556,11 +13557,11 @@ msgstr "Appariscente"
 
 msgctxt "110813"
 msgid "Total Sales"
-msgstr "Vendite Totali"
+msgstr "Vendite totali"
 
 msgctxt "110825"
 msgid "Individual Sales"
-msgstr "Vendite Individuali"
+msgstr "Vendite individuali"
 
 msgctxt "110842"
 msgid "Requested"
@@ -13580,15 +13581,15 @@ msgstr "Profitto"
 
 msgctxt "110871"
 msgid "Remaining Balance"
-msgstr "Saldo Rimanente"
+msgstr "Saldo rimanente"
 
 msgctxt "110889"
 msgid "Wagered Chips:"
-msgstr "Gettoni Puntati:"
+msgstr "Gettoni puntati:"
 
 msgctxt "110904"
 msgid "Chips Left:"
-msgstr "Gettoni Rimasti:"
+msgstr "Gettoni rimasti:"
 
 msgctxt "110916"
 msgid "Place your bet. You can bet up to %s chips."
@@ -13720,7 +13721,7 @@ msgstr "Arrenditi"
 
 msgctxt "111773"
 msgid "Normal Rules"
-msgstr "Regole Normali"
+msgstr "Regole normali"
 
 msgctxt "111786"
 msgid "No 2/3/4 cards"
@@ -13736,19 +13737,19 @@ msgstr "Niente carte J/Q/K"
 
 msgctxt "111831"
 msgid "Low Stakes (10/100)"
-msgstr "Puntate Basse (10/100)"
+msgstr "Puntate basse (10/100)"
 
 msgctxt "111851"
 msgid "High Stakes (100/1000)"
-msgstr "Puntate Alte (100/1000)"
+msgstr "Puntate alte (100/1000)"
 
 msgctxt "111874"
 msgid "Play for High Stakes"
-msgstr "Gioca a Puntate Alte"
+msgstr "Gioca a puntate alte"
 
 msgctxt "111895"
 msgid "Continue Standard Game"
-msgstr "Continua Partita Standard"
+msgstr "Continua partita standard"
 
 msgctxt "111918"
 msgid "Quit"
@@ -13756,7 +13757,7 @@ msgstr "Esci"
 
 msgctxt "111923"
 msgid "Keep Playing"
-msgstr "Continua a Giocare"
+msgstr "Continua a giocare"
 
 msgctxt "111936"
 msgid "Quit"
@@ -13824,11 +13825,11 @@ msgstr "$50 / $100"
 
 msgctxt "112136"
 msgid "Basic Rules"
-msgstr "Regole Base"
+msgstr "Regole base"
 
 msgctxt "112148"
 msgid "Poker Hands"
-msgstr "Mani del Poker"
+msgstr "Mani del poker"
 
 msgctxt "112160"
 msgid "Close"
@@ -13848,7 +13849,7 @@ msgstr "Omaha"
 
 msgctxt "112196"
 msgid "Standard Game"
-msgstr "Partita Standard"
+msgstr "Partita standard"
 
 msgctxt "112210"
 msgid "Tutorial"
@@ -13872,11 +13873,11 @@ msgstr "Pareggio"
 
 msgctxt "112268"
 msgid "Banker Win"
-msgstr "Vince il Banco"
+msgstr "Vince il banco"
 
 msgctxt "112279"
 msgid "Player Win"
-msgstr "Vince il Giocatore"
+msgstr "Vince il giocatore"
 
 msgctxt "112290"
 msgid "Super 6"
@@ -13884,11 +13885,11 @@ msgstr "Super 6"
 
 msgctxt "112298"
 msgid "Banker Pair"
-msgstr "Coppia Banco"
+msgstr "Coppia banco"
 
 msgctxt "112310"
 msgid "Player Pair"
-msgstr "Coppia Giocatore"
+msgstr "Coppia giocatore"
 
 msgctxt "112322"
 msgid "Tie"
@@ -13908,11 +13909,11 @@ msgstr "Pareggio"
 
 msgctxt "112344"
 msgid "Banker Win"
-msgstr "Vince il Banco"
+msgstr "Vince il banco"
 
 msgctxt "112355"
 msgid "Player Win"
-msgstr "Vince il Giocatore"
+msgstr "Vince il giocatore"
 
 msgctxt "112366"
 msgid "Super 6"
@@ -13920,11 +13921,11 @@ msgstr "Super 6"
 
 msgctxt "112374"
 msgid "Banker Pair"
-msgstr "Coppia Banco"
+msgstr "Coppia banco"
 
 msgctxt "112386"
 msgid "Player Pair"
-msgstr "Coppia Giocatore"
+msgstr "Coppia giocatore"
 
 msgctxt "112398"
 msgid "dummy"
@@ -13964,7 +13965,7 @@ msgstr "Super 6"
 
 msgctxt "112465"
 msgid "Standard Game"
-msgstr "Partita Standard"
+msgstr "Partita standard"
 
 msgctxt "112479"
 msgid "Tutorial"
@@ -13976,27 +13977,27 @@ msgstr "?????"
 
 msgctxt "112494"
 msgid "Bun-chan the Java Sparrow (White)"
-msgstr "Bun-chan il Passero del Giava (Bianco)"
+msgstr "Bun-chan il passero del Giava (bianco)"
 
 msgctxt "112528"
 msgid "Bun-chan the Java Sparrow (Pink)"
-msgstr "Bun-chan il Passero del Giava (Rosa)"
+msgstr "Bun-chan il passero del Giava (rosa)"
 
 msgctxt "112561"
 msgid "Jumbo Bun-chan"
-msgstr "Bun-chan Gigante"
+msgstr "Bun-chan gigante"
 
 msgctxt "112576"
 msgid "Chestnut the Squirrel (Blue)"
-msgstr "Chestnut lo Scoiattolo (Blu)"
+msgstr "Chestnut lo scoiattolo (blu)"
 
 msgctxt "112605"
 msgid "Chestnut the Squirrel (Red)"
-msgstr "Chestnut lo Scoiattolo (Rosso)"
+msgstr "Chestnut lo scoiattolo (rosso)"
 
 msgctxt "112633"
 msgid "Jumbo Chestnut"
-msgstr "Chestnut Gigante"
+msgstr "Chestnut gigante"
 
 msgctxt "112648"
 msgid "Opa-Opa Figure"
@@ -14056,11 +14057,11 @@ msgstr "Baby"
 
 msgctxt "112826"
 msgid "Cutie Girl Figure"
-msgstr "Figura Ragazza Carina"
+msgstr "Figura ragazza carina"
 
 msgctxt "112844"
 msgid "Pretty Girl Figure"
-msgstr "Figura Ragazza Graziosa"
+msgstr "Figura ragazza graziosa"
 
 msgctxt "112863"
 msgid "SR Love Shine Figure"
@@ -14084,31 +14085,31 @@ msgstr "Figura Ulala"
 
 msgctxt "112953"
 msgid "Morolian Figure (Pink)"
-msgstr "Figura Morolian (Rosa)"
+msgstr "Figura Morolian (rosa)"
 
 msgctxt "112976"
 msgid "Morolian Figure (Purple)"
-msgstr "Figura Morolian (Viola)"
+msgstr "Figura Morolian (viola)"
 
 msgctxt "113001"
 msgid "Morolian Figure (Yellow)"
-msgstr "Figura Morolian (Gialla)"
+msgstr "Figura Morolian (gialla)"
 
 msgctxt "113026"
 msgid "Morolian Figure (Red)"
-msgstr "Figura Morolian (Rossa)"
+msgstr "Figura Morolian (rossa)"
 
 msgctxt "113048"
 msgid "Morolian Figure (Blue)"
-msgstr "Figura Morolian (Blu)"
+msgstr "Figura Morolian (blu)"
 
 msgctxt "113071"
 msgid "Morolian Figure (Green)"
-msgstr "Figura Morolian (Verde)"
+msgstr "Figura Morolian (verde)"
 
 msgctxt "113095"
 msgid "Dragon Figure"
-msgstr "Figura Drago"
+msgstr "Figura drago"
 
 msgctxt "113109"
 msgid "Cutie Girl NEO"
@@ -14164,7 +14165,7 @@ msgstr ""
 
 msgctxt "113289"
 msgid "Start Game / Insert Coin "
-msgstr "Avvia Gioco / Inserisci Moneta "
+msgstr "Avvia gioco / Inserisci moneta "
 
 msgctxt "113315"
 msgid "Pause / Quit"
@@ -14176,7 +14177,7 @@ msgstr "Input Leva"
 
 msgctxt "113340"
 msgid "Lever Input"
-msgstr "Input Leva"
+msgstr "Input leva"
 
 msgctxt "113352"
 msgid "<Action:Button_L1><Action:Button_R1> Switch"
@@ -14196,11 +14197,11 @@ msgstr "<Action:Button_Circle> Indietro  "
 
 msgctxt "113482"
 msgid "<Sign:24> Zoom In  "
-msgstr "<Sign:24> Zoom Avanti  "
+msgstr "<Sign:24> Zoom avanti  "
 
 msgctxt "113502"
 msgid "<Sign:24> Zoom Out  "
-msgstr "<Sign:24> Zoom Indietro  "
+msgstr "<Sign:24> Zoom indietro  "
 
 msgctxt "113523"
 msgid "<Action:Button_Circle> Back  "
@@ -14208,11 +14209,11 @@ msgstr "<Action:Button_Circle> Indietro  "
 
 msgctxt "113553"
 msgid "<Action:Button_Square> Background Off "
-msgstr "<Action:Button_Square> Sfondo Off "
+msgstr "<Action:Button_Square> Sfondo off "
 
 msgctxt "113592"
 msgid "<Action:Button_Square> Background On "
-msgstr "<Action:Button_Square> Sfondo On "
+msgstr "<Action:Button_Square> Sfondo on "
 
 msgctxt "113630"
 msgid "P1"
@@ -14836,15 +14837,15 @@ msgstr "Narcissus"
 
 msgctxt "117698"
 msgid "Wind Cup"
-msgstr "Coppa del Vento"
+msgstr "Coppa del vento"
 
 msgctxt "117707"
 msgid "Novice Cup"
-msgstr "Coppa Novizi"
+msgstr "Coppa novizi"
 
 msgctxt "117718"
 msgid "Chicken Cup"
-msgstr "Coppa dei Polli"
+msgstr "Coppa dei polli"
 
 msgctxt "117730"
 msgid "Drake Cup"
@@ -14852,7 +14853,7 @@ msgstr "Coppa Drake"
 
 msgctxt "117740"
 msgid "Dawn Cup"
-msgstr "Coppa dell'Alba"
+msgstr "Coppa dell'alba"
 
 msgctxt "117749"
 msgid "Kamikaze Cup"
@@ -14860,15 +14861,15 @@ msgstr "Coppa Kamikaze"
 
 msgctxt "117762"
 msgid "Rising Cup"
-msgstr "Coppa Ascendente"
+msgstr "Coppa ascendente"
 
 msgctxt "117773"
 msgid "Silver Cup"
-msgstr "Coppa d'Argento"
+msgstr "Coppa d'argento"
 
 msgctxt "117784"
 msgid "Crystal Cup"
-msgstr "Coppa di Cristallo"
+msgstr "Coppa di cristallo"
 
 msgctxt "117796"
 msgid "Shigure Cup"
@@ -14876,35 +14877,35 @@ msgstr "Coppa Shigure"
 
 msgctxt "117808"
 msgid "Tortoise Cup"
-msgstr "Coppa della Tartaruga"
+msgstr "Coppa della tartaruga"
 
 msgctxt "117821"
 msgid "Phoenix Cup"
-msgstr "Coppa della Fenice"
+msgstr "Coppa della fenice"
 
 msgctxt "117833"
 msgid "Tiger Cup"
-msgstr "Coppa della Tigre"
+msgstr "Coppa della tigre"
 
 msgctxt "117843"
 msgid "Dragon Cup"
-msgstr "Coppa del Drago"
+msgstr "Coppa del drago"
 
 msgctxt "117854"
 msgid "Adamant Cup"
-msgstr "Coppa Adamantina"
+msgstr "Coppa adamantina"
 
 msgctxt "117866"
 msgid "King Cup"
-msgstr "Coppa del Re"
+msgstr "Coppa del re"
 
 msgctxt "117875"
 msgid "Storm Cup"
-msgstr "Coppa della Tempesta"
+msgstr "Coppa della tempesta"
 
 msgctxt "117885"
 msgid "Black Cup"
-msgstr "Coppa Nera"
+msgstr "Coppa nera"
 
 msgctxt "117895"
 msgid "Skanda Cup"
@@ -15028,11 +15029,11 @@ msgstr "Tenacia"
 
 msgctxt "118135"
 msgid "Dirt Lover"
-msgstr "Amante della Terra"
+msgstr "Amante della terra"
 
 msgctxt "118146"
 msgid "Dark Lover"
-msgstr "Amante del Buio"
+msgstr "Amante del buio"
 
 msgctxt "118157"
 msgid "Starter"
@@ -15040,7 +15041,7 @@ msgstr "Partente"
 
 msgctxt "118165"
 msgid "Second Wind"
-msgstr "Secondo Fiato"
+msgstr "Secondo fiato"
 
 msgctxt "118177"
 msgid "Volatile"
@@ -15060,15 +15061,15 @@ msgstr "Codardo"
 
 msgctxt "118213"
 msgid "Dirt Hater"
-msgstr "Odia la Terra"
+msgstr "Odia la terra"
 
 msgctxt "118224"
 msgid "Dark Hater"
-msgstr "Odia il Buio"
+msgstr "Odia il buio"
 
 msgctxt "118235"
 msgid "Lash Hater"
-msgstr "Odia le Sferzate"
+msgstr "Odia le sferzate"
 
 msgctxt "118246"
 msgid "Depression"
@@ -15180,7 +15181,7 @@ msgstr "Impeccabile "
 
 msgctxt "118945"
 msgid "Godspeeder "
-msgstr "Velocista Divino "
+msgstr "Velocista divino "
 
 msgctxt "118957"
 msgid "Flash "
@@ -15196,23 +15197,23 @@ msgstr "Maratoneta "
 
 msgctxt "118984"
 msgid "Iron Heart "
-msgstr "Cuore di Ferro "
+msgstr "Cuore di ferro "
 
 msgctxt "118996"
 msgid "Power King "
-msgstr "Re della Potenza "
+msgstr "Re della potenza "
 
 msgctxt "119008"
 msgid "Dirt King "
-msgstr "Re della Terra "
+msgstr "Re della terra "
 
 msgctxt "119019"
 msgid "Dirt Champ "
-msgstr "Campione della Terra "
+msgstr "Campione della terra "
 
 msgctxt "119031"
 msgid "Dirt Ace "
-msgstr "Asso della Terra "
+msgstr "Asso della terra "
 
 msgctxt "119041"
 msgid "All-seeing "
@@ -15220,11 +15221,11 @@ msgstr "Onniveggente "
 
 msgctxt "119053"
 msgid "Mind's Eye "
-msgstr "Occhio della Mente "
+msgstr "Occhio della mente "
 
 msgctxt "119065"
 msgid "Dark Sight "
-msgstr "Vista Oscura "
+msgstr "Vista oscura "
 
 msgctxt "119077"
 msgid "Finagler "
@@ -15260,7 +15261,7 @@ msgstr "Combattente "
 
 msgctxt "119152"
 msgid "Rally King "
-msgstr "Re della Rimonta "
+msgstr "Re della rimonta "
 
 msgctxt "119164"
 msgid "Tragic "
@@ -16129,23 +16130,23 @@ msgstr "Doppio Nord"
 
 msgctxt "126484"
 msgid "White Dragon"
-msgstr "Drago Bianco"
+msgstr "Drago bianco"
 
 msgctxt "126497"
 msgid "Green Dragon"
-msgstr "Drago Verde"
+msgstr "Drago verde"
 
 msgctxt "126510"
 msgid "Red Dragon"
-msgstr "Drago Rosso"
+msgstr "Drago rosso"
 
 msgctxt "126521"
 msgid "All Simples"
-msgstr "Tutte Semplici"
+msgstr "Tutte semplici"
 
 msgctxt "126533"
 msgid "Identical Sequences"
-msgstr "Sequenze Identiche"
+msgstr "Sequenze identiche"
 
 msgctxt "126553"
 msgid "Riichi"
@@ -16157,63 +16158,63 @@ msgstr "Ippatsu"
 
 msgctxt "126568"
 msgid "Fully Concealed Hand"
-msgstr "Mano Completamente Chiusa"
+msgstr "Mano completamente chiusa"
 
 msgctxt "126589"
 msgid "Dead Wall Draw"
-msgstr "Pescata dal Muro Morto"
+msgstr "Pescata dal muro morto"
 
 msgctxt "126604"
 msgid "Last Tile Draw - Tsumo"
-msgstr "Ultima Tessera Pescata - Tsumo"
+msgstr "Ultima tessera pescata - Tsumo"
 
 msgctxt "126627"
 msgid "Last Tile Discard - Ron"
-msgstr "Ultima Tessera Scartata - Ron"
+msgstr "Ultima tessera scartata - Ron"
 
 msgctxt "126651"
 msgid "Mixed Outside Hand"
-msgstr "Mano Esterna Mista"
+msgstr "Mano esterna mista"
 
 msgctxt "126670"
 msgid "All Terminals and Honors"
-msgstr "Tutte Terminali e Onori"
+msgstr "Tutte terminali e onori"
 
 msgctxt "126695"
 msgid "Full Straight"
-msgstr "Scala Completa"
+msgstr "Scala completa"
 
 msgctxt "126709"
 msgid "All Triplet Hand"
-msgstr "Mano di Tutti Tris"
+msgstr "Mano di tutti tris"
 
 msgctxt "126726"
 msgid "Three Concealed Triplets"
-msgstr "Tre Tris Nascosti"
+msgstr "Tre tris nascosti"
 
 msgctxt "126751"
 msgid "Three Consecutive Pons"
-msgstr "Tre Pons Consecutivi"
+msgstr "Tre Pons consecutivi"
 
 msgctxt "126774"
 msgid "Three Quads"
-msgstr "Tre Quadruple"
+msgstr "Tre quadruple"
 
 msgctxt "126786"
 msgid "Seven Pairs"
-msgstr "Sette Coppie"
+msgstr "Sette coppie"
 
 msgctxt "126798"
 msgid "Three Color Straight"
-msgstr "Scala a Tre Semi"
+msgstr "Scala a tre semi"
 
 msgctxt "126819"
 msgid "Three Color Triplets"
-msgstr "Tris a Tre Semi"
+msgstr "Tris a tre semi"
 
 msgctxt "126840"
 msgid "Little Three Dragons"
-msgstr "Piccoli Tre Draghi"
+msgstr "Piccoli tre draghi"
 
 msgctxt "126861"
 msgid "Double Riichi"
@@ -16221,83 +16222,83 @@ msgstr "Doppio Riichi"
 
 msgctxt "126875"
 msgid "Pure Outside Hand"
-msgstr "Mano Esterna Pura"
+msgstr "Mano esterna pura"
 
 msgctxt "126893"
 msgid "Half Flush"
-msgstr "Mezzo Colore"
+msgstr "Mezzo colore"
 
 msgctxt "126904"
 msgid "Double Identical Sequences"
-msgstr "Doppie Sequenze Identiche"
+msgstr "Doppie sequenze identiche"
 
 msgctxt "126931"
 msgid "Full Flush"
-msgstr "Colore Puro"
+msgstr "Colore puro"
 
 msgctxt "126942"
 msgid "All Honors"
-msgstr "Tutti Onori"
+msgstr "Tutti onori"
 
 msgctxt "126953"
 msgid "All Green"
-msgstr "Tutto Verde"
+msgstr "Tutto verde"
 
 msgctxt "126963"
 msgid "Nine Gates"
-msgstr "Nove Cancelli"
+msgstr "Nove cancelli"
 
 msgctxt "126974"
 msgid "Pure Nine Gates"
-msgstr "Nove Cancelli Puri"
+msgstr "Nove cancelli puri"
 
 msgctxt "126990"
 msgid "Four Concealed Triplets"
-msgstr "Quattro Tris Nascosti"
+msgstr "Quattro tris nascosti"
 
 msgctxt "127014"
 msgid "Four Concealed Triplets w/ Single Wait"
-msgstr "Quattro Tris Nascosti con Attesa Singola"
+msgstr "Quattro tris nascosti con attesa singola"
 
 msgctxt "127053"
 msgid "Four Quads"
-msgstr "Quattro Quadruple"
+msgstr "Quattro quadruple"
 
 msgctxt "127064"
 msgid "Big Three Dragons"
-msgstr "Grandi Tre Draghi"
+msgstr "Grandi tre draghi"
 
 msgctxt "127082"
 msgid "Big Four Winds"
-msgstr "Grandi Quattro Venti"
+msgstr "Grandi quattro venti"
 
 msgctxt "127097"
 msgid "Little Four Winds"
-msgstr "Piccoli Quattro Venti"
+msgstr "Piccoli quattro venti"
 
 msgctxt "127115"
 msgid "All Terminals"
-msgstr "Tutte Terminali"
+msgstr "Tutte terminali"
 
 msgctxt "127129"
 msgid "Heavenly Hand"
-msgstr "Mano Celestiale"
+msgstr "Mano celestiale"
 
 msgctxt "127143"
 msgid "Earthly Hand"
-msgstr "Mano Terrena"
+msgstr "Mano terrena"
 
 msgctxt "127156"
 msgid "Thirteen Orphans"
-msgstr "Tredici Orfani"
+msgstr "Tredici orfani"
 
 msgctxt "127173"
 msgid "Pure Thirteen Orphans"
-msgstr "Tredici Orfani Puri"
+msgstr "Tredici orfani puri"
 
 msgctxt "127195"
 msgid "Broken Thirteen"
-msgstr "Tredici Incompleti"
+msgstr "Tredici incompleti"
 
 msgctxt "127211"
 msgid "Dora"
@@ -16305,19 +16306,19 @@ msgstr "Dora"
 
 msgctxt "127216"
 msgid "Blessing of Man"
-msgstr "Benedizione dell'Uomo"
+msgstr "Benedizione dell'uomo"
 
 msgctxt "127232"
 msgid "Robbing a Quad"
-msgstr "Rubare una Quadrupla"
+msgstr "Rubare una quadrupla"
 
 msgctxt "127247"
 msgid "Big Wheel"
-msgstr "Grande Ruota"
+msgstr "Grande ruota"
 
 msgctxt "127257"
 msgid "Terminal Discard"
-msgstr "Scarto Terminale"
+msgstr "Scarto terminale"
 
 msgctxt "127274"
 msgid "Victory"
@@ -19349,7 +19350,7 @@ msgstr "Sfida 10"
 
 msgctxt "142631"
 msgid "Final Challenge"
-msgstr "Sfida Finale"
+msgstr "Sfida finale"
 
 msgctxt "142647"
 msgid "Promote"
@@ -19357,11 +19358,11 @@ msgstr "Promuovi"
 
 msgctxt "142655"
 msgid "Don't Promote"
-msgstr "Non Promuovere"
+msgstr "Non promuovere"
 
 msgctxt "142669"
 msgid "Use a Take Back?"
-msgstr "Usare una Ripresa?"
+msgstr "Usare una ripresa?"
 
 msgctxt "142686"
 msgid "No"
@@ -19373,15 +19374,15 @@ msgstr "Sì"
 
 msgctxt "142693"
 msgid "Checkmate. Use a Take Back?"
-msgstr "Scacco matto. Usare una Ripresa?"
+msgstr "Scacco matto. Usare una ripresa?"
 
 msgctxt "142721"
 msgid "Move limit exceeded. Use a Take Back?"
-msgstr "Limite di mosse superato. Usare una Ripresa?"
+msgstr "Limite di mosse superato. Usare una ripresa?"
 
 msgctxt "142759"
 msgid "Use Super Take Back?"
-msgstr "Usare una Super Ripresa?"
+msgstr "Usare una super ripresa?"
 
 msgctxt "142780"
 msgid "Toss pieces to determine who goes first."
@@ -19485,15 +19486,15 @@ msgstr "Ugh... Hurgh..."
 
 msgctxt "143284"
 msgid "View Rules"
-msgstr "Visualizza Regole"
+msgstr "Visualizza regole"
 
 msgctxt "143295"
 msgid "Types of Pieces"
-msgstr "Tipi di Pezzi"
+msgstr "Tipi di pezzi"
 
 msgctxt "143311"
 msgid "Illegal Moves"
-msgstr "Mosse Illegali"
+msgstr "Mosse illegali"
 
 msgctxt "143325"
 msgid "Close"
@@ -19505,11 +19506,11 @@ msgstr "Ripresa"
 
 msgctxt "143341"
 msgid "Time Limit"
-msgstr "Limite di Tempo"
+msgstr "Limite di tempo"
 
 msgctxt "143352"
 msgid "Start Game"
-msgstr "Avvia Partita"
+msgstr "Avvia partita"
 
 msgctxt "143363"
 msgid "　　%s"
@@ -19529,7 +19530,7 @@ msgstr "Disattivato"
 
 msgctxt "143396"
 msgid "Moves Left: %d"
-msgstr "Mosse Rimaste: %d"
+msgstr "Mosse rimaste: %d"
 
 msgctxt "143411"
 msgid "Style"
@@ -19681,35 +19682,35 @@ msgstr ""
 
 msgctxt "143769"
 msgid "Fickle Beginner"
-msgstr "Principiante Incostante"
+msgstr "Principiante incostante"
 
 msgctxt "143785"
 msgid "Sloppy Offense"
-msgstr "Attacco Approssimativo"
+msgstr "Attacco approssimativo"
 
 msgctxt "143800"
 msgid "Slow Defense"
-msgstr "Difesa Lenta"
+msgstr "Difesa lenta"
 
 msgctxt "143813"
 msgid "Always on Offense"
-msgstr "Sempre in Attacco"
+msgstr "Sempre in attacco"
 
 msgctxt "143831"
 msgid "Balanced Strategy"
-msgstr "Strategia Bilanciata"
+msgstr "Strategia bilanciata"
 
 msgctxt "143849"
 msgid "Builds Defensive Wall"
-msgstr "Costruisce un Muro Difensivo"
+msgstr "Costruisce un muro difensivo"
 
 msgctxt "143871"
 msgid "Attacks down the Middle"
-msgstr "Attacca al Centro"
+msgstr "Attacca al centro"
 
 msgctxt "143895"
 msgid "Solid Defense"
-msgstr "Difesa Solida"
+msgstr "Difesa solida"
 
 msgctxt "143909"
 msgid "Adaptable"
@@ -19717,103 +19718,103 @@ msgstr "Adattabile"
 
 msgctxt "143919"
 msgid "Endures Long Bouts"
-msgstr "Resiste a Lunghi Scontri"
+msgstr "Resiste a lunghi scontri"
 
 msgctxt "143938"
 msgid "Strong but Inconsistent"
-msgstr "Forte ma Incostante"
+msgstr "Forte ma incostante"
 
 msgctxt "143962"
 msgid "Calm, Collected Offense"
-msgstr "Attacco Calmo e Lucido"
+msgstr "Attacco calmo e lucido"
 
 msgctxt "143986"
 msgid "Attacks with Major Pieces"
-msgstr "Attacca con i Pezzi Maggiori"
+msgstr "Attacca con i pezzi maggiori"
 
 msgctxt "144012"
 msgid "Creative with the Rook"
-msgstr "Creativo con la Torre"
+msgstr "Creativo con la torre"
 
 msgctxt "144035"
 msgid "Balanced Strategy"
-msgstr "Strategia Bilanciata"
+msgstr "Strategia bilanciata"
 
 msgctxt "144053"
 msgid "Likes Counterattacks"
-msgstr "Ama i Contrattacchi"
+msgstr "Ama i contrattacchi"
 
 msgctxt "144074"
 msgid "Skilled with the Rook"
-msgstr "Abile con la Torre"
+msgstr "Abile con la torre"
 
 msgctxt "144096"
 msgid "Good but Impulsive"
-msgstr "Bravo ma Impulsivo"
+msgstr "Bravo ma impulsivo"
 
 msgctxt "144115"
 msgid "Builds a Tough Defense"
-msgstr "Costruisce una Difesa Solida"
+msgstr "Costruisce una difesa solida"
 
 msgctxt "144138"
 msgid "Attacks your Weak Points"
-msgstr "Attacca i tuoi Punti Deboli"
+msgstr "Attacca i tuoi punti deboli"
 
 msgctxt "144163"
 msgid "Solid Offense/Defense"
-msgstr "Attacco/Difesa Solidi"
+msgstr "Attacco/Difesa solidi"
 
 msgctxt "144185"
 msgid "Relentless Offense"
-msgstr "Attacco Incessante"
+msgstr "Attacco incessante"
 
 msgctxt "144204"
 msgid "A Reputation for Defense"
-msgstr "Famoso per la Difesa"
+msgstr "Famoso per la difesa"
 
 msgctxt "144229"
 msgid "Uses Varied Tactics"
-msgstr "Usa Tattiche Varie"
+msgstr "Usa tattiche varie"
 
 msgctxt "144249"
 msgid "Offensive Expert"
-msgstr "Esperto d'Attacco"
+msgstr "Esperto d'attacco"
 
 msgctxt "144266"
 msgid "Attacks Swiftly"
-msgstr "Attacca Rapidamente"
+msgstr "Attacca rapidamente"
 
 msgctxt "144282"
 msgid "Has a Varied Defense"
-msgstr "Ha una Difesa Variata"
+msgstr "Ha una difesa variata"
 
 msgctxt "144303"
 msgid "Moves Rook to Center"
-msgstr "Muove la Torre al Centro"
+msgstr "Muove la torre al centro"
 
 msgctxt "144324"
 msgid "Well-planned Offense"
-msgstr "Attacco Ben Pianificato"
+msgstr "Attacco ben pianificato"
 
 msgctxt "144345"
 msgid "Master of All Tactics"
-msgstr "Maestro di Ogni Tattica"
+msgstr "Maestro di ogni tattica"
 
 msgctxt "144367"
 msgid "Shogi is Life"
-msgstr "Lo Shogi è Vita"
+msgstr "Lo Shogi è vita"
 
 msgctxt "144381"
 msgid "Match Points"
-msgstr "Punti Partita"
+msgstr "Punti partita"
 
 msgctxt "144394"
 msgid "Take Backs Left: %d x 50"
-msgstr "Riprese Rimaste: %d x 50"
+msgstr "Riprese rimaste: %d x 50"
 
 msgctxt "144419"
 msgid "Unused Super Take Backs"
-msgstr "Super Riprese Non Usate"
+msgstr "Super riprese non usate"
 
 msgctxt "144443"
 msgid "ENORMOUS GUN SALUTES"
@@ -19840,8 +19841,8 @@ msgid "A BARRAGE"
 msgstr "UNA SCARICA"
 
 msgctxt "144534"
-msgid "T H E   D E L U G E"
-msgstr "I L   D I L U V I O"
+msgid "T H E   D E L U G E"
+msgstr "I L   D I L U V I O"
 
 msgctxt "144554"
 msgid "GUNRHEIN"
@@ -19865,7 +19866,7 @@ msgstr "Lancio 3"
 
 msgctxt "144596"
 msgid "No Points"
-msgstr "Nessun Punto"
+msgstr "Nessun punto"
 
 msgctxt "144606"
 msgid "Missed"
@@ -19873,7 +19874,7 @@ msgstr "Mancato"
 
 msgctxt "144613"
 msgid "Triple Throw"
-msgstr "Triplo Lancio"
+msgstr "Triplo lancio"
 
 msgctxt "144626"
 msgid "Evens"
@@ -19885,15 +19886,15 @@ msgstr "Dispari"
 
 msgctxt "144637"
 msgid "Guess One Number"
-msgstr "Indovina un Numero"
+msgstr "Indovina un numero"
 
 msgctxt "144654"
 msgid "Guess Both Numbers"
-msgstr "Indovina Entrambi i Numeri"
+msgstr "Indovina entrambi i numeri"
 
 msgctxt "144673"
 msgid "Bet on Difference"
-msgstr "Scommetti sulla Differenza"
+msgstr "Scommetti sulla differenza"
 
 msgctxt "144691"
 msgid "0 (Payout: x6)"
@@ -19937,7 +19938,7 @@ msgstr "No"
 
 msgctxt "144803"
 msgid "Current Bets"
-msgstr "Scommesse Attuali"
+msgstr "Scommesse attuali"
 
 msgctxt "144816"
 msgid "%d people"
@@ -19957,11 +19958,11 @@ msgstr "%d volta/e"
 
 msgctxt "144853"
 msgid "Current Winnings"
-msgstr "Vincite Attuali"
+msgstr "Vincite attuali"
 
 msgctxt "144870"
 msgid "Result Table"
-msgstr "Tabella Risultati"
+msgstr "Tabella risultati"
 
 msgctxt "144883"
 msgid "Details"
@@ -19969,59 +19970,59 @@ msgstr "Dettagli"
 
 msgctxt "144891"
 msgid "Moderate Akira"
-msgstr "Akira il Moderato"
+msgstr "Akira il moderato"
 
 msgctxt "144906"
 msgid "Striker Tetsu"
-msgstr "Tetsu il Colpitore"
+msgstr "Tetsu il colpitore"
 
 msgctxt "144920"
 msgid "Silent Tatsu"
-msgstr "Tatsu il Silenzioso"
+msgstr "Tatsu il silenzioso"
 
 msgctxt "144933"
 msgid "Laidback Sachiko"
-msgstr "Sachiko la Tranquilla"
+msgstr "Sachiko la tranquilla"
 
 msgctxt "144950"
 msgid "Razor Gen"
-msgstr "Gen la Lama"
+msgstr "Gen la lama"
 
 msgctxt "144960"
 msgid "Miracle Masa"
-msgstr "Masa il Miracolo"
+msgstr "Masa il miracolo"
 
 msgctxt "144973"
 msgid "Coward Yuta"
-msgstr "Yuta il Codardo"
+msgstr "Yuta il codardo"
 
 msgctxt "144985"
 msgid "Intuitive Billy"
-msgstr "Billy l'Intuitivo"
+msgstr "Billy l'intuitivo"
 
 msgctxt "145001"
 msgid "Smart Ken"
-msgstr "Ken l'Intelligente"
+msgstr "Ken l'intelligente"
 
 msgctxt "145011"
 msgid "Sabu the Regular"
-msgstr "Sabu il Regolare"
+msgstr "Sabu il regolare"
 
 msgctxt "145028"
 msgid "Balanced Daiji"
-msgstr "Daiji l'Equilibrato"
+msgstr "Daiji l'equilibrato"
 
 msgctxt "145043"
 msgid "Alchemist Yorimitsu"
-msgstr "Yorimitsu l'Alchimista"
+msgstr "Yorimitsu l'alchimista"
 
 msgctxt "145063"
 msgid "Thousand Plan Maika"
-msgstr "Maika dei Mille Piani"
+msgstr "Maika dei mille piani"
 
 msgctxt "145083"
 msgid "Moon/C. Blossom Viewing"
-msgstr "Ammirare Luna/Fiori di Ciliegio"
+msgstr "Ammirare luna/Fiori di ciliegio"
 
 msgctxt "145107"
 msgid "Rounds"
@@ -20049,39 +20050,39 @@ msgstr "Totale %s <Color:255,128,128,255>x 2<Color:Default> = %s pt"
 
 msgctxt "145211"
 msgid "Five Lights"
-msgstr "Cinque Luci"
+msgstr "Cinque luci"
 
 msgctxt "145223"
 msgid "Four Lights"
-msgstr "Quattro Luci"
+msgstr "Quattro luci"
 
 msgctxt "145235"
 msgid "Rainy Four Lights"
-msgstr "Quattro Luci Piovose"
+msgstr "Quattro luci piovose"
 
 msgctxt "145253"
 msgid "Three Lights"
-msgstr "Tre Luci"
+msgstr "Tre luci"
 
 msgctxt "145266"
 msgid "Cherry Blossom Viewing"
-msgstr "Ammirare i Ciliegi"
+msgstr "Ammirare i ciliegi"
 
 msgctxt "145289"
 msgid "Moon Viewing"
-msgstr "Ammirare la Luna"
+msgstr "Ammirare la luna"
 
 msgctxt "145302"
 msgid "Boar, Deer, Butterfly"
-msgstr "Cinghiale, Cervo, Farfalla"
+msgstr "Cinghiale, cervo, farfalla"
 
 msgctxt "145324"
 msgid "Red Poetry Ribbons"
-msgstr "Nastri Poetici Rossi"
+msgstr "Nastri poetici rossi"
 
 msgctxt "145343"
 msgid "Blue Poetry Ribbons"
-msgstr "Nastri Poetici Blu"
+msgstr "Nastri poetici blu"
 
 msgctxt "145363"
 msgid "Variety"
@@ -20089,7 +20090,7 @@ msgstr "Varietà"
 
 msgctxt "145371"
 msgid "Poetry Ribbons"
-msgstr "Nastri Poetici"
+msgstr "Nastri poetici"
 
 msgctxt "145386"
 msgid "Junk"
@@ -20101,7 +20102,7 @@ msgstr "Poker"
 
 msgctxt "145406"
 msgid "Four Pairs"
-msgstr "Quattro Coppie"
+msgstr "Quattro coppie"
 
 msgctxt "145417"
 msgid "Season"
@@ -20157,15 +20158,15 @@ msgstr "Nessuna mano formata. Il mazziere cambia."
 
 msgctxt "145644"
 msgid "Start Game"
-msgstr "Avvia Gioco"
+msgstr "Avvia gioco"
 
 msgctxt "145655"
 msgid "Change Settings"
-msgstr "Cambia Impostazioni"
+msgstr "Cambia impostazioni"
 
 msgctxt "145671"
 msgid "View Rules"
-msgstr "Visualizza Regole"
+msgstr "Visualizza regole"
 
 msgctxt "145682"
 msgid "Hands"
@@ -20181,7 +20182,7 @@ msgstr "<Action:Button_Circle> Indietro"
 
 msgctxt "145769"
 msgid "Your Points"
-msgstr "I Tuoi Punti"
+msgstr "I tuoi punti"
 
 msgctxt "145781"
 msgid "Difficulty"
@@ -20193,7 +20194,7 @@ msgstr "Punti doppi per 7+"
 
 msgctxt "145810"
 msgid "Check Settings"
-msgstr "Controlla Impostazioni"
+msgstr "Controlla impostazioni"
 
 msgctxt "145825"
 msgid "Rules"
@@ -20201,7 +20202,7 @@ msgstr "Regole"
 
 msgctxt "145831"
 msgid "View Hands"
-msgstr "Visualizza Mani"
+msgstr "Visualizza mani"
 
 msgctxt "145842"
 msgid "Close"
@@ -20213,11 +20214,11 @@ msgstr "Chiama Koi"
 
 msgctxt "145857"
 msgid "Don't Call Koi"
-msgstr "Non Chiamare Koi"
+msgstr "Non chiamare Koi"
 
 msgctxt "145872"
 msgid "Play Again"
-msgstr "Gioca di Nuovo"
+msgstr "Gioca di nuovo"
 
 msgctxt "145883"
 msgid "Quit"
@@ -20285,15 +20286,15 @@ msgstr "Difficoltà Esperto sbloccata."
 
 msgctxt "146011"
 msgid "List of Hands"
-msgstr "Elenco delle Mani"
+msgstr "Elenco delle mani"
 
 msgctxt "146025"
 msgid "Junk Modifier"
-msgstr "Modificatore Scarti"
+msgstr "Modificatore scarti"
 
 msgctxt "146039"
 msgid "Hand Guide"
-msgstr "Guida alle Mani"
+msgstr "Guida alle mani"
 
 msgctxt "146050"
 msgid "You're close to: %s."
@@ -20345,7 +20346,7 @@ msgstr "Stai"
 
 msgctxt "146290"
 msgid "Draw Card"
-msgstr "Pesca Carta"
+msgstr "Pesca carta"
 
 msgctxt "146300"
 msgid "1"
@@ -20401,15 +20402,15 @@ msgstr "Sfida finale!"
 
 msgctxt "146362"
 msgid "Start Game"
-msgstr "Avvia Gioco"
+msgstr "Avvia gioco"
 
 msgctxt "146373"
 msgid "Change Settings"
-msgstr "Cambia Impostazioni"
+msgstr "Cambia impostazioni"
 
 msgctxt "146389"
 msgid "View Rules"
-msgstr "Visualizza Regole"
+msgstr "Visualizza regole"
 
 msgctxt "146400"
 msgid "Showdown"
@@ -20417,11 +20418,11 @@ msgstr "Sfida"
 
 msgctxt "146409"
 msgid "Draw Card"
-msgstr "Pesca Carta"
+msgstr "Pesca carta"
 
 msgctxt "146419"
 msgid "Play Again"
-msgstr "Gioca di Nuovo"
+msgstr "Gioca di nuovo"
 
 msgctxt "146430"
 msgid "Quit"
@@ -20429,39 +20430,39 @@ msgstr "Esci"
 
 msgctxt "146435"
 msgid "Irresponsible Sakata"
-msgstr "Sakata l'Irresponsabile"
+msgstr "Sakata l'irresponsabile"
 
 msgctxt "146456"
 msgid "Troubled Komugai"
-msgstr "Komugai il Preoccupato"
+msgstr "Komugai il preoccupato"
 
 msgctxt "146473"
 msgid "Newbie Shindo"
-msgstr "Shindo il Principiante"
+msgstr "Shindo il principiante"
 
 msgctxt "146487"
 msgid "Stable Toriyama"
-msgstr "Toriyama lo Stabile"
+msgstr "Toriyama lo stabile"
 
 msgctxt "146503"
 msgid "Aggressive Atsukawa"
-msgstr "Atsukawa l'Aggressivo"
+msgstr "Atsukawa l'aggressivo"
 
 msgctxt "146523"
 msgid "Wait-and-See Kaido"
-msgstr "Kaido il Prudente"
+msgstr "Kaido il prudente"
 
 msgctxt "146542"
 msgid "Stormy Sakuraba"
-msgstr "Sakuraba la Tempesta"
+msgstr "Sakuraba la tempesta"
 
 msgctxt "146558"
 msgid "Instinctive Mitsui"
-msgstr "Mitsui l'Istintivo"
+msgstr "Mitsui l'istintivo"
 
 msgctxt "146577"
 msgid "Ace Osakabe"
-msgstr "Osakabe l'Asso"
+msgstr "Osakabe l'asso"
 
 msgctxt "146589"
 msgid "You are the dealer."
@@ -20509,15 +20510,15 @@ msgstr "Risultato\t%s pt"
 
 msgctxt "146848"
 msgid "Ten-Ten-One"
-msgstr "Dieci-Dieci-Uno"
+msgstr "Dieci-dieci-uno"
 
 msgctxt "146860"
 msgid "Four-Six"
-msgstr "Quattro-Sei"
+msgstr "Quattro-sei"
 
 msgctxt "146869"
 msgid "Card Type"
-msgstr "Tipo di Carta"
+msgstr "Tipo di carta"
 
 msgctxt "146879"
 msgid "Use"
@@ -20525,7 +20526,7 @@ msgstr "Usa"
 
 msgctxt "146883"
 msgid "Don't Use"
-msgstr "Non Usare"
+msgstr "Non usare"
 
 msgctxt "146893"
 msgid "Kabufuda"
@@ -21025,7 +21026,7 @@ msgstr "Moriyoshi Jon"
 
 msgctxt "148650"
 msgid "Machine Gun Gesu"
-msgstr "Gesu la Mitragliatrice"
+msgstr "Gesu la mitragliatrice"
 
 msgctxt "148667"
 msgid "Robu-san"
@@ -21157,71 +21158,71 @@ msgstr "Nagaharu"
 
 msgctxt "148950"
 msgid "Freelancer Masa"
-msgstr "Masa il Freelance"
+msgstr "Masa il freelance"
 
 msgctxt "148966"
 msgid "Kaneshiro the Storm"
-msgstr "Kaneshiro la Tempesta"
+msgstr "Kaneshiro la tempesta"
 
 msgctxt "148986"
 msgid "Thick-cut Tetsu"
-msgstr "Tetsu il Taglio Spesso"
+msgstr "Tetsu il taglio spesso"
 
 msgctxt "149002"
 msgid "Yuko the Celeb"
-msgstr "Yuko la Celebrità"
+msgstr "Yuko la celebrità"
 
 msgctxt "149017"
 msgid "Gen the Reaper"
-msgstr "Gen il Mietitore"
+msgstr "Gen il mietitore"
 
 msgctxt "149032"
 msgid "Sleazy Nao"
-msgstr "Nao lo Sgualdrino"
+msgstr "Nao lo sgualdrino"
 
 msgctxt "149043"
 msgid "Greedy Shima"
-msgstr "Shima l'Avido"
+msgstr "Shima l'avido"
 
 msgctxt "149056"
 msgid "Lucky Harris"
-msgstr "Harris il Fortunato"
+msgstr "Harris il fortunato"
 
 msgctxt "149069"
 msgid "Incompetent Kondo"
-msgstr "Kondo l'Incompetente"
+msgstr "Kondo l'incompetente"
 
 msgctxt "149087"
 msgid "Mystery Gambler 1"
-msgstr "Giocatore Misterioso 1"
+msgstr "Giocatore misterioso 1"
 
 msgctxt "149105"
 msgid "Mystery Gambler 2"
-msgstr "Giocatore Misterioso 2"
+msgstr "Giocatore misterioso 2"
 
 msgctxt "149123"
 msgid "Mystery Gambler 3"
-msgstr "Giocatore Misterioso 3"
+msgstr "Giocatore misterioso 3"
 
 msgctxt "149141"
 msgid "Extreme Chase Challenge"
-msgstr "Sfida Inseguimento Estremo"
+msgstr "Sfida inseguimento estremo"
 
 msgctxt "149165"
 msgid "Bull Hunter Ranking"
-msgstr "Classifica Cacciatore di Tori"
+msgstr "Classifica cacciatore di tori"
 
 msgctxt "149185"
 msgid "Batting Champion Ranking"
-msgstr "Classifica Campione di Battuta"
+msgstr "Classifica campione di battuta"
 
 msgctxt "149210"
 msgid "Strike King Ranking"
-msgstr "Classifica Re degli Strike"
+msgstr "Classifica Re degli strike"
 
 msgctxt "149230"
 msgid "Nagoya Home Run Ranking"
-msgstr "Classifica Fuoricampo di Nagoya"
+msgstr "Classifica fuoricampo di Nagoya"
 
 msgctxt "149254"
 msgid "-%s-"
@@ -21308,24 +21309,24 @@ msgid "Ryuji Goda"
 msgstr "Ryuji Goda"
 
 msgctxt "149499"
-msgid "Homeless Man  "
-msgstr "Senzatetto  "
+msgid "Homeless Man  "
+msgstr "Senzatetto  "
 
 msgctxt "149514"
 msgid "Partner List"
-msgstr "Lista Partner"
+msgstr "Lista partner"
 
 msgctxt "149527"
 msgid "Life Gauge"
-msgstr "Barra della Vita"
+msgstr "Barra della vita"
 
 msgctxt "149538"
 msgid "Skill Slot"
-msgstr "Slot Abilità"
+msgstr "Slot abilità"
 
 msgctxt "149549"
 msgid "Skill List"
-msgstr "Lista Abilità"
+msgstr "Lista abilità"
 
 msgctxt "149560"
 msgid "Level"
@@ -21333,7 +21334,7 @@ msgstr "Livello"
 
 msgctxt "149566"
 msgid "Shooting Accuracy"
-msgstr "Precisione di Tiro"
+msgstr "Precisione di tiro"
 
 msgctxt "149584"
 msgid "Trust"
@@ -21341,15 +21342,15 @@ msgstr "Fiducia"
 
 msgctxt "149590"
 msgid "Health Increase"
-msgstr "Aumento Salute"
+msgstr "Aumento salute"
 
 msgctxt "149606"
 msgid "Body Modification"
-msgstr "Modifica del Corpo"
+msgstr "Modifica del corpo"
 
 msgctxt "149624"
 msgid "Medicine Box"
-msgstr "Kit Medico"
+msgstr "Kit medico"
 
 msgctxt "149637"
 msgid "Rescue"
@@ -21361,11 +21362,11 @@ msgstr "Sociabilità"
 
 msgctxt "149656"
 msgid "Precision Fire"
-msgstr "Tiro Preciso"
+msgstr "Tiro preciso"
 
 msgctxt "149671"
 msgid "Focus Fire"
-msgstr "Tiro Concentrato"
+msgstr "Tiro concentrato"
 
 msgctxt "149682"
 msgid "Modding"
@@ -21373,23 +21374,23 @@ msgstr "Modding"
 
 msgctxt "149690"
 msgid "Illegal Mod"
-msgstr "Mod Illegale"
+msgstr "Mod illegale"
 
 msgctxt "149702"
 msgid "Headshot"
-msgstr "Colpo alla Testa"
+msgstr "Colpo alla testa"
 
 msgctxt "149711"
 msgid "Power Shot"
-msgstr "Colpo Potente"
+msgstr "Colpo potente"
 
 msgctxt "149722"
 msgid "Bowling Shot "
-msgstr "Colpo Bowling "
+msgstr "Colpo bowling "
 
 msgctxt "149736"
 msgid "Indomitable Will"
-msgstr "Volontà Indomabile"
+msgstr "Volontà indomabile"
 
 msgctxt "149753"
 msgid "Phoenix"
@@ -21397,7 +21398,7 @@ msgstr "Fenice"
 
 msgctxt "149761"
 msgid "Learning Ability"
-msgstr "Capacità di Apprendimento"
+msgstr "Capacità di apprendimento"
 
 msgctxt "149778"
 msgid "Life Saver"
@@ -21405,39 +21406,39 @@ msgstr "Salvavita"
 
 msgctxt "149789"
 msgid "Additional Materials"
-msgstr "Materiali Aggiuntivi"
+msgstr "Materiali aggiuntivi"
 
 msgctxt "149810"
 msgid "Spirit of the War God"
-msgstr "Spirito del Dio della Guerra"
+msgstr "Spirito del dio della guerra"
 
 msgctxt "149832"
 msgid "Body of the War God"
-msgstr "Corpo del Dio della Guerra"
+msgstr "Corpo del dio della guerra"
 
 msgctxt "149852"
 msgid "Spirit of Diamond"
-msgstr "Spirito del Diamante"
+msgstr "Spirito del diamante"
 
 msgctxt "149870"
 msgid "Body of Diamond"
-msgstr "Corpo del Diamante"
+msgstr "Corpo del diamante"
 
 msgctxt "149886"
 msgid "Spirit of the Goddess"
-msgstr "Spirito della Dea"
+msgstr "Spirito della dea"
 
 msgctxt "149908"
 msgid "Body of the Goddess"
-msgstr "Corpo della Dea"
+msgstr "Corpo della dea"
 
 msgctxt "149928"
 msgid "Spirit of the Dragon God"
-msgstr "Spirito del Dio Drago"
+msgstr "Spirito del dio drago"
 
 msgctxt "149953"
 msgid "Body of the Dragon God"
-msgstr "Corpo del Dio Drago"
+msgstr "Corpo del dio drago"
 
 msgctxt "149976"
 msgid "Increases health by a little. "
@@ -21641,35 +21642,35 @@ msgstr "Yuria Hayashida"
 
 msgctxt "151912"
 msgid "Shotgun"
-msgstr "Fucile a Pompa"
+msgstr "Fucile a pompa"
 
 msgctxt "151929"
 msgid "Mini Skirt Dress"
-msgstr "Vestito Minigonna"
+msgstr "Vestito minigonna"
 
 msgctxt "151946"
 msgid "Spaghetti Strap Dress"
-msgstr "Vestito con Spalline Sottili"
+msgstr "Vestito con spalline sottili"
 
 msgctxt "151968"
 msgid "Flashy Suit"
-msgstr "Abito Sgargiante"
+msgstr "Abito sgargiante"
 
 msgctxt "151980"
 msgid "Balloon Dress"
-msgstr "Vestito a Palloncino"
+msgstr "Vestito a palloncino"
 
 msgctxt "151994"
 msgid "Lovely One-Piece"
-msgstr "Abito Intero Grazioso"
+msgstr "Abito intero grazioso"
 
 msgctxt "152011"
 msgid "Schoolgirl Uniform"
-msgstr "Divisa da Studentessa"
+msgstr "Divisa da studentessa"
 
 msgctxt "152030"
 msgid "Maid Outfit"
-msgstr "Abito da Cameriera"
+msgstr "Abito da cameriera"
 
 msgctxt "152042"
 msgid "Cheongsam"
@@ -21677,15 +21678,15 @@ msgstr "Cheongsam"
 
 msgctxt "152052"
 msgid "Health Increase"
-msgstr "Aumento Salute"
+msgstr "Aumento salute"
 
 msgctxt "152068"
 msgid "Body Modification"
-msgstr "Modifica del Corpo"
+msgstr "Modifica del corpo"
 
 msgctxt "152086"
 msgid "Medicine Box"
-msgstr "Kit Medico"
+msgstr "Kit medico"
 
 msgctxt "152099"
 msgid "Rescue"
@@ -21697,11 +21698,11 @@ msgstr "Sociabilità"
 
 msgctxt "152118"
 msgid "Precision Fire"
-msgstr "Tiro Preciso"
+msgstr "Tiro preciso"
 
 msgctxt "152133"
 msgid "Focus Fire"
-msgstr "Tiro Concentrato"
+msgstr "Tiro concentrato"
 
 msgctxt "152144"
 msgid "Modding"
@@ -21709,23 +21710,23 @@ msgstr "Modding"
 
 msgctxt "152152"
 msgid "Illegal Mod"
-msgstr "Mod Illegale"
+msgstr "Mod illegale"
 
 msgctxt "152164"
 msgid "Headshot"
-msgstr "Colpo alla Testa"
+msgstr "Colpo alla testa"
 
 msgctxt "152173"
 msgid "Power Shot"
-msgstr "Colpo Potente"
+msgstr "Colpo potente"
 
 msgctxt "152184"
 msgid "Bowling Shot "
-msgstr "Colpo Bowling "
+msgstr "Colpo bowling "
 
 msgctxt "152198"
 msgid "Indomitable Will"
-msgstr "Volontà Indomabile"
+msgstr "Volontà indomabile"
 
 msgctxt "152215"
 msgid "Phoenix"
@@ -21733,7 +21734,7 @@ msgstr "Fenice"
 
 msgctxt "152223"
 msgid "Learning Ability"
-msgstr "Capacità di Apprendimento"
+msgstr "Capacità di apprendimento"
 
 msgctxt "152240"
 msgid "Life Saver"
@@ -21741,39 +21742,39 @@ msgstr "Salvavita"
 
 msgctxt "152251"
 msgid "Additional Materials"
-msgstr "Materiali Aggiuntivi"
+msgstr "Materiali aggiuntivi"
 
 msgctxt "152272"
 msgid "Spirit of the War God"
-msgstr "Spirito del Dio della Guerra"
+msgstr "Spirito del dio della guerra"
 
 msgctxt "152294"
 msgid "Body of the War God"
-msgstr "Corpo del Dio della Guerra"
+msgstr "Corpo del dio della guerra"
 
 msgctxt "152314"
 msgid "Spirit of Diamond"
-msgstr "Spirito del Diamante"
+msgstr "Spirito del diamante"
 
 msgctxt "152332"
 msgid "Body of Diamond"
-msgstr "Corpo del Diamante"
+msgstr "Corpo del diamante"
 
 msgctxt "152348"
 msgid "Spirit of the Goddess"
-msgstr "Spirito della Dea"
+msgstr "Spirito della dea"
 
 msgctxt "152370"
 msgid "Body of the Goddess"
-msgstr "Corpo della Dea"
+msgstr "Corpo della dea"
 
 msgctxt "152390"
 msgid "Spirit of the Dragon God"
-msgstr "Spirito del Dio Drago"
+msgstr "Spirito del dio drago"
 
 msgctxt "152415"
 msgid "Body of the Dragon God"
-msgstr "Corpo del Dio Drago"
+msgstr "Corpo del dio drago"
 
 msgctxt "152438"
 msgid "Skills"
@@ -21785,7 +21786,7 @@ msgstr "Armi"
 
 msgctxt "152455"
 msgid "Item List"
-msgstr "Lista Oggetti"
+msgstr "Lista oggetti"
 
 msgctxt "152465"
 msgid "?????"
@@ -21793,7 +21794,7 @@ msgstr "?????"
 
 msgctxt "152481"
 msgid "Pause Menu"
-msgstr "Menu Pausa"
+msgstr "Menu pausa"
 
 msgctxt "152492"
 msgid "Map"
@@ -21805,7 +21806,7 @@ msgstr "Oggetti"
 
 msgctxt "152502"
 msgid "Upgrade Abilities"
-msgstr "Migliora Abilità"
+msgstr "Migliora abilità"
 
 msgctxt "152520"
 msgid "Cell Phone"
@@ -21813,11 +21814,11 @@ msgstr "Cellulare"
 
 msgctxt "152531"
 msgid "Character Profiles"
-msgstr "Profili Personaggi"
+msgstr "Profili personaggi"
 
 msgctxt "152550"
 msgid "Side Stories"
-msgstr "Storie Secondarie"
+msgstr "Storie secondarie"
 
 msgctxt "152563"
 msgid "Substories"
@@ -21825,7 +21826,7 @@ msgstr "Sottostorie"
 
 msgctxt "152574"
 msgid "Completion List"
-msgstr "Lista Completamento"
+msgstr "Lista completamento"
 
 msgctxt "152590"
 msgid "Memos"
@@ -21837,11 +21838,11 @@ msgstr "Opzioni"
 
 msgctxt "152604"
 msgid "Substory List"
-msgstr "Lista Sottostorie"
+msgstr "Lista sottostorie"
 
 msgctxt "152618"
 msgid "Check Status"
-msgstr "Controlla Stato"
+msgstr "Controlla stato"
 
 msgctxt "152631"
 msgid "Controls"
@@ -21853,7 +21854,7 @@ msgstr "Abilità"
 
 msgctxt "152650"
 msgid "Weapon Skill"
-msgstr "Abilità Armi"
+msgstr "Abilità armi"
 
 msgctxt "152663"
 msgid "Substories"
@@ -21881,31 +21882,31 @@ msgstr "Puoi migliorare le abilità."
 
 msgctxt "152732"
 msgid "Battle for Survival in Progress"
-msgstr "Battaglia per la Sopravvivenza in Corso"
+msgstr "Battaglia per la sopravvivenza in corso"
 
 msgctxt "152764"
 msgid "Survival Tag in Progress"
-msgstr "Survival Tag in Corso"
+msgstr "Survival Tag in corso"
 
 msgctxt "152789"
 msgid "Battle King Championship in Progress"
-msgstr "Campionato Re della Battaglia in Corso"
+msgstr "Campionato Re della battaglia in corso"
 
 msgctxt "152826"
 msgid "Fastest Killer Championship in Progress"
-msgstr "Campionato Assassino Più Veloce in Corso"
+msgstr "Campionato assassino più veloce in corso"
 
 msgctxt "152866"
 msgid "Item List"
-msgstr "Lista Oggetti"
+msgstr "Lista oggetti"
 
 msgctxt "152876"
 msgid "Weapon Inventory List"
-msgstr "Lista Inventario Armi"
+msgstr "Lista inventario armi"
 
 msgctxt "152898"
 msgid "Valuables List"
-msgstr "Lista Oggetti di Valore"
+msgstr "Lista oggetti di valore"
 
 msgctxt "152913"
 msgid "Items"
@@ -21913,11 +21914,11 @@ msgstr "Oggetti"
 
 msgctxt "152919"
 msgid "Weapon Inventory"
-msgstr "Inventario Armi"
+msgstr "Inventario armi"
 
 msgctxt "152936"
 msgid "Valuables"
-msgstr "Oggetti di Valore"
+msgstr "Oggetti di valore"
 
 msgctxt "152946"
 msgid "Who will use the item?"
@@ -21941,11 +21942,11 @@ msgstr "Potenza %3d Colpi ∞"
 
 msgctxt "153101"
 msgid "Total Defense"
-msgstr "Difesa Totale"
+msgstr "Difesa totale"
 
 msgctxt "153115"
 msgid "Equipment List"
-msgstr "Lista Equipaggiamento"
+msgstr "Lista equipaggiamento"
 
 msgctxt "153130"
 msgid "EXP"
@@ -21977,7 +21978,7 @@ msgstr "Furore"
 
 msgctxt "153173"
 msgid "Other Abilities"
-msgstr "Altre Abilità"
+msgstr "Altre abilità"
 
 msgctxt "153189"
 msgid "Soul"
@@ -21997,7 +21998,7 @@ msgstr "Furore"
 
 msgctxt "153209"
 msgid "Body Abilities"
-msgstr "Abilità del Corpo"
+msgstr "Abilità del corpo"
 
 msgctxt "153224"
 msgid "Furore Abilities"
@@ -22005,15 +22006,15 @@ msgstr "Abilità Furore"
 
 msgctxt "153239"
 msgid "Ancient Martial Arts"
-msgstr "Arti Marziali Antiche"
+msgstr "Arti marziali antiche"
 
 msgctxt "153260"
 msgid "Test Upgrade"
-msgstr "Test Miglioramento"
+msgstr "Test miglioramento"
 
 msgctxt "153273"
 msgid "Upgrade Abilities"
-msgstr "Migliora Abilità"
+msgstr "Migliora abilità"
 
 msgctxt "153291"
 msgid "Abilities"
@@ -22021,27 +22022,27 @@ msgstr "Abilità"
 
 msgctxt "153301"
 msgid "Weapon Skill"
-msgstr "Abilità Armi"
+msgstr "Abilità armi"
 
 msgctxt "153314"
 msgid "Basic Abilities"
-msgstr "Abilità di Base"
+msgstr "Abilità di base"
 
 msgctxt "153330"
 msgid "Basic Attacks"
-msgstr "Attacchi Base"
+msgstr "Attacchi base"
 
 msgctxt "153344"
 msgid "Soul Abilities"
-msgstr "Abilità dell'Anima"
+msgstr "Abilità dell'anima"
 
 msgctxt "153359"
 msgid "Technique Abilities"
-msgstr "Abilità della Tecnica"
+msgstr "Abilità della tecnica"
 
 msgctxt "153379"
 msgid "Body Abilities"
-msgstr "Abilità del Corpo"
+msgstr "Abilità del corpo"
 
 msgctxt "153394"
 msgid "Furore Abilities"
@@ -22081,7 +22082,7 @@ msgstr "－－－－－"
 
 msgctxt "153592"
 msgid "Auto Assignment is turned on."
-msgstr "Assegnazione Automatica attiva."
+msgstr "Assegnazione automatica attiva."
 
 msgctxt "153622"
 msgid "No weapon category."
@@ -22089,15 +22090,15 @@ msgstr "Nessuna categoria arma."
 
 msgctxt "153642"
 msgid "One-Handed Light Weapons"
-msgstr "Armi Leggere a Una Mano"
+msgstr "Armi leggere a una mano"
 
 msgctxt "153667"
 msgid "Two-Handed Light Weapons"
-msgstr "Armi Leggere a Due Mani"
+msgstr "Armi leggere a due mani"
 
 msgctxt "153692"
 msgid "Two-Handed Heavy Weapons"
-msgstr "Armi Pesanti a Due Mani"
+msgstr "Armi pesanti a due mani"
 
 msgctxt "153717"
 msgid "Knives"
@@ -22117,7 +22118,7 @@ msgstr "Martelli"
 
 msgctxt "153746"
 msgid "Kali Sticks"
-msgstr "Bastoni Kali"
+msgstr "Bastoni kali"
 
 msgctxt "153758"
 msgid "Nunchaku"
@@ -22133,11 +22134,11 @@ msgstr "Tirapugni"
 
 msgctxt "153782"
 msgid "Guns"
-msgstr "Armi da Fuoco"
+msgstr "Armi da fuoco"
 
 msgctxt "153787"
 msgid "Weapon Category Totals"
-msgstr "Totali Categoria Armi"
+msgstr "Totali categoria armi"
 
 msgctxt "153810"
 msgid "Use item?"
@@ -22377,7 +22378,7 @@ msgstr "Posta in arrivo"
 
 msgctxt "156035"
 msgid "Received Emails"
-msgstr "Email Ricevute"
+msgstr "Email ricevute"
 
 msgctxt "156051"
 msgid "%03d/%03d"
@@ -22393,11 +22394,11 @@ msgstr "%s %s"
 
 msgctxt "156092"
 msgid "Ascending Order"
-msgstr "Ordine Crescente"
+msgstr "Ordine crescente"
 
 msgctxt "156108"
 msgid "Descending Order"
-msgstr "Ordine Decrescente"
+msgstr "Ordine decrescente"
 
 msgctxt "156125"
 msgid "Received"
@@ -22405,7 +22406,7 @@ msgstr "Ricevute"
 
 msgctxt "156134"
 msgid "Unread"
-msgstr "Non Letti"
+msgstr "Non letti"
 
 msgctxt "156141"
 msgid "Sender"
@@ -22437,11 +22438,11 @@ msgstr "Allenamento"
 
 msgctxt "156200"
 msgid "Nightlife"
-msgstr "Vita Notturna"
+msgstr "Vita notturna"
 
 msgctxt "156210"
 msgid "Men's Entertainment Booth"
-msgstr "Cabina Intrattenimento Maschile"
+msgstr "Cabina intrattenimento maschile"
 
 msgctxt "156236"
 msgid "Dragon Palace"
@@ -22457,7 +22458,7 @@ msgstr "Traguardo"
 
 msgctxt "156274"
 msgid "Food Stall"
-msgstr "Chiosco di Cibo"
+msgstr "Chiosco di cibo"
 
 msgctxt "156285"
 msgid "Sodachi Gym"
@@ -22521,11 +22522,11 @@ msgstr "Kamurocho Hills"
 
 msgctxt "156479"
 msgid "Save Point"
-msgstr "Punto di Salvataggio"
+msgstr "Punto di salvataggio"
 
 msgctxt "156490"
 msgid "Taxi Stand"
-msgstr "Stazione Taxi"
+msgstr "Stazione taxi"
 
 msgctxt "156501"
 msgid "Coin Lockers"
@@ -22581,7 +22582,7 @@ msgstr ""
 
 msgctxt "156976"
 msgid "No Map"
-msgstr "Nessuna Mappa"
+msgstr "Nessuna mappa"
 
 msgctxt "156983"
 msgid "Press <Action:Button_Circle> to return to the map screen."
@@ -22613,7 +22614,7 @@ msgstr "Altezza"
 
 msgctxt "157112"
 msgid "Blood Type"
-msgstr "Gruppo Sanguigno"
+msgstr "Gruppo sanguigno"
 
 msgctxt "157123"
 msgid "Zodiac"
@@ -22625,11 +22626,11 @@ msgstr "Preferenze"
 
 msgctxt "157136"
 msgid "Dislikes"
-msgstr "Cose Non Gradite"
+msgstr "Cose non gradite"
 
 msgctxt "157145"
 msgid "Times Requested"
-msgstr "Volte Richiesto"
+msgstr "Volte richiesto"
 
 msgctxt "157161"
 msgid "%d time(s)"
@@ -22637,7 +22638,7 @@ msgstr "%d volta/e"
 
 msgctxt "157172"
 msgid "Money Spent"
-msgstr "Denaro Speso"
+msgstr "Denaro speso"
 
 msgctxt "157184"
 msgid "%d yen"
@@ -22645,7 +22646,7 @@ msgstr "%d yen"
 
 msgctxt "157191"
 msgid "Most Recent Present"
-msgstr "Regalo Più Recente"
+msgstr "Regalo più recente"
 
 msgctxt "157211"
 msgid "Off"
@@ -22653,7 +22654,7 @@ msgstr "Off"
 
 msgctxt "157215"
 msgid "Completion Rate: Minigames"
-msgstr "Percentuale Completamento: Minigiochi"
+msgstr "Percentuale completamento: Minigiochi"
 
 msgctxt "157242"
 msgid "pts."
@@ -22669,7 +22670,7 @@ msgstr "Vittorie"
 
 msgctxt "157261"
 msgid "Unattempted"
-msgstr "Non Tentato"
+msgstr "Non tentato"
 
 msgctxt "157273"
 msgid "1"
@@ -22693,11 +22694,11 @@ msgstr "Ottenuto"
 
 msgctxt "157301"
 msgid "Unacquired"
-msgstr "Non Ottenuto"
+msgstr "Non ottenuto"
 
 msgctxt "157312"
 msgid "Unranked"
-msgstr "Senza Classifica"
+msgstr "Senza classifica"
 
 msgctxt "157321"
 msgid "Rank %d"
@@ -22713,11 +22714,11 @@ msgstr "Incompleto"
 
 msgctxt "157349"
 msgid "Completion: Hostesses"
-msgstr "Completamento: Hostess"
+msgstr "Completamento: hostess"
 
 msgctxt "157371"
 msgid "Completion: Coin Lockers"
-msgstr "Completamento: Armadietti"
+msgstr "Completamento: armadietti"
 
 msgctxt "157396"
 msgid "Kamurocho Coin Lockers"
@@ -22729,15 +22730,15 @@ msgstr "Armadietti di Sotenbori"
 
 msgctxt "157442"
 msgid "Completion: Food/Drink"
-msgstr "Completamento: Cibo/Bevande"
+msgstr "Completamento: cibo/bevande"
 
 msgctxt "157465"
 msgid "Completion: Furore Actions"
-msgstr "Completamento: Azioni Furore"
+msgstr "Completamento: azioni Furore"
 
 msgctxt "157490"
 msgid "Completion: Equipment Modding"
-msgstr "Completamento: Modifica Equipaggiamento"
+msgstr "Completamento: modifica equipaggiamento"
 
 msgctxt "157520"
 msgid "Weapons"
@@ -22749,7 +22750,7 @@ msgstr "Equipaggiamento"
 
 msgctxt "157533"
 msgid "Social Commitment"
-msgstr "Impegno Sociale"
+msgstr "Impegno sociale"
 
 msgctxt "157551"
 msgid "Level: "
@@ -22761,15 +22762,15 @@ msgstr "Lotterie"
 
 msgctxt "157574"
 msgid "Completion: Coin Lockers"
-msgstr "Completamento: Armadietti"
+msgstr "Completamento: armadietti"
 
 msgctxt "157599"
 msgid "Completion: Food/Drink"
-msgstr "Completamento: Cibo/Bevande"
+msgstr "Completamento: cibo/bevande"
 
 msgctxt "157622"
 msgid "Completion: Equipment Modding"
-msgstr "Completamento: Modifica Equipaggiamento"
+msgstr "Completamento: modifica equipaggiamento"
 
 msgctxt "157652"
 msgid "Completion: Revelations"
@@ -22777,15 +22778,15 @@ msgstr "Completamento: Rivelazioni"
 
 msgctxt "157676"
 msgid "Completion: Minigames"
-msgstr "Completamento: Minigiochi"
+msgstr "Completamento: minigiochi"
 
 msgctxt "157698"
 msgid "Completion: Hostesses"
-msgstr "Completamento: Hostess"
+msgstr "Completamento: hostess"
 
 msgctxt "157720"
 msgid "Completion: Masters"
-msgstr "Completamento: Maestri"
+msgstr "Completamento: maestri"
 
 msgctxt "157740"
 msgid "Completion: Coliseum"
@@ -22793,7 +22794,7 @@ msgstr "Completamento: Colosseo"
 
 msgctxt "157761"
 msgid "Completion: Furore Actions"
-msgstr "Completamento: Azioni Furore"
+msgstr "Completamento: azioni Furore"
 
 msgctxt "157786"
 msgid "Completion: Masters"
@@ -22801,23 +22802,23 @@ msgstr "Completamento: Maestri"
 
 msgctxt "157806"
 msgid "Completion: Partners"
-msgstr "Completamento: Partner"
+msgstr "Completamento: partner"
 
 msgctxt "157827"
 msgid "Completion: Garbage Collection"
-msgstr "Completamento: Raccolta Rifiuti"
+msgstr "Completamento: raccolta rifiuti"
 
 msgctxt "157858"
 msgid "Completion: Prize Tickets"
-msgstr "Completamento: Biglietti Premio"
+msgstr "Completamento: biglietti premio"
 
 msgctxt "157884"
 msgid "Completion: Treasure Hunts"
-msgstr "Completamento: Cacce al Tesoro"
+msgstr "Completamento: cacce al tesoro"
 
 msgctxt "157911"
 msgid "Completion: Tourist Spots"
-msgstr "Completamento: Attrazioni Turistiche"
+msgstr "Completamento: attrazioni turistiche"
 
 msgctxt "157937"
 msgid "View partners you've met and their current development."
@@ -22829,7 +22830,7 @@ msgstr "Cibo/Bevande"
 
 msgctxt "158007"
 msgid "Equipment Modding"
-msgstr "Modifica Equipaggiamento"
+msgstr "Modifica equipaggiamento"
 
 msgctxt "158025"
 msgid "Minigames "
@@ -22841,7 +22842,7 @@ msgstr "Hostess"
 
 msgctxt "158046"
 msgid "City Exploration "
-msgstr "Esplorazione Cittadina"
+msgstr "Esplorazione cittadina"
 
 msgctxt "158064"
 msgid "Furore Actions"
@@ -22861,7 +22862,7 @@ msgstr "Armadietti"
 
 msgctxt "158107"
 msgid "Garbage Collection"
-msgstr "Raccolta Rifiuti"
+msgstr "Raccolta rifiuti"
 
 msgctxt "158126"
 msgid "Prize Drawings"
@@ -22869,11 +22870,11 @@ msgstr "Lotterie"
 
 msgctxt "158141"
 msgid "Treasure Hunts"
-msgstr "Cacce al Tesoro"
+msgstr "Cacce al tesoro"
 
 msgctxt "158156"
 msgid "Tourist Spots"
-msgstr "Attrazioni Turistiche"
+msgstr "Attrazioni turistiche"
 
 msgctxt "158170"
 msgid "Order everything on the menu at every restaurant."
@@ -22933,11 +22934,11 @@ msgstr "LV.%2d"
 
 msgctxt "158844"
 msgid "Kamurocho Locker Keys"
-msgstr "Chiavi Armadietti Kamurocho"
+msgstr "Chiavi armadietti Kamurocho"
 
 msgctxt "158866"
 msgid "Sotenbori Locker Keys"
-msgstr "Chiavi Armadietti Sotenbori"
+msgstr "Chiavi armadietti Sotenbori"
 
 msgctxt "158888"
 msgid "Garbage Collection"
@@ -22957,23 +22958,23 @@ msgstr "Attrazioni Turistiche"
 
 msgctxt "158951"
 msgid "The Old Map's Treasure"
-msgstr "Il Tesoro della Vecchia Mappa"
+msgstr "Il tesoro della vecchia mappa"
 
 msgctxt "158974"
 msgid "The Questionable Map's Treasure"
-msgstr "Il Tesoro della Mappa Dubbia"
+msgstr "Il tesoro della mappa dubbia"
 
 msgctxt "159006"
 msgid "The Profound Map's Treasure"
-msgstr "Il Tesoro della Mappa Profonda"
+msgstr "Il tesoro della mappa profonda"
 
 msgctxt "159034"
 msgid "The Suspicious Map's Treasure"
-msgstr "Il Tesoro della Mappa Sospetta"
+msgstr "Il tesoro della mappa sospetta"
 
 msgctxt "159064"
 msgid "The Impressive Map's Treasure"
-msgstr "Il Tesoro della Mappa Notevole"
+msgstr "Il tesoro della mappa notevole"
 
 msgctxt "159094"
 msgid "Find the treasure the Old Map points to."
@@ -23017,31 +23018,31 @@ msgstr "Suggerimenti"
 
 msgctxt "159362"
 msgid "Auto Assignment Settings"
-msgstr "Impostazioni Assegnazione Automatica"
+msgstr "Impostazioni assegnazione automatica"
 
 msgctxt "159387"
 msgid "Camera Control (Vertical)"
-msgstr "Controllo Telecamera (Verticale)"
+msgstr "Controllo telecamera (verticale)"
 
 msgctxt "159413"
 msgid "Camera Control (Horizontal)"
-msgstr "Controllo Telecamera (Orizzontale)"
+msgstr "Controllo telecamera (orizzontale)"
 
 msgctxt "159441"
 msgid "First-Person View (Vertical)"
-msgstr "Visuale in Prima Persona (Verticale)"
+msgstr "Visuale in prima persona (verticale)"
 
 msgctxt "159470"
 msgid "First-Person View (Horizontal)"
-msgstr "Visuale in Prima Persona (Orizzontale)"
+msgstr "Visuale in prima persona (orizzontale)"
 
 msgctxt "159501"
 msgid "Minimap Display"
-msgstr "Visualizzazione Minimappa"
+msgstr "Visualizzazione minimappa"
 
 msgctxt "159517"
 msgid "Minimap Rotation"
-msgstr "Rotazione Minimappa"
+msgstr "Rotazione minimappa"
 
 msgctxt "159534"
 msgid "Subtitles"
@@ -23053,19 +23054,19 @@ msgstr "Luminosità Schermo"
 
 msgctxt "159562"
 msgid "Adjust Gamma"
-msgstr "Regola Gamma"
+msgstr "Regola gamma"
 
 msgctxt "159575"
 msgid "Adjust Position of HUD"
-msgstr "Regola Posizione HUD"
+msgstr "Regola posizione HUD"
 
 msgctxt "159598"
 msgid "Set Font"
-msgstr "Imposta Font"
+msgstr "Imposta font"
 
 msgctxt "159607"
 msgid "English Karaoke Lyrics"
-msgstr "Testi Karaoke in Inglese"
+msgstr "Testi karaoke in inglese"
 
 msgctxt "159630"
 msgid "Hide HUD"
@@ -23073,23 +23074,23 @@ msgstr "Nascondi HUD"
 
 msgctxt "159639"
 msgid "Icon Select"
-msgstr "Selezione Icone"
+msgstr "Selezione icone"
 
 msgctxt "159651"
 msgid "Controller Vibration"
-msgstr "Vibrazione Controller"
+msgstr "Vibrazione controller"
 
 msgctxt "159672"
 msgid "Controller Sensitivity"
-msgstr "Sensibilità Controller"
+msgstr "Sensibilità controller"
 
 msgctxt "159695"
 msgid "Mouse Sensitivity"
-msgstr "Sensibilità Mouse"
+msgstr "Sensibilità mouse"
 
 msgctxt "159713"
 msgid "Mouse Cursor"
-msgstr "Cursore del Mouse"
+msgstr "Cursore del mouse"
 
 msgctxt "159726"
 msgid ""
@@ -23228,7 +23229,7 @@ msgstr "Schiva"
 
 msgctxt "161501"
 msgid "Action Button"
-msgstr "Pulsante Azione"
+msgstr "Pulsante azione"
 
 msgctxt "161515"
 msgid "Attack"
@@ -23252,15 +23253,15 @@ msgstr "Ricarica"
 
 msgctxt "161555"
 msgid "Fighting Stance"
-msgstr "Posizione di Combattimento"
+msgstr "Posizione di combattimento"
 
 msgctxt "161571"
 msgid "Pause Menu"
-msgstr "Menu Pausa"
+msgstr "Menu pausa"
 
 msgctxt "161582"
 msgid "Select Menu"
-msgstr "Menu Selezione"
+msgstr "Menu selezione"
 
 msgctxt "161594"
 msgid "<Action:Button_L3>"
@@ -23272,7 +23273,7 @@ msgstr "<Action:Button_R3>"
 
 msgctxt "161632"
 msgid "Switch Weapon"
-msgstr "Cambia Arma"
+msgstr "Cambia arma"
 
 msgctxt "161646"
 msgid "-"
@@ -23304,7 +23305,7 @@ msgstr "-"
 
 msgctxt "161663"
 msgid "Move Camera"
-msgstr "Muovi Telecamera"
+msgstr "Muovi telecamera"
 
 msgctxt "161675"
 msgid "-"
@@ -23372,11 +23373,11 @@ msgstr "Sans Serif"
 
 msgctxt "161801"
 msgid "Follows Player"
-msgstr "Segue il Giocatore"
+msgstr "Segue il giocatore"
 
 msgctxt "161816"
 msgid "Follows Camera"
-msgstr "Segue la Telecamera"
+msgstr "Segue la telecamera"
 
 msgctxt "161831"
 msgid "Off"
@@ -23416,7 +23417,7 @@ msgstr ""
 
 msgctxt "162115"
 msgid "Completion Rate"
-msgstr "Percentuale di Completamento"
+msgstr "Percentuale di completamento"
 
 msgctxt "162131"
 msgid "Try Again"
@@ -23424,15 +23425,15 @@ msgstr "Riprova"
 
 msgctxt "162141"
 msgid "Load & Try Again"
-msgstr "Carica e Riprova"
+msgstr "Carica e riprova"
 
 msgctxt "162158"
 msgid "Try Again from Previous Checkpoint"
-msgstr "Riprova dal Checkpoint Precedente"
+msgstr "Riprova dal checkpoint precedente"
 
 msgctxt "162193"
 msgid "Exit Game"
-msgstr "Esci dal Gioco"
+msgstr "Esci dal gioco"
 
 msgctxt "162203"
 msgid "Return to title screen?"
@@ -23520,7 +23521,7 @@ msgstr "Storie secondarie"
 
 msgctxt "162865"
 msgid "Hitman Missions"
-msgstr "Missioni Sicario"
+msgstr "Missioni sicario"
 
 msgctxt "162881"
 msgid "Pause / Quit"
@@ -23584,11 +23585,11 @@ msgstr "%d"
 
 msgctxt "163225"
 msgid "Online Shop Registrations"
-msgstr "Registrazioni Negozio Online"
+msgstr "Registrazioni negozio online"
 
 msgctxt "163251"
 msgid "Unread Emails"
-msgstr "Email Non Letti"
+msgstr "Email non letti"
 
 msgctxt "163265"
 msgid "%d/%d"
@@ -23656,7 +23657,7 @@ msgstr "%d/%d"
 
 msgctxt "163406"
 msgid "Percent Complete"
-msgstr "Percentuale Completata"
+msgstr "Percentuale completata"
 
 msgctxt "163423"
 msgid "%d％"
@@ -23664,7 +23665,7 @@ msgstr "%d％"
 
 msgctxt "163429"
 msgid "Race Missions"
-msgstr "Missioni Corsa"
+msgstr "Missioni corsa"
 
 msgctxt "163443"
 msgid " %d/%d"
@@ -23672,7 +23673,7 @@ msgstr " %d/%d"
 
 msgctxt "163450"
 msgid "Taxi Missions"
-msgstr "Missioni Taxi"
+msgstr "Missioni taxi"
 
 msgctxt "163464"
 msgid " %d/%d"
@@ -23680,7 +23681,7 @@ msgstr " %d/%d"
 
 msgctxt "163471"
 msgid "Main Missions"
-msgstr "Missioni Principali"
+msgstr "Missioni principali"
 
 msgctxt "163485"
 msgid " %d/%d"
@@ -23688,7 +23689,7 @@ msgstr " %d/%d"
 
 msgctxt "163492"
 msgid "Contract Missions"
-msgstr "Missioni Contratto"
+msgstr "Missioni contratto"
 
 msgctxt "163510"
 msgid " %d/%d"
@@ -23696,7 +23697,7 @@ msgstr " %d/%d"
 
 msgctxt "163517"
 msgid "Dance Battle Stories"
-msgstr "Storie Dance Battle"
+msgstr "Storie dance battle"
 
 msgctxt "163538"
 msgid " %d/%d"
@@ -23704,7 +23705,7 @@ msgstr " %d/%d"
 
 msgctxt "163545"
 msgid "Work Missions"
-msgstr "Missioni di Lavoro"
+msgstr "Missioni di lavoro"
 
 msgctxt "163559"
 msgid " %d/%d"
@@ -23720,7 +23721,7 @@ msgstr " %d/%d"
 
 msgctxt "163587"
 msgid "Sub Missions"
-msgstr "Missioni Secondarie"
+msgstr "Missioni secondarie"
 
 msgctxt "163600"
 msgid " %d/%d"
@@ -23748,7 +23749,7 @@ msgstr "???"
 
 msgctxt "163633"
 msgid "Mission Completion"
-msgstr "Completamento Missione"
+msgstr "Completamento missione"
 
 msgctxt "163652"
 msgid "%d/%d"
@@ -24036,7 +24037,7 @@ msgstr "Visualizza e modifica le opzioni audio."
 
 msgctxt "164897"
 msgid "Exit Game"
-msgstr "Esci dal Gioco"
+msgstr "Esci dal gioco"
 
 msgctxt "164907"
 msgid "Quit the game to desktop."
@@ -24044,7 +24045,7 @@ msgstr "Esci dal gioco e torna al desktop."
 
 msgctxt "164933"
 msgid "Master Volume"
-msgstr "Volume Principale"
+msgstr "Volume principale"
 
 msgctxt "164947"
 msgid "Set main volume."
@@ -24060,7 +24061,7 @@ msgstr "Imposta il volume della musica."
 
 msgctxt "164988"
 msgid "Special Effects"
-msgstr "Effetti Speciali"
+msgstr "Effetti speciali"
 
 msgctxt "165004"
 msgid "Set special effects volume."
@@ -24084,7 +24085,7 @@ msgstr "Imposta il volume delle sequenze cinematiche."
 
 msgctxt "165120"
 msgid "Speaker Type"
-msgstr "Tipo di Altoparlanti"
+msgstr "Tipo di altoparlanti"
 
 msgctxt "165133"
 msgid "Set type of connected audio device."
@@ -24104,7 +24105,7 @@ msgstr "Tipo 3"
 
 msgctxt "165190"
 msgid "Output Device"
-msgstr "Dispositivo di Output Video"
+msgstr "Dispositivo di output video"
 
 msgctxt "165204"
 msgid "Set video output device."
@@ -24112,7 +24113,7 @@ msgstr "Imposta il dispositivo di output video."
 
 msgctxt "165229"
 msgid "Display Mode"
-msgstr "Modalità Schermo"
+msgstr "Modalità schermo"
 
 msgctxt "165242"
 msgid "Configure display mode."
@@ -24128,7 +24129,7 @@ msgstr "Imposta la risoluzione dello schermo."
 
 msgctxt "165301"
 msgid "Refresh Rate"
-msgstr "Frequenza di Aggiornamento"
+msgstr "Frequenza di aggiornamento"
 
 msgctxt "165314"
 msgid "Set screen refresh rate."
@@ -24136,7 +24137,7 @@ msgstr "Imposta la frequenza di aggiornamento dello schermo."
 
 msgctxt "165339"
 msgid "Vertical Sync"
-msgstr "Sincronizzazione Verticale"
+msgstr "Sincronizzazione verticale"
 
 msgctxt "165353"
 msgid "Enable or disable display vertical synchronization."
@@ -24152,7 +24153,7 @@ msgstr "Imposta il limite di fotogrammi al secondo."
 
 msgctxt "165466"
 msgid "Field of View"
-msgstr "Campo Visivo"
+msgstr "Campo visivo"
 
 msgctxt "165480"
 msgid "Configure camera field of view."
@@ -24160,7 +24161,7 @@ msgstr "Configura il campo visivo della telecamera."
 
 msgctxt "165512"
 msgid "Depth of Field"
-msgstr "Profondità di Campo"
+msgstr "Profondità di campo"
 
 msgctxt "165527"
 msgid "Configure depth of field effect."
@@ -24176,7 +24177,7 @@ msgstr "Opzioni grafiche avanzate."
 
 msgctxt "165596"
 msgid "Dynamic Resolution"
-msgstr "Risoluzione Dinamica"
+msgstr "Risoluzione dinamica"
 
 msgctxt "165615"
 msgid ""
@@ -24193,7 +24194,7 @@ msgstr ""
 
 msgctxt "165840"
 msgid "Input Type"
-msgstr "Tipo di Input"
+msgstr "Tipo di input"
 
 msgctxt "165851"
 msgid "Select input type."
@@ -24213,11 +24214,11 @@ msgstr "Controller"
 
 msgctxt "165902"
 msgid "Keyboard and Mouse"
-msgstr "Tastiera e Mouse"
+msgstr "Tastiera e mouse"
 
 msgctxt "165921"
 msgid "Fullscreen"
-msgstr "Schermo Intero"
+msgstr "Schermo intero"
 
 msgctxt "165932"
 msgid "Windowed"
@@ -24225,11 +24226,11 @@ msgstr "Finestra"
 
 msgctxt "165941"
 msgid "Borderless"
-msgstr "Senza Bordi"
+msgstr "Senza bordi"
 
 msgctxt "165952"
 msgid "Letterbox Artworks"
-msgstr "Artwork Letterbox"
+msgstr "Artwork letterbox"
 
 msgctxt "165971"
 msgid ""
@@ -24241,7 +24242,7 @@ msgstr ""
 
 msgctxt "166057"
 msgid "Texture Quality"
-msgstr "Qualità Texture"
+msgstr "Qualità texture"
 
 msgctxt "166073"
 msgid "Set texture quality."
@@ -24249,7 +24250,7 @@ msgstr "Imposta la qualità delle texture."
 
 msgctxt "166094"
 msgid "Texture Filtering"
-msgstr "Filtro Texture"
+msgstr "Filtro texture"
 
 msgctxt "166112"
 msgid "Set anisotropic texture filtering."
@@ -24257,7 +24258,7 @@ msgstr "Imposta il filtro anisotropico delle texture."
 
 msgctxt "166147"
 msgid "Shadow Quality"
-msgstr "Qualità Ombre"
+msgstr "Qualità ombre"
 
 msgctxt "166162"
 msgid "Set shadow quality."
@@ -24265,7 +24266,7 @@ msgstr "Imposta la qualità delle ombre."
 
 msgctxt "166182"
 msgid "Geometry Quality"
-msgstr "Qualità Geometrie"
+msgstr "Qualità geometrie"
 
 msgctxt "166199"
 msgid "Set quality of geometry meshes."
@@ -24281,7 +24282,7 @@ msgstr "Imposta il tipo di anti-aliasing o disabilitalo."
 
 msgctxt "166283"
 msgid "Render Scale"
-msgstr "Scala di Rendering"
+msgstr "Scala di rendering"
 
 msgctxt "166296"
 msgid "Set render scaling."
@@ -24297,7 +24298,7 @@ msgstr "Abilita o disabilita FidelityFX Contrast Adaptive Sharpening."
 
 msgctxt "166390"
 msgid "FidelityFX CAS Sharpen level"
-msgstr "Livello Nitidezza FidelityFX CAS"
+msgstr "Livello nitidezza FidelityFX CAS"
 
 msgctxt "166419"
 msgid "Set FidelityFX sharpen level."
@@ -24361,7 +24362,7 @@ msgstr "Disabilitato"
 
 msgctxt "166560"
 msgid "Upsample and Sharpen"
-msgstr "Upsample e Nitidezza"
+msgstr "Upsample e nitidezza"
 
 msgctxt "166581"
 msgid "Sharpen"
@@ -24369,7 +24370,7 @@ msgstr "Nitidezza"
 
 msgctxt "166589"
 msgid "Game Mode"
-msgstr "Modalità di Gioco"
+msgstr "Modalità di gioco"
 
 msgctxt "166599"
 msgid "Device"
@@ -24377,7 +24378,7 @@ msgstr "Dispositivo"
 
 msgctxt "166606"
 msgid "Pad icons"
-msgstr "Icone Controller"
+msgstr "Icone controller"
 
 msgctxt "166616"
 msgid "Auto"
@@ -24409,11 +24410,11 @@ msgstr ""
 
 msgctxt "166927"
 msgid "System Cursor"
-msgstr "Cursore di Sistema"
+msgstr "Cursore di sistema"
 
 msgctxt "166941"
 msgid "Game Cursor"
-msgstr "Cursore di Gioco"
+msgstr "Cursore di gioco"
 
 msgctxt "166953"
 msgid "On"
@@ -24441,7 +24442,7 @@ msgstr "Continua dai dati di salvataggio."
 
 msgctxt "167004"
 msgid "Exit to Title"
-msgstr "Torna al Titolo"
+msgstr "Torna al titolo"
 
 msgctxt "167018"
 msgid "Exit to title screen."
@@ -24457,7 +24458,7 @@ msgstr "Esci al desktop di Windows."
 
 msgctxt "167081"
 msgid "Japan Button Layout"
-msgstr "Layout Pulsanti Giapponese"
+msgstr "Layout pulsanti giapponese"
 
 msgctxt "167101"
 msgid ""
@@ -24531,7 +24532,7 @@ msgstr "Carica"
 
 msgctxt "167392"
 msgid "Graphics Quality"
-msgstr "Qualità Grafica"
+msgstr "Qualità grafica"
 
 msgctxt "167409"
 msgid "Use presets to easily control advanced graphics settings."
@@ -24679,7 +24680,7 @@ msgstr "Survival Tag"
 
 msgctxt "167781"
 msgid "Play Time"
-msgstr "Tempo di Gioco"
+msgstr "Tempo di gioco"
 
 msgctxt "167791"
 msgid "Create save on new slot"
@@ -24687,7 +24688,7 @@ msgstr "Crea salvataggio in un nuovo slot"
 
 msgctxt "167815"
 msgid "Save Game"
-msgstr "Salva Partita"
+msgstr "Salva partita"
 
 msgctxt "167825"
 msgid "Manual"
@@ -24703,7 +24704,7 @@ msgstr "Crea nuovo salvataggio"
 
 msgctxt "167853"
 msgid "Load Game"
-msgstr "Carica Partita"
+msgstr "Carica partita"
 
 msgctxt "167863"
 msgid "Load"
@@ -24715,27 +24716,27 @@ msgstr "Elimina"
 
 msgctxt "167875"
 msgid "Taiko: Drum Master Player 1"
-msgstr "Taiko: Drum Master Giocatore 1"
+msgstr "Taiko: Drum Master giocatore 1"
 
 msgctxt "167903"
 msgid "Taiko: Drum Master Player 2"
-msgstr "Taiko: Drum Master Giocatore 2"
+msgstr "Taiko: Drum Master giocatore 2"
 
 msgctxt "167931"
 msgid "Virtua Fighter 2 Player 1"
-msgstr "Virtua Fighter 2 Giocatore 1"
+msgstr "Virtua Fighter 2 giocatore 1"
 
 msgctxt "167957"
 msgid "Virtua Fighter 2 Player 2"
-msgstr "Virtua Fighter 2 Giocatore 2"
+msgstr "Virtua Fighter 2 giocatore 2"
 
 msgctxt "167983"
 msgid "Fishing (Sea)"
-msgstr "Pesca (Mare)"
+msgstr "Pesca (mare)"
 
 msgctxt "167997"
 msgid "Fishing (River)"
-msgstr "Pesca (Fiume)"
+msgstr "Pesca (fiume)"
 
 msgctxt "168013"
 msgid "Winter Combat"
@@ -24771,15 +24772,15 @@ msgstr "Hunter And Killer"
 
 msgctxt "168125"
 msgid "Taxi Driver (Taxi)"
-msgstr "Autista Taxi (Taxi)"
+msgstr "Autista taxi (taxi)"
 
 msgctxt "168144"
 msgid "Taxi Driver (Race)"
-msgstr "Autista Taxi (Corsa)"
+msgstr "Autista taxi (corsa)"
 
 msgctxt "168163"
 msgid "The Cost of a Swing"
-msgstr "Il Costo di uno Swing"
+msgstr "Il costo di uno swing"
 
 msgctxt "168183"
 msgid "Princess League"
@@ -24787,7 +24788,7 @@ msgstr "Princess League"
 
 msgctxt "168199"
 msgid "Idol Handshake Event"
-msgstr "Evento Stretta di Mano Idol"
+msgstr "Evento stretta di mano idol"
 
 msgctxt "168220"
 msgid "Running Girl"
@@ -24795,11 +24796,11 @@ msgstr "Running Girl"
 
 msgctxt "168233"
 msgid "Street Battle"
-msgstr "Battaglia di Strada"
+msgstr "Battaglia di strada"
 
 msgctxt "168247"
 msgid "Press Events"
-msgstr "Eventi Stampa"
+msgstr "Eventi stampa"
 
 msgctxt "168260"
 msgid "Dance Battles"
@@ -24819,15 +24820,15 @@ msgstr "Haruka IF8"
 
 msgctxt "168300"
 msgid "Survival Roulette"
-msgstr "Roulette di Sopravvivenza"
+msgstr "Roulette di sopravvivenza"
 
 msgctxt "168318"
 msgid "Play as Dealer"
-msgstr "Gioca come Dealer"
+msgstr "Gioca come dealer"
 
 msgctxt "168333"
 msgid "Flashback Battle"
-msgstr "Battaglia Flashback"
+msgstr "Battaglia flashback"
 
 msgctxt "168350"
 msgid "Press key to rebind"
@@ -24915,23 +24916,23 @@ msgstr "<Action:Button_Cross@Cost_Of_A_Swing> Raggio"
 
 msgctxt "168728"
 msgid "<Action:Button_Triangle@Cost_Of_A_Swing> Slugging Range"
-msgstr "<Action:Button_Triangle@Cost_Of_A_Swing> Raggio di Potenza"
+msgstr "<Action:Button_Triangle@Cost_Of_A_Swing> Raggio di potenza"
 
 msgctxt "168784"
 msgid "<Action:Button_Square@Cost_Of_A_Swing> Slugging Range"
-msgstr "<Action:Button_Square@Cost_Of_A_Swing> Raggio di Potenza"
+msgstr "<Action:Button_Square@Cost_Of_A_Swing> Raggio di potenza"
 
 msgctxt "168838"
 msgid "<Action:Button_Circle@Cost_Of_A_Swing> Slugging Range"
-msgstr "<Action:Button_Circle@Cost_Of_A_Swing> Raggio di Potenza"
+msgstr "<Action:Button_Circle@Cost_Of_A_Swing> Raggio di potenza"
 
 msgctxt "168892"
 msgid "<Action:Button_Cross@Cost_Of_A_Swing> Slugging Range"
-msgstr "<Action:Button_Cross@Cost_Of_A_Swing> Raggio di Potenza"
+msgstr "<Action:Button_Cross@Cost_Of_A_Swing> Raggio di potenza"
 
 msgctxt "168945"
 msgid "Impact Timing"
-msgstr "Tempismo d'Impatto"
+msgstr "Tempismo d'impatto"
 
 msgctxt "168959"
 msgid "Foul"
@@ -24975,7 +24976,7 @@ msgstr "Cambia i tuoi tacchetti."
 
 msgctxt "169067"
 msgid "%s Pitches %s Hit(s)"
-msgstr "%s Lanci %s Colpiti"
+msgid "%s Pitches %s Hit"
 
 msgctxt "169088"
 msgid "%s Pitches %s Home Run(s)"
@@ -27195,7 +27196,7 @@ msgstr ""
 "abilità, più punti otterrai premendo i pulsanti con precisione.\n"
 "\n"
 "<Color:39>Portare le abilità da idol al livello più alto possibile è la chiave del successo nelle\n"
-"battaglie in concerto, quindi assicurati di migliorare le abilità di Haruka tramite lavori e lezioni."
+"battaglie in concerto, quindi assicurati di migliorare le abilità di Haruka tramite lavori\ne lezioni."
 
 msgctxt "184922"
 msgid ""

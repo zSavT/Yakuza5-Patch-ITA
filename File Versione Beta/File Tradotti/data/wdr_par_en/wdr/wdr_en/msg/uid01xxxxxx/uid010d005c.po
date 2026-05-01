@@ -42,7 +42,7 @@ msgstr "Hai ottenuto <Color:8>L'Amuleto di Haruka<Color:Default>."
 
 msgctxt "6024"
 msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
-msgstr "Hai ottenuto <Color:8>il cioccolato di Haruka<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Cioccolato di Haruka<Color:Default>."
 
 msgctxt "6084"
 msgid "You got <Color:8>Haruka's Candy<Color:Default>."
@@ -50,7 +50,7 @@ msgstr "Hai ottenuto <Color:8>Dolcetto di Haruka<Color:Default>."
 
 msgctxt "6192"
 msgid "You got <Color:8>Morning Glory Belly Warmer<Color:Default>."
-msgstr "Hai ottenuto <Color:8>Scaldapancia del Glicine<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Scaldapancia del Morning Glory<Color:Default>."
 
 msgctxt "94152"
 msgid "Staff"
@@ -118,7 +118,7 @@ msgstr "Solo alle terme"
 
 msgctxt "94216"
 msgid "Air Hockey Only"
-msgstr "Solo a Air Hockey"
+msgstr "Solo ad Air Hockey"
 
 msgctxt "94220"
 msgid "Both"
@@ -234,11 +234,11 @@ msgstr "Ehi, l'attrezzatura funziona ancora."
 
 msgctxt "94332"
 msgid "Think about peeping on Riku."
-msgstr "Pensa di spiare Riku."
+msgstr "Pensa a spiare Riku."
 
 msgctxt "94336"
 msgid "Think about eating ramen in the bath with Riku."
-msgstr "Pensa di mangiare ramen nella vasca con Riku."
+msgstr "Pensa a mangiare ramen nella vasca con Riku."
 
 msgctxt "94340"
 msgid "Think about Hinata washing your back."
@@ -262,7 +262,7 @@ msgstr "Ricorda di aver parlato delle vasche all'aperto."
 
 msgctxt "94360"
 msgid "Think about bathing with Honoka."
-msgstr "Pensa di fare il bagno con Honoka."
+msgstr "Pensa a fare il bagno con Honoka."
 
 msgctxt "94364"
 msgid "Think about Honoka being a reporter."
@@ -893,8 +893,8 @@ msgid ""
 "Maybe you should be a hot spring reporter then. Report the news from inside "
 "a spring! That'd be something."
 msgstr ""
-"Magari dovresti fare il reporter delle terme, allora. Fare i servizi "
-"direttamente da dentro la vasca! Sarebbe proprio un bel vedere."
+"Magari dovresti fare la reporter delle terme, allora. Fare i servizi "
+"direttamente da dentro la vasca! Non sarebbe affatto male."
 
 msgctxt "2604_Honoka"
 msgid ""
@@ -922,7 +922,7 @@ msgstr "Akiyama-san, ci sei ancora?"
 
 msgctxt "2724_Player"
 msgid "Yes, yes. You about ready to get out?"
-msgstr "Sì, sì. Sei pronto a uscire?"
+msgstr "Sì, sì. Sei pronta a uscire?"
 
 msgctxt "2808_Player"
 msgid "Mmmm..."
