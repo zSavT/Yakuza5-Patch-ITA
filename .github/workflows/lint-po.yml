@@ -1,4 +1,4 @@
-name: Check PO Structure
+name: Controllo gettext PO
 
 on:
   push:
