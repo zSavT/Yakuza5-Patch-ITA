@@ -7,8 +7,7 @@ on:
       - 'File Versione Beta/File Tradotti/data/**'
   pull_request:
     branches: [ main ]
-    paths:
-      - 'File Versione Beta/File Tradotti/data/**'
+    # Rimosso il filtro 'paths' per farlo avviare ad ogni commit nella PR
 
 jobs:
   validate:
