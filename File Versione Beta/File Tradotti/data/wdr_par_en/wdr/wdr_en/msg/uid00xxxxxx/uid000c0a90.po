@@ -18,7 +18,7 @@ msgstr "Hai ottenuto <Color:8>Staminan Royale<Color:Default>."
 
 msgctxt "328"
 msgid "You got <Color:8>Bloody Binding<Color:Default>."
-msgstr "Hai ottenuto <Color:8>Legaccio insanguinato<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Fasciatura insanguinata<Color:Default>."
 
 msgctxt "400"
 msgid "You got 500 experience points."
@@ -26,7 +26,7 @@ msgstr "Hai ottenuto 500 punti esperienza."
 
 msgctxt "448"
 msgid "You handed over <Color:8>Bear Meat<Color:Default>."
-msgstr "Hai consegnato <Color:8>Carne d'orso<Color:Default>."
+msgstr "Hai consegnato <Color:8>Carne di orso<Color:Default>."
 
 msgctxt "472"
 msgid "You handed over <Color:8>Bear Fat<Color:Default>."
@@ -34,7 +34,7 @@ msgstr "Hai consegnato <Color:8>Grasso d'orso<Color:Default>."
 
 msgctxt "496"
 msgid "You handed over <Color:8>Bear Bile<Color:Default>."
-msgstr "Hai consegnato <Color:8>Bile d'orso<Color:Default>."
+msgstr "Hai consegnato <Color:8>Bile d'Orso<Color:Default>."
 
 msgctxt "520"
 msgid "You handed over <Color:8>Bear Skin<Color:Default>."
@@ -46,7 +46,7 @@ msgstr "Hai ottenuto <Color:8>102.000 yen<Color:Default>."
 
 msgctxt "700"
 msgid "You got <Color:8>Fearless Binding<Color:Default>."
-msgstr "Hai ottenuto <Color:8>Legaccio impavido<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Fasciatura dell'impavido<Color:Default>."
 
 msgctxt "760"
 msgid "You got 500 experience points."
@@ -54,7 +54,7 @@ msgstr "Hai ottenuto 500 punti esperienza."
 
 msgctxt "1048"
 msgid "You handed over <Color:8>Bear Meat<Color:Default>."
-msgstr "Hai consegnato <Color:8>Carne d'orso<Color:Default>."
+msgstr "Hai consegnato <Color:8>Carne di orso<Color:Default>."
 
 msgctxt "1072"
 msgid "You handed over <Color:8>Bear Fat<Color:Default>."
@@ -62,7 +62,7 @@ msgstr "Hai consegnato <Color:8>Grasso d'orso<Color:Default>."
 
 msgctxt "1096"
 msgid "You handed over <Color:8>Bear Bile<Color:Default>."
-msgstr "Hai consegnato <Color:8>Bile d'orso<Color:Default>."
+msgstr "Hai consegnato <Color:8>Bile d'Orso<Color:Default>."
 
 msgctxt "1120"
 msgid "You handed over <Color:8>Bear Skin<Color:Default>."
@@ -74,7 +74,7 @@ msgstr "Hai ottenuto <Color:8>102.000 yen<Color:Default>."
 
 msgctxt "1300"
 msgid "You got <Color:8>Fearless Binding<Color:Default>."
-msgstr "Hai ottenuto <Color:8>Legaccio impavido<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Fasciatura dell'impavido<Color:Default>."
 
 msgctxt "1360"
 msgid "You got 500 experience points."
@@ -90,7 +90,7 @@ msgstr "Hai consegnato <Color:8>Pelle di Cervo<Color:Default>."
 
 msgctxt "1528"
 msgid "You handed over <Color:8>Antler<Color:Default>."
-msgstr "Hai consegnato <Color:8>Palco di Cervo<Color:Default>."
+msgstr "Hai consegnato <Color:8>Palco<Color:Default>."
 
 msgctxt "1552"
 msgid "You got <Color:8>26,000 yen<Color:Default>."
@@ -106,11 +106,11 @@ msgstr "Hai consegnato <Color:8>Carne di Cervo<Color:Default>."
 
 msgctxt "1900"
 msgid "You handed over <Color:8>Deer Hide<Color:Default>."
-msgstr "Hai consegnato <Color:8>Pelle di cervo<Color:Default>."
+msgstr "Hai consegnato <Color:8>Pelle di Cervo<Color:Default>."
 
 msgctxt "1924"
 msgid "You handed over <Color:8>Antler<Color:Default>."
-msgstr "Hai consegnato <Color:8>Palco di cervo<Color:Default>."
+msgstr "Hai consegnato <Color:8>Palco<Color:Default>."
 
 msgctxt "1948"
 msgid "You got <Color:8>26,000 yen<Color:Default>."
@@ -945,7 +945,7 @@ msgstr ""
 
 msgctxt "3184_Saejima"
 msgid "Yup, it's yer marten pelt."
-msgstr "Già, è la tua Pelle di Martora."
+msgstr "Già, è la tua Pelliccia di Martora."
 
 msgctxt "3196_Trader"
 msgid "Thank you! This is a huge boon for my business!"
@@ -964,7 +964,7 @@ msgid ""
 "Hi there, Saejima-san. I'm still holding out hope you'll get that marten "
 "pelt for me."
 msgstr ""
-"Ciao, Saejima-san. Ci spero ancora che tu mi procurerai quella pelle di "
+"Ciao, Saejima-san. Ci spero ancora che tu mi procurerai quella pelliccia di "
 "martora."
 
 msgctxt "3316_Trader"
@@ -992,7 +992,7 @@ msgid ""
 "Uh, could I possibly buy a marten pelt off you? I'll offer double what I "
 "usually pay."
 msgstr ""
-"Ehm, potrei per caso comprarti una Pelle di Martora? Ti offro il doppio di "
+"Ehm, potrei per caso comprarti una Pelliccia di Martora? Ti offro il doppio di "
 "quello che pago di solito."
 
 msgctxt "3436_Saejima"
@@ -1005,7 +1005,7 @@ msgid ""
 "for a marten pelt."
 msgstr ""
 "Più o meno. Uno dei miei clienti abituali a Tokyo mi ha appena inviato un "
-"ordine urgente per una Pelle di Martora."
+"ordine urgente per una Pelliccia di Martora."
 
 msgctxt "3460_Trader"
 msgid ""
@@ -1050,11 +1050,11 @@ msgstr ""
 
 msgctxt "3532_Mission Added"
 msgid "\"Sell a Marten Pelt\" was added to the list of missions."
-msgstr "\"Vendi una Pelle di Martora\" è stata aggiunta alla lista delle missioni."
+msgstr "\"Vendi una Pelliccia di Martora\" è stata aggiunta alla lista delle missioni."
 
 msgctxt "3556_Saejima"
 msgid "I've got a marten pelt here. If this'll do, it's yours."
-msgstr "Ho qui una Pelle di Martora. Se ti va bene questa, è tua."
+msgstr "Ho qui una Pelliccia di Martora. Se ti va bene questa, è tua."
 
 msgctxt "3568_Trader"
 msgid "Oh, wow! You're the best, Saejima-san!"
