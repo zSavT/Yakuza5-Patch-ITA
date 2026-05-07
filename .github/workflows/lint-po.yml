@@ -1,0 +1,34 @@
+name: Controllo gettext PO
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'File Versione Beta/File Tradotti/data/**'
+  pull_request:
+    branches: [ main ]
+    # Rimosso il filtro 'paths' per farlo avviare ad ogni commit nella PR
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install gettext
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y gettext
+
+      - name: Validate PO Syntax
+        run: |
+          TARGET_DIR="File Versione Beta/File Tradotti/data"
+          find "$TARGET_DIR" -name "*.po" -print0 | xargs -0 -I {} sh -c '
+            OUTPUT=$(msgfmt -c -o /dev/null "{}" 2>&1)
+            STATUS=$?
+            if [ $STATUS -ne 0 ]; then
+              echo "❌ ERRORE CRITICO: {}"
+              echo "$OUTPUT" | grep -v "warning:"
+              exit 1
+            fi
+          '

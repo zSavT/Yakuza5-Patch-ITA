@@ -5,8 +5,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-25\n"
 "Last-Translator: \n"
-"Language-Team: Portuguese, Brazilian\n"
-"Language: pt\n"
+"Language-Team: Italian\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -26,7 +26,7 @@ msgstr "Bicchiere da whisky (Destra)"
 
 msgctxt "0\t37696\t3\tCHK"
 msgid "Whisky Glass (Left)"
-msgstr "Bicchiere da Whisky (Sinistra)"
+msgstr "Bicchiere da whisky (Sinistra)"
 
 msgctxt "0\t37716\t4\tCHK"
 msgid "Chisel (Right)"
@@ -222,7 +222,7 @@ msgstr "Pala"
 
 msgctxt "0\t38682\t52\tCHK"
 msgid "Fully Cooked Tsuruhashi Fugetsu Okonomiyaki"
-msgstr "Cotto alla perfezione Tsuruhashi Fugetsu Okonomiyaki"
+msgstr "Okonomiyaki Tsuruhashi Fugetsu ben cotto"
 
 msgctxt "0\t38726\t53\tCHK"
 msgid "Tsuruhashi Fugetsu Okonomiyaki with Plate"
@@ -250,7 +250,7 @@ msgstr "Pasta del minimarket"
 
 msgctxt "0\t38926\t59\tCHK"
 msgid "Convenience Store Curry"
-msgstr "Curry del Minimarket"
+msgstr "Curry del minimarket"
 
 msgctxt "0\t38950\t60\tCHK"
 msgid "New Digital Song Catalog"
@@ -270,7 +270,7 @@ msgstr "Taccuino"
 
 msgctxt "0\t39037\t64\tCHK"
 msgid "Drawing Bell"
-msgstr "Campana dell'estrazione"
+msgstr "Campanella della lotteria"
 
 msgctxt "0\t39050\t65\tCHK"
 msgid "Cardboard Box (Deliveries)"
@@ -302,7 +302,7 @@ msgstr "Sedia Pieghevole"
 
 msgctxt "0\t39197\t72\tCHK"
 msgid "PrintCircle of Haruka, Akari, and Yui"
-msgstr "Stampa del Cerchio di Haruka, Akari e Yui"
+msgstr "Purikura di Haruka, Akari e Yui"
 
 msgctxt "0\t39235\t73\tCHK"
 msgid "Haruka's Cell Phone (Adventure)"
@@ -386,15 +386,15 @@ msgstr "Libretto di Haruka - Ver. Chiusa (Avventura)"
 
 msgctxt "0\t39839\t93\tCHK"
 msgid "Haruka's Bankbook - Open Ver. (Adventure)"
-msgstr "Il libretto bancario di Haruka - Ver. aperta (Avventura)"
+msgstr "Libretto di Haruka - Ver. Aperta (Avventura)"
 
 msgctxt "0\t39881\t94\tCHK"
 msgid "Haruka's Bag (Adventure)"
-msgstr "La borsa di Haruka (Avventura)"
+msgstr "Borsa di Haruka (Avventura)"
 
 msgctxt "0\t39906\t95\tCHK"
 msgid "Cue Card"
-msgstr "Scheda Suggeritore"
+msgstr "Gobbo"
 
 msgctxt "0\t39915\t96\tCHK"
 msgid "Felt-Tip Pen (Adventure)"
@@ -406,7 +406,7 @@ msgstr "Ramen su un Vassoio"
 
 msgctxt "0\t39956\t98\tCHK"
 msgid "Autograph Paper"
-msgstr "Carta per autografi"
+msgstr "Cartoncino per autografi"
 
 msgctxt "0\t39972\t99\tCHK"
 msgid "Envelope"
@@ -458,7 +458,7 @@ msgstr "Nunchaku (Avventura)"
 
 msgctxt "0\t40174\t111\tCHK"
 msgid "IF7 Helmet (Adventure)"
-msgstr "IF7 Casco (Avventura)"
+msgstr "Casco IF7 (Avventura)"
 
 msgctxt "0\t40197\t112\tCHK"
 msgid "Photo of Majima, Park, and Katsuya (Adventure)"
@@ -478,7 +478,7 @@ msgstr "Catene che hanno trattenuto Majima (Avventura)"
 
 msgctxt "0\t40338\t116\tCHK"
 msgid "Shinada's Tab (Adventure)"
-msgstr "Scheda di Shinada (Avventura)"
+msgstr "Conto di Shinada (Avventura)"
 
 msgctxt "0\t40364\t117\tCHK"
 msgid "Map of Tsukimino (Adventure)"
@@ -498,7 +498,7 @@ msgstr "Libro contabile (Avventura)"
 
 msgctxt "0\t40473\t121\tCHK"
 msgid "Park's Fountain Pen (Adventure)"
-msgstr "Penna stilografica di Park (Avventura)"
+msgstr "Stilografica di Park (Avventura)"
 
 msgctxt "0\t40505\t122\tCHK"
 msgid "Kurosawa's Gun (Adventure)"
@@ -506,7 +506,7 @@ msgstr "Pistola di Kurosawa (Avventura)"
 
 msgctxt "0\t40532\t123\tCHK"
 msgid "Daigo's Gun (Adventure)"
-msgstr "La pistola di Daigo (Avventura)"
+msgstr "Pistola di Daigo (Avventura)"
 
 msgctxt "0\t40556\t124\tCHK"
 msgid "Newspaper Reporting Sawada's Trade (Adventure)"
@@ -566,7 +566,7 @@ msgstr "Taiko No Tatsujin 2P Bacchetta Taiko Blu Sinistra"
 
 msgctxt "0\t40967\t138\tCHK"
 msgid "Taiko No Tatsujin 2P Blue Right Taiko Stick"
-msgstr "Taiko No Tatsujin Bacchetta Taiko Blu Destra 2P"
+msgstr "Taiko No Tatsujin 2P Bacchetta Taiko Blu Destra"
 
 msgctxt "0\t41011\t139\tCHK"
 msgid "Flower Bag (Adventure)"
@@ -590,7 +590,7 @@ msgstr "[WDR] Borsa da lavoro A (Sinistra)"
 
 msgctxt "0\t41141\t144\tCHK"
 msgid "[WDR] Business Bag A (Right)"
-msgstr "[WDR] Borsa da Affari A (Destra)"
+msgstr "[WDR] Borsa da lavoro A (Destra)"
 
 msgctxt "0\t41170\t145\tCHK"
 msgid "[WDR] Business Bag B (Left)"
@@ -610,15 +610,15 @@ msgstr "[WDR] Borsone A (Destra)"
 
 msgctxt "0\t41286\t149\tCHK"
 msgid "[WDR] Overnight Bag B (Left)"
-msgstr "[WDR] Borsone per la notte B (Sinistra)"
+msgstr "[WDR] Borsone B (Sinistra)"
 
 msgctxt "0\t41315\t150\tCHK"
 msgid "[WDR] Overnight Bag B (Right)"
-msgstr "[WDR] Borsa da viaggio B (Destra)"
+msgstr "[WDR] Borsone B (Destra)"
 
 msgctxt "0\t41345\t151\tCHK"
 msgid "[WDR] Handbag A (Left)"
-msgstr "[WDR] Borsetta A (Sinistra)"
+msgstr "[WDR] Borsa A (Sinistra)"
 
 msgctxt "0\t41368\t152\tCHK"
 msgid "[WDR] Handbag A (Right)"
@@ -638,7 +638,7 @@ msgstr "[WDR] Sacchetto di carta A_Piccolo (Sinistra)"
 
 msgctxt "0\t41470\t156\tCHK"
 msgid "[WDR] Paper Bag A_Small (Right)"
-msgstr "[WDR] Sacchetto di carta A piccolo (Destra)"
+msgstr "[WDR] Sacchetto di carta A_Piccolo (Destra)"
 
 msgctxt "0\t41502\t157\tCHK"
 msgid "[WDR] Paper Bag B_Small (Left)"
@@ -666,7 +666,7 @@ msgstr "[WDR] Sacchetto di carta D_Medio (Destra)"
 
 msgctxt "0\t41695\t163\tCHK"
 msgid "[WDR] Paper Bag E_Large (Left)"
-msgstr "[WDR] Borsa di carta E_Grande (Sinistra)"
+msgstr "[WDR] Sacchetto di carta E_Grande (Sinistra)"
 
 msgctxt "0\t41726\t164\tCHK"
 msgid "[WDR] Paper Bag E_Large (Right)"
@@ -678,7 +678,7 @@ msgstr "[WDR] Sacchetto di carta A_Doppio (Sinistra)"
 
 msgctxt "0\t41790\t166\tCHK"
 msgid "[WDR] Paper Bag A_Double (Right)"
-msgstr "[WDR] Busta di carta A_Doppio (Destra)"
+msgstr "[WDR] Sacchetto di carta A_Doppio (Destra)"
 
 msgctxt "0\t41823\t167\tCHK"
 msgid "[WDR] Paper Bag B_Double (Left)"
@@ -742,7 +742,7 @@ msgstr "[WDR] Ramen"
 
 msgctxt "0\t42177\t182\tCHK"
 msgid "[WDR] Shake"
-msgstr "[WDR] Scuotere"
+msgstr "[WDR] Frullato"
 
 msgctxt "0\t42189\t183\tCHK"
 msgid "[WDR] Newspaper"
@@ -770,7 +770,7 @@ msgstr "[Minigioco] <Golf> Ferro A"
 
 msgctxt "0\t42335\t189\tCHK"
 msgid "[Minigame] <Golf> Iron B"
-msgstr "[Minigame] <Golf> Ferro B"
+msgstr "[Minigioco] <Golf> Ferro B"
 
 msgctxt "0\t42360\t190\tCHK"
 msgid "[Minigame] <Golf> Iron C"
@@ -810,11 +810,11 @@ msgstr "[ADV] Sake in tazza"
 
 msgctxt "0\t42587\t199\tCHK"
 msgid "[ADV] Kiryu's Cell Phone"
-msgstr "[ADV] Cellulare di Kiryu"
+msgstr "[ADV] Telefonino di Kiryu"
 
 msgctxt "0\t42612\t200\tCHK"
 msgid "[ADV] Kiryu's Cigarette"
-msgstr "[ADV] La sigaretta di Kiryu"
+msgstr "[ADV] Sigaretta di Kiryu"
 
 msgctxt "0\t42636\t201\tCHK"
 msgid "[ADV] [Matsuya] Matsuya Bowl"
@@ -1097,8 +1097,8 @@ msgid "Fragment Object Base"
 msgstr "Oggetto Frammento Base"
 
 msgctxt "0\t45083\t271\tCHK"
-msgid "Fixed Heat Snipe Target Base"
-msgstr "Base bersaglio Heat Snipe fissa"
+msgid "Fixed Furore Snipe Target Base"
+msgstr "Base bersaglio Furore Snipe fissa"
 
 msgctxt "0\t45112\t272\tCHK"
 msgid "Entangled/Destructible Object"
@@ -1798,7 +1798,7 @@ msgstr "(Rivelazione hact) (AVV) Braccio dell'UFO Catcher"
 
 msgctxt "0\t49347\t446\tCHK"
 msgid "Mini-Truck (Morning Glory Orphanage)"
-msgstr "Mini-camion (Orfanotrofio Girasole)"
+msgstr "Mini-camion (Orfanotrofio Morning Glory)"
 
 msgctxt "0\t49384\t447\tCHK"
 msgid "Cone"
@@ -1966,20 +1966,20 @@ msgid "Batting Center Glass (Level 3 Fragment)"
 msgstr "Vetro del Centro di battuta (Frammento di Livello 3)"
 
 msgctxt "0\t50748\t488\tCHK"
-msgid "Black Sedan (Heat)"
-msgstr "Berlina Nera (Heat)"
+msgid "Black Sedan (Furore)"
+msgstr "Berlina Nera (Furore)"
 
 msgctxt "0\t50767\t489\tCHK"
-msgid "Dark Blue Taxi (Heat)"
+msgid "Dark Blue Taxi (Furore)"
 msgstr "Taxi Blu Scuro (Calore)"
 
 msgctxt "0\t50789\t490\tCHK"
-msgid "Orange Taxi (Heat)"
+msgid "Orange Taxi (Furore)"
 msgstr "Taxi Arancione (Azione Calore)"
 
 msgctxt "0\t50808\t491\tCHK"
-msgid "White Taxi (Heat)"
-msgstr "Taxi Bianco (Heat)"
+msgid "White Taxi (Furore)"
+msgstr "Taxi Bianco (Furore)"
 
 msgctxt "0\t50826\t492\tCHK"
 msgid "Batting Center Glass (Cracked Level 4)"
@@ -3187,7 +3187,7 @@ msgstr "Taxi di Kiryu (Solo per il movimento, non usare nel gioco)"
 
 msgctxt "0\t58732\t793\tCHK"
 msgid "Vixen Zeroes' Sparkly Car"
-msgstr "Auto luccicante di Vixen Zeroes"
+msgstr "Auto Scintillante delle Vixen Zeroes"
 
 msgctxt "0\t58758\t794\tCHK"
 msgid "Kidnapper's Car"
@@ -3578,36 +3578,36 @@ msgid "Silver Bullet Gun"
 msgstr "Pistola Proiettili d'Argento"
 
 msgctxt "0\t61271\t891\tCHK"
-msgid "Black Umbrella (Open) [Heat]"
+msgid "Black Umbrella (Open) [Furore]"
 msgstr "Ombrello Nero (Aperto) [Calore]"
 
 msgctxt "0\t61300\t892\tCHK"
-msgid "Black Umbrella (Closed) [Heat]"
-msgstr "Ombrello Nero (Chiuso) [Heat]"
+msgid "Black Umbrella (Closed) [Furore]"
+msgstr "Ombrello Nero (Chiuso) [Furore]"
 
 msgctxt "0\t61331\t893\tCHK"
-msgid "Gentleman's Umbrella (Open) [Heat]"
-msgstr "Ombrello da Signore (Aperto) [Heat]"
+msgid "Gentleman's Umbrella (Open) [Furore]"
+msgstr "Ombrello da Signore (Aperto) [Furore]"
 
 msgctxt "0\t61366\t894\tCHK"
-msgid "Gentleman's Umbrella (Closed) [Heat]"
-msgstr "Ombrello da Gentiluomo (Chiuso) [Heat]"
+msgid "Gentleman's Umbrella (Closed) [Furore]"
+msgstr "Ombrello da Gentiluomo (Chiuso) [Furore]"
 
 msgctxt "0\t61403\t895\tCHK"
-msgid "Elegant Umbrella (Open) [Heat]"
+msgid "Elegant Umbrella (Open) [Furore]"
 msgstr "Ombrello Elegante (Aperto) [Calore]"
 
 msgctxt "0\t61434\t896\tCHK"
-msgid "Elegant Umbrella (Closed) [Heat]"
+msgid "Elegant Umbrella (Closed) [Furore]"
 msgstr "Ombrello Elegante (Chiuso) [Calore]"
 
 msgctxt "0\t61467\t897\tCHK"
-msgid "Colorful Parasol (Open) [Heat]"
-msgstr "Parasole Colorato (Aperto) [Heat]"
+msgid "Colorful Parasol (Open) [Furore]"
+msgstr "Parasole Colorato (Aperto) [Furore]"
 
 msgctxt "0\t61498\t898\tCHK"
-msgid "Colorful Parasol (Closed) [Heat]"
-msgstr "Ombrello Colorato (Chiuso) [Heat]"
+msgid "Colorful Parasol (Closed) [Furore]"
+msgstr "Ombrello Colorato (Chiuso) [Furore]"
 
 msgctxt "0\t61531\t899\tCHK"
 msgid "Volcano Banner"
@@ -3743,11 +3743,11 @@ msgstr "Frammento di Bicicletta (Rotta) (Blu)"
 
 msgctxt "0\t62231\t932\tCHK"
 msgid "Bicycle (Cream)"
-msgstr "Bicicletta (Crema)"
+msgstr "Bicicletta (Panna)"
 
 msgctxt "0\t62247\t933\tCHK"
 msgid "Bicycle (Cream) Fragment_Tire"
-msgstr "Bicicletta (Crema) Frammento_Gomma"
+msgstr "Bicicletta (Panna) Frammento_Gomma"
 
 msgctxt "0\t62277\t934\tCHK"
 msgid "Bicycle (Broken) (Cream) Fragment"
@@ -3875,19 +3875,19 @@ msgstr "Cartello idrante antincendio"
 
 msgctxt "0\t62861\t965\tCHK"
 msgid "Beverage Bottle Recycle Bin"
-msgstr "Cestino per il riciclo delle bottiglie di bevande"
+msgstr "Cestino per il riciclo delle bottiglie"
 
 msgctxt "0\t62889\t966\tCHK"
 msgid "Beverage Bottle Recycle Bin (Broken)"
-msgstr "Bidone per il riciclo di bottiglie di bevande (Rotto)"
+msgstr "Cestino per il riciclo delle bottiglie (Rotto)"
 
 msgctxt "0\t62926\t967\tCHK"
 msgid "Beverage Can Recycle Bin"
-msgstr "Cestino per il riciclo di lattine"
+msgstr "Cestino per il riciclo delle lattine"
 
 msgctxt "0\t62951\t968\tCHK"
 msgid "Beverage Can Recycle Bin (Broken)"
-msgstr "Cestino per il riciclo di lattine (Rotto)"
+msgstr "Cestino per il riciclo delle lattine (Rotto)"
 
 msgctxt "0\t62985\t969\tCHK"
 msgid "Beer Keg"
@@ -4283,39 +4283,39 @@ msgstr "Minivan (Freccia sinistra)"
 
 msgctxt "0\t65425\t1067\tCHK"
 msgid "Strawberry Madam Sign"
-msgstr "Insegna della Signora Fragola"
+msgstr "Insegna Strawberry Madam"
 
 msgctxt "0\t65447\t1068\tCHK"
 msgid "Compass Sign"
-msgstr "Cartello della bussola"
+msgstr "Insegna Compass"
 
 msgctxt "0\t65460\t1069\tCHK"
 msgid "Goose Bump Romance Sign"
-msgstr "Insegna del Romance da Brividi"
+msgstr "Insegna Goose Bump Romance"
 
 msgctxt "0\t65484\t1070\tCHK"
 msgid "Karma Sign"
-msgstr "Segno del Karma"
+msgstr "Insegna Karma"
 
 msgctxt "0\t65495\t1071\tCHK"
 msgid "Bar Chinaski Sign"
-msgstr "Insegna del Bar Chinaski"
+msgstr "Insegna Bar Chinaski"
 
 msgctxt "0\t65513\t1072\tCHK"
 msgid "Udon Banner"
-msgstr "Insegna Udon"
+msgstr "Striscione Udon"
 
 msgctxt "0\t65525\t1073\tCHK"
 msgid "Free Info Booth Sign"
-msgstr "Cartello Informazioni Gratuite"
+msgstr "Insegna Punto Info Gratuito"
 
 msgctxt "0\t65546\t1074\tCHK"
 msgid "Nagasu Parlor Banner"
-msgstr "Striscione del salone di Nagasu"
+msgstr "Striscione Nagasu Parlor"
 
 msgctxt "0\t65567\t1075\tCHK"
 msgid "Najimi Inn Sign"
-msgstr "Insegna del Najimi Inn"
+msgstr "Insegna Najimi Inn"
 
 msgctxt "0\t65583\t1076\tCHK"
 msgid "Café \"Escape\" Sign"
@@ -4327,19 +4327,19 @@ msgstr "Insegna Nagasu Yuyama Mizutaki"
 
 msgctxt "0\t65631\t1078\tCHK"
 msgid "Son of Fulci Sign"
-msgstr "Insegna Figlio di Fulci"
+msgstr "Insegna Son of Fulci"
 
 msgctxt "0\t65649\t1079\tCHK"
 msgid "Whip Encounter Sign"
-msgstr "Segnale di Scontro Frusta"
+msgstr "Insegna Whip Encounter"
 
 msgctxt "0\t65669\t1080\tCHK"
 msgid "Snapping Turtle Sign"
-msgstr "Insegna della tartaruga azzannatrice"
+msgstr "Insegna Snapping Turtle"
 
 msgctxt "0\t65690\t1081\tCHK"
 msgid "Give U Pain Sign"
-msgstr "Insegna per Farti Male"
+msgstr "Insegna Give U Pain"
 
 msgctxt "0\t65707\t1082\tCHK"
 msgid "Sukkori Sign"
@@ -4347,7 +4347,7 @@ msgstr "Insegna Sukkori"
 
 msgctxt "0\t65720\t1083\tCHK"
 msgid "Cram School Sign"
-msgstr "Insegna di una Scuola di recupero"
+msgstr "Insegna Scuola di Recupero"
 
 msgctxt "0\t65737\t1084\tCHK"
 msgid "UTRECHT CAFE Sign"
@@ -4355,7 +4355,7 @@ msgstr "Insegna UTRECHT CAFE"
 
 msgctxt "0\t65755\t1085\tCHK"
 msgid "UTRECHT CAFE Menu Sign"
-msgstr "Insegna del Menù del CAFFÈ UTRECHT"
+msgstr "Insegna Menu UTRECHT CAFE"
 
 msgctxt "0\t65778\t1086\tCHK"
 msgid "HARDCORE Sign"
@@ -4363,7 +4363,7 @@ msgstr "Insegna HARDCORE"
 
 msgctxt "0\t65792\t1087\tCHK"
 msgid "Green Beans Sign"
-msgstr "Insegna Fagiolini Verdi"
+msgstr "Insegna Green Beans"
 
 msgctxt "0\t65809\t1088\tCHK"
 msgid "Izakaya \"Shakkei\" Sign"
@@ -4371,11 +4371,11 @@ msgstr "Insegna Izakaya \"Shakkei\""
 
 msgctxt "0\t65832\t1089\tCHK"
 msgid "Original Dipping Noodles Banner"
-msgstr "Insegna originale di noodles da intingere"
+msgstr "Striscione dei Noodles da intingere originali"
 
 msgctxt "0\t65864\t1090\tCHK"
 msgid "Nagasu Gifts \"Tsuruya\" Banner"
-msgstr "Striscione di Nagasu Gifts \"Tsuruya\""
+msgstr "Striscione Nagasu Gifts \"Tsuruya\""
 
 msgctxt "0\t65894\t1091\tCHK"
 msgid "Sadoon Sign"
@@ -4383,7 +4383,7 @@ msgstr "Insegna Sadoon"
 
 msgctxt "0\t65906\t1092\tCHK"
 msgid "Asian PUB Sign"
-msgstr "Insegna PUB asiatica"
+msgstr "Insegna Asian PUB"
 
 msgctxt "0\t65921\t1093\tCHK"
 msgid "Kisaragi Sign"
@@ -4391,15 +4391,15 @@ msgstr "Insegna Kisaragi"
 
 msgctxt "0\t65935\t1094\tCHK"
 msgid "Matryo Dentistry Sign"
-msgstr "Insegna dello Studio Dentistico Matryo"
+msgstr "Insegna Studio Dentistico Matryo"
 
 msgctxt "0\t65957\t1095\tCHK"
 msgid "Buzen Banner"
-msgstr "Stendardo di Buzen"
+msgstr "Striscione Buzen"
 
 msgctxt "0\t65970\t1096\tCHK"
 msgid "Gallery Steave Sign"
-msgstr "Insegna Galleria Steave"
+msgstr "Insegna Gallery Steave"
 
 msgctxt "0\t65990\t1097\tCHK"
 msgid "La Seine Sign"
@@ -4415,7 +4415,7 @@ msgstr "Insegna Zazen Izakaya \"Toge Jizo\""
 
 msgctxt "0\t66062\t1100\tCHK"
 msgid "Lord Pig Sign"
-msgstr "Insegna del Signore Maiale"
+msgstr "Insegna Lord Pig"
 
 msgctxt "0\t66076\t1101\tCHK"
 msgid "COSTA NAGASU Sign"
@@ -4423,55 +4423,55 @@ msgstr "Insegna COSTA NAGASU"
 
 msgctxt "0\t66094\t1102\tCHK"
 msgid "Bistro \"CyanCat\" Menu Sign"
-msgstr "Insegna del menù del Bistro \"CyanCat\""
+msgstr "Insegna Menu Bistro \"CyanCat\""
 
 msgctxt "0\t66121\t1103\tCHK"
 msgid "UP TO YOU Sign"
-msgstr "Insegna 'Vedi tu'"
+msgstr "Insegna UP TO YOU"
 
 msgctxt "0\t66136\t1104\tCHK"
 msgid "\"Don\" Sign"
-msgstr "Insegna 'Don'"
+msgstr "Insegna \"Don\""
 
 msgctxt "0\t66147\t1105\tCHK"
 msgid "cafe the organic Sign"
-msgstr "Insegna 'Cafe The Organic'"
+msgstr "Insegna cafe the organic"
 
 msgctxt "0\t66169\t1106\tCHK"
 msgid "Media Shop Sign"
-msgstr "Insegna del negozio di media"
+msgstr "Insegna Negozio di Media"
 
 msgctxt "0\t66185\t1107\tCHK"
 msgid "Café \"Portugal\" Sign"
-msgstr "Insegna del Café 'Portugal'"
+msgstr "Insegna Café \"Portugal\""
 
 msgctxt "0\t66207\t1108\tCHK"
 msgid "Kuzuyaro Sign"
-msgstr "Cartello dello Stronzo"
+msgstr "Insegna Kuzuyaro"
 
 msgctxt "0\t66221\t1109\tCHK"
 msgid "Cafe \"Chaouen\" Menu Sign"
-msgstr "Insegna del menu del Café \"Chaouen\""
+msgstr "Insegna Menu Cafe \"Chaouen\""
 
 msgctxt "0\t66246\t1110\tCHK"
 msgid "Japanese Cuisine \"Chabo\" Sign"
-msgstr "Insegna della Cucina Giapponese \"Chabo\""
+msgstr "Insegna Cucina Giapponese \"Chabo\""
 
 msgctxt "0\t66276\t1111\tCHK"
 msgid "Rose Wreath Sign"
-msgstr "Insegna Ghirlanda di Rose"
+msgstr "Insegna Rose Wreath"
 
 msgctxt "0\t66293\t1112\tCHK"
 msgid "AWESOME Banner"
-msgstr "Striscione FANTASTICO"
+msgstr "Striscione AWESOME"
 
 msgctxt "0\t66308\t1113\tCHK"
 msgid "AWESOME Sign"
-msgstr "Fantastica Insegna"
+msgstr "Insegna AWESOME"
 
 msgctxt "0\t66321\t1114\tCHK"
 msgid "Getto Hot Spring Banner"
-msgstr "Striscione delle Terme Getto"
+msgstr "Striscione Terme Getto"
 
 msgctxt "0\t66345\t1115\tCHK"
 msgid "Bathing/Lodgings Banner"
@@ -4479,19 +4479,19 @@ msgstr "Striscione Bagni/Alloggi"
 
 msgctxt "0\t66369\t1116\tCHK"
 msgid "Monjayaki Banner"
-msgstr "Insegna Monjayaki"
+msgstr "Striscione Monjayaki"
 
 msgctxt "0\t66386\t1117\tCHK"
 msgid "Lottery Tickets Banner"
-msgstr "Striscione dei biglietti della lotteria"
+msgstr "Striscione Biglietti della Lotteria"
 
 msgctxt "0\t66409\t1118\tCHK"
 msgid "DUDE English Conversation School Sign"
-msgstr "Insegna della scuola di conversazione inglese DUDE"
+msgstr "Insegna Scuola di Inglese DUDE"
 
 msgctxt "0\t66447\t1119\tCHK"
 msgid "Izakaya \"Kado\" Sign"
-msgstr "Insegna dell'Izakaya \"Kado\""
+msgstr "Insegna Izakaya \"Kado\""
 
 msgctxt "0\t66467\t1120\tCHK"
 msgid "Takoyaki Banner"
@@ -4551,7 +4551,7 @@ msgstr "Insegna KINTA"
 
 msgctxt "0\t66784\t1134\tCHK"
 msgid "Ruso Sign"
-msgstr "Cartello Russo"
+msgstr "Insegna Ruso"
 
 msgctxt "0\t66794\t1135\tCHK"
 msgid "Odano Sign"
@@ -4591,7 +4591,7 @@ msgstr "Insegna Regali Tsukimino"
 
 msgctxt "0\t66957\t1144\tCHK"
 msgid "DRAGON Sign"
-msgstr "Insegna DRAGO"
+msgstr "Insegna DRAGON"
 
 msgctxt "0\t66969\t1145\tCHK"
 msgid "Kaigan Bank Sign"
@@ -4627,7 +4627,7 @@ msgstr "Insegna Harapan"
 
 msgctxt "0\t67111\t1153\tCHK"
 msgid "fluent Sign"
-msgstr "Insegna scorrevole"
+msgstr "Insegna fluent"
 
 msgctxt "0\t67123\t1154\tCHK"
 msgid "Sakamoto Sign"
@@ -4639,11 +4639,11 @@ msgstr "Cartello del Punto Informazioni Gratuito di Tsukimino"
 
 msgctxt "0\t67168\t1156\tCHK"
 msgid "Incredibly Delicious Sign"
-msgstr "Incredibilmente Deliziosa Insegna"
+msgstr "Insegna Incredibly Delicious"
 
 msgctxt "0\t67194\t1157\tCHK"
 msgid "Islay Islay Sign"
-msgstr "Islay Islay Insegna"
+msgstr "Insegna Islay Islay"
 
 msgctxt "0\t67211\t1158\tCHK"
 msgid "Umimasa Sign"
@@ -4675,7 +4675,7 @@ msgstr "Insegna Nemi Mix"
 
 msgctxt "0\t67325\t1165\tCHK"
 msgid "Hehehe Sign"
-msgstr "Hehehe Insegna"
+msgstr "Insegna Hehehe"
 
 msgctxt "0\t67337\t1166\tCHK"
 msgid "Chekicchu Sign"
@@ -4687,15 +4687,15 @@ msgstr "Insegna Club CONSCIOUS"
 
 msgctxt "0\t67372\t1168\tCHK"
 msgid "Anarchy Sign"
-msgstr "Cartello dell'Anarchia"
+msgstr "Insegna Anarchy"
 
 msgctxt "0\t67385\t1169\tCHK"
 msgid "Corridor of Love Sign"
-msgstr "Insegna del Corridoio dell'Amore"
+msgstr "Insegna Corridor of Love"
 
 msgctxt "0\t67407\t1170\tCHK"
 msgid "Spwan Sign"
-msgstr "Segno di spawn"
+msgstr "Insegna Spwan"
 
 msgctxt "0\t67418\t1171\tCHK"
 msgid "Battari Café Sign"
@@ -4703,7 +4703,7 @@ msgstr "Insegna Battari Café"
 
 msgctxt "0\t67437\t1172\tCHK"
 msgid "My Enjoyment Spot Sign"
-msgstr "Insegna del Mio Posto di Piacere"
+msgstr "Insegna My Enjoyment Spot"
 
 msgctxt "0\t67460\t1173\tCHK"
 msgid "World Uniforms Sign"
@@ -4731,7 +4731,7 @@ msgstr "Insegna Takaya"
 
 msgctxt "0\t67552\t1179\tCHK"
 msgid "Umi Sign"
-msgstr "Insegna del mare"
+msgstr "Insegna Umi"
 
 msgctxt "0\t67561\t1180\tCHK"
 msgid "Tsukimino Kogen Beer Sign"
@@ -4751,7 +4751,7 @@ msgstr "Insegna LE NEZ"
 
 msgctxt "0\t67632\t1184\tCHK"
 msgid "Potato Butter Ramen Banner"
-msgstr "Insegna Ramen Patate al Burro"
+msgstr "Striscione Ramen Patate al Burro"
 
 msgctxt "0\t67659\t1185\tCHK"
 msgid "Ramen Banner"
@@ -4771,7 +4771,7 @@ msgstr "Striscione del negozio di animali"
 
 msgctxt "0\t67719\t1189\tCHK"
 msgid "Crab Rice Bowl Banner"
-msgstr "Insegna Donburi al Granchio"
+msgstr "Striscione Donburi al Granchio"
 
 msgctxt "0\t67741\t1190\tCHK"
 msgid "Tonkatsu Banner"
@@ -5584,7 +5584,7 @@ msgstr "Recupero Inseguimento (S)"
 
 msgctxt "0\t71456\t1392\tCHK"
 msgid "Pursuit Recovery (L)"
-msgstr "Recupero Inseguimento (G)"
+msgstr "Recupero Inseguimento (L)"
 
 msgctxt "0\t71477\t1393\tCHK"
 msgid "Coliseum Explosive (Short Fuse)"
@@ -5600,7 +5600,7 @@ msgstr "Esplosione Munizioni TOW"
 
 msgctxt "0\t71533\t1396\tCHK"
 msgid "Tag Item"
-msgstr "Oggetto tag"
+msgstr "Oggetto Tag"
 
 msgctxt "0\t71542\t1397\tCHK"
 msgid "Modified Lighter"
@@ -5616,15 +5616,15 @@ msgstr "Martello"
 
 msgctxt "0\t71574\t1400\tCHK"
 msgid "Cardboard Box (Beer Bottles)"
-msgstr "Scatola di cartone (Bottiglie di birra)"
+msgstr "Scatola di cartone (bottiglie di birra)"
 
 msgctxt "0\t71603\t1401\tCHK"
 msgid "Cardboard Box (Slippers)"
-msgstr "Scatola di cartone (Pantofole)"
+msgstr "Scatola di cartone (pantofole)"
 
 msgctxt "0\t71628\t1402\tCHK"
 msgid "Cardboard Box (Hammers)"
-msgstr "Scatola di cartone (Martelli)"
+msgstr "Scatola di cartone (martelli)"
 
 msgctxt "0\t71652\t1403\tCHK"
 msgid "Office Chair (Broken)"
@@ -5652,7 +5652,7 @@ msgstr "Cono (piccolo, rotto)"
 
 msgctxt "0\t71798\t1409\tCHK"
 msgid "Meals, Ready to Eat Sign"
-msgstr "Insegna Pasti Pronti da Mangiare"
+msgstr "Insegna Pasti Pronti"
 
 msgctxt "0\t71823\t1410\tCHK"
 msgid "Sign A (Military Rations, Broken)"
@@ -5668,11 +5668,11 @@ msgstr "Bandiera da slalom rimodellata"
 
 msgctxt "0\t71893\t1413\tCHK"
 msgid "Customer Appreciation Banner"
-msgstr "Striscione di ringraziamento ai clienti"
+msgstr "Striscione di Ringraziamento ai Clienti"
 
 msgctxt "0\t71922\t1414\tCHK"
 msgid "Red Net Cafe Flag"
-msgstr "Bandiera del Net Cafe Rosso"
+msgstr "Bandiera rossa del Net Cafe"
 
 msgctxt "0\t71940\t1415\tCHK"
 msgid "White Net Cafe Flag"
@@ -5688,7 +5688,7 @@ msgstr "Striscione Saldi DVD"
 
 msgctxt "0\t72017\t1418\tCHK"
 msgid "Miso Stew Banner"
-msgstr "Stendardo dello stufato di Miso"
+msgstr "Striscione Stufato di Miso"
 
 msgctxt "0\t72034\t1419\tCHK"
 msgid "Jjigae Stew Banner"
@@ -5700,15 +5700,15 @@ msgstr "Striscione Stufato Ishikari"
 
 msgctxt "0\t72074\t1421\tCHK"
 msgid "Free Info Booth Banner"
-msgstr "Striscione Chiosco Informazioni Gratuito"
+msgstr "Striscione Punto Info Gratuito"
 
 msgctxt "0\t72097\t1422\tCHK"
 msgid "Sichuan Stew Banner"
-msgstr "Stendardo Stufato Sichuan"
+msgstr "Striscione Stufato Sichuan"
 
 msgctxt "0\t72117\t1423\tCHK"
 msgid "400 Yen Store Banner"
-msgstr "Insegna Negozio 400 Yen"
+msgstr "Striscione Negozio 400 Yen"
 
 msgctxt "0\t72138\t1424\tCHK"
 msgid "Tuna Bowl Banner"
@@ -5716,11 +5716,11 @@ msgstr "Striscione Donburi al Tonno"
 
 msgctxt "0\t72155\t1425\tCHK"
 msgid "Golden Fried Rice Banner"
-msgstr "Insegna Riso Fritto Dorato"
+msgstr "Striscione Riso Fritto Dorato"
 
 msgctxt "0\t72180\t1426\tCHK"
 msgid "Yosenabe Banner"
-msgstr "Insegna Yosenabe"
+msgstr "Striscione Yosenabe"
 
 msgctxt "0\t72196\t1427\tCHK"
 msgid "Mahjong Banner"
@@ -5728,27 +5728,27 @@ msgstr "Striscione Mahjong"
 
 msgctxt "0\t72211\t1428\tCHK"
 msgid "Private DVD Viewing Rooms Banner"
-msgstr "Insegna Sale Private di Visione DVD"
+msgstr "Striscione Sale di Visione Private DVD"
 
 msgctxt "0\t72244\t1429\tCHK"
 msgid "Pharmacy Banner"
-msgstr "Striscione della farmacia"
+msgstr "Striscione Farmacia"
 
 msgctxt "0\t72260\t1430\tCHK"
 msgid "Sabotage Banner"
-msgstr "Stendardo di Sabotaggio"
+msgstr "Striscione Sabotaggio"
 
 msgctxt "0\t72276\t1431\tCHK"
 msgid "Discount Info Banner"
-msgstr "Banner Info Sconti"
+msgstr "Striscione Info Sconti"
 
 msgctxt "0\t72297\t1432\tCHK"
 msgid "Pawnshop Banner"
-msgstr "Striscione del banco dei pegni"
+msgstr "Striscione Banco dei Pegni"
 
 msgctxt "0\t72313\t1433\tCHK"
 msgid "Seafood Banner"
-msgstr "Stendardo di frutti di mare"
+msgstr "Striscione Frutti di Mare"
 
 msgctxt "0\t72328\t1434\tCHK"
 msgid "TATower Banner"
@@ -5756,27 +5756,27 @@ msgstr "Striscione TATower"
 
 msgctxt "0\t72343\t1435\tCHK"
 msgid "Kyokoma Banner"
-msgstr "Stendardo Kyokoma"
+msgstr "Striscione Kyokoma"
 
 msgctxt "0\t72358\t1436\tCHK"
 msgid "Edam Cheesedogs Banner"
-msgstr "Stendardo Edam Cheesedogs"
+msgstr "Striscione Edam Cheesedogs"
 
 msgctxt "0\t72381\t1437\tCHK"
 msgid "Miuraya Cafeteria Banner"
-msgstr "Insegna della Caffetteria Miuraya"
+msgstr "Striscione Caffetteria Miuraya"
 
 msgctxt "0\t72406\t1438\tCHK"
 msgid "The Best Free Info Booth Banner"
-msgstr "Il Miglior Striscione del Punto Info Gratuito"
+msgstr "Striscione \"Il Miglior Punto Info Gratuito\""
 
 msgctxt "0\t72438\t1439\tCHK"
 msgid "Inozen Banner"
-msgstr "Stendardo Inozen"
+msgstr "Striscione Inozen"
 
 msgctxt "0\t72452\t1440\tCHK"
 msgid "Checker Banner"
-msgstr "Striscione a scacchi"
+msgstr "Striscione a Scacchi"
 
 msgctxt "0\t72467\t1441\tCHK"
 msgid "Potted Plant"
@@ -5788,19 +5788,19 @@ msgstr "Connettore per cono stradale"
 
 msgctxt "0\t72504\t1443\tCHK"
 msgid "Yamahachi Soba Banner"
-msgstr "Insegna Yamahachi Soba"
+msgstr "Striscione Yamahachi Soba"
 
 msgctxt "0\t72526\t1444\tCHK"
 msgid "Antiques: Top Dollar Paid Banner"
-msgstr "Antiquariato: Striscione 'Paghiamo il massimo'"
+msgstr "Striscione Antiquariato: \"Paghiamo il massimo\""
 
 msgctxt "0\t72559\t1445\tCHK"
 msgid "Antique Store Banner"
-msgstr "Insegna del negozio di antiquariato"
+msgstr "Striscione Negozio di Antiquariato"
 
 msgctxt "0\t72580\t1446\tCHK"
 msgid "(*Kamurocho-only* Other cities: WEBAS0850) Sign A"
-msgstr "(*Solo a Kamurocho* Altre città: WEBAS0850) Cartello A"
+msgstr "(*Solo a Kamurocho* Altre città: WEBAS0850) Insegna A"
 
 msgctxt "0\t72630\t1447\tCHK"
 msgid "(*Kamurocho-only* Other cities: WEBAS0852) Sign C"
@@ -5820,7 +5820,7 @@ msgstr "(*Solo a Kamurocho* Altre città: WEBAS0854) Insegna E"
 
 msgctxt "0\t72830\t1451\tCHK"
 msgid "(*Kamurocho-only* Other cities: WEBAS0855) Sign F"
-msgstr "(*Solo a Kamurocho* Altre città: WEBAS0855) Cartello F"
+msgstr "(*Solo a Kamurocho* Altre città: WEBAS0855) Insegna F"
 
 msgctxt "0\t72880\t1452\tCHK"
 msgid "(*Kamurocho-only* Other cities: WEBAS0856) Sign G"
@@ -5840,7 +5840,7 @@ msgstr "Insegna Fusion"
 
 msgctxt "0\t72970\t1456\tCHK"
 msgid "DVD Shop Sign"
-msgstr "Insegna negozio di DVD"
+msgstr "Insegna Negozio di DVD"
 
 msgctxt "0\t72984\t1457\tCHK"
 msgid "Karanmaru Flag"
@@ -5868,11 +5868,11 @@ msgstr "Insegna Sanuki-Tei"
 
 msgctxt "0\t73087\t1463\tCHK"
 msgid "Movie Ad Sign"
-msgstr "Insegna pubblicitaria di film"
+msgstr "Insegna Pubblicità Film"
 
 msgctxt "0\t73101\t1464\tCHK"
 msgid "Host Club Sign"
-msgstr "Insegna dell'Host Club"
+msgstr "Insegna Host Club"
 
 msgctxt "0\t73116\t1465\tCHK"
 msgid "Kamuro Ramen Sign"
@@ -5880,15 +5880,15 @@ msgstr "Insegna Kamuro Ramen"
 
 msgctxt "0\t73134\t1466\tCHK"
 msgid "Soba Shop Umamoto Sign"
-msgstr "Insegna del negozio di soba Umamoto"
+msgstr "Insegna Negozio di Soba Umamoto"
 
 msgctxt "0\t73157\t1467\tCHK"
 msgid "Yunagi Bar Sign"
-msgstr "Insegna del bar Yunagi"
+msgstr "Insegna Bar Yunagi"
 
 msgctxt "0\t73173\t1468\tCHK"
 msgid "Uchikawa Diner Sign"
-msgstr "Insegna del ristorante Uchikawa"
+msgstr "Insegna Ristorante Uchikawa"
 
 msgctxt "0\t73193\t1469\tCHK"
 msgid "Ranran-Tei Sign"
@@ -5912,11 +5912,11 @@ msgstr "Insegna Bobusanchi"
 
 msgctxt "0\t73276\t1474\tCHK"
 msgid "Café Sign"
-msgstr "Insegna del caffè"
+msgstr "Insegna Café"
 
 msgctxt "0\t73287\t1475\tCHK"
 msgid "Lunch Special Sign"
-msgstr "Cartello speciale pranzo"
+msgstr "Insegna Speciale Pranzo"
 
 msgctxt "0\t73306\t1476\tCHK"
 msgid "Gyoza Daimyo Sign"
@@ -5928,15 +5928,15 @@ msgstr "Insegna Koma"
 
 msgctxt "0\t73334\t1478\tCHK"
 msgid "Today's Menu Sign"
-msgstr "Cartello del menu di oggi"
+msgstr "Insegna Menu di Oggi"
 
 msgctxt "0\t73352\t1479\tCHK"
 msgid "Grand Menu Sign"
-msgstr "Insegna del menù principale"
+msgstr "Insegna Menu Principale"
 
 msgctxt "0\t73368\t1480\tCHK"
 msgid "Written in Dreams Sign"
-msgstr "Insegna Scritto nei Sogni"
+msgstr "Insegna \"Scritto nei Sogni\""
 
 msgctxt "0\t73391\t1481\tCHK"
 msgid "Happy Hour Sign"
@@ -5944,7 +5944,7 @@ msgstr "Insegna Happy Hour"
 
 msgctxt "0\t73407\t1482\tCHK"
 msgid "\"3 Don'ts\" Sign"
-msgstr "Cartello \"Le 3 Cose da Non Fare\""
+msgstr "Insegna \"Le 3 Regole\""
 
 msgctxt "0\t73423\t1483\tCHK"
 msgid "KUE Sign"
@@ -5952,7 +5952,7 @@ msgstr "Insegna KUE"
 
 msgctxt "0\t73432\t1484\tCHK"
 msgid "Brand New Sign"
-msgstr "Insegna nuovo di zecca"
+msgstr "Insegna \"Nuovo di Zecca\""
 
 msgctxt "0\t73447\t1485\tCHK"
 msgid "CR Master Sign"
@@ -5960,63 +5960,63 @@ msgstr "Insegna CR Master"
 
 msgctxt "0\t73462\t1486\tCHK"
 msgid "Fanciful Sign"
-msgstr "Insegna fantasiosa"
+msgstr "Insegna \"Fantasiosa\""
 
 msgctxt "0\t73476\t1487\tCHK"
 msgid "Burning Slot Soul Sign"
-msgstr "Insegna anima slot ardente"
+msgstr "Insegna \"Anima Slot Ardente\""
 
 msgctxt "0\t73499\t1488\tCHK"
 msgid "I Love Paella Sign"
-msgstr "Insegna \"Amo la paella\""
+msgstr "Insegna \"Amo la Paella\""
 
 msgctxt "0\t73518\t1489\tCHK"
 msgid "I Love Pizza Sign"
-msgstr "Insegna \"Amo la pizza\""
+msgstr "Insegna \"Amo la Pizza\""
 
 msgctxt "0\t73536\t1490\tCHK"
 msgid "Pizzeria Sign"
-msgstr "Insegna pizzeria"
+msgstr "Insegna Pizzeria"
 
 msgctxt "0\t73550\t1491\tCHK"
 msgid "Recommendations Menu Sign"
-msgstr "Cartello del menu consigliato"
+msgstr "Insegna Menu Consigliato"
 
 msgctxt "0\t73576\t1492\tCHK"
 msgid "Classic Menu Sign"
-msgstr "Cartello del menu classico"
+msgstr "Insegna Menu Classico"
 
 msgctxt "0\t73594\t1493\tCHK"
 msgid "Ramen Menu Sign"
-msgstr "Cartello del menu del ramen"
+msgstr "Insegna Menu Ramen"
 
 msgctxt "0\t73610\t1494\tCHK"
 msgid "Bar Menu Sign"
-msgstr "Cartello del menu del bar"
+msgstr "Insegna Menu Bar"
 
 msgctxt "0\t73624\t1495\tCHK"
 msgid "Karaoke Bar Sign"
-msgstr "Insegna del karaoke bar"
+msgstr "Insegna Karaoke Bar"
 
 msgctxt "0\t73641\t1496\tCHK"
 msgid "I Love Dim Sum Sign"
-msgstr "Insegna \"Amo il dim sum\""
+msgstr "Insegna \"Amo il Dim Sum\""
 
 msgctxt "0\t73661\t1497\tCHK"
 msgid "Koenro Banner"
-msgstr "Stendardo Koenro"
+msgstr "Striscione Koenro"
 
 msgctxt "0\t73675\t1498\tCHK"
 msgid "Big Discount Sign"
-msgstr "Grande Insegna Sconti"
+msgstr "Insegna \"Grandi Sconti\""
 
 msgctxt "0\t73693\t1499\tCHK"
 msgid "Jungle Sign"
-msgstr "Insegna della Giungla"
+msgstr "Insegna Jungle"
 
 msgctxt "0\t73705\t1500\tCHK"
 msgid "Stylish Gentleman Bar Sign"
-msgstr "Insegna del bar per gentiluomini eleganti"
+msgstr "Insegna Bar per Gentiluomini"
 
 msgctxt "0\t73732\t1501\tCHK"
 msgid "Personal Viewing Rooms Sign"
@@ -6024,7 +6024,7 @@ msgstr "Insegna Sale di Visione Private"
 
 msgctxt "0\t73760\t1502\tCHK"
 msgid "Adult Bookstore Sign"
-msgstr "Insegna di libreria per adulti"
+msgstr "Insegna Libreria per Adulti"
 
 msgctxt "0\t73781\t1503\tCHK"
 msgid "GA Sign"
@@ -6032,15 +6032,15 @@ msgstr "Insegna GA"
 
 msgctxt "0\t73789\t1504\tCHK"
 msgid "Mall Sign"
-msgstr "Insegna del centro commerciale"
+msgstr "Insegna Centro Commerciale"
 
 msgctxt "0\t73799\t1505\tCHK"
 msgid "KILLER BEACH Sign"
-msgstr "Cartello KILLER BEACH"
+msgstr "Insegna KILLER BEACH"
 
 msgctxt "0\t73817\t1506\tCHK"
 msgid "Shinohara Chinese Chiropractics Sign"
-msgstr "Insegna di Chiropratica Cinese Shinohara"
+msgstr "Insegna Chiropratica Cinese Shinohara"
 
 msgctxt "0\t73854\t1507\tCHK"
 msgid "Super Gabriel Sign"
@@ -6056,15 +6056,15 @@ msgstr "Insegna Wild Jackson"
 
 msgctxt "0\t73910\t1510\tCHK"
 msgid "Go Club Sign"
-msgstr "Insegna del club di Go"
+msgstr "Insegna Club di Go"
 
 msgctxt "0\t73923\t1511\tCHK"
 msgid "Izakaya Ko-Otsu-Hei Sign"
-msgstr "Insegna dell'Izakaya Ko-Otsu-Hei"
+msgstr "Insegna Izakaya Ko-Otsu-Hei"
 
 msgctxt "0\t73948\t1512\tCHK"
 msgid "Important Area Annoncement Sign"
-msgstr "Cartello di Avviso Area Importante"
+msgstr "Cartello Avviso Area Importante"
 
 msgctxt "0\t73980\t1513\tCHK"
 msgid "Smile Burger Sign"
@@ -6072,19 +6072,19 @@ msgstr "Insegna Smile Burger"
 
 msgctxt "0\t73998\t1514\tCHK"
 msgid "Donraku Manager Wanted Sign"
-msgstr "Insegna \"Cercasi manager per Donraku\""
+msgstr "Cartello \"Cercasi Manager per Donraku\""
 
 msgctxt "0\t74026\t1515\tCHK"
 msgid "Adult Toy Sign"
-msgstr "Insegna di giocattoli per adulti"
+msgstr "Insegna Giocattoli per Adulti"
 
 msgctxt "0\t74041\t1516\tCHK"
 msgid "Porn Star Sign"
-msgstr "Insegna di pornostar"
+msgstr "Insegna Pornostar"
 
 msgctxt "0\t74056\t1517\tCHK"
 msgid "Video Viewing Sign"
-msgstr "Cartello di visione video"
+msgstr "Insegna Visione Video"
 
 msgctxt "0\t74075\t1518\tCHK"
 msgid "Oh-Oku Sign"
@@ -6100,23 +6100,23 @@ msgstr "Insegna Tachibana"
 
 msgctxt "0\t74114\t1521\tCHK"
 msgid "Japanese Food Menu Sign"
-msgstr "Cartello del menu di cibo giapponese"
+msgstr "Insegna Menu Cibo Giapponese"
 
 msgctxt "0\t74138\t1522\tCHK"
 msgid "Dried Squid Shop"
-msgstr "Negozio di calamari essiccati"
+msgstr "Negozio di Calamari Essiccati"
 
 msgctxt "0\t74155\t1523\tCHK"
 msgid "Complex Sign"
-msgstr "Insegna del complesso"
+msgstr "Insegna Complesso"
 
 msgctxt "0\t74168\t1524\tCHK"
 msgid "Manga Cafe Sign"
-msgstr "Insegna del Manga Cafe"
+msgstr "Insegna Manga Cafe"
 
 msgctxt "0\t74184\t1525\tCHK"
 msgid "Beauty Salon Sign"
-msgstr "Insegna del salone di bellezza"
+msgstr "Insegna Salone di Bellezza"
 
 msgctxt "0\t74202\t1526\tCHK"
 msgid "Alps Sign"
@@ -6128,7 +6128,7 @@ msgstr "Insegna CRASH"
 
 msgctxt "0\t74223\t1528\tCHK"
 msgid "SC Clinic Sign"
-msgstr "Insegna clinica SC"
+msgstr "Insegna Clinica SC"
 
 msgctxt "0\t74238\t1529\tCHK"
 msgid "Kadoya Sign"
@@ -6136,7 +6136,7 @@ msgstr "Insegna Kadoya"
 
 msgctxt "0\t74250\t1530\tCHK"
 msgid "Mortal Enemy Sign"
-msgstr "Insegna nemico mortale"
+msgstr "Insegna \"Mortal Enemy\""
 
 msgctxt "0\t74268\t1531\tCHK"
 msgid "Asia Sign"
@@ -6144,71 +6144,71 @@ msgstr "Insegna Asia"
 
 msgctxt "0\t74278\t1532\tCHK"
 msgid "Rice Ball Shop Sign"
-msgstr "Insegna del negozio di palle di riso"
+msgstr "Insegna Negozio di Onigiri"
 
 msgctxt "0\t74298\t1533\tCHK"
 msgid "Sign A (Night) [Non-Placeable Template]"
-msgstr "Cartello A (Notte) [Template Non Piazzabile]"
+msgstr "Insegna A (Notte) [Template non posizionabile]"
 
 msgctxt "0\t74338\t1534\tCHK"
 msgid "Sign B (Night) [Non-Placeable Template]"
-msgstr "Insegna B (Notte) [Modello non posizionabile]"
+msgstr "Insegna B (Notte) [Template non posizionabile]"
 
 msgctxt "0\t74378\t1535\tCHK"
 msgid "Sign C (Night) [Non-Placeable Template]"
-msgstr "Insegna C (Notte) [Modello non posizionabile]"
+msgstr "Insegna C (Notte) [Template non posizionabile]"
 
 msgctxt "0\t74418\t1536\tCHK"
 msgid "Sign D (Night) [Non-Placeable Template]"
-msgstr "Cartello D (Notte) [Template Non Posizionabile]"
+msgstr "Insegna D (Notte) [Template non posizionabile]"
 
 msgctxt "0\t74458\t1537\tCHK"
 msgid "Sign E (Night) [Non-Placeable Template]"
-msgstr "Insegna E (Notte) [Template Non Posizionabile]"
+msgstr "Insegna E (Notte) [Template non posizionabile]"
 
 msgctxt "0\t74498\t1538\tCHK"
 msgid "Sign F (Night) [Non-Placeable Template]"
-msgstr "Insegna F (Notte) [Modello non posizionabile]"
+msgstr "Insegna F (Notte) [Template non posizionabile]"
 
 msgctxt "0\t74538\t1539\tCHK"
 msgid "Sign G (Night) [Non-Placeable Template]"
-msgstr "Insegna G (Notte) [Non Posizionabile Template]"
+msgstr "Insegna G (Notte) [Template non posizionabile]"
 
 msgctxt "0\t74578\t1540\tCHK"
 msgid "Paid Tour Sign"
-msgstr "Cartello tour a pagamento"
+msgstr "Insegna Tour a Pagamento"
 
 msgctxt "0\t74593\t1541\tCHK"
 msgid "Kamurocho Sisters Sign"
-msgstr "Insegna delle sorelle di Kamurocho"
+msgstr "Insegna Kamurocho Sisters"
 
 msgctxt "0\t74616\t1542\tCHK"
 msgid "Highness Sign"
-msgstr "Insegna dell'Altezza"
+msgstr "Insegna Highness"
 
 msgctxt "0\t74630\t1543\tCHK"
 msgid "Legendary Sign"
-msgstr "Insegna leggendaria"
+msgstr "Insegna \"Legendary\""
 
 msgctxt "0\t74645\t1544\tCHK"
 msgid "Sign for Shop in Building"
-msgstr "Insegna del negozio nell'edificio"
+msgstr "Insegna Negozio nell'Edificio"
 
 msgctxt "0\t74671\t1545\tCHK"
 msgid "Slot Lure Sign"
-msgstr "Insegna di richiamo per slot"
+msgstr "Insegna Richiamo Slot"
 
 msgctxt "0\t74686\t1546\tCHK"
 msgid "Sweets Sign"
-msgstr "Insegna dei dolci"
+msgstr "Insegna Dolciumi"
 
 msgctxt "0\t74698\t1547\tCHK"
 msgid "Convenience Store Sign"
-msgstr "Insegna del minimarket"
+msgstr "Insegna Minimarket"
 
 msgctxt "0\t74721\t1548\tCHK"
 msgid "Sign to Cozy VIP Room"
-msgstr "Insegna per l'accogliente sala VIP"
+msgstr "Insegna Sala VIP Accogliente"
 
 msgctxt "0\t74743\t1549\tCHK"
 msgid "Chiropractic Sign"
@@ -6220,7 +6220,7 @@ msgstr "Insegna Splendida Hostess"
 
 msgctxt "0\t74783\t1551\tCHK"
 msgid "Beef Meatball Bowl Sign"
-msgstr "Insegna Ciotola di Polpette di Manzo"
+msgstr "Insegna Donburi con Polpette di Manzo"
 
 msgctxt "0\t74807\t1552\tCHK"
 msgid "NY Hot Dog Sign"
@@ -6232,51 +6232,51 @@ msgstr "Insegna AQUANON"
 
 msgctxt "0\t74836\t1554\tCHK"
 msgid "Red Wanderer Flag"
-msgstr "Bandiera del vagabondo rosso"
+msgstr "Bandiera Vagabondo Rossa"
 
 msgctxt "0\t74854\t1555\tCHK"
 msgid "Venerable Tonkatsu Shop Sign"
-msgstr "Insegna del venerabile negozio di tonkatsu"
+msgstr "Insegna Antico Negozio di Tonkatsu"
 
 msgctxt "0\t74883\t1556\tCHK"
 msgid "Koredemoka DVD Sign"
-msgstr "Koredemoka DVD Sign"
+msgstr "Insegna DVD Koredemoka"
 
 msgctxt "0\t74903\t1557\tCHK"
 msgid "Club Himiko Sign"
-msgstr "Insegna del Club Himiko"
+msgstr "Insegna Club Himiko"
 
 msgctxt "0\t74920\t1558\tCHK"
 msgid "Super Spicy Curry Sign"
-msgstr "Insegna di Curry Super Piccante"
+msgstr "Insegna Curry Super Piccante"
 
 msgctxt "0\t74943\t1559\tCHK"
 msgid "Swapmeet Announcement Sign"
-msgstr "Cartello annuncio mercatino"
+msgstr "Cartello Annuncio Mercatino"
 
 msgctxt "0\t74970\t1560\tCHK"
 msgid "Recommended Party Plan Sign"
-msgstr "Insegna del Piano Festa Consigliato"
+msgstr "Insegna Piano Festa Consigliato"
 
 msgctxt "0\t74998\t1561\tCHK"
 msgid "Big Family Bar Sign"
-msgstr "Insegna del bar per famiglie numerose"
+msgstr "Insegna Bar per Famiglie Numerose"
 
 msgctxt "0\t75018\t1562\tCHK"
 msgid "I Love Nabe Sign"
-msgstr "Insegna \"Amo il nabe\""
+msgstr "Insegna \"Amo il Nabe\""
 
 msgctxt "0\t75035\t1563\tCHK"
 msgid "Beer-Colored Sign"
-msgstr "Insegna color birra"
+msgstr "Insegna Color Birra"
 
 msgctxt "0\t75053\t1564\tCHK"
 msgid "Medieval CR Sign"
-msgstr "Insegna CR medievale"
+msgstr "Insegna CR Medievale"
 
 msgctxt "0\t75070\t1565\tCHK"
 msgid "Combat King Sign"
-msgstr "Insegna del re del combattimento"
+msgstr "Insegna Combat King"
 
 msgctxt "0\t75087\t1566\tCHK"
 msgid "Special Promotion Today Sign"
@@ -6284,7 +6284,7 @@ msgstr "Insegna Promozione Speciale Oggi"
 
 msgctxt "0\t75116\t1567\tCHK"
 msgid "New Pachinko Machine Sign"
-msgstr "Insegna nuova macchina pachinko"
+msgstr "Insegna Nuova Macchina Pachinko"
 
 msgctxt "0\t75142\t1568\tCHK"
 msgid "Ramen Jomaeya Sign"
@@ -6296,27 +6296,27 @@ msgstr "Insegna Torre Nishikaze"
 
 msgctxt "0\t75182\t1570\tCHK"
 msgid "Super Cheap Ichinanago Sign"
-msgstr "Insegna Ichinanago Super Economica"
+msgstr "Insegna Ichinanago Super Economico"
 
 msgctxt "0\t75210\t1571\tCHK"
 msgid "Hostess Sign"
-msgstr "Insegna hostess"
+msgstr "Insegna Hostess"
 
 msgctxt "0\t75223\t1572\tCHK"
 msgid "Gorgeousness Sign"
-msgstr "Insegna magnificenza"
+msgstr "Insegna \"Gorgeousness\""
 
 msgctxt "0\t75241\t1573\tCHK"
 msgid "Reception Sign"
-msgstr "Insegna reception"
+msgstr "Insegna Reception"
 
 msgctxt "0\t75256\t1574\tCHK"
 msgid "Proud Taste Sign"
-msgstr "Insegna gusto fiero"
+msgstr "Insegna \"Gusto Fiero\""
 
 msgctxt "0\t75273\t1575\tCHK"
 msgid "All-Seeing Fortuneteller Sign"
-msgstr "Insegna dell'Indovino Onniveggente"
+msgstr "Insegna Indovino Onniveggente"
 
 msgctxt "0\t75303\t1576\tCHK"
 msgid "Etsurakutei Sign"
@@ -6328,11 +6328,11 @@ msgstr "Insegna: 100 Posti"
 
 msgctxt "0\t75335\t1578\tCHK"
 msgid "New Menu Sign"
-msgstr "Cartello nuovo menu"
+msgstr "Insegna Nuovo Menu"
 
 msgctxt "0\t75349\t1579\tCHK"
 msgid "Special Warning Sign"
-msgstr "Cartello di avviso speciale"
+msgstr "Cartello Avviso Speciale"
 
 msgctxt "0\t75370\t1580\tCHK"
 msgid "Mantaro Sign"
@@ -6340,15 +6340,15 @@ msgstr "Insegna Mantaro"
 
 msgctxt "0\t75383\t1581\tCHK"
 msgid "Coffee Shop Sign"
-msgstr "Insegna della caffetteria"
+msgstr "Insegna Caffetteria"
 
 msgctxt "0\t75400\t1582\tCHK"
 msgid "Shrimp Heaven Sign"
-msgstr "Insegna del paradiso dei gamberi"
+msgstr "Insegna Paradiso dei Gamberi"
 
 msgctxt "0\t75419\t1583\tCHK"
 msgid "Mahjong Shop Welcome Sign"
-msgstr "Insegna di benvenuto del negozio di mahjong"
+msgstr "Insegna Benvenuto Negozio di Mahjong"
 
 msgctxt "0\t75445\t1584\tCHK"
 msgid "Taketori Sign"
@@ -6356,7 +6356,7 @@ msgstr "Insegna Taketori"
 
 msgctxt "0\t75459\t1585\tCHK"
 msgid "White Turtle Sign"
-msgstr "Segno della Tartaruga Bianca"
+msgstr "Insegna Tartaruga Bianca"
 
 msgctxt "0\t75477\t1586\tCHK"
 msgid "Mahjong Riichi Sign"
@@ -6364,7 +6364,7 @@ msgstr "Insegna Mahjong Riichi"
 
 msgctxt "0\t75497\t1587\tCHK"
 msgid "Miuraya Diner Sign"
-msgstr "Insegna del ristorante Miuraya"
+msgstr "Insegna Ristorante Miuraya"
 
 msgctxt "0\t75516\t1588\tCHK"
 msgid "Sign (Broken)"
@@ -6372,11 +6372,11 @@ msgstr "Insegna (rotta)"
 
 msgctxt "0\t75530\t1589\tCHK"
 msgid "All-You-Can-Play Sign"
-msgstr "Insegna \"Gioco libero\""
+msgstr "Insegna \"Gioco Libero\""
 
 msgctxt "0\t75552\t1590\tCHK"
 msgid "Invitation to Super Spiciness Sign"
-msgstr "Cartello dell'Invito alla Super Piccantezza"
+msgstr "Insegna Invito alla Super Piccantezza"
 
 msgctxt "0\t75587\t1591\tCHK"
 msgid "Slot Machine Sign"
@@ -6384,27 +6384,27 @@ msgstr "Insegna Slot Machine"
 
 msgctxt "0\t75605\t1592\tCHK"
 msgid "Yellow Wanderer Flag"
-msgstr "Bandiera del vagabondo giallo"
+msgstr "Bandiera Vagabondo Gialla"
 
 msgctxt "0\t75626\t1593\tCHK"
 msgid "Banner Pole"
-msgstr "Asta della bandiera"
+msgstr "Asta per Striscione"
 
 msgctxt "0\t75638\t1594\tCHK"
 msgid "Special Security Notice Sign"
-msgstr "Cartello Speciale di Avviso di Sicurezza"
+msgstr "Cartello Speciale di Avviso Sicurezza"
 
 msgctxt "0\t75667\t1595\tCHK"
 msgid "Steel Ashtray"
-msgstr "Posacenere d'acciaio"
+msgstr "Posacenere in Acciaio"
 
 msgctxt "0\t75681\t1596\tCHK"
 msgid "Come Look Sign"
-msgstr "Insegna \"Venite a vedere\""
+msgstr "Insegna \"Venite a Vedere\""
 
 msgctxt "0\t75696\t1597\tCHK"
 msgid "Adult Toys Sign"
-msgstr "Insegna di articoli per adulti"
+msgstr "Insegna Articoli per Adulti"
 
 msgctxt "0\t75712\t1598\tCHK"
 msgid "Draft Beer Keg (Broken)"
@@ -6796,11 +6796,11 @@ msgstr "Sciabola cinese del clan del Loto"
 
 msgctxt "0\t77716\t1695\tCHK"
 msgid "Stun Gun"
-msgstr "Storditore"
+msgstr "Taser"
 
 msgctxt "0\t77725\t1696\tCHK"
 msgid "Hyper Stun Gun"
-msgstr "Iper storditore"
+msgstr "Iper taser"
 
 msgctxt "0\t77740\t1697\tCHK"
 msgid "Dragon God Short Sword"
@@ -6888,7 +6888,7 @@ msgstr "Lancia dell'assassino"
 
 msgctxt "0\t78065\t1718\tCHK"
 msgid "Purgatory Rod"
-msgstr "Verga del Purgatorio"
+msgstr "Verga del Purgatory"
 
 msgctxt "0\t78079\t1719\tCHK"
 msgid "Mighty Dragon Spear"
@@ -7316,7 +7316,7 @@ msgstr "Lancia dell'Assassino (Ridondante)"
 
 msgctxt "0\t80183\t1825\tCHK"
 msgid "Purgatory Rod (Redundant)"
-msgstr "Bastone del Purgatorio (Superfluo)"
+msgstr "Bastone del Purgatory (Superfluo)"
 
 msgctxt "0\t80209\t1826\tCHK"
 msgid "Mighty Dragon Spear (Redundant)"
@@ -7532,7 +7532,7 @@ msgstr "Auto per il controllo delle collisioni"
 
 msgctxt "0\t81625\t1879\tCHK"
 msgid "Tendo Fire Ball"
-msgstr "Tendo Palla di Fuoco"
+msgstr "Palla di Fuoco di Fuoco"
 
 msgctxt "0\t81641\t1880\tCHK"
 msgid "Haruka Attack Sphere (heavy miss)"
@@ -7552,7 +7552,7 @@ msgstr "Love Shine Sfera Attacco Bastone (Perforante)"
 
 msgctxt "0\t81782\t1884\tCHK"
 msgid "(IF8) Enemy Projectile (Lower)"
-msgstr "Proiettile nemico (Inferiore)"
+msgstr "(IF8) Proiettile nemico (Inferiore)"
 
 msgctxt "0\t81813\t1885\tCHK"
 msgid "(IF8) Oil Drum Obstacle"
@@ -8167,8 +8167,8 @@ msgid "Mallet"
 msgstr "Mazzuolo"
 
 msgctxt "0\t84861\t2038\tCHK"
-msgid "Pack (Heat)"
-msgstr "Pacchetto (Heat)"
+msgid "Pack (Furore)"
+msgstr "Pacchetto (Furore)"
 
 msgctxt "0\t84873\t2039\tCHK"
 msgid "Kiryu Taxi: Sticker: Type A"
@@ -8760,7 +8760,7 @@ msgstr "Scooter argentato"
 
 msgctxt "0\t88239\t2186\tCHK"
 msgid "Bat [minigame] Batting Bat"
-msgstr "Mazda [minigioco] Mazda da battuta"
+msgstr "Mazza [minigioco] Mazza da battuta"
 
 msgctxt "0\t88266\t2187\tCHK"
 msgid "Flag [Minigame] <Golf> Flag"
