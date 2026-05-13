@@ -198,8 +198,8 @@ Lista dei progetti di patch in italiano per i giochi della serie:
     - Un'altra patch realizzata da me per la serie Yakuza è quella di Yakuza 4, il funzionamento ed il materiale tradotto sono gli stessi.
 - [Yakuza 5 Remastered](https://github.com/zSavT/Yakuza5-Patch-ITA)
     - Questo progetto.
-- [Yakuza 6](https://www.nexusmods.com/yakuza6/mods/220)
-    - Un ragazzo ha tradotto i sottotitoli delle cutscene e alcuni menu
+- [Yakuza 6](https://github.com/zSavT/Yakuza6-Patch-ITA)
+    - Un'altra patch realizzata da me per la serie Yakuza è quella di Yakuza 6.
 
 
 ## Dipendenza e ringraziamenti
