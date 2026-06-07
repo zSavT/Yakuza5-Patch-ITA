@@ -238,7 +238,7 @@ msgstr "Bacchetta Sinistra del Taiko No Tatsujin"
 
 msgctxt "0\t38838\t56\tCHK"
 msgid "Taiko No Tatsujin Right Taiko Stick"
-msgstr "Taiko No Tatsujin Bacchetta Taiko Destra"
+msgstr "Bacchetta destra del Taiko No Tatsujin"
 
 msgctxt "0\t38874\t57\tCHK"
 msgid "Convenience Store Underwear"
@@ -374,7 +374,7 @@ msgstr "Domanda di Libertà Vigilata (Avventura)"
 
 msgctxt "0\t39743\t90\tCHK"
 msgid "Meal in a Bowl (Adventure)"
-msgstr "Pasto in una Ciotola (Avventura)"
+msgstr "Ciotola di donburi (Avventura)"
 
 msgctxt "0\t39770\t91\tCHK"
 msgid "Police Badge (Adventure)"
@@ -562,11 +562,11 @@ msgstr "Bicchiere da whisky (Oro)"
 
 msgctxt "0\t40924\t137\tCHK"
 msgid "Taiko No Tatsujin 2P Blue Left Taiko Stick"
-msgstr "Taiko No Tatsujin 2P Bacchetta Taiko Blu Sinistra"
+msgstr "Bacchetta sinistra blu 2P del Taiko No Tatsujin"
 
 msgctxt "0\t40967\t138\tCHK"
 msgid "Taiko No Tatsujin 2P Blue Right Taiko Stick"
-msgstr "Taiko No Tatsujin 2P Bacchetta Taiko Blu Destra"
+msgstr "Bacchetta destra blu 2P del Taiko No Tatsujin"
 
 msgctxt "0\t41011\t139\tCHK"
 msgid "Flower Bag (Adventure)"
@@ -838,7 +838,7 @@ msgstr "[ADV] Padella"
 
 msgctxt "0\t42759\t206\tCHK"
 msgid "[ADV] <Alps> Coffee Cup"
-msgstr "[ADV] <Alps> Tazza di caffè"
+msgstr "[ADV] <Alps> Tazza da caffè"
 
 msgctxt "0\t42783\t207\tCHK"
 msgid "[ADV] Pocket Tissues"
@@ -874,7 +874,7 @@ msgstr "[ADV] [Matsuya] Tazza da tè giapponese"
 
 msgctxt "0\t43064\t215\tCHK"
 msgid "[ADV] [Pronto] Coffee Cup"
-msgstr "[ADV] [Pronto] Tazza di caffè"
+msgstr "[ADV] [Pronto] Tazza da caffè"
 
 msgctxt "0\t43090\t216\tCHK"
 msgid "[ADV] [Pronto] Tumbler"
@@ -882,7 +882,7 @@ msgstr "[ADV] [Pronto] Bicchiere"
 
 msgctxt "0\t43113\t217\tCHK"
 msgid "[ADV] Glass Polishing Cloth"
-msgstr "[ADV] Panno per lucidare il vetro"
+msgstr "[ADV] Panno per lucidare i bicchieri"
 
 msgctxt "0\t43141\t218\tCHK"
 msgid "[ADV] <Kanrai> Stainless Steel Chopsticks"
@@ -1086,19 +1086,19 @@ msgstr "Test Oggetto di Accesso"
 
 msgctxt "0\t45022\t268\tCHK"
 msgid "Reaction Object Base"
-msgstr "Oggetto di Reazione Base"
+msgstr "Base oggetto di reazione"
 
 msgctxt "0\t45043\t269\tCHK"
 msgid "Recovery Item Base"
-msgstr "Oggetto di recupero base"
+msgstr "Base oggetto di recupero"
 
 msgctxt "0\t45062\t270\tCHK"
 msgid "Fragment Object Base"
-msgstr "Oggetto Frammento Base"
+msgstr "Base oggetto frammento"
 
 msgctxt "0\t45083\t271\tCHK"
 msgid "Fixed Furore Snipe Target Base"
-msgstr "Base bersaglio Furore Snipe fissa"
+msgstr "Base per bersaglio fisso Furore Snipe"
 
 msgctxt "0\t45112\t272\tCHK"
 msgid "Entangled/Destructible Object"
@@ -1174,11 +1174,11 @@ msgstr "Masso di Montagna Invernale"
 
 msgctxt "0\t45645\t290\tCHK"
 msgid "Majima Family Sofa"
-msgstr "Divano Famiglia Majima"
+msgstr "Divano della Famiglia Majima"
 
 msgctxt "0\t45664\t291\tCHK"
 msgid "Broken Majima Family Sofa"
-msgstr "Divano Rotto della Famiglia Majima"
+msgstr "Divano della Famiglia Majima rotto"
 
 msgctxt "0\t45690\t292\tCHK"
 msgid "Majima Family Table"
@@ -1186,15 +1186,15 @@ msgstr "Tavolo della Famiglia Majima"
 
 msgctxt "0\t45710\t293\tCHK"
 msgid "Broken Majima Family Table"
-msgstr "Tavolo Rotto della Famiglia Majima"
+msgstr "Tavolo della Famiglia Majima rotto"
 
 msgctxt "0\t45737\t294\tCHK"
 msgid "Majima Family Rack"
-msgstr "Il Racket della Famiglia Majima"
+msgstr "Scaffale della Famiglia Majima"
 
 msgctxt "0\t45756\t295\tCHK"
 msgid "Broken Majima Family Rack"
-msgstr "Supporto rotto della Famiglia Majima"
+msgstr "Scaffale della Famiglia Majima rotto"
 
 msgctxt "0\t45782\t296\tCHK"
 msgid "Trash Can"
@@ -1686,7 +1686,7 @@ msgstr "(Minigioco) <Hostess Club> Asciugamano caldo"
 
 msgctxt "0\t48731\t418\tCHK"
 msgid "(Chase Action) Safety Drum"
-msgstr "(Azione di inseguimento) Fusto di sicurezza"
+msgstr "(Azione di inseguimento) Bidone spartitraffico"
 
 msgctxt "0\t48758\t419\tCHK"
 msgid "(Chase Action) Directional Sign"
@@ -1694,7 +1694,7 @@ msgstr "(Azione di inseguimento) Cartello direzionale"
 
 msgctxt "0\t48790\t420\tCHK"
 msgid "(Chase Action) Construction Site Boundary"
-msgstr "(Azione di inseguimento) Confine del cantiere"
+msgstr "(Azione di inseguimento) Transenna del cantiere"
 
 msgctxt "0\t48832\t421\tCHK"
 msgid "(Chase Action) Building Materials (Concrete)"
@@ -1706,7 +1706,7 @@ msgstr "Carrello elevatore"
 
 msgctxt "0\t48886\t423\tCHK"
 msgid "Near Broken Wooden Door"
-msgstr "Vicino a porta di legno rotta"
+msgstr "Porta di legno pericolante"
 
 msgctxt "0\t48910\t424\tCHK"
 msgid "Nailed-Up Board (Unbreakable)"
@@ -1971,11 +1971,11 @@ msgstr "Berlina Nera (Furore)"
 
 msgctxt "0\t50767\t489\tCHK"
 msgid "Dark Blue Taxi (Furore)"
-msgstr "Taxi Blu Scuro (Calore)"
+msgstr "Taxi Blu Scuro (Furore)"
 
 msgctxt "0\t50789\t490\tCHK"
 msgid "Orange Taxi (Furore)"
-msgstr "Taxi Arancione (Azione Calore)"
+msgstr "Taxi Arancione (Furore)"
 
 msgctxt "0\t50808\t491\tCHK"
 msgid "White Taxi (Furore)"
@@ -2231,7 +2231,7 @@ msgstr "(Bar) (Tantakatan) Tantakatan"
 
 msgctxt "0\t52880\t554\tCHK"
 msgid "(Bar) Shot Glass"
-msgstr "(Bar) Bicchierino"
+msgstr "(Bar) Bicchiere da shot"
 
 msgctxt "0\t52897\t555\tCHK"
 msgid "(Bar) Tumbler"
@@ -2271,7 +2271,7 @@ msgstr "(Bar) Coppa da cocktail (Crepuscolo di Kamuro)"
 
 msgctxt "0\t53117\t564\tCHK"
 msgid "(Bar) Shot Glass (Empty Glass)"
-msgstr "(Bar) Bicchierino (vuoto)"
+msgstr "(Bar) Bicchiere da shot (vuoto)"
 
 msgctxt "0\t53148\t565\tCHK"
 msgid "(Bar) Tumbler (Empty Glass)"
@@ -2319,7 +2319,7 @@ msgstr "Canna da pesca"
 
 msgctxt "0\t53454\t576\tCHK"
 msgid "(Minigame) <Hostess Club> Ice Bucket and Tong Set"
-msgstr "(Minigioco) <Hostess Club> Secchiello del ghiaccio e pinze"
+msgstr "(Minigioco) <Hostess Club> Set secchiello per il ghiaccio e pinze"
 
 msgctxt "0\t53504\t577\tCHK"
 msgid "(Minigame) <Baccarat> Kiryu's Hand"
@@ -2335,7 +2335,7 @@ msgstr "Scrivania"
 
 msgctxt "0\t53554\t580\tCHK"
 msgid "Spray Ammo Base"
-msgstr "Base munizioni spray"
+msgstr "Base per munizioni spray"
 
 msgctxt "0\t53570\t581\tCHK"
 msgid "Bomb Explosion Base"
@@ -2347,27 +2347,27 @@ msgstr "Munizioni base per fucile a pompa"
 
 msgctxt "0\t53608\t583\tCHK"
 msgid "One-handed Long Object Base"
-msgstr "Base Oggetto Lungo a una mano"
+msgstr "Base per oggetto lungo a una mano"
 
 msgctxt "0\t53636\t584\tCHK"
 msgid "Dagger Base"
-msgstr "Pugnale Base"
+msgstr "Base per pugnale"
 
 msgctxt "0\t53648\t585\tCHK"
 msgid "One-handed Blade Base (Keepable)"
-msgstr "Lama a una mano (Base) (Conservabile)"
+msgstr "Base per lama a una mano (Conservabile)"
 
 msgctxt "0\t53681\t586\tCHK"
 msgid "Two-handed (Heavy) Base"
-msgstr "A due mani (Pesante) Base"
+msgstr "Base per arma a due mani (Pesante)"
 
 msgctxt "0\t53705\t587\tCHK"
 msgid "Two-handed (Heavy) Sign Base"
-msgstr "Base per Insegna a Due Mani (Pesante)"
+msgstr "Base per insegna a due mani (Pesante)"
 
 msgctxt "0\t53734\t588\tCHK"
 msgid "Two-handed (Heavy) Sofa Base"
-msgstr "Base di divano a due mani (Pesante)"
+msgstr "Base per divano a due mani (Pesante)"
 
 msgctxt "0\t53763\t589\tCHK"
 msgid "Two-handed (Heavy) Saejima (*Just in case)"
@@ -2375,35 +2375,35 @@ msgstr "A due mani (Pesante) Saejima (*Per ogni evenienza)"
 
 msgctxt "0\t53806\t590\tCHK"
 msgid "Two-handed (Heavy) Bicycle Base"
-msgstr "A due mani (Pesante) Bicicletta Base"
+msgstr "Base per bicicletta a due mani (Pesante)"
 
 msgctxt "0\t53838\t591\tCHK"
 msgid "Two-handed (Heavy) Mountain Bike Base"
-msgstr "Mountain bike base a due mani (Pesante)"
+msgstr "Base per mountain bike a due mani (Pesante)"
 
 msgctxt "0\t53876\t592\tCHK"
 msgid "Two-handed (Heavy) Bicycle (Broken Level 1) Base"
-msgstr "Bicicletta a due mani (Pesante) (Rotta Livello 1) Base"
+msgstr "Base per bicicletta a due mani (Pesante) (Livello rottura 1)"
 
 msgctxt "0\t53925\t593\tCHK"
 msgid "Two-handed Long Object Base"
-msgstr "Oggetto Lungo a Due Mani Base"
+msgstr "Base per oggetto lungo a due mani"
 
 msgctxt "0\t53953\t594\tCHK"
 msgid "Golf Club Base"
-msgstr "Base della mazza da golf"
+msgstr "Base per mazza da golf"
 
 msgctxt "0\t53968\t595\tCHK"
 msgid "Bat Base"
-msgstr "Mazza base"
+msgstr "Base per mazza"
 
 msgctxt "0\t53977\t596\tCHK"
 msgid "Bat (Wooden) Base"
-msgstr "Mazza (Di Legno) Base"
+msgstr "Base per mazza (Di Legno)"
 
 msgctxt "0\t53995\t597\tCHK"
 msgid "Two-handed Long Object Base (Keepable)"
-msgstr "Base oggetto lungo a due mani (Conservabile)"
+msgstr "Base per oggetto lungo a due mani (Conservabile)"
 
 msgctxt "0\t54034\t598\tCHK"
 msgid "Banner A Template"
@@ -2411,39 +2411,39 @@ msgstr "Modello banner A"
 
 msgctxt "0\t54052\t599\tCHK"
 msgid "Katana Base"
-msgstr "Katana Base"
+msgstr "Base per katana"
 
 msgctxt "0\t54064\t600\tCHK"
 msgid "Katana Base (Keepable)"
-msgstr "Katana Base (Conservabile)"
+msgstr "Base per katana (Conservabile)"
 
 msgctxt "0\t54087\t601\tCHK"
 msgid "Super Heavy Weapon Base"
-msgstr "Base Arma Super Pesante"
+msgstr "Base per arma super pesante"
 
 msgctxt "0\t54111\t602\tCHK"
 msgid "Great Sword Base"
-msgstr "Spadone Base"
+msgstr "Base per spadone"
 
 msgctxt "0\t54128\t603\tCHK"
 msgid "Two-handed (Light) Base"
-msgstr "A due mani (Leggera) Base"
+msgstr "Base per arma a due mani (Leggera)"
 
 msgctxt "0\t54152\t604\tCHK"
 msgid "Two-handed (Light) Metal Object Base"
-msgstr "Base metallica a due mani (leggera)"
+msgstr "Base per oggetto metallico a due mani (Leggero)"
 
 msgctxt "0\t54189\t605\tCHK"
 msgid "Two-handed (Light) Glass Base"
-msgstr "A due mani (Leggero) Base di vetro"
+msgstr "Base per oggetto di vetro a due mani (Leggero)"
 
 msgctxt "0\t54219\t606\tCHK"
 msgid "Two-handed (Light) Decorative Plant Base"
-msgstr "Base per pianta decorativa a due mani (Leggero)"
+msgstr "Base per pianta decorativa a due mani (Leggera)"
 
 msgctxt "0\t54260\t607\tCHK"
 msgid "Two-handed (Light) Trash Can Base"
-msgstr "A due mani (Leggero) Base di bidone della spazzatura"
+msgstr "Base per bidone della spazzatura a due mani (Leggero)"
 
 msgctxt "0\t54294\t608\tCHK"
 msgid "Sign A Template (Stage Resource)"
@@ -2475,131 +2475,131 @@ msgstr "Template di insegna G (Risorsa di scena)"
 
 msgctxt "0\t54525\t615\tCHK"
 msgid "Pouch Base"
-msgstr "Borsello Base"
+msgstr "Base per borsello"
 
 msgctxt "0\t54536\t616\tCHK"
 msgid "Pole Base"
-msgstr "Base del palo"
+msgstr "Base per palo"
 
 msgctxt "0\t54546\t617\tCHK"
 msgid "Shotgun Base"
-msgstr "Base Fucile a pompa"
+msgstr "Base per fucile a pompa"
 
 msgctxt "0\t54559\t618\tCHK"
 msgid "Dual Handguns Base"
-msgstr "Doppie Pistole Base"
+msgstr "Base per doppie pistole"
 
 msgctxt "0\t54578\t619\tCHK"
 msgid "Rope Base"
-msgstr "Base della corda"
+msgstr "Base per corda"
 
 msgctxt "0\t54588\t620\tCHK"
 msgid "Brass Knuckles Base"
-msgstr "Noccoliera Base"
+msgstr "Base per tirapugni"
 
 msgctxt "0\t54608\t621\tCHK"
 msgid "One-handed Block Base"
-msgstr "Base di parata a una mano"
+msgstr "Base per blocco di cemento a una mano"
 
 msgctxt "0\t54630\t622\tCHK"
 msgid "One-handed Block Base (Equippable)"
-msgstr "Blocco Base a una mano (Equipaggiabile)"
+msgstr "Base per blocco di cemento a una mano (Equipaggiabile)"
 
 msgctxt "0\t54665\t623\tCHK"
 msgid "Briefcase Base"
-msgstr "Valigetta Base"
+msgstr "Base per valigetta"
 
 msgctxt "0\t54680\t624\tCHK"
 msgid "Spray Base"
-msgstr "Base spray"
+msgstr "Base per spray"
 
 msgctxt "0\t54691\t625\tCHK"
 msgid "Pole Base 2"
-msgstr "Base del palo 2"
+msgstr "Base per palo 2"
 
 msgctxt "0\t54703\t626\tCHK"
 msgid "Machine Gun Base"
-msgstr "Base di Mitragliatrice"
+msgstr "Base per mitragliatrice"
 
 msgctxt "0\t54720\t627\tCHK"
 msgid "Smoke Ball Base"
-msgstr "Base Palla di Fumo"
+msgstr "Base per palla di fumo"
 
 msgctxt "0\t54736\t628\tCHK"
 msgid "Tonfa Base"
-msgstr "Tonfa base"
+msgstr "Base per tonfa"
 
 msgctxt "0\t54747\t629\tCHK"
 msgid "Claw Base"
-msgstr "Base dell'artiglio"
+msgstr "Base per artiglio"
 
 msgctxt "0\t54757\t630\tCHK"
 msgid "Nunchaku Base"
-msgstr "Nunchaku di base"
+msgstr "Base per nunchaku"
 
 msgctxt "0\t54771\t631\tCHK"
 msgid "Chainsaw Base"
-msgstr "Base Motosega"
+msgstr "Base per motosega"
 
 msgctxt "0\t54785\t632\tCHK"
 msgid "Kali Sticks Base"
-msgstr "Kali Sticks Base"
+msgstr "Base per bastoni Kali"
 
 msgctxt "0\t54802\t633\tCHK"
 msgid "Handgun Base"
-msgstr "Pistola base"
+msgstr "Base per pistola"
 
 msgctxt "0\t54815\t634\tCHK"
 msgid "Broken Model Base"
-msgstr "Base di Modello Rotta"
+msgstr "Base per modello rotto"
 
 msgctxt "0\t54833\t635\tCHK"
 msgid "Bullet Base"
-msgstr "Base Proiettile"
+msgstr "Base per proiettile"
 
 msgctxt "0\t54845\t636\tCHK"
 msgid "Assault Rifle Base"
-msgstr "Fucile d'assalto Base"
+msgstr "Base per fucile d'assalto"
 
 msgctxt "0\t54864\t637\tCHK"
 msgid "Magnum Base"
-msgstr "Base Magnum"
+msgstr "Base per magnum"
 
 msgctxt "0\t54876\t638\tCHK"
 msgid "Gatling Arm Base"
-msgstr "Base del Braccio Gatling"
+msgstr "Base per braccio Gatling"
 
 msgctxt "0\t54893\t639\tCHK"
 msgid "Sniper Rifle Base"
-msgstr "Fucile di precisione Base"
+msgstr "Base per fucile di precisione"
 
 msgctxt "0\t54911\t640\tCHK"
 msgid "Auto-Shotgun Ammo Base"
-msgstr "Munizioni base per Fucile a pompa automatico"
+msgstr "Base per munizioni da fucile a pompa automatico"
 
 msgctxt "0\t54934\t641\tCHK"
 msgid "Gatling Gun Base"
-msgstr "Base per Mitragliatrice Gatling"
+msgstr "Base per mitragliatrice Gatling"
 
 msgctxt "0\t54951\t642\tCHK"
 msgid "Submachine Gun Base (Y4)"
-msgstr "Mitra Base (Y4)"
+msgstr "Base per mitra (Y4)"
 
 msgctxt "0\t54976\t643\tCHK"
 msgid "Anti-Materiel Rifle Base"
-msgstr "Fucile Anti-Materiale Base"
+msgstr "Base per fucile anti-materiale"
 
 msgctxt "0\t55001\t644\tCHK"
 msgid "Grenade Base"
-msgstr "Base Granata"
+msgstr "Base per granata"
 
 msgctxt "0\t55014\t645\tCHK"
 msgid "TOW Base"
-msgstr "Base di rimorchio"
+msgstr "Base per TOW"
 
 msgctxt "0\t55023\t646\tCHK"
 msgid "Pursuit Weapons Base"
-msgstr "Base Armi Inseguimento"
+msgstr "Base per armi da inseguimento"
 
 msgctxt "0\t55044\t647\tCHK"
 msgid "Vehicle Base"
@@ -2683,7 +2683,7 @@ msgstr "Munizioni automatiche 9mm"
 
 msgctxt "0\t55557\t667\tCHK"
 msgid "Handgun Ammo Base"
-msgstr "Munizioni Base per Pistola"
+msgstr "Base per munizioni da pistola"
 
 msgctxt "0\t55575\t668\tCHK"
 msgid "Golden Pistol Ammo"
@@ -2823,7 +2823,7 @@ msgstr "Trappola a gabbia"
 
 msgctxt "0\t56365\t702\tCHK"
 msgid "Leghold Trap"
-msgstr "Trappola per gamba"
+msgstr "Tagliola"
 
 msgctxt "0\t56378\t703\tCHK"
 msgid "Fishing Pole (River)"
@@ -2903,15 +2903,15 @@ msgstr "Trappola a scatola: Volpe"
 
 msgctxt "0\t56706\t722\tCHK"
 msgid "Leghold Trap: Marten"
-msgstr "Trappola a laccio: Marta"
+msgstr "Tagliola: Martora"
 
 msgctxt "0\t56727\t723\tCHK"
 msgid "Leghold Trap: Rabbit"
-msgstr "Trappola a laccio: Coniglio"
+msgstr "Tagliola: Coniglio"
 
 msgctxt "0\t56748\t724\tCHK"
 msgid "Leghold Trap: Fox"
-msgstr "Trappola a laccio: Volpe"
+msgstr "Tagliola: Volpe"
 
 msgctxt "0\t56766\t725\tCHK"
 msgid "Snowball"
@@ -3007,11 +3007,11 @@ msgstr "Piccolo Contenitore (Verde) (Rotto)"
 
 msgctxt "0\t57304\t748\tCHK"
 msgid "Cart with Railing"
-msgstr "Carrello con ringhiera"
+msgstr "Carrello con sponde"
 
 msgctxt "0\t57322\t749\tCHK"
 msgid "Cart with Railing (Broken)"
-msgstr "Carrello con Sponda (Rotto)"
+msgstr "Carrello con sponde (Rotto)"
 
 msgctxt "0\t57349\t750\tCHK"
 msgid "Pile of Wood"
@@ -3431,15 +3431,15 @@ msgstr "Esplosione granata (Zact)"
 
 msgctxt "0\t60613\t854\tCHK"
 msgid "Molotov Cocktail Burn Zone (Common)"
-msgstr "Zona bruciata da Molotov (Comune)"
+msgstr "Zona di combustione della Molotov (Comune)"
 
 msgctxt "0\t60649\t855\tCHK"
 msgid "Molotov Cocktail Burn Zone (Zact)"
-msgstr "Zona Bruciata da Molotov (Zact)"
+msgstr "Zona di combustione della Molotov (Zact)"
 
 msgctxt "0\t60683\t856\tCHK"
 msgid "Molotov Cocktail Burn Zone (Effect)"
-msgstr "Zona bruciata da Cocktail Molotov (Effetto)"
+msgstr "Zona di combustione della Molotov (Effetto)"
 
 msgctxt "0\t60719\t857\tCHK"
 msgid "Grenade Blast (Saigo's Training)"
@@ -3595,11 +3595,11 @@ msgstr "Ombrello da Gentiluomo (Chiuso) [Furore]"
 
 msgctxt "0\t61403\t895\tCHK"
 msgid "Elegant Umbrella (Open) [Furore]"
-msgstr "Ombrello Elegante (Aperto) [Calore]"
+msgstr "Ombrello Elegante (Aperto) [Furore]"
 
 msgctxt "0\t61434\t896\tCHK"
 msgid "Elegant Umbrella (Closed) [Furore]"
-msgstr "Ombrello Elegante (Chiuso) [Calore]"
+msgstr "Ombrello Elegante (Chiuso) [Furore]"
 
 msgctxt "0\t61467\t897\tCHK"
 msgid "Colorful Parasol (Open) [Furore]"
@@ -4895,7 +4895,7 @@ msgstr "Insegna dell'hostess club"
 
 msgctxt "0\t68235\t1220\tCHK"
 msgid "House Hunter's Best Friend Sign"
-msgstr "Insegna del Migliore Amico del Cacciatore di Case"
+msgstr "Insegna L'Amico di Chi Cerca Casa"
 
 msgctxt "0\t68267\t1221\tCHK"
 msgid "Vacancy Sign"
@@ -5007,7 +5007,7 @@ msgstr "Insegna Amore nel Cuore"
 
 msgctxt "0\t68733\t1248\tCHK"
 msgid "Onnawari Sign"
-msgstr "Insegna 'Sbirri'"
+msgstr "Insegna Onnawari"
 
 msgctxt "0\t68747\t1249\tCHK"
 msgid "No Parking Sign"
@@ -5728,7 +5728,7 @@ msgstr "Striscione Mahjong"
 
 msgctxt "0\t72211\t1428\tCHK"
 msgid "Private DVD Viewing Rooms Banner"
-msgstr "Striscione Sale di Visione Private DVD"
+msgstr "Striscione videocabine DVD"
 
 msgctxt "0\t72244\t1429\tCHK"
 msgid "Pharmacy Banner"
@@ -6212,11 +6212,11 @@ msgstr "Insegna Sala VIP Accogliente"
 
 msgctxt "0\t74743\t1549\tCHK"
 msgid "Chiropractic Sign"
-msgstr "Insegna di Chiropratica"
+msgstr "Insegna del Chiropratico"
 
 msgctxt "0\t74761\t1550\tCHK"
 msgid "Gorgeous Hostess Sign"
-msgstr "Insegna Splendida Hostess"
+msgstr "Insegna Hostess Splendide"
 
 msgctxt "0\t74783\t1551\tCHK"
 msgid "Beef Meatball Bowl Sign"
@@ -6688,7 +6688,7 @@ msgstr "Frammento di coltello sonico rotto"
 
 msgctxt "0\t77189\t1668\tCHK"
 msgid "One-handed Long Item Base (Gear)"
-msgstr "Base oggetto lungo a una mano (Equip.)"
+msgstr "Base per oggetto lungo a una mano (Equip.)"
 
 msgctxt "0\t77222\t1669\tCHK"
 msgid "One-handed Blade Base (Gear)"
@@ -6696,7 +6696,7 @@ msgstr "Base lama a una mano (Equip.)"
 
 msgctxt "0\t77251\t1670\tCHK"
 msgid "Two-handed Long Item Base (Gear)"
-msgstr "Base oggetto lungo a due mani (Equip.)"
+msgstr "Base per oggetto lungo a due mani (Equip.)"
 
 msgctxt "0\t77284\t1671\tCHK"
 msgid "Blade Base (Gear)"
@@ -6704,7 +6704,7 @@ msgstr "Base lama (Equip.)"
 
 msgctxt "0\t77302\t1672\tCHK"
 msgid "Hammer Base (Gear)"
-msgstr "Base martello (Equip.)"
+msgstr "Base per martello (Equip.)"
 
 msgctxt "0\t77321\t1673\tCHK"
 msgid "Pole Base (Gear)"
@@ -6712,7 +6712,7 @@ msgstr "Base asta (Equip.)"
 
 msgctxt "0\t77338\t1674\tCHK"
 msgid "Shotgun Base (Gear)"
-msgstr "Base fucile a pompa (Equip.)"
+msgstr "Base per fucile a pompa (Equip.)"
 
 msgctxt "0\t77358\t1675\tCHK"
 msgid "Brass Knuckles Base (Gear)"
@@ -6724,7 +6724,7 @@ msgstr "Base spray (Equip.)"
 
 msgctxt "0\t77403\t1677\tCHK"
 msgid "Tonfa Base (Gear)"
-msgstr "Base tonfa (Equip.)"
+msgstr "Base per tonfa (Equip.)"
 
 msgctxt "0\t77421\t1678\tCHK"
 msgid "Nunchaku Base (Gear)"
@@ -6732,11 +6732,11 @@ msgstr "Base nunchaku (Equip.)"
 
 msgctxt "0\t77442\t1679\tCHK"
 msgid "Kali Stick Base (Gear)"
-msgstr "Base bastone Kali (Equip.)"
+msgstr "Base per bastoni Kali (Equip.)"
 
 msgctxt "0\t77465\t1680\tCHK"
 msgid "Handgun Base (Gear)"
-msgstr "Base pistola (Equip.)"
+msgstr "Base per pistola (Equip.)"
 
 msgctxt "0\t77485\t1681\tCHK"
 msgid "Fragile 9-iron"
@@ -7036,7 +7036,7 @@ msgstr "Estintore"
 
 msgctxt "0\t78604\t1755\tCHK"
 msgid "Economy-size Extreme Spice"
-msgstr "Spezia estrema formato famiglia"
+msgstr "Spezia estrema formato convenienza"
 
 msgctxt "0\t78631\t1756\tCHK"
 msgid "Pepper"
@@ -7292,7 +7292,7 @@ msgstr "Martellone (Ridondante)"
 
 msgctxt "0\t80014\t1819\tCHK"
 msgid "Toy Hammer (Redundant)"
-msgstr "Martello giocattolo (Superfluo)"
+msgstr "Martello giocattolo (Ridondante)"
 
 msgctxt "0\t80037\t1820\tCHK"
 msgid "Raging Dragon Hammer (Redundant)"
@@ -7316,11 +7316,11 @@ msgstr "Lancia dell'Assassino (Ridondante)"
 
 msgctxt "0\t80183\t1825\tCHK"
 msgid "Purgatory Rod (Redundant)"
-msgstr "Bastone del Purgatory (Superfluo)"
+msgstr "Bastone del Purgatory (Ridondante)"
 
 msgctxt "0\t80209\t1826\tCHK"
 msgid "Mighty Dragon Spear (Redundant)"
-msgstr "Lancia del Drago Possente (Superfluo)"
+msgstr "Lancia del Drago Possente (Ridondante)"
 
 msgctxt "0\t80241\t1827\tCHK"
 msgid "Squid Spear (Redundant)"
@@ -7448,7 +7448,7 @@ msgstr "Ventaglio di carta"
 
 msgctxt "0\t81063\t1858\tCHK"
 msgid "× Card"
-msgstr "× Carta"
+msgstr "Carta ×"
 
 msgctxt "0\t81071\t1859\tCHK"
 msgid "Saigo's Wig"
@@ -7536,7 +7536,7 @@ msgstr "Palla di Fuoco di Fuoco"
 
 msgctxt "0\t81641\t1880\tCHK"
 msgid "Haruka Attack Sphere (heavy miss)"
-msgstr "Sfera d'attacco di Haruka (mancato pesante)"
+msgstr "Sfera d'attacco di Haruka (mancato grave)"
 
 msgctxt "0\t81675\t1881\tCHK"
 msgid "Love Shine Sticks (IF8)"
@@ -8216,11 +8216,11 @@ msgstr "Guanti del Rancore del Drago Modificati"
 
 msgctxt "0\t85148\t2050\tCHK"
 msgid "Crab Scissors"
-msgstr "Forbici da Granchio"
+msgstr "Chele di granchio"
 
 msgctxt "0\t85162\t2051\tCHK"
 msgid "Shortsword with Nicked Blade"
-msgstr "Spada corta con lama intaccata"
+msgstr "Spada corta sbeccata"
 
 msgctxt "0\t85191\t2052\tCHK"
 msgid "New Dagger"
@@ -8252,7 +8252,7 @@ msgstr "Katana di legno fragile"
 
 msgctxt "0\t85320\t2059\tCHK"
 msgid "Katana with Nicked Blade"
-msgstr "Katana con Lama Intaccata"
+msgstr "Katana sbeccata"
 
 msgctxt "0\t85345\t2060\tCHK"
 msgid "Hazy Moon"
@@ -8428,7 +8428,7 @@ msgstr "Fusto d'acciaio rotto"
 
 msgctxt "0\t86160\t2103\tCHK"
 msgid "Broken Economy-size Tabasco Bottle"
-msgstr "Bottiglia di Tabasco formato famiglia rotta"
+msgstr "Bottiglia di Tabasco formato convenienza rotta"
 
 msgctxt "0\t86195\t2104\tCHK"
 msgid "Broken Industrial-size Hot Peppers"
@@ -8436,23 +8436,23 @@ msgstr "Peperoncini piccanti formato industriale rotti"
 
 msgctxt "0\t86230\t2105\tCHK"
 msgid "Broken Brickshitter Beer Fragment"
-msgstr "Frammento di birra Brickshitter rotta"
+msgstr "Frammento di bottiglia di birra Brickshitter rotta"
 
 msgctxt "0\t86264\t2106\tCHK"
 msgid "Broken Bladed Tonfa Fragment"
-msgstr "Frammento di tonfa con lama rotti"
+msgstr "Frammento di tonfa a lama rotto"
 
 msgctxt "0\t86293\t2107\tCHK"
 msgid "Broken Wooden Nunchaku Fragment"
-msgstr "Frammento di nunchaku di legno rotti"
+msgstr "Frammento di nunchaku di legno rotto"
 
 msgctxt "0\t86325\t2108\tCHK"
 msgid "Broken Steel Nunchaku Fragment"
-msgstr "Frammento di nunchaku d'acciaio rotti"
+msgstr "Frammento di nunchaku d'acciaio rotto"
 
 msgctxt "0\t86356\t2109\tCHK"
 msgid "Broken Dragon Nunchaku Fragment"
-msgstr "Frammento di nunchaku del drago rotti"
+msgstr "Frammento di nunchaku del drago rotto"
 
 msgctxt "0\t86388\t2110\tCHK"
 msgid "Broken Double Sticks Fragment"
@@ -8460,7 +8460,7 @@ msgstr "Frammento di doppi bastoni rotti"
 
 msgctxt "0\t86418\t2111\tCHK"
 msgid "Broken Chinese Dragon Tonfa Fragment"
-msgstr "Frammento di tonfa del drago cinese rotti"
+msgstr "Frammento di tonfa del drago cinese rotto"
 
 msgctxt "0\t86455\t2112\tCHK"
 msgid "Broken Cedar Lumber Fragment"

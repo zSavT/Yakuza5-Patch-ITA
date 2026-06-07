@@ -13,23 +13,23 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Kamiyama Works Lv. %d"
-msgstr "Kamiyama Works Lv. %d"
+msgstr "Kamiyama Works Liv. %d"
 
 msgctxt "4"
 msgid "Kamiyama Works Lv. %d"
-msgstr "Kamiyama Works Lv. %d"
+msgstr "Kamiyama Works Liv. %d"
 
 msgctxt "8"
 msgid "Kamiyama Works Lv. %d"
-msgstr "Kamiyama Works Lv. %d"
+msgstr "Kamiyama Works Liv. %d"
 
 msgctxt "12"
 msgid "Kamiyama Works Lv. %d"
-msgstr "Kamiyama Works Lv. %d"
+msgstr "Kamiyama Works Liv. %d"
 
 msgctxt "16"
 msgid "Kamiyama Works Lv. %d"
-msgstr "Kamiyama Works Lv. %d"
+msgstr "Kamiyama Works Liv. %d"
 
 msgctxt "20"
 msgid "Free"
@@ -53,23 +53,23 @@ msgstr "Gratis"
 
 msgctxt "40"
 msgid "Owned"
-msgstr "Di proprietà"
+msgstr "Posseduto"
 
 msgctxt "44"
 msgid "Owned"
-msgstr "Di proprietà"
+msgstr "Posseduto"
 
 msgctxt "48"
 msgid "Owned"
-msgstr "Di proprietà"
+msgstr "Posseduto"
 
 msgctxt "52"
 msgid "Owned"
-msgstr "Di proprietà"
+msgstr "Posseduto"
 
 msgctxt "56"
 msgid "Owned"
-msgstr "Di proprietà"
+msgstr "Posseduto"
 
 msgctxt "60"
 msgid "(I don't have anything I can hand over.)"
@@ -81,7 +81,7 @@ msgstr "(Non ho niente da consegnare.)"
 
 msgctxt "68"
 msgid "(Don't got anythin' to hand over.)"
-msgstr "(Non ho niente da consegnare.)"
+msgstr "(Non c'ho niente da consegnare.)"
 
 msgctxt "72"
 msgid "(I don't have anything I can hand over...)"
@@ -97,11 +97,11 @@ msgstr "(Non ho scelto niente...)"
 
 msgctxt "84"
 msgid "(Haven't picked anything out.)"
-msgstr "(Non hai selezionato nulla.)"
+msgstr "(Non ho selezionato nulla.)"
 
 msgctxt "88"
 msgid "(Gotta choose somethin' first.)"
-msgstr "(Devi scegliere qualcosa prima.)"
+msgstr "(Prima devo scegliere qualcosa.)"
 
 msgctxt "92"
 msgid "(I haven't chosen anything.)"
@@ -113,20 +113,20 @@ msgstr "(Non ho selezionato niente...)"
 
 msgctxt "100"
 msgid "I guess that'll be %s..."
-msgstr "Immagino che sarà %s..."
+msgstr "Credo che il totale sia %s..."
 
 msgctxt "104"
 msgid "I guess that'll be %s..."
-msgstr "Immagino che sarà %s..."
+msgstr "Credo che il totale sia %s..."
 
 msgctxt "108"
 msgid "I guess that'll be %s..."
-msgstr "Immagino che sarà %s..."
+msgstr "Credo che il totale sia %s..."
 
 msgctxt "112"
 msgid "I guess that'll be %s..."
-msgstr "Immagino che sarà %s..."
+msgstr "Credo che il totale sia %s..."
 
 msgctxt "116"
 msgid "I guess that'll be %s..."
-msgstr "Immagino che sarà %s..."
+msgstr "Credo che il totale sia %s..."

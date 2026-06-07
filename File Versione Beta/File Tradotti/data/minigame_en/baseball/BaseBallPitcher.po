@@ -18,11 +18,11 @@ msgstr "Standard"
 
 msgctxt "4825\tNAME"
 msgid "Batting Center Beginner Higher angle"
-msgstr "Centro di Battuta - Principiante - Angolo Elevato"
+msgstr "Centro di Battuta Principiante angolo alto"
 
 msgctxt "4862\tNAME"
 msgid "Batting Center Beginner lower angle"
-msgstr "Centro di battuta Principiante angolo inferiore"
+msgstr "Centro di Battuta Principiante angolo basso"
 
 msgctxt "4898\tNAME"
 msgid "Batting Center Beginner outer angle"
@@ -38,15 +38,15 @@ msgstr "Centro di Battuta Principiante casuale"
 
 msgctxt "5001\tNAME"
 msgid "Batting Center Beginner Furore Eye"
-msgstr "Centro di Battuta Principiante Occhio di Calore"
+msgstr "Centro di Battuta Principiante Occhio del Furore"
 
 msgctxt "5034\tNAME"
 msgid "Batting Center Intermediate"
-msgstr "Centro di battuta Intermedio"
+msgstr "Centro di Battuta Intermedio"
 
 msgctxt "5062\tNAME"
 msgid "Batting Center Advanced"
-msgstr "Centro Battuta Avanzato"
+msgstr "Centro di Battuta Avanzato"
 
 msgctxt "5086\tNAME"
 msgid "Batting Center Missions"
@@ -62,7 +62,7 @@ msgstr "Sfida del Centro di Battuta"
 
 msgctxt "5157\tNAME"
 msgid "Batting Center Kamurocho"
-msgstr "Centro di battuta Kamurocho"
+msgstr "Centro di Battuta Kamurocho"
 
 msgctxt "5182\tNAME"
 msgid "Main Scenario Batting Center"
@@ -74,11 +74,11 @@ msgstr "Scenario Principale Sawada"
 
 msgctxt "5232\tNAME"
 msgid "Kuroda: Shirakawa's assassin"
-msgstr "Kuroda: L'assassino di Shirakawa"
+msgstr "Kuroda: Il sicario di Shirakawa"
 
 msgctxt "5261\tNAME"
 msgid "Kuroda: Aims to become a high school baseball player"
-msgstr "Kuroda: Punta a diventare un giocatore di baseball liceale"
+msgstr "Kuroda: Punta a diventare un giocatore di baseball del liceo"
 
 msgctxt "5314\tNAME"
 msgid "Haibara: Velocity 145km/h"
@@ -94,7 +94,7 @@ msgstr "Shiraki: L'ombra della ribalta"
 
 msgctxt "5406\tNAME"
 msgid "Shiraki: The battle 20 years ago"
-msgstr "Shiraki: La battaglia 20 anni fa"
+msgstr "Shiraki: La battaglia di 20 anni fa"
 
 msgctxt "5439\tNAME"
 msgid "Grunt 01"
@@ -110,7 +110,7 @@ msgstr "Scagnozzo 03"
 
 msgctxt "5466\tNAME"
 msgid "Grunt 04"
-msgstr "Sgherro 04"
+msgstr "Scagnozzo 04"
 
 msgctxt "5475\tNAME"
 msgid "Grunt 05"
@@ -154,7 +154,7 @@ msgstr "Scagnozzo 14"
 
 msgctxt "5565\tNAME"
 msgid "Grunt 15"
-msgstr "Sgherro 15"
+msgstr "Scagnozzo 15"
 
 msgctxt "5574\tNAME"
 msgid "Grunt 16"
@@ -178,7 +178,7 @@ msgstr "Scagnozzo 20"
 
 msgctxt "5619\tNAME"
 msgid "Sub Scenario: The Mysterious Hitter"
-msgstr "Sottostoria: Il Battitore Misterioso"
+msgstr "Sottoscenario: Il Battitore Misterioso"
 
 msgctxt "5655\tNAME"
 msgid "Sub Scenario: Help my Daddy"
@@ -186,19 +186,19 @@ msgstr "Sottoscenario: Aiuta il mio papà"
 
 msgctxt "5683\tNAME"
 msgid "Sub Scenario: Ex-Professional Coach"
-msgstr "Sottoscenario: Ex-Allenatore Professionista"
+msgstr "Sottoscenario: Allenatore ex-professionista"
 
 msgctxt "5719\tNAME"
 msgid "Sub Scenario: Miracle Pitcher Kid 1"
-msgstr "Sottoscenario: Il Ragazzo Lanciatore Miracoloso 1"
+msgstr "Sottoscenario: Il ragazzo lanciatore prodigio 1"
 
 msgctxt "5755\tNAME"
 msgid "Sub Scenario: Miracle Pitcher Kid 2"
-msgstr "Sotto-storia: Ragazzo Lanciatore Miracoloso 2"
+msgstr "Sottoscenario: Il ragazzo lanciatore prodigio 2"
 
 msgctxt "5791\tNAME"
 msgid "Sub Scenario: Miracle Pitcher Kid 3"
-msgstr "Sottoscenario: Il Ragazzo Lanciatore Miracolo 3"
+msgstr "Sottoscenario: Il ragazzo lanciatore prodigio 3"
 
 msgctxt "5827\tNAME"
 msgid "Sub Scenario: How to Use a Bat"
@@ -206,11 +206,11 @@ msgstr "Sottoscenario: Come usare una mazza"
 
 msgctxt "5858\tNAME"
 msgid "Sub Scenario: Ball Magnet Bancho"
-msgstr "Sottoscenario: Il magnete di palle Bancho"
+msgstr "Sottoscenario: Bancho Calamita"
 
 msgctxt "5891\tNAME"
 msgid "Sub Scenario: Dreams and Reality 1"
-msgstr "Sottostoria: Sogni e Realtà 1"
+msgstr "Sottoscenario: Sogni e Realtà 1"
 
 msgctxt "5926\tNAME"
 msgid "Sub Scenario: Dreams and Reality 2"
@@ -222,11 +222,11 @@ msgstr "Sottoscenario: Sakè"
 
 msgctxt "5980\tNAME"
 msgid "Batting Center Challenger Sub Scenario"
-msgstr "Centro di Battuta Sfidante Sottoscenario"
+msgstr "Sottoscenario Sfidante del Centro di Battuta"
 
 msgctxt "6019\tNAME"
 msgid "Sub Scenario: To Be a First Class Batter"
-msgstr "Sottoscenario: Essere un Battitore di Prima Classe"
+msgstr "Sottoscenario: Diventare un battitore di prima classe"
 
 msgctxt "6060\tNAME"
 msgid "Sub Scenario: Operation Phobia"
@@ -234,11 +234,11 @@ msgstr "Sottoscenario: Operazione Fobia"
 
 msgctxt "6091\tNAME"
 msgid "Sub Scenario: Chosen for the Spring Nationals"
-msgstr "Sottostoria: Scelto per i Nazionali Primaverili"
+msgstr "Sottoscenario: Scelto per i Nazionali Primaverili"
 
 msgctxt "6137\tNAME"
 msgid "Sub Scenario: Working Behind the Scenes"
-msgstr "Sottoscenario: Lavorare dietro le quinte"
+msgstr "Sottoscenario: Lavoro dietro le quinte"
 
 msgctxt "6177\tNAME"
 msgid "Sub Scenario: Additional Missions"

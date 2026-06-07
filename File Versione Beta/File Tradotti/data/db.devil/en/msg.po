@@ -74,7 +74,7 @@ msgstr "Ricevuto \"Amuleto Nishikigoi\" in regalo."
 
 msgctxt "0\t1116\t10\tCHK"
 msgid "Received \"Yellow Dragon's Binding\" as a present."
-msgstr "Hai ricevuto il \"Legame del drago giallo\" in regalo."
+msgstr "Hai ricevuto \"Fascia del Drago Giallo\" in regalo."
 
 msgctxt "0\t1165\t11\tCHK"
 msgid "Received \"Morning Glory Scarf\" as a present."
@@ -98,7 +98,7 @@ msgstr "Impossibile ottenere il trofeo."
 
 msgctxt "0\t1294\t16\tCHK"
 msgid "A trophy error occurred."
-msgstr "Si è verificato un errore del trofeo."
+msgstr "Si è verificato un errore con il trofeo."
 
 msgctxt "0\t1319\t17\tCHK"
 msgid "Save completed."
@@ -327,15 +327,15 @@ msgstr ""
 
 msgctxt "0\t2659\t63\tCHK"
 msgid "Received \"Fat Stacks Amulet\" as a present."
-msgstr "Ricevuto \"Amuleto pila di soldi\" come regalo."
+msgstr "Ricevuto \"Amuleto dei soldi a palate\" in regalo."
 
 msgctxt "0\t2702\t64\tCHK"
 msgid ""
 "System Data from Fist of the North Star: Lost Paradise has been found.\n"
 "Received \"Gold Plate\" as a present."
 msgstr ""
-"Dati di sistema da Fist of the North Star: Lost Paradise sono stati trovati.\n"
-"Ottenuta \"Placca d'oro\" in regalo."
+"Sono stati trovati dei dati di sistema di Fist of the North Star: Lost Paradise.\n"
+"Hai ricevuto \"Piatto d'oro\" in regalo."
 
 msgctxt "0\t2809\t65\tCHK"
 msgid "Equipment Confirmation"
@@ -374,8 +374,8 @@ msgid ""
 "System Data from Judgment has been found.\n"
 "Received \"Gold Plate\" as a present."
 msgstr ""
-"Dati di sistema di Judgment sono stati trovati.\n"
-"Ricevuto \"Piatto d'oro\" in regalo."
+"Sono stati trovati dei dati di sistema di Judgment.\n"
+"Hai ricevuto \"Piatto d'oro\" in regalo."
 
 msgctxt "0\t2991\t74\tCHK"
 msgid "Yahata"
@@ -919,7 +919,7 @@ msgstr "Torna al menu iniziale"
 
 msgctxt "0\t5612\t209\tCHK"
 msgid "Reverse Up and Down"
-msgstr "Inverti su e giù"
+msgstr "Inverti asse verticale"
 
 msgctxt "0\t5632\t210\tCHK"
 msgid "Right"
@@ -1039,7 +1039,7 @@ msgstr "Passa a modalità foto"
 
 msgctxt "0\t6131\t239\tCHK"
 msgid "Take Back"
-msgstr "Riprenditi"
+msgstr "Annulla mossa"
 
 msgctxt "0\t6141\t240\tCHK"
 msgid "Take Weapon 1 Out"
@@ -1115,11 +1115,11 @@ msgstr "Rilascio mulinello alt."
 
 msgctxt "0\t6429\t258\tCHK"
 msgid "Wind Reel (Double Speed)"
-msgstr "Mulinello di vento (doppia velocità)"
+msgstr "Riavvolgi lenza (doppia velocità)"
 
 msgctxt "0\t6454\t259\tCHK"
 msgid "Release Reel (Double Speed)"
-msgstr "Bobina di rilascio (velocità doppia)"
+msgstr "Rilascia lenza (doppia velocità)"
 
 msgctxt "0\t6482\t260\tCHK"
 msgid "Replenish Snowballs"
@@ -1227,7 +1227,7 @@ msgstr "Conferma / Incita"
 
 msgctxt "0\t6858\t286\tCHK"
 msgid "Left Answer"
-msgstr "Risposta sinistra"
+msgstr "Risposta a sinistra"
 
 msgctxt "0\t6870\t287\tCHK"
 msgid "Up Answer"
@@ -1423,7 +1423,7 @@ msgstr "Stringi la mano"
 
 msgctxt "0\t7481\t335\tCHK"
 msgid "Flash a \"Wait a sec\" smile"
-msgstr "Abbozza un sorriso da \"aspetta un attimo\""
+msgstr "Sfoggia un sorriso da \"aspetta un attimo\""
 
 msgctxt "0\t7508\t336\tCHK"
 msgid "Select Row"
@@ -1539,7 +1539,7 @@ msgstr "Non fare nulla"
 
 msgctxt "0\t7830\t364\tCHK"
 msgid "Super Take Back"
-msgstr "Super ripresa"
+msgstr "Super annullamento"
 
 msgctxt "0\t7846\t365\tCHK"
 msgid "Move pointer Up"
@@ -1763,7 +1763,7 @@ msgstr "Attacca"
 
 msgctxt "0\t8851\t420\tCHK"
 msgid "Result Table Controls Left"
-msgstr "Tabella dei risultati controlli a sinistra"
+msgstr "Controlli tabella risultati: sinistra"
 
 msgctxt "0\t8878\t421\tCHK"
 msgid "Result Table Controls Right"
@@ -1775,7 +1775,7 @@ msgstr "Controllo mazza / Prospettiva sinistra"
 
 msgctxt "0\t8940\t423\tCHK"
 msgid "Control Mallet / Perspective Right"
-msgstr "Controllo maglio / Prospettiva destra"
+msgstr "Controllo mazzuolo / Prospettiva destra"
 
 msgctxt "0\t8975\t424\tCHK"
 msgid "Control Mallet / Perspective Up"
@@ -1859,67 +1859,67 @@ msgstr "Sposta cursore (su) (alt.)"
 
 msgctxt "0\t9376\t444\tCHK"
 msgid "Move Cursor Down / Change Category Down Alt."
-msgstr "Sposta cursore giù / Cambia categoria giù alt."
+msgstr "Sposta cursore giù / Cambia categoria giù (alt.)"
 
 msgctxt "0\t9421\t445\tCHK"
 msgid "Move Cursor Left / Change Category Left Alt."
-msgstr "Sposta cursore a sinistra / Cambia categoria a sinistra alt."
+msgstr "Sposta cursore a sinistra / Cambia categoria a sinistra (alt.)"
 
 msgctxt "0\t9466\t446\tCHK"
 msgid "Move Cursor Right / Change Category Right Alt."
-msgstr "Sposta cursore a destra / Cambia categoria a destra alternativa."
+msgstr "Sposta cursore a destra / Cambia categoria a destra (alt.)"
 
 msgctxt "0\t9513\t447\tCHK"
 msgid "Move Cursor Up / Change Category Up Alt."
-msgstr "Sposta cursore su / Cambia categoria su alt."
+msgstr "Sposta cursore su / Cambia categoria su (alt.)"
 
 msgctxt "0\t9554\t448\tCHK"
 msgid "Select Tile Down Alt."
-msgstr "Seleziona tessera giù alt."
+msgstr "Seleziona tessera giù (alt.)"
 
 msgctxt "0\t9576\t449\tCHK"
 msgid "Select Tile Left Alt."
-msgstr "Seleziona casella alt. sinistro"
+msgstr "Seleziona tessera a sinistra (alt.)"
 
 msgctxt "0\t9598\t450\tCHK"
 msgid "Select Tile Right Alt."
-msgstr "Seleziona casella alt. destro."
+msgstr "Seleziona tessera a destra (alt.)"
 
 msgctxt "0\t9621\t451\tCHK"
 msgid "Select Tile Up Alt."
-msgstr "Seleziona riquadro su alt."
+msgstr "Seleziona tessera su (alt.)"
 
 msgctxt "0\t9641\t452\tCHK"
 msgid "Move pointer Up Alt."
-msgstr "Sposta puntatore su alt."
+msgstr "Sposta puntatore su (alt.)"
 
 msgctxt "0\t9662\t453\tCHK"
 msgid "Move pointer Down Alt."
-msgstr "Muovi puntatore giù alt."
+msgstr "Sposta puntatore giù (alt.)"
 
 msgctxt "0\t9685\t454\tCHK"
 msgid "Move pointer Left Alt."
-msgstr "Sposta puntatore alt. sinistro."
+msgstr "Sposta puntatore a sinistra (alt.)"
 
 msgctxt "0\t9708\t455\tCHK"
 msgid "Move pointer Right Alt."
-msgstr "Sposta puntatore alt. destro."
+msgstr "Sposta puntatore a destra (alt.)"
 
 msgctxt "0\t9732\t456\tCHK"
 msgid "Select Action Up Alt."
-msgstr "Seleziona azione su alternativa"
+msgstr "Seleziona azione su (alt.)"
 
 msgctxt "0\t9754\t457\tCHK"
 msgid "Select Action Down Alt."
-msgstr "Seleziona azione giù alt."
+msgstr "Seleziona azione giù (alt.)"
 
 msgctxt "0\t9778\t458\tCHK"
 msgid "Select Action Left Alt."
-msgstr "Seleziona azione alt. sinistro."
+msgstr "Seleziona azione a sinistra (alt.)"
 
 msgctxt "0\t9802\t459\tCHK"
 msgid "Select Action Right Alt."
-msgstr "Seleziona azione alt. destro."
+msgstr "Seleziona azione a destra (alt.)"
 
 msgctxt "0\t9827\t460\tCHK"
 msgid "Fast Forward Dialogue"
@@ -1927,39 +1927,39 @@ msgstr "Avanti veloce dialogo"
 
 msgctxt "0\t9849\t461\tCHK"
 msgid "Furore Eye"
-msgstr "Sguardo calore"
+msgstr "Sguardo Furore"
 
 msgctxt "0\t9858\t462\tCHK"
 msgid "Move Camera Left / Select Left Alt."
-msgstr "Sposta telecamera a sinistra / Seleziona alt. sinistro."
+msgstr "Sposta telecamera a sinistra / Seleziona a sinistra (alt.)"
 
 msgctxt "0\t9894\t463\tCHK"
 msgid "Move Camera Right / Select Right Alt."
-msgstr "Sposta telecamera a destra / Seleziona alt. dx."
+msgstr "Sposta telecamera a destra / Seleziona a destra (alt.)"
 
 msgctxt "0\t9932\t464\tCHK"
 msgid "Move Rod Left"
-msgstr "Muovi asta a sinistra"
+msgstr "Sposta canna a sinistra"
 
 msgctxt "0\t9946\t465\tCHK"
 msgid "Move Rod Right"
-msgstr "Muovi canna destra"
+msgstr "Sposta canna a destra"
 
 msgctxt "0\t9961\t466\tCHK"
 msgid "Select Up Alt."
-msgstr "Seleziona su alternativo."
+msgstr "Seleziona su (alt.)"
 
 msgctxt "0\t9976\t467\tCHK"
 msgid "Select Down Alt."
-msgstr "Seleziona giù alternativo."
+msgstr "Seleziona giù (alt.)"
 
 msgctxt "0\t9993\t468\tCHK"
 msgid "Select Left Alt."
-msgstr "Seleziona alt. sinistro."
+msgstr "Seleziona a sinistra (alt.)"
 
 msgctxt "0\t10010\t469\tCHK"
 msgid "Select Right Alt."
-msgstr "Seleziona alt. destro."
+msgstr "Seleziona a destra (alt.)"
 
 msgctxt "0\t10028\t470\tCHK"
 msgid "List of Hands"
@@ -1979,15 +1979,15 @@ msgstr "Regola traiettoria / Posizionamento palla giù alternativo"
 
 msgctxt "0\t10111\t474\tCHK"
 msgid "Adjust Trajectory / Ball Placement Left Alt."
-msgstr "Regola traiettoria / Posizionamento palla alt. sinistro"
+msgstr "Regola traiettoria / Posizionamento palla a sinistra (alt.)"
 
 msgctxt "0\t10156\t475\tCHK"
 msgid "Adjust Trajectory / Ball Placement Right Alt."
-msgstr "Regola traiettoria / Piazzamento palla alt. destro"
+msgstr "Regola traiettoria / Posizionamento palla a destra (alt.)"
 
 msgctxt "0\t10202\t476\tCHK"
 msgid "Adjust Trajectory / Ball Placement Up Alt."
-msgstr "Regola traiettoria / Posizionamento palla su alternativo"
+msgstr "Regola traiettoria / Posizionamento palla su (alt.)"
 
 msgctxt "0\t10245\t477\tCHK"
 msgid "Move Camera Up"
@@ -1999,51 +1999,51 @@ msgstr "Sposta telecamera in basso"
 
 msgctxt "0\t10277\t479\tCHK"
 msgid "Replenish Snowballs Alt."
-msgstr "Rifornisci palle di neve alternativa"
+msgstr "Rifornisci palle di neve (alt.)"
 
 msgctxt "0\t10302\t480\tCHK"
 msgid "Throw Snowball Alt."
-msgstr "Lancia palla di neve alternativo"
+msgstr "Lancia palla di neve (alt.)"
 
 msgctxt "0\t10322\t481\tCHK"
 msgid "Throw Scattershot Alt."
-msgstr "Lancia colpo a dispersione alt."
+msgstr "Lancia colpo a dispersione (alt.)"
 
 msgctxt "0\t10345\t482\tCHK"
 msgid "Move Cursor Down Alt."
-msgstr "Sposta cursore giù alternativo."
+msgstr "Sposta cursore giù (alt.)"
 
 msgctxt "0\t10367\t483\tCHK"
 msgid "Move Cursor Left Alt."
-msgstr "Sposta cursore sinistra alt."
+msgstr "Sposta cursore a sinistra (alt.)"
 
 msgctxt "0\t10389\t484\tCHK"
 msgid "Move Cursor Right Alt."
-msgstr "Sposta cursore a destra alt."
+msgstr "Sposta cursore a destra (alt.)"
 
 msgctxt "0\t10412\t485\tCHK"
 msgid "Move Cursor Up Alt."
-msgstr "Muovi cursore su alternativo."
+msgstr "Sposta cursore su (alt.)"
 
 msgctxt "0\t10432\t486\tCHK"
 msgid "Move the Swing Cursor Up Alt."
-msgstr "Sposta il cursore dello swing su (alt.)"
+msgstr "Sposta il cursore dello swing in alto (alt.)"
 
 msgctxt "0\t10462\t487\tCHK"
 msgid "Move the Swing Cursor Down Alt."
-msgstr "Sposta il cursore dello swing giù alt."
+msgstr "Sposta il cursore dello swing in basso (alt.)"
 
 msgctxt "0\t10494\t488\tCHK"
 msgid "Move the Swing Cursor Left Alt."
-msgstr "Sposta il cursore oscillazione alt. sinistro."
+msgstr "Sposta il cursore dello swing a sinistra (alt.)"
 
 msgctxt "0\t10526\t489\tCHK"
 msgid "Move the Swing Cursor Right Alt."
-msgstr "Sposta il cursore dello swing alt. destro."
+msgstr "Sposta il cursore dello swing a destra (alt.)"
 
 msgctxt "0\t10559\t490\tCHK"
 msgid "Run (Double-tap to Dodge) Alt."
-msgstr "Corri (doppio tocco per schivare) alternativo."
+msgstr "Corri (doppio tocco per schivare) (alt.)"
 
 msgctxt "0\t10590\t491\tCHK"
 msgid "Change bet amount"
