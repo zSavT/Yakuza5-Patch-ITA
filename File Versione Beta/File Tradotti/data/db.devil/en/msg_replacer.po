@@ -305,11 +305,11 @@ msgstr "Arthur Starr  "
 
 msgctxt "6\t60232\t2\tCHK"
 msgid "Reality's a bitch.  "
-msgstr "La realtà è una stronza.  "
+msgstr "La realtà fa schifo.  "
 
 msgctxt "6\t60253\t3\tCHK"
 msgid "Help me, universe!  "
-msgstr "Aiutami, universo!  "
+msgstr "Che l'universo mi aiuti!  "
 
 msgctxt "6\t60274\t4\tCHK"
 msgid "Just have to keep this up.  "
@@ -321,7 +321,7 @@ msgstr "Sarò una leggenda!  "
 
 msgctxt "6\t60323\t6\tCHK"
 msgid "Good luck to you.  "
-msgstr "Buona fortuna a te.  "
+msgstr "Buona fortuna.  "
 
 msgctxt "6\t60343\t7\tCHK"
 msgid "Argh... I'm out.  "
@@ -333,7 +333,7 @@ msgstr "Ehi! Niente fiches!  "
 
 msgctxt "6\t60379\t9\tCHK"
 msgid "May we meet again!  "
-msgstr "Che possiamo incontrarci di nuovo!  "
+msgstr "Speriamo di rivederci!  "
 
 msgctxt "7\t61176\t0\tSUS"
 msgid ""
@@ -393,11 +393,11 @@ msgstr "Ci sono quasi...  "
 
 msgctxt "8\t62169\t4\tCHK"
 msgid "I'm hot!  "
-msgstr "Sono in fiamme!  "
+msgstr "Sono in serie positiva!  "
 
 msgctxt "8\t62180\t5\tCHK"
 msgid "I can almost taste it!  "
-msgstr "Riesco quasi a sentirne il sapore!  "
+msgstr "Sento già il sapore della vittoria!  "
 
 msgctxt "8\t62205\t6\tCHK"
 msgid "May the best man win.  "
@@ -553,7 +553,7 @@ msgstr "Che fare?  "
 
 msgctxt "12\t65934\t4\tCHK"
 msgid "Looking good!  "
-msgstr "Mi sembra ottimo!  "
+msgstr "Promette bene!  "
 
 msgctxt "12\t65950\t5\tCHK"
 msgid "Ho ho ho!  "
@@ -569,7 +569,7 @@ msgstr "Tornerò.  "
 
 msgctxt "12\t65996\t8\tCHK"
 msgid "Treat your chips better.  "
-msgstr "Tratta meglio le tue fiches.  "
+msgstr "Gestisci meglio le tue fiches.  "
 
 msgctxt "12\t66023\t9\tCHK"
 msgid "Take care.  "
@@ -649,7 +649,7 @@ msgstr "Delinquente disarmato"
 
 msgctxt "14\t4267\t8\tCHK"
 msgid "Grab-Happy Goon"
-msgstr "Scagnozzo avvinghiatore"
+msgstr "Scagnozzo manesco"
 
 msgctxt "14\t4283\t9\tCHK"
 msgid "Moronic Minion"
@@ -681,7 +681,7 @@ msgstr "Appassionato di Kung Fu"
 
 msgctxt "14\t4397\t16\tCHK"
 msgid "Tackle-Happy Toady"
-msgstr "Teppista da placcaggio"
+msgstr "Placcatore incallito"
 
 msgctxt "14\t4416\t17\tCHK"
 msgid "Karate Kook"
@@ -709,7 +709,7 @@ msgstr "(L) Delinquente disarmato"
 
 msgctxt "14\t4523\t23\tCHK"
 msgid "(L) Grab-Happy Goon"
-msgstr "(L) Scagnozzo avvinghiatore"
+msgstr "(L) Scagnozzo manesco"
 
 msgctxt "14\t4543\t24\tCHK"
 msgid "(L) Moronic Minion"
@@ -741,7 +741,7 @@ msgstr "(L) Appassionato di Kung Fu"
 
 msgctxt "14\t4685\t31\tCHK"
 msgid "(L) Tackle-Happy Toady"
-msgstr "(L) Teppista da placcaggio"
+msgstr "(L) Placcatore incallito"
 
 msgctxt "14\t4708\t32\tCHK"
 msgid "(L) Karate Kook"
@@ -3905,7 +3905,7 @@ msgstr "Hayato Sakagami"
 
 msgctxt "16\t45850\t20\tCHK"
 msgid "Wow, you're on fire!"
-msgstr "Wow, sei in fiamme!"
+msgstr "Wow, sei inarrestabile!"
 
 msgctxt "16\t45871\t21\tCHK"
 msgid "Hahaha, it's all good!"
@@ -3973,7 +3973,7 @@ msgstr "Natasha"
 
 msgctxt "16\t46100\t37\tCHK"
 msgid "You're the real deal."
-msgstr "Fai sul serio."
+msgstr "Sei un vero portento."
 
 msgctxt "16\t46122\t38\tCHK"
 msgid "No worries!"
@@ -4157,7 +4157,7 @@ msgstr "Sono un grande!"
 
 msgctxt "16\t46668\t83\tCHK"
 msgid "The wins just keep comin'!"
-msgstr "Le vittorie non si fermano!"
+msgstr "Continuo a vincere senza sosta!"
 
 msgctxt "16\t46695\t84\tCHK"
 msgid "I... lost."
@@ -4741,15 +4741,15 @@ msgstr "Offensiva calma e controllata"
 
 msgctxt "19\t70086\t67\tCHK"
 msgid "Attacks with major pieces"
-msgstr "Attacca con i pezzi principali"
+msgstr "Attacca con i pezzi maggiori"
 
 msgctxt "19\t70112\t68\tCHK"
 msgid "Creative with the rook"
-msgstr "Creativo con la torre"
+msgstr "Usa la torre con creatività"
 
 msgctxt "19\t70135\t69\tCHK"
 msgid "Balanced offense/defense"
-msgstr "Attacco e difesa bilanciati"
+msgstr "Equilibrato in attacco e difesa"
 
 msgctxt "19\t70160\t70\tCHK"
 msgid "Likes counterattacks"
@@ -4757,7 +4757,7 @@ msgstr "Ama i contrattacchi"
 
 msgctxt "19\t70181\t71\tCHK"
 msgid "Skilled with the rook"
-msgstr "Abile con la torre"
+msgstr "Sa usare bene la torre"
 
 msgctxt "19\t70203\t72\tCHK"
 msgid "Good but impulsive"
@@ -4789,7 +4789,7 @@ msgstr "Usa svariate tattiche"
 
 msgctxt "19\t70355\t79\tCHK"
 msgid "Offensive expert"
-msgstr "Esperto dell'attacco"
+msgstr "Esperto in attacco"
 
 msgctxt "19\t70372\t80\tCHK"
 msgid "Attacks swiftly"
@@ -4809,7 +4809,7 @@ msgstr "Offensiva ben pianificata"
 
 msgctxt "19\t70451\t84\tCHK"
 msgid "Master of all tactics"
-msgstr "Maestro in ogni tattica"
+msgstr "Maestro di ogni tattica"
 
 msgctxt "19\t70473\t85\tCHK"
 msgid "Shogi is life"
@@ -11513,7 +11513,7 @@ msgstr "Sciabola cinese"
 
 msgctxt "20\t150592\t1660\tCHK"
 msgid "Bottomless Lighter"
-msgstr "Accendino senza fondo"
+msgstr "Accendino inesauribile"
 
 msgctxt "20\t150611\t1661\tCHK"
 msgid "Cheap 9-iron"
@@ -17253,7 +17253,7 @@ msgstr "La prova di Majima"
 
 msgctxt "234\t891050\t44\tCHK"
 msgid "Toothless Yakuza"
-msgstr "Yakuza senza zanne"
+msgstr "Yakuza inoffensivo"
 
 msgctxt "234\t891067\t45\tCHK"
 msgid "Separation"
@@ -17261,7 +17261,7 @@ msgstr "Separazione"
 
 msgctxt "234\t891078\t46\tCHK"
 msgid "A Place Enclosed in Snow"
-msgstr "Un luogo racchiuso nella neve"
+msgstr "Un luogo ammantato di neve"
 
 msgctxt "234\t891103\t47\tCHK"
 msgid "Man Who Lost His Dream"
@@ -17317,7 +17317,7 @@ msgstr "Per un pelo"
 
 msgctxt "234\t891300\t60\tCHK"
 msgid "Threat of Nature"
-msgstr "Minaccia della natura"
+msgstr "La minaccia della natura"
 
 msgctxt "234\t891317\t61\tCHK"
 msgid "Lost"
@@ -17345,7 +17345,7 @@ msgstr "Un proiettile crudele"
 
 msgctxt "234\t891378\t67\tCHK"
 msgid "The Unmasked Face"
-msgstr "Il volto smascherato"
+msgstr "A volto scoperto"
 
 msgctxt "234\t891396\t68\tCHK"
 msgid "Part of the Plan"
@@ -17373,7 +17373,7 @@ msgstr "Pensiero ereditato"
 
 msgctxt "234\t891505\t74\tCHK"
 msgid "Lesson"
-msgstr "Lezione"
+msgstr "La lezione"
 
 msgctxt "234\t891512\t75\tCHK"
 msgid "Dyna Chair Productions"
@@ -17565,7 +17565,7 @@ msgstr "Impianto di smaltimento rifiuti industriali"
 
 msgctxt "234\t892358\t122\tCHK"
 msgid "The Full Account of Killing"
-msgstr "L'intero resoconto dell'omicidio"
+msgstr "Il resoconto completo dell'omicidio"
 
 msgctxt "234\t892386\t123\tCHK"
 msgid "Dissonance"
@@ -17577,7 +17577,7 @@ msgstr "La responsabilità di Katsuya"
 
 msgctxt "234\t892422\t125\tCHK"
 msgid "First Strike"
-msgstr "Primo colpo"
+msgstr "Il primo colpo"
 
 msgctxt "234\t892435\t126\tCHK"
 msgid "Unnatural Activity"
@@ -17777,7 +17777,7 @@ msgstr "Approfittare degli altri"
 
 msgctxt "234\t893361\t175\tCHK"
 msgid "The Man with the Plan"
-msgstr "L'uomo con un piano"
+msgstr "L'artefice del piano"
 
 msgctxt "234\t893383\t176\tCHK"
 msgid "Honor Among Brothers"
@@ -17941,7 +17941,7 @@ msgstr "Sei disgustoso! Lasciami!"
 
 msgctxt "235\t904097\t9\tCHK"
 msgid "Drive, please!"
-msgstr "Parta, la prego!"
+msgstr "Parta, La prego!"
 
 msgctxt "235\t904112\t10\tCHK"
 msgid "Eek!"
@@ -17965,7 +17965,7 @@ msgstr "*Sigh*"
 
 msgctxt "235\t904216\t15\tCHK"
 msgid "I did warn you."
-msgstr "Io l'avevo avvertita."
+msgstr "Io L'avevo avvertita."
 
 msgctxt "235\t904232\t16\tCHK"
 msgid "Ngh!"
@@ -18049,7 +18049,7 @@ msgstr "Wow! Sembra delizioso! Grazie!"
 
 msgctxt "235\t904530\t36\tCHK"
 msgid "You can do that easy, right, buddy?"
-msgstr "Tu riesci a farlo facile, vero, amico?"
+msgstr "Per te è un gioco da ragazzi, vero, amico?"
 
 msgctxt "235\t904566\t37\tCHK"
 msgid "Nah, ain't no fun doin' the same thing."
@@ -18057,7 +18057,7 @@ msgstr "Nah, non c'è gusto a fare sempre la stessa cosa."
 
 msgctxt "235\t904606\t38\tCHK"
 msgid "We gotta cook two at a time or somethin'."
-msgstr "Dobbiamo cuocerne due alla volta o robe simili."
+msgstr "Dobbiamo cuocerne due alla volta o roba del genere."
 
 msgctxt "235\t904648\t39\tCHK"
 msgid "No sweat... Right!?"
@@ -18069,7 +18069,7 @@ msgstr "D-Due alla volta? Non posso farcela."
 
 msgctxt "235\t904702\t41\tCHK"
 msgid "We ain't askin' chucklehead! Just shut your mouth and do it!"
-msgstr "Non te l'abbiamo chiesto, idiota! Chiudi quella bocca e fallo!"
+msgstr "Non è una richiesta, idiota! Chiudi la bocca e fallo!"
 
 msgctxt "235\t904763\t42\tCHK"
 msgid "Over here, everybody!"
@@ -18129,7 +18129,7 @@ msgstr "I segreti della battuta..."
 
 msgctxt "235\t905021\t56\tCHK"
 msgid "Keep eyes on the ball..."
-msgstr "Tieni gli occhi sulla palla..."
+msgstr "Non staccare gli occhi dalla palla..."
 
 msgctxt "235\t905046\t57\tCHK"
 msgid "Get the right timing..."
@@ -18137,7 +18137,7 @@ msgstr "Prendi il giusto tempismo..."
 
 msgctxt "235\t905070\t58\tCHK"
 msgid "Hit with the sweet spot!"
-msgstr "Colpisci nel punto perfetto!"
+msgstr "Colpisci col centro della mazza!"
 
 msgctxt "235\t905095\t59\tCHK"
 msgid "Heh... That's how it's done."
@@ -18220,8 +18220,8 @@ msgid ""
 "But all that hard work's about\n"
 "to come to nothing."
 msgstr ""
-"Ma tutto questo duro lavoro sta per\n"
-"risolversi in un bel niente."
+"Ma tutta questa fatica sta per\n"
+"andare in fumo."
 
 msgctxt "235\t905573\t78\tCHK"
 msgid ""
