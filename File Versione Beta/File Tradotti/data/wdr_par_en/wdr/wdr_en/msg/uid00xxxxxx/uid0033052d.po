@@ -21,7 +21,7 @@ msgid ""
 "Haruka will now occasionally predict the outcome of a round when you are playing cho-han. "
 " "
 msgstr ""
-"Ora Haruka prevederà occasionalmente l'esito di un turno quando "
+"D'ora in poi, a volte Haruka prevederà l'esito della mano mentre "
 "giochi a cho-han."
 
 msgctxt "508"
@@ -154,12 +154,12 @@ msgstr "Grazie mille."
 
 msgctxt "268_Haruka"
 msgid "You were kind of off-rhythm there, Uncle Kaz."
-msgstr "Eri un po' fuori ritmo lì, Zio Kaz."
+msgstr "Eri un po' fuori tempo, Zio Kaz."
 
 msgctxt "280_Kiryu"
 msgid "(Sorry about that, Haruka. I'll try to do a better job next time.)"
 msgstr ""
-"(Scusa per quello, Haruka. Cercherò di fare meglio la prossima volta.)"
+"(Scusami, Haruka. Cercherò di fare meglio la prossima volta.)"
 
 msgctxt "292_Staff"
 msgid "Thanks for cheering me on, Uncle Kaz! I had a lot of fun singing!"
@@ -247,12 +247,12 @@ msgstr "Mi sono divertita un mondo, Zio Kaz! Richiamami presto!"
 
 msgctxt "1012_Staff"
 msgid "Sure, I'll do that."
-msgstr "Certo, lo farò."
+msgstr "Ci puoi contare."
 
 msgctxt "1048_Shion"
 msgid "Shinada-san, you're so good at this! You definitely have my respect."
 msgstr ""
-"Shinada-san, sei bravissimo in questo! Hai sicuramente il mio rispetto."
+"Shinada-san, sei bravissimo! Hai tutto il mio rispetto."
 
 msgctxt "1060_Shion"
 msgid "Oh, that wasn't terribly fun."
@@ -370,7 +370,7 @@ msgstr "Va bene. Sono 1.000 yen per voi due."
 
 msgctxt "1600_Staff"
 msgid "Have a good time."
-msgstr "Divertiti."
+msgstr "Buon divertimento."
 
 msgctxt "1624_Player"
 msgid "(Oh right. Coach Igarashi told me to score 800 points at karaoke.)"
@@ -423,7 +423,7 @@ msgstr "Mi dispiace, ma devo filare."
 
 msgctxt "1804_Shinada"
 msgid "Oh, I'm sorry. I've got this thing..."
-msgstr "Oh, mi dispiace. Ho una cosa..."
+msgstr "Oh, mi dispiace. Ho un impegno..."
 
 msgctxt "1816_Haruka"
 msgid "I'm really sorry. Something just came up."
@@ -479,7 +479,7 @@ msgstr "Mi dispiace, ma devo filare."
 
 msgctxt "2068_Shinada"
 msgid "Oh, I'm sorry. I've got this thing..."
-msgstr "Oh, mi dispiace. Ho una cosa..."
+msgstr "Oh, mi dispiace. Ho un impegno..."
 
 msgctxt "2080_Haruka"
 msgid "I'm really sorry. Something just came up."
@@ -515,7 +515,7 @@ msgstr "Scusa se ti ho fatto aspettare, zio Kaz!"
 
 msgctxt "2248_Staff"
 msgid "Have a good time."
-msgstr "Divertiti."
+msgstr "Buon divertimento."
 
 msgctxt "2260_Staff"
 msgid "There's someone else who'll be joining me."
@@ -539,7 +539,7 @@ msgstr ""
 
 msgctxt "2392_Staff"
 msgid "Have a good time."
-msgstr "Divertiti."
+msgstr "Buon divertimento."
 
 msgctxt "2404_Shion"
 msgid "I was out in Tokyo, you know! Or had you forgotten about that?"
@@ -547,8 +547,8 @@ msgstr "Ero in giro per Tokyo, sai! O te n'eri scordato?"
 
 msgctxt "2416_Player"
 msgid "...Yeah, I did."
-msgstr "...Sì, l'ho fatto."
+msgstr "...Sì, in effetti me n'ero scordato."
 
 msgctxt "2428_Staff"
 msgid "Have a good time."
-msgstr "Divertiti."
+msgstr "Buon divertimento."
