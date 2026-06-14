@@ -3430,15 +3430,25 @@ msgstr "Testa di serpente"
 
 msgctxt "41102\tNAME"
 msgid "Platinum Plate"
-msgstr "Piastra di platino"msgctxt "41117\tNAME"
+msgstr "Piastra di platino"
+
+msgctxt "41117\tNAME"
 msgid "Gold Plate"
-msgstr "Piastra d'oro"msgctxt "41128\tNAME"
+msgstr "Piastra d'oro"
+
+msgctxt "41128\tNAME"
 msgid "Silver Plate"
-msgstr "Piastra d'argento"msgctxt "41141\tNAME"
+msgstr "Piastra d'argento"
+
+msgctxt "41141\tNAME"
 msgid "Bronze Plate"
-msgstr "Piastra di bronzo"msgctxt "41154\tNAME"
+msgstr "Piastra di bronzo"
+
+msgctxt "41154\tNAME"
 msgid "Iron Plate"
-msgstr "Piastra di ferro"msgctxt "41165\tNAME"
+msgstr "Piastra di ferro"
+
+msgctxt "41165\tNAME"
 msgid "Fight Provisions 01"
 msgstr "Provviste da Combattimento 01"
 
@@ -4336,7 +4346,9 @@ msgstr "Palo Estremamente Robusto"
 
 msgctxt "45028\tNAME"
 msgid "Purgatory Rod"
-msgstr "Verga del Purgatory"msgctxt "45042\tNAME"
+msgstr "Verga del Purgatory"
+
+msgctxt "45042\tNAME"
 msgid "Penguin Spear"
 msgstr "Lancia Pinguino"
 
@@ -12200,17 +12212,25 @@ msgstr ""
 
 msgctxt "183248\tEXPLANATION"
 msgid "The gold standard in plates. Could go for quite a lot at a pawn shop."
-msgstr "Una piastra d'oro di altissima qualità. Può fruttare parecchio al banco dei pegni."msgctxt "183318\tEXPLANATION"
+msgstr "Una piastra d'oro di altissima qualità. Può fruttare parecchio al banco dei pegni."
+
+msgctxt "183318\tEXPLANATION"
 msgid "This well-crafted plate could net you a hefty sum over at a pawn shop."
-msgstr "Questa piastra ben lavorata potrebbe farti tirare su un bel gruzzolo al banco dei pegni."msgctxt "183389\tEXPLANATION"
+msgstr "Questa piastra ben lavorata potrebbe farti tirare su un bel gruzzolo al banco dei pegni."
+
+msgctxt "183389\tEXPLANATION"
 msgid ""
 "A plate made of bronze. Nothing special, but it could probably fetch some "
 "decent cash."
-msgstr "Piastra di bronzo. Nulla di speciale, ma può valere un po' di soldi."msgctxt "183476\tEXPLANATION"
+msgstr "Piastra di bronzo. Nulla di speciale, ma può valere un po' di soldi."
+
+msgctxt "183476\tEXPLANATION"
 msgid ""
 "A plate made of iron. Nothing special, but it could probably fetch a little "
 "cash.  "
-msgstr "Piastra di ferro. Niente di che, ma può fruttare qualche yen."msgctxt "183560\tEXPLANATION"
+msgstr "Piastra di ferro. Niente di che, ma può fruttare qualche yen."
+
+msgctxt "183560\tEXPLANATION"
 msgid "This box is filled with items that any fighter would find useful."
 msgstr ""
 "Questo scatolone è zeppo di roba che farebbe comodo a ogni picchiatore."

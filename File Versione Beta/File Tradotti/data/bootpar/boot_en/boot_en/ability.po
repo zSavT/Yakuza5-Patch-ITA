@@ -690,9 +690,13 @@ msgstr "Parata di Komaki"
 
 msgctxt "4690\tSKILL"
 msgid "Komaki Tiger Drop"
-msgstr "Colpo della tigre di Komaki"msgctxt "4708\tSKILL"
+msgstr "Colpo della tigre di Komaki"
+
+msgctxt "4708\tSKILL"
 msgid "Max Komaki Tiger Drop"
-msgstr "Colpo della tigre di Komaki Max"msgctxt "4730\tSKILL"
+msgstr "Colpo della tigre di Komaki Max"
+
+msgctxt "4730\tSKILL"
 msgid "Essence of Drunken Thrust"
 msgstr "Essenza dell'Affondo dell'Ubriaco"
 
@@ -3290,7 +3294,9 @@ msgctxt "51167\tEXPLANATION"
 msgid ""
 "Improve the odds of Komaki Tiger Drop working by learning to better judge "
 "when enemies will attack."
-msgstr "Migliora le probabilità che il Colpo della tigre di Komaki vada a segno imparando a prevedere meglio quando i nemici attaccheranno."msgctxt "51267\tEXPLANATION"
+msgstr "Migliora le probabilità che il Colpo della tigre di Komaki vada a segno imparando a prevedere meglio quando i nemici attaccheranno."
+
+msgctxt "51267\tEXPLANATION"
 msgid ""
 "Thrust your body into your enemy for major damage. "
 "<Color:255,255,150,255>Only possible when the Climax Furore Gauge is "
