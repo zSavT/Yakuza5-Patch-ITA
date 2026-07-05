@@ -14,9 +14,13 @@ Analizzando i file, mi sono accorto che il gioco utilizza principalmente i file 
 
 # Immagini Patch
 
+![](img/menu.jpg)
+
 ![](img/box.jpg)
 
 ![](img/mes.jpg)
+
+![](img/box_alt.jpg)
 
 # Come installare la patch
 
