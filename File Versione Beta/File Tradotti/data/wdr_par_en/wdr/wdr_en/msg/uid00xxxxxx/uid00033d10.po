@@ -144,7 +144,7 @@ msgstr "dummy"
 
 msgctxt "248_Player"
 msgid "(I'll come back when I'm alone.)"
-msgstr "(Tornerò quando sarò sola.)"
+msgstr "(Tornerò quando sarò solo.)"
 
 msgctxt "272_Man in Lab Coat"
 msgid "Excuse me, sir!"
@@ -196,8 +196,8 @@ msgstr "Lo chiamiamo Inner Fighter 8: Road Battle, o IF8 in breve!"
 msgctxt "404_Minamida's Assistant"
 msgid "However, IF8 is not yet complete. We need people to actually play, so we can get the data we need to complete it."
 msgstr ""
-"Tuttavia, IF8 non è ancora completo. Abbiamo bisogno che la gente ci giochi, così possiamo ottenere i dati che ci "
-"servono per completarlo."
+"Tuttavia, IF8 non è ancora completo. Abbiamo bisogno di qualcuno che ci giochi per davvero, per raccogliere i dati "
+"necessari a completarlo."
 
 msgctxt "428_Minamida's Assistant"
 msgid "What do you say? Will you give it a try?"
@@ -251,7 +251,7 @@ msgctxt "548_Minamida's Assistant"
 msgid ""
 "Of course, there's something in it for you, too. Once the machine's complete, it will be able to feed back a variety "
 "of data to you."
-msgstr "Certo, c'è qualcosa anche per te. Una volta che la macchina sarà completa, potrà restituirti svariati dati."
+msgstr "Ovviamente, ne trarrai vantaggio anche tu. Una volta completata, la macchina potrà fornirti svariati dati."
 
 msgctxt "560_Minamida's Assistant"
 msgid ""
@@ -263,7 +263,7 @@ msgstr ""
 
 msgctxt "572_Minamida's Assistant"
 msgid "Did I mention it costs 10,000 yen to play a game? It's a little steep but well worth it."
-msgstr "Ti ho detto che giocare costa 10.000 yen? È un po' salato, ma ne vale la pena."
+msgstr "Ti ho detto che giocare costa 10.000 yen? È un po' caro, ma ne vale la pena."
 
 msgctxt "584_Minamida's Assistant"
 msgid "Well, would you like to play?"
@@ -307,7 +307,7 @@ msgstr "Oh, vuoi davvero investire nell'IF8? Mi salvi la vita!"
 
 msgctxt "776_Minamida's Assistant"
 msgid "Total investments so far have reached %s. How much will you invest?"
-msgstr "Investimenti totali finora hanno raggiunto il %s. Quanto investirai?"
+msgstr "Gli investimenti totali finora ammontano a %s. Quanto vuoi investire?"
 
 msgctxt "800_Minamida's Assistant"
 msgid "I think this is enough to upgrade IF8 to our latest version."
@@ -323,7 +323,7 @@ msgstr "Fatto! IF8 versione 1.1 è adesso completo!"
 
 msgctxt "884_Minamida's Assistant"
 msgid "The Kamurocho stage is now playable thanks to the upgrade."
-msgstr "Il livello di Kamurocho ora è giocabile grazie al potenziamento."
+msgstr "Il livello di Kamurocho ora è giocabile grazie all'aggiornamento."
 
 msgctxt "896_Minamida's Assistant"
 msgid "I really hope you'll play it sometime. Well, see you again."
@@ -331,7 +331,7 @@ msgstr "Spero davvero che ci giocherai prima o poi. Beh, ci vediamo."
 
 msgctxt "920_Minamida's Assistant"
 msgid "Thank you for your investment. Total investments have reached %s."
-msgstr "Grazie per il tuo investimento. Investimenti totali hanno raggiunto il %s."
+msgstr "Grazie per il tuo investimento. Gli investimenti totali ammontano a %s."
 
 msgctxt "932_Minamida's Assistant"
 msgid "We need 100,000 yen to enable a new playable stage."
@@ -343,7 +343,7 @@ msgstr "Apprezzeremmo davvero qualsiasi importo tu possa permetterti di investir
 
 msgctxt "956_Minamida's Assistant"
 msgid "Total investments so far have reached %s. How much will you invest?"
-msgstr "Investimenti totali finora hanno raggiunto il %s. Quanto investirai?"
+msgstr "Gli investimenti totali finora ammontano a %s. Quanto vuoi investire?"
 
 msgctxt "980_Minamida's Assistant"
 msgid "I think this is enough to upgrade IF8 to our latest version."
@@ -374,7 +374,7 @@ msgstr ""
 
 msgctxt "1112_Minamida's Assistant"
 msgid "Thank you for your investment. Total investments have reached %s."
-msgstr "Grazie per il tuo investimento. Investimenti totali hanno raggiunto il %s."
+msgstr "Grazie per il tuo investimento. Gli investimenti totali ammontano a %s."
 
 msgctxt "1124_Minamida's Assistant"
 msgid "We could add new features if we had 200,000 yen."
@@ -386,7 +386,7 @@ msgstr "Apprezzeremmo davvero qualsiasi importo tu possa permetterti di investir
 
 msgctxt "1148_Minamida's Assistant"
 msgid "A little light in the wallet, are we? Please come back when your financial situation improves."
-msgstr "Un po' a corto di soldi, eh? Torna per favore quando la tua situazione finanziaria migliora."
+msgstr "Un po' a corto di contanti, eh? Per favore, torna quando le tue finanze saranno migliorate."
 
 msgctxt "1160_Minamida's Assistant"
 msgid "This is the final version, so no more updates."
@@ -425,7 +425,7 @@ msgstr ""
 
 msgctxt "1280_Haruka"
 msgid "I'm sorry, but I don't know much about games."
-msgstr "Mi dispiace, ma non so molto di giochi."
+msgstr "Mi dispiace, ma non me ne intendo molto di videogiochi."
 
 msgctxt "1292_Man in Lab Coat"
 msgid "No, please! Wait! This game is really quite amazing!"
@@ -471,7 +471,7 @@ msgctxt "1400_Minamida's Assistant"
 msgid ""
 "Haven't you ever wanted to be a magical girl who could cast spells and gracefully beat down hordes of attacking thugs?"
 msgstr ""
-"Non hai mai desiderato essere una ragazza magica che potesse lanciare incantesimi e picchiare con eleganza orde di "
+"Non hai mai desiderato essere una maghetta in grado di lanciare incantesimi e stendere con eleganza orde di "
 "teppisti all'attacco?"
 
 msgctxt "1412_Haruka"
@@ -505,8 +505,8 @@ msgstr "Beh, Haruka-san, hai tutto da guadagnare e niente da perdere giocando a 
 msgctxt "1496_Minamida's Assistant"
 msgid "However, IF8 is not yet complete. We need people to actually play, so we can get the data we need to complete it."
 msgstr ""
-"Tuttavia, IF8 non è ancora completo. Abbiamo bisogno che la gente ci giochi, così possiamo ottenere i dati che ci "
-"servono per completarlo."
+"Tuttavia, IF8 non è ancora completo. Abbiamo bisogno di qualcuno che ci giochi per davvero, per raccogliere i dati "
+"necessari a completarlo."
 
 msgctxt "1520_Minamida's Assistant"
 msgid "Well, would you like to play?"
@@ -560,7 +560,7 @@ msgctxt "1640_Minamida's Assistant"
 msgid ""
 "Of course, there's something in it for you, too. Once the machine's complete, it will be able to feed back a variety "
 "of data to you."
-msgstr "Certo, c'è qualcosa anche per te. Una volta che la macchina sarà completa, potrà restituirti svariati dati."
+msgstr "Ovviamente, ne trarrai vantaggio anche tu. Una volta completata, la macchina potrà fornirti svariati dati."
 
 msgctxt "1652_Minamida's Assistant"
 msgid ""
@@ -572,7 +572,7 @@ msgstr ""
 
 msgctxt "1664_Minamida's Assistant"
 msgid "Did I mention it costs 10,000 yen to play a game? It's a little steep but well worth it."
-msgstr "Ti ho detto che giocare costa 10.000 yen? È un po' salato, ma ne vale la pena."
+msgstr "Ti ho detto che giocare costa 10.000 yen? È un po' caro, ma ne vale la pena."
 
 msgctxt "1676_Minamida's Assistant"
 msgid "Well, would you like to play?"
@@ -616,7 +616,7 @@ msgstr "Oh, vuoi davvero investire nell'IF8? Mi salvi la vita!"
 
 msgctxt "1868_Minamida's Assistant"
 msgid "Total investments so far have reached %s. How much will you invest?"
-msgstr "Investimenti totali finora hanno raggiunto il %s. Quanto investirai?"
+msgstr "Gli investimenti totali finora ammontano a %s. Quanto vuoi investire?"
 
 msgctxt "1892_Minamida's Assistant"
 msgid "I think this is enough to upgrade IF8 to our latest version."
@@ -632,7 +632,7 @@ msgstr "Fatto! IF8 versione 1.1 è adesso completo!"
 
 msgctxt "1976_Minamida's Assistant"
 msgid "The Kamurocho stage is now playable thanks to the upgrade."
-msgstr "Il livello di Kamurocho ora è giocabile grazie al potenziamento."
+msgstr "Il livello di Kamurocho ora è giocabile grazie all'aggiornamento."
 
 msgctxt "1988_Minamida's Assistant"
 msgid "I really hope you'll play it sometime. Well, see you again."
@@ -640,7 +640,7 @@ msgstr "Spero davvero che ci giocherai prima o poi. Beh, ci vediamo."
 
 msgctxt "2012_Minamida's Assistant"
 msgid "Thank you for your investment. Total investments have reached %s."
-msgstr "Grazie per il tuo investimento. Investimenti totali hanno raggiunto il %s."
+msgstr "Grazie per il tuo investimento. Gli investimenti totali ammontano a %s."
 
 msgctxt "2024_Minamida's Assistant"
 msgid "Once we reach 100,000 yen, I'll be able to add a new stage for you to play."
@@ -652,7 +652,7 @@ msgstr "Apprezzeremmo davvero qualsiasi importo tu possa permetterti di investir
 
 msgctxt "2048_Minamida's Assistant"
 msgid "Total investments so far have reached %s. How much will you invest?"
-msgstr "Investimenti totali finora hanno raggiunto il %s. Quanto investirai?"
+msgstr "Gli investimenti totali finora ammontano a %s. Quanto vuoi investire?"
 
 msgctxt "2072_Minamida's Assistant"
 msgid "I think this is enough to upgrade IF8 to our latest version."
@@ -683,7 +683,7 @@ msgstr ""
 
 msgctxt "2204_Minamida's Assistant"
 msgid "Thank you for your investment. Total investments have reached %s."
-msgstr "Grazie per il tuo investimento. Investimenti totali hanno raggiunto il %s."
+msgstr "Grazie per il tuo investimento. Gli investimenti totali ammontano a %s."
 
 msgctxt "2216_Minamida's Assistant"
 msgid "We could add new features if we had 200,000 yen."
@@ -695,7 +695,7 @@ msgstr "Apprezzeremmo davvero qualsiasi importo tu possa permetterti di investir
 
 msgctxt "2240_Minamida's Assistant"
 msgid "A little light in the wallet, are we? Please come back when your financial situation improves."
-msgstr "Un po' a corto di soldi, eh? Torna per favore quando la tua situazione finanziaria migliora."
+msgstr "Un po' a corto di contanti, eh? Per favore, torna quando le tue finanze saranno migliorate."
 
 msgctxt "2252_Minamida's Assistant"
 msgid "This is the final version, so no more updates."
@@ -723,7 +723,7 @@ msgstr "Scusi!"
 
 msgctxt "2348_Akiyama"
 msgid "Hm? I'm kind of in a hurry here."
-msgstr "Mh? Ho un po' di fretta, qui."
+msgstr "Mh? Ho un po' di fretta."
 
 msgctxt "2360_Man in Lab Coat"
 msgid "I promise it won't take too long. We're looking for someone to playtest our newly developed game machine."
@@ -748,8 +748,8 @@ msgid ""
 "It's an arcade machine developed by the brilliant scientist, Doctor Minamida. We're working on the latest version "
 "right now."
 msgstr ""
-"È una macchina arcade sviluppata dal brillante scienziato, il Dottor Minamida. Stiamo lavorando all'ultima versione "
-"proprio ora."
+"È una macchina arcade sviluppata dal brillante scienziato, il Dottor Minamida. Al momento stiamo lavorando alla sua "
+"ultima versione."
 
 msgctxt "2420_Man in Lab Coat"
 msgid "I'm Doctor Minamida's assistant."
@@ -780,8 +780,8 @@ msgstr ""
 msgctxt "2492_Minamida's Assistant"
 msgid "However, IF8 is not yet complete. We need people to actually play, so we can get the data we need to complete it."
 msgstr ""
-"Tuttavia, IF8 non è ancora completo. Abbiamo bisogno che la gente ci giochi, così possiamo ottenere i dati che ci "
-"servono per completarlo."
+"Tuttavia, IF8 non è ancora completo. Abbiamo bisogno di qualcuno che ci giochi per davvero, per raccogliere i dati "
+"necessari a completarlo."
 
 msgctxt "2516_Minamida's Assistant"
 msgid "Well, would you like to play?"
@@ -835,7 +835,7 @@ msgctxt "2636_Minamida's Assistant"
 msgid ""
 "Of course, there's something in it for you, too. Once the machine's complete, it will be able to feed back a variety "
 "of data to you."
-msgstr "Certo, c'è qualcosa anche per te. Una volta che la macchina sarà completa, potrà restituirti svariati dati."
+msgstr "Ovviamente, ne trarrai vantaggio anche tu. Una volta completata, la macchina potrà fornirti svariati dati."
 
 msgctxt "2648_Minamida's Assistant"
 msgid ""
@@ -847,7 +847,7 @@ msgstr ""
 
 msgctxt "2660_Minamida's Assistant"
 msgid "Did I mention it costs 10,000 yen to play a game? It's a little steep but well worth it."
-msgstr "Ti ho detto che giocare costa 10.000 yen? È un po' salato, ma ne vale la pena."
+msgstr "Ti ho detto che giocare costa 10.000 yen? È un po' caro, ma ne vale la pena."
 
 msgctxt "2672_Minamida's Assistant"
 msgid "Well, would you like to play?"
@@ -891,7 +891,7 @@ msgstr "Oh, vuoi davvero investire nell'IF8? Mi salvi la vita!"
 
 msgctxt "2864_Minamida's Assistant"
 msgid "Total investments so far have reached %s. How much will you invest?"
-msgstr "Investimenti totali finora hanno raggiunto il %s. Quanto investirai?"
+msgstr "Gli investimenti totali finora ammontano a %s. Quanto vuoi investire?"
 
 msgctxt "2888_Minamida's Assistant"
 msgid "I think this is enough to upgrade IF8 to our latest version."
@@ -907,7 +907,7 @@ msgstr "Fatto! IF8 versione 1.1 è adesso completo!"
 
 msgctxt "2972_Minamida's Assistant"
 msgid "The Kamurocho stage is now playable thanks to the upgrade."
-msgstr "Il livello di Kamurocho ora è giocabile grazie al potenziamento."
+msgstr "Il livello di Kamurocho ora è giocabile grazie all'aggiornamento."
 
 msgctxt "2984_Minamida's Assistant"
 msgid "I really hope you'll play it sometime. Well, see you again."
@@ -915,7 +915,7 @@ msgstr "Spero davvero che ci giocherai prima o poi. Beh, ci vediamo."
 
 msgctxt "3008_Minamida's Assistant"
 msgid "Thank you for your investment. Total investments have reached %s."
-msgstr "Grazie per il tuo investimento. Investimenti totali hanno raggiunto il %s."
+msgstr "Grazie per il tuo investimento. Gli investimenti totali ammontano a %s."
 
 msgctxt "3020_Minamida's Assistant"
 msgid "Once we reach 100,000 yen, I'll be able to add a new stage for you to play."
@@ -927,7 +927,7 @@ msgstr "Apprezzeremmo davvero qualsiasi importo tu possa permetterti di investir
 
 msgctxt "3044_Minamida's Assistant"
 msgid "Total investments so far have reached %s. How much will you invest?"
-msgstr "Investimenti totali finora hanno raggiunto il %s. Quanto investirai?"
+msgstr "Gli investimenti totali finora ammontano a %s. Quanto vuoi investire?"
 
 msgctxt "3068_Minamida's Assistant"
 msgid "I think this is enough to upgrade IF8 to our latest version."
@@ -958,7 +958,7 @@ msgstr ""
 
 msgctxt "3200_Minamida's Assistant"
 msgid "Thank you for your investment. Total investments have reached %s."
-msgstr "Grazie per il tuo investimento. Investimenti totali hanno raggiunto il %s."
+msgstr "Grazie per il tuo investimento. Gli investimenti totali ammontano a %s."
 
 msgctxt "3212_Minamida's Assistant"
 msgid "We could add new features if we had 200,000 yen."
@@ -970,7 +970,7 @@ msgstr "Apprezzeremmo davvero qualsiasi importo tu possa permetterti di investir
 
 msgctxt "3236_Minamida's Assistant"
 msgid "A little light in the wallet, are we? Please come back when your financial situation improves."
-msgstr "Un po' a corto di soldi, eh? Torna per favore quando la tua situazione finanziaria migliora."
+msgstr "Un po' a corto di contanti, eh? Per favore, torna quando le tue finanze saranno migliorate."
 
 msgctxt "3248_Minamida's Assistant"
 msgid "This is the final version, so no more updates."
@@ -1022,7 +1022,7 @@ msgstr "Complimenti per aver vinto quella."
 
 msgctxt "3464_Minamida's Assistant"
 msgid "You earned a Soul Orb thanks to the upgrade."
-msgstr "Hai ottenuto una Sfera dell'Anima grazie al potenziamento."
+msgstr "Hai ottenuto una Sfera Anima grazie all'aggiornamento."
 
 msgctxt "3488_Minamida's Assistant"
 msgid "Please come again. I'll be waiting."
@@ -1082,7 +1082,7 @@ msgstr "Complimenti per aver vinto quella."
 
 msgctxt "3944_Minamida's Assistant"
 msgid "You earned a Soul Orb thanks to the upgrade."
-msgstr "Hai ottenuto una Sfera dell'Anima grazie al potenziamento."
+msgstr "Hai ottenuto una Sfera Anima grazie all'aggiornamento."
 
 msgctxt "3968_Minamida's Assistant"
 msgid "Please come again. I'll be waiting."
@@ -1142,7 +1142,7 @@ msgstr "Complimenti per aver vinto quella."
 
 msgctxt "4424_Minamida's Assistant"
 msgid "You earned a Soul Orb thanks to the upgrade."
-msgstr "Hai ottenuto una Sfera dell'Anima grazie al potenziamento."
+msgstr "Hai ottenuto una Sfera Anima grazie all'aggiornamento."
 
 msgctxt "4448_Minamida's Assistant"
 msgid "Please come again. I'll be waiting."
@@ -1202,7 +1202,7 @@ msgstr "Complimenti per aver vinto quella."
 
 msgctxt "4904_Minamida's Assistant"
 msgid "You earned a Soul Orb thanks to the upgrade."
-msgstr "Hai ottenuto una Sfera dell'Anima grazie al potenziamento."
+msgstr "Hai ottenuto una Sfera Anima grazie all'aggiornamento."
 
 msgctxt "4928_Minamida's Assistant"
 msgid "Please come again. I'll be waiting."
@@ -1262,7 +1262,7 @@ msgstr "Complimenti per aver vinto quella."
 
 msgctxt "5384_Minamida's Assistant"
 msgid "You earned a Soul Orb thanks to the upgrade."
-msgstr "Hai ottenuto una Sfera dell'Anima grazie al potenziamento."
+msgstr "Hai ottenuto una Sfera Anima grazie all'aggiornamento."
 
 msgctxt "5408_Minamida's Assistant"
 msgid "Please come again. I'll be waiting."
@@ -1322,7 +1322,7 @@ msgstr "Complimenti per aver vinto quella."
 
 msgctxt "5864_Minamida's Assistant"
 msgid "You earned a Soul Orb thanks to the upgrade."
-msgstr "Hai ottenuto una Sfera dell'Anima grazie al potenziamento."
+msgstr "Hai ottenuto una Sfera Anima grazie all'aggiornamento."
 
 msgctxt "5888_Minamida's Assistant"
 msgid "Please come again. I'll be waiting."
@@ -1382,7 +1382,7 @@ msgstr "Complimenti per aver vinto quella."
 
 msgctxt "6344_Minamida's Assistant"
 msgid "You earned a Soul Orb thanks to the upgrade."
-msgstr "Hai ottenuto una Sfera dell'Anima grazie al potenziamento."
+msgstr "Hai ottenuto una Sfera Anima grazie all'aggiornamento."
 
 msgctxt "6368_Minamida's Assistant"
 msgid "Please come again. I'll be waiting."
@@ -1442,7 +1442,7 @@ msgstr "Complimenti per aver vinto quella."
 
 msgctxt "6824_Minamida's Assistant"
 msgid "You earned a Soul Orb thanks to the upgrade."
-msgstr "Hai ottenuto una Sfera dell'Anima grazie al potenziamento."
+msgstr "Hai ottenuto una Sfera Anima grazie all'aggiornamento."
 
 msgctxt "6848_Minamida's Assistant"
 msgid "Please come again. I'll be waiting."
