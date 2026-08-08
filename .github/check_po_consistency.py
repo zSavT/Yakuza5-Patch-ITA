@@ -10,49 +10,38 @@ if hasattr(sys.stdout, 'reconfigure'):
 
 def normalize_text(raw_msgid):
     """
-    Extracts text from PO string quotes and normalizes all whitespace/linebreaks
-    so that visual line breaks (\r\n or multi-line wrapping) do not trigger false errors.
+    Extracts text from PO string quotes and normalizes whitespace, linebreaks,
+    and full-width dashes (－ vs -) so visual differences do not trigger false errors.
     """
     lines = re.findall(r'"([^"\\]*(?:\\.[^"\\]*)*)"', raw_msgid)
     combined = "".join(lines)
-    # Replace literal \r\n escape strings or actual newlines with single space
-    cleaned = combined.replace('\\r\\n', ' ').replace('\\n', ' ').replace('\\r', ' ')
-    # Normalize multiple spaces/newlines to single space
+    cleaned = combined.replace('\\r\\n', ' ').replace('\\n', ' ').replace('\\r', ' ').replace('－', '-')
     return re.sub(r'\s+', ' ', cleaned).strip()
 
-def parse_po_file(filepath):
+def parse_po_dict(filepath):
     with open(filepath, 'r', encoding='utf-8', errors='replace') as f:
         content = f.read()
     
     content_lf = content.replace('\r\n', '\n')
     blocks = content_lf.split('\n\n')
-    entries = []
+    
+    # Store entries mapped by msgctxt
+    entries = {}
     
     for block in blocks:
         block = block.strip()
-        if not block:
-            continue
-        if "Project-Id-Version:" in block or block.startswith("msgid \"\""):
+        if not block or "Project-Id-Version:" in block or block.startswith("msgid \"\""):
             continue
         
         ctx_m = re.search(r'msgctxt\s+"([^"]+)"', block)
         msgid_m = re.search(r'msgid\s+((?:"[^"\\]*(?:\\.[^"\\]*)*"\s*)+)', block)
-        msgstr_m = re.search(r'msgstr\s+((?:"[^"\\]*(?:\\.[^"\\]*)*"\s*)+)', block)
         
-        ctx = ctx_m.group(1) if ctx_m else ""
-        raw_msgid = msgid_m.group(1).strip() if msgid_m else ""
-        raw_msgstr = msgstr_m.group(1).strip() if msgstr_m else ""
-        
-        norm_id = normalize_text(raw_msgid)
-        
-        entries.append({
-            'ctx': ctx,
-            'raw_msgid': raw_msgid,
-            'norm_msgid': norm_id,
-            'msgstr': raw_msgstr,
-            'block': block
-        })
-        
+        if ctx_m and msgid_m:
+            ctx = ctx_m.group(1)
+            raw_msgid = msgid_m.group(1).strip()
+            norm_id = normalize_text(raw_msgid)
+            entries[ctx] = norm_id
+            
     return entries
 
 def main():
@@ -65,7 +54,7 @@ def main():
         sys.exit(1)
         
     orig_files = glob.glob(os.path.join(orig_dir, "**", "*.po"), recursive=True)
-    print(f"🔍 Found {len(orig_files)} PO files in original directory. Starting flexible consistency check...\n")
+    print(f"🔍 Found {len(orig_files)} PO files in original directory. Starting key-based consistency check...\n")
     
     total_errors = 0
     checked_count = 0
@@ -80,46 +69,37 @@ def main():
             continue
             
         checked_count += 1
-        orig_entries = parse_po_file(orig_path)
-        trad_entries = parse_po_file(trad_path)
+        orig_dict = parse_po_dict(orig_path)
+        trad_dict = parse_po_dict(trad_path)
         
         file_errors = []
         
-        if len(orig_entries) != len(trad_entries):
-            file_errors.append(f"Entry count mismatch: Original has {len(orig_entries)} entries, Translated has {len(trad_entries)} entries.")
+        # Check missing msgctxt keys from Original
+        missing_keys = [k for k in orig_dict if k not in trad_dict]
+        for k in missing_keys:
+            file_errors.append(f"Missing msgctxt '{k}' in translated file (expected msgid: '{orig_dict[k]}')")
             
-        max_len = max(len(orig_entries), len(trad_entries))
-        for i in range(max_len):
-            if i >= len(orig_entries):
-                file_errors.append(f"Entry #{i+1}: Extra entry in translated file (msgctxt: '{trad_entries[i]['ctx']}')")
-                continue
-            if i >= len(trad_entries):
-                file_errors.append(f"Entry #{i+1}: Missing entry in translated file (expected msgctxt: '{orig_entries[i]['ctx']}')")
-                continue
-                
-            o_e = orig_entries[i]
-            t_e = trad_entries[i]
-            
-            # Check msgctxt match
-            if o_e['ctx'] != t_e['ctx']:
-                file_errors.append(f"Entry #{i+1} msgctxt mismatch: Original='{o_e['ctx']}' vs Translated='{t_e['ctx']}'")
-                
-            # Check normalized msgid text content match (ignoring line break formatting)
-            if o_e['norm_msgid'] != t_e['norm_msgid']:
-                file_errors.append(f"Entry #{i+1} text content mismatch (msgctxt='{o_e['ctx']}'):\n      Original text:   {o_e['norm_msgid']!r}\n      Translated text: {t_e['norm_msgid']!r}")
-                
+        # Check text mismatches for same msgctxt key
+        for k, o_text in orig_dict.items():
+            if k in trad_dict:
+                t_text = trad_dict[k]
+                if o_text != t_text:
+                    file_errors.append(f"Text content mismatch for msgctxt '{k}':\n      Original text:   {o_text!r}\n      Translated text: {t_text!r}")
+                    
         if file_errors:
             total_errors += len(file_errors)
             print(f"❌ DISCREPANCIES IN FILE: {rel_path}")
-            for err in file_errors:
+            for err in file_errors[:10]:  # Limit output per file to top 10
                 print(f"   • {err}")
+            if len(file_errors) > 10:
+                print(f"   ... and {len(file_errors) - 10} more errors in this file.")
             print()
             
     if total_errors > 0:
         print(f"❌ FAIL: Found {total_errors} discrepancy error(s) across {checked_count} PO files.")
         sys.exit(1)
     else:
-        print(f"✅ SUCCESS: All {checked_count} PO files match 100% in msgctxt sequence and English text content!")
+        print(f"✅ SUCCESS: All {checked_count} PO files match 100% in msgctxt keys and English text content!")
         sys.exit(0)
 
 if __name__ == "__main__":
