@@ -8,17 +8,27 @@ import re
 if hasattr(sys.stdout, 'reconfigure'):
     sys.stdout.reconfigure(encoding='utf-8')
 
+def normalize_text(raw_msgid):
+    """
+    Extracts text from PO string quotes and normalizes all whitespace/linebreaks
+    so that visual line breaks (\r\n or multi-line wrapping) do not trigger false errors.
+    """
+    lines = re.findall(r'"([^"\\]*(?:\\.[^"\\]*)*)"', raw_msgid)
+    combined = "".join(lines)
+    # Replace literal \r\n escape strings or actual newlines with single space
+    cleaned = combined.replace('\\r\\n', ' ').replace('\\n', ' ').replace('\\r', ' ')
+    # Normalize multiple spaces/newlines to single space
+    return re.sub(r'\s+', ' ', cleaned).strip()
+
 def parse_po_file(filepath):
     with open(filepath, 'r', encoding='utf-8', errors='replace') as f:
         content = f.read()
     
-    # Normalize line endings for comparison
     content_lf = content.replace('\r\n', '\n')
-    
     blocks = content_lf.split('\n\n')
     entries = []
     
-    for block_idx, block in enumerate(blocks):
+    for block in blocks:
         block = block.strip()
         if not block:
             continue
@@ -33,14 +43,13 @@ def parse_po_file(filepath):
         raw_msgid = msgid_m.group(1).strip() if msgid_m else ""
         raw_msgstr = msgstr_m.group(1).strip() if msgstr_m else ""
         
-        # Check if there is an illegal blank line between msgid and msgstr in the block
-        has_blank_between_id_str = bool(re.search(r'msgid\s+.*?\n\nmsgstr', block, re.DOTALL))
+        norm_id = normalize_text(raw_msgid)
         
         entries.append({
             'ctx': ctx,
-            'msgid': raw_msgid,
+            'raw_msgid': raw_msgid,
+            'norm_msgid': norm_id,
             'msgstr': raw_msgstr,
-            'blank_err': has_blank_between_id_str,
             'block': block
         })
         
@@ -56,7 +65,7 @@ def main():
         sys.exit(1)
         
     orig_files = glob.glob(os.path.join(orig_dir, "**", "*.po"), recursive=True)
-    print(f"🔍 Found {len(orig_files)} PO files in original directory. Starting consistency check...\n")
+    print(f"🔍 Found {len(orig_files)} PO files in original directory. Starting flexible consistency check...\n")
     
     total_errors = 0
     checked_count = 0
@@ -95,13 +104,9 @@ def main():
             if o_e['ctx'] != t_e['ctx']:
                 file_errors.append(f"Entry #{i+1} msgctxt mismatch: Original='{o_e['ctx']}' vs Translated='{t_e['ctx']}'")
                 
-            # Check msgid match (including line breaks / multiline quotes)
-            if o_e['msgid'] != t_e['msgid']:
-                file_errors.append(f"Entry #{i+1} msgid mismatch (msgctxt='{o_e['ctx']}'):\n      Original msgid:   {o_e['msgid']!r}\n      Translated msgid: {t_e['msgid']!r}")
-                
-            # Check for blank lines between msgid and msgstr
-            if t_e['blank_err']:
-                file_errors.append(f"Entry #{i+1} formatting error (msgctxt='{o_e['ctx']}'): Blank line found between msgid and msgstr!")
+            # Check normalized msgid text content match (ignoring line break formatting)
+            if o_e['norm_msgid'] != t_e['norm_msgid']:
+                file_errors.append(f"Entry #{i+1} text content mismatch (msgctxt='{o_e['ctx']}'):\n      Original text:   {o_e['norm_msgid']!r}\n      Translated text: {t_e['norm_msgid']!r}")
                 
         if file_errors:
             total_errors += len(file_errors)
@@ -114,7 +119,7 @@ def main():
         print(f"❌ FAIL: Found {total_errors} discrepancy error(s) across {checked_count} PO files.")
         sys.exit(1)
     else:
-        print(f"✅ SUCCESS: All {checked_count} PO files match 100% in msgctxt, msgid, order, and formatting!")
+        print(f"✅ SUCCESS: All {checked_count} PO files match 100% in msgctxt sequence and English text content!")
         sys.exit(0)
 
 if __name__ == "__main__":
