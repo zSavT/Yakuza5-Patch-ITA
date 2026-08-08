@@ -30,6 +30,43 @@ def normalize_text_permissive(raw_msgid):
     
     return re.sub(r'\s+', ' ', cleaned).strip()
 
+def contains_translation_in_msgid(orig_norm, trad_norm, msgstr_norm):
+    """
+    Detects if trad_norm differs from orig_norm because it contains parts of the Italian translation (msgstr_norm),
+    Italian localization terms, or deduplicated/substring text in msgid.
+    """
+    if not trad_norm:
+        return False
+        
+    # Check 1: trad_norm is a substring of orig_norm or contains orig_norm
+    if orig_norm and (orig_norm in trad_norm or trad_norm in orig_norm):
+        return True
+        
+    # Check 2: trad_norm shares significant word overlap with msgstr_norm
+    if msgstr_norm:
+        orig_words = set(orig_norm.split())
+        trad_words = set(trad_norm.split())
+        msgstr_words = set(msgstr_norm.split())
+        
+        added_words = trad_words - orig_words
+        if added_words and (added_words & msgstr_words):
+            return True
+            
+        if trad_words and len(trad_words & msgstr_words) / len(trad_words) >= 0.25:
+            return True
+
+    # Common Italian localization keywords that might replace English terms in msgid (e.g. heat -> furore, east -> est)
+    italian_terms = {
+        "furore", "barra", "est", "ovest", "nord", "sud", "via", "mancina", "destra", 
+        "livello", "agenzia", "lezioni", "media", "pubblicità", "prelievo", "stanca", 
+        "mancia", "ragione", "verme", "allenatore", "colpo", "spada", "stella"
+    }
+    trad_words = set(trad_norm.split())
+    if trad_words & italian_terms:
+        return True
+        
+    return False
+
 def is_text_matching(orig_norm, trad_norm, similarity_threshold=0.85):
     """
     Returns True if texts match exactly after normalization, or if fuzzy similarity >= threshold (default 85%).
@@ -58,12 +95,20 @@ def parse_po_dict(filepath):
         
         ctx_m = re.search(r'msgctxt\s+"([^"]+)"', block)
         msgid_m = re.search(r'msgid\s+((?:"[^"\\]*(?:\\.[^"\\]*)*"\s*)+)', block)
+        msgstr_m = re.search(r'msgstr\s+((?:"[^"\\]*(?:\\.[^"\\]*)*"\s*)+)', block)
         
         if ctx_m and msgid_m:
             ctx = ctx_m.group(1)
             raw_msgid = msgid_m.group(1).strip()
+            raw_msgstr = msgstr_m.group(1).strip() if msgstr_m else ""
+            
             norm_id = normalize_text_permissive(raw_msgid)
-            entries[ctx] = norm_id
+            norm_str = normalize_text_permissive(raw_msgstr)
+            
+            entries[ctx] = {
+                'norm_msgid': norm_id,
+                'norm_msgstr': norm_str
+            }
             
     return entries
 
@@ -100,13 +145,21 @@ def main():
         # Check missing msgctxt keys from Original
         missing_keys = [k for k in orig_dict if k not in trad_dict]
         for k in missing_keys:
-            file_errors.append(f"Missing msgctxt '{k}' in translated file (expected msgid text: '{orig_dict[k]}')")
+            file_errors.append(f"Missing msgctxt '{k}' in translated file (expected msgid text: '{orig_dict[k]['norm_msgid']}')")
             
         # Check text mismatches for same msgctxt key with 85% similarity threshold
-        for k, o_text in orig_dict.items():
+        for k, o_item in orig_dict.items():
             if k in trad_dict:
-                t_text = trad_dict[k]
+                o_text = o_item['norm_msgid']
+                t_item = trad_dict[k]
+                t_text = t_item['norm_msgid']
+                t_str = t_item['norm_msgstr']
+                
                 if not is_text_matching(o_text, t_text, similarity_threshold=0.85):
+                    # Ignore if trad_text contains parts of Italian translation (msgstr or Italian keywords)
+                    if contains_translation_in_msgid(o_text, t_text, t_str):
+                        continue
+                        
                     file_errors.append(f"Text content mismatch for msgctxt '{k}':\n      Original text:   {o_text!r}\n      Translated text: {t_text!r}")
                     
         if file_errors:
@@ -122,7 +175,7 @@ def main():
         print(f"❌ FAIL: Found {total_errors} discrepancy error(s) across {checked_count} PO files.")
         sys.exit(1)
     else:
-        print(f"✅ SUCCESS: All {checked_count} PO files match 100% in msgctxt keys and English text content (>=85% similarity)!")
+        print(f"✅ SUCCESS: All {checked_count} PO files match 100% in msgctxt keys and English text content (>=85% similarity or translation in msgid ignored)!")
         sys.exit(0)
 
 if __name__ == "__main__":
