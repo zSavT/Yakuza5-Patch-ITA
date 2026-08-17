@@ -10,7 +10,7 @@
 
 
 Il "progetto" è nato totalmente a caso e spinto dalla mia curiosità di riuscire a modificare i testi del gioco, dopo aver provato la Patch per Yakuza 0 sviluppata da [Rulesless](https://letraduzionidirulesless.wordpress.com/yakuza0-2/). <br> La mia ricerca è iniziata cercando sul web l'esistenza di altre patch di traduzioni in altre lingue, per poter analizzare la patch e comprendere più velocemente quali siano i file contenenti i testi del gioco.<br> Per questo motivo ho iniziato ad analizzare la [patch spagnola](https://steamcommunity.com/sharedfiles/filedetails/?id=3385318071) del gioco.<p>
-Analizzando i file, mi sono accorto che il gioco utilizza principalmente i file _PAR_ e _BIN_ (con varianti di questi ultimi in alcuni casi).I file PAR contengono i principali dati del gioco (immagini, animazioni ecc...) e lo stesso vale per i file BIN. Su GitHub ho casualmente trovato alcune repo che permettono di scompattare e ricompattare questi file; in tal modo ho iniziato a comprendere come muovere i primi passi per la traduzione dei testi del gioco.
+Analizzando i file, mi sono accorto che il gioco utilizza principalmente i file _PAR_ e _BIN_ (con varianti di questi ultimi in alcuni casi).I file PAR contengono i principali dati del gioco (immagini, animazioni, ecc...) e lo stesso vale per i file BIN. Su GitHub ho casualmente trovato alcune repo che permettono di scompattare e ricompattare questi file; in tal modo ho iniziato a comprendere come muovere i primi passi per la traduzione dei testi del gioco.
 
 # Immagini Patch
 
@@ -132,7 +132,7 @@ Per poter generare l'eseguibile dello script bisogna utilizzare la libreria "__p
 
 Per generare l'eseguibile dell'installer per Windows, bisogna utilizzare il seguente comando:
 ```ps
-pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "chiave.txt:." installer.py
+pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/Logo.ico --add-data "assets:assets" --add-data "patch.pkg:." --add-data "chiave.txt:." installer.py
 ```
 
 Nella cartella "_dist_", è presente l'eseguibile.
@@ -179,7 +179,7 @@ pip install pyinstaller PyQt6 pyzipper
 Con l'ambiente venv attivo, avvia il comando per la creazione del file eseguibile:
 
 ```Bash
-pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "chiave.txt:." installer.py
+pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/Logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "chiave.txt:." installer.py
 ```
 Una volta terminato, puoi uscire dall'ambiente:
 
